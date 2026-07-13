@@ -31,6 +31,34 @@ set OPENSTATES_API_KEY=your-key-here
 python collectors\openstates_bills.py
 ```
 
+The collector fetches **all bills per session** and filters locally for water-related terms. It does **not** rely on OpenStates full-text search (`q=`), which has returned zero Nevada results in prior runs.
+
+## Diagnose OpenStates API (recommended first step)
+
+If collection returns zero bills, run the diagnostic before changing config:
+
+```bash
+export OPENSTATES_API_KEY=your-key-here
+python collectors/diagnose_openstates.py
+```
+
+Output:
+
+```
+sources/nevada/water-scarcity/verification/openstates-diagnostic.json
+sources/nevada/water-scarcity/verification/openstates-diagnostic.txt
+```
+
+### Run diagnostic via GitHub Actions
+
+1. Confirm `OPENSTATES_API_KEY` is set under Settings → Secrets and variables → Actions.
+2. Go to the **Actions** tab.
+3. Select **Diagnose OpenStates Nevada**.
+4. Click **Run workflow**.
+5. Download the `openstates-nevada-diagnostic` artifact when the run completes.
+
+The workflow runs the diagnostic, then runs `openstates_bills.py` with the fetch-all strategy, and uploads both reports.
+
 ## Expected output files
 
 ```
@@ -54,6 +82,12 @@ python collectors/json_to_appendix.py
 Output: `briefs/nevada/water-scarcity/version-0/appendix-a-bills.md`
 
 ## Run via GitHub Actions (cloud)
+
+**Diagnose OpenStates (start here if bills are empty):**
+
+1. Actions → **Diagnose OpenStates Nevada** → Run workflow.
+
+**Full collection:**
 
 1. Add `OPENSTATES_API_KEY` as a repository secret (Settings → Secrets and variables → Actions).
 2. Go to the **Actions** tab.
@@ -81,5 +115,5 @@ Run the agent pipeline in order. See `agents/README.md`.
 |---------|----------|
 | `Missing OPENSTATES_API_KEY` | Set the environment variable before running |
 | `python not found` | Reinstall Python with "Add to PATH" checked |
-| Zero bills returned | Nevada uses OpenStates session ids **80, 81, 82, 83** (not 2019–2025). See `config/issues/nevada-water-scarcity.yaml` |
+| Zero bills returned | Run `python collectors/diagnose_openstates.py` first. Nevada uses OpenStates session ids **80, 81, 82, 83** (not 2019–2025). See `config/issues/nevada-water-scarcity.yaml` |
 | HTTP 401 or 403 | Verify your OpenStates key is active |
