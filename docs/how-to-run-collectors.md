@@ -81,5 +81,5 @@ Run the agent pipeline in order. See `agents/README.md`.
 |---------|----------|
 | `Missing OPENSTATES_API_KEY` | Set the environment variable before running |
 | `python not found` | Reinstall Python with "Add to PATH" checked |
-| Zero bills returned | Check search terms in `config/issues/nevada-water-scarcity.yaml` |
+| Zero bills returned | Nevada uses OpenStates session ids **80, 81, 82, 83** (not 2019–2025). See `config/issues/nevada-water-scarcity.yaml` |
 | HTTP 401 or 403 | Verify your OpenStates key is active |

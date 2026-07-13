@@ -35,17 +35,65 @@ def get_api_key() -> str:
     return api_key
 
 
-def search_bills(api_key: str, jurisdiction: str, session: str, search_term: str) -> dict:
-    params = {
-        "jurisdiction": jurisdiction,
-        "session": session,
-        "q": search_term,
-        "per_page": 20,
-        "apikey": api_key,
-    }
-    response = requests.get(OPENSTATES_BASE_URL, params=params, timeout=60)
-    response.raise_for_status()
-    return response.json()
+def normalize_sessions(config: dict) -> list[dict]:
+    """Return session entries with openstates_identifier and label."""
+    sessions = config.get("sessions", [])
+    normalized = []
+    for entry in sessions:
+        if isinstance(entry, dict):
+            normalized.append(entry)
+        else:
+            # Backward compatibility: bare year strings are not valid for Nevada.
+            normalized.append(
+                {
+                    "label": str(entry),
+                    "openstates_identifier": str(entry),
+                    "name": str(entry),
+                }
+            )
+    return normalized
+
+
+def search_bills(
+    api_key: str,
+    jurisdiction: str,
+    session_identifier: str,
+    search_term: str,
+) -> list[dict]:
+    """Search OpenStates and follow pagination until all results are collected."""
+    headers = {"X-API-KEY": api_key}
+    page = 1
+    per_page = 20
+    all_results: list[dict] = []
+
+    while True:
+        params = {
+            "jurisdiction": jurisdiction,
+            "session": session_identifier,
+            "q": search_term,
+            "per_page": per_page,
+            "page": page,
+            "apikey": api_key,
+        }
+        response = requests.get(
+            OPENSTATES_BASE_URL,
+            params=params,
+            headers=headers,
+            timeout=60,
+        )
+        response.raise_for_status()
+        data = response.json()
+        results = data.get("results", [])
+        all_results.extend(results)
+
+        pagination = data.get("pagination") or {}
+        max_page = pagination.get("max_page", page)
+        if page >= max_page or not results:
+            break
+        page += 1
+        time.sleep(1)
+
+    return all_results
 
 
 def sha256_bytes(data: bytes) -> str:
@@ -109,23 +157,32 @@ def main() -> None:
     RAW_DIR.mkdir(parents=True, exist_ok=True)
 
     jurisdiction = config["state"]
+    sessions = normalize_sessions(config)
     all_bills: dict[str, dict] = {}
     manifest_items: list[dict] = []
     source_counter = 1
 
-    for session in config["sessions"]:
+    for session_entry in sessions:
+        session_id = session_entry["openstates_identifier"]
+        session_label = session_entry.get("label", session_id)
+        session_name = session_entry.get("name", session_label)
         for term in config["search_terms"]:
-            print(f"Searching {jurisdiction} session {session} for: {term}")
+            print(
+                f"Searching {jurisdiction} session {session_label} "
+                f"(OpenStates id={session_id}, {session_name}) for: {term}"
+            )
             try:
-                data = search_bills(api_key, jurisdiction, session, term)
-                results = data.get("results", [])
+                results = search_bills(api_key, jurisdiction, session_id, term)
+                print(f"  -> found {len(results)} bills")
                 manifest_items.append(
                     {
                         "source_key": f"S-{source_counter:03d}",
                         "type": "bill_search",
                         "url": OPENSTATES_BASE_URL,
                         "search_term": term,
-                        "session": session,
+                        "session_label": session_label,
+                        "openstates_session_identifier": session_id,
+                        "session_name": session_name,
                         "bill_count": len(results),
                         "http_status": 200,
                         "notes": "",
@@ -142,9 +199,11 @@ def main() -> None:
                         "type": "bill_search",
                         "url": OPENSTATES_BASE_URL,
                         "search_term": term,
-                        "session": session,
+                        "session_label": session_label,
+                        "openstates_session_identifier": session_id,
+                        "session_name": session_name,
                         "bill_count": 0,
-                        "http_status": None,
+                        "http_status": getattr(exc.response, "status_code", None),
                         "notes": str(exc),
                     }
                 )
