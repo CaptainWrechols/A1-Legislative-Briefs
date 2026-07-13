@@ -31,9 +31,14 @@ set OPENSTATES_API_KEY=your-key-here
 python collectors\openstates_bills.py
 ```
 
-The collector runs **per-term full-text search** (`q=water`, etc.) for each session, with pagination retries and **partial results kept** if a page times out. It does not fetch every bill in a session (that approach hit OpenStates gateway timeouts).
+The collector:
 
-Note: OpenStates full-text search can be flaky; if results are empty, run `python collectors/diagnose_openstates.py` and re-run later, or use the NELIS collector as fallback.
+1. Runs **per-term full-text search** (`q=water`, etc.) with pagination retries and partial results on timeouts
+2. Applies a **local water-relevance filter** (OpenStates full-text is broader than NELIS title/summary search — see troubleshooting)
+3. **Enriches each relevant bill** with `actions`, `votes`, and `sponsorships`
+4. Writes derived files: `bill-actions.json`, `bill-votes.json`, `bill-sponsors.json`, `bill-legislative-progress.json`
+
+Note: OpenStates can be flaky (502/504). If results are empty, run `python collectors/diagnose_openstates.py` and re-run later, or use the NELIS collector as a discovery fallback.
 
 ## Diagnose OpenStates API (recommended first step)
 
@@ -118,4 +123,6 @@ Run the agent pipeline in order. See `agents/README.md`.
 | `Missing OPENSTATES_API_KEY` | Set the environment variable before running |
 | `python not found` | Reinstall Python with "Add to PATH" checked |
 | Zero bills returned | Run `python collectors/diagnose_openstates.py` first. Nevada uses OpenStates session ids **80, 81, 82, 83** (not 2019–2025). See `config/issues/nevada-water-scarcity.yaml` |
+| OpenStates returns far more bills than NELIS | Expected: OpenStates `q=` searches **full bill text**; NELIS matches titles/summaries. The collector writes all hits to `bills-search-candidates.json` and water-relevant bills to `bills-combined.json`. |
+| Votes/sponsors empty | Confirm the latest collector ran (detail enrichment). Check `bill-votes.json` / `bill-sponsors.json` and `bills_with_vote_events` in `manifest.json`. |
 | HTTP 401 or 403 | Verify your OpenStates key is active |
