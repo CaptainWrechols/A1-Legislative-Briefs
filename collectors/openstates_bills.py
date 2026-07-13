@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
-"""Collect Nevada legislative bills from OpenStates API for a configured issue."""
+"""Collect Nevada legislative bills from OpenStates API for a configured issue.
+
+Strategy:
+1. Per-term full-text search (q=) with partial pagination on timeouts
+2. Local title/abstract relevance filter (OpenStates full-text is broader than NELIS)
+3. Per-bill detail fetch with actions, votes, and sponsorships
+4. Derive legislative-progress milestones used by briefing agents
+"""
 
 from __future__ import annotations
 
@@ -22,6 +29,23 @@ OPENSTATES_BASE_URL = "https://v3.openstates.org/bills"
 PER_PAGE = 20
 PAGE_DELAY_SECONDS = 1.0
 SEARCH_DELAY_SECONDS = 1.5
+DETAIL_DELAY_SECONDS = 0.75
+DETAIL_INCLUDES = ["actions", "votes", "sponsorships", "abstracts"]
+
+# Narrow terms → bill is relevant if any appear in title/abstract.
+CORE_TITLE_TERMS = [
+    "water",
+    "groundwater",
+    "colorado river",
+    "consumptive use",
+    "water rights",
+    "snwa",
+    "aquifer",
+    "irrigation",
+    "drought",
+    "wastewater",
+    "reclaimed water",
+]
 
 
 def load_config() -> dict:
@@ -65,6 +89,26 @@ def normalize_sessions(config: dict) -> list[dict]:
 
 def bill_key(bill: dict) -> str:
     return str(bill.get("id") or f"{bill.get('session')}:{bill.get('identifier')}")
+
+
+def bill_title_abstract_blob(bill: dict) -> str:
+    parts = [bill.get("title") or ""]
+    for abstract in bill.get("abstracts") or []:
+        parts.append(abstract.get("abstract") or "")
+    return " ".join(parts).lower()
+
+
+def is_water_relevant(bill: dict) -> bool:
+    """Local filter so OpenStates full-text hits approximate NELIS title/summary focus."""
+    blob = bill_title_abstract_blob(bill)
+    title = (bill.get("title") or "").lower()
+    has_core = any(term in blob for term in CORE_TITLE_TERMS)
+    if has_core:
+        return True
+    # Keep explicit data-center search matches even without "water" in title.
+    if "data center" in title or "data centers" in title:
+        return True
+    return False
 
 
 def paginate_bills(
@@ -154,6 +198,256 @@ def search_bills_by_term(
     )
 
 
+def fetch_bill_detail(api_key: str, bill: dict, max_retries: int = 3) -> dict | None:
+    """Load actions, votes, and sponsorships for one bill."""
+    headers = {"X-API-KEY": api_key}
+    bill_id = bill.get("id")
+    if bill_id and str(bill_id).startswith("ocd-bill/"):
+        url = f"{OPENSTATES_BASE_URL}/{bill_id}"
+    else:
+        jurisdiction = "Nevada"
+        juris = bill.get("jurisdiction") or {}
+        if isinstance(juris, dict) and juris.get("name"):
+            jurisdiction = juris["name"]
+        session = bill.get("session")
+        identifier = bill.get("identifier")
+        if not session or not identifier:
+            return None
+        url = f"{OPENSTATES_BASE_URL}/{jurisdiction}/{session}/{identifier}"
+
+    # requests encodes repeated include keys correctly when passed as a list of tuples
+    query = [("apikey", api_key)] + [("include", item) for item in DETAIL_INCLUDES]
+
+    last_error: requests.RequestException | None = None
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, params=query, headers=headers, timeout=120)
+            response.raise_for_status()
+            return response.json()
+        except requests.RequestException as exc:
+            last_error = exc
+            wait = 2**attempt
+            print(f"  detail {bill.get('identifier')} attempt {attempt + 1} failed ({exc}); retry in {wait}s")
+            time.sleep(wait)
+    print(f"  detail {bill.get('identifier')}: failed ({last_error})")
+    return None
+
+
+def org_name(org: object) -> str:
+    if isinstance(org, dict):
+        return org.get("name") or org.get("classification") or ""
+    return str(org or "")
+
+
+def org_classification(org: object) -> str:
+    if isinstance(org, dict):
+        return (org.get("classification") or "").lower()
+    return ""
+
+
+def action_flags(actions: list[dict]) -> dict:
+    """Derive chamber/committee progression milestones from OpenStates actions."""
+    flags = {
+        "introduced": False,
+        "referred_to_committee": False,
+        "committee_vote_origin_chamber": False,
+        "floor_vote_origin_chamber": False,
+        "passed_origin_chamber": False,
+        "crossed_over": False,
+        "committee_vote_second_chamber": False,
+        "floor_vote_second_chamber": False,
+        "passed_second_chamber": False,
+        "enrolled": False,
+        "sent_to_governor": False,
+        "signed_into_law": False,
+        "vetoed": False,
+        "failed": False,
+    }
+    first_chamber = ""
+    for action in actions:
+        classes = {str(c).lower() for c in (action.get("classification") or [])}
+        desc = (action.get("description") or "").lower()
+        org_class = org_classification(action.get("organization"))
+        if not first_chamber and org_class in {"upper", "lower"}:
+            first_chamber = org_class
+
+        if "introduction" in classes or "filing" in classes:
+            flags["introduced"] = True
+        if "referral-committee" in classes or "referred to" in desc:
+            flags["referred_to_committee"] = True
+
+        is_committee_org = "committee" in org_class or "committee" in org_name(action.get("organization")).lower()
+        is_passage = "passage" in classes or "committee-passage" in classes
+        is_failure = "failure" in classes or "committee-failure" in classes
+
+        if is_committee_org and (is_passage or "do pass" in desc or "without recommendation" in desc):
+            if not flags["passed_origin_chamber"] and not flags["crossed_over"]:
+                flags["committee_vote_origin_chamber"] = True
+            else:
+                flags["committee_vote_second_chamber"] = True
+
+        floorish = org_class in {"upper", "lower"} and not is_committee_org
+        if floorish and (is_passage or "passed" in desc):
+            if first_chamber and org_class == first_chamber and not flags["crossed_over"]:
+                flags["floor_vote_origin_chamber"] = True
+                flags["passed_origin_chamber"] = True
+            elif flags["crossed_over"] or (first_chamber and org_class != first_chamber):
+                flags["floor_vote_second_chamber"] = True
+                flags["passed_second_chamber"] = True
+            else:
+                flags["floor_vote_origin_chamber"] = True
+                flags["passed_origin_chamber"] = True
+
+        if "became-law" in classes or "executive-signature" in classes or "approved by the governor" in desc:
+            flags["signed_into_law"] = True
+        if "executive-receipt" in classes or "delivered to governor" in desc or "enrolled and delivered" in desc:
+            flags["sent_to_governor"] = True
+        if "enrolled" in desc:
+            flags["enrolled"] = True
+        if "veto" in classes or "vetoed" in desc:
+            flags["vetoed"] = True
+        if is_failure or "no further action" in desc:
+            flags["failed"] = True
+        if flags["passed_origin_chamber"] and (
+            "in senate" in desc
+            or "in assembly" in desc
+            or "to senate" in desc
+            or "to assembly" in desc
+        ):
+            flags["crossed_over"] = True
+
+    return flags
+
+
+def summarize_progress(bill: dict) -> dict:
+    actions = bill.get("actions") or []
+    votes = bill.get("votes") or []
+    flags = action_flags(actions)
+
+    # Vote-event based refinement (committee vs chamber body).
+    for vote in votes:
+        org_class = org_classification(vote.get("organization"))
+        org = org_name(vote.get("organization")).lower()
+        result = (vote.get("result") or "").lower()
+        passed = result in {"pass", "passed"}
+        is_committee = "committee" in org_class or "committee" in org
+        if is_committee and passed:
+            if flags["crossed_over"] or flags["passed_origin_chamber"]:
+                flags["committee_vote_second_chamber"] = True
+            else:
+                flags["committee_vote_origin_chamber"] = True
+        if not is_committee and org_class in {"upper", "lower"} and passed:
+            if flags["crossed_over"] or flags["passed_origin_chamber"]:
+                flags["floor_vote_second_chamber"] = True
+                flags["passed_second_chamber"] = True
+            else:
+                flags["floor_vote_origin_chamber"] = True
+                flags["passed_origin_chamber"] = True
+
+    latest = (bill.get("latest_action_description") or "").lower()
+    if "approved by the governor" in latest or "chapter" in latest:
+        flags["signed_into_law"] = True
+
+    return {
+        "session": bill.get("session"),
+        "bill_identifier": bill.get("identifier"),
+        "title": bill.get("title"),
+        "openstates_url": bill.get("openstates_url"),
+        "latest_action_date": bill.get("latest_action_date"),
+        "latest_action_description": bill.get("latest_action_description"),
+        "latest_passage_date": bill.get("latest_passage_date"),
+        "action_count": len(actions),
+        "vote_event_count": len(votes),
+        "sponsor_count": len(bill.get("sponsorships") or []),
+        **flags,
+    }
+
+
+def flatten_actions(bills: list[dict]) -> list[dict]:
+    rows = []
+    for bill in bills:
+        identifier = bill.get("identifier", "")
+        session = bill.get("session", "")
+        for action in bill.get("actions") or []:
+            rows.append(
+                {
+                    "session": session,
+                    "bill_identifier": identifier,
+                    "date": action.get("date"),
+                    "organization": org_name(action.get("organization")),
+                    "organization_classification": org_classification(action.get("organization")),
+                    "description": action.get("description"),
+                    "classification": action.get("classification"),
+                }
+            )
+    return rows
+
+
+def flatten_votes(bills: list[dict]) -> list[dict]:
+    """One row per vote event, with yes/no/other voter name lists when available."""
+    rows = []
+    for bill in bills:
+        identifier = bill.get("identifier", "")
+        session = bill.get("session", "")
+        for vote in bill.get("votes") or []:
+            yes_voters: list[str] = []
+            no_voters: list[str] = []
+            other_voters: list[str] = []
+            for ballot in vote.get("votes") or []:
+                name = ballot.get("voter_name") or ""
+                option = (ballot.get("option") or "").lower()
+                if option in {"yes", "aye"}:
+                    yes_voters.append(name)
+                elif option in {"no", "nay"}:
+                    no_voters.append(name)
+                else:
+                    other_voters.append(f"{name}:{option}" if name else option)
+
+            rows.append(
+                {
+                    "session": session,
+                    "bill_identifier": identifier,
+                    "vote_id": vote.get("id"),
+                    "date": vote.get("start_date"),
+                    "motion_text": vote.get("motion_text"),
+                    "result": vote.get("result"),
+                    "organization": org_name(vote.get("organization")),
+                    "organization_classification": org_classification(vote.get("organization")),
+                    "counts": vote.get("counts"),
+                    "yes_voters": yes_voters,
+                    "no_voters": no_voters,
+                    "other_voters": other_voters,
+                    "yes_count": len(yes_voters),
+                    "no_count": len(no_voters),
+                }
+            )
+    return rows
+
+
+def flatten_sponsors(bills: list[dict]) -> list[dict]:
+    rows = []
+    for bill in bills:
+        identifier = bill.get("identifier", "")
+        session = bill.get("session", "")
+        for sponsor in bill.get("sponsorships") or []:
+            entity = sponsor.get("entity") or {}
+            person = sponsor.get("person") or {}
+            rows.append(
+                {
+                    "session": session,
+                    "bill_identifier": identifier,
+                    "name": sponsor.get("name") or person.get("name") or entity.get("name"),
+                    "classification": sponsor.get("classification"),  # primary / cosponsor
+                    "primary": bool(sponsor.get("primary")),
+                    "entity_type": sponsor.get("entity_type"),
+                    "party": (person.get("party") if isinstance(person, dict) else None)
+                    or (entity.get("party") if isinstance(entity, dict) else None),
+                    "person_id": person.get("id") if isinstance(person, dict) else None,
+                }
+            )
+    return rows
+
+
 def sha256_bytes(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
@@ -170,44 +464,6 @@ def download_url(url: str, dest: Path) -> dict:
     }
 
 
-def flatten_actions(bills: list[dict]) -> list[dict]:
-    rows = []
-    for bill in bills:
-        identifier = bill.get("identifier", "")
-        session = bill.get("session", "")
-        for action in bill.get("actions") or []:
-            rows.append(
-                {
-                    "session": session,
-                    "bill_identifier": identifier,
-                    "date": action.get("date"),
-                    "organization": action.get("organization"),
-                    "description": action.get("description"),
-                    "classification": action.get("classification"),
-                }
-            )
-    return rows
-
-
-def flatten_votes(bills: list[dict]) -> list[dict]:
-    rows = []
-    for bill in bills:
-        identifier = bill.get("identifier", "")
-        session = bill.get("session", "")
-        for vote in bill.get("votes") or []:
-            rows.append(
-                {
-                    "session": session,
-                    "bill_identifier": identifier,
-                    "date": vote.get("start_date"),
-                    "motion_text": vote.get("motion_text"),
-                    "result": vote.get("result"),
-                    "counts": vote.get("counts"),
-                }
-            )
-    return rows
-
-
 def main() -> None:
     config = load_config()
     api_key = get_api_key()
@@ -217,7 +473,7 @@ def main() -> None:
     jurisdiction = config.get("openstates_jurisdiction") or "Nevada"
     search_terms = config["search_terms"]
     sessions = normalize_sessions(config)
-    all_bills: dict[str, dict] = {}
+    candidate_bills: dict[str, dict] = {}
     manifest_items: list[dict] = []
     source_counter = 1
 
@@ -279,19 +535,46 @@ def main() -> None:
             time.sleep(SEARCH_DELAY_SECONDS)
 
         for key, bill in session_unique.items():
-            all_bills[key] = bill
+            candidate_bills[key] = bill
         print(f"  session total unique bills: {len(session_unique)}")
         time.sleep(1)
 
-    bills_list = list(all_bills.values())
+    candidates_list = list(candidate_bills.values())
+    relevant = [b for b in candidates_list if is_water_relevant(b)]
+    print(
+        f"Candidates from OpenStates full-text: {len(candidates_list)}; "
+        f"after local water-relevance filter: {len(relevant)}"
+    )
+
+    candidates_path = OUTPUT_DIR / "bills-search-candidates.json"
+    candidates_path.write_text(json.dumps(candidates_list, indent=2), encoding="utf-8")
+
+    enriched: list[dict] = []
+    enrich_failures = 0
+    for index, bill in enumerate(relevant, start=1):
+        print(f"Enriching {index}/{len(relevant)}: {bill.get('identifier')} ({bill.get('session')})")
+        detail = fetch_bill_detail(api_key, bill)
+        if detail:
+            enriched.append(detail)
+        else:
+            enrich_failures += 1
+            enriched.append(bill)
+        time.sleep(DETAIL_DELAY_SECONDS)
+
     bills_path = OUTPUT_DIR / "bills-combined.json"
-    bills_path.write_text(json.dumps(bills_list, indent=2), encoding="utf-8")
+    bills_path.write_text(json.dumps(enriched, indent=2), encoding="utf-8")
 
-    actions_path = OUTPUT_DIR / "bill-actions.json"
-    actions_path.write_text(json.dumps(flatten_actions(bills_list), indent=2), encoding="utf-8")
+    actions = flatten_actions(enriched)
+    votes = flatten_votes(enriched)
+    sponsors = flatten_sponsors(enriched)
+    progress = [summarize_progress(b) for b in enriched]
 
-    votes_path = OUTPUT_DIR / "bill-votes.json"
-    votes_path.write_text(json.dumps(flatten_votes(bills_list), indent=2), encoding="utf-8")
+    (OUTPUT_DIR / "bill-actions.json").write_text(json.dumps(actions, indent=2), encoding="utf-8")
+    (OUTPUT_DIR / "bill-votes.json").write_text(json.dumps(votes, indent=2), encoding="utf-8")
+    (OUTPUT_DIR / "bill-sponsors.json").write_text(json.dumps(sponsors, indent=2), encoding="utf-8")
+    (OUTPUT_DIR / "bill-legislative-progress.json").write_text(
+        json.dumps(progress, indent=2), encoding="utf-8"
+    )
 
     statute_links = []
     for entry in config.get("statute_urls", []):
@@ -302,8 +585,9 @@ def main() -> None:
                 "source_key": entry.get("source_key"),
             }
         )
-    statutes_path = OUTPUT_DIR / "statute-links.json"
-    statutes_path.write_text(json.dumps(statute_links, indent=2), encoding="utf-8")
+    (OUTPUT_DIR / "statute-links.json").write_text(
+        json.dumps(statute_links, indent=2), encoding="utf-8"
+    )
 
     agency_docs = []
     for entry in config.get("agency_document_urls", []):
@@ -345,8 +629,13 @@ def main() -> None:
             )
         time.sleep(1)
 
-    agency_path = OUTPUT_DIR / "agency-documents.json"
-    agency_path.write_text(json.dumps(agency_docs, indent=2), encoding="utf-8")
+    (OUTPUT_DIR / "agency-documents.json").write_text(
+        json.dumps(agency_docs, indent=2), encoding="utf-8"
+    )
+
+    signed = sum(1 for row in progress if row.get("signed_into_law"))
+    with_votes = sum(1 for row in progress if row.get("vote_event_count", 0) > 0)
+    with_sponsors = sum(1 for row in progress if row.get("sponsor_count", 0) > 0)
 
     manifest = {
         "issue_id": config["issue_id"],
@@ -354,14 +643,35 @@ def main() -> None:
         "openstates_jurisdiction": jurisdiction,
         "collected_at": datetime.now(timezone.utc).isoformat(),
         "collector": "openstates_bills.py",
-        "collection_strategy": "per_term_q_search_with_partial_pagination",
-        "openstates_bill_count": len(bills_list),
+        "collection_strategy": "per_term_q_search_plus_detail_enrichment",
+        "openstates_candidate_count": len(candidates_list),
+        "openstates_relevant_count": len(relevant),
+        "openstates_bill_count": len(enriched),
+        "enrich_failures": enrich_failures,
+        "action_row_count": len(actions),
+        "vote_event_count": len(votes),
+        "sponsor_row_count": len(sponsors),
+        "bills_with_vote_events": with_votes,
+        "bills_with_sponsors": with_sponsors,
+        "bills_signed_into_law": signed,
+        "relevance_note": (
+            "OpenStates q= searches full bill text (broader than NELIS title/summary search). "
+            "bills-combined.json is locally filtered to water-relevant titles/abstracts; "
+            "bills-search-candidates.json retains the full OpenStates hit list."
+        ),
         "items": manifest_items,
     }
     MANIFEST_PATH.parent.mkdir(parents=True, exist_ok=True)
     MANIFEST_PATH.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
 
-    print(f"Done. Saved {len(bills_list)} bills to {bills_path}")
+    print(
+        f"Done. Saved {len(enriched)} relevant enriched bills "
+        f"({len(candidates_list)} full-text candidates) to {bills_path}"
+    )
+    print(
+        f"  actions={len(actions)} vote_events={len(votes)} sponsors={len(sponsors)} "
+        f"signed_into_law={signed} enrich_failures={enrich_failures}"
+    )
 
 
 if __name__ == "__main__":
