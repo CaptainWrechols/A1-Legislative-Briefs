@@ -69,7 +69,7 @@ def fetch_session_bills(
     """Fetch all bills for a jurisdiction and session (no full-text query)."""
     headers = {"X-API-KEY": api_key}
     page = 1
-    per_page = 50
+    per_page = 20
     all_results: list[dict] = []
 
     while True:
