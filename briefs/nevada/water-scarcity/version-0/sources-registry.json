@@ -1,0 +1,33 @@
+{
+  "issue_id": "nevada-04-water-scarcity",
+  "generated_at": "2026-07-13T17:23:06.964347+00:00",
+  "sources": [
+    {
+      "key": "S-NELIS",
+      "title": "Nevada Legislature NELIS bill search",
+      "url": "https://www.leg.state.nv.us/App/NELIS/",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md"
+      ]
+    },
+    {
+      "key": "S25",
+      "title": "LCB Data Centers Background Information",
+      "url": "https://www.leg.state.nv.us/App/InterimCommittee/REL/Document/32531",
+      "type": "agency_document"
+    },
+    {
+      "key": "S13",
+      "title": "Nevada Division of Water Resources - Water Planning",
+      "url": "https://water.nv.gov/programs/water-planning",
+      "type": "agency_document"
+    },
+    {
+      "key": "S2",
+      "title": "SNWA Where Your Water Comes From",
+      "url": "https://www.snwa.com/water-resources/where-water-comes-from/",
+      "type": "agency_document"
+    }
+  ]
+}

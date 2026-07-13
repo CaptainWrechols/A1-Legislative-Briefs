@@ -1,0 +1,28 @@
+{
+  "issue_id": "nevada-04-water-scarcity",
+  "verified_at": "2026-07-13T17:30:00+00:00",
+  "agent": "data-verifier",
+  "overall_status": "PASS_WITH_WARNINGS",
+  "checks": [
+    {
+      "check_id": "bills_present",
+      "status": "PASS",
+      "bill_count": 147
+    },
+    {
+      "check_id": "agency_documents",
+      "status": "PASS",
+      "notes": "Three agency PDFs collected"
+    },
+    {
+      "check_id": "bill_actions",
+      "status": "WARN",
+      "notes": "Action timelines not yet collected"
+    }
+  ],
+  "blocking_issues": [],
+  "warnings": [
+    "OpenStates returned zero bills; NELIS used as primary source",
+    "Bill disposition and vote data pending"
+  ]
+}

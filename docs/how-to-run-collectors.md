@@ -17,19 +17,30 @@ pip install -r requirements.txt
 
 ## Run the bill collector locally
 
-**Mac or Linux:**
+**Primary — Nevada NELIS (recommended):**
+
+```bash
+python collectors/nv_nelis_bills.py
+```
+
+This scrapes the Nevada Legislature Information System and typically returns 100+ water-related bills across the last four sessions.
+
+**Supplemental — OpenStates API (optional):**
 
 ```bash
 export OPENSTATES_API_KEY=your-key-here
 python collectors/openstates_bills.py
 ```
 
-**Windows Command Prompt:**
+Note: OpenStates full-text search has returned zero Nevada bills in testing; NELIS is the authoritative source.
 
-```cmd
-set OPENSTATES_API_KEY=your-key-here
-python collectors\openstates_bills.py
+## Run the brief pipeline after collection
+
+```bash
+python collectors/build_brief_pipeline.py
 ```
+
+This generates synthesis, analysis, executive summary draft, and appendices B–F in `briefs/nevada/water-scarcity/version-0/`.
 
 ## Expected output files
 

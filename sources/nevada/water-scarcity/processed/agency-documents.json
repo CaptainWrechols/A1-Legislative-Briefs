@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Nevada Legislative Counsel Bureau - Data Centers Background Information",
+    "url": "https://www.leg.state.nv.us/App/InterimCommittee/REL/Document/32531",
+    "source_key": "S25",
+    "http_status": 200,
+    "sha256": "13c8ff6449988e9915b4cceefa3dd43f857a47ea5000b83d721e96301bcae93e",
+    "local_path": "sources/nevada/water-scarcity/raw/S25.pdf"
+  },
+  {
+    "title": "Nevada Division of Water Resources - Water Planning",
+    "url": "https://water.nv.gov/programs/water-planning",
+    "source_key": "S13",
+    "http_status": 200,
+    "sha256": "c7bc88c335854eae2f90cf73eebbab796f869ada172ad72533304e6ac4ef59c0",
+    "local_path": "sources/nevada/water-scarcity/raw/S13.pdf"
+  },
+  {
+    "title": "Southern Nevada Water Authority - Where Your Water Comes From",
+    "url": "https://www.snwa.com/water-resources/where-water-comes-from/",
+    "source_key": "S2",
+    "http_status": 200,
+    "sha256": "a479f17cd09f7fec3916ab1a5e2709eeb188da6f7c0feaaf7445597890e9f692",
+    "local_path": "sources/nevada/water-scarcity/raw/S2.pdf"
+  }
+]

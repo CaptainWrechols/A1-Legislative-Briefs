@@ -1,0 +1,2373 @@
+{
+  "issue_id": "nevada-04-water-scarcity",
+  "synthesized_at": "2026-07-13T17:23:06.962760+00:00",
+  "themes": {
+    "legislative_history_by_session": [
+      {
+        "fact_id": "F-001",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB30 in 80th2019: Revises provisions governing water. (BDR 48-214)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5930/Overview"
+        ],
+        "bill_identifier": "AB30",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-002",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB51 in 80th2019: Revises provisions governing the management of water. (BDR 48-213)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5951/Overview"
+        ],
+        "bill_identifier": "AB51",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-003",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB62 in 80th2019: Revises provisions related to water. (BDR 48-215)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5987/Overview"
+        ],
+        "bill_identifier": "AB62",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-004",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB95 in 80th2019: Revises provisions relating to water. (BDR 48-504)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6082/Overview"
+        ],
+        "bill_identifier": "AB95",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-005",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB163 in 80th2019: Revises provisions governing water conservation. (BDR 48-798)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6249/Overview"
+        ],
+        "bill_identifier": "AB163",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-006",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB233 in 80th2019: Revises provisions related to water. (BDR 48-45)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6409/Overview"
+        ],
+        "bill_identifier": "AB233",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-007",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB265 in 80th2019: Requires the Desert Research Institute to conduct a study concerning water treatment and recycling. (BDR S-901)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6480/Overview"
+        ],
+        "bill_identifier": "AB265",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-008",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB47 in 80th2019: Revises provisions relating to state lands. (BDR 26-216)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5966/Overview"
+        ],
+        "bill_identifier": "SB47",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-009",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB140 in 80th2019: Revises provisions relating to the use of groundwater in certain basins. (BDR 48-541)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6171/Overview"
+        ],
+        "bill_identifier": "SB140",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-010",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB150 in 80th2019: Revises provisions relating to land use planning. (BDR 22-775)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6187/Overview"
+        ],
+        "bill_identifier": "SB150",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-011",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB236 in 80th2019: Establishes provisions relating to a change in the place of diversion of water for certain wells. (BDR 48-635)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6400/Overview"
+        ],
+        "bill_identifier": "SB236",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-012",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB250 in 80th2019: Revises provisions relating to the dedication of water rights. (BDR 48-664)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6424/Overview"
+        ],
+        "bill_identifier": "SB250",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-013",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB423 in 80th2019: Revises provisions governing certain watercraft. (BDR 43-962)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6783/Overview"
+        ],
+        "bill_identifier": "SB423",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-014",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB433 in 80th2019: Revises the provisions of the California-Nevada Compact for Jurisdiction on Interstate Waters. (BDR 14-439)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6814/Overview"
+        ],
+        "bill_identifier": "SB433",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-015",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB499 in 80th2019: Creates the Advisory Board on Water Resources Planning and Drought Resiliency. (BDR 48-1243)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6962/Overview"
+        ],
+        "bill_identifier": "SB499",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-016",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB507 in 80th2019: Makes an appropriation to the State Public Works Division of the Department of Administration for the support of the Marlette Lake Water System. (BDR S-1176)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6979/Overview"
+        ],
+        "bill_identifier": "SB507",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-017",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB509 in 80th2019: Makes appropriations to the Division of Water Resources for the replacement of vehicles and computer software and hardware. (BDR S-1181)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6981/Overview"
+        ],
+        "bill_identifier": "SB509",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-018",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB76 in 80th2019: Revises provisions governing the provision of services by the Colorado River Commission of Nevada. (BDR 58-207)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6007/Overview"
+        ],
+        "bill_identifier": "SB76",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-019",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB547 in 80th2019: Revises provisions relating to providers of new electric resources. (BDR 58-913)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7057/Overview"
+        ],
+        "bill_identifier": "SB547",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-020",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB52 in 80th2019: Creates the Division of Natural Heritage within the State Department of Conservation and Natural Resources. (BDR 18-217)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5952/Overview"
+        ],
+        "bill_identifier": "AB52",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-021",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB58 in 80th2019: Revises provisions governing violations of regulations adopted by the Administrator of the Division of State Parks of the State Department of Conservation and Natural Resources. (BDR 35-212)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5983/Overview"
+        ],
+        "bill_identifier": "AB58",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-022",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB93 in 80th2019: Revises provisions relating to the Account for License Plates for the Support of the Preservation and Restoration of the Natural Environment of the Lake Tahoe Basin. (BDR 26-437)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6076/Overview"
+        ],
+        "bill_identifier": "AB93",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-023",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB96 in 80th2019: Requires the creation of the Historic Sites Passport Program as a pilot program. (BDR 33-505)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6083/Overview"
+        ],
+        "bill_identifier": "AB96",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-024",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB171 in 80th2019: Revises provisions relating to the admission to state parks and recreational areas in this State by certain veterans. (BDR 35-4)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6265/Overview"
+        ],
+        "bill_identifier": "AB171",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-025",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB229 in 80th2019: Requires the establishment of a technical advisory program for the protection and preservation of certain buildings and structures. (BDR 33-299)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6399/Overview"
+        ],
+        "bill_identifier": "AB229",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-026",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB230 in 80th2019: Revises provisions governing historic preservation. (BDR 22-298)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6402/Overview"
+        ],
+        "bill_identifier": "AB230",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-027",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB331 in 80th2019: Creates the Outdoor Education and Recreation Grant Program. (BDR 35-89)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6614/Overview"
+        ],
+        "bill_identifier": "AB331",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-028",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB486 in 80th2019: Creates the Division of Outdoor Recreation within the State Department of Conservation and Natural Resources. (BDR 18-840)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6937/Overview"
+        ],
+        "bill_identifier": "AB486",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-029",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AB537 in 80th2019: Revises provisions relating to certain penalties imposed by the State Department of Conservation and Natural Resources. (BDR 40-1270)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7063/Overview"
+        ],
+        "bill_identifier": "AB537",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-030",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "AJR3 in 80th2019: Expresses support for the Nevada Greater Sage-Grouse Conservation Plan and the Nevada Conservation Credit System and urges the United States Bureau of Land Management to require compensatory mitigation to offset anthropogenic disturbances in accordance with the Nevada Conservation Credit System. (BDR R-511)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6482/Overview"
+        ],
+        "bill_identifier": "AJR3",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-031",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB96 in 80th2019: Creates a grant program to award grants of money to certain organizations applying for federal funds to finance certain projects related to public lands. (BDR 26-510)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6079/Overview"
+        ],
+        "bill_identifier": "SB96",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-032",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB168 in 80th2019: Revises provisions relating to energy efficiency standards for buildings. (BDR 58-912)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6264/Overview"
+        ],
+        "bill_identifier": "SB168",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-033",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB254 in 80th2019: Revises provisions relating to carbon reduction. (BDR 40-907)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6431/Overview"
+        ],
+        "bill_identifier": "SB254",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-034",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB508 in 80th2019: Makes appropriations to the State Department of Conservation and Natural Resources for the replacement of information technology infrastructure and to the Interim Finance Committee for allocation to the Department for wildfire prevention, restoration and long-term planning. (BDR S-1178)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6980/Overview"
+        ],
+        "bill_identifier": "SB508",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-035",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SB536 in 80th2019: Revises provisions governing the Account for Renewable Energy, Energy Efficiency and Energy Conservation Loans. (BDR 58-1196)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7036/Overview"
+        ],
+        "bill_identifier": "SB536",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-036",
+        "theme": "legislative_history_by_session",
+        "session": "2019",
+        "fact_type": "bill_identified",
+        "statement": "SJR4 in 80th2019: Expresses the support of the Nevada Legislature for certain federal legislation relating to the conservation of wildlife in this State. (BDR R-507)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6393/Overview"
+        ],
+        "bill_identifier": "SJR4",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-037",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB5 in 81st2021: Makes various changes to provisions relating to judicial review of orders and decisions of the State Engineer. (BDR 48-311)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7235/Overview"
+        ],
+        "bill_identifier": "AB5",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-038",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB6 in 81st2021: Revises provisions governing an application for a temporary change relating to appropriated water. (BDR 48-309)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7236/Overview"
+        ],
+        "bill_identifier": "AB6",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-039",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB15 in 81st2021: Revises the membership of the Colorado River Commission of Nevada. (BDR 48-341)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7257/Overview"
+        ],
+        "bill_identifier": "AB15",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-040",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB146 in 81st2021: Revises provisions relating to water. (BDR 40-123)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7475/Overview"
+        ],
+        "bill_identifier": "AB146",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-041",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB333 in 81st2021: Makes changes to provisions relating to land use planning. (BDR 22-357)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7859/Overview"
+        ],
+        "bill_identifier": "AB333",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-042",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB354 in 81st2021: Authorizes the creation of water banks. (BDR 48-1091)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7907/Overview"
+        ],
+        "bill_identifier": "AB354",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-043",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB356 in 81st2021: Makes various changes relating to the conservation of water. (BDR S-1090)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7910/Overview"
+        ],
+        "bill_identifier": "AB356",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-044",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB465 in 81st2021: Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for the repair and maintenance of the South Fork Dam. (BDR S-1105)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8164/Overview"
+        ],
+        "bill_identifier": "AB465",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-045",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AJR2 in 81st2021: Recognizes that the health of forests, rangelands and soils are inextricably linked to the quantity and quality of water. (BDR R-112)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7424/Overview"
+        ],
+        "bill_identifier": "AJR2",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-046",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AJR3 in 81st2021: Urges various actions relating to the protection and conservation of land and water. (BDR R-775)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7487/Overview"
+        ],
+        "bill_identifier": "AJR3",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-047",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB33 in 81st2021: Revises certain provisions relating to natural resource management. (BDR 47-312)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7208/Overview"
+        ],
+        "bill_identifier": "SB33",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-048",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB67 in 81st2021: Creates a pilot program to gather data on the use of job order contracts for certain public works. (BDR S-400)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7272/Overview"
+        ],
+        "bill_identifier": "SB67",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-049",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB98 in 81st2021: Makes various changes to provisions relating to the Carson Water Subconservancy District. (BDR S-579)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7388/Overview"
+        ],
+        "bill_identifier": "SB98",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-050",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB149 in 81st2021: Revises provisions relating to groundwater boards. (BDR 48-462)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7538/Overview"
+        ],
+        "bill_identifier": "SB149",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-051",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB155 in 81st2021: Revises provisions relating to the Division of Water Resources of the State Department of Conservation and Natural Resources. (BDR 48-471)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7555/Overview"
+        ],
+        "bill_identifier": "SB155",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-052",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB205 in 81st2021: Provides regulatory exemptions for certain types of boilers. (BDR 40-839)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7652/Overview"
+        ],
+        "bill_identifier": "SB205",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-053",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB216 in 81st2021: Revises provisions relating to community water systems. (BDR 19-590)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7687/Overview"
+        ],
+        "bill_identifier": "SB216",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-054",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB238 in 81st2021: Revises provisions relating to public water systems. (BDR 40-885)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7754/Overview"
+        ],
+        "bill_identifier": "SB238",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-055",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SJR1 in 81st2021: Proposes to amend the Nevada Constitution to provide that the Nevada Court of Appeals has original jurisdiction over certain cases relating to water. (BDR C-310)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7333/Overview"
+        ],
+        "bill_identifier": "SJR1",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-056",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB26 in 81st2021: Revises provisions governing programs of energy assistance. (BDR 58-298)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7268/Overview"
+        ],
+        "bill_identifier": "AB26",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-057",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB40 in 81st2021: Revises provisions relating to petroleum storage tanks. (BDR 40-343)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7291/Overview"
+        ],
+        "bill_identifier": "AB40",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-058",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB71 in 81st2021: Revises provisions relating to certain information maintained by the Division of Natural Heritage of the State Department of Conservation and Natural Resources. (BDR 18-313)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7324/Overview"
+        ],
+        "bill_identifier": "AB71",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-059",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB97 in 81st2021: Revises provisions governing toxic chemicals. (BDR 40-141)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7397/Overview"
+        ],
+        "bill_identifier": "AB97",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-060",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB240 in 81st2021: Revises provisions governing mining. (BDR 46-936)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7692/Overview"
+        ],
+        "bill_identifier": "AB240",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-061",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB452 in 81st2021: Revises provisions relating to environmental protection. (BDR 40-1093)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8128/Overview"
+        ],
+        "bill_identifier": "AB452",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-062",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB457 in 81st2021: Makes an appropriation to the Division of Forestry of the State Department of Conservation and Natural Resources for deferred maintenance projects. (BDR S-1133)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8133/Overview"
+        ],
+        "bill_identifier": "AB457",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-063",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "AB463 in 81st2021: Provides for the reversion of certain money and makes a supplemental appropriation to the State Department of Conservation and Natural Resources for an unanticipated shortfall in the Forest Fire Suppression budget account. (BDR S-1058)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8149/Overview"
+        ],
+        "bill_identifier": "AB463",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-064",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB23 in 81st2021: Revises provisions relating to the State Conservation Commission. (BDR 49-308)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7198/Overview"
+        ],
+        "bill_identifier": "SB23",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-065",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB52 in 81st2021: Requires the establishment of a program for awarding a dark sky designation to certain sites in this State. (BDR 35-427)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7230/Overview"
+        ],
+        "bill_identifier": "SB52",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-066",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB53 in 81st2021: Makes various changes relating to the Division of State Parks of the State Department of Conservation and Natural Resources. (BDR 35-338)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7232/Overview"
+        ],
+        "bill_identifier": "SB53",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-067",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB170 in 81st2021: Makes various changes relating to off-highway vehicles. (BDR 43-464)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7579/Overview"
+        ],
+        "bill_identifier": "SB170",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-068",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB382 in 81st2021: Revises provisions governing energy efficiency programs. (BDR 58-834)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8072/Overview"
+        ],
+        "bill_identifier": "SB382",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-069",
+        "theme": "legislative_history_by_session",
+        "session": "2021",
+        "fact_type": "bill_identified",
+        "statement": "SB449 in 81st2021: Revises provisions governing outdoor recreation. (BDR 35-1155)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8205/Overview"
+        ],
+        "bill_identifier": "SB449",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-070",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB19 in 82nd2023: Revises provisions relating to water. (BDR 48-233)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9548/Overview"
+        ],
+        "bill_identifier": "AB19",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-071",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB20 in 82nd2023: Revises provisions relating to water. (BDR 40-227)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9549/Overview"
+        ],
+        "bill_identifier": "AB20",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-072",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB34 in 82nd2023: Revises provisions relating to water. (BDR 48-235)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9563/Overview"
+        ],
+        "bill_identifier": "AB34",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-073",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB90 in 82nd2023: Revises provisions relating to water. (BDR 48-717)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9681/Overview"
+        ],
+        "bill_identifier": "AB90",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-074",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB91 in 82nd2023: Revises provisions governing water. (BDR 48-696)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9682/Overview"
+        ],
+        "bill_identifier": "AB91",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-075",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB186 in 82nd2023: Establishes requirements relating to the provision of drinking water at food establishments. (BDR 40-454)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9895/Overview"
+        ],
+        "bill_identifier": "AB186",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-076",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB191 in 82nd2023: Revises provisions relating to water conservation. (BDR 48-697)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9903/Overview"
+        ],
+        "bill_identifier": "AB191",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-077",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB220 in 82nd2023: Revises provisions relating to water conservation. (BDR 40-337)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9950/Overview"
+        ],
+        "bill_identifier": "AB220",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-078",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB261 in 82nd2023: Revises provisions relating to water. (BDR 18-470)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10028/Overview"
+        ],
+        "bill_identifier": "AB261",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-079",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB263 in 82nd2023: Enacts provisions relating to the transmission of Legionnaires' disease by building water systems in certain health care facilities. (BDR 40-125)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10030/Overview"
+        ],
+        "bill_identifier": "AB263",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-080",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB325 in 82nd2023: Revises provisions relating to water. (BDR 48-915)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10192/Overview"
+        ],
+        "bill_identifier": "AB325",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-081",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB387 in 82nd2023: Revises provisions relating to water. (BDR 48-338)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10324/Overview"
+        ],
+        "bill_identifier": "AB387",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-082",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB470 in 82nd2023: Makes an appropriation to the State Public Works Division of the Department of Administration for professional services and filing fees related to water rights associated with the Marlette Lake Water System. (BDR S-1127)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10500/Overview"
+        ],
+        "bill_identifier": "AB470",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-083",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB59 in 82nd2023: Revises provisions relating to vessels. (BDR 43-225)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9629/Overview"
+        ],
+        "bill_identifier": "SB59",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-084",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB102 in 82nd2023: Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources to award grants of money for the development and maintenance of water resource plans. (BDR S-599)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9733/Overview"
+        ],
+        "bill_identifier": "SB102",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-085",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB112 in 82nd2023: Revises provisions governing groundwater basin assessments. (BDR 48-600)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9756/Overview"
+        ],
+        "bill_identifier": "SB112",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-086",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB113 in 82nd2023: Revises provisions relating to groundwater management plans. (BDR 48-595)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9757/Overview"
+        ],
+        "bill_identifier": "SB113",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-087",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB176 in 82nd2023: Establishes provisions relating to the conservation of groundwater. (BDR 48-79)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9907/Overview"
+        ],
+        "bill_identifier": "SB176",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-088",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB180 in 82nd2023: Revises provisions relating to groundwater boards. (BDR 48-597)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9923/Overview"
+        ],
+        "bill_identifier": "SB180",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-089",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB258 in 82nd2023: Revises provisions relating to water. (BDR 48-889)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10090/Overview"
+        ],
+        "bill_identifier": "SB258",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-090",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB472 in 82nd2023: Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for projects at the South Fork Dam. (BDR S-1172)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10525/Overview"
+        ],
+        "bill_identifier": "SB472",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-091",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB473 in 82nd2023: Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for a study of extreme rainfall events. (BDR S-1173)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10526/Overview"
+        ],
+        "bill_identifier": "SB473",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-092",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SJR3 in 82nd2023: Urges the United States Bureau of Reclamation to consider certain actions, alternatives and measures for the protection and management of the Colorado River. (BDR R-349)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9995/Overview"
+        ],
+        "bill_identifier": "SJR3",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-093",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB71 in 82nd2023: Requires the Division of Environmental Protection of the State Department of Conservation and Natural Resources to conduct an interim study concerning environmental justice. (BDR S-347)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9642/Overview"
+        ],
+        "bill_identifier": "AB71",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-094",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB84 in 82nd2023: Provides for the issuance of free annual permits to certain persons for entering state parks and recreational areas. (BDR 35-471)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9675/Overview"
+        ],
+        "bill_identifier": "AB84",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-095",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB109 in 82nd2023: Establishes provisions relating to soil health. (BDR 49-571)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9722/Overview"
+        ],
+        "bill_identifier": "AB109",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-096",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB131 in 82nd2023: Revises provisions governing urban and community forestry. (BDR 47-720)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9781/Overview"
+        ],
+        "bill_identifier": "AB131",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-097",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB164 in 82nd2023: Revises provisions related to outdoor recreation. (BDR 35-487)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9843/Overview"
+        ],
+        "bill_identifier": "AB164",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-098",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "AB349 in 82nd2023: Establishes the Nevada Wildlife Conservation Program. (BDR 45-912)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10240/Overview"
+        ],
+        "bill_identifier": "AB349",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-099",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB353 in 82nd2023: Revises provisions governing energy efficiency and conservation programs. (BDR 58-558)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10285/Overview"
+        ],
+        "bill_identifier": "SB353",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-100",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB356 in 82nd2023: Revises provisions relating to electric utilities. (BDR 58-865)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10290/Overview"
+        ],
+        "bill_identifier": "SB356",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-101",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB364 in 82nd2023: Makes various changes relating to cultural remains. (BDR 33-533)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10313/Overview"
+        ],
+        "bill_identifier": "SB364",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-102",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB470 in 82nd2023: Makes appropriations to the State Department of Conservation and Natural Resources for deferred maintenance projects. (BDR S-1170)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10523/Overview"
+        ],
+        "bill_identifier": "SB470",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-103",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB471 in 82nd2023: Makes an appropriation to the Division of State Parks of the State Department of Conservation and Natural Resources for a visitor center at the Valley of Fire State Park. (BDR S-1171)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10524/Overview"
+        ],
+        "bill_identifier": "SB471",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-104",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB480 in 82nd2023: Revises provisions relating to the Division of Forestry of the State Department of Conservation and Natural Resources. (BDR S-1105)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10566/Overview"
+        ],
+        "bill_identifier": "SB480",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-105",
+        "theme": "legislative_history_by_session",
+        "session": "2023",
+        "fact_type": "bill_identified",
+        "statement": "SB492 in 82nd2023: Makes appropriations to the State Department of Conservation and Natural Resources for the replacement or purchase of certain information technology, vehicles and equipment. (BDR S-1169)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10578/Overview"
+        ],
+        "bill_identifier": "SB492",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-106",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB9 in 83rd2025: Revises provisions relating to water. (BDR 48-391)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11759/Overview"
+        ],
+        "bill_identifier": "AB9",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-107",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB10 in 83rd2025: Revises provisions relating to local improvement projects. (BDR 22-407)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11760/Overview"
+        ],
+        "bill_identifier": "AB10",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-108",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB26 in 83rd2025: Revises provisions relating to dams. (BDR 48-261)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11792/Overview"
+        ],
+        "bill_identifier": "AB26",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-109",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB104 in 83rd2025: Revises provisions relating to water. (BDR 48-383)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11994/Overview"
+        ],
+        "bill_identifier": "AB104",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-110",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB109 in 83rd2025: Revises provisions relating to water. (BDR 48-212)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12006/Overview"
+        ],
+        "bill_identifier": "AB109",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-111",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB132 in 83rd2025: Revises provisions relating to water. (BDR 48-586)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12051/Overview"
+        ],
+        "bill_identifier": "AB132",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-112",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB134 in 83rd2025: Establishes provisions relating to water conservation. (BDR 48-379)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12053/Overview"
+        ],
+        "bill_identifier": "AB134",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-113",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB190 in 83rd2025: Revises provisions relating to water. (BDR 48-886)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12160/Overview"
+        ],
+        "bill_identifier": "AB190",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-114",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB265 in 83rd2025: Revises provisions relating to water. (BDR 48-887)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12311/Overview"
+        ],
+        "bill_identifier": "AB265",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-115",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB312 in 83rd2025: Revises provisions governing the sale of real property. (BDR 10-1005)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12395/Overview"
+        ],
+        "bill_identifier": "AB312",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-116",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB363 in 83rd2025: Revises provisions relating to groundwater boards. (BDR 48-385)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12473/Overview"
+        ],
+        "bill_identifier": "AB363",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-117",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB385 in 83rd2025: Revises provisions relating to governmental administration. (BDR 22-851)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12534/Overview"
+        ],
+        "bill_identifier": "AB385",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-118",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB419 in 83rd2025: Revises provisions relating to water. (BDR 48-736)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12606/Overview"
+        ],
+        "bill_identifier": "AB419",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-119",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB456 in 83rd2025: Revises provisions relating to public utilities. (BDR 58-170)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12690/Overview"
+        ],
+        "bill_identifier": "AB456",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-120",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB485 in 83rd2025: Revises provisions relating to water. (BDR 48-386)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12746/Overview"
+        ],
+        "bill_identifier": "AB485",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-121",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "SB31 in 83rd2025: Revises provisions relating to the adjudication of vested water rights. (BDR 48-260)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11798/Overview"
+        ],
+        "bill_identifier": "SB31",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-122",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "SB36 in 83rd2025: Revises provisions relating to water. (BDR 48-384)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11807/Overview"
+        ],
+        "bill_identifier": "SB36",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-123",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "SB43 in 83rd2025: Revises provisions relating to public health and safety. (BDR 40-264)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11819/Overview"
+        ],
+        "bill_identifier": "SB43",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-124",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "SB108 in 83rd2025: Revises provisions governing the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program. (BDR 48-88)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12004/Overview"
+        ],
+        "bill_identifier": "SB108",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-125",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "SB143 in 83rd2025: Revises provisions relating to natural resources. (BDR 17-10)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12088/Overview"
+        ],
+        "bill_identifier": "SB143",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-126",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "SB159 in 83rd2025: Makes an appropriation to the Oh Lab of Neurogenetics and Precision Medicine at the University of Nevada, Las Vegas or its successor entity for certain activities relating to water systems and wastewater. (BDR S-957)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12140/Overview"
+        ],
+        "bill_identifier": "SB159",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-127",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "SB276 in 83rd2025: Revises provisions relating to water. (BDR 40-750)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12476/Overview"
+        ],
+        "bill_identifier": "SB276",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-128",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "SB324 in 83rd2025: Establishes prohibitions relating to the sale of water in certain disposable plastic bottles in communities abutting the Lake Tahoe Watershed. (BDR 40-216)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12553/Overview"
+        ],
+        "bill_identifier": "SB324",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-129",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "SB342 in 83rd2025: Revises provisions relating to water. (BDR 48-940)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12600/Overview"
+        ],
+        "bill_identifier": "SB342",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-130",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "SB466 in 83rd2025: Revises provisions governing the authority of the State Department of Agriculture relating to food and water. (BDR 51-1121)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12889/Overview"
+        ],
+        "bill_identifier": "SB466",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-131",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB110 in 83rd2025: Revises provisions relating to the designation of certain highways. (BDR 35-148)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12011/Overview"
+        ],
+        "bill_identifier": "AB110",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-132",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB40 in 83rd2025: Revises various provisions relating to environmental hazards. (BDR 46-265)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11829/Overview"
+        ],
+        "bill_identifier": "AB40",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-133",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB57 in 83rd2025: Revises provisions relating to the Nevada Intrastate Mutual Aid System. (BDR 36-263)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11857/Overview"
+        ],
+        "bill_identifier": "AB57",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-134",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB80 in 83rd2025: Establishes provisions relating to soil health. (BDR 49-387)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11900/Overview"
+        ],
+        "bill_identifier": "AB80",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-135",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB96 in 83rd2025: Revises provisions relating to master plans. (BDR 22-397)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11978/Overview"
+        ],
+        "bill_identifier": "AB96",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-136",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB165 in 83rd2025: Revises provisions relating to outdoor education. (BDR 35-633)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12115/Overview"
+        ],
+        "bill_identifier": "AB165",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-137",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB242 in 83rd2025: Revises provisions relating to the Sagebrush Ecosystem Council. (BDR 18-214)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12272/Overview"
+        ],
+        "bill_identifier": "AB242",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-138",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB321 in 83rd2025: Revises provisions relating to offenders. (BDR 16-1015)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12410/Overview"
+        ],
+        "bill_identifier": "AB321",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-139",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB429 in 83rd2025: Revises provisions relating to natural resources. (BDR 10-679)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12626/Overview"
+        ],
+        "bill_identifier": "AB429",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-140",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB493 in 83rd2025: Revises provisions relating to the collection, disposal and retirement of certain types of waste. (BDR 40-424)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12758/Overview"
+        ],
+        "bill_identifier": "AB493",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-141",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB543 in 83rd2025: Revises provisions relating to the lease of certain state real property for certain purposes and the sale of agricultural products produced on such real property. (BDR 26-1133)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12843/Overview"
+        ],
+        "bill_identifier": "AB543",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-142",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB561 in 83rd2025: Makes a supplemental appropriation to the Division of Forestry of the State Department of Conservation and Natural Resources for an unanticipated shortfall related to firefighting costs. (BDR S-1176)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12884/Overview"
+        ],
+        "bill_identifier": "AB561",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-143",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB577 in 83rd2025: Makes appropriations to the State Department of Conservation and Natural Resources for a certain new website and database and for the replacement of vehicles and computer hardware and associated software. (BDR S-1215)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12909/Overview"
+        ],
+        "bill_identifier": "AB577",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-144",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "AB578 in 83rd2025: Makes appropriations to the State Department of Conservation and Natural Resources for the replacement of computer and information technology equipment, vehicles and other equipment and for certain projects. (BDR S-1217)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12911/Overview"
+        ],
+        "bill_identifier": "AB578",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-145",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "SB243 in 83rd2025: Makes various changes relating to motor vehicles. (BDR 43-964)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12364/Overview"
+        ],
+        "bill_identifier": "SB243",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-146",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "SB343 in 83rd2025: Revises provisions relating to governmental administration. (BDR 49-972)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12601/Overview"
+        ],
+        "bill_identifier": "SB343",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      },
+      {
+        "fact_id": "F-147",
+        "theme": "legislative_history_by_session",
+        "session": "2025",
+        "fact_type": "bill_identified",
+        "statement": "SB475 in 83rd2025: Makes appropriations to the Division of State Parks of the State Department of Conservation and Natural Resources for the purchase and replacement of vehicles, equipment, computer and information technology equipment and radios and for certain projects. (BDR S-1216)",
+        "source_keys": [
+          "S-NELIS"
+        ],
+        "source_urls": [
+          "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12910/Overview"
+        ],
+        "bill_identifier": "SB475",
+        "confidence": "verified",
+        "is_forum_process_input": false
+      }
+    ],
+    "data_gaps": [
+      {
+        "fact_id": "F-GAP-001",
+        "statement": "Bill action timelines and vote records require additional NELIS detail scraping.",
+        "confidence": "verified"
+      },
+      {
+        "fact_id": "F-GAP-002",
+        "statement": "20-year enacted policy impact requires crosswalk to Bills that Became Law reports.",
+        "confidence": "verified"
+      }
+    ]
+  },
+  "bill_count": 147
+}

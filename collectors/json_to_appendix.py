@@ -38,19 +38,29 @@ def sponsors(bill: dict) -> tuple[str, str]:
     return primary, ", ".join(cosponsors)
 
 
+def bill_url(bill: dict) -> str:
+    return bill.get("openstates_url") or bill.get("source_url") or "—"
+
+
+def source_key(bill: dict) -> str:
+    if bill.get("source") == "nevada_nelis":
+        return "S-NELIS"
+    return "S-OPENSTATES"
+
+
 def main() -> None:
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     bills = json.loads(INPUT.read_text(encoding="utf-8"))
 
     lines = [
-        f"# Appendix A: Bills Related to Water Scarcity in Nevada",
+        "# Appendix A: Bills Related to Water Scarcity in Nevada",
         f"**Issue:** {ISSUE_TITLE}",
         f"**State:** {STATE}",
         f"**Record count:** {len(bills)}",
         "",
         "| Session | Bill Number | Title | Primary Sponsor | Co-Sponsors | "
         "First Action Date | Last Action Date | Last Action Description | "
-        "Final Disposition | OpenStates URL | Source Key |",
+        "Final Disposition | Source URL | Source Key |",
         "|---|---|---|---|---|---|---|---|---|---|---|",
     ]
 
@@ -63,7 +73,7 @@ def main() -> None:
         title = (bill.get("title") or "").replace("|", "/")
         lines.append(
             "| {session} | {identifier} | {title} | {primary} | {cos} | {first} | {last} | "
-            "{desc} | {disp} | {url} | S-OPENSTATES |".format(
+            "{desc} | {disp} | {url} | {skey} |".format(
                 session=bill.get("session", "—"),
                 identifier=bill.get("identifier", "—"),
                 title=title,
@@ -73,7 +83,8 @@ def main() -> None:
                 last=last_date,
                 desc=last_desc,
                 disp=disposition(bill),
-                url=bill.get("openstates_url") or "—",
+                url=bill_url(bill),
+                skey=source_key(bill),
             )
         )
 

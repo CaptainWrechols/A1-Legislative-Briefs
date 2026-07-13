@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+				
+	<meta content="tl,es,zh" name="translation-languages"/>
+
+
+	<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+	<meta content="telephone=no" name="format-detection"/>
+	<meta charset="UTF-8"/>
+	
+	<link href="../../etc/icons/favicon.png" rel="icon"/>
+	
+	<link href="//cdn.lvvwd.com/css/global.css?v=20260505" rel="stylesheet"/>
+	<link href="../../etc/css/site.css?v=20260505" rel="stylesheet"/>
+	
+    <script crossorigin="anonymous" defer="defer" integrity="sha384-apfJm2DWye6itJXDari7QfgbBXzkNeRsr1xgTfEH0SCvYV+NlzqP+MkX/LHMZIPI" src="//cdn.lvvwd.com/jquery/3.7.1/jquery.min.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha384-SStJQoPipVtHHnIgUfDI+jTAbSyU+HMbhwt2XRRNpLIRFg9VguopT6Y4+cdOlkqg" src="//cdn.lvvwd.com/jquery-ui/1.14.1/jquery-ui.min.js"></script>
+	<script defer="defer" src="//cdn.lvvwd.com/js/global.js?v=20260505"></script>
+	<script defer="defer" src="../../etc/js/site.js?v=_20260602"></script>
+
+	
+	<title>
+		Where Your Water Comes From
+	</title>
+	<meta content="Colorado River water and local groundwater are the two primary supplies used to meet our community's current water resource needs." name="description"/>
+	<meta content="water resources, water supply, colorado river, groundwater, well, water table, las vegas, southern nevada, where water comes from, drinking water" name="keywords"/>
+</head>
+<body>
+	<div id="Wrapper">
+		<header>
+            <div id="HeaderContainer">
+                
+
+
+        		<div id="HeaderWrapper">
+<div id="HeaderContent"><a class="ScreenReader" href="#Content" id="SkipNavigation">Skip Navigation</a><nav aria-label="Primary">
+<div aria-label="Home" id="Logo" role="button">
+<h1 class="ScreenReader">Southern Nevada Water Authority</h1>
+</div>
+<button aria-controls="Menu" aria-expanded="false" aria-haspopup="true" aria-pressed="false" class="ButtonIcon IconMenuTextWhite" id="ButtonMenu" type="button"> <span class="ScreenReader">Menu</span> </button> <button aria-controls="MenuSiteSearch" aria-expanded="false" aria-haspopup="true" aria-pressed="false" class="ButtonIcon IconSearchWhite" id="ButtonSiteSearch" type="button"> <span class="ScreenReader">Site Search</span> </button> 
+<div class="LanguageSelectorContainer"></div>
+</nav></div>
+</div>
+        	</div>
+        	
+        	
+<div aria-hidden="true" aria-labelledby="ButtonSiteSearch" class="Menu" id="MenuSiteSearch" lang="en" role="search"><form class="Form Consolidated Clear" role="search">
+<div class="MenuHeader ClearChildren"><button aria-label="Close" class="ButtonIcon IconCloseDarkBlue AlignRight" id="ButtonSiteSearchClose" type="button"></button> <label for="MenuSiteSearchField">Search the site</label></div>
+<div class="FormRow" id="MenuSiteSearchForm">
+<div class="FormInput"><input aria-label="Search" autocomplete="off" id="MenuSiteSearchField" maxlength="100" name="q" placeholder="Enter Keywords" type="search"/></div>
+<div class="FormSubmit"><input aria-label="Search the site" type="submit" value="Search"/></div>
+</div>
+</form>
+<div id="cludo-search-results">
+<div class="cludo-r">
+<div class="cludo-c-12">
+<div class="search-result-count"></div>
+<div class="search-did-you-mean"></div>
+<div class="search-results"></div>
+</div>
+</div>
+</div>
+</div>
+<nav aria-hidden="true" aria-label="Site Menu" aria-labelledby="ButtonMenu" class="Menu" id="Menu" lang="en">
+<div class="MenuHeader ClearChildren"><button aria-label="Close" class="ButtonIcon IconCloseDarkBlue AlignRight" id="ButtonMenuClose" type="button"></button> <a class="IconHomeWhitePurpleCircle" href="/">Home</a></div>
+<div id="MenuNavigation"></div>
+</nav>
+<div class="Overlay"></div>
+		</header>
+		<main>
+			
+
+
+
+
+		
+
+					
+				
+		<div class="" id="Content">
+										
+																
+				<div class="ComponentRow ColumnLayout FirstRowSlider">
+																		
+																																																	
+														
+																																																																																											
+														
+																																		   
+							<div class="Column  StyleNone ">
+																
+																
+								<div class="ComponentContent">
+																		
+																		
+																			
+																																											
+																																												
+																																	
+																						
+											<div class="swiper-container " data-autoplay="No" data-autoplay-delay="3" data-centered-slides="Yes" data-effect="Slide" data-loop="No" data-pagination="Bullets" data-slides-per-view="1" id="Slider1">
+												<div class="swiper-wrapper">
+																											
+																												
+														<div class="swiper-slide swiper-no-swiping">
+																															<div class="SlideContainer">
+																																			<img alt="An aerial shot of the Colorado River winding through red cliffs" class="SlideImage" src="../../assets/images/colorado-river-green-16x7.jpg"/>
+																	
+																	
+																																																						
+																		<div class="SlideOverlay PositionBottom " style="background: rgba(0, 0, 0, 0.5);">
+																			<h1>Where your water comes from</h1>
+																		</div>
+																		
+																																																			</div>
+																													</div>
+																									</div>
+												
+																							</div>
+											
+																						
+																						
+																							
+																								
+																																		
+																																						</div>
+							</div>
+															</div>
+							
+												
+				<div class="ComponentRow ColumnLayout ">
+																		
+																																																	
+														
+																																																																																											
+														
+																																		   
+							<div class="Column  StyleNone ">
+																
+																
+								<div class="ComponentContent">
+																														<p><strong><a class="TextLarger" href="#colorado">Colorado River water</a><span class="TextLarger"> and </span><a class="TextLarger" href="#groundwater">local groundwater</a><span class="TextLarger"> are the two primary supplies used to meet our community&#8217;s current water needs.</span> </strong></p>
+<p class="TextLarger">Colorado River water is primarily withdrawn from Lake Mead, and groundwater is pumped from the Las Vegas Valley groundwater basin. Water <a href="index.html#conservation">conservation</a> and <a href="index.html#recycle">reuse</a> help us stretch these limited supplies.</p>
+																												
+																		
+																	</div>
+							</div>
+															</div>
+							
+												
+				<div class="ComponentRow ColumnLayout ">
+																		
+																																																	
+														
+																																																																																											
+														
+																																		   
+							<div class="Column  StyleNone ">
+																
+																
+								<div class="ComponentContent">
+																														<div class="PaddingMedium"></div>
+																												
+																		
+																	</div>
+							</div>
+															</div>
+							
+												
+				<div class="ComponentRow ColumnLayout ">
+																		
+																																																	
+														
+																																																																																											
+														
+																																		   
+							<div class="Column  StyleNone ">
+																
+																	<img alt="Infographic about Southern Nevada's Water Cycle. If you need this map described to you, please call us at 702-258-2473." class="Width100" src="../../assets/images/water-cycle-infographic-vertical.jpg"/>
+																
+								<div class="ComponentContent">
+																														<div class="AltLang" data-lang-es="https://www.snwa.com/assets/images/spanish-water-cycle-infographic-vertical.jpg" data-lang-tl="https://www.snwa.com/assets/images/tagalog-water-cycle-infographic-vertical.jpg" data-lang-zh="https://www.snwa.com/assets/images/mandarin-water-cycle-infographic-vertical.jpg"></div>
+																												
+																		
+																	</div>
+							</div>
+													
+																																																	
+														
+																																																																																											
+														
+																																		   
+							<div class="Column  StyleNone ">
+																
+																
+								<div class="ComponentContent">
+																														<h2><a id="colorado"></a>Colorado River</h2>
+<p>Southern Nevada gets about 90 percent of its water supply from the Colorado River, which begins as rain and snowmelt in the Rocky Mountains. The river serves about 40 million people across seven western states and the country of Mexico. The river is governed by a series of compacts, laws, court decisions, rules and treaties, collectively known as the <a href="https://www.usbr.gov/lc/region/pao/lawofrvr.html">"Law of the River."</a></p>
+<p>Nevada has the right to consumptively use 300,000 acre-feet of water per year. An acre-foot is the amount of water that can cover an acre to a height of one foot and is equivalent to 325,851 gallons of water.</p>
+<p>Consumptive use is defined as water withdrawals (or diversions) minus any water that is returned to the Colorado River. These returns are also known as <a href="index.html#return">"return-flow credits."</a></p>
+<p>The Colorado River has endured more than 20 years of severe <a href="../drought-and-shortage/index.html">drought</a>, which has reduced the amount of water in Lake Mead. The best scientific projections available suggest that current Colorado River conditions will not only continue but worsen. Leading climate scientists warn of a permanent shift to a drier future, something known as "aridification."</p>
+<p>Lake Mead water levels have declined by approximately 160 feet since 2000, and further water level declines are expected. Low water levels in 2021 resulted in the Secretary of the Interior making the first-ever shortage declaration on the Colorado River, reducing the amount of water available to Nevada, Arizona and Mexico. Shortage conditions have remained in effect since 2022. The risk of ongoing shortage remains high in future years, and <a href="https://www.snwa.com/universal/pdfjs/?file=/assets/pdf/water-resource-plan-2026.pdf#page=22">additional actions</a> are needed to protect critical elevations at Lake Mead and Lake Powell.&#8203;</p>
+<p>While the Southern Nevada Water Authority does not anticipate near-term customer impacts associated with a federal shortage declaration due to community response efforts, continued water conservation will remain a critical priority in the years ahead. Meeting the community&#8217;s long-term water resource needs will require significant and sustained contributions from all community sectors on an ongoing basis.</p>
+<div class="ContentHighlight HighlightInformation">
+<p>&#9654;&#65039; Watch to learn more:</p>
+<p><a href="https://youtu.be/k9YWq8spxns"><strong>Why is more water going to Lake Powell and not Lake Mead?</strong></a></p>
+<p><a href="https://youtu.be/3h3Xx2qPeno"><strong>What is being done to fill up Lake Mead?</strong></a></p>
+</div>
+																												
+																		
+																	</div>
+							</div>
+															</div>
+							
+												
+				<div class="ComponentRow ColumnLayout ">
+																		
+																																																	
+														
+																																																																																											
+														
+																																		   
+							<div class="Column  StyleNone ">
+																
+																
+								<div class="ComponentContent">
+																														<div class="PaddingMedium"></div>
+																												
+																		
+																	</div>
+							</div>
+															</div>
+							
+												
+				<div class="ComponentRow ColumnLayout ">
+																		
+																																																	
+														
+																																																																																																		
+														
+																																		   
+							<div class="Column  BackgroundColor1 ">
+																
+																
+								<div class="ComponentContent">
+																														<div class="ComponentRow ColumnLayout">
+<div class="Column">
+<div class="ComponentContent">
+<h2 id="allocated">How Colorado River water is allocated</h2>
+<p>The Colorado River is a shared resource that serves nearly 40 million people in the U.S. and Mexico, including the states of Colorado, Wyoming, Utah, New Mexico, Nevada, Arizona and California. The river supports many different uses such as municipal and industrial water supply, hydropower production, agriculture and recreation. Many plant and animal species also depend on the river.</p>
+<p>Colorado River operations and water use are governed by a series of contracts, regulatory guidelines, federal laws, compacts, court decisions, decrees and a treaty with Mexico. Collectively, these are known as the <a href="https://www.usbr.gov/lc/region/pao/lawofrvr.html">"Law of the River."</a></p>
+<p>The first major diversions of Colorado River water began in California in the late 1800s to support agricultural production in that state. As the amount of water diverted from the river increased, some states grew concerned about their future rights to the river and negotiations began on how to equitably distribute the river's flow.</p>
+<p>These negotiations led to the 1922 Colorado River Compact, which divided the Colorado River Basin into two Divisions - the Upper Basin and the Lower Basin - and allocated 7.5 million acre-feet of water per year (MAFY) to each. The compact also recognized Mexico's right to Colorado River water and 1.5 MAFY was granted in 1944 through an international treaty between the U.S. and Mexico.</p>
+<p>The 1928 <a href="https://www.usbr.gov/lc/region/pao/lawofrvr.html#bcp">Boulder Canyon Project Act</a> further divided the river among the Lower Basin states of Nevada, California and Arizona. Nevada's share was 300,000 acre-feet per year. At the time, Nevada's negotiators felt this amount was more than enough. Southern Nevada had no significant agricultural or industrial users, groundwater seemed plentiful, and the area&#8217;s small population was not anticipated to grow significantly. Negotiators focused instead on hydro-electricity and secured one-third of the electricity generated by Hoover Dam.</p>
+<h3>Average river flows</h3>
+<p>The Colorado River Compact was negotiated during the wettest period in the river's recorded history. At the time, the river's flow was estimated to be 18 million acre-feet per year (MAFY) at Lee's Ferry, located just below Lake Powell. The average natural flow in the river since 1906 has been 14.6 MAFY. The average Colorado River inflow since 2000 is 12.4 MAFY. Meanwhile, current allocations (U.S. and Mexico) total 16.5 MAFY, excluding evaporative losses in the Lower Basin.</p>
+<p>Consequently, the sum of the state&#8217;s apportionments and Mexico's treaty exceed the river's flow in most years. In addition, drought and climate change have significantly reduced the average runoff into the Colorado River and resulted in <a href="../drought-and-shortage/index.html">shortages</a>.</p>
+</div>
+</div>
+<div class="Column StyleNone">
+<div class="ComponentContent"><img alt="colorado river allocations" data-lang-es="https://www.snwa.com/assets/images/spanish-colorado-river-allocations-graphic-3x4.jpg" data-lang-tl="https://www.snwa.com/assets/images/tagalog-colorado-river-allocations-graphic-3x4.jpg" data-lang-zh="https://www.snwa.com/assets/images/mandarin-colorado-river-allocations-graphic-3x4.jpg" src="https://www.snwa.com/assets/images/colorado-river-allocations-graphic-3x4.jpg"/>
+<div class="ComponentRow ColumnLayout">
+<div class="Column">
+<div class="ComponentContent">
+<p class="TextAlignCenter TextLarger" style="color: #333333;">A total of 16.5 million acre-feet per year is apportioned <em>among</em> the seven states that share the Colorado River, as well as the country of Mexico.</p>
+<div class="PaddingSmall"></div>
+</div>
+</div>
+</div>
+<div class="ContentHighlight HighlightInformation">
+<p>&#9654;&#65039; Watch to learn more:</p>
+<p><strong><a href="https://youtu.be/7fx_MlVTcWc?t=36" style="color: #003366;">Why does Nevada receive the smallest allocation of water from the Colorado River?</a></strong></p>
+<p><strong><a href="https://youtu.be/nDG2bKOeh0c?t=35" style="color: #003366;">Does Nevada send water to California and other states?</a></strong></p>
+<p><strong><a href="https://www.youtube.com/watch?v=J6KvWctQEUI" style="color: #003366;">What role does Mexico play in Colorado River negotiations and conservation? </a></strong></p>
+<p><a href="https://youtu.be/Vh8aCD4rqZE?t=35" style="color: #003366;"><strong>Why should Nevada conserve water when we only get 2% of the Colorado River?</strong></a></p>
+</div>
+</div>
+</div>
+</div>
+																												
+																		
+																	</div>
+							</div>
+															</div>
+							
+												
+				<div class="ComponentRow ColumnLayout ">
+																		
+																																																	
+														
+																																																																																											
+														
+																																		   
+							<div class="Column  StyleNone ">
+																
+																
+								<div class="ComponentContent">
+																														<div class="PaddingMedium"></div>
+																												
+																		
+																	</div>
+							</div>
+															</div>
+							
+												
+				<div class="ComponentRow ColumnLayout ">
+																		
+																																																	
+														
+																																																																																											
+														
+																																		   
+							<div class="Column  StyleNone ">
+																
+																
+								<div class="ComponentContent">
+																														<h2 id="recycle">Reuse and recycling</h2>
+<p>Southern Nevada is one of the few places on the planet that recycles all indoor water on a community-wide scale.</p>
+<p>Approximately 40 percent of the water in the Water Authority's service area is used indoors. Of that, about 99 percent is recycled, either for direct or indirect use.</p>
+<p>Direct reuse involves capturing, treating and reusing highly-treated wastewater flows to irrigate parks, golf courses and other uses. Indirect reuse consists of recycling water for return-flow credits.</p>
+<p>The City of Boulder City, City of Las Vegas, Clark County Water Reclamation District, City of Henderson and City of North Las Vegas each operate wastewater treatment facilities in the Las Vegas Valley that contribute to the region&#8217;s water recycling efforts.</p>
+<p>As recommended by the Water Authority's Integrated Resource Planning Advisory Committee, the Water Authority is prioritizing the return of highly-treated wastewater used outside the Las Vegas Valley to the Colorado River for return-flow credits and further limiting consumptive uses of water outside the Las Vegas Valley.</p>
+<p>In contrast to water used indoors, water that is used and/or wasted outdoors evaporates and cannot be used again. This is "consumptive use" as the water is consumed and cannot be reused.</p>
+																												
+																		
+																	</div>
+							</div>
+													
+																																																								
+														
+																																																																																																		
+														
+																																		   
+							<div class="Column Width75 BackgroundColor3 ">
+																
+																
+								<div class="ComponentContent">
+																														<div class="Feature MarginNone">
+<h3 class="Title" id="return">Return-flow credits</h3>
+<p>When you take a shower or wash your laundry, the unused water flows into the sewer system. This sewer water travels to a wastewater treatment facility, where it is treated.</p>
+<p>The highly-treated wastewater is returned to the Colorado River via the <a href="../../environment/las-vegas-wash/index.html">Las Vegas Wash</a>, which flows into Lake Mead. The water returned to the lake earns us return-flow credits.</p>
+<p>Every gallon of water that is returned to the Colorado River through return-flow credits allows Southern Nevada to take another gallon out, which stretches our limited water supply.</p>
+<p>With return-flow credits, Nevada can withdraw more than 300,000 acre-feet per year, so long as there are enough flows returned to the river each year that our consumptive use is no greater than 300,000 acre-feet of water per year.</p>
+<div class="VideoEmbed MarginNone PaddingNone"><iframe allowfullscreen="allowfullscreen" height="150" src="https://www.youtube.com/embed/XOfGuRH79DI?si=zIwB32ae8_HEWml3" title="How Las Vegas Recycles 99% of its water" width="300"></iframe></div>
+</div>
+																												
+																		
+																	</div>
+							</div>
+															</div>
+							
+												
+				<div class="ComponentRow ColumnLayout ">
+																		
+																																																	
+														
+																																																																																											
+														
+																																		   
+							<div class="Column  StyleNone ">
+																
+																
+								<div class="ComponentContent">
+																														<div class="PaddingMedium"></div>
+																												
+																		
+																	</div>
+							</div>
+															</div>
+							
+												
+				<div class="ComponentRow ColumnLayout ">
+																		
+																																																	
+														
+																																																																																																		
+														
+																																		   
+							<div class="Column  BackgroundColor2 ">
+																
+																
+								<div class="ComponentContent">
+																														<h3 class="TextAlignCenter" id="conservation">&#128167; Conservation as a resource &#128161;</h3>
+<p class="TextLarger"><a href="../conservation-initiatives/index.html">Water conservation</a> is a cost-effective resource that helps reduce current and future demand for water. Like water reuse and recycling, water conservation helps stretch our community's available water supplies, especially during <a href="../drought-and-shortage/index.html">drought</a>, by freeing up water that is used inefficiently or wasted.</p>
+<p class="TextLarger">Unlike water used indoors, water used outdoors for irrigation and cooling cannot be captured, treated or used again. This is why the SNWA focuses largely on outdoor water conservation and education with <a href="../conservation-initiatives/index.html">programs designed to reduce our community's water use</a>.</p>
+<p><a class="Button Width50 IconNone" href="../../assets/pdf/reports-conservation-plan-2024.pdf">View the Joint Water Conservation Plan (PDF)</a></p>
+																												
+																		
+																	</div>
+							</div>
+															</div>
+							
+												
+				<div class="ComponentRow ColumnLayout ">
+																		
+																																																	
+														
+																																																																																											
+														
+																																		   
+							<div class="Column  StyleNone ">
+																
+																
+								<div class="ComponentContent">
+																														<div class="PaddingMedium"></div>
+																												
+																		
+																	</div>
+							</div>
+															</div>
+							
+												
+				<div class="ComponentRow ColumnLayout ">
+																		
+																																																	
+														
+																																																																																											
+														
+																																		   
+							<div class="Column  StyleNone ">
+																
+																
+								<div class="ComponentContent">
+																														<div class="VideoEmbed MarginNone PaddingNone"><iframe allowfullscreen="allowfullscreen" height="150" src="https://www.youtube.com/embed/tDJm-588-PA?rel=0&amp;showinfo=0" title="Making it rain in Southern Nevada with cloud seeding" width="300"></iframe></div>
+<div class="PaddingSmall"></div>
+<p class="TextLarger">Learn how the Southern Nevada Water Authority uses <a href="https://youtu.be/tDJm-588-PA">cloud seeding technology</a> to boost local groundwater resources and snowpack throughout the Colorado River Basin.</p>
+																												
+																		
+																	</div>
+							</div>
+													
+																																																	
+														
+																																																																																											
+														
+																																		   
+							<div class="Column  StyleNone ">
+																
+																
+								<div class="ComponentContent">
+																														<h2 id="groundwater">Las Vegas Valley groundwater</h2>
+<p>About 10 percent of Southern Nevada's municipal water supply comes from Las Vegas Valley groundwater. Groundwater is pumped from the underground aquifer, which is fed by rain and snowmelt from the mountains surrounding the Las Vegas Valley.</p>
+<p>Our community relied on local groundwater supplies to meet most of its water needs until the early 1970s, when facilities to treat and deliver Colorado River water were constructed. Today, this water source remains a critical component of our community's water resource picture.</p>
+<p>The Las Vegas Valley Water District and North Las Vegas, member agencies of the Southern Nevada Water Authority, have permanent groundwater rights totaling 40,760 acre-feet and 6,201 acre-feet, respectively. The two entities operate about 100 permitted municipal wells in the Las Vegas Valley.</p>
+<p>The Water Authority developed and manages the <a href="https://lasvegasgmp.com/">Las Vegas Valley Groundwater Management Program</a> to help protect the Valley's groundwater basin from being overdrawn and potential sources of contamination.</p>
+																												
+																		
+																	</div>
+							</div>
+															</div>
+							
+												
+				<div class="ComponentRow ColumnLayout ">
+																		
+																																																	
+														
+																																																																																											
+														
+																																		   
+							<div class="Column  StyleNone ">
+																
+																
+								<div class="ComponentContent">
+																														<div class="PaddingMedium"></div>
+																												
+																		
+																	</div>
+							</div>
+															</div>
+							
+												
+				<div class="ComponentRow ColumnLayout ">
+																		
+																																																	
+														
+																																																																																																		
+														
+																																		   
+							<div class="Column  BackgroundAccent3 ">
+																
+																
+								<div class="ComponentContent">
+																														<div class="Feature MarginNone">
+<div class="ColumnCountThree">
+<div>
+<h3 class="Title">Related links</h3>
+</div>
+<div>
+<ul>
+<li><a class="IconPDF" href="../../assets/pdf/bor-contract-colorado-river.pdf">Bureau of Reclamation contract with SNWA for the delivery of Colorado River water</a></li>
+</ul>
+</div>
+<div>
+<ul>
+<li><a href="http://www.usbr.gov/lc/riverops.html">Lower Colorado River operations</a></li>
+</ul>
+</div>
+</div>
+</div>
+																												
+																		
+																	</div>
+							</div>
+															</div>
+					</div>
+	
+	
+		</main>
+		<footer>
+			
+<a href="#Wrapper" id="BackToTop"> <span class="ScreenReader">Back to top</span> </a>
+<div class="Row">
+<p>A Not-For-Profit Water Agency</p>
+</div>
+<div class="Row"><nav aria-label="Subscribe" class="Social">
+<ul>
+<li><span class="SubscribePromo">Subscribe to our newsletter or get seasonal text alerts!</span> <a class="ButtonPrimary" href="../../about/subscribe/index.html">Sign Up</a></li>
+</ul>
+</nav></div>
+<div class="Row"><nav aria-label="Social Media" class="Social">
+<ul>
+<li>
+<ul>
+<li><a class="IconFacebookPurple" href="https://www.facebook.com/499452973479261"> <span class="ScreenReader">Facebook</span> </a></li>
+<li><a class="IconTwitterPurple" href="https://x.com/SNWA_H2O"> <span class="ScreenReader">X</span> </a></li>
+<li><a class="IconInstagramPurple" href="https://www.instagram.com/southernnevadawaterauthority"> <span class="ScreenReader">Instagram</span> </a></li>
+<li><a class="IconYouTubePurple" href="https://www.youtube.com/user/snwavideo"> <span class="ScreenReader">YouTube</span> </a></li>
+<li><a class="IconPinterestPurple" href="https://www.pinterest.com/waterauthority"> <span class="ScreenReader">Pinterest</span> </a></li>
+<li><a class="IconLinkedInPurple" href="https://www.linkedin.com/company/southern-nevada-water-authority"> <span class="ScreenReader">LinkedIn</span> </a></li>
+<li><a class="IconNextdoorPurple" href="https://nextdoor.com/agency/southern-nevada-water-authority-1/"> <span class="ScreenReader">Nextdoor</span> </a></li>
+</ul>
+</li>
+</ul>
+</nav></div>
+<div class="Row"><nav aria-label="Footer">
+<ul>
+<li><a href="../../about/contact-us/index.html">Contact Us</a></li>
+<li><a href="../../about/privacy-policy/index.html">Privacy Policy</a></li>
+<li><a href="../../about/accessibility-policy/index.html">Accessibility Policy</a></li>
+</ul>
+
+<div class="LanguageSelectorContainer"></div>
+</nav>
+<div class="Copyright">
+<ul>
+<li>Copyright &#169; 2026 Southern Nevada Water Authority</li>
+</ul>
+</div>
+</div>
+		</footer>
+		<div id="FooterEnd"></div>
+	</div>
+</body>
+</html>
