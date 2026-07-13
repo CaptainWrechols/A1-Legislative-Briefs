@@ -12,8 +12,8 @@
     "url": "https://water.nv.gov/programs/water-planning",
     "source_key": "S13",
     "http_status": 200,
-    "sha256": "c7bc88c335854eae2f90cf73eebbab796f869ada172ad72533304e6ac4ef59c0",
-    "local_path": "sources/nevada/water-scarcity/raw/S13.pdf"
+    "sha256": "cc69a3c63f48e666aaedbcda63066ba96ab25d1537ff54f53de603d765b1f1bb",
+    "local_path": "sources/nevada/water-scarcity/raw/S13.html"
   },
   {
     "title": "Southern Nevada Water Authority - Where Your Water Comes From",
@@ -21,6 +21,6 @@
     "source_key": "S2",
     "http_status": 200,
     "sha256": "a479f17cd09f7fec3916ab1a5e2709eeb188da6f7c0feaaf7445597890e9f692",
-    "local_path": "sources/nevada/water-scarcity/raw/S2.pdf"
+    "local_path": "sources/nevada/water-scarcity/raw/S2.html"
   }
 ]

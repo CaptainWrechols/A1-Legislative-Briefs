@@ -1,14 +1,20 @@
-# Final Review Report — Nevada Water Scarcity (NELIS Preliminary Preview)
+# Final Review Report — Nevada Water Scarcity (NELIS Preliminary)
 
 **Issue ID:** nevada-04-water-scarcity  
-**Canonical folder:** `briefs/nevada/water-scarcity/nelis-preliminary/`  
-**This folder:** `version-0` (preview copy for PR browsing)  
+**Brief path:** `briefs/nevada/water-scarcity/nelis-preliminary/`  
+**Pipeline:** Agents 2–10 (Agent 1 skipped)  
 **Automated result:** READY FOR HUMAN REVIEW  
 **Recommended human reviewers:** Ryan Echols, Jodi Stephens, Ashley Lovell
 
-## Summary
+## Checklist summary
 
-Executive summary rewritten with (1) Issue Brief–style layout, (2) thematic synthesis of bill purpose/language from NELIS titles, (3) Chicago notes + bibliography. Votes, sponsors, and enactment remain INSUFFICIENT DATA. OpenStates Version 0 should be built separately and must not overwrite `nelis-preliminary/`.
+| Area | Result |
+|------|--------|
+| A. Verification | PASS_WITH_WARNINGS (NELIS titles/URLs only; S2/S13 stored as HTML) |
+| B. Package files | Present (MD, HTML, PDF, appendices A–F, logs, sources-registry) |
+| C. Citations | [S1][S2][S3][S4][S10][S11] present in sources-registry |
+| D. Tone | Nonpartisan; no recommendations; INSUFFICIENT DATA explicit |
+| E. Format lock | Phase 2 Issue Brief structure preserved in HTML/PDF |
 
 ## Blocking issues
 
@@ -16,5 +22,10 @@ None
 
 ## Warnings
 
-- Title-based synthesis only
-- Phase 2 PDF not stored in-repo; Markdown layout approximates Forum Issue Brief structure
+- Enactment, votes, sponsors remain INSUFFICIENT DATA by design (NELIS discovery export)
+- Theme synthesis is title-language based only
+- Do not overwrite this folder with OpenStates outputs
+
+## Human next step
+
+Review `executive-summary.pdf` (print) and `executive-summary.md` (diff/GitHub), then use `docs/review-checklist.md`.

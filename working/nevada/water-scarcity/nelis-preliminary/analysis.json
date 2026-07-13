@@ -1,0 +1,224 @@
+{
+  "issue_id": "nevada-04-water-scarcity",
+  "analyzed_at": "2026-07-13T21:17:46.493653+00:00",
+  "agent": "analyzer",
+  "data_source": "NELIS_ONLY",
+  "session_metrics": {
+    "2019": {
+      "bills_introduced": 36,
+      "bills_heard_in_committee": "INSUFFICIENT DATA",
+      "bills_reaching_floor": "INSUFFICIENT DATA",
+      "bills_enacted": "INSUFFICIENT DATA",
+      "bills_failed_or_stalled": "INSUFFICIENT DATA",
+      "bipartisan_sponsorship": "INSUFFICIENT DATA"
+    },
+    "2021": {
+      "bills_introduced": 33,
+      "bills_heard_in_committee": "INSUFFICIENT DATA",
+      "bills_reaching_floor": "INSUFFICIENT DATA",
+      "bills_enacted": "INSUFFICIENT DATA",
+      "bills_failed_or_stalled": "INSUFFICIENT DATA",
+      "bipartisan_sponsorship": "INSUFFICIENT DATA"
+    },
+    "2023": {
+      "bills_introduced": 36,
+      "bills_heard_in_committee": "INSUFFICIENT DATA",
+      "bills_reaching_floor": "INSUFFICIENT DATA",
+      "bills_enacted": "INSUFFICIENT DATA",
+      "bills_failed_or_stalled": "INSUFFICIENT DATA",
+      "bipartisan_sponsorship": "INSUFFICIENT DATA"
+    },
+    "2025": {
+      "bills_introduced": 42,
+      "bills_heard_in_committee": "INSUFFICIENT DATA",
+      "bills_reaching_floor": "INSUFFICIENT DATA",
+      "bills_enacted": "INSUFFICIENT DATA",
+      "bills_failed_or_stalled": "INSUFFICIENT DATA",
+      "bipartisan_sponsorship": "INSUFFICIENT DATA"
+    }
+  },
+  "patterns": [
+    {
+      "pattern_id": "PAT-001",
+      "label": "general water statute",
+      "sessions_observed": [
+        "2019",
+        "2021",
+        "2023",
+        "2025"
+      ],
+      "bill_identifiers": [
+        "AB30",
+        "AB62",
+        "AB95",
+        "AB163",
+        "AB233",
+        "AB146",
+        "AB19",
+        "AB20",
+        "AB34",
+        "AB90",
+        "AB91",
+        "AB191"
+      ],
+      "bill_count": 28,
+      "typical_outcome": "INSUFFICIENT DATA \u2014 disposition not in NELIS discovery export",
+      "supporting_fact_ids": [
+        "F-154"
+      ],
+      "certainty": "high"
+    },
+    {
+      "pattern_id": "PAT-002",
+      "label": "groundwater",
+      "sessions_observed": [
+        "2019",
+        "2021",
+        "2023",
+        "2025"
+      ],
+      "bill_identifiers": [
+        "SB140",
+        "SB149",
+        "SB112",
+        "SB113",
+        "SB176",
+        "SB180",
+        "AB363"
+      ],
+      "bill_count": 7,
+      "typical_outcome": "INSUFFICIENT DATA \u2014 disposition not in NELIS discovery export",
+      "supporting_fact_ids": [
+        "F-155"
+      ],
+      "certainty": "high"
+    },
+    {
+      "pattern_id": "PAT-003",
+      "label": "dwr appropriations",
+      "sessions_observed": [
+        "2019",
+        "2021",
+        "2023"
+      ],
+      "bill_identifiers": [
+        "SB509",
+        "AB465",
+        "SB155",
+        "SB102",
+        "SB472",
+        "SB473"
+      ],
+      "bill_count": 6,
+      "typical_outcome": "INSUFFICIENT DATA \u2014 disposition not in NELIS discovery export",
+      "supporting_fact_ids": [
+        "F-156"
+      ],
+      "certainty": "high"
+    },
+    {
+      "pattern_id": "PAT-004",
+      "label": "water rights",
+      "sessions_observed": [
+        "2019",
+        "2021",
+        "2023",
+        "2025"
+      ],
+      "bill_identifiers": [
+        "SB236",
+        "SB250",
+        "AB6",
+        "AB470",
+        "SB31"
+      ],
+      "bill_count": 5,
+      "typical_outcome": "INSUFFICIENT DATA \u2014 disposition not in NELIS discovery export",
+      "supporting_fact_ids": [
+        "F-157"
+      ],
+      "certainty": "high"
+    },
+    {
+      "pattern_id": "PAT-005",
+      "label": "water conservation",
+      "sessions_observed": [
+        "2019",
+        "2023",
+        "2025"
+      ],
+      "bill_identifiers": [
+        "AB163",
+        "AB191",
+        "AB220",
+        "AB134"
+      ],
+      "bill_count": 4,
+      "typical_outcome": "INSUFFICIENT DATA \u2014 disposition not in NELIS discovery export",
+      "supporting_fact_ids": [
+        "F-158"
+      ],
+      "certainty": "high"
+    },
+    {
+      "pattern_id": "PAT-006",
+      "label": "colorado river",
+      "sessions_observed": [
+        "2019",
+        "2021",
+        "2023"
+      ],
+      "bill_identifiers": [
+        "SB76",
+        "AB15",
+        "SJR3"
+      ],
+      "bill_count": 3,
+      "typical_outcome": "INSUFFICIENT DATA \u2014 disposition not in NELIS discovery export",
+      "supporting_fact_ids": [
+        "F-159"
+      ],
+      "certainty": "high"
+    },
+    {
+      "pattern_id": "PAT-007",
+      "label": "treatment recycling",
+      "sessions_observed": [
+        "2019"
+      ],
+      "bill_identifiers": [
+        "AB265"
+      ],
+      "bill_count": 1,
+      "typical_outcome": "INSUFFICIENT DATA \u2014 disposition not in NELIS discovery export",
+      "supporting_fact_ids": [
+        "F-160"
+      ],
+      "certainty": "low"
+    },
+    {
+      "pattern_id": "PAT-008",
+      "label": "drought planning",
+      "sessions_observed": [
+        "2019"
+      ],
+      "bill_identifiers": [
+        "SB499"
+      ],
+      "bill_count": 1,
+      "typical_outcome": "INSUFFICIENT DATA \u2014 disposition not in NELIS discovery export",
+      "supporting_fact_ids": [
+        "F-161"
+      ],
+      "certainty": "low"
+    }
+  ],
+  "enacted_policy_impact": "IMPACT_DATA_NOT_AVAILABLE for all bills \u2014 enactment fields not collected",
+  "viability_indicators": [
+    "Historically, bills on water-related title themes appear in each of the last 4 Nevada regular sessions.",
+    "Enacted legislation rates on this topic are INSUFFICIENT DATA for the NELIS discovery export.",
+    "Bipartisan sponsorship appeared on INSUFFICIENT DATA of bills (party fields absent).",
+    "Data gaps prevent assessment of committee survival and floor passage."
+  ],
+  "total_bills": 147
+}

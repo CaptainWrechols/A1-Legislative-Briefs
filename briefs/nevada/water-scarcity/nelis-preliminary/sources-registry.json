@@ -3,36 +3,46 @@
   "brief_variant": "nelis-preliminary",
   "citation_style": "Chicago bibliography entries keyed like Phase 2 [S#]",
   "format_reference": "briefs/phase-2/nevada/water-scarcity/issue-brief-v1.5.pdf",
-  "generated_at": "2026-07-13T21:00:00+00:00",
+  "pipeline_agents": "2-10",
+  "data_source": "NELIS_ONLY",
+  "generated_at": "2026-07-13T21:20:00+00:00",
   "sources": [
     {
       "key": "S1",
       "chicago_bibliography": "Nevada Division of Water Resources. “Water Planning.” Nevada Division of Water Resources. Accessed July 13, 2026. https://water.nv.gov/programs/water-planning.",
       "url": "https://water.nv.gov/programs/water-planning",
-      "type": "agency_document",
-      "legacy_key": "S13"
+      "type": "agency_document"
     },
     {
       "key": "S2",
       "chicago_bibliography": "Southern Nevada Water Authority. “Where Your Water Comes From.” Southern Nevada Water Authority. Accessed July 13, 2026. https://www.snwa.com/water-resources/where-water-comes-from/.",
       "url": "https://www.snwa.com/water-resources/where-water-comes-from/",
-      "type": "agency_document",
-      "legacy_key": "S2"
+      "type": "agency_document"
     },
     {
       "key": "S3",
       "chicago_bibliography": "Nevada Legislative Counsel Bureau. Data Centers Background Information. Interim committee document no. 32531. Nevada Legislature. https://www.leg.state.nv.us/App/InterimCommittee/REL/Document/32531.",
       "url": "https://www.leg.state.nv.us/App/InterimCommittee/REL/Document/32531",
-      "type": "agency_document",
-      "legacy_key": "S25"
+      "type": "agency_document"
     },
     {
       "key": "S4",
       "chicago_bibliography": "Nevada Legislature. Nevada Electronic Legislative Information System (NELIS). Bill search compilation for the 80th–83rd Regular Sessions. Accessed July 13, 2026. https://www.leg.state.nv.us/App/NELIS/.",
       "url": "https://www.leg.state.nv.us/App/NELIS/",
       "type": "bill_record",
-      "legacy_key": "S-NELIS",
       "used_in_appendices": ["appendix-a-bills.md"]
+    },
+    {
+      "key": "S10",
+      "chicago_bibliography": "Nevada Revised Statutes Chapter 533. https://www.leg.state.nv.us/NRS/NRS-533.html.",
+      "url": "https://www.leg.state.nv.us/NRS/NRS-533.html",
+      "type": "statute"
+    },
+    {
+      "key": "S11",
+      "chicago_bibliography": "Nevada Revised Statutes Chapter 534. https://www.leg.state.nv.us/NRS/NRS-534.html.",
+      "url": "https://www.leg.state.nv.us/NRS/NRS-534.html",
+      "type": "statute"
     }
   ]
 }

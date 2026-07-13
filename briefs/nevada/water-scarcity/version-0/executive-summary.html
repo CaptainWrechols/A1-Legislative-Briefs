@@ -10,7 +10,6 @@
       --orange: #c45c26;
       --ink: #2a2a2a;
       --muted: #5a5a5a;
-      --rule: #1b2a4a;
       --box: #d9d9d9;
       --bg: #ffffff;
     }
@@ -27,7 +26,6 @@
       margin: 24px auto;
       background: var(--bg);
       padding: 0.55in 0.65in 0.7in;
-      box-shadow: 0 2px 16px rgba(0,0,0,0.12);
     }
     .brand {
       font-size: 11px;
@@ -36,10 +34,7 @@
       color: var(--navy);
       text-transform: uppercase;
     }
-    .topline {
-      border-top: 2px solid var(--navy);
-      margin: 6px 0 10px;
-    }
+    .topline { border-top: 2px solid var(--navy); margin: 6px 0 10px; }
     .eyebrow {
       text-align: center;
       font-size: 10px;
@@ -56,11 +51,7 @@
       line-height: 1.15;
       font-weight: 700;
     }
-    .title-rule {
-      border: 0;
-      border-top: 3px solid var(--navy);
-      margin: 0 0 16px;
-    }
+    .title-rule { border: 0; border-top: 3px solid var(--navy); margin: 0 0 16px; }
     h2 {
       margin: 18px 0 8px;
       font-size: 12px;
@@ -69,21 +60,11 @@
       text-transform: uppercase;
       font-weight: 700;
     }
-    p { margin: 0 0 10px; font-size: 12.5px; color: var(--ink); }
-    .note {
-      font-size: 11.5px;
-      color: var(--muted);
-      margin-bottom: 10px;
-    }
+    p { margin: 0 0 10px; font-size: 12.5px; }
+    .note { font-size: 11.5px; color: var(--muted); margin-bottom: 10px; }
     .grid-5 {
       display: grid;
       grid-template-columns: repeat(5, 1fr);
-      gap: 8px;
-      margin: 8px 0 14px;
-    }
-    .grid-4 {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
       gap: 8px;
       margin: 8px 0 14px;
     }
@@ -100,11 +81,7 @@
       margin: 0 0 6px;
       line-height: 1;
     }
-    .card p {
-      font-size: 10.5px;
-      margin: 0;
-      color: var(--ink);
-    }
+    .card p { font-size: 10.5px; margin: 0; }
     table {
       width: 100%;
       border-collapse: collapse;
@@ -125,23 +102,11 @@
       vertical-align: top;
     }
     td:first-child { font-weight: 700; color: var(--navy); }
-    .insuf {
-      font-weight: 700;
-      letter-spacing: 0.02em;
-      color: var(--navy);
-    }
-    .two-col {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 16px;
-    }
+    .insuf { font-weight: 700; color: var(--navy); }
+    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
     ul { margin: 0 0 10px 18px; padding: 0; font-size: 12px; }
     li { margin-bottom: 4px; }
-    .sources {
-      font-size: 11px;
-      columns: 2;
-      column-gap: 18px;
-    }
+    .sources { font-size: 11px; columns: 2; column-gap: 18px; }
     .sources p { font-size: 11px; break-inside: avoid; margin: 0 0 8px; }
     .footer {
       margin-top: 18px;
@@ -151,25 +116,11 @@
       color: var(--muted);
     }
     @media print {
-      @page {
-        size: letter;
-        margin: 0.5in;
-      }
+      @page { size: letter; margin: 0.5in; }
       body { background: #fff; }
-      .page {
-        margin: 0;
-        box-shadow: none;
-        max-width: none;
-        padding: 0;
-      }
-      h2 { break-after: avoid; page-break-after: avoid; }
-      table, .card, .grid-5, .two-col { break-inside: avoid; page-break-inside: avoid; }
-      .footer { break-before: avoid; }
-    }
-    @media (max-width: 800px) {
-      .grid-5, .grid-4, .two-col { grid-template-columns: 1fr 1fr; }
-      .sources { columns: 1; }
-      .page { margin: 0; padding: 20px; }
+      .page { margin: 0; max-width: none; padding: 0; }
+      h2 { break-after: avoid; }
+      table, .card, .grid-5 { break-inside: avoid; }
     }
   </style>
 </head>
@@ -183,50 +134,31 @@
 
     <h2>What This Brief Is About</h2>
     <p>
-      This preliminary Legislative Brief shows what a completed briefing package looks like using
-      <strong>Nevada Legislature Information System (NELIS) bill-discovery data only</strong>.
-      It synthesizes the <strong>stated purpose and drafting language</strong> visible in NELIS bill titles
-      for water-related measures filed in the 2019, 2021, 2023, and 2025 regular sessions.
-      It is not a deliberation guide and not the final Version 0 brief.
-      A separate clean Version 0 will be built when enriched action, vote, sponsor, and enactment data are ready.
-      Where NELIS does not supply a needed fact, this brief states <span class="insuf">INSUFFICIENT DATA</span>.
+      This preliminary Legislative Brief is a NELIS-only package for internal Forum review.
+      It organizes <strong>147 unique water-related bills</strong> identified in Nevada Electronic Legislative Information System (NELIS) title/summary search across the 2019, 2021, 2023, and 2025 regular sessions. [S4]
+      Synthesis below describes <strong>purpose cues and drafting language visible in bill titles</strong>.
+      It is not a deliberation guide and not the final OpenStates-enriched Version 0.
+      Where NELIS discovery fields do not include a needed fact, this brief states <span class="insuf">INSUFFICIENT DATA</span>.
     </p>
 
     <h2>Key Statistics</h2>
     <div class="grid-5">
-      <div class="card">
-        <div class="stat">147</div>
-        <p>Unique water-related bills identified in NELIS title/summary search across four sessions. [S4]</p>
-      </div>
-      <div class="card">
-        <div class="stat">36</div>
-        <p>Water-related bills in the 80th (2019) Regular Session NELIS search set. [S4]</p>
-      </div>
-      <div class="card">
-        <div class="stat">33</div>
-        <p>Water-related bills in the 81st (2021) Regular Session NELIS search set. [S4]</p>
-      </div>
-      <div class="card">
-        <div class="stat">36</div>
-        <p>Water-related bills in the 82nd (2023) Regular Session NELIS search set. [S4]</p>
-      </div>
-      <div class="card">
-        <div class="stat">42</div>
-        <p>Water-related bills in the 83rd (2025) Regular Session NELIS search set. [S4]</p>
-      </div>
+      <div class="card"><div class="stat">147</div><p>Unique water-related bills in the NELIS search set across four sessions. [S4]</p></div>
+      <div class="card"><div class="stat">36</div><p>Bills in the 80th (2019) Regular Session search set. [S4]</p></div>
+      <div class="card"><div class="stat">33</div><p>Bills in the 81st (2021) Regular Session search set. [S4]</p></div>
+      <div class="card"><div class="stat">36</div><p>Bills in the 82nd (2023) Regular Session search set. [S4]</p></div>
+      <div class="card"><div class="stat">42</div><p>Bills in the 83rd (2025) Regular Session search set. [S4]</p></div>
     </div>
 
     <h2>Bill Themes And Drafting Language</h2>
     <p class="note">
-      NELIS records used here include identifier, session, title, and source URL only.
-      Purpose statements below are inferred from title language (including BDR chapter cues such as BDR 48-…).
-      Enacted impact, votes, and sponsors are <span class="insuf">INSUFFICIENT DATA</span>. [S4]
+      Analyzer title-language clusters from verified NELIS bills. Outcomes (committee/floor/enactment) are <span class="insuf">INSUFFICIENT DATA</span>. [S4]
     </p>
     <table>
       <thead>
         <tr>
           <th>Theme family</th>
-          <th>What title language suggests</th>
+          <th>Bills in cluster</th>
           <th>Illustrative bills</th>
           <th>Purpose clue (title only)</th>
           <th>Impact / outcome</th>
@@ -235,51 +167,51 @@
       <tbody>
         <tr>
           <td>General water statute revisions</td>
-          <td>“Revises provisions governing/relating to/related to water”</td>
+          <td>28</td>
           <td>AB30, AB51, AB62, AB95 (2019); AB19, AB20 (2023)</td>
-          <td>Amend existing water law chapters rather than name a single program</td>
+          <td>Amend existing water-law provisions rather than name a single program</td>
           <td><span class="insuf">INSUFFICIENT DATA</span></td>
         </tr>
         <tr>
           <td>Groundwater basins &amp; boards</td>
-          <td>“groundwater,” “basin,” “boards,” “management plans”</td>
+          <td>7</td>
           <td>SB140 (2019); SB149 (2021); SB112, SB113, SB176, SB180 (2023); AB363 (2025)</td>
-          <td>Change basin governance, assessments, boards, or groundwater conservation</td>
+          <td>Change basin use, boards, assessments, management plans, or groundwater conservation</td>
+          <td><span class="insuf">INSUFFICIENT DATA</span></td>
+        </tr>
+        <tr>
+          <td>Division of Water Resources appropriations</td>
+          <td>6</td>
+          <td>SB509 (2019); AB465 (2021); SB102, SB472, SB473 (2023)</td>
+          <td>Fund agency vehicles, systems, or related DWR operations</td>
           <td><span class="insuf">INSUFFICIENT DATA</span></td>
         </tr>
         <tr>
           <td>Water rights, diversion, dedication</td>
-          <td>“water rights,” “diversion,” “appropriated water,” “dedication”</td>
+          <td>5</td>
           <td>SB236, SB250 (2019); AB6 (2021)</td>
-          <td>Adjust rights administration or change-of-use process</td>
+          <td>Adjust diversion, dedication, or temporary change of appropriated water</td>
           <td><span class="insuf">INSUFFICIENT DATA</span></td>
         </tr>
         <tr>
           <td>Water conservation</td>
-          <td>“water conservation” (distinct from DNCR agency titles)</td>
+          <td>4</td>
           <td>AB163 (2019); AB191, AB220 (2023); AB134 (2025)</td>
-          <td>Revise or establish conservation provisions</td>
+          <td>Revise or establish water-conservation provisions</td>
           <td><span class="insuf">INSUFFICIENT DATA</span></td>
         </tr>
         <tr>
           <td>Colorado River institutions</td>
-          <td>“Colorado River Commission,” “Bureau of Reclamation”</td>
+          <td>3</td>
           <td>SB76 (2019); AB15 (2021); SJR3 (2023)</td>
-          <td>Change CRC services/membership or memorialize a federal request</td>
+          <td>Change CRC services/membership or memorialize a Reclamation request</td>
           <td><span class="insuf">INSUFFICIENT DATA</span></td>
         </tr>
         <tr>
-          <td>Planning, drought, studies</td>
-          <td>“drought resiliency,” “planning,” “study,” “recycling”</td>
-          <td>SB499, AB265 (2019)</td>
-          <td>Create advisory capacity or commission research</td>
-          <td><span class="insuf">INSUFFICIENT DATA</span></td>
-        </tr>
-        <tr>
-          <td>Agency capacity / appropriations</td>
-          <td>Appropriations to Division of Water Resources or DNCR</td>
-          <td>SB509 (2019); AB465 (2021); SB102, SB472, SB473 (2023)</td>
-          <td>Fund vehicles, software, or related agency operations</td>
+          <td>Planning / drought / studies</td>
+          <td>2</td>
+          <td>SB499 (2019); AB265 (2019)</td>
+          <td>Create advisory drought/planning capacity or commission a treatment/recycling study</td>
           <td><span class="insuf">INSUFFICIENT DATA</span></td>
         </tr>
       </tbody>
@@ -289,61 +221,53 @@
     <div class="two-col">
       <div>
         <p>
-          Nevada’s water pressures sit at the intersection of Colorado River reliability,
-          groundwater basin management, conservation rules, and growth-related demand. [S1][S2]
-          Southern Nevada’s supply picture is tied to Colorado River conditions and related institutions;
-          rural and northern questions often appear through groundwater, rights, and basin tools in bill titles. [S2][S4]
+          Agency context materials describe Southern Nevada supply dependence on the Colorado River system
+          and an ongoing state water-planning function. [S1][S2]
+          Across four sessions, NELIS search shows a steady cadence of water-tagged filings
+          (36, 33, 36, then 42 in 2025). [S4]
         </p>
         <p>
-          Across four sessions, NELIS search finds a steady cadence of water-tagged filings
-          (roughly three dozen per session, 42 in 2025). Generic statute-revision titles are common,
-          while groundwater, rights, conservation, and Colorado River institutions recur as named themes. [S4]
+          Title language repeatedly returns to general water-statute revision, groundwater instruments,
+          rights administration, conservation, Colorado River institutions, and DWR capacity. [S4]
         </p>
       </div>
       <div>
         <p>
-          <span class="insuf">INSUFFICIENT DATA</span> for which bills received committee votes,
-          floor votes, crossed over, received second-chamber action, or were signed into law.
-          Those milestones are outside the NELIS discovery fields used for this preliminary package. [S4]
+          <span class="insuf">INSUFFICIENT DATA</span> for committee votes, floor votes, crossover,
+          second-chamber action, individual yeas/nays, sponsors/cosponsors, or signed-into-law outcomes. [S4]
         </p>
         <p>
-          Agency/LCB context documents frame why scarcity appears on the calendar
-          (including data-center background), but they do not identify which of the 147 bills passed. [S3]
+          An LCB data-centers background memo is included as growth/large-user context; it does not identify
+          which of the 147 bills passed. [S3]
         </p>
       </div>
     </div>
 
     <h2>How This Works In Nevada (Institutions Named In Sources)</h2>
     <p>
-      Collected agency materials place water administration with the State Engineer / Division of Water Resources
-      under state law, including water-rights and groundwater tools. [S1]
-      Southern Nevada supply context includes SNWA description of Colorado River dependence. [S2]
-      Bill titles also name the Colorado River Commission of Nevada and, in at least one resolution,
-      the U.S. Bureau of Reclamation. [S4]
-      A local land-use approval does not by itself create new water; water availability remains a distinct legal and physical question. [S1][S2]
+      Collected materials place water administration with the Division of Water Resources / State Engineer under
+      Nevada water statutes (including NRS Chapters 533 and 534 as linked in this package). [S1][S10][S11]
+      Southern Nevada supply framing appears in SNWA public materials. [S2]
+      Bill titles additionally name the Colorado River Commission of Nevada and, in SJR3 (2023), the U.S. Bureau of Reclamation. [S4]
     </p>
 
     <h2>What Is Currently Being Introduced (From NELIS Titles)</h2>
     <div class="two-col">
       <div>
-        <p><strong>Conservation and general water statute work.</strong>
-          Repeated “revises provisions … water” and “water conservation” titles indicate incremental statutory drafting. [S4]</p>
-        <p><strong>Groundwater management.</strong>
-          Titles on basins, boards, assessments, management plans, and groundwater conservation recur from 2019 through 2025. [S4]</p>
+        <p><strong>Conservation and general water statute work.</strong> Twenty-eight titles use stock “revises provisions … water” language; four titles expressly address water conservation. [S4]</p>
+        <p><strong>Groundwater management.</strong> Seven titles name basins, boards, assessments, management plans, or groundwater conservation across 2019–2025. [S4]</p>
       </div>
       <div>
-        <p><strong>Colorado River / CRC interface.</strong>
-          CRC service and membership bills plus a 2023 Reclamation-focused joint resolution. [S4]</p>
-        <p><strong>Rights and agency capacity.</strong>
-          Diversion/dedication/appropriation-change titles, plus DWR appropriations for equipment and systems. [S4]</p>
+        <p><strong>Colorado River / CRC interface.</strong> CRC service and membership measures plus a 2023 Reclamation-focused joint resolution. [S4]</p>
+        <p><strong>Rights and agency capacity.</strong> Diversion/dedication/temporary-change titles, plus multiple DWR appropriations. [S4]</p>
       </div>
     </div>
 
     <h2>Assembly Viability Indicators (Preliminary)</h2>
     <p>
-      Evidence from NELIS titles alone suggests water scarcity and long-term supply remain active legislative subjects,
-      with recurring drafting around groundwater, rights, conservation, and Colorado River institutions. [S4]
-      Data gaps prevent assessment of enactment rates, bipartisan sponsorship, or which draft approaches most often survive committee.
+      Historically, bills on groundwater, water rights, conservation, and Colorado River institutions have appeared across multiple recent Nevada sessions. [S4]
+      Enacted legislation rates and bipartisan sponsorship are <span class="insuf">INSUFFICIENT DATA</span> in this export.
+      Data gaps prevent assessment of committee and floor survivorship.
     </p>
 
     <h2>Key Data Gaps</h2>
@@ -360,21 +284,22 @@
 
     <h2>Selected Sources</h2>
     <p class="note">
-      Source key: <code>S</code> sources are public materials used for factual or background claims.
-      Citation form below follows Chicago notes-bibliography style, keyed for brief use.
-      Process inputs from Phase 2 Issue Briefs are not used as legislative facts in this NELIS-only package.
+      <code>S</code> sources are public materials. Chicago bibliography form, keyed like Phase 2 Issue Brief style.
+      Phase 2 Issue Brief v1.5 is a format reference only, not a legislative-outcome source.
     </p>
     <div class="sources">
       <p><strong>[S1]</strong> Nevada Division of Water Resources. “Water Planning.” <em>Nevada Division of Water Resources</em>. Accessed July 13, 2026. https://water.nv.gov/programs/water-planning.</p>
       <p><strong>[S2]</strong> Southern Nevada Water Authority. “Where Your Water Comes From.” <em>Southern Nevada Water Authority</em>. Accessed July 13, 2026. https://www.snwa.com/water-resources/where-water-comes-from/.</p>
       <p><strong>[S3]</strong> Nevada Legislative Counsel Bureau. <em>Data Centers Background Information</em>. Interim committee document no. 32531. Nevada Legislature. https://www.leg.state.nv.us/App/InterimCommittee/REL/Document/32531.</p>
-      <p><strong>[S4]</strong> Nevada Legislature. Nevada Electronic Legislative Information System (NELIS). Bill search compilation for the 80th–83rd Regular Sessions, water-related measures. Accessed July 13, 2026. https://www.leg.state.nv.us/App/NELIS/. Individual bills listed in Appendix A.</p>
+      <p><strong>[S4]</strong> Nevada Legislature. Nevada Electronic Legislative Information System (NELIS). Bill search compilation for the 80th–83rd Regular Sessions, water-related measures. Accessed July 13, 2026. https://www.leg.state.nv.us/App/NELIS/. See Appendix A.</p>
+      <p><strong>[S10]</strong> Nevada Revised Statutes Chapter 533. https://www.leg.state.nv.us/NRS/NRS-533.html.</p>
+      <p><strong>[S11]</strong> Nevada Revised Statutes Chapter 534. https://www.leg.state.nv.us/NRS/NRS-534.html.</p>
     </div>
 
     <p class="footer">
-      The Forum · Legislative Brief Preliminary (NELIS only) · Growth, Water Scarcity, and Long-Term Supply In Nevada · DRAFT ·
-      Layout modeled on Phase 2 Issue Brief v1.5; language and content are legislative briefing, not deliberation options.
-      Format reference: briefs/phase-2/nevada/water-scarcity/issue-brief-v1.5.pdf
+      The Forum · Legislative Brief Preliminary (NELIS only) · Pipeline agents 2–10 · DRAFT ·
+      Format reference: briefs/phase-2/nevada/water-scarcity/issue-brief-v1.5.pdf ·
+      Reviewers: Ryan Echols, Jodi Stephens, Ashley Lovell
     </p>
   </article>
 </body>

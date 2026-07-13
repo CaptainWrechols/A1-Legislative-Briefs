@@ -1,7 +1,8 @@
 {
   "issue_id": "nevada-04-water-scarcity",
-  "verified_at": "2026-07-13T17:30:00+00:00",
+  "verified_at": "2026-07-13T21:17:12.351639+00:00",
   "agent": "data-verifier",
+  "data_source": "NELIS_ONLY",
   "overall_status": "PASS_WITH_WARNINGS",
   "checks": [
     {
@@ -10,19 +11,118 @@
       "bill_count": 147
     },
     {
-      "check_id": "agency_documents",
+      "check_id": "bill_identifiers",
       "status": "PASS",
-      "notes": "Three agency PDFs collected"
+      "failed": 0
+    },
+    {
+      "check_id": "bill_sessions",
+      "status": "PASS",
+      "failed": 0,
+      "bad": []
+    },
+    {
+      "check_id": "bill_source_urls",
+      "status": "PASS",
+      "missing_url": 0
     },
     {
       "check_id": "bill_actions",
       "status": "WARN",
-      "notes": "Action timelines not yet collected"
+      "notes": "Action timelines not collected in NELIS discovery export",
+      "count": 0
+    },
+    {
+      "check_id": "bill_votes",
+      "status": "WARN",
+      "notes": "Vote records not collected in NELIS discovery export",
+      "count": 0
+    },
+    {
+      "check_id": "raw_pdf_integrity",
+      "status": "PASS",
+      "passed": 1,
+      "failed_files": [],
+      "notes": "S2/S13 stored as HTML snapshots (source pages are HTML, not PDF)"
+    },
+    {
+      "check_id": "links_alive",
+      "status": "PASS",
+      "passed": 21,
+      "failed": 0,
+      "checked": 21
+    },
+    {
+      "check_id": "official_page_spotcheck",
+      "status": "PASS_WITH_WARNINGS",
+      "samples": [
+        {
+          "bill": "AB30",
+          "official_page_match": true,
+          "http": 200
+        },
+        {
+          "bill": "SB423",
+          "official_page_match": true,
+          "http": 200
+        },
+        {
+          "bill": "AB229",
+          "official_page_match": true,
+          "http": 200
+        },
+        {
+          "bill": "AB5",
+          "official_page_match": true,
+          "http": 200
+        },
+        {
+          "bill": "SB98",
+          "official_page_match": true,
+          "http": 200
+        },
+        {
+          "bill": "AB452",
+          "official_page_match": true,
+          "http": 200
+        },
+        {
+          "bill": "AB90",
+          "official_page_match": true,
+          "http": 200
+        },
+        {
+          "bill": "AB91",
+          "official_page_match": true,
+          "http": 200
+        },
+        {
+          "bill": "SB112",
+          "official_page_match": true,
+          "http": 200
+        },
+        {
+          "bill": "AB164",
+          "official_page_match": true,
+          "http": 200
+        },
+        {
+          "bill": "AB104",
+          "official_page_match": true,
+          "http": 200
+        },
+        {
+          "bill": "AB132",
+          "official_page_match": true,
+          "http": 200
+        }
+      ]
     }
   ],
   "blocking_issues": [],
   "warnings": [
-    "OpenStates returned zero bills; NELIS used as primary source",
-    "Bill disposition and vote data pending"
+    "NELIS discovery export has bill titles/URLs only; actions and votes empty",
+    "Bills marked incomplete for action/vote history",
+    "S2 and S13 agency pages saved as .html (not PDFs)"
   ]
 }
