@@ -15,6 +15,7 @@
 |------|-------------|
 | executive-summary.md | Issue Brief–style overview (GitHub-readable Markdown) |
 | executive-summary.html | Visual layout matching Phase 2 Issue Brief v1.5 |
+| executive-summary.pdf | Printable letter-size PDF (3 pages) |
 | appendix-a-bills.md | Bill master table (147 NELIS bills) |
 | appendix-b-bill-actions.md | Actions — INSUFFICIENT DATA |
 | appendix-c-votes.md | Votes — INSUFFICIENT DATA |
@@ -38,3 +39,13 @@ Phase 2 Issue Brief PDF (canonical path):
 Upload typo path (also present):
 
 `briefs/phasse-2/nevada/water-scarcity/`
+
+
+## Printable PDF
+
+```bash
+pip install weasyprint
+python collectors/render_nelis_brief_pdf.py
+```
+
+Then open `executive-summary.pdf` and print.

@@ -151,8 +151,20 @@
       color: var(--muted);
     }
     @media print {
+      @page {
+        size: letter;
+        margin: 0.5in;
+      }
       body { background: #fff; }
-      .page { margin: 0; box-shadow: none; max-width: none; }
+      .page {
+        margin: 0;
+        box-shadow: none;
+        max-width: none;
+        padding: 0;
+      }
+      h2 { break-after: avoid; page-break-after: avoid; }
+      table, .card, .grid-5, .two-col { break-inside: avoid; page-break-inside: avoid; }
+      .footer { break-before: avoid; }
     }
     @media (max-width: 800px) {
       .grid-5, .grid-4, .two-col { grid-template-columns: 1fr 1fr; }
