@@ -19,6 +19,9 @@ OUTPUT_DIR = Path("sources/nevada/water-scarcity/processed")
 RAW_DIR = Path("sources/nevada/water-scarcity/raw")
 MANIFEST_PATH = Path("sources/nevada/water-scarcity/manifest.json")
 OPENSTATES_BASE_URL = "https://v3.openstates.org/bills"
+PER_PAGE = 20
+PAGE_DELAY_SECONDS = 1.0
+SEARCH_DELAY_SECONDS = 1.5
 
 
 def load_config() -> dict:
@@ -60,78 +63,95 @@ def normalize_sessions(config: dict) -> list[dict]:
     return normalized
 
 
-def fetch_session_bills(
+def bill_key(bill: dict) -> str:
+    return str(bill.get("id") or f"{bill.get('session')}:{bill.get('identifier')}")
+
+
+def paginate_bills(
     api_key: str,
-    jurisdiction: str,
-    session_identifier: str,
+    params: dict,
+    label: str,
     max_retries: int = 3,
-) -> list[dict]:
-    """Fetch all bills for a jurisdiction and session (no full-text query)."""
+) -> tuple[list[dict], dict]:
+    """Paginate /bills with retries; keep partial results if a page fails."""
     headers = {"X-API-KEY": api_key}
     page = 1
-    per_page = 20
     all_results: list[dict] = []
+    meta = {
+        "http_status": 200,
+        "pages_fetched": 0,
+        "incomplete": False,
+        "notes": "",
+    }
 
     while True:
-        params = {
-            "jurisdiction": jurisdiction,
-            "session": session_identifier,
-            "per_page": per_page,
+        page_params = {
+            **params,
+            "per_page": PER_PAGE,
             "page": page,
             "apikey": api_key,
         }
-        last_error: requests.RequestException | None = None
         data: dict | None = None
+        last_error: requests.RequestException | None = None
 
         for attempt in range(max_retries):
             try:
                 response = requests.get(
                     OPENSTATES_BASE_URL,
-                    params=params,
+                    params=page_params,
                     headers=headers,
                     timeout=120,
                 )
                 response.raise_for_status()
                 data = response.json()
+                meta["http_status"] = response.status_code
                 break
             except requests.RequestException as exc:
                 last_error = exc
-                wait = 2 ** attempt
-                print(f"  page {page} attempt {attempt + 1} failed ({exc}); retry in {wait}s")
+                wait = 2**attempt
+                print(f"  {label} page {page} attempt {attempt + 1} failed ({exc}); retry in {wait}s")
                 time.sleep(wait)
 
         if data is None:
-            raise last_error or RuntimeError(f"Failed to fetch page {page}")
+            meta["incomplete"] = True
+            response = getattr(last_error, "response", None)
+            meta["http_status"] = getattr(response, "status_code", None) or 0
+            meta["notes"] = sanitize_error_message(str(last_error), api_key) if last_error else ""
+            if all_results:
+                print(f"  {label}: keeping {len(all_results)} partial results after page {page} failure")
+            break
 
         results = data.get("results", [])
         all_results.extend(results)
-        print(f"  page {page}: {len(results)} bills (running total {len(all_results)})")
+        meta["pages_fetched"] = page
+        print(f"  {label} page {page}: {len(results)} bills (running total {len(all_results)})")
 
         pagination = data.get("pagination") or {}
         max_page = pagination.get("max_page", page)
         if page >= max_page or not results:
             break
         page += 1
-        time.sleep(0.5)
+        time.sleep(PAGE_DELAY_SECONDS)
 
-    return all_results
-
-
-def bill_text_blob(bill: dict) -> str:
-    parts = [
-        bill.get("identifier") or "",
-        bill.get("title") or "",
-    ]
-    for abstract in bill.get("abstracts") or []:
-        parts.append(abstract.get("abstract") or "")
-    for subject in bill.get("subject") or []:
-        parts.append(str(subject))
-    return " ".join(parts).lower()
+    return all_results, meta
 
 
-def bill_matches_terms(bill: dict, search_terms: list[str]) -> bool:
-    blob = bill_text_blob(bill)
-    return any(term.lower() in blob for term in search_terms)
+def search_bills_by_term(
+    api_key: str,
+    jurisdiction: str,
+    session_identifier: str,
+    search_term: str,
+) -> tuple[list[dict], dict]:
+    label = f"q={search_term!r} session={session_identifier}"
+    return paginate_bills(
+        api_key,
+        {
+            "jurisdiction": jurisdiction,
+            "session": session_identifier,
+            "q": search_term,
+        },
+        label=label,
+    )
 
 
 def sha256_bytes(data: bytes) -> str:
@@ -205,53 +225,62 @@ def main() -> None:
         session_id = session_entry["openstates_identifier"]
         session_label = session_entry.get("label", session_id)
         session_name = session_entry.get("name", session_label)
+        session_unique: dict[str, dict] = {}
+
         print(
-            f"Fetching all bills for {jurisdiction} session {session_label} "
+            f"Searching {jurisdiction} session {session_label} "
             f"(OpenStates id={session_id}, {session_name})"
         )
-        try:
-            session_bills = fetch_session_bills(api_key, jurisdiction, session_id)
-            matched = [b for b in session_bills if bill_matches_terms(b, search_terms)]
-            print(
-                f"  -> {len(session_bills)} total bills in session; "
-                f"{len(matched)} match water-related search terms"
-            )
-            manifest_items.append(
-                {
-                    "source_key": f"S-{source_counter:03d}",
-                    "type": "session_bill_fetch",
-                    "url": OPENSTATES_BASE_URL,
-                    "session_label": session_label,
-                    "openstates_session_identifier": session_id,
-                    "session_name": session_name,
-                    "total_bills_in_session": len(session_bills),
-                    "matched_bill_count": len(matched),
-                    "search_terms": search_terms,
-                    "http_status": 200,
-                    "notes": "",
-                }
-            )
-            source_counter += 1
-            for bill in matched:
-                bill_id = bill.get("id") or bill.get("identifier")
-                all_bills[str(bill_id)] = bill
-        except requests.RequestException as exc:
-            manifest_items.append(
-                {
-                    "source_key": f"S-{source_counter:03d}",
-                    "type": "session_bill_fetch",
-                    "url": OPENSTATES_BASE_URL,
-                    "session_label": session_label,
-                    "openstates_session_identifier": session_id,
-                    "session_name": session_name,
-                    "total_bills_in_session": 0,
-                    "matched_bill_count": 0,
-                    "search_terms": search_terms,
-                    "http_status": getattr(exc.response, "status_code", None),
-                    "notes": sanitize_error_message(str(exc), api_key),
-                }
-            )
-            source_counter += 1
+
+        for search_term in search_terms:
+            print(f"  search term: {search_term}")
+            try:
+                results, meta = search_bills_by_term(
+                    api_key, jurisdiction, session_id, search_term
+                )
+                for bill in results:
+                    session_unique[bill_key(bill)] = bill
+                manifest_items.append(
+                    {
+                        "source_key": f"S-{source_counter:03d}",
+                        "type": "bill_search",
+                        "url": OPENSTATES_BASE_URL,
+                        "search_term": search_term,
+                        "session_label": session_label,
+                        "openstates_session_identifier": session_id,
+                        "session_name": session_name,
+                        "bill_count": len(results),
+                        "session_unique_so_far": len(session_unique),
+                        "http_status": meta["http_status"],
+                        "incomplete": meta["incomplete"],
+                        "notes": meta["notes"],
+                    }
+                )
+                source_counter += 1
+                print(f"  -> {len(results)} bills for {search_term!r}")
+            except requests.RequestException as exc:
+                manifest_items.append(
+                    {
+                        "source_key": f"S-{source_counter:03d}",
+                        "type": "bill_search",
+                        "url": OPENSTATES_BASE_URL,
+                        "search_term": search_term,
+                        "session_label": session_label,
+                        "openstates_session_identifier": session_id,
+                        "session_name": session_name,
+                        "bill_count": 0,
+                        "session_unique_so_far": len(session_unique),
+                        "http_status": getattr(exc.response, "status_code", None),
+                        "incomplete": True,
+                        "notes": sanitize_error_message(str(exc), api_key),
+                    }
+                )
+                source_counter += 1
+            time.sleep(SEARCH_DELAY_SECONDS)
+
+        for key, bill in session_unique.items():
+            all_bills[key] = bill
+        print(f"  session total unique bills: {len(session_unique)}")
         time.sleep(1)
 
     bills_list = list(all_bills.values())
@@ -325,6 +354,8 @@ def main() -> None:
         "openstates_jurisdiction": jurisdiction,
         "collected_at": datetime.now(timezone.utc).isoformat(),
         "collector": "openstates_bills.py",
+        "collection_strategy": "per_term_q_search_with_partial_pagination",
+        "openstates_bill_count": len(bills_list),
         "items": manifest_items,
     }
     MANIFEST_PATH.parent.mkdir(parents=True, exist_ok=True)

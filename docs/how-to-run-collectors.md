@@ -31,7 +31,9 @@ set OPENSTATES_API_KEY=your-key-here
 python collectors\openstates_bills.py
 ```
 
-The collector fetches **all bills per session** and filters locally for water-related terms. It does **not** rely on OpenStates full-text search (`q=`), which has returned zero Nevada results in prior runs.
+The collector runs **per-term full-text search** (`q=water`, etc.) for each session, with pagination retries and **partial results kept** if a page times out. It does not fetch every bill in a session (that approach hit OpenStates gateway timeouts).
+
+Note: OpenStates full-text search can be flaky; if results are empty, run `python collectors/diagnose_openstates.py` and re-run later, or use the NELIS collector as fallback.
 
 ## Diagnose OpenStates API (recommended first step)
 
