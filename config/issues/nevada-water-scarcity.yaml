@@ -1,0 +1,45 @@
+state: nevada
+issue_id: nevada-04-water-scarcity
+issue_title: "Growth, Water Scarcity, and Long-Term Supply in Nevada"
+issue_slug: water-scarcity
+
+sessions:
+  - "2019"
+  - "2021"
+  - "2023"
+  - "2025"
+
+search_terms:
+  - water
+  - groundwater
+  - "Colorado River"
+  - "consumptive use"
+  - "data center"
+  - "water rights"
+  - conservation
+  - SNWA
+
+nevada_revised_statutes_chapters:
+  - 533
+  - 534
+
+agency_document_urls:
+  - url: "https://www.leg.state.nv.us/App/InterimCommittee/REL/Document/32531"
+    title: "Nevada Legislative Counsel Bureau - Data Centers Background Information"
+    source_key: "S25"
+  - url: "https://water.nv.gov/programs/water-planning"
+    title: "Nevada Division of Water Resources - Water Planning"
+    source_key: "S13"
+  - url: "https://www.snwa.com/water-resources/where-water-comes-from/"
+    title: "Southern Nevada Water Authority - Where Your Water Comes From"
+    source_key: "S2"
+
+statute_urls:
+  - chapter: 533
+    url: "https://www.leg.state.nv.us/NRS/NRS-533.html"
+    source_key: "S10"
+  - chapter: 534
+    url: "https://www.leg.state.nv.us/NRS/NRS-534.html"
+    source_key: "S11"
+
+impact_lookback_years: 20

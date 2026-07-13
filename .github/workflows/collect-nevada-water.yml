@@ -1,0 +1,35 @@
+name: Collect Nevada Water Bills
+
+on:
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run OpenStates collector
+        env:
+          OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
+        run: python collectors/openstates_bills.py
+
+      - name: Generate appendix A from collected bills
+        run: python collectors/json_to_appendix.py
+
+      - name: Upload collected data as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: nevada-water-collected-data
+          path: |
+            sources/nevada/water-scarcity/
+            briefs/nevada/water-scarcity/version-0/appendix-a-bills.md
