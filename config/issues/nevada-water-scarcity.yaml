@@ -2,6 +2,7 @@ state: nevada
 issue_id: nevada-04-water-scarcity
 issue_title: "Growth, Water Scarcity, and Long-Term Supply in Nevada"
 issue_slug: water-scarcity
+openstates_jurisdiction: Nevada
 
 # Nevada OpenStates session identifiers are NOT calendar years.
 # OpenStates uses legislature session numbers: 80=2019, 81=2021, 82=2023, 83=2025.
