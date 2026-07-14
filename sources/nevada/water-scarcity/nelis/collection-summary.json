@@ -1,0 +1,14 @@
+{
+  "collector": "nv_nelis_bill_details.py",
+  "collected_at": "2026-07-14T14:47:46.886391+00:00",
+  "stub_count": 3,
+  "bill_count": 3,
+  "action_row_count": 29,
+  "vote_event_count": 3,
+  "sponsor_row_count": 3,
+  "hearing_row_count": 11,
+  "text_doc_count": 14,
+  "failure_count": 0,
+  "skip_party": false,
+  "download_text": false
+}

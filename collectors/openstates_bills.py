@@ -22,14 +22,15 @@ import requests
 import yaml
 
 CONFIG_PATH = Path("config/issues/nevada-water-scarcity.yaml")
-OUTPUT_DIR = Path("sources/nevada/water-scarcity/processed")
+OUTPUT_DIR = Path("sources/nevada/water-scarcity/openstates")
+LEGACY_PROCESSED_DIR = Path("sources/nevada/water-scarcity/processed")
 RAW_DIR = Path("sources/nevada/water-scarcity/raw")
 MANIFEST_PATH = Path("sources/nevada/water-scarcity/manifest.json")
 OPENSTATES_BASE_URL = "https://v3.openstates.org/bills"
 PER_PAGE = 20
 PAGE_DELAY_SECONDS = 1.0
 SEARCH_DELAY_SECONDS = 1.5
-DETAIL_DELAY_SECONDS = 0.75
+DETAIL_DELAY_SECONDS = float(os.environ.get("OPENSTATES_DETAIL_DELAY", "2.0"))
 DETAIL_INCLUDES = ["actions", "votes", "sponsorships", "abstracts"]
 
 # Narrow terms → bill is relevant if any appear in title/abstract.
@@ -198,8 +199,11 @@ def search_bills_by_term(
     )
 
 
-def fetch_bill_detail(api_key: str, bill: dict, max_retries: int = 3) -> dict | None:
-    """Load actions, votes, and sponsorships for one bill."""
+def fetch_bill_detail(api_key: str, bill: dict, max_retries: int = 6) -> dict | None:
+    """Load actions, votes, and sponsorships for one bill.
+
+    Retries with backoff on timeouts and 429/5xx. Honors Retry-After when present.
+    """
     headers = {"X-API-KEY": api_key}
     bill_id = bill.get("id")
     if bill_id and str(bill_id).startswith("ocd-bill/"):
@@ -222,12 +226,24 @@ def fetch_bill_detail(api_key: str, bill: dict, max_retries: int = 3) -> dict | 
     for attempt in range(max_retries):
         try:
             response = requests.get(url, params=query, headers=headers, timeout=120)
+            if response.status_code in {429, 502, 503, 504}:
+                retry_after = response.headers.get("Retry-After")
+                wait = int(retry_after) if retry_after and retry_after.isdigit() else min(60, 3 * (2**attempt))
+                print(
+                    f"  detail {bill.get('identifier')} HTTP {response.status_code}; "
+                    f"backoff {wait}s (attempt {attempt + 1}/{max_retries})"
+                )
+                time.sleep(wait)
+                continue
             response.raise_for_status()
             return response.json()
         except requests.RequestException as exc:
             last_error = exc
-            wait = 2**attempt
-            print(f"  detail {bill.get('identifier')} attempt {attempt + 1} failed ({exc}); retry in {wait}s")
+            wait = min(60, 3 * (2**attempt))
+            print(
+                f"  detail {bill.get('identifier')} attempt {attempt + 1} failed ({exc}); "
+                f"retry in {wait}s"
+            )
             time.sleep(wait)
     print(f"  detail {bill.get('identifier')}: failed ({last_error})")
     return None
@@ -464,6 +480,154 @@ def download_url(url: str, dest: Path) -> dict:
     }
 
 
+def write_outputs(
+    enriched: list[dict],
+    candidates_list: list[dict],
+    relevant: list[dict],
+    enrich_failures: int,
+    manifest_items: list[dict],
+    source_counter: int,
+    api_key: str,
+    config: dict,
+    jurisdiction: str,
+) -> None:
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    RAW_DIR.mkdir(parents=True, exist_ok=True)
+    LEGACY_PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+
+    candidates_path = OUTPUT_DIR / "bills-search-candidates.json"
+    candidates_path.write_text(json.dumps(candidates_list, indent=2), encoding="utf-8")
+
+    actions = flatten_actions(enriched)
+    votes = flatten_votes(enriched)
+    sponsors = flatten_sponsors(enriched)
+    progress = [summarize_progress(b) for b in enriched]
+
+    bills_path = OUTPUT_DIR / "bills.json"
+    bills_path.write_text(json.dumps(enriched, indent=2), encoding="utf-8")
+    # Compatibility alias for older tools/docs
+    (OUTPUT_DIR / "bills-combined.json").write_text(
+        json.dumps(enriched, indent=2), encoding="utf-8"
+    )
+    (OUTPUT_DIR / "bill-actions.json").write_text(json.dumps(actions, indent=2), encoding="utf-8")
+    (OUTPUT_DIR / "bill-votes.json").write_text(json.dumps(votes, indent=2), encoding="utf-8")
+    (OUTPUT_DIR / "bill-sponsors.json").write_text(json.dumps(sponsors, indent=2), encoding="utf-8")
+    (OUTPUT_DIR / "bill-legislative-progress.json").write_text(
+        json.dumps(progress, indent=2), encoding="utf-8"
+    )
+
+    statute_links = []
+    for entry in config.get("statute_urls", []):
+        statute_links.append(
+            {
+                "chapter": entry["chapter"],
+                "url": entry["url"],
+                "source_key": entry.get("source_key"),
+            }
+        )
+    (OUTPUT_DIR / "statute-links.json").write_text(
+        json.dumps(statute_links, indent=2), encoding="utf-8"
+    )
+
+    agency_docs = []
+    for entry in config.get("agency_document_urls", []):
+        url = entry["url"]
+        filename = url.rstrip("/").split("/")[-1] or "document"
+        if not filename.endswith((".pdf", ".html", ".htm")):
+            filename = f"{entry.get('source_key', 'doc')}.pdf"
+        dest = RAW_DIR / filename
+        try:
+            meta = download_url(url, dest)
+            agency_docs.append(
+                {
+                    "title": entry["title"],
+                    "url": url,
+                    "source_key": entry.get("source_key"),
+                    **meta,
+                }
+            )
+            manifest_items.append(
+                {
+                    "source_key": entry.get("source_key", f"S-{source_counter:03d}"),
+                    "type": "agency_document",
+                    "url": url,
+                    "local_path": str(dest),
+                    "http_status": meta["http_status"],
+                    "sha256": meta["sha256"],
+                    "notes": "",
+                }
+            )
+            source_counter += 1
+        except requests.RequestException as exc:
+            agency_docs.append(
+                {
+                    "title": entry["title"],
+                    "url": url,
+                    "source_key": entry.get("source_key"),
+                    "error": sanitize_error_message(str(exc), api_key),
+                }
+            )
+        time.sleep(1)
+
+    (OUTPUT_DIR / "agency-documents.json").write_text(
+        json.dumps(agency_docs, indent=2), encoding="utf-8"
+    )
+
+    signed = sum(1 for row in progress if row.get("signed_into_law"))
+    with_votes = sum(1 for row in progress if row.get("vote_event_count", 0) > 0)
+    with_sponsors = sum(1 for row in progress if row.get("sponsor_count", 0) > 0)
+
+    openstates_summary = {
+        "collector": "openstates_bills.py",
+        "collection_strategy": "per_term_q_search_plus_detail_enrichment",
+        "collected_at": datetime.now(timezone.utc).isoformat(),
+        "openstates_candidate_count": len(candidates_list),
+        "openstates_relevant_count": len(relevant),
+        "openstates_bill_count": len(enriched),
+        "enrich_failures": enrich_failures,
+        "action_row_count": len(actions),
+        "vote_event_count": len(votes),
+        "sponsor_row_count": len(sponsors),
+        "bills_with_vote_events": with_votes,
+        "bills_with_sponsors": with_sponsors,
+        "bills_signed_into_law": signed,
+        "relevance_note": (
+            "OpenStates q= searches full bill text (broader than NELIS title/summary search). "
+            "bills.json is locally filtered to water-relevant titles/abstracts; "
+            "bills-search-candidates.json retains the full OpenStates hit list."
+        ),
+        "output_dir": str(OUTPUT_DIR),
+    }
+    (OUTPUT_DIR / "collection-summary.json").write_text(
+        json.dumps(openstates_summary, indent=2), encoding="utf-8"
+    )
+
+    manifest: dict = {}
+    if MANIFEST_PATH.exists():
+        manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+    manifest.update(
+        {
+            "issue_id": config["issue_id"],
+            "state": config["state"],
+            "openstates_jurisdiction": jurisdiction,
+            "collected_at": datetime.now(timezone.utc).isoformat(),
+            "openstates": openstates_summary,
+            "items": manifest_items,
+        }
+    )
+    MANIFEST_PATH.parent.mkdir(parents=True, exist_ok=True)
+    MANIFEST_PATH.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+
+    print(
+        f"Done. Saved {len(enriched)} relevant enriched bills "
+        f"({len(candidates_list)} full-text candidates) to {bills_path}"
+    )
+    print(
+        f"  actions={len(actions)} vote_events={len(votes)} sponsors={len(sponsors)} "
+        f"signed_into_law={signed} enrich_failures={enrich_failures}"
+    )
+
+
 def main() -> None:
     config = load_config()
     api_key = get_api_key()
@@ -546,13 +710,30 @@ def main() -> None:
         f"after local water-relevance filter: {len(relevant)}"
     )
 
-    candidates_path = OUTPUT_DIR / "bills-search-candidates.json"
-    candidates_path.write_text(json.dumps(candidates_list, indent=2), encoding="utf-8")
+    detail_limit = os.environ.get("OPENSTATES_DETAIL_LIMIT")
+    if detail_limit:
+        relevant = relevant[: int(detail_limit)]
+        print(f"OPENSTATES_DETAIL_LIMIT={detail_limit}: enriching {len(relevant)} bills")
+
+    # Resume: keep already-enriched details when id matches.
+    prior_by_id: dict[str, dict] = {}
+    prior_path = OUTPUT_DIR / "bills.json"
+    if os.environ.get("OPENSTATES_RESUME", "").lower() in {"1", "true", "yes"} and prior_path.exists():
+        for prior in json.loads(prior_path.read_text(encoding="utf-8")):
+            pid = prior.get("id")
+            if pid and (prior.get("actions") or prior.get("votes") or prior.get("sponsorships")):
+                prior_by_id[str(pid)] = prior
+        print(f"OPENSTATES_RESUME: loaded {len(prior_by_id)} previously enriched bills")
 
     enriched: list[dict] = []
     enrich_failures = 0
     for index, bill in enumerate(relevant, start=1):
         print(f"Enriching {index}/{len(relevant)}: {bill.get('identifier')} ({bill.get('session')})")
+        existing = prior_by_id.get(str(bill.get("id")))
+        if existing:
+            enriched.append(existing)
+            print("  reused cached detail")
+            continue
         detail = fetch_bill_detail(api_key, bill)
         if detail:
             enriched.append(detail)
@@ -561,116 +742,16 @@ def main() -> None:
             enriched.append(bill)
         time.sleep(DETAIL_DELAY_SECONDS)
 
-    bills_path = OUTPUT_DIR / "bills-combined.json"
-    bills_path.write_text(json.dumps(enriched, indent=2), encoding="utf-8")
-
-    actions = flatten_actions(enriched)
-    votes = flatten_votes(enriched)
-    sponsors = flatten_sponsors(enriched)
-    progress = [summarize_progress(b) for b in enriched]
-
-    (OUTPUT_DIR / "bill-actions.json").write_text(json.dumps(actions, indent=2), encoding="utf-8")
-    (OUTPUT_DIR / "bill-votes.json").write_text(json.dumps(votes, indent=2), encoding="utf-8")
-    (OUTPUT_DIR / "bill-sponsors.json").write_text(json.dumps(sponsors, indent=2), encoding="utf-8")
-    (OUTPUT_DIR / "bill-legislative-progress.json").write_text(
-        json.dumps(progress, indent=2), encoding="utf-8"
-    )
-
-    statute_links = []
-    for entry in config.get("statute_urls", []):
-        statute_links.append(
-            {
-                "chapter": entry["chapter"],
-                "url": entry["url"],
-                "source_key": entry.get("source_key"),
-            }
-        )
-    (OUTPUT_DIR / "statute-links.json").write_text(
-        json.dumps(statute_links, indent=2), encoding="utf-8"
-    )
-
-    agency_docs = []
-    for entry in config.get("agency_document_urls", []):
-        url = entry["url"]
-        filename = url.rstrip("/").split("/")[-1] or "document"
-        if not filename.endswith((".pdf", ".html", ".htm")):
-            filename = f"{entry.get('source_key', 'doc')}.pdf"
-        dest = RAW_DIR / filename
-        try:
-            meta = download_url(url, dest)
-            agency_docs.append(
-                {
-                    "title": entry["title"],
-                    "url": url,
-                    "source_key": entry.get("source_key"),
-                    **meta,
-                }
-            )
-            manifest_items.append(
-                {
-                    "source_key": entry.get("source_key", f"S-{source_counter:03d}"),
-                    "type": "agency_document",
-                    "url": url,
-                    "local_path": str(dest),
-                    "http_status": meta["http_status"],
-                    "sha256": meta["sha256"],
-                    "notes": "",
-                }
-            )
-            source_counter += 1
-        except requests.RequestException as exc:
-            agency_docs.append(
-                {
-                    "title": entry["title"],
-                    "url": url,
-                    "source_key": entry.get("source_key"),
-                    "error": sanitize_error_message(str(exc), api_key),
-                }
-            )
-        time.sleep(1)
-
-    (OUTPUT_DIR / "agency-documents.json").write_text(
-        json.dumps(agency_docs, indent=2), encoding="utf-8"
-    )
-
-    signed = sum(1 for row in progress if row.get("signed_into_law"))
-    with_votes = sum(1 for row in progress if row.get("vote_event_count", 0) > 0)
-    with_sponsors = sum(1 for row in progress if row.get("sponsor_count", 0) > 0)
-
-    manifest = {
-        "issue_id": config["issue_id"],
-        "state": config["state"],
-        "openstates_jurisdiction": jurisdiction,
-        "collected_at": datetime.now(timezone.utc).isoformat(),
-        "collector": "openstates_bills.py",
-        "collection_strategy": "per_term_q_search_plus_detail_enrichment",
-        "openstates_candidate_count": len(candidates_list),
-        "openstates_relevant_count": len(relevant),
-        "openstates_bill_count": len(enriched),
-        "enrich_failures": enrich_failures,
-        "action_row_count": len(actions),
-        "vote_event_count": len(votes),
-        "sponsor_row_count": len(sponsors),
-        "bills_with_vote_events": with_votes,
-        "bills_with_sponsors": with_sponsors,
-        "bills_signed_into_law": signed,
-        "relevance_note": (
-            "OpenStates q= searches full bill text (broader than NELIS title/summary search). "
-            "bills-combined.json is locally filtered to water-relevant titles/abstracts; "
-            "bills-search-candidates.json retains the full OpenStates hit list."
-        ),
-        "items": manifest_items,
-    }
-    MANIFEST_PATH.parent.mkdir(parents=True, exist_ok=True)
-    MANIFEST_PATH.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
-
-    print(
-        f"Done. Saved {len(enriched)} relevant enriched bills "
-        f"({len(candidates_list)} full-text candidates) to {bills_path}"
-    )
-    print(
-        f"  actions={len(actions)} vote_events={len(votes)} sponsors={len(sponsors)} "
-        f"signed_into_law={signed} enrich_failures={enrich_failures}"
+    write_outputs(
+        enriched=enriched,
+        candidates_list=candidates_list,
+        relevant=relevant,
+        enrich_failures=enrich_failures,
+        manifest_items=manifest_items,
+        source_counter=source_counter,
+        api_key=api_key,
+        config=config,
+        jurisdiction=jurisdiction,
     )
 
 

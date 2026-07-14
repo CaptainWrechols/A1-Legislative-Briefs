@@ -1,12 +1,12 @@
 # How to Run Collectors
 
-This guide walks you through collecting legislative data for the Nevada water scarcity pilot issue.
+This guide covers **dual-source** collection for the Nevada water scarcity pilot: **NELIS** (official state site) and **OpenStates** (structured API), plus a **cross-reference** step so reviewers can check consistency.
 
 ## Prerequisites
 
-1. Python 3.12 or newer installed
-2. OpenStates Application Programming Interface key from https://openstates.org/accounts/profile/
-3. This repository cloned to your computer
+1. Python 3.12 or newer
+2. OpenStates API key from https://openstates.org/accounts/profile/ (needed only for the OpenStates collector)
+3. This repository cloned locally
 
 ## One-time setup
 
@@ -15,114 +15,112 @@ cd a1-legislative-briefs
 pip install -r requirements.txt
 ```
 
-## Run the bill collector locally
-
-**Mac or Linux:**
+## Recommended local sequence
 
 ```bash
+# 1) NELIS search stubs (no API key)
+python collectors/nv_nelis_bills.py
+
+# 2) NELIS details: history, hearings, floor votes + member names, sponsors + party, bill PDF links
+#    Optional smoke test: NELIS_DETAIL_LIMIT=5
+python collectors/nv_nelis_bill_details.py
+
+# 3) OpenStates search + detail enrichment (actions/votes/sponsors)
 export OPENSTATES_API_KEY=your-key-here
+# Optional: OPENSTATES_DETAIL_LIMIT=10 OPENSTATES_RESUME=1 OPENSTATES_DETAIL_DELAY=2.5
 python collectors/openstates_bills.py
+
+# 4) Cross-reference both packages
+python collectors/reconcile_bill_sources.py
 ```
 
-**Windows Command Prompt:**
+### What each source gives you
 
-```cmd
-set OPENSTATES_API_KEY=your-key-here
-python collectors\openstates_bills.py
+| Field | NELIS | OpenStates |
+|-------|-------|------------|
+| Water-related bill discovery | Title/summary search | Full-text `q=` + local title filter |
+| Bill history / actions | Overview history table | `include=actions` detail |
+| Committee signal | Past Hearings recommendations (e.g. Do pass) | Action classifications + committee vote events when present |
+| Floor votes + member names | `GetBillVotes` / `GetBillVoteMembers` | `include=votes` (voter lists when API returns them) |
+| Sponsors + party | Overview sponsors + legislator pages | `include=sponsorships` (`person.party` when present) |
+| Bill text | PDF/HTML links on Text tab (`bill-texts.json`) | Usually not full text via this collector |
+
+NELIS remains the citation surface for Nevada-official wording. OpenStates is the machine-friendly mirror used to corroborate structured fields.
+
+## Output layout
+
+```
+sources/nevada/water-scarcity/
+├── nelis/
+│   ├── bills-search-stubs.json
+│   ├── bills.json
+│   ├── bill-actions.json
+│   ├── bill-votes.json
+│   ├── bill-sponsors.json
+│   ├── bill-hearings.json
+│   ├── bill-texts.json
+│   └── collection-summary.json
+├── openstates/
+│   ├── bills-search-candidates.json
+│   ├── bills.json
+│   ├── bill-actions.json
+│   ├── bill-votes.json
+│   ├── bill-sponsors.json
+│   ├── bill-legislative-progress.json
+│   └── collection-summary.json
+├── crossref/
+│   ├── bill-match-report.json
+│   └── summary.md
+├── manifest.json
+└── raw/
 ```
 
-The collector:
+## GitHub Actions
 
-1. Runs **per-term full-text search** (`q=water`, etc.) with pagination retries and partial results on timeouts
-2. Applies a **local water-relevance filter** (OpenStates full-text is broader than NELIS title/summary search — see troubleshooting)
-3. **Enriches each relevant bill** with `actions`, `votes`, and `sponsorships`
-4. Writes derived files: `bill-actions.json`, `bill-votes.json`, `bill-sponsors.json`, `bill-legislative-progress.json`
+1. Add `OPENSTATES_API_KEY` under Settings → Secrets and variables → Actions.
+2. Actions → **Collect Nevada Water Bills** → Run workflow.
+3. Optional inputs:
+   - `nelis_detail_limit` / `openstates_detail_limit` for capped smoke runs
+   - `skip_openstates=true` for NELIS-only collection
+   - `nelis_download_text=true` to store bill PDFs under `raw/nelis-text/`
+4. Download the `nevada-water-collected-data` artifact and open `crossref/summary.md`.
 
-Note: OpenStates can be flaky (502/504). If results are empty, run `python collectors/diagnose_openstates.py` and re-run later, or use the NELIS collector as a discovery fallback.
+GitHub does **not** host NELIS/OpenStates data itself. Actions only runs these collectors in the cloud and uploads the JSON artifacts into the workflow run (and into the repo if you commit them).
 
-## Diagnose OpenStates API (recommended first step)
-
-If collection returns zero bills, run the diagnostic before changing config:
+## Diagnose OpenStates first (if enrichment fails)
 
 ```bash
 export OPENSTATES_API_KEY=your-key-here
 python collectors/diagnose_openstates.py
 ```
 
-Output:
+Or run Actions → **Diagnose OpenStates Nevada**.
 
-```
-sources/nevada/water-scarcity/verification/openstates-diagnostic.json
-sources/nevada/water-scarcity/verification/openstates-diagnostic.txt
-```
+OpenStates detail calls often hit **429 / 502 / 504**. The collector now backs off on those statuses, supports `OPENSTATES_RESUME=1`, and slows detail requests via `OPENSTATES_DETAIL_DELAY`.
 
-### Run diagnostic via GitHub Actions
-
-1. Confirm `OPENSTATES_API_KEY` is set under Settings → Secrets and variables → Actions.
-2. Go to the **Actions** tab.
-3. Select **Diagnose OpenStates Nevada**.
-4. Click **Run workflow**.
-5. Download the `openstates-nevada-diagnostic` artifact when the run completes.
-
-The workflow runs the diagnostic, then runs `openstates_bills.py` with the fetch-all strategy, and uploads both reports.
-
-## Expected output files
-
-```
-sources/nevada/water-scarcity/
-├── manifest.json
-├── raw/                          (downloaded PDFs and pages)
-└── processed/
-    ├── bills-combined.json
-    ├── bill-actions.json
-    ├── bill-votes.json
-    ├── statute-links.json
-    └── agency-documents.json
-```
-
-## Generate appendix table from collected bills
+## Generate appendix A
 
 ```bash
+cp sources/nevada/water-scarcity/nelis/bills.json \
+   sources/nevada/water-scarcity/processed/bills-combined.json
 python collectors/json_to_appendix.py
 ```
-
-Output: `briefs/nevada/water-scarcity/version-0/appendix-a-bills.md`
-
-## Run via GitHub Actions (cloud)
-
-**Diagnose OpenStates (start here if bills are empty):**
-
-1. Actions → **Diagnose OpenStates Nevada** → Run workflow.
-
-**Full collection:**
-
-1. Add `OPENSTATES_API_KEY` as a repository secret (Settings → Secrets and variables → Actions).
-2. Go to the **Actions** tab.
-3. Select **Collect Nevada Water Bills**.
-4. Click **Run workflow**.
 
 ## After collecting data
 
 Run the agent pipeline in order. See `agents/README.md`.
 
-1. Data Scraper (or use collector scripts above)
-2. Data Verifier
-3. Synthesizer
-4. Analyzer
-5. Data Formatter
-6. Brief Writer
-7. Editor
-8. Tone Editor
-9. General Formatter
-10. Final Reviewer
+1. Data Scraper (collectors above)
+2. Data Verifier (include `crossref/summary.md`)
+3. Synthesizer → Final Reviewer
 
 ## Troubleshooting
 
 | Problem | Solution |
 |---------|----------|
-| `Missing OPENSTATES_API_KEY` | Set the environment variable before running |
-| `python not found` | Reinstall Python with "Add to PATH" checked |
-| Zero bills returned | Run `python collectors/diagnose_openstates.py` first. Nevada uses OpenStates session ids **80, 81, 82, 83** (not 2019–2025). See `config/issues/nevada-water-scarcity.yaml` |
-| OpenStates returns far more bills than NELIS | Expected: OpenStates `q=` searches **full bill text**; NELIS matches titles/summaries. The collector writes all hits to `bills-search-candidates.json` and water-relevant bills to `bills-combined.json`. |
-| Votes/sponsors empty | Confirm the latest collector ran (detail enrichment). Check `bill-votes.json` / `bill-sponsors.json` and `bills_with_vote_events` in `manifest.json`. |
-| HTTP 401 or 403 | Verify your OpenStates key is active |
+| `Missing OPENSTATES_API_KEY` | Set the env var or skip OpenStates |
+| NELIS details empty | Confirm stubs exist; check `nelis/detail-failures.json` |
+| OpenStates votes/sponsors empty | Re-run with `OPENSTATES_RESUME=1` and higher `OPENSTATES_DETAIL_DELAY`; check `enrich_failures` in `openstates/collection-summary.json` |
+| Far more OpenStates bills than NELIS | Expected: OpenStates searches full text. Compare filtered `openstates/bills.json` to NELIS, not `bills-search-candidates.json` |
+| Cross-ref conflicts | Open `crossref/bill-match-report.json`; prefer NELIS for citation wording and investigate mismatched vote/sponsor/enactment fields before publishing |
+| Session ids | Nevada OpenStates ids are **80–83**; NELIS paths are `80th2019` … `83rd2025` |
