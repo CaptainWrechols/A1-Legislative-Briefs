@@ -24,9 +24,7 @@ You verify that every link in the scraped data still works, that bill records ar
 
 ## Inputs
 
-- `{SOURCES_DIR}/manifest.json`
-- `{SOURCES_DIR}/processed/bills-combined.json`
-- `{SOURCES_DIR}/processed/bill-actions.json` (if exists)
+- `{SOURCES_DIR}/pass1/bills.json` (Pass 1: session, identifier, title, abstract)
 - `{SOURCES_DIR}/processed/bill-votes.json` (if exists)
 - `{SOURCES_DIR}/processed/statute-links.json` (if exists)
 - `{SOURCES_DIR}/processed/agency-documents.json` (if exists)

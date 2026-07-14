@@ -26,8 +26,7 @@ You convert verified JSON data into plain, human-readable appendix tables in Mar
 
 ## Inputs
 
-- `{SOURCES_DIR}/processed/bills-combined.json`
-- `{SOURCES_DIR}/processed/bill-actions.json` (if exists)
+- `{SOURCES_DIR}/pass1/bills.json` (Pass 1 discovery data)
 - `{SOURCES_DIR}/processed/bill-votes.json` (if exists)
 - `{SOURCES_DIR}/processed/statute-links.json` (if exists)
 - `{SOURCES_DIR}/processed/agency-documents.json` (if exists)
