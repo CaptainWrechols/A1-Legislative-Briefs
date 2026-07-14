@@ -35,7 +35,9 @@ jobs:
           python collectors/pass1_bills.py $ARGS
 
       - name: Upload Pass 1 data
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: nevada-water-pass1
           path: sources/nevada/water-scarcity/pass1/
+          if-no-files-found: warn
