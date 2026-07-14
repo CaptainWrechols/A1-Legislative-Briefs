@@ -14,12 +14,16 @@ import hashlib
 import json
 import os
 import re
+import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
 import yaml
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from water_relevance import is_water_relevant_text
 
 CONFIG_PATH = Path("config/issues/nevada-water-scarcity.yaml")
 OUTPUT_DIR = Path("sources/nevada/water-scarcity/openstates")
@@ -32,21 +36,6 @@ PAGE_DELAY_SECONDS = 1.0
 SEARCH_DELAY_SECONDS = 1.5
 DETAIL_DELAY_SECONDS = float(os.environ.get("OPENSTATES_DETAIL_DELAY", "2.0"))
 DETAIL_INCLUDES = ["actions", "votes", "sponsorships", "abstracts"]
-
-# Narrow terms → bill is relevant if any appear in title/abstract.
-CORE_TITLE_TERMS = [
-    "water",
-    "groundwater",
-    "colorado river",
-    "consumptive use",
-    "water rights",
-    "snwa",
-    "aquifer",
-    "irrigation",
-    "drought",
-    "wastewater",
-    "reclaimed water",
-]
 
 
 def load_config() -> dict:
@@ -92,25 +81,18 @@ def bill_key(bill: dict) -> str:
     return str(bill.get("id") or f"{bill.get('session')}:{bill.get('identifier')}")
 
 
-def bill_title_abstract_blob(bill: dict) -> str:
-    parts = [bill.get("title") or ""]
-    for abstract in bill.get("abstracts") or []:
-        parts.append(abstract.get("abstract") or "")
-    return " ".join(parts).lower()
+def bill_title_abstract_parts(bill: dict) -> tuple[str, str]:
+    title = bill.get("title") or ""
+    abstracts = " ".join(
+        (abstract.get("abstract") or "") for abstract in (bill.get("abstracts") or [])
+    )
+    return title, abstracts
 
 
 def is_water_relevant(bill: dict) -> bool:
-    """Local filter so OpenStates full-text hits approximate NELIS title/summary focus."""
-    blob = bill_title_abstract_blob(bill)
-    title = (bill.get("title") or "").lower()
-    has_core = any(term in blob for term in CORE_TITLE_TERMS)
-    if has_core:
-        return True
-    # Keep explicit data-center search matches even without "water" in title.
-    if "data center" in title or "data centers" in title:
-        return True
-    return False
-
+    """Same shared filter NELIS uses — title/abstract must be water-relevant."""
+    title, abstracts = bill_title_abstract_parts(bill)
+    return is_water_relevant_text(title, abstracts)
 
 def paginate_bills(
     api_key: str,
@@ -592,9 +574,10 @@ def write_outputs(
         "bills_with_sponsors": with_sponsors,
         "bills_signed_into_law": signed,
         "relevance_note": (
-            "OpenStates q= searches full bill text (broader than NELIS title/summary search). "
-            "bills.json is locally filtered to water-relevant titles/abstracts; "
-            "bills-search-candidates.json retains the full OpenStates hit list."
+            "NELIS and OpenStates share config search_terms and the same "
+            "collectors/water_relevance.py title/summary filter. "
+            "OpenStates q= also searches full bill text before that filter; "
+            "bills-search-candidates.json retains pre-filter hits."
         ),
         "output_dir": str(OUTPUT_DIR),
     }

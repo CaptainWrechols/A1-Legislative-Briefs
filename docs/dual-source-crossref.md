@@ -23,7 +23,13 @@ Or run Actions → **Collect Nevada Water Bills** (same order; OpenStates can `c
 
 Bills are joined as `{openstates_session}:{identifier}` (example: `82:AB19`).
 
+Identifiers are normalized so OpenStates `AB 19` matches NELIS `AB19`.
+
 NELIS session paths (`82nd2023`) map to OpenStates ids (`82`) via `openstates_session` on stubs / the reconciler map.
+
+## Shared search terms
+
+Both collectors use `config/issues/nevada-water-scarcity.yaml` → `search_terms`, then `collectors/water_relevance.py` so title/summary noise (e.g. generic “conservation” agency bills) is dropped consistently.
 
 ## What gets compared
 

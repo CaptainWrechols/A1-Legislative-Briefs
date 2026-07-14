@@ -17,20 +17,22 @@ pip install -r requirements.txt
 
 ## Recommended local sequence
 
+Both collectors read the **same** `search_terms` from `config/issues/nevada-water-scarcity.yaml` and apply the **same** water-relevance title/summary filter (`collectors/water_relevance.py`).
+
 ```bash
-# 1) NELIS search stubs (no API key)
+# 1) NELIS search stubs (no API key) — shared terms + shared filter
 python collectors/nv_nelis_bills.py
 
 # 2) NELIS details: history, hearings, floor votes + member names, sponsors + party, bill PDF links
 #    Optional smoke test: NELIS_DETAIL_LIMIT=5
 python collectors/nv_nelis_bill_details.py
 
-# 3) OpenStates search + detail enrichment (actions/votes/sponsors)
+# 3) OpenStates search + detail enrichment (same terms + same filter)
 export OPENSTATES_API_KEY=your-key-here
 # Optional: OPENSTATES_DETAIL_LIMIT=10 OPENSTATES_RESUME=1 OPENSTATES_DETAIL_DELAY=2.5
 python collectors/openstates_bills.py
 
-# 4) Cross-reference both packages
+# 4) Cross-reference both packages (normalizes AB 30 ↔ AB30)
 python collectors/reconcile_bill_sources.py
 ```
 
@@ -38,14 +40,15 @@ python collectors/reconcile_bill_sources.py
 
 | Field | NELIS | OpenStates |
 |-------|-------|------------|
-| Water-related bill discovery | Title/summary search | Full-text `q=` + local title filter |
+| Discovery terms | Same `config` `search_terms` | Same `config` `search_terms` |
+| Water relevance filter | Same `water_relevance.py` on title/summary | Same filter on title/abstract |
 | Bill history / actions | Overview history table | `include=actions` detail |
 | Committee signal | Past Hearings recommendations (e.g. Do pass) | Action classifications + committee vote events when present |
 | Floor votes + member names | `GetBillVotes` / `GetBillVoteMembers` | `include=votes` (voter lists when API returns them) |
 | Sponsors + party | Overview sponsors + legislator pages | `include=sponsorships` (`person.party` when present) |
 | Bill text | PDF/HTML links on Text tab (`bill-texts.json`) | Usually not full text via this collector |
 
-NELIS remains the citation surface for Nevada-official wording. OpenStates is the machine-friendly mirror used to corroborate structured fields.
+`vote_event_count = 0` in OpenStates means **no vote records were returned by the API**, not that no vote happened. Many enrolled/signed bills still have Final Passage tallies on NELIS; some chambers may also use unrecorded voice votes. Prefer NELIS vote files when OpenStates votes are empty.
 
 ## Output layout
 
