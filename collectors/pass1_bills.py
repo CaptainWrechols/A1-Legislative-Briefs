@@ -1,15 +1,8 @@
 #!/usr/bin/env python3
-"""Pass 1: collect bill id, title, and abstract only (NELIS + OpenStates).
+"""Pass 1: bill id, title, abstract from NELIS + OpenStates (cached).
 
-Simple on purpose:
-- No PDF downloads
-- No votes / actions / sponsors
-- Disk cache so re-runs skip bills we already have
-- Slow OpenStates paging to reduce 429s
-
-Usage:
   python collectors/pass1_bills.py
-  python collectors/pass1_bills.py --refresh   # ignore cache and re-collect
+  python collectors/pass1_bills.py --refresh
 """
 
 from __future__ import annotations
@@ -31,17 +24,11 @@ CONFIG = Path("config/issues/nevada-water-scarcity.yaml")
 OUT = Path("sources/nevada/water-scarcity/pass1")
 NELIS_CACHE = OUT / "cache_nelis.json"
 OPENSTATES_CACHE = OUT / "cache_openstates.json"
-SEARCH_CACHE = OUT / "cache_searches.json"  # which session+term queries already finished
+SEARCH_CACHE = OUT / "cache_searches.json"
 OPENSTATES_URL = "https://v3.openstates.org/bills"
 
-SESSION_PATHS = {
-    "80": "80th2019",
-    "81": "81st2021",
-    "82": "82nd2023",
-    "83": "83rd2025",
-}
+SESSION_PATHS = {"80": "80th2019", "81": "81st2021", "82": "82nd2023", "83": "83rd2025"}
 
-# Keep titles that are actually about water (same idea for both sources).
 WATER_WORDS = (
     "water",
     "groundwater",
@@ -67,14 +54,16 @@ BILL_RE = re.compile(
 )
 
 
+def now() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
 def load_yaml() -> dict:
     return yaml.safe_load(CONFIG.read_text(encoding="utf-8"))
 
 
-def load_cache(path: Path) -> dict:
-    if path.exists():
-        return json.loads(path.read_text(encoding="utf-8"))
-    return {}
+def load_json(path: Path) -> dict:
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
 
 
 def save_json(path: Path, data) -> None:
@@ -88,7 +77,7 @@ def norm_id(identifier: str) -> str:
 
 def is_water(title: str, abstract: str = "") -> bool:
     blob = f"{title} {abstract}".lower()
-    return any(word in blob for word in WATER_WORDS)
+    return any(w in blob for w in WATER_WORDS)
 
 
 def clean_html(text: str) -> str:
@@ -96,15 +85,14 @@ def clean_html(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def get_with_retry(url: str, *, params=None, headers=None, tries: int = 6) -> requests.Response:
-    """GET with long backoff on 429/5xx. Never spin-loops."""
+def get(url: str, *, params=None, headers=None) -> requests.Response:
     last = None
-    for i in range(tries):
+    for i in range(6):
         try:
             r = requests.get(url, params=params, headers=headers, timeout=90)
             if r.status_code in {429, 502, 503, 504}:
                 wait = int(r.headers.get("Retry-After") or min(120, 15 * (2**i)))
-                print(f"  HTTP {r.status_code}; sleeping {wait}s")
+                print(f"  HTTP {r.status_code}; sleep {wait}s")
                 time.sleep(wait)
                 last = r
                 continue
@@ -113,21 +101,20 @@ def get_with_retry(url: str, *, params=None, headers=None, tries: int = 6) -> re
         except requests.RequestException as exc:
             last = exc
             wait = min(120, 15 * (2**i))
-            print(f"  request failed ({exc}); sleeping {wait}s")
+            print(f"  failed ({exc}); sleep {wait}s")
             time.sleep(wait)
-    raise RuntimeError(f"Gave up on {url}: {last}")
+    raise RuntimeError(f"Gave up: {url} ({last})")
 
 
-def collect_nelis(cfg: dict, cache: dict, searches: dict, refresh: bool) -> tuple[dict, dict]:
-    """Search NELIS list pages only. Title field is the search-result summary."""
+def collect_nelis(cfg: dict, cache: dict, searches: dict, refresh: bool) -> None:
     ua = {"User-Agent": "ForumLegislativeBrief/1.0"}
     for session in cfg["sessions"]:
         sid = session["openstates_identifier"]
         path = SESSION_PATHS[sid]
         for term in cfg["search_terms"]:
-            search_key = f"nelis:{sid}:{term}"
-            if search_key in searches and not refresh:
-                print(f"NELIS {path} / {term!r} (cached search, skip)")
+            sk = f"nelis:{sid}:{term}"
+            if sk in searches and not refresh:
+                print(f"NELIS {path} / {term!r} (cached)")
                 continue
             print(f"NELIS {path} / {term!r}")
             page = 1
@@ -136,7 +123,7 @@ def collect_nelis(cfg: dict, cache: dict, searches: dict, refresh: bool) -> tupl
                     f"https://www.leg.state.nv.us/App/NELIS/REL/{path}/HomeBill/BillsTab"
                     f"?Filters.SearchText={quote(term)}&Filters.PageSize=100&Page={page}"
                 )
-                html = get_with_retry(url, headers=ua).text
+                html = get(url, headers=ua).text
                 matches = list(BILL_RE.finditer(html))
                 if not matches:
                     break
@@ -148,40 +135,34 @@ def collect_nelis(cfg: dict, cache: dict, searches: dict, refresh: bool) -> tupl
                     cache[key] = {
                         "source": "nelis",
                         "session": sid,
-                        "session_path": path,
                         "identifier": norm_id(m.group("id")),
                         "title": title,
-                        "abstract": title,  # NELIS list shows summary as the title block
-                        "nelis_bill_key": m.group("key"),
+                        "abstract": title,
                         "source_url": (
                             f"https://www.leg.state.nv.us/App/NELIS/REL/{path}"
                             f"/Bill/{m.group('key')}/Overview"
                         ),
                         "search_term": term,
-                        "collected_at": datetime.now(timezone.utc).isoformat(),
+                        "collected_at": now(),
                     }
                 if f"Page={page + 1}" not in html:
                     break
                 page += 1
                 time.sleep(0.75)
-            searches[search_key] = datetime.now(timezone.utc).isoformat()
+            searches[sk] = now()
             time.sleep(0.75)
-    return cache, searches
 
 
-def collect_openstates(
-    cfg: dict, cache: dict, searches: dict, refresh: bool, api_key: str
-) -> tuple[dict, dict]:
-    """Search OpenStates only (no per-bill detail calls)."""
+def collect_openstates(cfg: dict, cache: dict, searches: dict, refresh: bool, api_key: str) -> None:
     headers = {"X-API-KEY": api_key}
     for session in cfg["sessions"]:
         sid = session["openstates_identifier"]
         for term in cfg["search_terms"]:
-            search_key = f"openstates:{sid}:{term}"
-            if search_key in searches and not refresh:
-                print(f"OpenStates session={sid} / {term!r} (cached search, skip)")
+            sk = f"openstates:{sid}:{term}"
+            if sk in searches and not refresh:
+                print(f"OpenStates {sid} / {term!r} (cached)")
                 continue
-            print(f"OpenStates session={sid} / {term!r}")
+            print(f"OpenStates {sid} / {term!r}")
             page = 1
             while True:
                 query = [
@@ -193,7 +174,7 @@ def collect_openstates(
                     ("apikey", api_key),
                     ("include", "abstracts"),
                 ]
-                data = get_with_retry(OPENSTATES_URL, params=query, headers=headers).json()
+                data = get(OPENSTATES_URL, params=query, headers=headers).json()
                 results = data.get("results") or []
                 print(f"  page {page}: {len(results)}")
                 for bill in results:
@@ -201,71 +182,33 @@ def collect_openstates(
                     key = f"{sid}:{ident}"
                     if key in cache and not refresh:
                         continue
-                    abstracts = [
+                    abstract = " ".join(
                         (a.get("abstract") or "") for a in (bill.get("abstracts") or [])
-                    ]
-                    abstract = " ".join(a for a in abstracts if a).strip()
+                    ).strip()
                     cache[key] = {
                         "source": "openstates",
                         "session": sid,
                         "identifier": ident,
                         "title": bill.get("title") or "",
                         "abstract": abstract,
-                        "openstates_id": bill.get("id"),
                         "openstates_url": bill.get("openstates_url"),
                         "search_term": term,
-                        "collected_at": datetime.now(timezone.utc).isoformat(),
+                        "collected_at": now(),
                     }
                 max_page = (data.get("pagination") or {}).get("max_page", page)
                 if page >= max_page or not results:
                     break
                 page += 1
-                time.sleep(2.0)  # slow on purpose
-            searches[search_key] = datetime.now(timezone.utc).isoformat()
+                time.sleep(2.0)
+            searches[sk] = now()
             time.sleep(2.0)
-    return cache, searches
 
 
-def main() -> None:
-    parser = argparse.ArgumentParser(description="Pass 1 bill discovery (titles + abstracts)")
-    parser.add_argument("--refresh", action="store_true", help="Re-fetch even if cached")
-    parser.add_argument("--skip-openstates", action="store_true")
-    parser.add_argument("--skip-nelis", action="store_true")
-    args = parser.parse_args()
-
-    cfg = load_yaml()
-    OUT.mkdir(parents=True, exist_ok=True)
-
-    nelis = {} if args.refresh else load_cache(NELIS_CACHE)
-    openstates = {} if args.refresh else load_cache(OPENSTATES_CACHE)
-    searches = {} if args.refresh else load_cache(SEARCH_CACHE)
-
-    if not args.skip_nelis:
-        nelis, searches = collect_nelis(cfg, nelis, searches, args.refresh)
-        save_json(NELIS_CACHE, nelis)
-        save_json(SEARCH_CACHE, searches)
-        print(f"NELIS cache: {len(nelis)} bills -> {NELIS_CACHE}")
-
-    if not args.skip_openstates:
-        api_key = os.environ.get("OPENSTATES_API_KEY")
-        if not api_key:
-            print("OPENSTATES_API_KEY not set; skipping OpenStates")
-        else:
-            openstates, searches = collect_openstates(
-                cfg, openstates, searches, args.refresh, api_key
-            )
-            save_json(OPENSTATES_CACHE, openstates)
-            save_json(SEARCH_CACHE, searches)
-            print(f"OpenStates cache: {len(openstates)} bills -> {OPENSTATES_CACHE}")
-
-    # Water filter + merge for review
-    nelis_water = [b for b in nelis.values() if is_water(b.get("title", ""), b.get("abstract", ""))]
-    os_water = [
-        b for b in openstates.values() if is_water(b.get("title", ""), b.get("abstract", ""))
-    ]
-
+def merge(nelis: dict, openstates: dict) -> list[dict]:
     merged: dict[str, dict] = {}
-    for bill in nelis_water:
+    for bill in nelis.values():
+        if not is_water(bill.get("title", ""), bill.get("abstract", "")):
+            continue
         key = f"{bill['session']}:{bill['identifier']}"
         merged[key] = {
             "session": bill["session"],
@@ -277,7 +220,9 @@ def main() -> None:
             "nelis_url": bill.get("source_url"),
             "openstates_url": None,
         }
-    for bill in os_water:
+    for bill in openstates.values():
+        if not is_water(bill.get("title", ""), bill.get("abstract", "")):
+            continue
         key = f"{bill['session']}:{bill['identifier']}"
         if key in merged:
             merged[key]["in_openstates"] = True
@@ -295,28 +240,54 @@ def main() -> None:
                 "nelis_url": None,
                 "openstates_url": bill.get("openstates_url"),
             }
+    return sorted(merged.values(), key=lambda b: (b["session"], b["identifier"]))
 
-    bills = sorted(merged.values(), key=lambda b: (b["session"], b["identifier"]))
+
+def main() -> None:
+    p = argparse.ArgumentParser()
+    p.add_argument("--refresh", action="store_true")
+    p.add_argument("--skip-openstates", action="store_true")
+    p.add_argument("--skip-nelis", action="store_true")
+    args = p.parse_args()
+
+    cfg = load_yaml()
+    OUT.mkdir(parents=True, exist_ok=True)
+    nelis = {} if args.refresh else load_json(NELIS_CACHE)
+    openstates = {} if args.refresh else load_json(OPENSTATES_CACHE)
+    searches = {} if args.refresh else load_json(SEARCH_CACHE)
+
+    if not args.skip_nelis:
+        collect_nelis(cfg, nelis, searches, args.refresh)
+        save_json(NELIS_CACHE, nelis)
+        save_json(SEARCH_CACHE, searches)
+        print(f"NELIS: {len(nelis)} cached")
+
+    if not args.skip_openstates:
+        key = os.environ.get("OPENSTATES_API_KEY")
+        if not key:
+            print("No OPENSTATES_API_KEY — skipping OpenStates")
+        else:
+            collect_openstates(cfg, openstates, searches, args.refresh, key)
+            save_json(OPENSTATES_CACHE, openstates)
+            save_json(SEARCH_CACHE, searches)
+            print(f"OpenStates: {len(openstates)} cached")
+
+    bills = merge(nelis, openstates)
     payload = {
         "pass": 1,
-        "collected_at": datetime.now(timezone.utc).isoformat(),
-        "fields": ["session", "identifier", "title", "abstract"],
-        "note": "Pass 1 only. Votes/actions/sponsors/PDFs are Pass 2 (later).",
+        "collected_at": now(),
         "counts": {
             "nelis_cached": len(nelis),
             "openstates_cached": len(openstates),
-            "nelis_water": len(nelis_water),
-            "openstates_water": len(os_water),
             "merged_water": len(bills),
             "both_sources": sum(1 for b in bills if b["in_nelis"] and b["in_openstates"]),
         },
         "bills": bills,
     }
-    out_path = OUT / "bills.json"
-    save_json(out_path, payload)
+    save_json(OUT / "bills.json", payload)
     print(
-        f"Pass 1 done. {payload['counts']['merged_water']} water bills "
-        f"({payload['counts']['both_sources']} in both) -> {out_path}"
+        f"Done: {payload['counts']['merged_water']} water bills "
+        f"({payload['counts']['both_sources']} in both) -> {OUT / 'bills.json'}"
     )
 
 

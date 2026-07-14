@@ -16,11 +16,13 @@ This project generates **Legislative Brief Version 0** documents for The Forum's
 
 ## Quick start
 
-1. Read `docs/how-to-run-collectors.md`
-2. Run Pass 1: `python collectors/pass1_bills.py` (needs `OPENSTATES_API_KEY` for OpenStates)
-3. Review `sources/nevada/water-scarcity/pass1/bills.json`
-4. Pass 2 (votes/actions/sponsors) comes after Pass 1 is solid — not enabled yet
-5. See `agents/README.md` for the ten-agent pipeline after data is ready
+```bash
+pip install -r requirements.txt
+export OPENSTATES_API_KEY=your-key-here
+python collectors/pass1_bills.py
+```
+
+Review `sources/nevada/water-scarcity/pass1/bills.json` (session, identifier, title, abstract).
 
 
 ## Repository structure

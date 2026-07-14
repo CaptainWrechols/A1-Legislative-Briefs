@@ -1,18 +1,9 @@
 {
   "pass": 1,
-  "collected_at": "2026-07-14T19:21:19.379593+00:00",
-  "fields": [
-    "session",
-    "identifier",
-    "title",
-    "abstract"
-  ],
-  "note": "Pass 1 only. Votes/actions/sponsors/PDFs are Pass 2 (later).",
+  "collected_at": "2026-07-14T19:42:55.619285+00:00",
   "counts": {
     "nelis_cached": 88,
     "openstates_cached": 0,
-    "nelis_water": 70,
-    "openstates_water": 0,
     "merged_water": 70,
     "both_sources": 0
   },

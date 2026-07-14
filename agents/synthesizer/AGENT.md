@@ -26,8 +26,7 @@ You merge all verified source data into one structured synthesis document. You o
 
 ## Inputs
 
-- `{SOURCES_DIR}/processed/bills-combined.json`
-- `{SOURCES_DIR}/processed/bill-actions.json` (if exists)
+- `{SOURCES_DIR}/pass1/bills.json` (Pass 1 discovery data)
 - `{SOURCES_DIR}/processed/bill-votes.json` (if exists)
 - `{SOURCES_DIR}/verification/report.json` (must be PASS or PASS_WITH_WARNINGS)
 - `{SOURCES_DIR}/manifest.json`

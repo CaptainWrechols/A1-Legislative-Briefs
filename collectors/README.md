@@ -1,12 +1,13 @@
 # Collectors
 
-**Use this:** `pass1_bills.py` — bill id, title, abstract only, with disk cache.
+One script:
 
-**Paused (Pass 2 later):** detail scrapers, PDF downloads, vote/action enrichment, cross-ref, text integrity.
+```bash
+python collectors/pass1_bills.py
+```
 
-| Script | Status |
-|--------|--------|
-| `pass1_bills.py` | Active |
-| `nv_nelis_bills.py` / `nv_nelis_bill_details.py` | Paused |
-| `openstates_bills.py` | Paused |
-| `reconcile_bill_sources.py` / `verify_bill_texts.py` / `bill_text_store.py` | Paused |
+Reads `config/issues/nevada-water-scarcity.yaml`, searches NELIS + OpenStates, caches on disk, writes:
+
+`sources/nevada/water-scarcity/pass1/bills.json`
+
+Fields: session, identifier, title, abstract.
