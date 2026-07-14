@@ -14,7 +14,8 @@ and cached in nelis/legislator-party-cache.json.
 Env:
   NELIS_DETAIL_LIMIT=N   Process only the first N stubs (smoke tests).
   NELIS_SKIP_PARTY=1     Skip legislator party lookups.
-  NELIS_DOWNLOAD_TEXT=1  Download bill PDFs into sources/.../raw/nelis-text/.
+  NELIS_SKIP_TEXT_DOWNLOAD=1  Skip PDF downloads (links only). Default is to download.
+  NELIS_DOWNLOAD_TEXT=0  Alias for skip (legacy); use NELIS_SKIP_TEXT_DOWNLOAD instead.
 """
 
 from __future__ import annotations
@@ -22,6 +23,7 @@ from __future__ import annotations
 import json
 import os
 import re
+import sys
 import time
 from datetime import datetime, timezone
 from html import unescape
@@ -31,6 +33,10 @@ from urllib.parse import urljoin
 import requests
 import yaml
 from bs4 import BeautifulSoup
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from bill_text_store import download_bill_file, identifier_in_blob, safe_filename
+from water_relevance import normalize_bill_identifier
 
 CONFIG_PATH = Path("config/issues/nevada-water-scarcity.yaml")
 NELIS_DIR = Path("sources/nevada/water-scarcity/nelis")
@@ -414,19 +420,55 @@ def enrich_bill(
         entry = {
             "session": session_path,
             "bill_identifier": stub["identifier"],
-            **doc,
+            "label": doc.get("label"),
+            "url": doc.get("url"),
+            "source": "nelis_session_pdf",
+            "canonical_for_analysis": False,
         }
-        if download_text and doc["url"].lower().endswith(".pdf"):
-            filename = f"{session_path}_{stub['identifier']}_{Path(doc['url']).name}"
+        url = doc.get("url") or ""
+        if download_text and url.lower().endswith(".pdf"):
+            filename = safe_filename(
+                session_path,
+                normalize_bill_identifier(stub["identifier"]),
+                doc.get("label") or "text",
+                Path(url).name,
+            )
             dest = RAW_DIR / filename
             try:
-                response = client.get(doc["url"])
-                RAW_DIR.mkdir(parents=True, exist_ok=True)
-                dest.write_bytes(response.content)
-                entry["local_path"] = str(dest)
+                meta = download_bill_file(url, dest, session=client.session)
+                entry.update(meta)
+                entry["identifier_match"] = identifier_in_blob(
+                    stub["identifier"],
+                    " ".join(
+                        [
+                            entry.get("url") or "",
+                            entry.get("local_path") or "",
+                            entry.get("text_preview") or "",
+                        ]
+                    ),
+                )
             except requests.RequestException as exc:
                 entry["download_error"] = str(exc)
         texts.append(entry)
+
+    # Prefer enrolled / latest reprint as the analysis canonical text when present.
+    prefer_order = ("as enrolled", "enrolled", "reprint", "as introduced", "introduced")
+    chosen = None
+    for needle in prefer_order:
+        for entry in texts:
+            label = (entry.get("label") or "").lower()
+            if needle in label and entry.get("local_path") and not entry.get("download_error"):
+                chosen = entry
+                break
+        if chosen:
+            break
+    if not chosen:
+        for entry in texts:
+            if entry.get("local_path") and not entry.get("download_error"):
+                chosen = entry
+                break
+    if chosen:
+        chosen["canonical_for_analysis"] = True
 
     votes_shell = client.fill_tab(session_path, bill_key, "Votes")
     vote_rows: list[dict] = []
@@ -505,7 +547,12 @@ def main() -> None:
         print(f"NELIS_DETAIL_LIMIT={limit}: processing {len(stubs)} stubs")
 
     skip_party = os.environ.get("NELIS_SKIP_PARTY", "").lower() in {"1", "true", "yes"}
-    download_text = os.environ.get("NELIS_DOWNLOAD_TEXT", "").lower() in {"1", "true", "yes"}
+    # Default: download official PDFs. Opt out explicitly for link-only smoke tests.
+    skip_download = os.environ.get("NELIS_SKIP_TEXT_DOWNLOAD", "").lower() in {"1", "true", "yes"}
+    legacy = os.environ.get("NELIS_DOWNLOAD_TEXT")
+    if legacy is not None and legacy.lower() in {"0", "false", "no"}:
+        skip_download = True
+    download_text = not skip_download
 
     party_cache: dict[str, str] = {}
     if PARTY_CACHE_PATH.exists():

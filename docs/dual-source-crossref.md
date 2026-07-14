@@ -31,6 +31,10 @@ NELIS session paths (`82nd2023`) map to OpenStates ids (`82`) via `openstates_se
 
 Both collectors use `config/issues/nevada-water-scarcity.yaml` → `search_terms`, then `collectors/water_relevance.py` so title/summary noise (e.g. generic “conservation” agency bills) is dropped consistently.
 
+## Full bill language
+
+NELIS Session PDFs and OpenStates `versions`/`documents` are downloaded with SHA-256 fingerprints. Run `python collectors/verify_bill_texts.py` and require `verification/bill-text-integrity.md` → Analysis ready before synthesis/analysis agents start.
+
 ## What gets compared
 
 - Title token overlap
