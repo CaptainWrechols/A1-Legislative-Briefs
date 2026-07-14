@@ -163,45 +163,51 @@ def collect_openstates(cfg: dict, cache: dict, searches: dict, refresh: bool, ap
                 print(f"OpenStates {sid} / {term!r} (cached)")
                 continue
             print(f"OpenStates {sid} / {term!r}")
-            page = 1
-            while True:
-                query = [
-                    ("jurisdiction", cfg.get("openstates_jurisdiction") or "Nevada"),
-                    ("session", sid),
-                    ("q", term),
-                    ("per_page", 20),
-                    ("page", page),
-                    ("apikey", api_key),
-                    ("include", "abstracts"),
-                ]
-                data = get(OPENSTATES_URL, params=query, headers=headers).json()
-                results = data.get("results") or []
-                print(f"  page {page}: {len(results)}")
-                for bill in results:
-                    ident = norm_id(bill.get("identifier") or "")
-                    key = f"{sid}:{ident}"
-                    if key in cache and not refresh:
-                        continue
-                    abstract = " ".join(
-                        (a.get("abstract") or "") for a in (bill.get("abstracts") or [])
-                    ).strip()
-                    cache[key] = {
-                        "source": "openstates",
-                        "session": sid,
-                        "identifier": ident,
-                        "title": bill.get("title") or "",
-                        "abstract": abstract,
-                        "openstates_url": bill.get("openstates_url"),
-                        "search_term": term,
-                        "collected_at": now(),
-                    }
-                max_page = (data.get("pagination") or {}).get("max_page", page)
-                if page >= max_page or not results:
-                    break
-                page += 1
-                time.sleep(2.0)
-            searches[sk] = now()
-            time.sleep(2.0)
+            try:
+                page = 1
+                while True:
+                    query = [
+                        ("jurisdiction", cfg.get("openstates_jurisdiction") or "Nevada"),
+                        ("session", sid),
+                        ("q", term),
+                        ("per_page", 20),
+                        ("page", page),
+                        ("apikey", api_key),
+                        ("include", "abstracts"),
+                    ]
+                    data = get(OPENSTATES_URL, params=query, headers=headers).json()
+                    results = data.get("results") or []
+                    print(f"  page {page}: {len(results)}")
+                    for bill in results:
+                        ident = norm_id(bill.get("identifier") or "")
+                        key = f"{sid}:{ident}"
+                        if key in cache and not refresh:
+                            continue
+                        abstract = " ".join(
+                            (a.get("abstract") or "") for a in (bill.get("abstracts") or [])
+                        ).strip()
+                        cache[key] = {
+                            "source": "openstates",
+                            "session": sid,
+                            "identifier": ident,
+                            "title": bill.get("title") or "",
+                            "abstract": abstract,
+                            "openstates_url": bill.get("openstates_url"),
+                            "search_term": term,
+                            "collected_at": now(),
+                        }
+                    max_page = (data.get("pagination") or {}).get("max_page", page)
+                    if page >= max_page or not results:
+                        break
+                    page += 1
+                    time.sleep(3.0)
+                searches[sk] = now()
+                time.sleep(3.0)
+            except RuntimeError as exc:
+                # Rate limits are common; keep NELIS results and retry this term next run.
+                print(f"  OpenStates skipped ({exc})")
+                time.sleep(5.0)
+                continue
 
 
 def merge(nelis: dict, openstates: dict) -> list[dict]:
