@@ -26,17 +26,18 @@ You collect public legislative and policy data for one Forum issue in one state.
 ## Inputs
 
 - `{CONFIG_PATH}` — search terms, sessions, statute chapters, agency URLs
-- Environment variable `OPENSTATES_API_KEY` — required for bill search (never write this key into any file)
+- Environment variable `OPENSTATES_API_KEY` — required for OpenStates bill search/enrichment (never write this key into any file)
 - Optional: `sources/forum/{STATE}/{ISSUE_SLUG}/` — Phase 1 and Phase 2 Forum files if they exist
 
 ## Outputs (you must create or update all of these)
 
 | Output path | Format | Contents |
 |-------------|--------|----------|
+| `sources/{STATE}/{ISSUE_SLUG}/nelis/` | JSON | NELIS stubs + detail enrichment (actions/history, hearings, votes, sponsors, text links) |
+| `sources/{STATE}/{ISSUE_SLUG}/openstates/` | JSON | OpenStates candidates, filtered bills, actions, votes, sponsors, progress |
+| `sources/{STATE}/{ISSUE_SLUG}/crossref/` | JSON + Markdown | Match report comparing NELIS vs OpenStates |
 | `sources/{STATE}/{ISSUE_SLUG}/raw/` | HTML, PDF, JSON snapshots | Unchanged copies of downloaded pages |
-| `sources/{STATE}/{ISSUE_SLUG}/processed/bills-combined.json` | JSON array | Deduplicated bills from OpenStates |
-| `sources/{STATE}/{ISSUE_SLUG}/processed/bill-actions.json` | JSON array | Flattened action timeline per bill |
-| `sources/{STATE}/{ISSUE_SLUG}/processed/bill-votes.json` | JSON array | Vote events where available |
+| `sources/{STATE}/{ISSUE_SLUG}/processed/bills-combined.json` | JSON array | Compatibility copy used by appendix generators |
 | `sources/{STATE}/{ISSUE_SLUG}/processed/statute-links.json` | JSON array | Nevada Revised Statutes chapter URLs and fetch status |
 | `sources/{STATE}/{ISSUE_SLUG}/processed/agency-documents.json` | JSON array | Metadata for agency and Legislative Counsel Bureau documents |
 | `sources/{STATE}/{ISSUE_SLUG}/manifest.json` | JSON object | Master log of every fetch: URL, timestamp, local path, status |
@@ -44,15 +45,16 @@ You collect public legislative and policy data for one Forum issue in one state.
 ## Directives
 
 1. Read `{CONFIG_PATH}` before any network request.
-2. Collect bills from OpenStates Application Programming Interface version 3:
-   - Base URL: `https://v3.openstates.org/bills`
-   - For each session in `{SESSIONS}` and each search term in the config file, run a search.
-   - Wait at least 1 second between requests to the same domain.
-   - Deduplicate bills by OpenStates bill identifier before saving.
-3. For each bill, store at minimum: identifier, title, session, jurisdiction, sponsors, subjects, actions, votes (if present), source URL, openstates_url, and date retrieved.
-4. Download configured agency and legislature document URLs from the config file into `raw/`. Save the binary file with a descriptive filename (example: `lcb-data-centers-background.pdf`).
-5. For Nevada Revised Statutes chapters listed in config, record the canonical URL in `statute-links.json`. Download the HTML page to `raw/` if the config requests it.
-6. Write `manifest.json` with this structure for every item collected:
+2. For Nevada, collect from **both** sources when possible:
+   1. `python collectors/nv_nelis_bills.py`
+   2. `python collectors/nv_nelis_bill_details.py`
+   3. `python collectors/openstates_bills.py` (requires `OPENSTATES_API_KEY`)
+   4. `python collectors/reconcile_bill_sources.py`
+3. Prefer the dual-source layout under `nelis/` and `openstates/`. Keep `processed/bills-combined.json` only as a compatibility mirror for appendix scripts.
+4. For OpenStates, wait between requests; use resume/backoff when detail enrichment hits 429/5xx.
+5. Download configured agency and legislature document URLs from the config file into `raw/`. Save the binary file with a descriptive filename (example: `lcb-data-centers-background.pdf`).
+6. For Nevada Revised Statutes chapters listed in config, record the canonical URL in `statute-links.json`. Download the HTML page to `raw/` if the config requests it.
+7. Write `manifest.json` with this structure for every item collected:
 
 ```json
 {

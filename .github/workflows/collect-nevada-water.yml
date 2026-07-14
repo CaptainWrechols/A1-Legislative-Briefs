@@ -2,6 +2,23 @@ name: Collect Nevada Water Bills
 
 on:
   workflow_dispatch:
+    inputs:
+      nelis_detail_limit:
+        description: "Optional cap on NELIS detail enrichment (blank = all stubs)"
+        required: false
+        default: ""
+      openstates_detail_limit:
+        description: "Optional cap on OpenStates detail enrichment (blank = all relevant)"
+        required: false
+        default: ""
+      skip_openstates:
+        description: "Set true to run NELIS + cross-ref only"
+        required: false
+        default: "false"
+      nelis_download_text:
+        description: "Set true to download NELIS bill PDFs"
+        required: false
+        default: "false"
 
 jobs:
   collect:
@@ -18,13 +35,36 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run OpenStates collector
+      - name: Run NELIS search collector
+        run: python collectors/nv_nelis_bills.py
+
+      - name: Run NELIS detail collector (votes/sponsors/history/text)
+        env:
+          NELIS_DETAIL_LIMIT: ${{ inputs.nelis_detail_limit }}
+          NELIS_DOWNLOAD_TEXT: ${{ inputs.nelis_download_text }}
+        run: python collectors/nv_nelis_bill_details.py
+
+      - name: Run OpenStates collector (search + detail enrichment)
+        if: ${{ inputs.skip_openstates != 'true' }}
         env:
           OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
+          OPENSTATES_DETAIL_LIMIT: ${{ inputs.openstates_detail_limit }}
+          OPENSTATES_RESUME: "1"
+          OPENSTATES_DETAIL_DELAY: "2.5"
+        continue-on-error: true
         run: python collectors/openstates_bills.py
 
-      - name: Generate appendix A from collected bills
-        run: python collectors/json_to_appendix.py
+      - name: Cross-reference NELIS and OpenStates
+        run: python collectors/reconcile_bill_sources.py
+
+      - name: Generate appendix A from NELIS bills when present
+        run: |
+          if [ -f sources/nevada/water-scarcity/nelis/bills.json ]; then
+            cp sources/nevada/water-scarcity/nelis/bills.json sources/nevada/water-scarcity/processed/bills-combined.json
+          elif [ -f sources/nevada/water-scarcity/openstates/bills.json ]; then
+            cp sources/nevada/water-scarcity/openstates/bills.json sources/nevada/water-scarcity/processed/bills-combined.json
+          fi
+          python collectors/json_to_appendix.py
 
       - name: Upload collected data as artifact
         uses: actions/upload-artifact@v4

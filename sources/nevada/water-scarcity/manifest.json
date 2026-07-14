@@ -1,0 +1,95 @@
+{
+  "issue_id": "nevada-04-water-scarcity",
+  "state": "nevada",
+  "collected_at": "2026-07-14T14:46:12.275322+00:00",
+  "nelis_search_collector": "nv_nelis_bills.py",
+  "nelis_items": [
+    {
+      "source_key": "NELIS-80",
+      "type": "nelis_session_search",
+      "session_label": "2019",
+      "session_path": "80th2019",
+      "matched_bill_count": 36,
+      "search_terms": [
+        "water",
+        "groundwater",
+        "Colorado River",
+        "consumptive use",
+        "data center",
+        "water rights",
+        "conservation",
+        "SNWA"
+      ],
+      "source": "https://www.leg.state.nv.us/App/NELIS/"
+    },
+    {
+      "source_key": "NELIS-81",
+      "type": "nelis_session_search",
+      "session_label": "2021",
+      "session_path": "81st2021",
+      "matched_bill_count": 33,
+      "search_terms": [
+        "water",
+        "groundwater",
+        "Colorado River",
+        "consumptive use",
+        "data center",
+        "water rights",
+        "conservation",
+        "SNWA"
+      ],
+      "source": "https://www.leg.state.nv.us/App/NELIS/"
+    },
+    {
+      "source_key": "NELIS-82",
+      "type": "nelis_session_search",
+      "session_label": "2023",
+      "session_path": "82nd2023",
+      "matched_bill_count": 36,
+      "search_terms": [
+        "water",
+        "groundwater",
+        "Colorado River",
+        "consumptive use",
+        "data center",
+        "water rights",
+        "conservation",
+        "SNWA"
+      ],
+      "source": "https://www.leg.state.nv.us/App/NELIS/"
+    },
+    {
+      "source_key": "NELIS-83",
+      "type": "nelis_session_search",
+      "session_label": "2025",
+      "session_path": "83rd2025",
+      "matched_bill_count": 42,
+      "search_terms": [
+        "water",
+        "groundwater",
+        "Colorado River",
+        "consumptive use",
+        "data center",
+        "water rights",
+        "conservation",
+        "SNWA"
+      ],
+      "source": "https://www.leg.state.nv.us/App/NELIS/"
+    }
+  ],
+  "nelis_bill_count": 147,
+  "nelis_detail": {
+    "collector": "nv_nelis_bill_details.py",
+    "collected_at": "2026-07-14T14:47:46.886391+00:00",
+    "stub_count": 3,
+    "bill_count": 3,
+    "action_row_count": 29,
+    "vote_event_count": 3,
+    "sponsor_row_count": 3,
+    "hearing_row_count": 11,
+    "text_doc_count": 14,
+    "failure_count": 0,
+    "skip_party": false,
+    "download_text": false
+  }
+}
