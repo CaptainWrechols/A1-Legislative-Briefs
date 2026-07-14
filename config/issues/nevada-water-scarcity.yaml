@@ -21,15 +21,24 @@ sessions:
     openstates_identifier: "83"
     name: "83rd (2025) Session"
 
+# Shared by NELIS and OpenStates discovery. Prefer water-specific phrases over
+# bare "conservation" (which pulled parks/heritage/DNCR org hits on NELIS).
+# Both collectors also apply the same local title/summary water-relevance filter
+# in collectors/water_relevance.py after search.
 search_terms:
   - water
   - groundwater
   - "Colorado River"
   - "consumptive use"
-  - "data center"
   - "water rights"
-  - conservation
+  - irrigation
+  - drought
+  - aquifer
+  - wastewater
+  - "reclaimed water"
+  - "water conservation"
   - SNWA
+  - "data center"
 
 nevada_revised_statutes_chapters:
   - 533

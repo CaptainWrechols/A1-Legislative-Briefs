@@ -15,8 +15,12 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from water_relevance import normalize_bill_identifier
 
 NELIS_DIR = Path("sources/nevada/water-scarcity/nelis")
 OPENSTATES_DIR = Path("sources/nevada/water-scarcity/openstates")
@@ -59,12 +63,12 @@ def jaccard(a: set[str], b: set[str]) -> float:
 
 def nelis_match_key(bill: dict) -> str:
     session = bill.get("openstates_session") or SESSION_PATH_TO_ID.get(bill.get("session", ""), "")
-    identifier = (bill.get("identifier") or "").upper()
+    identifier = normalize_bill_identifier(bill.get("identifier"))
     return f"{session}:{identifier}"
 
 
 def openstates_match_key(bill: dict) -> str:
-    return f"{bill.get('session')}:{(bill.get('identifier') or '').upper()}"
+    return f"{bill.get('session')}:{normalize_bill_identifier(bill.get('identifier'))}"
 
 
 def index_rows(rows: list[dict], session_field_map=None) -> dict[str, list[dict]]:
@@ -73,7 +77,7 @@ def index_rows(rows: list[dict], session_field_map=None) -> dict[str, list[dict]
         session = row.get("session")
         if session_field_map and session in session_field_map:
             session = session_field_map[session]
-        key = f"{session}:{(row.get('bill_identifier') or '').upper()}"
+        key = f"{session}:{normalize_bill_identifier(row.get('bill_identifier'))}"
         out.setdefault(key, []).append(row)
     return out
 
@@ -251,7 +255,7 @@ def main() -> None:
         "openstates_votes": index_rows(load_json(OPENSTATES_DIR / "bill-votes.json", [])),
         "openstates_sponsors": index_rows(load_json(OPENSTATES_DIR / "bill-sponsors.json", [])),
         "openstates_progress": {
-            f"{row.get('session')}:{(row.get('bill_identifier') or '').upper()}": row
+            f"{row.get('session')}:{normalize_bill_identifier(row.get('bill_identifier'))}": row
             for row in load_json(OPENSTATES_DIR / "bill-legislative-progress.json", [])
         },
     }

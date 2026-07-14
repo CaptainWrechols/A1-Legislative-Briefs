@@ -17,48 +17,58 @@ pip install -r requirements.txt
 
 ## Recommended local sequence
 
+Both collectors read the **same** `search_terms` from `config/issues/nevada-water-scarcity.yaml` and apply the **same** water-relevance title/summary filter (`collectors/water_relevance.py`).
+
 ```bash
-# 1) NELIS search stubs (no API key)
+# 1) NELIS search stubs (no API key) — shared terms + shared filter
 python collectors/nv_nelis_bills.py
 
 # 2) NELIS details: history, hearings, floor votes + member names, sponsors + party, bill PDF links
 #    Optional smoke test: NELIS_DETAIL_LIMIT=5
 python collectors/nv_nelis_bill_details.py
 
-# 3) OpenStates search + detail enrichment (actions/votes/sponsors)
+# 3) OpenStates search + detail enrichment (same terms + same filter)
 export OPENSTATES_API_KEY=your-key-here
 # Optional: OPENSTATES_DETAIL_LIMIT=10 OPENSTATES_RESUME=1 OPENSTATES_DETAIL_DELAY=2.5
 python collectors/openstates_bills.py
 
-# 4) Cross-reference both packages
+# 4) Cross-reference both packages (normalizes AB 30 ↔ AB30)
 python collectors/reconcile_bill_sources.py
+
+# 5) Gate analysis: every bill must have downloaded official text + fingerprints
+python collectors/verify_bill_texts.py
 ```
 
 ### What each source gives you
 
 | Field | NELIS | OpenStates |
 |-------|-------|------------|
-| Water-related bill discovery | Title/summary search | Full-text `q=` + local title filter |
+| Discovery terms | Same `config` `search_terms` | Same `config` `search_terms` |
+| Water relevance filter | Same `water_relevance.py` on title/summary | Same filter on title/abstract |
 | Bill history / actions | Overview history table | `include=actions` detail |
 | Committee signal | Past Hearings recommendations (e.g. Do pass) | Action classifications + committee vote events when present |
 | Floor votes + member names | `GetBillVotes` / `GetBillVoteMembers` | `include=votes` (voter lists when API returns them) |
 | Sponsors + party | Overview sponsors + legislator pages | `include=sponsorships` (`person.party` when present) |
-| Bill text | PDF/HTML links on Text tab (`bill-texts.json`) | Usually not full text via this collector |
+| Bill text | Official Session PDFs downloaded to `raw/nelis-text/` (+ sha256 + text preview) | `include=versions,documents` downloaded to `raw/openstates-text/` |
+| Text integrity gate | `verify_bill_texts.py` requires downloaded PDFs before analysis | Same verifier; same-URL hashes must match NELIS |
 
-NELIS remains the citation surface for Nevada-official wording. OpenStates is the machine-friendly mirror used to corroborate structured fields.
+`vote_event_count = 0` in OpenStates means **no vote records were returned by the API**, not that no vote happened. Many enrolled/signed bills still have Final Passage tallies on NELIS; some chambers may also use unrecorded voice votes. Prefer NELIS vote files when OpenStates votes are empty.
+
+**Do not start analysis until** `sources/nevada/water-scarcity/verification/bill-text-integrity.md` reports `Analysis ready: True`.
 
 ## Output layout
 
 ```
 sources/nevada/water-scarcity/
 ├── nelis/
+│   ├── bills-search-candidates.json
 │   ├── bills-search-stubs.json
 │   ├── bills.json
 │   ├── bill-actions.json
 │   ├── bill-votes.json
 │   ├── bill-sponsors.json
 │   ├── bill-hearings.json
-│   ├── bill-texts.json
+│   ├── bill-texts.json              # official PDFs + sha256 + preview
 │   └── collection-summary.json
 ├── openstates/
 │   ├── bills-search-candidates.json
@@ -66,24 +76,27 @@ sources/nevada/water-scarcity/
 │   ├── bill-actions.json
 │   ├── bill-votes.json
 │   ├── bill-sponsors.json
+│   ├── bill-texts.json
 │   ├── bill-legislative-progress.json
 │   └── collection-summary.json
 ├── crossref/
 │   ├── bill-match-report.json
 │   └── summary.md
+├── verification/
+│   ├── bill-text-integrity.json
+│   └── bill-text-integrity.md
 ├── manifest.json
 └── raw/
+    ├── nelis-text/
+    └── openstates-text/
 ```
 
 ## GitHub Actions
 
 1. Add `OPENSTATES_API_KEY` under Settings → Secrets and variables → Actions.
 2. Actions → **Collect Nevada Water Bills** → Run workflow.
-3. Optional inputs:
-   - `nelis_detail_limit` / `openstates_detail_limit` for capped smoke runs
-   - `skip_openstates=true` for NELIS-only collection
-   - `nelis_download_text=true` to store bill PDFs under `raw/nelis-text/`
-4. Download the `nevada-water-collected-data` artifact and open `crossref/summary.md`.
+3. Leave inputs blank for a full run. Bill PDFs download by default (`skip_text_download` must stay false).
+4. Download the artifact and confirm `verification/bill-text-integrity.md` says **Analysis ready: True** before any briefing work.
 
 GitHub does **not** host NELIS/OpenStates data itself. Actions only runs these collectors in the cloud and uploads the JSON artifacts into the workflow run (and into the repo if you commit them).
 

@@ -14,12 +14,17 @@ import hashlib
 import json
 import os
 import re
+import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
 import yaml
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from bill_text_store import download_bill_file, identifier_in_blob, safe_filename
+from water_relevance import is_water_relevant_text, normalize_bill_identifier
 
 CONFIG_PATH = Path("config/issues/nevada-water-scarcity.yaml")
 OUTPUT_DIR = Path("sources/nevada/water-scarcity/openstates")
@@ -31,21 +36,14 @@ PER_PAGE = 20
 PAGE_DELAY_SECONDS = 1.0
 SEARCH_DELAY_SECONDS = 1.5
 DETAIL_DELAY_SECONDS = float(os.environ.get("OPENSTATES_DETAIL_DELAY", "2.0"))
-DETAIL_INCLUDES = ["actions", "votes", "sponsorships", "abstracts"]
-
-# Narrow terms → bill is relevant if any appear in title/abstract.
-CORE_TITLE_TERMS = [
-    "water",
-    "groundwater",
-    "colorado river",
-    "consumptive use",
-    "water rights",
-    "snwa",
-    "aquifer",
-    "irrigation",
-    "drought",
-    "wastewater",
-    "reclaimed water",
+DETAIL_INCLUDES = [
+    "actions",
+    "votes",
+    "sponsorships",
+    "abstracts",
+    "versions",
+    "documents",
+    "sources",
 ]
 
 
@@ -92,25 +90,18 @@ def bill_key(bill: dict) -> str:
     return str(bill.get("id") or f"{bill.get('session')}:{bill.get('identifier')}")
 
 
-def bill_title_abstract_blob(bill: dict) -> str:
-    parts = [bill.get("title") or ""]
-    for abstract in bill.get("abstracts") or []:
-        parts.append(abstract.get("abstract") or "")
-    return " ".join(parts).lower()
+def bill_title_abstract_parts(bill: dict) -> tuple[str, str]:
+    title = bill.get("title") or ""
+    abstracts = " ".join(
+        (abstract.get("abstract") or "") for abstract in (bill.get("abstracts") or [])
+    )
+    return title, abstracts
 
 
 def is_water_relevant(bill: dict) -> bool:
-    """Local filter so OpenStates full-text hits approximate NELIS title/summary focus."""
-    blob = bill_title_abstract_blob(bill)
-    title = (bill.get("title") or "").lower()
-    has_core = any(term in blob for term in CORE_TITLE_TERMS)
-    if has_core:
-        return True
-    # Keep explicit data-center search matches even without "water" in title.
-    if "data center" in title or "data centers" in title:
-        return True
-    return False
-
+    """Same shared filter NELIS uses — title/abstract must be water-relevant."""
+    title, abstracts = bill_title_abstract_parts(bill)
+    return is_water_relevant_text(title, abstracts)
 
 def paginate_bills(
     api_key: str,
@@ -464,6 +455,88 @@ def flatten_sponsors(bills: list[dict]) -> list[dict]:
     return rows
 
 
+def flatten_text_versions(bills: list[dict]) -> list[dict]:
+    """Flatten OpenStates versions/documents with official download URLs."""
+    rows = []
+    for bill in bills:
+        identifier = bill.get("identifier", "")
+        session = bill.get("session", "")
+        for kind, items in (("version", bill.get("versions") or []), ("document", bill.get("documents") or [])):
+            for item in items:
+                links = item.get("links") or []
+                for link in links:
+                    rows.append(
+                        {
+                            "session": session,
+                            "bill_identifier": identifier,
+                            "kind": kind,
+                            "note": item.get("note"),
+                            "date": item.get("date"),
+                            "url": link.get("url"),
+                            "media_type": link.get("media_type") or link.get("mediaType"),
+                            "source": "openstates",
+                        }
+                    )
+        for source in bill.get("sources") or []:
+            rows.append(
+                {
+                    "session": session,
+                    "bill_identifier": identifier,
+                    "kind": "source",
+                    "note": source.get("note") or "openstates_source",
+                    "date": None,
+                    "url": source.get("url"),
+                    "media_type": None,
+                    "source": "openstates_sources",
+                }
+            )
+    return rows
+
+
+def download_openstates_texts(text_rows: list[dict], raw_dir: Path) -> list[dict]:
+    """Download PDF (preferred) / HTML bill files and fingerprint them."""
+    skip = os.environ.get("OPENSTATES_SKIP_TEXT_DOWNLOAD", "").lower() in {"1", "true", "yes"}
+    enriched: list[dict] = []
+    # Prefer one PDF per note, fall back to any link.
+    seen_urls: set[str] = set()
+    for row in text_rows:
+        entry = dict(row)
+        url = entry.get("url") or ""
+        if not url or url in seen_urls:
+            enriched.append(entry)
+            continue
+        seen_urls.add(url)
+        if skip:
+            enriched.append(entry)
+            continue
+        media = (entry.get("media_type") or "").lower()
+        is_pdf = url.lower().endswith(".pdf") or "pdf" in media
+        is_html = url.lower().endswith((".html", ".htm")) or "html" in media
+        if not (is_pdf or is_html or entry.get("kind") == "version"):
+            enriched.append(entry)
+            continue
+        filename = safe_filename(
+            str(entry.get("session")),
+            normalize_bill_identifier(entry.get("bill_identifier")),
+            entry.get("kind") or "doc",
+            entry.get("note") or "text",
+            Path(url.split("?")[0]).name or "document",
+        )
+        dest = raw_dir / filename
+        try:
+            meta = download_bill_file(url, dest)
+            entry.update(meta)
+            entry["identifier_match"] = identifier_in_blob(
+                entry.get("bill_identifier") or "",
+                " ".join([url, entry.get("local_path") or "", entry.get("text_preview") or ""]),
+            )
+        except requests.RequestException as exc:
+            entry["download_error"] = str(exc)
+        enriched.append(entry)
+        time.sleep(0.35)
+    return enriched
+
+
 def sha256_bytes(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
@@ -502,6 +575,8 @@ def write_outputs(
     votes = flatten_votes(enriched)
     sponsors = flatten_sponsors(enriched)
     progress = [summarize_progress(b) for b in enriched]
+    text_dir = Path("sources/nevada/water-scarcity/raw/openstates-text")
+    texts = download_openstates_texts(flatten_text_versions(enriched), text_dir)
 
     bills_path = OUTPUT_DIR / "bills.json"
     bills_path.write_text(json.dumps(enriched, indent=2), encoding="utf-8")
@@ -512,6 +587,7 @@ def write_outputs(
     (OUTPUT_DIR / "bill-actions.json").write_text(json.dumps(actions, indent=2), encoding="utf-8")
     (OUTPUT_DIR / "bill-votes.json").write_text(json.dumps(votes, indent=2), encoding="utf-8")
     (OUTPUT_DIR / "bill-sponsors.json").write_text(json.dumps(sponsors, indent=2), encoding="utf-8")
+    (OUTPUT_DIR / "bill-texts.json").write_text(json.dumps(texts, indent=2), encoding="utf-8")
     (OUTPUT_DIR / "bill-legislative-progress.json").write_text(
         json.dumps(progress, indent=2), encoding="utf-8"
     )
@@ -576,6 +652,7 @@ def write_outputs(
     signed = sum(1 for row in progress if row.get("signed_into_law"))
     with_votes = sum(1 for row in progress if row.get("vote_event_count", 0) > 0)
     with_sponsors = sum(1 for row in progress if row.get("sponsor_count", 0) > 0)
+    texts_downloaded = sum(1 for row in texts if row.get("local_path") and not row.get("download_error"))
 
     openstates_summary = {
         "collector": "openstates_bills.py",
@@ -588,13 +665,17 @@ def write_outputs(
         "action_row_count": len(actions),
         "vote_event_count": len(votes),
         "sponsor_row_count": len(sponsors),
+        "text_link_count": len(texts),
+        "text_downloaded_count": texts_downloaded,
         "bills_with_vote_events": with_votes,
         "bills_with_sponsors": with_sponsors,
         "bills_signed_into_law": signed,
         "relevance_note": (
-            "OpenStates q= searches full bill text (broader than NELIS title/summary search). "
-            "bills.json is locally filtered to water-relevant titles/abstracts; "
-            "bills-search-candidates.json retains the full OpenStates hit list."
+            "NELIS and OpenStates share config search_terms and the same "
+            "collectors/water_relevance.py title/summary filter. "
+            "OpenStates q= also searches full bill text before that filter; "
+            "bills-search-candidates.json retains pre-filter hits. "
+            "Bill language PDFs/HTML are downloaded into raw/openstates-text/."
         ),
         "output_dir": str(OUTPUT_DIR),
     }

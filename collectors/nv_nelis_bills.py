@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """Fetch Nevada water-related bills from the state NELIS search list.
 
+Uses the same config `search_terms` as OpenStates, then applies the shared
+water-relevance title/summary filter so NELIS stubs align with OpenStates
+relevant bills.
+
 Writes search stubs (identifier, title, session, source_url, nelis_bill_key)
 to sources/nevada/water-scarcity/nelis/. Run nv_nelis_bill_details.py next to
 pull votes, sponsors, history, and bill-text links for each stub.
@@ -10,6 +14,7 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 import time
 from datetime import datetime, timezone
 from html import unescape
@@ -18,6 +23,9 @@ from urllib.parse import quote
 
 import requests
 import yaml
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from water_relevance import is_water_relevant_text
 
 CONFIG_PATH = Path("config/issues/nevada-water-scarcity.yaml")
 NELIS_DIR = Path("sources/nevada/water-scarcity/nelis")
@@ -129,16 +137,28 @@ def main() -> None:
                 "type": "nelis_session_search",
                 "session_label": session_label,
                 "session_path": session_path,
-                "matched_bill_count": len(session_matches),
+                "raw_search_hit_count": len(session_matches),
                 "search_terms": search_terms,
                 "source": "https://www.leg.state.nv.us/App/NELIS/",
             }
         )
 
-    bills_list = list(all_bills.values())
+    candidates_list = list(all_bills.values())
+    bills_list = [
+        bill
+        for bill in candidates_list
+        if is_water_relevant_text(bill.get("title"), bill.get("title"))
+    ]
+    print(
+        f"NELIS search hits: {len(candidates_list)}; "
+        f"after shared water-relevance filter: {len(bills_list)}"
+    )
+
     NELIS_DIR.mkdir(parents=True, exist_ok=True)
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
+    candidates_path = NELIS_DIR / "bills-search-candidates.json"
+    candidates_path.write_text(json.dumps(candidates_list, indent=2), encoding="utf-8")
     stubs_path = NELIS_DIR / "bills-search-stubs.json"
     stubs_path.write_text(json.dumps(bills_list, indent=2), encoding="utf-8")
     # Compatibility path used by older pipeline steps.
@@ -156,12 +176,15 @@ def main() -> None:
             "collected_at": datetime.now(timezone.utc).isoformat(),
             "nelis_search_collector": "nv_nelis_bills.py",
             "nelis_items": manifest_items,
+            "nelis_search_candidate_count": len(candidates_list),
             "nelis_bill_count": len(bills_list),
+            "search_terms": search_terms,
+            "water_relevance_filter": "collectors/water_relevance.py",
         }
     )
     MANIFEST_PATH.parent.mkdir(parents=True, exist_ok=True)
     MANIFEST_PATH.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
-    print(f"Done. Saved {len(bills_list)} NELIS bill stubs to {stubs_path}")
+    print(f"Done. Saved {len(bills_list)} water-relevant NELIS stubs to {stubs_path}")
 
 
 if __name__ == "__main__":

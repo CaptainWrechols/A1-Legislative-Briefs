@@ -15,8 +15,8 @@ on:
         description: "Set true to run NELIS + cross-ref only"
         required: false
         default: "false"
-      nelis_download_text:
-        description: "Set true to download NELIS bill PDFs"
+      skip_text_download:
+        description: "Set true to skip bill PDF downloads (not recommended)"
         required: false
         default: "false"
 
@@ -38,24 +38,28 @@ jobs:
       - name: Run NELIS search collector
         run: python collectors/nv_nelis_bills.py
 
-      - name: Run NELIS detail collector (votes/sponsors/history/text)
+      - name: Run NELIS detail collector (votes/sponsors/history + full bill PDFs)
         env:
           NELIS_DETAIL_LIMIT: ${{ inputs.nelis_detail_limit }}
-          NELIS_DOWNLOAD_TEXT: ${{ inputs.nelis_download_text }}
+          NELIS_SKIP_TEXT_DOWNLOAD: ${{ inputs.skip_text_download }}
         run: python collectors/nv_nelis_bill_details.py
 
-      - name: Run OpenStates collector (search + detail enrichment)
+      - name: Run OpenStates collector (search + detail + bill versions)
         if: ${{ inputs.skip_openstates != 'true' }}
         env:
           OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
           OPENSTATES_DETAIL_LIMIT: ${{ inputs.openstates_detail_limit }}
           OPENSTATES_RESUME: "1"
           OPENSTATES_DETAIL_DELAY: "2.5"
+          OPENSTATES_SKIP_TEXT_DOWNLOAD: ${{ inputs.skip_text_download }}
         continue-on-error: true
         run: python collectors/openstates_bills.py
 
       - name: Cross-reference NELIS and OpenStates
         run: python collectors/reconcile_bill_sources.py
+
+      - name: Verify full bill text integrity
+        run: python collectors/verify_bill_texts.py
 
       - name: Generate appendix A from NELIS bills when present
         run: |
