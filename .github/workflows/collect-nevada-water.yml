@@ -3,20 +3,12 @@ name: Collect Nevada Water Bills
 on:
   workflow_dispatch:
     inputs:
-      nelis_detail_limit:
-        description: "Optional cap on NELIS detail enrichment (blank = all stubs)"
-        required: false
-        default: ""
-      openstates_detail_limit:
-        description: "Optional cap on OpenStates detail enrichment (blank = all relevant)"
-        required: false
-        default: ""
-      skip_openstates:
-        description: "Set true to run NELIS + cross-ref only"
+      refresh:
+        description: "Set true to ignore cache and re-collect Pass 1"
         required: false
         default: "false"
-      skip_text_download:
-        description: "Set true to skip bill PDF downloads (not recommended)"
+      skip_openstates:
+        description: "Set true for NELIS-only Pass 1"
         required: false
         default: "false"
 
@@ -24,56 +16,26 @@ jobs:
   collect:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run NELIS search collector
-        run: python collectors/nv_nelis_bills.py
-
-      - name: Run NELIS detail collector (votes/sponsors/history + full bill PDFs)
-        env:
-          NELIS_DETAIL_LIMIT: ${{ inputs.nelis_detail_limit }}
-          NELIS_SKIP_TEXT_DOWNLOAD: ${{ inputs.skip_text_download }}
-        run: python collectors/nv_nelis_bill_details.py
-
-      - name: Run OpenStates collector (search + detail + bill versions)
-        if: ${{ inputs.skip_openstates != 'true' }}
+      - name: Pass 1 — bills, titles, abstracts (cached)
         env:
           OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
-          OPENSTATES_DETAIL_LIMIT: ${{ inputs.openstates_detail_limit }}
-          OPENSTATES_RESUME: "1"
-          OPENSTATES_DETAIL_DELAY: "2.5"
-          OPENSTATES_SKIP_TEXT_DOWNLOAD: ${{ inputs.skip_text_download }}
-        continue-on-error: true
-        run: python collectors/openstates_bills.py
-
-      - name: Cross-reference NELIS and OpenStates
-        run: python collectors/reconcile_bill_sources.py
-
-      - name: Verify full bill text integrity
-        run: python collectors/verify_bill_texts.py
-
-      - name: Generate appendix A from NELIS bills when present
         run: |
-          if [ -f sources/nevada/water-scarcity/nelis/bills.json ]; then
-            cp sources/nevada/water-scarcity/nelis/bills.json sources/nevada/water-scarcity/processed/bills-combined.json
-          elif [ -f sources/nevada/water-scarcity/openstates/bills.json ]; then
-            cp sources/nevada/water-scarcity/openstates/bills.json sources/nevada/water-scarcity/processed/bills-combined.json
-          fi
-          python collectors/json_to_appendix.py
+          ARGS=""
+          if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="$ARGS --refresh"; fi
+          if [ "${{ inputs.skip_openstates }}" = "true" ]; then ARGS="$ARGS --skip-openstates"; fi
+          python collectors/pass1_bills.py $ARGS
 
-      - name: Upload collected data as artifact
+      - name: Upload Pass 1 data
         uses: actions/upload-artifact@v4
         with:
-          name: nevada-water-collected-data
-          path: |
-            sources/nevada/water-scarcity/
-            briefs/nevada/water-scarcity/version-0/appendix-a-bills.md
+          name: nevada-water-pass1
+          path: sources/nevada/water-scarcity/pass1/

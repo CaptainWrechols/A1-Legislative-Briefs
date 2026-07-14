@@ -16,13 +16,12 @@ This project generates **Legislative Brief Version 0** documents for The Forum's
 
 ## Quick start
 
-1. Read `agents/README.md` for the ten-agent pipeline
-2. Read `docs/how-to-run-collectors.md` and `docs/dual-source-crossref.md` to collect **NELIS + OpenStates** data and cross-check them
-3. Add `OPENSTATES_API_KEY` as a GitHub Actions secret (NELIS collection needs no key)
-4. Run Actions → **Collect Nevada Water Bills**, or run the four collector commands locally
-5. Review `sources/nevada/water-scarcity/crossref/summary.md` before citing vote/sponsor/enactment facts
-6. Run agents in order (Data Scraper through Final Reviewer)
-7. Open a Pull Request for team review using `docs/review-checklist.md`
+1. Read `docs/how-to-run-collectors.md`
+2. Run Pass 1: `python collectors/pass1_bills.py` (needs `OPENSTATES_API_KEY` for OpenStates)
+3. Review `sources/nevada/water-scarcity/pass1/bills.json`
+4. Pass 2 (votes/actions/sponsors) comes after Pass 1 is solid — not enabled yet
+5. See `agents/README.md` for the ten-agent pipeline after data is ready
+
 
 ## Repository structure
 

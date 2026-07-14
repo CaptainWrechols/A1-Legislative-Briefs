@@ -1,0 +1,721 @@
+{
+  "pass": 1,
+  "collected_at": "2026-07-14T19:21:19.379593+00:00",
+  "fields": [
+    "session",
+    "identifier",
+    "title",
+    "abstract"
+  ],
+  "note": "Pass 1 only. Votes/actions/sponsors/PDFs are Pass 2 (later).",
+  "counts": {
+    "nelis_cached": 88,
+    "openstates_cached": 0,
+    "nelis_water": 70,
+    "openstates_water": 0,
+    "merged_water": 70,
+    "both_sources": 0
+  },
+  "bills": [
+    {
+      "session": "80",
+      "identifier": "AB163",
+      "title": "Revises provisions governing water conservation. (BDR 48-798)",
+      "abstract": "Revises provisions governing water conservation. (BDR 48-798)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6249/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "AB233",
+      "title": "Revises provisions related to water. (BDR 48-45)",
+      "abstract": "Revises provisions related to water. (BDR 48-45)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6409/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "AB265",
+      "title": "Requires the Desert Research Institute to conduct a study concerning water treatment and recycling. (BDR S-901)",
+      "abstract": "Requires the Desert Research Institute to conduct a study concerning water treatment and recycling. (BDR S-901)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6480/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "AB30",
+      "title": "Revises provisions governing water. (BDR 48-214)",
+      "abstract": "Revises provisions governing water. (BDR 48-214)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5930/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "AB51",
+      "title": "Revises provisions governing the management of water. (BDR 48-213)",
+      "abstract": "Revises provisions governing the management of water. (BDR 48-213)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5951/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "AB62",
+      "title": "Revises provisions related to water. (BDR 48-215)",
+      "abstract": "Revises provisions related to water. (BDR 48-215)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5987/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "AB95",
+      "title": "Revises provisions relating to water. (BDR 48-504)",
+      "abstract": "Revises provisions relating to water. (BDR 48-504)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6082/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "SB140",
+      "title": "Revises provisions relating to the use of groundwater in certain basins. (BDR 48-541)",
+      "abstract": "Revises provisions relating to the use of groundwater in certain basins. (BDR 48-541)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6171/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "SB232",
+      "title": "Revises certain provisions related to irrigation districts. (BDR 48-644)",
+      "abstract": "Revises certain provisions related to irrigation districts. (BDR 48-644)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6382/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "SB236",
+      "title": "Establishes provisions relating to a change in the place of diversion of water for certain wells. (BDR 48-635)",
+      "abstract": "Establishes provisions relating to a change in the place of diversion of water for certain wells. (BDR 48-635)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6400/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "SB250",
+      "title": "Revises provisions relating to the dedication of water rights. (BDR 48-664)",
+      "abstract": "Revises provisions relating to the dedication of water rights. (BDR 48-664)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6424/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "SB423",
+      "title": "Revises provisions governing certain watercraft. (BDR 43-962)",
+      "abstract": "Revises provisions governing certain watercraft. (BDR 43-962)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6783/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "SB433",
+      "title": "Revises the provisions of the California-Nevada Compact for Jurisdiction on Interstate Waters. (BDR 14-439)",
+      "abstract": "Revises the provisions of the California-Nevada Compact for Jurisdiction on Interstate Waters. (BDR 14-439)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6814/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "SB499",
+      "title": "Creates the Advisory Board on Water Resources Planning and Drought Resiliency. (BDR 48-1243)",
+      "abstract": "Creates the Advisory Board on Water Resources Planning and Drought Resiliency. (BDR 48-1243)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6962/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "SB507",
+      "title": "Makes an appropriation to the State Public Works Division of the Department of Administration for the support of the Marlette Lake Water System. (BDR S-1176)",
+      "abstract": "Makes an appropriation to the State Public Works Division of the Department of Administration for the support of the Marlette Lake Water System. (BDR S-1176)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6979/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "SB509",
+      "title": "Makes appropriations to the Division of Water Resources for the replacement of vehicles and computer software and hardware. (BDR S-1181)",
+      "abstract": "Makes appropriations to the Division of Water Resources for the replacement of vehicles and computer software and hardware. (BDR S-1181)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6981/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "80",
+      "identifier": "SB76",
+      "title": "Revises provisions governing the provision of services by the Colorado River Commission of Nevada. (BDR 58-207)",
+      "abstract": "Revises provisions governing the provision of services by the Colorado River Commission of Nevada. (BDR 58-207)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6007/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "AB146",
+      "title": "Revises provisions relating to water. (BDR 40-123)",
+      "abstract": "Revises provisions relating to water. (BDR 40-123)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7475/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "AB15",
+      "title": "Revises the membership of the Colorado River Commission of Nevada. (BDR 48-341)",
+      "abstract": "Revises the membership of the Colorado River Commission of Nevada. (BDR 48-341)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7257/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "AB354",
+      "title": "Authorizes the creation of water banks. (BDR 48-1091)",
+      "abstract": "Authorizes the creation of water banks. (BDR 48-1091)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7907/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "AB356",
+      "title": "Makes various changes relating to the conservation of water. (BDR S-1090)",
+      "abstract": "Makes various changes relating to the conservation of water. (BDR S-1090)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7910/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "AB465",
+      "title": "Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for the repair and maintenance of the South Fork Dam. (BDR S-1105)",
+      "abstract": "Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for the repair and maintenance of the South Fork Dam. (BDR S-1105)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8164/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "AB6",
+      "title": "Revises provisions governing an application for a temporary change relating to appropriated water. (BDR 48-309)",
+      "abstract": "Revises provisions governing an application for a temporary change relating to appropriated water. (BDR 48-309)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7236/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "AJR2",
+      "title": "Recognizes that the health of forests, rangelands and soils are inextricably linked to the quantity and quality of water. (BDR R-112)",
+      "abstract": "Recognizes that the health of forests, rangelands and soils are inextricably linked to the quantity and quality of water. (BDR R-112)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7424/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "AJR3",
+      "title": "Urges various actions relating to the protection and conservation of land and water. (BDR R-775)",
+      "abstract": "Urges various actions relating to the protection and conservation of land and water. (BDR R-775)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7487/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "SB149",
+      "title": "Revises provisions relating to groundwater boards. (BDR 48-462)",
+      "abstract": "Revises provisions relating to groundwater boards. (BDR 48-462)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7538/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "SB155",
+      "title": "Revises provisions relating to the Division of Water Resources of the State Department of Conservation and Natural Resources. (BDR 48-471)",
+      "abstract": "Revises provisions relating to the Division of Water Resources of the State Department of Conservation and Natural Resources. (BDR 48-471)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7555/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "SB216",
+      "title": "Revises provisions relating to community water systems. (BDR 19-590)",
+      "abstract": "Revises provisions relating to community water systems. (BDR 19-590)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7687/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "SB238",
+      "title": "Revises provisions relating to public water systems. (BDR 40-885)",
+      "abstract": "Revises provisions relating to public water systems. (BDR 40-885)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7754/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "SB98",
+      "title": "Makes various changes to provisions relating to the Carson Water Subconservancy District. (BDR S-579)",
+      "abstract": "Makes various changes to provisions relating to the Carson Water Subconservancy District. (BDR S-579)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7388/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "81",
+      "identifier": "SJR1",
+      "title": "Proposes to amend the Nevada Constitution to provide that the Nevada Court of Appeals has original jurisdiction over certain cases relating to water. (BDR C-310)",
+      "abstract": "Proposes to amend the Nevada Constitution to provide that the Nevada Court of Appeals has original jurisdiction over certain cases relating to water. (BDR C-310)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7333/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "AB186",
+      "title": "Establishes requirements relating to the provision of drinking water at food establishments. (BDR 40-454)",
+      "abstract": "Establishes requirements relating to the provision of drinking water at food establishments. (BDR 40-454)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9895/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "AB19",
+      "title": "Revises provisions relating to water. (BDR 48-233)",
+      "abstract": "Revises provisions relating to water. (BDR 48-233)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9548/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "AB191",
+      "title": "Revises provisions relating to water conservation. (BDR 48-697)",
+      "abstract": "Revises provisions relating to water conservation. (BDR 48-697)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9903/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "AB20",
+      "title": "Revises provisions relating to water. (BDR 40-227)",
+      "abstract": "Revises provisions relating to water. (BDR 40-227)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9549/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "AB220",
+      "title": "Revises provisions relating to water conservation. (BDR 40-337)",
+      "abstract": "Revises provisions relating to water conservation. (BDR 40-337)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9950/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "AB261",
+      "title": "Revises provisions relating to water. (BDR 18-470)",
+      "abstract": "Revises provisions relating to water. (BDR 18-470)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10028/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "AB263",
+      "title": "Enacts provisions relating to the transmission of Legionnaires' disease by building water systems in certain health care facilities. (BDR 40-125)",
+      "abstract": "Enacts provisions relating to the transmission of Legionnaires' disease by building water systems in certain health care facilities. (BDR 40-125)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10030/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "AB325",
+      "title": "Revises provisions relating to water. (BDR 48-915)",
+      "abstract": "Revises provisions relating to water. (BDR 48-915)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10192/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "AB34",
+      "title": "Revises provisions relating to water. (BDR 48-235)",
+      "abstract": "Revises provisions relating to water. (BDR 48-235)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9563/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "AB387",
+      "title": "Revises provisions relating to water. (BDR 48-338)",
+      "abstract": "Revises provisions relating to water. (BDR 48-338)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10324/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "AB470",
+      "title": "Makes an appropriation to the State Public Works Division of the Department of Administration for professional services and filing fees related to water rights associated with the Marlette Lake Water System. (BDR S-1127)",
+      "abstract": "Makes an appropriation to the State Public Works Division of the Department of Administration for professional services and filing fees related to water rights associated with the Marlette Lake Water System. (BDR S-1127)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10500/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "AB90",
+      "title": "Revises provisions relating to water. (BDR 48-717)",
+      "abstract": "Revises provisions relating to water. (BDR 48-717)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9681/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "AB91",
+      "title": "Revises provisions governing water. (BDR 48-696)",
+      "abstract": "Revises provisions governing water. (BDR 48-696)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9682/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "SB102",
+      "title": "Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources to award grants of money for the development and maintenance of water resource plans. (BDR S-599)",
+      "abstract": "Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources to award grants of money for the development and maintenance of water resource plans. (BDR S-599)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9733/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "SB112",
+      "title": "Revises provisions governing groundwater basin assessments. (BDR 48-600)",
+      "abstract": "Revises provisions governing groundwater basin assessments. (BDR 48-600)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9756/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "SB113",
+      "title": "Revises provisions relating to groundwater management plans. (BDR 48-595)",
+      "abstract": "Revises provisions relating to groundwater management plans. (BDR 48-595)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9757/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "SB176",
+      "title": "Establishes provisions relating to the conservation of groundwater. (BDR 48-79)",
+      "abstract": "Establishes provisions relating to the conservation of groundwater. (BDR 48-79)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9907/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "SB180",
+      "title": "Revises provisions relating to groundwater boards. (BDR 48-597)",
+      "abstract": "Revises provisions relating to groundwater boards. (BDR 48-597)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9923/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "SB258",
+      "title": "Revises provisions relating to water. (BDR 48-889)",
+      "abstract": "Revises provisions relating to water. (BDR 48-889)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10090/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "SB472",
+      "title": "Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for projects at the South Fork Dam. (BDR S-1172)",
+      "abstract": "Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for projects at the South Fork Dam. (BDR S-1172)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10525/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "SB473",
+      "title": "Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for a study of extreme rainfall events. (BDR S-1173)",
+      "abstract": "Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for a study of extreme rainfall events. (BDR S-1173)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10526/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "82",
+      "identifier": "SJR3",
+      "title": "Urges the United States Bureau of Reclamation to consider certain actions, alternatives and measures for the protection and management of the Colorado River. (BDR R-349)",
+      "abstract": "Urges the United States Bureau of Reclamation to consider certain actions, alternatives and measures for the protection and management of the Colorado River. (BDR R-349)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9995/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "AB104",
+      "title": "Revises provisions relating to water. (BDR 48-383)",
+      "abstract": "Revises provisions relating to water. (BDR 48-383)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11994/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "AB109",
+      "title": "Revises provisions relating to water. (BDR 48-212)",
+      "abstract": "Revises provisions relating to water. (BDR 48-212)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12006/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "AB132",
+      "title": "Revises provisions relating to water. (BDR 48-586)",
+      "abstract": "Revises provisions relating to water. (BDR 48-586)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12051/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "AB134",
+      "title": "Establishes provisions relating to water conservation. (BDR 48-379)",
+      "abstract": "Establishes provisions relating to water conservation. (BDR 48-379)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12053/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "AB190",
+      "title": "Revises provisions relating to water. (BDR 48-886)",
+      "abstract": "Revises provisions relating to water. (BDR 48-886)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12160/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "AB265",
+      "title": "Revises provisions relating to water. (BDR 48-887)",
+      "abstract": "Revises provisions relating to water. (BDR 48-887)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12311/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "AB363",
+      "title": "Revises provisions relating to groundwater boards. (BDR 48-385)",
+      "abstract": "Revises provisions relating to groundwater boards. (BDR 48-385)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12473/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "AB419",
+      "title": "Revises provisions relating to water. (BDR 48-736)",
+      "abstract": "Revises provisions relating to water. (BDR 48-736)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12606/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "AB485",
+      "title": "Revises provisions relating to water. (BDR 48-386)",
+      "abstract": "Revises provisions relating to water. (BDR 48-386)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12746/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "AB9",
+      "title": "Revises provisions relating to water. (BDR 48-391)",
+      "abstract": "Revises provisions relating to water. (BDR 48-391)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11759/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "SB159",
+      "title": "Makes an appropriation to the Oh Lab of Neurogenetics and Precision Medicine at the University of Nevada, Las Vegas or its successor entity for certain activities relating to water systems and wastewater. (BDR S-957)",
+      "abstract": "Makes an appropriation to the Oh Lab of Neurogenetics and Precision Medicine at the University of Nevada, Las Vegas or its successor entity for certain activities relating to water systems and wastewater. (BDR S-957)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12140/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "SB276",
+      "title": "Revises provisions relating to water. (BDR 40-750)",
+      "abstract": "Revises provisions relating to water. (BDR 40-750)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12476/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "SB31",
+      "title": "Revises provisions relating to the adjudication of vested water rights. (BDR 48-260)",
+      "abstract": "Revises provisions relating to the adjudication of vested water rights. (BDR 48-260)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11798/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "SB324",
+      "title": "Establishes prohibitions relating to the sale of water in certain disposable plastic bottles in communities abutting the Lake Tahoe Watershed. (BDR 40-216)",
+      "abstract": "Establishes prohibitions relating to the sale of water in certain disposable plastic bottles in communities abutting the Lake Tahoe Watershed. (BDR 40-216)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12553/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "SB342",
+      "title": "Revises provisions relating to water. (BDR 48-940)",
+      "abstract": "Revises provisions relating to water. (BDR 48-940)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12600/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "SB36",
+      "title": "Revises provisions relating to water. (BDR 48-384)",
+      "abstract": "Revises provisions relating to water. (BDR 48-384)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11807/Overview",
+      "openstates_url": null
+    },
+    {
+      "session": "83",
+      "identifier": "SB466",
+      "title": "Revises provisions governing the authority of the State Department of Agriculture relating to food and water. (BDR 51-1121)",
+      "abstract": "Revises provisions governing the authority of the State Department of Agriculture relating to food and water. (BDR 51-1121)",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12889/Overview",
+      "openstates_url": null
+    }
+  ]
+}
