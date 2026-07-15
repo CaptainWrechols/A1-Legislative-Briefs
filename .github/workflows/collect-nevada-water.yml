@@ -15,6 +15,10 @@ on:
         description: "Set true to skip full-digest enrichment"
         required: false
         default: "false"
+      skip_pass2:
+        description: "Set true to skip Pass 2 vote/progress enrichment"
+        required: false
+        default: "false"
 
 jobs:
   collect:
@@ -45,10 +49,29 @@ jobs:
           if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="$ARGS --refresh"; fi
           python collectors/enrich_abstracts.py $ARGS
 
+      - name: Pass 2 — votes, actions, progress (known bills only)
+        if: ${{ inputs.skip_pass2 != 'true' }}
+        env:
+          OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="$ARGS --refresh"; fi
+          python collectors/pass2_bills.py $ARGS
+
       - name: Upload Pass 1 data
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: nevada-water-pass1
           path: sources/nevada/water-scarcity/pass1/
+          if-no-files-found: warn
+
+      - name: Upload Pass 2 data
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nevada-water-pass2
+          path: |
+            sources/nevada/water-scarcity/pass2/
+            sources/nevada/water-scarcity/processed/
           if-no-files-found: warn
