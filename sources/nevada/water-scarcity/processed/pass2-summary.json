@@ -1,0 +1,13 @@
+{
+  "pass": 2,
+  "collected_at": "2026-07-15T20:37:58.866932+00:00",
+  "bill_count": 88,
+  "action_rows": 861,
+  "sponsor_rows": 155,
+  "vote_events": 104,
+  "openstates_found": 0,
+  "nelis_failures": [],
+  "openstates_failures": [],
+  "skip_votes": false,
+  "note": "Scoped to pass1/bills.json only. NELIS provides roll-call names; OpenStates provides voter party when the bill exists and names match."
+}
