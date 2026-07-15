@@ -4,11 +4,15 @@ on:
   workflow_dispatch:
     inputs:
       refresh:
-        description: "Set true to ignore cache and re-collect Pass 1"
+        description: "Set true to ignore Pass 1 / abstract caches"
         required: false
         default: "false"
       skip_openstates:
         description: "Set true for NELIS-only Pass 1"
+        required: false
+        default: "false"
+      skip_abstracts:
+        description: "Set true to skip full-digest enrichment"
         required: false
         default: "false"
 
@@ -25,7 +29,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Pass 1 — bills, titles, abstracts (cached)
+      - name: Pass 1 — bills + titles (cached)
         env:
           OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
         run: |
@@ -33,6 +37,13 @@ jobs:
           if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="$ARGS --refresh"; fi
           if [ "${{ inputs.skip_openstates }}" = "true" ]; then ARGS="$ARGS --skip-openstates"; fi
           python collectors/pass1_bills.py $ARGS
+
+      - name: Pass 1b — full NELIS digests for those bills only
+        if: ${{ inputs.skip_abstracts != 'true' }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="$ARGS --refresh"; fi
+          python collectors/enrich_abstracts.py $ARGS
 
       - name: Upload Pass 1 data
         if: always()
