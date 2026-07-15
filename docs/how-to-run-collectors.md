@@ -10,6 +10,9 @@ python collectors/pass1_bills.py
 
 Output: `sources/nevada/water-scarcity/pass1/bills.json`
 
+All NELIS search hits are kept (high recall for human review).  
+`passes_water_title_filter` marks bills whose title looks strongly water-related; bills with `false` stay in the list so nothing is silently dropped.
+
 ## Pass 1b — full abstracts (those bills only)
 
 After Pass 1 looks right:

@@ -1,11 +1,13 @@
 {
   "pass": 1,
-  "collected_at": "2026-07-15T00:06:25.512696+00:00",
+  "collected_at": "2026-07-15T15:22:12.987479+00:00",
+  "note": "All NELIS search hits are kept for human review. passes_water_title_filter marks stricter title matches.",
   "counts": {
     "nelis_cached": 88,
     "openstates_cached": 245,
-    "merged_water": 70,
-    "both_sources": 34
+    "merged_bills": 88,
+    "passes_water_title_filter": 70,
+    "both_sources": 41
   },
   "bills": [
     {
@@ -17,9 +19,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6249/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising certain requirements relating to a plan of water conservation; revising minimum standards for plumbing fixtures in new construction and expansions and renovations in certain structures; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:09:42.924047+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "80",
@@ -30,9 +32,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6409/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions governing certain assessments on water users; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:09:45.790983+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "80",
@@ -43,9 +45,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6480/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the Desert Research Institute to conduct a study concerning water treatment and recycling; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:09:48.428581+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "80",
@@ -56,9 +58,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5930/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; authorizing the State Engineer to require certain applicants to submit a monitoring, management and mitigation plan; authorizing the State Engineer, under certain circumstances, to consider such a plan before approving or denying an application for a permit; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:09:50.872871+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "80",
@@ -69,9 +71,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5951/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the State Engineer to adopt regulations relating to the conjunctive management of groundwater and surface water; authorizing the State Engineer to impose certain special assessments related to a program for the conjunctive management of groundwater and surface water; providing that certain water rights are not subject to abandonment or forfeiture; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:09:53.451128+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "80",
@@ -82,9 +84,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5987/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the State Engineer to adopt regulations relating to the time for the completion of work and the application of water to beneficial use; requiring the State Engineer to conduct a survey relating to extensions of time to perfect a water right; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:09:55.803109+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "80",
@@ -95,9 +97,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6082/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the State Engineer to continue to allow withdrawals of groundwater from domestic wells under certain circumstances in groundwater basins where withdrawals have been restricted to conform to priority rights; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:09:58.676734+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "80",
@@ -108,9 +110,23 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6171/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to groundwater; requiring the State Engineer to reserve a certain percentage of the remaining groundwater available for use in certain basins; prohibiting the use of such groundwater; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "80",
+      "identifier": "SB150",
+      "title": "Revises provisions relating to land use planning. (BDR 22-775)",
+      "abstract": "Under existing law, planning commissions and certain governing bodies prepare and adopt a comprehensive, long-term general plan for the physical development of the city, county or region called a master plan. (NRS 278.150) Section 1 of this bill requires, with limited exception, the governing body of a county or city to develop and maintain a water resource plan. Section 1 further sets forth the requirements for such a plan. Existing law establishes a program to provide grants of money to purveyors of water and eligible recipients to pay certain costs relating to water. (NRS 349.981) Section 4 of this bill provides that the program may also provide grants of money to the governing body of a county or city to develop and maintain a water resource plan.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6187/Overview",
+      "openstates_url": null,
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to land use planning; requiring, with limited exception, the governing body of a county or city to develop and maintain a water resource plan; authorizing grants of money to certain governing bodies for the development and maintenance of water resource plans; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:01.047366+00:00"
+      "abstract_fetched_at": "2026-07-15T15:22:22.888512+00:00"
     },
     {
       "session": "80",
@@ -121,9 +137,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6382/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to irrigation districts; authorizing the trustee or trustees to designate a beneficiary of a trust to vote in certain elections, sign certain petitions and run for certain offices of an irrigation district; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:03.458780+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "80",
@@ -134,9 +150,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6400/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; establishing requirements relating to sinking or boring certain wells for water already appropriated; providing a penalty; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:05.821530+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "80",
@@ -147,9 +163,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6424/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; establishing certain requirements relating to the dedication of certain rights to appropriate water; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:08.232557+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "80",
@@ -160,9 +176,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6783/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to watercraft; authorizing the operation of an electric vertical takeoff and landing craft upon and over the waters of this State; providing a definition of such a craft; imposing certain requirements and limitations on the operation of such a craft; providing a penalty; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:10.600139+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "80",
@@ -173,9 +189,23 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6814/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to the California-Nevada Compact for Jurisdiction on Interstate Waters; revising and extending the provisions of the Compact; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "80",
+      "identifier": "SB47",
+      "title": "Revises provisions relating to state lands. (BDR 26-216)",
+      "abstract": "Existing law provides that the Administrator of the Division of State Lands of the State Department of Conservation and Natural Resources also serves as the ex officio State Land Registrar. (NRS 232.110) Existing law relating to the use of state lands uses the terms \u201cAdministrator of the Division of State Lands of the State Department of Conservation and Natural Resources, as ex officio State Land Registrar\u201d and \u201cState Land Registrar\u201d interchangeably. Sections 1-8 of this bill make technical changes so the term \u201cState Land Registrar\u201d is used in such provisions. Existing law requires, with limited exceptions, a person to secure a permit from the State Land Registrar before performing any work below the high water mark of a navigable river. (NRS 322.1007) Section 9 of this bill clarifies when authorization from the State Land Registrar is required to proceed with such work and authorizes the State Land Registrar to adopt regulations related to performing such work. Under existing law, the State Land Registrar is required to charge fees in certain amounts for: (1) dredging or filling; or (2) constructing or installing certain structures in a navigable body of water. (NRS 322.130) Section 10 of this bill requires the State Land Registrar to establish the amount of these fees by regulation. Section 12 of this bill provides that the existing fees remain in effect until the State Land Registrar establishes such fees by regulation. Under existing law, the proceeds of certain fees for authorization to use certain state lands must be paid to the State General Fund. (NRS 322.160) Section 11 of this bill provides that the proceeds of rents and royalties for authorization to use certain state lands must also be paid to the State General Fund. Under existing law, the proceeds of certain fees relating to navigable bodies of water that are in excess of $65,000 must be accounted for separately and used by the State Land Registrar to carry out programs to preserve, protect, restore and enhance the natural environment of the Lake Tahoe Basin. (NRS 322.160) Section 11 provides that such proceeds must be accounted for in an interest-bearing account and that the money in that account does not revert to the State General Fund at the end of the fiscal year. Under existing law, the State Land Registrar charges a fee for a permit for the use of a pier or other related facility on a navigable body of water. (NRS 322.120) Existing law also requires the State Land Registrar to grant a credit towards the fee under certain circumstances. (NRS 322.125) Section 13 of this bill eliminates the requirement for the State Land Registrar to grant such a credit.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5966/Overview",
+      "openstates_url": null,
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to state lands; clarifying when an authorization from the State Land Registrar is required to perform work below the high water mark of a navigable river; requiring the State Land Registrar to establish by regulation fees for such authorization and for permits related to dredging, filling and installing certain structures; revising provisions relating to the accounting and use of the proceeds of certain fees for the use of state lands; eliminating the requirement that the State Land Registrar grant credit towards fees paid for the commercial use of state land; making various other changes relating to state lands; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:13.022842+00:00"
+      "abstract_fetched_at": "2026-07-15T15:22:25.291962+00:00"
     },
     {
       "session": "80",
@@ -186,9 +216,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6962/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; creating the Advisory Board on Water Resources Planning and Drought Resiliency within the Division of Water Resources of the State Department of Conservation and Natural Resources; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:15.483629+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "80",
@@ -199,9 +229,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6979/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT making an appropriation to the State Public Works Division of the Department of Administration for the support of the Marlette Lake Water System; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_title",
-      "abstract_fetched_at": "2026-07-15T15:13:33.355208+00:00"
+      "abstract_source": "nelis_overview_title"
     },
     {
       "session": "80",
@@ -212,9 +242,23 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6981/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT making appropriations to the Division of Water Resources for the replacement of vehicles and computer software and hardware; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_title",
-      "abstract_fetched_at": "2026-07-15T15:13:35.763728+00:00"
+      "abstract_source": "nelis_overview_title"
+    },
+    {
+      "session": "80",
+      "identifier": "SB547",
+      "title": "Revises provisions relating to providers of new electric resources. (BDR 58-913)",
+      "abstract": "Section 2 of this bill excludes from regulation as a public utility certain plants or equipment used by a data center but only with respect to operations of the data center which consist of providing electric service. Existing law authorizes certain customers of an electric utility to apply to the Public Utilities Commission of Nevada for approval to purchase energy, capacity and ancillary services from a provider of new electric resources. If the Commission approves such an application, the Commission is required to order such terms, conditions and payments as the Commission deems necessary and appropriate to ensure that the transaction will not be contrary to the public interest and the eligible customer is authorized to begin purchasing energy, capacity and ancillary services from the provider of new electric resources in accordance with the order of the Commission. (NRS 704B.310) Existing law requires the Commission to levy and collect an annual mill tax on public utilities that are subject to the jurisdiction of the Commission. (NRS 704.033) Under existing law, if the Commission authorizes a customer of an electric utility to purchase energy, capacity and ancillary services from a provider of new electric resources, the Commission is required to order the customer to pay its share of the annual mill tax levied by the Commission and to pay any other tax, fee or assessment that would be due to a governmental entity had the customer continued to purchase energy, capacity or ancillary services from the electric utility. (NRS 704B.360) Sections 3 and 21 of this bill revise this requirement by removing the requirement for an order of the Commission and, instead, imposing the requirement to pay the annual mill tax and any other taxes, fees or assessments on the customer or the provider of new electric resources, as applicable. Existing law requires each electric utility to submit to the Commission every 3 years an integrated resource plan to increase the utility's supply of electricity or decrease the demands made on its system by its customers. (NRS 704.741) Section 5 of this bill requires the integrated resource plan to include a proposal for annual limits on the energy and capacity that certain eligible customers are authorized to purchase from providers of new electric resources through transactions approved by the Commission pursuant to an application submitted on or after May 16, 2019. Section 5 further requires the proposal to include certain information, including, without limitation, impact fees applicable to each megawatt or megawatt hour to account for certain costs. Section 6 of this bill requires the Commission, in considering whether to approve or modify the annual limits, to consider whether the proposed limits promote safe, economic, efficient and reliable electric service, align an economically viable utility model with state public policy goals and encourage the development and use of renewable energy resources. Section 16 of this bill prohibits a provider of new electric resources from selling energy, capacity or ancillary services to any person or governmental entity in this State unless the provider holds a license to do so issued by the Commission. Section 9 of this bill establishes the requirements a provider of new electric resources is required to satisfy to qualify for a license and authorizes the Commission to adopt regulations requiring a provider of new electric resources to provide certain information. Section 26 of this bill authorizes a provider of new electric resources who sold energy, capacity or ancillary services to a customer before the effective date of this bill to continue to sell energy, capacity or ancillary services to that customer without obtaining a license if the provider submits an application for a license to the Commission not later than 30 days after a date established by the Commission by regulation and the Commission issues the license. Sections 8 and 11 of this bill make conforming changes. Section 10 of this bill: (1) requires the Commission to adopt regulations to establish a procedure by which a customer who has been approved to purchase energy, capacity or ancillary services from a provider of new electric resources may apply to the Commission to return to purchasing bundled electric service from an electric utility; (2) authorizes the Commission to establish such terms and conditions on such a return as the Commission deems necessary and appropriate to prevent harm to customers of the electric utility; (3) authorizes the Commission to limit the number of times a customer is authorized to be approved to purchase energy, capacity or ancillary services from a provider of new electric resources; and (4) authorizes the Commission to establish limitations on the use of certain tariffs approved by the Commission. Section 12 of this bill provides that a nongovernmental commercial or industrial end-use customer or a governmental entity that was not a customer of an electric utility at any time before the effective date of this bill is eligible to apply to the Commission for approval to purchase energy, capacity or ancillary services from a provider of new electric resources if certain requirements are met, including a requirement that the average annual load of such a customer will be 1 megawatt or more. Section 25 of this bill provides that this provision does not apply to a person who, before the effective date of this bill, was approved to purchase energy, capacity and ancillary services from a provider of new electric resources. Under existing law, a provider of new electric resources is qualified to sell energy, capacity or ancillary services to an eligible customer if, among other criteria, the provider makes the energy, capacity or ancillary services available from certain generation assets. (NRS 704B.110, 704B.130) Section 13 of this bill authorizes a provider of new electric resources to make energy, capacity and ancillary services available by market purchases made through the provider. Existing law provides that the provisions of existing law governing the purchase of energy, capacity or ancillary services from a provider of new electric resources do not affect any rights or obligations arising under certain contracts which were in existence on July 17, 2001. (NRS 704B.170) Section 14 of this bill removes the date from this provision and, thus, provides that the existing law governing the purchase of energy, capacity or ancillary services from a provider of new electric resources does not affect any contract. Existing law requires the Public Utilities Commission of Nevada to submit to the Legislative Commission, not later than 2 business days after receiving a request from the Legislative Commission, a written report summarizing certain information related to transactions between providers of new electric resources and customers approved by the Commission to purchase energy, capacity or ancillary services from such providers. (NRS 704B.210) Section 15 of this bill requires this report to include only the public information that the customer included in the application filed with the Commission rather than all information that the customer included in the application. Section 17 of this bill revises the procedure to apply for and obtain the approval of the Commission to purchase energy, capacity and ancillary services from a provider of new electric resources by: (1) authorizing an eligible customer to file an application with the Commission only between January 2 and February 1 of each calendar year; (2) requiring the application to be filed with the Commission not later than 280 days, rather than not later than 180 days, before the date on which the customer intends to begin purchasing energy, capacity or ancillary services from a provider of new electric resources; (3) requiring the information included with the application to be specific information about the customer, the proposed provider and the terms and conditions of the proposed transaction; (4) requiring the specific information included with the application to include information identifying transmission requirements and the extent to which transmission import capacity is needed; (5) prohibiting the Commission from approving the application unless the Commission determines the application is in the public interest rather than requiring approval of the application unless the Commission finds the application contrary to the public interest; (6) revising the factors the Commission is required to consider in determining whether the proposed transaction is in the public interest; (7) revising the terms and conditions which the Commission is required to order if it approves the application; and (8) prohibiting the approval of an application if the approval of the application would cause the energy and capacity that certain eligible customers are authorized to purchase from providers of new electric resources to exceed the annual limit included in the resource plan of the electric utility that has been accepted by the Commission. Existing law authorizes a customer that is purchasing energy, capacity or ancillary services from a provider of new electric resources to purchase energy, capacity or ancillary services from an alternative provider without obtaining the approval of the Commission if the terms and conditions of that transaction, other than the price of the energy, capacity or ancillary services, conform to the transaction originally approved by the Commission. (NRS 704B.325) Section 18 of this bill prohibits the purchase of energy, capacity or ancillary services from an alternative provider unless the alternative provider is licensed as a provider of new electric resources by the Commission pursuant to section 9. Existing law prohibits a provider of new electric resources from selling energy, capacity or ancillary services to a customer unless the customer has a time-of-use meter installed at the point of delivery of energy to the customer. Under existing law, an electric utility is required to install a time-of-use meter at each point of delivery of energy to the customer if the customer does not have a time-of-use meter at that point of delivery. (NRS 704B.340) Section 20 of this bill requires the Commission to determine the date by which the electric utility is required to ensure that metering equipment is operational for each customer who has been approved by the Commission to purchase energy, capacity or ancillary services from a provider of new electric resources. Existing law requires each utility to: (1) conduct a vulnerability assessment in accordance with the requirements of certain federal and regional agencies; (2) prepare and maintain an emergency response plan in accordance with the requirements of certain federal and regional agencies; and (3) at least once each year, review its vulnerability assessment and emergency response plan and submit to the Division of Emergency Management of the Department of Public Safety the results of that review and any additions or modifications to its emergency response plan. (NRS 239C.270) Section 23 of this bill imposes these requirements on providers of new electric resources. Section 24 of this bill provides that any application to purchase energy, capacity or ancillary services from a provider of new electric resources that was submitted to the Commission before the passage and approval of this bill is deemed to be denied unless the application was filed before May 16, 2019. Section 24 further provides that the provisions of existing law governing the consideration and disposition of an application apply to an application filed before May 16, 2019. Sections 25 and 26 of this bill enact provisions governing eligible customers who were approved by the Commission to purchase energy, capacity or ancillary services before the effective date of this bill.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7057/Overview",
+      "openstates_url": null,
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to energy; excluding from regulation as a public utility certain plants or equipment used by a data center; revising provisions governing the applicability of certain assessments imposed by the Public Utilities Commission of Nevada; revising the information required to be included in the integrated resource plan filed by an electric utility with the Commission; revising the criteria to be eligible to apply to the Commission to purchase energy, capacity or ancillary services from a provider of new electric resources; revising the requirements a provider of new electric resources must satisfy to be eligible to sell energy, capacity or ancillary services to eligible customers; revising the requirements an eligible customer must satisfy to be authorized to purchase energy, capacity or ancillary services from a provider of new electric resources; revising the terms and conditions for the purchase of energy, capacity or ancillary services by eligible customers who have been approved to make such purchases from a provider of new electric resources; repealing provisions governing certain agreements relating to generation assets of an electric utility; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-15T15:22:27.777088+00:00"
     },
     {
       "session": "80",
@@ -225,9 +269,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6007/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to energy; authorizing the Colorado River Commission of Nevada to sell electricity and provide transmission service and distribution service to certain new customers who receive a reallocation of capacity and associated firm energy which was originally allocated to certain existing customers; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:23.240532+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "81",
@@ -238,9 +282,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7475/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; authorizing the State Department of Conservation and Natural Resources to develop plans, recommendations and policies to address water pollution resulting from diffuse sources; revising requirements for regulations adopted by the State Environmental Commission relating to water pollution; revising notice requirements relating to regulations adopted by the Commission; revising various provisions relating to the control of water pollution by the Director of the Department; revising requirements relating to the control of diffuse sources of water pollution; requiring the Director to consult or notify Indian tribes of certain actions relating to water pollution; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:25.541276+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "81",
@@ -251,9 +295,23 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7257/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising the membership of the Colorado River Commission of Nevada; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "81",
+      "identifier": "AB333",
+      "title": "Makes changes to provisions relating to land use planning. (BDR 22-357)",
+      "abstract": "Existing law prohibits the filing of an action against a governing body, commission or board with respect to any final action, decision or order related to land use planning unless the action is commenced within 25 days after the filing of the notice of a final action, decision or order. (NRS 278.0235) Section 1 of this bill establishes deadlines for: (1) filing a memorandum of points and authorities; (2) serving and filing a reply memorandum of points and authorities; and (3) requesting a hearing. Section 1 authorizes the court to extend the deadlines and requires all memoranda of points and authorities to comply with Rule 28 of the Nevada Rules of Appellate Procedure. Existing law requires that, subject to existing rights, the appropriation of any water in this State is subject to the provisions of chapter 533 of NRS, which, among other things, require any person seeking to appropriate water to obtain a permit to do so. (NRS 533.030, 533.325) Section 2.5 of this bill provides that in a county whose population is less than 700,000 (currently all counties other than Clark County), the requirements of chapter 533 of NRS do not apply to the retention or detention of developed stormwater flow for the purpose of flood control or stormwater management if: (1) the governing body of the county or city requires such retention or detention as a condition of the approval of a development; and (2) such retention or detention does not impair the predevelopment recharge of the relevant sources of groundwater or the offsite predevelopment flow of the relevant sources of surface water. Sections 3 and 4 of this bill make conforming changes related to exempting such retention or detention of developed stormwater flow from the general requirements of chapter 533 of NRS.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7859/Overview",
+      "openstates_url": null,
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to land use planning; establishing certain requirements for judicial review of certain land use planning decisions of a governing body, commission or board; exempting, under certain circumstances, the retention or detention of developed stormwater flow from provisions related to the appropriation of water; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:27.796648+00:00"
+      "abstract_fetched_at": "2026-07-15T15:22:30.746658+00:00"
     },
     {
       "session": "81",
@@ -264,9 +322,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7907/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; authorizing the creation and setting forth the authority and duties of certain water banks; requiring the State Engineer to submit a biennial report to the Legislature related to water banks; providing penalties; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:30.071217+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "81",
@@ -277,9 +335,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7910/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; prohibiting, with certain exceptions, the use of water from the Colorado River to irrigate nonfunctional turf on certain property; requiring the Board of Directors of the Southern Nevada Water Authority to develop a plan for the removal of nonfunctional turf on certain property; creating and setting forth the duties of the Nonfunctional Turf Removal Advisory Committee; requiring the Legislative Committee on Public Lands to conduct a study concerning water conservation; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:32.410223+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "81",
@@ -290,9 +348,23 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8164/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT making an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for the repair and maintenance of the South Fork Dam; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_title",
-      "abstract_fetched_at": "2026-07-15T15:13:38.056304+00:00"
+      "abstract_source": "nelis_overview_title"
+    },
+    {
+      "session": "81",
+      "identifier": "AB5",
+      "title": "Makes various changes to provisions relating to judicial review of orders and decisions of the State Engineer. (BDR 48-311)",
+      "abstract": "Existing law provides that any person feeling aggrieved by an order or decision of the State Engineer that affects the person's interests may have the order or decision reviewed by a court. The review is conducted as an informal summary review in the nature of an appeal. (NRS 533.450) This bill limits the circumstances in which such an aggrieved person may have a determination of the State Engineer reviewed by a court to require that the determination: (1) be a formal order, ruling or decision that is a final determination issued in writing; and (2) materially affect the person's interests. This bill also clarifies that the practice in civil appellate cases applies to the judicial review of an order, ruling or decision of the State Engineer.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7235/Overview",
+      "openstates_url": null,
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to water; revising provisions relating to the judicial review of an order or decision of the State Engineer; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-15T15:22:33.011380+00:00"
     },
     {
       "session": "81",
@@ -303,9 +375,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7236/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions governing an application for a temporary change relating to water already appropriated; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:37.474927+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "81",
@@ -316,9 +388,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7424/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "Recognizing that the health of forests, rangelands and soils are inextricably linked to the quantity and quality of water.",
-      "abstract_source": "nelis_overview_title",
-      "abstract_fetched_at": "2026-07-15T15:13:40.355228+00:00"
+      "abstract_source": "nelis_overview_title"
     },
     {
       "session": "81",
@@ -329,9 +401,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7487/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "Urging various actions relating to the protection and conservation of land and water.",
-      "abstract_source": "nelis_overview_title",
-      "abstract_fetched_at": "2026-07-15T15:13:42.656923+00:00"
+      "abstract_source": "nelis_overview_title"
     },
     {
       "session": "81",
@@ -342,9 +414,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7538/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to groundwater boards; revising the authority to establish a groundwater board; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:44.290898+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "81",
@@ -355,9 +427,23 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7555/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to the Division of Water Resources of the State Department of Conservation and Natural Resources; revising the name and qualifications of the executive head of the Division; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "81",
+      "identifier": "SB205",
+      "title": "Provides regulatory exemptions for certain types of boilers. (BDR 40-839)",
+      "abstract": "Existing law sets forth various standards that an owner of a boiler must comply with. (Chapter 455C of NRS) Section 1.2 of this bill defines the term \u201cwater heater\u201d and section 1.4 of this bill provides that the standards governing boilers do not apply to a water heater if, with regard to the water heater, certain limitations are not exceeded. Section 1.5 of this bill authorizes the Division of Industrial Relations of the Department of Business and Industry to adopt regulations that apply to equipment and apparatuses used in connection with a water heater. Section 1.6 of this bill makes a conforming change to indicate the proper placement of section 1.2 within the Nevada Revised Statutes. Section 2 of this bill requires the Division to revise its regulations to conform with the provisions of section 1.4.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7652/Overview",
+      "openstates_url": null,
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to public safety; exempting certain water heaters from the standards that an owner of a boiler must comply with; authorizing the Division of Industrial Relations of the Department of Business and Industry to adopt regulations establishing requirements relating to equipment and apparatuses used in connection with water heaters; requiring the Division to revise its regulations to conform with the exemption for certain water heaters; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:46.595315+00:00"
+      "abstract_fetched_at": "2026-07-15T15:22:35.300180+00:00"
     },
     {
       "session": "81",
@@ -368,9 +454,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7687/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to emergency management; revising certain requirements relating to vulnerability assessments and emergency response plans conducted or prepared by community water systems; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:48.903552+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "81",
@@ -381,9 +467,37 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7754/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to public water systems; prohibiting, under certain circumstances, a local governing body from refusing to assume responsibility for certain public water systems; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "81",
+      "identifier": "SB33",
+      "title": "Revises certain provisions relating to natural resource management. (BDR 47-312)",
+      "abstract": "Existing law authorizes the State Forester Firewarden to negotiate with and enter into cooperative agreements with certain governmental entities and with organizations and natural persons to establish and develop nurseries in this State for the procurement and production, research and display of forest tree seeds and conservation plant materials. Such nurseries are meant to accomplish a variety of goals, including advancing the general welfare and bringing about benefits that result from reforestation. (NRS 528.100) Existing law provides that reforestation means the planting and cultivation of conservation plant materials which are indigenous to forests, plains, meadows, deserts and urban areas of Nevada. (NRS 528.097) Sections 1-4, 6-8 and 19 of this bill replace the term \u201creforestation\u201d with \u201crevegetation.\u201d Sections 3, 5 and 7 of this bill expand the types of vegetation and areas where vegetation is located that the State Forester Firewarden is responsible for conserving, protecting and enhancing. Existing law requires any state nursery to purchase forest tree seeds and conservation plant materials so that they can be distributed for planting on public or private property for a variety of purposes. (NRS 528.105) Section 7 of this bill provides that such distribution may occur for certain additional purposes, including soil erosion control, noise abatement, revegetation, greenstrips, reduction of fire hazards, xeriscaping, water conservation and providing wildlife habitats. Existing law requires the State Forester Firewarden to supervise or coordinate all forestry and watershed work on state-owned and privately owned lands and authorizes the State Forester Firewarden to: (1) appoint paid foresters and firewardens to enforce existing law concerning forest and watershed management or the protection of forests and other lands; and (2) purchase or acquire by donation, supplies, material, equipment and improvements necessary to fire protection and forest and watershed management. (NRS 472.040) Sections 10-14 of this bill expand the application of the provisions relating to forests and watersheds to include rangelands and remove certain references to \u201cforest\u201d so that certain provisions apply to any lands in this State. Existing law requires the State Forester Firewarden to: (1) adopt and enforce regulations relating to standards for fire retardant roofing materials to be used in the construction, alteration, change or repair of buildings located within the boundaries of fire-hazardous forested areas; and (2) designate the boundaries of such fire-hazardous forested areas. Existing law additionally requires the State Forester Firewarden to assess the codes, rules and regulations which are adopted by other agencies that have specific regulatory authority within the Lake Tahoe Basin and the Lake Mead Basin and which are not subject to the authority of a state or local fire agency, for consistency with fire codes, rules and regulations. (NRS 472.040) Section 10 of this bill removes the requirement that the State Forester Firewarden carry out these duties. Section 18 of this bill requires the State Fire Marshal to cooperate with the State Forester Firewarden concerning certain mitigation activities. Existing law requires the State Fire Marshal to adopt regulations relating to the prevention of fire. (NRS 477.030) The State Fire Marshal has adopted regulations in which the International Wildland-Urban Interface Code is adopted by reference. (NAC 477.281) Existing law provides that the regulations of the State Fire Marshal apply throughout the State, except that any regulations of the State Fire Marshal concerning matters relating to building codes do not apply to a county whose population is 700,000 or more (currently Clark County), if the county adopts a code that is at least as stringent as the International Fire Code and the International Building Code within 1 year of the time such international codes are published by the International Code Council. (NRS 477.030) Section 18 provides that such a code adopted by a county whose population is 700,000 or more must: (1) also be at least as stringent as the International Wildland-Urban Interface Code; and (2) be adopted within 2 years of the time such international codes are published by the International Code Council. Section 21 of this bill repeals the State Forester Firewarden's authority to enforce all regulations relating to the reduction of brush, dense undergrowth and other vegetation around and adjacent to a structure that is in a fire-hazardous forested area. Section 21 of this bill repeals the State Forester Firewarden's authority to enforce provisions of existing law that require fire retardant roofing material to be used in areas designated as fire-hazardous forested areas. Section 9 of this bill makes a conforming change by removing a reference to the repealed provision.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7208/Overview",
+      "openstates_url": null,
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to natural resource management; replacing the term \u201creforestation\u201d with \u201crevegetation\u201d; expanding the types of vegetation and areas where vegetation is located that the State Forester Firewarden is responsible for conserving, protecting and enhancing; expanding the application of certain provisions governing forests and watersheds to include rangelands; repealing the requirement to carry out certain tasks related to fire retardant roofing, fire-hazardous forested areas and ensuring consistency with fire codes, rules and regulations; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:51.252636+00:00"
+      "abstract_fetched_at": "2026-07-15T15:22:37.553020+00:00"
+    },
+    {
+      "session": "81",
+      "identifier": "SB67",
+      "title": "Creates a pilot program to gather data on the use of job order contracts for certain public works. (BDR S-400)",
+      "abstract": "Existing law prescribes general procedures for awarding a contract for a public work. (Chapter 338 of NRS) Existing law also authorizes a local government to comply with alternative procedures for awarding a contract for a public work. (NRS 338.1373) Sections 1 and 15 of this bill establish a 4-year pilot program to gather data on the use of job order contracts for certain public works in Clark County, the City of Henderson, the City of Las Vegas, the City of North Las Vegas and the Clark County Water Reclamation District. As part of that pilot program, section 7 of this bill authorizes a public body to enter into job order contracts for the maintenance, repair, alteration, demolition, renovation, remediation or minor construction of a public work. Section 5 of this bill defines \u201cpublic body\u201d for purposes of this authorization to mean Clark County, the City of Henderson, the City of Las Vegas, the City of North Las Vegas and the Clark County Water Reclamation District. Section 6 of this bill requires the Labor Commissioner to enforce the provisions of existing law governing public works for a job order contract in the same manner in which he or she enforces those provisions for a contract for a public work with the same estimated cost as the job order contract. Section 7 of this bill requires a job order contract to be for a fixed period and provide for indefinite types and quantities of work and delivery times. Section 7 provides that a job order contract: (1) must not be for work exclusive to one trade for which a license as a specialty contractor is required; and (2) must require a contractor to prepare and submit a proposal for each job order. Section 7 requires such a proposal to include the proposed price for the job order, each construction task required to perform the job order, the unit price for each such task and the adjustment factor applicable to the performance of the task. Sections 2.3 and 2.5 of this bill define the terms \u201cadjustment factor\u201d and \u201cconstruction task,\u201d respectively. Section 7 also requires a public body to adopt a written policy for the assignment of job orders and limits the total dollar amount of job order contracts that may be awarded annually by each public body. Section 8 of this bill prescribes the qualifications a contractor who wishes to enter into a job order contract must meet. Section 9 of this bill requires a public body or its authorized representative to advertise requests for proposals or similar solicitation documents for job order contracts. Section 9 also prescribes: (1) the contents of such advertisements or similar solicitation documents; and (2) requirements for proposals. Section 10 of this bill makes any document or other information submitted to a public body in response to a request for proposals or similar solicitation document for a job order contract confidential and prohibits the disclosure of any such document or information until notice of intent to award the contract is issued. Section 11 of this bill prescribes the method for selecting a contractor for a job order contract. Specifically, section 11 requires a public body or its authorized representative to appoint a panel to rank the proposals submitted in response to the request for proposals and award a job order contract to one or more applicants. Section 11 limits the initial term of a job order contract to 2 years and authorizes a public body to renew a job order contract for not more than 1 year after the expiration of the initial term of the job order contract or such other period of time as is necessary to complete any outstanding job order issued before the expiration of the initial contract, whichever is sooner. Section 12 of this bill prescribes certain responsibilities of a contractor who enters into a job order contract relating to contracting for the services of a subcontractor, supplier or professional. Section 12 also prohibits a contractor who enters into a job order contract from performing more than 50 percent of the estimated cost of a work order himself or herself, or using his or her own employees. Section 7 requires a job order contract to provide for the use of job orders, which are defined in section 3 of this bill as an order issued for a definite scope of work to be performed for a fixed price pursuant to a job order contract. Section 13 of this bill requires a contractor to submit a list of each subcontractor whom the contractor intends to engage before a public body issues a job order. Section 14 of this bill requires a public body to submit a quarterly report for the pilot program that contains certain information relating to job order contracts to the governing body of the public body. Section 14 also requires a governing body to annually submit to Director of the Legislative Counsel Bureau a written report including the information reported to the governing body during the immediately preceding calendar year. Section 15 of this bill expires this bill by limitation on June 30, 2025.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7272/Overview",
+      "openstates_url": null,
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to public works; creating a pilot program to gather data on the use of job order contracts for certain public works in Clark County, the City of Henderson, the City of Las Vegas, the City of North Las Vegas and the Clark County Water Reclamation District; temporarily authorizing the governing bodies of those entities to enter into a job order contract for the maintenance, repair, alteration, demolition, renovation, remediation or minor construction of a public work; prescribing the procedure for awarding a job order contract; making certain documents and other information submitted by a person seeking a job order contract confidential until a contract is awarded; prescribing responsibilities of a contractor who enters into a job order contract; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-15T15:22:39.862508+00:00"
     },
     {
       "session": "81",
@@ -394,9 +508,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7388/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising the boundaries of the Carson Water Subconservancy District and the membership of the Board of Directors of the District; requiring, under certain circumstances, the Board of County Commissioners of Storey County to pay to the District a certain amount from the County's general fund; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:53.728727+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "81",
@@ -407,9 +521,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7333/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "Proposing to amend the Nevada Constitution to provide that the Nevada Court of Appeals has original jurisdiction over certain cases relating to water.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:56.033804+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -420,9 +534,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9895/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to food establishments; prohibiting a food establishment from providing drinking water unless requested by a customer; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:10:58.378051+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -433,9 +547,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9548/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/AB19/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; expanding the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program to include tribal governments in this State; providing, under certain circumstances, that officers and employees of tribal governments are exempt from certain licensing requirements for state water right surveyors; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:00.744459+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -446,9 +560,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9903/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/AB191/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions relating to a plan of water conservation and plan for incentives relating to water conservation; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:03.438337+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -459,9 +573,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9549/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/AB20/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; making various changes to provisions relating to the Account to Finance the Construction of Treatment Works and the Implementation of Pollution Control Projects; making various changes to provisions relating to the Account for the Revolving Fund and the Account for Set-Aside Programs; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:05.784656+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -472,9 +586,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9950/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/AB220/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; authorizing a district board of health to establish a program to pay the costs for property owners with a septic system to connect to a community sewerage disposal system under certain circumstances; revising provisions relating to a permit to operate a water system; revising provisions relating to water systems; revising provisions relating to tentative maps and final maps for a subdivision of land; establishing minimum standards for certain landscaping irrigation fixtures in new construction and expansions and renovations in certain structures; revising provisions relating to grants of money for water conservation; exempting the use of water by certain entities to extinguish fires in an emergency from provisions governing the appropriation of water; revising provisions relating to groundwater in certain designated areas; revising conditions under which the State Engineer may require the plugging of certain wells used for domestic purposes; defining certain terms relating to the Conservation of Colorado River Water Act; authorizing the Board of Directors of the Southern Nevada Water Authority to enact certain restrictions on water use for single-family residences under certain circumstances; prohibiting, with certain exceptions, the use of the waters of the Colorado River for certain purposes; establishing requirements relating to an irrigation water efficiency monitoring program; revising certain provisions relating to the use of the waters of the Colorado River to irrigate nonfunctional turf; authorizing the Authority to operate a program to convert properties using a septic system to a municipal sewer system and to impose a fee for such a program; authorizing the Board of Directors to authorize the General Manager of the Authority to restrict the use of water under certain circumstances; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:08.216093+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -485,9 +599,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10028/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/AB261/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to governmental administration; requiring the State Plan for Economic Development to include a statement regarding the efficient use of water resources; requiring a plan submitted by certain regional development authorities to include water conservation strategies; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:10.571444+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -498,9 +612,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10030/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; enacting provisions relating to the transmission of Legionnaires' disease by building water systems in covered health care facilities; providing a penalty; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:12.906887+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -511,9 +625,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10192/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; providing that certain temporary changes to the place of diversion, manner of use or place of use of surface water are not required to be approved by the State Engineer under certain circumstances; authorizing the State Engineer to accept certain nonconforming maps under certain circumstances; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:15.289037+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -524,9 +638,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9563/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/AB34/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising the public notice requirements for certain applications relating to water; revising certain requirements for maps relating to water rights; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:17.682693+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -537,9 +651,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10324/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/AB387/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the State Engineer to consider the best available science when rendering decisions; revising provisions relating to the appropriation of underground water; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:20.031077+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -550,9 +664,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10500/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/AB470/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT making an appropriation to the State Public Works Division of the Department of Administration for professional services and filing fees related to water rights associated with the Marlette Lake Water System; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_title",
-      "abstract_fetched_at": "2026-07-15T15:13:45.068438+00:00"
+      "abstract_source": "nelis_overview_title"
     },
     {
       "session": "82",
@@ -563,9 +677,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9681/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions governing an application for a temporary change relating to water already appropriated; revising certain fees collected by the State Engineer; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:25.254913+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -576,9 +690,9 @@
       "in_openstates": false,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9682/Overview",
       "openstates_url": null,
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions relating to sinking or boring certain wells for water already appropriated; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:27.675456+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -589,9 +703,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9733/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/SB102/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT making an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources to award grants of money to the governing bodies of cities and counties in this State for the development and maintenance of water resource plans; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_title",
-      "abstract_fetched_at": "2026-07-15T15:13:47.790271+00:00"
+      "abstract_source": "nelis_overview_title"
     },
     {
       "session": "82",
@@ -602,9 +716,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9756/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/SB112/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions governing certain assessments on water users; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:32.417575+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -615,9 +729,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9757/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/SB113/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the State Engineer to affirm or modify the perennial yield of a basin in a designated critical management area; revising provisions relating to groundwater management plans; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:34.787634+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -628,9 +742,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9907/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/SB176/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; creating the Account for Purchasing and Retiring Water Rights; establishing the Nevada Water Buy-Back Initiative and the Advisory Committee for the Nevada Water Buy-Back Initiative; requiring the Director of the State Department of Conservation and Natural Resources to purchase certain water rights with money from the Account for purposes of retiring the water rights; creating the Nevada Conservation and Recreation Program; making an appropriation; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:37.168226+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -641,9 +755,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9923/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/SB180/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions relating to the establishment, membership and duties of a groundwater board; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:39.617135+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -654,9 +768,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10090/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/SB258/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions governing an application for a temporary change relating to water already appropriated; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:42.038588+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "82",
@@ -667,9 +781,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10525/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/SB472/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT making an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for projects at the South Fork Dam; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_title",
-      "abstract_fetched_at": "2026-07-15T15:13:50.150966+00:00"
+      "abstract_source": "nelis_overview_title"
     },
     {
       "session": "82",
@@ -680,9 +794,23 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10526/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/SB473/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT making an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for a study of extreme rainfall events; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_title",
-      "abstract_fetched_at": "2026-07-15T15:13:52.532402+00:00"
+      "abstract_source": "nelis_overview_title"
+    },
+    {
+      "session": "82",
+      "identifier": "SB59",
+      "title": "Revises provisions relating to vessels. (BDR 43-225)",
+      "abstract": "Existing law defines the term \u201cmotorboat\u201d to mean any vessel propelled by machinery. (NRS 488.035) Existing law: (1) requires, with certain exceptions, a motorboat to be numbered and titled; (2) establishes requirements for obtaining such a number or a certificate of ownership, transferring of the title of or any interest in a motorboat and perfecting security interest in a motorboat; and (3) establishes certain other requirements governing the equipment and operation of a motorboat. (NRS 488.065-488.1827, 488.187, 488.193, 488.195, 488.580, 488.585) Sections 8-10, 16-19, 22, 23, 37, 38 and 48 of this bill replace the term \u201cmotorboat\u201d with the term \u201cpower-driven vessel.\u201d Sections 8 and 22 also standardize terminology used to refer to sailing vessels and human-powered vessels. Section 8 specifically includes a mechanically propelled personal hydrofoil, a motorized surfboard and a vessel equipped with both a sail and a motor within the definition of \u201cpower-driven vessel,\u201d thereby clarifying that such vessels are subject to requirements governing power-driven vessels. However, section 23 exempts a mechanically propelled personal hydrofoil or a motorized surfboard from the requirement that a power-driven vessel must be equipped with certain fire extinguishers. Section 8 also: (1) includes a governmental entity within the definition of \u201cperson,\u201d thereby requiring a governmental entity to comply with certain provisions governing watercraft that currently apply to persons; and (2) defines certain other terms relating to watercraft. Sections 25 and 26 of this bill remove duplicative terminology. Sections 9, 11-16 and 20 of this bill require a sailing vessel to be numbered under similar conditions as currently apply to the numbering of power-driven vessels. Section 8 includes within the definition of the term \u201cowner\u201d a person, other than secured party, who has a property right with regard to a human-powered vessel. Section 8 thus makes such a person responsible for the vessel for purposes including abandonment, operation and, in combination with sections 9, 11-16 and 20, numbering. (NRS 488.291, 488.293, 488.600) Section 21 of this bill expands the class categories prescribed by existing law for power-driven vessels to apply to all vessels. Existing law: (1) prohibits a person, other than a peace officer engaged in law enforcement activities, from displaying a flashing blue light or a flashing red light on a vessel operating on the waters of this State; and (2) requires a peace officer to seize, or cause to be seized, such a light installed or operated on such a vessel. (NRS 488.187) Section 22 removes that requirement and instead authorizes a peace officer to seize, or cause to be seized, such a light. Section 22 also authorizes a peace officer engaged in public safety activities that do not also constitute law enforcement activities to display a flashing blue light. Existing federal law requires each vessel to be equipped with a certain number of life jackets and ring life buoys. (46 C.F.R. \u00a7\u00a7 180.70, 180.71) Sections 23, 36 and 37 of this bill revise terminology used in existing law to conform more closely to terminology used in those federal regulations. Existing law authorizes a game warden, sheriff or other peace officer to remove a vessel from a public waterway under certain conditions. (NRS 488.293) Section 24 of this bill additionally authorizes the game warden, sheriff or other peace officer to order the removal of such a vessel, thereby clarifying that such a peace officer is not required to personally remove the vessel. Section 24 also authorizes such a peace officer to remove or order the removal of a vessel that has been left unattended and adrift, moored, docked, beached, run aground, trailered or made fast to land in such a position as to interfere with navigation, in such a condition as to create a hazard or in a location owned or administered by a public entity. Existing law prohibits a person from operating or being in actual physical control of a vessel under power or sail while the person meets certain criteria for being under the influence of alcohol or a prohibited substance. (NRS 488.410, 488.420) Existing law also provides that a person is guilty of homicide by vessel if the person: (1) meets certain criteria for being under the influence of alcohol or a prohibited substance; (2) operates or is in actual physical control of a vessel under power or sail; (3) proximately causes the death of another person; and (4) has previously been convicted of at least three offenses relating to the operation of a vessel under power or sail while under the influence of alcohol or a prohibited substance. (NRS 488.425) For the purposes of these crimes, sections 27-29 of this bill prohibit a person from operating or being in actual physical control of a power-driven vessel or sailing vessel under way when the person is under the influence of alcohol or a prohibited substance, regardless of the manner in which the vessel is actually propelled. Sections 1-4, 30-35 and 40-47 of this bill make conforming changes to provisions that refer to those offenses. Existing federal law requires a person operating certain recreational vessels to use an engine cut-off switch, which stops the engine of the vessel if activated, under certain circumstances. (46 U.S.C. \u00a7 4312) Existing law prohibits a person who owns or controls a power-driven vessel that is equipped with an engine cut-off switch from operating or authorizing another person to operate the power-driven vessel above certain speeds if: (1) the engine cut-off switch is missing, disconnected or not operating properly; or (2) the engine-cut off switch link is not attached to his or her body, clothing or personal flotation device. (NRS 488.585) Section 38: (1) requires a person who operates a recreational power-driven vessel covered by federal law to use the engine-cut off switch link when the vessel is on plane or above displacement speed; and (2) prohibits the operation of such a vessel that is equipped with an engine cut-off switch unless the engine cut-off switch link is attached to the body, clothing or properly worn personal flotation device of the operator. Existing law provides that any violation of a provision of state law governing the use of a watercraft is a misdemeanor unless otherwise stated. (NRS 488.950) Section 39 of this bill revises this penalty to instead provide that, except where otherwise stated, a person commits a misdemeanor if the person: (1) performs an act or attempts to perform an act prohibited by state law relating to the use of a watercraft; (2) willfully fails to perform an act required by state law relating to the use of a watercraft; or (3) violates an order issued or regulation adopted by the Board of Wildlife Commissioners pursuant to state law relating to the use of a watercraft. If a person violates any provision of state law governing the use of a watercraft, existing law authorizes a court to prohibit the person from operating a power-driven vessel on the interstate waters of this State until the person successfully completes a course in safe boating. Section 39 also expands the authority of a court by authorizing the court to prohibit a person who commits such a violation from operating any vessel on the interstate waters of this State until the person completes such a course.",
+      "in_nelis": true,
+      "in_openstates": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9629/Overview",
+      "openstates_url": "https://openstates.org/nv/bills/82/SB59/",
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to vessels; revising certain crimes relating to the operation of a vessel while under the influence of alcohol or a prohibited substance; revising certain terminology; clarifying that mechanically propelled personal hydrofoils, motorized surfboards and vessels equipped with both a sail and a motor are subject to certain requirements governing power-driven vessels; making certain provisions governing vessels applicable to governmental entities; requiring a sailing vessel to be numbered; revising certain class categories for vessels; revising provisions governing the removal of an abandoned vessel; revising the prohibition on operating a power-driven vessel under certain circumstances; authorizing a court to prohibit a person from operating any vessel on the interstate waters of this State under certain circumstances; providing penalties; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-15T15:22:42.284612+00:00"
     },
     {
       "session": "82",
@@ -693,9 +821,23 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9995/Overview",
       "openstates_url": "https://openstates.org/nv/bills/82/SJR3/",
+      "passes_water_title_filter": true,
       "official_title": "Urging the United States Bureau of Reclamation to consider certain actions, alternatives and measures for the protection and management of the Colorado River.",
-      "abstract_source": "nelis_overview_title",
-      "abstract_fetched_at": "2026-07-15T15:13:54.853980+00:00"
+      "abstract_source": "nelis_overview_title"
+    },
+    {
+      "session": "83",
+      "identifier": "AB10",
+      "title": "Revises provisions relating to local improvement projects. (BDR 22-407)",
+      "abstract": "Existing law authorizes the governing body of any county, city or town to create an improvement district for the acquisition, improvement, equipment, operation and maintenance of certain local improvement projects, including a neighborhood improvement project, and to finance the cost of any such project through such methods as the issuance of certain bonds and the levy of assessments upon property in the improvement district. (NRS 271.265, 271.270, 271.325) Section 1 of this bill amends the definition of \u201cneighborhood improvement project\u201d to include the improvement of a water or sewer system that is owned by a common-interest community. Existing law authorizes, under certain circumstances, the governing body of any county, city or town to dissolve by resolution an improvement district that is created for the purposes of a neighborhood improvement project. (NRS 271.296) Section 2 of this bill provides that the authority to dissolve an improvement district does not apply to a neighborhood improvement project that improves a water or sewer system that is owned by a common-interest community. Existing law sets forth certain notice requirements for a hearing as to the propriety and advisability of an improvement project that has been provisionally ordered by the governing body of a county, city or town. For a neighborhood improvement project, the notice must state that: (1) a person who owns or resides within a tract in the proposed improvement district may file a protest to inclusion in the assessment plat; and (2) if written remonstrances by the owners of tracts constituting one-third or more of the basis for the computation of assessments for the neighborhood improvement project are presented to the governing body, the governing body is prohibited from proceeding with the project. (NRS 271.305, 271.306) Section 3 of this bill provides that this prohibition does not apply to a neighborhood improvement project that improves a water or sewer system that is owned by a common-interest community. Instead, section 4 of this bill provides that a neighborhood improvement project that improves a water or sewer system that is owned by a common-interest community will not be stayed or defeated or prevented by written complaints, protests and objections, unless the governing body deems such written complaints, protests and objections proper to cause the neighborhood improvement project to be stayed or prevented. Section 5 of this bill makes a conforming change to authorize the governing body of a county, city or town to proceed with the improvement district after the hearing and after the governing body makes certain determinations, including a determination that an exception applies that authorizes the governing body to acquire or improve an improvement project despite certain complaints, protests and objections. Existing law requires a governing body which has acquired or improved a neighborhood improvement project to annually: (1) prepare an amendment to the assessment roll for the district and an estimate of the expenditures for the next fiscal year; (2) hold a public meeting to consider the amendment; and (3) provide certain notice to the owner of each tract being assessed. (NRS 271.377) Section 6 of this bill makes these provisions inapplicable to a neighborhood improvement project that improves a water or sewer system that is owned by a common-interest community.",
+      "in_nelis": true,
+      "in_openstates": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11760/Overview",
+      "openstates_url": "https://openstates.org/nv/bills/83/AB10/",
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to local improvement projects; authorizing any county, city or town to repair a private water or sewer system that is owned by a common-interest community as part of a neighborhood improvement project; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-15T15:22:44.694244+00:00"
     },
     {
       "session": "83",
@@ -706,9 +848,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11994/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/AB104/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the State Engineer to retire certain groundwater rights; revising provisions relating to temporary permits to appropriate groundwater; creating the Nevada Conservation and Recreation Program; creating the Account for Retiring Water Rights; establishing the Nevada Voluntary Water Rights Retirement Program; requiring the Director of the State Department of Conservation and Natural Resources to purchase certain water rights with money from the Account for the purpose of retiring those water rights; revising provisions relating to the program to provide grants of money to pay certain costs related to water conservation and capital improvements to water systems; revising provisions relating to a program to pay the costs for property owners to connect to a community sewerage disposal system under certain circumstances; revising certain legislative declarations relating to clean water and water pollution; authorizing the State Environmental Commission to establish a water quality standard variance; revising provisions relating to an irrigation water efficiency monitoring program established by the Southern Nevada Water Authority; revising provisions relating to membership on the Advisory Committee for the Management of Groundwater in the Las Vegas Valley Groundwater Basin; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:51.806800+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "83",
@@ -719,9 +861,23 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12006/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/AB109/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions governing the appropriation of water for geothermal wells or dissolved mineral resources; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "83",
+      "identifier": "AB110",
+      "title": "Revises provisions relating to the designation of certain highways. (BDR 35-148)",
+      "abstract": "Existing law provides designations for certain highways in this State. (NRS 408.303, 408.307; Chapter 71, Statutes of Nevada 1987, at page 136) This bill designates: (1) State Route 163 as the Colorado River Highway; and (2) the bridge connecting State Route 163 with Bullhead City, Arizona, as the Donald J. Laughlin Memorial Bridge. This bill also requires the Director of the Department of Transportation to place suitable markers along the highway and bridge in locations where the Director deems appropriate.",
+      "in_nelis": true,
+      "in_openstates": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12011/Overview",
+      "openstates_url": "https://openstates.org/nv/bills/83/AB110/",
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to transportation; designating State Route 163 as the Colorado River Highway; designating the bridge connecting State Route 163 with Bullhead City, Arizona, as the Donald J. Laughlin Memorial Bridge; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:54.224464+00:00"
+      "abstract_fetched_at": "2026-07-15T15:22:47.077028+00:00"
     },
     {
       "session": "83",
@@ -732,9 +888,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12051/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/AB132/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising the exemption from certain appropriation requirements for guzzlers providing water for use by wildlife; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:56.611964+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "83",
@@ -745,9 +901,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12053/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/AB134/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; authorizing the holder of a perfected water right to file a water conservation plan and establishing provisions relating to water conservation plans; revising the policy of this State concerning the conservation of water; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:11:58.998191+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "83",
@@ -758,9 +914,23 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12160/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/AB190/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; creating the Fund for Hydrological Studies to make grants of money for hydrological studies in certain counties; revising provisions governing the payment of the cost of a hydrological study required by the State Engineer in certain counties; making an appropriation to the Fund to be used for such grants of money; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "83",
+      "identifier": "AB26",
+      "title": "Revises provisions relating to dams. (BDR 48-261)",
+      "abstract": "Under existing law, the State Engineer is authorized to regulate the construction, reconstruction, alteration and operation of dams and other obstructions of waterways in the State of Nevada. (NRS 532.110, 532.120, chapter 535 of NRS) Section 1 of this bill exempts the State Engineer and any assistant of the State Engineer from liability for damages caused by certain failures of a dam or reservoir that may occur as a result of an inspection, emergency response or enforcement of an order or regulation by the State Engineer or his or her assistant. Under existing law, any person proposing to construct a dam in this State must obtain a permit from the State Engineer to appropriate, store and use the water impounded or diverted by the proposed dam before beginning construction and, upon obtaining or possessing such a permit, must submit, in triplicate, to the State Engineer for approval plans and specifications for certain dams. Existing law further: (1) authorizes the State Engineer to inspect the construction of a dam at any time for compliance with the approved plans and specifications; (2) prohibits the construction and use of any dam, under certain circumstances, before the approval of plans and specifications by the State Engineer; and (3) makes it a misdemeanor to construct or use a dam without first obtaining such approval. (NRS 535.010) Section 2 of this bill makes these provisions applicable to the reconstruction or alteration of a dam. Section 2 also removes the requirement that any person proposing to construct a dam in this State obtain a permit to appropriate, store and use water impounded or diverted by the proposed dam before beginning construction of the dam and instead requires any person proposing to construct, reconstruct or alter a dam to obtain approval from the State Engineer before beginning construction, reconstruction or alteration of the dam. Section 2 further: (1) requires a person to submit plans and specifications to the State Engineer for approval if the dam is classified by the State Engineer as a high hazard or significant hazard dam; and (2) removes the requirement that such plans and specifications be submitted in triplicate. Under existing law, the State Engineer is authorized to impose certain administrative fines for, or may seek injunctive relief upon, the violation of any permit issued by the State Engineer relating to the construction, reconstruction or alteration of a dam. (NRS 535.200, 535.210) Sections 8 and 9 of this bill authorize the imposition of certain administrative fines or the seeking of injunctive relief upon the violation of any approval issued by the State Engineer in conformity with the removal of the requirement to obtain a permit made in section 2. Under existing law, the State Engineer is required to file with the Board of Wildlife Commissioners a copy of applications for approval of plans and specifications for a new dam or for the alteration and enlargement of any dam in a stream. (NRS 535.020) Section 3 of this bill instead requires the State Engineer to notify the Department of Wildlife when an application for decommissioning a dam is filed or a request for approval of plans and specifications of a new dam or for the alteration and enlargement of any dam in a stream is submitted and to make the application or plans and specifications available to the Department. Under existing law, works constructed by the United States Bureau of Reclamation or the United States Army Corps of Engineers are exempt from certain requirements relating to dams, including requirements for the approval of plans and specifications and inspections and safety and repair requirements. (NRS 535.010, 535.030) Sections 2 and 4 of this bill exempt any works under the jurisdiction of the United States Bureau of Reclamation or the United States Army Corps of Engineers from such requirements. Under existing law, the State Engineer or any assistant or authorized agent of the State Engineer is authorized to enter any land, at a reasonable hour, where a dam or obstruction is situated to investigate and carry out the duties of the State Engineer. (NRS 535.035) Section 5 of this bill further authorizes the State Engineer or any assistant or authorized agent of the State Engineer to enter the land of any parcel adjacent to where a dam or other obstruction is located as is necessary to access the dam or other obstruction. Under existing law, the State Engineer is authorized to order the removal of any dam, diversion works or obstruction that has not been legally established by certain means. If such a dam, diversion works or obstruction is ordered removed by the State Engineer and is not removed after the service of a 30-day notice upon the owner or person controlling the dam, diversion works or obstruction, or an appeal of the removal order has not been filed, the State Engineer may remove the dam, diversion works or obstruction. (NRS 535.050) Section 6 of this bill authorizes the State Engineer to remove a dam, diversion works or obstruction not legally established after providing a written, not served, copy of the 30-day notice to the owner of the dam, diversion works or obstruction. Under existing law, the State Engineer is authorized to remove a beaver on privately owned land if it is determined the beaver is interfering with the flow of water to the detriment of water users and after service of a written notice on the owner of the private land. (NRS 535.060) Section 7 of this bill requires that the written notice be provided to the landowner and need not be served.",
+      "in_nelis": true,
+      "in_openstates": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11792/Overview",
+      "openstates_url": "https://openstates.org/nv/bills/83/AB26/",
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to water; exempting the State Engineer from liability for certain damages resulting from the performance of certain duties; revising provisions relating to the construction, reconstruction or alteration of a dam; exempting certain works under the jurisdiction of the United States Bureau of Reclamation or the United States Army Corps of Engineers from certain requirements relating to dams; requiring that certain applications relating to dams be made available to the Department of Wildlife; authorizing the State Engineer to enter certain parcels of land to access a dam or other obstruction; revising provisions relating to the removal of any dam, diversion works or obstruction; revising provisions relating to the removal of certain animals interfering with the flow of water; providing a penalty; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:12:01.378937+00:00"
+      "abstract_fetched_at": "2026-07-15T15:22:49.468370+00:00"
     },
     {
       "session": "83",
@@ -771,9 +941,23 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12311/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/AB265/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the Division of Water Resources of the State Department of Conservation and Water Resources to notify an applicant if a committee is assigned to review certain applications for a permit; providing certain deadlines for the State Engineer to approve or deny certain applications and extensions, review reports of conveyance and issue certain permits; requiring the State Engineer to provide certain notices relating to the cancellation of a permit; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "83",
+      "identifier": "AB312",
+      "title": "Revises provisions governing the sale of real property. (BDR 10-1005)",
+      "abstract": "Existing law sets forth certain disclosures that a seller of real property is required to make to a purchaser in a real estate transaction. (NRS 113.060-113.150) This bill requires a seller of real property that contains a private well to disclose to the purchaser the results of a test concerning the quality of the water in the private well. This bill further requires that: (1) the disclosure indicate whether the water in the private well complies with certain standards of water quality and the amounts of certain chemicals in the water; (2) the test be performed within 90 days before the date of closing; and (3) the test be conducted by a laboratory with a certain certification.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12395/Overview",
+      "openstates_url": null,
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to real property; requiring a seller of real property that includes a private well to disclose to the buyer the quality of and amount of certain chemicals in the water in the private well; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:12:03.790975+00:00"
+      "abstract_fetched_at": "2026-07-15T15:22:52.063493+00:00"
     },
     {
       "session": "83",
@@ -784,9 +968,23 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12473/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/AB363/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions relating to the establishment, membership and duties of a groundwater board; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "83",
+      "identifier": "AB385",
+      "title": "Revises provisions relating to governmental administration. (BDR 22-851)",
+      "abstract": "Under existing law, subject to certain limitations, a governing body of any city or county may adopt a building code. (NRS 278.580-278.586) Section 1 of this bill: (1) prohibits, with certain exceptions, the governing body of a county whose population is 700,000 or more (currently only Clark County) and the governing body of any city within such a county from adopting a building code, ordinance or taking any other action to prohibit or limit the use of a cooling tower system which uses water in certain projects for which the governing body must issue a permit; and (2) authorizes such a governing body to establish a process to exempt such projects from a prohibition or limitation in a building code or ordinance on the use of cooling towers. Sections 3-5 of this bill limit the authority of a county or city subject to the provisions of section 1 to adopt a building code. Section 2 of this bill applies the definitions in existing law relating to planning and zoning to the provisions of section 1.",
+      "in_nelis": true,
+      "in_openstates": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12534/Overview",
+      "openstates_url": "https://openstates.org/nv/bills/83/AB385/",
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to governmental administration; prohibiting the governing body of certain counties and cities from taking certain actions to prohibit the use of cooling towers which use water for certain projects; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:12:06.236685+00:00"
+      "abstract_fetched_at": "2026-07-15T15:22:54.441549+00:00"
     },
     {
       "session": "83",
@@ -797,9 +995,23 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12606/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/AB419/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the State Engineer to prepare and submit a biennial report to the Legislature relating to certain applications pending a final decision by the State Engineer; requiring the State Engineer to adopt certain regulations relating to hearings and to establish a pre-application review process to meet with prospective applicants; making the State Engineer subject to the Nevada Administrative Procedure Act for purposes of adopting regulations and certain provisions governing the adjudication of contested cases; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "83",
+      "identifier": "AB456",
+      "title": "Revises provisions relating to public utilities. (BDR 58-170)",
+      "abstract": "Section 2 of this bill requires a public utility, for any notice which is required to be provided to a customer, to make such notice available in English and the three languages other than English that are most commonly spoken in this State, except to a customer who has designated the language in which the customer prefers to receive communications. Section 2 requires the Public Utilities Commission of Nevada to adopt regulations as necessary to ensure that customers of a public utility who are persons with limited English proficiency or persons with a communication disability are able to communicate and receive communications in a comprehensible form from the public utilities in this State. Existing regulations prohibit a public utility from providing any information concerning its customers to any person for commercial purposes without the approval of the Commission. (NAC 704.4051) Section 3 of this bill adds this requirement to the Nevada Revised Statutes and additionally requires a public utility to take reasonable steps to ensure that information concerning a customer of a public utility which is disclosed to a third party will not be subject to further disclosure. Existing law requires the Commission to adopt or amend regulations that govern the termination of utility service for gas, water or electricity, including when a public utility is required to postpone the termination of utility service to a residential customer. (NRS 704.1835) Existing regulations govern the termination of such utility service. (NAC 704.350-704.380, inclusive) Section 4 of this bill prohibits a public utility from terminating utility service for gas, water or electricity to a residential customer because of nonpayment: (1) if the outstanding amount owed by the customer is less than $300 or less than 6 months overdue; (2) if at least half of the outstanding amount owed by the customer was paid within the immediately preceding 25 days; (3) on a day, or on the day before a day, on which the office of the utility that accepts or processes payments is closed; (4) without first providing certain notice and information to the customer; and (5) without first applying the amount of any security deposit of the customer towards the outstanding amount. Section 4 prohibits a public utility from terminating electricity service for a residential customer at any time from May 1 through October 31 of each year. Section 4 prohibits a public utility from terminating gas service for a residential customer during certain weather conditions. Section 4 requires a public utility to notify each customer who is elderly or who is a person with a disability that the customer may designate a third person to receive notice of the pending termination of utility service of the customer. Section 4 requires a third person who is designated to receive such notice to receive a duplicate of any written notice and information regarding the termination of utility service for gas, water or electricity that is provided to the customer.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12690/Overview",
+      "openstates_url": null,
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to public utilities; requiring public utilities to make notices to customers available in certain languages; requiring the Public Utilities Commission of Nevada to adopt certain regulations relating to communications between public utilities and customers; prohibiting a public utility from disclosing information concerning customers under certain circumstances; revising provisions governing the circumstances under which a public utility is prohibited from terminating gas, water or electric service; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:12:08.683062+00:00"
+      "abstract_fetched_at": "2026-07-15T15:22:57.065263+00:00"
     },
     {
       "session": "83",
@@ -810,9 +1022,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12746/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/AB485/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions governing certain assessments on water users; making an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for various projects relating to the management of water resources in this State and for the digitization of records and data of the Division; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:12:11.085917+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "83",
@@ -823,9 +1035,37 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11759/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/AB9/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising the duration of time in which agricultural water rights may be temporarily converted for certain purposes; providing an exception to provisions relating to the forfeiture and abandonment of a water right; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "83",
+      "identifier": "SB108",
+      "title": "Revises provisions governing the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program. (BDR 48-88)",
+      "abstract": "Existing law: (1) creates the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program in the State General Fund; and (2) requires that the money in this Account be used to award grants under the Program to cities, counties and other political subdivisions of this State and tribal governments in this State as equivalent matching money for projects for the clearance, maintenance, restoration, surveying and monumenting of navigable rivers. Under existing law, the State Engineer is required to administer the Account and the Program. (NRS 532.220, 532.230) Existing law also creates the Contingency Account in the State General Fund and prescribes a procedure for allocation of money in that Account by the Interim Finance Committee, upon the recommendation of the State Board of Examiners, for prescribed purposes, including as provided in specific statute. (NRS 353.266, 353.268, 353.269) Under existing law, the State Engineer is required to request an allocation from the Contingency Account if the balance in the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program is not sufficient to provide a grant under the Program. In addition, the State Engineer is authorized to request an allocation from the Contingency Account if the balance in the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program is below $250,000. (NRS 532.230) This bill: (1) increases this balance for triggering discretionary requests from the Contingency Account to $500,000; and (2) provides that only money in the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program that is not committed for expenditure is included in the calculation of that balance.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12004/Overview",
+      "openstates_url": null,
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to water; revising provisions governing the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:12:13.917978+00:00"
+      "abstract_fetched_at": "2026-07-15T15:22:59.450367+00:00"
+    },
+    {
+      "session": "83",
+      "identifier": "SB143",
+      "title": "Revises provisions relating to natural resources. (BDR 17-10)",
+      "abstract": "Existing law creates the Joint Interim Standing Committee on Natural Resources and sets forth the powers and duties of the Committee. (NRS 218E.320, 218E.330) Section 1 of this bill authorizes the Committee to evaluate and review issues relating to water conservation. Section 2 of this bill requires the Division of Environmental Protection of the State Department of Conservation and Natural Resources to: (1) conduct an interim study during the 2025-2026 legislative interim on artificial turf and synthetic grass; and (2) on or before August 1, 2026, submit a report of its findings and recommendations to the Director of the Legislative Counsel Bureau for transmittal to the 84th Session of the Nevada Legislature.",
+      "in_nelis": true,
+      "in_openstates": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12088/Overview",
+      "openstates_url": "https://openstates.org/nv/bills/83/SB143/",
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to natural resources; authorizing the Joint Interim Standing Committee on Natural Resources to evaluate and review issues relating to water conservation; requiring the Division of Environmental Protection of the State Department of Conservation and Natural Resources to conduct an interim study on artificial turf and synthetic grass; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-15T15:23:01.912892+00:00"
     },
     {
       "session": "83",
@@ -836,9 +1076,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12140/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/SB159/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT making an appropriation to the Oh Lab of Neurogenetics and Precision Medicine at the University of Nevada, Las Vegas or its successor entity for certain activities relating to water systems and wastewater; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_title",
-      "abstract_fetched_at": "2026-07-15T15:13:57.255958+00:00"
+      "abstract_source": "nelis_overview_title"
     },
     {
       "session": "83",
@@ -849,9 +1089,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12476/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/SB276/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; establishing provisions governing the reporting and sharing of certain information relating to water by certain governmental entities and Indian tribes; providing a penalty; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:12:18.728451+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "83",
@@ -862,9 +1102,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11798/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/SB31/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; providing that a federal agency that is a claimant of a vested water right is not required to file proof of the claim on or before a certain date; revising requirements relating to a notice of pending adjudication of certain water rights; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:12:21.146469+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "83",
@@ -875,9 +1115,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12553/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/SB324/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to natural resources; prohibiting the sale, offer for sale or distribution for sale of water in certain disposable plastic bottles within any community which abuts the Lake Tahoe Watershed; requiring, under certain circumstances, the local board of health or health department to issue administrative fines for such a violation; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:12:23.549222+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "83",
@@ -888,9 +1128,9 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12600/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/SB342/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; authorizing the State Engineer, in certain areas of this State, to coordinate with persons who seek to relinquish, by certain means, a right to appropriate water; requiring the State Engineer to retire such relinquished rights; revising provisions relating to the effective date of a right to appropriate water under a permit; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:12:26.549067+00:00"
+      "abstract_source": "nelis_overview_digest"
     },
     {
       "session": "83",
@@ -901,9 +1141,23 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11807/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/SB36/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the State Engineer to retire certain groundwater rights; creating the Nevada Conservation and Recreation Program; creating the Account for Retiring Water Rights; establishing the Nevada Voluntary Water Rights Retirement Program; requiring the Director of the State Department of Conservation and Natural Resources to purchase certain water rights for the purpose of retiring the water rights; revising provisions governing a program to provide grants of money for certain purposes relating to improvements to water systems and to conserve water; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "83",
+      "identifier": "SB43",
+      "title": "Revises provisions relating to public health and safety. (BDR 40-264)",
+      "abstract": "Existing law sets forth provisions governing the collection and disposal of solid waste. (NRS 444.440-444.645) For the purposes of such provisions, existing law defines a \u201csolid waste management authority\u201d to mean: (1) the district board of health in any area in which a health district has been created and, under certain circumstances, certain other areas under the jurisdiction of the board, if the board has adopted certain regulations; and (2) the Division of Environmental Protection of the State Department of Conservation and Natural Resources, in all other areas of the State and at any site previously used for the production of electricity from a coal-fired electric generating plant. (NRS 444.495) Section 4 of this bill authorizes the Administrator of the Division to designate a district board of health to act as a solid waste management authority or to carry out limited duties of a solid waste management authority if the district board of health: (1) applies to the Administrator for such a designation; (2) demonstrates that the district board of health is capable of carrying out the provisions of existing law relating to solid waste management, as determined by the Administrator; and (3) has adopted certain regulations relating to solid waste management. Section 13.5 of this bill requires the State Environmental Commission to adopt regulations establishing the criteria for a district board of health to demonstrate capability to be designated by the Administrator. Section 34 of this bill provides that any district board of health that is currently acting as a solid waste management authority shall be deemed to have been determined capable by the Administrator and may continue to act as a solid waste management authority. Section 7 of this bill revises the definition of \u201csolid waste management authority\u201d to mean: (1) a district board of health if the board is designated under section 4; and (2) the Division, in all other areas of the State and at any site previously used for the production of electricity from a coal-fired electric generating plant. As a result of this change, a district board of health that is not designated by the Administrator is not authorized to act as a solid waste management authority. Consistent with these changes, sections 8, 13 and 16 of this bill provide that only a designated district board of health of a health district is required to adopt certain regulations relating to the collection and disposal of solid waste. Sections 8.5, 9, 14, 18 and 19 of this bill make conforming changes to reflect the divestment of the authority of a district board of health of a health district that is not designated to act as a solid waste management authority. Existing law authorizes any district board of health and any governing body of a municipality to adopt certain standards and regulations relating to solid waste disposal sites and solid waste management systems that are more restrictive than those adopted by the Commission and authorizes the district board of health to issue permits thereunder. Existing law also authorizes any district board of health to adopt such other regulations as are necessary to carry out provisions relating to the collection and disposal of solid waste. (NRS 444.580) Section 15 of this bill provides that certain standards and regulations adopted by a district board of health or governing body must be consistent with an approved plan to provide for a solid waste management system. Section 15 also provides that if a district board of health adopts regulations other than standards and regulations for the location, design, construction, operation and maintenance of a solid waste management system or solid waste disposal system that are more restrictive than those adopted by the Commission, the district board of health must provide reasonable notification of the proposed regulations to the Division. Section 2 of this bill defines \u201chealth district\u201d for the purposes of existing law governing the collection and disposal of solid waste. Section 10 of this bill makes conforming changes to a reference to this term. Section 3 of this bill defines the \u201cResource Conservation and Recovery Act\u201d and, consistent with this definition, sections 6, 11-13 and 16 of this bill revise references to that Act in existing law governing the collection and disposal of solid waste. Section 5 of this bill applies the definitions in existing law and sections 2 and 3 to the provisions of existing law and section 4 that govern the collection and disposal of solid waste. Sections 17 and 18 of this bill make provisions of existing law establishing the powers of a solid waste management authority to enforce existing law, recover civil penalties or damages, obtain injunctive relief or issue subpoenas apply to the provisions of sections 2-4. Existing law sets forth certain provisions governing public water systems and authorizes the Division and a district board of health to administer and enforce these provisions. (NRS 445A.800-445A.955) Existing law also authorizes the State Environmental Commission to designate a district board of health to issue permits to an owner of a public water system to operate the system. (NRS 445A.860, 445A.885) Section 20 of this bill authorizes the Administrator of the Division to designate the district board of health of the health district to issue permits or administer and enforce the provisions or limited provisions governing public water systems if the district board of health: (1) applies for such a designation; and (2) demonstrates to the Administrator that the district board is capable of performing such actions. Section 23 of this bill requires the Commission to adopt regulations establishing the criteria for a district board of health to demonstrate capability to be designated by the Administrator. Section 34 provides that any district board of health that is currently administering and enforcing the provisions governing public water systems shall be deemed to have been designated by the Administrator and may continue to administer and enforce those provisions. Consistent with these changes, sections 23 and 24-28 of this bill limit the authority of a district board of health to issue permits or administer and enforce the provisions governing public water systems to only a district board of health designated by the Administrator. Section 22 of this bill revises the definition of the term \u201cdistrict board of health\u201d to clarify that a health district is created pursuant to certain provisions of existing law. Section 21 of this bill applies the definitions in existing law governing public water systems to section 20. Sections 29-33 of this bill make certain provisions of existing law governing the enforcement powers of the Division, the imposition of civil penalties, administrative fines and criminal penalties and obtaining injunctive relief apply to section 20. Section 23.5 of this bill makes a conforming change to revise an internal reference to a provision of the Nevada Revised Statutes. Existing law defines the term \u201cpublic swimming pool\u201d for the purposes of provisions governing the sanitation of such structures and provides that the term does not include any such structure at any location if the structure is a privately owned pool used by members of a private club or invited guests of the members. (NRS 444.065) Section 4.5 of this bill instead provides that the term does not include any such structure at any location if the structure is a privately owned pool used by members of a private organization that is recognized as a social club exempt from taxation pursuant to certain provisions of the Internal Revenue Code or invited guests of members of such an organization.",
+      "in_nelis": true,
+      "in_openstates": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11819/Overview",
+      "openstates_url": "https://openstates.org/nv/bills/83/SB43/",
+      "passes_water_title_filter": false,
+      "official_title": "AN ACT relating to public health; authorizing certain district boards of health to be designated to act as a solid waste management authority or exercise certain powers of a solid waste management authority under certain circumstances; revising provisions relating to public swimming pools; removing the authority of certain district boards of health to administer the collection and disposal of solid waste; requiring the State Environmental Commission to adopt regulations establishing certain criteria for a district board of health to demonstrate capability for certain purposes; authorizing certain district boards of health to issue certain permits and administer and enforce certain provisions relating to public water systems under certain circumstances; removing the authority of certain district boards of health to administer certain provisions relating to public water systems; providing a penalty; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:12:29.205490+00:00"
+      "abstract_fetched_at": "2026-07-15T15:23:04.340432+00:00"
     },
     {
       "session": "83",
@@ -914,14 +1168,15 @@
       "in_openstates": true,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12889/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/SB466/",
+      "passes_water_title_filter": true,
       "official_title": "AN ACT relating to public safety; transferring the authority to regulate and permit food establishments from the Division of Public and Behavioral Health of the Department of Health and Human Services to the State Department of Agriculture; transferring the authority of the State Board of Health to adopt, amend and enforce regulations to provide for the sanitary protection of water and food supplies to the State Department of Agriculture; repealing various provisions governing food establishments; requiring, with certain exceptions, a county to pay an assessment to the Department for services relating to food establishments; revising provisions relating to cottage food operations; revising provisions relating to farm-to-fork events; revising provisions relating to the purchase or use of hemp or commodities or products made using hemp by certain persons who operate a food establishment; providing penalties; and providing other matters properly relating thereto.",
-      "abstract_source": "nelis_overview_digest",
-      "abstract_fetched_at": "2026-07-15T15:12:32.325208+00:00"
+      "abstract_source": "nelis_overview_digest"
     }
   ],
   "abstract_enrichment": {
-    "filled": 70,
+    "filled": 88,
     "failed": 0,
-    "updated_at": "2026-07-15T15:13:57.257902+00:00"
+    "updated_at": "2026-07-15T15:23:04.343027+00:00",
+    "note": "abstract = NELIS Overview digest (#digest), not search-list title"
   }
 }

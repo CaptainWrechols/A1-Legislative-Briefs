@@ -211,40 +211,52 @@ def collect_openstates(cfg: dict, cache: dict, searches: dict, refresh: bool, ap
 
 
 def merge(nelis: dict, openstates: dict) -> list[dict]:
+    """Prefer recall: keep every NELIS search hit for human review.
+
+    OpenStates-only additions still use the water-title helper (OpenStates
+    full-text search is noisier). Each bill is tagged with
+    passes_water_title_filter so reviewers can sort later.
+    """
     merged: dict[str, dict] = {}
     for bill in nelis.values():
-        if not is_water(bill.get("title", ""), bill.get("abstract", "")):
-            continue
         key = f"{bill['session']}:{bill['identifier']}"
+        title = bill.get("title") or ""
+        abstract = bill.get("abstract") or ""
         merged[key] = {
             "session": bill["session"],
             "identifier": bill["identifier"],
-            "title": bill["title"],
-            "abstract": bill.get("abstract") or "",
+            "title": title,
+            "abstract": abstract,
             "in_nelis": True,
             "in_openstates": False,
             "nelis_url": bill.get("source_url"),
             "openstates_url": None,
+            "passes_water_title_filter": is_water(title, abstract),
         }
     for bill in openstates.values():
-        if not is_water(bill.get("title", ""), bill.get("abstract", "")):
-            continue
         key = f"{bill['session']}:{bill['identifier']}"
+        title = bill.get("title") or ""
+        abstract = bill.get("abstract") or ""
+        waterish = is_water(title, abstract)
         if key in merged:
             merged[key]["in_openstates"] = True
             merged[key]["openstates_url"] = bill.get("openstates_url")
-            if not merged[key]["abstract"] and bill.get("abstract"):
-                merged[key]["abstract"] = bill["abstract"]
-        else:
+            if not merged[key]["abstract"] and abstract:
+                merged[key]["abstract"] = abstract
+            merged[key]["passes_water_title_filter"] = (
+                merged[key]["passes_water_title_filter"] or waterish
+            )
+        elif waterish:
             merged[key] = {
                 "session": bill["session"],
                 "identifier": bill["identifier"],
-                "title": bill["title"],
-                "abstract": bill.get("abstract") or "",
+                "title": title,
+                "abstract": abstract,
                 "in_nelis": False,
                 "in_openstates": True,
                 "nelis_url": None,
                 "openstates_url": bill.get("openstates_url"),
+                "passes_water_title_filter": True,
             }
     return sorted(merged.values(), key=lambda b: (b["session"], b["identifier"]))
 
@@ -282,18 +294,26 @@ def main() -> None:
     payload = {
         "pass": 1,
         "collected_at": now(),
+        "note": (
+            "All NELIS search hits are kept for human review. "
+            "passes_water_title_filter marks stricter title matches."
+        ),
         "counts": {
             "nelis_cached": len(nelis),
             "openstates_cached": len(openstates),
-            "merged_water": len(bills),
+            "merged_bills": len(bills),
+            "passes_water_title_filter": sum(
+                1 for b in bills if b.get("passes_water_title_filter")
+            ),
             "both_sources": sum(1 for b in bills if b["in_nelis"] and b["in_openstates"]),
         },
         "bills": bills,
     }
     save_json(OUT / "bills.json", payload)
     print(
-        f"Done: {payload['counts']['merged_water']} water bills "
-        f"({payload['counts']['both_sources']} in both) -> {OUT / 'bills.json'}"
+        f"Done: {payload['counts']['merged_bills']} bills "
+        f"({payload['counts']['passes_water_title_filter']} pass water-title filter; "
+        f"{payload['counts']['both_sources']} in both) -> {OUT / 'bills.json'}"
     )
 
 
