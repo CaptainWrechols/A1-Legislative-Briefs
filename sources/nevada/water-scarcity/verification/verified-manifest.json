@@ -1,0 +1,45 @@
+{
+  "issue_id": "nevada-04-water-scarcity",
+  "generated_at": "2026-07-16T20:19:17.604876+00:00",
+  "agent": "data-verifier",
+  "note": "Synthetic verified-manifest: classic manifest.json was absent; lists key Pass1/Pass2 artifacts.",
+  "verification_status": "PASS_WITH_WARNINGS",
+  "artifacts": [
+    {
+      "path": "pass1/bills.json",
+      "exists": true
+    },
+    {
+      "path": "processed/bills-core.json",
+      "exists": true
+    },
+    {
+      "path": "processed/bill-votes.json",
+      "exists": true
+    },
+    {
+      "path": "processed/bill-sponsors.json",
+      "exists": true
+    },
+    {
+      "path": "processed/bill-legislative-progress.json",
+      "exists": true
+    },
+    {
+      "path": "processed/bill-actions.json",
+      "exists": true
+    },
+    {
+      "path": "processed/bill-committee-votes.json",
+      "exists": true
+    },
+    {
+      "path": "processed/bill-text-changes.json",
+      "exists": true
+    },
+    {
+      "path": "processed/data-gaps.json",
+      "exists": true
+    }
+  ]
+}
