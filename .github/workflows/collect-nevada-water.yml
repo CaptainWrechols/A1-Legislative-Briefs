@@ -78,6 +78,13 @@ jobs:
           if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="$ARGS --refresh"; fi
           python collectors/pass2_committee_votes.py $ARGS
           python collectors/pass2_committee_yeas.py $ARGS
+
+      - name: Pass 2e — sponsors / co-sponsors
+        if: ${{ inputs.skip_pass2 != 'true' }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="$ARGS --refresh"; fi
+          python collectors/pass2_sponsors.py $ARGS
           python collectors/pass2_build_core.py
           python collectors/export_pass2_readable.py
 
