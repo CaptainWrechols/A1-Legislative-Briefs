@@ -57,7 +57,11 @@ NELIS Votes tab only has floor Final Passage. Committee work-session votes are i
 
 ```bash
 python collectors/pass2_committee_votes.py
+python collectors/pass2_committee_yeas.py   # infer Yeas = membership − Nay/Absent
 ```
+
+Nevada minutes usually list only NO/ABSENT. `pass2_committee_yeas.py` pulls each
+committee’s session roster from NELIS and marks remaining members as Yea.
 
 ### Readable review files (Word / Notes / PDF / Excel)
 

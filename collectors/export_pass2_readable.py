@@ -157,8 +157,8 @@ def write_votes_md(votes: list[dict]) -> None:
         f"Committee hearing / work-session events: **{len(committee)}**",
         "",
         "Floor votes come from the NELIS Votes tab (full Yea/Nay rolls).",
-        "Committee votes come from committee **minutes PDFs** (Nevada usually lists "
-        "only NO and ABSENT by name; unanimous passes may not list every Yea).",
+        "Committee votes come from committee **minutes PDFs** (NO/ABSENT by name) plus "
+        "inferred **Yea** votes = that committee’s session membership minus Nay/Absent.",
         "",
         "## Floor votes (Final Passage)",
         "",
@@ -189,6 +189,9 @@ def write_votes_md(votes: list[dict]) -> None:
         if vote.get("note"):
             lines.append(f"_{vote['note']}_")
             lines.append("")
+        if vote.get("yea_inference_note"):
+            lines.append(f"_{vote['yea_inference_note']}_")
+            lines.append("")
         by_option: dict[str, list[str]] = {}
         for ballot in vote.get("ballots") or []:
             option = (ballot.get("vote") or "other").title()
@@ -196,6 +199,8 @@ def write_votes_md(votes: list[dict]) -> None:
             label = ballot.get("name") or "—"
             if party:
                 label = f"{label} ({party[0] if party in {'Democratic', 'Republican'} else party})"
+            if ballot.get("inferred") and option == "Yea":
+                label = f"{label}*"
             by_option.setdefault(option, []).append(label)
         for option in ("Yea", "Nay", "Not Voting", "Absent", "Excused"):
             names = by_option.get(option) or []
