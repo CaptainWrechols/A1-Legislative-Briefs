@@ -1,24 +1,10 @@
 [
   {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "AB163",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "80",
     "bill_identifier": "AB163",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "AB233",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -35,13 +21,6 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "AB30",
-    "result": "partial",
-    "notes": "42/42 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "80",
     "bill_identifier": "AB30",
@@ -56,25 +35,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "AB62",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "80",
     "bill_identifier": "AB62",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "AB95",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -84,25 +49,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "SB140",
-    "result": "partial",
-    "notes": "62/62 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "80",
     "bill_identifier": "SB140",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "SB150",
-    "result": "partial",
-    "notes": "62/62 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -112,13 +63,6 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "SB232",
-    "result": "partial",
-    "notes": "62/62 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "80",
     "bill_identifier": "SB232",
@@ -126,25 +70,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "SB236",
-    "result": "partial",
-    "notes": "62/62 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "80",
     "bill_identifier": "SB236",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "SB250",
-    "result": "partial",
-    "notes": "62/62 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -159,13 +89,6 @@
     "bill_identifier": "SB423",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "SB433",
-    "result": "partial",
-    "notes": "62/62 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -189,13 +112,6 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "SB507",
-    "result": "partial",
-    "notes": "62/62 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "80",
     "bill_identifier": "SB507",
@@ -203,25 +119,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "SB509",
-    "result": "partial",
-    "notes": "62/62 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "80",
     "bill_identifier": "SB509",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "80",
-    "bill_identifier": "SB547",
-    "result": "partial",
-    "notes": "62/62 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -238,13 +140,6 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "81",
-    "bill_identifier": "AB146",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "81",
     "bill_identifier": "AB146",
@@ -257,13 +152,6 @@
     "bill_identifier": "AB15",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "81",
-    "bill_identifier": "AB333",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -280,25 +168,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "81",
-    "bill_identifier": "AB356",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "81",
     "bill_identifier": "AB356",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "81",
-    "bill_identifier": "AB465",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -315,13 +189,6 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "81",
-    "bill_identifier": "AB6",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "81",
     "bill_identifier": "AB6",
@@ -329,25 +196,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "81",
-    "bill_identifier": "AJR2",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "81",
     "bill_identifier": "AJR2",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "81",
-    "bill_identifier": "AJR3",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -371,13 +224,6 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "81",
-    "bill_identifier": "SB205",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "81",
     "bill_identifier": "SB205",
@@ -399,13 +245,6 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "81",
-    "bill_identifier": "SB33",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "81",
     "bill_identifier": "SB33",
@@ -413,25 +252,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "81",
-    "bill_identifier": "SB67",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "81",
     "bill_identifier": "SB67",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "81",
-    "bill_identifier": "SB98",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -455,25 +280,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "AB19",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "82",
     "bill_identifier": "AB19",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "AB191",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -483,25 +294,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "AB20",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "82",
     "bill_identifier": "AB20",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "AB220",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -511,25 +308,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "AB261",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "82",
     "bill_identifier": "AB261",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "AB263",
-    "result": "partial",
-    "notes": "42/42 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -546,13 +329,6 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "AB34",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "82",
     "bill_identifier": "AB34",
@@ -560,25 +336,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "AB387",
-    "result": "partial",
-    "notes": "42/42 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "82",
     "bill_identifier": "AB387",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "AB470",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -593,13 +355,6 @@
     "bill_identifier": "AB90",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "AB91",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -623,13 +378,6 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "SB113",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "82",
     "bill_identifier": "SB113",
@@ -644,25 +392,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "SB180",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "82",
     "bill_identifier": "SB180",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "SB258",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -672,25 +406,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "SB472",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "82",
     "bill_identifier": "SB472",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "SB473",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -700,25 +420,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "SB59",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "82",
     "bill_identifier": "SB59",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "82",
-    "bill_identifier": "SJR3",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -728,25 +434,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "83",
-    "bill_identifier": "AB10",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "83",
     "bill_identifier": "AB10",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "83",
-    "bill_identifier": "AB104",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -763,25 +455,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "83",
-    "bill_identifier": "AB110",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "83",
     "bill_identifier": "AB110",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "83",
-    "bill_identifier": "AB132",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -803,13 +481,6 @@
     "bill_identifier": "AB190",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "83",
-    "bill_identifier": "AB26",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -875,25 +546,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "83",
-    "bill_identifier": "SB108",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "83",
     "bill_identifier": "SB108",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "83",
-    "bill_identifier": "SB143",
-    "result": "partial",
-    "notes": "21/21 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -910,13 +567,6 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "83",
-    "bill_identifier": "SB276",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "83",
     "bill_identifier": "SB276",
@@ -924,25 +574,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "83",
-    "bill_identifier": "SB31",
-    "result": "partial",
-    "notes": "21/21 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "83",
     "bill_identifier": "SB31",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "83",
-    "bill_identifier": "SB324",
-    "result": "partial",
-    "notes": "21/21 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -959,25 +595,11 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "83",
-    "bill_identifier": "SB36",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "83",
     "bill_identifier": "SB36",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
-  },
-  {
-    "topic": "voter_party",
-    "session": "83",
-    "bill_identifier": "SB43",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
   },
   {
     "topic": "openstates_detail",
@@ -987,17 +609,16 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
-    "topic": "voter_party",
-    "session": "83",
-    "bill_identifier": "SB466",
-    "result": "partial",
-    "notes": "63/63 roll-call rows lack party (OpenStates missing or name mismatch)"
-  },
-  {
     "topic": "openstates_detail",
     "session": "83",
     "bill_identifier": "SB466",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "voter_party",
+    "session": "all",
+    "result": "complete",
+    "notes": "All roll-call voter names matched to a party via legislator roster"
   }
 ]

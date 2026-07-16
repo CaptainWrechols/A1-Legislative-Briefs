@@ -30,9 +30,24 @@ python collectors/pass2_bills.py --skip-openstates  # NELIS only
 Outputs under `sources/nevada/water-scarcity/processed/`:
 
 - `bill-legislative-progress.json` — committee/floor/crossover/enactment yes/no milestones
-- `bill-votes.json` — each vote with yea/nay voters; party when OpenStates matches
+- `bill-votes.json` — each vote with yea/nay voters and party
 - `bill-actions.json`, `bill-sponsors.json`, `data-gaps.json`
 
-Caches: `pass2/cache_nelis_pass2.json`, `pass2/cache_openstates_pass2.json`
+### Party affiliation (no OpenStates)
 
-Set `OPENSTATES_API_KEY` for voter party enrichment (recommended).
+```bash
+python collectors/pass2_party_roster.py   # scrape NELIS legislator directories (+ Ballotpedia fallback)
+python collectors/pass2_attach_party.py   # write party onto each ballot in bill-votes.json
+```
+
+### Readable review files (Word / Notes / PDF / Excel)
+
+```bash
+python collectors/export_pass2_readable.py
+```
+
+Creates `processed/readable/`:
+
+- `progress-readable.md` / `.csv` — milestone checklist per bill
+- `votes-readable.md` / `.csv` — roll calls with (D)/(R)
+- `pass2-readable.html` — open in a browser → Print → Save as PDF

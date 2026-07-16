@@ -51,12 +51,19 @@ jobs:
 
       - name: Pass 2 — votes, actions, progress (known bills only)
         if: ${{ inputs.skip_pass2 != 'true' }}
-        env:
-          OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
+        run: |
+          ARGS="--skip-openstates"
+          if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="$ARGS --refresh"; fi
+          python collectors/pass2_bills.py $ARGS
+
+      - name: Pass 2b — legislator party roster + attach to roll calls
+        if: ${{ inputs.skip_pass2 != 'true' }}
         run: |
           ARGS=""
           if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="$ARGS --refresh"; fi
-          python collectors/pass2_bills.py $ARGS
+          python collectors/pass2_party_roster.py $ARGS --skip-ballotpedia
+          python collectors/pass2_attach_party.py
+          python collectors/export_pass2_readable.py
 
       - name: Upload Pass 1 data
         if: always()
