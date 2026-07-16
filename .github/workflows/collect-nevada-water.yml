@@ -63,6 +63,21 @@ jobs:
           if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="$ARGS --refresh"; fi
           python collectors/pass2_party_roster.py $ARGS --skip-ballotpedia
           python collectors/pass2_attach_party.py
+
+      - name: Pass 2c — introduced vs enrolled text (Governor-bound)
+        if: ${{ inputs.skip_pass2 != 'true' }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="$ARGS --refresh"; fi
+          python collectors/pass2_text_diff.py $ARGS
+
+      - name: Pass 2d — committee votes from minutes
+        if: ${{ inputs.skip_pass2 != 'true' }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="$ARGS --refresh"; fi
+          python collectors/pass2_committee_votes.py $ARGS
+          python collectors/pass2_build_core.py
           python collectors/export_pass2_readable.py
 
       - name: Upload Pass 1 data
