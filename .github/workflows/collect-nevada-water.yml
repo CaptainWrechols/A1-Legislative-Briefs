@@ -77,6 +77,7 @@ jobs:
           ARGS=""
           if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="$ARGS --refresh"; fi
           python collectors/pass2_committee_votes.py $ARGS
+          python collectors/pass2_committee_yeas.py $ARGS
           python collectors/pass2_build_core.py
           python collectors/export_pass2_readable.py
 

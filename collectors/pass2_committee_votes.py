@@ -244,31 +244,55 @@ def parse_committee_vote_from_minutes(text: str, identifier: str) -> dict | None
     if not patterns:
         return None
 
-    # Normalize whitespace for regex windows
     flat = re.sub(r"[ \t]+", " ", text)
-    # Find windows that mention the bill and a motion result nearby
-    hits = []
-    for pat in patterns:
-        for match in pat.finditer(flat):
-            start = max(0, match.start() - 400)
-            end = min(len(flat), match.end() + 1200)
-            hits.append(flat[start:end])
-    if not hits:
+    m = re.match(r"([A-Z]+)(\d+)", identifier or "")
+    if not m:
+        return None
+    prefix, num = m.group(1), m.group(2)
+
+    # Prefer the work-session section for this bill, cut off before the next bill.
+    start_pat = re.compile(
+        rf"(?:work session on|open(?:ing)? the work session on|ASSEMBLY BILL|SENATE BILL|A\.B\.|S\.B\.)\s*"
+        rf"(?:\(?\d+(?:st|nd|rd|th)\s+Reprint\)?\s*)?"
+        rf"(?:{prefix}\s*{num}|{prefix[0]}\.?B\.?\s*{num}|{'Assembly' if prefix.startswith('A') else 'Senate'}\s+Bill\s*{num})\b",
+        re.I,
+    )
+    starts = [match.start() for match in start_pat.finditer(flat)]
+    if not starts:
+        starts = [match.start() for pat in patterns for match in pat.finditer(flat)]
+    if not starts:
         return None
 
-    # Prefer a window containing MOTION PASSED/FAILED near the bill
+    # Cut the segment before the next bill / separator so we don't steal another vote.
+    boundary = re.compile(
+        rf"(?:\* \* \* \* \*|work session on (?:A\.B\.|S\.B\.|Assembly Bill|Senate Bill)\s*(?!{num}\b)|"
+        rf"(?:ASSEMBLY BILL|SENATE BILL)\s+(?!{num}\b)\d+)",
+        re.I,
+    )
+
+    segments = []
+    for start in starts:
+        end_match = boundary.search(flat, pos=start + 20)
+        end = end_match.start() if end_match else min(len(flat), start + 5000)
+        segments.append(flat[start:end])
+
+    # Prefer segment that contains a completed motion result.
     window = None
-    for hit in hits:
-        if re.search(r"THE MOTION (PASSED|FAILED|WAS)", hit, re.I):
-            window = hit
+    for segment in segments:
+        if re.search(
+            r"THE MOTION (PASSED|CARRIED|FAILED)|MOTION PASSED UNANIMOUSLY|MOTION CARRIED UNANIMOUSLY",
+            segment,
+            re.I,
+        ):
+            window = segment
             break
     if not window:
-        window = hits[0]
+        window = max(segments, key=len)
 
     result = None
-    if re.search(r"MOTION PASSED UNANIMOUSLY", window, re.I):
+    if re.search(r"MOTION (PASSED|CARRIED) UNANIMOUSLY", window, re.I):
         result = "pass_unanimous"
-    elif re.search(r"THE MOTION PASSED", window, re.I):
+    elif re.search(r"THE MOTION (PASSED|CARRIED)", window, re.I):
         result = "pass"
     elif re.search(r"THE MOTION FAILED", window, re.I):
         result = "fail"
@@ -279,29 +303,37 @@ def parse_committee_vote_from_minutes(text: str, identifier: str) -> dict | None
 
     nay: list[str] = []
     absent: list[str] = []
-    nay_match = re.search(
-        r"\(([^)]*?)\s+VOTED NO\.?\s*([^)]*)\)",
+    # Capture the parenthetical immediately after the motion result for THIS segment.
+    result_match = re.search(
+        r"THE MOTION (?:PASSED|CARRIED|FAILED)(?:\s+UNANIMOUSLY)?\.?\s*(\([^)]*\))?",
         window,
-        flags=re.I | re.S,
+        flags=re.I,
     )
-    if nay_match:
-        nay = extract_names_list(nay_match.group(1))
-        absent_part = nay_match.group(2) or ""
-        abs_match = re.search(
-            r"((?:ASSEMBLYMEN|ASSEMBLYWOM[AE]N|ASSEMBLYMEMBERS|SENATORS).+?)\s+(?:WAS|WERE)\s+ABSENT",
-            absent_part,
-            flags=re.I,
-        )
-        if abs_match:
-            absent = extract_names_list(abs_match.group(1))
-    else:
-        abs_only = re.search(
-            r"\(((?:ASSEMBLYMEN|ASSEMBLYWOM[AE]N|ASSEMBLYMEMBERS|SENATORS).+?)\s+(?:WAS|WERE)\s+ABSENT[^)]*\)",
-            window,
+    paren = result_match.group(1) if result_match and result_match.group(1) else ""
+    if paren:
+        nay_match = re.search(
+            r"\(([^)]*?)\s+VOTED NO\.?\s*([^)]*)\)",
+            paren,
             flags=re.I | re.S,
         )
-        if abs_only:
-            absent = extract_names_list(abs_only.group(1))
+        if nay_match:
+            nay = extract_names_list(nay_match.group(1))
+            absent_part = nay_match.group(2) or ""
+            abs_match = re.search(
+                r"((?:ASSEMBLYMEN|ASSEMBLYWOM[AE]N|ASSEMBLYMEMBERS|SENATORS).+?)\s+(?:WAS|WERE)\s+ABSENT",
+                absent_part,
+                flags=re.I,
+            )
+            if abs_match:
+                absent = extract_names_list(abs_match.group(1))
+        else:
+            abs_only = re.search(
+                r"\(((?:ASSEMBLYMEN|ASSEMBLYWOM[AE]N|ASSEMBLYMEMBERS|SENATORS).+?)\s+(?:WAS|WERE)\s+ABSENT[^)]*\)",
+                paren,
+                flags=re.I | re.S,
+            )
+            if abs_only:
+                absent = extract_names_list(abs_only.group(1))
 
     motion = None
     motion_match = re.search(
@@ -317,7 +349,7 @@ def parse_committee_vote_from_minutes(text: str, identifier: str) -> dict | None
         "motion": motion,
         "nay_voters": nay,
         "absent": absent,
-        "excerpt": clean(window)[:900],
+        "excerpt": clean(window)[:1100],
     }
 
 
