@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .venv/
 *.egg-info/
+
+# Local bill PDF downloads (summaries + official URLs are committed)
+sources/nevada/water-scarcity/raw/bill-text/

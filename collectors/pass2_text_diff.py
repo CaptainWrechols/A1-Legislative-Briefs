@@ -201,13 +201,36 @@ def extract_counsel_digest(text: str) -> str:
     return ""
 
 
-def summarize_diff(introduced: str, enrolled: str, max_chunks: int = 8) -> dict:
-    intro_n = normalize_for_compare(introduced)
-    enrol_n = normalize_for_compare(enrolled)
+def strip_bill_boilerplate(text: str) -> str:
+    """Keep substance; drop cover pages / digest wrappers that differ by format."""
+    # Prefer body after "THE PEOPLE OF THE STATE OF NEVADA"
+    match = re.search(
+        r"THE PEOPLE OF THE STATE OF NEVADA[, ]+REPRESENTED IN SENATE AND ASSEMBLY[, ]+DO ENACT AS FOLLOWS[:.]?\s*(.*)",
+        text,
+        flags=re.I | re.S,
+    )
+    if match:
+        return match.group(1)
+    # Fallback: drop common front-matter markers
+    text = re.sub(r"(?is)^.*?SUMMARY\s*[—\-].*?(?=Section\s+1\.|Sec\.\s*1\.|THE PEOPLE)", "", text)
+    return text
+
+
+def summarize_diff(
+    introduced: str,
+    enrolled: str,
+    *,
+    amendments_listed: list[str] | None = None,
+    max_chunks: int = 8,
+) -> dict:
+    intro_body = strip_bill_boilerplate(introduced)
+    enrol_body = strip_bill_boilerplate(enrolled)
+    intro_n = normalize_for_compare(intro_body)
+    enrol_n = normalize_for_compare(enrol_body)
     ratio = difflib.SequenceMatcher(None, intro_n, enrol_n).ratio() if intro_n and enrol_n else 0.0
 
-    intro_lines = [ln.strip() for ln in introduced.splitlines() if ln.strip()]
-    enrol_lines = [ln.strip() for ln in enrolled.splitlines() if ln.strip()]
+    intro_lines = [ln.strip() for ln in intro_body.splitlines() if ln.strip()]
+    enrol_lines = [ln.strip() for ln in enrol_body.splitlines() if ln.strip()]
     matcher = difflib.SequenceMatcher(None, intro_lines, enrol_lines)
     added: list[str] = []
     removed: list[str] = []
@@ -230,31 +253,51 @@ def summarize_diff(introduced: str, enrolled: str, max_chunks: int = 8) -> dict:
         if len(added) >= max_chunks and len(removed) >= max_chunks:
             break
 
-    # Prefer counsel digest / act clause as the "what changed" narrative anchors.
     intro_summary = extract_summary(introduced)
     enrol_act = extract_act_clause(enrolled)
     enrol_digest = extract_counsel_digest(enrolled)
+    amendments_listed = amendments_listed or []
 
-    if ratio >= 0.97 and not added and not removed:
-        narrative = (
-            "Enrolled text is essentially the same as the introduced bill "
-            "(no meaningful textual differences detected beyond formatting)."
-        )
-        was_amended = False
-    elif ratio >= 0.90:
-        narrative = (
-            "The enrolled bill is close to the introduced version, with limited textual changes."
-        )
+    # Prefer official amendment list; use body similarity only as backup.
+    if amendments_listed:
         was_amended = True
+        amendment_note = f"NELIS lists adopted amendments: {', '.join(amendments_listed)}."
+    elif ratio >= 0.93:
+        was_amended = False
+        amendment_note = "No amendments listed on NELIS; enacting body text is nearly identical."
+    elif ratio >= 0.80:
+        was_amended = True
+        amendment_note = (
+            "No amendments listed on NELIS, but the enacting body text differs enough "
+            "to suggest changes before enrollment."
+        )
+    else:
+        was_amended = True
+        amendment_note = (
+            "No amendments listed on NELIS; enrolled enacting body differs substantially "
+            "from the introduced body (or PDF extraction differs)."
+        )
+
+    if not was_amended:
+        narrative = (
+            "Enrolled substance matches the introduced bill. "
+            + amendment_note
+        )
+    elif ratio >= 0.85:
+        narrative = (
+            "The enrolled bill is close to the introduced version, with limited changes. "
+            + amendment_note
+        )
     else:
         narrative = (
-            "The enrolled bill differs substantially from the introduced version "
-            "(amendments appear to have changed the text before it reached the Governor)."
+            "The enrolled bill differs from the introduced version before it reached "
+            "the Governor. "
+            + amendment_note
         )
-        was_amended = True
 
     return {
         "similarity_ratio": round(ratio, 4),
+        "body_similarity_ratio": round(ratio, 4),
         "was_textually_amended": was_amended,
         "narrative": narrative,
         "introduced_summary": intro_summary,
@@ -303,7 +346,23 @@ def process_bill(
     )
     intro_text = pdf_text(intro_bytes)
     enrol_text = pdf_text(enrol_bytes)
-    summary = summarize_diff(intro_text, enrol_text)
+    summary = summarize_diff(
+        intro_text, enrol_text, amendments_listed=amendments
+    )
+    # If NELIS only published Introduced + Enrolled (no reprints/amendment PDFs),
+    # treat as not amended even when PDF formatting makes text similarity look low.
+    labels = {(d.get("label") or "").lower() for d in docs}
+    has_middle_versions = any(
+        "reprint" in label or label.startswith("amendment") for label in labels
+    )
+    if not amendments and not has_middle_versions:
+        summary["was_textually_amended"] = False
+        summary["narrative"] = (
+            "No amendments or reprints appear on NELIS for this bill. "
+            "The enrolled PDF may look different from the introduced PDF due to "
+            "formatting, but there is no evidence the substance was amended before "
+            "it reached the Governor."
+        )
 
     row = {
         "session": progress_row["session"],
