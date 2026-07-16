@@ -21,6 +21,7 @@ PASS1 = Path("sources/nevada/water-scarcity/pass1/bills.json")
 PROCESSED = Path("sources/nevada/water-scarcity/processed")
 PROGRESS = PROCESSED / "bill-legislative-progress.json"
 TEXT_CHANGES = PROCESSED / "bill-text-changes.json"
+SPONSORS = PROCESSED / "bill-sponsors.json"
 OUT = PROCESSED / "bills-core.json"
 
 
@@ -44,6 +45,18 @@ def main() -> None:
         f"{r['session']}:{r['bill_identifier']}": r
         for r in (text_payload.get("bills") or [])
     }
+    sponsors_by_key: dict[str, list[dict]] = {}
+    for row in load_json(SPONSORS, []):
+        key = f"{row['session']}:{row['bill_identifier']}"
+        sponsors_by_key.setdefault(key, []).append(
+            {
+                "name": row.get("name"),
+                "classification": row.get("classification"),
+                "primary": bool(row.get("primary")),
+                "party": row.get("party"),
+                "entity_type": row.get("entity_type"),
+            }
+        )
 
     core = []
     for bill in bills:
@@ -51,6 +64,7 @@ def main() -> None:
         prog = progress.get(key) or {}
         text = text_by_key.get(key)
         milestones = prog.get("milestones") or {}
+        sponsors = sponsors_by_key.get(key) or []
         core.append(
             {
                 "session": bill["session"],
@@ -60,6 +74,13 @@ def main() -> None:
                 "abstract": bill.get("abstract"),
                 "abstract_source": bill.get("abstract_source"),
                 "what_the_bill_does": bill.get("abstract"),
+                "primary_sponsors": [
+                    s for s in sponsors if s.get("classification") == "primary"
+                ],
+                "co_sponsors": [
+                    s for s in sponsors if s.get("classification") == "cosponsor"
+                ],
+                "sponsors": sponsors,
                 "final_disposition": prog.get("final_disposition"),
                 "most_recent_action": prog.get("most_recent_action"),
                 "origin_chamber_label": prog.get("origin_chamber_label"),

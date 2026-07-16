@@ -371,6 +371,39 @@ def write_core_md(core_bills: list[dict]) -> None:
                 f"- **Disposition:** {bill.get('final_disposition') or '—'}",
                 f"- **Latest action:** {bill.get('most_recent_action') or '—'}",
                 "",
+                "### Sponsors",
+                "",
+            ]
+        )
+        primaries = bill.get("primary_sponsors") or [
+            s for s in (bill.get("sponsors") or []) if s.get("classification") == "primary"
+        ]
+        cos = bill.get("co_sponsors") or [
+            s for s in (bill.get("sponsors") or []) if s.get("classification") == "cosponsor"
+        ]
+        if primaries:
+            lines.append(
+                "- **Primary:** "
+                + "; ".join(
+                    f"{s.get('name')}" + (f" ({s['party']})" if s.get("party") else "")
+                    for s in primaries
+                )
+            )
+        else:
+            lines.append("- **Primary:** —")
+        if cos:
+            lines.append(
+                "- **Co-sponsors:** "
+                + "; ".join(
+                    f"{s.get('name')}" + (f" ({s['party']})" if s.get("party") else "")
+                    for s in cos
+                )
+            )
+        else:
+            lines.append("- **Co-sponsors:** —")
+        lines.extend(
+            [
+                "",
                 "### What the bill does (NELIS digest)",
                 "",
                 (bill.get("abstract") or bill.get("what_the_bill_does") or "_(no abstract)_").strip(),
@@ -433,11 +466,20 @@ def write_core_md(core_bills: list[dict]) -> None:
     print(f"Wrote {path}")
 
 
+def _format_sponsor_list(sponsors: list[dict]) -> str:
+    return "; ".join(
+        f"{s.get('name')}" + (f" ({s['party']})" if s.get("party") else "")
+        for s in sponsors
+    )
+
+
 def write_core_csv(core_bills: list[dict]) -> None:
     fields = [
         "session",
         "identifier",
         "title",
+        "primary_sponsors",
+        "co_sponsors",
         "abstract",
         "final_disposition",
         "most_recent_action",
@@ -456,11 +498,23 @@ def write_core_csv(core_bills: list[dict]) -> None:
         for bill in core_bills:
             text = bill.get("text_changes") or {}
             m = bill.get("milestones") or {}
+            primaries = bill.get("primary_sponsors") or [
+                s
+                for s in (bill.get("sponsors") or [])
+                if s.get("classification") == "primary"
+            ]
+            cos = bill.get("co_sponsors") or [
+                s
+                for s in (bill.get("sponsors") or [])
+                if s.get("classification") == "cosponsor"
+            ]
             writer.writerow(
                 {
                     "session": bill.get("session"),
                     "identifier": bill.get("identifier"),
                     "title": bill.get("title"),
+                    "primary_sponsors": _format_sponsor_list(primaries),
+                    "co_sponsors": _format_sponsor_list(cos),
                     "abstract": bill.get("abstract"),
                     "final_disposition": bill.get("final_disposition"),
                     "most_recent_action": bill.get("most_recent_action"),
@@ -558,6 +612,19 @@ def write_core_html(core_bills: list[dict]) -> None:
             f"<span class='{'yes' if m.get('signed_into_law') else 'no'}'>"
             f"{yn(bool(m.get('signed_into_law')))}</span></p>"
         )
+        primaries = bill.get("primary_sponsors") or [
+            s for s in (bill.get("sponsors") or []) if s.get("classification") == "primary"
+        ]
+        cos = bill.get("co_sponsors") or [
+            s for s in (bill.get("sponsors") or []) if s.get("classification") == "cosponsor"
+        ]
+        parts.append("<h3>Sponsors</h3>")
+        parts.append(
+            "<p class='meta'><strong>Primary:</strong> "
+            f"{html.escape(_format_sponsor_list(primaries) or '—')}<br>"
+            "<strong>Co-sponsors:</strong> "
+            f"{html.escape(_format_sponsor_list(cos) or '—')}</p>"
+        )
         parts.append("<h3>What the bill does</h3>")
         parts.append(
             f"<p class='abstract'>{html.escape((bill.get('abstract') or '—').strip())}</p>"
@@ -581,6 +648,73 @@ def write_core_html(core_bills: list[dict]) -> None:
     print(f"Wrote {path}")
 
 
+def write_sponsors_md(sponsors: list[dict], core_bills: list[dict]) -> None:
+    by_bill: dict[str, list[dict]] = {}
+    for row in sponsors:
+        key = f"{row.get('session')}:{row.get('bill_identifier')}"
+        by_bill.setdefault(key, []).append(row)
+    title_by_key = {
+        f"{b.get('session')}:{b.get('identifier')}": b.get("title") or ""
+        for b in core_bills
+    }
+    lines = [
+        "# Nevada water bills — sponsors and co-sponsors",
+        "",
+        f"Bills with sponsor rows: **{len(by_bill)}**",
+        "",
+    ]
+    for i, key in enumerate(sorted(by_bill), start=1):
+        rows = by_bill[key]
+        primaries = [r for r in rows if r.get("classification") == "primary"]
+        cos = [r for r in rows if r.get("classification") == "cosponsor"]
+        lines.extend(
+            [
+                f"## {i}. {key}",
+                "",
+                f"- **Title:** {title_by_key.get(key) or '—'}",
+                "",
+                "### Primary sponsors",
+                "",
+            ]
+        )
+        if primaries:
+            for r in primaries:
+                party = f" ({r['party']})" if r.get("party") else ""
+                lines.append(f"- {r.get('name')}{party}")
+        else:
+            lines.append("- —")
+        lines.extend(["", "### Co-sponsors", ""])
+        if cos:
+            for r in cos:
+                party = f" ({r['party']})" if r.get("party") else ""
+                lines.append(f"- {r.get('name')}{party}")
+        else:
+            lines.append("- —")
+        lines.extend(["", "---", ""])
+    path = OUT / "sponsors-readable.md"
+    path.write_text("\n".join(lines), encoding="utf-8")
+    print(f"Wrote {path}")
+
+
+def write_sponsors_csv(sponsors: list[dict]) -> None:
+    path = OUT / "sponsors-readable.csv"
+    fields = [
+        "session",
+        "bill_identifier",
+        "classification",
+        "name",
+        "party",
+        "entity_type",
+        "source_url",
+    ]
+    with path.open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fields, extrasaction="ignore")
+        writer.writeheader()
+        for row in sponsors:
+            writer.writerow({k: row.get(k, "") for k in fields})
+    print(f"Wrote {path}")
+
+
 def write_readme() -> None:
     text = """# Pass 2 readable exports
 
@@ -591,19 +725,21 @@ These files are the human-friendly view of the Nevada water bill dataset.
 1. `bills-core-readable.html` — open in a browser (Print → Save as PDF)
 2. `bills-core-readable.md` — open in Word / Notes
 3. `progress-readable.md` — milestones **plus full abstracts**
-4. `votes-readable.md` — floor Final Passage rolls **and** committee work-session votes
-5. `text-changes-readable.md` — introduced vs enrolled (Governor-bound only)
+4. `sponsors-readable.md` / `.csv` — primary sponsors and co-sponsors
+5. `votes-readable.md` — floor Final Passage rolls **and** committee work-session votes
+6. `text-changes-readable.md` — introduced vs enrolled (Governor-bound only)
 
 ## Machine JSON (same folder’s parent)
 
-- `../bills-core.json` — title + abstract + progress + text changes
+- `../bills-core.json` — title + abstract + sponsors + progress + text changes
+- `../bill-sponsors.json` — primary / co-sponsor rows
 - `../bill-votes.json` — floor + committee vote events
 - `../bill-committee-votes.json` — committee-only extract
 - `../bill-text-changes.json` — introduced vs enrolled summaries
 
-## GitHub path (PR branch)
+## GitHub path
 
-`sources/nevada/water-scarcity/processed/readable/` on branch `cursor/pass2-bill-progress-a39c`
+`sources/nevada/water-scarcity/processed/readable/` on branch `main`
 """
     path = OUT / "README.md"
     path.write_text(text, encoding="utf-8")
@@ -638,6 +774,11 @@ def main() -> None:
         write_core_md(core_bills)
         write_core_csv(core_bills)
         write_core_html(core_bills)
+
+    sponsors = load(PROCESSED / "bill-sponsors.json")
+    if sponsors:
+        write_sponsors_md(sponsors, core_bills)
+        write_sponsors_csv(sponsors)
 
     text_payload = load_obj(TEXT_CHANGES)
     if text_payload.get("bills"):

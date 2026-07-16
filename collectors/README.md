@@ -51,6 +51,14 @@ Compares **As Introduced** vs **As Enrolled** PDFs for bills that went to the Go
 Writes `processed/bill-text-changes.json` and merges abstracts + progress into
 `processed/bills-core.json`.
 
+### Sponsors / co-sponsors
+
+```bash
+python collectors/pass2_sponsors.py
+```
+
+Writes `processed/bill-sponsors.json` (primary vs cosponsor, with party when matched).
+
 ### Committee votes (from minutes PDFs)
 
 NELIS Votes tab only has floor Final Passage. Committee work-session votes are in minutes:
