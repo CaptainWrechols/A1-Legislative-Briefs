@@ -16,3 +16,38 @@ python collectors/enrich_abstracts.py
 ```
 
 Uses each bill’s NELIS Overview page and writes the real **digest** into `abstract`. Cached in `pass1/cache_abstracts.json`.
+
+## Pass 2 — votes, actions, progress (known bills only)
+
+Only enriches bills already listed in `pass1/bills.json` (no new discovery).
+
+```bash
+python collectors/pass2_bills.py
+python collectors/pass2_bills.py --limit 5          # smoke test
+python collectors/pass2_bills.py --skip-openstates  # NELIS only
+```
+
+Outputs under `sources/nevada/water-scarcity/processed/`:
+
+- `bill-legislative-progress.json` — committee/floor/crossover/enactment yes/no milestones
+- `bill-votes.json` — each vote with yea/nay voters and party
+- `bill-actions.json`, `bill-sponsors.json`, `data-gaps.json`
+
+### Party affiliation (no OpenStates)
+
+```bash
+python collectors/pass2_party_roster.py   # scrape NELIS legislator directories (+ Ballotpedia fallback)
+python collectors/pass2_attach_party.py   # write party onto each ballot in bill-votes.json
+```
+
+### Readable review files (Word / Notes / PDF / Excel)
+
+```bash
+python collectors/export_pass2_readable.py
+```
+
+Creates `processed/readable/`:
+
+- `progress-readable.md` / `.csv` — milestone checklist per bill
+- `votes-readable.md` / `.csv` — roll calls with (D)/(R)
+- `pass2-readable.html` — open in a browser → Print → Save as PDF

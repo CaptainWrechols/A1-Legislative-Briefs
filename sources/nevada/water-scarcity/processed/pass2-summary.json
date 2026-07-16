@@ -1,0 +1,22 @@
+{
+  "pass": 2,
+  "collected_at": "2026-07-15T20:37:58.866932+00:00",
+  "bill_count": 88,
+  "action_rows": 861,
+  "sponsor_rows": 155,
+  "vote_events": 104,
+  "openstates_found": 0,
+  "nelis_failures": [],
+  "openstates_failures": [],
+  "skip_votes": false,
+  "note": "Scoped to pass1/bills.json only. NELIS provides roll-call names; OpenStates provides voter party when the bill exists and names match.",
+  "party_enrichment": {
+    "updated_at": "2026-07-16T14:00:46.645968+00:00",
+    "ballot_rows": 3267,
+    "ballot_rows_with_party": 3267,
+    "coverage_pct": 100.0,
+    "sponsor_rows_filled": 0,
+    "unmatched_unique_names": [],
+    "method": "nelis_legislator_directory_plus_ballotpedia_fallback"
+  }
+}

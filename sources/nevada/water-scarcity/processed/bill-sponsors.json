@@ -1,0 +1,1552 @@
+[
+  {
+    "session": "80",
+    "bill_identifier": "AB163",
+    "name": "Assemblyman Howard Watts",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB163",
+    "name": "Senator Chris Brooks",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB163",
+    "name": "Assemblywoman Lesley Cohen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB163",
+    "name": "Assemblywoman Rochelle Nguyen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB163",
+    "name": "Assemblywoman Sarah Peters",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB233",
+    "name": "Assemblyman Al Kramer",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB233",
+    "name": "Assemblywoman Melissa Hardy",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB233",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB233",
+    "name": "Senator David Parks",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB233",
+    "name": "Assemblyman Gregory Hafen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB265",
+    "name": "Assemblywoman Sarah Peters",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB265",
+    "name": "Assemblywoman Heidi Swank",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB265",
+    "name": "Assemblyman Howard Watts",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB265",
+    "name": "Senator Chris Brooks",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB265",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB30",
+    "name": "Assembly Committee on Natural Resources, Agriculture, and Mining",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB51",
+    "name": "Assembly Committee on Natural Resources, Agriculture, and Mining",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB62",
+    "name": "Assembly Committee on Natural Resources, Agriculture, and Mining",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB95",
+    "name": "Assembly Committee on Natural Resources, Agriculture, and Mining",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB140",
+    "name": "Senate Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB150",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB150",
+    "name": "Senator James Settelmeyer",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB150",
+    "name": "Senator Joseph Hardy",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB150",
+    "name": "Assemblyman John Ellison",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB150",
+    "name": "Senator Ira Hansen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB232",
+    "name": "Senator James Settelmeyer",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB236",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB236",
+    "name": "Senator Chris Brooks",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB236",
+    "name": "Senator Ira Hansen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB250",
+    "name": "Senator James Settelmeyer",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB250",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB250",
+    "name": "Senator Joseph Hardy",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB250",
+    "name": "Senator Ira Hansen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB250",
+    "name": "Senator Heidi Seevers Gansert",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB423",
+    "name": "Senator James Ohrenschall",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB433",
+    "name": "Senate Committee on Judiciary",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB47",
+    "name": "Senate Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB499",
+    "name": "Senate Committee on Finance",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB507",
+    "name": "Senate Committee on Finance",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB509",
+    "name": "Senate Committee on Finance",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB547",
+    "name": "Senator Chris Brooks",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB547",
+    "name": "Senator Nicole Cannizzaro",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB547",
+    "name": "Senator Pat Spearman",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB547",
+    "name": "Senator Yvanna Cancela",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB547",
+    "name": "Senator David Parks",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB547",
+    "name": "Assemblyman Jason Frierson",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB547",
+    "name": "Assemblywoman Daniele Monroe-Moreno",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB76",
+    "name": "Senate Committee on Growth and Infrastructure",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB146",
+    "name": "Assemblywoman Sarah Peters",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB15",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB333",
+    "name": "Assemblywoman Lisa Krasner",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB333",
+    "name": "Assemblyman Tom Roberts",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB333",
+    "name": "Assemblyman John Ellison",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB333",
+    "name": "Assemblywoman Melissa Hardy",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB333",
+    "name": "Assemblyman Philip P.K. O\u2019Neill",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB354",
+    "name": "Assembly Committee on Ways and Means",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB356",
+    "name": "Assembly Committee on Ways and Means",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB465",
+    "name": "Assembly Committee on Ways and Means",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB5",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB6",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AJR2",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AJR3",
+    "name": "Assemblywoman Cecelia Gonz\u00e1lez",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AJR3",
+    "name": "Assemblyman Howard Watts",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AJR3",
+    "name": "Assemblyman Steve Yeager",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AJR3",
+    "name": "Assemblywoman Lesley Cohen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AJR3",
+    "name": "Assemblywoman Natha Anderson",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB149",
+    "name": "Senate Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB155",
+    "name": "Senate Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB205",
+    "name": "Senator Moises Denis",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB216",
+    "name": "Senator Scott Hammond",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB216",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB216",
+    "name": "Senator Keith Pickard",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB216",
+    "name": "Senator Joseph Hardy",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB216",
+    "name": "Senator James Settelmeyer",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB238",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB33",
+    "name": "Senate Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB67",
+    "name": "Senate Committee on Government Affairs",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB98",
+    "name": "Senator James Settelmeyer",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB98",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB98",
+    "name": "Assemblyman Jim Wheeler",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB98",
+    "name": "Senator Carrie Buck",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB98",
+    "name": "Senator Ben Kieckhefer",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SJR1",
+    "name": "Senate Committee on Judiciary",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB186",
+    "name": "Assemblywoman Heidi Kasama",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB19",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB191",
+    "name": "Assemblyman Rich DeLong",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB191",
+    "name": "Assemblywoman Jill Dickman",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB191",
+    "name": "Assemblywoman Danielle Gallant",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB191",
+    "name": "Assemblyman Bert Gurr",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB20",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB220",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB261",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB263",
+    "name": "Assemblyman Howard Watts",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB325",
+    "name": "Assemblyman Philip PK O\u2019Neill",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB34",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB387",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB470",
+    "name": "Assembly Committee on Ways and Means",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB90",
+    "name": "Assemblyman Bert Gurr",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB91",
+    "name": "Assemblyman Rich DeLong",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB102",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB112",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB112",
+    "name": "Senator Robin Titus",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB113",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB113",
+    "name": "Senator Robin Titus",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB113",
+    "name": "Senator Carrie Buck",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB113",
+    "name": "Senator Ira Hansen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB113",
+    "name": "Senator Jeff Stone",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB176",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB180",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB258",
+    "name": "Senator James Ohrenschall",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB472",
+    "name": "Senate Committee on Finance",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB473",
+    "name": "Senate Committee on Finance",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB59",
+    "name": "Senate Committee on Growth and Infrastructure",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SJR3",
+    "name": "Senate Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB10",
+    "name": "Assembly Committee on Government Affairs",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB104",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB109",
+    "name": "Assemblymember Selena La Rue Hatch",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB110",
+    "name": "Assemblymember Danielle Gallant",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB110",
+    "name": "Senator Jeff Stone",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB132",
+    "name": "Assemblymember Toby Yurek",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB134",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB190",
+    "name": "Assemblymember Bert Gurr",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB26",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB265",
+    "name": "Assemblymember Bert Gurr",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB265",
+    "name": "Assemblymember Rich DeLong",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB265",
+    "name": "Assemblymember Heidi Kasama",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB312",
+    "name": "Assemblymember Rich DeLong",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB363",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB385",
+    "name": "Assemblymember Lisa Cole",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB419",
+    "name": "Assemblymember Rich DeLong",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB419",
+    "name": "Assemblymember Lisa Cole",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB419",
+    "name": "Assemblymember Bert Gurr",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB419",
+    "name": "Assemblymember Jill Dickman",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB419",
+    "name": "Assemblymember PK O\u2019Neill",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB456",
+    "name": "Assemblymember Cinthia Zerme\u00f1o Moore",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB456",
+    "name": "Assemblymember Venicia Considine",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB485",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB9",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB108",
+    "name": "Senator Robin Titus",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB143",
+    "name": "Senator Rochelle Nguyen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB159",
+    "name": "Senator Edgar Flores",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB276",
+    "name": "Senator Ira Hansen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB276",
+    "name": "Senator Edgar Flores",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB276",
+    "name": "Senator Carrie Ann Buck",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB276",
+    "name": "Senator Lisa Krasner",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB276",
+    "name": "Senator Jeff Stone",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB276",
+    "name": "Assemblymember Howard Watts",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB276",
+    "name": "Assemblymember PK O\u2019Neill",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB31",
+    "name": "Senate Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB324",
+    "name": "Senator Melanie Scheible",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB324",
+    "name": "Senator Rochelle Nguyen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB342",
+    "name": "Senator James Ohrenschall",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB36",
+    "name": "Senate Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB43",
+    "name": "Senate Committee on Health and Human Services",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB466",
+    "name": "Senate Committee on Finance",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  }
+]

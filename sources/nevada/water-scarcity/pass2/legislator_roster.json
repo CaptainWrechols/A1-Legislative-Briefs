@@ -1,0 +1,4298 @@
+{
+  "collected_at": "2026-07-16T14:00:46.451826+00:00",
+  "source_note": "Primary: NELIS legislator directory (Assembly/Senate per session). Fallback: Ballotpedia election pages for leftover names.",
+  "member_count": 252,
+  "lookup_key_count": 352,
+  "vote_names_seen": 252,
+  "vote_names_matched": 252,
+  "vote_names_unmatched": 0,
+  "members": [
+    {
+      "name": "Assefa, Alexander",
+      "raw_name": "Assefa, Alexander",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Backus, Shea",
+      "raw_name": "Backus, Shea",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Benitez-Thompson, Teresa",
+      "raw_name": "Benitez-Thompson, Teresa Majority Floor Leader",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Bilbray-Axelrod, Shannon",
+      "raw_name": "Bilbray-Axelrod, Shannon",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Carlton, Maggie",
+      "raw_name": "Carlton, Maggie",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Carrillo, Richard",
+      "raw_name": "Carrillo, Richard",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Cohen, Lesley E.",
+      "raw_name": "Cohen, Lesley E.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Daly, Skip",
+      "raw_name": "Daly, Skip",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Duran, Bea",
+      "raw_name": "Duran, Bea",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Edwards, Chris Deputy",
+      "raw_name": "Edwards, Chris Deputy Minority Whip - South",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Ellison, John C. Co-Deputy",
+      "raw_name": "Ellison, John C. Co-Deputy Minority Leader - North",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Flores, Edgar",
+      "raw_name": "Flores, Edgar",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Frierson, Jason",
+      "raw_name": "Frierson, Jason Speaker",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Fumo, Ozzie",
+      "raw_name": "Fumo, Ozzie",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Gorelow, Michelle",
+      "raw_name": "Gorelow, Michelle",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Hafen, Gregory T., II",
+      "raw_name": "Hafen, Gregory T., II",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Hambrick, John",
+      "raw_name": "Hambrick, John",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Hansen, Alexis",
+      "raw_name": "Hansen, Alexis",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Hardy, Melissa",
+      "raw_name": "Hardy, Melissa",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Jauregui, Sandra",
+      "raw_name": "Jauregui, Sandra",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Kramer, Al",
+      "raw_name": "Kramer, Al",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Krasner, Lisa",
+      "raw_name": "Krasner, Lisa Minority Whip",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Leavitt, Glen",
+      "raw_name": "Leavitt, Glen",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Martinez, Susie",
+      "raw_name": "Martinez, Susie",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "McCurdy, William, II",
+      "raw_name": "McCurdy, William, II Assistant Majority Whip",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Miller, Brittney",
+      "raw_name": "Miller, Brittney",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Monroe-Moreno, Daniele",
+      "raw_name": "Monroe-Moreno, Daniele Assistant Majority Floor Leader",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Munk, Connie",
+      "raw_name": "Munk, Connie",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Neal, Dina",
+      "raw_name": "Neal, Dina",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Nguyen, Rochelle T.",
+      "raw_name": "Nguyen, Rochelle T.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Peters, Sarah",
+      "raw_name": "Peters, Sarah",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Roberts, Tom Co-Deputy",
+      "raw_name": "Roberts, Tom Co-Deputy Minority Leader - South",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Smith, Greg",
+      "raw_name": "Smith, Greg",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Spiegel, Ellen B.",
+      "raw_name": "Spiegel, Ellen B.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Swank, Heidi",
+      "raw_name": "Swank, Heidi Assistant Majority Whip",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Thompson, Tyrone",
+      "raw_name": "Thompson, Tyrone",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Titus, Robin L. Deputy",
+      "raw_name": "Titus, Robin L. Deputy Minority Whip - North",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Tolles, Jill",
+      "raw_name": "Tolles, Jill Legislative Executive Committee Chair",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Torres, Selena",
+      "raw_name": "Torres, Selena",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Watts, Howard",
+      "raw_name": "Watts, Howard",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Wheeler, Jim",
+      "raw_name": "Wheeler, Jim Minority Floor Leader",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Yeager, Steve",
+      "raw_name": "Yeager, Steve Speaker pro Tempore",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019"
+    },
+    {
+      "name": "Brooks, Chris",
+      "raw_name": "Brooks, Chris",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Cancela, Yvanna D.",
+      "raw_name": "Cancela, Yvanna D. Co-Majority Whip",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Cannizzaro, Nicole J.",
+      "raw_name": "Cannizzaro, Nicole J. Majority Leader",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Denis, Moises (Mo)",
+      "raw_name": "Denis, Moises (Mo) President pro Tempore",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Dondero Loop, Marilyn",
+      "raw_name": "Dondero Loop, Marilyn",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Goicoechea, Pete",
+      "raw_name": "Goicoechea, Pete",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Hammond, Scott",
+      "raw_name": "Hammond, Scott Co-Minority Whip",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Hansen, Ira",
+      "raw_name": "Hansen, Ira",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Hardy, Joseph (Joe) P.",
+      "raw_name": "Hardy, Joseph (Joe) P. Assistant Minority Leader",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Harris, Dallas",
+      "raw_name": "Harris, Dallas",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Kieckhefer, Ben",
+      "raw_name": "Kieckhefer, Ben",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Ohrenschall, James",
+      "raw_name": "Ohrenschall, James",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Parks, David R.",
+      "raw_name": "Parks, David R.",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Pickard, Keith F.",
+      "raw_name": "Pickard, Keith F.",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Ratti, Julia",
+      "raw_name": "Ratti, Julia Assistant Majority Leader",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Scheible, Melanie",
+      "raw_name": "Scheible, Melanie",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Seevers Gansert, Heidi",
+      "raw_name": "Seevers Gansert, Heidi Co-Minority Whip",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Settelmeyer, James A.",
+      "raw_name": "Settelmeyer, James A. Minority Leader",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Spearman, Pat",
+      "raw_name": "Spearman, Pat Co-Majority Whip",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Washington, Marcia L.",
+      "raw_name": "Washington, Marcia L.",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Woodhouse, Joyce Chief",
+      "raw_name": "Woodhouse, Joyce Chief Majority Whip",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "80",
+      "session_path": "80th2019",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019"
+    },
+    {
+      "name": "Anderson, Natha C.",
+      "raw_name": "Anderson, Natha C.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Benitez-Thompson, Teresa",
+      "raw_name": "Benitez-Thompson, Teresa Majority Floor Leader",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Bilbray-Axelrod, Shannon",
+      "raw_name": "Bilbray-Axelrod, Shannon",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Black, Annie",
+      "raw_name": "Black, Annie",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Brown-May, Tracy",
+      "raw_name": "Brown-May, Tracy",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Carlton, Maggie",
+      "raw_name": "Carlton, Maggie",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Cohen, Lesley E.",
+      "raw_name": "Cohen, Lesley E.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Considine, Venicia",
+      "raw_name": "Considine, Venicia",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Dickman, Jill",
+      "raw_name": "Dickman, Jill",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Duran, Bea",
+      "raw_name": "Duran, Bea",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Ellison, John C.",
+      "raw_name": "Ellison, John C.",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Flores, Edgar",
+      "raw_name": "Flores, Edgar Majority Whip",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Frierson, Jason",
+      "raw_name": "Frierson, Jason Speaker",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Gonz\u00e1lez, Cecelia",
+      "raw_name": "Gonz\u00e1lez, Cecelia",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Gorelow, Michelle",
+      "raw_name": "Gorelow, Michelle",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Hafen, Gregory T., II",
+      "raw_name": "Hafen, Gregory T., II Assistant Minority Whip \u2013 South",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Hansen, Alexis",
+      "raw_name": "Hansen, Alexis",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Hardy, Melissa",
+      "raw_name": "Hardy, Melissa",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Jauregui, Sandra",
+      "raw_name": "Jauregui, Sandra Assistant Majority Whip",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Kasama, Heidi",
+      "raw_name": "Kasama, Heidi",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Krasner, Lisa",
+      "raw_name": "Krasner, Lisa Assistant Minority Whip \u2013 North",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Leavitt, Glen",
+      "raw_name": "Leavitt, Glen Minority Whip",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Martinez, Susie",
+      "raw_name": "Martinez, Susie",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Marzola, Elaine",
+      "raw_name": "Marzola, Elaine",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Matthews, Andy",
+      "raw_name": "Matthews, Andy",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "McArthur, Richard",
+      "raw_name": "McArthur, Richard",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Miller, Brittney",
+      "raw_name": "Miller, Brittney",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Miller, Cameron (C.H.)",
+      "raw_name": "Miller, Cameron (C.H.)",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Monroe-Moreno, Daniele",
+      "raw_name": "Monroe-Moreno, Daniele Assistant Majority Floor Leader",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Nguyen, Rochelle T.",
+      "raw_name": "Nguyen, Rochelle T.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "O\u2019Neill, Philip PK",
+      "raw_name": "O\u2019Neill, Philip PK",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Orentlicher, David",
+      "raw_name": "Orentlicher, David",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Peters, Sarah",
+      "raw_name": "Peters, Sarah",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Roberts, Tom Co-Deputy",
+      "raw_name": "Roberts, Tom Co-Deputy Minority Floor Leader \u2013 South",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Summers-Armstrong, Shondra",
+      "raw_name": "Summers-Armstrong, Shondra",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Thomas, Clara (Claire)",
+      "raw_name": "Thomas, Clara (Claire)",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Titus, Robin L.",
+      "raw_name": "Titus, Robin L. Minority Floor Leader",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Tolles, Jill Co-Deputy",
+      "raw_name": "Tolles, Jill Co-Deputy Minority Floor Leader \u2013 North",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Torres, Selena",
+      "raw_name": "Torres, Selena",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Watts, Howard",
+      "raw_name": "Watts, Howard",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Wheeler, Jim",
+      "raw_name": "Wheeler, Jim",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Yeager, Steve",
+      "raw_name": "Yeager, Steve Speaker pro Tempore",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021"
+    },
+    {
+      "name": "Brooks, Chris",
+      "raw_name": "Brooks, Chris Co-Majority Whip",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Buck, Carrie A.",
+      "raw_name": "Buck, Carrie A.",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Cannizzaro, Nicole J.",
+      "raw_name": "Cannizzaro, Nicole J. Majority Leader",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Denis, Moises (Mo)",
+      "raw_name": "Denis, Moises (Mo) President Pro Tempore",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Donate, Fabian",
+      "raw_name": "Donate, Fabian",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Dondero Loop, Marilyn",
+      "raw_name": "Dondero Loop, Marilyn Co-Majority Whip",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Goicoechea, Pete",
+      "raw_name": "Goicoechea, Pete",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Hammond, Scott",
+      "raw_name": "Hammond, Scott Co-Minority Whip",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Hansen, Ira",
+      "raw_name": "Hansen, Ira",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Hardy, Joseph (Joe) P.",
+      "raw_name": "Hardy, Joseph (Joe) P. Assistant Minority Leader",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Harris, Dallas",
+      "raw_name": "Harris, Dallas",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Kieckhefer, Ben",
+      "raw_name": "Kieckhefer, Ben",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Lange, Roberta",
+      "raw_name": "Lange, Roberta",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Neal, Dina",
+      "raw_name": "Neal, Dina",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Ohrenschall, James",
+      "raw_name": "Ohrenschall, James",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Pickard, Keith F.",
+      "raw_name": "Pickard, Keith F.",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Ratti, Julia",
+      "raw_name": "Ratti, Julia Assistant Majority Leader",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Scheible, Melanie",
+      "raw_name": "Scheible, Melanie",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Seevers Gansert, Heidi",
+      "raw_name": "Seevers Gansert, Heidi Co-Minority Whip",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Settelmeyer, James A.",
+      "raw_name": "Settelmeyer, James A. Minority Leader",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Spearman, Pat Chief",
+      "raw_name": "Spearman, Pat Chief Majority Whip",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "81",
+      "session_path": "81st2021",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021"
+    },
+    {
+      "name": "Anderson, Natha C.",
+      "raw_name": "Anderson, Natha C.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Backus, Shea",
+      "raw_name": "Backus, Shea",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Bilbray-Axelrod, Shannon",
+      "raw_name": "Bilbray-Axelrod, Shannon",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Brown-May, Tracy",
+      "raw_name": "Brown-May, Tracy",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Carter, Max",
+      "raw_name": "Carter, Max",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Cohen, Lesley E.",
+      "raw_name": "Cohen, Lesley E.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Considine, Venicia",
+      "raw_name": "Considine, Venicia",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "DeLong, Rich",
+      "raw_name": "DeLong, Rich Minority Whip",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Dickman, Jill Co-Deputy",
+      "raw_name": "Dickman, Jill Co-Deputy Minority Floor Leader North",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "D'Silva, Reuben",
+      "raw_name": "D'Silva, Reuben",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Duran, Bea",
+      "raw_name": "Duran, Bea",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Gallant, Danielle Co-Deputy",
+      "raw_name": "Gallant, Danielle Co-Deputy Minority Floor Leader South",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Gonz\u00e1lez, Cecelia",
+      "raw_name": "Gonz\u00e1lez, Cecelia",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Gorelow, Michelle",
+      "raw_name": "Gorelow, Michelle",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Gray, Ken",
+      "raw_name": "Gray, Ken",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Gurr, Bert",
+      "raw_name": "Gurr, Bert",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Hafen, Gregory T., II",
+      "raw_name": "Hafen, Gregory T., II",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Hansen, Alexis",
+      "raw_name": "Hansen, Alexis",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Hardy, Melissa",
+      "raw_name": "Hardy, Melissa",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Hibbetts, Brian",
+      "raw_name": "Hibbetts, Brian",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Jauregui, Sandra",
+      "raw_name": "Jauregui, Sandra Majority Floor Leader",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Kasama, Heidi",
+      "raw_name": "Kasama, Heidi",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Koenig, Gregory",
+      "raw_name": "Koenig, Gregory",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "La Rue Hatch, Selena",
+      "raw_name": "La Rue Hatch, Selena",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Marzola, Elaine",
+      "raw_name": "Marzola, Elaine",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "McArthur, Richard",
+      "raw_name": "McArthur, Richard",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Miller, Brittney",
+      "raw_name": "Miller, Brittney",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Miller, Cameron (Cameron (C.H.))",
+      "raw_name": "Miller, Cameron (Cameron (C.H.)) Assistant Majority Floor Leader",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Monroe-Moreno, Daniele",
+      "raw_name": "Monroe-Moreno, Daniele Speaker Pro Tempore",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Mosca, Erica",
+      "raw_name": "Mosca, Erica",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Newby, Sabra",
+      "raw_name": "Newby, Sabra",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Nguyen, Duy",
+      "raw_name": "Nguyen, Duy",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "O\u2019Neill, Philip PK",
+      "raw_name": "O\u2019Neill, Philip PK Minority Floor Leader",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Orentlicher, David",
+      "raw_name": "Orentlicher, David",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Peters, Sarah",
+      "raw_name": "Peters, Sarah Assistant Majority Whip (North)",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Summers-Armstrong, Shondra",
+      "raw_name": "Summers-Armstrong, Shondra",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Taylor, Angie",
+      "raw_name": "Taylor, Angie",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Thomas, Clara (Claire)",
+      "raw_name": "Thomas, Clara (Claire)",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Torres, Selena",
+      "raw_name": "Torres, Selena Assistant Majority Whip (South)",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Watts, Howard",
+      "raw_name": "Watts, Howard Majority Whip",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Yeager, Steve",
+      "raw_name": "Yeager, Steve Speaker",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Yurek, Toby",
+      "raw_name": "Yurek, Toby",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023"
+    },
+    {
+      "name": "Buck, Carrie A.",
+      "raw_name": "Buck, Carrie A. Assistant Minority Leader",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Cannizzaro, Nicole J.",
+      "raw_name": "Cannizzaro, Nicole J. Majority Leader",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Daly, Skip",
+      "raw_name": "Daly, Skip",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Do\u00f1ate, Fabian",
+      "raw_name": "Do\u00f1ate, Fabian Co-Majority Whip",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Dondero Loop, Marilyn",
+      "raw_name": "Dondero Loop, Marilyn",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Flores, Edgar",
+      "raw_name": "Flores, Edgar",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Goicoechea, Pete",
+      "raw_name": "Goicoechea, Pete",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Hammond, Scott",
+      "raw_name": "Hammond, Scott",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Hansen, Ira",
+      "raw_name": "Hansen, Ira",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Harris, Dallas Chief",
+      "raw_name": "Harris, Dallas Chief Majority Whip",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Krasner, Lisa",
+      "raw_name": "Krasner, Lisa Co-Minority Whip",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Lange, Roberta",
+      "raw_name": "Lange, Roberta Assistant Majority Leader",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Neal, Dina",
+      "raw_name": "Neal, Dina",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Nguyen, Rochelle T.",
+      "raw_name": "Nguyen, Rochelle T.",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Ohrenschall, James",
+      "raw_name": "Ohrenschall, James",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Pazina, Julie",
+      "raw_name": "Pazina, Julie",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Scheible, Melanie",
+      "raw_name": "Scheible, Melanie Co-Majority Whip",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Seevers Gansert, Heidi",
+      "raw_name": "Seevers Gansert, Heidi Minority Leader",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Spearman, Pat",
+      "raw_name": "Spearman, Pat President Pro Tempore",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Stone, Jeff",
+      "raw_name": "Stone, Jeff Co-Minority Whip",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Titus, Robin L.",
+      "raw_name": "Titus, Robin L.",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "82",
+      "session_path": "82nd2023",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023"
+    },
+    {
+      "name": "Anderson, Natha C.",
+      "raw_name": "Anderson, Natha C. Assistant Majority Whip",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Backus, Shea M.",
+      "raw_name": "Backus, Shea M.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Brown-May, Tracy",
+      "raw_name": "Brown-May, Tracy",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Carter, Max E., II",
+      "raw_name": "Carter, Max E., II",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Cole, Lisa K.",
+      "raw_name": "Cole, Lisa K.",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Considine, Venicia",
+      "raw_name": "Considine, Venicia",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Dalia, Joe",
+      "raw_name": "Dalia, Joe",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "DeLong, Rich",
+      "raw_name": "DeLong, Rich",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Dickman, Jill",
+      "raw_name": "Dickman, Jill",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "D'Silva, Reuben",
+      "raw_name": "D'Silva, Reuben",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Edgeworth, Rebecca",
+      "raw_name": "Edgeworth, Rebecca",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Flanagan, Tanya P.",
+      "raw_name": "Flanagan, Tanya P.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Gallant, Danielle",
+      "raw_name": "Gallant, Danielle",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Gonz\u00e1lez, Cecelia",
+      "raw_name": "Gonz\u00e1lez, Cecelia",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Goulding, Heather",
+      "raw_name": "Goulding, Heather",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Gray, Ken",
+      "raw_name": "Gray, Ken",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Gurr, Bert K.",
+      "raw_name": "Gurr, Bert K.",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Hafen, Gregory T., II",
+      "raw_name": "Hafen, Gregory T., II Minority Floor Leader",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Hansen, Alexis M.",
+      "raw_name": "Hansen, Alexis M.",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Hardy, Melissa R..",
+      "raw_name": "Hardy, Melissa R.. Assistant Minority Floor Leader South",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Hibbetts, Brian",
+      "raw_name": "Hibbetts, Brian",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Hunt, Linda F.",
+      "raw_name": "Hunt, Linda F.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Jackson, Jovan A.",
+      "raw_name": "Jackson, Jovan A.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Jauregui, Sandra",
+      "raw_name": "Jauregui, Sandra Majority Floor Leader",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Karris, Venise",
+      "raw_name": "Karris, Venise",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Kasama, Heidi",
+      "raw_name": "Kasama, Heidi",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Koenig, Gregory S.",
+      "raw_name": "Koenig, Gregory S. Assistant Minority Floor Leader North",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "La Rue Hatch, Selena",
+      "raw_name": "La Rue Hatch, Selena",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Marzola, Elaine H.",
+      "raw_name": "Marzola, Elaine H.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Miller, Brittney M.",
+      "raw_name": "Miller, Brittney M.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Monroe-Moreno, Daniele",
+      "raw_name": "Monroe-Moreno, Daniele Speaker Pro Tempore",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Moore, Cinthia Zerme\u00f1o",
+      "raw_name": "Moore, Cinthia Zerme\u00f1o",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Mosca, Erica",
+      "raw_name": "Mosca, Erica Assistant Majority Floor Leader",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Nadeem, Hanadi",
+      "raw_name": "Nadeem, Hanadi",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Nguyen, Duy",
+      "raw_name": "Nguyen, Duy",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "O\u2019Neill, PK",
+      "raw_name": "O\u2019Neill, PK",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Orentlicher, David",
+      "raw_name": "Orentlicher, David",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Roth, Erica P.",
+      "raw_name": "Roth, Erica P.",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Torres-Fossett, Selena",
+      "raw_name": "Torres-Fossett, Selena",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Watts, Howard",
+      "raw_name": "Watts, Howard Majority Whip",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Yeager, Steve",
+      "raw_name": "Yeager, Steve Speaker",
+      "party": "Democratic",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Yurek, Toby",
+      "raw_name": "Yurek, Toby Minority Whip",
+      "party": "Republican",
+      "chamber": "Assembly",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025"
+    },
+    {
+      "name": "Buck, Carrie Ann",
+      "raw_name": "Buck, Carrie Ann",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Cannizzaro, Nicole J.",
+      "raw_name": "Cannizzaro, Nicole J. Majority Leader",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Cruz-Crawford, Michelee \"Shelly\"",
+      "raw_name": "Cruz-Crawford, Michelee \"Shelly\"",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Daly, Skip Deputy",
+      "raw_name": "Daly, Skip Deputy Majority Whip",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Do\u00f1ate, Fabian Deputy",
+      "raw_name": "Do\u00f1ate, Fabian Deputy Majority Whip",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Dondero Loop, Marilyn",
+      "raw_name": "Dondero Loop, Marilyn President pro Tempore",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Ellison, John",
+      "raw_name": "Ellison, John",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Flores, Edgar",
+      "raw_name": "Flores, Edgar",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Hansen, Ira",
+      "raw_name": "Hansen, Ira",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Krasner, Lisa",
+      "raw_name": "Krasner, Lisa Minority Whip",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Lange, Roberta",
+      "raw_name": "Lange, Roberta Assistant Majority Leader",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Neal, Dina",
+      "raw_name": "Neal, Dina",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Nguyen, Rochelle T.",
+      "raw_name": "Nguyen, Rochelle T.",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Ohrenschall, James",
+      "raw_name": "Ohrenschall, James",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Pazina, Julie",
+      "raw_name": "Pazina, Julie",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Rogich, Lori",
+      "raw_name": "Rogich, Lori",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Scheible, Melanie Chief",
+      "raw_name": "Scheible, Melanie Chief Majority Whip",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Steinbeck, John C.",
+      "raw_name": "Steinbeck, John C.",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Stone, Jeff",
+      "raw_name": "Stone, Jeff Assistant Minority Leader",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Taylor, Angela D.",
+      "raw_name": "Taylor, Angela D.",
+      "party": "Democratic",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    },
+    {
+      "name": "Titus, Robin L.",
+      "raw_name": "Titus, Robin L. Minority Leader",
+      "party": "Republican",
+      "chamber": "Senate",
+      "session": "83",
+      "session_path": "83rd2025",
+      "source": "nelis_legislator_directory",
+      "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025"
+    }
+  ],
+  "match_report": [
+    {
+      "session": "80",
+      "voter_name": "Assefa, Alexander",
+      "party": "Democratic",
+      "matched_roster_name": "Assefa, Alexander",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Backus, Shea",
+      "party": "Democratic",
+      "matched_roster_name": "Backus, Shea",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Benitez-Thompson, Teresa",
+      "party": "Democratic",
+      "matched_roster_name": "Benitez-Thompson, Teresa",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Bilbray-Axelrod, Shannon",
+      "party": "Democratic",
+      "matched_roster_name": "Bilbray-Axelrod, Shannon",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Brooks, Chris",
+      "party": "Democratic",
+      "matched_roster_name": "Brooks, Chris",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Cancela, Yvanna",
+      "party": "Democratic",
+      "matched_roster_name": "Cancela, Yvanna D.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Cannizzaro, Nicole",
+      "party": "Democratic",
+      "matched_roster_name": "Cannizzaro, Nicole J.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Carlton, Maggie",
+      "party": "Democratic",
+      "matched_roster_name": "Carlton, Maggie",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Carrillo, Richard",
+      "party": "Democratic",
+      "matched_roster_name": "Carrillo, Richard",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Cohen, Lesley",
+      "party": "Democratic",
+      "matched_roster_name": "Cohen, Lesley E.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Daly, Skip",
+      "party": "Democratic",
+      "matched_roster_name": "Daly, Skip",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Denis, Moises",
+      "party": "Democratic",
+      "matched_roster_name": "Denis, Moises (Mo)",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Dondero Loop, Marilyn",
+      "party": "Democratic",
+      "matched_roster_name": "Dondero Loop, Marilyn",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Duran, Bea",
+      "party": "Democratic",
+      "matched_roster_name": "Duran, Bea",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Edwards, Chris",
+      "party": "Republican",
+      "matched_roster_name": "Edwards, Chris Deputy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Ellison, John",
+      "party": "Republican",
+      "matched_roster_name": "Ellison, John C. Co-Deputy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Flores, Edgar",
+      "party": "Democratic",
+      "matched_roster_name": "Flores, Edgar",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Frierson, Jason",
+      "party": "Democratic",
+      "matched_roster_name": "Frierson, Jason",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Fumo, Ozzie",
+      "party": "Democratic",
+      "matched_roster_name": "Fumo, Ozzie",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Goicoechea, Pete",
+      "party": "Republican",
+      "matched_roster_name": "Goicoechea, Pete",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Gorelow, Michelle",
+      "party": "Democratic",
+      "matched_roster_name": "Gorelow, Michelle",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Hafen, Gregory",
+      "party": "Republican",
+      "matched_roster_name": "Hafen, Gregory T., II",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Hambrick, John",
+      "party": "Republican",
+      "matched_roster_name": "Hambrick, John",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Hammond, Scott",
+      "party": "Republican",
+      "matched_roster_name": "Hammond, Scott",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Hansen, Alexis",
+      "party": "Republican",
+      "matched_roster_name": "Hansen, Alexis",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Hansen, Ira",
+      "party": "Republican",
+      "matched_roster_name": "Hansen, Ira",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Hardy, Joseph",
+      "party": "Republican",
+      "matched_roster_name": "Hardy, Joseph (Joe) P.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Hardy, Melissa",
+      "party": "Republican",
+      "matched_roster_name": "Hardy, Melissa",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Harris, Dallas",
+      "party": "Democratic",
+      "matched_roster_name": "Harris, Dallas",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Jauregui, Sandra",
+      "party": "Democratic",
+      "matched_roster_name": "Jauregui, Sandra",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Kieckhefer, Ben",
+      "party": "Republican",
+      "matched_roster_name": "Kieckhefer, Ben",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Kramer, Al",
+      "party": "Republican",
+      "matched_roster_name": "Kramer, Al",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Krasner, Lisa",
+      "party": "Republican",
+      "matched_roster_name": "Krasner, Lisa",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Leavitt, Glen",
+      "party": "Republican",
+      "matched_roster_name": "Leavitt, Glen",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Martinez, Susie",
+      "party": "Democratic",
+      "matched_roster_name": "Martinez, Susie",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "McCurdy, William",
+      "party": "Democratic",
+      "matched_roster_name": "McCurdy, William, II",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Miller, Brittney",
+      "party": "Democratic",
+      "matched_roster_name": "Miller, Brittney",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Monroe-Moreno, Daniele",
+      "party": "Democratic",
+      "matched_roster_name": "Monroe-Moreno, Daniele",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Munk, Connie",
+      "party": "Democratic",
+      "matched_roster_name": "Munk, Connie",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Neal, Dina",
+      "party": "Democratic",
+      "matched_roster_name": "Neal, Dina",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Nguyen, Rochelle",
+      "party": "Democratic",
+      "matched_roster_name": "Nguyen, Rochelle T.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Ohrenschall, James",
+      "party": "Democratic",
+      "matched_roster_name": "Ohrenschall, James",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Parks, David",
+      "party": "Democratic",
+      "matched_roster_name": "Parks, David R.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Peters, Sarah",
+      "party": "Democratic",
+      "matched_roster_name": "Peters, Sarah",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Pickard, Keith",
+      "party": "Republican",
+      "matched_roster_name": "Pickard, Keith F.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Ratti, Julia",
+      "party": "Democratic",
+      "matched_roster_name": "Ratti, Julia",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Roberts, Tom",
+      "party": "Republican",
+      "matched_roster_name": "Roberts, Tom Co-Deputy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Scheible, Melanie",
+      "party": "Democratic",
+      "matched_roster_name": "Scheible, Melanie",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Seevers Gansert, Heidi",
+      "party": "Republican",
+      "matched_roster_name": "Seevers Gansert, Heidi",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Settelmeyer, James",
+      "party": "Republican",
+      "matched_roster_name": "Settelmeyer, James A.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Smith, Greg",
+      "party": "Democratic",
+      "matched_roster_name": "Smith, Greg",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Spearman, Pat",
+      "party": "Democratic",
+      "matched_roster_name": "Spearman, Pat",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Spiegel, Ellen",
+      "party": "Democratic",
+      "matched_roster_name": "Spiegel, Ellen B.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Swank, Heidi",
+      "party": "Democratic",
+      "matched_roster_name": "Swank, Heidi",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Thompson, Tyrone",
+      "party": "Democratic",
+      "matched_roster_name": "Thompson, Tyrone",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Titus, Robin",
+      "party": "Republican",
+      "matched_roster_name": "Titus, Robin L. Deputy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Tolles, Jill",
+      "party": "Republican",
+      "matched_roster_name": "Tolles, Jill",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Torres, Selena",
+      "party": "Democratic",
+      "matched_roster_name": "Torres, Selena",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Washington, Marcia",
+      "party": "Democratic",
+      "matched_roster_name": "Washington, Marcia L.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Watts, Howard",
+      "party": "Democratic",
+      "matched_roster_name": "Watts, Howard",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Wheeler, Jim",
+      "party": "Republican",
+      "matched_roster_name": "Wheeler, Jim",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Woodhouse, Joyce",
+      "party": "Democratic",
+      "matched_roster_name": "Woodhouse, Joyce Chief",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "80",
+      "voter_name": "Yeager, Steve",
+      "party": "Democratic",
+      "matched_roster_name": "Yeager, Steve",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Anderson, Natha",
+      "party": "Democratic",
+      "matched_roster_name": "Anderson, Natha C.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Benitez-Thompson, Teresa",
+      "party": "Democratic",
+      "matched_roster_name": "Benitez-Thompson, Teresa",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Bilbray-Axelrod, Shannon",
+      "party": "Democratic",
+      "matched_roster_name": "Bilbray-Axelrod, Shannon",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Black, Annie",
+      "party": "Republican",
+      "matched_roster_name": "Black, Annie",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Brooks, Chris",
+      "party": "Democratic",
+      "matched_roster_name": "Brooks, Chris",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Brown-May, Tracy",
+      "party": "Democratic",
+      "matched_roster_name": "Brown-May, Tracy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Buck, Carrie",
+      "party": "Republican",
+      "matched_roster_name": "Buck, Carrie A.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Cannizzaro, Nicole",
+      "party": "Democratic",
+      "matched_roster_name": "Cannizzaro, Nicole J.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Carlton, Maggie",
+      "party": "Democratic",
+      "matched_roster_name": "Carlton, Maggie",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Cohen, Lesley",
+      "party": "Democratic",
+      "matched_roster_name": "Cohen, Lesley E.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Considine, Venicia",
+      "party": "Democratic",
+      "matched_roster_name": "Considine, Venicia",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Denis, Moises",
+      "party": "Democratic",
+      "matched_roster_name": "Denis, Moises (Mo)",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Dickman, Jill",
+      "party": "Republican",
+      "matched_roster_name": "Dickman, Jill",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Donate, Fabian",
+      "party": "Democratic",
+      "matched_roster_name": "Donate, Fabian",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Dondero Loop, Marilyn",
+      "party": "Democratic",
+      "matched_roster_name": "Dondero Loop, Marilyn",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Duran, Bea",
+      "party": "Democratic",
+      "matched_roster_name": "Duran, Bea",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Ellison, John",
+      "party": "Republican",
+      "matched_roster_name": "Ellison, John C.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Flores, Edgar",
+      "party": "Democratic",
+      "matched_roster_name": "Flores, Edgar",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Frierson, Jason",
+      "party": "Democratic",
+      "matched_roster_name": "Frierson, Jason",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Goicoechea, Pete",
+      "party": "Republican",
+      "matched_roster_name": "Goicoechea, Pete",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Gonz\u00e1lez, Cecelia",
+      "party": "Democratic",
+      "matched_roster_name": "Gonz\u00e1lez, Cecelia",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Gorelow, Michelle",
+      "party": "Democratic",
+      "matched_roster_name": "Gorelow, Michelle",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Hafen, Gregory",
+      "party": "Republican",
+      "matched_roster_name": "Hafen, Gregory T., II",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Hammond, Scott",
+      "party": "Republican",
+      "matched_roster_name": "Hammond, Scott",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Hansen, Alexis",
+      "party": "Republican",
+      "matched_roster_name": "Hansen, Alexis",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Hansen, Ira",
+      "party": "Republican",
+      "matched_roster_name": "Hansen, Ira",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Hardy, Joseph",
+      "party": "Republican",
+      "matched_roster_name": "Hardy, Joseph (Joe) P.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Hardy, Melissa",
+      "party": "Republican",
+      "matched_roster_name": "Hardy, Melissa",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Harris, Dallas",
+      "party": "Democratic",
+      "matched_roster_name": "Harris, Dallas",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Jauregui, Sandra",
+      "party": "Democratic",
+      "matched_roster_name": "Jauregui, Sandra",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Kasama, Heidi",
+      "party": "Republican",
+      "matched_roster_name": "Kasama, Heidi",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Kieckhefer, Ben",
+      "party": "Republican",
+      "matched_roster_name": "Kieckhefer, Ben",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Krasner, Lisa",
+      "party": "Republican",
+      "matched_roster_name": "Krasner, Lisa",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Lange, Roberta",
+      "party": "Democratic",
+      "matched_roster_name": "Lange, Roberta",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Leavitt, Glen",
+      "party": "Republican",
+      "matched_roster_name": "Leavitt, Glen",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Martinez, Susie",
+      "party": "Democratic",
+      "matched_roster_name": "Martinez, Susie",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Marzola, Elaine",
+      "party": "Democratic",
+      "matched_roster_name": "Marzola, Elaine",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Matthews, Andy",
+      "party": "Republican",
+      "matched_roster_name": "Matthews, Andy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "McArthur, Richard",
+      "party": "Republican",
+      "matched_roster_name": "McArthur, Richard",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Miller, Brittney",
+      "party": "Democratic",
+      "matched_roster_name": "Miller, Brittney",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Miller, Cameron",
+      "party": "Democratic",
+      "matched_roster_name": "Miller, Cameron (C.H.)",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Monroe-Moreno, Daniele",
+      "party": "Democratic",
+      "matched_roster_name": "Monroe-Moreno, Daniele",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Neal, Dina",
+      "party": "Democratic",
+      "matched_roster_name": "Neal, Dina",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Nguyen, Rochelle",
+      "party": "Democratic",
+      "matched_roster_name": "Nguyen, Rochelle T.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Ohrenschall, James",
+      "party": "Democratic",
+      "matched_roster_name": "Ohrenschall, James",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Orentlicher, David",
+      "party": "Democratic",
+      "matched_roster_name": "Orentlicher, David",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "O\u2019Neill, Philip P.K.",
+      "party": "Republican",
+      "matched_roster_name": "O\u2019Neill, Philip PK",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Peters, Sarah",
+      "party": "Democratic",
+      "matched_roster_name": "Peters, Sarah",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Pickard, Keith",
+      "party": "Republican",
+      "matched_roster_name": "Pickard, Keith F.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Ratti, Julia",
+      "party": "Democratic",
+      "matched_roster_name": "Ratti, Julia",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Roberts, Tom",
+      "party": "Republican",
+      "matched_roster_name": "Roberts, Tom Co-Deputy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Scheible, Melanie",
+      "party": "Democratic",
+      "matched_roster_name": "Scheible, Melanie",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Seevers Gansert, Heidi",
+      "party": "Republican",
+      "matched_roster_name": "Seevers Gansert, Heidi",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Settelmeyer, James",
+      "party": "Republican",
+      "matched_roster_name": "Settelmeyer, James A.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Spearman, Pat",
+      "party": "Democratic",
+      "matched_roster_name": "Spearman, Pat Chief",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Summers-Armstrong, Shondra",
+      "party": "Democratic",
+      "matched_roster_name": "Summers-Armstrong, Shondra",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Thomas, Clara",
+      "party": "Democratic",
+      "matched_roster_name": "Thomas, Clara (Claire)",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Titus, Robin",
+      "party": "Republican",
+      "matched_roster_name": "Titus, Robin L.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Tolles, Jill",
+      "party": "Republican",
+      "matched_roster_name": "Tolles, Jill Co-Deputy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Torres, Selena",
+      "party": "Democratic",
+      "matched_roster_name": "Torres, Selena",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Watts, Howard",
+      "party": "Democratic",
+      "matched_roster_name": "Watts, Howard",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Wheeler, Jim",
+      "party": "Republican",
+      "matched_roster_name": "Wheeler, Jim",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "81",
+      "voter_name": "Yeager, Steve",
+      "party": "Democratic",
+      "matched_roster_name": "Yeager, Steve",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Anderson, Natha",
+      "party": "Democratic",
+      "matched_roster_name": "Anderson, Natha C.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Backus, Shea",
+      "party": "Democratic",
+      "matched_roster_name": "Backus, Shea",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Bilbray-Axelrod, Shannon",
+      "party": "Democratic",
+      "matched_roster_name": "Bilbray-Axelrod, Shannon",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Brown-May, Tracy",
+      "party": "Democratic",
+      "matched_roster_name": "Brown-May, Tracy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Buck, Carrie",
+      "party": "Republican",
+      "matched_roster_name": "Buck, Carrie A.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Cannizzaro, Nicole",
+      "party": "Democratic",
+      "matched_roster_name": "Cannizzaro, Nicole J.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Carter, Max",
+      "party": "Democratic",
+      "matched_roster_name": "Carter, Max",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Cohen, Lesley",
+      "party": "Democratic",
+      "matched_roster_name": "Cohen, Lesley E.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Considine, Venicia",
+      "party": "Democratic",
+      "matched_roster_name": "Considine, Venicia",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "D'Silva, Reuben",
+      "party": "Democratic",
+      "matched_roster_name": "D'Silva, Reuben",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Daly, Skip",
+      "party": "Democratic",
+      "matched_roster_name": "Daly, Skip",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "DeLong, Rich",
+      "party": "Republican",
+      "matched_roster_name": "DeLong, Rich",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Dickman, Jill",
+      "party": "Republican",
+      "matched_roster_name": "Dickman, Jill Co-Deputy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Dondero Loop, Marilyn",
+      "party": "Democratic",
+      "matched_roster_name": "Dondero Loop, Marilyn",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Do\u00f1ate, Fabian",
+      "party": "Democratic",
+      "matched_roster_name": "Do\u00f1ate, Fabian",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Duran, Bea",
+      "party": "Democratic",
+      "matched_roster_name": "Duran, Bea",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Flores, Edgar",
+      "party": "Democratic",
+      "matched_roster_name": "Flores, Edgar",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Gallant, Danielle",
+      "party": "Republican",
+      "matched_roster_name": "Gallant, Danielle Co-Deputy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Goicoechea, Pete",
+      "party": "Republican",
+      "matched_roster_name": "Goicoechea, Pete",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Gonz\u00e1lez, Cecelia",
+      "party": "Democratic",
+      "matched_roster_name": "Gonz\u00e1lez, Cecelia",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Gorelow, Michelle",
+      "party": "Democratic",
+      "matched_roster_name": "Gorelow, Michelle",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Gray, Ken",
+      "party": "Republican",
+      "matched_roster_name": "Gray, Ken",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Gurr, Bert",
+      "party": "Republican",
+      "matched_roster_name": "Gurr, Bert",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Hafen, Gregory",
+      "party": "Republican",
+      "matched_roster_name": "Hafen, Gregory T., II",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Hammond, Scott",
+      "party": "Republican",
+      "matched_roster_name": "Hammond, Scott",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Hansen, Alexis",
+      "party": "Republican",
+      "matched_roster_name": "Hansen, Alexis",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Hansen, Ira",
+      "party": "Republican",
+      "matched_roster_name": "Hansen, Ira",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Hardy, Melissa",
+      "party": "Republican",
+      "matched_roster_name": "Hardy, Melissa",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Harris, Dallas",
+      "party": "Democratic",
+      "matched_roster_name": "Harris, Dallas Chief",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Hibbetts, Brian",
+      "party": "Republican",
+      "matched_roster_name": "Hibbetts, Brian",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Jauregui, Sandra",
+      "party": "Democratic",
+      "matched_roster_name": "Jauregui, Sandra",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Kasama, Heidi",
+      "party": "Republican",
+      "matched_roster_name": "Kasama, Heidi",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Koenig, Gregory",
+      "party": "Republican",
+      "matched_roster_name": "Koenig, Gregory",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Krasner, Lisa",
+      "party": "Republican",
+      "matched_roster_name": "Krasner, Lisa",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "La Rue Hatch, Selena",
+      "party": "Democratic",
+      "matched_roster_name": "La Rue Hatch, Selena",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Lange, Roberta",
+      "party": "Democratic",
+      "matched_roster_name": "Lange, Roberta",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Marzola, Elaine",
+      "party": "Democratic",
+      "matched_roster_name": "Marzola, Elaine",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "McArthur, Richard",
+      "party": "Republican",
+      "matched_roster_name": "McArthur, Richard",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Miller, Brittney",
+      "party": "Democratic",
+      "matched_roster_name": "Miller, Brittney",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Miller, Cameron",
+      "party": "Democratic",
+      "matched_roster_name": "Miller, Cameron (Cameron (C.H.))",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Monroe-Moreno, Daniele",
+      "party": "Democratic",
+      "matched_roster_name": "Monroe-Moreno, Daniele",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Mosca, Erica",
+      "party": "Democratic",
+      "matched_roster_name": "Mosca, Erica",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Neal, Dina",
+      "party": "Democratic",
+      "matched_roster_name": "Neal, Dina",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Newby, Sabra",
+      "party": "Democratic",
+      "matched_roster_name": "Newby, Sabra",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Nguyen, Duy",
+      "party": "Democratic",
+      "matched_roster_name": "Nguyen, Duy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Nguyen, Rochelle",
+      "party": "Democratic",
+      "matched_roster_name": "Nguyen, Rochelle T.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Ohrenschall, James",
+      "party": "Democratic",
+      "matched_roster_name": "Ohrenschall, James",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Orentlicher, David",
+      "party": "Democratic",
+      "matched_roster_name": "Orentlicher, David",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "O\u2019Neill, Philip PK",
+      "party": "Republican",
+      "matched_roster_name": "O\u2019Neill, Philip PK",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Pazina, Julie",
+      "party": "Democratic",
+      "matched_roster_name": "Pazina, Julie",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Peters, Sarah",
+      "party": "Democratic",
+      "matched_roster_name": "Peters, Sarah",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Scheible, Melanie",
+      "party": "Democratic",
+      "matched_roster_name": "Scheible, Melanie",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Seevers O'Gara, Heidi",
+      "party": "Republican",
+      "matched_roster_name": "Seevers Gansert, Heidi",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Spearman, Pat",
+      "party": "Democratic",
+      "matched_roster_name": "Spearman, Pat",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Stone, Jeff",
+      "party": "Republican",
+      "matched_roster_name": "Stone, Jeff",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Summers-Armstrong, Shondra",
+      "party": "Democratic",
+      "matched_roster_name": "Summers-Armstrong, Shondra",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Taylor, Angie",
+      "party": "Democratic",
+      "matched_roster_name": "Taylor, Angie",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Thomas, Clara",
+      "party": "Democratic",
+      "matched_roster_name": "Thomas, Clara (Claire)",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Titus, Robin",
+      "party": "Republican",
+      "matched_roster_name": "Titus, Robin L.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Torres, Selena",
+      "party": "Democratic",
+      "matched_roster_name": "Torres, Selena",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Watts, Howard",
+      "party": "Democratic",
+      "matched_roster_name": "Watts, Howard",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Yeager, Steve",
+      "party": "Democratic",
+      "matched_roster_name": "Yeager, Steve",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "82",
+      "voter_name": "Yurek, Toby",
+      "party": "Republican",
+      "matched_roster_name": "Yurek, Toby",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Anderson, Natha",
+      "party": "Democratic",
+      "matched_roster_name": "Anderson, Natha C.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Backus, Shea",
+      "party": "Democratic",
+      "matched_roster_name": "Backus, Shea M.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Brown-May, Tracy",
+      "party": "Democratic",
+      "matched_roster_name": "Brown-May, Tracy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Buck, Carrie Ann",
+      "party": "Republican",
+      "matched_roster_name": "Buck, Carrie Ann",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Cannizzaro, Nicole",
+      "party": "Democratic",
+      "matched_roster_name": "Cannizzaro, Nicole J.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Carter, Max",
+      "party": "Democratic",
+      "matched_roster_name": "Carter, Max E., II",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Cole, Lisa",
+      "party": "Republican",
+      "matched_roster_name": "Cole, Lisa K.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Considine, Venicia",
+      "party": "Democratic",
+      "matched_roster_name": "Considine, Venicia",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Cruz-Crawford, Michelee \"Shelly\"",
+      "party": "Democratic",
+      "matched_roster_name": "Cruz-Crawford, Michelee \"Shelly\"",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "D'Silva, Reuben",
+      "party": "Democratic",
+      "matched_roster_name": "D'Silva, Reuben",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Dalia, Joe",
+      "party": "Democratic",
+      "matched_roster_name": "Dalia, Joe",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Daly, Skip",
+      "party": "Democratic",
+      "matched_roster_name": "Daly, Skip Deputy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "DeLong, Rich",
+      "party": "Republican",
+      "matched_roster_name": "DeLong, Rich",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Dickman, Jill",
+      "party": "Republican",
+      "matched_roster_name": "Dickman, Jill",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Dondero Loop, Marilyn",
+      "party": "Democratic",
+      "matched_roster_name": "Dondero Loop, Marilyn",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Do\u00f1ate, Fabian",
+      "party": "Democratic",
+      "matched_roster_name": "Do\u00f1ate, Fabian Deputy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Edgeworth, Rebecca",
+      "party": "Republican",
+      "matched_roster_name": "Edgeworth, Rebecca",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Ellison, John",
+      "party": "Republican",
+      "matched_roster_name": "Ellison, John",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Flanagan, Tanya",
+      "party": "Democratic",
+      "matched_roster_name": "Flanagan, Tanya P.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Flores, Edgar",
+      "party": "Democratic",
+      "matched_roster_name": "Flores, Edgar",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Gallant, Danielle",
+      "party": "Republican",
+      "matched_roster_name": "Gallant, Danielle",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Gonz\u00e1lez, Cecelia",
+      "party": "Democratic",
+      "matched_roster_name": "Gonz\u00e1lez, Cecelia",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Goulding, Heather",
+      "party": "Democratic",
+      "matched_roster_name": "Goulding, Heather",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Gray, Ken",
+      "party": "Republican",
+      "matched_roster_name": "Gray, Ken",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Gurr, Bert",
+      "party": "Republican",
+      "matched_roster_name": "Gurr, Bert K.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Hafen, Gregory",
+      "party": "Republican",
+      "matched_roster_name": "Hafen, Gregory T., II",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Hansen, Alexis",
+      "party": "Republican",
+      "matched_roster_name": "Hansen, Alexis M.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Hansen, Ira",
+      "party": "Republican",
+      "matched_roster_name": "Hansen, Ira",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Hardy, Melissa",
+      "party": "Republican",
+      "matched_roster_name": "Hardy, Melissa R..",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Hibbetts, Brian",
+      "party": "Republican",
+      "matched_roster_name": "Hibbetts, Brian",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Hunt, Linda",
+      "party": "Democratic",
+      "matched_roster_name": "Hunt, Linda F.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Jackson, Jovan",
+      "party": "Democratic",
+      "matched_roster_name": "Jackson, Jovan A.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Jauregui, Sandra",
+      "party": "Democratic",
+      "matched_roster_name": "Jauregui, Sandra",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Karris, Venise",
+      "party": "Democratic",
+      "matched_roster_name": "Karris, Venise",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Kasama, Heidi",
+      "party": "Republican",
+      "matched_roster_name": "Kasama, Heidi",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Koenig, Gregory",
+      "party": "Republican",
+      "matched_roster_name": "Koenig, Gregory S.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Krasner, Lisa",
+      "party": "Republican",
+      "matched_roster_name": "Krasner, Lisa",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "La Rue Hatch, Selena",
+      "party": "Democratic",
+      "matched_roster_name": "La Rue Hatch, Selena",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Lange, Roberta",
+      "party": "Democratic",
+      "matched_roster_name": "Lange, Roberta",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Marzola, Elaine",
+      "party": "Democratic",
+      "matched_roster_name": "Marzola, Elaine H.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Miller, Brittney",
+      "party": "Democratic",
+      "matched_roster_name": "Miller, Brittney M.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Monroe-Moreno, Daniele",
+      "party": "Democratic",
+      "matched_roster_name": "Monroe-Moreno, Daniele",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Moore, Cinthia Zerme\u00f1o",
+      "party": "Democratic",
+      "matched_roster_name": "Moore, Cinthia Zerme\u00f1o",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Mosca, Erica",
+      "party": "Democratic",
+      "matched_roster_name": "Mosca, Erica",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Nadeem, Hanadi",
+      "party": "Democratic",
+      "matched_roster_name": "Nadeem, Hanadi",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Neal, Dina",
+      "party": "Democratic",
+      "matched_roster_name": "Neal, Dina",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Nguyen, Duy",
+      "party": "Democratic",
+      "matched_roster_name": "Nguyen, Duy",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Nguyen, Rochelle",
+      "party": "Democratic",
+      "matched_roster_name": "Nguyen, Rochelle T.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Ohrenschall, James",
+      "party": "Democratic",
+      "matched_roster_name": "Ohrenschall, James",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Orentlicher, David",
+      "party": "Democratic",
+      "matched_roster_name": "Orentlicher, David",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "O\u2019Neill, PK",
+      "party": "Republican",
+      "matched_roster_name": "O\u2019Neill, PK",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Pazina, Julie",
+      "party": "Democratic",
+      "matched_roster_name": "Pazina, Julie",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Rogich, Lori",
+      "party": "Republican",
+      "matched_roster_name": "Rogich, Lori",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Roth, Erica",
+      "party": "Democratic",
+      "matched_roster_name": "Roth, Erica P.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Scheible, Melanie",
+      "party": "Democratic",
+      "matched_roster_name": "Scheible, Melanie Chief",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Steinbeck, John",
+      "party": "Republican",
+      "matched_roster_name": "Steinbeck, John C.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Stone, Jeff",
+      "party": "Republican",
+      "matched_roster_name": "Stone, Jeff",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Taylor, Angela",
+      "party": "Democratic",
+      "matched_roster_name": "Taylor, Angela D.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Titus, Robin",
+      "party": "Republican",
+      "matched_roster_name": "Titus, Robin L.",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Torres-Fossett, Selena",
+      "party": "Democratic",
+      "matched_roster_name": "Torres-Fossett, Selena",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Watts, Howard",
+      "party": "Democratic",
+      "matched_roster_name": "Watts, Howard",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Yeager, Steve",
+      "party": "Democratic",
+      "matched_roster_name": "Yeager, Steve",
+      "source": "nelis_legislator_directory"
+    },
+    {
+      "session": "83",
+      "voter_name": "Yurek, Toby",
+      "party": "Republican",
+      "matched_roster_name": "Yurek, Toby",
+      "source": "nelis_legislator_directory"
+    }
+  ],
+  "unmatched": []
+}
