@@ -1834,7 +1834,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Absent (1)
 
-Carlton
+Carlton, Maggie (D)
 
 ---
 
@@ -2080,7 +2080,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Nay (4)
 
-Ellison, Hansen, Titus, Wheeler, Jim (R)
+Ellison, John C. Co-Deputy (R), Hansen, Titus, Robin L. Deputy (R), Wheeler, Jim (R)
 
 ---
 
@@ -2380,7 +2380,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Absent (4)
 
-Carlton, Fumo, Hansen, Wheeler
+Carlton, Maggie (D), Fumo, Ozzie (D), Hansen, Wheeler, Jim (R)
 
 ---
 
@@ -2440,7 +2440,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Absent (1)
 
-Carlton
+Carlton, Maggie (D)
 
 ---
 
@@ -2620,7 +2620,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Nay (1)
 
-Titus
+Titus, Robin L. Deputy (R)
 
 ---
 
@@ -2830,7 +2830,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Absent (1)
 
-Titus
+Titus, Robin L. (R)
 
 ---
 
@@ -3020,7 +3020,7 @@ Hansen, Assembly Woman
 
 #### Absent (1)
 
-Titus
+Titus, Robin L. (R)
 
 ---
 
@@ -3268,7 +3268,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Nay (3)
 
-Black, Annie (R), Titus, Wheeler, Jim (R)
+Black, Annie (R), Titus, Robin L. (R), Wheeler, Jim (R)
 
 ---
 
@@ -3328,7 +3328,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Absent (2)
 
-Carlton, Ellison
+Carlton, Maggie (D), Ellison, John C. (R)
 
 ---
 
@@ -3556,7 +3556,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Nay (4)
 
-Black, Annie (R), Ellison, Matthews, Andy (R), McArthur, Richard (R)
+Black, Annie (R), Ellison, John C. (R), Matthews, Andy (R), McArthur, Richard (R)
 
 ---
 
@@ -3754,7 +3754,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Nay (4)
 
-DeLong, Rich (R), Gurr, Hansen, Yurek, Toby (R)
+DeLong, Rich (R), Gurr, Bert (R), Hansen, Yurek, Toby (R)
 
 ---
 
@@ -4006,7 +4006,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Absent (2)
 
-Kasama, Yeager
+Kasama, Heidi (R), Yeager, Steve (D)
 
 ---
 
@@ -4078,7 +4078,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Absent (2)
 
-Kasama, Yeager
+Kasama, Heidi (R), Yeager, Steve (D)
 
 ---
 
@@ -4240,7 +4240,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Nay (4)
 
-DeLong, Rich (R), Gurr, Hansen, Yurek, Toby (R)
+DeLong, Rich (R), Gurr, Bert (R), Hansen, Yurek, Toby (R)
 
 ---
 
@@ -4444,7 +4444,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Absent (2)
 
-Duran, Hansen
+Duran, Bea (D), Hansen
 
 ---
 
@@ -4570,7 +4570,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Absent (1)
 
-Duran
+Duran, Bea (D)
 
 ---
 
@@ -4678,7 +4678,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Absent (2)
 
-O'Neill, Yeager
+O'Neill, Yeager, Steve (D)
 
 ---
 
@@ -4726,7 +4726,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Absent (2)
 
-O'Neill, Yeager
+O'Neill, Yeager, Steve (D)
 
 ---
 
@@ -4786,7 +4786,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Nay (2)
 
-Peters, Assemblywom En, Summers-Armstrong, Shondra (D)
+Peters, Sarah (D), Summers-Armstrong, Shondra (D)
 
 ---
 
@@ -5040,7 +5040,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Absent (2)
 
-Kasama, Marzola
+Kasama, Heidi (R), Marzola, Elaine H. (D)
 
 ---
 
@@ -5346,7 +5346,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Nay (4)
 
-DeLong, Rich (R), Gurr, Hansen, Kasama, Heidi (R)
+DeLong, Rich (R), Gurr, Bert K. (R), Hansen, Kasama, Heidi (R)
 
 ---
 
@@ -5766,7 +5766,7 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Nay (1)
 
-Titus
+Titus, Robin L. (R)
 
 ---
 
@@ -5862,6 +5862,6 @@ _Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not 
 
 #### Nay (1)
 
-Titus
+Titus, Robin L. (R)
 
 ---

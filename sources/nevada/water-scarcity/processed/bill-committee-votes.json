@@ -176,10 +176,10 @@
     },
     "ballots": [
       {
-        "name": "Carlton",
+        "name": "Carlton, Maggie",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Carlton"
       }
     ],
@@ -525,10 +525,10 @@
     },
     "ballots": [
       {
-        "name": "Ellison",
+        "name": "Ellison, John C. Co-Deputy",
         "vote": "nay",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Ellison"
       },
       {
@@ -539,10 +539,10 @@
         "raw_name": "Hansen"
       },
       {
-        "name": "Titus",
+        "name": "Titus, Robin L. Deputy",
         "vote": "nay",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Titus"
       },
       {
@@ -951,17 +951,17 @@
     },
     "ballots": [
       {
-        "name": "Carlton",
+        "name": "Carlton, Maggie",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Carlton"
       },
       {
-        "name": "Fumo",
+        "name": "Fumo, Ozzie",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Fumo"
       },
       {
@@ -972,10 +972,10 @@
         "raw_name": "Hansen"
       },
       {
-        "name": "Wheeler",
+        "name": "Wheeler, Jim",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Wheeler"
       }
     ],
@@ -1063,10 +1063,10 @@
     },
     "ballots": [
       {
-        "name": "Carlton",
+        "name": "Carlton, Maggie",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Carlton"
       }
     ],
@@ -1309,10 +1309,10 @@
     },
     "ballots": [
       {
-        "name": "Titus",
+        "name": "Titus, Robin L. Deputy",
         "vote": "nay",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Titus"
       }
     ],
@@ -1592,10 +1592,10 @@
     },
     "ballots": [
       {
-        "name": "Titus",
+        "name": "Titus, Robin L.",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Titus"
       }
     ],
@@ -1852,10 +1852,10 @@
         "raw_name": "Hansen, Assembly Woman"
       },
       {
-        "name": "Titus",
+        "name": "Titus, Robin L.",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Titus"
       }
     ],
@@ -2201,10 +2201,10 @@
         "raw_name": "Black"
       },
       {
-        "name": "Titus",
+        "name": "Titus, Robin L.",
         "vote": "nay",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Titus"
       },
       {
@@ -2298,17 +2298,17 @@
     },
     "ballots": [
       {
-        "name": "Carlton",
+        "name": "Carlton, Maggie",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Carlton"
       },
       {
-        "name": "Ellison",
+        "name": "Ellison, John C.",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Ellison"
       }
     ],
@@ -2621,10 +2621,10 @@
         "raw_name": "Black"
       },
       {
-        "name": "Ellison",
+        "name": "Ellison, John C.",
         "vote": "nay",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Ellison"
       },
       {
@@ -2912,10 +2912,10 @@
         "raw_name": "Delong"
       },
       {
-        "name": "Gurr",
+        "name": "Gurr, Bert",
         "vote": "nay",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Gurr"
       },
       {
@@ -3279,17 +3279,17 @@
     },
     "ballots": [
       {
-        "name": "Kasama",
+        "name": "Kasama, Heidi",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Kasama"
       },
       {
-        "name": "Yeager",
+        "name": "Yeager, Steve",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Yeager"
       }
     ],
@@ -3391,17 +3391,17 @@
     },
     "ballots": [
       {
-        "name": "Kasama",
+        "name": "Kasama, Heidi",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Kasama"
       },
       {
-        "name": "Yeager",
+        "name": "Yeager, Steve",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Yeager"
       }
     ],
@@ -3647,10 +3647,10 @@
         "raw_name": "Delong"
       },
       {
-        "name": "Gurr",
+        "name": "Gurr, Bert",
         "vote": "nay",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Gurr"
       },
       {
@@ -3950,10 +3950,10 @@
     },
     "ballots": [
       {
-        "name": "Duran",
+        "name": "Duran, Bea",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Duran"
       },
       {
@@ -4143,10 +4143,10 @@
     },
     "ballots": [
       {
-        "name": "Duran",
+        "name": "Duran, Bea",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Duran"
       }
     ],
@@ -4300,10 +4300,10 @@
         "raw_name": "O'Neill"
       },
       {
-        "name": "Yeager",
+        "name": "Yeager, Steve",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Yeager"
       }
     ],
@@ -4380,10 +4380,10 @@
         "raw_name": "O'Neill"
       },
       {
-        "name": "Yeager",
+        "name": "Yeager, Steve",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Yeager"
       }
     ],
@@ -4469,10 +4469,10 @@
     },
     "ballots": [
       {
-        "name": "Peters, Assemblywom En",
+        "name": "Peters, Sarah",
         "vote": "nay",
-        "party": null,
-        "party_source": null,
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Peters, Assemblywom En"
       },
       {
@@ -4824,17 +4824,17 @@
     },
     "ballots": [
       {
-        "name": "Kasama",
+        "name": "Kasama, Heidi",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Kasama"
       },
       {
-        "name": "Marzola",
+        "name": "Marzola, Elaine H.",
         "vote": "absent",
-        "party": null,
-        "party_source": null,
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Marzola"
       }
     ],
@@ -5292,10 +5292,10 @@
         "raw_name": "Delong"
       },
       {
-        "name": "Gurr",
+        "name": "Gurr, Bert K.",
         "vote": "nay",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Gurr"
       },
       {
@@ -5877,10 +5877,10 @@
     },
     "ballots": [
       {
-        "name": "Titus",
+        "name": "Titus, Robin L.",
         "vote": "nay",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Titus"
       }
     ],
@@ -6013,10 +6013,10 @@
     },
     "ballots": [
       {
-        "name": "Titus",
+        "name": "Titus, Robin L.",
         "vote": "nay",
-        "party": null,
-        "party_source": null,
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory",
         "raw_name": "Titus"
       }
     ],
