@@ -1,0 +1,1157 @@
+{
+  "issue_id": "nevada-04-water-scarcity",
+  "generated_at": "2026-07-16T20:26:35Z",
+  "agent": "data-formatter",
+  "sources": [
+    {
+      "key": "S-001",
+      "title": "Pass 1 bills discovery (pass1/bills.json)",
+      "url": null,
+      "type": "dataset",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-f-data-gaps.md"
+      ],
+      "path": "pass1/bills.json"
+    },
+    {
+      "key": "S-002",
+      "title": "Processed bills-core dataset",
+      "url": null,
+      "type": "dataset",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-f-data-gaps.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-003",
+      "title": "Processed bill votes",
+      "url": null,
+      "type": "dataset",
+      "used_in_appendices": [
+        "appendix-c-votes.md",
+        "appendix-f-data-gaps.md"
+      ],
+      "path": "processed/bill-votes.json"
+    },
+    {
+      "key": "S-004",
+      "title": "Processed bill sponsors",
+      "url": null,
+      "type": "dataset",
+      "used_in_appendices": [
+        "appendix-a-bills.md"
+      ],
+      "path": "processed/bill-sponsors.json"
+    },
+    {
+      "key": "S-005",
+      "title": "Processed legislative progress",
+      "url": null,
+      "type": "dataset",
+      "used_in_appendices": [
+        "appendix-a-bills.md"
+      ],
+      "path": "processed/bill-legislative-progress.json"
+    },
+    {
+      "key": "S-006",
+      "title": "Processed bill actions",
+      "url": null,
+      "type": "dataset",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bill-actions.json"
+    },
+    {
+      "key": "S-007",
+      "title": "Processed committee votes/hearings",
+      "url": null,
+      "type": "dataset",
+      "used_in_appendices": [],
+      "path": "processed/bill-committee-votes.json"
+    },
+    {
+      "key": "S-008",
+      "title": "Processed introduced-vs-enrolled text changes",
+      "url": null,
+      "type": "dataset",
+      "used_in_appendices": [],
+      "path": "processed/bill-text-changes.json"
+    },
+    {
+      "key": "S-009",
+      "title": "Processed data gaps",
+      "url": null,
+      "type": "dataset",
+      "used_in_appendices": [
+        "appendix-f-data-gaps.md"
+      ],
+      "path": "processed/data-gaps.json"
+    },
+    {
+      "key": "S-010",
+      "title": "Data verifier report",
+      "url": null,
+      "type": "dataset",
+      "used_in_appendices": [
+        "appendix-f-data-gaps.md"
+      ],
+      "path": "verification/report.json"
+    },
+    {
+      "key": "S-011",
+      "title": "Pass 2 collection summary",
+      "url": null,
+      "type": "dataset",
+      "used_in_appendices": [
+        "appendix-f-data-gaps.md"
+      ],
+      "path": "processed/pass2-summary.json"
+    },
+    {
+      "key": "S-012",
+      "title": "80th Session (2019) AB163: Revises provisions governing water conservation. (BDR 48-798)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6249/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-013",
+      "title": "80th Session (2019) AB233: Revises provisions related to water. (BDR 48-45)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6409/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-014",
+      "title": "80th Session (2019) AB265: Requires the Desert Research Institute to conduct a study concerning water treatment and recycling. (BDR S-901)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6480/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-015",
+      "title": "80th Session (2019) AB30: Revises provisions governing water. (BDR 48-214)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5930/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-016",
+      "title": "80th Session (2019) AB51: Revises provisions governing the management of water. (BDR 48-213)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5951/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-017",
+      "title": "80th Session (2019) AB62: Revises provisions related to water. (BDR 48-215)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5987/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-018",
+      "title": "80th Session (2019) AB95: Revises provisions relating to water. (BDR 48-504)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6082/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-019",
+      "title": "80th Session (2019) SB140: Revises provisions relating to the use of groundwater in certain basins. (BDR 48-541)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6171/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-020",
+      "title": "80th Session (2019) SB150: Revises provisions relating to land use planning. (BDR 22-775)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6187/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-021",
+      "title": "80th Session (2019) SB232: Revises certain provisions related to irrigation districts. (BDR 48-644)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6382/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-022",
+      "title": "80th Session (2019) SB236: Establishes provisions relating to a change in the place of diversion of water for certain wells. (BDR 48-635)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6400/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-023",
+      "title": "80th Session (2019) SB250: Revises provisions relating to the dedication of water rights. (BDR 48-664)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6424/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-024",
+      "title": "80th Session (2019) SB423: Revises provisions governing certain watercraft. (BDR 43-962)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6783/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-025",
+      "title": "80th Session (2019) SB433: Revises the provisions of the California-Nevada Compact for Jurisdiction on Interstate Waters. (BDR 14-439)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6814/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-026",
+      "title": "80th Session (2019) SB47: Revises provisions relating to state lands. (BDR 26-216)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5966/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-027",
+      "title": "80th Session (2019) SB499: Creates the Advisory Board on Water Resources Planning and Drought Resiliency. (BDR 48-1243)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6962/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-028",
+      "title": "80th Session (2019) SB507: Makes an appropriation to the State Public Works Division of the Department of Administration for the support of the Marlette Lake Water System. (BDR S-1176)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6979/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-029",
+      "title": "80th Session (2019) SB509: Makes appropriations to the Division of Water Resources for the replacement of vehicles and computer software and hardware. (BDR S-1181)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6981/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-030",
+      "title": "80th Session (2019) SB547: Revises provisions relating to providers of new electric resources. (BDR 58-913)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7057/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-031",
+      "title": "80th Session (2019) SB76: Revises provisions governing the provision of services by the Colorado River Commission of Nevada. (BDR 58-207)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6007/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-032",
+      "title": "81st Session (2021) AB146: Revises provisions relating to water. (BDR 40-123)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7475/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-033",
+      "title": "81st Session (2021) AB15: Revises the membership of the Colorado River Commission of Nevada. (BDR 48-341)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7257/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-034",
+      "title": "81st Session (2021) AB333: Makes changes to provisions relating to land use planning. (BDR 22-357)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7859/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-035",
+      "title": "81st Session (2021) AB354: Authorizes the creation of water banks. (BDR 48-1091)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7907/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-036",
+      "title": "81st Session (2021) AB356: Makes various changes relating to the conservation of water. (BDR S-1090)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7910/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-037",
+      "title": "81st Session (2021) AB465: Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for the repair and maintenance of the South Fork Dam. (BDR S-1105)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8164/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-038",
+      "title": "81st Session (2021) AB5: Makes various changes to provisions relating to judicial review of orders and decisions of the State Engineer. (BDR 48-311)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7235/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-039",
+      "title": "81st Session (2021) AB6: Revises provisions governing an application for a temporary change relating to appropriated water. (BDR 48-309)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7236/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-040",
+      "title": "81st Session (2021) AJR2: Recognizes that the health of forests, rangelands and soils are inextricably linked to the quantity and quality of water. (BDR R-112)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7424/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-041",
+      "title": "81st Session (2021) AJR3: Urges various actions relating to the protection and conservation of land and water. (BDR R-775)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7487/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-042",
+      "title": "81st Session (2021) SB149: Revises provisions relating to groundwater boards. (BDR 48-462)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7538/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-043",
+      "title": "81st Session (2021) SB155: Revises provisions relating to the Division of Water Resources of the State Department of Conservation and Natural Resources. (BDR 48-471)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7555/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-044",
+      "title": "81st Session (2021) SB205: Provides regulatory exemptions for certain types of boilers. (BDR 40-839)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7652/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-045",
+      "title": "81st Session (2021) SB216: Revises provisions relating to community water systems. (BDR 19-590)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7687/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-046",
+      "title": "81st Session (2021) SB238: Revises provisions relating to public water systems. (BDR 40-885)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7754/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-047",
+      "title": "81st Session (2021) SB33: Revises certain provisions relating to natural resource management. (BDR 47-312)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7208/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-048",
+      "title": "81st Session (2021) SB67: Creates a pilot program to gather data on the use of job order contracts for certain public works. (BDR S-400)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7272/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-049",
+      "title": "81st Session (2021) SB98: Makes various changes to provisions relating to the Carson Water Subconservancy District. (BDR S-579)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7388/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-050",
+      "title": "81st Session (2021) SJR1: Proposes to amend the Nevada Constitution to provide that the Nevada Court of Appeals has original jurisdiction over certain cases relating to water. (BDR C-310)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7333/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-051",
+      "title": "82nd Session (2023) AB186: Establishes requirements relating to the provision of drinking water at food establishments. (BDR 40-454)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9895/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-052",
+      "title": "82nd Session (2023) AB19: Revises provisions relating to water. (BDR 48-233)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9548/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-053",
+      "title": "82nd Session (2023) AB191: Revises provisions relating to water conservation. (BDR 48-697)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9903/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-054",
+      "title": "82nd Session (2023) AB20: Revises provisions relating to water. (BDR 40-227)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9549/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-055",
+      "title": "82nd Session (2023) AB220: Revises provisions relating to water conservation. (BDR 40-337)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9950/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-056",
+      "title": "82nd Session (2023) AB261: Revises provisions relating to water. (BDR 18-470)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10028/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-057",
+      "title": "82nd Session (2023) AB263: Enacts provisions relating to the transmission of Legionnaires' disease by building water systems in certain health care facilities. (BDR 40-125)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10030/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-058",
+      "title": "82nd Session (2023) AB325: Revises provisions relating to water. (BDR 48-915)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10192/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-059",
+      "title": "82nd Session (2023) AB34: Revises provisions relating to water. (BDR 48-235)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9563/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-060",
+      "title": "82nd Session (2023) AB387: Revises provisions relating to water. (BDR 48-338)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10324/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-061",
+      "title": "82nd Session (2023) AB470: Makes an appropriation to the State Public Works Division of the Department of Administration for professional services and filing fees related to water rights associated with the Marlette Lake Water System. (BDR S-1127)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10500/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-062",
+      "title": "82nd Session (2023) AB90: Revises provisions relating to water. (BDR 48-717)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9681/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-063",
+      "title": "82nd Session (2023) AB91: Revises provisions governing water. (BDR 48-696)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9682/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-064",
+      "title": "82nd Session (2023) SB102: Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources to award grants of money for the development and maintenance of water resource plans. (BDR S-599)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9733/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-065",
+      "title": "82nd Session (2023) SB112: Revises provisions governing groundwater basin assessments. (BDR 48-600)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9756/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-066",
+      "title": "82nd Session (2023) SB113: Revises provisions relating to groundwater management plans. (BDR 48-595)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9757/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-067",
+      "title": "82nd Session (2023) SB176: Establishes provisions relating to the conservation of groundwater. (BDR 48-79)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9907/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-068",
+      "title": "82nd Session (2023) SB180: Revises provisions relating to groundwater boards. (BDR 48-597)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9923/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-069",
+      "title": "82nd Session (2023) SB258: Revises provisions relating to water. (BDR 48-889)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10090/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-070",
+      "title": "82nd Session (2023) SB472: Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for projects at the South Fork Dam. (BDR S-1172)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10525/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-071",
+      "title": "82nd Session (2023) SB473: Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for a study of extreme rainfall events. (BDR S-1173)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10526/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-072",
+      "title": "82nd Session (2023) SB59: Revises provisions relating to vessels. (BDR 43-225)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9629/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-073",
+      "title": "82nd Session (2023) SJR3: Urges the United States Bureau of Reclamation to consider certain actions, alternatives and measures for the protection and management of the Colorado River. (BDR R-349)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9995/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-074",
+      "title": "83rd Session (2025) AB10: Revises provisions relating to local improvement projects. (BDR 22-407)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11760/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-075",
+      "title": "83rd Session (2025) AB104: Revises provisions relating to water. (BDR 48-383)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11994/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-076",
+      "title": "83rd Session (2025) AB109: Revises provisions relating to water. (BDR 48-212)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12006/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-077",
+      "title": "83rd Session (2025) AB110: Revises provisions relating to the designation of certain highways. (BDR 35-148)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12011/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-078",
+      "title": "83rd Session (2025) AB132: Revises provisions relating to water. (BDR 48-586)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12051/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-079",
+      "title": "83rd Session (2025) AB134: Establishes provisions relating to water conservation. (BDR 48-379)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12053/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-080",
+      "title": "83rd Session (2025) AB190: Revises provisions relating to water. (BDR 48-886)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12160/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-081",
+      "title": "83rd Session (2025) AB26: Revises provisions relating to dams. (BDR 48-261)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11792/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-082",
+      "title": "83rd Session (2025) AB265: Revises provisions relating to water. (BDR 48-887)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12311/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-083",
+      "title": "83rd Session (2025) AB312: Revises provisions governing the sale of real property. (BDR 10-1005)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12395/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-084",
+      "title": "83rd Session (2025) AB363: Revises provisions relating to groundwater boards. (BDR 48-385)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12473/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-085",
+      "title": "83rd Session (2025) AB385: Revises provisions relating to governmental administration. (BDR 22-851)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12534/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-086",
+      "title": "83rd Session (2025) AB419: Revises provisions relating to water. (BDR 48-736)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12606/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-087",
+      "title": "83rd Session (2025) AB456: Revises provisions relating to public utilities. (BDR 58-170)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12690/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-088",
+      "title": "83rd Session (2025) AB485: Revises provisions relating to water. (BDR 48-386)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12746/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-089",
+      "title": "83rd Session (2025) AB9: Revises provisions relating to water. (BDR 48-391)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11759/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-090",
+      "title": "83rd Session (2025) SB108: Revises provisions governing the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program. (BDR 48-88)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12004/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-091",
+      "title": "83rd Session (2025) SB143: Revises provisions relating to natural resources. (BDR 17-10)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12088/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-092",
+      "title": "83rd Session (2025) SB159: Makes an appropriation to the Oh Lab of Neurogenetics and Precision Medicine at the University of Nevada, Las Vegas or its successor entity for certain activities relating to water systems and wastewater. (BDR S-957)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12140/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-093",
+      "title": "83rd Session (2025) SB276: Revises provisions relating to water. (BDR 40-750)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12476/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-094",
+      "title": "83rd Session (2025) SB31: Revises provisions relating to the adjudication of vested water rights. (BDR 48-260)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11798/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-095",
+      "title": "83rd Session (2025) SB324: Establishes prohibitions relating to the sale of water in certain disposable plastic bottles in communities abutting the Lake Tahoe Watershed. (BDR 40-216)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12553/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-096",
+      "title": "83rd Session (2025) SB342: Revises provisions relating to water. (BDR 48-940)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12600/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-097",
+      "title": "83rd Session (2025) SB36: Revises provisions relating to water. (BDR 48-384)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11807/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-098",
+      "title": "83rd Session (2025) SB43: Revises provisions relating to public health and safety. (BDR 40-264)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11819/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    },
+    {
+      "key": "S-099",
+      "title": "83rd Session (2025) SB466: Revises provisions governing the authority of the State Department of Agriculture relating to food and water. (BDR 51-1121)",
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12889/Overview",
+      "type": "bill_record",
+      "used_in_appendices": [
+        "appendix-a-bills.md",
+        "appendix-b-bill-actions.md",
+        "appendix-c-votes.md"
+      ],
+      "path": "processed/bills-core.json"
+    }
+  ]
+}

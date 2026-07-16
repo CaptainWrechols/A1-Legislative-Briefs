@@ -1,0 +1,108 @@
+# Appendix F: Data Gaps
+**Issue:** Growth, Water Scarcity, and Long-Term Supply in Nevada
+**State:** nevada
+**Generated:** 2026-07-16
+**Record count:** 98
+
+---
+
+| Search Term or Topic | Session | Result | Notes |
+|---|---|---|---|
+| openstates_detail | 80 | missing | AB163: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | AB233: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | AB265: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | AB30: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | AB51: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | AB62: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | AB95: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | SB140: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | SB150: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | SB232: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | SB236: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | SB250: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | SB423: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | SB433: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | SB47: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | SB499: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | SB507: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | SB509: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | SB547: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 80 | missing | SB76: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | AB146: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | AB15: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | AB333: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | AB354: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | AB356: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | AB465: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | AB5: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | AB6: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | AJR2: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | AJR3: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | SB149: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | SB155: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | SB205: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | SB216: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | SB238: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | SB33: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | SB67: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | SB98: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 81 | missing | SJR1: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | AB186: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | AB19: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | AB191: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | AB20: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | AB220: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | AB261: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | AB263: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | AB325: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | AB34: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | AB387: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | AB470: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | AB90: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | AB91: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | SB102: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | SB112: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | SB113: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | SB176: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | SB180: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | SB258: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | SB472: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | SB473: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | SB59: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 82 | missing | SJR3: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB10: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB104: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB109: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB110: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB132: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB134: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB190: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB26: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB265: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB312: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB363: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB385: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB419: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB456: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB485: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | AB9: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | SB108: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | SB143: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | SB159: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | SB276: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | SB31: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | SB324: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | SB342: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | SB36: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | SB43: Bill not returned from OpenStates detail lookup |
+| openstates_detail | 83 | missing | SB466: Bill not returned from OpenStates detail lookup |
+| voter_party | all | complete | All roll-call voter names matched to a party via legislator roster |
+| collection_scope | — | documented_gap | Dataset is a keyword-discovered Pass 1/Pass 2 set of 88 bills (70 with passes_water_title_filter=true), not a proven exhaustive universe of all Nevada water bills. |
+| collection_counts | — | documented_gap | Pass 1 discovery counts: nelis_cached=88, openstates_cached=245, merged_bills=88, passes_water_title_filter=70, both_sources=41. |
+| verification_status | — | documented_gap | Verification overall_status is PASS_WITH_WARNINGS. Verifier skipped new scraping and noted the dataset is keyword-discovered, not exhaustive. |
+| openstates_gap | — | documented_gap | Pass 2 reported openstates_found=0; OpenStates detail enrichment was largely unavailable for this bill set. |
+| openstates_detail_missing | — | documented_gap | OpenStates detail lookup returned missing for 88 of 88 bills in processed/data-gaps.json; NELIS was the primary bill-detail source. |
+| agency_documents_absent | — | documented_gap | No interim Legislative Counsel Bureau memos or agency evaluation reports were present under sources/nevada/water-scarcity/ for this synthesis run. |
+| forum_materials_absent | — | documented_gap | No Forum Phase 1 input file (sources/forum/nevada/water-scarcity/phase-1-input.md) and no Phase 2 Issue Brief under briefs/phase-2/nevada/water-scarcity/ were available; forum_process_input contains no participant quotes or deliberation options. |
+| vote_count_gaps | — | documented_gap | Vote records include 391 vote-related rows in bill-votes.json; verification noted 169 missing yes/no counts on some records. |
+| title_filter_scope | — | documented_gap | Eighteen of 88 discovered bills have passes_water_title_filter=false (keyword hits that did not meet the stricter water-title filter); they remain in the dataset for review. |
