@@ -1,0 +1,171 @@
+{
+  "issue_id": "nevada-04-water-scarcity",
+  "issue_title": "Growth, Water Scarcity, and Long-Term Supply in Nevada",
+  "state": "nevada",
+  "issue_slug": "water-scarcity",
+  "brief_dir": "briefs/nevada/water-scarcity/version-0",
+  "reviewed_at": "2026-07-16T20:34:28Z",
+  "agent": "final-reviewer",
+  "automated_result": "READY FOR HUMAN REVIEW",
+  "recommended_human_reviewers": [
+    "Ryan Echols",
+    "Jodi Stephens",
+    "Ashley Lovell"
+  ],
+  "overall_pass": true,
+  "failed_check_ids": [],
+  "warning_check_ids": [
+    "A2",
+    "C3",
+    "E3"
+  ],
+  "checks": [
+    {
+      "id": "A1",
+      "check": "Verification report exists",
+      "result": "PASS",
+      "notes": "sources/nevada/water-scarcity/verification/report.json present"
+    },
+    {
+      "id": "A2",
+      "check": "Verification status acceptable",
+      "result": "PASS",
+      "notes": "overall_status is PASS_WITH_WARNINGS (acceptable). Data scraper intentionally skipped; keyword-discovered scope and missing classic manifest layout noted by verifier."
+    },
+    {
+      "id": "A3",
+      "check": "Synthesis exists",
+      "result": "PASS",
+      "notes": "working/nevada/water-scarcity/synthesis.json present"
+    },
+    {
+      "id": "A4",
+      "check": "Analysis exists",
+      "result": "PASS",
+      "notes": "working/nevada/water-scarcity/analysis-memo.md present (analysis.json also present)"
+    },
+    {
+      "id": "A5",
+      "check": "Edit logs exist",
+      "result": "PASS",
+      "notes": "edit-log.md and tone-edit-log.md present in BRIEF_DIR"
+    },
+    {
+      "id": "B1",
+      "check": "Executive summary",
+      "result": "PASS",
+      "notes": "executive-summary.md exists; word count ~1256 (wc -w), within 600–1800"
+    },
+    {
+      "id": "B2",
+      "check": "All appendices",
+      "result": "PASS",
+      "notes": "appendix-a through appendix-f present"
+    },
+    {
+      "id": "B3",
+      "check": "Sources registry",
+      "result": "PASS",
+      "notes": "sources-registry.json valid JSON; 99 source keys"
+    },
+    {
+      "id": "B4",
+      "check": "README",
+      "result": "PASS",
+      "notes": "README.md exists"
+    },
+    {
+      "id": "B5",
+      "check": "Complete assembly",
+      "result": "PASS",
+      "notes": "legislative-brief-v0-complete.md exists"
+    },
+    {
+      "id": "C1",
+      "check": "No orphan citations",
+      "result": "PASS",
+      "notes": "52 unique [S-xxx] citations in executive summary; all resolve in sources-registry; no [P-xxx] citations"
+    },
+    {
+      "id": "C2",
+      "check": "No orphan bills",
+      "result": "PASS",
+      "notes": "43 bill identifiers referenced in executive summary; all present in appendix-a"
+    },
+    {
+      "id": "C3",
+      "check": "Appendix source keys",
+      "result": "PASS",
+      "notes": "Appendix A (88), B (861), C (391) rows: Source Key column present and all keys in registry. D/E have zero data rows. Appendix F schema has no Source Key column (Search Term|Session|Result|Notes); provenance covered by registry used_in_appendices for S-001/S-002/S-003/S-009/S-010/S-011. Warning only."
+    },
+    {
+      "id": "C4",
+      "check": "No uncited claims",
+      "result": "PASS",
+      "notes": "Spot-check of 20 random sentences after line-join: 19 cited; 1 non-factual framing ('Tractability assessment only'). Full sentence scan: 3 uncited lines are meta/framing or claim-absence disclaimers, not factual assertions."
+    },
+    {
+      "id": "D1",
+      "check": "No recommendations",
+      "result": "PASS",
+      "notes": "No should/must/recommend/urge directed at legislature in executive summary or complete-assembly narrative"
+    },
+    {
+      "id": "D2",
+      "check": "Process input labeled",
+      "result": "PASS",
+      "notes": "No citizen quotes or [P-xxx] citations; Phase 1/Phase 2 materials absent and disclosed"
+    },
+    {
+      "id": "D3",
+      "check": "Nonpartisan",
+      "result": "PASS",
+      "notes": "Party language limited to multi-party sponsorship signals with citations; no party blame framing"
+    },
+    {
+      "id": "D4",
+      "check": "Version 0 scope",
+      "result": "PASS",
+      "notes": "Assembly section is tractability assessment only; no invented assembly proposals stated as decided"
+    },
+    {
+      "id": "D5",
+      "check": "Status is DRAFT or READY",
+      "result": "PASS",
+      "notes": "Header Status field present; updated to READY FOR HUMAN REVIEW"
+    },
+    {
+      "id": "E1",
+      "check": "Bill count documented",
+      "result": "PASS",
+      "notes": "appendix-a Record count 88 matches bills-core.json bill_count/bills length 88 and verification counts"
+    },
+    {
+      "id": "E2",
+      "check": "Data gaps documented",
+      "result": "PASS",
+      "notes": "appendix-f not empty (Record count 98); documents OpenStates gaps, collection scope, agency/forum absences, vote-count gaps"
+    },
+    {
+      "id": "E3",
+      "check": "Dead links flagged",
+      "result": "PASS",
+      "notes": "verification/failed-urls.json is empty []; link sample 20/20 alive. No failed URLs to flag. Warning: scraper skipped so dead-link coverage is sample-only."
+    },
+    {
+      "id": "E4",
+      "check": "INSUFFICIENT DATA used",
+      "result": "PASS",
+      "notes": "IMPACT_DATA_NOT_AVAILABLE used for 2019–2023 enactments; no speculative post-enactment impact claims"
+    }
+  ],
+  "blocking_issues": [],
+  "warnings": [
+    "Verification overall_status is PASS_WITH_WARNINGS (data scraper skipped; keyword-discovered 88-bill set not proven exhaustive).",
+    "Appendix F rows lack per-row Source Key columns by formatter schema; gap file linked via registry used_in_appendices.",
+    "Dead-link check was sample-based (20 URLs); full re-scrape not performed.",
+    "169 floor vote records missing yes/no counts (documented in appendix-f and executive summary)."
+  ],
+  "status_field_value": "READY FOR HUMAN REVIEW",
+  "suggested_pr_title": "Legislative Brief Version 0 — Growth, Water Scarcity, and Long-Term Supply in Nevada (nevada)"
+}

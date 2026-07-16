@@ -1,0 +1,565 @@
+{
+  "issue_id": "nevada-04-water-scarcity",
+  "issue_title": "Growth, Water Scarcity, and Long-Term Supply in Nevada",
+  "state": "nevada",
+  "issue_slug": "water-scarcity",
+  "analyzed_at": "2026-07-16T20:30:00Z",
+  "agent": "analyzer",
+  "pipeline_position": 4,
+  "sessions": ["2019", "2021", "2023", "2025"],
+  "impact_lookback_years": 20,
+  "inputs": {
+    "synthesis_json": "working/nevada/water-scarcity/synthesis.json",
+    "synthesis_outline": "working/nevada/water-scarcity/synthesis-outline.md",
+    "config_path": "config/issues/nevada-water-scarcity.yaml"
+  },
+  "dataset_scope": {
+    "source_bill_count": 88,
+    "passes_water_title_filter_count": 70,
+    "disposition_totals": {
+      "Enacted": 45,
+      "Failed": 40,
+      "In_Progress": 3
+    },
+    "keyword_discovered_not_exhaustive": true,
+    "supporting_fact_ids": ["F-001", "F-002", "F-009", "F-479"],
+    "sample_size_note": "88 bills across four sessions — sample is large enough for pattern detection within the keyword-discovered set; patterns are not claimed for an exhaustive universe of all Nevada water bills."
+  },
+  "session_metrics": [
+    {
+      "session": "2019",
+      "session_name": "80th (2019) Session",
+      "bills_introduced": {
+        "value": 20,
+        "water_title_filter_true": 17,
+        "supporting_fact_ids": ["F-010", "F-474"]
+      },
+      "bills_heard_in_committee": {
+        "value": 20,
+        "metric_basis": "origin-committee-seen milestone aggregate in synthesis",
+        "supporting_fact_ids": ["F-474"]
+      },
+      "bills_reaching_floor": {
+        "value": 14,
+        "metric_basis": "origin-chamber-floor-vote milestone aggregate in synthesis",
+        "supporting_fact_ids": ["F-474"]
+      },
+      "bills_enacted": {
+        "value": 13,
+        "supporting_fact_ids": ["F-010", "F-474"],
+        "bill_fact_ids": [
+          "F-033", "F-042", "F-067", "F-074", "F-083", "F-091", "F-099",
+          "F-106", "F-113", "F-125", "F-140", "F-147", "F-154"
+        ]
+      },
+      "bills_failed_or_stalled": {
+        "value": 7,
+        "supporting_fact_ids": ["F-010", "F-474"],
+        "bill_fact_ids": [
+          "F-051", "F-055", "F-061", "F-121", "F-131", "F-134", "F-161"
+        ]
+      },
+      "bills_in_progress": {
+        "value": 0,
+        "supporting_fact_ids": ["F-010"]
+      },
+      "bipartisan_sponsorship": {
+        "bills_with_multi_party_sponsors": 3,
+        "bill_identifiers": ["AB 233", "AB 265", "SB 236"],
+        "supporting_fact_ids": ["F-041", "F-050", "F-105", "F-478"],
+        "note": "Individual sponsorship facts mark these three 2019 bills; aggregate F-478 counts four multi-party bills across the full 88-bill set."
+      }
+    },
+    {
+      "session": "2021",
+      "session_name": "81st (2021) Session",
+      "bills_introduced": {
+        "value": 19,
+        "water_title_filter_true": 14,
+        "supporting_fact_ids": ["F-011", "F-475"]
+      },
+      "bills_heard_in_committee": {
+        "value": 19,
+        "metric_basis": "origin-committee-seen milestone aggregate in synthesis",
+        "supporting_fact_ids": ["F-475"]
+      },
+      "bills_reaching_floor": {
+        "value": 9,
+        "metric_basis": "origin-chamber-floor-vote milestone aggregate in synthesis",
+        "supporting_fact_ids": ["F-475"]
+      },
+      "bills_enacted": {
+        "value": 9,
+        "supporting_fact_ids": ["F-011", "F-475"],
+        "bill_fact_ids": [
+          "F-165", "F-177", "F-191", "F-200", "F-210", "F-239", "F-251",
+          "F-259", "F-265"
+        ]
+      },
+      "bills_failed_or_stalled": {
+        "value": 8,
+        "supporting_fact_ids": ["F-011", "F-475"],
+        "bill_fact_ids": [
+          "F-173", "F-185", "F-207", "F-228", "F-233", "F-245", "F-248", "F-272"
+        ]
+      },
+      "bills_in_progress": {
+        "value": 2,
+        "bill_identifiers": ["AJR 2", "AJR 3"],
+        "supporting_fact_ids": ["F-011", "F-217", "F-222"]
+      },
+      "bipartisan_sponsorship": {
+        "bills_with_multi_party_sponsors": 0,
+        "bill_identifiers": [],
+        "supporting_fact_ids": ["F-478"],
+        "note": "No 2021 bill appears among the multi-party sponsorship signals captured in synthesis sponsorship facts."
+      }
+    },
+    {
+      "session": "2023",
+      "session_name": "82nd (2023) Session",
+      "bills_introduced": {
+        "value": 23,
+        "water_title_filter_true": 22,
+        "supporting_fact_ids": ["F-012", "F-476"]
+      },
+      "bills_heard_in_committee": {
+        "value": 23,
+        "metric_basis": "origin-committee-seen milestone aggregate in synthesis",
+        "supporting_fact_ids": ["F-476"]
+      },
+      "bills_reaching_floor": {
+        "value": 16,
+        "metric_basis": "origin-chamber-floor-vote milestone aggregate in synthesis",
+        "supporting_fact_ids": ["F-476"]
+      },
+      "bills_enacted": {
+        "value": 13,
+        "supporting_fact_ids": ["F-012", "F-476"],
+        "bill_fact_ids": [
+          "F-278", "F-284", "F-291", "F-298", "F-306", "F-321", "F-332",
+          "F-338", "F-351", "F-367", "F-372", "F-378", "F-384"
+        ]
+      },
+      "bills_failed_or_stalled": {
+        "value": 9,
+        "supporting_fact_ids": ["F-012", "F-476"],
+        "bill_fact_ids": [
+          "F-275", "F-314", "F-318", "F-328", "F-336", "F-343", "F-347",
+          "F-358", "F-362"
+        ]
+      },
+      "bills_in_progress": {
+        "value": 1,
+        "bill_identifiers": ["SJR 3"],
+        "supporting_fact_ids": ["F-012", "F-388"]
+      },
+      "bipartisan_sponsorship": {
+        "bills_with_multi_party_sponsors": 0,
+        "bill_identifiers": [],
+        "supporting_fact_ids": ["F-478"],
+        "note": "No 2023 bill appears among the multi-party sponsorship signals captured in synthesis sponsorship facts."
+      }
+    },
+    {
+      "session": "2025",
+      "session_name": "83rd (2025) Session",
+      "bills_introduced": {
+        "value": 26,
+        "water_title_filter_true": 17,
+        "supporting_fact_ids": ["F-013", "F-477"]
+      },
+      "bills_heard_in_committee": {
+        "value": 26,
+        "metric_basis": "origin-committee-seen milestone aggregate in synthesis",
+        "supporting_fact_ids": ["F-477"]
+      },
+      "bills_reaching_floor": {
+        "value": 13,
+        "metric_basis": "origin-chamber-floor-vote milestone aggregate in synthesis",
+        "supporting_fact_ids": ["F-477"]
+      },
+      "bills_enacted": {
+        "value": 10,
+        "supporting_fact_ids": ["F-013", "F-477"],
+        "bill_fact_ids": [
+          "F-393", "F-397", "F-407", "F-412", "F-423", "F-450", "F-456",
+          "F-466", "F-470", "F-473"
+        ]
+      },
+      "bills_failed_or_stalled": {
+        "value": 16,
+        "supporting_fact_ids": ["F-013", "F-477"],
+        "bill_fact_ids": [
+          "F-403", "F-416", "F-420", "F-428", "F-432", "F-434", "F-437",
+          "F-439", "F-442", "F-444", "F-448", "F-452", "F-454", "F-459",
+          "F-461", "F-463"
+        ]
+      },
+      "bills_in_progress": {
+        "value": 0,
+        "supporting_fact_ids": ["F-013"]
+      },
+      "bipartisan_sponsorship": {
+        "bills_with_multi_party_sponsors": 1,
+        "bill_identifiers": ["SB 276"],
+        "supporting_fact_ids": ["F-478", "F-456"],
+        "note": "F-478 aggregate counts four multi-party bills in the dataset. Processed sponsor party labels confirm SB 276 (2025) as the fourth; no separate 2025 sponsorship-fact extract with the multi-party signal was present in synthesis beyond the aggregate."
+      }
+    }
+  ],
+  "topic_patterns": [
+    {
+      "pattern_id": "PAT-001",
+      "label": "Groundwater basin and groundwater management legislation",
+      "sessions_observed": ["2019", "2021", "2023", "2025"],
+      "bill_identifiers": [
+        "SB 140", "AB 95", "SB 236", "SB 113", "SB 112", "SB 176"
+      ],
+      "typical_outcome": "mixed_enacted_and_failed",
+      "outcome_detail": "Several 2019 groundwater/basin bills enacted (SB 140, AB 95, SB 236); 2023 groundwater management plan bill SB 113 enacted; 2023 groundwater basin assessment (SB 112) and groundwater conservation (SB 176) bills failed before/at origin chamber.",
+      "supporting_fact_ids": [
+        "F-088", "F-083", "F-079", "F-074", "F-104", "F-106",
+        "F-355", "F-351", "F-348", "F-347", "F-359", "F-358"
+      ],
+      "certainty": "high"
+    },
+    {
+      "pattern_id": "PAT-002",
+      "label": "Groundwater boards revisions",
+      "sessions_observed": ["2021", "2023", "2025"],
+      "bill_identifiers": ["SB 149", "SB 180", "AB 363"],
+      "typical_outcome": "stalled_failed_without_enactment",
+      "outcome_detail": "All three groundwater-board bills in the set failed: SB 149 stalled in origin committee; SB 180 reached bicameral milestones but did not become signed law; AB 363 did not pass origin chamber.",
+      "supporting_fact_ids": [
+        "F-230", "F-228", "F-365", "F-362", "F-435", "F-434"
+      ],
+      "certainty": "high"
+    },
+    {
+      "pattern_id": "PAT-003",
+      "label": "Water conservation plan and conservation statutory revisions",
+      "sessions_observed": ["2019", "2021", "2023", "2025"],
+      "bill_identifiers": ["AB 163", "AB 356", "AB 191", "AB 220", "AB 134"],
+      "typical_outcome": "often_enacted",
+      "outcome_detail": "AB 163 (2019), AB 356 (2021), AB 191 (2023), and AB 220 (2023) enacted; AB 134 (2025) failed in origin committee.",
+      "supporting_fact_ids": [
+        "F-038", "F-033", "F-196", "F-191", "F-289", "F-284",
+        "F-303", "F-298", "F-417", "F-416"
+      ],
+      "certainty": "high"
+    },
+    {
+      "pattern_id": "PAT-004",
+      "label": "Division of Water Resources and water-infrastructure appropriations",
+      "sessions_observed": ["2019", "2021", "2023"],
+      "bill_identifiers": ["SB 509", "AB 465", "SB 472", "SB 473", "SB 102"],
+      "typical_outcome": "often_enacted",
+      "outcome_detail": "SB 509, AB 465, SB 472, and SB 473 enacted as appropriations to DWR or related water infrastructure/study uses; SB 102 (grants for water resource plans) failed in origin committee.",
+      "supporting_fact_ids": [
+        "F-151", "F-147", "F-204", "F-200", "F-375", "F-372",
+        "F-381", "F-378", "F-344", "F-343"
+      ],
+      "certainty": "high"
+    },
+    {
+      "pattern_id": "PAT-005",
+      "label": "Colorado River Commission and Colorado River protection measures",
+      "sessions_observed": ["2019", "2021", "2023"],
+      "bill_identifiers": ["SB 76", "AB 15", "SJR 3"],
+      "typical_outcome": "failed_in_origin_committee_or_nonbinding_resolution",
+      "outcome_detail": "SB 76 and AB 15 failed in origin committee; SJR 3 (Colorado River protection urging) recorded as In Progress after enrollment/delivery to Secretary of State.",
+      "supporting_fact_ids": [
+        "F-162", "F-161", "F-174", "F-173", "F-391", "F-388"
+      ],
+      "certainty": "high"
+    },
+    {
+      "pattern_id": "PAT-006",
+      "label": "State Engineer / NRS 533 appropriation and adjudication framework",
+      "sessions_observed": ["2019", "2021", "2023", "2025"],
+      "bill_identifiers": [
+        "AB 30", "AB 51", "AB 62", "SB 140", "SB 236", "AB 6", "AB 5", "SB 31"
+      ],
+      "typical_outcome": "recurring_cross_session_focus_mixed_outcomes",
+      "outcome_detail": "NRS 533 cited in digests/titles of 26 bills; State Engineer referenced for 41 bills. Outcomes mix enactment (e.g., SB 140, SB 236, AB 6) and failure (e.g., AB 30, AB 51, AB 5, SB 31).",
+      "supporting_fact_ids": [
+        "F-014", "F-026", "F-030", "F-058", "F-055", "F-063", "F-061",
+        "F-083", "F-106", "F-210", "F-207", "F-458", "F-459"
+      ],
+      "certainty": "high"
+    },
+    {
+      "pattern_id": "PAT-007",
+      "label": "Community and public water system measures",
+      "sessions_observed": ["2021", "2023"],
+      "bill_identifiers": ["SB 216", "SB 238", "AB 186"],
+      "typical_outcome": "stalled_in_origin_committee",
+      "outcome_detail": "SB 216 (community water systems), SB 238 (public water systems), and AB 186 (drinking water at food establishments) all failed without leaving origin committee under Joint Standing Rule 14.3.1 signals.",
+      "supporting_fact_ids": [
+        "F-243", "F-245", "F-246", "F-248", "F-273", "F-275"
+      ],
+      "certainty": "high"
+    },
+    {
+      "pattern_id": "PAT-008",
+      "label": "Water banks authorization",
+      "sessions_observed": ["2021"],
+      "bill_identifiers": ["AB 354"],
+      "typical_outcome": "stalled_in_origin_committee",
+      "outcome_detail": "Single observed water-banks authorization bill failed in origin committee.",
+      "supporting_fact_ids": ["F-187", "F-185"],
+      "certainty": "low",
+      "certainty_note": "INSUFFICIENT FOR STRONG CONCLUSION — only one supporting bill instance in the keyword-discovered set."
+    },
+    {
+      "pattern_id": "PAT-009",
+      "label": "Drought planning / water resources advisory board creation",
+      "sessions_observed": ["2019"],
+      "bill_identifiers": ["SB 499"],
+      "typical_outcome": "stalled_in_origin_committee",
+      "outcome_detail": "SB 499 to create Advisory Board on Water Resources Planning and Drought Resiliency failed without leaving origin committee.",
+      "supporting_fact_ids": ["F-136", "F-134"],
+      "certainty": "low",
+      "certainty_note": "INSUFFICIENT FOR STRONG CONCLUSION — only one supporting bill instance."
+    }
+  ],
+  "enacted_policy_impact": {
+    "lookback_years": 20,
+    "agency_evaluation_documents_in_synthesis": false,
+    "supporting_fact_ids": ["F-006"],
+    "interim_and_agency_documents_bucket_count": 0,
+    "entries": [
+      {
+        "session": "2019",
+        "bills": [
+          "AB 163", "AB 233", "AB 62", "AB 95", "SB 140", "SB 150", "SB 232",
+          "SB 236", "SB 250", "SB 433", "SB 507", "SB 509", "SB 547"
+        ],
+        "enactment_fact_ids": [
+          "F-033", "F-042", "F-067", "F-074", "F-083", "F-091", "F-099",
+          "F-106", "F-113", "F-125", "F-140", "F-147", "F-154"
+        ],
+        "impact_status": "IMPACT_DATA_NOT_AVAILABLE",
+        "impact_note": "IMPACT_DATA_NOT_AVAILABLE for 2019 enacted bills in this set — no agency reports, fiscal evaluation documents, or interim LCB evaluation memos were present in synthesis."
+      },
+      {
+        "session": "2021",
+        "bills": [
+          "AB 146", "AB 333", "AB 356", "AB 465", "AB 6", "SB 205", "SB 33",
+          "SB 67", "SB 98"
+        ],
+        "enactment_fact_ids": [
+          "F-165", "F-177", "F-191", "F-200", "F-210", "F-239", "F-251",
+          "F-259", "F-265"
+        ],
+        "impact_status": "IMPACT_DATA_NOT_AVAILABLE",
+        "impact_note": "IMPACT_DATA_NOT_AVAILABLE for 2021 enacted bills in this set — no agency/fiscal evaluation documents linked in synthesis."
+      },
+      {
+        "session": "2023",
+        "bills": [
+          "AB 19", "AB 191", "AB 20", "AB 220", "AB 261", "AB 34", "AB 470",
+          "AB 91", "SB 113", "SB 258", "SB 472", "SB 473", "SB 59"
+        ],
+        "enactment_fact_ids": [
+          "F-278", "F-284", "F-291", "F-298", "F-306", "F-321", "F-332",
+          "F-338", "F-351", "F-367", "F-372", "F-378", "F-384"
+        ],
+        "impact_status": "IMPACT_DATA_NOT_AVAILABLE",
+        "impact_note": "IMPACT_DATA_NOT_AVAILABLE for 2023 enacted bills in this set (enactment more than two years before analysis date) — no agency/fiscal evaluation documents linked in synthesis."
+      },
+      {
+        "session": "2025",
+        "bills": [
+          "AB 10", "AB 104", "AB 110", "AB 132", "AB 26", "SB 108", "SB 276",
+          "SB 36", "SB 43", "SB 466"
+        ],
+        "enactment_fact_ids": [
+          "F-393", "F-397", "F-407", "F-412", "F-423", "F-450", "F-456",
+          "F-466", "F-470", "F-473"
+        ],
+        "impact_status": "NOT_IN_LOOKBACK_WINDOW",
+        "impact_note": "2025 enactments are within two years of the analysis date; 20-year impact evaluation was not applied to these bills under Analyzer rules."
+      }
+    ]
+  },
+  "stall_points": {
+    "summary": "Among 40 failed bills in the keyword-discovered set, the dominant stall point is origin committee (26 bills). Secondary stalls: origin chamber without passage (7), second-chamber committee (5), and bicameral passage without signed law (2). No failed bills in this set are recorded as executive vetoes.",
+    "counts": {
+      "did_not_pass_out_of_origin_committee": 26,
+      "did_not_pass_origin_chamber": 7,
+      "did_not_clear_second_chamber_committee": 5,
+      "did_not_become_signed_law_after_bicameral_passage": 2,
+      "executive_veto": 0
+    },
+    "by_session": {
+      "2019": {
+        "origin_committee": 5,
+        "origin_chamber": 1,
+        "second_chamber_committee": 0,
+        "post_bicameral_no_signed_law": 1
+      },
+      "2021": {
+        "origin_committee": 8,
+        "origin_chamber": 0,
+        "second_chamber_committee": 0,
+        "post_bicameral_no_signed_law": 0
+      },
+      "2023": {
+        "origin_committee": 3,
+        "origin_chamber": 3,
+        "second_chamber_committee": 2,
+        "post_bicameral_no_signed_law": 1
+      },
+      "2025": {
+        "origin_committee": 10,
+        "origin_chamber": 3,
+        "second_chamber_committee": 3,
+        "post_bicameral_no_signed_law": 0
+      }
+    },
+    "supporting_fact_ids": [
+      "F-051", "F-055", "F-061", "F-121", "F-131", "F-134", "F-161",
+      "F-173", "F-185", "F-207", "F-228", "F-233", "F-245", "F-248", "F-272",
+      "F-275", "F-314", "F-318", "F-328", "F-336", "F-343", "F-347", "F-358",
+      "F-362", "F-403", "F-416", "F-420", "F-428", "F-432", "F-434", "F-437",
+      "F-439", "F-442", "F-444", "F-448", "F-452", "F-454", "F-459", "F-461",
+      "F-463"
+    ],
+    "inference": "This is an inference from the failed_or_stalled milestone signals in F-051–F-463 (failed bucket), not a primary source statement that committees are the institutional cause of non-passage."
+  },
+  "bipartisan_signals": {
+    "bills_with_multi_party_sponsors": 4,
+    "total_bills_in_dataset": 88,
+    "supporting_fact_ids": ["F-478", "F-041", "F-050", "F-105"],
+    "identified_bills": [
+      {
+        "bill_identifier": "AB 233",
+        "session": "2019",
+        "disposition": "Enacted",
+        "supporting_fact_ids": ["F-041", "F-042"]
+      },
+      {
+        "bill_identifier": "AB 265",
+        "session": "2019",
+        "disposition": "Failed",
+        "supporting_fact_ids": ["F-050", "F-051"]
+      },
+      {
+        "bill_identifier": "SB 236",
+        "session": "2019",
+        "disposition": "Enacted",
+        "supporting_fact_ids": ["F-105", "F-106"]
+      },
+      {
+        "bill_identifier": "SB 276",
+        "session": "2025",
+        "disposition": "Enacted",
+        "supporting_fact_ids": ["F-478", "F-456"],
+        "note": "Counted in F-478 aggregate; individual multi-party sponsorship extract not present among the 40 sponsorship facts in synthesis; confirmed against processed sponsor party labels solely to resolve which bill completes the aggregate count of 4."
+      }
+    ],
+    "statement": "Bipartisan sponsorship appeared on 4 of 88 bills."
+  },
+  "viability_indicators": [
+    {
+      "indicator_id": "VI-001",
+      "allowed_phrase_form": "Historically, bills on [topic] have [pattern].",
+      "text": "Historically, bills on groundwater boards have failed without enactment across the 2021, 2023, and 2025 sessions in this dataset.",
+      "supporting_pattern_ids": ["PAT-002"],
+      "supporting_fact_ids": ["F-228", "F-362", "F-434"]
+    },
+    {
+      "indicator_id": "VI-002",
+      "allowed_phrase_form": "Historically, bills on [topic] have [pattern].",
+      "text": "Historically, bills on water conservation statutory revisions have often enacted in 2019–2023, with at least one 2025 conservation bill failing in origin committee.",
+      "supporting_pattern_ids": ["PAT-003"],
+      "supporting_fact_ids": ["F-033", "F-191", "F-284", "F-298", "F-416"]
+    },
+    {
+      "indicator_id": "VI-003",
+      "allowed_phrase_form": "Enacted legislation on [topic] is [rare / occasional / common] in the last 4 sessions.",
+      "text": "Enacted legislation on water-related subjects in this keyword-discovered set is common in the last 4 sessions (45 of 88 bills enacted).",
+      "supporting_fact_ids": ["F-479", "F-010", "F-011", "F-012", "F-013"]
+    },
+    {
+      "indicator_id": "VI-004",
+      "allowed_phrase_form": "Enacted legislation on [topic] is [rare / occasional / common] in the last 4 sessions.",
+      "text": "Enacted legislation on Division of Water Resources appropriations is common in the last 4 sessions within this dataset (multiple enacted appropriations in 2019, 2021, and 2023).",
+      "supporting_pattern_ids": ["PAT-004"],
+      "supporting_fact_ids": ["F-147", "F-200", "F-372", "F-378"]
+    },
+    {
+      "indicator_id": "VI-005",
+      "allowed_phrase_form": "Bipartisan sponsorship appeared on [N] of [M] bills.",
+      "text": "Bipartisan sponsorship appeared on 4 of 88 bills.",
+      "supporting_fact_ids": ["F-478"]
+    },
+    {
+      "indicator_id": "VI-006",
+      "allowed_phrase_form": "Data gaps prevent assessment of [specific subtopic].",
+      "text": "Data gaps prevent assessment of post-enactment policy impact for laws in the 20-year lookback window.",
+      "supporting_fact_ids": ["F-006"]
+    },
+    {
+      "indicator_id": "VI-007",
+      "allowed_phrase_form": "Data gaps prevent assessment of [specific subtopic].",
+      "text": "Data gaps prevent assessment of exhaustive bill-universe coverage beyond this keyword-discovered set.",
+      "supporting_fact_ids": ["F-001", "F-002", "F-003"]
+    },
+    {
+      "indicator_id": "VI-008",
+      "allowed_phrase_form": "Historically, bills on [topic] have [pattern].",
+      "text": "Historically, bills on community and public water systems in this set have stalled in origin committee.",
+      "supporting_pattern_ids": ["PAT-007"],
+      "supporting_fact_ids": ["F-245", "F-248", "F-275"]
+    }
+  ],
+  "data_gaps": [
+    {
+      "gap_id": "GAP-001",
+      "description": "Keyword-discovered dataset is not an exhaustive universe of all Nevada water bills.",
+      "supporting_fact_ids": ["F-001", "F-002", "F-003", "F-009"]
+    },
+    {
+      "gap_id": "GAP-002",
+      "description": "OpenStates detail enrichment largely unavailable; NELIS was primary bill-detail source.",
+      "supporting_fact_ids": ["F-004", "F-005"]
+    },
+    {
+      "gap_id": "GAP-003",
+      "description": "No interim LCB memos or agency evaluation reports in sources for impact analysis.",
+      "supporting_fact_ids": ["F-006"]
+    },
+    {
+      "gap_id": "GAP-004",
+      "description": "No Forum Phase 1 or Phase 2 process materials available; forum_process_input empty.",
+      "supporting_fact_ids": ["F-007"]
+    },
+    {
+      "gap_id": "GAP-005",
+      "description": "Vote records include missing yes/no counts on some rows.",
+      "supporting_fact_ids": ["F-008"]
+    },
+    {
+      "gap_id": "GAP-006",
+      "description": "Sponsorship party labels incomplete for many committee-sponsored bills; multi-party signal available for only a subset.",
+      "supporting_fact_ids": ["F-478"]
+    }
+  ],
+  "constraints_observed": {
+    "no_web_scraping": true,
+    "no_new_bill_search": true,
+    "no_recommendations_language": true,
+    "allowed_viability_phrasing_only": true,
+    "impact_speculation_forbidden": true,
+    "forum_process_input_not_conflated_with_legislative_history": true,
+    "local_inputs_only": [
+      "working/nevada/water-scarcity/synthesis.json",
+      "working/nevada/water-scarcity/synthesis-outline.md",
+      "config/issues/nevada-water-scarcity.yaml",
+      "sources/nevada/water-scarcity/processed/* (fact_id / count confirmation only)"
+    ]
+  }
+}

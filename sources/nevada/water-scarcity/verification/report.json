@@ -1,0 +1,294 @@
+{
+  "issue_id": "nevada-04-water-scarcity",
+  "verified_at": "2026-07-16T20:19:17.604876+00:00",
+  "agent": "data-verifier",
+  "overall_status": "PASS_WITH_WARNINGS",
+  "pipeline_note": "Skipped data-scraper per operator instruction; verified existing Pass 1/Pass 2 files only.",
+  "checks": [
+    {
+      "check_id": "bill_identifiers",
+      "status": "PASS",
+      "detail": "88 bills checked; 0 issues",
+      "issues": []
+    },
+    {
+      "check_id": "bill_count_consistency",
+      "status": "PASS",
+      "detail": "pass1=88 core=88 expected=88"
+    },
+    {
+      "check_id": "sponsors_coverage",
+      "status": "PASS",
+      "detail": "88 bills with sponsors; missing=0; classifications={'primary': 131, 'cosponsor': 51}"
+    },
+    {
+      "check_id": "disposition_milestone_consistency",
+      "status": "PASS",
+      "detail": "0 inconsistencies",
+      "issues": []
+    },
+    {
+      "check_id": "votes_structure",
+      "status": "PASS",
+      "detail": "391 floor vote records; 169 missing yes/no counts"
+    },
+    {
+      "check_id": "manifest_coverage",
+      "status": "PASS_WITH_WARNINGS",
+      "detail": "manifest.json not present; Pass 2 uses processed/ + pass1/ caches instead of classic raw/manifest layout"
+    },
+    {
+      "check_id": "links_alive_sample",
+      "status": "PASS",
+      "detail": "Sampled 20 URLs (no full re-scrape); 20 alive",
+      "sample_size": 20
+    },
+    {
+      "check_id": "official_page_match_sample",
+      "status": "PASS",
+      "detail": "Checked 5 NELIS pages for bill id presence",
+      "results": [
+        {
+          "bill": "80:AB163",
+          "official_page_match": true,
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6249/Overview"
+        },
+        {
+          "bill": "80:AB233",
+          "official_page_match": true,
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6409/Overview"
+        },
+        {
+          "bill": "80:AB62",
+          "official_page_match": true,
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5987/Overview"
+        },
+        {
+          "bill": "80:AB95",
+          "official_page_match": true,
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6082/Overview"
+        },
+        {
+          "bill": "80:SB140",
+          "official_page_match": true,
+          "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6171/Overview"
+        }
+      ]
+    },
+    {
+      "check_id": "collection_scope",
+      "status": "PASS_WITH_WARNINGS",
+      "detail": "Dataset is keyword-discovered Pass 1/2 set (88 bills), not a proven exhaustive universe of all Nevada water bills. Verifier did not run a new search."
+    }
+  ],
+  "link_sample": [
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6249/Overview",
+      "label": "80:AB163",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6249/Overview",
+      "response_time_s": 0.21,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6409/Overview",
+      "label": "80:AB233",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6409/Overview",
+      "response_time_s": 0.14,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5987/Overview",
+      "label": "80:AB62",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5987/Overview",
+      "response_time_s": 0.14,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6082/Overview",
+      "label": "80:AB95",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6082/Overview",
+      "response_time_s": 0.14,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6171/Overview",
+      "label": "80:SB140",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6171/Overview",
+      "response_time_s": 0.15,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6382/Overview",
+      "label": "80:SB232",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6382/Overview",
+      "response_time_s": 0.14,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6400/Overview",
+      "label": "80:SB236",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6400/Overview",
+      "response_time_s": 0.14,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6424/Overview",
+      "label": "80:SB250",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6424/Overview",
+      "response_time_s": 0.14,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6814/Overview",
+      "label": "80:SB433",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6814/Overview",
+      "response_time_s": 0.14,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6979/Overview",
+      "label": "80:SB507",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6979/Overview",
+      "response_time_s": 0.14,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6981/Overview",
+      "label": "80:SB509",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6981/Overview",
+      "response_time_s": 0.14,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7475/Overview",
+      "label": "81:AB146",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7475/Overview",
+      "response_time_s": 0.15,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7910/Overview",
+      "label": "81:AB356",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7910/Overview",
+      "response_time_s": 0.15,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8164/Overview",
+      "label": "81:AB465",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8164/Overview",
+      "response_time_s": 0.14,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7236/Overview",
+      "label": "81:AB6",
+      "kind": "nelis",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7236/Overview",
+      "response_time_s": 0.15,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB163.pdf",
+      "label": "80:AB163",
+      "kind": "pdf",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB163.pdf",
+      "response_time_s": 0.55,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB233.pdf",
+      "label": "80:AB233",
+      "kind": "pdf",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB233.pdf",
+      "response_time_s": 0.49,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB62.pdf",
+      "label": "80:AB62",
+      "kind": "pdf",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB62.pdf",
+      "response_time_s": 0.5,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB95.pdf",
+      "label": "80:AB95",
+      "kind": "pdf",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB95.pdf",
+      "response_time_s": 0.39,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    },
+    {
+      "url": "https://www.leg.state.nv.us/Session/80th2019/Bills/SB/SB140.pdf",
+      "label": "80:SB140",
+      "kind": "pdf",
+      "status_code": 200,
+      "verified": true,
+      "final_url": "https://archive.leg.state.nv.us/Session/80th2019/Bills/SB/SB140.pdf",
+      "response_time_s": 0.37,
+      "checked_at": "2026-07-16T20:19:17.604876+00:00"
+    }
+  ],
+  "counts": {
+    "pass1_bills": 88,
+    "core_bills": 88,
+    "floor_votes": 391,
+    "sponsor_rows": 182,
+    "progress_rows": 88,
+    "action_rows": 861
+  }
+}
