@@ -16,10 +16,16 @@ OUT = PROCESSED / "readable"
 
 PROGRESS = PROCESSED / "bill-legislative-progress.json"
 VOTES = PROCESSED / "bill-votes.json"
+CORE = PROCESSED / "bills-core.json"
+TEXT_CHANGES = PROCESSED / "bill-text-changes.json"
 
 
 def load(path: Path):
     return json.loads(path.read_text(encoding="utf-8")) if path.exists() else []
+
+
+def load_obj(path: Path):
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
 
 
 def yn(value: bool) -> str:
@@ -291,6 +297,236 @@ def write_html(progress: list[dict], votes: list[dict]) -> None:
     print(f"Wrote {path}")
 
 
+def write_core_md(core_bills: list[dict]) -> None:
+    lines = [
+        "# Nevada water bills — core review set (Pass 2)",
+        "",
+        f"Total bills: **{len(core_bills)}**",
+        "",
+        "Each bill includes the **full abstract** (what the bill does), legislative milestones, "
+        "and — for Governor-bound bills — an introduced vs enrolled change summary.",
+        "",
+    ]
+    for i, bill in enumerate(core_bills, start=1):
+        m = bill.get("milestones") or {}
+        lines.extend(
+            [
+                f"## {i}. {bill.get('session')}:{bill.get('identifier')}",
+                "",
+                f"- **Title:** {bill.get('title') or '—'}",
+                f"- **Disposition:** {bill.get('final_disposition') or '—'}",
+                f"- **Latest action:** {bill.get('most_recent_action') or '—'}",
+                "",
+                "### What the bill does (NELIS digest)",
+                "",
+                (bill.get("abstract") or bill.get("what_the_bill_does") or "_(no abstract)_").strip(),
+                "",
+                "### Path through the legislature",
+                "",
+                f"- Seen in committee (origin): {yn(bool(m.get('seen_in_committee_origin')))}",
+                f"- Passed out of committee (origin): {yn(bool(m.get('passed_out_of_committee_origin')))}",
+                f"- Floor vote / passed origin chamber: {yn(bool(m.get('floor_vote_origin_chamber')))} / {yn(bool(m.get('passed_origin_chamber')))}",
+                f"- Crossed over: {yn(bool(m.get('crossed_over')))}",
+                f"- Other chamber committee / floor / passed: "
+                f"{yn(bool(m.get('seen_in_committee_second_chamber')))} / "
+                f"{yn(bool(m.get('floor_vote_second_chamber')))} / "
+                f"{yn(bool(m.get('passed_second_chamber')))}",
+                f"- Signed into law: {yn(bool(m.get('signed_into_law')))}",
+                "",
+            ]
+        )
+        text = bill.get("text_changes")
+        if text and text.get("status") == "ok":
+            lines.extend(
+                [
+                    "### Introduced vs enrolled (Governor-bound)",
+                    "",
+                    f"- **Textually amended:** {yn(bool(text.get('was_textually_amended')))}",
+                    f"- **Similarity:** {text.get('similarity_ratio')}",
+                    f"- **Amendments listed on NELIS:** {', '.join(text.get('amendments_listed') or []) or '—'}",
+                    f"- **Summary:** {text.get('narrative') or '—'}",
+                    "",
+                ]
+            )
+            if text.get("enrolled_legislative_counsel_digest"):
+                lines.extend(
+                    [
+                        "**Legislative Counsel’s Digest (as enrolled):**",
+                        "",
+                        text["enrolled_legislative_counsel_digest"],
+                        "",
+                    ]
+                )
+            elif text.get("enrolled_act_clause"):
+                lines.extend(
+                    [
+                        "**Enrolled act clause:**",
+                        "",
+                        text["enrolled_act_clause"],
+                        "",
+                    ]
+                )
+        elif bill.get("governor_bound"):
+            lines.append("_Governor-bound, but introduced/enrolled comparison not available._")
+            lines.append("")
+        if bill.get("nelis_url"):
+            lines.append(f"[NELIS page]({bill['nelis_url']})")
+            lines.append("")
+        lines.append("---")
+        lines.append("")
+    path = OUT / "bills-core-readable.md"
+    path.write_text("\n".join(lines), encoding="utf-8")
+    print(f"Wrote {path}")
+
+
+def write_core_csv(core_bills: list[dict]) -> None:
+    fields = [
+        "session",
+        "identifier",
+        "title",
+        "abstract",
+        "final_disposition",
+        "most_recent_action",
+        "signed_into_law",
+        "governor_bound",
+        "was_textually_amended",
+        "similarity_ratio",
+        "text_change_narrative",
+        "amendments_listed",
+        "nelis_url",
+    ]
+    path = OUT / "bills-core-readable.csv"
+    with path.open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fields)
+        writer.writeheader()
+        for bill in core_bills:
+            text = bill.get("text_changes") or {}
+            m = bill.get("milestones") or {}
+            writer.writerow(
+                {
+                    "session": bill.get("session"),
+                    "identifier": bill.get("identifier"),
+                    "title": bill.get("title"),
+                    "abstract": bill.get("abstract"),
+                    "final_disposition": bill.get("final_disposition"),
+                    "most_recent_action": bill.get("most_recent_action"),
+                    "signed_into_law": yn(bool(m.get("signed_into_law"))),
+                    "governor_bound": yn(bool(bill.get("governor_bound"))),
+                    "was_textually_amended": (
+                        yn(bool(text.get("was_textually_amended"))) if text else ""
+                    ),
+                    "similarity_ratio": text.get("similarity_ratio", ""),
+                    "text_change_narrative": text.get("narrative", ""),
+                    "amendments_listed": "; ".join(text.get("amendments_listed") or []),
+                    "nelis_url": bill.get("nelis_url"),
+                }
+            )
+    print(f"Wrote {path}")
+
+
+def write_text_changes_md(text_payload: dict) -> None:
+    bills = text_payload.get("bills") or []
+    lines = [
+        "# Nevada water bills — introduced vs enrolled changes",
+        "",
+        "Only bills that were enrolled / delivered to the Governor (or signed).",
+        "",
+        f"Total compared: **{len(bills)}**",
+        "",
+    ]
+    for i, bill in enumerate(bills, start=1):
+        lines.extend(
+            [
+                f"## {i}. {bill.get('session')}:{bill.get('bill_identifier')}",
+                "",
+                f"- **Title:** {bill.get('title') or '—'}",
+                f"- **Status:** {bill.get('status')}",
+                f"- **Textually amended:** {yn(bool(bill.get('was_textually_amended')))}",
+                f"- **Similarity:** {bill.get('similarity_ratio')}",
+                f"- **Amendments:** {', '.join(bill.get('amendments_listed') or []) or '—'}",
+                "",
+                bill.get("narrative") or "",
+                "",
+            ]
+        )
+        if bill.get("enrolled_legislative_counsel_digest"):
+            lines.extend(
+                [
+                    "### Legislative Counsel’s Digest (enrolled)",
+                    "",
+                    bill["enrolled_legislative_counsel_digest"],
+                    "",
+                ]
+            )
+        if bill.get("introduced_summary"):
+            lines.extend(
+                [
+                    "### Introduced SUMMARY line",
+                    "",
+                    bill["introduced_summary"],
+                    "",
+                ]
+            )
+        if bill.get("introduced"):
+            lines.append(f"- Introduced PDF: {bill['introduced'].get('url')}")
+        if bill.get("enrolled"):
+            lines.append(f"- Enrolled PDF: {bill['enrolled'].get('url')}")
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+    path = OUT / "text-changes-readable.md"
+    path.write_text("\n".join(lines), encoding="utf-8")
+    print(f"Wrote {path}")
+
+
+def write_core_html(core_bills: list[dict]) -> None:
+    parts = [
+        "<!DOCTYPE html><html><head><meta charset='utf-8'>",
+        "<title>Nevada water bills — core Pass 2</title>",
+        "<style>",
+        "body{font-family:Georgia,serif;max-width:900px;margin:2rem auto;padding:0 1rem;line-height:1.45}",
+        "h1{font-size:1.7rem} h2{font-size:1.25rem;margin-top:2rem;border-top:1px solid #ccc;padding-top:1rem}",
+        ".meta{color:#333}.abstract{margin:0.75rem 0;white-space:pre-wrap}",
+        ".yes{color:#0a5}.no{color:#555}",
+        "</style></head><body>",
+        "<h1>Nevada water bills — core review set</h1>",
+        f"<p class='meta'>{len(core_bills)} bills with abstracts, progress, and Governor-bound text diffs</p>",
+    ]
+    for i, bill in enumerate(core_bills, start=1):
+        m = bill.get("milestones") or {}
+        parts.append(
+            f"<h2>{i}. {html.escape(str(bill.get('session')))}:{html.escape(str(bill.get('identifier')))}</h2>"
+        )
+        parts.append(
+            f"<p class='meta'><strong>Title:</strong> {html.escape(bill.get('title') or '—')}<br>"
+            f"<strong>Disposition:</strong> {html.escape(bill.get('final_disposition') or '—')}<br>"
+            f"<strong>Signed into law:</strong> "
+            f"<span class='{'yes' if m.get('signed_into_law') else 'no'}'>"
+            f"{yn(bool(m.get('signed_into_law')))}</span></p>"
+        )
+        parts.append("<h3>What the bill does</h3>")
+        parts.append(
+            f"<p class='abstract'>{html.escape((bill.get('abstract') or '—').strip())}</p>"
+        )
+        text = bill.get("text_changes")
+        if text and text.get("status") == "ok":
+            parts.append("<h3>Introduced vs enrolled</h3>")
+            parts.append(
+                f"<p class='meta'>{html.escape(text.get('narrative') or '')}<br>"
+                f"Amended: {yn(bool(text.get('was_textually_amended')))} · "
+                f"Similarity: {text.get('similarity_ratio')}</p>"
+            )
+            digest = text.get("enrolled_legislative_counsel_digest") or text.get(
+                "enrolled_act_clause"
+            )
+            if digest:
+                parts.append(f"<p class='abstract'>{html.escape(digest)}</p>")
+    parts.append("</body></html>")
+    path = OUT / "bills-core-readable.html"
+    path.write_text("\n".join(parts), encoding="utf-8")
+    print(f"Wrote {path}")
+
+
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     progress = load(PROGRESS)
@@ -300,6 +536,18 @@ def main() -> None:
     write_votes_md(votes)
     write_votes_csv(votes)
     write_html(progress, votes)
+
+    core_payload = load_obj(CORE)
+    core_bills = core_payload.get("bills") or []
+    if core_bills:
+        write_core_md(core_bills)
+        write_core_csv(core_bills)
+        write_core_html(core_bills)
+
+    text_payload = load_obj(TEXT_CHANGES)
+    if text_payload.get("bills"):
+        write_text_changes_md(text_payload)
+
     print(f"Readable exports in {OUT}/")
 
 

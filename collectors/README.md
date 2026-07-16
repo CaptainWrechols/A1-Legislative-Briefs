@@ -40,6 +40,17 @@ python collectors/pass2_party_roster.py   # scrape NELIS legislator directories 
 python collectors/pass2_attach_party.py   # write party onto each ballot in bill-votes.json
 ```
 
+### Introduced vs enrolled text (Governor-bound only)
+
+```bash
+python collectors/pass2_text_diff.py
+python collectors/pass2_build_core.py
+```
+
+Compares **As Introduced** vs **As Enrolled** PDFs for bills that went to the Governor.
+Writes `processed/bill-text-changes.json` and merges abstracts + progress into
+`processed/bills-core.json`.
+
 ### Readable review files (Word / Notes / PDF / Excel)
 
 ```bash
@@ -48,6 +59,8 @@ python collectors/export_pass2_readable.py
 
 Creates `processed/readable/`:
 
+- `bills-core-readable.md` / `.html` / `.csv` — **best starting point** (abstract + progress + text changes)
+- `text-changes-readable.md` — introduced vs enrolled for Governor-bound bills
 - `progress-readable.md` / `.csv` — milestone checklist per bill
 - `votes-readable.md` / `.csv` — roll calls with (D)/(R)
-- `pass2-readable.html` — open in a browser → Print → Save as PDF
+- `pass2-readable.html` — progress + votes in one HTML file
