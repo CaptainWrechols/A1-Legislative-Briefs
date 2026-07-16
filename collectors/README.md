@@ -51,16 +51,26 @@ Compares **As Introduced** vs **As Enrolled** PDFs for bills that went to the Go
 Writes `processed/bill-text-changes.json` and merges abstracts + progress into
 `processed/bills-core.json`.
 
+### Committee votes (from minutes PDFs)
+
+NELIS Votes tab only has floor Final Passage. Committee work-session votes are in minutes:
+
+```bash
+python collectors/pass2_committee_votes.py
+```
+
 ### Readable review files (Word / Notes / PDF / Excel)
+
+**Look on branch `cursor/pass2-bill-progress-a39c` (PR #14), not `main`.**
 
 ```bash
 python collectors/export_pass2_readable.py
 ```
 
-Creates `processed/readable/`:
+Creates `sources/nevada/water-scarcity/processed/readable/`:
 
-- `bills-core-readable.md` / `.html` / `.csv` — **best starting point** (abstract + progress + text changes)
-- `text-changes-readable.md` — introduced vs enrolled for Governor-bound bills
-- `progress-readable.md` / `.csv` — milestone checklist per bill
-- `votes-readable.md` / `.csv` — roll calls with (D)/(R)
-- `pass2-readable.html` — progress + votes in one HTML file
+- `README.md` — index of files
+- `bills-core-readable.md` / `.html` / `.csv` — **best starting point**
+- `progress-readable.md` / `.csv` — milestones **plus full abstracts**
+- `votes-readable.md` / `.csv` — floor rolls **and** committee votes
+- `text-changes-readable.md` — introduced vs enrolled

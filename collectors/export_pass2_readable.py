@@ -32,17 +32,21 @@ def yn(value: bool) -> str:
     return "Yes" if value else "No"
 
 
-def write_progress_md(rows: list[dict]) -> None:
+def write_progress_md(rows: list[dict], abstracts: dict[str, str] | None = None) -> None:
+    abstracts = abstracts or {}
     lines = [
         "# Nevada water bills — legislative progress (Pass 2)",
         "",
         f"Total bills: **{len(rows)}**",
         "",
-        "Each bill shows the yes/no path through committee, floor, crossover, and enactment.",
+        "Each bill shows **what it does** (NELIS digest), then the yes/no path through "
+        "committee, floor, crossover, and enactment.",
         "",
     ]
     for i, row in enumerate(rows, start=1):
         m = row.get("milestones") or {}
+        key = f"{row.get('session')}:{row.get('bill_identifier')}"
+        abstract = abstracts.get(key) or row.get("abstract") or row.get("what_the_bill_does") or ""
         lines.extend(
             [
                 f"## {i}. {row.get('session')}:{row.get('bill_identifier')}",
@@ -51,6 +55,10 @@ def write_progress_md(rows: list[dict]) -> None:
                 f"- **Origin chamber:** {row.get('origin_chamber_label') or '—'}",
                 f"- **Final disposition:** {row.get('final_disposition') or '—'}",
                 f"- **Most recent action:** {row.get('most_recent_action') or '—'}",
+                "",
+                "### What the bill does",
+                "",
+                abstract.strip() or "_(no abstract)_",
                 "",
                 "| Milestone | Result |",
                 "|---|---|",
@@ -79,7 +87,10 @@ def write_progress_md(rows: list[dict]) -> None:
     print(f"Wrote {path}")
 
 
-def write_progress_csv(rows: list[dict]) -> None:
+def write_progress_csv(
+    rows: list[dict], abstracts: dict[str, str] | None = None
+) -> None:
+    abstracts = abstracts or {}
     milestone_fields = [
         "seen_in_committee_origin",
         "passed_out_of_committee_origin",
@@ -98,6 +109,7 @@ def write_progress_csv(rows: list[dict]) -> None:
         "session",
         "bill_identifier",
         "title",
+        "abstract",
         "origin_chamber_label",
         "final_disposition",
         "most_recent_action",
@@ -110,37 +122,58 @@ def write_progress_csv(rows: list[dict]) -> None:
         writer.writeheader()
         for row in rows:
             m = row.get("milestones") or {}
+            key = f"{row.get('session')}:{row.get('bill_identifier')}"
             out = {
                 "session": row.get("session"),
                 "bill_identifier": row.get("bill_identifier"),
                 "title": row.get("title"),
+                "abstract": abstracts.get(key)
+                or row.get("abstract")
+                or row.get("what_the_bill_does")
+                or "",
                 "origin_chamber_label": row.get("origin_chamber_label"),
                 "final_disposition": row.get("final_disposition"),
                 "most_recent_action": row.get("most_recent_action"),
                 "nelis_url": row.get("nelis_url"),
             }
-            for key in milestone_fields:
-                out[key] = yn(bool(m.get(key)))
+            for field in milestone_fields:
+                out[field] = yn(bool(m.get(field)))
             writer.writerow(out)
     print(f"Wrote {path}")
 
 
 def write_votes_md(votes: list[dict]) -> None:
+    floor = [v for v in votes if v.get("vote_kind", "floor_final_passage") == "floor_final_passage"]
+    committee = [
+        v
+        for v in votes
+        if v.get("vote_kind") in {"committee_work_session", "committee_hearing"}
+        or v.get("source") in {"nelis_committee_minutes", "nelis_meetings"}
+    ]
     lines = [
         "# Nevada water bills — vote roll calls (Pass 2)",
         "",
-        f"Total vote events: **{len(votes)}**",
+        f"Floor Final Passage events: **{len(floor)}**",
+        f"Committee hearing / work-session events: **{len(committee)}**",
         "",
-        "Each vote lists counts, then Yea/Nay names with party when matched.",
+        "Floor votes come from the NELIS Votes tab (full Yea/Nay rolls).",
+        "Committee votes come from committee **minutes PDFs** (Nevada usually lists "
+        "only NO and ABSENT by name; unanimous passes may not list every Yea).",
+        "",
+        "## Floor votes (Final Passage)",
         "",
     ]
-    for i, vote in enumerate(votes, start=1):
+
+    def append_vote(vote: dict, index: int) -> None:
         counts = vote.get("counts") or {}
+        kind = vote.get("vote_kind") or "floor_final_passage"
         lines.extend(
             [
-                f"## {i}. {vote.get('session')}:{vote.get('bill_identifier')} — {vote.get('motion') or 'Vote'}",
+                f"### {index}. {vote.get('session')}:{vote.get('bill_identifier')} — "
+                f"{vote.get('motion') or vote.get('recommendation') or 'Vote'}",
                 "",
-                f"- **Chamber:** {vote.get('chamber') or '—'}",
+                f"- **Kind:** {kind}",
+                f"- **Chamber / committee:** {vote.get('chamber') or vote.get('committee') or '—'}",
                 f"- **Date:** {vote.get('date') or '—'}",
                 f"- **Result:** {vote.get('result') or '—'}",
                 f"- **Counts:** Yea {counts.get('yes') if counts.get('yes') is not None else '—'}; "
@@ -150,6 +183,12 @@ def write_votes_md(votes: list[dict]) -> None:
                 "",
             ]
         )
+        if vote.get("minutes_url"):
+            lines.append(f"- **Minutes:** {vote['minutes_url']}")
+            lines.append("")
+        if vote.get("note"):
+            lines.append(f"_{vote['note']}_")
+            lines.append("")
         by_option: dict[str, list[str]] = {}
         for ballot in vote.get("ballots") or []:
             option = (ballot.get("vote") or "other").title()
@@ -162,12 +201,28 @@ def write_votes_md(votes: list[dict]) -> None:
             names = by_option.get(option) or []
             if not names:
                 continue
-            lines.append(f"### {option} ({len(names)})")
+            lines.append(f"#### {option} ({len(names)})")
             lines.append("")
             lines.append(", ".join(names))
             lines.append("")
+        if vote.get("excerpt") and not vote.get("ballots"):
+            lines.append("#### Minutes excerpt")
+            lines.append("")
+            lines.append(vote["excerpt"])
+            lines.append("")
         lines.append("---")
         lines.append("")
+
+    for i, vote in enumerate(floor, start=1):
+        append_vote(vote, i)
+    lines.append("## Committee votes / hearings")
+    lines.append("")
+    if not committee:
+        lines.append("No committee vote/hearing rows were collected.")
+        lines.append("")
+    for i, vote in enumerate(committee, start=1):
+        append_vote(vote, i)
+
     path = OUT / "votes-readable.md"
     path.write_text("\n".join(lines), encoding="utf-8")
     print(f"Wrote {path}")
@@ -178,7 +233,8 @@ def write_votes_csv(votes: list[dict]) -> None:
     fields = [
         "session",
         "bill_identifier",
-        "chamber",
+        "vote_kind",
+        "chamber_or_committee",
         "motion",
         "date",
         "result",
@@ -186,37 +242,30 @@ def write_votes_csv(votes: list[dict]) -> None:
         "vote",
         "party",
         "party_source",
+        "minutes_url",
     ]
     with path.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=fields)
         writer.writeheader()
         for vote in votes:
-            ballots = vote.get("ballots") or [{}]
+            chamber = vote.get("chamber") or vote.get("committee") or ""
+            base = {
+                "session": vote.get("session"),
+                "bill_identifier": vote.get("bill_identifier"),
+                "vote_kind": vote.get("vote_kind") or "floor_final_passage",
+                "chamber_or_committee": chamber,
+                "motion": vote.get("motion") or vote.get("recommendation"),
+                "date": vote.get("date"),
+                "result": vote.get("result"),
+                "minutes_url": vote.get("minutes_url") or "",
+            }
             if not vote.get("ballots"):
-                writer.writerow(
-                    {
-                        "session": vote.get("session"),
-                        "bill_identifier": vote.get("bill_identifier"),
-                        "chamber": vote.get("chamber"),
-                        "motion": vote.get("motion"),
-                        "date": vote.get("date"),
-                        "result": vote.get("result"),
-                        "voter_name": "",
-                        "vote": "",
-                        "party": "",
-                        "party_source": "",
-                    }
-                )
+                writer.writerow({**base, "voter_name": "", "vote": "", "party": "", "party_source": ""})
                 continue
-            for ballot in ballots:
+            for ballot in vote.get("ballots") or []:
                 writer.writerow(
                     {
-                        "session": vote.get("session"),
-                        "bill_identifier": vote.get("bill_identifier"),
-                        "chamber": vote.get("chamber"),
-                        "motion": vote.get("motion"),
-                        "date": vote.get("date"),
-                        "result": vote.get("result"),
+                        **base,
                         "voter_name": ballot.get("name"),
                         "vote": ballot.get("vote"),
                         "party": ballot.get("party"),
@@ -527,18 +576,59 @@ def write_core_html(core_bills: list[dict]) -> None:
     print(f"Wrote {path}")
 
 
+def write_readme() -> None:
+    text = """# Pass 2 readable exports
+
+These files are the human-friendly view of the Nevada water bill dataset.
+
+## Start here
+
+1. `bills-core-readable.html` — open in a browser (Print → Save as PDF)
+2. `bills-core-readable.md` — open in Word / Notes
+3. `progress-readable.md` — milestones **plus full abstracts**
+4. `votes-readable.md` — floor Final Passage rolls **and** committee work-session votes
+5. `text-changes-readable.md` — introduced vs enrolled (Governor-bound only)
+
+## Machine JSON (same folder’s parent)
+
+- `../bills-core.json` — title + abstract + progress + text changes
+- `../bill-votes.json` — floor + committee vote events
+- `../bill-committee-votes.json` — committee-only extract
+- `../bill-text-changes.json` — introduced vs enrolled summaries
+
+## GitHub path (PR branch)
+
+`sources/nevada/water-scarcity/processed/readable/` on branch `cursor/pass2-bill-progress-a39c`
+"""
+    path = OUT / "README.md"
+    path.write_text(text, encoding="utf-8")
+    print(f"Wrote {path}")
+
+
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     progress = load(PROGRESS)
     votes = load(VOTES)
-    write_progress_md(progress)
-    write_progress_csv(progress)
+    core_payload = load_obj(CORE)
+    core_bills = core_payload.get("bills") or []
+    abstracts = {
+        f"{b.get('session')}:{b.get('identifier')}": b.get("abstract") or ""
+        for b in core_bills
+    }
+    # Fallback to pass1 bills.json if core missing
+    if not abstracts:
+        pass1 = load_obj(Path("sources/nevada/water-scarcity/pass1/bills.json"))
+        abstracts = {
+            f"{b.get('session')}:{b.get('identifier')}": b.get("abstract") or ""
+            for b in (pass1.get("bills") or [])
+        }
+
+    write_progress_md(progress, abstracts)
+    write_progress_csv(progress, abstracts)
     write_votes_md(votes)
     write_votes_csv(votes)
     write_html(progress, votes)
 
-    core_payload = load_obj(CORE)
-    core_bills = core_payload.get("bills") or []
     if core_bills:
         write_core_md(core_bills)
         write_core_csv(core_bills)
@@ -548,6 +638,7 @@ def main() -> None:
     if text_payload.get("bills"):
         write_text_changes_md(text_payload)
 
+    write_readme()
     print(f"Readable exports in {OUT}/")
 
 
