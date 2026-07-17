@@ -1,41 +1,31 @@
-# Human Review Checklist — Legislative Brief Version 0
+# Review checklist — Citizen legislative reality brief (v2)
 
-Use this checklist when reviewing a Pull Request for a Legislative Brief.
+## Purpose
 
-## Bill and citation integrity
+- [ ] Helps lay citizens weigh political realities
+- [ ] Does **not** tell readers what to pursue / pass / avoid as a command
+- [ ] Uses history baskets: often moved / unfinished / rarely moved
 
-- [ ] Every bill number in the executive summary appears in `appendix-a-bills.md`
-- [ ] Every `[S-xxx]` citation exists in `sources-registry.json`
-- [ ] Every `[P-xxx]` citation is framed as Forum process input, not verified fact
-- [ ] No uncited factual claims remain in the executive summary
+## Reading & explainers
 
-## Forum voice and scope
+- [ ] About grade-5 friendly prose on the front brief
+- [ ] Hard words and policy ideas explained **in the section**
+- [ ] How-a-bill-moves primer on page 1
 
-- [ ] Tone is nonpartisan — no party blame without vote record citation
-- [ ] No recommendations (no "should", "must", "recommend", "urge" directed at legislature)
-- [ ] Version 0 scope respected — no invented assembly proposals
-- [ ] Executive summary is 1–3 pages (approximately 600–1800 words)
+## Length & package
 
-## Data quality
+- [ ] Front brief ≤ 2 letter pages; essentials on page 1
+- [ ] Appendices hold detail and print cleanly
+- [ ] Forum brand (or Phase 2 sample) applied in HTML/CSS
 
-- [ ] Appendix row counts match source JSON files
-- [ ] Data gaps are documented in `appendix-f-data-gaps.md` where applicable
-- [ ] Dead or failed URLs from verification are noted
-- [ ] 20-year impact claims have agency or fiscal source citations, or say INSUFFICIENT DATA
+## Evidence
 
-## Process
+- [ ] Example bills match appendices / evidence pack
+- [ ] No invented votes or parties
+- [ ] Data limits stated (keyword set, missing impact studies, etc.)
 
-- [ ] `edit-log.md` and `tone-edit-log.md` are present
-- [ ] `final-review-report.md` status is READY FOR HUMAN REVIEW (or blocking issues are resolved)
-- [ ] At least two team members have reviewed
+## Fairness
 
-## Reviewers (Nevada water pilot)
-
-- Ryan Echols
-- Jodi Stephens (Nevada Legislative Liaison)
-- Ashley Lovell (Nevada Policy Director)
-
-## Approval
-
-- [ ] **Approved for assembly viability use** — merge Pull Request
-- [ ] **Changes requested** — leave comments on Pull Request
+- [ ] No should / must / recommend / urge
+- [ ] People described by actions in the record, not morality
+- [ ] Recent enactments flagged as questions, not scolding

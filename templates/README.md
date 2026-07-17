@@ -1,5 +1,6 @@
 # Templates
 
-Document templates for Legislative Brief Version 0 output.
+- `citizen-brief/front-brief-shell.md` — optional section checklist for the 1–2 page citizen handout
+- `phase-2-samples/` — drop official Phase 2 Issue Briefs here for visual matching (colors/fonts only)
 
-Agent instructions live in `agents/`. This folder is for optional Markdown templates if you want fixed section shells.
+Agent instructions live in `agents/`. Brand tokens live in `config/forum-brand.yaml`.

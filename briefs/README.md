@@ -1,6 +1,6 @@
 # Briefs
 
-Legislative Brief Version 0 packages and Phase 2 Issue Briefs live here.
+Citizen legislative reality packets and related memos live here.
 
 ## Structure
 
@@ -8,12 +8,15 @@ Legislative Brief Version 0 packages and Phase 2 Issue Briefs live here.
 briefs/
 ├── nevada/
 │   └── water-scarcity/
-│       └── version-0/          Legislative Brief Version 0
-├── phase-2/                    Deliberation conversation guides
+│       ├── citizen-v1/         Citizen 1–2 page brief + appendices (v2 agents)
+│       └── version-0/          Legacy staff “assembly viability” brief
+├── nevada-water-scarcity/      Strategy memos (internal decision support)
+├── phase-2/                    Optional Phase 2 conversation guides (if added)
 ├── new-hampshire/              (future)
 └── south-carolina/             (future)
 ```
 
 ## Pilot
 
-See `briefs/nevada/water-scarcity/version-0/` after running the collector and agent pipeline.
+- Citizen packet (v2): `briefs/nevada/water-scarcity/citizen-v1/` after the new agent pipeline
+- Legacy staff brief: `briefs/nevada/water-scarcity/version-0/`
