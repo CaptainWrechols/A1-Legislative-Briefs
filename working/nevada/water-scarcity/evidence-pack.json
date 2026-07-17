@@ -1,0 +1,5764 @@
+{
+  "issue_id": "nevada-04-water-scarcity",
+  "issue_title": "Growth, Water Scarcity, and Long-Term Supply in Nevada",
+  "state": "nevada",
+  "generated_at": "2026-07-17T13:44:26.681959+00:00",
+  "generated_by": "evidence-curator v2.1",
+  "sources_used": [
+    "sources/nevada/water-scarcity/processed/bills-core.json",
+    "sources/nevada/water-scarcity/processed/bill-votes.json",
+    "sources/nevada/water-scarcity/processed/bill-committee-votes.json",
+    "sources/nevada/water-scarcity/processed/bill-legislative-progress.json",
+    "sources/nevada/water-scarcity/processed/data-gaps.json",
+    "sources/nevada/water-scarcity/processed/pass2-summary.json",
+    "sources/nevada/water-scarcity/verification/report.json"
+  ],
+  "inventory": {
+    "total_bills": 88,
+    "sessions_covered": {
+      "80": "2019",
+      "81": "2021",
+      "82": "2023",
+      "83": "2025"
+    },
+    "bills_per_session": {
+      "80": 20,
+      "81": 19,
+      "82": 23,
+      "83": 26
+    },
+    "strong_title_filter_count": 70,
+    "strong_title_filter_dispositions": {
+      "Enacted": 33,
+      "Failed": 34,
+      "In Progress": 3
+    },
+    "dispositions": {
+      "Enacted": 45,
+      "Failed": 40,
+      "In Progress": 3
+    },
+    "governor_bound_count": 48,
+    "set_provenance_note": "This set was discovered through water-related keyword searches of NELIS/OpenStates for the 2019 (80th), 2021 (81st), 2023 (82nd) and 2025 (83rd) regular sessions. It is not a proven complete universe of water-relevant bills; 70 of 88 bills pass a strong water-title filter, and the other 18 touch water only partially or incidentally."
+  },
+  "themes": [
+    {
+      "theme": "Who gets water and how permits are decided",
+      "description": "Rules for who may take and use Nevada's water: permit applications, deadlines, temporary changes to existing rights, and exemptions.",
+      "bill_count": 13,
+      "dispositions": {
+        "Failed": 8,
+        "Enacted": 5
+      },
+      "bill_keys": [
+        "80:AB30",
+        "80:AB62",
+        "81:AB354",
+        "81:AB6",
+        "82:AB325",
+        "82:AB34",
+        "82:AB90",
+        "82:SB258",
+        "83:AB109",
+        "83:AB132",
+        "83:AB190",
+        "83:AB265",
+        "83:AB9"
+      ]
+    },
+    {
+      "theme": "Rules for underground water and wells",
+      "description": "Groundwater-specific rules: over-pumped basins, groundwater boards, well drilling and replacement, and paying for well supervision.",
+      "bill_count": 15,
+      "dispositions": {
+        "Enacted": 7,
+        "Failed": 8
+      },
+      "bill_keys": [
+        "80:AB233",
+        "80:AB51",
+        "80:AB95",
+        "80:SB140",
+        "80:SB236",
+        "81:SB149",
+        "82:AB91",
+        "82:SB112",
+        "82:SB113",
+        "82:SB176",
+        "82:SB180",
+        "83:AB363",
+        "83:AB485",
+        "83:SB342",
+        "83:SB36"
+      ]
+    },
+    {
+      "theme": "Saving water (conservation rules and incentives)",
+      "description": "Getting people and businesses to use less water: conservation plans, water-loss audits, efficient fixtures, and limits on decorative grass.",
+      "bill_count": 8,
+      "dispositions": {
+        "Enacted": 3,
+        "In Progress": 2,
+        "Failed": 3
+      },
+      "bill_keys": [
+        "80:AB163",
+        "81:AB356",
+        "81:AJR2",
+        "81:AJR3",
+        "82:AB186",
+        "82:AB191",
+        "83:AB134",
+        "83:SB143"
+      ]
+    },
+    {
+      "theme": "Planning for growth and future water supply",
+      "description": "Preparing for growth and drought: local water resource plans, tying development approvals to water, and long-range studies and advisory bodies.",
+      "bill_count": 8,
+      "dispositions": {
+        "Failed": 3,
+        "Enacted": 5
+      },
+      "bill_keys": [
+        "80:AB265",
+        "80:SB150",
+        "80:SB250",
+        "80:SB499",
+        "81:AB333",
+        "81:SB98",
+        "82:AB261",
+        "83:AB385"
+      ]
+    },
+    {
+      "theme": "Colorado River and deals with other states",
+      "description": "Nevada's stake in shared rivers and lakes: the Colorado River Commission, interstate compacts, and asks of the federal government.",
+      "bill_count": 4,
+      "dispositions": {
+        "Enacted": 1,
+        "Failed": 2,
+        "In Progress": 1
+      },
+      "bill_keys": [
+        "80:SB433",
+        "80:SB76",
+        "81:AB15",
+        "82:SJR3"
+      ]
+    },
+    {
+      "theme": "Money for water projects and agencies",
+      "description": "Appropriations and grant programs for dams, water systems, river channels, studies, and the state water agency.",
+      "bill_count": 13,
+      "dispositions": {
+        "Enacted": 11,
+        "Failed": 2
+      },
+      "bill_keys": [
+        "80:SB507",
+        "80:SB509",
+        "81:AB465",
+        "82:AB19",
+        "82:AB20",
+        "82:AB470",
+        "82:SB102",
+        "82:SB472",
+        "82:SB473",
+        "83:AB10",
+        "83:AB104",
+        "83:SB108",
+        "83:SB159"
+      ]
+    },
+    {
+      "theme": "Clean drinking water and pollution",
+      "description": "Keeping water safe to drink and waterways clean: pollution permits, drinking-water systems, septic-to-sewer conversion, and disclosure of well quality.",
+      "bill_count": 8,
+      "dispositions": {
+        "Enacted": 3,
+        "Failed": 5
+      },
+      "bill_keys": [
+        "81:AB146",
+        "81:SB216",
+        "81:SB238",
+        "82:AB220",
+        "82:AB263",
+        "83:AB312",
+        "83:SB276",
+        "83:SB324"
+      ]
+    },
+    {
+      "theme": "Who referees water disputes (courts and the State Engineer's office)",
+      "description": "Who checks the State Engineer's decisions and how disputes get resolved: court review, decision standards, reporting, and old claims.",
+      "bill_count": 6,
+      "dispositions": {
+        "Failed": 6
+      },
+      "bill_keys": [
+        "81:AB5",
+        "81:SB155",
+        "81:SJR1",
+        "82:AB387",
+        "83:AB419",
+        "83:SB31"
+      ]
+    },
+    {
+      "theme": "Other bills that touch water",
+      "description": "Bills the keyword search caught that touch water only in passing (boats, boilers, highway names, food regulation, and similar).",
+      "bill_count": 13,
+      "dispositions": {
+        "Enacted": 10,
+        "Failed": 3
+      },
+      "bill_keys": [
+        "80:SB232",
+        "80:SB423",
+        "80:SB47",
+        "80:SB547",
+        "81:SB205",
+        "81:SB33",
+        "81:SB67",
+        "82:SB59",
+        "83:AB110",
+        "83:AB26",
+        "83:AB456",
+        "83:SB43",
+        "83:SB466"
+      ]
+    }
+  ],
+  "bills": [
+    {
+      "bill_key": "80:AB163",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "AB163",
+      "title": "Revises provisions governing water conservation. (BDR 48-798)",
+      "plain_topic": "Required water utilities to report water-loss audits with their conservation plans and required WaterSense-certified fixtures in most new construction.",
+      "theme": "Saving water (conservation rules and incentives)",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 342.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblyman Howard Watts",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Chris Brooks",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Assemblywoman Lesley Cohen",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Rochelle Nguyen",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Sarah Peters",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Heidi Swank",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Melanie Scheible",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 70.0,
+      "best_floor_yes_no": "28-12",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 16, 2019",
+          "yes": 28,
+          "no": 12,
+          "yes_pct": 70.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 0,
+              "no": 12,
+              "other": 1
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 20, 2019",
+          "yes": 14,
+          "no": 6,
+          "yes_pct": 70.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 2,
+              "no": 6,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6249/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:AB233",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "AB233",
+      "title": "Revises provisions related to water. (BDR 48-45)",
+      "plain_topic": "Let counties use general funds, not only special property assessments, to pay well-supervision costs.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 155.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblyman Al Kramer",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Melissa Hardy",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Pete Goicoechea",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator David Parks",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Assemblyman Gregory Hafen",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator James Settelmeyer",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "41-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 18, 2019",
+          "yes": 41,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 29,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 12,
+              "no": 0,
+              "other": 1
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 22, 2019",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6409/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:AB265",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "AB265",
+      "title": "Requires the Desert Research Institute to conduct a study concerning water treatment and recycling. (BDR S-901)",
+      "plain_topic": "Would have required the Desert Research Institute to study water treatment and recycling and report to the next Legislature.",
+      "theme": "Planning for growth and future water supply",
+      "disposition": "Failed",
+      "death_or_success_stage": "after_origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.2, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblywoman Sarah Peters",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Heidi Swank",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Howard Watts",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Chris Brooks",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Pete Goicoechea",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Senator Melanie Scheible",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6480/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:AB30",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "AB30",
+      "title": "Revises provisions governing water. (BDR 48-214)",
+      "plain_topic": "Would have let the State Engineer require monitoring-and-mitigation plans, with public hearings, before deciding water permit applications.",
+      "theme": "Who gets water and how permits are decided",
+      "disposition": "Failed",
+      "death_or_success_stage": "died_in_second_chamber",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.4, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources, Agriculture, and Mining",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 77.5,
+      "best_floor_yes_no": "31-9",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 23, 2019",
+          "yes": 31,
+          "no": 9,
+          "yes_pct": 77.5,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 3,
+              "no": 9,
+              "other": 1
+            }
+          }
+        }
+      ],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5930/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:AB51",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "AB51",
+      "title": "Revises provisions governing the management of water. (BDR 48-213)",
+      "plain_topic": "Would have required rules for managing groundwater and surface water together (conjunctive management), including mitigation plans.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources, Agriculture, and Mining",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5951/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:AB62",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "AB62",
+      "title": "Revises provisions related to water. (BDR 48-215)",
+      "plain_topic": "Tightened deadlines and limited repeated extensions for actually putting permitted water to use.",
+      "theme": "Who gets water and how permits are decided",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 420.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources, Agriculture, and Mining",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 68.3,
+      "best_floor_yes_no": "28-13",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 23, 2019",
+          "yes": 28,
+          "no": 13,
+          "yes_pct": 68.3,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 1,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 0,
+              "no": 12,
+              "other": 1
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 23, 2019",
+          "yes": 12,
+          "no": 9,
+          "yes_pct": 57.1,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 1,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 0,
+              "no": 8,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5987/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:AB95",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "AB95",
+      "title": "Revises provisions relating to water. (BDR 48-504)",
+      "plain_topic": "Set rules for ordering cutbacks in groundwater pumping in basins where withdrawals exceed natural replenishment.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 304.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources, Agriculture, and Mining",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 70.0,
+      "best_floor_yes_no": "28-12",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 16, 2019",
+          "yes": 28,
+          "no": 12,
+          "yes_pct": 70.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 0,
+              "no": 12,
+              "other": 1
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 23, 2019",
+          "yes": 11,
+          "no": 10,
+          "yes_pct": 52.4,
+          "party_split": {
+            "Democratic": {
+              "yes": 11,
+              "no": 2,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 0,
+              "no": 8,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6082/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:SB140",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SB140",
+      "title": "Revises provisions relating to the use of groundwater in certain basins. (BDR 48-541)",
+      "plain_topic": "Required the State Engineer to reserve 10 percent of uncommitted groundwater in certain basins so it cannot be appropriated.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 405.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "39-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 24, 2019",
+          "yes": 39,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 12,
+              "no": 0,
+              "other": 1
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Apr 17, 2019",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6171/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:SB150",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SB150",
+      "title": "Revises provisions relating to land use planning. (BDR 22-775)",
+      "plain_topic": "Required counties and cities to develop and maintain long-term water resource plans alongside their master plans.",
+      "theme": "Planning for growth and future water supply",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 228.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Pete Goicoechea",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator James Settelmeyer",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Joseph Hardy",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman John Ellison",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Senator Ira Hansen",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "39-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 24, 2019",
+          "yes": 39,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 12,
+              "no": 0,
+              "other": 1
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Apr 16, 2019",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6187/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "80:SB232",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SB232",
+      "title": "Revises certain provisions related to irrigation districts. (BDR 48-644)",
+      "plain_topic": "Clarified voting and office-holding rights in irrigation districts when land is held in trust.",
+      "theme": "Other bills that touch water",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 80.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator James Settelmeyer",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "40-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 09, 2019",
+          "yes": 40,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 12,
+              "no": 0,
+              "other": 1
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Mar 29, 2019",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6382/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:SB236",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SB236",
+      "title": "Establishes provisions relating to a change in the place of diversion of water for certain wells. (BDR 48-635)",
+      "plain_topic": "Let a property owner sink a replacement well without a full new change application in defined situations.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 407.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Pete Goicoechea",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Chris Brooks",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Senator Ira Hansen",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "39-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 24, 2019",
+          "yes": 39,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 12,
+              "no": 0,
+              "other": 1
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Apr 19, 2019",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6400/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:SB250",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SB250",
+      "title": "Revises provisions relating to the dedication of water rights. (BDR 48-664)",
+      "plain_topic": "Adjusted when state and local governments can require dedication of water rights before approving new development.",
+      "theme": "Planning for growth and future water supply",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 409.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator James Settelmeyer",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Pete Goicoechea",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Joseph Hardy",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Senator Ira Hansen",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Heidi Seevers Gansert",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "39-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 24, 2019",
+          "yes": 39,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 12,
+              "no": 0,
+              "other": 1
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Apr 19, 2019",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6424/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:SB423",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SB423",
+      "title": "Revises provisions governing certain watercraft. (BDR 43-962)",
+      "plain_topic": "Watercraft rules, including allowing electric vertical-takeoff craft to operate on water.",
+      "theme": "Other bills that touch water",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator James Ohrenschall",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6783/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:SB433",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SB433",
+      "title": "Revises the provisions of the California-Nevada Compact for Jurisdiction on Interstate Waters. (BDR 14-439)",
+      "plain_topic": "Updated the California-Nevada compact giving both states law-enforcement jurisdiction on Lake Tahoe and Topaz Lake.",
+      "theme": "Colorado River and deals with other states",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 82.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Judiciary",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "40-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 10, 2019",
+          "yes": 40,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 12,
+              "no": 0,
+              "other": 1
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Apr 22, 2019",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6814/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:SB47",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SB47",
+      "title": "Revises provisions relating to state lands. (BDR 26-216)",
+      "plain_topic": "Cleaned up terminology for the State Land Registrar in state-lands law.",
+      "theme": "Other bills that touch water",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5966/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "80:SB499",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SB499",
+      "title": "Creates the Advisory Board on Water Resources Planning and Drought Resiliency. (BDR 48-1243)",
+      "plain_topic": "Would have created an Advisory Board on Water Resources Planning and Drought Resiliency inside the state water agency.",
+      "theme": "Planning for growth and future water supply",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(No further action taken.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Finance",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6962/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:SB507",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SB507",
+      "title": "Makes an appropriation to the State Public Works Division of the Department of Administration for the support of the Marlette Lake Water System. (BDR S-1176)",
+      "plain_topic": "Appropriated state money to support the Marlette Lake Water System.",
+      "theme": "Money for water projects and agencies",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Enrolled and delivered to Governor. Approved by the Governor. Chapter 454.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Finance",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "41-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Jun 03, 2019",
+          "yes": 41,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 31, 2019",
+          "yes": 20,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6979/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:SB509",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SB509",
+      "title": "Makes appropriations to the Division of Water Resources for the replacement of vehicles and computer software and hardware. (BDR S-1181)",
+      "plain_topic": "Appropriated money to the Division of Water Resources for vehicles and computer replacement.",
+      "theme": "Money for water projects and agencies",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Enrolled and delivered to Governor. Approved by the Governor. Chapter 456.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Finance",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "41-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Jun 02, 2019",
+          "yes": 41,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 24, 2019",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6981/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:SB547",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SB547",
+      "title": "Revises provisions relating to providers of new electric resources. (BDR 58-913)",
+      "plain_topic": "Electricity-market rules for data centers and providers of new electric resources.",
+      "theme": "Other bills that touch water",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 556.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Chris Brooks",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Nicole Cannizzaro",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Pat Spearman",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Yvanna Cancela",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator David Parks",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Jason Frierson",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Daniele Monroe-Moreno",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Senator Moises Denis",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Marilyn Dondero Loop",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator James Ohrenschall",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Julia Ratti",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Marcia Washington",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Joyce Woodhouse",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "21-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Jun 03, 2019",
+          "yes": 40,
+          "no": 1,
+          "yes_pct": 97.6,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 12,
+              "no": 1,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Jun 02, 2019",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7057/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "80:SB76",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SB76",
+      "title": "Revises provisions governing the provision of services by the Colorado River Commission of Nevada. (BDR 58-207)",
+      "plain_topic": "Would have reworked the Colorado River Commission's role in providing Colorado River water and power services.",
+      "theme": "Colorado River and deals with other states",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Growth and Infrastructure",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6007/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:AB146",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "AB146",
+      "title": "Revises provisions relating to water. (BDR 40-123)",
+      "plain_topic": "Let the state develop plans and policies to control water pollution from diffuse (non-point) sources.",
+      "theme": "Clean drinking water and pollution",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 513.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblywoman Sarah Peters",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 70.0,
+      "best_floor_yes_no": "14-6",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 20, 2021",
+          "yes": 26,
+          "no": 16,
+          "yes_pct": 61.9,
+          "party_split": {
+            "Democratic": {
+              "yes": 26,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 0,
+              "no": 16,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 20, 2021",
+          "yes": 14,
+          "no": 6,
+          "yes_pct": 70.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 2,
+              "no": 6,
+              "other": 1
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7475/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:AB15",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "AB15",
+      "title": "Revises the membership of the Colorado River Commission of Nevada. (BDR 48-341)",
+      "plain_topic": "Would have changed the membership of the Colorado River Commission of Nevada.",
+      "theme": "Colorado River and deals with other states",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7257/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:AB333",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "AB333",
+      "title": "Makes changes to provisions relating to land use planning. (BDR 22-357)",
+      "plain_topic": "Set deadlines and procedures for lawsuits challenging local land-use planning decisions.",
+      "theme": "Planning for growth and future water supply",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 274.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblywoman Lisa Krasner",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Tom Roberts",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Assemblyman John Ellison",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Melissa Hardy",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Philip P.K. O\u2019Neill",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "21-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 20, 2021",
+          "yes": 33,
+          "no": 9,
+          "yes_pct": 78.6,
+          "party_split": {
+            "Democratic": {
+              "yes": 24,
+              "no": 2,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 9,
+              "no": 7,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 21, 2021",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 9,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7859/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "81:AB354",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "AB354",
+      "title": "Authorizes the creation of water banks. (BDR 48-1091)",
+      "plain_topic": "Would have created state-chartered water banks to hold and manage deposited water (the Nevada Water Banking Act).",
+      "theme": "Who gets water and how permits are decided",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Ways and Means",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7907/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:AB356",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "AB356",
+      "title": "Makes various changes relating to the conservation of water. (BDR S-1090)",
+      "plain_topic": "Banned use of Colorado River water delivered by the Southern Nevada Water Authority to irrigate nonfunctional (decorative) grass, among other conservation steps.",
+      "theme": "Saving water (conservation rules and incentives)",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 364.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Ways and Means",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "21-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 29, 2021",
+          "yes": 30,
+          "no": 12,
+          "yes_pct": 71.4,
+          "party_split": {
+            "Democratic": {
+              "yes": 26,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 4,
+              "no": 12,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 21, 2021",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 9,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7910/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:AB465",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "AB465",
+      "title": "Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for the repair and maintenance of the South Fork Dam. (BDR S-1105)",
+      "plain_topic": "Appropriated money for repair and maintenance of the South Fork Dam.",
+      "theme": "Money for water projects and agencies",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 464.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Ways and Means",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "21-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 13, 2021",
+          "yes": 37,
+          "no": 5,
+          "yes_pct": 88.1,
+          "party_split": {
+            "Democratic": {
+              "yes": 26,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 11,
+              "no": 5,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 29, 2021",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 9,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8164/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:AB5",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "AB5",
+      "title": "Makes various changes to provisions relating to judicial review of orders and decisions of the State Engineer. (BDR 48-311)",
+      "plain_topic": "Would have limited when a person can get court review of State Engineer orders and decisions.",
+      "theme": "Who referees water disputes (courts and the State Engineer's office)",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7235/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "81:AB6",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "AB6",
+      "title": "Revises provisions governing an application for a temporary change relating to appropriated water. (BDR 48-309)",
+      "plain_topic": "Streamlined hearing requirements for applications to temporarily change existing water rights.",
+      "theme": "Who gets water and how permits are decided",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 28.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 14, 2021",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 26,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 16,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 14, 2021",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 9,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7236/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:AJR2",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "AJR2",
+      "title": "Recognizes that the health of forests, rangelands and soils are inextricably linked to the quantity and quality of water. (BDR R-112)",
+      "plain_topic": "Resolution recognizing that healthy forests, rangelands and soils are tied to the amount and quality of water.",
+      "theme": "Saving water (conservation rules and incentives)",
+      "disposition": "In Progress",
+      "death_or_success_stage": "passed_both_chambers_enrolled_resolution",
+      "most_recent_action": "Enrolled and delivered to Secretary of State. File No. 18.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "21-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": null,
+          "yes": 34,
+          "no": 8,
+          "yes_pct": 81.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 26,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 8,
+              "no": 8,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": null,
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 9,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7424/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:AJR3",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "AJR3",
+      "title": "Urges various actions relating to the protection and conservation of land and water. (BDR R-775)",
+      "plain_topic": "Resolution urging various actions to protect and conserve land and water.",
+      "theme": "Saving water (conservation rules and incentives)",
+      "disposition": "In Progress",
+      "death_or_success_stage": "passed_both_chambers_enrolled_resolution",
+      "most_recent_action": "Enrolled and delivered to Secretary of State. File No. 30.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblywoman Cecelia Gonz\u00e1lez",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Howard Watts",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Steve Yeager",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Lesley Cohen",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Assemblywoman Natha Anderson",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Tracy Brown-May",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Edgar Flores",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Brittney Miller",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Rochelle Nguyen",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Selena Torres",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Fabian Donate",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 61.9,
+      "best_floor_yes_no": "26-16",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": null,
+          "yes": 26,
+          "no": 16,
+          "yes_pct": 61.9,
+          "party_split": {
+            "Democratic": {
+              "yes": 26,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 0,
+              "no": 16,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": null,
+          "yes": 12,
+          "no": 9,
+          "yes_pct": 57.1,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 0,
+              "no": 9,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7487/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:SB149",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SB149",
+      "title": "Revises provisions relating to groundwater boards. (BDR 48-462)",
+      "plain_topic": "Would have changed how local groundwater boards operate in designated basins.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7538/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:SB155",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SB155",
+      "title": "Revises provisions relating to the Division of Water Resources of the State Department of Conservation and Natural Resources. (BDR 48-471)",
+      "plain_topic": "Would have retitled the State Engineer as an Administrator and revised the qualifications for the job.",
+      "theme": "Who referees water disputes (courts and the State Engineer's office)",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7555/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:SB205",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SB205",
+      "title": "Provides regulatory exemptions for certain types of boilers. (BDR 40-839)",
+      "plain_topic": "Exempted certain water heaters from boiler-safety regulations.",
+      "theme": "Other bills that touch water",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 328.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Moises Denis",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 30, 2021",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 26,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 16,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 20, 2021",
+          "yes": 20,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 1
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7652/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "81:SB216",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SB216",
+      "title": "Revises provisions relating to community water systems. (BDR 19-590)",
+      "plain_topic": "Would have added state requirements around community water systems' federally required vulnerability assessments and emergency plans.",
+      "theme": "Clean drinking water and pollution",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Scott Hammond",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Pete Goicoechea",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Keith Pickard",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Senator Joseph Hardy",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator James Settelmeyer",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7687/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:SB238",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SB238",
+      "title": "Revises provisions relating to public water systems. (BDR 40-885)",
+      "plain_topic": "Would have revised permit conditions for operating public drinking-water systems.",
+      "theme": "Clean drinking water and pollution",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Pete Goicoechea",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7754/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:SB33",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SB33",
+      "title": "Revises certain provisions relating to natural resource management. (BDR 47-312)",
+      "plain_topic": "Forestry nursery and conservation plant-material programs.",
+      "theme": "Other bills that touch water",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 145.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 19, 2021",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 26,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 16,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Apr 14, 2021",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 9,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7208/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "81:SB67",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SB67",
+      "title": "Creates a pilot program to gather data on the use of job order contracts for certain public works. (BDR S-400)",
+      "plain_topic": "Pilot program to gather data on job-order contracting for certain public works.",
+      "theme": "Other bills that touch water",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 523.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Government Affairs",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 95.2,
+      "best_floor_yes_no": "20-1",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 21, 2021",
+          "yes": 28,
+          "no": 13,
+          "yes_pct": 68.3,
+          "party_split": {
+            "Democratic": {
+              "yes": 23,
+              "no": 3,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 5,
+              "no": 10,
+              "other": 1
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Apr 20, 2021",
+          "yes": 20,
+          "no": 1,
+          "yes_pct": 95.2,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 8,
+              "no": 1,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7272/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "81:SB98",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SB98",
+      "title": "Makes various changes to provisions relating to the Carson Water Subconservancy District. (BDR S-579)",
+      "plain_topic": "Expanded the Carson Water Subconservancy District into parts of Storey County and adjusted its board.",
+      "theme": "Planning for growth and future water supply",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 160.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator James Settelmeyer",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Pete Goicoechea",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Jim Wheeler",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Senator Carrie Buck",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Ben Kieckhefer",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "41-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 21, 2021",
+          "yes": 41,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 26,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 15,
+              "no": 0,
+              "other": 1
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Mar 16, 2021",
+          "yes": 20,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 11,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 9,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7388/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:SJR1",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SJR1",
+      "title": "Proposes to amend the Nevada Constitution to provide that the Nevada Court of Appeals has original jurisdiction over certain cases relating to water. (BDR C-310)",
+      "plain_topic": "Proposed a constitutional amendment sending challenges to State Engineer decisions directly to the Nevada Court of Appeals.",
+      "theme": "Who referees water disputes (courts and the State Engineer's office)",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule 14.3.1, no further action allowed.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Judiciary",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7333/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:AB186",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB186",
+      "title": "Establishes requirements relating to the provision of drinking water at food establishments. (BDR 40-454)",
+      "plain_topic": "Would have required food establishments to serve drinking water only when a customer asks for it.",
+      "theme": "Saving water (conservation rules and incentives)",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblywoman Heidi Kasama",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9895/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:AB19",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB19",
+      "title": "Revises provisions relating to water. (BDR 48-233)",
+      "plain_topic": "Made tribal governments eligible for river channel clearance and maintenance grants.",
+      "theme": "Money for water projects and agencies",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 11.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "41-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Mar 21, 2023",
+          "yes": 41,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 14,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 18, 2023",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9548/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:AB191",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB191",
+      "title": "Revises provisions relating to water conservation. (BDR 48-697)",
+      "plain_topic": "Broadened which water suppliers must adopt conservation plans, water-loss audits and conservation incentives.",
+      "theme": "Saving water (conservation rules and incentives)",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 188.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblyman Rich DeLong",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Assemblywoman Jill Dickman",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Danielle Gallant",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Bert Gurr",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 14, 2023",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 14,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 26, 2023",
+          "yes": 20,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 7,
+              "no": 0,
+              "other": 1
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9903/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:AB20",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB20",
+      "title": "Revises provisions relating to water. (BDR 40-227)",
+      "plain_topic": "Updated the state account that receives and distributes federal Clean Water revolving-fund money for water infrastructure.",
+      "theme": "Money for water projects and agencies",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 69.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 95.2,
+      "best_floor_yes_no": "20-1",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 14, 2023",
+          "yes": 37,
+          "no": 5,
+          "yes_pct": 88.1,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 9,
+              "no": 5,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 24, 2023",
+          "yes": 20,
+          "no": 1,
+          "yes_pct": 95.2,
+          "party_split": {
+            "Republican": {
+              "yes": 7,
+              "no": 1,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9549/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:AB220",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB220",
+      "title": "Revises provisions relating to water conservation. (BDR 40-337)",
+      "plain_topic": "Let health districts pay 100 percent of the cost for septic-system owners on municipal water to connect to community sewer.",
+      "theme": "Clean drinking water and pollution",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 210.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 85.0,
+      "best_floor_yes_no": "17-3",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 24, 2023",
+          "yes": 30,
+          "no": 12,
+          "yes_pct": 71.4,
+          "party_split": {
+            "Democratic": {
+              "yes": 26,
+              "no": 2,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 4,
+              "no": 10,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 26, 2023",
+          "yes": 17,
+          "no": 3,
+          "yes_pct": 85.0,
+          "party_split": {
+            "Republican": {
+              "yes": 5,
+              "no": 2,
+              "other": 1
+            },
+            "Democratic": {
+              "yes": 12,
+              "no": 1,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9950/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:AB261",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB261",
+      "title": "Revises provisions relating to water. (BDR 18-470)",
+      "plain_topic": "Required the State Plan for Economic Development to address efficient use of Nevada's water resources.",
+      "theme": "Planning for growth and future water supply",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 478.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Jun 01, 2023",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 14,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Jun 05, 2023",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10028/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:AB263",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB263",
+      "title": "Enacts provisions relating to the transmission of Legionnaires' disease by building water systems in certain health care facilities. (BDR 40-125)",
+      "plain_topic": "Would have addressed transmission of Legionnaires' disease through building water systems in certain buildings.",
+      "theme": "Clean drinking water and pollution",
+      "disposition": "Failed",
+      "death_or_success_stage": "died_in_second_chamber",
+      "most_recent_action": "(No further action taken.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblyman Howard Watts",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 66.7,
+      "best_floor_yes_no": "28-14",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Jun 01, 2023",
+          "yes": 28,
+          "no": 14,
+          "yes_pct": 66.7,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 0,
+              "no": 14,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10030/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:AB325",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB325",
+      "title": "Revises provisions relating to water. (BDR 48-915)",
+      "plain_topic": "Would have let surface-water users make temporary changes within irrigation district boundaries without a full permit application.",
+      "theme": "Who gets water and how permits are decided",
+      "disposition": "Failed",
+      "death_or_success_stage": "after_origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.2, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblyman Philip PK O\u2019Neill",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10192/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:AB34",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB34",
+      "title": "Revises provisions relating to water. (BDR 48-235)",
+      "plain_topic": "Moved State Engineer application notices onto the agency website and relaxed newspaper publication rules.",
+      "theme": "Who gets water and how permits are decided",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 176.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "21-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 25, 2023",
+          "yes": 40,
+          "no": 2,
+          "yes_pct": 95.2,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 12,
+              "no": 2,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 25, 2023",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9563/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:AB387",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB387",
+      "title": "Revises provisions relating to water. (BDR 48-338)",
+      "plain_topic": "Would have required, not just encouraged, the State Engineer to use best available science, and recognized connections between groundwater and surface water.",
+      "theme": "Who referees water disputes (courts and the State Engineer's office)",
+      "disposition": "Failed",
+      "death_or_success_stage": "died_in_second_chamber",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.3, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 65.0,
+      "best_floor_yes_no": "26-14",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 21, 2023",
+          "yes": 26,
+          "no": 14,
+          "yes_pct": 65.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 26,
+              "no": 0,
+              "other": 2
+            },
+            "Republican": {
+              "yes": 0,
+              "no": 14,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10324/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:AB470",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB470",
+      "title": "Makes an appropriation to the State Public Works Division of the Department of Administration for professional services and filing fees related to water rights associated with the Marlette Lake Water System. (BDR S-1127)",
+      "plain_topic": "Appropriated money for professional services and filing fees for Marlette Lake Water System water rights.",
+      "theme": "Money for water projects and agencies",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 296.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Ways and Means",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "41-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 30, 2023",
+          "yes": 41,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 13,
+              "no": 0,
+              "other": 1
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Jun 05, 2023",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10500/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:AB90",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB90",
+      "title": "Revises provisions relating to water. (BDR 48-717)",
+      "plain_topic": "Would have let the State Engineer approve temporary water-right changes for up to 10 years instead of 1.",
+      "theme": "Who gets water and how permits are decided",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblyman Bert Gurr",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9681/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:AB91",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB91",
+      "title": "Revises provisions governing water. (BDR 48-696)",
+      "plain_topic": "Revised the exception that lets owners bore replacement wells without a new change application.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 143.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblyman Rich DeLong",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "20-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 24, 2023",
+          "yes": 40,
+          "no": 2,
+          "yes_pct": 95.2,
+          "party_split": {
+            "Democratic": {
+              "yes": 26,
+              "no": 2,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 14,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 26, 2023",
+          "yes": 20,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 7,
+              "no": 0,
+              "other": 1
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9682/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:SB102",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "SB102",
+      "title": "Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources to award grants of money for the development and maintenance of water resource plans. (BDR S-599)",
+      "plain_topic": "Would have appropriated grant money for cities and counties to develop and maintain water resource plans.",
+      "theme": "Money for water projects and agencies",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(No further action taken.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Pete Goicoechea",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9733/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:SB112",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "SB112",
+      "title": "Revises provisions governing groundwater basin assessments. (BDR 48-600)",
+      "plain_topic": "Would have changed the county special assessments that fund well supervisors.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Failed",
+      "death_or_success_stage": "after_origin_committee",
+      "most_recent_action": "(No further action taken.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Pete Goicoechea",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Robin Titus",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9756/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:SB113",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "SB113",
+      "title": "Revises provisions relating to groundwater management plans. (BDR 48-595)",
+      "plain_topic": "Revised petition rules for groundwater management plans in basins designated as critical management areas.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 159.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Pete Goicoechea",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Robin Titus",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Carrie Buck",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Ira Hansen",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Jeff Stone",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Senator Lisa Krasner",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 23, 2023",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 14,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Apr 19, 2023",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9757/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:SB176",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "SB176",
+      "title": "Establishes provisions relating to the conservation of groundwater. (BDR 48-79)",
+      "plain_topic": "Would have created an account to buy and retire water rights in over-appropriated groundwater basins.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Failed",
+      "death_or_success_stage": "after_origin_committee",
+      "most_recent_action": "(No further action taken.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Pete Goicoechea",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9907/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:SB180",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "SB180",
+      "title": "Revises provisions relating to groundwater boards. (BDR 48-597)",
+      "plain_topic": "Would have changed how groundwater boards are established and dissolved.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Failed",
+      "death_or_success_stage": "after_both_chambers",
+      "most_recent_action": "(No further action taken.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Pete Goicoechea",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "41-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 26, 2023",
+          "yes": 41,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 14,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Apr 20, 2023",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9923/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:SB258",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "SB258",
+      "title": "Revises provisions relating to water. (BDR 48-889)",
+      "plain_topic": "Allowed temporary water-right changes of up to 3 years for renewable energy generation projects.",
+      "theme": "Who gets water and how permits are decided",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 122.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator James Ohrenschall",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 23, 2023",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 14,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Apr 20, 2023",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10090/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:SB472",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "SB472",
+      "title": "Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for projects at the South Fork Dam. (BDR S-1172)",
+      "plain_topic": "Appropriated money for projects at the South Fork Dam.",
+      "theme": "Money for water projects and agencies",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 358.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Finance",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Jun 04, 2023",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 14,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 29, 2023",
+          "yes": 20,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 1
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10525/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:SB473",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "SB473",
+      "title": "Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for a study of extreme rainfall events. (BDR S-1173)",
+      "plain_topic": "Appropriated money to the Division of Water Resources for a study of extreme rainfall events.",
+      "theme": "Money for water projects and agencies",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 458.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Finance",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Jun 04, 2023",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 14,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 29, 2023",
+          "yes": 13,
+          "no": 7,
+          "yes_pct": 65.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 12,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 1,
+              "no": 7,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10526/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:SB59",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "SB59",
+      "title": "Revises provisions relating to vessels. (BDR 43-225)",
+      "plain_topic": "Motorboat titling, numbering and ownership-transfer rules.",
+      "theme": "Other bills that touch water",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 108.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Growth and Infrastructure",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 23, 2023",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 14,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Apr 25, 2023",
+          "yes": 17,
+          "no": 4,
+          "yes_pct": 81.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 4,
+              "no": 4,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9629/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "82:SJR3",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "SJR3",
+      "title": "Urges the United States Bureau of Reclamation to consider certain actions, alternatives and measures for the protection and management of the Colorado River. (BDR R-349)",
+      "plain_topic": "Resolution urging the U.S. Bureau of Reclamation to consider actions and alternatives to protect and manage the Colorado River.",
+      "theme": "Colorado River and deals with other states",
+      "disposition": "In Progress",
+      "death_or_success_stage": "passed_both_chambers_enrolled_resolution",
+      "most_recent_action": "Enrolled and delivered to Secretary of State. File No. 31.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": null,
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 28,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 14,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": null,
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9995/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:AB10",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB10",
+      "title": "Revises provisions relating to local improvement projects. (BDR 22-407)",
+      "plain_topic": "Let neighborhood improvement districts finance improvements to water and sewer systems owned by common-interest communities.",
+      "theme": "Money for water projects and agencies",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 62.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Government Affairs",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 95.2,
+      "best_floor_yes_no": "20-1",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 15, 2025",
+          "yes": 37,
+          "no": 5,
+          "yes_pct": 88.1,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 10,
+              "no": 5,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 21, 2025",
+          "yes": 20,
+          "no": 1,
+          "yes_pct": 95.2,
+          "party_split": {
+            "Republican": {
+              "yes": 7,
+              "no": 1,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11760/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "83:AB104",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB104",
+      "title": "Revises provisions relating to water. (BDR 48-383)",
+      "plain_topic": "Revised state grant rules for protecting natural and cultural resources, including water-related projects.",
+      "theme": "Money for water projects and agencies",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 226.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 22, 2025",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 15,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 22, 2025",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11994/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:AB109",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB109",
+      "title": "Revises provisions relating to water. (BDR 48-212)",
+      "plain_topic": "Would have changed how water brought to the surface by geothermal projects is treated under water-appropriation law.",
+      "theme": "Who gets water and how permits are decided",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblymember Selena La Rue Hatch",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12006/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:AB110",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB110",
+      "title": "Revises provisions relating to the designation of certain highways. (BDR 35-148)",
+      "plain_topic": "Named State Route 163 the Colorado River Highway and named a bridge for Donald J. Laughlin.",
+      "theme": "Other bills that touch water",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 106.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblymember Danielle Gallant",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Senator Jeff Stone",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "41-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 21, 2025",
+          "yes": 41,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 26,
+              "no": 0,
+              "other": 1
+            },
+            "Republican": {
+              "yes": 15,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 23, 2025",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12011/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "83:AB132",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB132",
+      "title": "Revises provisions relating to water. (BDR 48-586)",
+      "plain_topic": "Doubled the allowed size of wildlife water 'guzzlers' that are exempt from water-appropriation permitting.",
+      "theme": "Who gets water and how permits are decided",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 71.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblymember Toby Yurek",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 22, 2025",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 15,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 23, 2025",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12051/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:AB134",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB134",
+      "title": "Establishes provisions relating to water conservation. (BDR 48-379)",
+      "plain_topic": "Would have let water-right holders submit voluntary water conservation plans to the State Engineer for approval.",
+      "theme": "Saving water (conservation rules and incentives)",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12053/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:AB190",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB190",
+      "title": "Revises provisions relating to water. (BDR 48-886)",
+      "plain_topic": "Would have created a fund so applicants do not bear the full cost of hydrological studies the State Engineer requires.",
+      "theme": "Who gets water and how permits are decided",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblymember Bert Gurr",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12160/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:AB26",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB26",
+      "title": "Revises provisions relating to dams. (BDR 48-261)",
+      "plain_topic": "Shielded the State Engineer from liability for certain dam or reservoir failures.",
+      "theme": "Other bills that touch water",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 64.",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Apr 15, 2025",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 15,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 21, 2025",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11792/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "83:AB265",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB265",
+      "title": "Revises provisions relating to water. (BDR 48-887)",
+      "plain_topic": "Would have required notice and timelines when the State Engineer assigns a water application to an internal review committee.",
+      "theme": "Who gets water and how permits are decided",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblymember Bert Gurr",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Rich DeLong",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Assemblymember Heidi Kasama",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12311/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:AB312",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB312",
+      "title": "Revises provisions governing the sale of real property. (BDR 10-1005)",
+      "plain_topic": "Would have required home sellers to disclose water-quality test results for private wells.",
+      "theme": "Clean drinking water and pollution",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblymember Rich DeLong",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12395/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "83:AB363",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB363",
+      "title": "Revises provisions relating to groundwater boards. (BDR 48-385)",
+      "plain_topic": "Would have changed groundwater board membership and operation.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Failed",
+      "death_or_success_stage": "after_origin_committee",
+      "most_recent_action": "(No further action taken.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12473/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:AB385",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB385",
+      "title": "Revises provisions relating to governmental administration. (BDR 22-851)",
+      "plain_topic": "Would have stopped Clark County-area governments from using building codes to prohibit or limit water-using cooling towers.",
+      "theme": "Planning for growth and future water supply",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblymember Lisa Cole",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12534/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "83:AB419",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB419",
+      "title": "Revises provisions relating to water. (BDR 48-736)",
+      "plain_topic": "Would have required biennial public reports on water applications pending 2 or more years before the State Engineer.",
+      "theme": "Who referees water disputes (courts and the State Engineer's office)",
+      "disposition": "Failed",
+      "death_or_success_stage": "after_origin_committee",
+      "most_recent_action": "(No further action taken.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblymember Rich DeLong",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Lisa Cole",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Bert Gurr",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Assemblymember Jill Dickman",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember PK O\u2019Neill",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12606/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:AB456",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB456",
+      "title": "Revises provisions relating to public utilities. (BDR 58-170)",
+      "plain_topic": "Would have required public utility customer notices in multiple languages.",
+      "theme": "Other bills that touch water",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assemblymember Cinthia Zerme\u00f1o Moore",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Venicia Considine",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12690/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "83:AB485",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB485",
+      "title": "Revises provisions relating to water. (BDR 48-386)",
+      "plain_topic": "Would have changed county assessments that fund well supervision.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12746/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:AB9",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB9",
+      "title": "Revises provisions relating to water. (BDR 48-391)",
+      "plain_topic": "Extended temporary conversions of farm water rights for wildlife or stream flow from 3-year to 5-year increments.",
+      "theme": "Who gets water and how permits are decided",
+      "disposition": "Failed",
+      "death_or_success_stage": "after_origin_committee",
+      "most_recent_action": "(No further action taken.)",
+      "origin_chamber": "Assembly",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11759/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:SB108",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB108",
+      "title": "Revises provisions governing the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program. (BDR 48-88)",
+      "plain_topic": "Revised the account that funds river channel clearance, maintenance, restoration, surveying and monumenting grants.",
+      "theme": "Money for water projects and agencies",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 291.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Robin Titus",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 28, 2025",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 15,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 21, 2025",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12004/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "83:SB143",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB143",
+      "title": "Revises provisions relating to natural resources. (BDR 17-10)",
+      "plain_topic": "Would have had a legislative interim committee review water conservation and ordered a state study of artificial turf.",
+      "theme": "Saving water (conservation rules and incentives)",
+      "disposition": "Failed",
+      "death_or_success_stage": "died_in_second_chamber",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.3, no further action allowed.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Rochelle Nguyen",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "21-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Senate",
+          "date": "Apr 15, 2025",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12088/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "83:SB159",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB159",
+      "title": "Makes an appropriation to the Oh Lab of Neurogenetics and Precision Medicine at the University of Nevada, Las Vegas or its successor entity for certain activities relating to water systems and wastewater. (BDR S-957)",
+      "plain_topic": "Would have appropriated money to a UNLV lab for work relating to water systems and wastewater.",
+      "theme": "Money for water projects and agencies",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(No further action taken.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Edgar Flores",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12140/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:SB276",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB276",
+      "title": "Revises provisions relating to water. (BDR 40-750)",
+      "plain_topic": "Revised public notice requirements for water pollution discharge permits.",
+      "theme": "Clean drinking water and pollution",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 189.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Ira Hansen",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Edgar Flores",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Carrie Ann Buck",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Lisa Krasner",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Jeff Stone",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Howard Watts",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember PK O\u2019Neill",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Senator Fabian Do\u00f1ate",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator John Ellison",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator James Ohrenschall",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Julie Pazina",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Melanie Scheible",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator John Steinbeck",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Angela Taylor",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Natha Anderson",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Venise Karris",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Selena La Rue Hatch",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 22, 2025",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 15,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Apr 22, 2025",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12476/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:SB31",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB31",
+      "title": "Revises provisions relating to the adjudication of vested water rights. (BDR 48-260)",
+      "plain_topic": "Would have revised deadlines and procedures for adjudicating old 'vested' water-right claims.",
+      "theme": "Who referees water disputes (courts and the State Engineer's office)",
+      "disposition": "Failed",
+      "death_or_success_stage": "died_in_second_chamber",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.3, no further action allowed.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 71.4,
+      "best_floor_yes_no": "15-6",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Senate",
+          "date": "Apr 15, 2025",
+          "yes": 15,
+          "no": 6,
+          "yes_pct": 71.4,
+          "party_split": {
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 2,
+              "no": 6,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11798/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:SB324",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB324",
+      "title": "Establishes prohibitions relating to the sale of water in certain disposable plastic bottles in communities abutting the Lake Tahoe Watershed. (BDR 40-216)",
+      "plain_topic": "Would have banned sales of small disposable plastic water bottles in communities abutting the Lake Tahoe watershed.",
+      "theme": "Clean drinking water and pollution",
+      "disposition": "Failed",
+      "death_or_success_stage": "died_in_second_chamber",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.3, no further action allowed.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator Melanie Scheible",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [
+        {
+          "name": "Senator Rochelle Nguyen",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": 80.0,
+      "best_floor_yes_no": "16-4",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Senate",
+          "date": "Apr 18, 2025",
+          "yes": 16,
+          "no": 4,
+          "yes_pct": 80.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 3,
+              "no": 4,
+              "other": 1
+            }
+          }
+        }
+      ],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12553/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:SB342",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB342",
+      "title": "Revises provisions relating to water. (BDR 48-940)",
+      "plain_topic": "Would have revised how the State Engineer designates groundwater basins for special administration.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senator James Ohrenschall",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": false,
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "floor_final_passage_votes": [],
+      "governor_bound": false,
+      "was_textually_amended": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12600/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:SB36",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB36",
+      "title": "Revises provisions relating to water. (BDR 48-384)",
+      "plain_topic": "Created the Account for Retiring Water Rights to buy and permanently retire rights in over-appropriated groundwater basins.",
+      "theme": "Rules for underground water and wells",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 292.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 28, 2025",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 15,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 22, 2025",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11807/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:SB43",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB43",
+      "title": "Revises provisions relating to public health and safety. (BDR 40-264)",
+      "plain_topic": "Solid-waste management authority changes.",
+      "theme": "Other bills that touch water",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Approved by the Governor. Chapter 438.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Health and Human Services",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "May 19, 2025",
+          "yes": 42,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 15,
+              "no": 0,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "Apr 16, 2025",
+          "yes": 18,
+          "no": 3,
+          "yes_pct": 85.7,
+          "party_split": {
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 5,
+              "no": 3,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11819/Overview",
+      "strong_title_match": false
+    },
+    {
+      "bill_key": "83:SB466",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB466",
+      "title": "Revises provisions governing the authority of the State Department of Agriculture relating to food and water. (BDR 51-1121)",
+      "plain_topic": "Moved food-establishment regulation, including related water standards, to the State Department of Agriculture.",
+      "theme": "Other bills that touch water",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "most_recent_action": "Chapter 512.",
+      "origin_chamber": "Senate",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Finance",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "committee_sponsored": true,
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "21-0",
+      "floor_final_passage_votes": [
+        {
+          "chamber": "Assembly",
+          "date": "Jun 02, 2025",
+          "yes": 40,
+          "no": 2,
+          "yes_pct": 95.2,
+          "party_split": {
+            "Democratic": {
+              "yes": 27,
+              "no": 0,
+              "other": 0
+            },
+            "Republican": {
+              "yes": 13,
+              "no": 2,
+              "other": 0
+            }
+          }
+        },
+        {
+          "chamber": "Senate",
+          "date": "May 30, 2025",
+          "yes": 21,
+          "no": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "Republican": {
+              "yes": 8,
+              "no": 0,
+              "other": 0
+            },
+            "Democratic": {
+              "yes": 13,
+              "no": 0,
+              "other": 0
+            }
+          }
+        }
+      ],
+      "governor_bound": true,
+      "was_textually_amended": true,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12889/Overview",
+      "strong_title_match": true
+    }
+  ],
+  "people_signals": {
+    "note": "Facts only: counts of who introduced what. No judgment about effectiveness or intent.",
+    "committee_sponsored_count": 45,
+    "person_sponsored_count": 43,
+    "committee_sponsored_bills": [
+      "80:AB30",
+      "80:AB51",
+      "80:AB62",
+      "80:AB95",
+      "80:SB140",
+      "80:SB433",
+      "80:SB47",
+      "80:SB499",
+      "80:SB507",
+      "80:SB509",
+      "80:SB76",
+      "81:AB15",
+      "81:AB354",
+      "81:AB356",
+      "81:AB465",
+      "81:AB5",
+      "81:AB6",
+      "81:AJR2",
+      "81:SB149",
+      "81:SB155",
+      "81:SB33",
+      "81:SB67",
+      "81:SJR1",
+      "82:AB19",
+      "82:AB20",
+      "82:AB220",
+      "82:AB261",
+      "82:AB34",
+      "82:AB387",
+      "82:AB470",
+      "82:SB472",
+      "82:SB473",
+      "82:SB59",
+      "82:SJR3",
+      "83:AB10",
+      "83:AB104",
+      "83:AB134",
+      "83:AB26",
+      "83:AB363",
+      "83:AB485",
+      "83:AB9",
+      "83:SB31",
+      "83:SB36",
+      "83:SB43",
+      "83:SB466"
+    ],
+    "frequent_primary_sponsors": [
+      {
+        "name": "Pete Goicoechea",
+        "party": "Republican",
+        "bill_count": 13,
+        "bills": [
+          "80:AB233",
+          "80:AB265",
+          "80:SB150",
+          "80:SB236",
+          "80:SB250",
+          "81:SB216",
+          "81:SB238",
+          "81:SB98",
+          "82:SB102",
+          "82:SB112",
+          "82:SB113",
+          "82:SB176",
+          "82:SB180"
+        ]
+      },
+      {
+        "name": "Howard Watts",
+        "party": "Democratic",
+        "bill_count": 5,
+        "bills": [
+          "80:AB163",
+          "80:AB265",
+          "81:AJR3",
+          "82:AB263",
+          "83:SB276"
+        ]
+      },
+      {
+        "name": "Rich DeLong",
+        "party": "Republican",
+        "bill_count": 5,
+        "bills": [
+          "82:AB191",
+          "82:AB91",
+          "83:AB265",
+          "83:AB312",
+          "83:AB419"
+        ]
+      },
+      {
+        "name": "Bert Gurr",
+        "party": "Republican",
+        "bill_count": 4,
+        "bills": [
+          "82:AB90",
+          "83:AB190",
+          "83:AB265",
+          "83:AB419"
+        ]
+      },
+      {
+        "name": "Chris Brooks",
+        "party": "Democratic",
+        "bill_count": 4,
+        "bills": [
+          "80:AB163",
+          "80:AB265",
+          "80:SB236",
+          "80:SB547"
+        ]
+      },
+      {
+        "name": "James Settelmeyer",
+        "party": "Republican",
+        "bill_count": 4,
+        "bills": [
+          "80:SB150",
+          "80:SB232",
+          "80:SB250",
+          "81:SB98"
+        ]
+      },
+      {
+        "name": "James Ohrenschall",
+        "party": "Democratic",
+        "bill_count": 3,
+        "bills": [
+          "80:SB423",
+          "82:SB258",
+          "83:SB342"
+        ]
+      },
+      {
+        "name": "Robin Titus",
+        "party": "Republican",
+        "bill_count": 3,
+        "bills": [
+          "82:SB112",
+          "82:SB113",
+          "83:SB108"
+        ]
+      },
+      {
+        "name": "David Parks",
+        "party": "Democratic",
+        "bill_count": 2,
+        "bills": [
+          "80:AB233",
+          "80:SB547"
+        ]
+      },
+      {
+        "name": "Edgar Flores",
+        "party": "Democratic",
+        "bill_count": 2,
+        "bills": [
+          "83:SB159",
+          "83:SB276"
+        ]
+      },
+      {
+        "name": "Ira Hansen",
+        "party": "Republican",
+        "bill_count": 2,
+        "bills": [
+          "82:SB113",
+          "83:SB276"
+        ]
+      },
+      {
+        "name": "Jeff Stone",
+        "party": "Republican",
+        "bill_count": 2,
+        "bills": [
+          "82:SB113",
+          "83:SB276"
+        ]
+      },
+      {
+        "name": "Joseph Hardy",
+        "party": "Republican",
+        "bill_count": 2,
+        "bills": [
+          "80:SB150",
+          "80:SB250"
+        ]
+      },
+      {
+        "name": "Lisa Cole",
+        "party": "Republican",
+        "bill_count": 2,
+        "bills": [
+          "83:AB385",
+          "83:AB419"
+        ]
+      },
+      {
+        "name": "Lisa Krasner",
+        "party": "Republican",
+        "bill_count": 2,
+        "bills": [
+          "81:AB333",
+          "83:SB276"
+        ]
+      },
+      {
+        "name": "Sarah Peters",
+        "party": "Democratic",
+        "bill_count": 2,
+        "bills": [
+          "80:AB265",
+          "81:AB146"
+        ]
+      }
+    ],
+    "bills_with_both_major_parties_among_person_sponsors": [
+      {
+        "bill_key": "80:AB233",
+        "identifier": "AB233",
+        "session_year": "2019",
+        "disposition": "Enacted",
+        "theme": "Rules for underground water and wells"
+      },
+      {
+        "bill_key": "80:AB265",
+        "identifier": "AB265",
+        "session_year": "2019",
+        "disposition": "Failed",
+        "theme": "Planning for growth and future water supply"
+      },
+      {
+        "bill_key": "80:SB236",
+        "identifier": "SB236",
+        "session_year": "2019",
+        "disposition": "Enacted",
+        "theme": "Rules for underground water and wells"
+      },
+      {
+        "bill_key": "83:SB276",
+        "identifier": "SB276",
+        "session_year": "2025",
+        "disposition": "Enacted",
+        "theme": "Clean drinking water and pollution"
+      }
+    ]
+  },
+  "majority_yes_but_not_enacted": [
+    {
+      "bill_key": "80:AB30",
+      "identifier": "AB30",
+      "session_year": "2019",
+      "disposition": "Failed",
+      "death_or_success_stage": "died_in_second_chamber",
+      "theme": "Who gets water and how permits are decided",
+      "plain_topic": "Would have let the State Engineer require monitoring-and-mitigation plans, with public hearings, before deciding water permit applications.",
+      "winning_floor_votes": [
+        {
+          "chamber": "Assembly",
+          "yes_no": "31-9",
+          "yes_pct": 77.5
+        }
+      ],
+      "note": "Won at least one final-passage floor vote with majority Yes but never became law."
+    },
+    {
+      "bill_key": "81:AJR2",
+      "identifier": "AJR2",
+      "session_year": "2021",
+      "disposition": "In Progress",
+      "death_or_success_stage": "passed_both_chambers_enrolled_resolution",
+      "theme": "Saving water (conservation rules and incentives)",
+      "plain_topic": "Resolution recognizing that healthy forests, rangelands and soils are tied to the amount and quality of water.",
+      "winning_floor_votes": [
+        {
+          "chamber": "Assembly",
+          "yes_no": "34-8",
+          "yes_pct": 81.0
+        },
+        {
+          "chamber": "Senate",
+          "yes_no": "21-0",
+          "yes_pct": 100.0
+        }
+      ],
+      "note": "Resolution: passed both chambers and was enrolled; resolutions are not enacted as statutes."
+    },
+    {
+      "bill_key": "81:AJR3",
+      "identifier": "AJR3",
+      "session_year": "2021",
+      "disposition": "In Progress",
+      "death_or_success_stage": "passed_both_chambers_enrolled_resolution",
+      "theme": "Saving water (conservation rules and incentives)",
+      "plain_topic": "Resolution urging various actions to protect and conserve land and water.",
+      "winning_floor_votes": [
+        {
+          "chamber": "Assembly",
+          "yes_no": "26-16",
+          "yes_pct": 61.9
+        },
+        {
+          "chamber": "Senate",
+          "yes_no": "12-9",
+          "yes_pct": 57.1
+        }
+      ],
+      "note": "Resolution: passed both chambers and was enrolled; resolutions are not enacted as statutes."
+    },
+    {
+      "bill_key": "82:AB263",
+      "identifier": "AB263",
+      "session_year": "2023",
+      "disposition": "Failed",
+      "death_or_success_stage": "died_in_second_chamber",
+      "theme": "Clean drinking water and pollution",
+      "plain_topic": "Would have addressed transmission of Legionnaires' disease through building water systems in certain buildings.",
+      "winning_floor_votes": [
+        {
+          "chamber": "Assembly",
+          "yes_no": "28-14",
+          "yes_pct": 66.7
+        }
+      ],
+      "note": "Won at least one final-passage floor vote with majority Yes but never became law."
+    },
+    {
+      "bill_key": "82:AB387",
+      "identifier": "AB387",
+      "session_year": "2023",
+      "disposition": "Failed",
+      "death_or_success_stage": "died_in_second_chamber",
+      "theme": "Who referees water disputes (courts and the State Engineer's office)",
+      "plain_topic": "Would have required, not just encouraged, the State Engineer to use best available science, and recognized connections between groundwater and surface water.",
+      "winning_floor_votes": [
+        {
+          "chamber": "Assembly",
+          "yes_no": "26-14",
+          "yes_pct": 65.0
+        }
+      ],
+      "note": "Won at least one final-passage floor vote with majority Yes but never became law."
+    },
+    {
+      "bill_key": "82:SB180",
+      "identifier": "SB180",
+      "session_year": "2023",
+      "disposition": "Failed",
+      "death_or_success_stage": "after_both_chambers",
+      "theme": "Rules for underground water and wells",
+      "plain_topic": "Would have changed how groundwater boards are established and dissolved.",
+      "winning_floor_votes": [
+        {
+          "chamber": "Assembly",
+          "yes_no": "41-0",
+          "yes_pct": 100.0
+        },
+        {
+          "chamber": "Senate",
+          "yes_no": "21-0",
+          "yes_pct": 100.0
+        }
+      ],
+      "note": "Won at least one final-passage floor vote with majority Yes but never became law."
+    },
+    {
+      "bill_key": "82:SJR3",
+      "identifier": "SJR3",
+      "session_year": "2023",
+      "disposition": "In Progress",
+      "death_or_success_stage": "passed_both_chambers_enrolled_resolution",
+      "theme": "Colorado River and deals with other states",
+      "plain_topic": "Resolution urging the U.S. Bureau of Reclamation to consider actions and alternatives to protect and manage the Colorado River.",
+      "winning_floor_votes": [
+        {
+          "chamber": "Assembly",
+          "yes_no": "42-0",
+          "yes_pct": 100.0
+        },
+        {
+          "chamber": "Senate",
+          "yes_no": "21-0",
+          "yes_pct": 100.0
+        }
+      ],
+      "note": "Resolution: passed both chambers and was enrolled; resolutions are not enacted as statutes."
+    },
+    {
+      "bill_key": "83:SB143",
+      "identifier": "SB143",
+      "session_year": "2025",
+      "disposition": "Failed",
+      "death_or_success_stage": "died_in_second_chamber",
+      "theme": "Saving water (conservation rules and incentives)",
+      "plain_topic": "Would have had a legislative interim committee review water conservation and ordered a state study of artificial turf.",
+      "winning_floor_votes": [
+        {
+          "chamber": "Senate",
+          "yes_no": "21-0",
+          "yes_pct": 100.0
+        }
+      ],
+      "note": "Won at least one final-passage floor vote with majority Yes but never became law."
+    },
+    {
+      "bill_key": "83:SB31",
+      "identifier": "SB31",
+      "session_year": "2025",
+      "disposition": "Failed",
+      "death_or_success_stage": "died_in_second_chamber",
+      "theme": "Who referees water disputes (courts and the State Engineer's office)",
+      "plain_topic": "Would have revised deadlines and procedures for adjudicating old 'vested' water-right claims.",
+      "winning_floor_votes": [
+        {
+          "chamber": "Senate",
+          "yes_no": "15-6",
+          "yes_pct": 71.4
+        }
+      ],
+      "note": "Won at least one final-passage floor vote with majority Yes but never became law."
+    },
+    {
+      "bill_key": "83:SB324",
+      "identifier": "SB324",
+      "session_year": "2025",
+      "disposition": "Failed",
+      "death_or_success_stage": "died_in_second_chamber",
+      "theme": "Clean drinking water and pollution",
+      "plain_topic": "Would have banned sales of small disposable plastic water bottles in communities abutting the Lake Tahoe watershed.",
+      "winning_floor_votes": [
+        {
+          "chamber": "Senate",
+          "yes_no": "16-4",
+          "yes_pct": 80.0
+        }
+      ],
+      "note": "Won at least one final-passage floor vote with majority Yes but never became law."
+    }
+  ],
+  "data_limits": [
+    "Keyword-discovered set: the 88 bills come from water-related keyword searches, not an exhaustive sweep. Bills that affect water without water words in their titles or digests may be missing.",
+    "18 of 88 bills fail the strong water-title filter; they touch water only partially (boats, boilers, highway naming, food regulation, utility notices). Headline counts should prefer the 70-bill strong-title subset.",
+    "OpenStates detail lookups came back empty for all 88 bills, so every vote, sponsor and action record here comes from a single source: the Legislature's NELIS system.",
+    "Floor votes: 104 final-passage roll calls have full counts and named ballots. Committee records are thinner: 176 of 287 committee meeting entries (hearings and work sessions) have no recorded roll call, so most committee-stage outcomes rest on recommendations and subsequent actions, not counted votes.",
+    "Party labels on floor ballots were matched from the NELIS legislator directory with a Ballotpedia fallback (100% of 3,267 ballot rows matched); a small mismatch risk from name matching remains.",
+    "Introduced-versus-enrolled text comparisons exist only for the 48 Governor-bound bills; failed bills have no amendment-impact analysis here.",
+    "For several failed bills the processed milestone flags mark second-chamber passage even though no second-chamber final-passage roll call exists and the action history shows the bill died in the second chamber (e.g. AB387 of 2023, SB324 of 2025). Stages in this pack therefore count second-chamber passage only when a winning final-passage roll call from that chamber exists.",
+    "The pack contains no fiscal notes, agency impact studies, hearing testimony, or lobbying records; it cannot say why a bill stalled, only where.",
+    "The three 'In Progress' items are joint resolutions enrolled and delivered to the Secretary of State; they express positions or propose constitutional changes and do not become statutes.",
+    "Independent verification (data-verifier, 2026-07-16): overall PASS_WITH_WARNINGS; all bill identifiers, counts and dispositions checked; 20 of 20 sampled official URLs alive; the only warning concerned manifest file layout, not data content."
+  ]
+}
