@@ -52,12 +52,13 @@ You may make **small fixes** for reading level, missing explainers, or advice ph
 | A2 | Three history baskets present (often moved / unfinished / rarely moved) |
 | A3 | Deliberation questions present and open-ended |
 | A4 | No pursue/adapt/avoid as commands (labels OK only as history baskets) |
+| A5 | Every constituent proposal (issue config) is checked against the record on page 1 |
 
 ### B. Reading level & explainers
 
 | ID | Pass condition |
 |----|----------------|
-| B1 | Mostly short sentences; uncommon policy words explained inline in-section |
+| B1 | Mostly short sentences (target ≈ grade 8); uncommon policy words explained inline in-section |
 | B2 | No glossary-only explainers for terms used on page 1–2 |
 | B3 | Bill “plain topics” are understandable without legal training |
 | B4 | How-a-bill-moves primer present on page 1 |
@@ -95,6 +96,7 @@ You may make **small fixes** for reading level, missing explainers, or advice ph
 | F1 | `citizen-brief.html` + print CSS exist |
 | F2 | Appendices A–F exist |
 | F3 | `PACKAGE.md` exists |
+| F3b | Word export exists (`.docx` for brief + appendices) or `PACKAGE.md` gives explicit conversion steps |
 | F4 | Visuals use Phase 2 tokens (white page, navy `#1A2D4F`, terracotta `#C0392B`, Arial body) — no purple/gold/cream website palette |
 | F5 | Phase 2 modules present: eyebrow header, terracotta section headers, stat strip, history example cards, baskets table or cards, question grid |
 | F6 | No Phase 2 sample headings/titles/body text copied into the brief |

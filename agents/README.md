@@ -2,9 +2,13 @@
 
 These agents build a **citizen handout**: what was tried, what moved, what stalled, who showed up — so lay people can weigh **political realities** without being told what to do.
 
-Reading target: **about grade 5**.  
+The primary readers are **citizen working groups sharpening specific
+proposals** (the `constituent_proposals` block in the issue config). Page 1
+of the front brief checks each proposal against the legislative record.
+
+Reading target: **about grade 8**.  
 Front matter: **1 PDF page of essentials, 2 pages max**.  
-Detail: **print-friendly appendices**.
+Detail: **print-friendly appendices** + **Word (.docx) exports**.
 
 ## Pipeline (normal run — data already collected)
 
@@ -80,7 +84,11 @@ working/{state}/{issue}/
 briefs/{state}/{issue}/citizen-v1/
   citizen-brief.md
   citizen-brief.html
-  appendices/
+  citizen-brief.docx
+  appendices/           (incl. appendices.docx)
   PACKAGE.md
   review-report.md
 ```
+
+Word export: `python collectors/export_docx.py --brief-dir briefs/{state}/{issue}/citizen-v1`
+(requires pandoc; manual fallback steps are written into each PACKAGE.md).

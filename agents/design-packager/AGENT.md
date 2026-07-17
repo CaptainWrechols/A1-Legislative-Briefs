@@ -39,7 +39,23 @@ You package the citizen brief + appendices into **print-ready HTML** that mirror
 | `{BRIEF_DIR}/citizen-brief.html` | Printable front brief (1–2 letter pages) |
 | `{BRIEF_DIR}/appendices/appendices-print.html` | Combined appendices for print |
 | `{BRIEF_DIR}/citizen-brief-print.css` | Shared print CSS |
-| `{BRIEF_DIR}/PACKAGE.md` | Export steps + token/module notes |
+| `{BRIEF_DIR}/citizen-brief.docx` | Word version of the front brief (pandoc, branded reference doc) |
+| `{BRIEF_DIR}/appendices/appendices.docx` | Word version of the combined appendices |
+| `{BRIEF_DIR}/PACKAGE.md` | Export steps + token/module notes + manual Word-conversion fallback |
+
+### Word (.docx) export
+
+Use pandoc with the repo's branded reference document:
+
+```bash
+python collectors/export_docx.py --brief-dir {BRIEF_DIR}
+```
+
+That script converts `citizen-brief.md` and the appendix markdown files to
+`.docx` using `templates/citizen-brief/forum-reference.docx` (navy/terracotta
+heading styles, Arial body). If pandoc is unavailable, `PACKAGE.md` must give
+explicit manual steps (open the HTML in Word, or upload the `.md` to Google
+Docs and download as `.docx`).
 
 ## Visual tokens (from the Phase 2 PDF — required)
 

@@ -1,256 +1,211 @@
-# Appendix B — Theme Scorecards
+# Appendix B — Theme scorecards
 
-This appendix takes each of the nine themes from the bill set and shows how that kind of idea actually fared in the Legislature between 2019 and 2025. Each theme carries a *history basket* — a plain description of the track record — and a *certainty* level that reflects how many bills support the pattern. These labels describe the past record only; they are not predictions or recommendations.
+Each policy bill was assigned one theme. The basket says how this kind of idea usually fared in this record: Often moved before / Got support but didn't finish / Rarely moved before / Mixed.
 
-**History baskets:**
 
-| Basket | Meaning |
-|---|---|
-| Often moved before | in this dataset, similar ideas often became law or cleared both chambers. |
-| Got support but didn't finish | majority floor votes, both-chamber passage, or strong momentum without enactment; timing and process deaths count. |
-| Rarely moved before | repeated early stops (especially origin committee) for this kind of idea. |
-| The record splits | some versions of the idea moved, others repeatedly stalled. |
+## Water permits and the State Engineer's rules
 
+- **Bills:** 16 · **Became law:** 9 (56.2%) · **Basket:** Often moved before · **Certainty:** high
+- **Typical stop:** bigger changes stop in first committee or first floor (80:AB30 was the exception: passed Assembly 31-9, died in Senate)
+- *Inference: narrow, technical permit fixes often moved; bills adding new duties or conditions on the State Engineer moved less.*
+
+| Year | Bill | What it tried | Result | Where it ended |
+|---|---|---|---|---|
+| 2019 | AB30 | Would have required watch-and-fix plans before some water permits | Failed | Died in the second house |
+| 2019 | AB62 | Set clearer deadlines for finishing the construction tied to a water permit | Enacted | Became law |
+| 2019 | SB140 | Changed when the State Engineer must reject a water permit application | Enacted | Became law |
+| 2019 | SB236 | Made small changes to water permits easier in some cases | Enacted | Became law |
+| 2019 | SB250 | Rules on dedicating water rights before land can be split into parcels | Enacted | Became law |
+| 2021 | AB6 | Cleaned up the process for changing how appropriated water is used | Enacted | Became law |
+| 2023 | AB325 | Would have changed the process for moving where water is used | Failed | Died on its first floor / calendar |
+| 2023 | AB34 | Modernized how the State Engineer publishes notices about water applications | Enacted | Became law |
+| 2023 | AB90 | Would have changed temporary water-use change permits | Failed | Died in its first committee |
+| 2023 | SB258 | Extended temporary water-use change permits | Enacted | Became law |
+| 2025 | AB109 | Would have changed water rules for geothermal energy wells | Failed | Died in its first committee |
+| 2025 | AB132 | Allowed bigger wildlife water catchers without a permit | Enacted | Became law |
+| 2025 | AB190 | Would have set rules for studies the State Engineer can require before approving water uses | Failed | Died in its first committee |
+| 2025 | AB26 | Dam safety rules and legal protection for state dam inspectors | Enacted | Became law |
+| 2025 | AB265 | Would have set deadlines for reviewing water permit applications | Failed | Died in its first committee |
+| 2025 | AB9 | Let farm water rights be lent to wildlife uses for longer periods | Failed | Died on its first floor / calendar |
 
 <!-- pdf-page-break -->
 
-## Who gets water and how permits are decided
+## Colorado River, planning, studies, and new supply
 
-| Basket | Certainty | Bills | Became law | Pass rate |
+- **Bills:** 13 · **Became law:** 5 (38.5%) · **Basket:** Mixed record · **Certainty:** medium
+- **Typical stop:** asking-the-feds resolutions pass; restructuring agencies dies in first committee (80:SB76, 81:AB15); planning mandates got vetoed in 2023 (82:SB169)
+- *Inference: cloud seeding is the only new-supply idea that received state money in this record - twice, unanimously.*
+
+| Year | Bill | What it tried | Result | Where it ended |
 |---|---|---|---|---|
-| The record splits | High | 13 | 5 | 38% |
-
-- **Typical stopping point when a bill did not become law:** first committee (5 of 8 failures)
-- **Typical winning floor vote (when a final vote happened):** median 100% Yes across 6 bills with final votes
-
-**Example bills:**
-
-| Bill | Plain topic | Result | Best floor Yes% | Where it stopped or finished |
-|---|---|---|---|---|
-| 2021 AB6 | Streamlined hearing requirements for temporary changes to existing water rights | Became law | 100% | Signed into law |
-| 2023 SB258 | Temporary water-right changes up to 3 years for renewable energy projects | Became law | 100% | Signed into law |
-| 2021 AB354 | State-chartered water banks (Nevada Water Banking Act) | Did not become law | — | Stopped in first committee |
-| 2019 AB30 | Monitoring-and-mitigation plans with public hearings before permit decisions | Did not become law | 78% | Passed first chamber; stopped in second chamber |
-
-**What the record shows:** 5 of 13 enacted. Enacted bills were narrow or procedural (deadlines, notices, hearing rules, small exemptions) and passed with near-unanimous floor votes. Bills that reshaped who decides or added new structures (water banks 2021 AB354, hydrological-study fund 2025 AB190, review-committee timelines 2025 AB265) stopped in origin committee.
-
-**Reading of the record (inference, not fact):** in this record, narrow procedural permit changes often moved, while structural changes to permit decision-making rarely cleared the first committee.
-
-*Bills counted in this theme: 2019 AB30, 2019 AB62, 2021 AB354, 2021 AB6, 2023 AB325, 2023 AB34, 2023 AB90, 2023 SB258, 2025 AB109, 2025 AB132, 2025 AB190, 2025 AB265, 2025 AB9.*
-
+| 2019 | AB240 | Made five northern counties write yearly reports on managing growth in their region | Enacted | Became law |
+| 2019 | AB265 | Would have ordered a state study of water treatment and recycling | Failed | Died on its first floor / calendar |
+| 2019 | SB150 | Made counties and cities address water and conservation in their long-term plans | Enacted | Became law |
+| 2019 | SB499 | Would have created a new state advisory board for water planning | Failed | Died in its first committee |
+| 2019 | SB76 | Would have restructured the Colorado River Commission | Failed | Died in its first committee |
+| 2021 | AB15 | Would have changed who sits on the Colorado River Commission | Failed | Died in its first committee |
+| 2021 | AJR2 | Statement that healthy forests and soils protect water supplies | In Progress | Passed both houses, still no law |
+| 2021 | AJR3 | Statement urging protection of land and water | In Progress | Passed both houses, still no law |
+| 2023 | SB169 | Would have added conservation and climate items to local master plans — vetoed | Vetoed | Vetoed by the governor |
+| 2023 | SB473 | Money for a study of extreme rainfall | Enacted | Became law |
+| 2023 | SB99 | Money for the state cloud seeding program (making more snow fall) | Enacted | Became law |
+| 2023 | SJR3 | Asked the federal government to manage the Colorado River better | In Progress | Passed both houses, still no law |
+| 2025 | SB6 | Money for the state cloud seeding program (repeat of 2023 funding) | Enacted | Became law |
 
 <!-- pdf-page-break -->
 
-## Rules for underground water and wells
+## Money for water projects
 
-| Basket | Certainty | Bills | Became law | Pass rate |
+- **Bills:** 13 · **Became law:** 11 (84.6%) · **Basket:** Often moved before · **Certainty:** high
+- **Typical stop:** the two failures died in a money committee (82:SB102, 83:SB159)
+- *Inference: appropriations and grant-program bills nearly always finish once they reach a floor; the filter is the money committee, not the vote.*
+
+| Year | Bill | What it tried | Result | Where it ended |
 |---|---|---|---|---|
-| The record splits | High | 15 | 7 | 47% |
-
-- **Typical stopping point when a bill did not become law:** first committee (4 of 8 failures); one bill (2023 SB180) passed both chambers unanimously and still died
-- **Typical winning floor vote (when a final vote happened):** median 100% Yes across 8 bills with final votes
-
-**Example bills:**
-
-| Bill | Plain topic | Result | Best floor Yes% | Where it stopped or finished |
-|---|---|---|---|---|
-| 2025 SB36 | Account to buy and permanently retire water rights in over-appropriated basins | Became law | 100% | Signed into law |
-| 2019 AB95 | Rules for ordering pumping cutbacks in over-drawn basins | Became law | 70% | Signed into law |
-| 2023 SB180 | How groundwater boards are established and dissolved | Did not become law | 100% | Passed both chambers; never enacted |
-| 2019 AB51 | Managing groundwater and surface water together (conjunctive management) | Did not become law | — | Stopped in first committee |
-
-**What the record shows:** 7 of 15 enacted, the largest theme in the set. Enactments include substantive basin-management tools (2019 AB95 pumping cutbacks, 2019 SB140 10% groundwater reserve, 2025 SB36 water-right retirement account). Water-right retirement failed in 2023 (2023 SB176, after origin committee) and then passed unanimously in 2025 (2025 SB36). Groundwater-board restructuring failed three times (2021 SB149, 2023 SB180, 2025 AB363), once after clearing both chambers 41-0 and 21-0.
-
-**Reading of the record (inference, not fact):** this theme moved more than most, and at least one idea (retiring water rights) went from stalled to enacted across sessions; groundwater-board restructuring is the recurring non-finisher.
-
-*Bills counted in this theme: 2019 AB233, 2019 AB51, 2019 AB95, 2019 SB140, 2019 SB236, 2021 SB149, 2023 AB91, 2023 SB112, 2023 SB113, 2023 SB176, 2023 SB180, 2025 AB363, 2025 AB485, 2025 SB342, 2025 SB36.*
-
+| 2019 | SB507 | Money to support the Marlette Lake water system | Enacted | Became law |
+| 2019 | SB509 | Money for the state water agency's vehicles and computers | Enacted | Became law |
+| 2019 | SB519 | Money for a snow vehicle to reach the Marlette Lake dam in winter | Enacted | Became law |
+| 2021 | AB465 | Money to repair the South Fork Dam | Enacted | Became law |
+| 2021 | SB430 | Let the state Infrastructure Bank fund water projects among others | Enacted | Became law |
+| 2023 | AB19 | Opened river channel repair grants to tribes | Enacted | Became law |
+| 2023 | AB20 | Updated Nevada's use of federal clean water project loans | Enacted | Became law |
+| 2023 | AB470 | Money for legal work on Marlette Lake water rights | Enacted | Became law |
+| 2023 | SB102 | Would have funded city and county grants for water projects | Failed | Died in its first committee |
+| 2023 | SB472 | Money for South Fork Dam projects | Enacted | Became law |
+| 2025 | AB104 | Updated grant rules for conservation and resource projects, water included | Enacted | Became law |
+| 2025 | SB108 | Extended the river channel clearance grant program | Enacted | Became law |
+| 2025 | SB159 | Would have funded a university water systems lab | Failed | Died in its first committee |
 
 <!-- pdf-page-break -->
 
-## Saving water (conservation rules and incentives)
+## Groundwater, wells, and over-pumped basins
 
-| Basket | Certainty | Bills | Became law | Pass rate |
+- **Bills:** 12 · **Became law:** 4 (33.3%) · **Basket:** Mixed record · **Certainty:** high
+- **Typical stop:** first committee (5 of 8 non-enactments); 82:SB180 passed both houses 41-0 and unanimous, still no law; the 2025 retry (83:AB363) died on the Assembly floor calendar
+
+| Year | Bill | What it tried | Result | Where it ended |
 |---|---|---|---|---|
-| The record splits | Medium | 8 | 3 | 38% |
-
-- **Typical stopping point when a bill did not become law:** first committee (2 of 3 failures); one unanimous Senate bill died in the second chamber
-- **Typical winning floor vote (when a final vote happened):** median 100% Yes across 6 bills with final votes
-
-**Example bills:**
-
-| Bill | Plain topic | Result | Best floor Yes% | Where it stopped or finished |
-|---|---|---|---|---|
-| 2021 AB356 | Ban on Colorado River water for decorative (nonfunctional) grass in southern Nevada | Became law | 100% | Signed into law |
-| 2023 AB191 | More water suppliers required to adopt conservation plans and water-loss audits | Became law | 100% | Signed into law |
-| 2025 SB143 | Interim committee review of conservation plus a state artificial-turf study | Did not become law | 100% | Passed first chamber; stopped in second chamber |
-| 2023 AB186 | Restaurants serve drinking water only on request | Did not become law | — | Stopped in first committee |
-
-**What the record shows:** 3 of 8 enacted, plus two enrolled 2021 resolutions (2021 AJR2, 2021 AJR3). The enacted bills bind utilities and suppliers (audits, plans, the decorative-grass ban). 2025 SB143 passed the Senate 21-0 and died in the Assembly.
-
-**Reading of the record (inference, not fact):** supplier-facing conservation mandates repeatedly became law in this record; the small sample limits conclusions about consumer-facing rules, which appear once (2023 AB186) and stopped early.
-
-*Bills counted in this theme: 2019 AB163, 2021 AB356, 2021 AJR2, 2021 AJR3, 2023 AB186, 2023 AB191, 2025 AB134, 2025 SB143.*
-
+| 2019 | AB233 | Changed the special property charge counties collect in water basins the State Engineer names | Enacted | Became law |
+| 2019 | AB51 | Would have made the State Engineer write rules for managing all water sources together | Failed | Died in its first committee |
+| 2019 | AB95 | Told the State Engineer how to study groundwater basins that may not refill fast enough | Enacted | Became law |
+| 2021 | SB149 | Would have changed how local groundwater boards are formed | Failed | Died in its first committee |
+| 2023 | AB91 | Let some domestic well owners skip a permit step when drilling replacement wells | Enacted | Became law |
+| 2023 | SB112 | Would have changed funding for well supervisors | Failed | Died on its first floor / calendar |
+| 2023 | SB113 | Changed how over-pumped groundwater areas get named 'critical management areas' | Enacted | Became law |
+| 2023 | SB180 | Changed how groundwater boards are formed and ended — passed both houses with zero 'no' votes, still did not become law | Failed | Passed both houses, still no law |
+| 2025 | AB312 | Would have made home sellers disclose private well water test results | Failed | Died in its first committee |
+| 2025 | AB363 | Would have changed how groundwater boards are formed (retry of 2023 SB180) | Failed | Died on its first floor / calendar |
+| 2025 | AB485 | Would have changed funding for well supervisors (retry of 2023 SB112) | Failed | Died in its first committee |
+| 2025 | SB342 | Would have changed how groundwater basins get special management status | Failed | Died in its first committee |
 
 <!-- pdf-page-break -->
 
-## Planning for growth and future water supply
+## Water utilities, districts, and local agencies
 
-| Basket | Certainty | Bills | Became law | Pass rate |
+- **Bills:** 11 · **Became law:** 8 (72.7%) · **Basket:** Often moved before · **Certainty:** medium
+- **Typical stop:** first committee (3)
+
+| Year | Bill | What it tried | Result | Where it ended |
 |---|---|---|---|---|
-| Often moved before | Medium | 8 | 5 | 62% |
-
-- **Typical stopping point when a bill did not become law:** first committee (2 of 3 failures)
-- **Typical winning floor vote (when a final vote happened):** median 100% Yes across 5 bills with final votes
-
-**Example bills:**
-
-| Bill | Plain topic | Result | Best floor Yes% | Where it stopped or finished |
-|---|---|---|---|---|
-| 2019 SB150 | Counties and cities must keep long-term water resource plans with their master plans | Became law | 100% | Signed into law |
-| 2019 SB250 | When governments can require water-right dedication before approving development | Became law | 100% | Signed into law |
-| 2023 AB261 | State economic development plan must address efficient water use | Became law | 100% | Signed into law |
-| 2019 SB499 | Advisory Board on Water Resources Planning and Drought Resiliency | Did not become law | — | Stopped in first committee |
-
-**What the record shows:** 5 of 8 enacted; every enactment passed its best floor vote unanimously. Failures were a study mandate (2019 AB265), a new advisory board (2019 SB499), and a building-code preemption (2025 AB385). Note: 3 of the 8 bills are weak title matches, so the strong-title record is 3 of 5 enacted.
-
-**Reading of the record (inference, not fact):** planning requirements tied to existing local processes often moved in this record; proposals creating new advisory bodies or studies stopped early.
-
-*Bills counted in this theme: 2019 AB265, 2019 SB150, 2019 SB250, 2019 SB499, 2021 AB333, 2021 SB98, 2023 AB261, 2025 AB385.*
-
+| 2019 | AB21 | Changed how boards of some local districts, including irrigation districts, are chosen | Enacted | Became law |
+| 2019 | SB232 | Updated who can vote and hold office in irrigation districts | Enacted | Became law |
+| 2021 | SB14 | Emergency planning duties that include water system emergencies | Enacted | Became law |
+| 2021 | SB216 | Would have required security and emergency plans for community water systems | Failed | Died in its first committee |
+| 2021 | SB238 | Would have changed permits for new public water systems | Failed | Died in its first committee |
+| 2021 | SB98 | Updated the Carson Water Subconservancy District's boundaries and duties | Enacted | Became law |
+| 2025 | AB10 | Let neighborhood improvement districts fund water and sewer fixes | Enacted | Became law |
+| 2025 | AB449 | Simplified rate-change procedures for small water utilities | Enacted | Became law |
+| 2025 | AB456 | Would have required utility notices in more languages | Failed | Died in its first committee |
+| 2025 | SB326 | Simplified rate changes for water utilities (companion to AB449) | Enacted | Became law |
+| 2025 | SB442 | Rules before a utility can shut off water or power for customers | Enacted | Became law |
 
 <!-- pdf-page-break -->
 
-## Colorado River and deals with other states
+## Data centers, big water users, and tax deals
 
-| Basket | Certainty | Bills | Became law | Pass rate |
+- **Bills:** 11 · **Became law:** 4 (36.4%) · **Basket:** Rarely moved before · **Certainty:** high
+- **Typical stop:** bills that would restrain data centers or big tax breaks died early or at the wire; bills that helped them passed
+- *Inference: direction matters in this theme. Helping large users: 4 for 4 (80:SB547, 80:AB400, 81:AB66, 82:AB261). Restraining them: 0 for 5 (83:AB77, 82:SB394, 82:SB429, 81:AB449, and 83:SB364 which stalled). The one water-cooling bill (83:AB385) tried to protect evaporative cooling from local bans and died in its first committee.*
+
+| Year | Bill | What it tried | Result | Where it ended |
 |---|---|---|---|---|
-| The record splits | Low | 4 | 1 | 25% |
-
-- **Typical stopping point when a bill did not become law:** first committee (2 of 2 failures)
-- **Typical winning floor vote (when a final vote happened):** median 100% Yes across 2 bills with final votes
-
-**Example bills:**
-
-| Bill | Plain topic | Result | Best floor Yes% | Where it stopped or finished |
-|---|---|---|---|---|
-| 2019 SB433 | Updated California-Nevada law-enforcement compact for Lake Tahoe and Topaz Lake | Became law | 100% | Signed into law |
-| 2023 SJR3 | Resolution urging the Bureau of Reclamation to protect and manage the Colorado River | In Progress (enrolled resolution) | 100% | — |
-| 2019 SB76 | Rework the Colorado River Commission's water and power role | Did not become law | — | Stopped in first committee |
-| 2021 AB15 | Change Colorado River Commission membership | Did not become law | — | Stopped in first committee |
-
-**What the record shows:** Only 4 bills. Both attempts to restructure the Colorado River Commission (2019 SB76, 2021 AB15) died in origin committee. The compact update and the resolution passed unanimously.
-
-**Reading of the record (inference, not fact):** sample is too small for strong conclusions; the only visible pattern is that both Commission-restructuring attempts stopped at the first committee.
-
-*Bills counted in this theme: 2019 SB433, 2019 SB76, 2021 AB15, 2023 SJR3.*
-
+| 2019 | AB400 | Changed tax-break rules for big projects, including how data centers get school-tax breaks | Enacted | Became law |
+| 2019 | SB547 | Let data centers run their own electric equipment without being regulated as utilities | Enacted | Became law |
+| 2021 | AB449 | Would have tightened the agreements businesses sign to get big tax breaks (data-center statutes included) | Failed | Died in its first committee |
+| 2021 | AB66 | Housekeeping changes to tax-break start dates (data-center statutes included) | Enacted | Became law |
+| 2023 | AB261 | Made the state economic development plan address efficient use of water | Enacted | Became law |
+| 2023 | AB97 | Would have blocked local governments from banning newer refrigerants in cooling equipment — vetoed | Vetoed | Vetoed by the governor |
+| 2023 | SB394 | Would have capped big business tax breaks (data-center statutes included) at $500,000 — passed the Senate 14-7, died in the Assembly | Failed | Died in the second house |
+| 2023 | SB429 | Would have tied big tax breaks to paid family leave — vetoed | Vetoed | Vetoed by the governor |
+| 2025 | AB385 | Would have blocked cities and counties from banning big water-based cooling towers — died in first committee | Failed | Died in its first committee |
+| 2025 | AB77 | Would have added grounds to deny business tax breaks, with data centers named — died in first committee | Failed | Died in its first committee |
+| 2025 | SB364 | Would have expanded business tax breaks (data-center statutes included) | Failed | Died on its first floor / calendar |
 
 <!-- pdf-page-break -->
 
-## Money for water projects and agencies
+## Clean water and pollution
 
-| Basket | Certainty | Bills | Became law | Pass rate |
+- **Bills:** 9 · **Became law:** 6 (66.7%) · **Basket:** Often moved before · **Certainty:** medium
+- **Typical stop:** scattered; the constitutional clean-water right (82:AJR3) died in first committee
+
+| Year | Bill | What it tried | Result | Where it ended |
 |---|---|---|---|---|
-| Often moved before | High | 13 | 11 | 85% |
-
-- **Typical stopping point when a bill did not become law:** first committee (2 of 2 failures)
-- **Typical winning floor vote (when a final vote happened):** median 100% Yes across 11 bills with final votes
-
-**Example bills:**
-
-| Bill | Plain topic | Result | Best floor Yes% | Where it stopped or finished |
-|---|---|---|---|---|
-| 2023 AB19 | Tribal governments eligible for river channel clearance and maintenance grants | Became law | 100% | Signed into law |
-| 2023 SB473 | Money for a Division of Water Resources study of extreme rainfall events | Became law | 100% | Signed into law |
-| 2023 SB102 | Grant money for cities and counties to develop water resource plans | Did not become law | — | Stopped in first committee |
-| 2025 SB159 | Money to a UNLV lab for water systems and wastewater work | Did not become law | — | Stopped in first committee |
-
-**What the record shows:** 11 of 13 enacted, the highest rate of any theme; every enacted bill passed its best floor vote at 95% yes or higher. The two failures were grant/appropriation asks that never left origin committee (2023 SB102, 2025 SB159).
-
-**Reading of the record (inference, not fact):** in this record, funding bills that reached a floor vote passed overwhelmingly; the filter was the money committee, not the floor.
-
-*Bills counted in this theme: 2019 SB507, 2019 SB509, 2021 AB465, 2023 AB19, 2023 AB20, 2023 AB470, 2023 SB102, 2023 SB472, 2023 SB473, 2025 AB10, 2025 AB104, 2025 SB108, 2025 SB159.*
-
+| 2019 | AB537 | Raised penalties for breaking environmental laws, including water laws | Enacted | Became law |
+| 2021 | AB146 | Stronger state controls on scattered sources of water pollution | Enacted | Became law |
+| 2021 | AB97 | Limited PFAS chemicals, which can pollute water | Enacted | Became law |
+| 2023 | AB220 | Helped homeowners convert septic systems to sewer where groundwater is stressed | Enacted | Became law |
+| 2023 | AB313 | Would have tightened mine reclamation rules that protect water | Failed | Died on its first floor / calendar |
+| 2023 | AJR3 | Would have added a clean-water right to the Nevada Constitution | Failed | Died in its first committee |
+| 2023 | SB115 | Set state rules for wetland damage mitigation credits | Enacted | Became law |
+| 2025 | SB276 | New public notice rules for water pollution permits | Enacted | Became law |
+| 2025 | SB324 | Would have banned some pollutants near Lake Tahoe | Failed | Died in the second house |
 
 <!-- pdf-page-break -->
 
-## Clean drinking water and pollution
+## Using less water
 
-| Basket | Certainty | Bills | Became law | Pass rate |
+- **Bills:** 6 · **Became law:** 4 (66.7%) · **Basket:** Often moved before · **Certainty:** medium
+- **Typical stop:** 2025 SB143 (water-saving review + turf study) passed the Senate 21-0 and died in the Assembly
+- *Inference: conservation mandates on suppliers often moved; the record's most famous water law (81:AB356 grass ban) is here.*
+
+| Year | Bill | What it tried | Result | Where it ended |
 |---|---|---|---|---|
-| The record splits | Medium | 8 | 3 | 38% |
-
-- **Typical stopping point when a bill did not become law:** first committee (3 of 5 failures); 2 died in the second chamber after majority floor votes
-- **Typical winning floor vote (when a final vote happened):** median 80% Yes across 5 bills with final votes
-
-**Example bills:**
-
-| Bill | Plain topic | Result | Best floor Yes% | Where it stopped or finished |
-|---|---|---|---|---|
-| 2023 AB220 | Health districts may pay 100% of septic-to-sewer conversion costs | Became law | 85% | Signed into law |
-| 2021 AB146 | State plans to control non-point-source water pollution | Became law | 70% | Signed into law |
-| 2023 AB263 | Legionnaires' disease and building water systems | Did not become law | 67% | Passed first chamber; stopped in second chamber |
-| 2025 SB324 | Ban small disposable plastic water bottles near the Lake Tahoe watershed | Did not become law | 80% | Passed first chamber; stopped in second chamber |
-
-**What the record shows:** 3 of 8 enacted. This theme has the lowest median winning floor margin (80%) of any theme with multiple votes — floor votes here were contested more often than elsewhere. Two bills won majority floor votes and still died in the second chamber (2023 AB263, 2025 SB324).
-
-**Reading of the record (inference, not fact):** this theme splits between early committee stops and second-chamber deaths; it holds more of the set's contested floor votes than any other theme.
-
-*Bills counted in this theme: 2021 AB146, 2021 SB216, 2021 SB238, 2023 AB220, 2023 AB263, 2025 AB312, 2025 SB276, 2025 SB324.*
-
+| 2019 | AB163 | Updated the water-saving plans that water suppliers must write, adding leak checks | Enacted | Became law |
+| 2021 | AB356 | Banned decorative grass that uses Colorado River water in southern Nevada | Enacted | Became law |
+| 2021 | SB283 | Let local improvement financing cover water efficiency projects | Enacted | Became law |
+| 2023 | AB191 | Required water suppliers to audit and report their water losses | Enacted | Became law |
+| 2025 | AB134 | Would have let water right holders file voluntary conservation plans without losing their rights | Failed | Died in its first committee |
+| 2025 | SB143 | Planned a review of water saving, plus a fake-grass study — passed the Senate 21-0, died in the Assembly | Failed | Died in the second house |
 
 <!-- pdf-page-break -->
 
-## Who referees water disputes (courts and the State Engineer's office)
+## Courts and oversight of water decisions
 
-| Basket | Certainty | Bills | Became law | Pass rate |
+- **Bills:** 6 · **Became law:** 0 (0.0%) · **Basket:** Rarely moved before · **Certainty:** high
+- **Typical stop:** first committee (3); two got one-chamber floor wins in 2023-2025 and died in the second house (82:AB387 26-14; 83:SB31 15-6)
+- *Inference: 0-for-6 across four sessions, but the last two attempts got further than the first four - movement without a finish.*
+
+| Year | Bill | What it tried | Result | Where it ended |
 |---|---|---|---|---|
-| Rarely moved before | Medium | 6 | 0 | 0% |
-
-- **Typical stopping point when a bill did not become law:** first committee (3 of 6); 2 recent bills got majority floor votes then died in the second chamber
-- **Typical winning floor vote (when a final vote happened):** median 68% Yes across 2 bills with final votes
-
-**Example bills:**
-
-| Bill | Plain topic | Result | Best floor Yes% | Where it stopped or finished |
-|---|---|---|---|---|
-| 2021 SJR1 | Constitutional amendment sending State Engineer challenges to the Court of Appeals | Did not become law | — | Stopped in first committee |
-| 2023 AB387 | Require (not just encourage) best available science; recognize groundwater-surface water connections | Did not become law | 65% | Passed first chamber; stopped in second chamber |
-| 2025 SB31 | Deadlines and procedures for adjudicating old 'vested' water-right claims | Did not become law | 71% | Passed first chamber; stopped in second chamber |
-| 2025 AB419 | Biennial public reports on water applications pending 2+ years | Did not become law | — | Stopped in first chamber, after committee |
-
-**What the record shows:** 0 of 6 enacted — the only theme with no enactments across all four sessions. Three died in origin committee (2021 bills); two more recent bills (2023 AB387, 2025 SB31) won majority floor votes in one chamber and died in the other.
-
-**Reading of the record (inference, not fact):** in this record, changing who reviews the State Engineer never finished, though the stopping point moved later in recent sessions (from origin committee in 2021 to second-chamber deaths in 2023 and 2025). Six bills is enough to note the pattern but not to call it fixed.
-
-*Bills counted in this theme: 2021 AB5, 2021 SB155, 2021 SJR1, 2023 AB387, 2025 AB419, 2025 SB31.*
-
+| 2021 | AB5 | Would have changed how courts review the State Engineer's decisions | Failed | Died in its first committee |
+| 2021 | SB155 | Would have changed the required qualifications for the State Engineer | Failed | Died in its first committee |
+| 2021 | SJR1 | Would have changed which court reviews the State Engineer's decisions | Failed | Died in its first committee |
+| 2023 | AB387 | Would have made the State Engineer use the best available science | Failed | Died in the second house |
+| 2025 | AB419 | Would have added new duties for the State Engineer | Failed | Died on its first floor / calendar |
+| 2025 | SB31 | Would have updated Nevada's process for big multi-party water rights court cases | Failed | Died in the second house |
 
 <!-- pdf-page-break -->
 
-## Other bills that touch water
+## Buying, banking, or retiring water rights
 
-*Low relevance for water deliberation: 10 of 13 bills are weak title matches (boats, boilers, highway names, food regulation). Their high enactment rate says little about water policy.*
+- **Bills:** 3 · **Became law:** 1 (33.3%) · **Basket:** Got support but didn't finish · **Certainty:** low
+- **Typical stop:** failed in 2021 (81:AB354 water banking, first committee) and 2023 (82:SB176, first floor), then 83:SB36 became law in 2025
+- *Inference: this idea took three sessions to land; recently done - groups may ask whether SB36 covers what they want or leaves gaps (it is limited to over-appropriated basins and depends on funding).*
 
-| Basket | Certainty | Bills | Became law | Pass rate |
+| Year | Bill | What it tried | Result | Where it ended |
 |---|---|---|---|---|
-| Often moved before | Medium | 13 | 10 | 77% |
+| 2021 | AB354 | Would have created a Nevada Water Banking system to save and trade unused water | Failed | Died in its first committee |
+| 2023 | SB176 | Would have created a program to buy and retire water rights | Failed | Died on its first floor / calendar |
+| 2025 | SB36 | Set up a state account to buy water rights in over-used groundwater areas and retire them for good | Enacted | Became law |
 
-- **Typical stopping point when a bill did not become law:** first committee (3 of 3 failures)
-- **Typical winning floor vote (when a final vote happened):** median 100% Yes across 10 bills with final votes
-
-**Example bills:**
-
-| Bill | Plain topic | Result | Best floor Yes% | Where it stopped or finished |
-|---|---|---|---|---|
-| 2019 SB232 | Voting and office-holding rights in irrigation districts for land held in trust | Became law | 100% | Signed into law |
-| 2025 SB466 | Food-establishment regulation, including water standards, moved to Department of Agriculture | Became law | 100% | Signed into law |
-| 2025 AB26 | State Engineer shielded from liability for certain dam or reservoir failures | Became law | 100% | Signed into law |
-
-**What the record shows:** 10 of 13 enacted, but only 3 bills are strong water-title matches. This theme exists because the keyword search caught them; it is background, not a water-policy pattern.
-
-**Reading of the record (inference, not fact):** no water-specific conclusion is warranted from this catch-all theme.
-
-*Bills counted in this theme: 2019 SB232, 2019 SB423, 2019 SB47, 2019 SB547, 2021 SB205, 2021 SB33, 2021 SB67, 2023 SB59, 2025 AB110, 2025 AB26, 2025 AB456, 2025 SB43, 2025 SB466.*
+<!-- pdf-page-break -->

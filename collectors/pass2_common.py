@@ -202,8 +202,18 @@ def derive_progress_from_nelis(
         if yea + nay == 0:
             continue
         is_committee = "committee" in label or "committee" in chamber
+        # Attribute floor votes by the vote's own chamber label, not by the
+        # crossed flag: history is scanned before votes, so `crossed` is
+        # already True for bills that crossed over even though the recorded
+        # floor vote happened in the origin chamber.
+        vote_chamber = ""
+        if "senate" in chamber:
+            vote_chamber = "upper"
+        elif "assembly" in chamber:
+            vote_chamber = "lower"
+        in_second = vote_chamber != first if vote_chamber else crossed
         if is_committee:
-            if crossed:
+            if in_second:
                 flags["seen_in_committee_second_chamber"] = True
                 if yea > nay:
                     flags["passed_out_of_committee_second_chamber"] = True
@@ -212,7 +222,7 @@ def derive_progress_from_nelis(
                 if yea > nay:
                     flags["passed_out_of_committee_origin"] = True
         else:
-            if crossed or "senate" in chamber and first == "lower":
+            if in_second:
                 flags["floor_vote_second_chamber"] = True
                 if yea >= nay:
                     flags["passed_second_chamber"] = True

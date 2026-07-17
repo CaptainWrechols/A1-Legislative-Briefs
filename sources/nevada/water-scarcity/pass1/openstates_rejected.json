@@ -1,0 +1,2206 @@
+{
+  "note": "OpenStates-only hits that failed the relevance filter",
+  "count": 200,
+  "bills": [
+    {
+      "session": "82",
+      "identifier": "AB1",
+      "title": "Authorizes certain counties to impose additional local sales and use tax under certain circumstances. (BDR\u00a032-306)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB1/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB10",
+      "title": "Authorizes the designation of a tax increment area for certain transportation and housing reinvestment purposes. (BDR\u00a022-383)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB10/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB109",
+      "title": "Establishes provisions relating to soil health. (BDR\u00a049-571)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB109/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB115",
+      "title": "Revises provisions relating to substance use disorders. (BDR\u00a040-726)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB115/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB131",
+      "title": "Revises provisions governing urban and community forestry. (BDR\u00a047-720)",
+      "abstract": "",
+      "found_by_terms": [
+        "drought"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB131/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB137",
+      "title": "Revises provisions relating to fetal alcohol spectrum disorders. (BDR\u00a040-327)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB137/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB153",
+      "title": "Provides for the regulation of the practice of naprapathy. (BDR\u00a054-724)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB153/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB156",
+      "title": "Revises provisions relating to substance use disorders. (BDR\u00a040-331)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB156/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB169",
+      "title": "Revises provisions governing the labeling of feminine hygiene products. (BDR\u00a051-617)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB169/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB170",
+      "title": "Revises provisions relating to certain offenses involving concentrated cannabis. (BDR\u00a040-110)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB170/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB179",
+      "title": "Establishes the Perinatal Quality Collaborative. (BDR\u00a040-98)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB179/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB201",
+      "title": "Revises provisions relating to planning for the provision of behavioral health care. (BDR\u00a039-325)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB201/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB216",
+      "title": "Revises provisions governing travel insurance. (BDR\u00a057-198)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB216/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB231",
+      "title": "Revises various provisions of the Uniform Commercial Code. (BDR\u00a08-604)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB231/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB232",
+      "title": "Revises provisions governing the taxation of other tobacco products. (BDR\u00a032-618)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB232/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB235",
+      "title": "Revises provisions governing public works projects. (BDR\u00a028-176)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB235/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB243",
+      "title": "Revises provisions relating to legislative affairs. (BDR\u00a017-366)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB243/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB245",
+      "title": "Revises provisions governing education. (BDR\u00a034-818)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB245/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB249",
+      "title": "Enacts provisions relating to the use of hemp in certain commercial feed. (BDR\u00a051-719)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB249/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB253",
+      "title": "Provides for the permitting and regulation of certain events at which the sale and consumption of cannabis or cannabis products is allowed. (BDR\u00a056-152)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB253/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB264",
+      "title": "Revises provisions governing attendance in public schools. (BDR\u00a034-639)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB264/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB27",
+      "title": "Revises provisions relating to contractors who provide management and counseling services on construction projects. (BDR\u00a054-269)",
+      "abstract": "",
+      "found_by_terms": [
+        "irrigation"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB27/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB270",
+      "title": "Provides for the licensure and regulation of anesthesiologist assistants. (BDR\u00a054-714)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB270/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB277",
+      "title": "Establishes provisions governing rural emergency hospitals. (BDR\u00a040-637)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB277/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB294",
+      "title": "Revises provisions governing tobacco. (BDR\u00a040-171)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB294/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB313",
+      "title": "Revises provisions relating to mining reclamation. (BDR\u00a046-590)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB313/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB314",
+      "title": "Revises provisions governing the regulation of home-based businesses by counties, cities and towns. (BDR\u00a020-772)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB314/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB315",
+      "title": "Establishes various provisions relating to geothermal energy. (BDR\u00a058-947)",
+      "abstract": "",
+      "found_by_terms": [
+        "water conservation"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB315/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB321",
+      "title": "Makes various changes relating to public safety. (BDR\u00a052-753)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB321/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB322",
+      "title": "Revises provisions relating to kratom products. (BDR\u00a052-763)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB322/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB33",
+      "title": "Revises provisions governing public investments. (BDR\u00a031-357)",
+      "abstract": "",
+      "found_by_terms": [
+        "irrigation"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB33/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB352",
+      "title": "Revises provisions governing academic standards for certain pupils. (BDR\u00a034-732)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB352/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB358",
+      "title": "Revises provisions governing emergency medical services. (BDR\u00a040-859)",
+      "abstract": "",
+      "found_by_terms": [
+        "wastewater"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB358/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB36",
+      "title": "Revises provisions relating to veterans. (BDR\u00a037-242)",
+      "abstract": "",
+      "found_by_terms": [
+        "wastewater"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB36/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB368-2021",
+      "title": "Revises provisions relating to improvement districts. (BDR\u00a022-17)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB368-2021/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB37",
+      "title": "Authorizes the establishment of the Behavioral Health Workforce Development Center of Nevada. (BDR\u00a034-361)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB37/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB386",
+      "title": "Revises provisions relating to midwives. (BDR\u00a054-111)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB386/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB390",
+      "title": "Revises provisions governing the Nevada Administrative Procedure Act. (BDR\u00a018-849)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB390/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB392",
+      "title": "Makes various changes relating to property. (BDR\u00a010-209)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB392/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB397",
+      "title": "Revises provisions governing public safety. (BDR\u00a043-210)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB397/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB4",
+      "title": "Revises provisions relating to certain educational commissions. (BDR\u00a034-280)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB4/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB400",
+      "title": "Revises various provisions relating to education. (BDR\u00a034-1088)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB400/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB413",
+      "title": "Revises provisions relating to cannabis. (BDR\u00a056-1054)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB413/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB420",
+      "title": "Revises provisions governing education. (BDR\u00a034-689)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB420/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB424",
+      "title": "Revises provisions relating to the issuance of bonds for environmental improvement projects in the Lake Tahoe Basin. (BDR\u00a0S-388)",
+      "abstract": "",
+      "found_by_terms": [
+        "water conservation"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB424/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB425",
+      "title": "Revises provisions governing net metering. (BDR\u00a058-1036)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB425/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB430",
+      "title": "Revises provisions relating to cannabis. (BDR\u00a032-893)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB430/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB45",
+      "title": "Creates a program to repay the student education loans of certain providers of health care. (BDR\u00a018-359)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB45/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB457",
+      "title": "Removes a requirement for the reissuance of certain license plates every 8 years. (BDR\u00a043-1078)",
+      "abstract": "",
+      "found_by_terms": [
+        "irrigation"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB457/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB5",
+      "title": "Provides for a study of unfunded mandates on local governments. (BDR\u00a031-368)",
+      "abstract": "",
+      "found_by_terms": [
+        "irrigation"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB5/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB516",
+      "title": "Revises provisions relating to the Nevada Indian Commission. (BDR\u00a018-1215)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB516/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB517",
+      "title": "Revises provisions governing the Legislative Counsel Bureau. (BDR\u00a017-447)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB517/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB52",
+      "title": "Makes various changes to the Open Meeting Law. (BDR\u00a019-416)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB52/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB520",
+      "title": "Makes various changes regarding state financial administration and makes appropriations for the support of the civil government of the State. (BDR\u00a0S-1210)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB520/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB521",
+      "title": "Authorizes and provides funding for certain projects of capital improvement. (BDR\u00a0S-1211)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB521/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB522",
+      "title": "Revises provisions relating to the compensation of state employees. (BDR\u00a0S-1212)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB522/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB524",
+      "title": "Revises certain provisions governing electric utilities. (BDR\u00a058-985)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB524/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB54",
+      "title": "Makes various changes relating to education. (BDR\u00a034-283)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB54/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB6",
+      "title": "Revises provisions relating to the cost of health care. (BDR\u00a040-380)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB6/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB7",
+      "title": "Revises provisions relating to electronic health records. (BDR\u00a040-381)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB7/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AB9",
+      "title": "Revises provisions governing regional behavioral health policy boards. (BDR\u00a039-385)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AB9/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "AJR3",
+      "title": "Proposes to amend the Nevada Constitution to establish certain rights relating to the environment. (BDR\u00a0C-156)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/AJR3/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB10",
+      "title": "Revises provisions related to the Nevada State Infrastructure Bank. (BDR\u00a035-358)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB10/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB108",
+      "title": "Revises provisions governing brew pubs. (BDR\u00a052-296)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB108/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB115",
+      "title": "Revises provisions relating to the mitigation of certain projects. (BDR\u00a020-679)",
+      "abstract": "",
+      "found_by_terms": [
+        "water conservation"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB115/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB116",
+      "title": "Establishes provisions governing natural gas infrastructure. (BDR\u00a058-540)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB116/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB12",
+      "title": "Makes various changes to the Charter of the City of Reno. (BDR\u00a0S-354)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB12/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB126",
+      "title": "Revises provisions relating to the NV Grow Program. (BDR\u00a0S-791)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB126/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB128",
+      "title": "Revises provisions relating to fentanyl and certain related opioids. (BDR\u00a040-544)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB128/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB14",
+      "title": "Makes various changes related to gaming. (BDR\u00a041-259)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB14/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB169",
+      "title": "Revises provisions governing master plans. (BDR\u00a022-346)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB169/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB19",
+      "title": "Revises provisions relating to local governments. (BDR\u00a021-397)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB19/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB193",
+      "title": "Revises provisions governing the commerce tax. (BDR\u00a032-584)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB193/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB195",
+      "title": "Revises provisions related to cannabis. (BDR\u00a056-452)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB195/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB197",
+      "title": "Establishes and revises the penalties for certain offenses involving fentanyl and carfentanil. (BDR\u00a040-579)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB197/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB206",
+      "title": "Revises provisions relating to education. (BDR\u00a034-24)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB206/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB21",
+      "title": "Revises certain classifications based on populations. (BDR\u00a020-391)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB21/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB230",
+      "title": "Requires certain proof of identity to vote in an election. (BDR\u00a024-175)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB230/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB233",
+      "title": "Revises provisions governing taxes imposed on certain heavy equipment. (BDR\u00a032-87)",
+      "abstract": "",
+      "found_by_terms": [
+        "irrigation"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB233/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB247",
+      "title": "Revises provisions relating to regional planning. (BDR\u00a022-684)",
+      "abstract": "",
+      "found_by_terms": [
+        "wastewater"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB247/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB261",
+      "title": "Revises provisions relating to local governments. (BDR\u00a019-793)",
+      "abstract": "",
+      "found_by_terms": [
+        "irrigation"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB261/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB273",
+      "title": "Changes the name of the Nevada State College to the Nevada State University. (BDR\u00a034-968)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB273/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB277",
+      "title": "Revises provisions relating to cannabis. (BDR\u00a056-193)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB277/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB281",
+      "title": "Revises provisions governing public utilities. (BDR\u00a058-693)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB281/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB284",
+      "title": "Revises provisions relating to driving or operating certain vehicles or vessels while under the influence of alcohol or a controlled substance. (BDR\u00a016-940)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB284/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB293",
+      "title": "Revises provisions relating to distributed generation systems. (BDR\u00a052-459)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB293/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB294",
+      "title": "Revises provisions relating to the safe storage of firearms. (BDR\u00a015-47)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB294/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB31",
+      "title": "Authorizes a cannabis establishment to move to a new location under the jurisdiction of a different local government under certain circumstances. (BDR\u00a056-279)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB31/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB318",
+      "title": "Revises provisions related to homeless persons. (BDR\u00a021-969)",
+      "abstract": "",
+      "found_by_terms": [
+        "wastewater"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB318/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB33",
+      "title": "Revises provisions related to cannabis. (BDR\u00a056-277)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB33/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB341",
+      "title": "Revises provisions relating to governmental financial administration. (BDR\u00a0S-502)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB341/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB348",
+      "title": "Revises provisions relating to health facilities. (BDR\u00a040-51)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB348/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB35",
+      "title": "Revises provisions relating to controlled substances. (BDR\u00a040-423)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB35/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB353",
+      "title": "Revises provisions governing energy efficiency and conservation programs. (BDR\u00a058-558)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB353/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB355",
+      "title": "Revises provisions relating to commerce. (BDR\u00a055-59)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB355/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB356",
+      "title": "Revises provisions relating to electric utilities. (BDR\u00a058-865)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB356/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB358",
+      "title": "Repeals provisions governing common-interest communities. (BDR\u00a010-3)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB358/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB367",
+      "title": "Revises provisions relating to public safety. (BDR\u00a015-942)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB367/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB368",
+      "title": "Revises provisions relating to real property. (BDR\u00a010-989)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB368/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB374",
+      "title": "Revises provisions relating to property taxes. (BDR\u00a032-578)",
+      "abstract": "",
+      "found_by_terms": [
+        "wastewater"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB374/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB383",
+      "title": "Revises provisions relating to state governmental administration. (BDR\u00a034-286)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB383/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB395",
+      "title": "Revises provisions relating to real property. (BDR\u00a010-288)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB395/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB396",
+      "title": "Imposes a tax on the retail sale of certain digital products. (BDR\u00a032-6)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB396/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB402",
+      "title": "Creates the Cannabis Mentorship Pilot Program. (BDR\u00a056-1064)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB402/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB405",
+      "title": "Revises provisions relating to elections. (BDR\u00a024-1090)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB405/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB413",
+      "title": "Revises provisions relating to credits to reduce the sentence of an offender. (BDR\u00a016-313)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB413/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB419",
+      "title": "Makes revisions relating to public health. (BDR\u00a040-748)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB419/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB421",
+      "title": "Revises provisions relating to energy. (BDR\u00a058-891)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB421/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB426",
+      "title": "Revises provisions governing rent increases. (BDR\u00a010-15)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB426/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB428",
+      "title": "Proposes to exempt sales of diapers from sales and use taxes and analogous taxes upon approval by the voters. (BDR\u00a032-1033)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB428/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB431",
+      "title": "Revises provisions relating to governmental administration. (BDR\u00a018-1089)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB431/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB432",
+      "title": "Revises provisions governing economic development. (BDR\u00a032-758)",
+      "abstract": "",
+      "found_by_terms": [
+        "wastewater"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB432/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB441",
+      "title": "Revises provisions relating to public health. (BDR\u00a040-451)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB441/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB447",
+      "title": "Authorizes the use of testing devices to determine the presence of a controlled substance or prohibited substance in the oral fluid of a person in certain circumstances. (BDR\u00a043-1081)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB447/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB450",
+      "title": "Establishes a program for the relocation of persons residing in the Windsor Park neighborhood of the City of North Las Vegas. (BDR\u00a0S-794)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB450/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB451",
+      "title": "Directs the Joint Interim Standing Committee on Growth and Infrastructure to conduct a study concerning certain subjects related to hydrogen. (BDR\u00a0S-32)",
+      "abstract": "",
+      "found_by_terms": [
+        "wastewater"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB451/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB492",
+      "title": "Makes appropriations to the State Department of Conservation and Natural Resources for the replacement or purchase of certain information technology, vehicles and equipment. (BDR\u00a0S-1169)",
+      "abstract": "",
+      "found_by_terms": [
+        "water conservation"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB492/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB502",
+      "title": "Revises provisions governing taxation. (BDR\u00a032-1086)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB502/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB504",
+      "title": "Authorizes expenditures by agencies of the State Government for the 2023-2025 biennium. (BDR\u00a0S-1207)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB504/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB511",
+      "title": "Makes various changes regarding state financial administration and makes appropriations for the support of the civil government of the State. (BDR\u00a0S-1230)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB511/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB52",
+      "title": "Revises provisions relating to the standards for the design and construction of buildings or other projects of this State. (BDR\u00a028-241)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB52/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB64",
+      "title": "Revises provisions relating to school districts. (BDR\u00a034-403)",
+      "abstract": "",
+      "found_by_terms": [
+        "water rights"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB64/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB68",
+      "title": "Establishes programs to provide certain assistance relating to housing. (BDR\u00a025-303)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB68/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB69",
+      "title": "Revises provisions relating to disciplinary proceedings against the holder of a license or registration card issued by the Cannabis Compliance Board. (BDR\u00a056-278)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB69/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB7",
+      "title": "Revises various provisions relating to gaming. (BDR\u00a041-260)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB7/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SB92",
+      "title": "Revises provisions relating to sidewalk vendors. (BDR\u00a020-53)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SB92/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "82",
+      "identifier": "SCR5",
+      "title": "Urges the expansion of comprehensive cardiovascular screening programs and directs the Joint Interim Standing Committee on Health and Human Services to conduct a study concerning such programs and certain other matters relating to cardiovascular disease. (BDR\u00a0R-1025)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/82/SCR5/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB1",
+      "title": "Voids certain regulations relating to the development and disposal of land in the Fort Mohave Valley. (BDR\u00a0S-299)",
+      "abstract": "",
+      "found_by_terms": [
+        "Colorado River"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB1/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB107",
+      "title": "Revises provisions relating to foster care. (BDR\u00a038-339)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB107/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB121",
+      "title": "Revises provisions governing landlords and tenants. (BDR\u00a010-166)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB121/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB124",
+      "title": "Revises provisions relating to public office. (BDR\u00a024-829)",
+      "abstract": "",
+      "found_by_terms": [
+        "irrigation"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB124/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB147",
+      "title": "Requires proof of identity to vote. (BDR\u00a024-624)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB147/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB258",
+      "title": "Revises provisions relating to brokerage agreements. (BDR\u00a054-741)",
+      "abstract": "",
+      "found_by_terms": [
+        "irrigation"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB258/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB269",
+      "title": "Revises provisions relating to education. (BDR\u00a018-618)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB269/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB29",
+      "title": "Revises provisions relating to motor vehicle fuel. (BDR\u00a051-271)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB29/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB33",
+      "title": "Creates the Nevada Office of the Inspector General. (BDR\u00a018-435)",
+      "abstract": "",
+      "found_by_terms": [
+        "Colorado River"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB33/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB330",
+      "title": "Makes an appropriation for the development and carrying out of a certain internship program in psychology. (BDR\u00a0S-615)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB330/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB339",
+      "title": "Creates the Office of Children's Mental and Behavioral Health within the Office of the Director of the Department of Health and Human Services. (BDR\u00a039-358)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB339/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB343",
+      "title": "Makes revisions relating to health care. (BDR\u00a040-988)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB343/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB348",
+      "title": "Revises provisions relating to the Legislature. (BDR\u00a017-931)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB348/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB35",
+      "title": "Revises provisions relating to pornography involving minors. (BDR\u00a015-448)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB35/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB350",
+      "title": "Revises provisions relating to cemeteries. (BDR\u00a040-874)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB350/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB352",
+      "title": "Revises provisions relating to businesses. (BDR\u00a051-890)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB352/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB359",
+      "title": "Proposes to exempt sales of certain coins, currency and bullion from sales and use taxes and analogous taxes upon approval by the voters. (BDR\u00a032-147)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB359/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB40",
+      "title": "Revises various provisions relating to environmental hazards. (BDR\u00a046-265)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB40/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB43",
+      "title": "Revises provisions relating to public works. (BDR\u00a028-465)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB43/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB438",
+      "title": "Revises provisions relating to nonemergency medical transportation. (BDR\u00a040-1042)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB438/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB44",
+      "title": "Prohibits manipulating the price of an essential good or service in this State. (BDR\u00a052-503)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB44/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB443",
+      "title": "Revises provisions relating to real property. (BDR\u00a020-1052)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB443/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB449",
+      "title": "Revises provisions governing public utilities. (BDR\u00a058-888)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB449/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB58",
+      "title": "Revises various provisions relating to gaming. (BDR\u00a041-297)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB58/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB591",
+      "title": "Makes various changes regarding state financial administration and makes appropriations for the support of the civil government of the State. (BDR\u00a0S-1228)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB591/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AB592",
+      "title": "Revises provisions relating to the compensation of state employees. (BDR\u00a0S-1229)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AB592/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "AJR13",
+      "title": "Urges the Federal Government to maintain the moratorium on the testing of explosive nuclear weapons. (BDR\u00a0R-1102)",
+      "abstract": "",
+      "found_by_terms": [
+        "groundwater"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/AJR13/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB10",
+      "title": "Revises provisions relating to certain reports. (BDR\u00a026-375)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB10/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB106",
+      "title": "Revises provisions relating to the operation of vessels. (BDR\u00a043-371)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB106/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB107",
+      "title": "Revises provisions relating to housing. (BDR\u00a018-83)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB107/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB119",
+      "title": "Revises provisions relating to the NV Grow Program. (BDR\u00a0S-81)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB119/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB12",
+      "title": "Revises provisions relating to the Office of the Chief Information Officer within the Office of the Governor. (BDR\u00a019-280)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB12/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB124",
+      "title": "Revises provisions relating to health care. (BDR\u00a054-38)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB124/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB15",
+      "title": "Revises various provisions relating to governmental administration. (BDR\u00a030-464)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB15/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB165",
+      "title": "Establishes provisions relating to behavioral health. (BDR\u00a054-145)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB165/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB168",
+      "title": "Revises provisions relating to cannabis. (BDR\u00a056-553)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB168/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB173",
+      "title": "Establishes provisions relating to the environment. (BDR\u00a052-585)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB173/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB199",
+      "title": "Enacts provisions relating to artificial intelligence systems. (BDR\u00a052-583)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB199/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB208",
+      "title": "Revises provisions governing certain surcharges imposed by a county. (BDR\u00a020-677)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB208/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB224",
+      "title": "Revises provisions relating to education. (BDR\u00a034-72)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB224/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB226",
+      "title": "Revises provisions relating to legislative affairs. (BDR\u00a017-365)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB226/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB24",
+      "title": "Provides for the certification and regulation of emergency medical responders. (BDR\u00a040-292)",
+      "abstract": "",
+      "found_by_terms": [
+        "wastewater"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB24/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB260",
+      "title": "Revises provisions relating to air quality. (BDR\u00a053-961)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB260/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB262",
+      "title": "Revises provisions relating to graduate medical education. (BDR\u00a018-120)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB262/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB264",
+      "title": "Revises provisions relating to crimes against property. (BDR\u00a015-219)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB264/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB28",
+      "title": "Revises provisions relating to municipalities. (BDR\u00a022-411)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB28/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB295",
+      "title": "Revises provisions related to food establishments. (BDR\u00a040-44)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB295/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB33",
+      "title": "Revises provisions relating to state financial administration. (BDR\u00a018-279)",
+      "abstract": "",
+      "found_by_terms": [
+        "drought"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB33/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB34",
+      "title": "Revises provisions relating to certain providers of health care. (BDR\u00a054-449)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB34/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB356",
+      "title": "Revises provisions relating to hemp. (BDR\u00a056-916)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB356/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB362",
+      "title": "Revises provisions relating to gaming. (BDR\u00a041-1026)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB362/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB378",
+      "title": "Makes revisions relating to health care. (BDR\u00a040-705)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB378/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB379",
+      "title": "Revises provisions relating to commerce. (BDR\u00a055-336)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB379/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB389",
+      "title": "Revises provisions relating to the administration of pharmacy benefits under Medicaid and certain other health plans. (BDR\u00a038-240)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB389/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB391",
+      "title": "Revises provisions relating to real property. (BDR\u00a010-84)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB391/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB392",
+      "title": "Imposes a tax on the retail sale of certain digital products. (BDR\u00a032-700)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB392/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB402",
+      "title": "Provides for the creation of restoration improvement districts for building restoration projects. (BDR\u00a022-332)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB402/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB41",
+      "title": "Revises provisions relating to the taxation of cannabis establishments. (BDR\u00a032-284)",
+      "abstract": "",
+      "found_by_terms": [
+        "consumptive use"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB41/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB457",
+      "title": "Revises provisions relating to public safety. (BDR\u00a015-1038)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB457/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB464",
+      "title": "Enacts the Interstate Mining Compact. (BDR\u00a046-1125)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB464/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB467",
+      "title": "Revises provisions relating to cybersecurity. (BDR\u00a019-1149)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB467/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB495",
+      "title": "Revises provisions relating to health care. (BDR\u00a040-1037)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB495/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB500",
+      "title": "Ensures sufficient funding for K-12 public education for the 2025-2027 biennium. (BDR\u00a0S-1232)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB500/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB501",
+      "title": "Authorizes expenditures by agencies of the State Government for the 2025-2027 biennium. (BDR\u00a0S-1231)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB501/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB502",
+      "title": "Authorizes and provides funding for certain projects of capital improvement. (BDR\u00a0S-1233)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB502/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB53",
+      "title": "Establishes certain requirements relating to notices of road hazards and road closures. (BDR\u00a035-406)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB53/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB55",
+      "title": "Establishes provisions relating to agricultural tourism. (BDR\u00a018-508)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB55/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB56",
+      "title": "Revises provisions relating to driving a vehicle or operating a vessel under the influence. (BDR\u00a043-243)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB56/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB61",
+      "title": "Revises provisions relating to the powers and duties of certain cities relating to the annexation and detachment of territory. (BDR\u00a021-467)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB61/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SB63",
+      "title": "Revises provisions relating to the processing of certain data. (BDR\u00a052-505)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SB63/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SCR5",
+      "title": "Recognizes antimicrobial resistance as a public health crisis and encourages certain actions be taken in response. (BDR\u00a0R-1234)",
+      "abstract": "",
+      "found_by_terms": [
+        "data center"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SCR5/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SJR7",
+      "title": "Urges the Federal Government to recognize the unsuitability of Yucca Mountain as the site for a repository to store and dispose of spent nuclear fuel and high-level radioactive waste. (BDR\u00a0R-945)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SJR7/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    },
+    {
+      "session": "83",
+      "identifier": "SR5",
+      "title": "Inducts Pete Goicoechea into the Senate Hall of Fame. (BDR\u00a0R-1169)",
+      "abstract": "",
+      "found_by_terms": [
+        "water"
+      ],
+      "openstates_url": "https://openstates.org/nv/bills/83/SR5/",
+      "reason": "openstates_only_and_not_relevant_by_title_or_abstract"
+    }
+  ]
+}

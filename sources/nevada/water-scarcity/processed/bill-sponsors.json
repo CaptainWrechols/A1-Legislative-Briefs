@@ -7,9 +7,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Watts, Howard",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/15",
     "source": "nelis"
   },
   {
@@ -20,74 +17,126 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Brooks, Chris",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/3",
     "source": "nelis"
   },
   {
     "session": "80",
     "bill_identifier": "AB163",
     "name": "Assemblywoman Lesley Cohen",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Cohen, Lesley E.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/29",
     "source": "nelis"
   },
   {
     "session": "80",
     "bill_identifier": "AB163",
     "name": "Assemblywoman Rochelle Nguyen",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Nguyen, Rochelle T.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/10",
     "source": "nelis"
   },
   {
     "session": "80",
     "bill_identifier": "AB163",
     "name": "Assemblywoman Sarah Peters",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Peters, Sarah",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/24",
     "source": "nelis"
   },
   {
     "session": "80",
-    "bill_identifier": "AB163",
-    "name": "Assemblywoman Heidi Swank",
-    "classification": "cosponsor",
-    "primary": false,
+    "bill_identifier": "AB190",
+    "name": "Assemblyman Skip Daly",
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Swank, Heidi",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/16",
     "source": "nelis"
   },
   {
     "session": "80",
-    "bill_identifier": "AB163",
-    "name": "Senator Melanie Scheible",
-    "classification": "cosponsor",
-    "primary": false,
+    "bill_identifier": "AB190",
+    "name": "Assemblyman William McCurdy",
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Scheible, Melanie",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/9",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB190",
+    "name": "Assemblyman Richard Carrillo",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB190",
+    "name": "Assemblyman Ozzie Fumo",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB190",
+    "name": "Assemblyman Edgar Flores",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB190",
+    "name": "Senator David Parks",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB190",
+    "name": "Senator James Ohrenschall",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB190",
+    "name": "Senator Yvanna Cancela",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB21",
+    "name": "Assembly Committee on Government Affairs",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -98,9 +147,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Kramer, Al",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/40",
     "source": "nelis"
   },
   {
@@ -111,9 +157,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Hardy, Melissa",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/22",
     "source": "nelis"
   },
   {
@@ -124,9 +167,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Goicoechea, Pete",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/19",
     "source": "nelis"
   },
   {
@@ -137,35 +177,76 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Parks, David R.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/7",
     "source": "nelis"
   },
   {
     "session": "80",
     "bill_identifier": "AB233",
     "name": "Assemblyman Gregory Hafen",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Hafen, Gregory T., II",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/36",
     "source": "nelis"
   },
   {
     "session": "80",
-    "bill_identifier": "AB233",
-    "name": "Senator James Settelmeyer",
-    "classification": "cosponsor",
-    "primary": false,
+    "bill_identifier": "AB240",
+    "name": "Assemblyman Skip Daly",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB240",
+    "name": "Assemblywoman Sarah Peters",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB240",
+    "name": "Assemblywoman Teresa Benitez-Thompson",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB240",
+    "name": "Assemblyman Al Kramer",
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Settelmeyer, James A.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/17",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB240",
+    "name": "Senator Julia Ratti",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB240",
+    "name": "Senator Ben Kieckhefer",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
     "source": "nelis"
   },
   {
@@ -176,9 +257,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Peters, Sarah",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/24",
     "source": "nelis"
   },
   {
@@ -189,9 +267,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Swank, Heidi",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/16",
     "source": "nelis"
   },
   {
@@ -202,9 +277,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Watts, Howard",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/15",
     "source": "nelis"
   },
   {
@@ -215,9 +287,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Brooks, Chris",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/3",
     "source": "nelis"
   },
   {
@@ -228,22 +297,76 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Goicoechea, Pete",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/19",
     "source": "nelis"
   },
   {
     "session": "80",
-    "bill_identifier": "AB265",
-    "name": "Senator Melanie Scheible",
-    "classification": "cosponsor",
-    "primary": false,
+    "bill_identifier": "AB275",
+    "name": "Assemblywoman Selena Torres",
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Scheible, Melanie",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/9",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB275",
+    "name": "Assemblyman Howard Watts",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB275",
+    "name": "Assemblyman Alexander Assefa",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB275",
+    "name": "Assemblyman Edgar Flores",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB275",
+    "name": "Senator Moises Denis",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB275",
+    "name": "Senator David Parks",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB275",
+    "name": "Senator Yvanna Cancela",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -254,9 +377,126 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/235/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB319",
+    "name": "Assemblywoman Jill Tolles",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB319",
+    "name": "Assemblyman Steve Yeager",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB319",
+    "name": "Assemblyman Tom Roberts",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB319",
+    "name": "Senator Ben Kieckhefer",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB319",
+    "name": "Senator Moises Denis",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB319",
+    "name": "Senator Heidi Seevers Gansert",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB32",
+    "name": "Assembly Committee on Taxation",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB36",
+    "name": "Assembly Committee on Taxation",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB400",
+    "name": "Assemblywoman Teresa Benitez-Thompson",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB413",
+    "name": "Assembly Committee on Government Affairs",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB466",
+    "name": "Assembly Committee on Growth and Infrastructure",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB504",
+    "name": "Assembly Committee on Ways and Means",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -267,9 +507,26 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/235/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB537",
+    "name": "Assembly Committee on Ways and Means",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB541",
+    "name": "Assembly Committee on Ways and Means",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -280,9 +537,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/235/Overview",
     "source": "nelis"
   },
   {
@@ -293,9 +547,16 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/235/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB14",
+    "name": "Senate Committee on Government Affairs",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -306,9 +567,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/225/Overview",
     "source": "nelis"
   },
   {
@@ -319,9 +577,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Goicoechea, Pete",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/19",
     "source": "nelis"
   },
   {
@@ -332,9 +587,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Settelmeyer, James A.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/17",
     "source": "nelis"
   },
   {
@@ -345,9 +597,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Hardy, Joseph (Joe) P.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/12",
     "source": "nelis"
   },
   {
@@ -358,22 +607,16 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Ellison, John C. Co-Deputy",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/33",
     "source": "nelis"
   },
   {
     "session": "80",
     "bill_identifier": "SB150",
     "name": "Senator Ira Hansen",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Hansen, Ira",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/14",
     "source": "nelis"
   },
   {
@@ -384,9 +627,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Settelmeyer, James A.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/17",
     "source": "nelis"
   },
   {
@@ -397,9 +637,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Goicoechea, Pete",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/19",
     "source": "nelis"
   },
   {
@@ -410,22 +647,16 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Brooks, Chris",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/3",
     "source": "nelis"
   },
   {
     "session": "80",
     "bill_identifier": "SB236",
     "name": "Senator Ira Hansen",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Hansen, Ira",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/14",
     "source": "nelis"
   },
   {
@@ -436,9 +667,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Settelmeyer, James A.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/17",
     "source": "nelis"
   },
   {
@@ -449,9 +677,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Goicoechea, Pete",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/19",
     "source": "nelis"
   },
   {
@@ -462,35 +687,66 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Hardy, Joseph (Joe) P.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/12",
     "source": "nelis"
   },
   {
     "session": "80",
     "bill_identifier": "SB250",
     "name": "Senator Ira Hansen",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Hansen, Ira",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/14",
     "source": "nelis"
   },
   {
     "session": "80",
     "bill_identifier": "SB250",
     "name": "Senator Heidi Seevers Gansert",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Seevers Gansert, Heidi",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/15",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB280",
+    "name": "Senator James Settelmeyer",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB280",
+    "name": "Senator Ben Kieckhefer",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB280",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB298",
+    "name": "Senator Chris Brooks",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -501,9 +757,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Ohrenschall, James",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/21",
     "source": "nelis"
   },
   {
@@ -514,9 +767,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/222/Overview",
     "source": "nelis"
   },
   {
@@ -527,9 +777,26 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/225/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB495",
+    "name": "Senator Nicole Cannizzaro",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB495",
+    "name": "Assemblyman Jason Frierson",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -540,9 +807,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/218/Overview",
     "source": "nelis"
   },
   {
@@ -553,9 +817,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/218/Overview",
     "source": "nelis"
   },
   {
@@ -566,9 +827,16 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/218/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB519",
+    "name": "Senate Committee on Finance",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -579,9 +847,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Brooks, Chris",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/3",
     "source": "nelis"
   },
   {
@@ -592,9 +857,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Cannizzaro, Nicole J.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/6",
     "source": "nelis"
   },
   {
@@ -605,9 +867,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Spearman, Pat",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/1",
     "source": "nelis"
   },
   {
@@ -618,9 +877,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Cancela, Yvanna D.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/10",
     "source": "nelis"
   },
   {
@@ -631,9 +887,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Parks, David R.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/7",
     "source": "nelis"
   },
   {
@@ -644,9 +897,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Frierson, Jason",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/8",
     "source": "nelis"
   },
   {
@@ -657,87 +907,16 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Monroe-Moreno, Daniele",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/1",
     "source": "nelis"
   },
   {
     "session": "80",
-    "bill_identifier": "SB547",
-    "name": "Senator Moises Denis",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Denis, Moises (Mo)",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/2",
-    "source": "nelis"
-  },
-  {
-    "session": "80",
-    "bill_identifier": "SB547",
-    "name": "Senator Marilyn Dondero Loop",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Dondero Loop, Marilyn",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/8",
-    "source": "nelis"
-  },
-  {
-    "session": "80",
-    "bill_identifier": "SB547",
-    "name": "Senator James Ohrenschall",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Ohrenschall, James",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/21",
-    "source": "nelis"
-  },
-  {
-    "session": "80",
-    "bill_identifier": "SB547",
-    "name": "Senator Julia Ratti",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Ratti, Julia",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/13",
-    "source": "nelis"
-  },
-  {
-    "session": "80",
-    "bill_identifier": "SB547",
-    "name": "Senator Marcia Washington",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Washington, Marcia L.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/4",
-    "source": "nelis"
-  },
-  {
-    "session": "80",
-    "bill_identifier": "SB547",
-    "name": "Senator Joyce Woodhouse",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Woodhouse, Joyce Chief",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/5",
+    "bill_identifier": "SB56",
+    "name": "Senate Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -748,9 +927,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/231/Overview",
     "source": "nelis"
   },
   {
@@ -761,9 +937,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Peters, Sarah",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/24",
     "source": "nelis"
   },
   {
@@ -774,9 +947,36 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/343/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB184",
+    "name": "Assemblyman Jason Frierson",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB184",
+    "name": "Assemblywoman Teresa Benitez-Thompson",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB31",
+    "name": "Assembly Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -787,9 +987,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Krasner, Lisa",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/26",
     "source": "nelis"
   },
   {
@@ -800,48 +997,36 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Roberts, Tom Co-Deputy",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/13",
     "source": "nelis"
   },
   {
     "session": "81",
     "bill_identifier": "AB333",
     "name": "Assemblyman John Ellison",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Ellison, John C. Co-Deputy",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/33",
     "source": "nelis"
   },
   {
     "session": "81",
     "bill_identifier": "AB333",
     "name": "Assemblywoman Melissa Hardy",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Hardy, Melissa",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/22",
     "source": "nelis"
   },
   {
     "session": "81",
     "bill_identifier": "AB333",
     "name": "Assemblyman Philip P.K. O\u2019Neill",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "O\u2019Neill, Philip PK",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/40",
     "source": "nelis"
   },
   {
@@ -852,9 +1037,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/337/Overview",
     "source": "nelis"
   },
   {
@@ -865,9 +1047,16 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/337/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB449",
+    "name": "Assemblywoman Teresa Benitez-Thompson",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -878,9 +1067,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/337/Overview",
     "source": "nelis"
   },
   {
@@ -891,9 +1077,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/343/Overview",
     "source": "nelis"
   },
   {
@@ -904,9 +1087,26 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/343/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB66",
+    "name": "Assembly Committee on Revenue",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB97",
+    "name": "Assemblyman Howard Watts",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -917,9 +1117,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/343/Overview",
     "source": "nelis"
   },
   {
@@ -930,9 +1127,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Gonz\u00e1lez, Cecelia",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/16",
     "source": "nelis"
   },
   {
@@ -943,9 +1137,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Watts, Howard",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/15",
     "source": "nelis"
   },
   {
@@ -956,9 +1147,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Yeager, Steve",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/9",
     "source": "nelis"
   },
   {
@@ -969,100 +1157,36 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Cohen, Lesley E.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/29",
     "source": "nelis"
   },
   {
     "session": "81",
     "bill_identifier": "AJR3",
     "name": "Assemblywoman Natha Anderson",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Anderson, Natha C.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/30",
     "source": "nelis"
   },
   {
     "session": "81",
-    "bill_identifier": "AJR3",
-    "name": "Assemblywoman Tracy Brown-May",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Brown-May, Tracy",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/42",
+    "bill_identifier": "SB10",
+    "name": "Senate Committee on Revenue and Economic Development",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
     "session": "81",
-    "bill_identifier": "AJR3",
-    "name": "Assemblyman Edgar Flores",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Flores, Edgar",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/28",
-    "source": "nelis"
-  },
-  {
-    "session": "81",
-    "bill_identifier": "AJR3",
-    "name": "Assemblywoman Brittney Miller",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Miller, Brittney",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/5",
-    "source": "nelis"
-  },
-  {
-    "session": "81",
-    "bill_identifier": "AJR3",
-    "name": "Assemblywoman Rochelle Nguyen",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Nguyen, Rochelle T.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/10",
-    "source": "nelis"
-  },
-  {
-    "session": "81",
-    "bill_identifier": "AJR3",
-    "name": "Assemblywoman Selena Torres",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Torres, Selena",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/3",
-    "source": "nelis"
-  },
-  {
-    "session": "81",
-    "bill_identifier": "AJR3",
-    "name": "Senator Fabian Donate",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Donate, Fabian",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/10",
+    "bill_identifier": "SB14",
+    "name": "Senate Committee on Government Affairs",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -1073,9 +1197,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/349/Overview",
     "source": "nelis"
   },
   {
@@ -1086,9 +1207,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/349/Overview",
     "source": "nelis"
   },
   {
@@ -1099,9 +1217,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Denis, Moises (Mo)",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/2",
     "source": "nelis"
   },
   {
@@ -1112,9 +1227,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Hammond, Scott",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/18",
     "source": "nelis"
   },
   {
@@ -1125,9 +1237,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Goicoechea, Pete",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/19",
     "source": "nelis"
   },
   {
@@ -1138,35 +1247,26 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Pickard, Keith F.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/20",
     "source": "nelis"
   },
   {
     "session": "81",
     "bill_identifier": "SB216",
     "name": "Senator Joseph Hardy",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Hardy, Joseph (Joe) P.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/12",
     "source": "nelis"
   },
   {
     "session": "81",
     "bill_identifier": "SB216",
     "name": "Senator James Settelmeyer",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Settelmeyer, James A.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/17",
     "source": "nelis"
   },
   {
@@ -1177,9 +1277,26 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Goicoechea, Pete",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/19",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB283",
+    "name": "Senator Chris Brooks",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB297",
+    "name": "Senator Pat Spearman",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -1190,9 +1307,66 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/349/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB338",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB338",
+    "name": "Senator James Settelmeyer",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB395",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB430",
+    "name": "Senate Committee on Growth and Infrastructure",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB442",
+    "name": "Senate Committee on Finance",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB64",
+    "name": "Senate Committee on Revenue and Economic Development",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -1203,9 +1377,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/334/Overview",
     "source": "nelis"
   },
   {
@@ -1216,9 +1387,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Settelmeyer, James A.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/17",
     "source": "nelis"
   },
   {
@@ -1229,9 +1397,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Goicoechea, Pete",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/19",
     "source": "nelis"
   },
   {
@@ -1242,35 +1407,26 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Wheeler, Jim",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/81st2021/39",
     "source": "nelis"
   },
   {
     "session": "81",
     "bill_identifier": "SB98",
     "name": "Senator Carrie Buck",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Buck, Carrie A.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/5",
     "source": "nelis"
   },
   {
     "session": "81",
     "bill_identifier": "SB98",
     "name": "Senator Ben Kieckhefer",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Kieckhefer, Ben",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/16",
     "source": "nelis"
   },
   {
@@ -1281,9 +1437,56 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/329/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB131",
+    "name": "Assemblywoman Lesley Cohen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB131",
+    "name": "Assemblyman Howard Watts",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB131",
+    "name": "Assemblywoman Natha Anderson",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB131",
+    "name": "Assemblywoman Sabra Newby",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB131",
+    "name": "Assemblywoman Sarah Peters",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -1294,9 +1497,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Kasama, Heidi",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023/2",
     "source": "nelis"
   },
   {
@@ -1307,9 +1507,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/397/Overview",
     "source": "nelis"
   },
   {
@@ -1320,48 +1517,36 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "DeLong, Rich",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023/26",
     "source": "nelis"
   },
   {
     "session": "82",
     "bill_identifier": "AB191",
     "name": "Assemblywoman Jill Dickman",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Dickman, Jill",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023/31",
     "source": "nelis"
   },
   {
     "session": "82",
     "bill_identifier": "AB191",
     "name": "Assemblywoman Danielle Gallant",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Gallant, Danielle Co-Deputy",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023/23",
     "source": "nelis"
   },
   {
     "session": "82",
     "bill_identifier": "AB191",
     "name": "Assemblyman Bert Gurr",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Gurr, Bert",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023/33",
     "source": "nelis"
   },
   {
@@ -1372,9 +1557,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/397/Overview",
     "source": "nelis"
   },
   {
@@ -1385,9 +1567,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/397/Overview",
     "source": "nelis"
   },
   {
@@ -1398,9 +1577,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/397/Overview",
     "source": "nelis"
   },
   {
@@ -1411,9 +1587,16 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Watts, Howard",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023/15",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB313",
+    "name": "Assemblywoman Sarah Peters",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -1424,9 +1607,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "O\u2019Neill, Philip PK",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023/40",
     "source": "nelis"
   },
   {
@@ -1437,9 +1617,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/397/Overview",
     "source": "nelis"
   },
   {
@@ -1450,9 +1627,76 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/397/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB419",
+    "name": "Assemblyman Gregory Hafen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB445",
+    "name": "Assemblywoman Sabra Newby",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB449",
+    "name": "Assemblywoman Danielle Gallant",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB449",
+    "name": "Assemblyman Ken Gray",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB449",
+    "name": "Senator Carrie Buck",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB449",
+    "name": "Assemblywoman Jill Dickman",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB449",
+    "name": "Assemblyman Reuben D'Silva",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -1463,9 +1707,26 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/395/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB490",
+    "name": "Assemblyman Steve Yeager",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB519",
+    "name": "Assembly Committee on Ways and Means",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -1476,9 +1737,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Gurr, Bert",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023/33",
     "source": "nelis"
   },
   {
@@ -1489,9 +1747,66 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "DeLong, Rich",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/82nd2023/26",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB97",
+    "name": "Assemblywoman Melissa Hardy",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AJR3",
+    "name": "Assemblywoman Sarah Peters",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AJR3",
+    "name": "Assemblyman Howard Watts",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AJR3",
+    "name": "Assemblywoman Clara Thomas",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AJR3",
+    "name": "Senator Fabian Do\u00f1ate",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AJR3",
+    "name": "Senator Melanie Scheible",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -1502,9 +1817,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Goicoechea, Pete",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/19",
     "source": "nelis"
   },
   {
@@ -1515,9 +1827,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Goicoechea, Pete",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/19",
     "source": "nelis"
   },
   {
@@ -1528,9 +1837,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Titus, Robin L. Deputy",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/17",
     "source": "nelis"
   },
   {
@@ -1541,9 +1847,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Goicoechea, Pete",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/19",
     "source": "nelis"
   },
   {
@@ -1554,9 +1857,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Titus, Robin L. Deputy",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/17",
     "source": "nelis"
   },
   {
@@ -1567,9 +1867,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Buck, Carrie A.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/5",
     "source": "nelis"
   },
   {
@@ -1580,9 +1877,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Hansen, Ira",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/14",
     "source": "nelis"
   },
   {
@@ -1593,22 +1887,26 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Stone, Jeff",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/20",
     "source": "nelis"
   },
   {
     "session": "82",
-    "bill_identifier": "SB113",
-    "name": "Senator Lisa Krasner",
-    "classification": "cosponsor",
-    "primary": false,
+    "bill_identifier": "SB115",
+    "name": "Senator Edgar Flores",
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
-    "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Krasner, Lisa",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/16",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB169",
+    "name": "Senate Committee on Government Affairs",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -1619,9 +1917,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Goicoechea, Pete",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/19",
     "source": "nelis"
   },
   {
@@ -1632,9 +1927,26 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Goicoechea, Pete",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/19",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB210",
+    "name": "Senate Committee on Government Affairs",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB257",
+    "name": "Senator Skip Daly",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -1645,9 +1957,56 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Ohrenschall, James",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/21",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB261",
+    "name": "Senator Dina Neal",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB394",
+    "name": "Senate Committee on Revenue and Economic Development",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB404",
+    "name": "Senate Committee on Legislative Operations and Elections",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB429",
+    "name": "Senate Committee on Government Affairs",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB431",
+    "name": "Senate Committee on Government Affairs",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -1658,9 +2017,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/390/Overview",
     "source": "nelis"
   },
   {
@@ -1671,9 +2027,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/390/Overview",
     "source": "nelis"
   },
   {
@@ -1684,9 +2037,26 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/405/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB96",
+    "name": "Senate Committee on Revenue and Economic Development",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB99",
+    "name": "Senator Pete Goicoechea",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
     "source": "nelis"
   },
   {
@@ -1697,9 +2067,16 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/408/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB1",
+    "name": "Assembly Committee on Government Affairs",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -1710,9 +2087,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/443/Overview",
     "source": "nelis"
   },
   {
@@ -1723,9 +2097,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/442/Overview",
     "source": "nelis"
   },
   {
@@ -1736,9 +2107,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "La Rue Hatch, Selena",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/25",
     "source": "nelis"
   },
   {
@@ -1749,22 +2117,16 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Gallant, Danielle Co-Deputy",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/23",
     "source": "nelis"
   },
   {
     "session": "83",
     "bill_identifier": "AB110",
     "name": "Senator Jeff Stone",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Stone, Jeff",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/20",
     "source": "nelis"
   },
   {
@@ -1775,9 +2137,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Yurek, Toby",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/19",
     "source": "nelis"
   },
   {
@@ -1788,9 +2147,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/442/Overview",
     "source": "nelis"
   },
   {
@@ -1801,9 +2157,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Gurr, Bert",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/33",
     "source": "nelis"
   },
   {
@@ -1814,9 +2167,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/442/Overview",
     "source": "nelis"
   },
   {
@@ -1827,9 +2177,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Gurr, Bert",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/33",
     "source": "nelis"
   },
   {
@@ -1840,22 +2187,16 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "DeLong, Rich",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/26",
     "source": "nelis"
   },
   {
     "session": "83",
     "bill_identifier": "AB265",
     "name": "Assemblymember Heidi Kasama",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Kasama, Heidi",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/2",
     "source": "nelis"
   },
   {
@@ -1866,9 +2207,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "DeLong, Rich",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/26",
     "source": "nelis"
   },
   {
@@ -1879,9 +2217,56 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/442/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB377",
+    "name": "Assemblymember Danielle Gallant",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB377",
+    "name": "Assemblymember Bert Gurr",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB377",
+    "name": "Assemblymember Reuben D'Silva",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB377",
+    "name": "Assemblymember Ken Gray",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB377",
+    "name": "Senator Carrie Ann Buck",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
     "source": "nelis"
   },
   {
@@ -1892,9 +2277,26 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Cole, Lisa K.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/4",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB397",
+    "name": "Assemblymember Howard Watts",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB397",
+    "name": "Senator Angela Taylor",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -1905,9 +2307,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "DeLong, Rich",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/26",
     "source": "nelis"
   },
   {
@@ -1918,9 +2317,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Cole, Lisa K.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/4",
     "source": "nelis"
   },
   {
@@ -1931,35 +2327,56 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Gurr, Bert",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/33",
     "source": "nelis"
   },
   {
     "session": "83",
     "bill_identifier": "AB419",
     "name": "Assemblymember Jill Dickman",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Dickman, Jill",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/31",
     "source": "nelis"
   },
   {
     "session": "83",
     "bill_identifier": "AB419",
     "name": "Assemblymember PK O\u2019Neill",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "O\u2019Neill, PK",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/40",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB447",
+    "name": "Assemblymember Melissa Hardy",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB447",
+    "name": "Assemblymember Duy Nguyen",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB449",
+    "name": "Assemblymember Bert Gurr",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Republican",
     "source": "nelis"
   },
   {
@@ -1970,9 +2387,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Moore, Cinthia Zerme\u00f1o",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/11",
     "source": "nelis"
   },
   {
@@ -1983,9 +2397,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Considine, Venicia",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/18",
     "source": "nelis"
   },
   {
@@ -1996,9 +2407,76 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/442/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB491",
+    "name": "Assembly Committee on Legislative Operations and Elections",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB506",
+    "name": "Assembly Committee on Ways and Means",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB528",
+    "name": "Assembly Committee on Growth and Infrastructure",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB592",
+    "name": "Assembly Committee on Ways and Means",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB594",
+    "name": "Assembly Committee on Ways and Means",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB70",
+    "name": "Assembly Committee on Growth and Infrastructure",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB77",
+    "name": "Assembly Committee on Revenue",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -2009,9 +2487,16 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/442/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AJR13",
+    "name": "Assembly Committee on Legislative Operations and Elections",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -2022,9 +2507,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Titus, Robin L. Deputy",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/17",
     "source": "nelis"
   },
   {
@@ -2035,9 +2517,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Nguyen, Rochelle T.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/3",
     "source": "nelis"
   },
   {
@@ -2048,9 +2527,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Flores, Edgar",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/2",
     "source": "nelis"
   },
   {
@@ -2061,9 +2537,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Hansen, Ira",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/14",
     "source": "nelis"
   },
   {
@@ -2074,9 +2547,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Flores, Edgar",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/2",
     "source": "nelis"
   },
   {
@@ -2087,9 +2557,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Buck, Carrie A.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/5",
     "source": "nelis"
   },
   {
@@ -2100,9 +2567,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Krasner, Lisa",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/16",
     "source": "nelis"
   },
   {
@@ -2113,9 +2577,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Stone, Jeff",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/20",
     "source": "nelis"
   },
   {
@@ -2126,9 +2587,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Watts, Howard",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/15",
     "source": "nelis"
   },
   {
@@ -2139,139 +2597,6 @@
     "primary": true,
     "entity_type": "person",
     "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "O\u2019Neill, PK",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/40",
-    "source": "nelis"
-  },
-  {
-    "session": "83",
-    "bill_identifier": "SB276",
-    "name": "Senator Fabian Do\u00f1ate",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Do\u00f1ate, Fabian",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/10",
-    "source": "nelis"
-  },
-  {
-    "session": "83",
-    "bill_identifier": "SB276",
-    "name": "Senator John Ellison",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Ellison, John C. Co-Deputy",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/19",
-    "source": "nelis"
-  },
-  {
-    "session": "83",
-    "bill_identifier": "SB276",
-    "name": "Senator James Ohrenschall",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Ohrenschall, James",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/21",
-    "source": "nelis"
-  },
-  {
-    "session": "83",
-    "bill_identifier": "SB276",
-    "name": "Senator Julie Pazina",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Pazina, Julie",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/12",
-    "source": "nelis"
-  },
-  {
-    "session": "83",
-    "bill_identifier": "SB276",
-    "name": "Senator Melanie Scheible",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Scheible, Melanie",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/9",
-    "source": "nelis"
-  },
-  {
-    "session": "83",
-    "bill_identifier": "SB276",
-    "name": "Senator John Steinbeck",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Republican",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Steinbeck, John C.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/18",
-    "source": "nelis"
-  },
-  {
-    "session": "83",
-    "bill_identifier": "SB276",
-    "name": "Senator Angela Taylor",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Taylor, Angela D.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/15",
-    "source": "nelis"
-  },
-  {
-    "session": "83",
-    "bill_identifier": "SB276",
-    "name": "Assemblymember Natha Anderson",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Anderson, Natha C.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/30",
-    "source": "nelis"
-  },
-  {
-    "session": "83",
-    "bill_identifier": "SB276",
-    "name": "Assemblymember Venise Karris",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Karris, Venise",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/10",
-    "source": "nelis"
-  },
-  {
-    "session": "83",
-    "bill_identifier": "SB276",
-    "name": "Assemblymember Selena La Rue Hatch",
-    "classification": "cosponsor",
-    "primary": false,
-    "entity_type": "person",
-    "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "La Rue Hatch, Selena",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/25",
     "source": "nelis"
   },
   {
@@ -2282,9 +2607,6 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/439/Overview",
     "source": "nelis"
   },
   {
@@ -2295,22 +2617,26 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Scheible, Melanie",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/9",
     "source": "nelis"
   },
   {
     "session": "83",
     "bill_identifier": "SB324",
     "name": "Senator Rochelle Nguyen",
-    "classification": "cosponsor",
-    "primary": false,
+    "classification": "primary",
+    "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Nguyen, Rochelle T.",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/3",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB326",
+    "name": "Senator Michelee \"Shelly\" Cruz-Crawford",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -2321,9 +2647,16 @@
     "primary": true,
     "entity_type": "person",
     "party": "Democratic",
-    "party_source": "nelis_legislator_directory",
-    "matched_roster_name": "Ohrenschall, James",
-    "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/21",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB355",
+    "name": "Senator James Ohrenschall",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -2334,9 +2667,16 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/439/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB364",
+    "name": "Senator Michelee \"Shelly\" Cruz-Crawford",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "person",
+    "party": "Democratic",
     "source": "nelis"
   },
   {
@@ -2347,9 +2687,36 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/437/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB430",
+    "name": "Senate Committee on Revenue and Economic Development",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB442",
+    "name": "Senate Committee on Growth and Infrastructure",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB461",
+    "name": "Senate Committee on Revenue and Economic Development",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   },
   {
@@ -2360,9 +2727,56 @@
     "primary": true,
     "entity_type": "organization",
     "party": null,
-    "party_source": null,
-    "matched_roster_name": null,
-    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/446/Overview",
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB55",
+    "name": "Senate Committee on Revenue and Economic Development",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB6",
+    "name": "Senate Committee on Natural Resources",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB69",
+    "name": "Senate Committee on Revenue and Economic Development",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB71",
+    "name": "Senate Committee on Government Affairs",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
+    "source": "nelis"
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB78",
+    "name": "Senate Committee on Revenue and Economic Development",
+    "classification": "primary",
+    "primary": true,
+    "entity_type": "organization",
+    "party": null,
     "source": "nelis"
   }
 ]
