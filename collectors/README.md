@@ -1,13 +1,20 @@
 # Collectors
 
-## Pass 1 — discover bills
+## Pass 1 — discover bills (two complementary sources)
 
 ```bash
-python collectors/pass1_bills.py
+python collectors/pass1_bills.py          # NELIS + OpenStates keyword search
+python collectors/pass1_subject_index.py  # LCB official Subject Index of Bills
 ```
 
 Output: `sources/nevada/water-scarcity/pass1/bills.json`  
-(session, identifier, title, abstract). Keeps **all** NELIS search hits; `passes_water_title_filter` is only a review flag.
+(session, identifier, title, abstract). Keeps **all** NELIS search hits;
+`passes_water_title_filter` is only a review flag. `found_by_terms` records
+every search term / subject heading that surfaced each bill, and
+`cache_searches.json` stores per-term hit lists so empty searches are
+auditable. The subject-index collector harvests the Legislative Counsel
+Bureau's professional bill index (WATER, WATER RIGHTS, STATE ENGINEER,
+DROUGHT, DATA CENTERS, …) — it catches bills whose titles never say "water".
 
 ## Pass 1b — full abstracts for those bills only
 
@@ -86,3 +93,15 @@ Creates `sources/nevada/water-scarcity/processed/readable/`:
 - `progress-readable.md` / `.csv` — milestones **plus full abstracts**
 - `votes-readable.md` / `.csv` — floor rolls **and** committee votes
 - `text-changes-readable.md` — introduced vs enrolled
+
+### Word (.docx) export of the citizen packet
+
+```bash
+python collectors/export_docx.py --brief-dir briefs/nevada/water-scarcity/citizen-v1
+```
+
+Requires pandoc. Builds `citizen-brief.docx` and `appendices/appendices.docx`
+using the branded reference doc `templates/citizen-brief/forum-reference.docx`
+(created automatically on first run). Without pandoc: open the packaged HTML
+in Word (File > Open, then Save As .docx), or upload the `.md` to Google Docs
+and download as .docx.
