@@ -1,35 +1,57 @@
 # The Forum visual tokens for citizen legislative briefs.
-# Primary source: nvforum.org public site CSS (Breakdance / brand palette).
-# If a Phase 2 Issue Brief PDF/DOCX is added under templates/phase-2-samples/,
-# design-packager MUST prefer that sample's colors/fonts over this file.
+#
+# AUTHORITATIVE SOURCE: the Phase 2 Issue Brief sample at
+#   templates/phase-2-samples/NV1-Issue-Brief-4-Growth-and-Water-Scarcity-v1.5.pdf
+# The tokens below were extracted from that PDF. They replace the earlier
+# nvforum.org website palette (purple/cream) — do NOT use the website colors
+# for printed briefs.
+#
+# Rule for design-packager: mirror the sample's colors, fonts, spacing, and
+# module types. Never copy the sample's headings, titles, or body text.
 
 organization: "The Nevada Forum"
 tagline: "Our future. One table. Everyone gets a seat."
+phase2_sample: "templates/phase-2-samples/NV1-Issue-Brief-4-Growth-and-Water-Scarcity-v1.5.pdf"
 
 colors:
-  background: "#F2F0ED"      # warm paper / page ground
-  ink: "#1A1A1F"             # near-black body text
-  accent_purple: "#8659B5"  # primary brand accent / headers / rules
-  accent_purple_dark: "#7448A3"
-  accent_gold: "#FFBF3F"    # highlight / callout bar / key numbers
+  background: "#FFFFFF"        # white page ground (not cream)
+  navy: "#1A2D4F"              # titles, big stat numbers, top rule, table header row
+  navy_secondary: "#2E4A78"    # card headings, links, secondary emphasis
+  terracotta: "#C0392B"        # ALL-CAPS section headers, eyebrow label, quote-card top bars
+  terracotta_tint: "#E8D5D3"   # soft pink tint used with terracotta accent bars
+  body: "#444444"              # primary body gray
+  muted: "#666666"             # secondary body gray / captions / explainers
+  card_border: "#CCCCCC"       # thin gray border on quote and stat cards
+  table_rule: "#C8CDD6"        # light blue-gray table rules
+  row_alt: "#F4F5F7"           # alternating light gray table rows
   white: "#FFFFFF"
-  muted: "#5C5C66"          # secondary text
-  rule: "#D9D4CC"           # light dividers on cream
 
 typography:
-  display: "Bebas Neue"           # short titles / section labels (all caps OK)
-  serif_body: "Libre Baskerville" # body prose for print
-  # Typekit kit used on nvforum.org (fallback if licensed fonts unavailable):
-  typekit_kit: "ooi8cab"
-  google_fonts_url: "https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap"
-  body_size_pt: 11
-  title_size_pt: 22
-  section_label_size_pt: 14
-  explainer_size_pt: 10
-  line_height: 1.35
+  # The sample embeds Arial / Arial-Bold (ArialMT). Georgia appears on quotes.
+  sans: "Arial, Helvetica, sans-serif"          # body, headers, tables, cards
+  quote_serif: "Georgia, 'Times New Roman', serif"  # quote text only
+  title_size_pt: 20            # large bold navy title (Arial-Bold)
+  eyebrow_size_pt: 9           # terracotta ALL CAPS, letter-spaced, above title
+  section_header_size_pt: 10.5 # terracotta ALL CAPS, letter-spaced (Arial-Bold)
+  body_size_pt: 9              # dark gray body
+  stat_number_size_pt: 22      # huge navy numbers in stat cards
+  explainer_size_pt: 8.5       # inline explainers, muted gray
+  letter_spacing_headers_em: 0.12
+  line_height: 1.45
+
+modules:
+  # Named modules taken from the Phase 2 sample. design-packager maps
+  # citizen-brief content onto these; see agents/design-packager/AGENT.md.
+  eyebrow_header: "THE FORUM bar + navy rule + terracotta all-caps kicker + navy title"
+  section_header: "terracotta ALL CAPS letter-spaced label with generous space above"
+  quote_card: "thin gray border, thin terracotta top bar (soft pink tint), serif text, small navy source label"
+  stat_card: "thin gray border, navy top bar, huge navy number, small gray caption"
+  comparison_table: "navy header row with white text; alternating white/light-gray rows; light blue-gray rules"
+  question_grid: "two-column grid of bordered cards, each with a terracotta number and one question"
+  info_card_pair: "two-up bordered cards with navy bold heading and short gray body"
 
 page:
-  size: "letter"            # US Letter
+  size: "letter"               # US Letter
   margin_in: 0.6
   max_front_pages: 2
   page1_must_carry: "most important deliberation content"
@@ -38,4 +60,5 @@ page:
 print_notes:
   - "Design for Print → Save as PDF from HTML (or Word export)."
   - "Keep page 1 self-contained: a citizen should grasp the political map without page 2."
-  - "Do not invent Phase 2 layout grids; mirror brand colors/fonts. Prefer an official Phase 2 sample when provided."
+  - "White background; modular boxes/grids; generous whitespace; full-width sections under terracotta headings."
+  - "Do not copy Phase 2 headings/titles/body text — mirror colors/fonts/spacing/module types only."

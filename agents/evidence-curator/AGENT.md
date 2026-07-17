@@ -1,7 +1,7 @@
 ---
 agent_id: evidence-curator
 agent_name: Evidence Curator
-version: 2.0
+version: 2.1
 pipeline_position: 1
 previous_agent: none
 next_agent: reality-mapper

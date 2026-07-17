@@ -29,8 +29,8 @@ Evidence Curator
 | 2 | `reality-mapper/` | History baskets: often moved / unfinished / rarely moved |
 | 3 | `citizen-brief-writer/` | 1–2 page plain-language front brief + inline explainers |
 | 3b | `appendix-builder/` | Long PDF/Word-friendly appendices |
-| 4 | `design-packager/` | Forum colors/fonts; printable HTML |
-| 5 | `citizen-reviewer/` | Reading level, no-advice, ≤2 pages, package gate |
+| 4 | `design-packager/` | Phase 2 visual system (navy/terracotta/white, Arial); printable HTML |
+| 5 | `citizen-reviewer/` | Reading level, no-advice, ≤2 pages, Phase 2 modules, package gate |
 
 Archived staff-only Version 0 agents live in `_archive/version-0-assembly-viability/`.
 
@@ -64,12 +64,12 @@ Then continue in order: Reality Mapper → (Citizen Brief Writer + Appendix Buil
 2. **History baskets, not commands:** “Often moved before” / “Got support but didn’t finish” / “Rarely moved before.”
 3. **Inline explainers** for hard words — in the section, not a glossary appendix.
 4. **Front brief stays short;** appendices hold depth.
-5. **Visuals follow Forum brand** (`config/forum-brand.yaml`) or a Phase 2 sample in `templates/phase-2-samples/` when provided.
+5. **Visuals follow the Phase 2 Issue Brief system**: white page, navy `#1A2D4F`, terracotta `#C0392B` section headers, Arial body, modular cards/tables. Tokens live in `config/forum-brand.yaml`; the authoritative sample is `templates/phase-2-samples/NV1-Issue-Brief-4-Growth-and-Water-Scarcity-v1.5.pdf`. Mirror its colors/fonts/spacing/modules — never its headings or text.
 
-## Brand / Phase 2 samples
+## Brand / Phase 2 sample
 
-- Tokens: `config/forum-brand.yaml` (from public nvforum.org palette/fonts).
-- Drop an official Phase 2 Issue Brief PDF/DOCX into `templates/phase-2-samples/` to force exact visual matching. Design Packager must prefer the sample over YAML when present.
+- Tokens: `config/forum-brand.yaml` — extracted from the Phase 2 sample PDF (this replaced the old website purple/cream palette).
+- Sample: `templates/phase-2-samples/NV1-Issue-Brief-4-Growth-and-Water-Scarcity-v1.5.pdf`. Design Packager mirrors its module types (eyebrow header, terracotta H2s, quote-style history cards, navy-bar stat strip, navy-header tables, numbered question grid).
 
 ## Outputs (typical)
 

@@ -1,7 +1,7 @@
 ---
 agent_id: reality-mapper
 agent_name: Reality Mapper
-version: 2.0
+version: 2.1
 pipeline_position: 2
 previous_agent: evidence-curator
 next_agent: citizen-brief-writer

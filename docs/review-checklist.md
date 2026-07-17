@@ -16,7 +16,12 @@
 
 - [ ] Front brief ≤ 2 letter pages; essentials on page 1
 - [ ] Appendices hold detail and print cleanly
-- [ ] Forum brand (or Phase 2 sample) applied in HTML/CSS
+
+## Visual system (Phase 2)
+
+- [ ] White page; navy `#1A2D4F` + terracotta `#C0392B` tokens; Arial body (no purple/gold/cream website palette)
+- [ ] Phase 2 modules used: eyebrow header, terracotta section headers, stat strip, history example cards, baskets table/cards, question grid
+- [ ] No Phase 2 sample headings, titles, or body text copied
 
 ## Evidence
 

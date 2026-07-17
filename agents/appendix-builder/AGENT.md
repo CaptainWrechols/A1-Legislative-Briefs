@@ -1,7 +1,7 @@
 ---
 agent_id: appendix-builder
 agent_name: Appendix Builder
-version: 2.0
+version: 2.1
 pipeline_position: 3b
 previous_agent: reality-mapper
 next_agent: design-packager
@@ -55,8 +55,9 @@ Optional if data exists:
 4. Avoid tables wider than ~7 columns; split if needed.
 5. Repeat bill id format: `2019 AB163` (year + number) for citizen readability; machine key `80:AB163` may appear in a narrow column.
 6. Page breaks: insert `<!-- pdf-page-break -->` between major theme sections in long files.
-7. No advocacy language.
-8. Explain a term **once in the appendix intro** if the appendix is heavy on that term; still prefer plain labels in headers.
+7. Tables will be styled by Design Packager as navy-header comparison tables (Phase 2 style); keep header labels short so they fit white-on-navy at ~9pt.
+8. No advocacy language.
+9. Explain a term **once in the appendix intro** if the appendix is heavy on that term; still prefer plain labels in headers.
 
 ## Column recipes
 
