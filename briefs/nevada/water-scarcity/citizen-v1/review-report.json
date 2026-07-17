@@ -1,0 +1,54 @@
+{
+  "issue_id": "nevada-04-water-scarcity",
+  "brief_version": "citizen-v1.0",
+  "reviewed_by": "citizen-reviewer v2.1",
+  "review_date": "2026-07-17",
+  "status": "READY FOR HUMAN REVIEW",
+  "reviewers_for_pr": ["Ryan Echols", "Jodi Stephens", "Ashley Lovell"],
+  "checklist": {
+    "A1": {"pass": true, "note": "History framing only; brief states 'This sheet does not pick for you.'"},
+    "A2": {"pass": true, "note": "Three baskets present with real example bills."},
+    "A3": {"pass": true, "note": "Six open-ended deliberation questions."},
+    "A4": {"pass": true, "note": "No pursue/adapt/avoid commands (regex scan)."},
+    "B1": {"pass": true, "note": "Flesch-Kincaid grade ~7.6; all policy terms explained inline at first use."},
+    "B2": {"pass": true, "note": "No glossary-only explainers; all in-section."},
+    "B3": {"pass": true, "note": "Plain topics readable without legal training."},
+    "B4": {"pass": true, "note": "How-a-bill-moves primer on page 1 (verified in render)."},
+    "C1": {"pass": true, "note": "Exactly 2 US Letter pages, re-verified with headless Chrome after fix."},
+    "C2": {"pass": true, "note": "Page 1 carries stat strip, primer, three baskets, caution."},
+    "C3": {"pass": true, "note": "Detail in appendices A-G (~48 pages); front brief points to them."},
+    "D1": {"pass": true, "note": "All 24 cited bill keys resolve in evidence-pack.json; example bills present in Appendix A."},
+    "D2": {"pass": true, "note": "All vote counts match evidence pack; Q4 imprecision fixed in-pass (see fixes)."},
+    "D3": {"pass": true, "note": "'One fair caution' states keyword-search limit and where-not-why; Appendix F full list."},
+    "D4": {"pass": true, "note": "N/A - no committee vote counts shown anywhere in the brief."},
+    "E1": {"pass": true, "note": "No should/must/recommend/urge directed at citizens or legislature."},
+    "E2": {"pass": true, "note": "Party labels descriptive only; no blame framing."},
+    "E3": {"pass": true, "note": "People signals are counts/dates with explicit no-judgment line."},
+    "E4": {"pass": true, "note": "2025 list framed as facts, not endorsements; saturation raised only as a question."},
+    "F1": {"pass": true, "note": "citizen-brief.html and citizen-brief-print.css exist and render."},
+    "F2": {"pass": true, "note": "Appendices A-F exist (plus G, README, appendices-print.html)."},
+    "F3": {"pass": true, "note": "PACKAGE.md exists."},
+    "F4": {"pass": true, "note": "Phase 2 tokens verified: white page, navy #1A2D4F, terracotta #C0392B, Arial body; no purple/gold/cream."},
+    "F5": {"pass": true, "note": "Eyebrow header, terracotta section headers, stat strip, history example cards, baskets table, question grid, info card pair all present."},
+    "F6": {"pass": true, "note": "6-gram shingle check vs Phase 2 sample PDF: no copied headings/body; only overlap is the official issue title from config."}
+  },
+  "fixes_made": [
+    {
+      "id": "fix-1",
+      "files": ["citizen-brief.md", "citizen-brief.html"],
+      "type": "evidence-accuracy wording",
+      "before": "Every bill about who checks the State Engineer failed \u2014 six bills since 2021. The newest two won big floor votes first.",
+      "after": "Every bill about who checks the State Engineer failed \u2014 six bills since 2021. Two recent ones (2023, 2025) won floor votes in one house before dying in the other.",
+      "reason": "The two newest theme-8 bills are both 2025 (SB31, AB419) and AB419 never had a floor vote; the floor-vote winners were 2023 AB387 (26-14) and 2025 SB31 (15-6). 'Big' overstated 65%/71% margins. New wording matches evidence-pack.json and reality-map.json exactly.",
+      "page_count_after_fix": 2
+    }
+  ],
+  "notes_for_human_reviewers": [
+    "Stat strip: 45 became law + 40 did not finish = 85 of 88; the other 3 are enrolled joint resolutions (do not become statutes), documented in Appendix F item 9 but not on the front pages.",
+    "Artifact page images refreshed after the fix; both pages are in the Phase 2 visual family (navy/terracotta on white, Arial)."
+  ],
+  "designed_pages_check": {
+    "page_1": "Phase 2 family confirmed: THE FORUM eyebrow + navy rule, terracotta all-caps headers, navy stat cards, quote cards with terracotta top bars, navy-header baskets table. No purple.",
+    "page_2": "Phase 2 family confirmed: terracotta headers, info card pair, numbered question grid, footline. No purple."
+  }
+}
