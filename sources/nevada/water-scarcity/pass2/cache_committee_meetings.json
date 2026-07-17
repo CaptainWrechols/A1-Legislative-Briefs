@@ -2894,5 +2894,3044 @@
       }
     ],
     "collected_at": "2026-07-16T14:56:08.388674+00:00"
+  },
+  "80:AB190": {
+    "session": "80",
+    "bill_identifier": "AB190",
+    "meetings": [
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, May 15, 2019 1:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/270.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/270.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Monday, May 6, 2019 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/266.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/266.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Friday, April 5, 2019 8:30 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/793.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/GA/Final/793.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Wednesday, March 20, 2019 8:30 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/599.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/GA/Final/599.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:40:11.643796+00:00"
+  },
+  "80:AB21": {
+    "session": "80",
+    "bill_identifier": "AB21",
+    "meetings": [
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, May 17, 2019 1:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/271.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/271.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, April 24, 2019 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/238.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/238.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Friday, March 29, 2019 8:30 AM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/684.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/GA/Final/684.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Monday, February 18, 2019 9:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/287.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/GA/Final/287.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Tuesday, February 12, 2019 9:00 AM",
+        "recommendation": "Mentioned not agendized",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/249.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/GA/Final/249.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:40:16.569146+00:00"
+  },
+  "80:AB240": {
+    "session": "80",
+    "bill_identifier": "AB240",
+    "meetings": [
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, May 17, 2019 1:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/271.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/271.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, May 10, 2019 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/268.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/268.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Friday, March 15, 2019 8:30 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/480.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/GA/Final/480.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Monday, March 11, 2019 9:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/472.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/GA/Final/472.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:40:22.698962+00:00"
+  },
+  "80:AB275": {
+    "session": "80",
+    "bill_identifier": "AB275",
+    "meetings": [
+      {
+        "committee": "Assembly Commerce and Labor",
+        "date": "Saturday, June 1, 2019 1:30 PM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/CL/Final/1381.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/CL/Final/1381.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Commerce and Labor",
+        "date": "Wednesday, May 15, 2019 1:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/CL/Final/996.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/CL/Final/996.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Commerce and Labor",
+        "date": "Wednesday, May 8, 2019 1:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/CL/Final/978.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/CL/Final/978.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Commerce and Labor",
+        "date": "Wednesday, April 10, 2019 12:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/CL/Final/816.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/CL/Final/816.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Commerce and Labor",
+        "date": "Wednesday, March 27, 2019 1:30 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/CL/Final/692.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/CL/Final/692.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:40:27.344227+00:00"
+  },
+  "80:AB319": {
+    "session": "80",
+    "bill_identifier": "AB319",
+    "meetings": [
+      {
+        "committee": "Senate Commerce and Labor",
+        "date": "Thursday, May 30, 2019 1:13 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/CL/Final/1431.pdf",
+        "agenda_url": null,
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Commerce and Labor",
+        "date": "Wednesday, May 29, 2019 [Call of Chair, See Agenda]",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/CL/Final/1002.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/CL/Final/1002.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Monday, May 27, 2019 8:00 AM",
+        "recommendation": "Heard; Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1344.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/WM/Final/1344.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Commerce and Labor",
+        "date": "Monday, April 8, 2019 12:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/CL/Final/814.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/CL/Final/814.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Commerce and Labor",
+        "date": "Friday, April 5, 2019 12:30 PM",
+        "recommendation": "No action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/CL/Final/798.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/CL/Final/798.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Commerce and Labor",
+        "date": "Friday, March 29, 2019 12:30 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/CL/Final/708.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/CL/Final/708.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:40:33.857984+00:00"
+  },
+  "80:AB32": {
+    "session": "80",
+    "bill_identifier": "AB32",
+    "meetings": [
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Wednesday, April 24, 2019 8:00 AM",
+        "recommendation": "Mentioned not agendized",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1024.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/WM/Final/1024.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Wednesday, April 24, 2019 8:00 AM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1028.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/1028.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Taxation",
+        "date": "Tuesday, April 9, 2019 4:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/TAX/Final/846.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/TAX/Final/846.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Taxation",
+        "date": "Tuesday, February 26, 2019 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/TAX/Final/406.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/TAX/Final/406.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Friday, February 15, 2019 8:00 AM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/261.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/261.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Tuesday, February 12, 2019 4:00 PM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/RED/Final/247.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/RED/Final/247.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Taxation",
+        "date": "Tuesday, February 12, 2019 4:00 PM",
+        "recommendation": "Mentioned not agendized",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/RED/Final/247.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/TAX/Final/279.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:40:40.941996+00:00"
+  },
+  "80:AB36": {
+    "session": "80",
+    "bill_identifier": "AB36",
+    "meetings": [],
+    "collected_at": "2026-07-17T17:40:43.841691+00:00"
+  },
+  "80:AB400": {
+    "session": "80",
+    "bill_identifier": "AB400",
+    "meetings": [
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, May 16, 2019 1:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/RED/Final/1229.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/RED/Final/1229.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Tuesday, May 14, 2019 1:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/RED/Final/1186.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/RED/Final/1186.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Taxation",
+        "date": "Thursday, April 11, 2019 4:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/TAX/Final/847.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/TAX/Final/847.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Taxation",
+        "date": "Tuesday, April 2, 2019 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/TAX/Final/791.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/TAX/Final/791.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:40:45.310854+00:00"
+  },
+  "80:AB413": {
+    "session": "80",
+    "bill_identifier": "AB413",
+    "meetings": [
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, May 17, 2019 1:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/271.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/271.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Monday, May 13, 2019 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/269.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/269.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Thursday, April 11, 2019 8:30 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/859.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/GA/Final/859.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Friday, April 5, 2019 8:30 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/793.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/GA/Final/793.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Friday, March 22, 2019 8:30 AM",
+        "recommendation": "Discussed as BDR",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/620.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/GA/Final/620.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:40:49.564921+00:00"
+  },
+  "80:AB466": {
+    "session": "80",
+    "bill_identifier": "AB466",
+    "meetings": [
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Thursday, May 30, 2019 [Call of Chair, See Agenda]",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/1428.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/1428.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, May 29, 2019 [Call of Chair, See Agenda]",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/277.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/277.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Saturday, May 25, 2019 [Upon Adjournment, See Agenda]",
+        "recommendation": "Do pass, as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1342.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/WM/Final/1342.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Taxation",
+        "date": "Thursday, April 11, 2019 4:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/TAX/Final/847.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/TAX/Final/847.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Taxation",
+        "date": "Tuesday, April 2, 2019 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/TAX/Final/791.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/TAX/Final/791.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Monday, March 25, 2019 12:44 PM",
+        "recommendation": "Discussed as BDR",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GI/Final/745.pdf",
+        "agenda_url": null,
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:40:53.607843+00:00"
+  },
+  "80:AB504": {
+    "session": "80",
+    "bill_identifier": "AB504",
+    "meetings": [
+      {
+        "committee": "Senate Finance",
+        "date": "Sunday, June 2, 2019 10:00 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1464.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/1464.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Friday, May 31, 2019 8:00 AM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1439.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/1439.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Wednesday, May 22, 2019 9:00 AM",
+        "recommendation": "Heard; Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1286.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/WM/Final/1286.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Monday, May 13, 2019 5:00 PM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1199.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/1199.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Tuesday, April 30, 2019 12:12 PM",
+        "recommendation": "Discussed as BDR",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1133.pdf",
+        "agenda_url": null,
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:40:59.228117+00:00"
+  },
+  "80:AB537": {
+    "session": "80",
+    "bill_identifier": "AB537",
+    "meetings": [
+      {
+        "committee": "Senate Natural Resources",
+        "date": "Thursday, May 30, 2019 [Call of Chair, See Agenda]",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/NR/Final/1409.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/NR/Final/1409.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Natural Resources, Agriculture, and Mining",
+        "date": "Wednesday, May 22, 2019 4:00 PM",
+        "recommendation": "Heard; Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/NRAM/Final/1153.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/NRAM/Final/1153.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Tuesday, May 21, 2019 8:00 AM",
+        "recommendation": "Discussed as BDR",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1261.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/WM/Final/1261.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:41:03.738246+00:00"
+  },
+  "80:AB541": {
+    "session": "80",
+    "bill_identifier": "AB541",
+    "meetings": [
+      {
+        "committee": "Senate Finance",
+        "date": "Sunday, June 2, 2019 10:00 AM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1464.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/1464.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Saturday, June 1, 2019 9:00 AM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1452.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/1452.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Friday, May 31, 2019 9:00 AM",
+        "recommendation": "Heard; Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1440.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/WM/Final/1440.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Thursday, May 30, 2019 8:00 AM",
+        "recommendation": "Discussed as BDR",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1427.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/WM/Final/1427.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Wednesday, May 29, 2019 8:00 AM",
+        "recommendation": "Discussed as BDR",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1419.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/1419.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:41:07.548768+00:00"
+  },
+  "80:SB14": {
+    "session": "80",
+    "bill_identifier": "SB14",
+    "meetings": [
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Friday, May 17, 2019 9:30 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/1239.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/GA/Final/1239.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Legislative Operations and Elections",
+        "date": "Tuesday, April 30, 2019 4:00 PM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/LOE/Final/1073.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/LOE/Final/1073.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Monday, April 29, 2019 9:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/1076.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/GA/Final/1076.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Thursday, April 11, 2019 6:30 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/842.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/842.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, March 6, 2019 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/217.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/217.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:41:16.300576+00:00"
+  },
+  "80:SB280": {
+    "session": "80",
+    "bill_identifier": "SB280",
+    "meetings": [
+      {
+        "committee": "Senate Natural Resources",
+        "date": "Thursday, April 4, 2019 4:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/NR/Final/809.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/NR/Final/809.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:41:30.627784+00:00"
+  },
+  "80:SB298": {
+    "session": "80",
+    "bill_identifier": "SB298",
+    "meetings": [
+      {
+        "committee": "Assembly Taxation",
+        "date": "Thursday, May 16, 2019 4:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/TAX/Final/1215.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/TAX/Final/1215.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Taxation",
+        "date": "Thursday, May 2, 2019 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/TAX/Final/1080.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/TAX/Final/1080.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Thursday, April 11, 2019 1:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GRI/Final/800.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GRI/Final/800.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Tuesday, April 9, 2019 1:00 PM",
+        "recommendation": "Not Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GRI/Final/779.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GRI/Final/779.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Tuesday, April 2, 2019 1:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GRI/Final/711.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GRI/Final/711.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:41:32.044356+00:00"
+  },
+  "80:SB495": {
+    "session": "80",
+    "bill_identifier": "SB495",
+    "meetings": [
+      {
+        "committee": "Senate Finance",
+        "date": "Sunday, June 2, 2019 10:00 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1464.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/1464.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Tuesday, May 28, 2019 8:00 AM",
+        "recommendation": "Not Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1398.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/1398.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Thursday, May 23, 2019 8:00 AM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1303.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/1303.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Friday, May 10, 2019 8:00 AM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1173.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/WM/Final/1173.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Friday, May 10, 2019 8:00 AM",
+        "recommendation": "Mentioned Not Agendized",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1149.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/1149.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Thursday, April 11, 2019 6:30 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/842.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/842.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Monday, April 8, 2019 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/231.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/GA/Final/231.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:41:38.276589+00:00"
+  },
+  "80:SB519": {
+    "session": "80",
+    "bill_identifier": "SB519",
+    "meetings": [
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Sunday, June 2, 2019 10:00 AM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1462.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/WM/Final/1462.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Thursday, May 30, 2019 8:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1427.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/WM/Final/1427.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Saturday, May 25, 2019 [Upon Adjournment, See Agenda]",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1343.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/1343.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Friday, May 24, 2019 8:00 AM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1305.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/FIN/Final/1305.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:41:48.348951+00:00"
+  },
+  "80:SB56": {
+    "session": "80",
+    "bill_identifier": "SB56",
+    "meetings": [
+      {
+        "committee": "Assembly Natural Resources, Agriculture, and Mining",
+        "date": "Monday, May 13, 2019 4:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/NRAM/Final/1090.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/NRAM/Final/1090.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Natural Resources, Agriculture, and Mining",
+        "date": "Monday, May 6, 2019 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/NRAM/Final/1029.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Assembly/NRAM/Final/1029.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Natural Resources",
+        "date": "Tuesday, March 26, 2019 4:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/NR/Final/645.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/NR/Final/645.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Natural Resources",
+        "date": "Tuesday, February 19, 2019 4:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/NR/Final/361.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/80th2019/Agendas/Senate/NR/Final/361.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:41:54.218170+00:00"
+  },
+  "81:AB184": {
+    "session": "81",
+    "bill_identifier": "AB184",
+    "meetings": [
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, May 14, 2021 3:30 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GA/Final/1247.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GA/Final/1247.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, May 5, 2021 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GA/Final/1185.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GA/Final/1185.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, April 8, 2021 4:00 PM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/REV/Final/856.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/REV/Final/856.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Wednesday, March 24, 2021 9:00 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/628.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/GA/Final/628.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Tuesday, March 23, 2021 9:00 AM",
+        "recommendation": "Mentioned not agendized",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/627.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/GA/Final/627.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Monday, March 15, 2021 10:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/554.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/GA/Final/554.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Friday, March 12, 2021 9:00 AM",
+        "recommendation": "Mentioned not agendized",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/473.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/GA/Final/473.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:42:00.139955+00:00"
+  },
+  "81:AB31": {
+    "session": "81",
+    "bill_identifier": "AB31",
+    "meetings": [
+      {
+        "committee": "Senate Natural Resources",
+        "date": "Tuesday, May 4, 2021 3:30 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/NR/Final/1166.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/NR/Final/1166.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Natural Resources",
+        "date": "Thursday, April 22, 2021 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/NR/Final/1021.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/NR/Final/1021.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Natural Resources",
+        "date": "Wednesday, March 3, 2021 4:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/NR/Final/333.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/NR/Final/333.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Natural Resources",
+        "date": "Wednesday, February 17, 2021 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/NR/Final/237.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/NR/Final/237.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:42:03.469281+00:00"
+  },
+  "81:AB449": {
+    "session": "81",
+    "bill_identifier": "AB449",
+    "meetings": [
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, April 8, 2021 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/REV/Final/856.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/REV/Final/856.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:42:12.168655+00:00"
+  },
+  "81:AB66": {
+    "session": "81",
+    "bill_identifier": "AB66",
+    "meetings": [
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, May 13, 2021 1:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/RED/Final/1239.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/RED/Final/1239.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Tuesday, May 11, 2021 1:00 PM",
+        "recommendation": "Not Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/RED/Final/1217.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/RED/Final/1217.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, April 29, 2021 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/RED/Final/1119.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/RED/Final/1119.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, April 8, 2021 4:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/REV/Final/856.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/REV/Final/856.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Tuesday, April 6, 2021 4:00 PM",
+        "recommendation": "Not considered",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/REV/Final/832.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/REV/Final/832.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, February 18, 2021 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/REV/Final/336.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/REV/Final/336.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Tuesday, February 2, 2021 4:00 PM",
+        "recommendation": "Mentioned",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/REV/Final/135.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/REV/Final/135.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:42:18.338429+00:00"
+  },
+  "81:AB97": {
+    "session": "81",
+    "bill_identifier": "AB97",
+    "meetings": [
+      {
+        "committee": "Senate Natural Resources",
+        "date": "Thursday, May 13, 2021 [Upon Adjournment, See Agenda]",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/NR/Final/1238.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/NR/Final/1238.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Natural Resources",
+        "date": "Thursday, May 6, 2021 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/NR/Final/1191.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/NR/Final/1191.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Natural Resources",
+        "date": "Monday, April 5, 2021 4:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/NR/Final/706.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/NR/Final/706.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Natural Resources",
+        "date": "Monday, March 29, 2021 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/NR/Final/635.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/NR/Final/635.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:42:24.383046+00:00"
+  },
+  "81:SB10": {
+    "session": "81",
+    "bill_identifier": "SB10",
+    "meetings": [
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Tuesday, March 30, 2021 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/RED/Final/712.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/RED/Final/712.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Monday, February 15, 2021 3:30 PM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GA/Final/290.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GA/Final/290.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Thursday, February 11, 2021 9:00 AM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/198.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/GA/Final/198.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:42:31.944438+00:00"
+  },
+  "81:SB14": {
+    "session": "81",
+    "bill_identifier": "SB14",
+    "meetings": [
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Wednesday, May 12, 2021 9:00 AM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/1060.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/GA/Final/1060.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Wednesday, April 21, 2021 10:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/977.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/GA/Final/977.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, February 17, 2021 3:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GA/Final/334.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GA/Final/334.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Monday, February 8, 2021 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GA/Final/209.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GA/Final/209.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:42:33.209863+00:00"
+  },
+  "81:SB283": {
+    "session": "81",
+    "bill_identifier": "SB283",
+    "meetings": [
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Wednesday, May 12, 2021 9:00 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/1060.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/GA/Final/1060.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Tuesday, May 4, 2021 9:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/1054.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/GA/Final/1054.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, April 7, 2021 3:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GA/Final/833.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GA/Final/833.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Monday, April 5, 2021 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GA/Final/831.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GA/Final/831.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:42:40.933559+00:00"
+  },
+  "81:SB297": {
+    "session": "81",
+    "bill_identifier": "SB297",
+    "meetings": [
+      {
+        "committee": "Assembly Revenue",
+        "date": "Friday, May 28, 2021 [Call of Chair, See Agenda]",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/REV/Final/1396.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/REV/Final/1396.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, May 27, 2021 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/REV/Final/1378.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/REV/Final/1378.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Wednesday, May 19, 2021 [Call of Chair, See Agenda]",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/FIN/Final/1284.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/FIN/Final/1284.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Tuesday, May 11, 2021 9:00 AM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/1059.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/GA/Final/1059.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, April 9, 2021 [Call of Chair, See Agenda]",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GA/Final/859.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GA/Final/859.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, April 7, 2021 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GA/Final/833.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GA/Final/833.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:42:44.671677+00:00"
+  },
+  "81:SB338": {
+    "session": "81",
+    "bill_identifier": "SB338",
+    "meetings": [],
+    "collected_at": "2026-07-17T17:42:52.868675+00:00"
+  },
+  "81:SB395": {
+    "session": "81",
+    "bill_identifier": "SB395",
+    "meetings": [
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, May 13, 2021 4:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/REV/Final/1234.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/REV/Final/1234.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, May 6, 2021 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/REV/Final/1184.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/REV/Final/1184.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, April 8, 2021 1:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/RED/Final/834.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/RED/Final/834.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Tuesday, April 6, 2021 1:00 PM",
+        "recommendation": "Not Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/RED/Final/819.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/RED/Final/819.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, April 1, 2021 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/RED/Final/784.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/RED/Final/784.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:42:54.156448+00:00"
+  },
+  "81:SB430": {
+    "session": "81",
+    "bill_identifier": "SB430",
+    "meetings": [
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Saturday, May 29, 2021 9:00 AM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/WM/Final/1422.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/WM/Final/1422.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Friday, May 21, 2021 8:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/WM/Final/1329.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/WM/Final/1329.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Wednesday, May 12, 2021 3:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GRI/Final/1236.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GRI/Final/1236.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Monday, May 10, 2021 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GRI/Final/1204.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GRI/Final/1204.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Tuesday, May 4, 2021 8:00 AM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/FIN/Final/1133.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/FIN/Final/1133.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:42:58.209438+00:00"
+  },
+  "81:SB442": {
+    "session": "81",
+    "bill_identifier": "SB442",
+    "meetings": [
+      {
+        "committee": "Assembly Revenue",
+        "date": "Friday, May 28, 2021 [Call of Chair, See Agenda]",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/REV/Final/1396.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/REV/Final/1396.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Tuesday, May 25, 2021 3:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/REV/Final/1343.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/REV/Final/1343.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Monday, May 17, 2021 3:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GRI/Final/1254.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GRI/Final/1254.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Wednesday, May 12, 2021 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GRI/Final/1236.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GRI/Final/1236.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:43:02.657042+00:00"
+  },
+  "81:SB64": {
+    "session": "81",
+    "bill_identifier": "SB64",
+    "meetings": [
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, February 24, 2021 3:30 PM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GA/Final/365.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Senate/GA/Final/365.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Friday, February 12, 2021 9:00 AM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/201.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/81st2021/Agendas/Assembly/GA/Final/201.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:43:06.278487+00:00"
+  },
+  "82:AB131": {
+    "session": "82",
+    "bill_identifier": "AB131",
+    "meetings": [
+      {
+        "committee": "Senate Natural Resources",
+        "date": "Tuesday, May 9, 2023 3:30 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/NR/Final/1083.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/NR/Final/1083.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Natural Resources",
+        "date": "Thursday, April 27, 2023 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/NR/Final/953.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/NR/Final/953.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Natural Resources",
+        "date": "Monday, March 20, 2023 4:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/NR/Final/543.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/NR/Final/543.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Natural Resources",
+        "date": "Monday, March 6, 2023 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/NR/Final/373.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/NR/Final/373.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:43:11.878900+00:00"
+  },
+  "82:AB313": {
+    "session": "82",
+    "bill_identifier": "AB313",
+    "meetings": [
+      {
+        "committee": "Assembly Natural Resources",
+        "date": "Wednesday, April 12, 2023 4:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/NR/Final/766.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/NR/Final/766.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Natural Resources",
+        "date": "Monday, April 10, 2023 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/NR/Final/765.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/NR/Final/765.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:43:38.370341+00:00"
+  },
+  "82:AB419": {
+    "session": "82",
+    "bill_identifier": "AB419",
+    "meetings": [
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, May 4, 2023 4:00 PM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/REV/Final/1057.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/REV/Final/1057.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, April 13, 2023 4:00 PM",
+        "recommendation": "Heard; Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/REV/Final/763.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/REV/Final/763.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:43:44.416417+00:00"
+  },
+  "82:AB445": {
+    "session": "82",
+    "bill_identifier": "AB445",
+    "meetings": [
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Tuesday, May 30, 2023 8:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/WM/Final/1298.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/WM/Final/1298.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, April 13, 2023 4:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/REV/Final/763.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/REV/Final/763.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Tuesday, April 4, 2023 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/REV/Final/720.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/REV/Final/720.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:43:47.135447+00:00"
+  },
+  "82:AB449": {
+    "session": "82",
+    "bill_identifier": "AB449",
+    "meetings": [
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Thursday, June 1, 2023 8:00 AM",
+        "recommendation": "Do pass, as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/WM/Final/1325.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/WM/Final/1325.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Wednesday, May 31, 2023 8:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/WM/Final/1299.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/WM/Final/1299.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, April 13, 2023 4:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/REV/Final/763.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/REV/Final/763.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Wednesday, April 12, 2023 5:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/REV/Final/762.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/REV/Final/762.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:43:49.497729+00:00"
+  },
+  "82:AB490": {
+    "session": "82",
+    "bill_identifier": "AB490",
+    "meetings": [
+      {
+        "committee": "Assembly Revenue",
+        "date": "Tuesday, May 30, 2023 9:20 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/REV/Final/1319.pdf",
+        "agenda_url": null,
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, May 18, 2023 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/REV/Final/1151.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/REV/Final/1151.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:43:59.069910+00:00"
+  },
+  "82:AB519": {
+    "session": "82",
+    "bill_identifier": "AB519",
+    "meetings": [
+      {
+        "committee": "Senate Finance",
+        "date": "Sunday, June 4, 2023 8:00 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/FIN/Final/1385.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/FIN/Final/1385.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Thursday, June 1, 2023 8:00 AM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/FIN/Final/1327.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/FIN/Final/1327.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Wednesday, May 31, 2023 8:00 AM",
+        "recommendation": "Heard; Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/WM/Final/1299.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/WM/Final/1299.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Monday, May 22, 2023 8:00 AM",
+        "recommendation": "Discussed as BDR",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/WM/Final/1179.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/WM/Final/1179.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:44:01.481487+00:00"
+  },
+  "82:AB97": {
+    "session": "82",
+    "bill_identifier": "AB97",
+    "meetings": [
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, May 19, 2023 [Call of Chair, See Agenda]",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/1202.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/GA/Final/1202.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, May 3, 2023 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/1011.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/GA/Final/1011.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Natural Resources",
+        "date": "Monday, March 20, 2023 4:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/NR/Final/543.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/NR/Final/543.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Natural Resources",
+        "date": "Wednesday, March 1, 2023 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/NR/Final/323.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/NR/Final/323.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:44:09.468237+00:00"
+  },
+  "82:AJR3": {
+    "session": "82",
+    "bill_identifier": "AJR3",
+    "meetings": [
+      {
+        "committee": "Assembly Legislative Operations and Elections",
+        "date": "Thursday, March 9, 2023 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/LOE/Final/432.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/LOE/Final/432.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:44:13.150949+00:00"
+  },
+  "82:SB115": {
+    "session": "82",
+    "bill_identifier": "SB115",
+    "meetings": [
+      {
+        "committee": "Assembly Natural Resources",
+        "date": "Monday, May 15, 2023 4:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/NR/Final/1142.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/NR/Final/1142.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Natural Resources",
+        "date": "Wednesday, April 26, 2023 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/NR/Final/973.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/NR/Final/973.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, April 7, 2023 3:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/750.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/GA/Final/750.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, March 8, 2023 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/427.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/GA/Final/427.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:44:17.417708+00:00"
+  },
+  "82:SB169": {
+    "session": "82",
+    "bill_identifier": "SB169",
+    "meetings": [
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Friday, May 12, 2023 9:00 AM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/GA/Final/1116.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/GA/Final/1116.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Wednesday, May 10, 2023 9:00 AM",
+        "recommendation": "Rescheduled",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/GA/Final/1045.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/GA/Final/1045.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Thursday, April 27, 2023 9:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/GA/Final/944.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/GA/Final/944.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, April 7, 2023 3:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/750.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/GA/Final/750.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Monday, March 13, 2023 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/450.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/GA/Final/450.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:44:21.274662+00:00"
+  },
+  "82:SB210": {
+    "session": "82",
+    "bill_identifier": "SB210",
+    "meetings": [
+      {
+        "committee": "Assembly Commerce and Labor",
+        "date": "Friday, May 12, 2023 12:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/CL/Final/1110.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/CL/Final/1110.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Commerce and Labor",
+        "date": "Wednesday, April 26, 2023 1:30 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/CL/Final/965.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/CL/Final/965.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, April 7, 2023 3:30 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/750.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/GA/Final/750.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Monday, March 27, 2023 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/587.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/GA/Final/587.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:44:28.352607+00:00"
+  },
+  "82:SB257": {
+    "session": "82",
+    "bill_identifier": "SB257",
+    "meetings": [
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Thursday, May 18, 2023 1:30 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/GI/Final/1100.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/GI/Final/1100.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Tuesday, May 2, 2023 1:30 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/GI/Final/970.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/GI/Final/970.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Monday, April 10, 2023 3:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GRI/Final/531.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/GRI/Final/531.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Wednesday, March 22, 2023 [Upon Adjournment, See Agenda]",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GRI/Final/411.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/GRI/Final/411.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:44:32.665052+00:00"
+  },
+  "82:SB261": {
+    "session": "82",
+    "bill_identifier": "SB261",
+    "meetings": [
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Tuesday, May 16, 2023 9:00 AM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/GA/Final/1139.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/GA/Final/1139.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Friday, April 28, 2023 9:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/GA/Final/1001.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/GA/Final/1001.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, April 7, 2023 3:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/750.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/GA/Final/750.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Monday, March 20, 2023 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/551.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/GA/Final/551.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:44:40.350616+00:00"
+  },
+  "82:SB394": {
+    "session": "82",
+    "bill_identifier": "SB394",
+    "meetings": [
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Tuesday, May 16, 2023 1:00 PM",
+        "recommendation": "Mentioned Not Agendized",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/RED/Final/1138.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/RED/Final/1138.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, May 4, 2023 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/REV/Final/1057.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/REV/Final/1057.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Friday, April 14, 2023 [Call of Chair, See Agenda]",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/RED/Final/855.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/RED/Final/855.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Tuesday, April 11, 2023 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/RED/Final/786.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/RED/Final/786.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:44:45.487125+00:00"
+  },
+  "82:SB404": {
+    "session": "82",
+    "bill_identifier": "SB404",
+    "meetings": [
+      {
+        "committee": "Assembly Legislative Operations and Elections",
+        "date": "Thursday, May 18, 2023 4:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/LOE/Final/1174.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/LOE/Final/1174.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Legislative Operations and Elections",
+        "date": "Tuesday, May 16, 2023 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/LOE/Final/1144.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/LOE/Final/1144.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Legislative Operations and Elections",
+        "date": "Friday, April 14, 2023 [Call of Chair, See Agenda]",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/LOE/Final/854.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/LOE/Final/854.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Legislative Operations and Elections",
+        "date": "Thursday, April 13, 2023 [Call of Chair, See Agenda]",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/LOE/Final/834.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/LOE/Final/834.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:44:48.466628+00:00"
+  },
+  "82:SB429": {
+    "session": "82",
+    "bill_identifier": "SB429",
+    "meetings": [
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, May 18, 2023 4:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/REV/Final/1151.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/REV/Final/1151.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Tuesday, May 9, 2023 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/REV/Final/1076.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/REV/Final/1076.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, April 13, 2023 1:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/RED/Final/833.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/RED/Final/833.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, April 6, 2023 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/RED/Final/726.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/RED/Final/726.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:44:51.990214+00:00"
+  },
+  "82:SB431": {
+    "session": "82",
+    "bill_identifier": "SB431",
+    "meetings": [
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Monday, June 5, 2023 5:22 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/1400.pdf",
+        "agenda_url": null,
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Monday, June 5, 2023 12:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/WM/Final/1394.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/WM/Final/1394.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Saturday, April 29, 2023 8:00 AM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/WM/Final/893.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/WM/Final/893.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, April 26, 2023 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/954.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/GA/Final/954.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Education",
+        "date": "Monday, April 17, 2023 1:00 PM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/EDU/Final/781.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/EDU/Final/781.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Thursday, April 13, 2023 8:00 AM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/WM/Final/749.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/WM/Final/749.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:44:55.759627+00:00"
+  },
+  "82:SB96": {
+    "session": "82",
+    "bill_identifier": "SB96",
+    "meetings": [
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Tuesday, March 14, 2023 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/RED/Final/464.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/RED/Final/464.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:45:10.630307+00:00"
+  },
+  "82:SB99": {
+    "session": "82",
+    "bill_identifier": "SB99",
+    "meetings": [
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Sunday, June 4, 2023 1:00 PM",
+        "recommendation": "Heard; Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/WM/Final/1386.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Assembly/WM/Final/1386.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Thursday, June 1, 2023 8:00 AM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/FIN/Final/1327.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/FIN/Final/1327.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Monday, May 22, 2023 8:00 AM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/FIN/Final/1206.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/82nd2023/Agendas/Senate/FIN/Final/1206.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:45:11.985435+00:00"
+  },
+  "83:AB1": {
+    "session": "83",
+    "bill_identifier": "AB1",
+    "meetings": [
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, May 16, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GA/Final/1155.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GA/Final/1155.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, April 23, 2025 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GA/Final/948.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GA/Final/948.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Tuesday, April 8, 2025 9:00 AM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GA/Final/765.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GA/Final/765.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Wednesday, February 19, 2025 8:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GA/Final/228.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GA/Final/228.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:45:18.835159+00:00"
+  },
+  "83:AB377": {
+    "session": "83",
+    "bill_identifier": "AB377",
+    "meetings": [
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, May 15, 2025 1:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/RED/Final/1103.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/RED/Final/1103.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, May 8, 2025 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/RED/Final/1073.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/RED/Final/1073.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Tuesday, April 8, 2025 3:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/REV/Final/676.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/REV/Final/676.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, March 20, 2025 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/REV/Final/523.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/REV/Final/523.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:45:34.729485+00:00"
+  },
+  "83:AB397": {
+    "session": "83",
+    "bill_identifier": "AB397",
+    "meetings": [
+      {
+        "committee": "Senate Education",
+        "date": "Saturday, May 31, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Heard; Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/EDU/Final/1317.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/EDU/Final/1317.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Wednesday, May 28, 2025 8:00 AM",
+        "recommendation": "Heard; Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1281.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/1281.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Education",
+        "date": "Thursday, April 10, 2025 12:30 PM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/ED/Final/754.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/ED/Final/754.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Education",
+        "date": "Thursday, April 3, 2025 12:30 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/ED/Final/652.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/ED/Final/652.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Education",
+        "date": "Thursday, March 20, 2025 12:45 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/ED/Final/463.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/ED/Final/463.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:45:38.082673+00:00"
+  },
+  "83:AB447": {
+    "session": "83",
+    "bill_identifier": "AB447",
+    "meetings": [],
+    "collected_at": "2026-07-17T17:45:46.019757+00:00"
+  },
+  "83:AB449": {
+    "session": "83",
+    "bill_identifier": "AB449",
+    "meetings": [
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Wednesday, May 14, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GRI/Final/1112.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GRI/Final/1112.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Wednesday, May 7, 2025 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GRI/Final/990.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GRI/Final/990.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Tuesday, April 8, 2025 11:30 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/731.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GI/Final/731.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Tuesday, April 1, 2025 11:30 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/680.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GI/Final/680.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:45:47.300096+00:00"
+  },
+  "83:AB491": {
+    "session": "83",
+    "bill_identifier": "AB491",
+    "meetings": [
+      {
+        "committee": "Senate Legislative Operations and Elections",
+        "date": "Thursday, May 15, 2025 2:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/LOE/Final/1147.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/LOE/Final/1147.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Legislative Operations and Elections",
+        "date": "Tuesday, May 13, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/LOE/Final/1118.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/LOE/Final/1118.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Legislative Operations and Elections",
+        "date": "Tuesday, May 6, 2025 4:00 PM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/LOE/Final/1047.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/LOE/Final/1047.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Legislative Operations and Elections",
+        "date": "Friday, April 11, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/LOE/Final/796.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/LOE/Final/796.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Legislative Operations and Elections",
+        "date": "Tuesday, April 8, 2025 3:30 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/LOE/Final/757.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/LOE/Final/757.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Legislative Operations and Elections",
+        "date": "Thursday, March 20, 2025 3:30 PM",
+        "recommendation": "Discussed as BDR",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/LOE/Final/513.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/LOE/Final/513.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:45:51.896083+00:00"
+  },
+  "83:AB506": {
+    "session": "83",
+    "bill_identifier": "AB506",
+    "meetings": [
+      {
+        "committee": "Senate Legislative Operations and Elections",
+        "date": "Thursday, May 15, 2025 2:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/LOE/Final/1147.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/LOE/Final/1147.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Legislative Operations and Elections",
+        "date": "Friday, May 2, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/LOE/Final/1024.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/LOE/Final/1024.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Wednesday, April 9, 2025 [Upon Adjournment, See Agenda]",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/802.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/802.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Friday, April 4, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/702.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/702.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Monday, March 24, 2025 11:31 AM",
+        "recommendation": "Discussed as BDR",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/634.pdf",
+        "agenda_url": null,
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:45:55.823366+00:00"
+  },
+  "83:AB528": {
+    "session": "83",
+    "bill_identifier": "AB528",
+    "meetings": [
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Friday, April 11, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/733.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GI/Final/733.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Tuesday, April 8, 2025 11:30 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/731.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GI/Final/731.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Monday, March 24, 2025 11:48 AM",
+        "recommendation": "Discussed as BDR",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/643.pdf",
+        "agenda_url": null,
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:45:59.056170+00:00"
+  },
+  "83:AB592": {
+    "session": "83",
+    "bill_identifier": "AB592",
+    "meetings": [
+      {
+        "committee": "Senate Finance",
+        "date": "Thursday, May 22, 2025 8:30 AM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/1196.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/FIN/Final/1196.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Tuesday, May 20, 2025 8:00 AM",
+        "recommendation": "Heard; Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1162.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/1162.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Monday, May 19, 2025 9:00 AM",
+        "recommendation": "Discussed as BDR",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1156.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/1156.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:46:01.795742+00:00"
+  },
+  "83:AB594": {
+    "session": "83",
+    "bill_identifier": "AB594",
+    "meetings": [
+      {
+        "committee": "Senate Finance",
+        "date": "Friday, May 30, 2025 4:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/1304.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/FIN/Final/1304.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Monday, May 26, 2025 12:15 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/REV/Final/1253.pdf",
+        "agenda_url": null,
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, May 22, 2025 1:30 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/REV/Final/1150.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/REV/Final/1150.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Wednesday, May 21, 2025 8:00 AM",
+        "recommendation": "Discussed as BDR",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1163.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/1163.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:46:06.677629+00:00"
+  },
+  "83:AB70": {
+    "session": "83",
+    "bill_identifier": "AB70",
+    "meetings": [
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Wednesday, May 14, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GRI/Final/1112.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GRI/Final/1112.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Monday, May 5, 2025 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GRI/Final/989.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GRI/Final/989.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, April 3, 2025 3:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/REV/Final/675.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/REV/Final/675.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Tuesday, March 11, 2025 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/REV/Final/448.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/REV/Final/448.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:46:10.612472+00:00"
+  },
+  "83:AB77": {
+    "session": "83",
+    "bill_identifier": "AB77",
+    "meetings": [],
+    "collected_at": "2026-07-17T17:46:14.988498+00:00"
+  },
+  "83:AJR13": {
+    "session": "83",
+    "bill_identifier": "AJR13",
+    "meetings": [
+      {
+        "committee": "Senate Legislative Operations and Elections",
+        "date": "Thursday, May 15, 2025 2:00 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/LOE/Final/1147.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/LOE/Final/1147.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Legislative Operations and Elections",
+        "date": "Thursday, May 8, 2025 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/LOE/Final/1087.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/LOE/Final/1087.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Tuesday, April 8, 2025 11:30 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/731.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GI/Final/731.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Thursday, April 3, 2025 [Upon Adjournment, See Agenda]",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/681.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GI/Final/681.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Legislative Operations and Elections",
+        "date": "Thursday, March 13, 2025 4:00 PM",
+        "recommendation": "Discussed as BDR",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/LOE/Final/446.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/LOE/Final/446.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:46:17.476281+00:00"
+  },
+  "83:SB326": {
+    "session": "83",
+    "bill_identifier": "SB326",
+    "meetings": [
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Friday, May 16, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/1110.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GI/Final/1110.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Tuesday, May 6, 2025 1:30 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/1054.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GI/Final/1054.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Wednesday, April 9, 2025 3:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GRI/Final/741.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GRI/Final/741.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Monday, March 24, 2025 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GRI/Final/605.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GRI/Final/605.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:46:31.176663+00:00"
+  },
+  "83:SB355": {
+    "session": "83",
+    "bill_identifier": "SB355",
+    "meetings": [
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Wednesday, April 2, 2025 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GRI/Final/666.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GRI/Final/666.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:46:36.186873+00:00"
+  },
+  "83:SB364": {
+    "session": "83",
+    "bill_identifier": "SB364",
+    "meetings": [
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, April 10, 2025 1:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/RED/Final/791.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/RED/Final/791.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, March 27, 2025 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/RED/Final/600.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/RED/Final/600.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:46:41.420696+00:00"
+  },
+  "83:SB430": {
+    "session": "83",
+    "bill_identifier": "SB430",
+    "meetings": [
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Tuesday, April 8, 2025 1:00 PM",
+        "recommendation": "Not Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/RED/Final/786.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/RED/Final/786.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:46:49.309419+00:00"
+  },
+  "83:SB442": {
+    "session": "83",
+    "bill_identifier": "SB442",
+    "meetings": [
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Sunday, June 1, 2025 10:00 AM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1334.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/1334.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Saturday, May 24, 2025 9:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1203.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/1203.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Thursday, May 8, 2025 1:30 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/1055.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GI/Final/1055.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Thursday, May 1, 2025 2:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/980.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GI/Final/980.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Wednesday, April 9, 2025 3:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GRI/Final/741.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GRI/Final/741.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Monday, April 7, 2025 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GRI/Final/740.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GRI/Final/740.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:46:50.956641+00:00"
+  },
+  "83:SB461": {
+    "session": "83",
+    "bill_identifier": "SB461",
+    "meetings": [
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, May 22, 2025 1:30 PM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/REV/Final/1150.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/REV/Final/1150.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, May 22, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/RED/Final/1200.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/RED/Final/1200.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Monday, May 12, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Mentioned",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1099.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/1099.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Monday, May 12, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1099.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/FIN/Final/1098.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Thursday, May 1, 2025 8:00 AM",
+        "recommendation": "Mentioned",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/926.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/926.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Thursday, May 1, 2025 8:00 AM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/926.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/FIN/Final/934.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:46:56.528339+00:00"
+  },
+  "83:SB55": {
+    "session": "83",
+    "bill_identifier": "SB55",
+    "meetings": [
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, February 20, 2025 1:00 PM",
+        "recommendation": "Mentioned Not Agendized",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/RED/Final/222.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/RED/Final/222.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:46:59.756678+00:00"
+  },
+  "83:SB6": {
+    "session": "83",
+    "bill_identifier": "SB6",
+    "meetings": [
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Sunday, June 1, 2025 10:00 AM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1334.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/1334.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Thursday, May 29, 2025 8:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1292.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/1292.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Tuesday, May 27, 2025 10:00 AM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/1261.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/FIN/Final/1261.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Monday, May 19, 2025 8:00 AM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/1152.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/FIN/Final/1152.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Natural Resources",
+        "date": "Tuesday, April 1, 2025 3:30 PM",
+        "recommendation": "Do pass",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/NR/Final/682.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/NR/Final/682.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Natural Resources",
+        "date": "Thursday, February 27, 2025 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/NR/Final/283.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/NR/Final/283.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:47:01.058043+00:00"
+  },
+  "83:SB69": {
+    "session": "83",
+    "bill_identifier": "SB69",
+    "meetings": [
+      {
+        "committee": "Assembly Revenue",
+        "date": "Friday, May 16, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/REV/Final/1143.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/REV/Final/1143.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Tuesday, May 6, 2025 4:00 PM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/REV/Final/1021.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/REV/Final/1021.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, April 10, 2025 1:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/RED/Final/791.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/RED/Final/791.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, March 6, 2025 1:00 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/RED/Final/393.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/RED/Final/393.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, February 26, 2025 3:30 PM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GA/Final/355.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GA/Final/355.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Friday, February 21, 2025 8:00 AM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GA/Final/237.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GA/Final/237.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:47:06.099421+00:00"
+  },
+  "83:SB71": {
+    "session": "83",
+    "bill_identifier": "SB71",
+    "meetings": [
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Friday, May 16, 2025 8:00 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GA/Final/1067.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GA/Final/1067.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Tuesday, May 13, 2025 8:00 AM",
+        "recommendation": "Heard",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GA/Final/1064.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GA/Final/1064.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, April 11, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GA/Final/826.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GA/Final/826.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, March 5, 2025 3:30 PM",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GA/Final/423.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GA/Final/423.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:47:10.332675+00:00"
+  },
+  "83:SB78": {
+    "session": "83",
+    "bill_identifier": "SB78",
+    "meetings": [
+      {
+        "committee": "Senate Finance",
+        "date": "Monday, May 5, 2025 8:00 AM",
+        "recommendation": "Mentioned Not Agendized",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/1006.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/FIN/Final/1006.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Monday, May 5, 2025 8:00 AM",
+        "recommendation": "Mentioned",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/1006.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/1002.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Wednesday, April 30, 2025 8:00 AM",
+        "recommendation": "Mentioned Not Agendized",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/931.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/FIN/Final/931.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Friday, April 11, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Amend, and do pass as amended",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GA/Final/826.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GA/Final/826.pdf",
+        "is_work_session": true
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Wednesday, April 9, 2025 8:00 AM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/711.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/FIN/Final/711.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Wednesday, April 9, 2025 8:00 AM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/711.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/701.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Monday, April 7, 2025 [Call of Chair, See Agenda]",
+        "recommendation": "Heard, No Action",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GA/Final/763.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GA/Final/763.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Wednesday, March 19, 2025 8:00 AM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/482.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/482.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Wednesday, March 19, 2025 8:00 AM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/482.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/FIN/Final/490.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Government Affairs",
+        "date": "Wednesday, March 5, 2025 3:30 PM",
+        "recommendation": "Mentioned Not Agendized",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GA/Final/423.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/GA/Final/423.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Tuesday, February 25, 2025 8:00 AM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/254.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/FIN/Final/254.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Tuesday, February 25, 2025 8:00 AM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/254.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/246.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Government Affairs",
+        "date": "Wednesday, February 19, 2025 8:00 AM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GA/Final/228.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/GA/Final/228.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Revenue",
+        "date": "Thursday, February 6, 2025 4:00 PM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/REV/Final/115.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/REV/Final/115.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Revenue and Economic Development",
+        "date": "Thursday, February 6, 2025 1:00 PM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/RED/Final/90.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/RED/Final/90.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Commerce and Labor",
+        "date": "Wednesday, February 5, 2025 1:30 PM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/CL/Final/83.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/CL/Final/83.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Commerce and Labor",
+        "date": "Wednesday, February 5, 2025 8:00 AM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/CL/Final/59.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/CL/Final/59.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Senate Finance",
+        "date": "Wednesday, February 5, 2025 8:00 AM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/25.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Senate/FIN/Final/25.pdf",
+        "is_work_session": false
+      },
+      {
+        "committee": "Assembly Ways and Means",
+        "date": "Wednesday, February 5, 2025 8:00 AM",
+        "recommendation": "Mentioned no jurisdiction",
+        "minutes_url": "https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/25.pdf",
+        "agenda_url": "https://www.leg.state.nv.us/Session/83rd2025/Agendas/Assembly/WM/Final/27.pdf",
+        "is_work_session": false
+      }
+    ],
+    "collected_at": "2026-07-17T17:47:14.957381+00:00"
   }
 }

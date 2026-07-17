@@ -9,7 +9,28 @@
   {
     "topic": "openstates_detail",
     "session": "80",
+    "bill_identifier": "AB190",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "AB21",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
     "bill_identifier": "AB233",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "AB240",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -23,6 +44,13 @@
   {
     "topic": "openstates_detail",
     "session": "80",
+    "bill_identifier": "AB275",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
     "bill_identifier": "AB30",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -30,7 +58,70 @@
   {
     "topic": "openstates_detail",
     "session": "80",
+    "bill_identifier": "AB319",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "AB32",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "AB36",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "AB400",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "AB413",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "AB466",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "AB504",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
     "bill_identifier": "AB51",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "AB537",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "AB541",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -45,6 +136,13 @@
     "topic": "openstates_detail",
     "session": "80",
     "bill_identifier": "AB95",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "SB14",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -86,6 +184,20 @@
   {
     "topic": "openstates_detail",
     "session": "80",
+    "bill_identifier": "SB280",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "SB298",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
     "bill_identifier": "SB423",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -101,6 +213,13 @@
     "topic": "openstates_detail",
     "session": "80",
     "bill_identifier": "SB47",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "SB495",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -128,7 +247,21 @@
   {
     "topic": "openstates_detail",
     "session": "80",
+    "bill_identifier": "SB519",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
     "bill_identifier": "SB547",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "SB56",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -156,6 +289,20 @@
   {
     "topic": "openstates_detail",
     "session": "81",
+    "bill_identifier": "AB184",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "AB31",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
     "bill_identifier": "AB333",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -171,6 +318,13 @@
     "topic": "openstates_detail",
     "session": "81",
     "bill_identifier": "AB356",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "AB449",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -198,6 +352,20 @@
   {
     "topic": "openstates_detail",
     "session": "81",
+    "bill_identifier": "AB66",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "AB97",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
     "bill_identifier": "AJR2",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -206,6 +374,20 @@
     "topic": "openstates_detail",
     "session": "81",
     "bill_identifier": "AJR3",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "SB10",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "SB14",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -247,7 +429,56 @@
   {
     "topic": "openstates_detail",
     "session": "81",
+    "bill_identifier": "SB283",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "SB297",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
     "bill_identifier": "SB33",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "SB338",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "SB395",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "SB430",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "SB442",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "SB64",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -269,6 +500,13 @@
     "topic": "openstates_detail",
     "session": "81",
     "bill_identifier": "SJR1",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "AB131",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -324,6 +562,13 @@
   {
     "topic": "openstates_detail",
     "session": "82",
+    "bill_identifier": "AB313",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
     "bill_identifier": "AB325",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -345,7 +590,42 @@
   {
     "topic": "openstates_detail",
     "session": "82",
+    "bill_identifier": "AB419",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "AB445",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "AB449",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
     "bill_identifier": "AB470",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "AB490",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "AB519",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -360,6 +640,20 @@
     "topic": "openstates_detail",
     "session": "82",
     "bill_identifier": "AB91",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "AB97",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "AJR3",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -387,6 +681,20 @@
   {
     "topic": "openstates_detail",
     "session": "82",
+    "bill_identifier": "SB115",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "SB169",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
     "bill_identifier": "SB176",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -401,7 +709,56 @@
   {
     "topic": "openstates_detail",
     "session": "82",
+    "bill_identifier": "SB210",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "SB257",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
     "bill_identifier": "SB258",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "SB261",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "SB394",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "SB404",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "SB429",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "SB431",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -429,7 +786,28 @@
   {
     "topic": "openstates_detail",
     "session": "82",
+    "bill_identifier": "SB96",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "SB99",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
     "bill_identifier": "SJR3",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "AB1",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -513,6 +891,13 @@
   {
     "topic": "openstates_detail",
     "session": "83",
+    "bill_identifier": "AB377",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
     "bill_identifier": "AB385",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -520,7 +905,28 @@
   {
     "topic": "openstates_detail",
     "session": "83",
+    "bill_identifier": "AB397",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
     "bill_identifier": "AB419",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "AB447",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "AB449",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -541,7 +947,63 @@
   {
     "topic": "openstates_detail",
     "session": "83",
+    "bill_identifier": "AB491",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "AB506",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "AB528",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "AB592",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "AB594",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "AB70",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "AB77",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
     "bill_identifier": "AB9",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "AJR13",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -590,7 +1052,21 @@
   {
     "topic": "openstates_detail",
     "session": "83",
+    "bill_identifier": "SB326",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
     "bill_identifier": "SB342",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "SB355",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -604,7 +1080,35 @@
   {
     "topic": "openstates_detail",
     "session": "83",
+    "bill_identifier": "SB364",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
     "bill_identifier": "SB43",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "SB430",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "SB442",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "SB461",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -616,9 +1120,44 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "SB55",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "SB6",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "SB69",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "SB71",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "SB78",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
     "topic": "voter_party",
-    "session": "all",
-    "result": "complete",
-    "notes": "All roll-call voter names matched to a party via legislator roster"
+    "session": "multi",
+    "result": "partial",
+    "notes": "16 unique voter names still lack party after NELIS roster (+ Ballotpedia fallback): -Axelrod, Bilbray, Assefa, Alex, Dy, Har, Gansert, Heidi Seevers, Gansert, Seevers, Hatch, Selena La Rue, II, Gregory T. Hafen, II, Max Carter, II, Max E. Carter, Loop, Marilyn Dondero, Miller, C.H., O'Gara, Heidi Seevers, O'Neill, O\u2019Neill, P.K., Thompson, Benitez-, Tus, Ti"
   }
 ]

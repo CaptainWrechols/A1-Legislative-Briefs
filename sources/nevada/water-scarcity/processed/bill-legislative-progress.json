@@ -32,6 +32,68 @@
   },
   {
     "session": "80",
+    "bill_identifier": "AB190",
+    "title": "AN ACT relating to construction; revising the requirements pursuant to which a contractor or subcontractor engaged on a public work may discharge his or her obligation to pay prevailing wages to workers; revising provisions relating to the determination of the prevailing wages by the Labor Commissioner and the duration of such rates on a public work; prohibiting a public body from using a reverse auction when awarding a contract for public work; clarifying the application of prevailing wage requirements to certain construction projects that are not public works; eliminating certain prohibitions relating to agreements with labor organizations concerning contracts with a public body for a public work or with an awardee of certain grants, tax abatements, tax credits or tax exemptions from a public body; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 132.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6293/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB21",
+    "title": "AN ACT relating to local governing bodies; authorizing, under certain circumstances, a board of county commissioners in certain counties to appoint members of certain local governing bodies; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 136.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5918/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
     "bill_identifier": "AB233",
     "title": "Revises provisions related to water. (BDR 48-45)",
     "origin_chamber": "lower",
@@ -55,6 +117,37 @@
     "final_disposition": "Enacted",
     "most_recent_action": "Chapter 155.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6409/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB240",
+    "title": "AN ACT relating to regional planning; requiring representatives from certain counties and cities to meet jointly for a specified period to identify issues and make recommendations regarding the orderly management of growth in their region; requiring such counties, in consultation with such cities, to prepare certain reports individually and jointly during that period; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 144.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6429/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -94,6 +187,37 @@
   },
   {
     "session": "80",
+    "bill_identifier": "AB275",
+    "title": "AN ACT relating to licensing; prohibiting a regulatory body from denying licensure of an applicant based on his or her immigration or citizenship status; authorizing an applicant for a professional or occupational license who does not have a social security number to provide an individual taxpayer identification number; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 627.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6498/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
     "bill_identifier": "AB30",
     "title": "Revises provisions governing water. (BDR 48-214)",
     "origin_chamber": "lower",
@@ -125,6 +249,223 @@
   },
   {
     "session": "80",
+    "bill_identifier": "AB319",
+    "title": "AN ACT relating to professional licensing; authorizing a person to petition a professional or occupational licensing board for a determination of whether the person's criminal history will disqualify him or her from obtaining a license; requiring a professional or occupational licensing board to implement a process for such a petition; establishing certain requirements for such process; requiring a professional or occupational licensing board to make a quarterly report to the Legislative Counsel Bureau with certain information; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 491.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6580/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB32",
+    "title": "AN ACT relating to workforce development; authorizing certain nonprofit entities to participate in certain programs of workforce recruitment, assessment and training; authorizing the training of existing employees of an employer as part of certain programs of workforce recruitment, assessment and training; revising provisions governing the application process for a provider of such a program or a business that wishes to participate in such a program; revising provisions governing certain funding which is available to defray the cost of such a program; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(No further action taken.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5932/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB36",
+    "title": "Revises provisions governing the partial abatement of various taxes imposed on aircraft, components of aircraft and other personal property related to aircraft. (BDR 32-330)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5936/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB400",
+    "title": "Revises provisions governing economic development. (BDR 22-803)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 359.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6765/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB413",
+    "title": "AN ACT relating to local governments; providing that certain actions taken by a governing body of a local government are void if the actions are taken before the governing body considers the impact on business; revising the definition of \u201clocal government\u201d; revising the meeting at which a governing body is required to consider a business impact statement; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 165.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6789/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB466",
+    "title": "Requires the creation of a pilot program to facilitate certain financial transactions relating to marijuana. (BDR 18-870)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 403.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6890/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB504",
+    "title": "AN ACT making appropriations to the State Department of Agriculture for the purchase of replacement vehicles and the purchase and replacement of laboratory equipment; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Enrolled and delivered to Governor. Approved by the Governor. Chapter 445.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7006/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
     "bill_identifier": "AB51",
     "title": "Revises provisions governing the management of water. (BDR 48-213)",
     "origin_chamber": "lower",
@@ -148,6 +489,68 @@
     "final_disposition": "Failed",
     "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5951/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB537",
+    "title": "AN ACT relating to the State Department of Conservation and Natural Resources; providing that the State Department of Conservation and Natural Resources and the Division of Environmental Protection of the Department are authorized to impose remedies other than civil penalties for violations of certain environmental laws; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 609.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7063/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB541",
+    "title": "AN ACT relating to projects of capital improvement; authorizing certain expenditures by the State Public Works Division of the Department of Administration; levying a property tax to support the Consolidated Bond Interest and Redemption Fund; making appropriations; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 542.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7075/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -210,6 +613,37 @@
     "final_disposition": "Enacted",
     "most_recent_action": "Approved by the Governor. Chapter 304.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6082/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB14",
+    "title": "AN ACT relating to governmental administration; authorizing the Governor to remove certain gubernatorial appointees to boards, commissions or similar bodies under certain circumstances; authorizing the Governor to remove appeals officers under certain circumstances; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 274.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5873/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -373,6 +807,68 @@
   },
   {
     "session": "80",
+    "bill_identifier": "SB280",
+    "title": "AN ACT relating to state lands; defining certain terms related to state lands; establishing certain fees for the use of state lands; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6487/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB298",
+    "title": "Revises provisions relating to partial tax abatements for certain renewable energy facilities. (BDR 58-908)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 214.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6529/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
     "bill_identifier": "SB423",
     "title": "Revises provisions governing certain watercraft. (BDR 43-962)",
     "origin_chamber": "upper",
@@ -458,6 +954,37 @@
     "final_disposition": "Failed",
     "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5966/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB495",
+    "title": "AN ACT relating to small businesses; creating the Office of the Small Business Advocate within the Office of the Lieutenant Governor; authorizing the Lieutenant Governor to employ and appoint personnel to the Office of the Small Business Advocate; requiring the Office of the Small Business Advocate to coordinate with state agencies and local governments under certain circumstances; authorizing the Office of the Small Business Advocate to review certain requests for assistance related to small businesses; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(No further action taken.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6955/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -559,6 +1086,37 @@
   },
   {
     "session": "80",
+    "bill_identifier": "SB519",
+    "title": "AN ACT making an appropriation to the Office of Finance for a Snowcat vehicle for winter access to the pump house and dam at Marlette Lake; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Enrolled and delivered to Governor. Approved by the Governor. Chapter 466.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6991/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
     "bill_identifier": "SB547",
     "title": "Revises provisions relating to providers of new electric resources. (BDR 58-913)",
     "origin_chamber": "upper",
@@ -582,6 +1140,37 @@
     "final_disposition": "Enacted",
     "most_recent_action": "Chapter 556.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7057/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SB56",
+    "title": "AN ACT relating to natural resources; revising provisions related to the protection of flora; revising certain definitions related to the protection of trees and flora and to forest practice and reforestation; revising provisions relating to a written plan for a prescribed fire; revising the information required to be included in an application for a logging permit; revising provisions regarding logging operations; authorizing the suspension or revocation of a logging permit for operating ground-based equipment on saturated soil; revising the requirements for the performance bond which must accompany an application for a timberland conversion certificate; eliminating the requirement that the State Forester Firewarden cause a decennial report to be created regarding certain renewable natural resources in the State; eliminating the authority of the State Forester Firewarden to reduce the required amount for certain performance bonds; making various other changes relating to forestry; providing a penalty; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 135.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5975/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -683,6 +1272,68 @@
   },
   {
     "session": "81",
+    "bill_identifier": "AB184",
+    "title": "AN ACT relating to small businesses; temporarily creating the Office of Small Business Advocacy within the Office of the Lieutenant Governor; setting forth the powers and duties of the Office of Small Business Advocacy; authorizing the Office of Small Business Advocacy to accept gifts, grants and contributions; providing that the records of the Office of Small Business Advocacy are confidential; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 240.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7569/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB31",
+    "title": "AN ACT relating to substances regulated by the State Department of Agriculture; requiring the State Board of Agriculture to adopt standards for diesel exhaust fluid; prohibiting certain commercial activities relating to diesel exhaust fluid in certain circumstances; transferring the duty to adopt standards for aviation fuel from the State Sealer of Consumer Equitability to the Board; requiring the Board to adopt standards for petroleum heating products, not including liquefied petroleum gas and natural gas; revising provisions relating to the storage and disposal of petroleum products; eliminating certain powers and duties of the State Sealer of Consumer Equitability relating to petroleum products; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 32.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7282/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
     "bill_identifier": "AB333",
     "title": "Makes changes to provisions relating to land use planning. (BDR 22-357)",
     "origin_chamber": "lower",
@@ -768,6 +1419,37 @@
     "final_disposition": "Enacted",
     "most_recent_action": "Approved by the Governor. Chapter 364.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7910/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB449",
+    "title": "Revises provisions governing economic development. (BDR 32-359)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8123/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -869,6 +1551,68 @@
   },
   {
     "session": "81",
+    "bill_identifier": "AB66",
+    "title": "Revises provisions relating to the abatement of certain taxes. (BDR 32-266)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 383.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7319/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "AB97",
+    "title": "AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 112.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7397/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
     "bill_identifier": "AJR2",
     "title": "Recognizes that the health of forests, rangelands and soils are inextricably linked to the quantity and quality of water. (BDR R-112)",
     "origin_chamber": "lower",
@@ -923,6 +1667,68 @@
     "final_disposition": "In Progress",
     "most_recent_action": "Enrolled and delivered to Secretary of State. File No. 30.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7487/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB10",
+    "title": "Revises provisions relating to taxation. (BDR 32-435)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7185/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB14",
+    "title": "AN ACT relating to emergency management; revising requirements relating to the distribution by the Division of Emergency Management of the Department of Public Safety of a written guide to assist a person or governmental entity required to file certain emergency response plans; expanding the types of services regarding which certain utilities are required to develop and submit vulnerability assessments and emergency response plans; requiring certain state agencies to coordinate with the Division of Emergency Management to annually compile a list of each utility and provider of new electric resources required to submit a vulnerability assessment and emergency response plan; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "(No further action taken.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7189/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -1086,6 +1892,68 @@
   },
   {
     "session": "81",
+    "bill_identifier": "SB283",
+    "title": "AN ACT relating to local improvements; authorizing a municipality to create a district for certain qualified improvement projects; setting forth the requirements for creating such a district; authorizing certain financing to pay for a qualified improvement project in such a district; making various other changes relating to local improvements; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 499.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7879/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB297",
+    "title": "Revises provisions relating to agriculture. (BDR 22-480)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 333.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7901/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
     "bill_identifier": "SB33",
     "title": "Revises certain provisions relating to natural resource management. (BDR 47-312)",
     "origin_chamber": "upper",
@@ -1109,6 +1977,161 @@
     "final_disposition": "Enacted",
     "most_recent_action": "Chapter 145.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7208/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB338",
+    "title": "Revises provisions governing partial tax abatements for certain renewable energy facilities. (BDR 32-560)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7975/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB395",
+    "title": "Revises provisions governing the funding of capital projects by school districts in certain counties. (BDR 34-815)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(No further action taken.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8100/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB430",
+    "title": "AN ACT relating to infrastructure; revising provisions governing the establishment of the Nevada Infrastructure Bank; revising provisions governing eligibility to receive loans and other financial assistance from the Bank; expanding the types of projects for which financial assistance from the Bank is available; revising provisions governing the membership, duties and powers of the Board of Directors of the Bank; authorizing certain governmental agencies to provide technical advice, support and assistance to the Bank; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 553.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8161/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB442",
+    "title": "Prospectively eliminates the program to provide a partial abatement of property taxes for certain buildings and structures which meet certain energy efficiency standards. (BDR 58-1070)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 343.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8193/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB64",
+    "title": "Revises provisions relating to taxation. (BDR 32-408)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7249/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -1202,6 +2225,37 @@
     "final_disposition": "Failed",
     "most_recent_action": "(Pursuant to Joint Standing Rule 14.3.1, no further action allowed.)",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7333/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB131",
+    "title": "AN ACT relating to forestry; creating the Urban and Community Forestry Program within the Division of Forestry of the State Department of Conservation and Natural Resources; setting forth the powers and duties of the State Forester Firewarden and the Division relating to the Program; authorizing the State Forester Firewarden to award grants to promote urban and community forestry; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 74.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9781/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -1427,6 +2481,37 @@
   },
   {
     "session": "82",
+    "bill_identifier": "AB313",
+    "title": "AN ACT relating to mining; revising provisions relating to the reclamation of exploration projects and mining operations; revising requirements relating to a plan for reclamation; requiring certain state agencies to prepare reports relating to certain impacts of pit lakes and mining; providing a penalty; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(No further action taken.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10165/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
     "bill_identifier": "AB325",
     "title": "Revises provisions relating to water. (BDR 48-915)",
     "origin_chamber": "lower",
@@ -1520,6 +2605,99 @@
   },
   {
     "session": "82",
+    "bill_identifier": "AB419",
+    "title": "Revises provisions governing tax abatements for certain renewable energy facilities. (BDR 58-741)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.2, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10384/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB445",
+    "title": "Revises provisions relating to the mental health of children. (BDR 32-1004)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(No further action taken.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10444/Overview",
+    "openstates_url": "https://openstates.org/nv/bills/82/AB445/",
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB449",
+    "title": "Authorizes a credit or refund of property taxes under certain circumstances when an applicable partial abatement of taxes was not applied or claimed. (BDR 32-767)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(No further action taken.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10449/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
     "bill_identifier": "AB470",
     "title": "Makes an appropriation to the State Public Works Division of the Department of Administration for professional services and filing fees related to water rights associated with the Marlette Lake Water System. (BDR S-1127)",
     "origin_chamber": "lower",
@@ -1544,6 +2722,68 @@
     "most_recent_action": "Chapter 296.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10500/Overview",
     "openstates_url": "https://openstates.org/nv/bills/82/AB470/",
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB490",
+    "title": "Authorizes the establishment of academic medical districts. (BDR 22-586)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(No further action taken.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10545/Overview",
+    "openstates_url": "https://openstates.org/nv/bills/82/AB490/",
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB519",
+    "title": "Establishes provisions governing capital projects of school districts. (BDR 34-1202)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 393.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10608/Overview",
+    "openstates_url": null,
     "sources": {
       "nelis": true,
       "openstates": false
@@ -1605,6 +2845,68 @@
     "final_disposition": "Enacted",
     "most_recent_action": "Approved by the Governor. Chapter 143.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9682/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AB97",
+    "title": "AN ACT relating to government administration; providing, with certain exceptions, that governmental entities shall not prohibit the use of certain refrigerants; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": true,
+      "failed": true
+    },
+    "final_disposition": "Vetoed",
+    "most_recent_action": "(No further action taken.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9690/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "AJR3",
+    "title": "Proposing to amend the Nevada Constitution to establish certain rights relating to the environment.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9946/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -1706,6 +3008,68 @@
   },
   {
     "session": "82",
+    "bill_identifier": "SB115",
+    "title": "AN ACT relating to counties; revising provisions relating to compensatory mitigation for losses of aquatic resources; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 111.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9761/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB169",
+    "title": "AN ACT relating to land use planning; requiring certain local governments to include a heat mitigation element in master plans; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": true,
+      "failed": false
+    },
+    "final_disposition": "Vetoed",
+    "most_recent_action": "No further consideration.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9883/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
     "bill_identifier": "SB176",
     "title": "Establishes provisions relating to the conservation of groundwater. (BDR 48-79)",
     "origin_chamber": "upper",
@@ -1768,6 +3132,68 @@
   },
   {
     "session": "82",
+    "bill_identifier": "SB210",
+    "title": "AN ACT relating to governmental administration; declaring that the public policy of the State of Nevada includes that persons appointed to certain public bodies by the Governor should reflect the diversity of the State; requiring certain public bodies to submit lists of qualified persons to the Governor to fill vacancies on a board, commission or similar body within 60 days after the vacancy occurs; revising the manner in which the Chair and Vice Chair of the Sunset Subcommittee of the Legislative Commission are selected; modifying reporting requirements by certain licensing boards and other regulatory bodies concerning the criminal histories of certain applicants; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": true,
+      "failed": false
+    },
+    "final_disposition": "Vetoed",
+    "most_recent_action": "No further consideration.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9985/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB257",
+    "title": "AN ACT relating to energy; revising provisions governing payroll reporting by certain renewable energy facilities that receive certain tax abatements; revising provisions governing compliance reports submitted to the Director of the Office of Energy within the Office of the Governor by certain renewable energy facilities that receive certain tax abatements; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 121.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10088/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
     "bill_identifier": "SB258",
     "title": "Revises provisions relating to water. (BDR 48-889)",
     "origin_chamber": "upper",
@@ -1792,6 +3218,161 @@
     "most_recent_action": "Approved by the Governor. Chapter 122.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10090/Overview",
     "openstates_url": "https://openstates.org/nv/bills/82/SB258/",
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB261",
+    "title": "AN ACT relating to local governments; revising the definitions of the terms \u201cbusiness\u201d and \u201clocal government\u201d for purposes of provisions relating to the adoption of rules by local governments that affect businesses; revising the notice requirements relating to the adoption of such rules; requiring the governing body of a local government to hold a workshop before the adoption of such rules in certain circumstances; revising the requirements for a business impact statement; revising provisions relating to when an action of the governing body of a local government to adopt rules that affect local governments is void; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 124.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10095/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB394",
+    "title": "Revises provisions governing abatements and partial abatements of certain taxes. (BDR 32-603)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.3, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10377/Overview",
+    "openstates_url": "https://openstates.org/nv/bills/82/SB394/",
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB404",
+    "title": "AN ACT relating to elections; revising provisions relating to the challenge of a person applying to vote; authorizing a county or city clerk to order that the count of returns for early voting begin on or after the first day of early voting; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": true,
+      "failed": false
+    },
+    "final_disposition": "Vetoed",
+    "most_recent_action": "No further consideration.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10411/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB429",
+    "title": "Requires certain new or expanding businesses to provide certain family and medical leave to employees in order to qualify for a partial abatement of certain taxes. (BDR 32-680)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": true,
+      "failed": false
+    },
+    "final_disposition": "Vetoed",
+    "most_recent_action": "No further consideration.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10438/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB431",
+    "title": "AN ACT relating to governmental administration; revising the duties of the Chief Information Officer; providing for the appointment and prescribing the duties of a Chief Innovation Officer; creating the Office of Nevada Boards, Commissions and Councils Standards within the Department of Business and Industry and prescribing the duties and responsibilities of the Office with respect to professional and occupational licensing boards; prohibiting, with certain exception, an appointing authority from executing any contract for employment with any state employee; requiring the Administrator of the Division of Human Resource Management of the Department of Administration to develop certain audit functions and centralized systems relating to the Human Resources System of the State; renaming the Personnel System, the Personnel Commission and the Personnel Operating Fund; revising provisions relating to classified positions; revising provisions governing the approval of work programs and allotments; revising provisions relating to the approval and acceptance of grants by state agencies; transferring the duties of the Division of Enterprise Information Technology Services of the Department of Administration and the Administrator of the Division to the Office of the Chief Information Officer and the Chief of the Office of the Chief Information Officer; transferring money from the State General Fund to the Account to Stabilize the Operation of the State Government; making an appropriation; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 532.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10447/Overview",
+    "openstates_url": null,
     "sources": {
       "nelis": true,
       "openstates": false
@@ -1892,6 +3473,68 @@
   },
   {
     "session": "82",
+    "bill_identifier": "SB96",
+    "title": "Revises provisions relating to taxation. (BDR 32-374)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9715/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB99",
+    "title": "Makes an appropriation to the Desert Research Institute of the Nevada System of Higher Education to support the Nevada State Cloud Seeding Program. (BDR S-592)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 401.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9720/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
     "bill_identifier": "SJR3",
     "title": "Urges the United States Bureau of Reclamation to consider certain actions, alternatives and measures for the protection and management of the Colorado River. (BDR R-349)",
     "origin_chamber": "upper",
@@ -1916,6 +3559,37 @@
     "most_recent_action": "Enrolled and delivered to Secretary of State. File No. 31.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9995/Overview",
     "openstates_url": "https://openstates.org/nv/bills/82/SJR3/",
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB1",
+    "title": "AN ACT relating to public lands; declaring void certain regulations relating to the development and disposal of land in the Fort Mohave Valley; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 60.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11742/Overview",
+    "openstates_url": null,
     "sources": {
       "nelis": true,
       "openstates": false
@@ -2264,6 +3938,37 @@
   },
   {
     "session": "83",
+    "bill_identifier": "AB377",
+    "title": "Revises provisions relating to real property. (BDR 32-923)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 175.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12519/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
     "bill_identifier": "AB385",
     "title": "Revises provisions relating to governmental administration. (BDR 22-851)",
     "origin_chamber": "lower",
@@ -2295,6 +4000,37 @@
   },
   {
     "session": "83",
+    "bill_identifier": "AB397",
+    "title": "AN ACT relating to higher education; revising provisions governing certain waivers of fees provided by the Board of Regents of the University of Nevada; revising the criteria of eligibility for a waiver of fees by the Board of Regents for certain persons who are or were unaccompanied for a certain period of time; revising the criteria of eligibility for a waiver of fees by the Board of Regents for certain Native American students; providing for the continuity of waivers previously provided for certain Native American students; repealing certain provisions requiring the Chancellor of the Nevada System of Higher Education to cause to be analyzed certain natural materials upon the request of a resident of this State; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": true,
+      "failed": false
+    },
+    "final_disposition": "Vetoed",
+    "most_recent_action": "Vetoed by the Governor.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12562/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
     "bill_identifier": "AB419",
     "title": "Revises provisions relating to water. (BDR 48-736)",
     "origin_chamber": "lower",
@@ -2319,6 +4055,68 @@
     "most_recent_action": "(No further action taken.)",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12606/Overview",
     "openstates_url": "https://openstates.org/nv/bills/83/AB419/",
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB447",
+    "title": "Provides for a partial abatement of the property taxes levied on certain residential rental dwellings. (BDR 32-1079)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12655/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB449",
+    "title": "AN ACT relating to public utilities; revising provisions governing certain procedures or methodologies for changing rates or fees for certain public utilities; revising provisions authorizing certain public utilities to submit letters of advice for certain proposed changes in schedules of rates or services in lieu of filing an application with the Public Utilities Commission of Nevada; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 150.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12657/Overview",
+    "openstates_url": null,
     "sources": {
       "nelis": true,
       "openstates": false
@@ -2388,6 +4186,223 @@
   },
   {
     "session": "83",
+    "bill_identifier": "AB491",
+    "title": "AN ACT relating to elections; requiring a county or city clerk to provide certain information or data relating to the current election cycle within a certain period of time; revising qualifications for certain elected public officers to require such officers to be registered to vote in this State; revising provisions governing a declaration of candidacy and declaration of residency; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 323.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12756/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB506",
+    "title": "AN ACT relating to governmental administration; eliminating certain reporting requirements to the Legislative Branch of State Government; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 153.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12797/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB528",
+    "title": "Revises provisions relating to property tax abatements for certain buildings and structures which meet certain energy efficiency standards. (BDR 58-425)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(No further action taken.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12819/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB592",
+    "title": "AN ACT relating to public employees; establishing the maximum allowed salaries for certain state employees; revising provisions relating to the compensation of employees of the Senate and Assembly; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 59.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12955/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB594",
+    "title": "Revises provisions relating to taxation. (BDR 32-1130)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 508.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12957/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB70",
+    "title": "Revises provisions related to energy. (BDR 58-454)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 19.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11885/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB77",
+    "title": "Revises provisions governing tax abatements for certain businesses. (BDR 32-282)",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11897/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
     "bill_identifier": "AB9",
     "title": "Revises provisions relating to water. (BDR 48-391)",
     "origin_chamber": "lower",
@@ -2412,6 +4427,37 @@
     "most_recent_action": "(No further action taken.)",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11759/Overview",
     "openstates_url": "https://openstates.org/nv/bills/83/AB9/",
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AJR13",
+    "title": "Urging the Federal Government to maintain the moratorium on the testing of explosive nuclear weapons.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "In Progress",
+    "most_recent_action": "Enrolled and delivered to Secretary of State. File No. 21.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12648/Overview",
+    "openstates_url": null,
     "sources": {
       "nelis": true,
       "openstates": false
@@ -2605,6 +4651,37 @@
   },
   {
     "session": "83",
+    "bill_identifier": "SB326",
+    "title": "AN ACT relating to public utilities; requiring certain public utilities to submit to the Public Utilities Commission of Nevada an annual report relating to the infrastructure of the public utility; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 199.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12570/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
     "bill_identifier": "SB342",
     "title": "Revises provisions relating to water. (BDR 48-940)",
     "origin_chamber": "upper",
@@ -2629,6 +4706,37 @@
     "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12600/Overview",
     "openstates_url": "https://openstates.org/nv/bills/83/SB342/",
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB355",
+    "title": "Revises provisions governing partial abatements of taxes for certain renewable energy facilities. (BDR 58-939)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12622/Overview",
+    "openstates_url": null,
     "sources": {
       "nelis": true,
       "openstates": false
@@ -2667,6 +4775,37 @@
   },
   {
     "session": "83",
+    "bill_identifier": "SB364",
+    "title": "Revises provisions relating to economic development. (BDR 32-799)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(No further action taken.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12658/Overview",
+    "openstates_url": "https://openstates.org/nv/bills/83/SB364/",
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
     "bill_identifier": "SB43",
     "title": "Revises provisions relating to public health and safety. (BDR 40-264)",
     "origin_chamber": "upper",
@@ -2698,6 +4837,99 @@
   },
   {
     "session": "83",
+    "bill_identifier": "SB430",
+    "title": "Revises provisions relating to taxation. (BDR 32-693)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12778/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB442",
+    "title": "AN ACT relating to public utilities; requiring the Public Utilities Commission of Nevada to adopt regulations to require a public utility to make available to the public certain reports containing information regarding terminations of utility service to residential customers; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 453.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12795/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB461",
+    "title": "Revises provisions relating to economic development. (BDR 32-1070)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(No further action taken.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12864/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
     "bill_identifier": "SB466",
     "title": "Revises provisions governing the authority of the State Department of Agriculture relating to food and water. (BDR 51-1121)",
     "origin_chamber": "upper",
@@ -2722,6 +4954,161 @@
     "most_recent_action": "Chapter 512.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12889/Overview",
     "openstates_url": "https://openstates.org/nv/bills/83/SB466/",
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB55",
+    "title": "AN ACT relating to tourism; requiring the Commission on Tourism to develop and administer a grant program relating to agritourism; defining certain terms relating to agritourism; requiring the Director of the State Department of Agriculture to adopt regulations establishing the types of businesses that qualify as agritourism; requiring the Department to carry out certain marketing and outreach duties relating to agritourism; authorizing the Director to issue special use permits relating to agritourism under certain circumstances; establishing certain provisions relating to the liability of operators of businesses engaged in agritourism; making appropriations; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11847/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB6",
+    "title": "Makes an appropriation to the Desert Research Institute of the Nevada System of Higher Education to support the Nevada State Cloud Seeding Program. (BDR S-389)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 434.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11743/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB69",
+    "title": "Revises provisions relating to economic development. (BDR 32-369)",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 334.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11869/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB71",
+    "title": "AN ACT relating to governmental administration; requiring certain public entities to post certain information relating to purchasing on their Internet websites; revising the duties of the Commission to Study Governmental Purchasing; abolishing the Regional Business Development Advisory Council for Clark County; eliminating a requirement that institutions of the Nevada System of Higher Education provide certain mentoring to certain businesses participating in the NV Grow Program; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": true,
+      "failed": false
+    },
+    "final_disposition": "Vetoed",
+    "most_recent_action": "Vetoed by the Governor.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11878/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB78",
+    "title": "AN ACT relating to governmental administration; revising in skeleton form the powers and duties of the Office of Nevada Boards, Commissions and Councils Standards of the Department of Business and Industry; making various changes in skeleton form to the composition and operation of various boards, commissions, councils and similar bodies; providing in skeleton form for the consolidation and termination of various boards, commissions, councils and similar bodies; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(No further action taken.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11891/Overview",
+    "openstates_url": null,
     "sources": {
       "nelis": true,
       "openstates": false
