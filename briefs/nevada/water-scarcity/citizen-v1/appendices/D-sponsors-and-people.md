@@ -1,256 +1,139 @@
-# Appendix D — Sponsors and People
+# Appendix D — Sponsors and people
 
-This appendix lists who put their names on the 88 bills in the set. A *primary* sponsor introduces and carries a bill; *co-sponsors* add their names in support. About half the set (45 of 88 bills) was introduced by legislative committees rather than individual legislators — committee rows say "Committee" in the last column. These are counts of who introduced what; they carry no judgment about any legislator's effectiveness or intent.
+A sponsor is the lawmaker or committee that puts a bill forward. Party letters follow official legislative rosters. Policy bills only.
 
+Committee-sponsored: **50** · Person-sponsored: **50**
 
-<!-- pdf-page-break -->
+## Frequent primary sponsors
 
-## 2019 session — all sponsors
-
-| Year | Bill | Role | Name | Party | Person or committee |
-|---|---|---|---|---|---|
-| 2019 | AB163 | Primary | Howard Watts | Democratic | Person |
-| 2019 | AB163 | Primary | Chris Brooks | Democratic | Person |
-| 2019 | AB163 | Co-sponsor | Lesley Cohen | Democratic | Person |
-| 2019 | AB163 | Co-sponsor | Rochelle Nguyen | Democratic | Person |
-| 2019 | AB163 | Co-sponsor | Sarah Peters | Democratic | Person |
-| 2019 | AB163 | Co-sponsor | Heidi Swank | Democratic | Person |
-| 2019 | AB163 | Co-sponsor | Melanie Scheible | Democratic | Person |
-| 2019 | AB233 | Primary | Al Kramer | Republican | Person |
-| 2019 | AB233 | Primary | Melissa Hardy | Republican | Person |
-| 2019 | AB233 | Primary | Pete Goicoechea | Republican | Person |
-| 2019 | AB233 | Primary | David Parks | Democratic | Person |
-| 2019 | AB233 | Co-sponsor | Gregory Hafen | Republican | Person |
-| 2019 | AB233 | Co-sponsor | James Settelmeyer | Republican | Person |
-| 2019 | AB265 | Primary | Sarah Peters | Democratic | Person |
-| 2019 | AB265 | Primary | Heidi Swank | Democratic | Person |
-| 2019 | AB265 | Primary | Howard Watts | Democratic | Person |
-| 2019 | AB265 | Primary | Chris Brooks | Democratic | Person |
-| 2019 | AB265 | Primary | Pete Goicoechea | Republican | Person |
-| 2019 | AB265 | Co-sponsor | Melanie Scheible | Democratic | Person |
-| 2019 | AB30 | Primary | Assembly Natural Resources, Agriculture, and Mining | — | Committee |
-| 2019 | AB51 | Primary | Assembly Natural Resources, Agriculture, and Mining | — | Committee |
-| 2019 | AB62 | Primary | Assembly Natural Resources, Agriculture, and Mining | — | Committee |
-| 2019 | AB95 | Primary | Assembly Natural Resources, Agriculture, and Mining | — | Committee |
-| 2019 | SB140 | Primary | Senate Natural Resources | — | Committee |
-| 2019 | SB150 | Primary | Pete Goicoechea | Republican | Person |
-| 2019 | SB150 | Primary | James Settelmeyer | Republican | Person |
-| 2019 | SB150 | Primary | Joseph Hardy | Republican | Person |
-| 2019 | SB150 | Primary | John Ellison | Republican | Person |
-| 2019 | SB150 | Co-sponsor | Ira Hansen | Republican | Person |
-| 2019 | SB232 | Primary | James Settelmeyer | Republican | Person |
-| 2019 | SB236 | Primary | Pete Goicoechea | Republican | Person |
-| 2019 | SB236 | Primary | Chris Brooks | Democratic | Person |
-| 2019 | SB236 | Co-sponsor | Ira Hansen | Republican | Person |
-| 2019 | SB250 | Primary | James Settelmeyer | Republican | Person |
-| 2019 | SB250 | Primary | Pete Goicoechea | Republican | Person |
-| 2019 | SB250 | Primary | Joseph Hardy | Republican | Person |
-| 2019 | SB250 | Co-sponsor | Ira Hansen | Republican | Person |
-| 2019 | SB250 | Co-sponsor | Heidi Seevers Gansert | Republican | Person |
-| 2019 | SB423 | Primary | James Ohrenschall | Democratic | Person |
-| 2019 | SB433 | Primary | Senate Judiciary | — | Committee |
-| 2019 | SB47 | Primary | Senate Natural Resources | — | Committee |
-| 2019 | SB499 | Primary | Senate Finance | — | Committee |
-| 2019 | SB507 | Primary | Senate Finance | — | Committee |
-| 2019 | SB509 | Primary | Senate Finance | — | Committee |
-| 2019 | SB547 | Primary | Chris Brooks | Democratic | Person |
-| 2019 | SB547 | Primary | Nicole Cannizzaro | Democratic | Person |
-| 2019 | SB547 | Primary | Pat Spearman | Democratic | Person |
-| 2019 | SB547 | Primary | Yvanna Cancela | Democratic | Person |
-| 2019 | SB547 | Primary | David Parks | Democratic | Person |
-| 2019 | SB547 | Primary | Jason Frierson | Democratic | Person |
-| 2019 | SB547 | Primary | Daniele Monroe-Moreno | Democratic | Person |
-| 2019 | SB547 | Co-sponsor | Moises Denis | Democratic | Person |
-| 2019 | SB547 | Co-sponsor | Marilyn Dondero Loop | Democratic | Person |
-| 2019 | SB547 | Co-sponsor | James Ohrenschall | Democratic | Person |
-| 2019 | SB547 | Co-sponsor | Julia Ratti | Democratic | Person |
-| 2019 | SB547 | Co-sponsor | Marcia Washington | Democratic | Person |
-| 2019 | SB547 | Co-sponsor | Joyce Woodhouse | Democratic | Person |
-| 2019 | SB76 | Primary | Senate Growth and Infrastructure | — | Committee |
-
-
-<!-- pdf-page-break -->
-
-## 2021 session — all sponsors
-
-| Year | Bill | Role | Name | Party | Person or committee |
-|---|---|---|---|---|---|
-| 2021 | AB146 | Primary | Sarah Peters | Democratic | Person |
-| 2021 | AB15 | Primary | Assembly Natural Resources | — | Committee |
-| 2021 | AB333 | Primary | Lisa Krasner | Republican | Person |
-| 2021 | AB333 | Primary | Tom Roberts | Republican | Person |
-| 2021 | AB333 | Co-sponsor | John Ellison | Republican | Person |
-| 2021 | AB333 | Co-sponsor | Melissa Hardy | Republican | Person |
-| 2021 | AB333 | Co-sponsor | Philip P.K. O’Neill | Republican | Person |
-| 2021 | AB354 | Primary | Assembly Ways and Means | — | Committee |
-| 2021 | AB356 | Primary | Assembly Ways and Means | — | Committee |
-| 2021 | AB465 | Primary | Assembly Ways and Means | — | Committee |
-| 2021 | AB5 | Primary | Assembly Natural Resources | — | Committee |
-| 2021 | AB6 | Primary | Assembly Natural Resources | — | Committee |
-| 2021 | AJR2 | Primary | Assembly Natural Resources | — | Committee |
-| 2021 | AJR3 | Primary | Cecelia González | Democratic | Person |
-| 2021 | AJR3 | Primary | Howard Watts | Democratic | Person |
-| 2021 | AJR3 | Primary | Steve Yeager | Democratic | Person |
-| 2021 | AJR3 | Primary | Lesley Cohen | Democratic | Person |
-| 2021 | AJR3 | Co-sponsor | Natha Anderson | Democratic | Person |
-| 2021 | AJR3 | Co-sponsor | Tracy Brown-May | Democratic | Person |
-| 2021 | AJR3 | Co-sponsor | Edgar Flores | Democratic | Person |
-| 2021 | AJR3 | Co-sponsor | Brittney Miller | Democratic | Person |
-| 2021 | AJR3 | Co-sponsor | Rochelle Nguyen | Democratic | Person |
-| 2021 | AJR3 | Co-sponsor | Selena Torres | Democratic | Person |
-| 2021 | AJR3 | Co-sponsor | Fabian Donate | Democratic | Person |
-| 2021 | SB149 | Primary | Senate Natural Resources | — | Committee |
-| 2021 | SB155 | Primary | Senate Natural Resources | — | Committee |
-| 2021 | SB205 | Primary | Moises Denis | Democratic | Person |
-| 2021 | SB216 | Primary | Scott Hammond | Republican | Person |
-| 2021 | SB216 | Primary | Pete Goicoechea | Republican | Person |
-| 2021 | SB216 | Primary | Keith Pickard | Republican | Person |
-| 2021 | SB216 | Co-sponsor | Joseph Hardy | Republican | Person |
-| 2021 | SB216 | Co-sponsor | James Settelmeyer | Republican | Person |
-| 2021 | SB238 | Primary | Pete Goicoechea | Republican | Person |
-| 2021 | SB33 | Primary | Senate Natural Resources | — | Committee |
-| 2021 | SB67 | Primary | Senate Government Affairs | — | Committee |
-| 2021 | SB98 | Primary | James Settelmeyer | Republican | Person |
-| 2021 | SB98 | Primary | Pete Goicoechea | Republican | Person |
-| 2021 | SB98 | Primary | Jim Wheeler | Republican | Person |
-| 2021 | SB98 | Co-sponsor | Carrie Buck | Republican | Person |
-| 2021 | SB98 | Co-sponsor | Ben Kieckhefer | Republican | Person |
-| 2021 | SJR1 | Primary | Senate Judiciary | — | Committee |
-
-
-<!-- pdf-page-break -->
-
-## 2023 session — all sponsors
-
-| Year | Bill | Role | Name | Party | Person or committee |
-|---|---|---|---|---|---|
-| 2023 | AB186 | Primary | Heidi Kasama | Republican | Person |
-| 2023 | AB19 | Primary | Assembly Natural Resources | — | Committee |
-| 2023 | AB191 | Primary | Rich DeLong | Republican | Person |
-| 2023 | AB191 | Co-sponsor | Jill Dickman | Republican | Person |
-| 2023 | AB191 | Co-sponsor | Danielle Gallant | Republican | Person |
-| 2023 | AB191 | Co-sponsor | Bert Gurr | Republican | Person |
-| 2023 | AB20 | Primary | Assembly Natural Resources | — | Committee |
-| 2023 | AB220 | Primary | Assembly Natural Resources | — | Committee |
-| 2023 | AB261 | Primary | Assembly Natural Resources | — | Committee |
-| 2023 | AB263 | Primary | Howard Watts | Democratic | Person |
-| 2023 | AB325 | Primary | Philip PK O’Neill | Republican | Person |
-| 2023 | AB34 | Primary | Assembly Natural Resources | — | Committee |
-| 2023 | AB387 | Primary | Assembly Natural Resources | — | Committee |
-| 2023 | AB470 | Primary | Assembly Ways and Means | — | Committee |
-| 2023 | AB90 | Primary | Bert Gurr | Republican | Person |
-| 2023 | AB91 | Primary | Rich DeLong | Republican | Person |
-| 2023 | SB102 | Primary | Pete Goicoechea | Republican | Person |
-| 2023 | SB112 | Primary | Pete Goicoechea | Republican | Person |
-| 2023 | SB112 | Primary | Robin Titus | Republican | Person |
-| 2023 | SB113 | Primary | Pete Goicoechea | Republican | Person |
-| 2023 | SB113 | Primary | Robin Titus | Republican | Person |
-| 2023 | SB113 | Primary | Carrie Buck | Republican | Person |
-| 2023 | SB113 | Primary | Ira Hansen | Republican | Person |
-| 2023 | SB113 | Primary | Jeff Stone | Republican | Person |
-| 2023 | SB113 | Co-sponsor | Lisa Krasner | Republican | Person |
-| 2023 | SB176 | Primary | Pete Goicoechea | Republican | Person |
-| 2023 | SB180 | Primary | Pete Goicoechea | Republican | Person |
-| 2023 | SB258 | Primary | James Ohrenschall | Democratic | Person |
-| 2023 | SB472 | Primary | Senate Finance | — | Committee |
-| 2023 | SB473 | Primary | Senate Finance | — | Committee |
-| 2023 | SB59 | Primary | Senate Growth and Infrastructure | — | Committee |
-| 2023 | SJR3 | Primary | Senate Natural Resources | — | Committee |
-
-
-<!-- pdf-page-break -->
-
-## 2025 session — all sponsors
-
-| Year | Bill | Role | Name | Party | Person or committee |
-|---|---|---|---|---|---|
-| 2025 | AB10 | Primary | Assembly Government Affairs | — | Committee |
-| 2025 | AB104 | Primary | Assembly Natural Resources | — | Committee |
-| 2025 | AB109 | Primary | Selena La Rue Hatch | Democratic | Person |
-| 2025 | AB110 | Primary | Danielle Gallant | Republican | Person |
-| 2025 | AB110 | Co-sponsor | Jeff Stone | Republican | Person |
-| 2025 | AB132 | Primary | Toby Yurek | Republican | Person |
-| 2025 | AB134 | Primary | Assembly Natural Resources | — | Committee |
-| 2025 | AB190 | Primary | Bert Gurr | Republican | Person |
-| 2025 | AB26 | Primary | Assembly Natural Resources | — | Committee |
-| 2025 | AB265 | Primary | Bert Gurr | Republican | Person |
-| 2025 | AB265 | Primary | Rich DeLong | Republican | Person |
-| 2025 | AB265 | Co-sponsor | Heidi Kasama | Republican | Person |
-| 2025 | AB312 | Primary | Rich DeLong | Republican | Person |
-| 2025 | AB363 | Primary | Assembly Natural Resources | — | Committee |
-| 2025 | AB385 | Primary | Lisa Cole | Republican | Person |
-| 2025 | AB419 | Primary | Rich DeLong | Republican | Person |
-| 2025 | AB419 | Primary | Lisa Cole | Republican | Person |
-| 2025 | AB419 | Primary | Bert Gurr | Republican | Person |
-| 2025 | AB419 | Co-sponsor | Jill Dickman | Republican | Person |
-| 2025 | AB419 | Co-sponsor | PK O’Neill | Republican | Person |
-| 2025 | AB456 | Primary | Cinthia Zermeño Moore | Democratic | Person |
-| 2025 | AB456 | Primary | Venicia Considine | Democratic | Person |
-| 2025 | AB485 | Primary | Assembly Natural Resources | — | Committee |
-| 2025 | AB9 | Primary | Assembly Natural Resources | — | Committee |
-| 2025 | SB108 | Primary | Robin Titus | Republican | Person |
-| 2025 | SB143 | Primary | Rochelle Nguyen | Democratic | Person |
-| 2025 | SB159 | Primary | Edgar Flores | Democratic | Person |
-| 2025 | SB276 | Primary | Ira Hansen | Republican | Person |
-| 2025 | SB276 | Primary | Edgar Flores | Democratic | Person |
-| 2025 | SB276 | Primary | Carrie Ann Buck | Republican | Person |
-| 2025 | SB276 | Primary | Lisa Krasner | Republican | Person |
-| 2025 | SB276 | Primary | Jeff Stone | Republican | Person |
-| 2025 | SB276 | Primary | Howard Watts | Democratic | Person |
-| 2025 | SB276 | Primary | PK O’Neill | Republican | Person |
-| 2025 | SB276 | Co-sponsor | Fabian Doñate | Democratic | Person |
-| 2025 | SB276 | Co-sponsor | John Ellison | Republican | Person |
-| 2025 | SB276 | Co-sponsor | James Ohrenschall | Democratic | Person |
-| 2025 | SB276 | Co-sponsor | Julie Pazina | Democratic | Person |
-| 2025 | SB276 | Co-sponsor | Melanie Scheible | Democratic | Person |
-| 2025 | SB276 | Co-sponsor | John Steinbeck | Republican | Person |
-| 2025 | SB276 | Co-sponsor | Angela Taylor | Democratic | Person |
-| 2025 | SB276 | Co-sponsor | Natha Anderson | Democratic | Person |
-| 2025 | SB276 | Co-sponsor | Venise Karris | Democratic | Person |
-| 2025 | SB276 | Co-sponsor | Selena La Rue Hatch | Democratic | Person |
-| 2025 | SB31 | Primary | Senate Natural Resources | — | Committee |
-| 2025 | SB324 | Primary | Melanie Scheible | Democratic | Person |
-| 2025 | SB324 | Co-sponsor | Rochelle Nguyen | Democratic | Person |
-| 2025 | SB342 | Primary | James Ohrenschall | Democratic | Person |
-| 2025 | SB36 | Primary | Senate Natural Resources | — | Committee |
-| 2025 | SB43 | Primary | Senate Health and Human Services | — | Committee |
-| 2025 | SB466 | Primary | Senate Finance | — | Committee |
-
-
-<!-- pdf-page-break -->
-
-## Frequent primary sponsors (2 or more bills in the set)
-
-| Name | Party | Bills as primary | Bills |
+| Sponsor | Party | Policy bills | Bills |
 |---|---|---|---|
-| Pete Goicoechea | Republican | 13 | 2019 AB233; 2019 AB265; 2019 SB150; 2019 SB236; 2019 SB250; 2021 SB216; 2021 SB238; 2021 SB98; 2023 SB102; 2023 SB112; 2023 SB113; 2023 SB176; 2023 SB180 |
-| Howard Watts | Democratic | 5 | 2019 AB163; 2019 AB265; 2021 AJR3; 2023 AB263; 2025 SB276 |
-| Rich DeLong | Republican | 5 | 2023 AB191; 2023 AB91; 2025 AB265; 2025 AB312; 2025 AB419 |
-| Bert Gurr | Republican | 4 | 2023 AB90; 2025 AB190; 2025 AB265; 2025 AB419 |
-| Chris Brooks | Democratic | 4 | 2019 AB163; 2019 AB265; 2019 SB236; 2019 SB547 |
-| James Settelmeyer | Republican | 4 | 2019 SB150; 2019 SB232; 2019 SB250; 2021 SB98 |
-| James Ohrenschall | Democratic | 3 | 2019 SB423; 2023 SB258; 2025 SB342 |
-| Robin Titus | Republican | 3 | 2023 SB112; 2023 SB113; 2025 SB108 |
-| David Parks | Democratic | 2 | 2019 AB233; 2019 SB547 |
-| Edgar Flores | Democratic | 2 | 2025 SB159; 2025 SB276 |
-| Ira Hansen | Republican | 2 | 2023 SB113; 2025 SB276 |
-| Jeff Stone | Republican | 2 | 2023 SB113; 2025 SB276 |
-| Joseph Hardy | Republican | 2 | 2019 SB150; 2019 SB250 |
-| Lisa Cole | Republican | 2 | 2025 AB385; 2025 AB419 |
-| Lisa Krasner | Republican | 2 | 2021 AB333; 2025 SB276 |
-| Sarah Peters | Democratic | 2 | 2019 AB265; 2021 AB146 |
+| Senator Pete Goicoechea | Republican | 14 | 2019 AB233, 2019 AB265, 2019 SB150, 2019 SB236, 2019 SB250, 2021 SB216, 2021 SB238, 2021 SB98, 2023 SB102, 2023 SB112, 2023 SB113, 2023 SB176, 2023 SB180, 2023 SB99 |
+| Assemblywoman Sarah Peters | Democratic | 6 | 2019 AB163, 2019 AB240, 2019 AB265, 2021 AB146, 2023 AB313, 2023 AJR3 |
+| Assemblyman Howard Watts | Democratic | 5 | 2019 AB163, 2019 AB265, 2021 AB97, 2021 AJR3, 2023 AJR3 |
+| Senator Chris Brooks | Democratic | 5 | 2019 AB163, 2019 AB265, 2019 SB236, 2019 SB547, 2021 SB283 |
+| Senator James Settelmeyer | Republican | 5 | 2019 SB150, 2019 SB232, 2019 SB250, 2021 SB216, 2021 SB98 |
+| Senator Ira Hansen | Republican | 5 | 2019 SB150, 2019 SB236, 2019 SB250, 2023 SB113, 2025 SB276 |
+| Assemblymember Bert Gurr | Republican | 4 | 2025 AB190, 2025 AB265, 2025 AB419, 2025 AB449 |
+| Assemblywoman Teresa Benitez-Thompson | Democratic | 3 | 2019 AB240, 2019 AB400, 2021 AB449 |
+| Senator Joseph Hardy | Republican | 3 | 2019 SB150, 2019 SB250, 2021 SB216 |
+| Senator Robin Titus | Republican | 3 | 2023 SB112, 2023 SB113, 2025 SB108 |
+| Senator Edgar Flores | Democratic | 3 | 2023 SB115, 2025 SB159, 2025 SB276 |
+| Assemblymember Rich DeLong | Republican | 3 | 2025 AB265, 2025 AB312, 2025 AB419 |
 
 ## Bills with sponsors from both major parties
 
-Only 4 of the 43 person-sponsored bills list both Democrats and Republicans among their person sponsors. Three of the four became law, but four bills is too few to generalize from.
+| Bill | What it tried | Result |
+|---|---|---|
+| 2019 AB233 | Changed the special property charge counties collect in water basins the State Engineer names | Enacted |
+| 2019 AB240 | Made five northern counties write yearly reports on managing growth in their region | Enacted |
+| 2019 AB265 | Would have ordered a state study of water treatment and recycling | Failed |
+| 2019 SB236 | Made small changes to water permits easier in some cases | Enacted |
+| 2025 SB276 | New public notice rules for water pollution permits | Enacted |
 
-| Year | Bill | Theme | Result |
-|---|---|---|---|
-| 2019 | AB233 | Groundwater & wells | Became law |
-| 2019 | AB265 | Planning | Did not become law |
-| 2019 | SB236 | Groundwater & wells | Became law |
-| 2025 | SB276 | Clean water | Became law |
+<!-- pdf-page-break -->
 
-## Committee-sponsored bills
+## Primary sponsors, bill by bill
 
-45 of 88 bills were introduced by committees (mostly the Natural Resources committees and the money committees) rather than individual legislators. Committee-sponsored bills account for 26 of 45 enacted bills and 17 of 40 failed bills.
+| Year | Bill | Primary sponsors |
+|---|---|---|
+| 2019 | AB163 | Assemblyman Howard Watts (D); Senator Chris Brooks (D); Assemblywoman Lesley Cohen (D) … |
+| 2019 | AB21 | Assembly Cmte Government Affairs |
+| 2019 | AB233 | Assemblyman Al Kramer (R); Assemblywoman Melissa Hardy (R); Senator Pete Goicoechea (R) … |
+| 2019 | AB240 | Assemblyman Skip Daly (D); Assemblywoman Sarah Peters (D); Assemblywoman Teresa Benitez-Thompson (D) … |
+| 2019 | AB265 | Assemblywoman Sarah Peters (D); Assemblywoman Heidi Swank (D); Assemblyman Howard Watts (D) … |
+| 2019 | AB30 | Assembly Cmte Natural Resources, Agriculture, and Mining |
+| 2019 | AB400 | Assemblywoman Teresa Benitez-Thompson (D) |
+| 2019 | AB51 | Assembly Cmte Natural Resources, Agriculture, and Mining |
+| 2019 | AB537 | Assembly Cmte Ways and Means |
+| 2019 | AB62 | Assembly Cmte Natural Resources, Agriculture, and Mining |
+| 2019 | AB95 | Assembly Cmte Natural Resources, Agriculture, and Mining |
+| 2019 | SB140 | Senate Cmte Natural Resources |
+| 2019 | SB150 | Senator Pete Goicoechea (R); Senator James Settelmeyer (R); Senator Joseph Hardy (R) … |
+| 2019 | SB232 | Senator James Settelmeyer (R) |
+| 2019 | SB236 | Senator Pete Goicoechea (R); Senator Chris Brooks (D); Senator Ira Hansen (R) |
+| 2019 | SB250 | Senator James Settelmeyer (R); Senator Pete Goicoechea (R); Senator Joseph Hardy (R) … |
+| 2019 | SB499 | Senate Cmte Finance |
+| 2019 | SB507 | Senate Cmte Finance |
+| 2019 | SB509 | Senate Cmte Finance |
+| 2019 | SB519 | Senate Cmte Finance |
+| 2019 | SB547 | Senator Chris Brooks (D); Senator Nicole Cannizzaro (D); Senator Pat Spearman (D) … |
+| 2019 | SB76 | Senate Cmte Growth and Infrastructure |
+| 2021 | AB146 | Assemblywoman Sarah Peters (D) |
+| 2021 | AB15 | Assembly Cmte Natural Resources |
+| 2021 | AB354 | Assembly Cmte Ways and Means |
+| 2021 | AB356 | Assembly Cmte Ways and Means |
+| 2021 | AB449 | Assemblywoman Teresa Benitez-Thompson (D) |
+| 2021 | AB465 | Assembly Cmte Ways and Means |
+| 2021 | AB5 | Assembly Cmte Natural Resources |
+| 2021 | AB6 | Assembly Cmte Natural Resources |
+| 2021 | AB66 | Assembly Cmte Revenue |
+| 2021 | AB97 | Assemblyman Howard Watts (D) |
+| 2021 | AJR2 | Assembly Cmte Natural Resources |
+| 2021 | AJR3 | Assemblywoman Cecelia González (D); Assemblyman Howard Watts (D); Assemblyman Steve Yeager (D) … |
+| 2021 | SB14 | Senate Cmte Government Affairs |
+| 2021 | SB149 | Senate Cmte Natural Resources |
+| 2021 | SB155 | Senate Cmte Natural Resources |
+| 2021 | SB216 | Senator Scott Hammond (R); Senator Pete Goicoechea (R); Senator Keith Pickard (R) … |
+| 2021 | SB238 | Senator Pete Goicoechea (R) |
+| 2021 | SB283 | Senator Chris Brooks (D) |
+| 2021 | SB430 | Senate Cmte Growth and Infrastructure |
+| 2021 | SB98 | Senator James Settelmeyer (R); Senator Pete Goicoechea (R); Assemblyman Jim Wheeler (R) … |
+| 2021 | SJR1 | Senate Cmte Judiciary |
+| 2023 | AB19 | Assembly Cmte Natural Resources |
+| 2023 | AB191 | Assemblyman Rich DeLong (R); Assemblywoman Jill Dickman (R); Assemblywoman Danielle Gallant (R) … |
+| 2023 | AB20 | Assembly Cmte Natural Resources |
+| 2023 | AB220 | Assembly Cmte Natural Resources |
+| 2023 | AB261 | Assembly Cmte Natural Resources |
+| 2023 | AB313 | Assemblywoman Sarah Peters (D) |
+| 2023 | AB325 | Assemblyman Philip PK O’Neill (R) |
+| 2023 | AB34 | Assembly Cmte Natural Resources |
+| 2023 | AB387 | Assembly Cmte Natural Resources |
+| 2023 | AB470 | Assembly Cmte Ways and Means |
+| 2023 | AB90 | Assemblyman Bert Gurr (R) |
+| 2023 | AB91 | Assemblyman Rich DeLong (R) |
+| 2023 | AB97 | Assemblywoman Melissa Hardy (R) |
+| 2023 | AJR3 | Assemblywoman Sarah Peters (D); Assemblyman Howard Watts (D); Assemblywoman Clara Thomas (D) … |
+| 2023 | SB102 | Senator Pete Goicoechea (R) |
+| 2023 | SB112 | Senator Pete Goicoechea (R); Senator Robin Titus (R) |
+| 2023 | SB113 | Senator Pete Goicoechea (R); Senator Robin Titus (R); Senator Carrie Buck (R) … |
+| 2023 | SB115 | Senator Edgar Flores (D) |
+| 2023 | SB169 | Senate Cmte Government Affairs |
+| 2023 | SB176 | Senator Pete Goicoechea (R) |
+| 2023 | SB180 | Senator Pete Goicoechea (R) |
+| 2023 | SB258 | Senator James Ohrenschall (D) |
+| 2023 | SB394 | Senate Cmte Revenue and Economic Development |
+| 2023 | SB429 | Senate Cmte Government Affairs |
+| 2023 | SB472 | Senate Cmte Finance |
+| 2023 | SB473 | Senate Cmte Finance |
+| 2023 | SB99 | Senator Pete Goicoechea (R) |
+| 2023 | SJR3 | Senate Cmte Natural Resources |
+| 2025 | AB10 | Assembly Cmte Government Affairs |
+| 2025 | AB104 | Assembly Cmte Natural Resources |
+| 2025 | AB109 | Assemblymember Selena La Rue Hatch (D) |
+| 2025 | AB132 | Assemblymember Toby Yurek (R) |
+| 2025 | AB134 | Assembly Cmte Natural Resources |
+| 2025 | AB190 | Assemblymember Bert Gurr (R) |
+| 2025 | AB26 | Assembly Cmte Natural Resources |
+| 2025 | AB265 | Assemblymember Bert Gurr (R); Assemblymember Rich DeLong (R); Assemblymember Heidi Kasama (R) |
+| 2025 | AB312 | Assemblymember Rich DeLong (R) |
+| 2025 | AB363 | Assembly Cmte Natural Resources |
+| 2025 | AB385 | Assemblymember Lisa Cole (R) |
+| 2025 | AB419 | Assemblymember Rich DeLong (R); Assemblymember Lisa Cole (R); Assemblymember Bert Gurr (R) … |
+| 2025 | AB449 | Assemblymember Bert Gurr (R) |
+| 2025 | AB456 | Assemblymember Cinthia Zermeño Moore (D); Assemblymember Venicia Considine (D) |
+| 2025 | AB485 | Assembly Cmte Natural Resources |
+| 2025 | AB77 | Assembly Cmte Revenue |
+| 2025 | AB9 | Assembly Cmte Natural Resources |
+| 2025 | SB108 | Senator Robin Titus (R) |
+| 2025 | SB143 | Senator Rochelle Nguyen (D) |
+| 2025 | SB159 | Senator Edgar Flores (D) |
+| 2025 | SB276 | Senator Ira Hansen (R); Senator Edgar Flores (D); Senator Carrie Ann Buck (R) … |
+| 2025 | SB31 | Senate Cmte Natural Resources |
+| 2025 | SB324 | Senator Melanie Scheible (D); Senator Rochelle Nguyen (D) |
+| 2025 | SB326 | Senator Michelee "Shelly" Cruz-Crawford (D) |
+| 2025 | SB342 | Senator James Ohrenschall (D) |
+| 2025 | SB36 | Senate Cmte Natural Resources |
+| 2025 | SB364 | Senator Michelee "Shelly" Cruz-Crawford (D) |
+| 2025 | SB442 | Senate Cmte Growth and Infrastructure |
+| 2025 | SB6 | Senate Cmte Natural Resources |
