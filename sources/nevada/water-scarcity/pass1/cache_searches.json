@@ -1,77 +1,784 @@
 {
-  "nelis:80:water": "2026-07-14T19:20:26.359033+00:00",
-  "nelis:80:groundwater": "2026-07-14T19:20:27.360475+00:00",
-  "nelis:80:Colorado River": "2026-07-14T19:20:28.368319+00:00",
-  "nelis:80:consumptive use": "2026-07-14T19:20:29.361385+00:00",
-  "nelis:80:water rights": "2026-07-14T19:20:30.359316+00:00",
-  "nelis:80:irrigation": "2026-07-14T19:20:31.474772+00:00",
-  "nelis:80:drought": "2026-07-14T19:20:32.606336+00:00",
-  "nelis:80:aquifer": "2026-07-14T19:20:33.606438+00:00",
-  "nelis:80:wastewater": "2026-07-14T19:20:34.611245+00:00",
-  "nelis:80:reclaimed water": "2026-07-14T19:20:35.734289+00:00",
-  "nelis:80:water conservation": "2026-07-14T19:20:36.735739+00:00",
-  "nelis:80:SNWA": "2026-07-14T19:20:37.728528+00:00",
-  "nelis:80:data center": "2026-07-14T19:20:38.718119+00:00",
-  "nelis:81:water": "2026-07-14T19:20:39.727686+00:00",
-  "nelis:81:groundwater": "2026-07-14T19:20:40.719535+00:00",
-  "nelis:81:Colorado River": "2026-07-14T19:20:41.716560+00:00",
-  "nelis:81:consumptive use": "2026-07-14T19:20:42.702844+00:00",
-  "nelis:81:water rights": "2026-07-14T19:20:43.702703+00:00",
-  "nelis:81:irrigation": "2026-07-14T19:20:44.690289+00:00",
-  "nelis:81:drought": "2026-07-14T19:20:45.682310+00:00",
-  "nelis:81:aquifer": "2026-07-14T19:20:46.667288+00:00",
-  "nelis:81:wastewater": "2026-07-14T19:20:47.892044+00:00",
-  "nelis:81:reclaimed water": "2026-07-14T19:20:49.110784+00:00",
-  "nelis:81:water conservation": "2026-07-14T19:20:50.099239+00:00",
-  "nelis:81:SNWA": "2026-07-14T19:20:51.085749+00:00",
-  "nelis:81:data center": "2026-07-14T19:20:52.084970+00:00",
-  "nelis:82:water": "2026-07-14T19:20:53.111905+00:00",
-  "nelis:82:groundwater": "2026-07-14T19:20:54.222296+00:00",
-  "nelis:82:Colorado River": "2026-07-14T19:20:55.229552+00:00",
-  "nelis:82:consumptive use": "2026-07-14T19:20:56.218567+00:00",
-  "nelis:82:water rights": "2026-07-14T19:20:57.223194+00:00",
-  "nelis:82:irrigation": "2026-07-14T19:20:58.231945+00:00",
-  "nelis:82:drought": "2026-07-14T19:20:59.223381+00:00",
-  "nelis:82:aquifer": "2026-07-14T19:21:00.216719+00:00",
-  "nelis:82:wastewater": "2026-07-14T19:21:01.240694+00:00",
-  "nelis:82:reclaimed water": "2026-07-14T19:21:02.233504+00:00",
-  "nelis:82:water conservation": "2026-07-14T19:21:03.227033+00:00",
-  "nelis:82:SNWA": "2026-07-14T19:21:04.218079+00:00",
-  "nelis:82:data center": "2026-07-14T19:21:05.206895+00:00",
-  "nelis:83:water": "2026-07-14T19:21:06.242591+00:00",
-  "nelis:83:groundwater": "2026-07-14T19:21:07.253333+00:00",
-  "nelis:83:Colorado River": "2026-07-14T19:21:08.278207+00:00",
-  "nelis:83:consumptive use": "2026-07-14T19:21:09.293820+00:00",
-  "nelis:83:water rights": "2026-07-14T19:21:10.342071+00:00",
-  "nelis:83:irrigation": "2026-07-14T19:21:11.352245+00:00",
-  "nelis:83:drought": "2026-07-14T19:21:12.355771+00:00",
-  "nelis:83:aquifer": "2026-07-14T19:21:13.364417+00:00",
-  "nelis:83:wastewater": "2026-07-14T19:21:14.439721+00:00",
-  "nelis:83:reclaimed water": "2026-07-14T19:21:15.443950+00:00",
-  "nelis:83:water conservation": "2026-07-14T19:21:16.497405+00:00",
-  "nelis:83:SNWA": "2026-07-14T19:21:17.504187+00:00",
-  "nelis:83:data center": "2026-07-14T19:21:18.506056+00:00",
-  "openstates:82:consumptive use": "2026-07-15T00:01:50.079084+00:00",
-  "openstates:82:water rights": "2026-07-15T00:03:04.318760+00:00",
-  "openstates:82:irrigation": "2026-07-15T00:03:08.607014+00:00",
-  "openstates:82:drought": "2026-07-15T00:03:12.359449+00:00",
-  "openstates:82:aquifer": "2026-07-15T00:03:16.350347+00:00",
-  "openstates:82:wastewater": "2026-07-15T00:03:20.768767+00:00",
-  "openstates:82:reclaimed water": "2026-07-15T00:03:24.355443+00:00",
-  "openstates:82:water conservation": "2026-07-15T00:03:35.242529+00:00",
-  "openstates:82:SNWA": "2026-07-15T00:03:38.335757+00:00",
-  "openstates:82:data center": "2026-07-15T00:04:34.275215+00:00",
-  "openstates:83:water": "2026-07-15T00:04:47.412532+00:00",
-  "openstates:83:groundwater": "2026-07-15T00:04:51.156356+00:00",
-  "openstates:83:Colorado River": "2026-07-15T00:04:54.417011+00:00",
-  "openstates:83:consumptive use": "2026-07-15T00:05:00.932499+00:00",
-  "openstates:83:water rights": "2026-07-15T00:05:07.692674+00:00",
-  "openstates:83:irrigation": "2026-07-15T00:05:11.238066+00:00",
-  "openstates:83:drought": "2026-07-15T00:05:14.694263+00:00",
-  "openstates:83:aquifer": "2026-07-15T00:05:17.982790+00:00",
-  "openstates:83:wastewater": "2026-07-15T00:05:21.128449+00:00",
-  "openstates:83:reclaimed water": "2026-07-15T00:05:24.790471+00:00",
-  "openstates:83:water conservation": "2026-07-15T00:05:27.971036+00:00",
-  "openstates:83:SNWA": "2026-07-15T00:05:31.060023+00:00",
-  "openstates:83:data center": "2026-07-15T00:06:22.509305+00:00"
+  "nelis:80:water": {
+    "at": "2026-07-17T17:01:03.955884+00:00",
+    "hit_count": 17,
+    "hits": [
+      "80:AB30",
+      "80:AB51",
+      "80:AB62",
+      "80:AB95",
+      "80:AB163",
+      "80:AB233",
+      "80:AB265",
+      "80:SB47",
+      "80:SB140",
+      "80:SB150",
+      "80:SB236",
+      "80:SB250",
+      "80:SB423",
+      "80:SB433",
+      "80:SB499",
+      "80:SB507",
+      "80:SB509"
+    ]
+  },
+  "nelis:80:groundwater": {
+    "at": "2026-07-17T17:01:04.970892+00:00",
+    "hit_count": 3,
+    "hits": [
+      "80:AB51",
+      "80:AB95",
+      "80:SB140"
+    ]
+  },
+  "nelis:80:Colorado River": {
+    "at": "2026-07-17T17:01:05.980950+00:00",
+    "hit_count": 1,
+    "hits": [
+      "80:SB76"
+    ]
+  },
+  "nelis:80:consumptive use": {
+    "at": "2026-07-17T17:01:07.039919+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:water rights": {
+    "at": "2026-07-17T17:01:08.043749+00:00",
+    "hit_count": 2,
+    "hits": [
+      "80:AB51",
+      "80:SB250"
+    ]
+  },
+  "nelis:80:irrigation": {
+    "at": "2026-07-17T17:01:09.036818+00:00",
+    "hit_count": 1,
+    "hits": [
+      "80:SB232"
+    ]
+  },
+  "nelis:80:drought": {
+    "at": "2026-07-17T17:01:10.038398+00:00",
+    "hit_count": 1,
+    "hits": [
+      "80:SB499"
+    ]
+  },
+  "nelis:80:aquifer": {
+    "at": "2026-07-17T17:01:11.032961+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:wastewater": {
+    "at": "2026-07-17T17:01:12.030253+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:reclaimed water": {
+    "at": "2026-07-17T17:01:13.024050+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:water conservation": {
+    "at": "2026-07-17T17:01:14.128893+00:00",
+    "hit_count": 1,
+    "hits": [
+      "80:AB163"
+    ]
+  },
+  "nelis:80:SNWA": {
+    "at": "2026-07-17T17:01:15.123127+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:water authority": {
+    "at": "2026-07-17T17:01:16.114822+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:State Engineer": {
+    "at": "2026-07-17T17:01:17.238668+00:00",
+    "hit_count": 5,
+    "hits": [
+      "80:AB30",
+      "80:AB51",
+      "80:AB62",
+      "80:AB95",
+      "80:SB140"
+    ]
+  },
+  "nelis:80:effluent": {
+    "at": "2026-07-17T17:01:18.232251+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:desalination": {
+    "at": "2026-07-17T17:01:19.221254+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:water pipeline": {
+    "at": "2026-07-17T17:01:20.215016+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:interstate water": {
+    "at": "2026-07-17T17:01:21.215164+00:00",
+    "hit_count": 1,
+    "hits": [
+      "80:SB433"
+    ]
+  },
+  "nelis:80:water importation": {
+    "at": "2026-07-17T17:01:22.205764+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:cloud seeding": {
+    "at": "2026-07-17T17:01:23.205861+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:data center": {
+    "at": "2026-07-17T17:01:24.206455+00:00",
+    "hit_count": 1,
+    "hits": [
+      "80:SB547"
+    ]
+  },
+  "nelis:80:data centers": {
+    "at": "2026-07-17T17:01:25.214395+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:colocation": {
+    "at": "2026-07-17T17:01:26.242185+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:evaporative cooling": {
+    "at": "2026-07-17T17:01:27.606663+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:closed-loop": {
+    "at": "2026-07-17T17:01:28.625639+00:00",
+    "hit_count": 1,
+    "hits": [
+      "80:AB466"
+    ]
+  },
+  "nelis:80:cooling water": {
+    "at": "2026-07-17T17:01:29.617102+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:large water user": {
+    "at": "2026-07-17T17:01:30.607019+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:80:partial abatement": {
+    "at": "2026-07-17T17:01:31.615927+00:00",
+    "hit_count": 3,
+    "hits": [
+      "80:AB36",
+      "80:AB400",
+      "80:SB298"
+    ]
+  },
+  "nelis:81:water": {
+    "at": "2026-07-17T17:01:32.638919+00:00",
+    "hit_count": 19,
+    "hits": [
+      "81:AB5",
+      "81:AB6",
+      "81:AB15",
+      "81:AB146",
+      "81:AB333",
+      "81:AB354",
+      "81:AB356",
+      "81:AB465",
+      "81:AJR2",
+      "81:AJR3",
+      "81:SB33",
+      "81:SB67",
+      "81:SB98",
+      "81:SB149",
+      "81:SB155",
+      "81:SB205",
+      "81:SB216",
+      "81:SB238",
+      "81:SJR1"
+    ]
+  },
+  "nelis:81:groundwater": {
+    "at": "2026-07-17T17:01:33.628945+00:00",
+    "hit_count": 1,
+    "hits": [
+      "81:SB149"
+    ]
+  },
+  "nelis:81:Colorado River": {
+    "at": "2026-07-17T17:01:34.623364+00:00",
+    "hit_count": 2,
+    "hits": [
+      "81:AB15",
+      "81:AB356"
+    ]
+  },
+  "nelis:81:consumptive use": {
+    "at": "2026-07-17T17:01:35.618432+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:water rights": {
+    "at": "2026-07-17T17:01:36.601390+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:irrigation": {
+    "at": "2026-07-17T17:01:37.582142+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:drought": {
+    "at": "2026-07-17T17:01:38.575385+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:aquifer": {
+    "at": "2026-07-17T17:01:39.564461+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:wastewater": {
+    "at": "2026-07-17T17:01:40.544665+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:reclaimed water": {
+    "at": "2026-07-17T17:01:41.547832+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:water conservation": {
+    "at": "2026-07-17T17:01:42.534252+00:00",
+    "hit_count": 1,
+    "hits": [
+      "81:AB356"
+    ]
+  },
+  "nelis:81:SNWA": {
+    "at": "2026-07-17T17:01:43.535535+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:water authority": {
+    "at": "2026-07-17T17:01:44.521634+00:00",
+    "hit_count": 1,
+    "hits": [
+      "81:AB356"
+    ]
+  },
+  "nelis:81:State Engineer": {
+    "at": "2026-07-17T17:01:45.516363+00:00",
+    "hit_count": 2,
+    "hits": [
+      "81:AB5",
+      "81:AB354"
+    ]
+  },
+  "nelis:81:effluent": {
+    "at": "2026-07-17T17:01:46.528097+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:desalination": {
+    "at": "2026-07-17T17:01:47.507679+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:water pipeline": {
+    "at": "2026-07-17T17:01:48.490304+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:interstate water": {
+    "at": "2026-07-17T17:01:49.483872+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:water importation": {
+    "at": "2026-07-17T17:01:50.467868+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:cloud seeding": {
+    "at": "2026-07-17T17:01:51.510356+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:data center": {
+    "at": "2026-07-17T17:01:52.498343+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:data centers": {
+    "at": "2026-07-17T17:01:53.478740+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:colocation": {
+    "at": "2026-07-17T17:01:54.470099+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:evaporative cooling": {
+    "at": "2026-07-17T17:01:55.480602+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:closed-loop": {
+    "at": "2026-07-17T17:01:56.465185+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:cooling water": {
+    "at": "2026-07-17T17:01:57.463266+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:large water user": {
+    "at": "2026-07-17T17:01:58.454739+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:81:partial abatement": {
+    "at": "2026-07-17T17:01:59.703299+00:00",
+    "hit_count": 8,
+    "hits": [
+      "81:AB66",
+      "81:AB449",
+      "81:SB10",
+      "81:SB64",
+      "81:SB297",
+      "81:SB338",
+      "81:SB395",
+      "81:SB442"
+    ]
+  },
+  "nelis:82:water": {
+    "at": "2026-07-17T17:02:00.722278+00:00",
+    "hit_count": 22,
+    "hits": [
+      "82:AB19",
+      "82:AB20",
+      "82:AB34",
+      "82:AB90",
+      "82:AB91",
+      "82:AB186",
+      "82:AB191",
+      "82:AB220",
+      "82:AB261",
+      "82:AB263",
+      "82:AB325",
+      "82:AB387",
+      "82:AB470",
+      "82:SB59",
+      "82:SB102",
+      "82:SB112",
+      "82:SB113",
+      "82:SB176",
+      "82:SB180",
+      "82:SB258",
+      "82:SB472",
+      "82:SB473"
+    ]
+  },
+  "nelis:82:groundwater": {
+    "at": "2026-07-17T17:02:01.730390+00:00",
+    "hit_count": 5,
+    "hits": [
+      "82:AB220",
+      "82:SB112",
+      "82:SB113",
+      "82:SB176",
+      "82:SB180"
+    ]
+  },
+  "nelis:82:Colorado River": {
+    "at": "2026-07-17T17:02:02.734000+00:00",
+    "hit_count": 2,
+    "hits": [
+      "82:AB220",
+      "82:SJR3"
+    ]
+  },
+  "nelis:82:consumptive use": {
+    "at": "2026-07-17T17:02:03.739506+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:water rights": {
+    "at": "2026-07-17T17:02:04.730120+00:00",
+    "hit_count": 3,
+    "hits": [
+      "82:AB34",
+      "82:AB470",
+      "82:SB176"
+    ]
+  },
+  "nelis:82:irrigation": {
+    "at": "2026-07-17T17:02:05.721184+00:00",
+    "hit_count": 1,
+    "hits": [
+      "82:AB220"
+    ]
+  },
+  "nelis:82:drought": {
+    "at": "2026-07-17T17:02:06.715914+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:aquifer": {
+    "at": "2026-07-17T17:02:07.703067+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:wastewater": {
+    "at": "2026-07-17T17:02:08.686760+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:reclaimed water": {
+    "at": "2026-07-17T17:02:09.675679+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:water conservation": {
+    "at": "2026-07-17T17:02:10.678061+00:00",
+    "hit_count": 3,
+    "hits": [
+      "82:AB191",
+      "82:AB220",
+      "82:AB261"
+    ]
+  },
+  "nelis:82:SNWA": {
+    "at": "2026-07-17T17:02:11.671242+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:water authority": {
+    "at": "2026-07-17T17:02:12.658290+00:00",
+    "hit_count": 1,
+    "hits": [
+      "82:AB220"
+    ]
+  },
+  "nelis:82:State Engineer": {
+    "at": "2026-07-17T17:02:13.661133+00:00",
+    "hit_count": 5,
+    "hits": [
+      "82:AB90",
+      "82:AB220",
+      "82:AB325",
+      "82:AB387",
+      "82:SB113"
+    ]
+  },
+  "nelis:82:effluent": {
+    "at": "2026-07-17T17:02:14.667257+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:desalination": {
+    "at": "2026-07-17T17:02:15.656951+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:water pipeline": {
+    "at": "2026-07-17T17:02:16.643714+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:interstate water": {
+    "at": "2026-07-17T17:02:17.641975+00:00",
+    "hit_count": 1,
+    "hits": [
+      "82:SB59"
+    ]
+  },
+  "nelis:82:water importation": {
+    "at": "2026-07-17T17:02:18.638881+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:cloud seeding": {
+    "at": "2026-07-17T17:02:19.697189+00:00",
+    "hit_count": 1,
+    "hits": [
+      "82:SB99"
+    ]
+  },
+  "nelis:82:data center": {
+    "at": "2026-07-17T17:02:20.685136+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:data centers": {
+    "at": "2026-07-17T17:02:21.683395+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:colocation": {
+    "at": "2026-07-17T17:02:22.675946+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:evaporative cooling": {
+    "at": "2026-07-17T17:02:23.664668+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:closed-loop": {
+    "at": "2026-07-17T17:02:24.657757+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:cooling water": {
+    "at": "2026-07-17T17:02:25.664293+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:large water user": {
+    "at": "2026-07-17T17:02:26.657114+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:82:partial abatement": {
+    "at": "2026-07-17T17:02:27.663610+00:00",
+    "hit_count": 8,
+    "hits": [
+      "82:AB419",
+      "82:AB445",
+      "82:AB449",
+      "82:AB490",
+      "82:AB519",
+      "82:SB96",
+      "82:SB394",
+      "82:SB429"
+    ]
+  },
+  "nelis:83:water": {
+    "at": "2026-07-17T17:02:28.724773+00:00",
+    "hit_count": 25,
+    "hits": [
+      "83:AB9",
+      "83:AB10",
+      "83:AB26",
+      "83:AB104",
+      "83:AB109",
+      "83:AB132",
+      "83:AB134",
+      "83:AB190",
+      "83:AB265",
+      "83:AB312",
+      "83:AB363",
+      "83:AB385",
+      "83:AB419",
+      "83:AB456",
+      "83:AB485",
+      "83:SB31",
+      "83:SB36",
+      "83:SB43",
+      "83:SB108",
+      "83:SB143",
+      "83:SB159",
+      "83:SB276",
+      "83:SB324",
+      "83:SB342",
+      "83:SB466"
+    ]
+  },
+  "nelis:83:groundwater": {
+    "at": "2026-07-17T17:02:29.760931+00:00",
+    "hit_count": 3,
+    "hits": [
+      "83:AB104",
+      "83:AB363",
+      "83:SB36"
+    ]
+  },
+  "nelis:83:Colorado River": {
+    "at": "2026-07-17T17:02:30.799323+00:00",
+    "hit_count": 1,
+    "hits": [
+      "83:AB110"
+    ]
+  },
+  "nelis:83:consumptive use": {
+    "at": "2026-07-17T17:02:31.795797+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:water rights": {
+    "at": "2026-07-17T17:02:32.798405+00:00",
+    "hit_count": 4,
+    "hits": [
+      "83:AB9",
+      "83:AB104",
+      "83:SB31",
+      "83:SB36"
+    ]
+  },
+  "nelis:83:irrigation": {
+    "at": "2026-07-17T17:02:33.845835+00:00",
+    "hit_count": 1,
+    "hits": [
+      "83:AB104"
+    ]
+  },
+  "nelis:83:drought": {
+    "at": "2026-07-17T17:02:34.844087+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:aquifer": {
+    "at": "2026-07-17T17:02:35.858250+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:wastewater": {
+    "at": "2026-07-17T17:02:36.866304+00:00",
+    "hit_count": 1,
+    "hits": [
+      "83:SB159"
+    ]
+  },
+  "nelis:83:reclaimed water": {
+    "at": "2026-07-17T17:02:37.865310+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:water conservation": {
+    "at": "2026-07-17T17:02:38.874155+00:00",
+    "hit_count": 3,
+    "hits": [
+      "83:AB104",
+      "83:AB134",
+      "83:SB143"
+    ]
+  },
+  "nelis:83:SNWA": {
+    "at": "2026-07-17T17:02:39.872913+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:water authority": {
+    "at": "2026-07-17T17:02:40.971956+00:00",
+    "hit_count": 1,
+    "hits": [
+      "83:AB104"
+    ]
+  },
+  "nelis:83:State Engineer": {
+    "at": "2026-07-17T17:02:41.995178+00:00",
+    "hit_count": 7,
+    "hits": [
+      "83:AB26",
+      "83:AB104",
+      "83:AB190",
+      "83:AB265",
+      "83:AB419",
+      "83:SB36",
+      "83:SB342"
+    ]
+  },
+  "nelis:83:effluent": {
+    "at": "2026-07-17T17:02:43.007172+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:desalination": {
+    "at": "2026-07-17T17:02:44.012881+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:water pipeline": {
+    "at": "2026-07-17T17:02:45.011578+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:interstate water": {
+    "at": "2026-07-17T17:02:46.016620+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:water importation": {
+    "at": "2026-07-17T17:02:47.017857+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:cloud seeding": {
+    "at": "2026-07-17T17:02:48.021533+00:00",
+    "hit_count": 1,
+    "hits": [
+      "83:SB6"
+    ]
+  },
+  "nelis:83:data center": {
+    "at": "2026-07-17T17:02:49.026022+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:data centers": {
+    "at": "2026-07-17T17:02:50.023373+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:colocation": {
+    "at": "2026-07-17T17:02:51.023449+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:evaporative cooling": {
+    "at": "2026-07-17T17:02:52.040711+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:closed-loop": {
+    "at": "2026-07-17T17:02:53.490303+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:cooling water": {
+    "at": "2026-07-17T17:02:54.490878+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:large water user": {
+    "at": "2026-07-17T17:02:55.488526+00:00",
+    "hit_count": 0,
+    "hits": []
+  },
+  "nelis:83:partial abatement": {
+    "at": "2026-07-17T17:02:56.505726+00:00",
+    "hit_count": 11,
+    "hits": [
+      "83:AB70",
+      "83:AB77",
+      "83:AB377",
+      "83:AB447",
+      "83:AB528",
+      "83:AB594",
+      "83:SB69",
+      "83:SB355",
+      "83:SB364",
+      "83:SB430",
+      "83:SB461"
+    ]
+  }
 }

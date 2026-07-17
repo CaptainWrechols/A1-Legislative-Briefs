@@ -1,7 +1,7 @@
 ---
 agent_id: evidence-curator
 agent_name: Evidence Curator
-version: 2.1
+version: 2.2
 pipeline_position: 1
 previous_agent: none
 next_agent: reality-mapper
@@ -41,6 +41,7 @@ Prefer, in order:
 8. `{SOURCES_DIR}/processed/data-gaps.json`
 9. `{SOURCES_DIR}/pass1/bills.json`
 10. `{SOURCES_DIR}/verification/report.json` (if present)
+11. `config/issues/{state}-{issue_slug}.yaml` → `constituent_proposals` (if present)
 
 ## Outputs
 
@@ -103,7 +104,26 @@ For each bill with Final Passage rolls:
 
 Flag bills with **>50% Yes** that did **not** enact.
 
-### 5) Data limits bucket
+### 5) Constituent-proposal crosswalk (when `constituent_proposals` exists)
+
+For each proposal in the issue config, list every bill in the set whose topic
+overlaps it (match on `match_terms` against title + digest, then verify by
+reading the digest). Record:
+
+```json
+{
+  "proposal_id": "regulate-data-centers",
+  "matched_bills": ["83:AB77"],
+  "near_miss_bills": ["80:SB547"],
+  "coverage": "none | thin | partial | substantial",
+  "note": "one plain sentence on what the legislature has/hasn't tried on this proposal"
+}
+```
+
+A proposal with **zero matched bills is a finding, not a failure** — record it
+explicitly so the Reality Mapper can say "lawmakers have not yet tried this."
+
+### 6) Data limits bucket
 
 List missing pieces plainly (no agency impact studies, incomplete committee rolls, keyword scope, etc.).
 
@@ -119,6 +139,7 @@ List missing pieces plainly (no agency impact studies, incomplete committee roll
 - [ ] `evidence-pack.json` covers every bill in the processed core set
 - [ ] Every bill has `plain_topic` and `theme`
 - [ ] Disposition + stage recorded
+- [ ] Constituent-proposal crosswalk present (when proposals exist in config)
 - [ ] Data limits listed
 - [ ] `evidence-pack.md` readable by a teammate in under 10 minutes
 

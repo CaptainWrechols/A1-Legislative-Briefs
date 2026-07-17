@@ -110,6 +110,8 @@ def main() -> None:
             body = row.get("digest") or row.get("official_title") or ""
             bill["abstract"] = body
             bill["official_title"] = row.get("official_title") or bill.get("official_title")
+            if not bill.get("title"):
+                bill["title"] = row.get("official_title") or ""
             bill["abstract_source"] = (
                 "nelis_overview_digest" if row.get("digest") else "nelis_overview_title"
             )
@@ -133,6 +135,8 @@ def main() -> None:
             cache[key] = row
             bill["abstract"] = body
             bill["official_title"] = row.get("official_title") or ""
+            if not bill.get("title"):
+                bill["title"] = row.get("official_title") or ""
             bill["abstract_source"] = (
                 "nelis_overview_digest" if row.get("digest") else "nelis_overview_title"
             )

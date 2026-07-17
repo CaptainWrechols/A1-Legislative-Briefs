@@ -54,7 +54,6 @@ search_terms:
   - "large water user"
   # Incentives that shape where large users locate
   - "partial abatement"
-  - "economic development"
 
 # Words that mark a title/digest as clearly on-topic (review flag only;
 # nothing is dropped). Read by collectors/pass1_bills.py.
