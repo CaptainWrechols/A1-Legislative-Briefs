@@ -110,7 +110,7 @@ constituent_proposals:
     tradeoffs: >-
       Largely outside state legislative scope; requires federal action and
       cooperation from other states.
-    match_terms: ["water pipeline", "interstate water", importation, congress, federal]
+    match_terms: ["water pipeline", "interbasin", "water importation", "import water"]
   - id: regulate-data-centers
     title: "Regulate data centers"
     detail: >-

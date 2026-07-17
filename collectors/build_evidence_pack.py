@@ -191,19 +191,26 @@ def main() -> None:
     for prop in cfg.get("constituent_proposals") or []:
         terms = [t.lower() for t in prop.get("match_terms") or []]
         matched = []
+        near_miss = []
         for b in bills:
             blob = " ".join(
                 [b.get("plain_topic") or "", b.get("title") or ""]
             ).lower()
-            if any(t in blob for t in terms) or (
+            hit = any(t in blob for t in terms) or (
                 b["theme"] == "big-users" and prop["id"] == "regulate-data-centers"
-            ):
+            )
+            if not hit:
+                continue
+            if b["relevance"] == "context":
+                near_miss.append(b["bill_key"])
+            else:
                 matched.append(b["bill_key"])
         crosswalk.append(
             {
                 "proposal_id": prop["id"],
                 "title": prop["title"],
                 "matched_bills": matched,
+                "near_miss_bills": near_miss,
                 "coverage": (
                     "none" if not matched else "thin" if len(matched) <= 2 else "partial"
                 ),
