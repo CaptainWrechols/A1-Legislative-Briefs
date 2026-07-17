@@ -6,6 +6,8 @@ version: citizen-v1.0
 organization: The Nevada Forum
 generated_by: citizen-brief-writer v2.1
 date: 2026-07-17
+status: READY FOR HUMAN REVIEW
+reviewed_by: citizen-reviewer v2.1 (2026-07-17)
 ---
 
 <!-- module: eyebrow-header -->
@@ -113,7 +115,7 @@ Also new in 2025: AB104 (updated grant rules for resource projects, water includ
 1. SB180 (2023) passed both houses with zero "no" votes and still did not become law. Was that a "no" to the idea, or a timing problem?
 2. Retiring water rights failed in 2023 (SB176) and became law in 2025 (SB36). What changed in between?
 3. Most failed bills never got past their first committee. What might help an idea get a hearing and a vote?
-4. Every bill about who checks the State Engineer failed — six bills since 2021. The newest two won big floor votes first. Is that growing support, or chance?
+4. Every bill about who checks the State Engineer failed — six bills since 2021. Two recent ones (2023, 2025) won floor votes in one house before dying in the other. Is that growing support, or chance?
 5. Money bills almost never lost a floor vote, yet two money asks (2023 SB102, 2025 SB159) died in committee. What does "support" mean when the committee is the filter?
 6. This record never says why a bill stopped. Who was in the room and could say more?
 
