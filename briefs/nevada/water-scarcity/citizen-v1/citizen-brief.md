@@ -30,9 +30,9 @@ Your Community Conversations produced three water proposals. This sheet checks e
 
 ## The big picture in numbers
 
-- **100** — water and big-user bills in this record, from 4 sessions (2019, 2021, 2023, 2025). A **session** is the months, every other year, when Nevada lawmakers meet.
-- **52** — became law
-- **26** — died in their first committee, the most common way to fail
+- **108** — water and big-user bills in this record, from 4 sessions (2019, 2021, 2023, 2025). A **session** is the months, every other year, when Nevada lawmakers meet.
+- **59** — became law
+- **27** — died in their first committee, the most common way to fail
 - **3** — were vetoed (rejected by the governor), all in 2023
 - **0** — bills ever filed on desalination or an interstate pipeline
 
@@ -60,7 +60,7 @@ A **bill** (a written idea for a new law) moves in steps: start → first commit
 
 **Often moved before** — in this record, these kinds of ideas usually became law.
 
-- Money for water projects: 11 of 13 became law — grants, dams, studies (2023 AB19 · became law)
+- Money for water projects: 14 of 17 became law — grants, dams, studies (2023 AB19 · became law)
 - Small fixes to water permit rules (2021 AB6 · became law)
 - Rules for water utilities, like shut-off protections (2025 SB442 · became law)
 - Using less water: the southern Nevada decorative-grass ban (2021 AB356 · became law)
@@ -84,10 +84,10 @@ A **bill** (a written idea for a new law) moves in steps: start → first commit
 
 Facts only; no judgment of anyone is implied.
 
-- Half the bills came from committees, half from named lawmakers. A **sponsor** is the lawmaker or committee that puts a bill forward.
+- A slight majority of bills (58 of 108) came from committees rather than named lawmakers. A **sponsor** is the lawmaker or committee that puts a bill forward.
 - Most frequent person sponsor: Pete Goicoechea (R), 14 bills across all four sessions — groundwater, districts, water-rights retirement.
 - Sponsor teams from both major parties were rare (5 bills) — and 4 of the 5 became law.
-- Of 26 first-committee deaths, 14 happened in a Natural Resources committee. Both data-center tax-break restraints died in Assembly Revenue.
+- Of 27 first-committee deaths, 15 happened in a Natural Resources committee. Both data-center tax-break restraints died in Assembly Revenue.
 - New since 2023: the governor's veto stopped three bills in this set. Passing both houses is no longer the last step to watch.
 
 <!-- module: info card pair -->
@@ -115,7 +115,7 @@ Facts, not endorsements — the newest session already changed some things.
 
 ## One fair caution, and where to look next
 
-This set was found by keyword search plus the Legislature's official subject index — 100 policy bills, not a guaranteed complete universe. The record shows where each bill stopped, never why. The appendices in this folder list every bill, vote, sponsor, and source behind this sheet.
+This set was found by keyword search plus the Legislature's official subject index, with special sessions checked too — 108 policy bills, still not a guaranteed complete universe. The record shows where each bill stopped, never why. The appendices in this folder list every bill, vote, sponsor, and source behind this sheet.
 
 ## Source keys (for reviewers)
 
@@ -123,7 +123,7 @@ Claims mapped to evidence-pack bill keys (`session:identifier`; 80=2019, 81=2021
 
 | Claim | Evidence keys / fields |
 |---|---|
-| 100 policy bills; 52 enacted; 26 first-committee deaths; 3 vetoes; 4 sessions | `evidence-pack.json → inventory`; `reality-map.json → session_snapshot` |
+| 108 policy bills; 59 enacted; 27 first-committee deaths; 3 vetoes; 4 sessions | `evidence-pack.json → inventory`; `reality-map.json → session_snapshot` |
 | 0 desalination / pipeline bills | `evidence-pack.json → constituent_proposal_crosswalk` (desalination-new-supply, interstate-pipeline-federal: matched_bills = []) |
 | Recycling study died on floor | `80:AB265` |
 | Cloud seeding funded twice unanimously | `82:SB99` (42-0, 21-0), `83:SB6` (21-0, 42-0) |
@@ -132,8 +132,8 @@ Claims mapped to evidence-pack bill keys (`session:identifier`; 80=2019, 81=2021
 | Data centers: helping 4/4, restraining 0/5, no water statute | `reality-map.json → proposal_reality_cards[regulate-data-centers]`; `80:SB547`, `80:AB400`, `81:AB66`, `82:AB261`; `83:AB77`, `82:SB394`, `82:SB429`, `81:AB449`, `83:SB364` |
 | AB385 cooling preemption died in first committee | `83:AB385` |
 | Basket examples | `82:AB19`, `81:AB6`, `83:SB442`, `81:AB356`, `82:SB180`, `83:AB363`, `83:SB143`, `82:SB394`, `82:AB387`, `81:SJR1`+5 oversight bills |
-| Goicoechea 14 bills; 5 cross-party bills, 4 enacted; 50/50 sponsorship | `evidence-pack.json → people_signals` |
-| 14 of 26 first-committee deaths in Natural Resources | `reality-map.json → people_and_process_signals.committee_chokepoints` |
+| Goicoechea 14 bills; 5 cross-party bills, 4 enacted; 58/50 committee-vs-person sponsorship | `evidence-pack.json → people_signals` |
+| 15 of 27 first-committee deaths in Natural Resources | `reality-map.json → people_and_process_signals.committee_chokepoints` |
 | Passed recently | `83:SB36`, `83:SB6`, `83:SB442`, `83:SB276`, `83:AB449`, `83:SB326`, `83:AB104` |
 | SB36 predecessor failures | `81:AB354`, `82:SB176` |
 | Interim 2026 data-center study | issue config S25 (LCB memo, 2026-03-20); context only |

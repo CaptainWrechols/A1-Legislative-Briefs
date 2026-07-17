@@ -3,7 +3,7 @@
   "issue_title": "Growth, Water Scarcity, and Long-Term Supply in Nevada",
   "generated_by": "reality-mapper v2.2",
   "generated_at": "2026-07-17",
-  "input": "working/nevada/water-scarcity/evidence-pack.json (100 policy bills of 165 collected; 2019-2025)",
+  "input": "working/nevada/water-scarcity/evidence-pack.json (108 policy bills of 189 collected; 2019-2025; recall audit 2026-07-17 added Tahoe/rivers/flood/sewage headings and checked all special sessions)",
   "baskets": {
     "often_moved": "Often moved before",
     "unfinished": "Got support but didn't finish",
@@ -11,49 +11,195 @@
     "mixed": "Mixed record"
   },
   "session_snapshot": {
-    "2019": {"bills": 22, "enacted": 17, "failed": 5, "note": "highest pass rate in the record"},
-    "2021": {"bills": 21, "enacted": 10, "failed": 9, "in_progress": 2},
-    "2023": {"bills": 28, "enacted": 14, "failed": 10, "vetoed": 3, "in_progress": 1, "note": "first vetoes appear in the record"},
-    "2025": {"bills": 29, "enacted": 11, "failed": 18, "note": "worst pass rate in the record; most failures stopped at the first committee"}
+    "2019": {
+      "bills": 24,
+      "enacted": 19,
+      "failed": 5,
+      "note": "highest pass rate in the record"
+    },
+    "2021": {
+      "bills": 23,
+      "enacted": 11,
+      "failed": 10,
+      "in_progress": 2
+    },
+    "2023": {
+      "bills": 30,
+      "enacted": 16,
+      "failed": 10,
+      "vetoed": 3,
+      "in_progress": 1,
+      "note": "first vetoes appear in the record"
+    },
+    "2025": {
+      "bills": 31,
+      "enacted": 13,
+      "failed": 18,
+      "note": "worst pass rate in the record; most failures stopped at the first committee"
+    }
   },
   "theme_scorecards": [
-    {"theme_id": "water-money", "label": "Money for water projects", "bills": 13, "enacted": 11, "basket": "often_moved", "certainty": "high",
-     "typical_stop": "the two failures died in a money committee (82:SB102, 83:SB159)",
-     "examples": ["82:AB19", "83:SB108", "82:AB20", "82:SB102"],
-     "inference": "Inference: appropriations and grant-program bills nearly always finish once they reach a floor; the filter is the money committee, not the vote."},
-    {"theme_id": "water-permits", "label": "Water permits and the State Engineer's rules", "bills": 16, "enacted": 9, "basket": "often_moved", "certainty": "high",
-     "typical_stop": "bigger changes stop in first committee or first floor (80:AB30 was the exception: passed Assembly 31-9, died in Senate)",
-     "examples": ["80:AB62", "81:AB6", "82:SB258", "80:AB30"],
-     "inference": "Inference: narrow, technical permit fixes often moved; bills adding new duties or conditions on the State Engineer moved less."},
-    {"theme_id": "utilities-districts", "label": "Water utilities, districts, and local agencies", "bills": 11, "enacted": 8, "basket": "often_moved", "certainty": "medium",
-     "typical_stop": "first committee (3)",
-     "examples": ["83:AB449", "83:SB326", "83:SB442", "81:SB216"]},
-    {"theme_id": "clean-water", "label": "Clean water and pollution", "bills": 9, "enacted": 6, "basket": "often_moved", "certainty": "medium",
-     "typical_stop": "scattered; the constitutional clean-water right (82:AJR3) died in first committee",
-     "examples": ["83:SB276", "82:AB220", "82:SB115", "82:AJR3"]},
-    {"theme_id": "saving-water", "label": "Using less water", "bills": 6, "enacted": 4, "basket": "often_moved", "certainty": "medium",
-     "typical_stop": "2025 SB143 (water-saving review + turf study) passed the Senate 21-0 and died in the Assembly",
-     "examples": ["81:AB356", "82:AB191", "80:AB163", "83:SB143"],
-     "inference": "Inference: conservation mandates on suppliers often moved; the record's most famous water law (81:AB356 grass ban) is here."},
-    {"theme_id": "planning-supply", "label": "Colorado River, planning, studies, and new supply", "bills": 13, "enacted": 5, "basket": "mixed", "certainty": "medium",
-     "typical_stop": "asking-the-feds resolutions pass; restructuring agencies dies in first committee (80:SB76, 81:AB15); planning mandates got vetoed in 2023 (82:SB169)",
-     "examples": ["82:SB99", "83:SB6", "82:SJR3", "80:SB76", "82:SB169"],
-     "inference": "Inference: cloud seeding is the only new-supply idea that received state money in this record - twice, unanimously."},
-    {"theme_id": "groundwater-wells", "label": "Groundwater, wells, and over-pumped basins", "bills": 12, "enacted": 4, "basket": "mixed", "certainty": "high",
-     "typical_stop": "first committee (5 of 8 non-enactments); 82:SB180 passed both houses 41-0 and unanimous, still no law; the 2025 retry (83:AB363) died on the Assembly floor calendar",
-     "examples": ["82:SB113", "82:SB180", "83:AB363", "81:SB149"]},
-    {"theme_id": "rights-retirement", "label": "Buying, banking, or retiring water rights", "bills": 3, "enacted": 1, "basket": "unfinished", "certainty": "low",
-     "typical_stop": "failed in 2021 (81:AB354 water banking, first committee) and 2023 (82:SB176, first floor), then 83:SB36 became law in 2025",
-     "examples": ["81:AB354", "82:SB176", "83:SB36"],
-     "inference": "Inference: this idea took three sessions to land; recently done - groups may ask whether SB36 covers what they want or leaves gaps (it is limited to over-appropriated basins and depends on funding)."},
-    {"theme_id": "oversight-courts", "label": "Courts and oversight of water decisions", "bills": 6, "enacted": 0, "basket": "rarely_moved", "certainty": "high",
-     "typical_stop": "first committee (3); two got one-chamber floor wins in 2023-2025 and died in the second house (82:AB387 26-14; 83:SB31 15-6)",
-     "examples": ["81:SJR1", "81:AB5", "82:AB387", "83:SB31", "83:AB419"],
-     "inference": "Inference: 0-for-6 across four sessions, but the last two attempts got further than the first four - movement without a finish."},
-    {"theme_id": "big-users", "label": "Data centers, big water users, and tax deals", "bills": 11, "enacted": 4, "basket": "rarely_moved", "certainty": "high",
-     "typical_stop": "bills that would restrain data centers or big tax breaks died early or at the wire; bills that helped them passed",
-     "examples": ["80:SB547", "80:AB400", "83:AB77", "82:SB394", "83:AB385", "82:AB261"],
-     "inference": "Inference: direction matters in this theme. Helping large users: 4 for 4 (80:SB547, 80:AB400, 81:AB66, 82:AB261). Restraining them: 0 for 5 (83:AB77, 82:SB394, 82:SB429, 81:AB449, and 83:SB364 which stalled). The one water-cooling bill (83:AB385) tried to protect evaporative cooling from local bans and died in its first committee."}
+    {
+      "theme_id": "water-money",
+      "label": "Money for water projects",
+      "bills": 17,
+      "enacted": 14,
+      "basket": "often_moved",
+      "certainty": "high",
+      "typical_stop": "the three failures died early: two in a money committee (82:SB102, 83:SB159), one in first committee (81:SB73 Reno flood funding)",
+      "examples": [
+        "82:AB19",
+        "83:SB108",
+        "82:AB20",
+        "82:SB102"
+      ],
+      "inference": "Inference: appropriations and grant-program bills nearly always finish once they reach a floor; the filter is the money committee, not the vote."
+    },
+    {
+      "theme_id": "water-permits",
+      "label": "Water permits and the State Engineer's rules",
+      "bills": 16,
+      "enacted": 9,
+      "basket": "often_moved",
+      "certainty": "high",
+      "typical_stop": "bigger changes stop in first committee or first floor (80:AB30 was the exception: passed Assembly 31-9, died in Senate)",
+      "examples": [
+        "80:AB62",
+        "81:AB6",
+        "82:SB258",
+        "80:AB30"
+      ],
+      "inference": "Inference: narrow, technical permit fixes often moved; bills adding new duties or conditions on the State Engineer moved less."
+    },
+    {
+      "theme_id": "utilities-districts",
+      "label": "Water utilities, districts, and local agencies",
+      "bills": 11,
+      "enacted": 8,
+      "basket": "often_moved",
+      "certainty": "medium",
+      "typical_stop": "first committee (3)",
+      "examples": [
+        "83:AB449",
+        "83:SB326",
+        "83:SB442",
+        "81:SB216"
+      ]
+    },
+    {
+      "theme_id": "clean-water",
+      "label": "Clean water and pollution",
+      "bills": 13,
+      "enacted": 10,
+      "basket": "often_moved",
+      "certainty": "medium",
+      "typical_stop": "scattered; the constitutional clean-water right (82:AJR3) died in first committee; Tahoe cleanup-program bonds passed every session",
+      "examples": [
+        "83:SB276",
+        "82:AB220",
+        "82:SB115",
+        "82:AJR3",
+        "83:SB83"
+      ]
+    },
+    {
+      "theme_id": "saving-water",
+      "label": "Using less water",
+      "bills": 6,
+      "enacted": 4,
+      "basket": "often_moved",
+      "certainty": "medium",
+      "typical_stop": "2025 SB143 (water-saving review + turf study) passed the Senate 21-0 and died in the Assembly",
+      "examples": [
+        "81:AB356",
+        "82:AB191",
+        "80:AB163",
+        "83:SB143"
+      ],
+      "inference": "Inference: conservation mandates on suppliers often moved; the record's most famous water law (81:AB356 grass ban) is here."
+    },
+    {
+      "theme_id": "planning-supply",
+      "label": "Colorado River, planning, studies, and new supply",
+      "bills": 13,
+      "enacted": 5,
+      "basket": "mixed",
+      "certainty": "medium",
+      "typical_stop": "asking-the-feds resolutions pass; restructuring agencies dies in first committee (80:SB76, 81:AB15); planning mandates got vetoed in 2023 (82:SB169)",
+      "examples": [
+        "82:SB99",
+        "83:SB6",
+        "82:SJR3",
+        "80:SB76",
+        "82:SB169"
+      ],
+      "inference": "Inference: cloud seeding is the only new-supply idea that received state money in this record - twice, unanimously."
+    },
+    {
+      "theme_id": "groundwater-wells",
+      "label": "Groundwater, wells, and over-pumped basins",
+      "bills": 12,
+      "enacted": 4,
+      "basket": "mixed",
+      "certainty": "high",
+      "typical_stop": "first committee (5 of 8 non-enactments); 82:SB180 passed both houses 41-0 and unanimous, still no law; the 2025 retry (83:AB363) died on the Assembly floor calendar",
+      "examples": [
+        "82:SB113",
+        "82:SB180",
+        "83:AB363",
+        "81:SB149"
+      ]
+    },
+    {
+      "theme_id": "rights-retirement",
+      "label": "Buying, banking, or retiring water rights",
+      "bills": 3,
+      "enacted": 1,
+      "basket": "unfinished",
+      "certainty": "low",
+      "typical_stop": "failed in 2021 (81:AB354 water banking, first committee) and 2023 (82:SB176, first floor), then 83:SB36 became law in 2025",
+      "examples": [
+        "81:AB354",
+        "82:SB176",
+        "83:SB36"
+      ],
+      "inference": "Inference: this idea took three sessions to land; recently done - groups may ask whether SB36 covers what they want or leaves gaps (it is limited to over-appropriated basins and depends on funding)."
+    },
+    {
+      "theme_id": "oversight-courts",
+      "label": "Courts and oversight of water decisions",
+      "bills": 6,
+      "enacted": 0,
+      "basket": "rarely_moved",
+      "certainty": "high",
+      "typical_stop": "first committee (3); two got one-chamber floor wins in 2023-2025 and died in the second house (82:AB387 26-14; 83:SB31 15-6)",
+      "examples": [
+        "81:SJR1",
+        "81:AB5",
+        "82:AB387",
+        "83:SB31",
+        "83:AB419"
+      ],
+      "inference": "Inference: 0-for-6 across four sessions, but the last two attempts got further than the first four - movement without a finish."
+    },
+    {
+      "theme_id": "big-users",
+      "label": "Data centers, big water users, and tax deals",
+      "bills": 11,
+      "enacted": 4,
+      "basket": "rarely_moved",
+      "certainty": "high",
+      "typical_stop": "bills that would restrain data centers or big tax breaks died early or at the wire; bills that helped them passed",
+      "examples": [
+        "80:SB547",
+        "80:AB400",
+        "83:AB77",
+        "82:SB394",
+        "83:AB385",
+        "82:AB261"
+      ],
+      "inference": "Inference: direction matters in this theme. Helping large users: 4 for 4 (80:SB547, 80:AB400, 81:AB66, 82:AB261). Restraining them: 0 for 5 (83:AB77, 82:SB394, 82:SB429, 81:AB449, and 83:SB364 which stalled). The one water-cooling bill (83:AB385) tried to protect evaporative cooling from local bans and died in its first committee."
+    }
   ],
   "proposal_reality_cards": [
     {
@@ -62,9 +208,18 @@
       "what_lawmakers_tried": "Nothing in this record. Zero bills in 2019-2025 proposed, funded, or studied desalination or an out-of-state supply exchange.",
       "matched_bills": [],
       "closest_bills": [
-        {"key": "80:AB265", "note": "2019 study of water treatment and recycling - passed first committee, died on the Assembly floor"},
-        {"key": "82:SB99", "note": "2023 cloud seeding money - became law (the only 'make more water' idea funded in this record)"},
-        {"key": "83:SB6", "note": "2025 cloud seeding money again - became law"}
+        {
+          "key": "80:AB265",
+          "note": "2019 study of water treatment and recycling - passed first committee, died on the Assembly floor"
+        },
+        {
+          "key": "82:SB99",
+          "note": "2023 cloud seeding money - became law (the only 'make more water' idea funded in this record)"
+        },
+        {
+          "key": "83:SB6",
+          "note": "2025 cloud seeding money again - became law"
+        }
       ],
       "venue_note": "Colorado River trades run through the seven-state compact system and federal law; an international pipeline would need Congress and Mexico. The state tool used so far for interstate asks is a resolution (82:SJR3 passed 42-0, urging federal action). Money and studies, though, are fully within state control - and none have been proposed for desalination.",
       "chokepoint": "No chokepoint yet - the idea has never been filed.",
@@ -81,9 +236,18 @@
       "what_lawmakers_tried": "No bill. The legislature's only moves toward Washington were resolutions: 82:SJR3 (2023) urging the Bureau of Reclamation on Colorado River management passed both houses 42-0 and 21-0; 81:AJR2 and 81:AJR3 (2021) on watershed protection passed at least one house.",
       "matched_bills": [],
       "closest_bills": [
-        {"key": "82:SJR3", "note": "urged federal Colorado River action - passed unanimously"},
-        {"key": "81:AJR2", "note": "forest-and-water resolution - passed, needs second passage"},
-        {"key": "80:SB76", "note": "restructuring the Colorado River Commission - died in first committee (2021 AB15 retried; same result)"}
+        {
+          "key": "82:SJR3",
+          "note": "urged federal Colorado River action - passed unanimously"
+        },
+        {
+          "key": "81:AJR2",
+          "note": "forest-and-water resolution - passed, needs second passage"
+        },
+        {
+          "key": "80:SB76",
+          "note": "restructuring the Colorado River Commission - died in first committee (2021 AB15 retried; same result)"
+        }
       ],
       "venue_note": "A federal mega-project is decided in Congress, not Carson City. What the state controls: resolutions (cheap to pass in this record), the Colorado River Commission's shape and instructions (attempts died twice), and money for studies or lobbying (never proposed for this).",
       "chokepoint": "Not applicable at the state level; agency-restructuring attempts stopped in Senate Government Affairs / Assembly first committees.",
@@ -98,7 +262,19 @@
       "proposal_id": "regulate-data-centers",
       "citizen_proposal": "Regulate data centers: require closed-loop cooling and self-sufficient power, no open evaporative cooling - broad agreement that data centers should 'pay their own way.'",
       "what_lawmakers_tried": "Eleven bills touch data centers or the tax deals that recruit them. None regulates their water or cooling. The scoreboard by direction: bills easing rules or keeping incentives for large users went 4 for 4 (80:SB547 utility exemption for data-center power gear; 80:AB400 kept school-tax abatements workable; 81:AB66 abatement housekeeping; 82:AB261 added water-efficiency language to the state economic development plan). Bills restraining large users or their tax breaks went 0 for 5: 83:AB77 (let the state deny abatements, data centers named - died in Assembly Revenue, its first committee), 82:SB394 (cap abatements at $500,000 - passed the Senate 14-7, died in Assembly Revenue at the deadline), 82:SB429 (tie abatements to paid family leave - vetoed), 81:AB449 (tighten abatement agreements - first committee), 83:SB364 (expand abatements - also stalled). The one cooling bill, 83:AB385, pushed the other way: it would have banned local governments from prohibiting big water-based cooling towers, and died in its first committee.",
-      "matched_bills": ["80:SB547", "80:AB400", "81:AB449", "81:AB66", "82:AB261", "82:SB394", "82:SB429", "83:AB77", "83:AB385", "83:SB364", "82:AB97"],
+      "matched_bills": [
+        "80:SB547",
+        "80:AB400",
+        "81:AB449",
+        "81:AB66",
+        "82:AB261",
+        "82:SB394",
+        "82:SB429",
+        "83:AB77",
+        "83:AB385",
+        "83:SB364",
+        "82:AB97"
+      ],
       "venue_note": "Nevada has no state law on data-center water or cooling. The Southern Nevada evaporative-cooling ban (2023-2024) is a water-authority/local development rule, not a statute - which is why 83:AB385 attacked it through building-code preemption. Water dedication rules for new large users differ by region (Truckee Meadows requires dedicated rights plus an 11% drought reserve; southern Nevada works differently under Lake Mead rules). Interim committees spent 2026 studying data-center water and energy for the 2027 session.",
       "chokepoint": "Assembly Revenue killed both abatement-restraint bills (83:AB77, 82:SB394 after Senate passage). AB385's preemption died in Assembly Government Affairs. That committee failure cut both ways in 2025: it also stopped the industry-friendly cooling bill.",
       "who_carried_adjacent": "Restraint side: committee-sponsored (Assembly Revenue for AB77; Senate Revenue for SB394). Preemption side: Asm. Lisa Cole (R) for AB385. The 2019 enabling bill SB547 was carried by Sen. Chris Brooks (D) with broad Democratic co-sponsorship and passed near-unanimously.",
@@ -111,36 +287,124 @@
     }
   ],
   "people_and_process_signals": {
-    "committee_vs_person_sponsored": "50 of 100 policy bills came from committees; 50 from named lawmakers.",
+    "committee_vs_person_sponsored": "58 of 108 policy bills came from committees; 50 from named lawmakers.",
     "frequent_primaries": [
-      {"name": "Sen. Pete Goicoechea", "party": "Republican", "bills": 14, "note": "groundwater, districts, retirement of rights; some enacted, several stalled"},
-      {"name": "Asm. Howard Watts", "party": "Democratic", "bills": 5, "note": "conservation and clean-water bills across all four sessions"},
-      {"name": "Sen. Chris Brooks", "party": "Democratic", "bills": 5, "note": "energy-water bills incl. 80:SB547"},
-      {"name": "Asm. Sarah Peters", "party": "Democratic", "bills": 5, "note": "permitting and oversight bills"}
+      {
+        "name": "Sen. Pete Goicoechea",
+        "party": "Republican",
+        "bills": 14,
+        "note": "groundwater, districts, retirement of rights; some enacted, several stalled"
+      },
+      {
+        "name": "Asm. Howard Watts",
+        "party": "Democratic",
+        "bills": 5,
+        "note": "conservation and clean-water bills across all four sessions"
+      },
+      {
+        "name": "Sen. Chris Brooks",
+        "party": "Democratic",
+        "bills": 5,
+        "note": "energy-water bills incl. 80:SB547"
+      },
+      {
+        "name": "Asm. Sarah Peters",
+        "party": "Democratic",
+        "bills": 5,
+        "note": "permitting and oversight bills"
+      }
     ],
-    "cross_party_bills": {"count": 5, "keys": ["80:AB233", "80:AB240", "80:AB265", "80:SB236", "83:SB276"], "note": "4 of 5 became law"},
-    "committee_chokepoints": "Of 26 policy bills that died in their first committee, 14 died in a Natural Resources committee. Assembly Revenue stopped both data-center abatement-restraint bills. Money committees (Finance/Ways & Means) stopped 2 appropriations.",
+    "cross_party_bills": {
+      "count": 5,
+      "keys": [
+        "80:AB233",
+        "80:AB240",
+        "80:AB265",
+        "80:SB236",
+        "83:SB276"
+      ],
+      "note": "4 of 5 became law"
+    },
+    "committee_chokepoints": "Of 27 policy bills that died in their first committee, 15 died in a Natural Resources committee. Assembly Revenue stopped both data-center abatement-restraint bills. Money committees (Finance/Ways & Means) stopped 2 appropriations.",
     "veto_watch": "2023 produced 3 vetoes in this set (82:AB97, 82:SB169, 82:SB429) - the governor became a live stop for planning mandates and abatement conditions."
   },
   "high_support_non_enactments": [
-    {"key": "82:SB180", "vote": "41-0 Senate + unanimous Assembly", "note": "groundwater boards; died at session end"},
-    {"key": "83:SB143", "vote": "21-0 Senate", "note": "water-saving review; died in Assembly"},
-    {"key": "82:SJR3", "vote": "42-0 / 21-0", "note": "resolution; passed but is only a request"},
-    {"key": "82:AB97", "vote": "42-0 then veto", "note": "refrigerant preemption; vetoed"},
-    {"key": "82:SB394", "vote": "14-7 Senate", "note": "abatement cap; died in Assembly Revenue"},
-    {"key": "82:AB387", "vote": "26-14 Assembly", "note": "best available science; died in Senate"},
-    {"key": "80:AB30", "vote": "31-9 Assembly", "note": "monitoring plans; died in Senate"},
-    {"key": "83:SB31", "vote": "15-6 Senate", "note": "adjudication update; died in Assembly"},
-    {"key": "83:SB324", "vote": "16-4 Senate", "note": "Tahoe pollutants; died in Assembly"},
-    {"key": "82:SB169", "vote": "18-3 Senate", "note": "master-plan conservation; vetoed"}
+    {
+      "key": "82:SB180",
+      "vote": "41-0 Senate + unanimous Assembly",
+      "note": "groundwater boards; died at session end"
+    },
+    {
+      "key": "83:SB143",
+      "vote": "21-0 Senate",
+      "note": "water-saving review; died in Assembly"
+    },
+    {
+      "key": "82:SJR3",
+      "vote": "42-0 / 21-0",
+      "note": "resolution; passed but is only a request"
+    },
+    {
+      "key": "82:AB97",
+      "vote": "42-0 then veto",
+      "note": "refrigerant preemption; vetoed"
+    },
+    {
+      "key": "82:SB394",
+      "vote": "14-7 Senate",
+      "note": "abatement cap; died in Assembly Revenue"
+    },
+    {
+      "key": "82:AB387",
+      "vote": "26-14 Assembly",
+      "note": "best available science; died in Senate"
+    },
+    {
+      "key": "80:AB30",
+      "vote": "31-9 Assembly",
+      "note": "monitoring plans; died in Senate"
+    },
+    {
+      "key": "83:SB31",
+      "vote": "15-6 Senate",
+      "note": "adjudication update; died in Assembly"
+    },
+    {
+      "key": "83:SB324",
+      "vote": "16-4 Senate",
+      "note": "Tahoe pollutants; died in Assembly"
+    },
+    {
+      "key": "82:SB169",
+      "vote": "18-3 Senate",
+      "note": "master-plan conservation; vetoed"
+    }
   ],
   "recent_enactments_watchlist": [
-    {"key": "83:SB36", "note": "state account to buy and retire water rights in over-pumped basins - recently done; groups may ask whether funding and scope match the need"},
-    {"key": "83:SB6", "note": "cloud seeding funded again"},
-    {"key": "83:SB442", "note": "shut-off protections for water/power customers"},
-    {"key": "83:SB276", "note": "public notice for pollution permits (cross-party sponsors)"},
-    {"key": "83:AB449", "note": "simpler rate changes for small water utilities (with 83:SB326)"},
-    {"key": "83:AB104", "note": "updated water/resource grant rules"}
+    {
+      "key": "83:SB36",
+      "note": "state account to buy and retire water rights in over-pumped basins - recently done; groups may ask whether funding and scope match the need"
+    },
+    {
+      "key": "83:SB6",
+      "note": "cloud seeding funded again"
+    },
+    {
+      "key": "83:SB442",
+      "note": "shut-off protections for water/power customers"
+    },
+    {
+      "key": "83:SB276",
+      "note": "public notice for pollution permits (cross-party sponsors)"
+    },
+    {
+      "key": "83:AB449",
+      "note": "simpler rate changes for small water utilities (with 83:SB326)"
+    },
+    {
+      "key": "83:AB104",
+      "note": "updated water/resource grant rules"
+    }
   ],
   "deliberation_prompts": [
     "No desalination or pipeline bill has ever been filed here. Is that because the ideas are unrealistic, or because no one has asked a sponsor yet? What would a first step (a funded study) cost?",
@@ -150,7 +414,7 @@
     "82:SB180 passed with zero no votes and still didn't become law; its 2025 retry (83:AB363) also died late. What has to change for a third try to finish?",
     "Oversight-of-the-State-Engineer bills are 0 for 6, but the last two won a floor vote in one house. Is support growing, or is the second house the permanent wall?",
     "Three 2023 bills died by veto, not by vote. How should a group weigh the governor when judging what is realistic?",
-    "14 of 26 first-committee deaths happened in Natural Resources committees. Who sits there now, and what have they advanced before?"
+    "15 of 27 first-committee deaths happened in Natural Resources committees. Who sits there now, and what have they advanced before?"
   ],
   "data_limits_carried_forward": [
     "Discovery is keyword search plus the LCB subject index - broad, not provably complete.",

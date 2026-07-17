@@ -1,8 +1,9 @@
 # Political-Reality Map — Growth, Water Scarcity, and Long-Term Supply in Nevada
 
 - **Issue:** `nevada-04-water-scarcity` · reality-mapper v2.2 · 2026-07-17
-- **Input:** `evidence-pack.json` — 100 policy bills (of 165 collected), sessions 2019–2025
+- **Input:** `evidence-pack.json` — 108 policy bills (of 189 collected), sessions 2019–2025
 - **For:** citizen working groups sharpening the three Phase 2 water proposals
+- **Coverage:** keyword search + full LCB subject-index harvest (incl. Tahoe, rivers, flood, sewage headings after a recall audit); all six 2020–2025 special sessions checked — no water or data-center bills there
 
 ## The headline
 
@@ -19,10 +20,10 @@ onto the legislative record in three very different ways:
 
 | Session | Bills | Enacted | Failed | Vetoed | Note |
 |---|---|---|---|---|---|
-| 2019 | 22 | 17 | 5 | — | best pass rate in the record |
-| 2021 | 21 | 10 | 9 | — | 2 resolutions still pending |
-| 2023 | 28 | 14 | 10 | 3 | vetoes appear for the first time |
-| 2025 | 29 | 11 | 18 | — | worst pass rate; most deaths in first committee |
+| 2019 | 24 | 19 | 5 | — | best pass rate in the record |
+| 2021 | 23 | 11 | 10 | — | 2 resolutions still pending |
+| 2023 | 30 | 16 | 10 | 3 | vetoes appear for the first time |
+| 2025 | 31 | 13 | 18 | — | worst pass rate; most deaths in first committee |
 
 ## Proposal reality cards
 
@@ -65,10 +66,10 @@ onto the legislative record in three very different ways:
 
 | Theme | Bills | Enacted | Basket | Certainty |
 |---|---|---|---|---|
-| Money for water projects | 13 | 11 | Often moved before | high |
+| Money for water projects | 17 | 14 | Often moved before | high |
 | Water permits / State Engineer rules | 16 | 9 | Often moved before | high |
 | Water utilities and districts | 11 | 8 | Often moved before | medium |
-| Clean water and pollution | 9 | 6 | Often moved before | medium |
+| Clean water and pollution | 13 | 10 | Often moved before | medium |
 | Using less water | 6 | 4 | Often moved before | medium |
 | Colorado River, planning, new supply | 13 | 5 | Mixed | medium |
 | Groundwater, wells, over-pumped basins | 12 | 4 | Mixed (strong unfinished streak) | high |
@@ -80,10 +81,10 @@ Inference lines and per-theme stop stages are in `reality-map.json`.
 
 ## People and process signals (facts only)
 
-- 50 of 100 policy bills were committee-sponsored; 50 came from named lawmakers.
+- 58 of 108 policy bills were committee-sponsored; 50 came from named lawmakers.
 - Sen. Pete Goicoechea (R) is the most frequent person sponsor (14 bills; groundwater, districts, rights retirement). Asm. Howard Watts (D), Sen. Chris Brooks (D), and Asm. Sarah Peters (D) each carried 5.
 - Cross-party sponsor teams: 5 bills; 4 became law.
-- Of 26 first-committee deaths, **14 were in a Natural Resources committee**; Assembly Revenue stopped both abatement-restraint bills.
+- Of 27 first-committee deaths, **15 were in a Natural Resources committee**; Assembly Revenue stopped both abatement-restraint bills.
 - **The governor is a live stop:** 3 vetoes in 2023 (82:AB97, 82:SB169, 82:SB429).
 
 ## High-support non-enactments (top of the list)
@@ -111,7 +112,7 @@ rules).
 5. What has to change for the groundwater-boards idea (82:SB180 → 83:AB363) to finish on the third try?
 6. Oversight bills are 0-for-6 but gaining floor wins. Growing support or a permanent second-house wall?
 7. Three 2023 deaths were vetoes. How should groups weigh the governor's desk?
-8. Who sits on the Natural Resources committees now — the place where 14 of 26 early deaths happened?
+8. Who sits on the Natural Resources committees now — the place where 15 of 27 early deaths happened?
 
 ## Data limits carried forward
 

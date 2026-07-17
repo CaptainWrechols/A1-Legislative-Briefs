@@ -1,49 +1,49 @@
 {
   "issue_id": "nevada-04-water-scarcity",
   "issue_title": "Growth, Water Scarcity, and Long-Term Supply in Nevada",
-  "built_at": "2026-07-17T18:07:51.836424+00:00",
+  "built_at": "2026-07-17T20:50:45.448097+00:00",
   "generated_by": "evidence-curator v2.2 (curation-map + build_evidence_pack.py)",
   "inventory": {
-    "total_bills_collected": 165,
-    "policy_bills": 100,
-    "core_bills": 86,
-    "adjacent_bills": 14,
-    "context_bills": 65,
+    "total_bills_collected": 189,
+    "policy_bills": 108,
+    "core_bills": 88,
+    "adjacent_bills": 20,
+    "context_bills": 81,
     "dispositions_policy": {
-      "Enacted": 52,
-      "Failed": 42,
+      "Enacted": 59,
+      "Failed": 43,
       "In Progress": 3,
       "Vetoed": 3
     },
     "sessions": {
       "2019": {
-        "bills_in_set": 22,
+        "bills_in_set": 24,
         "dispositions": {
-          "Enacted": 17,
+          "Enacted": 19,
           "Failed": 5
         }
       },
       "2021": {
-        "bills_in_set": 21,
+        "bills_in_set": 23,
         "dispositions": {
-          "Enacted": 10,
-          "Failed": 9,
+          "Enacted": 11,
+          "Failed": 10,
           "In Progress": 2
         }
       },
       "2023": {
-        "bills_in_set": 28,
+        "bills_in_set": 30,
         "dispositions": {
-          "Enacted": 14,
+          "Enacted": 16,
           "Failed": 10,
           "Vetoed": 3,
           "In Progress": 1
         }
       },
       "2025": {
-        "bills_in_set": 29,
+        "bills_in_set": 31,
         "dispositions": {
-          "Enacted": 11,
+          "Enacted": 13,
           "Failed": 18
         }
       }
@@ -51,6 +51,35 @@
     "discovery_note": "Set discovered via NELIS keyword search + the LCB official Subject Index of Bills (WATER, WATER RIGHTS, STATE ENGINEER, DROUGHT, DATA CENTERS and related headings) for 2019-2025. Keyword-plus-index discovery is strong but still not a proven complete universe."
   },
   "themes": [
+    {
+      "theme_id": "water-money",
+      "label": "Money for water projects",
+      "bills": [
+        "80:AB84",
+        "80:SB507",
+        "80:SB509",
+        "80:SB519",
+        "81:AB465",
+        "81:SB430",
+        "81:SB73",
+        "82:AB19",
+        "82:AB20",
+        "82:AB470",
+        "82:SB102",
+        "82:SB472",
+        "82:SB492",
+        "83:AB104",
+        "83:AB577",
+        "83:SB108",
+        "83:SB159"
+      ],
+      "bill_count": 17,
+      "enacted_count": 14,
+      "enactment_rate_pct": 82.4,
+      "stop_stages_when_not_enacted": {
+        "origin_committee": 3
+      }
+    },
     {
       "theme_id": "water-permits",
       "label": "Water permits and the State Engineer's rules",
@@ -82,6 +111,33 @@
       }
     },
     {
+      "theme_id": "clean-water",
+      "label": "Clean water and pollution",
+      "bills": [
+        "80:AB220",
+        "80:AB537",
+        "81:AB146",
+        "81:AB97",
+        "81:SB368",
+        "82:AB220",
+        "82:AB313",
+        "82:AB424",
+        "82:AJR3",
+        "82:SB115",
+        "83:SB276",
+        "83:SB324",
+        "83:SB83"
+      ],
+      "bill_count": 13,
+      "enacted_count": 10,
+      "enactment_rate_pct": 76.9,
+      "stop_stages_when_not_enacted": {
+        "origin_floor": 1,
+        "origin_committee": 1,
+        "second_chamber": 1
+      }
+    },
+    {
       "theme_id": "planning-supply",
       "label": "Colorado River, planning, studies, and new supply",
       "bills": [
@@ -107,31 +163,6 @@
         "origin_committee": 3,
         "after_both_chambers": 3,
         "vetoed": 1
-      }
-    },
-    {
-      "theme_id": "water-money",
-      "label": "Money for water projects",
-      "bills": [
-        "80:SB507",
-        "80:SB509",
-        "80:SB519",
-        "81:AB465",
-        "81:SB430",
-        "82:AB19",
-        "82:AB20",
-        "82:AB470",
-        "82:SB102",
-        "82:SB472",
-        "83:AB104",
-        "83:SB108",
-        "83:SB159"
-      ],
-      "bill_count": 13,
-      "enacted_count": 11,
-      "enactment_rate_pct": 84.6,
-      "stop_stages_when_not_enacted": {
-        "origin_committee": 2
       }
     },
     {
@@ -207,29 +238,6 @@
         "vetoed": 2,
         "second_chamber": 1,
         "origin_floor": 1
-      }
-    },
-    {
-      "theme_id": "clean-water",
-      "label": "Clean water and pollution",
-      "bills": [
-        "80:AB537",
-        "81:AB146",
-        "81:AB97",
-        "82:AB220",
-        "82:AB313",
-        "82:AJR3",
-        "82:SB115",
-        "83:SB276",
-        "83:SB324"
-      ],
-      "bill_count": 9,
-      "enacted_count": 6,
-      "enactment_rate_pct": 66.7,
-      "stop_stages_when_not_enacted": {
-        "origin_floor": 1,
-        "origin_committee": 1,
-        "second_chamber": 1
       }
     },
     {
@@ -395,7 +403,7 @@
     }
   ],
   "people_signals": {
-    "committee_sponsored_policy_bills": 50,
+    "committee_sponsored_policy_bills": 58,
     "person_sponsored_policy_bills": 50,
     "frequent_primary_sponsors": [
       {
@@ -417,19 +425,6 @@
           "82:SB176",
           "82:SB180",
           "82:SB99"
-        ]
-      },
-      {
-        "name": "Assemblywoman Sarah Peters",
-        "party": "Democratic",
-        "bill_count": 6,
-        "bills": [
-          "80:AB163",
-          "80:AB240",
-          "80:AB265",
-          "81:AB146",
-          "82:AB313",
-          "82:AJR3"
         ]
       },
       {
@@ -457,27 +452,26 @@
         ]
       },
       {
+        "name": "Assemblywoman Sarah Peters",
+        "party": "Democratic",
+        "bill_count": 5,
+        "bills": [
+          "80:AB240",
+          "80:AB265",
+          "81:AB146",
+          "82:AB313",
+          "82:AJR3"
+        ]
+      },
+      {
         "name": "Senator James Settelmeyer",
         "party": "Republican",
-        "bill_count": 5,
+        "bill_count": 4,
         "bills": [
           "80:SB150",
           "80:SB232",
           "80:SB250",
-          "81:SB216",
           "81:SB98"
-        ]
-      },
-      {
-        "name": "Senator Ira Hansen",
-        "party": "Republican",
-        "bill_count": 5,
-        "bills": [
-          "80:SB150",
-          "80:SB236",
-          "80:SB250",
-          "82:SB113",
-          "83:SB276"
         ]
       },
       {
@@ -499,16 +493,6 @@
           "80:AB240",
           "80:AB400",
           "81:AB449"
-        ]
-      },
-      {
-        "name": "Senator Joseph Hardy",
-        "party": "Republican",
-        "bill_count": 3,
-        "bills": [
-          "80:SB150",
-          "80:SB250",
-          "81:SB216"
         ]
       },
       {
@@ -539,6 +523,24 @@
           "83:AB265",
           "83:AB312",
           "83:AB419"
+        ]
+      },
+      {
+        "name": "Assemblyman Al Kramer",
+        "party": "Republican",
+        "bill_count": 2,
+        "bills": [
+          "80:AB233",
+          "80:AB240"
+        ]
+      },
+      {
+        "name": "Assemblywoman Melissa Hardy",
+        "party": "Republican",
+        "bill_count": 2,
+        "bills": [
+          "80:AB233",
+          "82:AB97"
         ]
       }
     ],
@@ -616,7 +618,9 @@
           "name": "Senator Chris Brooks",
           "party": "Democratic",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Assemblywoman Lesley Cohen",
           "party": "Democratic",
@@ -631,9 +635,18 @@
           "name": "Assemblywoman Sarah Peters",
           "party": "Democratic",
           "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Heidi Swank",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Melanie Scheible",
+          "party": "Democratic",
+          "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": 70.0,
       "best_floor_yes_no": "28-12",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6249/Overview",
@@ -692,7 +705,133 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
+      "co_sponsors": [
+        {
+          "name": "Assemblyman Alexander Assefa",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Shea Backus",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Teresa Benitez-Thompson",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Shannon Bilbray-Axelrod",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Maggie Carlton",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Lesley Cohen",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Bea Duran",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Jason Frierson",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Michelle Gorelow",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Sandra Jauregui",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Susie Martinez",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Brittney Miller",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Daniele Monroe-Moreno",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Connie Munk",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Dina Neal",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Rochelle Nguyen",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Sarah Peters",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Greg Smith",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Ellen Spiegel",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Heidi Swank",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Tyrone Thompson",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Selena Torres",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Howard Watts",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Steve Yeager",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Moises Denis",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
       "best_floor_yes_pct": 70.7,
       "best_floor_yes_no": "29-12",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6293/Overview",
@@ -720,6 +859,30 @@
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "39-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5918/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:AB220",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "AB220",
+      "title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "plain_topic": "Bonds for the Lake Tahoe environmental cleanup program (water quality included)",
+      "theme": "clean-water",
+      "relevance": "adjacent",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Ways and Means",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "40-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6383/Overview",
       "strong_title_match": true
     },
     {
@@ -753,14 +916,20 @@
           "name": "Senator David Parks",
           "party": "Democratic",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Assemblyman Gregory Hafen",
           "party": "Republican",
           "entity_type": "person"
+        },
+        {
+          "name": "Senator James Settelmeyer",
+          "party": "Republican",
+          "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "41-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6409/Overview",
@@ -809,7 +978,18 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
+      "co_sponsors": [
+        {
+          "name": "Assemblywoman Lisa Krasner",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Jill Tolles",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
       "best_floor_yes_pct": 95.0,
       "best_floor_yes_no": "19-1",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6429/Overview",
@@ -853,7 +1033,13 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
+      "co_sponsors": [
+        {
+          "name": "Senator Melanie Scheible",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
       "best_floor_yes_pct": null,
       "best_floor_yes_no": null,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6480/Overview",
@@ -907,7 +1093,58 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
+      "co_sponsors": [
+        {
+          "name": "Assemblyman Richard Carrillo",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Bea Duran",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Ozzie Fumo",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Sandra Jauregui",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Susie Martinez",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman William McCurdy",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Daniele Monroe-Moreno",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Dina Neal",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Ellen Spiegel",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Dallas Harris",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
       "best_floor_yes_pct": 90.5,
       "best_floor_yes_no": "19-2",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6498/Overview",
@@ -980,7 +1217,38 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
+      "co_sponsors": [
+        {
+          "name": "Assemblywoman Alexis Hansen",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Melissa Hardy",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Al Kramer",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Glen Leavitt",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman William McCurdy",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Chris Brooks",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "39-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6580/Overview",
@@ -1131,6 +1399,30 @@
       "strong_title_match": true
     },
     {
+      "bill_key": "80:AB505",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "AB505",
+      "title": "AN ACT making appropriations to the Division of State Parks for self-pay kiosks, replacement of vehicles, a paving project and construction at Ice Age Fossils State Park and maintenance equipment for Sand Harbor at Lake Tahoe Nevada State Park; and providing other matters properly relating thereto.",
+      "plain_topic": "Money for Lake Tahoe Nevada State Park; not about water supply",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Ways and Means",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "39-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7007/Overview",
+      "strong_title_match": true
+    },
+    {
       "bill_key": "80:AB51",
       "session": "80",
       "session_year": "2019",
@@ -1224,6 +1516,78 @@
       "best_floor_yes_pct": 68.3,
       "best_floor_yes_no": "28-13",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5987/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:AB73",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "AB73",
+      "title": "AN ACT relating to homeless persons; providing for the creation of a temporary working group in Clark County to address issues relating to homelessness; requiring the working group to prepare and submit a report of its recommendations to address issues relating to homelessness; and providing other matters properly relating thereto.",
+      "plain_topic": "Clark County homelessness working group; sewer surcharge only as a funding idea",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Taxation",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "20-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6016/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:AB84",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "AB84",
+      "title": "AN ACT relating to state resources; providing for the issuance of state general obligation bonds to protect, preserve and obtain the benefits of the property and natural and cultural resources of the State of Nevada; providing for the use of the proceeds of the bonds; repealing the prospective extension of the period for the issuance of certain bonds; making an appropriation; and providing other matters properly relating thereto.",
+      "plain_topic": "Bonds for river corridor improvements on the Carson and Truckee rivers",
+      "theme": "water-money",
+      "relevance": "core",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Ways and Means",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "39-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6040/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:AB93",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "AB93",
+      "title": "AN ACT relating to license plates; authorizing the Administrator of the Division of State Lands of the State Department of Conservation and Natural Resources to provide grants to nonprofit organizations from the Account for License Plates for the Support of the Preservation and Restoration of the Natural Environment of the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "plain_topic": "License plate money for Tahoe preservation; not about water supply",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Natural Resources, Agriculture, and Mining",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "40-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6076/Overview",
       "strong_title_match": true
     },
     {
@@ -1329,14 +1693,15 @@
           "name": "Assemblyman John Ellison",
           "party": "Republican",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Senator Ira Hansen",
           "party": "Republican",
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "39-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6187/Overview",
@@ -1387,14 +1752,15 @@
           "name": "Senator Chris Brooks",
           "party": "Democratic",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Senator Ira Hansen",
           "party": "Republican",
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "39-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6400/Overview",
@@ -1426,7 +1792,9 @@
           "name": "Senator Joseph Hardy",
           "party": "Republican",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Senator Ira Hansen",
           "party": "Republican",
@@ -1438,7 +1806,6 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "39-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6424/Overview",
@@ -1465,14 +1832,15 @@
           "name": "Senator Ben Kieckhefer",
           "party": "Republican",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Senator Pete Goicoechea",
           "party": "Republican",
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": null,
       "best_floor_yes_no": null,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6487/Overview",
@@ -1747,7 +2115,38 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
+      "co_sponsors": [
+        {
+          "name": "Senator Moises Denis",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Marilyn Dondero Loop",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator James Ohrenschall",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Julia Ratti",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Marcia Washington",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Joyce Woodhouse",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "21-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7057/Overview",
@@ -1799,6 +2198,54 @@
       "best_floor_yes_pct": null,
       "best_floor_yes_no": null,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6007/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:SCR5",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SCR5",
+      "title": "Expressing support for the role of science in preserving the environmental and ecological conditions in the Lake Tahoe Basin and recognizing the role of the Tahoe Bi-State Executive Committee and the Tahoe Science Advisory Council in providing scientific resources to help guide decision making and planning regarding natural resources and implementation of environmental improvement projects in the Lake Tahoe Basin.",
+      "plain_topic": "Resolution praising science's role at Lake Tahoe",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Unknown",
+      "death_or_success_stage": "origin_committee",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Legislative Operations and Elections",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6843/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "80:SJR7",
+      "session": "80",
+      "session_year": "2019",
+      "identifier": "SJR7",
+      "title": "Expressing support for finding innovative transportation solutions in the Lake Tahoe Basin and for the efforts of the Bi-State Working Group on Transportation.",
+      "plain_topic": "Resolution on Tahoe transportation",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "In Progress",
+      "death_or_success_stage": "after_both_chambers",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Legislative Operations and Elections",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "39-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6921/Overview",
       "strong_title_match": true
     },
     {
@@ -1923,7 +2370,9 @@
           "name": "Assemblyman Tom Roberts",
           "party": "Republican",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Assemblyman John Ellison",
           "party": "Republican",
@@ -1940,7 +2389,6 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "21-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7859/Overview",
@@ -2193,14 +2641,45 @@
           "name": "Assemblywoman Lesley Cohen",
           "party": "Democratic",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Assemblywoman Natha Anderson",
           "party": "Democratic",
           "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Tracy Brown-May",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Edgar Flores",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Brittney Miller",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Rochelle Nguyen",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblywoman Selena Torres",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Fabian Donate",
+          "party": "Democratic",
+          "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": 61.9,
       "best_floor_yes_no": "26-16",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7487/Overview",
@@ -2352,7 +2831,9 @@
           "name": "Senator Keith Pickard",
           "party": "Republican",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Senator Joseph Hardy",
           "party": "Republican",
@@ -2364,7 +2845,6 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": null,
       "best_floor_yes_no": null,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7687/Overview",
@@ -2496,6 +2976,30 @@
       "strong_title_match": false
     },
     {
+      "bill_key": "81:SB368",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SB368",
+      "title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "plain_topic": "Bonds for the Lake Tahoe environmental cleanup program (water quality included)",
+      "theme": "clean-water",
+      "relevance": "adjacent",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Government Affairs",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "20-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8043/Overview",
+      "strong_title_match": true
+    },
+    {
       "bill_key": "81:SB395",
       "session": "81",
       "session_year": "2021",
@@ -2616,6 +3120,54 @@
       "strong_title_match": true
     },
     {
+      "bill_key": "81:SB72",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SB72",
+      "title": "AN ACT relating to common-interest communities; requiring a limited-purpose association to comply with certain requirements relating to the establishment and foreclosure of a lien for assessments; revising provisions relating to the imposition of fines that may be assessed for certain violations of the governing documents of a unit-owners' association; revising provisions relating to meetings of the executive board of a unit-owners' association; and providing other matters properly relating thereto.",
+      "plain_topic": "Housing association liens; flood-control law only in passing",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Judiciary",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 95.2,
+      "best_floor_yes_no": "20-1",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7278/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:SB73",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SB73",
+      "title": "AN ACT relating to taxation; authorizing the City Council of the City of Reno to adopt a resolution establishing the formation of a committee to recommend the imposition of certain taxes or reallocation of certain tax revenue to fund certain natural resources projects and services in the City of Reno; providing that if such a committee is formed and submits its recommendations to the City Council of the City of Reno within the time prescribed, the City Council of the City of Reno is required to submit a question to the voters of the City of Reno at the 2022 General Election asking whether the recommended taxes should be imposed or the recommended tax revenue reallocated, or both; requiring the City Council of the City of Reno to adopt an ordinance imposing any such taxes or reallocating any such tax revenue approved by the voters; providing for the use of the proceeds of such taxes and tax revenue for such natural resources projects and services; providing for the prospective expiration of the authority to establish such a committee; and providing other matters properly relating thereto.",
+      "plain_topic": "Let Reno voters consider taxes to fund flood management on the Truckee River",
+      "theme": "water-money",
+      "relevance": "adjacent",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_committee",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Revenue and Economic Development",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7279/Overview",
+      "strong_title_match": true
+    },
+    {
       "bill_key": "81:SB98",
       "session": "81",
       "session_year": "2021",
@@ -2641,7 +3193,9 @@
           "name": "Assemblyman Jim Wheeler",
           "party": "Republican",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Senator Carrie Buck",
           "party": "Republican",
@@ -2653,10 +3207,57 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "41-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7388/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:SCR8",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SCR8",
+      "title": "Expressing support for the identification of key transportation priorities for the Lake Tahoe Basin.",
+      "plain_topic": "Resolution on Tahoe transportation priorities",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Unknown",
+      "death_or_success_stage": "origin_committee",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Growth and Infrastructure",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8058/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "81:SCR9",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SCR9",
+      "title": "Expressing support for the Nevada System of Higher Education to work collaboratively in its science and research efforts addressing the needs of the Lake Tahoe Basin.",
+      "plain_topic": "Resolution asking universities to collaborate at Tahoe",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Unknown",
+      "death_or_success_stage": "origin_committee",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Education",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8079/Overview",
       "strong_title_match": true
     },
     {
@@ -2684,6 +3285,30 @@
       "strong_title_match": true
     },
     {
+      "bill_key": "81:SJR12",
+      "session": "81",
+      "session_year": "2021",
+      "identifier": "SJR12",
+      "title": "Expressing the priority of the timely completion of the Tahoe East Shore Trail extension project and urging Congress to provide federal funding for completion of the project.",
+      "plain_topic": "Resolution asking Congress to fund the Tahoe East Shore Trail",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "In Progress",
+      "death_or_success_stage": "after_both_chambers",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Growth and Infrastructure",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "21-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8070/Overview",
+      "strong_title_match": true
+    },
+    {
       "bill_key": "82:AB131",
       "session": "82",
       "session_year": "2023",
@@ -2704,7 +3329,9 @@
           "name": "Assemblyman Howard Watts",
           "party": "Democratic",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Assemblywoman Natha Anderson",
           "party": "Democratic",
@@ -2721,7 +3348,6 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "20-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9781/Overview",
@@ -2791,7 +3417,9 @@
           "name": "Assemblyman Rich DeLong",
           "party": "Republican",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Assemblywoman Jill Dickman",
           "party": "Republican",
@@ -2808,7 +3436,6 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "42-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9903/Overview",
@@ -3031,6 +3658,30 @@
       "strong_title_match": true
     },
     {
+      "bill_key": "82:AB424",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "AB424",
+      "title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; revising provisions relating to the use of accrued interest on the proceeds of certain previously authorized bonds; and providing other matters properly relating thereto.",
+      "plain_topic": "Bonds for the Lake Tahoe environmental cleanup program (water quality included)",
+      "theme": "clean-water",
+      "relevance": "adjacent",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Government Affairs",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10393/Overview",
+      "strong_title_match": true
+    },
+    {
       "bill_key": "82:AB445",
       "session": "82",
       "session_year": "2023",
@@ -3080,7 +3731,9 @@
           "name": "Senator Carrie Buck",
           "party": "Republican",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Assemblywoman Jill Dickman",
           "party": "Republican",
@@ -3090,9 +3743,18 @@
           "name": "Assemblyman Reuben D'Silva",
           "party": "Democratic",
           "entity_type": "person"
+        },
+        {
+          "name": "Assemblyman Richard McArthur",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Ira Hansen",
+          "party": "Republican",
+          "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": 97.6,
       "best_floor_yes_no": "41-1",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10449/Overview",
@@ -3243,6 +3905,30 @@
       "strong_title_match": true
     },
     {
+      "bill_key": "82:ACR5",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "ACR5",
+      "title": "Expressing support for the Lake Tahoe Transportation Action Plan.",
+      "plain_topic": "Resolution supporting the Tahoe transportation plan",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Unknown",
+      "death_or_success_stage": "origin_floor",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Legislative Operations and Elections",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10201/Overview",
+      "strong_title_match": true
+    },
+    {
       "bill_key": "82:AJR3",
       "session": "82",
       "session_year": "2023",
@@ -3263,7 +3949,9 @@
           "name": "Assemblyman Howard Watts",
           "party": "Democratic",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Assemblywoman Clara Thomas",
           "party": "Democratic",
@@ -3280,7 +3968,6 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": null,
       "best_floor_yes_no": null,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9946/Overview",
@@ -3377,7 +4064,13 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
+      "co_sponsors": [
+        {
+          "name": "Senator Lisa Krasner",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "42-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9757/Overview",
@@ -3576,6 +4269,35 @@
       "strong_title_match": true
     },
     {
+      "bill_key": "82:SB318",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "SB318",
+      "title": "AN ACT relating to indigent persons; authorizing the governing body of an incorporated city to impose an annual surcharge on users of the sanitary sewer system of an incorporated city to provide funding for services and affordable housing for persons who are homeless or indigent in the incorporated city; and providing other matters properly relating thereto.",
+      "plain_topic": "Let cities add a sewer surcharge to fund services and housing; about housing funding",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Failed",
+      "death_or_success_stage": "origin_floor",
+      "primary_sponsors": [
+        {
+          "name": "Senator Melanie Scheible",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Dallas Harris",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": null,
+      "best_floor_yes_no": null,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10211/Overview",
+      "strong_title_match": true
+    },
+    {
       "bill_key": "82:SB394",
       "session": "82",
       "session_year": "2023",
@@ -3717,6 +4439,30 @@
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "42-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10526/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "82:SB492",
+      "session": "82",
+      "session_year": "2023",
+      "identifier": "SB492",
+      "title": "AN ACT making appropriations to the State Department of Conservation and Natural Resources for the replacement or purchase of certain information technology, vehicles and equipment; and providing other matters properly relating thereto.",
+      "plain_topic": "Money for the conservation department's vehicles and technology (water agency included)",
+      "theme": "water-money",
+      "relevance": "adjacent",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Finance",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10578/Overview",
       "strong_title_match": true
     },
     {
@@ -3927,14 +4673,15 @@
           "name": "Assemblymember Danielle Gallant",
           "party": "Republican",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Senator Jeff Stone",
           "party": "Republican",
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "41-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12011/Overview",
@@ -4013,6 +4760,30 @@
       "strong_title_match": true
     },
     {
+      "bill_key": "83:AB241",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB241",
+      "title": "AN ACT relating to housing; requiring the governing body of each county and city to adopt an ordinance to authorize by-right a multifamily housing development or mixed-use development that includes a residential use on property zoned for commercial use; declaring void certain county or city ordinances; authorizing the State Land Registrar to transfer, under certain circumstances, certain real property owned by the State of Nevada to certain entities without consideration; and providing other matters properly relating thereto.",
+      "plain_topic": "Housing permit rules near Tahoe; not about water supply",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Assemblymember Sandra Jauregui",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 71.4,
+      "best_floor_yes_no": "15-6",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12262/Overview",
+      "strong_title_match": true
+    },
+    {
       "bill_key": "83:AB26",
       "session": "83",
       "session_year": "2025",
@@ -4057,14 +4828,15 @@
           "name": "Assemblymember Rich DeLong",
           "party": "Republican",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Assemblymember Heidi Kasama",
           "party": "Republican",
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": null,
       "best_floor_yes_no": null,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12311/Overview",
@@ -4156,7 +4928,48 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
+      "co_sponsors": [
+        {
+          "name": "Assemblymember Lisa Cole",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Rich DeLong",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Brian Hibbetts",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Gregory Koenig",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember PK O\u2019Neill",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Fabian Do\u00f1ate",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator John Ellison",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Jeff Stone",
+          "party": "Republican",
+          "entity_type": "person"
+        }
+      ],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "42-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12519/Overview",
@@ -4241,7 +5054,9 @@
           "name": "Assemblymember Bert Gurr",
           "party": "Republican",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Assemblymember Jill Dickman",
           "party": "Republican",
@@ -4253,7 +5068,6 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": null,
       "best_floor_yes_no": null,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12606/Overview",
@@ -4275,14 +5089,15 @@
           "name": "Assemblymember Melissa Hardy",
           "party": "Republican",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Assemblymember Duy Nguyen",
           "party": "Democratic",
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": null,
       "best_floor_yes_no": null,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12655/Overview",
@@ -4438,6 +5253,30 @@
       "strong_title_match": true
     },
     {
+      "bill_key": "83:AB577",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "AB577",
+      "title": "AN ACT making appropriations to the State Department of Conservation and Natural Resources for a certain new website and database and for the replacement of vehicles and computer hardware and associated software; and providing other matters properly relating thereto.",
+      "plain_topic": "Money for the state water agency's website, database, vehicles, and computers",
+      "theme": "water-money",
+      "relevance": "core",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Assembly Committee on Ways and Means",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12909/Overview",
+      "strong_title_match": true
+    },
+    {
       "bill_key": "83:AB592",
       "session": "83",
       "session_year": "2025",
@@ -4582,6 +5421,54 @@
       "strong_title_match": true
     },
     {
+      "bill_key": "83:SB10",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB10",
+      "title": "AN ACT relating to governmental administration; revising provisions governing the submission of certain reports by the State Land Registrar; repealing provisions requiring the State Forester Firewarden to submit an annual report relating to the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "plain_topic": "Repealed a Tahoe fire-health report; not about water supply",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11757/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:SB106",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB106",
+      "title": "AN ACT relating to vessels; prohibiting the operation of a vessel in excess of a certain speed within 600 feet of the shoreline of Lake Tahoe; revising provisions relating to the violation of certain provisions of the Code of Ordinances of the Tahoe Regional Planning Agency; providing a penalty; and providing other matters properly relating thereto.",
+      "plain_topic": "Boat speed limits near the Tahoe shoreline; not about water supply",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "41-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11998/Overview",
+      "strong_title_match": true
+    },
+    {
       "bill_key": "83:SB108",
       "session": "83",
       "session_year": "2025",
@@ -4701,7 +5588,58 @@
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
+      "co_sponsors": [
+        {
+          "name": "Senator Fabian Do\u00f1ate",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator John Ellison",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator James Ohrenschall",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Julie Pazina",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Melanie Scheible",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator John Steinbeck",
+          "party": "Republican",
+          "entity_type": "person"
+        },
+        {
+          "name": "Senator Angela Taylor",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Natha Anderson",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Venise Karris",
+          "party": "Democratic",
+          "entity_type": "person"
+        },
+        {
+          "name": "Assemblymember Selena La Rue Hatch",
+          "party": "Democratic",
+          "entity_type": "person"
+        }
+      ],
       "best_floor_yes_pct": 100.0,
       "best_floor_yes_no": "42-0",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12476/Overview",
@@ -4747,14 +5685,15 @@
           "name": "Senator Melanie Scheible",
           "party": "Democratic",
           "entity_type": "person"
-        },
+        }
+      ],
+      "co_sponsors": [
         {
           "name": "Senator Rochelle Nguyen",
           "party": "Democratic",
           "entity_type": "person"
         }
       ],
-      "co_sponsors": [],
       "best_floor_yes_pct": 80.0,
       "best_floor_yes_no": "16-4",
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12553/Overview",
@@ -4881,6 +5820,30 @@
       "strong_title_match": false
     },
     {
+      "bill_key": "83:SB426",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB426",
+      "title": "AN ACT relating to public safety; creating the Lake Tahoe Basin Scenic Byway Corridor Recreation Safety Zone; authorizing certain entities to establish certain parking restrictions and prohibitions and enter into agreements with other governmental entities to provide parking enforcement and collect parking fees within the Safety Zone; providing a penalty; and providing other matters properly relating thereto.",
+      "plain_topic": "Tahoe scenic byway safety zone; not about water supply",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12773/Overview",
+      "strong_title_match": true
+    },
+    {
       "bill_key": "83:SB43",
       "session": "83",
       "session_year": "2025",
@@ -5001,6 +5964,30 @@
       "strong_title_match": true
     },
     {
+      "bill_key": "83:SB494",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB494",
+      "title": "AN ACT relating to state government; creating the Nevada Health Authority; creating certain divisions and offices within the Authority; providing for the appointment of officers and the employment of staff for the Authority; establishing requirements governing procurement by the Authority; creating the Nevada Health Authority Gift Fund; prescribing the duties of the Authority and its divisions and officers; transferring to the Authority the responsibility for operating various programs and administering various provisions; revising the name of certain agencies; revising certain terminology; eliminating the Division of Health Care Financing and Policy of the Department of Health and Human Services; revising provisions governing the operation of the Public Employees' Benefits Program and Medicaid; requiring certain reporting on the costs of health insurance for retired state employees; authorizing the Authority to require the reporting of certain information on the cost of certain prescription drugs; revising the membership and duties of the Board of Directors of the Silver State Health Insurance Exchange; providing for a study of opportunities for the Board of the Public Employees' Benefits Program to directly contract with certain providers of health care; providing for a study of and the development of a plan to transfer certain additional functions to the Authority; and providing other matters properly relating thereto.",
+      "plain_topic": "Moved sanitation duties between health agencies; not about water supply",
+      "theme": "context",
+      "relevance": "context",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Finance",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "42-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12936/Overview",
+      "strong_title_match": true
+    },
+    {
       "bill_key": "83:SB55",
       "session": "83",
       "session_year": "2025",
@@ -5118,6 +6105,30 @@
       "best_floor_yes_pct": null,
       "best_floor_yes_no": null,
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11891/Overview",
+      "strong_title_match": true
+    },
+    {
+      "bill_key": "83:SB83",
+      "session": "83",
+      "session_year": "2025",
+      "identifier": "SB83",
+      "title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "plain_topic": "Required bonds for the Lake Tahoe environmental cleanup program (water quality included)",
+      "theme": "clean-water",
+      "relevance": "adjacent",
+      "disposition": "Enacted",
+      "death_or_success_stage": "enacted",
+      "primary_sponsors": [
+        {
+          "name": "Senate Committee on Natural Resources",
+          "party": null,
+          "entity_type": "organization"
+        }
+      ],
+      "co_sponsors": [],
+      "best_floor_yes_pct": 100.0,
+      "best_floor_yes_no": "39-0",
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11959/Overview",
       "strong_title_match": true
     }
   ]

@@ -3659,5 +3659,348 @@
       }
     ],
     "collected_at": "2026-07-17T17:39:56.163141+00:00"
+  },
+  "80:AB220": {
+    "session": "80",
+    "identifier": "AB220",
+    "sponsors": [
+      {
+        "name": "Assembly Committee on Ways and Means",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/238/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:26.241787+00:00"
+  },
+  "80:AB505": {
+    "session": "80",
+    "identifier": "AB505",
+    "sponsors": [
+      {
+        "name": "Assembly Committee on Ways and Means",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/238/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:28.620175+00:00"
+  },
+  "80:AB73": {
+    "session": "80",
+    "identifier": "AB73",
+    "sponsors": [
+      {
+        "name": "Assembly Committee on Taxation",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/236/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:31.012843+00:00"
+  },
+  "80:AB84": {
+    "session": "80",
+    "identifier": "AB84",
+    "sponsors": [
+      {
+        "name": "Assembly Committee on Ways and Means",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/238/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:34.060985+00:00"
+  },
+  "80:AB93": {
+    "session": "80",
+    "identifier": "AB93",
+    "sponsors": [
+      {
+        "name": "Assembly Committee on Natural Resources, Agriculture, and Mining",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/235/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:36.431968+00:00"
+  },
+  "80:SCR5": {
+    "session": "80",
+    "identifier": "SCR5",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Legislative Operations and Elections",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/223/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:38.890444+00:00"
+  },
+  "80:SJR7": {
+    "session": "80",
+    "identifier": "SJR7",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Legislative Operations and Elections",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Committee/223/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:41.279345+00:00"
+  },
+  "81:SB368": {
+    "session": "81",
+    "identifier": "SB368",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Government Affairs",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/334/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:43.600479+00:00"
+  },
+  "81:SB72": {
+    "session": "81",
+    "identifier": "SB72",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Judiciary",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/329/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:45.941119+00:00"
+  },
+  "81:SB73": {
+    "session": "81",
+    "identifier": "SB73",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Revenue and Economic Development",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/331/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:48.248055+00:00"
+  },
+  "81:SCR8": {
+    "session": "81",
+    "identifier": "SCR8",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Growth and Infrastructure",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/338/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:50.605549+00:00"
+  },
+  "81:SCR9": {
+    "session": "81",
+    "identifier": "SCR9",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Education",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/342/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:52.906128+00:00"
+  },
+  "81:SJR12": {
+    "session": "81",
+    "identifier": "SJR12",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Growth and Infrastructure",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Committee/338/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:55.198884+00:00"
+  },
+  "82:AB424": {
+    "session": "82",
+    "identifier": "AB424",
+    "sponsors": [
+      {
+        "name": "Assembly Committee on Government Affairs",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/396/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:57.578781+00:00"
+  },
+  "82:ACR5": {
+    "session": "82",
+    "identifier": "ACR5",
+    "sponsors": [
+      {
+        "name": "Assembly Committee on Legislative Operations and Elections",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/394/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:40:59.947459+00:00"
+  },
+  "82:SB318": {
+    "session": "82",
+    "identifier": "SB318",
+    "sponsors": [
+      {
+        "name": "Senator Melanie Scheible",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/9"
+      },
+      {
+        "name": "Senator Dallas Harris",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/82nd2023/11"
+      }
+    ],
+    "collected_at": "2026-07-17T20:41:02.389724+00:00"
+  },
+  "82:SB492": {
+    "session": "82",
+    "identifier": "SB492",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Finance",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Committee/390/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:41:04.890683+00:00"
+  },
+  "83:AB241": {
+    "session": "83",
+    "identifier": "AB241",
+    "sponsors": [
+      {
+        "name": "Assemblymember Sandra Jauregui",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/41"
+      }
+    ],
+    "collected_at": "2026-07-17T20:41:07.240189+00:00"
+  },
+  "83:AB577": {
+    "session": "83",
+    "identifier": "AB577",
+    "sponsors": [
+      {
+        "name": "Assembly Committee on Ways and Means",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/452/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:41:09.620754+00:00"
+  },
+  "83:SB10": {
+    "session": "83",
+    "identifier": "SB10",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Natural Resources",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/439/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:41:11.982997+00:00"
+  },
+  "83:SB106": {
+    "session": "83",
+    "identifier": "SB106",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Natural Resources",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/439/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:41:14.378365+00:00"
+  },
+  "83:SB426": {
+    "session": "83",
+    "identifier": "SB426",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Natural Resources",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/439/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:41:18.647751+00:00"
+  },
+  "83:SB494": {
+    "session": "83",
+    "identifier": "SB494",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Finance",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/446/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:41:21.139799+00:00"
+  },
+  "83:SB83": {
+    "session": "83",
+    "identifier": "SB83",
+    "sponsors": [
+      {
+        "name": "Senate Committee on Natural Resources",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "organization",
+        "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Committee/439/Overview"
+      }
+    ],
+    "collected_at": "2026-07-17T20:41:23.713742+00:00"
   }
 }

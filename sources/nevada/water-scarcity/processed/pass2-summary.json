@@ -1,19 +1,19 @@
 {
   "pass": 2,
-  "collected_at": "2026-07-17T18:01:31.231103+00:00",
-  "bill_count": 165,
-  "action_rows": 1625,
-  "sponsor_rows": 278,
-  "vote_events": 212,
+  "collected_at": "2026-07-17T20:40:23.233328+00:00",
+  "bill_count": 189,
+  "action_rows": 1915,
+  "sponsor_rows": 303,
+  "vote_events": 248,
   "openstates_found": 0,
   "nelis_failures": [],
   "openstates_failures": [],
   "skip_votes": false,
   "note": "Scoped to pass1/bills.json only. NELIS provides roll-call names; OpenStates provides voter party when the bill exists and names match.",
   "party_enrichment": {
-    "updated_at": "2026-07-17T18:03:21.459003+00:00",
-    "ballot_rows": 8854,
-    "ballot_rows_with_party": 8691,
+    "updated_at": "2026-07-17T20:44:52.515003+00:00",
+    "ballot_rows": 10367,
+    "ballot_rows_with_party": 10180,
     "coverage_pct": 98.2,
     "sponsor_rows_filled": 0,
     "unmatched_unique_names": [
@@ -22,6 +22,7 @@
       "Dy, Har",
       "Gansert, Heidi Seevers",
       "Gansert, Seevers",
+      "Hafen",
       "Hatch, Selena La Rue",
       "II, Gregory T. Hafen",
       "II, Max Carter",
@@ -32,7 +33,8 @@
       "O'Neill",
       "O\u2019Neill, P.K.",
       "Thompson, Benitez-",
-      "Tus, Ti"
+      "Tus, Ti",
+      "\u00c1lez, Gonz"
     ],
     "method": "nelis_legislator_directory_plus_ballotpedia_fallback"
   }

@@ -10,6 +10,8 @@ Final Passage floor votes for policy bills, plus committee work-session votes wh
 | 2019 | AB163 | Senate (2nd Reprint) | 14 | 6 | 70.0% | 12 D / 2 R | Enacted |
 | 2019 | AB21 | Assembly (As Introduced) | 39 | 0 | 100.0% | 27 D / 12 R | Enacted |
 | 2019 | AB21 | Senate (As Introduced) | 20 | 0 | 100.0% | 12 D / 8 R | Enacted |
+| 2019 | AB220 | Assembly (As Introduced) | 40 | 0 | 100.0% | 28 D / 12 R | Enacted |
+| 2019 | AB220 | Senate (As Introduced) | 20 | 0 | 100.0% | 12 D / 8 R | Enacted |
 | 2019 | AB233 | Assembly (1st Reprint) | 41 | 0 | 100.0% | 29 D / 12 R | Enacted |
 | 2019 | AB233 | Senate (1st Reprint) | 21 | 0 | 100.0% | 13 D / 8 R | Enacted |
 | 2019 | AB240 | Assembly (1st Reprint) | 38 | 3 | 92.7% | 29 D / 9 R | Enacted |
@@ -21,6 +23,8 @@ Final Passage floor votes for policy bills, plus committee work-session votes wh
 | 2019 | AB537 | Senate (1st Reprint) | 20 | 0 | 100.0% | 12 D / 8 R | Enacted |
 | 2019 | AB62 | Assembly (2nd Reprint) | 28 | 13 | 68.3% | 28 D / 0 R | Enacted |
 | 2019 | AB62 | Senate (3rd Reprint) | 12 | 9 | 57.1% | 12 D / 0 R | Enacted |
+| 2019 | AB84 | Assembly (1st Reprint) | 39 | 0 | 100.0% | 27 D / 12 R | Enacted |
+| 2019 | AB84 | Senate (1st Reprint) | 20 | 1 | 95.2% | 13 D / 7 R | Enacted |
 | 2019 | AB95 | Assembly (1st Reprint) | 28 | 12 | 70.0% | 28 D / 0 R | Enacted |
 | 2019 | AB95 | Senate (1st Reprint) | 11 | 10 | 52.4% | 11 D / 0 R | Enacted |
 | 2019 | SB140 | Assembly (2nd Reprint) | 39 | 0 | 100.0% | 27 D / 12 R | Enacted |
@@ -61,6 +65,8 @@ Final Passage floor votes for policy bills, plus committee work-session votes wh
 | 2021 | SB14 | Senate (1st Reprint) | 21 | 0 | 100.0% | 12 D / 9 R | Enacted |
 | 2021 | SB283 | Assembly (2nd Reprint) | 34 | 7 | 82.9% | 26 D / 8 R | Enacted |
 | 2021 | SB283 | Senate (1st Reprint) | 14 | 7 | 66.7% | 12 D / 2 R | Enacted |
+| 2021 | SB368 | Assembly (As Introduced) | 37 | 4 | 90.2% | 26 D / 11 R | Enacted |
+| 2021 | SB368 | Senate (As Introduced) | 20 | 0 | 100.0% | 12 D / 8 R | Enacted |
 | 2021 | SB430 | Assembly (1st Reprint) | 38 | 4 | 90.5% | 26 D / 12 R | Enacted |
 | 2021 | SB430 | Senate (1st Reprint) | 21 | 0 | 100.0% | 12 D / 9 R | Enacted |
 | 2021 | SB98 | Assembly (As Introduced) | 41 | 0 | 100.0% | 26 D / 15 R | Enacted |
@@ -78,6 +84,8 @@ Final Passage floor votes for policy bills, plus committee work-session votes wh
 | 2023 | AB34 | Assembly (1st Reprint) | 40 | 2 | 95.2% | 28 D / 12 R | Enacted |
 | 2023 | AB34 | Senate (2nd Reprint) | 21 | 0 | 100.0% | 13 D / 8 R | Enacted |
 | 2023 | AB387 | Assembly (1st Reprint) | 26 | 14 | 65.0% | 26 D / 0 R | Failed |
+| 2023 | AB424 | Assembly (As Introduced) | 42 | 0 | 100.0% | 28 D / 14 R | Enacted |
+| 2023 | AB424 | Senate (As Introduced) | 18 | 3 | 85.7% | 13 D / 5 R | Enacted |
 | 2023 | AB470 | Assembly (As Introduced) | 41 | 0 | 100.0% | 28 D / 13 R | Enacted |
 | 2023 | AB470 | Senate (As Introduced) | 21 | 0 | 100.0% | 13 D / 8 R | Enacted |
 | 2023 | AB91 | Assembly (1st Reprint) | 40 | 2 | 95.2% | 26 D / 14 R | Enacted |
@@ -101,6 +109,8 @@ Final Passage floor votes for policy bills, plus committee work-session votes wh
 | 2023 | SB472 | Senate (As Introduced) | 20 | 0 | 100.0% | 12 D / 8 R | Enacted |
 | 2023 | SB473 | Assembly (As Introduced) | 42 | 0 | 100.0% | 28 D / 14 R | Enacted |
 | 2023 | SB473 | Senate (As Introduced) | 13 | 7 | 65.0% | 12 D / 1 R | Enacted |
+| 2023 | SB492 | Assembly (1st Reprint) | 42 | 0 | 100.0% | 28 D / 14 R | Enacted |
+| 2023 | SB492 | Senate (1st Reprint) | 21 | 0 | 100.0% | 13 D / 8 R | Enacted |
 | 2023 | SB99 | Assembly (As Introduced) | 42 | 0 | 100.0% | 28 D / 14 R | Enacted |
 | 2023 | SB99 | Senate (As Introduced) | 21 | 0 | 100.0% | 13 D / 8 R | Enacted |
 | 2023 | SJR3 | Assembly (1st Reprint) | 42 | 0 | 100.0% | 28 D / 14 R | In Progress |
@@ -115,6 +125,8 @@ Final Passage floor votes for policy bills, plus committee work-session votes wh
 | 2025 | AB26 | Senate (1st Reprint) | 21 | 0 | 100.0% | 13 D / 8 R | Enacted |
 | 2025 | AB449 | Assembly (1st Reprint) | 41 | 0 | 100.0% | 27 D / 14 R | Enacted |
 | 2025 | AB449 | Senate (1st Reprint) | 21 | 0 | 100.0% | 13 D / 8 R | Enacted |
+| 2025 | AB577 | Assembly (As Introduced) | 42 | 0 | 100.0% | 27 D / 15 R | Enacted |
+| 2025 | AB577 | Senate (As Introduced) | 20 | 0 | 100.0% | 12 D / 8 R | Enacted |
 | 2025 | SB108 | Assembly (As Introduced) | 42 | 0 | 100.0% | 27 D / 15 R | Enacted |
 | 2025 | SB108 | Senate (As Introduced) | 21 | 0 | 100.0% | 13 D / 8 R | Enacted |
 | 2025 | SB143 | Senate (As Introduced) | 21 | 0 | 100.0% | 13 D / 8 R | Failed |
@@ -130,6 +142,8 @@ Final Passage floor votes for policy bills, plus committee work-session votes wh
 | 2025 | SB442 | Senate (1st Reprint) | 17 | 4 | 81.0% | 13 D / 4 R | Enacted |
 | 2025 | SB6 | Assembly (As Introduced) | 39 | 3 | 92.9% | 27 D / 12 R | Enacted |
 | 2025 | SB6 | Senate (As Introduced) | 21 | 0 | 100.0% | 13 D / 8 R | Enacted |
+| 2025 | SB83 | Assembly (1st Reprint) | 39 | 0 | 100.0% | 24 D / 15 R | Enacted |
+| 2025 | SB83 | Senate (1st Reprint) | 21 | 0 | 100.0% | 13 D / 8 R | Enacted |
 
 <!-- pdf-page-break -->
 

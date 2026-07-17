@@ -41,7 +41,7 @@ SESSIONS = {
     "83": ("83rd2025", f"{BASE}/Session/83rd2025/Reports/TablesAndIndex/Index.html"),
 }
 
-# Subject headings to harvest (regex against the cleaned heading text).
+# Subject headings to harvest fully (regex against the cleaned heading text).
 HEAD_PATTERNS = (
     r"^WATER\b",
     r"^WASTEWATER",
@@ -60,6 +60,14 @@ HEAD_PATTERNS = (
     r"^MARLETTE LAKE",
     r"INTERSTATE WATERS",
     r"^WATER BANKING",
+    r"^RIVERS\b",
+    r"^DAMS?\b",
+    r"^FLOOD",
+    r"^SEWAGE",
+    r"^SANITATION\b",
+    r"^LAKE TAHOE",
+    r"^TAHOE BASIN",
+    r"^TRUCKEE RIVER",
 )
 
 # Headings that match above but are not about water policy.
@@ -69,7 +77,8 @@ HEAD_EXCLUDE = (
 )
 
 # Entry-level keywords harvested from ANY heading (catches e.g. the 2023
-# evaporative-cooling ordinance bill filed under BUILDING CODES).
+# evaporative-cooling ordinance bill filed under BUILDING CODES, or water
+# entries filed under the Conservation & Natural Resources department).
 ENTRY_KEYWORDS = (
     "data center",
     "desalination",
@@ -77,6 +86,18 @@ ENTRY_KEYWORDS = (
     "closed-loop",
     "cloud seeding",
     "water importation",
+    "water rights",
+    "water resources",
+    "water conservation",
+    "water pollution",
+    "water systems",
+    "water quality",
+    "public water",
+    "groundwater",
+    "aquifer",
+    "colorado river",
+    "truckee river",
+    "high water mark",
 )
 
 IDENT_RE = re.compile(r">\s*((?:AB|SB|AJR|SJR|ACR|SCR)\s*\d+)\s*</a>")

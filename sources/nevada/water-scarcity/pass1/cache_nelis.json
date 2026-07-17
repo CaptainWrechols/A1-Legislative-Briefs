@@ -2332,5 +2332,346 @@
       "subject-index: WELL DRILLERS"
     ],
     "collected_at": "2026-07-17T17:16:00.187020+00:00"
+  },
+  "80:AB220": {
+    "source": "nelis",
+    "session": "80",
+    "session_path": "80th2019",
+    "identifier": "AB220",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "6383",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6383/Overview",
+    "found_by_terms": [
+      "subject-index: TAHOE BASIN"
+    ],
+    "collected_at": "2026-07-17T20:34:44.625549+00:00"
+  },
+  "80:AB505": {
+    "source": "nelis",
+    "session": "80",
+    "session_path": "80th2019",
+    "identifier": "AB505",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "7007",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7007/Overview",
+    "found_by_terms": [
+      "subject-index: TAHOE BASIN"
+    ],
+    "collected_at": "2026-07-17T20:34:45.628554+00:00"
+  },
+  "80:AB73": {
+    "source": "nelis",
+    "session": "80",
+    "session_path": "80th2019",
+    "identifier": "AB73",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "6016",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6016/Overview",
+    "found_by_terms": [
+      "subject-index: SEWAGE DISPOSAL"
+    ],
+    "collected_at": "2026-07-17T20:34:46.429108+00:00"
+  },
+  "80:AB84": {
+    "source": "nelis",
+    "session": "80",
+    "session_path": "80th2019",
+    "identifier": "AB84",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "6040",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6040/Overview",
+    "found_by_terms": [
+      "subject-index: RIVERS",
+      "subject-index: TAHOE BASIN",
+      "subject-index: TRUCKEE RIVER"
+    ],
+    "collected_at": "2026-07-17T20:34:47.246949+00:00"
+  },
+  "80:AB93": {
+    "source": "nelis",
+    "session": "80",
+    "session_path": "80th2019",
+    "identifier": "AB93",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "6076",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6076/Overview",
+    "found_by_terms": [
+      "subject-index: TAHOE BASIN"
+    ],
+    "collected_at": "2026-07-17T20:34:48.046618+00:00"
+  },
+  "80:SCR5": {
+    "source": "nelis",
+    "session": "80",
+    "session_path": "80th2019",
+    "identifier": "SCR5",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "6843",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6843/Overview",
+    "found_by_terms": [
+      "subject-index: TAHOE BASIN"
+    ],
+    "collected_at": "2026-07-17T20:34:48.837011+00:00"
+  },
+  "80:SJR7": {
+    "source": "nelis",
+    "session": "80",
+    "session_path": "80th2019",
+    "identifier": "SJR7",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "6921",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6921/Overview",
+    "found_by_terms": [
+      "subject-index: TAHOE BASIN"
+    ],
+    "collected_at": "2026-07-17T20:34:49.628257+00:00"
+  },
+  "81:SB368": {
+    "source": "nelis",
+    "session": "81",
+    "session_path": "81st2021",
+    "identifier": "SB368",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "8043",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8043/Overview",
+    "found_by_terms": [
+      "subject-index: TAHOE BASIN"
+    ],
+    "collected_at": "2026-07-17T20:34:50.541685+00:00"
+  },
+  "81:SB72": {
+    "source": "nelis",
+    "session": "81",
+    "session_path": "81st2021",
+    "identifier": "SB72",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "7278",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7278/Overview",
+    "found_by_terms": [
+      "subject-index: FLOOD CONTROL"
+    ],
+    "collected_at": "2026-07-17T20:34:51.336631+00:00"
+  },
+  "81:SB73": {
+    "source": "nelis",
+    "session": "81",
+    "session_path": "81st2021",
+    "identifier": "SB73",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "7279",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7279/Overview",
+    "found_by_terms": [
+      "subject-index: FLOOD CONTROL",
+      "subject-index: TRUCKEE RIVER"
+    ],
+    "collected_at": "2026-07-17T20:34:52.250359+00:00"
+  },
+  "81:SCR8": {
+    "source": "nelis",
+    "session": "81",
+    "session_path": "81st2021",
+    "identifier": "SCR8",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "8058",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8058/Overview",
+    "found_by_terms": [
+      "subject-index: TAHOE BASIN"
+    ],
+    "collected_at": "2026-07-17T20:34:53.612627+00:00"
+  },
+  "81:SCR9": {
+    "source": "nelis",
+    "session": "81",
+    "session_path": "81st2021",
+    "identifier": "SCR9",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "8079",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8079/Overview",
+    "found_by_terms": [
+      "subject-index: TAHOE BASIN"
+    ],
+    "collected_at": "2026-07-17T20:34:54.439506+00:00"
+  },
+  "81:SJR12": {
+    "source": "nelis",
+    "session": "81",
+    "session_path": "81st2021",
+    "identifier": "SJR12",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "8070",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8070/Overview",
+    "found_by_terms": [
+      "subject-index: TAHOE BASIN"
+    ],
+    "collected_at": "2026-07-17T20:34:55.239687+00:00"
+  },
+  "82:AB424": {
+    "source": "nelis",
+    "session": "82",
+    "session_path": "82nd2023",
+    "identifier": "AB424",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "10393",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10393/Overview",
+    "found_by_terms": [
+      "subject-index: TAHOE BASIN"
+    ],
+    "collected_at": "2026-07-17T20:34:56.201567+00:00"
+  },
+  "82:ACR5": {
+    "source": "nelis",
+    "session": "82",
+    "session_path": "82nd2023",
+    "identifier": "ACR5",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "10201",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10201/Overview",
+    "found_by_terms": [
+      "subject-index: TAHOE BASIN"
+    ],
+    "collected_at": "2026-07-17T20:34:57.330187+00:00"
+  },
+  "82:SB318": {
+    "source": "nelis",
+    "session": "82",
+    "session_path": "82nd2023",
+    "identifier": "SB318",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "10211",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10211/Overview",
+    "found_by_terms": [
+      "subject-index: SEWAGE DISPOSAL"
+    ],
+    "collected_at": "2026-07-17T20:34:58.128938+00:00"
+  },
+  "82:SB492": {
+    "source": "nelis",
+    "session": "82",
+    "session_path": "82nd2023",
+    "identifier": "SB492",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "10578",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10578/Overview",
+    "found_by_terms": [
+      "subject-index: APPROPRIATIONS"
+    ],
+    "collected_at": "2026-07-17T20:34:58.939729+00:00"
+  },
+  "83:AB241": {
+    "source": "nelis",
+    "session": "83",
+    "session_path": "83rd2025",
+    "identifier": "AB241",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "12262",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12262/Overview",
+    "found_by_terms": [
+      "subject-index: TAHOE BASIN"
+    ],
+    "collected_at": "2026-07-17T20:34:59.906372+00:00"
+  },
+  "83:AB577": {
+    "source": "nelis",
+    "session": "83",
+    "session_path": "83rd2025",
+    "identifier": "AB577",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "12909",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12909/Overview",
+    "found_by_terms": [
+      "subject-index: APPROPRIATIONS",
+      "subject-index: COMPUTERS AND INFORMATION SYSTEMS",
+      "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF"
+    ],
+    "collected_at": "2026-07-17T20:35:00.780269+00:00"
+  },
+  "83:SB10": {
+    "source": "nelis",
+    "session": "83",
+    "session_path": "83rd2025",
+    "identifier": "SB10",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "11757",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11757/Overview",
+    "found_by_terms": [
+      "subject-index: LAKE TAHOE"
+    ],
+    "collected_at": "2026-07-17T20:35:01.587728+00:00"
+  },
+  "83:SB106": {
+    "source": "nelis",
+    "session": "83",
+    "session_path": "83rd2025",
+    "identifier": "SB106",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "11998",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11998/Overview",
+    "found_by_terms": [
+      "subject-index: LAKE TAHOE"
+    ],
+    "collected_at": "2026-07-17T20:35:02.390891+00:00"
+  },
+  "83:SB426": {
+    "source": "nelis",
+    "session": "83",
+    "session_path": "83rd2025",
+    "identifier": "SB426",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "12773",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12773/Overview",
+    "found_by_terms": [
+      "subject-index: TAHOE BASIN"
+    ],
+    "collected_at": "2026-07-17T20:35:03.431602+00:00"
+  },
+  "83:SB494": {
+    "source": "nelis",
+    "session": "83",
+    "session_path": "83rd2025",
+    "identifier": "SB494",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "12936",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12936/Overview",
+    "found_by_terms": [
+      "subject-index: SANITATION"
+    ],
+    "collected_at": "2026-07-17T20:35:04.248633+00:00"
+  },
+  "83:SB83": {
+    "source": "nelis",
+    "session": "83",
+    "session_path": "83rd2025",
+    "identifier": "SB83",
+    "title": "",
+    "abstract": "",
+    "nelis_bill_key": "11959",
+    "source_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11959/Overview",
+    "found_by_terms": [
+      "subject-index: LAKE TAHOE"
+    ],
+    "collected_at": "2026-07-17T20:35:05.099744+00:00"
   }
 }

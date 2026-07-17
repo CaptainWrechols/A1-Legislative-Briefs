@@ -2,7 +2,7 @@
 
 Only bills that were enrolled / delivered to the Governor (or signed).
 
-Total compared: **99**
+Total compared: **121**
 
 ## 1. 80:AB163
 
@@ -73,7 +73,30 @@ Authorizes a board of county commissioners in certain counties to appoint member
 
 ---
 
-## 4. 80:AB233
+## 4. 80:AB220
+
+- **Title:** AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** No
+- **Similarity:** 0.3538
+- **Amendments:** —
+
+No amendments or reprints appear on NELIS for this bill. The enrolled PDF may look different from the introduced PDF due to formatting, but there is no evidence the substance was amended before it reached the Governor.
+
+### Legislative Counsel’s Digest (enrolled)
+
+The Environmental Improvement Program was implemented in 1997 to carry out projects to improve the environment in the Lake Tahoe Basin. The costs of the Program are apportioned among the Federal Government, the States of Nevada and California and local governments and owners of private property in both states. In 1999, the Nevada Legislature authorized the issuance of not more than $53.2 million in general obligation bonds to pay for a significant portion of Nevada’s share of the costs of the first phase of the Program . (Chapter 514, Statutes of Nevada 1999, p. 2626) In 2009, the Nevada Legislature authorized the issuance of not more than $100 million in general obligation bonds to pay for Nevada’s share of the costs of the second phase of the Program. Issuance of those bonds requires the approval of the Legislature or the Interim Finance Committee. (Chapter 431, Statutes of Nevada 2009, p. 2417) The Nevada Legislature in 2009 also required the issuance of not more than $4,420,000 of such bonds to provide money to carry out certain environmental improvement projects included in the second phase of the Program. (Chapter 431, Statutes of Nevada 2009, p. 2416) In 2011, the Nevada Legislature required the issuance of not more than $12 million of the $100 million in general obligation bonds authorized in 2009 to provide additional money to carry out environmental improvement projects included in the second phase of the Program. (Chapter 437, Statutes of Nevada 2011, p. 2638) This bill requires the issuance of not more than $8 million of the $100 million in general obligation bonds authorized in 2009 to provide money to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program. EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+### Introduced SUMMARY line
+
+Requires the issuance of bonds for environmental improvement projects in the Lake Tahoe Basin. (BDR S-435)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB220.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB220_EN.pdf
+
+---
+
+## 5. 80:AB233
 
 - **Title:** Revises provisions related to water. (BDR 48-45)
 - **Status:** ok
@@ -96,7 +119,7 @@ Revises provisions related to water. (BDR 48-45)
 
 ---
 
-## 5. 80:AB240
+## 6. 80:AB240
 
 - **Title:** AN ACT relating to regional planning; requiring representatives from certain counties and cities to meet jointly for a specified period to identify issues and make recommendations regarding the orderly management of growth in their region; requiring such counties, in consultation with such cities, to prepare certain reports individually and jointly during that period; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -119,7 +142,7 @@ Requires certain counties to meet jointly and prepare reports addressing the ord
 
 ---
 
-## 6. 80:AB275
+## 7. 80:AB275
 
 - **Title:** AN ACT relating to licensing; prohibiting a regulatory body from denying licensure of an applicant based on his or her immigration or citizenship status; authorizing an applicant for a professional or occupational license who does not have a social security number to provide an individual taxpayer identification number; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -142,7 +165,7 @@ Makes various changes relating to professional and occupational licensing. (BDR 
 
 ---
 
-## 7. 80:AB319
+## 8. 80:AB319
 
 - **Title:** AN ACT relating to professional licensing; authorizing a person to petition a professional or occupational licensing board for a determination of whether the person's criminal history will disqualify him or her from obtaining a license; requiring a professional or occupational licensing board to implement a process for such a petition; establishing certain requirements for such process; requiring a professional or occupational licensing board to make a quarterly report to the Legislative Counsel Bureau with certain information; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -165,7 +188,7 @@ Revises provisions governing professional licensing. (BDR 54-314)
 
 ---
 
-## 8. 80:AB400
+## 9. 80:AB400
 
 - **Title:** Revises provisions governing economic development. (BDR 22-803)
 - **Status:** ok
@@ -188,7 +211,7 @@ Revises provisions governing economic development. (BDR 18-803)
 
 ---
 
-## 9. 80:AB413
+## 10. 80:AB413
 
 - **Title:** AN ACT relating to local governments; providing that certain actions taken by a governing body of a local government are void if the actions are taken before the governing body considers the impact on business; revising the definition of “local government”; revising the meeting at which a governing body is required to consider a business impact statement; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -211,7 +234,7 @@ Revises provisions relating to local governments. (BDR 19-893)
 
 ---
 
-## 10. 80:AB466
+## 11. 80:AB466
 
 - **Title:** Requires the creation of a pilot program to facilitate certain financial transactions relating to marijuana. (BDR 18-870)
 - **Status:** ok
@@ -234,7 +257,7 @@ Requires the creation of a pilot program to facilitate certain financial transac
 
 ---
 
-## 11. 80:AB504
+## 12. 80:AB504
 
 - **Title:** AN ACT making appropriations to the State Department of Agriculture for the purchase of replacement vehicles and the purchase and replacement of laboratory equipment; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -253,7 +276,26 @@ Makes appropriations to the State Department of Agriculture for water conservati
 
 ---
 
-## 12. 80:AB537
+## 13. 80:AB505
+
+- **Title:** AN ACT making appropriations to the Division of State Parks for self-pay kiosks, replacement of vehicles, a paving project and construction at Ice Age Fossils State Park and maintenance equipment for Sand Harbor at Lake Tahoe Nevada State Park; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** Yes
+- **Similarity:** 0.7547
+- **Amendments:** Amendment 879
+
+The enrolled bill differs from the introduced version before it reached the Governor. NELIS lists adopted amendments: Amendment 879.
+
+### Introduced SUMMARY line
+
+Makes appropriations to the Division of State Parks for self-pay kiosks, replacement of vehicles, a paving project and maintenance at Ice Age Fossils State Park and maintenance of equipment for Sand Harbor at Lake Tahoe Nevada State Park. (BDR S-1180)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB505.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB505_EN.pdf
+
+---
+
+## 14. 80:AB537
 
 - **Title:** AN ACT relating to the State Department of Conservation and Natural Resources; providing that the State Department of Conservation and Natural Resources and the Division of Environmental Protection of the Department are authorized to impose remedies other than civil penalties for violations of certain environmental laws; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -276,7 +318,7 @@ Revises provisions relating to certain penalties imposed by the State Department
 
 ---
 
-## 13. 80:AB541
+## 15. 80:AB541
 
 - **Title:** AN ACT relating to projects of capital improvement; authorizing certain expenditures by the State Public Works Division of the Department of Administration; levying a property tax to support the Consolidated Bond Interest and Redemption Fund; making appropriations; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -295,7 +337,7 @@ Authorizes and provides funding for certain projects of capital improvement. (BD
 
 ---
 
-## 14. 80:AB62
+## 16. 80:AB62
 
 - **Title:** Revises provisions related to water. (BDR 48-215)
 - **Status:** ok
@@ -318,7 +360,76 @@ Revises provisions related to water. (BDR 48-215)
 
 ---
 
-## 15. 80:AB95
+## 17. 80:AB73
+
+- **Title:** AN ACT relating to homeless persons; providing for the creation of a temporary working group in Clark County to address issues relating to homelessness; requiring the working group to prepare and submit a report of its recommendations to address issues relating to homelessness; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** Yes
+- **Similarity:** 0.0046
+- **Amendments:** Amendment 411
+
+The enrolled bill differs from the introduced version before it reached the Governor. NELIS lists adopted amendments: Amendment 411.
+
+### Legislative Counsel’s Digest (enrolled)
+
+This bill requires the Board of County Commissioners of Clark County and the governing bodies of each city in Clark County to create a working group to: (1) consider methods to reduce homelessness in Clark County; and (2) identify sources of funding for p rograms created to reduce homelessness in Clark County. This bill requires the working group to prepare and submit a report to the Board and governing bodies on or before October 1, 2020, which sets forth: (1) recommendations on methods to reduce homelessn ess in Clark County ; and (2) sources of funding to implement the recommendations made in the report. Additionally, this bill requires the Board and governing bod ies to hold a public hearing on the report and set forth the reason for rejecting a recommendation in the report on the record at the public hearing. EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+### Introduced SUMMARY line
+
+Provides for additional sources of funding for services and affordable housing for persons who are homeless or indigent. (BDR 32-461)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB73.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB73_EN.pdf
+
+---
+
+## 18. 80:AB84
+
+- **Title:** AN ACT relating to state resources; providing for the issuance of state general obligation bonds to protect, preserve and obtain the benefits of the property and natural and cultural resources of the State of Nevada; providing for the use of the proceeds of the bonds; repealing the prospective extension of the period for the issuance of certain bonds; making an appropriation; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** Yes
+- **Similarity:** 0.3714
+- **Amendments:** Amendment 910
+
+The enrolled bill differs from the introduced version before it reached the Governor. NELIS lists adopted amendments: Amendment 910.
+
+### Legislative Counsel’s Digest (enrolled)
+
+At the general election held on November 5, 2002, the Legislature submitted to the voters of this State and the voters approved a proposal to issue general obligation bonds of the State to protect, preserve and obtain the benefits of the property and natural resources of this State in an amount not to exceed $200,000,000. The ballot question allocated specific amounts of the bond proceeds to various governmental entities for specified programs and projects. (Chapter 6, Statutes of Nevada 2001, 17th Special Session, p. 104) This bill requires the State Board of Finance to issue an additional $217,500,000 in state general obligation bonds to continue to protect, preserve and obtain the benefits of the property and natural and cultural resources of this State. This bill also allocates specific amounts of the bond proceeds to various governmental entities for specified programs and projects, some of which are the same programs and projects specified in the 2002 ballot question. The Nevada Constitution limits the amount of debt of the State of Nevada to 2 percent of the assessed valuation of the State, but exempts from that limitation debt incurred for the protection and preservation of the State ’s property or natural resources or for the purposes of obtaining the benefits thereof. (Nev. Const. Art. 9, § 3) This bill makes a leg islative declaration that, with certain exceptions, the issuance of the bonds required by this bill is necessary for the protection and preservation of the property and natural resources of the State and constitutes an exercise of the constitutional authority to enter into contracts for those purposes. Existing law includes a limitation on the issuance or sale of bonds more than 6 years after an election that is required to authorize their issuance. (NRS 349.078) In 2007, 2013 and 2017, the Legislature mad e exceptions to this 6 -year limitation for the bonds issued pursuant to the 2002 ballot question by extending the period for the issuance of those bonds until December 31, 2011, June 30, 2019, and June 30, 2024, respectively. (Chapter 291, Statutes of Neva da 2007, p. 10 89, chapter 251, Statutes of Nevada 2013, p. 1055, chapter 33, Statutes of Nevada 2017, p. 139) Section 9 of this bill repeals the June 30, 2024, extension, thereby expiring the period for issuance of bonds pursuant to the 2002 ballot question on June 30, 2019. – 2 – - 80th Session (2019) EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+### Introduced SUMMARY line
+
+Provides for the issuance of state general obligation bonds to protect, preserve and obtain the benefits of the property and natural and cultural resources of the State of Nevada. (BDR S-326)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB84.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB84_EN.pdf
+
+---
+
+## 19. 80:AB93
+
+- **Title:** AN ACT relating to license plates; authorizing the Administrator of the Division of State Lands of the State Department of Conservation and Natural Resources to provide grants to nonprofit organizations from the Account for License Plates for the Support of the Preservation and Restoration of the Natural Environment of the Lake Tahoe Basin; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** No
+- **Similarity:** 0.0426
+- **Amendments:** —
+
+No amendments or reprints appear on NELIS for this bill. The enrolled PDF may look different from the introduced PDF due to formatting, but there is no evidence the substance was amended before it reached the Governor.
+
+### Legislative Counsel’s Digest (enrolled)
+
+Existing law requires the Department of Motor Vehicles to deposit certain fees collected in connection with the issuance and renewal of special license plates for the support of the preservation and restoration of the natural environment of the Lake Tahoe Ba sin with the State Treasurer for credit to the Account for License Plates for the Support of the Preservation and Restoration of the Natural Environment of the Lake Tahoe Basin. (NRS 482.37933) Existing law also authorizes the Administrator of the Division of State Lands of the State Department of Conservation and Natural Resources to provide grants from the Account to other public agencies to use for the support of programs for the preservation and restoration of the natural environment of the Lake Tahoe Basin. (NRS 321.5951) This bill authorizes the Administrator to provide grants from the Account to nonprofit organizations to use for the support of programs for the preservation and restoration of the natural environment of the Lake Tahoe Basin. EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+### Introduced SUMMARY line
+
+Revises provisions relating to the Account for License Plates for the Support of the Preservation and Restoration of the Natural Environment of the Lake Tahoe Basin. (BDR 26-437)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB93.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/AB/AB93_EN.pdf
+
+---
+
+## 20. 80:AB95
 
 - **Title:** Revises provisions relating to water. (BDR 48-504)
 - **Status:** ok
@@ -341,7 +452,7 @@ Revises provisions relating to water. (BDR 48-504)
 
 ---
 
-## 16. 80:SB14
+## 21. 80:SB14
 
 - **Title:** AN ACT relating to governmental administration; authorizing the Governor to remove certain gubernatorial appointees to boards, commissions or similar bodies under certain circumstances; authorizing the Governor to remove appeals officers under certain circumstances; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -364,7 +475,7 @@ Provides for the removal of certain gub ernatorial appointees under certain circ
 
 ---
 
-## 17. 80:SB140
+## 22. 80:SB140
 
 - **Title:** Revises provisions relating to the use of groundwater in certain basins. (BDR 48-541)
 - **Status:** ok
@@ -387,7 +498,7 @@ Revises provisions relating to the appropriation of water in certain basins. (BD
 
 ---
 
-## 18. 80:SB150
+## 23. 80:SB150
 
 - **Title:** Revises provisions relating to land use planning. (BDR 22-775)
 - **Status:** ok
@@ -410,7 +521,7 @@ Revises provisions relating to land use planning. (BDR 22-775)
 
 ---
 
-## 19. 80:SB232
+## 24. 80:SB232
 
 - **Title:** Revises certain provisions related to irrigation districts. (BDR 48-644)
 - **Status:** ok
@@ -433,7 +544,7 @@ Revises certain provisions related to irrigation districts. (BDR 48-644)
 
 ---
 
-## 20. 80:SB236
+## 25. 80:SB236
 
 - **Title:** Establishes provisions relating to a change in the place of diversion of water for certain wells. (BDR 48-635)
 - **Status:** ok
@@ -456,7 +567,7 @@ Revises provisions relating to a change in the p lace of diversion of water. (BD
 
 ---
 
-## 21. 80:SB250
+## 26. 80:SB250
 
 - **Title:** Revises provisions relating to the dedication of water rights. (BDR 48-664)
 - **Status:** ok
@@ -479,7 +590,7 @@ Revises provisions relating to the dedication of water rights. (BDR 48-664)
 
 ---
 
-## 22. 80:SB298
+## 27. 80:SB298
 
 - **Title:** Revises provisions relating to partial tax abatements for certain renewable energy facilities. (BDR 58-908)
 - **Status:** ok
@@ -502,7 +613,7 @@ Revises provisions relating to partial tax abatements for certain renewable ener
 
 ---
 
-## 23. 80:SB433
+## 28. 80:SB433
 
 - **Title:** Revises the provisions of the California-Nevada Compact for Jurisdiction on Interstate Waters. (BDR 14-439)
 - **Status:** ok
@@ -525,7 +636,7 @@ Revises the provisions of the California -Nevada Compact for Jurisdiction on Int
 
 ---
 
-## 24. 80:SB507
+## 29. 80:SB507
 
 - **Title:** Makes an appropriation to the State Public Works Division of the Department of Administration for the support of the Marlette Lake Water System. (BDR S-1176)
 - **Status:** ok
@@ -544,7 +655,7 @@ Makes an appropriation to the Office of Finance as a loan for the support of Mar
 
 ---
 
-## 25. 80:SB509
+## 30. 80:SB509
 
 - **Title:** Makes appropriations to the Division of Water Resources for the replacement of vehicles and computer software and hardware. (BDR S-1181)
 - **Status:** ok
@@ -563,7 +674,7 @@ Makes appropriations to the Division of Water Resources for the replacement of v
 
 ---
 
-## 26. 80:SB519
+## 31. 80:SB519
 
 - **Title:** AN ACT making an appropriation to the Office of Finance for a Snowcat vehicle for winter access to the pump house and dam at Marlette Lake; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -582,7 +693,7 @@ Makes an appropriation to the Office of Finance for a Snowcat vehicle for winter
 
 ---
 
-## 27. 80:SB547
+## 32. 80:SB547
 
 - **Title:** Revises provisions relating to providers of new electric resources. (BDR 58-913)
 - **Status:** ok
@@ -605,7 +716,7 @@ Revises provisions relating to providers of new electric resources. (BDR 58-913)
 
 ---
 
-## 28. 80:SB56
+## 33. 80:SB56
 
 - **Title:** AN ACT relating to natural resources; revising provisions related to the protection of flora; revising certain definitions related to the protection of trees and flora and to forest practice and reforestation; revising provisions relating to a written plan for a prescribed fire; revising the information required to be included in an application for a logging permit; revising provisions regarding logging operations; authorizing the suspension or revocation of a logging permit for operating ground-based equipment on saturated soil; revising the requirements for the performance bond which must accompany an application for a timberland conversion certificate; eliminating the requirement that the State Forester Firewarden cause a decennial report to be created regarding certain renewable natural resources in the State; eliminating the authority of the State Forester Firewarden to reduce the required amount for certain performance bonds; making various other changes relating to forestry; providing a penalty; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -628,7 +739,45 @@ Revises provisions relating to natural resources . (BDR 47-359)
 
 ---
 
-## 29. 81:AB146
+## 34. 80:SCR5
+
+- **Title:** Expressing support for the role of science in preserving the environmental and ecological conditions in the Lake Tahoe Basin and recognizing the role of the Tahoe Bi-State Executive Committee and the Tahoe Science Advisory Council in providing scientific resources to help guide decision making and planning regarding natural resources and implementation of environmental improvement projects in the Lake Tahoe Basin.
+- **Status:** ok
+- **Textually amended:** No
+- **Similarity:** 0.0307
+- **Amendments:** —
+
+No amendments or reprints appear on NELIS for this bill. The enrolled PDF may look different from the introduced PDF due to formatting, but there is no evidence the substance was amended before it reached the Governor.
+
+### Introduced SUMMARY line
+
+Expresses support for the role of science in the Lake Tahoe Basin and recognizes the role of the Tahoe Bi- State Executive Committee and the Tahoe Science Advisory Council in guiding environmental preservation, protection, restoration and enhancement efforts in the Lake Tahoe Basin. (BDR R-438) ~
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/SCR/SCR5.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/SCR/SCR5_EN.pdf
+
+---
+
+## 35. 80:SJR7
+
+- **Title:** Expressing support for finding innovative transportation solutions in the Lake Tahoe Basin and for the efforts of the Bi-State Working Group on Transportation.
+- **Status:** ok
+- **Textually amended:** No
+- **Similarity:** 0.345
+- **Amendments:** —
+
+No amendments or reprints appear on NELIS for this bill. The enrolled PDF may look different from the introduced PDF due to formatting, but there is no evidence the substance was amended before it reached the Governor.
+
+### Introduced SUMMARY line
+
+Expresses support for finding innovative transportation solutions in the Lake Tahoe Bas in and for the efforts of the Bi -State Working Group on Transportation. (BDR R-441) ~
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/SJR/SJR7.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/80th2019/Bills/SJR/SJR7_EN.pdf
+
+---
+
+## 36. 81:AB146
 
 - **Title:** Revises provisions relating to water. (BDR 40-123)
 - **Status:** ok
@@ -651,7 +800,7 @@ Revises provisions relating to water. (BDR 40-123)
 
 ---
 
-## 30. 81:AB184
+## 37. 81:AB184
 
 - **Title:** AN ACT relating to small businesses; temporarily creating the Office of Small Business Advocacy within the Office of the Lieutenant Governor; setting forth the powers and duties of the Office of Small Business Advocacy; authorizing the Office of Small Business Advocacy to accept gifts, grants and contributions; providing that the records of the Office of Small Business Advocacy are confidential; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -674,7 +823,7 @@ Creates the Office of Small Business Advocacy within the Office of the Lieutenan
 
 ---
 
-## 31. 81:AB31
+## 38. 81:AB31
 
 - **Title:** AN ACT relating to substances regulated by the State Department of Agriculture; requiring the State Board of Agriculture to adopt standards for diesel exhaust fluid; prohibiting certain commercial activities relating to diesel exhaust fluid in certain circumstances; transferring the duty to adopt standards for aviation fuel from the State Sealer of Consumer Equitability to the Board; requiring the Board to adopt standards for petroleum heating products, not including liquefied petroleum gas and natural gas; revising provisions relating to the storage and disposal of petroleum products; eliminating certain powers and duties of the State Sealer of Consumer Equitability relating to petroleum products; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -697,7 +846,7 @@ Revises provisions governing the Nevada Petroleum Products Inspection Act. (BDR 
 
 ---
 
-## 32. 81:AB333
+## 39. 81:AB333
 
 - **Title:** Makes changes to provisions relating to land use planning. (BDR 22-357)
 - **Status:** ok
@@ -720,7 +869,7 @@ Makes changes to provisions relating to land use planning. (BDR 22-357)
 
 ---
 
-## 33. 81:AB356
+## 40. 81:AB356
 
 - **Title:** Makes various changes relating to the conservation of water. (BDR S-1090)
 - **Status:** ok
@@ -743,7 +892,7 @@ Makes various changes relating to the conservation of water. (BDR 48-1090)
 
 ---
 
-## 34. 81:AB465
+## 41. 81:AB465
 
 - **Title:** Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for the repair and maintenance of the South Fork Dam. (BDR S-1105)
 - **Status:** ok
@@ -762,7 +911,7 @@ Makes an appropriation to the Division of Water Resources of the State Departmen
 
 ---
 
-## 35. 81:AB6
+## 42. 81:AB6
 
 - **Title:** Revises provisions governing an application for a temporary change relating to appropriated water. (BDR 48-309)
 - **Status:** ok
@@ -785,7 +934,7 @@ Revises provisions governing an application for a temporary change relating to a
 
 ---
 
-## 36. 81:AB66
+## 43. 81:AB66
 
 - **Title:** Revises provisions relating to the abatement of certain taxes. (BDR 32-266)
 - **Status:** ok
@@ -808,7 +957,7 @@ Revises provisions relating to the abatement of certain taxes. (BDR 32-266)
 
 ---
 
-## 37. 81:AB97
+## 44. 81:AB97
 
 - **Title:** AN ACT relating to toxic chemicals; prohibiting, with certain exceptions, the discharge, use or release of certain Class B firefighting foams; requiring, with certain exceptions, certain entities who discharge, use or release certain Class B firefighting foam to notify the Division of Environmental Protection of the State Department of Conservation and Natural Resources; requiring the Division to establish a working group to study issues relating to certain substances; prohibiting, with certain exceptions, the manufacture, sale or distribution of certain products containing certain chemicals; providing penalties; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -831,7 +980,7 @@ Revises provisions governing toxic chemicals. (BDR 40-141)
 
 ---
 
-## 38. 81:AJR2
+## 45. 81:AJR2
 
 - **Title:** Recognizes that the health of forests, rangelands and soils are inextricably linked to the quantity and quality of water. (BDR R-112)
 - **Status:** ok
@@ -850,7 +999,7 @@ Recognizes that forest health and water quality are inextricably linked. (BDR R-
 
 ---
 
-## 39. 81:AJR3
+## 46. 81:AJR3
 
 - **Title:** Urges various actions relating to the protection and conservation of land and water. (BDR R-775)
 - **Status:** ok
@@ -869,7 +1018,7 @@ Urges various action s relating to the protection and conservation of land and w
 
 ---
 
-## 40. 81:SB14
+## 47. 81:SB14
 
 - **Title:** AN ACT relating to emergency management; revising requirements relating to the distribution by the Division of Emergency Management of the Department of Public Safety of a written guide to assist a person or governmental entity required to file certain emergency response plans; expanding the types of services regarding which certain utilities are required to develop and submit vulnerability assessments and emergency response plans; requiring certain state agencies to coordinate with the Division of Emergency Management to annually compile a list of each utility and provider of new electric resources required to submit a vulnerability assessment and emergency response plan; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -892,7 +1041,7 @@ Revises provisions relating to certain emergency response plans and assessments.
 
 ---
 
-## 41. 81:SB205
+## 48. 81:SB205
 
 - **Title:** Provides regulatory exemptions for certain types of boilers. (BDR 40-839)
 - **Status:** ok
@@ -915,7 +1064,7 @@ Provides regulatory exemptions for certain types of residential and commercial b
 
 ---
 
-## 42. 81:SB283
+## 49. 81:SB283
 
 - **Title:** AN ACT relating to local improvements; authorizing a municipality to create a district for certain qualified improvement projects; setting forth the requirements for creating such a district; authorizing certain financing to pay for a qualified improvement project in such a district; making various other changes relating to local improvements; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -938,7 +1087,7 @@ Revises provisions relating to local improvements . (BDR 22-792)
 
 ---
 
-## 43. 81:SB297
+## 50. 81:SB297
 
 - **Title:** Revises provisions relating to agriculture. (BDR 22-480)
 - **Status:** ok
@@ -961,7 +1110,7 @@ Revises provisions relating to agriculture. (BDR 22-480)
 
 ---
 
-## 44. 81:SB33
+## 51. 81:SB33
 
 - **Title:** Revises certain provisions relating to natural resource management. (BDR 47-312)
 - **Status:** ok
@@ -984,7 +1133,30 @@ Revises certain provisions relating to natural resource management. (BDR 47-312)
 
 ---
 
-## 45. 81:SB430
+## 52. 81:SB368
+
+- **Title:** AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** No
+- **Similarity:** 0.2662
+- **Amendments:** —
+
+No amendments or reprints appear on NELIS for this bill. The enrolled PDF may look different from the introduced PDF due to formatting, but there is no evidence the substance was amended before it reached the Governor.
+
+### Legislative Counsel’s Digest (enrolled)
+
+The Environmental Improvement Program w as implemented in 1997 to carry out projects to improve the environment in the Lake Tahoe Basin. The costs of the Program are apportioned among the Federal Government, the States of Nevada and California and local governments and owners of private property in both states. In 1999, the Nevada Legislature authorized the issuance of not more than $56.4 million in general obligation bonds to pay for a significant portion of Nevada’s share of the costs of the first phase of the Program. (Chapter 514, Statutes of Nevada 1999, at page 2626) In 2009, the Nevada Legislature authorized the issuance of not more than $100 million in general obligation bonds to pay for Nevada’s share of the costs of the second phase of the Program beginning on July 1, 2009, and ending o n June 30, 2020. (Chapter 431, Statutes of Nevada 2009, at page 2417) In 2017, the Nevada Legislature extended the deadline for the issuance of the remainder of the general obligation bonds that were authorized in 2009 for the second phase of the Program f rom June 30, 2020, to June 30, 2030. (Chapter 32, Statutes of Nevada 2017, at page 137) Issuance of those bonds requires the approval of the Legislature or the Interim Finance Committee. (Chapter 431, Statutes of Nevada 2009, at page 2417) The Nevada Leg islature in 2009 required the issuance of not more than $4,420,000 of such bonds to provide money to carry out certain environmental improvement projects included in the second phase of the Program. (Chapter 431, Statutes of Nevada 2009, at page 2416) In 2011, the Nevada Legislature required the issuance of not more than $12 million of the $100 million in general obligation bonds authorized in 2009 to provide additional money to carry out environmental improvement projects included in the second phase of th e Program. (Chapter 437, Statutes of Nevada 2011, at page 2638) In 2019, the Nevada Legislature required the issuance of not more than $8 million of the $100 million in general obligation bonds authorized in 2009 to provide money to carry out certain envir onmental improvement projects included in the second phase of the Program. (Chapter 167, Statutes of Nevada 2019, at page 891) This bill requires the issuance of not more than $4 million of the $100 million in general obligation bonds authorized in 2009 t o provide money to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program. – 2 – - 81st Session (2021) EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+### Introduced SUMMARY line
+
+Requires the issuance of bonds for environmental improvement projects in the Lake Tahoe Basin. (BDR S-366)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/81st2021/Bills/SB/SB368.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/81st2021/Bills/SB/SB368_EN.pdf
+
+---
+
+## 53. 81:SB430
 
 - **Title:** AN ACT relating to infrastructure; revising provisions governing the establishment of the Nevada Infrastructure Bank; revising provisions governing eligibility to receive loans and other financial assistance from the Bank; expanding the types of projects for which financial assistance from the Bank is available; revising provisions governing the membership, duties and powers of the Board of Directors of the Bank; authorizing certain governmental agencies to provide technical advice, support and assistance to the Bank; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1007,7 +1179,7 @@ Revises provisions governing the Nevada State Infrastructure Bank. (BDR 35-1110)
 
 ---
 
-## 46. 81:SB442
+## 54. 81:SB442
 
 - **Title:** Prospectively eliminates the program to provide a partial abatement of property taxes for certain buildings and structures which meet certain energy efficiency standards. (BDR 58-1070)
 - **Status:** ok
@@ -1030,7 +1202,7 @@ Prospectively eliminates the program to provide a partial abatement of property 
 
 ---
 
-## 47. 81:SB67
+## 55. 81:SB67
 
 - **Title:** Creates a pilot program to gather data on the use of job order contracts for certain public works. (BDR S-400)
 - **Status:** ok
@@ -1053,7 +1225,30 @@ Revises provisions relating to public works. (BDR 28-400)
 
 ---
 
-## 48. 81:SB98
+## 56. 81:SB72
+
+- **Title:** AN ACT relating to common-interest communities; requiring a limited-purpose association to comply with certain requirements relating to the establishment and foreclosure of a lien for assessments; revising provisions relating to the imposition of fines that may be assessed for certain violations of the governing documents of a unit-owners' association; revising provisions relating to meetings of the executive board of a unit-owners' association; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** Yes
+- **Similarity:** 0.5195
+- **Amendments:** Amendment 27
+
+The enrolled bill differs from the introduced version before it reached the Governor. NELIS lists adopted amendments: Amendment 27.
+
+### Legislative Counsel’s Digest (enrolled)
+
+Under existing law, a limited -purpose association, which includes an association created for the li mited purpose of maintaining the landscape of the common elements, facilities for flood control or a rural agricultural residential common-interest community, is exempt from the requirements of most of the provisions of chapter 116 of NRS, the Uniform Comm on-Interest Ownership Act. (NRS 116.1201) Section 1 of this bill requires a limited -purpose association to comply with the requirements of the Act pertaining to the establishment and foreclosure of a lien for assessments. Existing law: (1) authorizes the executive board of a unit-owners’ association to impose fines for violations of the governing documents of the association; and (2) provides that if the violation does not pose an imminent threat of causing a substantial adverse effect on the health, safet y or welfare of the units’ owners or residents of the common -interest community, the amount of the fine must be commensurate with the severity of the violation and must be determined by the executive board in accordance with the governing documents, but the amount of the fine must not exceed $100 for each violation or a total amount of $1,000, whichever is less. (NRS 116.31031) Section 2 of this bill requires the Commission for Common-Interest Communities and Condominium Hotels to adopt regulations establishing the criteria used in determining whether a violation poses an imminent threat of causing a substantial adverse effect on the health, safety or welfare of the units’ owners or residents of the common -interest community, the severity of such violations and limitations on the amounts of the fines. Section 2 also provides that: (1) if the violation poses an imminent threat of causing a substantial adverse effect on the health, safety or welfare of the units’ owners or residents of the common - interest commu nity, the fine must be commensurate with the severity of the violation and must be determined by the executive board in accordance with the governing documents; and (2) if the violation does not pose an imminent threat of causing a substantial adverse effe ct on the health, safety or welfare of the units’ owners or residents of the common -interest community, the amount of the fine must not exceed $100 for each violation or a total amount of $1,000 per hearing against each unit’s owner or tenant or invitee of a unit’s owner or tenant. Existing law also provides that a fine may not be imposed against a unit’s owner for a violation committed by an invitee of the unit’s owner or the tenant unless the unit’s owner: (1) participated in or authorized the violation ; (2) had prior notice of the violation; or (3) had an opportunity to stop the violation and failed to do so. (NRS 116.31031) Section 2 provides that such requirements: (1) apply also to fines imposed against a tenant; and (2) do not apply if the violation poses an – 2 – - 81st Session (2021) imminent threat of causing a substantial adverse effect on the health, safety or welfare of the units’ owners or residents of the common-interest community. Additionally, existing law provides that if a fine is imposed for a violation and the violation is not cured within 14 days or any longer period established by the executive board: (1) the violation is deemed a continuing violation; and (2) the executive board may impose an additional fine for the violation for each 7 -day period or portion thereof that the violation is not cured. (NRS 116.31031) Section 2 provides that the amount of such an additional fine for a continuing violation must not exceed the amount of the original fine for the violation. Existing law provides that an executive boar d may meet in executive session to consult with the attorney for the association on matters relating to proposed or pending litigation if the contents of the discussion are protected by the attorney - client privilege. (NRS 116.31085) Section 3 of this bill eliminates the requirement that such matters must relate to proposed or pending litigation for the executive board to meet in executive session and authorizes the executive board to meet in executive session if the contents of the discussion are protected by the attorney - client privilege. Existing law also requires an executive board to meet in executive session to hold a hearing on an alleged violation of the governing documents unless the person who may be sanctioned for the alleged violation requests in writing that an open hearing be conducted by the executive board, in which case the person: (1) is entitled to attend all portions of the hearing related to the alleged violation; (2) is entitled to due process; and (3) is not entitled to attend the delib erations of the executive board. The executive board is required to maintain minutes of any decision made concerning an alleged violation and, upon request, to provide a copy of the decision to the person or the person’s designated representative. (NRS 116.31085) Section 3 provides that: (1) the person is entitled to receive written notice of the decision of the executive board regarding the alleged violation within a reasonable time after the decision is made; and (2) the period to cure a violation before it becomes a continuing violation is deemed not to commence until the date on which the notice of the decision of the executive board is provided to the person. EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+### Introduced SUMMARY line
+
+Makes various changes relating to common -interest communities. (BDR 10-318)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/81st2021/Bills/SB/SB72.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/81st2021/Bills/SB/SB72_EN.pdf
+
+---
+
+## 57. 81:SB98
 
 - **Title:** Makes various changes to provisions relating to the Carson Water Subconservancy District. (BDR S-579)
 - **Status:** ok
@@ -1076,7 +1271,64 @@ Makes various changes to provisions relating to the Carson Water Subconservancy 
 
 ---
 
-## 49. 82:AB131
+## 58. 81:SCR8
+
+- **Title:** Expressing support for the identification of key transportation priorities for the Lake Tahoe Basin.
+- **Status:** ok
+- **Textually amended:** No
+- **Similarity:** 0.4296
+- **Amendments:** —
+
+No amendments or reprints appear on NELIS for this bill. The enrolled PDF may look different from the introduced PDF due to formatting, but there is no evidence the substance was amended before it reached the Governor.
+
+### Introduced SUMMARY line
+
+Expresses support for the identification of key transportation priorities for the Lake Tahoe Basin. (BDR R-365) ~
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/81st2021/Bills/SCR/SCR8.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/81st2021/Bills/SCR/SCR8_EN.pdf
+
+---
+
+## 59. 81:SCR9
+
+- **Title:** Expressing support for the Nevada System of Higher Education to work collaboratively in its science and research efforts addressing the needs of the Lake Tahoe Basin.
+- **Status:** ok
+- **Textually amended:** No
+- **Similarity:** 0.0906
+- **Amendments:** —
+
+No amendments or reprints appear on NELIS for this bill. The enrolled PDF may look different from the introduced PDF due to formatting, but there is no evidence the substance was amended before it reached the Governor.
+
+### Introduced SUMMARY line
+
+Expresses support for the Nevada System of Higher Education to work collaboratively in its science and research efforts addressing the needs of the Lake Tahoe Basin. (BDR R-364) ~
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/81st2021/Bills/SCR/SCR9.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/81st2021/Bills/SCR/SCR9_EN.pdf
+
+---
+
+## 60. 81:SJR12
+
+- **Title:** Expressing the priority of the timely completion of the Tahoe East Shore Trail extension project and urging Congress to provide federal funding for completion of the project.
+- **Status:** ok
+- **Textually amended:** No
+- **Similarity:** 0.7094
+- **Amendments:** —
+
+No amendments or reprints appear on NELIS for this bill. The enrolled PDF may look different from the introduced PDF due to formatting, but there is no evidence the substance was amended before it reached the Governor.
+
+### Introduced SUMMARY line
+
+Expresses the priority of the timely completion of the Tahoe East Shore Trail extension project and urges Congress to provide federal funding for completion of the project. (BDR R-363)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/81st2021/Bills/SJR/SJR12.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/81st2021/Bills/SJR/SJR12_EN.pdf
+
+---
+
+## 61. 82:AB131
 
 - **Title:** AN ACT relating to forestry; creating the Urban and Community Forestry Program within the Division of Forestry of the State Department of Conservation and Natural Resources; setting forth the powers and duties of the State Forester Firewarden and the Division relating to the Program; authorizing the State Forester Firewarden to award grants to promote urban and community forestry; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1099,7 +1351,7 @@ Revises provisions governing urban and community forestry. (BDR 47-720)
 
 ---
 
-## 50. 82:AB19
+## 62. 82:AB19
 
 - **Title:** Revises provisions relating to water. (BDR 48-233)
 - **Status:** ok
@@ -1122,7 +1374,7 @@ Revises provisions relating to water. (BDR 48-233)
 
 ---
 
-## 51. 82:AB191
+## 63. 82:AB191
 
 - **Title:** Revises provisions relating to water conservation. (BDR 48-697)
 - **Status:** ok
@@ -1145,7 +1397,7 @@ Revises provisions relating to water conservation. (BDR 48-697)
 
 ---
 
-## 52. 82:AB20
+## 64. 82:AB20
 
 - **Title:** Revises provisions relating to water. (BDR 40-227)
 - **Status:** ok
@@ -1168,7 +1420,7 @@ Revises provisions relating to water. (BDR 40-227)
 
 ---
 
-## 53. 82:AB220
+## 65. 82:AB220
 
 - **Title:** Revises provisions relating to water conservation. (BDR 40-337)
 - **Status:** ok
@@ -1191,7 +1443,7 @@ Revises provisions relating to water conservation. (BDR 40-337)
 
 ---
 
-## 54. 82:AB261
+## 66. 82:AB261
 
 - **Title:** Revises provisions relating to water. (BDR 18-470)
 - **Status:** ok
@@ -1214,7 +1466,7 @@ Revises provisions relating to water. (BDR 18-470)
 
 ---
 
-## 55. 82:AB34
+## 67. 82:AB34
 
 - **Title:** Revises provisions relating to water. (BDR 48-235)
 - **Status:** ok
@@ -1237,7 +1489,30 @@ Revises provisions relating to water. (BDR 48-235)
 
 ---
 
-## 56. 82:AB470
+## 68. 82:AB424
+
+- **Title:** AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; revising provisions relating to the use of accrued interest on the proceeds of certain previously authorized bonds; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** No
+- **Similarity:** 0.2397
+- **Amendments:** —
+
+No amendments or reprints appear on NELIS for this bill. The enrolled PDF may look different from the introduced PDF due to formatting, but there is no evidence the substance was amended before it reached the Governor.
+
+### Legislative Counsel’s Digest (enrolled)
+
+The Environmental Improvement Program was implemented in 1997 to carry out projects to improve the environment in the Lake Tahoe Basin. The costs of the Program are apportioned among the Federal Government, the States of Nevada and California and local governments and owners of private property in both states. In 1999, the Nevada Legislature authorized the issuance of not more than $56.4 million in genera l obligation bonds to pay for a significant portion of Nevada’s share of the costs of the first phase of the Program. (Chapter 514, Statutes of Nevada 1999, at page 2626) In 2009, the Nevada Legislature authorized the issuance of not more than $100 million in general obligation bonds to pay for Nevada’s share of the costs of the second phase of the Program beginning on July 1, 2009, and ending on June 30, 2020. (Chapter 431, Statutes of Nevada 2009, at page 2417) Issuance of those bonds requires the appro val of the Legislature or the Interim Finance Committee. (Id.) In 2017, the Nevada Legislature extended the deadline for the issuance of the remainder of the general obligation bonds that were authorized in 2009 for the second phase of the Program from Jun e 30, 2020, to June 30, 2030. (Chapter 32, Statutes of Nevada 2017, at page 137) Of the $100 million in general obligation bonds authorized to pay for Nevada’s share of the costs of the second phase of the Program, the Nevada Legislature required the iss uance of: (1) not more than $4.42 million of those bonds in 2009; (2) not more than $12 million of those bonds in 2011; (3) not more than $8 million of those bonds in 2019; and (4) not more than $4 million of those bonds in 2021. (Chapter 431, Statutes of Nevada 2009, at page 2416; c hapter 437, Statutes of Nevada 2011, at page 2638; chapter 167, Statutes of Nevada 2019, at page 891; chapter 215, Statutes of Nevada 2021, at page 1008) Sections 1-3 of this bill require the issuance of not more than $13 million of the $100 million in general oblig ation bonds authorized in 2009 to provide money to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program. Sections 4-6 of this bill allow the use of interest accrued on the proceeds of the general obligation bonds required to be issued in 2011, 2019 and 2021 to carry out environmental improvement projects included in the second phase of the Program. EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+### Introduced SUMMARY line
+
+Revises provisions relating to the issuance of bonds for environmental improvement projects in the Lake Tahoe Basin. (BDR S-388)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/82nd2023/Bills/AB/AB424.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/82nd2023/Bills/AB/AB424_EN.pdf
+
+---
+
+## 69. 82:AB470
 
 - **Title:** Makes an appropriation to the State Public Works Division of the Department of Administration for professional services and filing fees related to water rights associated with the Marlette Lake Water System. (BDR S-1127)
 - **Status:** ok
@@ -1256,7 +1531,7 @@ Makes an appropriation to the State Public Works Division of the Department of A
 
 ---
 
-## 57. 82:AB519
+## 70. 82:AB519
 
 - **Title:** Establishes provisions governing capital projects of school districts. (BDR 34-1202)
 - **Status:** ok
@@ -1279,7 +1554,7 @@ Establishes provisions governing capital projects of school districts. (BDR 34-1
 
 ---
 
-## 58. 82:AB91
+## 71. 82:AB91
 
 - **Title:** Revises provisions governing water. (BDR 48-696)
 - **Status:** ok
@@ -1302,7 +1577,7 @@ Revises provisions governing water. (BDR 48-696)
 
 ---
 
-## 59. 82:AB97
+## 72. 82:AB97
 
 - **Title:** AN ACT relating to government administration; providing, with certain exceptions, that governmental entities shall not prohibit the use of certain refrigerants; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1325,7 +1600,26 @@ Revises provisions relating to government administration. (BDR 22-526)
 
 ---
 
-## 60. 82:SB113
+## 73. 82:ACR5
+
+- **Title:** Expressing support for the Lake Tahoe Transportation Action Plan.
+- **Status:** ok
+- **Textually amended:** No
+- **Similarity:** 0.3516
+- **Amendments:** —
+
+No amendments or reprints appear on NELIS for this bill. The enrolled PDF may look different from the introduced PDF due to formatting, but there is no evidence the substance was amended before it reached the Governor.
+
+### Introduced SUMMARY line
+
+Expresses support for the Lake Tahoe Transportation Action Plan. (BDR R-387) ~
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/82nd2023/Bills/ACR/ACR5.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/82nd2023/Bills/ACR/ACR5_EN.pdf
+
+---
+
+## 74. 82:SB113
 
 - **Title:** Revises provisions relating to groundwater management plans. (BDR 48-595)
 - **Status:** ok
@@ -1348,7 +1642,7 @@ Revises provisions relating to groundwater management plans. (BDR 48-595)
 
 ---
 
-## 61. 82:SB115
+## 75. 82:SB115
 
 - **Title:** AN ACT relating to counties; revising provisions relating to compensatory mitigation for losses of aquatic resources; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1371,7 +1665,7 @@ Revises provisions relating to the mitigation of certain projects. (BDR 20-679)
 
 ---
 
-## 62. 82:SB169
+## 76. 82:SB169
 
 - **Title:** AN ACT relating to land use planning; requiring certain local governments to include a heat mitigation element in master plans; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1394,7 +1688,7 @@ Revises provisions governing master plans. (BDR 22-346)
 
 ---
 
-## 63. 82:SB210
+## 77. 82:SB210
 
 - **Title:** AN ACT relating to governmental administration; declaring that the public policy of the State of Nevada includes that persons appointed to certain public bodies by the Governor should reflect the diversity of the State; requiring certain public bodies to submit lists of qualified persons to the Governor to fill vacancies on a board, commission or similar body within 60 days after the vacancy occurs; revising the manner in which the Chair and Vice Chair of the Sunset Subcommittee of the Legislative Commission are selected; modifying reporting requirements by certain licensing boards and other regulatory bodies concerning the criminal histories of certain applicants; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1417,7 +1711,7 @@ Revises provisions governing state boards and commissions. (BDR 18-899)
 
 ---
 
-## 64. 82:SB257
+## 78. 82:SB257
 
 - **Title:** AN ACT relating to energy; revising provisions governing payroll reporting by certain renewable energy facilities that receive certain tax abatements; revising provisions governing compliance reports submitted to the Director of the Office of Energy within the Office of the Governor by certain renewable energy facilities that receive certain tax abatements; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1440,7 +1734,7 @@ Revises provisions governing tax abatements for certain renewable energy facilit
 
 ---
 
-## 65. 82:SB258
+## 79. 82:SB258
 
 - **Title:** Revises provisions relating to water. (BDR 48-889)
 - **Status:** ok
@@ -1463,7 +1757,7 @@ Revises provisions relating to water. (BDR 48-889)
 
 ---
 
-## 66. 82:SB261
+## 80. 82:SB261
 
 - **Title:** AN ACT relating to local governments; revising the definitions of the terms “business” and “local government” for purposes of provisions relating to the adoption of rules by local governments that affect businesses; revising the notice requirements relating to the adoption of such rules; requiring the governing body of a local government to hold a workshop before the adoption of such rules in certain circumstances; revising the requirements for a business impact statement; revising provisions relating to when an action of the governing body of a local government to adopt rules that affect local governments is void; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1486,7 +1780,7 @@ Revises provisions relat ing to local government s. (BDR 19-793)
 
 ---
 
-## 67. 82:SB404
+## 81. 82:SB404
 
 - **Title:** AN ACT relating to elections; revising provisions relating to the challenge of a person applying to vote; authorizing a county or city clerk to order that the count of returns for early voting begin on or after the first day of early voting; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1509,7 +1803,7 @@ Makes various changes relating to elections. (BDR 24-843)
 
 ---
 
-## 68. 82:SB429
+## 82. 82:SB429
 
 - **Title:** Requires certain new or expanding businesses to provide certain family and medical leave to employees in order to qualify for a partial abatement of certain taxes. (BDR 32-680)
 - **Status:** ok
@@ -1532,7 +1826,7 @@ Revises provisions governing economic development. (BDR 32-680)
 
 ---
 
-## 69. 82:SB431
+## 83. 82:SB431
 
 - **Title:** AN ACT relating to governmental administration; revising the duties of the Chief Information Officer; providing for the appointment and prescribing the duties of a Chief Innovation Officer; creating the Office of Nevada Boards, Commissions and Councils Standards within the Department of Business and Industry and prescribing the duties and responsibilities of the Office with respect to professional and occupational licensing boards; prohibiting, with certain exception, an appointing authority from executing any contract for employment with any state employee; requiring the Administrator of the Division of Human Resource Management of the Department of Administration to develop certain audit functions and centralized systems relating to the Human Resources System of the State; renaming the Personnel System, the Personnel Commission and the Personnel Operating Fund; revising provisions relating to classified positions; revising provisions governing the approval of work programs and allotments; revising provisions relating to the approval and acceptance of grants by state agencies; transferring the duties of the Division of Enterprise Information Technology Services of the Department of Administration and the Administrator of the Division to the Office of the Chief Information Officer and the Chief of the Office of the Chief Information Officer; transferring money from the State General Fund to the Account to Stabilize the Operation of the State Government; making an appropriation; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1555,7 +1849,7 @@ Revises provisions relating to governmental administration. (BDR 18-1089)
 
 ---
 
-## 70. 82:SB472
+## 84. 82:SB472
 
 - **Title:** Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for projects at the South Fork Dam. (BDR S-1172)
 - **Status:** ok
@@ -1574,7 +1868,7 @@ Makes an appropriation to the Division of Water Resources of the State Departmen
 
 ---
 
-## 71. 82:SB473
+## 85. 82:SB473
 
 - **Title:** Makes an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for a study of extreme rainfall events. (BDR S-1173)
 - **Status:** ok
@@ -1593,7 +1887,26 @@ Makes an appropriation to the Division of Water Resources of the State Departmen
 
 ---
 
-## 72. 82:SB59
+## 86. 82:SB492
+
+- **Title:** AN ACT making appropriations to the State Department of Conservation and Natural Resources for the replacement or purchase of certain information technology, vehicles and equipment; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** Yes
+- **Similarity:** 0.7948
+- **Amendments:** Amendment 855
+
+The enrolled bill differs from the introduced version before it reached the Governor. NELIS lists adopted amendments: Amendment 855.
+
+### Introduced SUMMARY line
+
+Makes appropriations to the State Department of Conservation and Natural Resources for the replacement or purchase of certain information technology, vehicles and equipment. (BDR S-1169)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/82nd2023/Bills/SB/SB492.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/82nd2023/Bills/SB/SB492_EN.pdf
+
+---
+
+## 87. 82:SB59
 
 - **Title:** Revises provisions relating to vessels. (BDR 43-225)
 - **Status:** ok
@@ -1616,7 +1929,7 @@ Revises provisions relating to vessels . (BDR 43-225)
 
 ---
 
-## 73. 82:SB99
+## 88. 82:SB99
 
 - **Title:** Makes an appropriation to the Desert Research Institute of the Nevada System of Higher Education to support the Nevada State Cloud Seeding Program. (BDR S-592)
 - **Status:** ok
@@ -1635,7 +1948,7 @@ Makes an appropriation to the Desert Research Institute of the Nevada System of 
 
 ---
 
-## 74. 82:SJR3
+## 89. 82:SJR3
 
 - **Title:** Urges the United States Bureau of Reclamation to consider certain actions, alternatives and measures for the protection and management of the Colorado River. (BDR R-349)
 - **Status:** ok
@@ -1654,7 +1967,7 @@ Urges the United States Bureau of Reclamation to consider certain actions, alter
 
 ---
 
-## 75. 83:AB1
+## 90. 83:AB1
 
 - **Title:** AN ACT relating to public lands; declaring void certain regulations relating to the development and disposal of land in the Fort Mohave Valley; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1677,7 +1990,7 @@ Voids certain regulations relating to the development and disposal of land in th
 
 ---
 
-## 76. 83:AB10
+## 91. 83:AB10
 
 - **Title:** Revises provisions relating to local improvement projects. (BDR 22-407)
 - **Status:** ok
@@ -1700,7 +2013,7 @@ Revises provisions relating to local improvement projects. (BDR 22-407)
 
 ---
 
-## 77. 83:AB104
+## 92. 83:AB104
 
 - **Title:** Revises provisions relating to water. (BDR 48-383)
 - **Status:** ok
@@ -1723,7 +2036,7 @@ Revises provisions relating to water. (BDR 48-383)
 
 ---
 
-## 78. 83:AB110
+## 93. 83:AB110
 
 - **Title:** Revises provisions relating to the designation of certain highways. (BDR 35-148)
 - **Status:** ok
@@ -1746,7 +2059,7 @@ Revises provisions relating to the designation of certain highways. (BDR 35-148)
 
 ---
 
-## 79. 83:AB132
+## 94. 83:AB132
 
 - **Title:** Revises provisions relating to water. (BDR 48-586)
 - **Status:** ok
@@ -1769,7 +2082,30 @@ Revises provisions relating to water. (BDR 48-586)
 
 ---
 
-## 80. 83:AB26
+## 95. 83:AB241
+
+- **Title:** AN ACT relating to housing; requiring the governing body of each county and city to adopt an ordinance to authorize by-right a multifamily housing development or mixed-use development that includes a residential use on property zoned for commercial use; declaring void certain county or city ordinances; authorizing the State Land Registrar to transfer, under certain circumstances, certain real property owned by the State of Nevada to certain entities without consideration; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** Yes
+- **Similarity:** 0.365
+- **Amendments:** Amendment 251, Amendment 687, Amendment 688
+
+The enrolled bill differs from the introduced version before it reached the Governor. NELIS lists adopted amendments: Amendment 251, Amendment 687, Amendment 688.
+
+### Legislative Counsel’s Digest (enrolled)
+
+Section 1 of this bill requires each governing body of a county or city to adopt an ordinance that authorizes by-right a multifamily housing development or mixed- use development that includes a residential use on property zoned for commercial use. Section 1 also authorizes such an ordinance to establish certain standards and requirements to qualify for such a by-right development. Section 1 further provides that any such ordinance does not apply to any property: (1) that is zoned for or in relation to an airport; or (2) within the region defined in the Tahoe Regional Planning Compact. (NRS 277.200) Section 1 further provides that property zoned for commercial use does not include property zoned for industrial use. Section 5 of this bill declares void any ordinance, regulation or rule of a county or city which conflicts with the provisions of this bill. Existing law authoriz es the governing body of a county or city to divide the county, city or region into zoning districts of such number, shape and area as are best suited to carry out certain purposes. Within a zoning district, the governing body may regulate and restrict the erection, construction, reconstruction, alteration, repair or use of buildings, structures or land. (NRS 278.250) Section 4 of this bill creates an exception to account for the requirement that the governing body of a county or city adopt an ordinance to authorize by-right a multifamily housing development or mixed-use development that includes a residential use on property zoned for commercial use pursuant to section 1. Existing law requires that an action or proceeding seeking judicial relief or review from or with respect to any final action, decision or order of any governing body of a county or city be commenced within 25 days after the date of filing of notice of the final action, decision or order with the clerk or secretary of the governing body. ( NRS 278.0235) Section 3 of this bill applies these provisions to section 1. Section 2 of this bill makes a conforming change to apply the definitions of certain terms relating to planning and zoning to section 1. Existing law requires the State Land Registrar to execute on behalf of the State of Nevada any lease, deed or other document by which any land or interest therein owned by the State is conveyed . (NRS 321.003) Section 5.3 of this bill authorize s the State Land Registrar to transfer title to certa in real property owned by the State, with certain restrictions, to Catholic Charities of Northern Nevada and the Reno - Sparks Gospel Mission. Section 5. 3 provides that such a transfer is conditioned upon the Reno Redevelopment Agency entering into certain agreements with Catholic Charities of Northern Nevada or the Reno-Sparks Gospel Mission. Section 5.3 further provides that such agreement s must require the Reno Redevelopment – 2 – - 83rd Session (2025) Agency to: (1) survey and generate a legal description for the port ions of real property that the State Land Registrar is authorized to transfer to each entity ; and (2) pay the costs relating to the transfer of the real properties . Section 5.5 of this bill requires the deed for the real properties to include certain restr ictions and provide for the reversion of the title to the real properties under certain circumstances. EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+### Introduced SUMMARY line
+
+Revises provisions relating to housing. (BDR 22-65)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB241.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB241_EN.pdf
+
+---
+
+## 96. 83:AB26
 
 - **Title:** Revises provisions relating to dams. (BDR 48-261)
 - **Status:** ok
@@ -1792,7 +2128,7 @@ Revises provisions relating to dams. (BDR 48-261)
 
 ---
 
-## 81. 83:AB377
+## 97. 83:AB377
 
 - **Title:** Revises provisions relating to real property. (BDR 32-923)
 - **Status:** ok
@@ -1815,7 +2151,7 @@ Revises provisions relating to real property. (BDR 32-923)
 
 ---
 
-## 82. 83:AB397
+## 98. 83:AB397
 
 - **Title:** AN ACT relating to higher education; revising provisions governing certain waivers of fees provided by the Board of Regents of the University of Nevada; revising the criteria of eligibility for a waiver of fees by the Board of Regents for certain persons who are or were unaccompanied for a certain period of time; revising the criteria of eligibility for a waiver of fees by the Board of Regents for certain Native American students; providing for the continuity of waivers previously provided for certain Native American students; repealing certain provisions requiring the Chancellor of the Nevada System of Higher Education to cause to be analyzed certain natural materials upon the request of a resident of this State; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1838,7 +2174,7 @@ Revises provisions relating to higher education. (BDR 34-653)
 
 ---
 
-## 83. 83:AB449
+## 99. 83:AB449
 
 - **Title:** AN ACT relating to public utilities; revising provisions governing certain procedures or methodologies for changing rates or fees for certain public utilities; revising provisions authorizing certain public utilities to submit letters of advice for certain proposed changes in schedules of rates or services in lieu of filing an application with the Public Utilities Commission of Nevada; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1861,7 +2197,7 @@ Revises provisions governing public utilities. (BDR 58-888)
 
 ---
 
-## 84. 83:AB491
+## 100. 83:AB491
 
 - **Title:** AN ACT relating to elections; requiring a county or city clerk to provide certain information or data relating to the current election cycle within a certain period of time; revising qualifications for certain elected public officers to require such officers to be registered to vote in this State; revising provisions governing a declaration of candidacy and declaration of residency; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1884,7 +2220,7 @@ Revises provisions relating to elections. (BDR 24-570)
 
 ---
 
-## 85. 83:AB506
+## 101. 83:AB506
 
 - **Title:** AN ACT relating to governmental administration; eliminating certain reporting requirements to the Legislative Branch of State Government; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1907,7 +2243,26 @@ Revises provisions relating to governmental administration. (BDR 18-934)
 
 ---
 
-## 86. 83:AB592
+## 102. 83:AB577
+
+- **Title:** AN ACT making appropriations to the State Department of Conservation and Natural Resources for a certain new website and database and for the replacement of vehicles and computer hardware and associated software; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** No
+- **Similarity:** 0.7971
+- **Amendments:** —
+
+No amendments or reprints appear on NELIS for this bill. The enrolled PDF may look different from the introduced PDF due to formatting, but there is no evidence the substance was amended before it reached the Governor.
+
+### Introduced SUMMARY line
+
+Makes appropriations to the State Department of Conservation and Natural Resources for a certain new website and database and for the replacement of vehicles and computer hardware and associated software. (BDR S-1215)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB577.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/AB/AB577_EN.pdf
+
+---
+
+## 103. 83:AB592
 
 - **Title:** AN ACT relating to public employees; establishing the maximum allowed salaries for certain state employees; revising provisions relating to the compensation of employees of the Senate and Assembly; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -1926,7 +2281,7 @@ Revises provisions relating to the compensation of state employees. (BDR S-1229)
 
 ---
 
-## 87. 83:AB594
+## 104. 83:AB594
 
 - **Title:** Revises provisions relating to taxation. (BDR 32-1130)
 - **Status:** ok
@@ -1949,7 +2304,7 @@ Revises provisions governing the Department of Taxation. (BDR 32-1130)
 
 ---
 
-## 88. 83:AB70
+## 105. 83:AB70
 
 - **Title:** Revises provisions related to energy. (BDR 58-454)
 - **Status:** ok
@@ -1972,7 +2327,7 @@ Revises provisions related to energy. (BDR 58-454)
 
 ---
 
-## 89. 83:AJR13
+## 106. 83:AJR13
 
 - **Title:** Urging the Federal Government to maintain the moratorium on the testing of explosive nuclear weapons.
 - **Status:** ok
@@ -1991,7 +2346,53 @@ Urges the Federal Government to maintain the moratorium on the testing of explos
 
 ---
 
-## 90. 83:SB108
+## 107. 83:SB10
+
+- **Title:** AN ACT relating to governmental administration; revising provisions governing the submission of certain reports by the State Land Registrar; repealing provisions requiring the State Forester Firewarden to submit an annual report relating to the Lake Tahoe Basin; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** No
+- **Similarity:** 0.3322
+- **Amendments:** —
+
+No amendments or reprints appear on NELIS for this bill. The enrolled PDF may look different from the introduced PDF due to formatting, but there is no evidence the substance was amended before it reached the Governor.
+
+### Legislative Counsel’s Digest (enrolled)
+
+Existing law requires the State Land Registr ar to report quarterly to the State Board of Examiners regarding certain real property or interests in real property transferred in the Lake Tahoe Basin. (NRS 321.5954) Section 1 of this bill instead requires the State Land Registrar to report annually to the Board. Existing law requires the State Forester Firewarden to submit an annual report concerning fire prevention and forest health in the Nevada portion of the Lake Tahoe Basin to certain governmental entities. (NRS 528.150) Section 2 of this bill repeals this requirement. EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+### Introduced SUMMARY line
+
+Revises provisions relating to certain reports. (BDR 26-375)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB10.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB10_EN.pdf
+
+---
+
+## 108. 83:SB106
+
+- **Title:** AN ACT relating to vessels; prohibiting the operation of a vessel in excess of a certain speed within 600 feet of the shoreline of Lake Tahoe; revising provisions relating to the violation of certain provisions of the Code of Ordinances of the Tahoe Regional Planning Agency; providing a penalty; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** No
+- **Similarity:** 0.6733
+- **Amendments:** —
+
+No amendments or reprints appear on NELIS for this bill. The enrolled PDF may look different from the introduced PDF due to formatting, but there is no evidence the substance was amended before it reached the Governor.
+
+### Legislative Counsel’s Digest (enrolled)
+
+Under existing law, it is a misdemeanor to operate a vessel or permit a vessel to be operated at a speed in excess of 5 nautical miles per hour within 100 fe et of a person who is bathing, wading, diving, floating or swimming and within 200 feet of: (1) any beach frequented by persons who are bathing, wading, diving, floating or swimming; (2) a swimming float, diving platform or lifeline; and (3) certain way or landing floats. (NRS 488.600) Section 1 of this bill makes it a misdemeanor to operate a vessel or permit a vessel to be operated at a speed in excess of 5 nautical miles per hour within 600 feet of the shoreline of Lake Tahoe. Under existing law, certain peace officers are authorized to take various actions when a person violates certain sections of the Code of Ordinances of the Tahoe Regional Planning Age ncy. (NRS 277.215) Section 2 of this bill replaces references to ordinances no longer in effect with the current ordinances. EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+### Introduced SUMMARY line
+
+Revises provisions relating to the operation of vessels. (BDR 43-371)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB106.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB106_EN.pdf
+
+---
+
+## 109. 83:SB108
 
 - **Title:** Revises provisions governing the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program. (BDR 48-88)
 - **Status:** ok
@@ -2014,7 +2415,7 @@ Revises provisions governing the Account for the Channel Clearance, Maintenance,
 
 ---
 
-## 91. 83:SB276
+## 110. 83:SB276
 
 - **Title:** Revises provisions relating to water. (BDR 40-750)
 - **Status:** ok
@@ -2037,7 +2438,7 @@ Revises provisions relating to water. (BDR 40-750)
 
 ---
 
-## 92. 83:SB326
+## 111. 83:SB326
 
 - **Title:** AN ACT relating to public utilities; requiring certain public utilities to submit to the Public Utilities Commission of Nevada an annual report relating to the infrastructure of the public utility; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -2060,7 +2461,7 @@ Requires certain public utilities to submit an annual report to the Public Utili
 
 ---
 
-## 93. 83:SB36
+## 112. 83:SB36
 
 - **Title:** Revises provisions relating to water. (BDR 48-384)
 - **Status:** ok
@@ -2083,7 +2484,30 @@ Establishes provisions relating to the conservation of groundwater. (BDR 48-384)
 
 ---
 
-## 94. 83:SB43
+## 113. 83:SB426
+
+- **Title:** AN ACT relating to public safety; creating the Lake Tahoe Basin Scenic Byway Corridor Recreation Safety Zone; authorizing certain entities to establish certain parking restrictions and prohibitions and enter into agreements with other governmental entities to provide parking enforcement and collect parking fees within the Safety Zone; providing a penalty; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** Yes
+- **Similarity:** 0.0049
+- **Amendments:** Amendment 330, Amendment 576, Amendment 742
+
+The enrolled bill differs from the introduced version before it reached the Governor. NELIS lists adopted amendments: Amendment 330, Amendment 576, Amendment 742.
+
+### Legislative Counsel’s Digest (enrolled)
+
+Existing law sets forth the Tahoe Regional Planning Compact, an interstate agreement between the States of California and Nevada pursuant to which th e bistate Tahoe Regional Planning Agency regulates environmental and land -use matters within the Lake Tahoe Basin. (NRS 277.190 -277.220) The Tahoe Regional Planning Compact provides for the creation of the Tahoe transportation district as a special purpose district managed by a board of directors which develops and implements transportation plans and programs for the Lake Tahoe Basin. Existing law also establishes the State Route 159 Safety Speed Zone and authorizes: (1) the Director of the Department of T ransportation to set the maximum speed in the Speed Zone; and (2) the Department to ensure that adequate signage and other forms of notice are installed. (NRS 484B.621) Section 1 of this bill creates the Lake Tahoe Basin Scenic Byway Corridor Recreation Sa fety Zone, consisting of any portion of U.S. Highway 50, Nevada State Route 28 , Nevada State Route 431 and Nevada State Route 207 that is located in the Lake Tahoe Region and directly connected to a recreational destination or that has otherwise been desig nated as a scenic byway. Section 1 authorizes the Department and certain local law enforcement agencies to: (1) establish certain traffic control measures and parking restrictions and prohibitions within the Safety Zone ; and (2) enter into an agreement with one or more state agencies, local governments, local governmental agencies in the Region or the Tahoe transportation district to develop public parking, provide parking enforcement and issue parking citations or notices of non compliance within the Safety Zone . Section 1 further authorizes the Department to: (1) establish and collect fees for public parking on certain land within the Safety Zone; and (2) enter into agreements with certain government al entities to enforce and collect fees for parking within the Safety Zone. The proceeds of: (1) such fees must be used to manage parking in the Lake Tahoe Region; and (2) any fines imposed for violations of a parking restriction or prohibition, with certain exceptions, must be used for parking enforcement within the Safety Zone. – 2 – - 83rd Session (2025) EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+### Introduced SUMMARY line
+
+Making various changes relating to the Tahoe Regional Planning Compact. (BDR 22-374)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB426.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB426_EN.pdf
+
+---
+
+## 114. 83:SB43
 
 - **Title:** Revises provisions relating to public health and safety. (BDR 40-264)
 - **Status:** ok
@@ -2106,7 +2530,7 @@ Revises provisions relating to environmental protection. (BDR 40-264)
 
 ---
 
-## 95. 83:SB442
+## 115. 83:SB442
 
 - **Title:** AN ACT relating to public utilities; requiring the Public Utilities Commission of Nevada to adopt regulations to require a public utility to make available to the public certain reports containing information regarding terminations of utility service to residential customers; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -2129,7 +2553,7 @@ Requires the Public Utilities Commission of Nevada to establish certain reportin
 
 ---
 
-## 96. 83:SB466
+## 116. 83:SB466
 
 - **Title:** Revises provisions governing the authority of the State Department of Agriculture relating to food and water. (BDR 51-1121)
 - **Status:** ok
@@ -2152,7 +2576,30 @@ Revises provisions governing the authority of the State Department of Agricultur
 
 ---
 
-## 97. 83:SB6
+## 117. 83:SB494
+
+- **Title:** AN ACT relating to state government; creating the Nevada Health Authority; creating certain divisions and offices within the Authority; providing for the appointment of officers and the employment of staff for the Authority; establishing requirements governing procurement by the Authority; creating the Nevada Health Authority Gift Fund; prescribing the duties of the Authority and its divisions and officers; transferring to the Authority the responsibility for operating various programs and administering various provisions; revising the name of certain agencies; revising certain terminology; eliminating the Division of Health Care Financing and Policy of the Department of Health and Human Services; revising provisions governing the operation of the Public Employees' Benefits Program and Medicaid; requiring certain reporting on the costs of health insurance for retired state employees; authorizing the Authority to require the reporting of certain information on the cost of certain prescription drugs; revising the membership and duties of the Board of Directors of the Silver State Health Insurance Exchange; providing for a study of opportunities for the Board of the Public Employees' Benefits Program to directly contract with certain providers of health care; providing for a study of and the development of a plan to transfer certain additional functions to the Authority; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** Yes
+- **Similarity:** 0.4757
+- **Amendments:** Amendment 920, Amendment 948, Amendment 954
+
+The enrolled bill differs from the introduced version before it reached the Governor. NELIS lists adopted amendments: Amendment 920, Amendment 948, Amendment 954.
+
+### Legislative Counsel’s Digest (enrolled)
+
+Existing law creates the Department of Health and Human Services, which consists of the Aging and Disability Services Division, the Division of Public and Behavioral Health, the Division of Welfare and Supportive Services, the Division of Child and Family Services and the Division of Health Care Financing and Policy. (NRS 232.300) This bill creates a new department within the Executive Department of the State Government known as the Ne vada Health Authority to assume certain responsibilities of the Department of Health and Human Services and other entities related to the management of certain public health insurance plans, the licensing and regulation of certain persons and entities involved in the provision of health care and the regulation of sanitation in food establishments and certain other locations. Section 18 of this bill creates and establishes the purposes of the Authority, and section 32 of this bill changes the name of the De partment to the Department of Human Services. Section 18 provides that the Authority consists of: (1) the Medicaid Division; (2) the Health Care Purchasing and Compliance Division; and (3) the Consumer Health Division. Section 19 of this bill requires the Governor to appoint a Director of the Authority who possesses certain qualifications. Sections 20-23 and 29 of this bill provide for the appointment of officers and the employment of staff for the Authority, including an administrator of each division of the Authority. – 2 – - 83rd Session (2025) Sections 24 and 79 of this bill exempt the Authority from provisions of law governing state procurement, with certain exceptions, and section 24 prescribes requirements governing procurement by the Authority. Sections 24 and 61 of this bill provide for the confidentiality of certain information submitted to the Authority during the procurement process. Section 25 of this bill authorizes: (1) the sharing of confidential informa tion within the Authority; and (2) the Authority to share confidential information with certain agencies of local governments in certain circumstances. Sections 26 and 34 of this bill transfer from the Department to the Authority the authority to administe r certain programs for persons with developmental disabilities. Section 28 of this bill requires the Director or the Director’s designee to adopt each state plan required by the Federal Government for the administration of any program for which the Authori ty or a division thereof is responsible. Section 31 of this bill creates the Nevada Health Authority Gift Fund to hold gifts, grants and other property which the Authority is authorized to accept. Sections 113 and 227 of this bill require the deposit of ce rtain money in the Fund. Section 36 of this bill updates the name of the Department of Health and Human Services Gift Fund, which is created by existing law, to conform to the change in the name of the Department. (NRS 232.355) Existing law requires the O ffice of Science, Innovation and Technology in the Office of the Governor to administer the Graduate Medical Education Grant Program, which is a program to award grants to institutions in this State seeking to create, expand or retain programs for residency training and postdoctoral fellowships for physicians. (NRS 223.631 -223.639) Sections 2-8 and 26 of this bill transfer to the Consumer Health Division the responsibility for administering the Program. Existing law requires the Board of the Public Employe es’ Benefits Program to establish the Program to provide group life, accident or health insurance, or any combination thereof, to employees of the State Government. (NRS 287.043) Section 68 of this bill places the Board within the Authority and makes revis ions governing the appointment and membership of the Board. Section 68.5 of this bill: (1) removes the authority of the Governor to designate the Chair of the Board and instead requires the Board to elect a Chair annually; and (2) requires the Governor to designate a Vice Chair of the Board. Section 69 of this bill transfers from the Board to the Director of the Authority the responsibility for appointing the Executive Officer of the Program. Section 65.5 of this bill requires the Board to biennially submit to the Legislature a report concerning the cost for a retired state employee to obtain coverage through the Program under Medicare. Section 70 of this bill requires the Executive Officer to submit to the Authority a report regarding the administration and operation of the Program, in addition to certain other entities that currently receive the report. Section 71 of this bill provides that the a ppointment of officers and unclassified employees to administer the Program is subject to the approval of the Director of the Authority. Sections 72-74 of this bill authorize the Board to utilize certain services of the Authority, including procurement ser vices, or to conduct procurement in accordance with either section 24 or provisions of existing law governing procurement by state agencies. ( Chapter 333 of NRS) Section 72 additionally requires the Board, within the limits of available resources, to take such measures as are necessary to maximize the benefits available to participants in the Program and the ability of participants to access available benefits. Existing law authorizes the Board of the Program to enter into contracts with physicians, surgeons, hospitals and rehabilitative facilities for medical, surgical and rehabilitative care and the evaluation, treatment and nursing care of members of the Program and covered dependents. (NRS 287.0434) Section 367.7 of this bill requires the Authority and the Board to study and report to the Legislature concerning opportunities to directly contract with such providers. – 3 – - 83rd Session (2025) Existing law requires: (1) the Department to administer Medicaid and the Children’s Health Insurance Program; and (2) the Division of Health Care Financing and Policy of the Department to perform certain duties related to the administration of those programs. (Chapter 422 of NRS) Sections 26, 34, 93-96, 113-117, 120.5 and 359 of this bill transfer from the Department and the Director of the Department to the Medicaid Division and the Director of the Authority the responsibility for administering Medicaid and the Children’s Health Insurance Program. Sections 32, 34 and 35 of this bill abolish the Division of Health Care Financing and Policy, and sections 94 and 359 transfer the authority, duties and responsibilities of that Division to the Medicaid Division. Section 86 of this bill authorizes the Authority to delegate to other governmental entities the responsibility for making determinations of eligibility for Medicaid and the Children’s Health Insurance Program. Section 87 of this bill creates the Office of the Medicaid Inspector General within the Authority to perform certain duties to ensure the integrity of Medicaid and the Children’s Health Insurance Program and to prevent waste, fraud and abuse in those programs. Sections 66, 88-91 and 371 of this bill transfer or provide to the Authority certain responsibilities related to the administration of those programs. Sections 101-104, 109 and 110 of this bill establish provisions governing the qualifications, supervision and activities of the Administrator of the Medicaid Division, which are similar to the qualifications, supervision and activities of the Administrator of the Division of Health Care Financing and Policy. (NRS 422.2354 -422.2364, 422.2372) Sections 105-108, 111 and 112 of this bill transfer to the Director certain responsibilities relating to Medicaid and the Children’s Health Insurance Program, including the responsibility for adopting regulations governing those programs. Section 116 requires any contract for the expenditure of federal money under Medicaid to be signed by the Director. Section 118 of this bill requires the Authority to: (1) include on an Internet website maintained by the Authority certain information to allow recipients of Medicaid through managed care to compare available plans; and (2) develop and implement a beneficiary support system for such recipients of Medicaid. Section 371 repeals certain fiscal duties previously performed by the Administrator of the Division of Health Care Financing and Policy. Sections 26, 34, 141, 144-146, 194, 217-224, 245-247, 250, 260, 276, 325-327 and 360 of this bill transfer from the Division of Public and Behavioral Health to the Health Care Purchasing and Compliance Division and from the Department of Health and Human Services to the Nevada Health Author ity, as applicable, the responsibilities for credentialing and regulating: (1) programs for the treatment of persons who commit domestic violence; (2) health care facilities and certain entities involved in the provision of personal care services; (3) nont ransplant anatomical donation organizations; (4) naprapaths; and (5) medical laboratories and their personnel. Section 143 of this bill authorizes the State Board of Health to establish fees for the credentialing functions and certain other functions of th e Health Care Purchasing and Compliance Division. Sections 26, 34 and 162-171 of this bill transfer from the Division of Public and Behavioral Health to the Health Care Purchasing and Compliance Division the responsibility for administering provisions governing health and safety at health care facilities, including the reporting of sentinel events. Section 35 reduces the number of deputy administrators in the Division of Public and Behavioral Health to account for the duties removed from that Division. Section 367.8 of this bill requires the Department and the Authority to study and develop a plan to additionally transfer functions relating to behavioral health, maternal health and public health from that Division to the Authority. Sections 26, 34, 141, 144, 145, 147-152, 154-160, 180-187, 197-200, 226-238, 240-244 and 359 of this bill transfer from the Department to the Authority the responsibility for administering; (1) the State Program for Oral Health; (2) provisions – 4 – - 83rd Session (2025) governing health information technology; (3) the programs to increase public awareness of health care in formation concerning hospitals and surgical centers for ambulatory patients in this State; (4) provisions governing the reporting of information relating to the cost of certain prescription drugs and certain information concerning pharmacies; (5) the Nevad a Health Facilities Assistance Act, which establishes a program to construct new health facilities in this State; and (6) certain requirements to ensure the quality of care offered by hospitals in this State and the financial stability of such hospitals. Section 197 additionally authorizes the Authority to require the reporting of information concerning the cost of certain additional prescription drugs for which reporting is not currently required. Existing law: (1) creates the Patient Protection Commission within the Office of the Director of the Department; and (2) requires the Commission to perform certain duties to improve the quality, accessibility and affordability of health care in this State. (NRS 439.908, 439.918) Sections 26, 34, 172 and 173 of this bill transfer the Commission to the Consumer Health Division. Sections 172 and 173 also transfer from the Governor to the Director of the Authority the responsibility for appointing the members and Executive Director of the Commission. Sections 174 and 175 of this bill require the Commission to make certain recommendations and submit certain reports to the Director of the Authority. Existing law authorizes the Division of Public and Behavioral Health to establish a secure Internet website which makes ce rtain information available for a website client to conduct background investigations of certain persons who are required by law to undergo such an investigation. (NRS 449.942) Sections 175.3 and 175.6 of this bill authorize the Authority to access information on that Internet website without restriction and without becoming a website client. Existing law requires the Department to establish an all-payer claims database of information relating to health insurance claims resulting from medical, dental or pharmacy benefits provided in this State. (NRS 439B.835) Section 29 creates the Office of Data Analytics within the Authority, and sections 26, 34, 202-204 and 359 of this bill transfer to the Office the responsibility for operating the all -payer claims database. Existing law: (1) requires the Division of Public and Behavioral Health to enforce provisions governing sanitation and food establishments under certain circumstances; and (2) requires each county where the Division provides such enforcement to pay an assessment to the Division. (NRS 439.4905, chapters 444 and 446 of NRS) Sections 26, 34, 206-208 and 210-216 of this bill transfer to the Authority the authority to enforce provisions governing sanitation and food establishments, and sections 30 and 153 of this bill require counties who currently pay to the Division an assessment for those functions to instead pay the assessment to the Authority. Existing law requires the State Board of Health to license and regulate music therapists and dietitians. (Ch apters 640D and 640E of NRS) Sections 26, 283-297 and 300-323 of this bill transfer to the Health Care Purchasing and Compliance Division the responsibilities for issuing and renewing licenses to those professionals and enforcing provisions of law and regu lations governing those professionals and leave the authority to adopt regulations governing those professions with the State Board. Existing law creates the Silver State Health Insurance Exchange. (NRS 695I.200) Existing law requires the Exchange to: (1) create and administer a state-based health insurance exchange; (2) facilitate the purchase and sale of qualified health plans; (3) provide for the establishment of a program to help certain small employers in Nevada in facilitating the enrollment of employees in qualified health plans; and (4) perform all other duties required pursuant to the federal Patient Protection and Affordable – 5 – - 83rd Session (2025) Care Act, the federal Health Care and Education Reconciliation Act of 2010 and any amendments to or regulations or guidance issued pursuant to those Acts. (Pub. L. No. 111-148, Pub. L. No. 111-152; NRS 695I.200, 695I.210) The Exchange is governed by the Board of Directors consisting of five voting members appointed by the Governor, one voting member appointed by the Senate Majo rity Leader, one voting member appointed by the Speaker of the Assembly and three ex officio, nonvoting members. (NRS 695I.300) Sections 346-348 of this bill place the Exchange under the authority of the Consumer Health Division. Section 348: (1) reduces the number of members of the Board appointed by the Governor from five to two; (2) adds three heads of agencies whose work relates to public health or health insurance as ex officio, voting members of the Board; and (3) reduces the nonvoting membership of the Board. Sections 349 and 350 of this bill make revisions governing the terms of the members and officers of the Board. Section 352 of this bill transfers from the Board to the Director of the Authority or his or her designee the responsibility for appointing the Executive Director of the Exchange. Sections 351 and 352 of this bill transfer certain duties relating to auditing and reports from the Board to the Executive Director. Sections 353 and 354 of this bill transfer certain other duties related to the Exchange to Authority and its Director. Existing law requires the Director of the Department, in consultation with the Commissioner of Insurance and the Executive Director of the Exchange, to design, establish and operate a health benefit p lan known as the Public Option. (NRS 695K.200) Section 355 of this bill transfers the responsibility for designing, establishing and operating the Public Option to the Director of the Authority. Section 27 of this bill requires the Director and the Authority to: (1) take certain actions to facilitate determinations of eligibility for and the selection of plans under Medicaid and certain other public health insurance programs under the jurisdiction of the Authority ; and (2) assess and recommend improvements to the Public Employees’ Benefits Program. Sections 9-13, 38-60, 62, 77, 78, 80, 81, 83, 96-98, 100, 121, 123, 125, 128-139, 142, 161, 178, 179, 188, 189, 195, 196, 205, 209, 248, 249, 251-275, 277-280, 324, 328-336, 338-341 and 356-358 of this bill make various conforming changes to reflect the authority transferred by the provisions of this bill. Sections 32, 34, 38, 46, 99, 122, 127, 239, 287, 307 and 326 of this bill change the name of the Division of Welfare and Supportive Services of the Department to the Division of Social Services of the Department. Sections 33, 37, 82, 119, 120, 123, 124, 126-128 and 368 of this bill revise the terminology to refer to certain programs operated by that Division from “welfare” to “public assistance.” Section 132 revises the term “transitional assistance” to “child care assistance” to describe certain assistance provided pursuant to federal Temporary Assistance for Needy Families program. Sections 1, 16, 17, 64, 65, 85, 140, 176, 191, 192, 225, 240, 281, 298, 343 and 344 of this bill define certain terms, and sections 15, 67, 75, 76, 92, 177, 193, 201, 282, 299, 337 and 345 of this bill make conforming changes to indicate the applicability of those definitions. Section 371 eliminates certain definitions that are no longer necessary. Sections 58.5 and 120.5 of this bill authorize the Board of State Prison Commissioners to obtain prescription drugs for the treatment of offenders through collaborative purchasing conducted by the Authority for Medicaid and certain public and nonprofit health plans. Section 361 of this bill transfers to the Authority the duty to carry out any requirements of a bill that is enacted by the Legislature during this session and approved by the Governor to: (1) require the Depart ment of Health and Human Services to operate a program to award money to support projects to address shortages of providers of health care in this State; or (2) impose certain requirements on Medicaid or the Children’s Health Insurance Program. – 6 – - 83rd Session (2025) EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+### Introduced SUMMARY line
+
+Makes revisions relating to health and human services. (BDR 18-1116)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB494.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB494_EN.pdf
+
+---
+
+## 118. 83:SB6
 
 - **Title:** Makes an appropriation to the Desert Research Institute of the Nevada System of Higher Education to support the Nevada State Cloud Seeding Program. (BDR S-389)
 - **Status:** ok
@@ -2171,7 +2618,7 @@ Makes an appropriation to the Desert Research Institute of the Nevada System of 
 
 ---
 
-## 98. 83:SB69
+## 119. 83:SB69
 
 - **Title:** Revises provisions relating to economic development. (BDR 32-369)
 - **Status:** ok
@@ -2194,7 +2641,7 @@ Revises provisions relating to economic development. (BDR 32-369)
 
 ---
 
-## 99. 83:SB71
+## 120. 83:SB71
 
 - **Title:** AN ACT relating to governmental administration; requiring certain public entities to post certain information relating to purchasing on their Internet websites; revising the duties of the Commission to Study Governmental Purchasing; abolishing the Regional Business Development Advisory Council for Clark County; eliminating a requirement that institutions of the Nevada System of Higher Education provide certain mentoring to certain businesses participating in the NV Grow Program; and providing other matters properly relating thereto.
 - **Status:** ok
@@ -2214,5 +2661,28 @@ Revises provisions relating to purchasing. (BDR 27-366)
 
 - Introduced PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB71.pdf
 - Enrolled PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB71_EN.pdf
+
+---
+
+## 121. 83:SB83
+
+- **Title:** AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.
+- **Status:** ok
+- **Textually amended:** Yes
+- **Similarity:** 0.2596
+- **Amendments:** Amendment 216
+
+The enrolled bill differs from the introduced version before it reached the Governor. NELIS lists adopted amendments: Amendment 216.
+
+### Legislative Counsel’s Digest (enrolled)
+
+The Environmental Improvement Program was implemented in 1997 to carry out projects to improve the environment in the Lake Tahoe Basin. The costs of the Program are apportioned among the Federal Government, the States of Nevada and California and local governments and owners of private property in both states. In 1999, the Nevada Legislature authorized the issuance of not more than $56.4 million in general obligation bonds to pay for a significant portion of Nevada’s share of the costs of the first phase of the Program. (Chapter 514, St atutes of Nevada 1999, at page 2626) In 2009, the Nevada Legislature authorized the issuance of not more than $100 million in general obligation bonds to pay for Nevada’s share of the costs of the second phase of the Program beginning on July 1, 2009, and ending on June 30, 2020. (Section 3 of chapter 431, Statutes of Nevada 2009, at page 2417) Issuance of those bonds requires the approval of the Legislature or the Interim Finance Committee. ( Id.) In 2017, the Nevada Legislature extended the deadline for t he issuance of the remainder of the general obligation bonds that were authorized in 2009 for the second phase of the Program from June 30, 2020, to June 30, 2030. (Chapter 32, Statutes of Nevada 2017, at page 137) Of the $100 million in general obligatio n bonds authorized to pay for Nevada’s share of the costs of the second phase of the Program, the Nevada Legislature required the issuance of: (1) not more than $4.42 million of those bonds in 2009; (2) not more than $12 million of those bonds in 2011; (3) not more than $8 million of those bonds in 2019; (4) not more than $4 million of those bonds in 2021; and (5) not more than $13 million of those bonds in 2023. ( Section 1 of chapter 431, Statutes of Nevada 2009, at page 2416; section 1 of chapter 437, Statutes of Nevada 2011, at page 2638; section 1 of chapter 167, Statutes of Nevada 2019, at page 891; section 1 of chapter 215, Statutes of Nevada 2021, at page 1008; section 1 of chapter 99, Statutes of Nevada 2023, at page 501) This bill requires the issuance of not more than $10.5 million of the $100 million in general obligation bonds authorized in 2009 to provide money to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program and al lows the use of interest accrued on the proceeds of the general obligation bonds for the Program. EXPLANATION – Matter in bolded italics is new; matter between brackets [omitted material] is material to be omitted.
+
+### Introduced SUMMARY line
+
+Requires the issuance of bonds for environmental improvement projects in the Lake Tahoe Basin. (BDR S-376)
+
+- Introduced PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB83.pdf
+- Enrolled PDF: https://www.leg.state.nv.us/Session/83rd2025/Bills/SB/SB83_EN.pdf
 
 ---

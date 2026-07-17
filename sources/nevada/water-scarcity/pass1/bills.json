@@ -5,11 +5,11 @@
   "counts": {
     "nelis_cached": 121,
     "openstates_cached": 245,
-    "merged_bills": 165,
-    "passes_water_title_filter": 142,
+    "merged_bills": 189,
+    "passes_water_title_filter": 166,
     "both_sources": 45,
     "openstates_rejected": 200,
-    "subject_index_added": 44
+    "subject_index_added": 68
   },
   "bills": [
     {
@@ -25,7 +25,9 @@
         "water",
         "water conservation",
         "subject-index: WATER",
-        "subject-index: WATER CONSERVATION"
+        "subject-index: WATER CONSERVATION",
+        "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF",
+        "subject-index: PUBLIC UTILITIES COMMISSION OF NEVADA"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising certain requirements relating to a plan of water conservation; revising minimum standards for plumbing fixtures in new construction and expansions and renovations in certain structures; and providing other matters properly relating thereto.",
@@ -41,7 +43,8 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6293/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: FLOOD CONTROL"
       ],
       "passes_water_title_filter": true,
       "discovered_via": "lcb_subject_index",
@@ -66,6 +69,24 @@
       "official_title": "AN ACT relating to local governing bodies; authorizing, under certain circumstances, a board of county commissioners in certain counties to appoint members of certain local governing bodies; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
       "abstract_fetched_at": "2026-07-17T17:16:22.935763+00:00"
+    },
+    {
+      "session": "80",
+      "identifier": "AB220",
+      "title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "abstract": "The Environmental Improvement Program was implemented in 1997 to carry out projects to improve the environment in the Lake Tahoe Basin. The costs of the Program are apportioned among the Federal Government, the States of Nevada and California and local governments and owners of private property in both states. In 1999, the Nevada Legislature authorized the issuance of not more than $53.2 million in general obligation bonds to pay for a significant portion of Nevada's share of the costs of the first phase of the Program. (Chapter 514, Statutes of Nevada 1999, p. 2626) In 2009, the Nevada Legislature authorized the issuance of not more than $100 million in general obligation bonds to pay for Nevada's share of the costs of the second phase of the Program. Issuance of those bonds requires the approval of the Legislature or the Interim Finance Committee. (Chapter 431, Statutes of Nevada 2009, p. 2417) The Nevada Legislature in 2009 also required the issuance of not more than $4,420,000 of such bonds to provide money to carry out certain environmental improvement projects included in the second phase of the Program. (Chapter 431, Statutes of Nevada 2009, p. 2416) In 2011, the Nevada Legislature required the issuance of not more than $12 million of the $100 million in general obligation bonds authorized in 2009 to provide additional money to carry out environmental improvement projects included in the second phase of the Program. (Chapter 437, Statutes of Nevada 2011, p. 2638) This bill requires the issuance of not more than $8 million of the $100 million in general obligation bonds authorized in 2009 to provide money to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6383/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: TAHOE BASIN"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:35:07.879991+00:00"
     },
     {
       "session": "80",
@@ -96,7 +117,8 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6429/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "subject-index: WATER AUTHORITIES"
+        "subject-index: WATER AUTHORITIES",
+        "subject-index: FLOOD CONTROL"
       ],
       "passes_water_title_filter": true,
       "discovered_via": "lcb_subject_index",
@@ -281,13 +303,32 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7006/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "subject-index: WATER CONSERVATION"
+        "subject-index: WATER CONSERVATION",
+        "subject-index: AGRICULTURE, STATE DEPARTMENT OF"
       ],
       "passes_water_title_filter": true,
       "discovered_via": "lcb_subject_index",
       "official_title": "AN ACT making appropriations to the State Department of Agriculture for the purchase of replacement vehicles and the purchase and replacement of laboratory equipment; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_title",
       "abstract_fetched_at": "2026-07-17T17:16:38.622452+00:00"
+    },
+    {
+      "session": "80",
+      "identifier": "AB505",
+      "title": "AN ACT making appropriations to the Division of State Parks for self-pay kiosks, replacement of vehicles, a paving project and construction at Ice Age Fossils State Park and maintenance equipment for Sand Harbor at Lake Tahoe Nevada State Park; and providing other matters properly relating thereto.",
+      "abstract": "AN ACT making appropriations to the Division of State Parks for self-pay kiosks, replacement of vehicles, a paving project and construction at Ice Age Fossils State Park and maintenance equipment for Sand Harbor at Lake Tahoe Nevada State Park; and providing other matters properly relating thereto.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7007/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: TAHOE BASIN"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT making appropriations to the Division of State Parks for self-pay kiosks, replacement of vehicles, a paving project and construction at Ice Age Fossils State Park and maintenance equipment for Sand Harbor at Lake Tahoe Nevada State Park; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_title",
+      "abstract_fetched_at": "2026-07-17T20:35:10.946065+00:00"
     },
     {
       "session": "80",
@@ -304,7 +345,8 @@
         "water rights",
         "State Engineer",
         "subject-index: WATER",
-        "subject-index: WELLS"
+        "subject-index: WELLS",
+        "subject-index: FORFEITURE"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the State Engineer to adopt regulations relating to the conjunctive management of groundwater and surface water; authorizing the State Engineer to impose certain special assessments related to a program for the conjunctive management of groundwater and surface water; providing that certain water rights are not subject to abandonment or forfeiture; and providing other matters properly relating thereto.",
@@ -320,7 +362,10 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7063/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: ACTIONS, CIVIL",
+        "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF",
+        "subject-index: INJUNCTIONS"
       ],
       "passes_water_title_filter": true,
       "discovered_via": "lcb_subject_index",
@@ -338,7 +383,10 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7075/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "subject-index: WATER CONSERVATION"
+        "subject-index: WATER CONSERVATION",
+        "subject-index: BOND ISSUES",
+        "subject-index: GIFTS AND GRANTS",
+        "subject-index: TAHOE BASIN"
       ],
       "passes_water_title_filter": true,
       "discovered_via": "lcb_subject_index",
@@ -358,11 +406,70 @@
       "found_by_terms": [
         "water",
         "State Engineer",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: LEGISLATIVE AND AGENCY STUDIES",
+        "subject-index: LEGISLATIVE COUNSEL BUREAU",
+        "subject-index: LEGISLATURE"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the State Engineer to adopt regulations relating to the time for the completion of work and the application of water to beneficial use; requiring the State Engineer to conduct a survey relating to extensions of time to perfect a water right; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "80",
+      "identifier": "AB73",
+      "title": "AN ACT relating to homeless persons; providing for the creation of a temporary working group in Clark County to address issues relating to homelessness; requiring the working group to prepare and submit a report of its recommendations to address issues relating to homelessness; and providing other matters properly relating thereto.",
+      "abstract": "This bill requires the Board of County Commissioners of Clark County and the governing bodies of each city in Clark County to create a working group to: (1) consider methods to reduce homelessness in Clark County; and (2) identify sources of funding for programs created to reduce homelessness in Clark County. This bill requires the working group to prepare and submit a report to the Board and governing bodies on or before October 1, 2020, which sets forth: (1) recommendations on methods to reduce homelessness in Clark County; and (2) sources of funding to implement the recommendations made in the report. Additionally, this bill requires the Board and governing bodies to hold a public hearing on the report and set forth the reason for rejecting a recommendation in the report on the record at the public hearing.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6016/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: SEWAGE DISPOSAL"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to homeless persons; providing for the creation of a temporary working group in Clark County to address issues relating to homelessness; requiring the working group to prepare and submit a report of its recommendations to address issues relating to homelessness; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:35:13.604921+00:00"
+    },
+    {
+      "session": "80",
+      "identifier": "AB84",
+      "title": "AN ACT relating to state resources; providing for the issuance of state general obligation bonds to protect, preserve and obtain the benefits of the property and natural and cultural resources of the State of Nevada; providing for the use of the proceeds of the bonds; repealing the prospective extension of the period for the issuance of certain bonds; making an appropriation; and providing other matters properly relating thereto.",
+      "abstract": "At the general election held on November 5, 2002, the Legislature submitted to the voters of this State and the voters approved a proposal to issue general obligation bonds of the State to protect, preserve and obtain the benefits of the property and natural resources of this State in an amount not to exceed $200,000,000. The ballot question allocated specific amounts of the bond proceeds to various governmental entities for specified programs and projects. (Chapter 6, Statutes of Nevada 2001, 17th Special Session, p. 104) This bill requires the State Board of Finance to issue an additional $217,500,000 in state general obligation bonds to continue to protect, preserve and obtain the benefits of the property and natural and cultural resources of this State. This bill also allocates specific amounts of the bond proceeds to various governmental entities for specified programs and projects, some of which are the same programs and projects specified in the 2002 ballot question. The Nevada Constitution limits the amount of debt of the State of Nevada to 2 percent of the assessed valuation of the State, but exempts from that limitation debt incurred for the protection and preservation of the State's property or natural resources or for the purposes of obtaining the benefits thereof. (Nev. Const. Art. 9, \u00a7 3) This bill makes a legislative declaration that, with certain exceptions, the issuance of the bonds required by this bill is necessary for the protection and preservation of the property and natural resources of the State and constitutes an exercise of the constitutional authority to enter into contracts for those purposes. Existing law includes a limitation on the issuance or sale of bonds more than 6 years after an election that is required to authorize their issuance. (NRS 349.078) In 2007, 2013 and 2017, the Legislature made exceptions to this 6-year limitation for the bonds issued pursuant to the 2002 ballot question by extending the period for the issuance of those bonds until December 31, 2011, June 30, 2019, and June 30, 2024, respectively. (Chapter 291, Statutes of Nevada 2007, p. 1089, chapter 251, Statutes of Nevada 2013, p. 1055, chapter 33, Statutes of Nevada 2017, p. 139) Section 9 of this bill repeals the June 30, 2024, extension, thereby expiring the period for issuance of bonds pursuant to the 2002 ballot question on June 30, 2019.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6040/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: RIVERS",
+        "subject-index: TAHOE BASIN",
+        "subject-index: TRUCKEE RIVER"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to state resources; providing for the issuance of state general obligation bonds to protect, preserve and obtain the benefits of the property and natural and cultural resources of the State of Nevada; providing for the use of the proceeds of the bonds; repealing the prospective extension of the period for the issuance of certain bonds; making an appropriation; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:35:16.467699+00:00"
+    },
+    {
+      "session": "80",
+      "identifier": "AB93",
+      "title": "AN ACT relating to license plates; authorizing the Administrator of the Division of State Lands of the State Department of Conservation and Natural Resources to provide grants to nonprofit organizations from the Account for License Plates for the Support of the Preservation and Restoration of the Natural Environment of the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "abstract": "Existing law requires the Department of Motor Vehicles to deposit certain fees collected in connection with the issuance and renewal of special license plates for the support of the preservation and restoration of the natural environment of the Lake Tahoe Basin with the State Treasurer for credit to the Account for License Plates for the Support of the Preservation and Restoration of the Natural Environment of the Lake Tahoe Basin. (NRS 482.37933) Existing law also authorizes the Administrator of the Division of State Lands of the State Department of Conservation and Natural Resources to provide grants from the Account to other public agencies to use for the support of programs for the preservation and restoration of the natural environment of the Lake Tahoe Basin. (NRS 321.5951) This bill authorizes the Administrator to provide grants from the Account to nonprofit organizations to use for the support of programs for the preservation and restoration of the natural environment of the Lake Tahoe Basin.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6076/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: TAHOE BASIN"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to license plates; authorizing the Administrator of the Division of State Lands of the State Department of Conservation and Natural Resources to provide grants to nonprofit organizations from the Account for License Plates for the Support of the Preservation and Restoration of the Natural Environment of the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:35:18.979661+00:00"
     },
     {
       "session": "80",
@@ -416,7 +523,8 @@
         "water",
         "groundwater",
         "State Engineer",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: EMERGENCY MANAGEMENT"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to groundwater; requiring the State Engineer to reserve a certain percentage of the remaining groundwater available for use in certain basins; prohibiting the use of such groundwater; and providing other matters properly relating thereto.",
@@ -468,7 +576,8 @@
       "found_by_terms": [
         "water",
         "subject-index: WATER",
-        "subject-index: WELLS"
+        "subject-index: WELLS",
+        "subject-index: CRIMES AND PUNISHMENTS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; establishing requirements relating to sinking or boring certain wells for water already appropriated; providing a penalty; and providing other matters properly relating thereto.",
@@ -505,7 +614,11 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6487/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF",
+        "subject-index: PUBLIC LANDS",
+        "subject-index: RIVERS",
+        "subject-index: TAHOE BASIN"
       ],
       "passes_water_title_filter": true,
       "discovered_via": "lcb_subject_index",
@@ -559,7 +672,8 @@
         "water",
         "interstate water",
         "subject-index: CALIFORNIA-NEVADA COMPACT FOR JURISDICTION ON INTERSTATE WATERS",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: TAHOE BASIN"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to the California-Nevada Compact for Jurisdiction on Interstate Waters; revising and extending the provisions of the Compact; and providing other matters properly relating thereto.",
@@ -576,7 +690,10 @@
       "openstates_url": null,
       "found_by_terms": [
         "water",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF",
+        "subject-index: PUBLIC LANDS",
+        "subject-index: RIVERS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to state lands; clarifying when an authorization from the State Land Registrar is required to perform work below the high water mark of a navigable river; requiring the State Land Registrar to establish by regulation fees for such authorization and for permits related to dredging, filling and installing certain structures; revising provisions relating to the accounting and use of the proceeds of certain fees for the use of state lands; eliminating the requirement that the State Land Registrar grant credit towards fees paid for the commercial use of state land; making various other changes relating to state lands; and providing other matters properly relating thereto.",
@@ -647,7 +764,8 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6981/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "water"
+        "water",
+        "subject-index: APPROPRIATIONS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT making appropriations to the Division of Water Resources for the replacement of vehicles and computer software and hardware; and providing other matters properly relating thereto.",
@@ -701,7 +819,8 @@
       "openstates_url": null,
       "found_by_terms": [
         "subject-index: STATE ENGINEER",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: TAHOE BASIN"
       ],
       "passes_water_title_filter": true,
       "discovered_via": "lcb_subject_index",
@@ -720,11 +839,48 @@
       "openstates_url": null,
       "found_by_terms": [
         "Colorado River",
-        "subject-index: COLORADO RIVER COMMISSION OF NEVADA"
+        "subject-index: COLORADO RIVER COMMISSION OF NEVADA",
+        "subject-index: PUBLIC UTILITIES"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to energy; authorizing the Colorado River Commission of Nevada to sell electricity and provide transmission service and distribution service to certain new customers who receive a reallocation of capacity and associated firm energy which was originally allocated to certain existing customers; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "80",
+      "identifier": "SCR5",
+      "title": "Expressing support for the role of science in preserving the environmental and ecological conditions in the Lake Tahoe Basin and recognizing the role of the Tahoe Bi-State Executive Committee and the Tahoe Science Advisory Council in providing scientific resources to help guide decision making and planning regarding natural resources and implementation of environmental improvement projects in the Lake Tahoe Basin.",
+      "abstract": "Expressing support for the role of science in preserving the environmental and ecological conditions in the Lake Tahoe Basin and recognizing the role of the Tahoe Bi-State Executive Committee and the Tahoe Science Advisory Council in providing scientific resources to help guide decision making and planning regarding natural resources and implementation of environmental improvement projects in the Lake Tahoe Basin.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6843/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: TAHOE BASIN"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "Expressing support for the role of science in preserving the environmental and ecological conditions in the Lake Tahoe Basin and recognizing the role of the Tahoe Bi-State Executive Committee and the Tahoe Science Advisory Council in providing scientific resources to help guide decision making and planning regarding natural resources and implementation of environmental improvement projects in the Lake Tahoe Basin.",
+      "abstract_source": "nelis_overview_title",
+      "abstract_fetched_at": "2026-07-17T20:35:21.843936+00:00"
+    },
+    {
+      "session": "80",
+      "identifier": "SJR7",
+      "title": "Expressing support for finding innovative transportation solutions in the Lake Tahoe Basin and for the efforts of the Bi-State Working Group on Transportation.",
+      "abstract": "Expressing support for finding innovative transportation solutions in the Lake Tahoe Basin and for the efforts of the Bi-State Working Group on Transportation.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6921/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: TAHOE BASIN"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "Expressing support for finding innovative transportation solutions in the Lake Tahoe Basin and for the efforts of the Bi-State Working Group on Transportation.",
+      "abstract_source": "nelis_overview_title",
+      "abstract_fetched_at": "2026-07-17T20:35:24.287388+00:00"
     },
     {
       "session": "81",
@@ -739,7 +895,12 @@
         "water",
         "subject-index: WATER",
         "subject-index: WATER POLLUTION",
-        "subject-index: WELLS"
+        "subject-index: WELLS",
+        "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF",
+        "subject-index: ENVIRONMENTAL COMMISSION, STATE",
+        "subject-index: INDIGENT PERSONS",
+        "subject-index: MINORITIES",
+        "subject-index: NATIVE AMERICANS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; authorizing the State Department of Conservation and Natural Resources to develop plans, recommendations and policies to address water pollution resulting from diffuse sources; revising requirements for regulations adopted by the State Environmental Commission relating to water pollution; revising notice requirements relating to regulations adopted by the Commission; revising various provisions relating to the control of water pollution by the Director of the Department; revising requirements relating to the control of diffuse sources of water pollution; requiring the Director to consult or notify Indian tribes of certain actions relating to water pollution; and providing other matters properly relating thereto.",
@@ -758,7 +919,8 @@
         "water",
         "Colorado River",
         "subject-index: COLORADO RIVER COMMISSION OF NEVADA",
-        "subject-index: STATE ENGINEER"
+        "subject-index: STATE ENGINEER",
+        "subject-index: GOVERNOR"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising the membership of the Colorado River Commission of Nevada; and providing other matters properly relating thereto.",
@@ -833,7 +995,9 @@
         "State Engineer",
         "subject-index: STATE ENGINEER",
         "subject-index: WATER BANKING ACT, NEVADA",
-        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS"
+        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS",
+        "subject-index: ABANDONED AND UNCLAIMED PROPERTY",
+        "subject-index: FORFEITURES"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; authorizing the creation and setting forth the authority and duties of certain water banks; requiring the State Engineer to submit a biennial report to the Legislature related to water banks; providing penalties; and providing other matters properly relating thereto.",
@@ -857,7 +1021,12 @@
         "subject-index: STATE ENGINEER",
         "subject-index: WATER AUTHORITIES",
         "subject-index: WATER CONSERVATION",
-        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS"
+        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS",
+        "subject-index: GIFTS OR BEQUESTS",
+        "subject-index: GRANTS",
+        "subject-index: LEGISLATIVE AND AGENCY STUDIES",
+        "subject-index: LEGISLATURE",
+        "subject-index: STATE FINANCES AND FUNDS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; prohibiting, with certain exceptions, the use of water from the Colorado River to irrigate nonfunctional turf on certain property; requiring the Board of Directors of the Southern Nevada Water Authority to develop a plan for the removal of nonfunctional turf on certain property; creating and setting forth the duties of the Nonfunctional Turf Removal Advisory Committee; requiring the Legislative Committee on Public Lands to conduct a study concerning water conservation; and providing other matters properly relating thereto.",
@@ -890,7 +1059,8 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8164/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "water"
+        "water",
+        "subject-index: APPROPRIATIONS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT making an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for the repair and maintenance of the South Fork Dam; and providing other matters properly relating thereto.",
@@ -977,7 +1147,9 @@
       "openstates_url": null,
       "found_by_terms": [
         "water",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: FORESTRY",
+        "subject-index: RESOLUTIONS"
       ],
       "passes_water_title_filter": true,
       "official_title": "Recognizing that the health of forests, rangelands and soils are inextricably linked to the quantity and quality of water.",
@@ -1028,7 +1200,8 @@
       "openstates_url": null,
       "found_by_terms": [
         "subject-index: WASTEWATER",
-        "subject-index: WATER SYSTEMS"
+        "subject-index: WATER SYSTEMS",
+        "subject-index: SEWAGE DISPOSAL"
       ],
       "passes_water_title_filter": true,
       "discovered_via": "lcb_subject_index",
@@ -1049,7 +1222,9 @@
         "water",
         "groundwater",
         "subject-index: STATE ENGINEER",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: COUNTY COMMISSIONERS",
+        "subject-index: GOVERNOR"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to groundwater boards; revising the authority to establish a groundwater board; and providing other matters properly relating thereto.",
@@ -1099,7 +1274,10 @@
       "openstates_url": null,
       "found_by_terms": [
         "water",
-        "subject-index: WATER SYSTEMS"
+        "subject-index: WATER SYSTEMS",
+        "subject-index: EMERGENCY MANAGEMENT AND RESPONSE",
+        "subject-index: HOMELAND SECURITY",
+        "subject-index: PUBLIC SAFETY, DEPARTMENT OF"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to emergency management; revising certain requirements relating to vulnerability assessments and emergency response plans conducted or prepared by community water systems; and providing other matters properly relating thereto.",
@@ -1116,7 +1294,9 @@
       "openstates_url": null,
       "found_by_terms": [
         "water",
-        "subject-index: WATER SYSTEMS"
+        "subject-index: WATER SYSTEMS",
+        "subject-index: CITIES",
+        "subject-index: COUNTIES"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to public water systems; prohibiting, under certain circumstances, a local governing body from refusing to assume responsibility for certain public water systems; and providing other matters properly relating thereto.",
@@ -1169,7 +1349,8 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7208/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "water"
+        "water",
+        "subject-index: TAHOE BASIN"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to natural resource management; replacing the term \u201creforestation\u201d with \u201crevegetation\u201d; expanding the types of vegetation and areas where vegetation is located that the State Forester Firewarden is responsible for conserving, protecting and enhancing; expanding the application of certain provisions governing forests and watersheds to include rangelands; repealing the requirement to carry out certain tasks related to fire retardant roofing, fire-hazardous forested areas and ensuring consistency with fire codes, rules and regulations; and providing other matters properly relating thereto.",
@@ -1191,6 +1372,24 @@
       "official_title": "AN ACT relating to taxation; authorizing an affected local government to deny an application for a partial abatement of certain taxes levied on a facility that generates electricity from geothermal resources by or for the benefit of the local government; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
       "abstract_fetched_at": "2026-07-17T17:09:00.953868+00:00"
+    },
+    {
+      "session": "81",
+      "identifier": "SB368",
+      "title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "abstract": "The Environmental Improvement Program was implemented in 1997 to carry out projects to improve the environment in the Lake Tahoe Basin. The costs of the Program are apportioned among the Federal Government, the States of Nevada and California and local governments and owners of private property in both states. In 1999, the Nevada Legislature authorized the issuance of not more than $56.4 million in general obligation bonds to pay for a significant portion of Nevada's share of the costs of the first phase of the Program. (Chapter 514, Statutes of Nevada 1999, at page 2626) In 2009, the Nevada Legislature authorized the issuance of not more than $100 million in general obligation bonds to pay for Nevada's share of the costs of the second phase of the Program beginning on July 1, 2009, and ending on June 30, 2020. (Chapter 431, Statutes of Nevada 2009, at page 2417) In 2017, the Nevada Legislature extended the deadline for the issuance of the remainder of the general obligation bonds that were authorized in 2009 for the second phase of the Program from June 30, 2020, to June 30, 2030. (Chapter 32, Statutes of Nevada 2017, at page 137) Issuance of those bonds requires the approval of the Legislature or the Interim Finance Committee. (Chapter 431, Statutes of Nevada 2009, at page 2417) The Nevada Legislature in 2009 required the issuance of not more than $4,420,000 of such bonds to provide money to carry out certain environmental improvement projects included in the second phase of the Program. (Chapter 431, Statutes of Nevada 2009, at page 2416) In 2011, the Nevada Legislature required the issuance of not more than $12 million of the $100 million in general obligation bonds authorized in 2009 to provide additional money to carry out environmental improvement projects included in the second phase of the Program. (Chapter 437, Statutes of Nevada 2011, at page 2638) In 2019, the Nevada Legislature required the issuance of not more than $8 million of the $100 million in general obligation bonds authorized in 2009 to provide money to carry out certain environmental improvement projects included in the second phase of the Program. (Chapter 167, Statutes of Nevada 2019, at page 891) This bill requires the issuance of not more than $4 million of the $100 million in general obligation bonds authorized in 2009 to provide money to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8043/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: TAHOE BASIN"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:35:27.557886+00:00"
     },
     {
       "session": "81",
@@ -1279,6 +1478,43 @@
     },
     {
       "session": "81",
+      "identifier": "SB72",
+      "title": "AN ACT relating to common-interest communities; requiring a limited-purpose association to comply with certain requirements relating to the establishment and foreclosure of a lien for assessments; revising provisions relating to the imposition of fines that may be assessed for certain violations of the governing documents of a unit-owners' association; revising provisions relating to meetings of the executive board of a unit-owners' association; and providing other matters properly relating thereto.",
+      "abstract": "Under existing law, a limited-purpose association, which includes an association created for the limited purpose of maintaining the landscape of the common elements, facilities for flood control or a rural agricultural residential common-interest community, is exempt from the requirements of most of the provisions of chapter 116 of NRS, the Uniform Common-Interest Ownership Act. (NRS 116.1201) Section 1 of this bill requires a limited-purpose association to comply with the requirements of the Act pertaining to the establishment and foreclosure of a lien for assessments. Existing law: (1) authorizes the executive board of a unit-owners' association to impose fines for violations of the governing documents of the association; and (2) provides that if the violation does not pose an imminent threat of causing a substantial adverse effect on the health, safety or welfare of the units' owners or residents of the common-interest community, the amount of the fine must be commensurate with the severity of the violation and must be determined by the executive board in accordance with the governing documents, but the amount of the fine must not exceed $100 for each violation or a total amount of $1,000, whichever is less. (NRS 116.31031) Section 2 of this bill requires the Commission for Common-Interest Communities and Condominium Hotels to adopt regulations establishing the criteria used in determining whether a violation poses an imminent threat of causing a substantial adverse effect on the health, safety or welfare of the units' owners or residents of the common-interest community, the severity of such violations and limitations on the amounts of the fines. Section 2 also provides that: (1) if the violation poses an imminent threat of causing a substantial adverse effect on the health, safety or welfare of the units' owners or residents of the common-interest community, the fine must be commensurate with the severity of the violation and must be determined by the executive board in accordance with the governing documents; and (2) if the violation does not pose an imminent threat of causing a substantial adverse effect on the health, safety or welfare of the units' owners or residents of the common-interest community, the amount of the fine must not exceed $100 for each violation or a total amount of $1,000 per hearing against each unit's owner or tenant or invitee of a unit's owner or tenant. Existing law also provides that a fine may not be imposed against a unit's owner for a violation committed by an invitee of the unit's owner or the tenant unless the unit's owner: (1) participated in or authorized the violation; (2) had prior notice of the violation; or (3) had an opportunity to stop the violation and failed to do so. (NRS 116.31031) Section 2 provides that such requirements: (1) apply also to fines imposed against a tenant; and (2) do not apply if the violation poses an imminent threat of causing a substantial adverse effect on the health, safety or welfare of the units' owners or residents of the common-interest community. Additionally, existing law provides that if a fine is imposed for a violation and the violation is not cured within 14 days or any longer period established by the executive board: (1) the violation is deemed a continuing violation; and (2) the executive board may impose an additional fine for the violation for each 7-day period or portion thereof that the violation is not cured. (NRS 116.31031) Section 2 provides that the amount of such an additional fine for a continuing violation must not exceed the amount of the original fine for the violation. Existing law provides that an executive board may meet in executive session to consult with the attorney for the association on matters relating to proposed or pending litigation if the contents of the discussion are protected by the attorney-client privilege. (NRS 116.31085) Section 3 of this bill eliminates the requirement that such matters must relate to proposed or pending litigation for the executive board to meet in executive session and authorizes the executive board to meet in executive session if the contents of the discussion are protected by the attorney-client privilege. Existing law also requires an executive board to meet in executive session to hold a hearing on an alleged violation of the governing documents unless the person who may be sanctioned for the alleged violation requests in writing that an open hearing be conducted by the executive board, in which case the person: (1) is entitled to attend all portions of the hearing related to the alleged violation; (2) is entitled to due process; and (3) is not entitled to attend the deliberations of the executive board. The executive board is required to maintain minutes of any decision made concerning an alleged violation and, upon request, to provide a copy of the decision to the person or the person's designated representative. (NRS 116.31085) Section 3 provides that: (1) the person is entitled to receive written notice of the decision of the executive board regarding the alleged violation within a reasonable time after the decision is made; and (2) the period to cure a violation before it becomes a continuing violation is deemed not to commence until the date on which the notice of the decision of the executive board is provided to the person.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7278/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: FLOOD CONTROL"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to common-interest communities; requiring a limited-purpose association to comply with certain requirements relating to the establishment and foreclosure of a lien for assessments; revising provisions relating to the imposition of fines that may be assessed for certain violations of the governing documents of a unit-owners' association; revising provisions relating to meetings of the executive board of a unit-owners' association; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:35:30.222157+00:00"
+    },
+    {
+      "session": "81",
+      "identifier": "SB73",
+      "title": "AN ACT relating to taxation; authorizing the City Council of the City of Reno to adopt a resolution establishing the formation of a committee to recommend the imposition of certain taxes or reallocation of certain tax revenue to fund certain natural resources projects and services in the City of Reno; providing that if such a committee is formed and submits its recommendations to the City Council of the City of Reno within the time prescribed, the City Council of the City of Reno is required to submit a question to the voters of the City of Reno at the 2022 General Election asking whether the recommended taxes should be imposed or the recommended tax revenue reallocated, or both; requiring the City Council of the City of Reno to adopt an ordinance imposing any such taxes or reallocating any such tax revenue approved by the voters; providing for the use of the proceeds of such taxes and tax revenue for such natural resources projects and services; providing for the prospective expiration of the authority to establish such a committee; and providing other matters properly relating thereto.",
+      "abstract": "Section 1 of this bill authorizes the City Council of the City of Reno to establish by resolution a committee to recommend the imposition of certain taxes or the reallocation of certain tax revenue for consideration by the voters of the City of Reno at the 2022 General Election to fund capital projects and ongoing operational costs for parks and recreational facilities and related services in the City of Reno, the preservation of open space in the City of Reno and the protection of the Truckee River and other natural resources in the City of Reno. Sections 2 and 3 of this bill provide that if such a committee is established, the committee may recommend the imposition of one or more of the following taxes: (1) an additional tax on the gross receipts from the rental of transient lodging in the City of Reno; (2) a supplemental governmental services tax for the privilege of operating a vehicle upon the public streets, roads and highways of the City of Reno; (3) an additional tax on the transfer of real property in the City of Reno; (4) an additional sales and use tax in the City of Reno; and (5) an additional property tax in the City of Reno. In addition, the committee may recommend the reallocation of tax revenue from taxes imposed by the City of Reno to provide funding for the flood management authority of which the City of Reno is a member. The recommendations of the committee must specify the rate or rates for each of the recommended taxes and, if applicable, the percentage of the reallocation of the tax revenue related to flood management, and may specify the period during which the recommended taxes will be imposed or tax revenue will be reallocated. If the committee submits its recommendations to the City Council of the City of Reno by April 2, 2022, section 2 requires the City Council of the City of Reno to submit a question to the voters of the City of Reno at the November 8, 2022, General Election asking whether any of the taxes recommended by the committee should be imposed or the tax revenue related to flood management should be reallocated, or both. If a majority of the voters of the City of Reno approve the question, section 2 requires the City Council of the City of Reno to impose the approved taxes or reallocate the tax revenue related to flood management, or both, at the rate or percentage, as applicable, specified in the question submitted to the voters. If a majority of the voters of the City of Reno approve the imposition of an additional property tax, the additional rate is exempt from the partial abatement of property taxes on certain property and the requirement that taxes ad valorem not exceed $3.64 on each $100 of assessed valuation. Section 4 of this bill provides that the proceeds resulting from the imposition of such taxes or the reallocation of such tax revenue: (1) must be distributed to the City of Reno and used to fund capital projects and ongoing operational costs for parks and recreational facilities and related services in the City of Reno, the preservation of open space in the City of Reno and the protection of the Truckee River and other natural resources in the City of Reno; and (2) may be pledged to the payment of the principal and interest on bonds or other obligations issued for such purposes. Section 6 of this bill provides that the provisions of this bill authorizing the City Council of the City of Reno to establish such a committee expire by limitation on April 2, 2022.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7279/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: FLOOD CONTROL",
+        "subject-index: TRUCKEE RIVER"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to taxation; authorizing the City Council of the City of Reno to adopt a resolution establishing the formation of a committee to recommend the imposition of certain taxes or reallocation of certain tax revenue to fund certain natural resources projects and services in the City of Reno; providing that if such a committee is formed and submits its recommendations to the City Council of the City of Reno within the time prescribed, the City Council of the City of Reno is required to submit a question to the voters of the City of Reno at the 2022 General Election asking whether the recommended taxes should be imposed or the recommended tax revenue reallocated, or both; requiring the City Council of the City of Reno to adopt an ordinance imposing any such taxes or reallocating any such tax revenue approved by the voters; providing for the use of the proceeds of such taxes and tax revenue for such natural resources projects and services; providing for the prospective expiration of the authority to establish such a committee; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:35:32.669189+00:00"
+    },
+    {
+      "session": "81",
       "identifier": "SB98",
       "title": "Makes various changes to provisions relating to the Carson Water Subconservancy District. (BDR S-579)",
       "abstract": "Existing law provides that the Carson Water Subconservancy District includes the urban area of Carson City and the portions of Churchill County within the Carson River hydrological basin. (Carson Water Subconservancy District Act \u00a7 10) Section 1 of this bill expands the Carson Water Subconservancy District to also include the portions of Storey County within the Carson River hydrological basin. Section 1 also increases the membership of the Board of Directors of the Carson Water Subconservancy District to include two members from Storey County. Section 2 of this bill provides for the staggering of the terms of these new members. Existing law authorizes the Board of Directors to levy a tax on all taxable property within the District at a rate of not more than 3 cents on each $100 of assessed valuation for carrying out the activities of the District. (Carson Water Subconservancy District Act \u00a7 10) Section 1 requires that if such a tax is levied: (1) the tax will not be levied on the taxable property in the District that is located in Storey County; and (2) the Board of County Commissioners of Storey County must, instead, pay to the District from the County's general fund the equivalent amount to what would have been generated if the tax had been levied on the taxable property located within the District in Storey County.",
@@ -1293,6 +1529,42 @@
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising the boundaries of the Carson Water Subconservancy District and the membership of the Board of Directors of the District; requiring, under certain circumstances, the Board of County Commissioners of Storey County to pay to the District a certain amount from the County's general fund; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "81",
+      "identifier": "SCR8",
+      "title": "Expressing support for the identification of key transportation priorities for the Lake Tahoe Basin.",
+      "abstract": "Expressing support for the identification of key transportation priorities for the Lake Tahoe Basin.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8058/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: TAHOE BASIN"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "Expressing support for the identification of key transportation priorities for the Lake Tahoe Basin.",
+      "abstract_source": "nelis_overview_title",
+      "abstract_fetched_at": "2026-07-17T20:35:37.695496+00:00"
+    },
+    {
+      "session": "81",
+      "identifier": "SCR9",
+      "title": "Expressing support for the Nevada System of Higher Education to work collaboratively in its science and research efforts addressing the needs of the Lake Tahoe Basin.",
+      "abstract": "Expressing support for the Nevada System of Higher Education to work collaboratively in its science and research efforts addressing the needs of the Lake Tahoe Basin.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8079/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: TAHOE BASIN"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "Expressing support for the Nevada System of Higher Education to work collaboratively in its science and research efforts addressing the needs of the Lake Tahoe Basin.",
+      "abstract_source": "nelis_overview_title",
+      "abstract_fetched_at": "2026-07-17T20:35:40.248479+00:00"
     },
     {
       "session": "81",
@@ -1311,6 +1583,24 @@
       "passes_water_title_filter": true,
       "official_title": "Proposing to amend the Nevada Constitution to provide that the Nevada Court of Appeals has original jurisdiction over certain cases relating to water.",
       "abstract_source": "nelis_overview_digest"
+    },
+    {
+      "session": "81",
+      "identifier": "SJR12",
+      "title": "Expressing the priority of the timely completion of the Tahoe East Shore Trail extension project and urging Congress to provide federal funding for completion of the project.",
+      "abstract": "Expressing the priority of the timely completion of the Tahoe East Shore Trail extension project and urging Congress to provide federal funding for completion of the project.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8070/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: TAHOE BASIN"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "Expressing the priority of the timely completion of the Tahoe East Shore Trail extension project and urging Congress to provide federal funding for completion of the project.",
+      "abstract_source": "nelis_overview_title",
+      "abstract_fetched_at": "2026-07-17T20:35:43.038727+00:00"
     },
     {
       "session": "82",
@@ -1401,7 +1691,8 @@
         "subject-index: WATER",
         "subject-index: WATER POLLUTION",
         "subject-index: WATER PROJECTS, FINANCING OF",
-        "subject-index: WATER SYSTEMS"
+        "subject-index: WATER SYSTEMS",
+        "subject-index: SEWAGE DISPOSAL"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; making various changes to provisions relating to the Account to Finance the Construction of Treatment Works and the Implementation of Pollution Control Projects; making various changes to provisions relating to the Account for the Revolving Fund and the Account for Set-Aside Programs; and providing other matters properly relating thereto.",
@@ -1431,7 +1722,15 @@
         "subject-index: WATER",
         "subject-index: WATER CONSERVATION",
         "subject-index: WATER SYSTEMS",
-        "subject-index: WELLS"
+        "subject-index: WELLS",
+        "subject-index: CITIES",
+        "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF",
+        "subject-index: COUNTIES",
+        "subject-index: COUNTY COMMISSIONERS",
+        "subject-index: ENVIRONMENTAL COMMISSION, STATE",
+        "subject-index: HEALTH, LOCAL BOARDS AND OFFICERS",
+        "subject-index: SEWAGE DISPOSAL",
+        "subject-index: TOWNS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; authorizing a district board of health to establish a program to pay the costs for property owners with a septic system to connect to a community sewerage disposal system under certain circumstances; revising provisions relating to a permit to operate a water system; revising provisions relating to water systems; revising provisions relating to tentative maps and final maps for a subdivision of land; establishing minimum standards for certain landscaping irrigation fixtures in new construction and expansions and renovations in certain structures; revising provisions relating to grants of money for water conservation; exempting the use of water by certain entities to extinguish fires in an emergency from provisions governing the appropriation of water; revising provisions relating to groundwater in certain designated areas; revising conditions under which the State Engineer may require the plugging of certain wells used for domestic purposes; defining certain terms relating to the Conservation of Colorado River Water Act; authorizing the Board of Directors of the Southern Nevada Water Authority to enact certain restrictions on water use for single-family residences under certain circumstances; prohibiting, with certain exceptions, the use of the waters of the Colorado River for certain purposes; establishing requirements relating to an irrigation water efficiency monitoring program; revising certain provisions relating to the use of the waters of the Colorado River to irrigate nonfunctional turf; authorizing the Authority to operate a program to convert properties using a septic system to a municipal sewer system and to impose a fee for such a program; authorizing the Board of Directors to authorize the General Manager of the Authority to restrict the use of water under certain circumstances; and providing other matters properly relating thereto.",
@@ -1449,7 +1748,8 @@
       "found_by_terms": [
         "water",
         "water conservation",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: ECONOMIC DEVELOPMENT"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to governmental administration; requiring the State Plan for Economic Development to include a statement regarding the efficient use of water resources; requiring a plan submitted by certain regional development authorities to include water conservation strategies; and providing other matters properly relating thereto.",
@@ -1465,7 +1765,8 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10030/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "water"
+        "water",
+        "subject-index: HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; enacting provisions relating to the transmission of Legionnaires' disease by building water systems in covered health care facilities; providing a penalty; and providing other matters properly relating thereto.",
@@ -1482,7 +1783,8 @@
       "openstates_url": null,
       "found_by_terms": [
         "subject-index: WATER",
-        "subject-index: WATER POLLUTION"
+        "subject-index: WATER POLLUTION",
+        "subject-index: MINES AND MINERALS"
       ],
       "passes_water_title_filter": true,
       "discovered_via": "lcb_subject_index",
@@ -1504,7 +1806,9 @@
         "State Engineer",
         "subject-index: IRRIGATION DISTRICTS",
         "subject-index: STATE ENGINEER",
-        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS"
+        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS",
+        "subject-index: MAPS",
+        "subject-index: UNITED STATES"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; providing that certain temporary changes to the place of diversion, manner of use or place of use of surface water are not required to be approved by the State Engineer under certain circumstances; authorizing the State Engineer to accept certain nonconforming maps under certain circumstances; and providing other matters properly relating thereto.",
@@ -1523,7 +1827,10 @@
         "water",
         "water rights",
         "subject-index: STATE ENGINEER",
-        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS"
+        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS",
+        "subject-index: INTERNET",
+        "subject-index: MAPS",
+        "subject-index: NEWSPAPERS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising the public notice requirements for certain applications relating to water; revising certain requirements for maps relating to water rights; and providing other matters properly relating thereto.",
@@ -1567,6 +1874,24 @@
       "official_title": "AN ACT relating to taxation; revising the criteria for certain renewable energy facilities to be eligible for a partial abatement of certain taxes; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
       "abstract_fetched_at": "2026-07-17T17:09:10.777109+00:00"
+    },
+    {
+      "session": "82",
+      "identifier": "AB424",
+      "title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; revising provisions relating to the use of accrued interest on the proceeds of certain previously authorized bonds; and providing other matters properly relating thereto.",
+      "abstract": "The Environmental Improvement Program was implemented in 1997 to carry out projects to improve the environment in the Lake Tahoe Basin. The costs of the Program are apportioned among the Federal Government, the States of Nevada and California and local governments and owners of private property in both states. In 1999, the Nevada Legislature authorized the issuance of not more than $56.4 million in general obligation bonds to pay for a significant portion of Nevada's share of the costs of the first phase of the Program. (Chapter 514, Statutes of Nevada 1999, at page 2626) In 2009, the Nevada Legislature authorized the issuance of not more than $100 million in general obligation bonds to pay for Nevada's share of the costs of the second phase of the Program beginning on July 1, 2009, and ending on June 30, 2020. (Chapter 431, Statutes of Nevada 2009, at page 2417) Issuance of those bonds requires the approval of the Legislature or the Interim Finance Committee. (Id.) In 2017, the Nevada Legislature extended the deadline for the issuance of the remainder of the general obligation bonds that were authorized in 2009 for the second phase of the Program from June 30, 2020, to June 30, 2030. (Chapter 32, Statutes of Nevada 2017, at page 137) Of the $100 million in general obligation bonds authorized to pay for Nevada's share of the costs of the second phase of the Program, the Nevada Legislature required the issuance of: (1) not more than $4.42 million of those bonds in 2009; (2) not more than $12 million of those bonds in 2011; (3) not more than $8 million of those bonds in 2019; and (4) not more than $4 million of those bonds in 2021. (Chapter 431, Statutes of Nevada 2009, at page 2416; chapter 437, Statutes of Nevada 2011, at page 2638; chapter 167, Statutes of Nevada 2019, at page 891; chapter 215, Statutes of Nevada 2021, at page 1008) Sections 1-3 of this bill require the issuance of not more than $13 million of the $100 million in general obligation bonds authorized in 2009 to provide money to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program. Sections 4-6 of this bill allow the use of interest accrued on the proceeds of the general obligation bonds required to be issued in 2011, 2019 and 2021 to carry out environmental improvement projects included in the second phase of the Program.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10393/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: TAHOE BASIN"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; revising provisions relating to the use of accrued interest on the proceeds of certain previously authorized bonds; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:35:46.069942+00:00"
     },
     {
       "session": "82",
@@ -1617,7 +1942,8 @@
         "water rights",
         "subject-index: MARLETTE LAKES WATER SYSTEM",
         "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS",
-        "subject-index: WATER SYSTEMS"
+        "subject-index: WATER SYSTEMS",
+        "subject-index: ADMINISTRATION, DEPARTMENT OF"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT making an appropriation to the State Public Works Division of the Department of Administration for professional services and filing fees related to water rights associated with the Marlette Lake Water System; and providing other matters properly relating thereto.",
@@ -1718,6 +2044,24 @@
     },
     {
       "session": "82",
+      "identifier": "ACR5",
+      "title": "Expressing support for the Lake Tahoe Transportation Action Plan.",
+      "abstract": "Expressing support for the Lake Tahoe Transportation Action Plan.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10201/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: TAHOE BASIN"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "Expressing support for the Lake Tahoe Transportation Action Plan.",
+      "abstract_source": "nelis_overview_title",
+      "abstract_fetched_at": "2026-07-17T20:35:48.710400+00:00"
+    },
+    {
+      "session": "82",
       "identifier": "AJR3",
       "title": "Proposing to amend the Nevada Constitution to establish certain rights relating to the environment.",
       "abstract": "Article 1 of the Nevada Constitution sets forth certain inalienable rights of an individual. (Nev. Const. Art. 1) This joint resolution proposes to amend the Nevada Constitution by adding a new section which: (1) guarantees each person the right to a clean and healthy environment; (2) mandates a trust obligation of the State to conserve, protect and maintain certain environmental resources; (3) requires the State fulfill its trust obligation equitably for all beneficiaries regardless of race, ethnicity, gender, geography or wealth; and (4) prohibits the State, whether through action, inaction or the action of others, from causing the unreasonable degradation, diminution or depletion of the environment. If this joint resolution is passed by the 2023 Legislature, it must also be passed by the next Legislature and then approved and ratified by the voters in an election before the proposed amendment to the Nevada Constitution becomes effective.",
@@ -1746,7 +2090,8 @@
       "found_by_terms": [
         "water",
         "water conservation",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: APPROPRIATIONS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT making an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources to award grants of money to the governing bodies of cities and counties in this State for the development and maintenance of water resource plans; and providing other matters properly relating thereto.",
@@ -1765,7 +2110,8 @@
         "water",
         "groundwater",
         "water rights",
-        "subject-index: STATE ENGINEER"
+        "subject-index: STATE ENGINEER",
+        "subject-index: COUNTY COMMISSIONERS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions governing certain assessments on water users; and providing other matters properly relating thereto.",
@@ -1843,7 +2189,15 @@
         "groundwater",
         "water rights",
         "subject-index: STATE ENGINEER",
-        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS"
+        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS",
+        "subject-index: ADMINISTRATIVE LAW AND PROCEDURE",
+        "subject-index: APPROPRIATIONS",
+        "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF",
+        "subject-index: COUNTY COMMISSIONERS",
+        "subject-index: GIFTS, DONATIONS AND BEQUESTS",
+        "subject-index: GRANTS",
+        "subject-index: LEGISLATIVE COUNSEL BUREAU",
+        "subject-index: STATE FINANCES AND FUNDS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; creating the Account for Purchasing and Retiring Water Rights; establishing the Nevada Water Buy-Back Initiative and the Advisory Committee for the Nevada Water Buy-Back Initiative; requiring the Director of the State Department of Conservation and Natural Resources to purchase certain water rights with money from the Account for purposes of retiring the water rights; creating the Nevada Conservation and Recreation Program; making an appropriation; and providing other matters properly relating thereto.",
@@ -1863,7 +2217,9 @@
         "groundwater",
         "water rights",
         "subject-index: STATE ENGINEER",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: COUNTY COMMISSIONERS",
+        "subject-index: GOVERNOR"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions relating to the establishment, membership and duties of a groundwater board; and providing other matters properly relating thereto.",
@@ -1947,6 +2303,24 @@
       "official_title": "AN ACT relating to local governments; revising the definitions of the terms \u201cbusiness\u201d and \u201clocal government\u201d for purposes of provisions relating to the adoption of rules by local governments that affect businesses; revising the notice requirements relating to the adoption of such rules; requiring the governing body of a local government to hold a workshop before the adoption of such rules in certain circumstances; revising the requirements for a business impact statement; revising provisions relating to when an action of the governing body of a local government to adopt rules that affect local governments is void; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
       "abstract_fetched_at": "2026-07-17T17:17:32.744149+00:00"
+    },
+    {
+      "session": "82",
+      "identifier": "SB318",
+      "title": "AN ACT relating to indigent persons; authorizing the governing body of an incorporated city to impose an annual surcharge on users of the sanitary sewer system of an incorporated city to provide funding for services and affordable housing for persons who are homeless or indigent in the incorporated city; and providing other matters properly relating thereto.",
+      "abstract": "Existing law provides for the imposition of certain surcharges and taxes by a county or city. (Chapter 268 of NRS) This bill authorizes the governing body of an incorporated city to impose an annual surcharge on users of the sanitary sewer system of an incorporated city in an amount not to exceed $25 multiplied by the equivalent residential unit calculated for the user by the incorporated city. This bill requires the incorporated city to account for the proceeds of the surcharge and use those proceeds to provide services or affordable housing for persons who are homeless or indigent within the incorporated city. This bill also defines \u201cequivalent residential unit\u201d to mean the average amount of wastewater discharged by a class of users of the city's sanitary sewer system divided by the average amount of wastewater discharged by a single-family dwelling.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10211/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: SEWAGE DISPOSAL"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to indigent persons; authorizing the governing body of an incorporated city to impose an annual surcharge on users of the sanitary sewer system of an incorporated city to provide funding for services and affordable housing for persons who are homeless or indigent in the incorporated city; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:35:51.816959+00:00"
     },
     {
       "session": "82",
@@ -2034,7 +2408,9 @@
       "openstates_url": "https://openstates.org/nv/bills/82/SB472/",
       "found_by_terms": [
         "water",
-        "water conservation"
+        "water conservation",
+        "subject-index: APPROPRIATIONS",
+        "subject-index: DAMS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT making an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for projects at the South Fork Dam; and providing other matters properly relating thereto.",
@@ -2051,11 +2427,31 @@
       "openstates_url": "https://openstates.org/nv/bills/82/SB473/",
       "found_by_terms": [
         "water",
-        "water conservation"
+        "water conservation",
+        "subject-index: APPROPRIATIONS",
+        "subject-index: LEGISLATIVE AND AGENCY STUDIES"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT making an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for a study of extreme rainfall events; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_title"
+    },
+    {
+      "session": "82",
+      "identifier": "SB492",
+      "title": "AN ACT making appropriations to the State Department of Conservation and Natural Resources for the replacement or purchase of certain information technology, vehicles and equipment; and providing other matters properly relating thereto.",
+      "abstract": "AN ACT making appropriations to the State Department of Conservation and Natural Resources for the replacement or purchase of certain information technology, vehicles and equipment; and providing other matters properly relating thereto.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10578/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: APPROPRIATIONS"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT making appropriations to the State Department of Conservation and Natural Resources for the replacement or purchase of certain information technology, vehicles and equipment; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_title",
+      "abstract_fetched_at": "2026-07-17T20:35:54.234477+00:00"
     },
     {
       "session": "82",
@@ -2069,7 +2465,8 @@
       "found_by_terms": [
         "water",
         "interstate water",
-        "consumptive use"
+        "consumptive use",
+        "subject-index: BOATS AND BOATING"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to vessels; revising certain crimes relating to the operation of a vessel while under the influence of alcohol or a prohibited substance; revising certain terminology; clarifying that mechanically propelled personal hydrofoils, motorized surfboards and vessels equipped with both a sail and a motor are subject to certain requirements governing power-driven vessels; making certain provisions governing vessels applicable to governmental entities; requiring a sailing vessel to be numbered; revising certain class categories for vessels; revising provisions governing the removal of an abandoned vessel; revising the prohibition on operating a power-driven vessel under certain circumstances; authorizing a court to prohibit a person from operating any vessel on the interstate waters of this State under certain circumstances; providing penalties; and providing other matters properly relating thereto.",
@@ -2126,7 +2523,10 @@
         "Colorado River",
         "irrigation",
         "subject-index: COLORADO RIVER",
-        "subject-index: LAKE POWELL"
+        "subject-index: LAKE POWELL",
+        "subject-index: LAKE MEAD",
+        "subject-index: RESOLUTIONS AND MEMORIALS",
+        "subject-index: UNITED STATES"
       ],
       "passes_water_title_filter": true,
       "official_title": "Urging the United States Bureau of Reclamation to consider certain actions, alternatives and measures for the protection and management of the Colorado River.",
@@ -2142,7 +2542,10 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11742/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "subject-index: COLORADO RIVER COMMISSION OF NEVADA"
+        "subject-index: COLORADO RIVER COMMISSION OF NEVADA",
+        "subject-index: CLARK COUNTY",
+        "subject-index: ECONOMIC DEVELOPMENT",
+        "subject-index: LAND USE PLANNING"
       ],
       "passes_water_title_filter": true,
       "discovered_via": "lcb_subject_index",
@@ -2188,7 +2591,14 @@
         "subject-index: WATER",
         "subject-index: WATER AUTHORITIES",
         "subject-index: WATER POLLUTION",
-        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS"
+        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS",
+        "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF",
+        "subject-index: ENVIRONMENTAL COMMISSION, STATE",
+        "subject-index: GRANTS",
+        "subject-index: SEWAGE DISPOSAL",
+        "subject-index: STATE FINANCES AND FUNDS",
+        "subject-index: STATE LAND REGISTRAR",
+        "subject-index: SUNSET LEGISLATION"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the State Engineer to retire certain groundwater rights; revising provisions relating to temporary permits to appropriate groundwater; creating the Nevada Conservation and Recreation Program; creating the Account for Retiring Water Rights; establishing the Nevada Voluntary Water Rights Retirement Program; requiring the Director of the State Department of Conservation and Natural Resources to purchase certain water rights with money from the Account for the purpose of retiring those water rights; revising provisions relating to the program to provide grants of money to pay certain costs related to water conservation and capital improvements to water systems; revising provisions relating to a program to pay the costs for property owners to connect to a community sewerage disposal system under certain circumstances; revising certain legislative declarations relating to clean water and water pollution; authorizing the State Environmental Commission to establish a water quality standard variance; revising provisions relating to an irrigation water efficiency monitoring program established by the Southern Nevada Water Authority; revising provisions relating to membership on the Advisory Committee for the Management of Groundwater in the Las Vegas Valley Groundwater Basin; and providing other matters properly relating thereto.",
@@ -2224,7 +2634,9 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12011/Overview",
       "openstates_url": "https://openstates.org/nv/bills/83/AB110/",
       "found_by_terms": [
-        "Colorado River"
+        "Colorado River",
+        "subject-index: HIGHWAYS AND ROADS",
+        "subject-index: STATE HIGHWAYS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to transportation; designating State Route 163 as the Colorado River Highway; designating the bridge connecting State Route 163 with Bullhead City, Arizona, as the Donald J. Laughlin Memorial Bridge; and providing other matters properly relating thereto.",
@@ -2288,6 +2700,24 @@
     },
     {
       "session": "83",
+      "identifier": "AB241",
+      "title": "AN ACT relating to housing; requiring the governing body of each county and city to adopt an ordinance to authorize by-right a multifamily housing development or mixed-use development that includes a residential use on property zoned for commercial use; declaring void certain county or city ordinances; authorizing the State Land Registrar to transfer, under certain circumstances, certain real property owned by the State of Nevada to certain entities without consideration; and providing other matters properly relating thereto.",
+      "abstract": "Section 1 of this bill requires each governing body of a county or city to adopt an ordinance that authorizes by-right a multifamily housing development or mixed-use development that includes a residential use on property zoned for commercial use. Section 1 also authorizes such an ordinance to establish certain standards and requirements to qualify for such a by-right development. Section 1 further provides that any such ordinance does not apply to any property: (1) that is zoned for or in relation to an airport; or (2) within the region defined in the Tahoe Regional Planning Compact. (NRS 277.200) Section 1 further provides that property zoned for commercial use does not include property zoned for industrial use. Section 5 of this bill declares void any ordinance, regulation or rule of a county or city which conflicts with the provisions of this bill. Existing law authorizes the governing body of a county or city to divide the county, city or region into zoning districts of such number, shape and area as are best suited to carry out certain purposes. Within a zoning district, the governing body may regulate and restrict the erection, construction, reconstruction, alteration, repair or use of buildings, structures or land. (NRS 278.250) Section 4 of this bill creates an exception to account for the requirement that the governing body of a county or city adopt an ordinance to authorize by-right a multifamily housing development or mixed-use development that includes a residential use on property zoned for commercial use pursuant to section 1. Existing law requires that an action or proceeding seeking judicial relief or review from or with respect to any final action, decision or order of any governing body of a county or city be commenced within 25 days after the date of filing of notice of the final action, decision or order with the clerk or secretary of the governing body. (NRS 278.0235) Section 3 of this bill applies these provisions to section 1. Section 2 of this bill makes a conforming change to apply the definitions of certain terms relating to planning and zoning to section 1. Existing law requires the State Land Registrar to execute on behalf of the State of Nevada any lease, deed or other document by which any land or interest therein owned by the State is conveyed. (NRS 321.003) Section 5.3 of this bill authorizes the State Land Registrar to transfer title to certain real property owned by the State, with certain restrictions, to Catholic Charities of Northern Nevada and the Reno-Sparks Gospel Mission. Section 5.3 provides that such a transfer is conditioned upon the Reno Redevelopment Agency entering into certain agreements with Catholic Charities of Northern Nevada or the Reno-Sparks Gospel Mission. Section 5.3 further provides that such agreements must require the Reno Redevelopment Agency to: (1) survey and generate a legal description for the portions of real property that the State Land Registrar is authorized to transfer to each entity; and (2) pay the costs relating to the transfer of the real properties. Section 5.5 of this bill requires the deed for the real properties to include certain restrictions and provide for the reversion of the title to the real properties under certain circumstances.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12262/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: TAHOE BASIN"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to housing; requiring the governing body of each county and city to adopt an ordinance to authorize by-right a multifamily housing development or mixed-use development that includes a residential use on property zoned for commercial use; declaring void certain county or city ordinances; authorizing the State Land Registrar to transfer, under certain circumstances, certain real property owned by the State of Nevada to certain entities without consideration; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:35:56.930322+00:00"
+    },
+    {
+      "session": "83",
       "identifier": "AB26",
       "title": "Revises provisions relating to dams. (BDR 48-261)",
       "abstract": "Under existing law, the State Engineer is authorized to regulate the construction, reconstruction, alteration and operation of dams and other obstructions of waterways in the State of Nevada. (NRS 532.110, 532.120, chapter 535 of NRS) Section 1 of this bill exempts the State Engineer and any assistant of the State Engineer from liability for damages caused by certain failures of a dam or reservoir that may occur as a result of an inspection, emergency response or enforcement of an order or regulation by the State Engineer or his or her assistant. Under existing law, any person proposing to construct a dam in this State must obtain a permit from the State Engineer to appropriate, store and use the water impounded or diverted by the proposed dam before beginning construction and, upon obtaining or possessing such a permit, must submit, in triplicate, to the State Engineer for approval plans and specifications for certain dams. Existing law further: (1) authorizes the State Engineer to inspect the construction of a dam at any time for compliance with the approved plans and specifications; (2) prohibits the construction and use of any dam, under certain circumstances, before the approval of plans and specifications by the State Engineer; and (3) makes it a misdemeanor to construct or use a dam without first obtaining such approval. (NRS 535.010) Section 2 of this bill makes these provisions applicable to the reconstruction or alteration of a dam. Section 2 also removes the requirement that any person proposing to construct a dam in this State obtain a permit to appropriate, store and use water impounded or diverted by the proposed dam before beginning construction of the dam and instead requires any person proposing to construct, reconstruct or alter a dam to obtain approval from the State Engineer before beginning construction, reconstruction or alteration of the dam. Section 2 further: (1) requires a person to submit plans and specifications to the State Engineer for approval if the dam is classified by the State Engineer as a high hazard or significant hazard dam; and (2) removes the requirement that such plans and specifications be submitted in triplicate. Under existing law, the State Engineer is authorized to impose certain administrative fines for, or may seek injunctive relief upon, the violation of any permit issued by the State Engineer relating to the construction, reconstruction or alteration of a dam. (NRS 535.200, 535.210) Sections 8 and 9 of this bill authorize the imposition of certain administrative fines or the seeking of injunctive relief upon the violation of any approval issued by the State Engineer in conformity with the removal of the requirement to obtain a permit made in section 2. Under existing law, the State Engineer is required to file with the Board of Wildlife Commissioners a copy of applications for approval of plans and specifications for a new dam or for the alteration and enlargement of any dam in a stream. (NRS 535.020) Section 3 of this bill instead requires the State Engineer to notify the Department of Wildlife when an application for decommissioning a dam is filed or a request for approval of plans and specifications of a new dam or for the alteration and enlargement of any dam in a stream is submitted and to make the application or plans and specifications available to the Department. Under existing law, works constructed by the United States Bureau of Reclamation or the United States Army Corps of Engineers are exempt from certain requirements relating to dams, including requirements for the approval of plans and specifications and inspections and safety and repair requirements. (NRS 535.010, 535.030) Sections 2 and 4 of this bill exempt any works under the jurisdiction of the United States Bureau of Reclamation or the United States Army Corps of Engineers from such requirements. Under existing law, the State Engineer or any assistant or authorized agent of the State Engineer is authorized to enter any land, at a reasonable hour, where a dam or obstruction is situated to investigate and carry out the duties of the State Engineer. (NRS 535.035) Section 5 of this bill further authorizes the State Engineer or any assistant or authorized agent of the State Engineer to enter the land of any parcel adjacent to where a dam or other obstruction is located as is necessary to access the dam or other obstruction. Under existing law, the State Engineer is authorized to order the removal of any dam, diversion works or obstruction that has not been legally established by certain means. If such a dam, diversion works or obstruction is ordered removed by the State Engineer and is not removed after the service of a 30-day notice upon the owner or person controlling the dam, diversion works or obstruction, or an appeal of the removal order has not been filed, the State Engineer may remove the dam, diversion works or obstruction. (NRS 535.050) Section 6 of this bill authorizes the State Engineer to remove a dam, diversion works or obstruction not legally established after providing a written, not served, copy of the 30-day notice to the owner of the dam, diversion works or obstruction. Under existing law, the State Engineer is authorized to remove a beaver on privately owned land if it is determined the beaver is interfering with the flow of water to the detriment of water users and after service of a written notice on the owner of the private land. (NRS 535.060) Section 7 of this bill requires that the written notice be provided to the landowner and need not be served.",
@@ -2297,7 +2727,8 @@
       "openstates_url": "https://openstates.org/nv/bills/83/AB26/",
       "found_by_terms": [
         "water",
-        "State Engineer"
+        "State Engineer",
+        "subject-index: DAMS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; exempting the State Engineer from liability for certain damages resulting from the performance of certain duties; revising provisions relating to the construction, reconstruction or alteration of a dam; exempting certain works under the jurisdiction of the United States Bureau of Reclamation or the United States Army Corps of Engineers from certain requirements relating to dams; requiring that certain applications relating to dams be made available to the Department of Wildlife; authorizing the State Engineer to enter certain parcels of land to access a dam or other obstruction; revising provisions relating to the removal of any dam, diversion works or obstruction; revising provisions relating to the removal of certain animals interfering with the flow of water; providing a penalty; and providing other matters properly relating thereto.",
@@ -2352,7 +2783,9 @@
         "water",
         "groundwater",
         "subject-index: STATE ENGINEER",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: COUNTY COMMISSIONERS",
+        "subject-index: GOVERNOR"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions relating to the establishment, membership and duties of a groundwater board; and providing other matters properly relating thereto.",
@@ -2455,7 +2888,8 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12657/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "subject-index: WATER COMPANIES"
+        "subject-index: WATER COMPANIES",
+        "subject-index: SEWAGE DISPOSAL"
       ],
       "passes_water_title_filter": true,
       "discovered_via": "lcb_subject_index",
@@ -2491,7 +2925,9 @@
       "found_by_terms": [
         "water",
         "subject-index: STATE ENGINEER",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: APPROPRIATIONS",
+        "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; revising provisions governing certain assessments on water users; making an appropriation to the Division of Water Resources of the State Department of Conservation and Natural Resources for various projects relating to the management of water resources in this State and for the digitization of records and data of the Division; and providing other matters properly relating thereto.",
@@ -2552,6 +2988,26 @@
       "official_title": "AN ACT relating to energy; authorizing the Director of the Office of Energy to accept new applications for property tax abatements for certain buildings and structures which meet certain energy efficiency standards; revising requirements for the Green Building Rating System adopted by the Director; revising the duration and amount of partial abatements that are available; requiring the Director to adopt certain regulations; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
       "abstract_fetched_at": "2026-07-17T17:09:39.988260+00:00"
+    },
+    {
+      "session": "83",
+      "identifier": "AB577",
+      "title": "AN ACT making appropriations to the State Department of Conservation and Natural Resources for a certain new website and database and for the replacement of vehicles and computer hardware and associated software; and providing other matters properly relating thereto.",
+      "abstract": "AN ACT making appropriations to the State Department of Conservation and Natural Resources for a certain new website and database and for the replacement of vehicles and computer hardware and associated software; and providing other matters properly relating thereto.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12909/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: APPROPRIATIONS",
+        "subject-index: COMPUTERS AND INFORMATION SYSTEMS",
+        "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT making appropriations to the State Department of Conservation and Natural Resources for a certain new website and database and for the replacement of vehicles and computer hardware and associated software; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_title",
+      "abstract_fetched_at": "2026-07-17T20:35:59.818860+00:00"
     },
     {
       "session": "83",
@@ -2664,6 +3120,42 @@
     },
     {
       "session": "83",
+      "identifier": "SB10",
+      "title": "AN ACT relating to governmental administration; revising provisions governing the submission of certain reports by the State Land Registrar; repealing provisions requiring the State Forester Firewarden to submit an annual report relating to the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "abstract": "Existing law requires the State Land Registrar to report quarterly to the State Board of Examiners regarding certain real property or interests in real property transferred in the Lake Tahoe Basin. (NRS 321.5954) Section 1 of this bill instead requires the State Land Registrar to report annually to the Board. Existing law requires the State Forester Firewarden to submit an annual report concerning fire prevention and forest health in the Nevada portion of the Lake Tahoe Basin to certain governmental entities. (NRS 528.150) Section 2 of this bill repeals this requirement.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11757/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: LAKE TAHOE"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to governmental administration; revising provisions governing the submission of certain reports by the State Land Registrar; repealing provisions requiring the State Forester Firewarden to submit an annual report relating to the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:36:02.236470+00:00"
+    },
+    {
+      "session": "83",
+      "identifier": "SB106",
+      "title": "AN ACT relating to vessels; prohibiting the operation of a vessel in excess of a certain speed within 600 feet of the shoreline of Lake Tahoe; revising provisions relating to the violation of certain provisions of the Code of Ordinances of the Tahoe Regional Planning Agency; providing a penalty; and providing other matters properly relating thereto.",
+      "abstract": "Under existing law, it is a misdemeanor to operate a vessel or permit a vessel to be operated at a speed in excess of 5 nautical miles per hour within 100 feet of a person who is bathing, wading, diving, floating or swimming and within 200 feet of: (1) any beach frequented by persons who are bathing, wading, diving, floating or swimming; (2) a swimming float, diving platform or lifeline; and (3) certain way or landing floats. (NRS 488.600) Section 1 of this bill makes it a misdemeanor to operate a vessel or permit a vessel to be operated at a speed in excess of 5 nautical miles per hour within 600 feet of the shoreline of Lake Tahoe. Under existing law, certain peace officers are authorized to take various actions when a person violates certain sections of the Code of Ordinances of the Tahoe Regional Planning Agency. (NRS 277.215) Section 2 of this bill replaces references to ordinances no longer in effect with the current ordinances.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11998/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: LAKE TAHOE"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to vessels; prohibiting the operation of a vessel in excess of a certain speed within 600 feet of the shoreline of Lake Tahoe; revising provisions relating to the violation of certain provisions of the Code of Ordinances of the Tahoe Regional Planning Agency; providing a penalty; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:36:04.961425+00:00"
+    },
+    {
+      "session": "83",
       "identifier": "SB108",
       "title": "Revises provisions governing the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program. (BDR 48-88)",
       "abstract": "Existing law: (1) creates the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program in the State General Fund; and (2) requires that the money in this Account be used to award grants under the Program to cities, counties and other political subdivisions of this State and tribal governments in this State as equivalent matching money for projects for the clearance, maintenance, restoration, surveying and monumenting of navigable rivers. Under existing law, the State Engineer is required to administer the Account and the Program. (NRS 532.220, 532.230) Existing law also creates the Contingency Account in the State General Fund and prescribes a procedure for allocation of money in that Account by the Interim Finance Committee, upon the recommendation of the State Board of Examiners, for prescribed purposes, including as provided in specific statute. (NRS 353.266, 353.268, 353.269) Under existing law, the State Engineer is required to request an allocation from the Contingency Account if the balance in the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program is not sufficient to provide a grant under the Program. In addition, the State Engineer is authorized to request an allocation from the Contingency Account if the balance in the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program is below $250,000. (NRS 532.230) This bill: (1) increases this balance for triggering discretionary requests from the Contingency Account to $500,000; and (2) provides that only money in the Account for the Channel Clearance, Maintenance, Restoration, Surveying and Monumenting Program that is not committed for expenditure is included in the calculation of that balance.",
@@ -2692,7 +3184,8 @@
       "found_by_terms": [
         "water",
         "water conservation",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: LEGISLATURE"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to natural resources; authorizing the Joint Interim Standing Committee on Natural Resources to evaluate and review issues relating to water conservation; requiring the Division of Environmental Protection of the State Department of Conservation and Natural Resources to conduct an interim study on artificial turf and synthetic grass; and providing other matters properly relating thereto.",
@@ -2711,7 +3204,8 @@
         "water",
         "wastewater",
         "subject-index: WATER POLLUTION",
-        "subject-index: WATER SYSTEMS"
+        "subject-index: WATER SYSTEMS",
+        "subject-index: NEVADA SYSTEM OF HIGHER EDUCATION"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT making an appropriation to the Oh Lab of Neurogenetics and Precision Medicine at the University of Nevada, Las Vegas or its successor entity for certain activities relating to water systems and wastewater; and providing other matters properly relating thereto.",
@@ -2732,7 +3226,15 @@
         "subject-index: WATER",
         "subject-index: WATER AUTHORITIES",
         "subject-index: WATER DISTRICTS",
-        "subject-index: WATER POLLUTION"
+        "subject-index: WATER POLLUTION",
+        "subject-index: CITIES",
+        "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF",
+        "subject-index: COUNTIES",
+        "subject-index: CRIMES AND PUNISHMENTS",
+        "subject-index: GENERAL IMPROVEMENT DISTRICTS",
+        "subject-index: NATIVE AMERICANS",
+        "subject-index: TOWNS",
+        "subject-index: UNFUNDED MANDATES"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; establishing provisions governing the reporting and sharing of certain information relating to water by certain governmental entities and Indian tribes; providing a penalty; and providing other matters properly relating thereto.",
@@ -2750,7 +3252,8 @@
       "found_by_terms": [
         "water",
         "water rights",
-        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS"
+        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS",
+        "subject-index: MAPS AND PLATS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; providing that a federal agency that is a claimant of a vested water right is not required to file proof of the claim on or before a certain date; revising requirements relating to a notice of pending adjudication of certain water rights; and providing other matters properly relating thereto.",
@@ -2767,7 +3270,8 @@
       "openstates_url": "https://openstates.org/nv/bills/83/SB324/",
       "found_by_terms": [
         "water",
-        "subject-index: WATER"
+        "subject-index: WATER",
+        "subject-index: LAKE TAHOE"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to natural resources; prohibiting the sale, offer for sale or distribution for sale of water in certain disposable plastic bottles within any community which abuts the Lake Tahoe Watershed; requiring, under certain circumstances, the local board of health or health department to issue administrative fines for such a violation; and providing other matters properly relating thereto.",
@@ -2783,7 +3287,8 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12570/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "subject-index: WATER COMPANIES"
+        "subject-index: WATER COMPANIES",
+        "subject-index: SEWAGE DISPOSAL"
       ],
       "passes_water_title_filter": true,
       "discovered_via": "lcb_subject_index",
@@ -2841,7 +3346,11 @@
         "water rights",
         "State Engineer",
         "subject-index: STATE ENGINEER",
-        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS"
+        "subject-index: WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS",
+        "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF",
+        "subject-index: GRANTS",
+        "subject-index: STATE FINANCES AND FUNDS",
+        "subject-index: SUNSET LEGISLATION"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to water; requiring the State Engineer to retire certain groundwater rights; creating the Nevada Conservation and Recreation Program; creating the Account for Retiring Water Rights; establishing the Nevada Voluntary Water Rights Retirement Program; requiring the Director of the State Department of Conservation and Natural Resources to purchase certain water rights for the purpose of retiring the water rights; revising provisions governing a program to provide grants of money for certain purposes relating to improvements to water systems and to conserve water; and providing other matters properly relating thereto.",
@@ -2867,6 +3376,24 @@
     },
     {
       "session": "83",
+      "identifier": "SB426",
+      "title": "AN ACT relating to public safety; creating the Lake Tahoe Basin Scenic Byway Corridor Recreation Safety Zone; authorizing certain entities to establish certain parking restrictions and prohibitions and enter into agreements with other governmental entities to provide parking enforcement and collect parking fees within the Safety Zone; providing a penalty; and providing other matters properly relating thereto.",
+      "abstract": "Existing law sets forth the Tahoe Regional Planning Compact, an interstate agreement between the States of California and Nevada pursuant to which the bistate Tahoe Regional Planning Agency regulates environmental and land-use matters within the Lake Tahoe Basin. (NRS 277.190-277.220) The Tahoe Regional Planning Compact provides for the creation of the Tahoe transportation district as a special purpose district managed by a board of directors which develops and implements transportation plans and programs for the Lake Tahoe Basin. Existing law also establishes the State Route 159 Safety Speed Zone and authorizes: (1) the Director of the Department of Transportation to set the maximum speed in the Speed Zone; and (2) the Department to ensure that adequate signage and other forms of notice are installed. (NRS 484B.621) Section 1 of this bill creates the Lake Tahoe Basin Scenic Byway Corridor Recreation Safety Zone, consisting of any portion of U.S. Highway 50, Nevada State Route 28, Nevada State Route 431 and Nevada State Route 207 that is located in the Lake Tahoe Region and directly connected to a recreational destination or that has otherwise been designated as a scenic byway. Section 1 authorizes the Department and certain local law enforcement agencies to: (1) establish certain traffic control measures and parking restrictions and prohibitions within the Safety Zone; and (2) enter into an agreement with one or more state agencies, local governments, local governmental agencies in the Region or the Tahoe transportation district to develop public parking, provide parking enforcement and issue parking citations or notices of noncompliance within the Safety Zone. Section 1 further authorizes the Department to: (1) establish and collect fees for public parking on certain land within the Safety Zone; and (2) enter into agreements with certain governmental entities to enforce and collect fees for parking within the Safety Zone. The proceeds of: (1) such fees must be used to manage parking in the Lake Tahoe Region; and (2) any fines imposed for violations of a parking restriction or prohibition, with certain exceptions, must be used for parking enforcement within the Safety Zone.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12773/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: TAHOE BASIN"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to public safety; creating the Lake Tahoe Basin Scenic Byway Corridor Recreation Safety Zone; authorizing certain entities to establish certain parking restrictions and prohibitions and enter into agreements with other governmental entities to provide parking enforcement and collect parking fees within the Safety Zone; providing a penalty; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:36:07.493060+00:00"
+    },
+    {
+      "session": "83",
       "identifier": "SB43",
       "title": "Revises provisions relating to public health and safety. (BDR 40-264)",
       "abstract": "Existing law sets forth provisions governing the collection and disposal of solid waste. (NRS 444.440-444.645) For the purposes of such provisions, existing law defines a \u201csolid waste management authority\u201d to mean: (1) the district board of health in any area in which a health district has been created and, under certain circumstances, certain other areas under the jurisdiction of the board, if the board has adopted certain regulations; and (2) the Division of Environmental Protection of the State Department of Conservation and Natural Resources, in all other areas of the State and at any site previously used for the production of electricity from a coal-fired electric generating plant. (NRS 444.495) Section 4 of this bill authorizes the Administrator of the Division to designate a district board of health to act as a solid waste management authority or to carry out limited duties of a solid waste management authority if the district board of health: (1) applies to the Administrator for such a designation; (2) demonstrates that the district board of health is capable of carrying out the provisions of existing law relating to solid waste management, as determined by the Administrator; and (3) has adopted certain regulations relating to solid waste management. Section 13.5 of this bill requires the State Environmental Commission to adopt regulations establishing the criteria for a district board of health to demonstrate capability to be designated by the Administrator. Section 34 of this bill provides that any district board of health that is currently acting as a solid waste management authority shall be deemed to have been determined capable by the Administrator and may continue to act as a solid waste management authority. Section 7 of this bill revises the definition of \u201csolid waste management authority\u201d to mean: (1) a district board of health if the board is designated under section 4; and (2) the Division, in all other areas of the State and at any site previously used for the production of electricity from a coal-fired electric generating plant. As a result of this change, a district board of health that is not designated by the Administrator is not authorized to act as a solid waste management authority. Consistent with these changes, sections 8, 13 and 16 of this bill provide that only a designated district board of health of a health district is required to adopt certain regulations relating to the collection and disposal of solid waste. Sections 8.5, 9, 14, 18 and 19 of this bill make conforming changes to reflect the divestment of the authority of a district board of health of a health district that is not designated to act as a solid waste management authority. Existing law authorizes any district board of health and any governing body of a municipality to adopt certain standards and regulations relating to solid waste disposal sites and solid waste management systems that are more restrictive than those adopted by the Commission and authorizes the district board of health to issue permits thereunder. Existing law also authorizes any district board of health to adopt such other regulations as are necessary to carry out provisions relating to the collection and disposal of solid waste. (NRS 444.580) Section 15 of this bill provides that certain standards and regulations adopted by a district board of health or governing body must be consistent with an approved plan to provide for a solid waste management system. Section 15 also provides that if a district board of health adopts regulations other than standards and regulations for the location, design, construction, operation and maintenance of a solid waste management system or solid waste disposal system that are more restrictive than those adopted by the Commission, the district board of health must provide reasonable notification of the proposed regulations to the Division. Section 2 of this bill defines \u201chealth district\u201d for the purposes of existing law governing the collection and disposal of solid waste. Section 10 of this bill makes conforming changes to a reference to this term. Section 3 of this bill defines the \u201cResource Conservation and Recovery Act\u201d and, consistent with this definition, sections 6, 11-13 and 16 of this bill revise references to that Act in existing law governing the collection and disposal of solid waste. Section 5 of this bill applies the definitions in existing law and sections 2 and 3 to the provisions of existing law and section 4 that govern the collection and disposal of solid waste. Sections 17 and 18 of this bill make provisions of existing law establishing the powers of a solid waste management authority to enforce existing law, recover civil penalties or damages, obtain injunctive relief or issue subpoenas apply to the provisions of sections 2-4. Existing law sets forth certain provisions governing public water systems and authorizes the Division and a district board of health to administer and enforce these provisions. (NRS 445A.800-445A.955) Existing law also authorizes the State Environmental Commission to designate a district board of health to issue permits to an owner of a public water system to operate the system. (NRS 445A.860, 445A.885) Section 20 of this bill authorizes the Administrator of the Division to designate the district board of health of the health district to issue permits or administer and enforce the provisions or limited provisions governing public water systems if the district board of health: (1) applies for such a designation; and (2) demonstrates to the Administrator that the district board is capable of performing such actions. Section 23 of this bill requires the Commission to adopt regulations establishing the criteria for a district board of health to demonstrate capability to be designated by the Administrator. Section 34 provides that any district board of health that is currently administering and enforcing the provisions governing public water systems shall be deemed to have been designated by the Administrator and may continue to administer and enforce those provisions. Consistent with these changes, sections 23 and 24-28 of this bill limit the authority of a district board of health to issue permits or administer and enforce the provisions governing public water systems to only a district board of health designated by the Administrator. Section 22 of this bill revises the definition of the term \u201cdistrict board of health\u201d to clarify that a health district is created pursuant to certain provisions of existing law. Section 21 of this bill applies the definitions in existing law governing public water systems to section 20. Sections 29-33 of this bill make certain provisions of existing law governing the enforcement powers of the Division, the imposition of civil penalties, administrative fines and criminal penalties and obtaining injunctive relief apply to section 20. Section 23.5 of this bill makes a conforming change to revise an internal reference to a provision of the Nevada Revised Statutes. Existing law defines the term \u201cpublic swimming pool\u201d for the purposes of provisions governing the sanitation of such structures and provides that the term does not include any such structure at any location if the structure is a privately owned pool used by members of a private club or invited guests of the members. (NRS 444.065) Section 4.5 of this bill instead provides that the term does not include any such structure at any location if the structure is a privately owned pool used by members of a private organization that is recognized as a social club exempt from taxation pursuant to certain provisions of the Internal Revenue Code or invited guests of members of such an organization.",
@@ -2876,7 +3403,10 @@
       "openstates_url": "https://openstates.org/nv/bills/83/SB43/",
       "found_by_terms": [
         "water",
-        "subject-index: WATER POLLUTION"
+        "subject-index: WATER POLLUTION",
+        "subject-index: CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF",
+        "subject-index: ENVIRONMENTAL COMMISSION, STATE",
+        "subject-index: HEALTH, LOCAL BOARDS AND OFFICERS"
       ],
       "passes_water_title_filter": true,
       "official_title": "AN ACT relating to public health; authorizing certain district boards of health to be designated to act as a solid waste management authority or exercise certain powers of a solid waste management authority under certain circumstances; revising provisions relating to public swimming pools; removing the authority of certain district boards of health to administer the collection and disposal of solid waste; requiring the State Environmental Commission to adopt regulations establishing certain criteria for a district board of health to demonstrate capability for certain purposes; authorizing certain district boards of health to issue certain permits and administer and enforce certain provisions relating to public water systems under certain circumstances; removing the authority of certain district boards of health to administer certain provisions relating to public water systems; providing a penalty; and providing other matters properly relating thereto.",
@@ -2952,6 +3482,24 @@
     },
     {
       "session": "83",
+      "identifier": "SB494",
+      "title": "AN ACT relating to state government; creating the Nevada Health Authority; creating certain divisions and offices within the Authority; providing for the appointment of officers and the employment of staff for the Authority; establishing requirements governing procurement by the Authority; creating the Nevada Health Authority Gift Fund; prescribing the duties of the Authority and its divisions and officers; transferring to the Authority the responsibility for operating various programs and administering various provisions; revising the name of certain agencies; revising certain terminology; eliminating the Division of Health Care Financing and Policy of the Department of Health and Human Services; revising provisions governing the operation of the Public Employees' Benefits Program and Medicaid; requiring certain reporting on the costs of health insurance for retired state employees; authorizing the Authority to require the reporting of certain information on the cost of certain prescription drugs; revising the membership and duties of the Board of Directors of the Silver State Health Insurance Exchange; providing for a study of opportunities for the Board of the Public Employees' Benefits Program to directly contract with certain providers of health care; providing for a study of and the development of a plan to transfer certain additional functions to the Authority; and providing other matters properly relating thereto.",
+      "abstract": "Existing law creates the Department of Health and Human Services, which consists of the Aging and Disability Services Division, the Division of Public and Behavioral Health, the Division of Welfare and Supportive Services, the Division of Child and Family Services and the Division of Health Care Financing and Policy. (NRS 232.300) This bill creates a new department within the Executive Department of the State Government known as the Nevada Health Authority to assume certain responsibilities of the Department of Health and Human Services and other entities related to the management of certain public health insurance plans, the licensing and regulation of certain persons and entities involved in the provision of health care and the regulation of sanitation in food establishments and certain other locations. Section 18 of this bill creates and establishes the purposes of the Authority, and section 32 of this bill changes the name of the Department to the Department of Human Services. Section 18 provides that the Authority consists of: (1) the Medicaid Division; (2) the Health Care Purchasing and Compliance Division; and (3) the Consumer Health Division. Section 19 of this bill requires the Governor to appoint a Director of the Authority who possesses certain qualifications. Sections 20-23 and 29 of this bill provide for the appointment of officers and the employment of staff for the Authority, including an administrator of each division of the Authority. Sections 24 and 79 of this bill exempt the Authority from provisions of law governing state procurement, with certain exceptions, and section 24 prescribes requirements governing procurement by the Authority. Sections 24 and 61 of this bill provide for the confidentiality of certain information submitted to the Authority during the procurement process. Section 25 of this bill authorizes: (1) the sharing of confidential information within the Authority; and (2) the Authority to share confidential information with certain agencies of local governments in certain circumstances. Sections 26 and 34 of this bill transfer from the Department to the Authority the authority to administer certain programs for persons with developmental disabilities. Section 28 of this bill requires the Director or the Director's designee to adopt each state plan required by the Federal Government for the administration of any program for which the Authority or a division thereof is responsible. Section 31 of this bill creates the Nevada Health Authority Gift Fund to hold gifts, grants and other property which the Authority is authorized to accept. Sections 113 and 227 of this bill require the deposit of certain money in the Fund. Section 36 of this bill updates the name of the Department of Health and Human Services Gift Fund, which is created by existing law, to conform to the change in the name of the Department. (NRS 232.355) Existing law requires the Office of Science, Innovation and Technology in the Office of the Governor to administer the Graduate Medical Education Grant Program, which is a program to award grants to institutions in this State seeking to create, expand or retain programs for residency training and postdoctoral fellowships for physicians. (NRS 223.631-223.639) Sections 2-8 and 26 of this bill transfer to the Consumer Health Division the responsibility for administering the Program. Existing law requires the Board of the Public Employees' Benefits Program to establish the Program to provide group life, accident or health insurance, or any combination thereof, to employees of the State Government. (NRS 287.043) Section 68 of this bill places the Board within the Authority and makes revisions governing the appointment and membership of the Board. Section 68.5 of this bill: (1) removes the authority of the Governor to designate the Chair of the Board and instead requires the Board to elect a Chair annually; and (2) requires the Governor to designate a Vice Chair of the Board. Section 69 of this bill transfers from the Board to the Director of the Authority the responsibility for appointing the Executive Officer of the Program. Section 65.5 of this bill requires the Board to biennially submit to the Legislature a report concerning the cost for a retired state employee to obtain coverage through the Program under Medicare. Section 70 of this bill requires the Executive Officer to submit to the Authority a report regarding the administration and operation of the Program, in addition to certain other entities that currently receive the report. Section 71 of this bill provides that the appointment of officers and unclassified employees to administer the Program is subject to the approval of the Director of the Authority. Sections 72-74 of this bill authorize the Board to utilize certain services of the Authority, including procurement services, or to conduct procurement in accordance with either section 24 or provisions of existing law governing procurement by state agencies. (Chapter 333 of NRS) Section 72 additionally requires the Board, within the limits of available resources, to take such measures as are necessary to maximize the benefits available to participants in the Program and the ability of participants to access available benefits. Existing law authorizes the Board of the Program to enter into contracts with physicians, surgeons, hospitals and rehabilitative facilities for medical, surgical and rehabilitative care and the evaluation, treatment and nursing care of members of the Program and covered dependents. (NRS 287.0434) Section 367.7 of this bill requires the Authority and the Board to study and report to the Legislature concerning opportunities to directly contract with such providers. Existing law requires: (1) the Department to administer Medicaid and the Children's Health Insurance Program; and (2) the Division of Health Care Financing and Policy of the Department to perform certain duties related to the administration of those programs. (Chapter 422 of NRS) Sections 26, 34, 93-96, 113-117, 120.5 and 359 of this bill transfer from the Department and the Director of the Department to the Medicaid Division and the Director of the Authority the responsibility for administering Medicaid and the Children's Health Insurance Program. Sections 32, 34 and 35 of this bill abolish the Division of Health Care Financing and Policy, and sections 94 and 359 transfer the authority, duties and responsibilities of that Division to the Medicaid Division. Section 86 of this bill authorizes the Authority to delegate to other governmental entities the responsibility for making determinations of eligibility for Medicaid and the Children's Health Insurance Program. Section 87 of this bill creates the Office of the Medicaid Inspector General within the Authority to perform certain duties to ensure the integrity of Medicaid and the Children's Health Insurance Program and to prevent waste, fraud and abuse in those programs. Sections 66, 88-91 and 371 of this bill transfer or provide to the Authority certain responsibilities related to the administration of those programs. Sections 101-104, 109 and 110 of this bill establish provisions governing the qualifications, supervision and activities of the Administrator of the Medicaid Division, which are similar to the qualifications, supervision and activities of the Administrator of the Division of Health Care Financing and Policy. (NRS 422.2354-422.2364, 422.2372) Sections 105-108, 111 and 112 of this bill transfer to the Director certain responsibilities relating to Medicaid and the Children's Health Insurance Program, including the responsibility for adopting regulations governing those programs. Section 116 requires any contract for the expenditure of federal money under Medicaid to be signed by the Director. Section 118 of this bill requires the Authority to: (1) include on an Internet website maintained by the Authority certain information to allow recipients of Medicaid through managed care to compare available plans; and (2) develop and implement a beneficiary support system for such recipients of Medicaid. Section 371 repeals certain fiscal duties previously performed by the Administrator of the Division of Health Care Financing and Policy. Sections 26, 34, 141, 144-146, 194, 217-224, 245-247, 250, 260, 276, 325-327 and 360 of this bill transfer from the Division of Public and Behavioral Health to the Health Care Purchasing and Compliance Division and from the Department of Health and Human Services to the Nevada Health Authority, as applicable, the responsibilities for credentialing and regulating: (1) programs for the treatment of persons who commit domestic violence; (2) health care facilities and certain entities involved in the provision of personal care services; (3) nontransplant anatomical donation organizations; (4) naprapaths; and (5) medical laboratories and their personnel. Section 143 of this bill authorizes the State Board of Health to establish fees for the credentialing functions and certain other functions of the Health Care Purchasing and Compliance Division. Sections 26, 34 and 162-171 of this bill transfer from the Division of Public and Behavioral Health to the Health Care Purchasing and Compliance Division the responsibility for administering provisions governing health and safety at health care facilities, including the reporting of sentinel events. Section 35 reduces the number of deputy administrators in the Division of Public and Behavioral Health to account for the duties removed from that Division. Section 367.8 of this bill requires the Department and the Authority to study and develop a plan to additionally transfer functions relating to behavioral health, maternal health and public health from that Division to the Authority. Sections 26, 34, 141, 144, 145, 147-152, 154-160, 180-187, 197-200, 226-238, 240-244 and 359 of this bill transfer from the Department to the Authority the responsibility for administering; (1) the State Program for Oral Health; (2) provisions governing health information technology; (3) the programs to increase public awareness of health care information concerning hospitals and surgical centers for ambulatory patients in this State; (4) provisions governing the reporting of information relating to the cost of certain prescription drugs and certain information concerning pharmacies; (5) the Nevada Health Facilities Assistance Act, which establishes a program to construct new health facilities in this State; and (6) certain requirements to ensure the quality of care offered by hospitals in this State and the financial stability of such hospitals. Section 197 additionally authorizes the Authority to require the reporting of information concerning the cost of certain additional prescription drugs for which reporting is not currently required. Existing law: (1) creates the Patient Protection Commission within the Office of the Director of the Department; and (2) requires the Commission to perform certain duties to improve the quality, accessibility and affordability of health care in this State. (NRS 439.908, 439.918) Sections 26, 34, 172 and 173 of this bill transfer the Commission to the Consumer Health Division. Sections 172 and 173 also transfer from the Governor to the Director of the Authority the responsibility for appointing the members and Executive Director of the Commission. Sections 174 and 175 of this bill require the Commission to make certain recommendations and submit certain reports to the Director of the Authority. Existing law authorizes the Division of Public and Behavioral Health to establish a secure Internet website which makes certain information available for a website client to conduct background investigations of certain persons who are required by law to undergo such an investigation. (NRS 449.942) Sections 175.3 and 175.6 of this bill authorize the Authority to access information on that Internet website without restriction and without becoming a website client. Existing law requires the Department to establish an all-payer claims database of information relating to health insurance claims resulting from medical, dental or pharmacy benefits provided in this State. (NRS 439B.835) Section 29 creates the Office of Data Analytics within the Authority, and sections 26, 34, 202-204 and 359 of this bill transfer to the Office the responsibility for operating the all-payer claims database. Existing law: (1) requires the Division of Public and Behavioral Health to enforce provisions governing sanitation and food establishments under certain circumstances; and (2) requires each county where the Division provides such enforcement to pay an assessment to the Division. (NRS 439.4905, chapters 444 and 446 of NRS) Sections 26, 34, 206-208 and 210-216 of this bill transfer to the Authority the authority to enforce provisions governing sanitation and food establishments, and sections 30 and 153 of this bill require counties who currently pay to the Division an assessment for those functions to instead pay the assessment to the Authority. Existing law requires the State Board of Health to license and regulate music therapists and dietitians. (Chapters 640D and 640E of NRS) Sections 26, 283-297 and 300-323 of this bill transfer to the Health Care Purchasing and Compliance Division the responsibilities for issuing and renewing licenses to those professionals and enforcing provisions of law and regulations governing those professionals and leave the authority to adopt regulations governing those professions with the State Board. Existing law creates the Silver State Health Insurance Exchange. (NRS 695I.200) Existing law requires the Exchange to: (1) create and administer a state-based health insurance exchange; (2) facilitate the purchase and sale of qualified health plans; (3) provide for the establishment of a program to help certain small employers in Nevada in facilitating the enrollment of employees in qualified health plans; and (4) perform all other duties required pursuant to the federal Patient Protection and Affordable Care Act, the federal Health Care and Education Reconciliation Act of 2010 and any amendments to or regulations or guidance issued pursuant to those Acts. (Pub. L. No. 111-148, Pub. L. No. 111-152; NRS 695I.200, 695I.210) The Exchange is governed by the Board of Directors consisting of five voting members appointed by the Governor, one voting member appointed by the Senate Majority Leader, one voting member appointed by the Speaker of the Assembly and three ex officio, nonvoting members. (NRS 695I.300) Sections 346-348 of this bill place the Exchange under the authority of the Consumer Health Division. Section 348: (1) reduces the number of members of the Board appointed by the Governor from five to two; (2) adds three heads of agencies whose work relates to public health or health insurance as ex officio, voting members of the Board; and (3) reduces the nonvoting membership of the Board. Sections 349 and 350 of this bill make revisions governing the terms of the members and officers of the Board. Section 352 of this bill transfers from the Board to the Director of the Authority or his or her designee the responsibility for appointing the Executive Director of the Exchange. Sections 351 and 352 of this bill transfer certain duties relating to auditing and reports from the Board to the Executive Director. Sections 353 and 354 of this bill transfer certain other duties related to the Exchange to Authority and its Director. Existing law requires the Director of the Department, in consultation with the Commissioner of Insurance and the Executive Director of the Exchange, to design, establish and operate a health benefit plan known as the Public Option. (NRS 695K.200) Section 355 of this bill transfers the responsibility for designing, establishing and operating the Public Option to the Director of the Authority. Section 27 of this bill requires the Director and the Authority to: (1) take certain actions to facilitate determinations of eligibility for and the selection of plans under Medicaid and certain other public health insurance programs under the jurisdiction of the Authority; and (2) assess and recommend improvements to the Public Employees' Benefits Program. Sections 9-13, 38-60, 62, 77, 78, 80, 81, 83, 96-98, 100, 121, 123, 125, 128-139, 142, 161, 178, 179, 188, 189, 195, 196, 205, 209, 248, 249, 251-275, 277-280, 324, 328-336, 338-341 and 356-358 of this bill make various conforming changes to reflect the authority transferred by the provisions of this bill. Sections 32, 34, 38, 46, 99, 122, 127, 239, 287, 307 and 326 of this bill change the name of the Division of Welfare and Supportive Services of the Department to the Division of Social Services of the Department. Sections 33, 37, 82, 119, 120, 123, 124, 126-128 and 368 of this bill revise the terminology to refer to certain programs operated by that Division from \u201cwelfare\u201d to \u201cpublic assistance.\u201d Section 132 revises the term \u201ctransitional assistance\u201d to \u201cchild care assistance\u201d to describe certain assistance provided pursuant to federal Temporary Assistance for Needy Families program. Sections 1, 16, 17, 64, 65, 85, 140, 176, 191, 192, 225, 240, 281, 298, 343 and 344 of this bill define certain terms, and sections 15, 67, 75, 76, 92, 177, 193, 201, 282, 299, 337 and 345 of this bill make conforming changes to indicate the applicability of those definitions. Section 371 eliminates certain definitions that are no longer necessary. Sections 58.5 and 120.5 of this bill authorize the Board of State Prison Commissioners to obtain prescription drugs for the treatment of offenders through collaborative purchasing conducted by the Authority for Medicaid and certain public and nonprofit health plans. Section 361 of this bill transfers to the Authority the duty to carry out any requirements of a bill that is enacted by the Legislature during this session and approved by the Governor to: (1) require the Department of Health and Human Services to operate a program to award money to support projects to address shortages of providers of health care in this State; or (2) impose certain requirements on Medicaid or the Children's Health Insurance Program.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12936/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: SANITATION"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to state government; creating the Nevada Health Authority; creating certain divisions and offices within the Authority; providing for the appointment of officers and the employment of staff for the Authority; establishing requirements governing procurement by the Authority; creating the Nevada Health Authority Gift Fund; prescribing the duties of the Authority and its divisions and officers; transferring to the Authority the responsibility for operating various programs and administering various provisions; revising the name of certain agencies; revising certain terminology; eliminating the Division of Health Care Financing and Policy of the Department of Health and Human Services; revising provisions governing the operation of the Public Employees' Benefits Program and Medicaid; requiring certain reporting on the costs of health insurance for retired state employees; authorizing the Authority to require the reporting of certain information on the cost of certain prescription drugs; revising the membership and duties of the Board of Directors of the Silver State Health Insurance Exchange; providing for a study of opportunities for the Board of the Public Employees' Benefits Program to directly contract with certain providers of health care; providing for a study of and the development of a plan to transfer certain additional functions to the Authority; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:36:10.052279+00:00"
+    },
+    {
+      "session": "83",
       "identifier": "SB55",
       "title": "AN ACT relating to tourism; requiring the Commission on Tourism to develop and administer a grant program relating to agritourism; defining certain terms relating to agritourism; requiring the Director of the State Department of Agriculture to adopt regulations establishing the types of businesses that qualify as agritourism; requiring the Department to carry out certain marketing and outreach duties relating to agritourism; authorizing the Director to issue special use permits relating to agritourism under certain circumstances; establishing certain provisions relating to the liability of operators of businesses engaged in agritourism; making appropriations; and providing other matters properly relating thereto.",
       "abstract": "Existing law creates the Commission on Tourism in the Department of Tourism and Cultural Affairs, which is charged with carrying out certain duties relating to the promotion of tourism and travel in this State and oversees a grant program for the development of projects relating to tourism. (NRS 231.8117, 231.8121, 231.8127, 231.8171-231.8179) Section 1 of this bill requires the Commission to develop and administer a grant program for businesses that are engaged in or wish to engage in agritourism in this State. Section 19 of this bill makes an appropriation to the Commission for this grant program to award grants. Sections 1 and 6 of this bill define \u201cagritourism\u201d as the combination of agriculture, horticulture or viticulture with tourism to attract members of the general public to visit a business for enjoyment, education, recreation or participation in agritourism activities. Sections 1 and 7 of this bill define \u201cagritourism activity\u201d as an activity offered by a business engaged in agritourism that invites members of the general public to view or participate in activities relating to agriculture, horticulture or viticulture. Section 2 of this bill applies the definitions in existing law to section 1. Existing law creates the Fund for Tourism and Cultural Affairs to support the operations of the Department of Tourism and Cultural Affairs in carrying out certain duties under existing law. (NRS 231.8141) Section 3 of this bill provides that the money in the Fund may also be used to support the Department of Tourism and Cultural Affairs in carrying out any duties under section 1. Existing law creates the State Department of Agriculture and charges the Department with administering various duties relating to agriculture, livestock and food and other commodities. (NRS 561.035, Titles 49, 50 and 51 of NRS) Section 13 of this bill requires the Director of the State Department of Agriculture to adopt regulations establishing the types of businesses that qualify as agritourism. Sections 8-12 of this bill define certain other terms relating to agritourism. Section 14 of this bill requires the State Department of Agriculture to: (1) develop opportunities for businesses engaged in or that wish to engage in agritourism; (2) develop marketing campaigns for agritourism and agritourism activities in this State; and (3) provide support and outreach to businesses engaged in or that wish to engage in agritourism. Section 14 also requires the Director to employ a qualified professional to assist the State Department of Agriculture in carrying out these duties. Section 20 of this bill makes appropriations to the State Department of Agriculture: (1) to carry out duties relating to the marketing and development of agritourism in this State; (2) for membership in an organization relating to agritourism and attendance at the convention of the organization; and (3) for the salary of the qualified professional assisting the State Department of Agriculture. Section 15 of this bill authorizes the Director to issue a special use permit to an operator of a business engaged in or that wishes to engage in agritourism if the operator is denied a permit required to operate or offer agritourism activities on the basis of a local ordinance, resolution or regulation adopted by a local governing body. Section 15 also requires that any fees collected for a special use permit be accounted for separately by the State Department of Agriculture and paid on an annual basis to the county in which the special use permit was issued. Section 17 of this bill requires an operator of a business engaged in agritourism to post certain warning signs at the entrance of the business and at the site of any agritourism activities and include in every contract offered or entered into by the operator certain language that warns the reader that the operator is not liable for any injury, loss, damage or death to a person or the personal property of a person that results from the inherent risks of an agritourism activity. Section 18 of this bill provides that an operator of a business engaged in agritourism is not liable for any injury, loss, damage or death to a person or the personal property of a person that results from the inherent risks of an agritourism activity if the operator has posted the warning signs and included the warning language in any contracts, as required by section 17. Section 16 of this bill sets forth the inherent risks of an agritourism activity for the purposes of sections 17 and 18.",
@@ -3014,7 +3562,8 @@
       "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11878/Overview",
       "openstates_url": null,
       "found_by_terms": [
-        "subject-index: WATER DISTRICTS"
+        "subject-index: WATER DISTRICTS",
+        "subject-index: FLOOD CONTROL DISTRICTS"
       ],
       "passes_water_title_filter": true,
       "discovered_via": "lcb_subject_index",
@@ -3039,506 +3588,289 @@
       "official_title": "AN ACT relating to governmental administration; revising in skeleton form the powers and duties of the Office of Nevada Boards, Commissions and Councils Standards of the Department of Business and Industry; making various changes in skeleton form to the composition and operation of various boards, commissions, councils and similar bodies; providing in skeleton form for the consolidation and termination of various boards, commissions, councils and similar bodies; and providing other matters properly relating thereto.",
       "abstract_source": "nelis_overview_digest",
       "abstract_fetched_at": "2026-07-17T17:18:09.769561+00:00"
+    },
+    {
+      "session": "83",
+      "identifier": "SB83",
+      "title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "abstract": "The Environmental Improvement Program was implemented in 1997 to carry out projects to improve the environment in the Lake Tahoe Basin. The costs of the Program are apportioned among the Federal Government, the States of Nevada and California and local governments and owners of private property in both states. In 1999, the Nevada Legislature authorized the issuance of not more than $56.4 million in general obligation bonds to pay for a significant portion of Nevada's share of the costs of the first phase of the Program. (Chapter 514, Statutes of Nevada 1999, at page 2626) In 2009, the Nevada Legislature authorized the issuance of not more than $100 million in general obligation bonds to pay for Nevada's share of the costs of the second phase of the Program beginning on July 1, 2009, and ending on June 30, 2020. (Section 3 of chapter 431, Statutes of Nevada 2009, at page 2417) Issuance of those bonds requires the approval of the Legislature or the Interim Finance Committee. (Id.) In 2017, the Nevada Legislature extended the deadline for the issuance of the remainder of the general obligation bonds that were authorized in 2009 for the second phase of the Program from June 30, 2020, to June 30, 2030. (Chapter 32, Statutes of Nevada 2017, at page 137) Of the $100 million in general obligation bonds authorized to pay for Nevada's share of the costs of the second phase of the Program, the Nevada Legislature required the issuance of: (1) not more than $4.42 million of those bonds in 2009; (2) not more than $12 million of those bonds in 2011; (3) not more than $8 million of those bonds in 2019; (4) not more than $4 million of those bonds in 2021; and (5) not more than $13 million of those bonds in 2023. (Section 1 of chapter 431, Statutes of Nevada 2009, at page 2416; section 1 of chapter 437, Statutes of Nevada 2011, at page 2638; section 1 of chapter 167, Statutes of Nevada 2019, at page 891; section 1 of chapter 215, Statutes of Nevada 2021, at page 1008; section 1 of chapter 99, Statutes of Nevada 2023, at page 501) This bill requires the issuance of not more than $10.5 million of the $100 million in general obligation bonds authorized in 2009 to provide money to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program and allows the use of interest accrued on the proceeds of the general obligation bonds for the Program.",
+      "in_nelis": true,
+      "in_openstates": false,
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11959/Overview",
+      "openstates_url": null,
+      "found_by_terms": [
+        "subject-index: LAKE TAHOE"
+      ],
+      "passes_water_title_filter": true,
+      "discovered_via": "lcb_subject_index",
+      "official_title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+      "abstract_source": "nelis_overview_digest",
+      "abstract_fetched_at": "2026-07-17T20:36:12.419657+00:00"
     }
   ],
   "abstract_enrichment": {
-    "filled": 165,
+    "filled": 189,
     "failed": 0,
-    "updated_at": "2026-07-17T17:18:09.775464+00:00",
+    "updated_at": "2026-07-17T20:36:12.427772+00:00",
     "note": "abstract = NELIS Overview digest (#digest), not search-list title"
   },
   "subject_index": {
-    "updated_at": "2026-07-17T17:16:00.187110+00:00",
+    "updated_at": "2026-07-17T20:35:05.099834+00:00",
     "note": "LCB Subject Index of Bills harvested per session; headings matched: water/wastewater/Colorado River/State Engineer/irrigation/drought/wells/data centers + entry keywords (data center, desalination, evaporative cooling, closed-loop, cloud seeding).",
     "added_bills": [
-      "80:AB190",
-      "80:AB21",
-      "80:AB240",
-      "80:AB275",
-      "80:AB319",
-      "80:AB32",
-      "80:AB413",
-      "80:AB504",
-      "80:AB537",
-      "80:AB541",
-      "80:SB14",
-      "80:SB280",
-      "80:SB495",
-      "80:SB519",
-      "80:SB56",
-      "81:AB184",
-      "81:AB31",
-      "81:AB97",
-      "81:SB14",
-      "81:SB283",
-      "81:SB430",
-      "82:AB131",
-      "82:AB313",
-      "82:AB97",
-      "82:AJR3",
-      "82:SB115",
-      "82:SB169",
-      "82:SB210",
-      "82:SB257",
-      "82:SB261",
-      "82:SB404",
-      "82:SB431",
-      "83:AB1",
-      "83:AB397",
-      "83:AB449",
-      "83:AB491",
-      "83:AB506",
-      "83:AB592",
-      "83:AJR13",
-      "83:SB326",
-      "83:SB442",
-      "83:SB55",
-      "83:SB71",
-      "83:SB78"
+      "80:AB220",
+      "80:AB505",
+      "80:AB73",
+      "80:AB84",
+      "80:AB93",
+      "80:SCR5",
+      "80:SJR7",
+      "81:SB368",
+      "81:SB72",
+      "81:SB73",
+      "81:SCR8",
+      "81:SCR9",
+      "81:SJR12",
+      "82:AB424",
+      "82:ACR5",
+      "82:SB318",
+      "82:SB492",
+      "83:AB241",
+      "83:AB577",
+      "83:SB10",
+      "83:SB106",
+      "83:SB426",
+      "83:SB494",
+      "83:SB83"
     ],
     "details": [
       {
-        "key": "80:AB190",
+        "key": "80:AB220",
         "headings": [
-          "WATER"
+          "TAHOE BASIN"
         ],
         "entries": [
-          "Construction, repair or reconstruction for water projects, applicability of prevailing wage laws, AB 190*"
+          "Environmental Improvement Program, bond issue, AB 220*, AB 541*"
         ]
       },
       {
-        "key": "80:AB21",
+        "key": "80:AB505",
         "headings": [
-          "IRRIGATION DISTRICTS"
+          "TAHOE BASIN"
         ],
         "entries": [
-          "Appointment of members of governing bodies, authority of county commissioners, AB 21*"
+          "Lake Tahoe Nevada State Park, appropriation, AB 505*"
         ]
       },
       {
-        "key": "80:AB240",
+        "key": "80:AB73",
         "headings": [
-          "WATER AUTHORITIES"
+          "SEWAGE DISPOSAL"
         ],
         "entries": [
-          "Northwestern Nevada, reports on growth issues by certain counties, consultation, AB 240*"
+          "Cities, authority to impose surcharge on sewer services to fund services and housing for persons who are homeless or indigent, AB 73\u2020"
         ]
       },
       {
-        "key": "80:AB275",
+        "key": "80:AB84",
         "headings": [
-          "WELL DRILLERS, LICENSES"
+          "RIVERS",
+          "TAHOE BASIN",
+          "TRUCKEE RIVER"
         ],
         "entries": [
-          "Qualifications, procedures when applicant lacks social security number, AB 275\u2020"
+          "Corridor improvements, Carson and Truckee rivers, bond issue, AB 84*",
+          "Path system, bond issue, AB 84*",
+          "Corridor improvements, bond issue, AB 84*"
         ]
       },
       {
-        "key": "80:AB319",
+        "key": "80:AB93",
         "headings": [
-          "STATE ENGINEER",
-          "WELL DRILLERS, LICENSES"
+          "TAHOE BASIN"
         ],
         "entries": [
-          "Well drillers, powers and duties, AB 319*",
-          "Criminal history disqualification, petitions regarding, procedures, Internet publication of information, reports, AB 319*"
+          "Account for License Plates for Support of Preservation and Restoration of Natural Environment, use for grants to nonprofit organizations, AB 93*"
         ]
       },
       {
-        "key": "80:AB32",
+        "key": "80:SCR5",
         "headings": [
-          "IRRIGATION DISTRICTS",
-          "WATER DISTRICTS"
+          "TAHOE BASIN"
         ],
         "entries": [
-          "Workforce development programs, eligibility, AB 32\u2020"
+          "Science, support expressed for role in guiding preservation efforts, SCR 5\u2021",
+          "Tahoe Bi-State Executive Committee and Tahoe Science Advisory Council, roles recognized, SCR 5\u2021"
         ]
       },
       {
-        "key": "80:AB413",
+        "key": "80:SJR7",
         "headings": [
-          "IRRIGATION DISTRICTS",
-          "WATER CONSERVANCY DISTRICTS",
-          "WATER DISTRICTS"
+          "TAHOE BASIN"
         ],
         "entries": [
-          "Business impact statements, consideration by governing body, petitions and procedures following, certain actions to adopt rule deemed void, AB 413*"
+          "Transportation issues, support for innovative solutions and work of Bi-State Working Group expressed, SJR 7\u2021"
         ]
       },
       {
-        "key": "80:AB504",
+        "key": "81:SB368",
         "headings": [
-          "WATER CONSERVATION"
+          "TAHOE BASIN"
         ],
         "entries": [
-          "Agriculture, State Department of, appropriation for projects, AB 504\u2020"
+          "Environmental Improvement Program, issuance of general obligation bonds, requirements, SB 368*"
         ]
       },
       {
-        "key": "80:AB537",
+        "key": "81:SB72",
         "headings": [
-          "WATER"
+          "FLOOD CONTROL"
         ],
         "entries": [
-          "Pollution control, remedies for certain violations, AB 537*",
-          "Public water systems, remedies for certain violations, AB 537*"
+          "Common-interest communities, establishment and foreclosure of certain liens, applicability of laws, SB 72*"
         ]
       },
       {
-        "key": "80:AB541",
+        "key": "81:SB73",
         "headings": [
-          "WATER CONSERVATION"
+          "FLOOD CONTROL",
+          "TRUCKEE RIVER"
         ],
         "entries": [
-          "Grant program, bond issue, AB 541*"
+          "Reno, City of, flood management authority, funding, SB 73D",
+          "Reno, City of, protection of river, funding, SB 73D"
         ]
       },
       {
-        "key": "80:SB14",
+        "key": "81:SCR8",
         "headings": [
-          "COLORADO RIVER COMMISSION OF NEVADA",
-          "WATER",
-          "WATER CONSERVANCY DISTRICTS"
+          "TAHOE BASIN"
         ],
         "entries": [
-          "Governor\u2019s appointees, status, removal from office, SB 14*",
-          "Groundwater boards, status of members, removal from office, SB 14*",
-          "Boards of directors, status of members, removal from office, SB 14*"
+          "Transportation, legislative resolution supporting identification of key transportation priorities, SCR 8\u2021"
         ]
       },
       {
-        "key": "80:SB280",
+        "key": "81:SCR9",
         "headings": [
-          "WATER"
+          "TAHOE BASIN"
         ],
         "entries": [
-          "Commercial use of state waters, permit fees, SB 280D",
-          "Dredging operations, establishment of fee, SB 47D, SB 280D",
-          "\u201cNavigable body of water\u201d defined, SB 280D"
+          "Nevada System of Higher Education, legislative resolution supporting NSHE to work collaboratively to address needs of Basin, SCR 9\u2021"
         ]
       },
       {
-        "key": "80:SB495",
+        "key": "81:SJR12",
         "headings": [
-          "IRRIGATION DISTRICTS",
-          "WATER CONSERVANCY DISTRICTS",
-          "WATER DISTRICTS"
+          "TAHOE BASIN"
         ],
         "entries": [
-          "Small Business Advocate, Office of the, duties, SB 495",
-          "Office of the Small Business Advocate, duties, SB 495"
+          "East Shore Trail, Congress urged to provide funding for completion, SJR 12\u2021"
         ]
       },
       {
-        "key": "80:SB519",
+        "key": "82:AB424",
         "headings": [
-          "MARLETTE LAKE",
-          "WATER"
+          "TAHOE BASIN"
         ],
         "entries": [
-          "Snowcat vehicle for winter access to pump house and dam, appropriation, SB 519*",
-          "Marlette Lake Water System, appropriations, SB 507*, SB 519*"
+          "Environmental Improvement Program, issuance of bonds to carry out certain projects, use of accrued interest, AB 424*"
         ]
       },
       {
-        "key": "80:SB56",
+        "key": "82:ACR5",
         "headings": [
-          "STATE ENGINEER",
-          "WATER"
+          "TAHOE BASIN"
         ],
         "entries": [
-          "Logging, duties, SB 56*",
-          "Logging, prohibited acts near certain bodies of water, SB 56*"
+          "Transportation, legislative resolution supporting Lake Tahoe Transportation Action Plan, certain transportation projects, ACR 5*"
         ]
       },
       {
-        "key": "81:AB184",
+        "key": "82:SB318",
         "headings": [
-          "IRRIGATION DISTRICTS",
-          "WATER CONSERVANCY DISTRICTS",
-          "WATER DISTRICTS"
+          "SEWAGE DISPOSAL"
         ],
         "entries": [
-          "Small Business Advocacy, Office of, duty to work with small businesses and districts to facilitate interactions, AB 184*"
+          "Sanitary sewer systems, authority of cities to impose surcharge to fund services and affordable housing for homeless or indigent, SB 318D"
         ]
       },
       {
-        "key": "81:AB31",
+        "key": "82:SB492",
         "headings": [
-          "WATER"
+          "APPROPRIATIONS"
         ],
         "entries": [
-          "Pure water, definition, AB 31*"
+          "Water Resources, Division of, SB 102, SB 472*, SB 473*, SB 492*"
         ]
       },
       {
-        "key": "81:AB97",
+        "key": "83:AB241",
         "headings": [
-          "WATER"
+          "TAHOE BASIN"
         ],
         "entries": [
-          "Perfluoroalkyl and polyfluoralkyl substances in drinking water, establishment of maximum permissible levels, AB 97\u2020"
+          "Multifamily housing or mixed-use developments, applications for permits to construct, applicability of zoning laws, AB 241*"
         ]
       },
       {
-        "key": "81:SB14",
+        "key": "83:AB577",
         "headings": [
-          "WASTEWATER",
-          "WATER SYSTEMS"
+          "APPROPRIATIONS",
+          "COMPUTERS AND INFORMATION SYSTEMS",
+          "CONSERVATION AND NATURAL RESOURCES, STATE DEPARTMENT OF"
         ],
         "entries": [
-          "Vulnerability assessments, submission by utilities to Division of Emergency Management, SB 14*",
-          "Vulnerability assessments, submission to Division of Emergency Management, SB 14*"
+          "Water Resources, Division of, AB 485D, AB 577*",
+          "Water Resources, Division of, replacement of computer hardware and software, appropriation, AB 577*",
+          "Water Resources, Division of, appropriations, AB 485D, AB 577*"
         ]
       },
       {
-        "key": "81:SB283",
+        "key": "83:SB10",
         "headings": [
-          "WATER CONSERVATION"
+          "LAKE TAHOE"
         ],
         "entries": [
-          "Qualified improvement projects, creation of districts, procedures, applicability of laws, SB 283*"
+          "Fire prevention and forest health, report concerning, repeal, SB 10*"
         ]
       },
       {
-        "key": "81:SB430",
+        "key": "83:SB106",
         "headings": [
-          "WATER"
+          "LAKE TAHOE"
         ],
         "entries": [
-          "Infrastructure Bank, Nevada State, infrastructure concerning provision of loans and other financial assistance, requirements, SB 430*"
+          "Boats operated near shoreline, speed restrictions, SB 106*",
+          "Vessels operated near shoreline, speed restrictions, SB 106*"
         ]
       },
       {
-        "key": "82:AB131",
+        "key": "83:SB426",
         "headings": [
-          "DROUGHT"
+          "TAHOE BASIN"
         ],
         "entries": [
-          "Urban and Community Forestry Program, creation, grants to promote, AB 131*"
+          "Scenic Byway Corridor Recreation Safety Zone, Lake Tahoe Basin, creation, SB 426*",
+          "Transit surcharge, imposition, SB 426\u2020"
         ]
       },
       {
-        "key": "82:AB313",
+        "key": "83:SB494",
         "headings": [
-          "WATER",
-          "WATER POLLUTION"
+          "SANITATION"
         ],
         "entries": [
-          "Mining operations, reclamation, surface water and groundwater affected, requirements, AB 313",
-          "\u201cPit lakes\u201d defined, effect on water, reports, AB 313",
-          "Mining operations, plans for reclamation, permits, requirements, penalties, AB 313"
+          "Public and Behavioral Health, Division of, duties relating to sanitation transferred to Nevada Health Authority, SB 494*"
         ]
       },
       {
-        "key": "82:AB97",
+        "key": "83:SB83",
         "headings": [
-          "BUILDING CODES",
-          "CITIES",
-          "COUNTIES",
-          "ORDINANCES",
-          "ZONING"
+          "LAKE TAHOE"
         ],
         "entries": [
-          "Evaporative cooling mechanisms, prohibition on construction or use, authority of cities or counties, AB 97\u2020\u2020",
-          "Evaporative cooling mechanisms, prohibition on construction or use, authority, AB 97\u2020\u2020"
-        ]
-      },
-      {
-        "key": "82:AJR3",
-        "headings": [
-          "WATER POLLUTION"
-        ],
-        "entries": [
-          "Environment, establishment of certain rights relating to, constitutional amendment, AJR 3D"
-        ]
-      },
-      {
-        "key": "82:SB115",
-        "headings": [
-          "WATER"
-        ],
-        "entries": [
-          "Wetlands in-lieu fee program, establishment, use and operation, SB 115*"
-        ]
-      },
-      {
-        "key": "82:SB169",
-        "headings": [
-          "WATER"
-        ],
-        "entries": [
-          "Heat mitigation element in larger counties, inclusion in master plans, requirements, SB 169\u2020\u2020"
-        ]
-      },
-      {
-        "key": "82:SB210",
-        "headings": [
-          "COLORADO RIVER COMMISSION OF NEVADA",
-          "IRRIGATION DISTRICTS",
-          "WATER CONSERVANCY DISTRICTS",
-          "WATER PROJECTS, FINANCING OF"
-        ],
-        "entries": [
-          "Members, compensation increased, SB 210\u2020\u2020",
-          "Board of Directors, compensation increased, SB 210\u2020\u2020",
-          "Board members, compensation increased, SB 210\u2020\u2020",
-          "Compensation of members increased, SB 210\u2020\u2020"
-        ]
-      },
-      {
-        "key": "82:SB257",
-        "headings": [
-          "WATER POWER"
-        ],
-        "entries": [
-          "Property tax abatement for certain systems or facilities, SB 257*, AB 419D"
-        ]
-      },
-      {
-        "key": "82:SB261",
-        "headings": [
-          "IRRIGATION DISTRICTS",
-          "WATER CONSERVANCY DISTRICTS",
-          "WATER DISTRICTS"
-        ],
-        "entries": [
-          "Local rules affecting businesses, SB 261*"
-        ]
-      },
-      {
-        "key": "82:SB404",
-        "headings": [
-          "IRRIGATION DISTRICTS",
-          "WATER CONSERVANCY DISTRICTS"
-        ],
-        "entries": [
-          "Elections, certain duties deemed ministerial, district court to compel certain actions, SB 404\u2020",
-          "Elections, canvass of votes, cause of action to compel completion, SB 404\u2020"
-        ]
-      },
-      {
-        "key": "82:SB431",
-        "headings": [
-          "COLORADO RIVER COMMISSION OF NEVADA",
-          "STATE ENGINEER",
-          "WATER PROJECTS, FINANCING OF",
-          "WELL DRILLERS\u2019 ADVISORY BOARD"
-        ],
-        "entries": [
-          "Secretary of Energy, Environment and Public Works, oversight and responsibility, SB 431\u2020"
-        ]
-      },
-      {
-        "key": "83:AB1",
-        "headings": [
-          "COLORADO RIVER COMMISSION OF NEVADA"
-        ],
-        "entries": [
-          "Fort Mohave Valley, development in, regulations void, AB 1*"
-        ]
-      },
-      {
-        "key": "83:AB397",
-        "headings": [
-          "WATER"
-        ],
-        "entries": [
-          "Analyses by Nevada System of Higher Education, repeal, AB 397\u2020\u2020"
-        ]
-      },
-      {
-        "key": "83:AB449",
-        "headings": [
-          "WATER COMPANIES"
-        ],
-        "entries": [
-          "Utility rates or charges, changes, regulations, AB 449*"
-        ]
-      },
-      {
-        "key": "83:AB491",
-        "headings": [
-          "IRRIGATION DISTRICTS",
-          "MOAPA VALLEY WATER DISTRICT",
-          "VIRGIN VALLEY WATER DISTRICT",
-          "WATER DISTRICTS"
-        ],
-        "entries": [
-          "Directors and local directors, qualifications, registration to vote required, AB 491*",
-          "Board of directors, qualifications, registration to vote required, AB 491*"
-        ]
-      },
-      {
-        "key": "83:AB506",
-        "headings": [
-          "WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS"
-        ],
-        "entries": [
-          "Interim Finance Committee, certain local governments, reporting requirements, AB 506*"
-        ]
-      },
-      {
-        "key": "83:AB592",
-        "headings": [
-          "COLORADO RIVER COMMISSION OF NEVADA"
-        ],
-        "entries": [
-          "Salaries of staff and employees, maximum allowable, AB 592*"
-        ]
-      },
-      {
-        "key": "83:AJR13",
-        "headings": [
-          "WATER"
-        ],
-        "entries": [
-          "Nuclear weapons, Federal Government urged to maintain moratorium on testing, AJR 13\u2021"
-        ]
-      },
-      {
-        "key": "83:SB326",
-        "headings": [
-          "WATER COMPANIES"
-        ],
-        "entries": [
-          "Infrastructure of utilities in Clark County, annual reports, SB 326*"
-        ]
-      },
-      {
-        "key": "83:SB442",
-        "headings": [
-          "WATER COMPANIES"
-        ],
-        "entries": [
-          "Termination of utility service, monthly reports to Commission, regulations, SB 442*"
-        ]
-      },
-      {
-        "key": "83:SB55",
-        "headings": [
-          "IRRIGATION DISTRICTS"
-        ],
-        "entries": [
-          "Agritourism, powers, SB 55D"
-        ]
-      },
-      {
-        "key": "83:SB71",
-        "headings": [
-          "WATER DISTRICTS"
-        ],
-        "entries": [
-          "Business Advisory Council, Nevada Diverse, membership, SB 71\u2020"
-        ]
-      },
-      {
-        "key": "83:SB78",
-        "headings": [
-          "WELL DRILLERS"
-        ],
-        "entries": [
-          "Advisory board, authority of the Office of Nevada Boards, Commissions and Councils Standards, SB 78"
+          "Environmental Improvement Program for the Lake Tahoe Basin, bonds required, SB 83*"
         ]
       }
     ]

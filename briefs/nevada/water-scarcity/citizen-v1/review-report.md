@@ -67,9 +67,20 @@ All checklist items pass. Fit-to-two-pages trims were applied during packaging a
 | F5 | PASS | Modules present: eyebrow header, terracotta H2s, stat strip, history cards, comparison tables (proposals + baskets), question grid, info pair, footline. |
 | F6 | PASS | No Phase 2 sample headings/kicker/body text copied (diff against sample text). |
 
+## Recall audit (post-review addendum, same day)
+
+A completeness audit extended the subject-index harvest to RIVERS, DAMS,
+FLOOD CONTROL, SEWAGE, TAHOE, and TRUCKEE RIVER headings plus water entries
+filed under department headings, and checked all six 2020–2025 special
+sessions (none contained water or data-center bills). This added 24 bills
+(8 policy, 16 context). All packet numbers were rebuilt: **189 collected,
+108 policy bills, 59 enacted, 27 first-committee deaths**. The proposal
+crosswalk was unchanged (desalination 0, pipeline 0, data centers 11). The
+front brief still renders at exactly 2 pages; fact checks re-run: 29/29 pass.
+
 ## Notes for human reviewers (Ryan Echols, Jodi Stephens, Ashley Lovell)
 
-1. **This is a full re-collection**: 165 bills found (was 88); headline numbers use the 100-bill policy set. Context bills are listed separately in Appendix A so the search stays auditable.
+1. **This is a full re-collection**: 189 bills found (was 88); headline numbers use the 108-bill policy set. Context bills are listed separately in Appendix A so the search stays auditable.
 2. The page-1 proposal table is the core change from v1: each Community Conversation proposal is checked against the record, including two "never filed" findings and the asymmetric data-center record (helping 4-for-4, restraining 0-for-5).
 3. Venue notes (local rule vs. state statute vs. Congress) are descriptive statements of where authority sits, sourced from bill texts and the LCB data-centers memo (S25) — please gut-check the wording stays on the right side of "no advice."
 4. The 2026 interim data-center study is mentioned as context ("the next real window") — flag if that reads as steering.
