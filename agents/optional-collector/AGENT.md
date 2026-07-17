@@ -1,7 +1,7 @@
 ---
 agent_id: optional-collector
 agent_name: Optional Collector
-version: 2.0
+version: 2.1
 pipeline_position: 0
 previous_agent: none
 next_agent: evidence-curator

@@ -1,7 +1,7 @@
 ---
 agent_id: citizen-reviewer
 agent_name: Citizen Reviewer
-version: 2.0
+version: 2.1
 pipeline_position: 5
 previous_agent: design-packager
 next_agent: human-review
@@ -95,11 +95,13 @@ You may make **small fixes** for reading level, missing explainers, or advice ph
 | F1 | `citizen-brief.html` + print CSS exist |
 | F2 | Appendices A–F exist |
 | F3 | `PACKAGE.md` exists |
-| F4 | Visual tokens documented (Forum brand or Phase 2 sample override) |
+| F4 | Visuals use Phase 2 tokens (white page, navy `#1A2D4F`, terracotta `#C0392B`, Arial body) — no purple/gold/cream website palette |
+| F5 | Phase 2 modules present: eyebrow header, terracotta section headers, stat strip, history example cards, baskets table or cards, question grid |
+| F6 | No Phase 2 sample headings/titles/body text copied into the brief |
 
 ## Scoring
 
-- Any fail in A, C1, D2, or E1 → **BLOCKED**
+- Any fail in A, C1, D2, E1, or F6 → **BLOCKED**
 - Other fails → **BLOCKED** unless easily fixed in-pass; prefer fix then PASS
 - All pass → **READY FOR HUMAN REVIEW**
 

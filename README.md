@@ -10,7 +10,7 @@ Typical packet:
 
 - A **1–2 page** plain-language front brief (~5th-grade reading level, inline explainers)
 - **Print-friendly appendices** (bills, themes, votes, sponsors)
-- Forum visual styling (`config/forum-brand.yaml`, or a Phase 2 sample if provided)
+- Phase 2 Issue Brief visual system (tokens in `config/forum-brand.yaml`, extracted from the sample in `templates/phase-2-samples/`)
 
 Collectors still gather public bill data (Pass 1 / Pass 2). The **v2 agent pipeline** starts from that data.
 
@@ -55,8 +55,8 @@ Add in GitHub: **Settings → Secrets and variables → Actions**
 
 | Type | Purpose | Location |
 |------|---------|----------|
-| Citizen legislative reality brief (v2) | Lay handout: what was tried / moved / stalled | `briefs/{state}/{issue}/citizen-v1/` |
-| Phase 2 Issue Brief | Deliberation conversation guide (external/sample) | `briefs/phase-2/` or `templates/phase-2-samples/` |
+| Citizen legislative reality brief (v2) | Lay handout: what was tried / moved / stalled / who showed up | `briefs/{state}/{issue}/citizen-v1/` |
+| Phase 2 Issue Brief | Deliberation conversation guide (external; also our visual-system sample) | `briefs/phase-2/` or `templates/phase-2-samples/` |
 | Legacy Version 0 staff brief | Internal assembly-viability memo | `briefs/{state}/{issue}/version-0/` |
 
 ## License and attribution
