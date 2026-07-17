@@ -122,7 +122,7 @@ Each policy bill was assigned one theme. The basket says how this kind of idea u
 | 2023 | SB180 | Changed how groundwater boards are formed and ended — passed both houses with zero 'no' votes, still did not become law | Failed | Passed both houses, still no law |
 | 2025 | AB312 | Would have made home sellers disclose private well water test results | Failed | Died in its first committee |
 | 2025 | AB363 | Would have changed how groundwater boards are formed (retry of 2023 SB180) | Failed | Died on its first floor / calendar |
-| 2025 | AB485 | Would have changed funding for well supervisors (retry of 2023 SB112) | Failed | Died in its first committee |
+| 2025 | AB485 | Would have funded groundwater basin budgets, monitoring, digitizing water records, and staff to sort old water rights claims — died in first committee | Failed | Died in its first committee |
 | 2025 | SB342 | Would have changed how groundwater basins get special management status | Failed | Died in its first committee |
 
 <!-- pdf-page-break -->

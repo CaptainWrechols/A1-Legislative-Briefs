@@ -1,7 +1,7 @@
 {
   "issue_id": "nevada-04-water-scarcity",
   "issue_title": "Growth, Water Scarcity, and Long-Term Supply in Nevada",
-  "built_at": "2026-07-17T20:50:45.448097+00:00",
+  "built_at": "2026-07-17T22:45:21.898999+00:00",
   "generated_by": "evidence-curator v2.2 (curation-map + build_evidence_pack.py)",
   "inventory": {
     "total_bills_collected": 189,
@@ -554,22 +554,17 @@
   },
   "constituent_proposal_crosswalk": [
     {
-      "proposal_id": "desalination-new-supply",
-      "title": "Develop new supply via desalination",
-      "matched_bills": [],
+      "proposal_id": "statewide-water-study-body",
+      "title": "Statewide water study group / plan modeled on the Economic Forum",
+      "matched_bills": [
+        "80:SB499"
+      ],
       "near_miss_bills": [],
-      "coverage": "none"
+      "coverage": "thin"
     },
     {
-      "proposal_id": "interstate-pipeline-federal",
-      "title": "Build an interstate water pipeline / declare a national water emergency",
-      "matched_bills": [],
-      "near_miss_bills": [],
-      "coverage": "none"
-    },
-    {
-      "proposal_id": "regulate-data-centers",
-      "title": "Regulate data centers",
+      "proposal_id": "data-center-guardrails",
+      "title": "Statewide legislative guardrails on data centers",
       "matched_bills": [
         "80:AB400",
         "80:SB547",
@@ -587,6 +582,111 @@
         "80:AB466"
       ],
       "coverage": "partial"
+    },
+    {
+      "proposal_id": "water-audit-records",
+      "title": "Audit / inventory water and fix over-allocation, including digitizing records",
+      "matched_bills": [
+        "82:SB113",
+        "83:AB485",
+        "83:SB31"
+      ],
+      "near_miss_bills": [],
+      "coverage": "partial"
+    },
+    {
+      "proposal_id": "metering",
+      "title": "Metering water use (and using meter data to catch leaks and overuse)",
+      "matched_bills": [
+        "80:AB163",
+        "82:AB191"
+      ],
+      "near_miss_bills": [],
+      "coverage": "thin"
+    },
+    {
+      "proposal_id": "waste-enforcement-fines",
+      "title": "Stronger enforcement and steeper fines for water waste",
+      "matched_bills": [
+        "80:AB537"
+      ],
+      "near_miss_bills": [
+        "80:SB423",
+        "81:SB72",
+        "83:SB426"
+      ],
+      "coverage": "thin"
+    },
+    {
+      "proposal_id": "incentives-heavy-users",
+      "title": "Incentivize heavy/business users to adopt water-saving technology",
+      "matched_bills": [
+        "81:SB283"
+      ],
+      "near_miss_bills": [],
+      "coverage": "thin"
+    },
+    {
+      "proposal_id": "conditional-tax-incentives",
+      "title": "Attach public-benefit conditions to tax incentives (paid as reimbursement at the end)",
+      "matched_bills": [
+        "80:AB400",
+        "81:AB449",
+        "81:AB66",
+        "82:SB394",
+        "82:SB429",
+        "83:AB77",
+        "83:SB364"
+      ],
+      "near_miss_bills": [
+        "80:AB190",
+        "80:AB32",
+        "80:AB36",
+        "80:SB298",
+        "81:SB338",
+        "81:SB442",
+        "82:AB419",
+        "82:AB449",
+        "82:SB257",
+        "83:AB377",
+        "83:AB447",
+        "83:AB528",
+        "83:AB70",
+        "83:SB355",
+        "83:SB69"
+      ],
+      "coverage": "partial"
+    },
+    {
+      "proposal_id": "growth-restrictions",
+      "title": "Restrictions on new and existing growth (watering days, decorative-lawn bans, moratoriums)",
+      "matched_bills": [
+        "81:AB356",
+        "82:SB169",
+        "83:SB143"
+      ],
+      "near_miss_bills": [
+        "83:AJR13"
+      ],
+      "coverage": "partial"
+    },
+    {
+      "proposal_id": "fairness-no-carveouts",
+      "title": "Fairness across users and regions - treat water as one statewide resource",
+      "matched_bills": [
+        "82:AB387"
+      ],
+      "near_miss_bills": [],
+      "coverage": "thin"
+    },
+    {
+      "proposal_id": "bring-your-own-water",
+      "title": "\"Bring your own water\" - require developers/heavy users to import their own supply",
+      "matched_bills": [
+        "80:SB250"
+      ],
+      "near_miss_bills": [],
+      "coverage": "thin"
     }
   ],
   "data_limits": [
@@ -5162,7 +5262,7 @@
       "session_year": "2025",
       "identifier": "AB485",
       "title": "Revises provisions relating to water. (BDR 48-386)",
-      "plain_topic": "Would have changed funding for well supervisors (retry of 2023 SB112)",
+      "plain_topic": "Would have funded groundwater basin budgets, monitoring, digitizing water records, and staff to sort old water rights claims \u2014 died in first committee",
       "theme": "groundwater-wells",
       "relevance": "core",
       "disposition": "Failed",

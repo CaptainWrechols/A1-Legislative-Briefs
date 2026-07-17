@@ -7,60 +7,30 @@
 
 ## The headline
 
-The three ideas Nevadans proposed in the Phase 2 Community Conversations map
-onto the legislative record in three very different ways:
+The ten most common citizen statements on water (Phase 2 RAG dataset) sort
+into three groups when checked against the 2019–2025 record:
 
-| Proposal | Record 2019–2025 |
+| Group | Citizen statements |
 |---|---|
-| Desalination / supply partnerships | **Never filed.** Zero bills. |
-| Interstate pipeline / federal project | **Never filed as a bill.** Only unanimous "please act" resolutions (82:SJR3). |
-| Regulate data centers | **Tried from several angles; every restraint died.** Helping large users went 4-for-4; restraining them went 0-for-5. No statute touches data-center water or cooling. |
+| **Never filed as a bill** | Data-center water/cooling rules · statewide metering · water-waste fines · reimbursement-style tax incentives · bring-your-own-water |
+| **Tried, but stalled** | Statewide expert water body (2019 SB499, 2025 SB143) · records/audit funding (2025 AB485) · statewide-science standards (2019 AB51, 2023 AB387) · conditions on tax breaks (0-for-5) |
+| **Partly done / precedent exists** | Grass ban (2021 AB356) and land-split water dedication (2019 SB250) for growth limits · well meters + loss audits (2019 AB95, 2023 SB113, 2023 AB191) · water agency database money (2025 AB577) |
 
-## Session snapshot
+## Statement reality cards (ten)
 
-| Session | Bills | Enacted | Failed | Vetoed | Note |
-|---|---|---|---|---|---|
-| 2019 | 24 | 19 | 5 | — | best pass rate in the record |
-| 2021 | 23 | 11 | 10 | — | 2 resolutions still pending |
-| 2023 | 30 | 16 | 10 | 3 | vetoes appear for the first time |
-| 2025 | 31 | 13 | 18 | — | worst pass rate; most deaths in first committee |
+Full structured cards live in `reality-map.json → proposal_reality_cards`.
+Summary:
 
-## Proposal reality cards
-
-### 1 · Desalination and new supply partnerships — *never filed*
-
-- **What citizens proposed:** partner with Arizona/Mexico (Sea of Cortez) or fund California desalination in exchange for Colorado River water.
-- **What lawmakers tried:** nothing. No bill proposed, funded, or even studied desalination in this record.
-- **Closest relatives:** a 2019 water recycling study (80:AB265) that died on the Assembly floor; cloud seeding money that **became law twice with zero "no" votes** (82:SB99, 83:SB6) — the only "make more water" idea the state has funded.
-- **Venue facts:** river-water trades run through the seven-state compact and federal law; an international pipeline needs Congress and Mexico. But studies and money are entirely state-controlled — and none have been proposed.
-- **Open questions for groups:** Would a feasibility study find a sponsor? Which pieces need only Nevada? Why was cloud seeding fundable when nothing else was tried?
-
-### 2 · Interstate pipeline / federal project — *resolutions only*
-
-- **What citizens proposed:** a Hoover-Dam-scale federal water project.
-- **What lawmakers tried:** no bill. The state's only formal moves toward Washington were resolutions — 82:SJR3 (urging the Bureau of Reclamation on the Colorado River) passed 42–0 and 21–0.
-- **Also relevant:** two attempts to restructure Nevada's own Colorado River Commission (80:SB76, 81:AB15) each died in their first committee.
-- **Venue facts:** the decision sits in Congress. State levers in this record: resolutions (pass easily), the CRC's shape (attempts failed twice), study/lobbying money (never proposed).
-- **Open questions:** What did SJR3 actually produce? What has the legislature formally asked of Nevada's congressional delegation? If the state couldn't restructure its own river agency, what does that suggest about bigger plays?
-
-### 3 · Regulate data centers — *asymmetric record; no water rule exists*
-
-- **What citizens proposed:** closed-loop cooling required, no open evaporative cooling, self-sufficient power, "pay their own way."
-- **What lawmakers tried — helping large users (4 for 4):**
-  - 80:SB547 — data centers can run their own power gear without utility regulation · became law (near-unanimous, carried by Sen. Chris Brooks (D))
-  - 80:AB400 — kept data-center school-tax abatements workable · became law
-  - 81:AB66 — abatement housekeeping · became law
-  - 82:AB261 — state economic development plan must consider water efficiency · became law
-- **What lawmakers tried — restraining them (0 for 5):**
-  - 83:AB77 — grounds to deny abatements, data centers named · died in Assembly Revenue (first committee)
-  - 82:SB394 — cap abatements at $500,000 · passed the Senate 14–7, died in Assembly Revenue at the deadline
-  - 82:SB429 — abatements conditioned on paid family leave · **vetoed**
-  - 81:AB449 — tighten abatement agreements · first committee
-  - 83:SB364 — abatement expansion that also stalled
-- **The one cooling bill went the other way:** 83:AB385 would have *banned local governments from banning* big water-cooled towers. It died in Assembly Government Affairs — the committee stop cut against industry too.
-- **Venue facts:** Nevada has **no statute** on data-center water or cooling. The Southern Nevada evaporative-cooling ban is a water-authority/local rule — which is exactly why AB385 attacked it via building-code preemption. Northern and southern Nevada also differ on water dedication for new large users. Interim committees spent 2026 studying data-center water/energy for the 2027 session.
-- **Chokepoint:** Assembly Revenue (both abatement-restraint bills); Assembly Government Affairs (the preemption bill).
-- **Open questions:** Which committee owns a 2027 bill — Natural Resources or Revenue? What blocked SB394 in the Assembly after its Senate win, and is it still there? Where would a closed-loop rule live (building code / water law / abatement condition)? What reporting would verify industry's closed-loop claims — no bill has proposed usage reporting?
+1. **Statewide expert water body** — *tried, stalled.* 2019 SB499 died in first committee; 2025 SB143 passed the Senate 21–0, died in the Assembly. No Economic-Forum-style water body exists in statute.
+2. **Data-center guardrails** — *never filed.* Helping large users went 4-for-4 (2019 SB547, 2019 AB400, 2021 AB66, 2023 AB261); restraining their tax deals went 0-for-5; the one cooling bill (2025 AB385) pushed the other way and died. Cooling rules are local today — the county-by-county race citizens described is real.
+3. **Audit / digitize water records** — *tried, stalled; partly done.* 2025 AB485 (basin budgets + monitoring + digitization + adjudication staff) died in first committee — matching citizens' "keeps getting shut down in committee." Enacted nearby: 2019 AB95 basin studies, 2023 SB113 critical-management areas, 2025 AB577 database money, 2025 SB36 buy-and-retire.
+4. **Metering** — *never filed statewide.* Enacted edges: domestic-well meters in stressed basins (2019 AB95 → 2023 SB113), supplier water-loss audits (2023 AB191), leak plans (2019 AB163). Flat-rate billing is a utility/city matter today.
+5. **Waste enforcement / fines** — *never filed.* Nearest law: 2019 AB537 raised environmental civil penalties (pollution, public water systems) — not lawn-watering waste. Enforcement funding, citizens' own complaint, has never been taken up.
+6. **Incentives for heavy users** — *thin record.* 2021 SB283 lets improvement districts finance water-efficiency projects; 2023 AB261 added water efficiency to the state economic development plan. No dedicated incentive program.
+7. **Conditional (reimbursement) tax incentives** — *direction failed 5 times.* 2025 AB77, 2023 SB394 (Senate 14–7, died in Assembly Revenue), 2023 SB429 (vetoed), 2021 AB449, 2025 SB364. The reimbursement-at-the-end design itself has never been filed.
+8. **Growth restrictions** — *precedent exists, mixed.* 2021 AB356 grass ban passed 21–0/42–0 (southern Nevada only); 2019 SB250 land-split dedication passed 39–0; but 2023 SB169 (master-plan conservation) was vetoed and 2025 SB143 died. Watering days and moratoriums remain local rules.
+9. **Fairness / no carve-outs** — *tried, stalled.* 2019 AB51 (manage all water together) died in first committee; 2023 AB387 (best available science) passed the Assembly 26–14, died in the Senate. The enacted record is regional by design.
+10. **Bring your own water** — *never filed statewide.* 2019 SB250 is the nearest statute; northern Nevada already requires dedication + an 11% drought reserve, but by water-authority rule, not state law.
 
 ## Theme scorecards (baskets)
 

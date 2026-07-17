@@ -1,6 +1,6 @@
 {
   "issue_id": "nevada-04-water-scarcity",
-  "version": "citizen-v2.0",
+  "version": "citizen-v3.0",
   "reviewer": "citizen-reviewer v2.2",
   "reviewed_at": "2026-07-17",
   "status": "READY FOR HUMAN REVIEW",
@@ -35,18 +35,20 @@
   },
   "metrics": {
     "rendered_pages_front_brief": 2,
-    "rendered_pages_appendices": 49,
-    "flesch_kincaid_raw": 8.7,
+    "rendered_pages_appendices": 64,
     "words_front_brief_prose": 795,
     "bills_total_collected": 189,
     "bills_policy_set": 108,
     "ballot_rows_party_matched_pct": 100.0,
-    "fact_spot_checks_passed": "29/29"
+    "fact_spot_checks_passed": "34/34 (28 disposition/stage + 6 floor counts)",
+    "flesch_kincaid_prose": 8.3,
+    "citizen_statements_covered": 10
   },
   "fixes_logged": [
     "82:SB394 wording corrected from 'passed both houses' to 'passed the Senate 14-7, died in the Assembly' after milestone-derivation fix in pass2_common.py",
     "Page-2 trims to hold 2 pages (basket examples 3->2 per row, people-signal bullets merged); logged in PACKAGE.md; no facts dropped from packet",
-    "Recall audit 2026-07-17: subject-index harvest extended to RIVERS/DAMS/FLOOD/SEWAGE/TAHOE/TRUCKEE headings + water entries under department headings; +24 bills (8 policy, 16 context); all six 2020-2025 special sessions checked (no water/data-center bills); all packet numbers rebuilt (108 policy bills, 59 enacted, 27 first-committee deaths)"
+    "Recall audit 2026-07-17: subject-index harvest extended to RIVERS/DAMS/FLOOD/SEWAGE/TAHOE/TRUCKEE headings + water entries under department headings; +24 bills (8 policy, 16 context); all six 2020-2025 special sessions checked (no water/data-center bills); all packet numbers rebuilt (108 policy bills, 59 enacted, 27 first-committee deaths)",
+    "v3.0: page 1 rebuilt around the ten most common citizen statements (RAG dataset); Appendix H (statement crosswalk) added; 83:AB485 plain topic corrected to reflect its records-digitization and adjudication-staff funding sections"
   ],
   "human_reviewers": [
     "Ryan Echols",

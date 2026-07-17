@@ -81,50 +81,111 @@ relevance_terms:
   - closed-loop cooling
   - cooling water
 
-# Phase 2 Community Conversation proposals (June-July 2026), used by the
-# pipeline to cross-reference citizen proposals against legislative history.
-# Source: "NV Phase 2 Constituent - View Legislators" handout.
+# Phase 2 Community Conversation statements (June-July 2026): the ten most
+# common citizen statements on water, from the RAG constituent-voice dataset
+# ("NV1 - RAG - Phase 2 Constituent Input", Water sheet). Used by the
+# pipeline to cross-reference citizen input against legislative history.
 constituent_proposals:
-  - id: desalination-new-supply
-    title: "Develop new supply via desalination"
+  - id: statewide-water-study-body
+    title: "Statewide water study group / plan modeled on the Economic Forum"
     detail: >-
-      Partner with Arizona/Mexico for a Sea of Cortez pipeline, or fund
-      California desalination in exchange for Colorado River allotment.
-    frequency: "High: 5 of 7 community conversations"
+      A standing body of technical experts (not just legislators) that
+      inventories supply and reports to the legislature; advisory only.
+    consensus: "Strong consensus; some pushback on whether statewide is the right scale."
+    tradeoffs: >-
+      Advisory only - lawmakers still vote; water is geographic, so a
+      statewide approach may fit Elko and Clark County differently.
+    match_terms: ["advisory board", "water planning", "study group", "interim committee"]
+  - id: data-center-guardrails
+    title: "Statewide legislative guardrails on data centers"
+    detail: >-
+      Closed-loop cooling only, no evaporative cooling, paying for their own
+      power/renewables; statewide guidance so counties stop racing to the
+      bottom.
     consensus: >-
-      Mixed: broad agreement more supply is needed; divergence on whether
-      desalination is realistic and cost-effective.
+      Broad agreement it must be handled at the state level; policy "can't
+      just be financially focused."
     tradeoffs: >-
-      Cost and feasibility at scale; brine disposal; requires interstate and
-      international cooperation, possibly beyond state authority.
-    match_terms: [desalination, "sea of cortez", "water importation", "interbasin"]
-  - id: interstate-pipeline-federal
-    title: "Build an interstate water pipeline / declare a national water emergency"
+      Technology moving fast; closed-loop cooling uses more electricity,
+      turning a water question into a power question.
+    match_terms: ["data center", "data centers", colocation, "evaporative cooling", "closed-loop"]
+  - id: water-audit-records
+    title: "Audit / inventory water and fix over-allocation, including digitizing records"
     detail: >-
-      A federal project modeled on Hoover Dam, TVA, and the Interstate
-      Highway System.
-    frequency: "High: brought up in most community conversations"
+      The state has a handle on about half its basins; records were still on
+      paper as of 2021; reform bills "keep getting shut down in committee."
+    consensus: "Widely seen as a foundational first step, though not universal."
+    tradeoffs: "Some say enough studies exist already; blocked interests vary."
+    match_terms: [digitization, digitiz, adjudication, "water budgets", inventory, "critical management"]
+  - id: metering
+    title: "Metering water use (and using meter data to catch leaks and overuse)"
+    detail: >-
+      Metered water means people use less; older buildings on flat-rate
+      billing have no feedback mechanism.
+    consensus: "Strong consensus that it works."
+    tradeoffs: "Retrofit costs; code enforcement capacity in smaller cities."
+    match_terms: [meter, metering, "water loss", "leak"]
+  - id: waste-enforcement-fines
+    title: "Stronger enforcement and steeper fines for water waste"
+    detail: >-
+      Escalating penalties for repeat offenders; cities say they cannot
+      afford water monitors.
+    consensus: "General agreement that escalating penalties would change behavior."
+    tradeoffs: "Funding the enforcement itself is the barrier."
+    match_terms: ["civil penalt", "fine", enforcement, "water waste"]
+  - id: incentives-heavy-users
+    title: "Incentivize heavy/business users to adopt water-saving technology"
+    detail: >-
+      Financial incentives as one tier of a broader statewide plan;
+      "money talks."
+    consensus: "Strong consensus, framed as one tier of a broader plan."
+    tradeoffs: "Some uses may not be legislable at the state level."
+    match_terms: [incentiv, "water efficiency", "efficiency improvement"]
+  - id: conditional-tax-incentives
+    title: "Attach public-benefit conditions to tax incentives (paid as reimbursement at the end)"
+    detail: >-
+      Tie tax breaks to metrics (jobs, parks, recycled water) and pay as
+      reimbursement once metrics are hit; today companies "get all the keys
+      up front."
+    consensus: "Enthusiastic agreement at the Reno table."
+    tradeoffs: "Risk that companies simply go elsewhere."
+    match_terms: [abatement, "tax break", "partial abatement", reimburse]
+  - id: growth-restrictions
+    title: "Restrictions on new and existing growth (watering days, decorative-lawn bans, moratoriums)"
+    detail: >-
+      Most readily available tools; limits may have to get more severe.
     consensus: >-
-      Mixed: broad agreement Nevada has a supply problem; divergence on how
-      to address it.
-    tradeoffs: >-
-      Largely outside state legislative scope; requires federal action and
-      cooperation from other states.
-    match_terms: ["water pipeline", "interbasin", "water importation", "import water"]
-  - id: regulate-data-centers
-    title: "Regulate data centers"
+      Mixed - precedent exists (Clark County lawn ban, SNWA evaporative
+      cooling moratorium) but libertarian-leaning participants object.
+    tradeoffs: "Who counts as an overuser; whether to exempt schools, hospitals, prisons."
+    match_terms: ["turf", "grass", moratorium, "watering", "master plan"]
+  - id: fairness-no-carveouts
+    title: "Fairness across users and regions - treat water as one statewide resource"
     detail: >-
-      Require closed-loop cooling and self-sufficient power; prohibit open
-      evaporative cooling. Participants broadly agreed data centers should
-      "pay their own way."
-    frequency: "High: data center water usage was a major concern across conversations"
-    consensus: "High: broad agreement that data centers should pay their own way."
+      No carve-outs; "water doesn't stop at county lines"; be scientific
+      about it.
+    consensus: "Consensus on the principle, difficulty in practice."
     tradeoffs: >-
-      Technical feasibility and environmental impact of closed-loop systems;
-      disagreement over whether data centers should be banned or are "a
-      necessary evil."
-    match_terms: ["data center", "data centers", colocation, "evaporative cooling",
-                  "closed-loop", server]
+      County-vs-county conflict; economic development inherently clashes
+      with conservation.
+    match_terms: ["conjunctive", "statewide", "best available science", "carve"]
+  - id: bring-your-own-water
+    title: "\"Bring your own water\" - require developers/heavy users to import their own supply"
+    detail: >-
+      Expanding businesses bring their own water and add it to the cost,
+      rather than draining state assets.
+    consensus: "Modest support, raised in several venues."
+    tradeoffs: >-
+      Self-supplied users still use shared transmission systems - what do
+      they pay for?
+    match_terms: [dedicat, "import their", "bring your own"]
+
+# Cross-cutting notes from the same dataset (context for writers, not proposals):
+# - transparency and public input before projects are approved came up everywhere
+# - desalination raised but seen as a regional/California matter, "not quite
+#   something we can do here"
+# - structural frustration that the legislature only meets every other year,
+#   reinforcing the appeal of a standing expert body
 
 nevada_revised_statutes_chapters:
   - 533

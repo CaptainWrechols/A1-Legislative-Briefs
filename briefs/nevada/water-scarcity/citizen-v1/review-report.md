@@ -1,12 +1,21 @@
 # Citizen Reviewer Report — Growth, Water Scarcity, and Long-Term Supply in Nevada
 
-- **Issue:** `nevada-04-water-scarcity` · **citizen-v2.0** · The Nevada Forum
+- **Issue:** `nevada-04-water-scarcity` · **citizen-v3.0** · The Nevada Forum
 - **Reviewed by:** citizen-reviewer v2.2 on 2026-07-17
-- **Inputs reviewed:** `citizen-brief.md`, `citizen-brief.html`, `citizen-brief.docx`, `citizen-brief-print.css`, `appendices/` (README + A–G + print HTML + docx), `PACKAGE.md`, `working/…/reality-map.{md,json}`, `evidence-pack.{json,md}`, `curation-map.json`, `explainer-log.md`, rendered pages (headless Chrome, US Letter, 0.6in margins)
+- **Inputs reviewed:** `citizen-brief.md`, `citizen-brief.html`, `citizen-brief.docx`, `citizen-brief-print.css`, `appendices/` (README + A–H + print HTML + docx), `PACKAGE.md`, `working/…/reality-map.{md,json}`, `evidence-pack.{json,md}`, `curation-map.json`, `explainer-log.md`, rendered pages (headless Chrome, US Letter, 0.6in margins)
 
 ## Status: READY FOR HUMAN REVIEW
 
-All checklist items pass. Fit-to-two-pages trims were applied during packaging and are logged in `PACKAGE.md` (no facts dropped from the packet).
+## What changed from v2.0
+
+v3.0 replaces the three-proposal page 1 with **all ten** of the most common
+citizen statements on water from the Phase 2 RAG constituent-voice dataset
+("NV1 - RAG - Phase 2 Constituent Input", Water sheet). Each statement is a
+row in the page-1 table: what Nevadans proposed · tried? · what the record
+shows. A new **Appendix H** carries the full statement-by-statement
+crosswalk with bill tables, venue notes, and open questions per statement.
+The evidence base is unchanged (189 bills collected, 108 policy bills) —
+the crosswalk in `evidence-pack.json` now maps all ten statements.
 
 ## Checklist results
 
@@ -14,73 +23,74 @@ All checklist items pass. Fit-to-two-pages trims were applied during packaging a
 
 | ID | Result | Evidence |
 |----|--------|----------|
-| A1 | PASS | Brief reports history per proposal; states "This sheet reports history; it does not pick for you." No path endorsed. |
-| A2 | PASS | Three baskets present on page 2 with real examples; they support (not replace) the proposal table. |
-| A3 | PASS | Six open questions, all tied to the record; none steer to a conclusion. |
+| A1 | PASS | Brief reports history per statement; "This sheet reports history; it does not pick for you." No path endorsed. |
+| A2 | PASS | Three baskets present on page 2 (compact prose form) with real examples. |
+| A3 | PASS | Six open questions, each tied to a specific record finding; none steer to a conclusion. |
 | A4 | PASS | Regex scan of md + html: no should/must/recommend/urge/pursue/avoid as commands. |
-| A5 | PASS | All three Phase 2 constituent proposals (desalination, interstate pipeline, regulate data centers) have a row in the page-1 table, each with tried / happened / obstacle columns. |
+| A5 | PASS | All **ten** citizen statements from the constituent-input dataset have a row on page 1 and a full card in Appendix H / reality-map.json. |
 
 ### B. Reading level & explainers
 
 | ID | Result | Evidence |
 |----|--------|----------|
-| B1 | PASS | Flesch-Kincaid ≈ 8.7 on raw text including stat-strip and card lines (which lack terminal punctuation and inflate the score); prose sentences average ≈ 14 words. Target is ≈ grade 8. |
-| B2 | PASS | No glossary. Eleven terms explained inline at first use (see `working/…/explainer-log.md`); verified against the text. "Abatement," "preemption," and "appropriation" are avoided entirely in favor of plain words. |
-| B3 | PASS | Plain topics readable without legal training ("blocked local bans on big water-cooled towers," "a state account to buy water rights … and retire them for good"). |
-| B4 | PASS | Bill-path primer (start → first committee → floor vote → other house → governor) is on page 1, with committee and floor vote explained inline. |
+| B1 | PASS | Flesch-Kincaid ≈ 8.3 on prose (excluding table rows); sentences ≈ 15 words. |
+| B2 | PASS | No glossary. Explainers inline at first use (see `working/…/explainer-log.md`). "Abatement," "preemption," "adjudication" avoided in favor of plain words. Citizens' own terms (closed-loop, moratorium, Economic Forum) kept with plain context, since readers coined them. |
+| B3 | PASS | Plain topics readable without legal training; "Never filed" explicitly defined ("it means nobody has asked yet"). |
+| B4 | PASS | Bill-path primer on page 1 with committee and floor vote explained inline. |
 
 ### C. Length & layout
 
 | ID | Result | Evidence |
 |----|--------|----------|
-| C1 | PASS | Headless Chrome render: exactly **2** US Letter pages at 0.6in margins. |
-| C2 | PASS | Page 1 carries the essential map: stat strip, primer, and the full proposal-vs-record table. |
-| C3 | PASS | Depth lives in appendices A–G (49 rendered pages); front brief points to them in the footline. |
+| C1 | PASS | Headless Chrome render: exactly **2** US Letter pages at 0.6in margins (ten-statement table flows rows 9–10 onto page 2 with its navy header repeated). |
+| C2 | PASS | Page 1 carries the essential map: stat strip, primer, and statements 1–8 of the table. |
+| C3 | PASS | Depth lives in appendices A–H (64 rendered pages), including the full crosswalk (H). |
 
 ### D. Evidence integrity
 
 | ID | Result | Evidence |
 |----|--------|----------|
-| D1 | PASS | All 30+ bill claims spot-checked against `evidence-pack.json` (dispositions, stages, floor counts): 20/20 programmatic checks OK, incl. 82:SB394 corrected to "passed the Senate 14–7, died in the Assembly" (an earlier draft wrongly said both houses; fixed before packaging). |
-| D2 | PASS | No invented votes or parties; party labels come from NELIS rosters (100% of 6,636 ballot rows matched). |
-| D3 | PASS | Data limits stated in footline + Appendix F; "where, never why" appears on both pages. |
+| D1 | PASS | 28/28 disposition+stage checks and 6/6 floor-vote-count checks of the table's bill claims pass against `evidence-pack.json`. |
+| D2 | PASS | No invented votes or parties; party labels from NELIS rosters (100% of ballot rows matched). |
+| D3 | PASS | Data limits in footline + Appendix F; "where, never why" on both pages. |
 | D4 | PASS | Inferred committee Yeas flagged in appendices README, Appendix C intro, and print TOC note. |
 
 ### E. Forum fairness
 
 | ID | Result | Evidence |
 |----|--------|----------|
-| E1 | PASS | No should/must/recommend/urge directed at citizens or the legislature. |
-| E2 | PASS | No party blame. The data-center 4-for-4 vs 0-for-5 pattern is stated by bill direction, not by party; SB547's sponsors are named factually in the reality map only. |
-| E3 | PASS | People signals descriptive (sponsor counts, committee stops, veto counts). |
-| E4 | PASS | "Passed recently" framed as facts, with SB36's prior failures noted as history, not shame. |
+| E1 | PASS | No advice verbs directed at citizens or the legislature. |
+| E2 | PASS | No party blame; the 4-for-4 / 0-for-5 data-center pattern is stated by bill direction, not party. |
+| E3 | PASS | People signals descriptive. |
+| E4 | PASS | "Passed recently" framed as facts; SB36's earlier failures noted as history. |
 
 ### F. Package completeness
 
 | ID | Result | Evidence |
 |----|--------|----------|
-| F1 | PASS | `citizen-brief.html` + `citizen-brief-print.css` present. |
-| F2 | PASS | Appendices A–G + README + `appendices-print.html` (renders 49 pages with TOC). |
+| F1 | PASS | `citizen-brief.html` + print CSS present. |
+| F2 | PASS | Appendices A–H + README + `appendices-print.html` (64 pages with TOC). |
 | F3 | PASS | `PACKAGE.md` with print steps. |
-| F3b | PASS | Word exports present (`citizen-brief.docx`, `appendices/appendices.docx`) plus explicit no-pandoc conversion steps in `PACKAGE.md`. |
-| F4 | PASS | Only Phase 2 tokens in CSS (navy `#1A2D4F`, `#2E4A78`, terracotta `#C0392B`, tint `#E8D5D3`, Arial; Georgia only in quote cards). No purple/gold/cream. |
-| F5 | PASS | Modules present: eyebrow header, terracotta H2s, stat strip, history cards, comparison tables (proposals + baskets), question grid, info pair, footline. |
-| F6 | PASS | No Phase 2 sample headings/kicker/body text copied (diff against sample text). |
-
-## Recall audit (post-review addendum, same day)
-
-A completeness audit extended the subject-index harvest to RIVERS, DAMS,
-FLOOD CONTROL, SEWAGE, TAHOE, and TRUCKEE RIVER headings plus water entries
-filed under department headings, and checked all six 2020–2025 special
-sessions (none contained water or data-center bills). This added 24 bills
-(8 policy, 16 context). All packet numbers were rebuilt: **189 collected,
-108 policy bills, 59 enacted, 27 first-committee deaths**. The proposal
-crosswalk was unchanged (desalination 0, pipeline 0, data centers 11). The
-front brief still renders at exactly 2 pages; fact checks re-run: 29/29 pass.
+| F3b | PASS | Word exports regenerated for v3.0 (`citizen-brief.docx`, `appendices/appendices.docx` incl. Appendix H) plus no-pandoc fallback steps. |
+| F4 | PASS | Only Phase 2 tokens (navy `#1A2D4F`, `#2E4A78`, terracotta `#C0392B`, tint `#E8D5D3`, Arial; Georgia only in quote-card style). |
+| F5 | PASS | Modules: eyebrow header, terracotta H2s, stat strip, process line, navy-header table (ten-statement centerpiece), info pair, question grid, footline. Basket cards rendered as compact labeled prose to hold 2 pages. |
+| F6 | PASS | No Phase 2 sample headings/kicker/body text copied. |
 
 ## Notes for human reviewers (Ryan Echols, Jodi Stephens, Ashley Lovell)
 
-1. **This is a full re-collection**: 189 bills found (was 88); headline numbers use the 108-bill policy set. Context bills are listed separately in Appendix A so the search stays auditable.
-2. The page-1 proposal table is the core change from v1: each Community Conversation proposal is checked against the record, including two "never filed" findings and the asymmetric data-center record (helping 4-for-4, restraining 0-for-5).
-3. Venue notes (local rule vs. state statute vs. Congress) are descriptive statements of where authority sits, sourced from bill texts and the LCB data-centers memo (S25) — please gut-check the wording stays on the right side of "no advice."
-4. The 2026 interim data-center study is mentioned as context ("the next real window") — flag if that reads as steering.
+1. The ten statements and their consensus/trade-off summaries come verbatim
+   from the Forum's own RAG dataset (Water sheet). The brief paraphrases them
+   at grade 8; the config (`config/issues/nevada-water-scarcity.yaml`)
+   preserves fuller detail with the dataset's framing.
+2. The strongest editorial judgment in v3.0 is the "Tried?" status column
+   (never filed / tried-stalled / precedent exists). Statuses are derived
+   from the crosswalk and are documented per statement in Appendix H —
+   please gut-check the two borderline calls: row 4 (metering: "never filed
+   statewide" despite well-meter laws) and row 8 (growth restrictions:
+   "precedent exists" on the strength of AB356 + SB250).
+3. Row 10's northern-Nevada dedication practice (rights + 11% drought
+   reserve) is sourced to the LCB data-centers memo (S25) and is a
+   water-authority rule, not statute — the brief says so explicitly.
+4. Cross-cutting citizen themes (transparency, "legislature meets every
+   other year") are noted in the issue config and reality map but not on
+   page 1 — flag if you want them surfaced in the brief.
