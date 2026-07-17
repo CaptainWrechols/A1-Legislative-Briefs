@@ -19,7 +19,10 @@ sessions:
     openstates_identifier: "83"
     name: "83rd (2025) Session"
 
+# NELIS full-text search terms. Every NELIS hit is kept and tagged with the
+# terms that found it; passes_water_title_filter is only a review flag.
 search_terms:
+  # Core water
   - water
   - groundwater
   - "Colorado River"
@@ -32,7 +35,97 @@ search_terms:
   - "reclaimed water"
   - "water conservation"
   - SNWA
+  - "water authority"
+  - "State Engineer"
+  - effluent
+  # New supply paths raised in Phase 2 Community Conversations
+  - desalination
+  - "water pipeline"
+  - "interstate water"
+  - "water importation"
+  - "cloud seeding"
+  # Data centers / large users / cooling (Phase 2 top concern)
   - "data center"
+  - "data centers"
+  - colocation
+  - "evaporative cooling"
+  - "closed-loop"
+  - "cooling water"
+  - "large water user"
+  # Incentives that shape where large users locate
+  - "partial abatement"
+  - "economic development"
+
+# Words that mark a title/digest as clearly on-topic (review flag only;
+# nothing is dropped). Read by collectors/pass1_bills.py.
+relevance_terms:
+  - water
+  - groundwater
+  - colorado river
+  - consumptive use
+  - water rights
+  - irrigation
+  - drought
+  - aquifer
+  - wastewater
+  - reclaimed water
+  - snwa
+  - water conservation
+  - water authority
+  - state engineer
+  - effluent
+  - desalination
+  - cloud seeding
+  - data center
+  - data centers
+  - evaporative cooling
+  - closed-loop cooling
+  - cooling water
+
+# Phase 2 Community Conversation proposals (June-July 2026), used by the
+# pipeline to cross-reference citizen proposals against legislative history.
+# Source: "NV Phase 2 Constituent - View Legislators" handout.
+constituent_proposals:
+  - id: desalination-new-supply
+    title: "Develop new supply via desalination"
+    detail: >-
+      Partner with Arizona/Mexico for a Sea of Cortez pipeline, or fund
+      California desalination in exchange for Colorado River allotment.
+    frequency: "High: 5 of 7 community conversations"
+    consensus: >-
+      Mixed: broad agreement more supply is needed; divergence on whether
+      desalination is realistic and cost-effective.
+    tradeoffs: >-
+      Cost and feasibility at scale; brine disposal; requires interstate and
+      international cooperation, possibly beyond state authority.
+    match_terms: [desalination, "sea of cortez", "water importation", "interbasin"]
+  - id: interstate-pipeline-federal
+    title: "Build an interstate water pipeline / declare a national water emergency"
+    detail: >-
+      A federal project modeled on Hoover Dam, TVA, and the Interstate
+      Highway System.
+    frequency: "High: brought up in most community conversations"
+    consensus: >-
+      Mixed: broad agreement Nevada has a supply problem; divergence on how
+      to address it.
+    tradeoffs: >-
+      Largely outside state legislative scope; requires federal action and
+      cooperation from other states.
+    match_terms: ["water pipeline", "interstate water", importation, congress, federal]
+  - id: regulate-data-centers
+    title: "Regulate data centers"
+    detail: >-
+      Require closed-loop cooling and self-sufficient power; prohibit open
+      evaporative cooling. Participants broadly agreed data centers should
+      "pay their own way."
+    frequency: "High: data center water usage was a major concern across conversations"
+    consensus: "High: broad agreement that data centers should pay their own way."
+    tradeoffs: >-
+      Technical feasibility and environmental impact of closed-loop systems;
+      disagreement over whether data centers should be banned or are "a
+      necessary evil."
+    match_terms: ["data center", "data centers", colocation, "evaporative cooling",
+                  "closed-loop", server]
 
 nevada_revised_statutes_chapters:
   - 533
