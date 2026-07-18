@@ -12,6 +12,7 @@ Built from the July 2026 re-collection: 165 bills found, 100 policy bills.
 | `E-bill-path-details.md` | Step-by-step progress checkmarks for all policy bills |
 | `F-data-limits.md` | What the data cannot say |
 | `G-text-changes.md` | Introduced vs. final text for governor-bound bills |
+| `H-citizen-statements-crosswalk.md` | The ten most common citizen statements, each checked against the record |
 
 Committee Yea votes marked * anywhere in these appendices are inferred
 (membership minus recorded Nay/Absent) because Nevada minutes usually list

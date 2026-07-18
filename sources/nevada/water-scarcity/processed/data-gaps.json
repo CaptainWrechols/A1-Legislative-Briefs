@@ -23,6 +23,13 @@
   {
     "topic": "openstates_detail",
     "session": "80",
+    "bill_identifier": "AB220",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
     "bill_identifier": "AB233",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -107,6 +114,13 @@
   {
     "topic": "openstates_detail",
     "session": "80",
+    "bill_identifier": "AB505",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
     "bill_identifier": "AB51",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -129,6 +143,27 @@
     "topic": "openstates_detail",
     "session": "80",
     "bill_identifier": "AB62",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "AB73",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "AB84",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "AB93",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -269,6 +304,20 @@
     "topic": "openstates_detail",
     "session": "80",
     "bill_identifier": "SB76",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "SCR5",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "80",
+    "bill_identifier": "SJR7",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -457,6 +506,13 @@
   {
     "topic": "openstates_detail",
     "session": "81",
+    "bill_identifier": "SB368",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
     "bill_identifier": "SB395",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -492,6 +548,20 @@
   {
     "topic": "openstates_detail",
     "session": "81",
+    "bill_identifier": "SB72",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "SB73",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
     "bill_identifier": "SB98",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -499,7 +569,28 @@
   {
     "topic": "openstates_detail",
     "session": "81",
+    "bill_identifier": "SCR8",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "SCR9",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
     "bill_identifier": "SJR1",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "81",
+    "bill_identifier": "SJR12",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -597,6 +688,13 @@
   {
     "topic": "openstates_detail",
     "session": "82",
+    "bill_identifier": "AB424",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
     "bill_identifier": "AB445",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -647,6 +745,13 @@
     "topic": "openstates_detail",
     "session": "82",
     "bill_identifier": "AB97",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "ACR5",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -737,6 +842,13 @@
   {
     "topic": "openstates_detail",
     "session": "82",
+    "bill_identifier": "SB318",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
     "bill_identifier": "SB394",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -773,6 +885,13 @@
     "topic": "openstates_detail",
     "session": "82",
     "bill_identifier": "SB473",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "82",
+    "bill_identifier": "SB492",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -857,6 +976,13 @@
     "topic": "openstates_detail",
     "session": "83",
     "bill_identifier": "AB190",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "AB241",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -968,6 +1094,13 @@
   {
     "topic": "openstates_detail",
     "session": "83",
+    "bill_identifier": "AB577",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
     "bill_identifier": "AB592",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -1004,6 +1137,20 @@
     "topic": "openstates_detail",
     "session": "83",
     "bill_identifier": "AJR13",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "SB10",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "SB106",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -1087,6 +1234,13 @@
   {
     "topic": "openstates_detail",
     "session": "83",
+    "bill_identifier": "SB426",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
     "bill_identifier": "SB43",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
@@ -1116,6 +1270,13 @@
     "topic": "openstates_detail",
     "session": "83",
     "bill_identifier": "SB466",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "SB494",
     "result": "missing",
     "notes": "Bill not returned from OpenStates detail lookup"
   },
@@ -1155,9 +1316,16 @@
     "notes": "Bill not returned from OpenStates detail lookup"
   },
   {
+    "topic": "openstates_detail",
+    "session": "83",
+    "bill_identifier": "SB83",
+    "result": "missing",
+    "notes": "Bill not returned from OpenStates detail lookup"
+  },
+  {
     "topic": "voter_party",
     "session": "multi",
     "result": "partial",
-    "notes": "16 unique voter names still lack party after NELIS roster (+ Ballotpedia fallback): -Axelrod, Bilbray, Assefa, Alex, Dy, Har, Gansert, Heidi Seevers, Gansert, Seevers, Hatch, Selena La Rue, II, Gregory T. Hafen, II, Max Carter, II, Max E. Carter, Loop, Marilyn Dondero, Miller, C.H., O'Gara, Heidi Seevers, O'Neill, O\u2019Neill, P.K., Thompson, Benitez-, Tus, Ti"
+    "notes": "18 unique voter names still lack party after NELIS roster (+ Ballotpedia fallback): -Axelrod, Bilbray, Assefa, Alex, Dy, Har, Gansert, Heidi Seevers, Gansert, Seevers, Hafen, Hatch, Selena La Rue, II, Gregory T. Hafen, II, Max Carter, II, Max E. Carter, Loop, Marilyn Dondero, Miller, C.H., O'Gara, Heidi Seevers, O'Neill, O\u2019Neill, P.K., Thompson, Benitez-, Tus, Ti, \u00c1lez, Gonz"
   }
 ]

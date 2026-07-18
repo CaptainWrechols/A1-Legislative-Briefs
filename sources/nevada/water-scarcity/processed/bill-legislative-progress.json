@@ -94,6 +94,37 @@
   },
   {
     "session": "80",
+    "bill_identifier": "AB220",
+    "title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 167.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6383/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
     "bill_identifier": "AB233",
     "title": "Revises provisions related to water. (BDR 48-45)",
     "origin_chamber": "lower",
@@ -466,6 +497,37 @@
   },
   {
     "session": "80",
+    "bill_identifier": "AB505",
+    "title": "AN ACT making appropriations to the Division of State Parks for self-pay kiosks, replacement of vehicles, a paving project and construction at Ice Age Fossils State Park and maintenance equipment for Sand Harbor at Lake Tahoe Nevada State Park; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Enrolled and delivered to Governor. Approved by the Governor. Chapter 446.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/7007/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
     "bill_identifier": "AB51",
     "title": "Revises provisions governing the management of water. (BDR 48-213)",
     "origin_chamber": "lower",
@@ -582,6 +644,99 @@
     "final_disposition": "Enacted",
     "most_recent_action": "Approved by the Governor. Chapter 420.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/5987/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB73",
+    "title": "AN ACT relating to homeless persons; providing for the creation of a temporary working group in Clark County to address issues relating to homelessness; requiring the working group to prepare and submit a report of its recommendations to address issues relating to homelessness; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 336.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6016/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB84",
+    "title": "AN ACT relating to state resources; providing for the issuance of state general obligation bonds to protect, preserve and obtain the benefits of the property and natural and cultural resources of the State of Nevada; providing for the use of the proceeds of the bonds; repealing the prospective extension of the period for the issuance of certain bonds; making an appropriation; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 480.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6040/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "AB93",
+    "title": "AN ACT relating to license plates; authorizing the Administrator of the Division of State Lands of the State Department of Conservation and Natural Resources to provide grants to nonprofit organizations from the Account for License Plates for the Support of the Preservation and Restoration of the Natural Environment of the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 168.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6076/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -1202,6 +1357,68 @@
     "final_disposition": "Failed",
     "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6007/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SCR5",
+    "title": "Expressing support for the role of science in preserving the environmental and ecological conditions in the Lake Tahoe Basin and recognizing the role of the Tahoe Bi-State Executive Committee and the Tahoe Science Advisory Council in providing scientific resources to help guide decision making and planning regarding natural resources and implementation of environmental improvement projects in the Lake Tahoe Basin.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Unknown",
+    "most_recent_action": "Enrolled and delivered to Secretary of State. File No. 20.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6843/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "80",
+    "bill_identifier": "SJR7",
+    "title": "Expressing support for finding innovative transportation solutions in the Lake Tahoe Basin and for the efforts of the Bi-State Working Group on Transportation.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "In Progress",
+    "most_recent_action": "Enrolled and delivered to Secretary of State. File No. 32.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/80th2019/Bill/6921/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -2016,6 +2233,37 @@
   },
   {
     "session": "81",
+    "bill_identifier": "SB368",
+    "title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 215.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8043/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
     "bill_identifier": "SB395",
     "title": "Revises provisions governing the funding of capital projects by school districts in certain counties. (BDR 34-815)",
     "origin_chamber": "upper",
@@ -2171,6 +2419,68 @@
   },
   {
     "session": "81",
+    "bill_identifier": "SB72",
+    "title": "AN ACT relating to common-interest communities; requiring a limited-purpose association to comply with certain requirements relating to the establishment and foreclosure of a lien for assessments; revising provisions relating to the imposition of fines that may be assessed for certain violations of the governing documents of a unit-owners' association; revising provisions relating to meetings of the executive board of a unit-owners' association; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 157.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7278/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SB73",
+    "title": "AN ACT relating to taxation; authorizing the City Council of the City of Reno to adopt a resolution establishing the formation of a committee to recommend the imposition of certain taxes or reallocation of certain tax revenue to fund certain natural resources projects and services in the City of Reno; providing that if such a committee is formed and submits its recommendations to the City Council of the City of Reno within the time prescribed, the City Council of the City of Reno is required to submit a question to the voters of the City of Reno at the 2022 General Election asking whether the recommended taxes should be imposed or the recommended tax revenue reallocated, or both; requiring the City Council of the City of Reno to adopt an ordinance imposing any such taxes or reallocating any such tax revenue approved by the voters; providing for the use of the proceeds of such taxes and tax revenue for such natural resources projects and services; providing for the prospective expiration of the authority to establish such a committee; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7279/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
     "bill_identifier": "SB98",
     "title": "Makes various changes to provisions relating to the Carson Water Subconservancy District. (BDR S-579)",
     "origin_chamber": "upper",
@@ -2202,6 +2512,68 @@
   },
   {
     "session": "81",
+    "bill_identifier": "SCR8",
+    "title": "Expressing support for the identification of key transportation priorities for the Lake Tahoe Basin.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Unknown",
+    "most_recent_action": "Enrolled and delivered to Secretary of State. File No. 23.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8058/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SCR9",
+    "title": "Expressing support for the Nevada System of Higher Education to work collaboratively in its science and research efforts addressing the needs of the Lake Tahoe Basin.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": false,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Unknown",
+    "most_recent_action": "Enrolled and delivered to Secretary of State. File No. 34.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8079/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
     "bill_identifier": "SJR1",
     "title": "Proposes to amend the Nevada Constitution to provide that the Nevada Court of Appeals has original jurisdiction over certain cases relating to water. (BDR C-310)",
     "origin_chamber": "upper",
@@ -2225,6 +2597,37 @@
     "final_disposition": "Failed",
     "most_recent_action": "(Pursuant to Joint Standing Rule 14.3.1, no further action allowed.)",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7333/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "81",
+    "bill_identifier": "SJR12",
+    "title": "Expressing the priority of the timely completion of the Tahoe East Shore Trail extension project and urging Congress to provide federal funding for completion of the project.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "In Progress",
+    "most_recent_action": "Enrolled and delivered to Secretary of State. File No. 16.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/8070/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -2636,6 +3039,37 @@
   },
   {
     "session": "82",
+    "bill_identifier": "AB424",
+    "title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; revising provisions relating to the use of accrued interest on the proceeds of certain previously authorized bonds; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 99.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10393/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
     "bill_identifier": "AB445",
     "title": "Revises provisions relating to the mental health of children. (BDR 32-1004)",
     "origin_chamber": "lower",
@@ -2876,6 +3310,37 @@
     "final_disposition": "Vetoed",
     "most_recent_action": "(No further action taken.)",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/9690/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "ACR5",
+    "title": "Expressing support for the Lake Tahoe Transportation Action Plan.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Unknown",
+    "most_recent_action": "In Assembly. To enrollment. Enrolled and delivered to Secretary of State. File No. 28.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10201/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -3256,6 +3721,37 @@
   },
   {
     "session": "82",
+    "bill_identifier": "SB318",
+    "title": "AN ACT relating to indigent persons; authorizing the governing body of an incorporated city to impose an annual surcharge on users of the sanitary sewer system of an incorporated city to provide funding for services and affordable housing for persons who are homeless or indigent in the incorporated city; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": false,
+      "passed_origin_chamber": false,
+      "crossed_over": false,
+      "seen_in_committee_second_chamber": false,
+      "passed_out_of_committee_second_chamber": false,
+      "floor_vote_second_chamber": false,
+      "passed_second_chamber": false,
+      "signed_into_law": false,
+      "vetoed": false,
+      "failed": true
+    },
+    "final_disposition": "Failed",
+    "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.2, no further action allowed.)",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10211/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
     "bill_identifier": "SB394",
     "title": "Revises provisions governing abatements and partial abatements of certain taxes. (BDR 32-603)",
     "origin_chamber": "upper",
@@ -3435,6 +3931,37 @@
     "most_recent_action": "Approved by the Governor. Chapter 458.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10526/Overview",
     "openstates_url": "https://openstates.org/nv/bills/82/SB473/",
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "82",
+    "bill_identifier": "SB492",
+    "title": "AN ACT making appropriations to the State Department of Conservation and Natural Resources for the replacement or purchase of certain information technology, vehicles and equipment; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 333.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10578/Overview",
+    "openstates_url": null,
     "sources": {
       "nelis": true,
       "openstates": false
@@ -3807,6 +4334,37 @@
     "most_recent_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12160/Overview",
     "openstates_url": "https://openstates.org/nv/bills/83/AB190/",
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "AB241",
+    "title": "AN ACT relating to housing; requiring the governing body of each county and city to adopt an ordinance to authorize by-right a multifamily housing development or mixed-use development that includes a residential use on property zoned for commercial use; declaring void certain county or city ordinances; authorizing the State Land Registrar to transfer, under certain circumstances, certain real property owned by the State of Nevada to certain entities without consideration; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 174.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12262/Overview",
+    "openstates_url": null,
     "sources": {
       "nelis": true,
       "openstates": false
@@ -4279,6 +4837,37 @@
   },
   {
     "session": "83",
+    "bill_identifier": "AB577",
+    "title": "AN ACT making appropriations to the State Department of Conservation and Natural Resources for a certain new website and database and for the replacement of vehicles and computer hardware and associated software; and providing other matters properly relating thereto.",
+    "origin_chamber": "lower",
+    "origin_chamber_label": "Assembly",
+    "second_chamber": "upper",
+    "second_chamber_label": "Senate",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 274.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12909/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
     "bill_identifier": "AB592",
     "title": "AN ACT relating to public employees; establishing the maximum allowed salaries for certain state employees; revising provisions relating to the compensation of employees of the Senate and Assembly; and providing other matters properly relating thereto.",
     "origin_chamber": "lower",
@@ -4457,6 +5046,68 @@
     "final_disposition": "In Progress",
     "most_recent_action": "Enrolled and delivered to Secretary of State. File No. 21.",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12648/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB10",
+    "title": "AN ACT relating to governmental administration; revising provisions governing the submission of certain reports by the State Land Registrar; repealing provisions requiring the State Forester Firewarden to submit an annual report relating to the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 36.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11757/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB106",
+    "title": "AN ACT relating to vessels; prohibiting the operation of a vessel in excess of a certain speed within 600 feet of the shoreline of Lake Tahoe; revising provisions relating to the violation of certain provisions of the Code of Ordinances of the Tahoe Regional Planning Agency; providing a penalty; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 160.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11998/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,
@@ -4806,6 +5457,37 @@
   },
   {
     "session": "83",
+    "bill_identifier": "SB426",
+    "title": "AN ACT relating to public safety; creating the Lake Tahoe Basin Scenic Byway Corridor Recreation Safety Zone; authorizing certain entities to establish certain parking restrictions and prohibitions and enter into agreements with other governmental entities to provide parking enforcement and collect parking fees within the Safety Zone; providing a penalty; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 452.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12773/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
     "bill_identifier": "SB43",
     "title": "Revises provisions relating to public health and safety. (BDR 40-264)",
     "origin_chamber": "upper",
@@ -4961,6 +5643,37 @@
   },
   {
     "session": "83",
+    "bill_identifier": "SB494",
+    "title": "AN ACT relating to state government; creating the Nevada Health Authority; creating certain divisions and offices within the Authority; providing for the appointment of officers and the employment of staff for the Authority; establishing requirements governing procurement by the Authority; creating the Nevada Health Authority Gift Fund; prescribing the duties of the Authority and its divisions and officers; transferring to the Authority the responsibility for operating various programs and administering various provisions; revising the name of certain agencies; revising certain terminology; eliminating the Division of Health Care Financing and Policy of the Department of Health and Human Services; revising provisions governing the operation of the Public Employees' Benefits Program and Medicaid; requiring certain reporting on the costs of health insurance for retired state employees; authorizing the Authority to require the reporting of certain information on the cost of certain prescription drugs; revising the membership and duties of the Board of Directors of the Silver State Health Insurance Exchange; providing for a study of opportunities for the Board of the Public Employees' Benefits Program to directly contract with certain providers of health care; providing for a study of and the development of a plan to transfer certain additional functions to the Authority; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Chapter 514.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/12936/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
     "bill_identifier": "SB55",
     "title": "AN ACT relating to tourism; requiring the Commission on Tourism to develop and administer a grant program relating to agritourism; defining certain terms relating to agritourism; requiring the Director of the State Department of Agriculture to adopt regulations establishing the types of businesses that qualify as agritourism; requiring the Department to carry out certain marketing and outreach duties relating to agritourism; authorizing the Director to issue special use permits relating to agritourism under certain circumstances; establishing certain provisions relating to the liability of operators of businesses engaged in agritourism; making appropriations; and providing other matters properly relating thereto.",
     "origin_chamber": "upper",
@@ -5108,6 +5821,37 @@
     "final_disposition": "Failed",
     "most_recent_action": "(No further action taken.)",
     "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11891/Overview",
+    "openstates_url": null,
+    "sources": {
+      "nelis": true,
+      "openstates": false
+    }
+  },
+  {
+    "session": "83",
+    "bill_identifier": "SB83",
+    "title": "AN ACT relating to the Lake Tahoe Basin; requiring the issuance of general obligation bonds to carry out certain environmental improvement projects included in the second phase of the Environmental Improvement Program for the Lake Tahoe Basin; and providing other matters properly relating thereto.",
+    "origin_chamber": "upper",
+    "origin_chamber_label": "Senate",
+    "second_chamber": "lower",
+    "second_chamber_label": "Assembly",
+    "milestones": {
+      "seen_in_committee_origin": true,
+      "passed_out_of_committee_origin": true,
+      "floor_vote_origin_chamber": true,
+      "passed_origin_chamber": true,
+      "crossed_over": true,
+      "seen_in_committee_second_chamber": true,
+      "passed_out_of_committee_second_chamber": true,
+      "floor_vote_second_chamber": true,
+      "passed_second_chamber": true,
+      "signed_into_law": true,
+      "vetoed": false,
+      "failed": false
+    },
+    "final_disposition": "Enacted",
+    "most_recent_action": "Approved by the Governor. Chapter 377.",
+    "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/83rd2025/Bill/11959/Overview",
     "openstates_url": null,
     "sources": {
       "nelis": true,

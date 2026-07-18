@@ -6,6 +6,7 @@ The path of every policy bill through the steps: first committee → first floor
 |---|---|---|---|---|---|---|---|---|
 | 2019 | AB163 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2019 | AB21 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
+| 2019 | AB220 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2019 | AB233 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2019 | AB240 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2019 | AB265 | ✓ | — | — | — | — | — | Failed |
@@ -14,6 +15,7 @@ The path of every policy bill through the steps: first committee → first floor
 | 2019 | AB51 | — | — | — | — | — | — | Failed |
 | 2019 | AB537 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2019 | AB62 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
+| 2019 | AB84 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2019 | AB95 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2019 | SB140 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2019 | SB150 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
@@ -44,7 +46,9 @@ The path of every policy bill through the steps: first committee → first floor
 | 2021 | SB216 | — | — | — | — | — | — | Failed |
 | 2021 | SB238 | — | — | — | — | — | — | Failed |
 | 2021 | SB283 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
+| 2021 | SB368 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2021 | SB430 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
+| 2021 | SB73 | — | — | — | — | — | — | Failed |
 | 2021 | SB98 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2021 | SJR1 | — | — | — | — | — | — | Failed |
 | 2023 | AB19 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
@@ -56,6 +60,7 @@ The path of every policy bill through the steps: first committee → first floor
 | 2023 | AB325 | ✓ | — | — | — | — | — | Failed |
 | 2023 | AB34 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2023 | AB387 | ✓ | ✓ | ✓ | — | — | — | Failed |
+| 2023 | AB424 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2023 | AB470 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2023 | AB90 | — | — | — | — | — | — | Failed |
 | 2023 | AB91 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
@@ -73,6 +78,7 @@ The path of every policy bill through the steps: first committee → first floor
 | 2023 | SB429 | ✓ | ✓ | ✓ | ✓ | ✓ | VETO | Vetoed |
 | 2023 | SB472 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2023 | SB473 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
+| 2023 | SB492 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2023 | SB99 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2023 | SJR3 | ✓ | ✓ | ✓ | ✓ | ✓ | — | In Progress |
 | 2025 | AB10 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
@@ -90,6 +96,7 @@ The path of every policy bill through the steps: first committee → first floor
 | 2025 | AB449 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2025 | AB456 | — | — | — | — | — | — | Failed |
 | 2025 | AB485 | — | — | — | — | — | — | Failed |
+| 2025 | AB577 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2025 | AB77 | — | — | — | — | — | — | Failed |
 | 2025 | AB9 | ✓ | — | — | — | — | — | Failed |
 | 2025 | SB108 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
@@ -104,3 +111,4 @@ The path of every policy bill through the steps: first committee → first floor
 | 2025 | SB364 | ✓ | — | — | — | — | — | Failed |
 | 2025 | SB442 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
 | 2025 | SB6 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |
+| 2025 | SB83 | ✓ | ✓ | ✓ | ✓ | ✓ | signed | Enacted |

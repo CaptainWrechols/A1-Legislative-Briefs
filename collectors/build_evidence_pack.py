@@ -197,7 +197,7 @@ def main() -> None:
                 [b.get("plain_topic") or "", b.get("title") or ""]
             ).lower()
             hit = any(t in blob for t in terms) or (
-                b["theme"] == "big-users" and prop["id"] == "regulate-data-centers"
+                b["theme"] == "big-users" and prop["id"] == "data-center-guardrails"
             )
             if not hit:
                 continue

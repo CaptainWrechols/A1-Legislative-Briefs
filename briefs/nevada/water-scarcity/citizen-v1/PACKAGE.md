@@ -1,4 +1,4 @@
-# Package — Growth, Water Scarcity, and Long-Term Supply in Nevada (citizen-v2.0)
+# Package — Growth, Water Scarcity, and Long-Term Supply in Nevada (citizen-v3.0)
 
 Design Packager v2.2 · 2026-07-17 · The Nevada Forum
 
@@ -56,13 +56,18 @@ line, navy-header comparison tables (proposals table on page 1 is the
 centerpiece; baskets table on page 2), quote-style history cards, info card
 pair, numbered question grid, footline.
 
-## v2.0 layout notes
+## v3.0 layout notes
 
-- Page 1 = proposal-first: stat strip, bill-path primer, and the
-  "Your proposals, checked against the record" table.
-- Page 2 = baskets, people/process signals, passed recently, question grid,
-  caution footline.
-- Rewrite notes: basket table trimmed to 2 examples per basket and the
-  people-signals bullets merged (5 → 4) to hold the 2-page limit; the removed
-  examples (2025 SB442, 2023 SB394 detail, 2025 AB77 detail) remain on page 1
-  or in Appendices B–C. No facts were dropped from the packet.
+- Page 1 = statement-first: stat strip, bill-path primer, and rows 1–8 of
+  "The ten things Nevadans said most, checked against the record."
+- Page 2 = table rows 9–10 (navy header repeats across the break), compact
+  three-basket prose, people/process signals, passed recently, question
+  grid, caution footline.
+- The ten statements come from the Forum's RAG constituent-voice dataset
+  ("NV1 - RAG - Phase 2 Constituent Input", Water sheet); fuller wording is
+  preserved in `config/issues/nevada-water-scarcity.yaml`.
+- Appendix H carries the full statement-by-statement crosswalk (bill
+  tables, venue notes, open questions per statement).
+- Fit notes: ten-statement table renders at 7.6pt with tightened cell
+  padding; basket cards became labeled prose lines. No facts were dropped
+  from the packet — detail lives in Appendices B, C, and H.

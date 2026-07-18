@@ -23,6 +23,7 @@ APPENDIX_DESCRIPTIONS = {
     "E": "Step-by-step progress for every policy bill",
     "F": "What this data can and cannot say",
     "G": "Introduced vs. final text for governor-bound bills",
+    "H": "The ten most common citizen statements, each checked against the record",
 }
 
 

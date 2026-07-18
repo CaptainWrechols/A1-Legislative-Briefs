@@ -8,4 +8,4 @@ Plain-language limits of the record behind this packet.
 4. No OpenStates data in this refresh; party labels come from official NELIS legislator directories (100% of ballot rows matched).
 5. Context bills (found by broad search terms or omnibus indexing) are kept for audit but excluded from headline counts.
 
-Known collection gaps recorded during the refresh: 166 items (see `sources/nevada/water-scarcity/processed/data-gaps.json`). OpenStates was unavailable for this refresh; all history, votes, and party labels come from the official NELIS system and legislator rosters, with committee votes read from official minutes PDFs.
+Known collection gaps recorded during the refresh: 190 items (see `sources/nevada/water-scarcity/processed/data-gaps.json`). OpenStates was unavailable for this refresh; all history, votes, and party labels come from the official NELIS system and legislator rosters, with committee votes read from official minutes PDFs.

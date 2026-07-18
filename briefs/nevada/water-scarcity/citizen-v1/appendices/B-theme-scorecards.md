@@ -3,6 +3,34 @@
 Each policy bill was assigned one theme. The basket says how this kind of idea usually fared in this record: Often moved before / Got support but didn't finish / Rarely moved before / Mixed.
 
 
+## Money for water projects
+
+- **Bills:** 17 · **Became law:** 14 (82.4%) · **Basket:** Often moved before · **Certainty:** high
+- **Typical stop:** the three failures died early: two in a money committee (82:SB102, 83:SB159), one in first committee (81:SB73 Reno flood funding)
+- *Inference: appropriations and grant-program bills nearly always finish once they reach a floor; the filter is the money committee, not the vote.*
+
+| Year | Bill | What it tried | Result | Where it ended |
+|---|---|---|---|---|
+| 2019 | AB84 | Bonds for river corridor improvements on the Carson and Truckee rivers | Enacted | Became law |
+| 2019 | SB507 | Money to support the Marlette Lake water system | Enacted | Became law |
+| 2019 | SB509 | Money for the state water agency's vehicles and computers | Enacted | Became law |
+| 2019 | SB519 | Money for a snow vehicle to reach the Marlette Lake dam in winter | Enacted | Became law |
+| 2021 | AB465 | Money to repair the South Fork Dam | Enacted | Became law |
+| 2021 | SB430 | Let the state Infrastructure Bank fund water projects among others | Enacted | Became law |
+| 2021 | SB73 | Let Reno voters consider taxes to fund flood management on the Truckee River | Failed | Died in its first committee |
+| 2023 | AB19 | Opened river channel repair grants to tribes | Enacted | Became law |
+| 2023 | AB20 | Updated Nevada's use of federal clean water project loans | Enacted | Became law |
+| 2023 | AB470 | Money for legal work on Marlette Lake water rights | Enacted | Became law |
+| 2023 | SB102 | Would have funded city and county grants for water projects | Failed | Died in its first committee |
+| 2023 | SB472 | Money for South Fork Dam projects | Enacted | Became law |
+| 2023 | SB492 | Money for the conservation department's vehicles and technology (water agency included) | Enacted | Became law |
+| 2025 | AB104 | Updated grant rules for conservation and resource projects, water included | Enacted | Became law |
+| 2025 | AB577 | Money for the state water agency's website, database, vehicles, and computers | Enacted | Became law |
+| 2025 | SB108 | Extended the river channel clearance grant program | Enacted | Became law |
+| 2025 | SB159 | Would have funded a university water systems lab | Failed | Died in its first committee |
+
+<!-- pdf-page-break -->
+
 ## Water permits and the State Engineer's rules
 
 - **Bills:** 16 · **Became law:** 9 (56.2%) · **Basket:** Often moved before · **Certainty:** high
@@ -30,6 +58,29 @@ Each policy bill was assigned one theme. The basket says how this kind of idea u
 
 <!-- pdf-page-break -->
 
+## Clean water and pollution
+
+- **Bills:** 13 · **Became law:** 10 (76.9%) · **Basket:** Often moved before · **Certainty:** medium
+- **Typical stop:** scattered; the constitutional clean-water right (82:AJR3) died in first committee; Tahoe cleanup-program bonds passed every session
+
+| Year | Bill | What it tried | Result | Where it ended |
+|---|---|---|---|---|
+| 2019 | AB220 | Bonds for the Lake Tahoe environmental cleanup program (water quality included) | Enacted | Became law |
+| 2019 | AB537 | Raised penalties for breaking environmental laws, including water laws | Enacted | Became law |
+| 2021 | AB146 | Stronger state controls on scattered sources of water pollution | Enacted | Became law |
+| 2021 | AB97 | Limited PFAS chemicals, which can pollute water | Enacted | Became law |
+| 2021 | SB368 | Bonds for the Lake Tahoe environmental cleanup program (water quality included) | Enacted | Became law |
+| 2023 | AB220 | Helped homeowners convert septic systems to sewer where groundwater is stressed | Enacted | Became law |
+| 2023 | AB313 | Would have tightened mine reclamation rules that protect water | Failed | Died on its first floor / calendar |
+| 2023 | AB424 | Bonds for the Lake Tahoe environmental cleanup program (water quality included) | Enacted | Became law |
+| 2023 | AJR3 | Would have added a clean-water right to the Nevada Constitution | Failed | Died in its first committee |
+| 2023 | SB115 | Set state rules for wetland damage mitigation credits | Enacted | Became law |
+| 2025 | SB276 | New public notice rules for water pollution permits | Enacted | Became law |
+| 2025 | SB324 | Would have banned some pollutants near Lake Tahoe | Failed | Died in the second house |
+| 2025 | SB83 | Required bonds for the Lake Tahoe environmental cleanup program (water quality included) | Enacted | Became law |
+
+<!-- pdf-page-break -->
+
 ## Colorado River, planning, studies, and new supply
 
 - **Bills:** 13 · **Became law:** 5 (38.5%) · **Basket:** Mixed record · **Certainty:** medium
@@ -54,30 +105,6 @@ Each policy bill was assigned one theme. The basket says how this kind of idea u
 
 <!-- pdf-page-break -->
 
-## Money for water projects
-
-- **Bills:** 13 · **Became law:** 11 (84.6%) · **Basket:** Often moved before · **Certainty:** high
-- **Typical stop:** the two failures died in a money committee (82:SB102, 83:SB159)
-- *Inference: appropriations and grant-program bills nearly always finish once they reach a floor; the filter is the money committee, not the vote.*
-
-| Year | Bill | What it tried | Result | Where it ended |
-|---|---|---|---|---|
-| 2019 | SB507 | Money to support the Marlette Lake water system | Enacted | Became law |
-| 2019 | SB509 | Money for the state water agency's vehicles and computers | Enacted | Became law |
-| 2019 | SB519 | Money for a snow vehicle to reach the Marlette Lake dam in winter | Enacted | Became law |
-| 2021 | AB465 | Money to repair the South Fork Dam | Enacted | Became law |
-| 2021 | SB430 | Let the state Infrastructure Bank fund water projects among others | Enacted | Became law |
-| 2023 | AB19 | Opened river channel repair grants to tribes | Enacted | Became law |
-| 2023 | AB20 | Updated Nevada's use of federal clean water project loans | Enacted | Became law |
-| 2023 | AB470 | Money for legal work on Marlette Lake water rights | Enacted | Became law |
-| 2023 | SB102 | Would have funded city and county grants for water projects | Failed | Died in its first committee |
-| 2023 | SB472 | Money for South Fork Dam projects | Enacted | Became law |
-| 2025 | AB104 | Updated grant rules for conservation and resource projects, water included | Enacted | Became law |
-| 2025 | SB108 | Extended the river channel clearance grant program | Enacted | Became law |
-| 2025 | SB159 | Would have funded a university water systems lab | Failed | Died in its first committee |
-
-<!-- pdf-page-break -->
-
 ## Groundwater, wells, and over-pumped basins
 
 - **Bills:** 12 · **Became law:** 4 (33.3%) · **Basket:** Mixed record · **Certainty:** high
@@ -95,7 +122,7 @@ Each policy bill was assigned one theme. The basket says how this kind of idea u
 | 2023 | SB180 | Changed how groundwater boards are formed and ended — passed both houses with zero 'no' votes, still did not become law | Failed | Passed both houses, still no law |
 | 2025 | AB312 | Would have made home sellers disclose private well water test results | Failed | Died in its first committee |
 | 2025 | AB363 | Would have changed how groundwater boards are formed (retry of 2023 SB180) | Failed | Died on its first floor / calendar |
-| 2025 | AB485 | Would have changed funding for well supervisors (retry of 2023 SB112) | Failed | Died in its first committee |
+| 2025 | AB485 | Would have funded groundwater basin budgets, monitoring, digitizing water records, and staff to sort old water rights claims — died in first committee | Failed | Died in its first committee |
 | 2025 | SB342 | Would have changed how groundwater basins get special management status | Failed | Died in its first committee |
 
 <!-- pdf-page-break -->
@@ -140,25 +167,6 @@ Each policy bill was assigned one theme. The basket says how this kind of idea u
 | 2025 | AB385 | Would have blocked cities and counties from banning big water-based cooling towers — died in first committee | Failed | Died in its first committee |
 | 2025 | AB77 | Would have added grounds to deny business tax breaks, with data centers named — died in first committee | Failed | Died in its first committee |
 | 2025 | SB364 | Would have expanded business tax breaks (data-center statutes included) | Failed | Died on its first floor / calendar |
-
-<!-- pdf-page-break -->
-
-## Clean water and pollution
-
-- **Bills:** 9 · **Became law:** 6 (66.7%) · **Basket:** Often moved before · **Certainty:** medium
-- **Typical stop:** scattered; the constitutional clean-water right (82:AJR3) died in first committee
-
-| Year | Bill | What it tried | Result | Where it ended |
-|---|---|---|---|---|
-| 2019 | AB537 | Raised penalties for breaking environmental laws, including water laws | Enacted | Became law |
-| 2021 | AB146 | Stronger state controls on scattered sources of water pollution | Enacted | Became law |
-| 2021 | AB97 | Limited PFAS chemicals, which can pollute water | Enacted | Became law |
-| 2023 | AB220 | Helped homeowners convert septic systems to sewer where groundwater is stressed | Enacted | Became law |
-| 2023 | AB313 | Would have tightened mine reclamation rules that protect water | Failed | Died on its first floor / calendar |
-| 2023 | AJR3 | Would have added a clean-water right to the Nevada Constitution | Failed | Died in its first committee |
-| 2023 | SB115 | Set state rules for wetland damage mitigation credits | Enacted | Became law |
-| 2025 | SB276 | New public notice rules for water pollution permits | Enacted | Became law |
-| 2025 | SB324 | Would have banned some pollutants near Lake Tahoe | Failed | Died in the second house |
 
 <!-- pdf-page-break -->
 

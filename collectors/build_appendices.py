@@ -297,6 +297,52 @@ def main() -> None:
         )
     (OUT / "G-text-changes.md").write_text("\n".join(g) + "\n", encoding="utf-8")
 
+    # ---------- H ----------
+    cards = rmap.get("proposal_reality_cards") or []
+    if cards:
+        h = ["# Appendix H — Citizen statements, checked against the record\n"]
+        h.append(
+            "The ten most common citizen statements on water from the Phase 2 "
+            "Community Conversations (RAG constituent-voice dataset), each "
+            "checked against the 2019–2025 bill record. \"Never filed\" means "
+            "no bill in this record proposed it — not that it is impossible.\n"
+        )
+        status_label = {
+            "tried_and_stalled": "Tried, but stalled",
+            "never_filed_as_such": "Never filed",
+            "tried_and_stalled_partly_done": "Tried and stalled; pieces passed",
+            "never_filed_statewide": "Never filed statewide",
+            "never_filed": "Never filed",
+            "thin_record": "Thin record",
+            "direction_repeatedly_failed": "This direction failed repeatedly",
+            "precedent_exists_mixed": "Precedent exists; mixed since",
+        }
+        for i, card in enumerate(cards, 1):
+            h.append(f"\n## {i}. {card.get('citizen_statement', card['proposal_id'])}\n")
+            h.append(f"- **Status:** {status_label.get(card.get('status'), card.get('status', ''))}")
+            h.append(f"- **The record:** {card.get('record', '')}")
+            if card.get("venue_note"):
+                h.append(f"- **Where the decision sits:** {card['venue_note']}")
+            if card.get("matched_bills"):
+                rows = []
+                for k in card["matched_bills"]:
+                    b = by_key.get(k)
+                    if b:
+                        rows.append(
+                            f"| {bill_label(k)} | {esc(b['plain_topic'])} | {b['disposition']} "
+                            f"| {STAGE_LABEL.get(b['death_or_success_stage'], '')} |"
+                        )
+                if rows:
+                    h.append("\n| Bill | What it tried | Result | Where it ended |")
+                    h.append("|---|---|---|---|")
+                    h.extend(rows)
+            if card.get("open_questions"):
+                h.append("\n**Open questions for a working group:**")
+                for q in card["open_questions"]:
+                    h.append(f"- {q}")
+            h.append("\n<!-- pdf-page-break -->")
+        (OUT / "H-citizen-statements-crosswalk.md").write_text("\n".join(h) + "\n", encoding="utf-8")
+
     # ---------- README ----------
     readme = f"""# Appendices — Growth, Water Scarcity, and Long-Term Supply in Nevada
 
@@ -312,6 +358,7 @@ Built from the July 2026 re-collection: 165 bills found, 100 policy bills.
 | `E-bill-path-details.md` | Step-by-step progress checkmarks for all policy bills |
 | `F-data-limits.md` | What the data cannot say |
 | `G-text-changes.md` | Introduced vs. final text for governor-bound bills |
+| `H-citizen-statements-crosswalk.md` | The ten most common citizen statements, each checked against the record |
 
 Committee Yea votes marked * anywhere in these appendices are inferred
 (membership minus recorded Nay/Absent) because Nevada minutes usually list

@@ -4386,5 +4386,262 @@
       }
     ],
     "collected_at": "2026-07-17T17:47:36.853910+00:00"
+  },
+  "81|Senate Judiciary": {
+    "session": "81",
+    "committee_label": "Senate Judiciary",
+    "committee_key": "329",
+    "resolved_name": "Senate Judiciary",
+    "members": [
+      {
+        "name": "Scheible, Melanie",
+        "display_name": "Melanie Scheible",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/9",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Cannizzaro, Nicole J.",
+        "display_name": "Nicole J. Cannizzaro",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/6",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Ohrenschall, James",
+        "display_name": "James Ohrenschall",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/21",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Harris, Dallas",
+        "display_name": "Dallas Harris",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/11",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Settelmeyer, James A.",
+        "display_name": "James A. Settelmeyer",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/17",
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Hansen, Ira",
+        "display_name": "Ira Hansen",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/14",
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Pickard, Keith F.",
+        "display_name": "Keith F. Pickard",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/81st2021/20",
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory"
+      }
+    ],
+    "collected_at": "2026-07-17T20:44:49.129858+00:00"
+  },
+  "83|Assembly Commerce and Labor": {
+    "session": "83",
+    "committee_label": "Assembly Commerce and Labor",
+    "committee_key": "448",
+    "resolved_name": "Assembly Commerce and Labor",
+    "members": [
+      {
+        "name": "Marzola, Elaine H.",
+        "display_name": "Elaine H. Marzola",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/21",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Jauregui, Sandra",
+        "display_name": "Sandra Jauregui",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/41",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Anderson, Natha C.",
+        "display_name": "Natha C. Anderson",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/30",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "II, Max E. Carter",
+        "display_name": "Max E. Carter II",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/12"
+      },
+      {
+        "name": "Cole, Lisa K.",
+        "display_name": "Lisa Cole",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/4",
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Hardy, Melissa R..",
+        "display_name": "Melissa R. Hardy",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/22",
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Kasama, Heidi",
+        "display_name": "Heidi Kasama",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/2",
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Miller, Brittney M.",
+        "display_name": "Brittney M. Miller",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/5",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Monroe-Moreno, Daniele",
+        "display_name": "Daniele Monroe-Moreno",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/1",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "O\u2019Neill, PK",
+        "display_name": "PK O\u2019Neill",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/40",
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Roth, Erica P.",
+        "display_name": "Erica P. Roth",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/24",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Torres-Fossett, Selena",
+        "display_name": "Selena Torres-Fossett",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/3",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Yeager, Steve",
+        "display_name": "Steve Yeager",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/9",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Yurek, Toby",
+        "display_name": "Toby Yurek",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/83rd2025/19",
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory"
+      }
+    ],
+    "collected_at": "2026-07-17T20:44:51.228562+00:00"
+  },
+  "83|Senate Commerce and Labor": {
+    "session": "83",
+    "committee_label": "Senate Commerce and Labor",
+    "committee_key": "440",
+    "resolved_name": "Senate Commerce and Labor",
+    "members": [
+      {
+        "name": "Pazina, Julie",
+        "display_name": "Julie Pazina",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/12",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Daly, Skip",
+        "display_name": "Skip Daly",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/13",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Scheible, Melanie",
+        "display_name": "Melanie Scheible",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/9",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Lange, Roberta",
+        "display_name": "Roberta Lange",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/7",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Flores, Edgar",
+        "display_name": "Edgar Flores",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/2",
+        "party": "Democratic",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Ellison, John C. Co-Deputy",
+        "display_name": "John Ellison",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/19",
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Rogich, Lori",
+        "display_name": "Lori Rogich",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/11",
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory"
+      },
+      {
+        "name": "Steinbeck, John C.",
+        "display_name": "John C. Steinbeck",
+        "role": null,
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/83rd2025/18",
+        "party": "Republican",
+        "party_source": "nelis_legislator_directory"
+      }
+    ],
+    "collected_at": "2026-07-17T20:44:52.143429+00:00"
   }
 }

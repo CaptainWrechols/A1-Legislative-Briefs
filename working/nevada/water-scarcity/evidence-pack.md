@@ -13,38 +13,43 @@ DROUGHT, IRRIGATION, DATA CENTERS, and related headings) plus new keyword
 clusters from the Phase 2 constituent proposals (desalination, pipeline,
 cooling, partial abatement).
 
-- Old set: 88 bills. New set: **165 collected**, tiered by relevance:
-  - **86 core** (water or data-center policy is the point of the bill)
-  - **14 adjacent** (a real but partial water/big-user angle)
-  - **65 context** (found by broad terms or omnibus indexing; kept for audit,
+- Old set: 88 bills. New set: **189 collected**, tiered by relevance:
+  - **88 core** (water or data-center policy is the point of the bill)
+  - **20 adjacent** (a real but partial water/big-user angle)
+  - **81 context** (found by broad terms or omnibus indexing; kept for audit,
     excluded from headline counts)
-- **Policy set (core + adjacent): 100 bills** — the basis for all headline
+- **Policy set (core + adjacent): 108 bills** — the basis for all headline
   numbers below.
+- A **recall audit** (2026-07-17) extended the subject-index harvest to
+  RIVERS, DAMS, FLOOD CONTROL, SEWAGE, TAHOE, and TRUCKEE RIVER headings plus
+  water entries under department headings, adding 24 bills (8 policy, 16
+  context). All six special sessions 2020–2025 were checked: no water or
+  data-center bills.
 
-## Inventory (policy set, 100 bills)
+## Inventory (policy set, 108 bills)
 
 | Disposition | Count |
 |---|---|
-| Enacted | 52 |
-| Failed | 42 |
+| Enacted | 59 |
+| Failed | 43 |
 | Vetoed | 3 |
 | In Progress (resolutions pending second passage) | 3 |
 
-By session: 2019 — 22 bills (17 enacted); 2021 — 21 (10); 2023 — 28 (14, 3 vetoed); 2025 — 29 (11). The 2025 session has the worst pass rate in the record (11 of 29).
+By session: 2019 — 24 bills (19 enacted); 2021 — 23 (11); 2023 — 30 (16, 3 vetoed); 2025 — 31 (13). The 2025 session has the worst pass rate in the record (13 of 31).
 
 ## Themes (policy bills)
 
 | Theme | Bills | Enacted | Where the rest usually stopped |
 |---|---|---|---|
+| Money for water projects | 17 | 14 | first committee (3) |
 | Water permits and the State Engineer's rules | 16 | 9 | first committee (4), origin floor (2) |
+| Clean water and pollution | 13 | 10 | scattered |
 | Colorado River, planning, studies, new supply | 13 | 5 | first committee (3), after both chambers (3) |
-| Money for water projects | 13 | 11 | first committee (2) |
 | Groundwater, wells, over-pumped basins | 12 | 4 | first committee (5) |
 | Water utilities, districts, local agencies | 11 | 8 | first committee (3) |
 | **Data centers, big water users, tax deals** | 11 | 4 | first committee (3), vetoed (2) |
-| Clean water and pollution | 9 | 6 | scattered |
-| Using less water | 6 | 4 | one died after both chambers (2025 SB143) |
-| Courts and oversight of water decisions | 6 | **0** | first committee (3), after both chambers (2) |
+| Using less water | 6 | 4 | one died in the second house (2025 SB143) |
+| Courts and oversight of water decisions | 6 | **0** | first committee (3), second house (2) |
 | Buying, banking, retiring water rights | 3 | 1 | committee (1), floor (1) — then 2025 SB36 passed |
 
 ## Constituent-proposal crosswalk (the headline finding)
@@ -68,7 +73,7 @@ type the old pack missed.
 
 ## People signals (policy set; facts only)
 
-- Committee-sponsored: 50 of 100. Person-sponsored: 50.
+- Committee-sponsored: 58 of 108. Person-sponsored: 50.
 - Most frequent person primary sponsor: **Sen. Pete Goicoechea (R)** — 14
   bills, 2019–2025. Then Asm. Howard Watts (D) 5, Sen. Chris Brooks (D) 5,
   Asm. Sarah Peters (D) 5.

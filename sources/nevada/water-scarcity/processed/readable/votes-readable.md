@@ -1,7 +1,7 @@
 # Nevada water bills — vote roll calls (Pass 2)
 
-Floor Final Passage events: **212**
-Committee hearing / work-session events: **600**
+Floor Final Passage events: **248**
+Committee hearing / work-session events: **714**
 
 Floor votes come from the NELIS Votes tab (full Yea/Nay rolls).
 Committee votes come from committee **minutes PDFs** (NO/ABSENT by name) plus inferred **Yea** votes = that committee’s session membership minus Nay/Absent.
@@ -132,7 +132,43 @@ Washington, Marcia (D)
 
 ---
 
-### 7. 80:AB233 — Final Passage
+### 7. 80:AB220 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 40; Nay 0; Absent 0; Excused 2
+
+#### Yea (40)
+
+Assefa, Alexander (D), Backus, Shea (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D), Carrillo, Richard (D), Cohen, Lesley (D), Daly, Skip (D), Duran, Bea (D), Edwards, Chris (R), Ellison, John (R), Flores, Edgar (D), Frierson, Jason (D), Fumo, Ozzie (D), Gorelow, Michelle (D), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Jauregui, Sandra (D), Kramer, Al (R), Krasner, Lisa (R), Leavitt, Glen (R), Martinez, Susie (D), McCurdy, William (D), Miller, Brittney (D), Monroe-Moreno, Daniele (D), Munk, Connie (D), Neal, Dina (D), Nguyen, Rochelle (D), Peters, Sarah (D), Roberts, Tom (R), Smith, Greg (D), Spiegel, Ellen (D), Swank, Heidi (D), Thompson, Tyrone (D), Titus, Robin (R), Tolles, Jill (R), Torres, Selena (D), Watts, Howard (D), Wheeler, Jim (R), Yeager, Steve (D)
+
+#### Excused (2)
+
+Carlton, Maggie (D), Hambrick, John (R)
+
+---
+
+### 8. 80:AB220 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 20; Nay 0; Absent 0; Excused 1
+
+#### Yea (20)
+
+Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D), Dondero Loop, Marilyn (D), Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Hardy, Joseph (R), Harris, Dallas (D), Kieckhefer, Ben (R), Ohrenschall, James (D), Parks, David (D), Pickard, Keith (R), Ratti, Julia (D), Scheible, Melanie (D), Seevers Gansert, Heidi (R), Settelmeyer, James (R), Spearman, Pat (D), Woodhouse, Joyce (D)
+
+#### Excused (1)
+
+Washington, Marcia (D)
+
+---
+
+### 9. 80:AB233 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -150,7 +186,7 @@ Hambrick, John (R)
 
 ---
 
-### 8. 80:AB233 — Final Passage
+### 10. 80:AB233 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -164,7 +200,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 9. 80:AB240 — Final Passage
+### 11. 80:AB240 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -186,7 +222,7 @@ Hambrick, John (R)
 
 ---
 
-### 10. 80:AB240 — Final Passage
+### 12. 80:AB240 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -208,7 +244,7 @@ Washington, Marcia (D)
 
 ---
 
-### 11. 80:AB275 — Final Passage
+### 13. 80:AB275 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -230,7 +266,7 @@ Hambrick, John (R), McCurdy, William (D)
 
 ---
 
-### 12. 80:AB275 — Final Passage
+### 14. 80:AB275 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (3rd Reprint)
@@ -248,7 +284,7 @@ Hansen, Ira (R), Settelmeyer, James (R)
 
 ---
 
-### 13. 80:AB30 — Final Passage
+### 15. 80:AB30 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -270,7 +306,7 @@ Hambrick, John (R), McCurdy, William (D)
 
 ---
 
-### 14. 80:AB319 — Final Passage
+### 16. 80:AB319 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -288,7 +324,7 @@ Hambrick, John (R), Tolles, Jill (R)
 
 ---
 
-### 15. 80:AB319 — Final Passage
+### 17. 80:AB319 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (3rd Reprint)
@@ -302,7 +338,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 16. 80:AB400 — Final Passage
+### 18. 80:AB400 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -324,7 +360,7 @@ Hambrick, John (R)
 
 ---
 
-### 17. 80:AB400 — Final Passage
+### 19. 80:AB400 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -342,7 +378,7 @@ Kieckhefer, Ben (R)
 
 ---
 
-### 18. 80:AB413 — Final Passage
+### 20. 80:AB413 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -360,7 +396,7 @@ Hambrick, John (R)
 
 ---
 
-### 19. 80:AB413 — Final Passage
+### 21. 80:AB413 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -374,7 +410,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 20. 80:AB466 — Final Passage
+### 22. 80:AB466 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -392,7 +428,7 @@ Hambrick, John (R)
 
 ---
 
-### 21. 80:AB466 — Final Passage
+### 23. 80:AB466 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -410,7 +446,7 @@ Washington, Marcia (D)
 
 ---
 
-### 22. 80:AB504 — Final Passage
+### 24. 80:AB504 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -428,7 +464,7 @@ Hambrick, John (R), Neal, Dina (D)
 
 ---
 
-### 23. 80:AB504 — Final Passage
+### 25. 80:AB504 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -442,7 +478,39 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 24. 80:AB537 — Final Passage
+### 26. 80:AB505 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 39; Nay 0; Absent 0; Excused 2
+
+#### Yea (39)
+
+Assefa, Alexander (D), Backus, Shea (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D), Carlton, Maggie (D), Carrillo, Richard (D), Cohen, Lesley (D), Daly, Skip (D), Duran, Bea (D), Edwards, Chris (R), Ellison, John (R), Flores, Edgar (D), Frierson, Jason (D), Fumo, Ozzie (D), Gorelow, Michelle (D), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Jauregui, Sandra (D), Kramer, Al (R), Krasner, Lisa (R), Leavitt, Glen (R), Martinez, Susie (D), McCurdy, William (D), Miller, Brittney (D), Monroe-Moreno, Daniele (D), Munk, Connie (D), Nguyen, Rochelle (D), Peters, Sarah (D), Roberts, Tom (R), Smith, Greg (D), Spiegel, Ellen (D), Swank, Heidi (D), Titus, Robin (R), Tolles, Jill (R), Torres, Selena (D), Watts, Howard (D), Wheeler, Jim (R), Yeager, Steve (D)
+
+#### Excused (2)
+
+Hambrick, John (R), Neal, Dina (D)
+
+---
+
+### 27. 80:AB505 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 21; Nay 0; Absent 0; Excused 0
+
+#### Yea (21)
+
+Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D), Dondero Loop, Marilyn (D), Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Hardy, Joseph (R), Harris, Dallas (D), Kieckhefer, Ben (R), Ohrenschall, James (D), Parks, David (D), Pickard, Keith (R), Ratti, Julia (D), Scheible, Melanie (D), Seevers Gansert, Heidi (R), Settelmeyer, James (R), Spearman, Pat (D), Washington, Marcia (D), Woodhouse, Joyce (D)
+
+---
+
+### 28. 80:AB537 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -464,7 +532,7 @@ Hambrick, John (R), Neal, Dina (D)
 
 ---
 
-### 25. 80:AB537 — Final Passage
+### 29. 80:AB537 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -482,7 +550,7 @@ Washington, Marcia (D)
 
 ---
 
-### 26. 80:AB541 — Final Passage
+### 30. 80:AB541 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -496,7 +564,7 @@ Assefa, Alexander (D), Backus, Shea (D), Benitez-Thompson, Teresa (D), Bilbray-A
 
 ---
 
-### 27. 80:AB541 — Final Passage
+### 31. 80:AB541 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -510,7 +578,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 28. 80:AB62 — Final Passage
+### 32. 80:AB62 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -532,7 +600,7 @@ Hambrick, John (R)
 
 ---
 
-### 29. 80:AB62 — Final Passage
+### 33. 80:AB62 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (3rd Reprint)
@@ -550,7 +618,119 @@ Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Hardy, Joseph (R), Ha
 
 ---
 
-### 30. 80:AB95 — Final Passage
+### 34. 80:AB73 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 40; Nay 1; Absent 0; Excused 1
+
+#### Yea (40)
+
+Assefa, Alexander (D), Backus, Shea (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D), Carlton, Maggie (D), Carrillo, Richard (D), Cohen, Lesley (D), Daly, Skip (D), Duran, Bea (D), Edwards, Chris (R), Ellison, John (R), Flores, Edgar (D), Frierson, Jason (D), Fumo, Ozzie (D), Gorelow, Michelle (D), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Jauregui, Sandra (D), Kramer, Al (R), Krasner, Lisa (R), Leavitt, Glen (R), Martinez, Susie (D), McCurdy, William (D), Miller, Brittney (D), Monroe-Moreno, Daniele (D), Munk, Connie (D), Neal, Dina (D), Nguyen, Rochelle (D), Peters, Sarah (D), Roberts, Tom (R), Smith, Greg (D), Spiegel, Ellen (D), Swank, Heidi (D), Thompson, Tyrone (D), Tolles, Jill (R), Torres, Selena (D), Watts, Howard (D), Wheeler, Jim (R), Yeager, Steve (D)
+
+#### Nay (1)
+
+Titus, Robin (R)
+
+#### Excused (1)
+
+Hambrick, John (R)
+
+---
+
+### 35. 80:AB73 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 20; Nay 0; Absent 0; Excused 1
+
+#### Yea (20)
+
+Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D), Dondero Loop, Marilyn (D), Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Hardy, Joseph (R), Harris, Dallas (D), Ohrenschall, James (D), Parks, David (D), Pickard, Keith (R), Ratti, Julia (D), Scheible, Melanie (D), Seevers Gansert, Heidi (R), Settelmeyer, James (R), Spearman, Pat (D), Washington, Marcia (D), Woodhouse, Joyce (D)
+
+#### Excused (1)
+
+Kieckhefer, Ben (R)
+
+---
+
+### 36. 80:AB84 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 39; Nay 0; Absent 0; Excused 2
+
+#### Yea (39)
+
+Assefa, Alexander (D), Backus, Shea (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D), Carlton, Maggie (D), Carrillo, Richard (D), Cohen, Lesley (D), Daly, Skip (D), Duran, Bea (D), Edwards, Chris (R), Ellison, John (R), Flores, Edgar (D), Frierson, Jason (D), Fumo, Ozzie (D), Gorelow, Michelle (D), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Jauregui, Sandra (D), Kramer, Al (R), Krasner, Lisa (R), Leavitt, Glen (R), Martinez, Susie (D), McCurdy, William (D), Miller, Brittney (D), Monroe-Moreno, Daniele (D), Munk, Connie (D), Neal, Dina (D), Nguyen, Rochelle (D), Peters, Sarah (D), Roberts, Tom (R), Smith, Greg (D), Spiegel, Ellen (D), Titus, Robin (R), Tolles, Jill (R), Torres, Selena (D), Watts, Howard (D), Wheeler, Jim (R), Yeager, Steve (D)
+
+#### Excused (2)
+
+Hambrick, John (R), Swank, Heidi (D)
+
+---
+
+### 37. 80:AB84 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 20; Nay 1; Absent 0; Excused 0
+
+#### Yea (20)
+
+Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D), Dondero Loop, Marilyn (D), Goicoechea, Pete (R), Hammond, Scott (R), Hardy, Joseph (R), Harris, Dallas (D), Kieckhefer, Ben (R), Ohrenschall, James (D), Parks, David (D), Pickard, Keith (R), Ratti, Julia (D), Scheible, Melanie (D), Seevers Gansert, Heidi (R), Settelmeyer, James (R), Spearman, Pat (D), Washington, Marcia (D), Woodhouse, Joyce (D)
+
+#### Nay (1)
+
+Hansen, Ira (R)
+
+---
+
+### 38. 80:AB93 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 40; Nay 0; Absent 0; Excused 2
+
+#### Yea (40)
+
+Assefa, Alexander (D), Backus, Shea (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D), Carlton, Maggie (D), Carrillo, Richard (D), Cohen, Lesley (D), Daly, Skip (D), Duran, Bea (D), Edwards, Chris (R), Ellison, John (R), Flores, Edgar (D), Frierson, Jason (D), Fumo, Ozzie (D), Gorelow, Michelle (D), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Jauregui, Sandra (D), Kramer, Al (R), Krasner, Lisa (R), Leavitt, Glen (R), Martinez, Susie (D), McCurdy, William (D), Miller, Brittney (D), Monroe-Moreno, Daniele (D), Munk, Connie (D), Neal, Dina (D), Nguyen, Rochelle (D), Peters, Sarah (D), Roberts, Tom (R), Smith, Greg (D), Swank, Heidi (D), Thompson, Tyrone (D), Titus, Robin (R), Tolles, Jill (R), Torres, Selena (D), Watts, Howard (D), Wheeler, Jim (R), Yeager, Steve (D)
+
+#### Excused (2)
+
+Hambrick, John (R), Spiegel, Ellen (D)
+
+---
+
+### 39. 80:AB93 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 20; Nay 0; Absent 0; Excused 1
+
+#### Yea (20)
+
+Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D), Dondero Loop, Marilyn (D), Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Hardy, Joseph (R), Harris, Dallas (D), Kieckhefer, Ben (R), Ohrenschall, James (D), Parks, David (D), Pickard, Keith (R), Ratti, Julia (D), Scheible, Melanie (D), Seevers Gansert, Heidi (R), Settelmeyer, James (R), Spearman, Pat (D), Woodhouse, Joyce (D)
+
+#### Excused (1)
+
+Washington, Marcia (D)
+
+---
+
+### 40. 80:AB95 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -572,7 +752,7 @@ Hambrick, John (R), Spiegel, Ellen (D)
 
 ---
 
-### 31. 80:AB95 — Final Passage
+### 41. 80:AB95 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -590,7 +770,7 @@ Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Hardy, Joseph (R), Ki
 
 ---
 
-### 32. 80:SB14 — Final Passage
+### 42. 80:SB14 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -612,7 +792,7 @@ Hambrick, John (R), Neal, Dina (D)
 
 ---
 
-### 33. 80:SB14 — Final Passage
+### 43. 80:SB14 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -626,7 +806,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 34. 80:SB140 — Final Passage
+### 44. 80:SB140 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -644,7 +824,7 @@ Hambrick, John (R), Neal, Dina (D)
 
 ---
 
-### 35. 80:SB140 — Final Passage
+### 45. 80:SB140 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -658,7 +838,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 36. 80:SB150 — Final Passage
+### 46. 80:SB150 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -676,7 +856,7 @@ Hambrick, John (R), Neal, Dina (D)
 
 ---
 
-### 37. 80:SB150 — Final Passage
+### 47. 80:SB150 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -690,7 +870,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 38. 80:SB232 — Final Passage
+### 48. 80:SB232 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -708,7 +888,7 @@ Hambrick, John (R)
 
 ---
 
-### 39. 80:SB232 — Final Passage
+### 49. 80:SB232 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -722,7 +902,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 40. 80:SB236 — Final Passage
+### 50. 80:SB236 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -740,7 +920,7 @@ Hambrick, John (R), Neal, Dina (D)
 
 ---
 
-### 41. 80:SB236 — Final Passage
+### 51. 80:SB236 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -754,7 +934,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 42. 80:SB250 — Final Passage
+### 52. 80:SB250 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (3rd Reprint)
@@ -772,7 +952,7 @@ Hambrick, John (R), Neal, Dina (D)
 
 ---
 
-### 43. 80:SB250 — Final Passage
+### 53. 80:SB250 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -786,7 +966,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 44. 80:SB298 — Final Passage
+### 54. 80:SB298 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -808,7 +988,7 @@ Hambrick, John (R)
 
 ---
 
-### 45. 80:SB298 — Final Passage
+### 55. 80:SB298 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -822,7 +1002,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 46. 80:SB433 — Final Passage
+### 56. 80:SB433 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -840,7 +1020,7 @@ Hambrick, John (R)
 
 ---
 
-### 47. 80:SB433 — Final Passage
+### 57. 80:SB433 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -854,7 +1034,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 48. 80:SB495 — Final Passage
+### 58. 80:SB495 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -868,7 +1048,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 49. 80:SB507 — Final Passage
+### 59. 80:SB507 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -882,7 +1062,7 @@ Assefa, Alexander (D), Backus, Shea (D), Benitez-Thompson, Teresa (D), Bilbray-A
 
 ---
 
-### 50. 80:SB507 — Final Passage
+### 60. 80:SB507 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -900,7 +1080,7 @@ Washington, Marcia (D)
 
 ---
 
-### 51. 80:SB509 — Final Passage
+### 61. 80:SB509 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -914,7 +1094,7 @@ Assefa, Alexander (D), Backus, Shea (D), Benitez-Thompson, Teresa (D), Bilbray-A
 
 ---
 
-### 52. 80:SB509 — Final Passage
+### 62. 80:SB509 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -928,7 +1108,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 53. 80:SB519 — Final Passage
+### 63. 80:SB519 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -942,7 +1122,7 @@ Assefa, Alexander (D), Backus, Shea (D), Benitez-Thompson, Teresa (D), Bilbray-A
 
 ---
 
-### 54. 80:SB519 — Final Passage
+### 64. 80:SB519 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -956,7 +1136,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 55. 80:SB547 — Final Passage
+### 65. 80:SB547 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -974,7 +1154,7 @@ Titus, Robin (R)
 
 ---
 
-### 56. 80:SB547 — Final Passage
+### 66. 80:SB547 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -988,7 +1168,7 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 57. 80:SB56 — Final Passage
+### 67. 80:SB56 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1010,7 +1190,7 @@ Hambrick, John (R)
 
 ---
 
-### 58. 80:SB56 — Final Passage
+### 68. 80:SB56 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1024,7 +1204,39 @@ Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D
 
 ---
 
-### 59. 81:AB146 — Final Passage
+### 69. 80:SJR7 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 39; Nay 0; Absent 0; Excused 2
+
+#### Yea (39)
+
+Assefa, Alexander (D), Backus, Shea (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D), Carlton, Maggie (D), Carrillo, Richard (D), Cohen, Lesley (D), Daly, Skip (D), Duran, Bea (D), Edwards, Chris (R), Ellison, John (R), Flores, Edgar (D), Frierson, Jason (D), Fumo, Ozzie (D), Gorelow, Michelle (D), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Jauregui, Sandra (D), Kramer, Al (R), Krasner, Lisa (R), Leavitt, Glen (R), Martinez, Susie (D), McCurdy, William (D), Miller, Brittney (D), Monroe-Moreno, Daniele (D), Munk, Connie (D), Nguyen, Rochelle (D), Peters, Sarah (D), Roberts, Tom (R), Smith, Greg (D), Spiegel, Ellen (D), Swank, Heidi (D), Titus, Robin (R), Tolles, Jill (R), Torres, Selena (D), Watts, Howard (D), Wheeler, Jim (R), Yeager, Steve (D)
+
+#### Excused (2)
+
+Hambrick, John (R), Neal, Dina (D)
+
+---
+
+### 70. 80:SJR7 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 21; Nay 0; Absent 0; Excused 0
+
+#### Yea (21)
+
+Brooks, Chris (D), Cancela, Yvanna (D), Cannizzaro, Nicole (D), Denis, Moises (D), Dondero Loop, Marilyn (D), Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Hardy, Joseph (R), Harris, Dallas (D), Kieckhefer, Ben (R), Ohrenschall, James (D), Parks, David (D), Pickard, Keith (R), Ratti, Julia (D), Scheible, Melanie (D), Seevers Gansert, Heidi (R), Settelmeyer, James (R), Spearman, Pat (D), Washington, Marcia (D), Woodhouse, Joyce (D)
+
+---
+
+### 71. 81:AB146 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1042,7 +1254,7 @@ Black, Annie (R), Dickman, Jill (R), Ellison, John (R), Hafen, Gregory (R), Hans
 
 ---
 
-### 60. 81:AB146 — Final Passage
+### 72. 81:AB146 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -1064,7 +1276,7 @@ Pickard, Keith (R)
 
 ---
 
-### 61. 81:AB184 — Final Passage
+### 73. 81:AB184 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1082,7 +1294,7 @@ Black, Annie (R), Dickman, Jill (R), Ellison, John (R), Hafen, Gregory (R), Hans
 
 ---
 
-### 62. 81:AB184 — Final Passage
+### 74. 81:AB184 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1104,7 +1316,7 @@ Pickard, Keith (R)
 
 ---
 
-### 63. 81:AB31 — Final Passage
+### 75. 81:AB31 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1118,7 +1330,7 @@ Anderson, Natha (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D),
 
 ---
 
-### 64. 81:AB31 — Final Passage
+### 76. 81:AB31 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1132,7 +1344,7 @@ Brooks, Chris (D), Buck, Carrie (R), Cannizzaro, Nicole (D), Denis, Moises (D), 
 
 ---
 
-### 65. 81:AB333 — Final Passage
+### 77. 81:AB333 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1150,7 +1362,7 @@ Black, Annie (R), Carlton, Maggie (D), Ellison, John (R), González, Cecelia (D)
 
 ---
 
-### 66. 81:AB333 — Final Passage
+### 78. 81:AB333 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -1164,7 +1376,7 @@ Brooks, Chris (D), Buck, Carrie (R), Cannizzaro, Nicole (D), Denis, Moises (D), 
 
 ---
 
-### 67. 81:AB356 — Final Passage
+### 79. 81:AB356 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1182,7 +1394,7 @@ Black, Annie (R), Dickman, Jill (R), Ellison, John (R), Hafen, Gregory (R), Hans
 
 ---
 
-### 68. 81:AB356 — Final Passage
+### 80. 81:AB356 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -1196,7 +1408,7 @@ Brooks, Chris (D), Buck, Carrie (R), Cannizzaro, Nicole (D), Denis, Moises (D), 
 
 ---
 
-### 69. 81:AB465 — Final Passage
+### 81. 81:AB465 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -1214,7 +1426,7 @@ Black, Annie (R), Dickman, Jill (R), Matthews, Andy (R), McArthur, Richard (R), 
 
 ---
 
-### 70. 81:AB465 — Final Passage
+### 82. 81:AB465 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -1228,7 +1440,7 @@ Brooks, Chris (D), Buck, Carrie (R), Cannizzaro, Nicole (D), Denis, Moises (D), 
 
 ---
 
-### 71. 81:AB6 — Final Passage
+### 83. 81:AB6 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1242,7 +1454,7 @@ Anderson, Natha (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D),
 
 ---
 
-### 72. 81:AB6 — Final Passage
+### 84. 81:AB6 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1256,7 +1468,7 @@ Brooks, Chris (D), Buck, Carrie (R), Cannizzaro, Nicole (D), Denis, Moises (D), 
 
 ---
 
-### 73. 81:AB66 — Final Passage
+### 85. 81:AB66 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1270,7 +1482,7 @@ Anderson, Natha (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D),
 
 ---
 
-### 74. 81:AB66 — Final Passage
+### 86. 81:AB66 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -1284,7 +1496,7 @@ Brooks, Chris (D), Buck, Carrie (R), Cannizzaro, Nicole (D), Denis, Moises (D), 
 
 ---
 
-### 75. 81:AB97 — Final Passage
+### 87. 81:AB97 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1302,7 +1514,7 @@ Black, Annie (R), Dickman, Jill (R), Ellison, John (R), Hafen, Gregory (R), Hans
 
 ---
 
-### 76. 81:AB97 — Final Passage
+### 88. 81:AB97 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1320,7 +1532,7 @@ Pickard, Keith (R)
 
 ---
 
-### 77. 81:AJR2 — Final Passage
+### 89. 81:AJR2 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1338,7 +1550,7 @@ Black, Annie (R), Dickman, Jill (R), Ellison, John (R), Leavitt, Glen (R), Matth
 
 ---
 
-### 78. 81:AJR2 — Final Passage
+### 90. 81:AJR2 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1352,7 +1564,7 @@ Brooks, Chris (D), Buck, Carrie (R), Cannizzaro, Nicole (D), Denis, Moises (D), 
 
 ---
 
-### 79. 81:AJR3 — Final Passage
+### 91. 81:AJR3 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -1370,7 +1582,7 @@ Black, Annie (R), Dickman, Jill (R), Ellison, John (R), Hafen, Gregory (R), Hans
 
 ---
 
-### 80. 81:AJR3 — Final Passage
+### 92. 81:AJR3 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -1388,7 +1600,7 @@ Buck, Carrie (R), Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Har
 
 ---
 
-### 81. 81:SB14 — Final Passage
+### 93. 81:SB14 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1402,7 +1614,7 @@ Anderson, Natha (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D),
 
 ---
 
-### 82. 81:SB14 — Final Passage
+### 94. 81:SB14 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1416,7 +1628,7 @@ Brooks, Chris (D), Buck, Carrie (R), Cannizzaro, Nicole (D), Denis, Moises (D), 
 
 ---
 
-### 83. 81:SB205 — Final Passage
+### 95. 81:SB205 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -1430,7 +1642,7 @@ Anderson, Natha (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D),
 
 ---
 
-### 84. 81:SB205 — Final Passage
+### 96. 81:SB205 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1448,7 +1660,7 @@ Pickard, Keith (R)
 
 ---
 
-### 85. 81:SB283 — Final Passage
+### 97. 81:SB283 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -1470,7 +1682,7 @@ Black, Annie (R)
 
 ---
 
-### 86. 81:SB283 — Final Passage
+### 98. 81:SB283 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1488,7 +1700,7 @@ Buck, Carrie (R), Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Har
 
 ---
 
-### 87. 81:SB297 — Final Passage
+### 99. 81:SB297 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -1506,7 +1718,7 @@ Black, Annie (R), Dickman, Jill (R), Ellison, John (R), Matthews, Andy (R), McAr
 
 ---
 
-### 88. 81:SB297 — Final Passage
+### 100. 81:SB297 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1520,7 +1732,7 @@ Brooks, Chris (D), Buck, Carrie (R), Cannizzaro, Nicole (D), Denis, Moises (D), 
 
 ---
 
-### 89. 81:SB33 — Final Passage
+### 101. 81:SB33 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -1534,7 +1746,7 @@ Anderson, Natha (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D),
 
 ---
 
-### 90. 81:SB33 — Final Passage
+### 102. 81:SB33 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1548,7 +1760,47 @@ Brooks, Chris (D), Buck, Carrie (R), Cannizzaro, Nicole (D), Denis, Moises (D), 
 
 ---
 
-### 91. 81:SB395 — Final Passage
+### 103. 81:SB368 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 37; Nay 4; Absent 1; Excused 0
+
+#### Yea (37)
+
+Anderson, Natha (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D), Brown-May, Tracy (D), Carlton, Maggie (D), Cohen, Lesley (D), Considine, Venicia (D), Duran, Bea (D), Flores, Edgar (D), Frierson, Jason (D), González, Cecelia (D), Gorelow, Michelle (D), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Jauregui, Sandra (D), Kasama, Heidi (R), Krasner, Lisa (R), Leavitt, Glen (R), Martinez, Susie (D), Marzola, Elaine (D), Miller, Brittney (D), Miller, Cameron (D), Monroe-Moreno, Daniele (D), Nguyen, Rochelle (D), O’Neill, Philip P.K. (R), Orentlicher, David (D), Peters, Sarah (D), Roberts, Tom (R), Summers-Armstrong, Shondra (D), Thomas, Clara (D), Titus, Robin (R), Tolles, Jill (R), Torres, Selena (D), Watts, Howard (D), Wheeler, Jim (R), Yeager, Steve (D)
+
+#### Nay (4)
+
+Dickman, Jill (R), Ellison, John (R), Matthews, Andy (R), McArthur, Richard (R)
+
+#### Absent (1)
+
+Black, Annie (R)
+
+---
+
+### 104. 81:SB368 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 20; Nay 0; Absent 0; Excused 1
+
+#### Yea (20)
+
+Brooks, Chris (D), Buck, Carrie (R), Cannizzaro, Nicole (D), Denis, Moises (D), Donate, Fabian (D), Dondero Loop, Marilyn (D), Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Hardy, Joseph (R), Harris, Dallas (D), Lange, Roberta (D), Neal, Dina (D), Ohrenschall, James (D), Pickard, Keith (R), Ratti, Julia (D), Scheible, Melanie (D), Seevers Gansert, Heidi (R), Settelmeyer, James (R), Spearman, Pat (D)
+
+#### Excused (1)
+
+Kieckhefer, Ben (R)
+
+---
+
+### 105. 81:SB395 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -1566,7 +1818,7 @@ Dondero Loop, Marilyn (D), Hansen, Ira (R), Scheible, Melanie (D), Settelmeyer, 
 
 ---
 
-### 92. 81:SB430 — Final Passage
+### 106. 81:SB430 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1584,7 +1836,7 @@ Black, Annie (R), Dickman, Jill (R), Matthews, Andy (R), McArthur, Richard (R)
 
 ---
 
-### 93. 81:SB430 — Final Passage
+### 107. 81:SB430 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1598,7 +1850,7 @@ Brooks, Chris (D), Buck, Carrie (R), Cannizzaro, Nicole (D), Denis, Moises (D), 
 
 ---
 
-### 94. 81:SB442 — Final Passage
+### 108. 81:SB442 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1612,7 +1864,7 @@ Anderson, Natha (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D),
 
 ---
 
-### 95. 81:SB442 — Final Passage
+### 109. 81:SB442 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1634,7 +1886,7 @@ Hardy, Joseph (R), Pickard, Keith (R)
 
 ---
 
-### 96. 81:SB67 — Final Passage
+### 110. 81:SB67 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -1656,7 +1908,7 @@ Black, Annie (R)
 
 ---
 
-### 97. 81:SB67 — Final Passage
+### 111. 81:SB67 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -1674,7 +1926,47 @@ Hansen, Ira (R)
 
 ---
 
-### 98. 81:SB98 — Final Passage
+### 112. 81:SB72 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 33; Nay 6; Absent 0; Excused 2
+
+#### Yea (33)
+
+Anderson, Natha (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D), Brown-May, Tracy (D), Carlton, Maggie (D), Cohen, Lesley (D), Considine, Venicia (D), Duran, Bea (D), Flores, Edgar (D), Frierson, Jason (D), González, Cecelia (D), Gorelow, Michelle (D), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Jauregui, Sandra (D), Kasama, Heidi (R), Krasner, Lisa (R), Leavitt, Glen (R), Martinez, Susie (D), Marzola, Elaine (D), Miller, Brittney (D), Miller, Cameron (D), Monroe-Moreno, Daniele (D), Nguyen, Rochelle (D), Orentlicher, David (D), Peters, Sarah (D), Roberts, Tom (R), Thomas, Clara (D), Tolles, Jill (R), Torres, Selena (D), Watts, Howard (D), Yeager, Steve (D)
+
+#### Nay (6)
+
+Dickman, Jill (R), Ellison, John (R), Matthews, Andy (R), McArthur, Richard (R), O’Neill, Philip P.K. (R), Titus, Robin (R)
+
+#### Excused (2)
+
+Summers-Armstrong, Shondra (D), Wheeler, Jim (R)
+
+---
+
+### 113. 81:SB72 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 20; Nay 1; Absent 0; Excused 0
+
+#### Yea (20)
+
+Brooks, Chris (D), Cannizzaro, Nicole (D), Denis, Moises (D), Donate, Fabian (D), Dondero Loop, Marilyn (D), Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Hardy, Joseph (R), Harris, Dallas (D), Kieckhefer, Ben (R), Lange, Roberta (D), Neal, Dina (D), Ohrenschall, James (D), Pickard, Keith (R), Ratti, Julia (D), Scheible, Melanie (D), Seevers Gansert, Heidi (R), Settelmeyer, James (R), Spearman, Pat (D)
+
+#### Nay (1)
+
+Buck, Carrie (R)
+
+---
+
+### 114. 81:SB98 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -1692,7 +1984,7 @@ Black, Annie (R)
 
 ---
 
-### 99. 81:SB98 — Final Passage
+### 115. 81:SB98 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -1710,7 +2002,39 @@ Spearman, Pat (D)
 
 ---
 
-### 100. 82:AB131 — Final Passage
+### 116. 81:SJR12 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 37; Nay 5; Absent 0; Excused 0
+
+#### Yea (37)
+
+Anderson, Natha (D), Benitez-Thompson, Teresa (D), Bilbray-Axelrod, Shannon (D), Brown-May, Tracy (D), Carlton, Maggie (D), Cohen, Lesley (D), Considine, Venicia (D), Duran, Bea (D), Flores, Edgar (D), Frierson, Jason (D), González, Cecelia (D), Gorelow, Michelle (D), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Jauregui, Sandra (D), Kasama, Heidi (R), Krasner, Lisa (R), Leavitt, Glen (R), Martinez, Susie (D), Marzola, Elaine (D), Miller, Brittney (D), Miller, Cameron (D), Monroe-Moreno, Daniele (D), Nguyen, Rochelle (D), O’Neill, Philip P.K. (R), Orentlicher, David (D), Peters, Sarah (D), Roberts, Tom (R), Summers-Armstrong, Shondra (D), Thomas, Clara (D), Titus, Robin (R), Tolles, Jill (R), Torres, Selena (D), Watts, Howard (D), Wheeler, Jim (R), Yeager, Steve (D)
+
+#### Nay (5)
+
+Black, Annie (R), Dickman, Jill (R), Ellison, John (R), Matthews, Andy (R), McArthur, Richard (R)
+
+---
+
+### 117. 81:SJR12 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 21; Nay 0; Absent 0; Excused 0
+
+#### Yea (21)
+
+Brooks, Chris (D), Buck, Carrie (R), Cannizzaro, Nicole (D), Denis, Moises (D), Donate, Fabian (D), Dondero Loop, Marilyn (D), Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Hardy, Joseph (R), Harris, Dallas (D), Kieckhefer, Ben (R), Lange, Roberta (D), Neal, Dina (D), Ohrenschall, James (D), Pickard, Keith (R), Ratti, Julia (D), Scheible, Melanie (D), Seevers Gansert, Heidi (R), Settelmeyer, James (R), Spearman, Pat (D)
+
+---
+
+### 118. 82:AB131 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -1732,7 +2056,7 @@ Orentlicher, David (D)
 
 ---
 
-### 101. 82:AB131 — Final Passage
+### 119. 82:AB131 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -1750,7 +2074,7 @@ Cannizzaro, Nicole (D)
 
 ---
 
-### 102. 82:AB19 — Final Passage
+### 120. 82:AB19 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -1768,7 +2092,7 @@ Orentlicher, David (D)
 
 ---
 
-### 103. 82:AB19 — Final Passage
+### 121. 82:AB19 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -1782,7 +2106,7 @@ Buck, Carrie (R), Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), D
 
 ---
 
-### 104. 82:AB191 — Final Passage
+### 122. 82:AB191 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1796,7 +2120,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 105. 82:AB191 — Final Passage
+### 123. 82:AB191 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -1814,7 +2138,7 @@ Hammond, Scott (R)
 
 ---
 
-### 106. 82:AB20 — Final Passage
+### 124. 82:AB20 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -1832,7 +2156,7 @@ Dickman, Jill (R), Gallant, Danielle (R), Gray, Ken (R), Kasama, Heidi (R), McAr
 
 ---
 
-### 107. 82:AB20 — Final Passage
+### 125. 82:AB20 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -1850,7 +2174,7 @@ Titus, Robin (R)
 
 ---
 
-### 108. 82:AB220 — Final Passage
+### 126. 82:AB220 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1868,7 +2192,7 @@ Carter, Max (D), DeLong, Rich (R), Dickman, Jill (R), Gallant, Danielle (R), Gra
 
 ---
 
-### 109. 82:AB220 — Final Passage
+### 127. 82:AB220 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (3rd Reprint)
@@ -1890,7 +2214,7 @@ Hammond, Scott (R)
 
 ---
 
-### 110. 82:AB261 — Final Passage
+### 128. 82:AB261 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -1904,7 +2228,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 111. 82:AB261 — Final Passage
+### 129. 82:AB261 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -1918,7 +2242,7 @@ Buck, Carrie (R), Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), D
 
 ---
 
-### 112. 82:AB263 — Final Passage
+### 130. 82:AB263 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -1936,7 +2260,7 @@ DeLong, Rich (R), Dickman, Jill (R), Gallant, Danielle (R), Gray, Ken (R), Gurr,
 
 ---
 
-### 113. 82:AB34 — Final Passage
+### 131. 82:AB34 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1954,7 +2278,7 @@ Hafen, Gregory (R), Hansen, Alexis (R)
 
 ---
 
-### 114. 82:AB34 — Final Passage
+### 132. 82:AB34 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -1968,7 +2292,7 @@ Buck, Carrie (R), Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), D
 
 ---
 
-### 115. 82:AB387 — Final Passage
+### 133. 82:AB387 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -1990,7 +2314,39 @@ González, Cecelia (D), Thomas, Clara (D)
 
 ---
 
-### 116. 82:AB449 — Final Passage
+### 134. 82:AB424 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 42; Nay 0; Absent 0; Excused 0
+
+#### Yea (42)
+
+Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, Tracy (D), Carter, Max (D), Cohen, Lesley (D), Considine, Venicia (D), DeLong, Rich (R), Dickman, Jill (R), D'Silva, Reuben (D), Duran, Bea (D), Gallant, Danielle (R), González, Cecelia (D), Gorelow, Michelle (D), Gray, Ken (R), Gurr, Bert (R), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Hibbetts, Brian (R), Jauregui, Sandra (D), Kasama, Heidi (R), Koenig, Gregory (R), La Rue Hatch, Selena (D), Marzola, Elaine (D), McArthur, Richard (R), Miller, Brittney (D), Miller, Cameron (D), Monroe-Moreno, Daniele (D), Mosca, Erica (D), Newby, Sabra (D), Nguyen, Duy (D), O’Neill, Philip PK (R), Orentlicher, David (D), Peters, Sarah (D), Summers-Armstrong, Shondra (D), Taylor, Angie (D), Thomas, Clara (D), Torres, Selena (D), Watts, Howard (D), Yeager, Steve (D), Yurek, Toby (R)
+
+---
+
+### 135. 82:AB424 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 18; Nay 3; Absent 0; Excused 0
+
+#### Yea (18)
+
+Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), Dondero Loop, Marilyn (D), Flores, Edgar (D), Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Harris, Dallas (D), Lange, Roberta (D), Neal, Dina (D), Nguyen, Rochelle (D), Ohrenschall, James (D), Pazina, Julie (D), Scheible, Melanie (D), Seevers O'Gara, Heidi (R), Spearman, Pat (D), Stone, Jeff (R)
+
+#### Nay (3)
+
+Buck, Carrie (R), Krasner, Lisa (R), Titus, Robin (R)
+
+---
+
+### 136. 82:AB449 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2008,7 +2364,7 @@ Thomas, Clara (D)
 
 ---
 
-### 117. 82:AB470 — Final Passage
+### 137. 82:AB470 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -2026,7 +2382,7 @@ Kasama, Heidi (R)
 
 ---
 
-### 118. 82:AB470 — Final Passage
+### 138. 82:AB470 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -2040,7 +2396,7 @@ Buck, Carrie (R), Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), D
 
 ---
 
-### 119. 82:AB490 — Final Passage
+### 139. 82:AB490 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2058,7 +2414,7 @@ Gurr, Bert (R), Hafen, Gregory (R), Hansen, Alexis (R)
 
 ---
 
-### 120. 82:AB519 — Final Passage
+### 140. 82:AB519 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2072,7 +2428,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 121. 82:AB519 — Final Passage
+### 141. 82:AB519 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -2090,7 +2446,7 @@ Titus, Robin (R)
 
 ---
 
-### 122. 82:AB91 — Final Passage
+### 142. 82:AB91 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2108,7 +2464,7 @@ Bilbray-Axelrod, Shannon (D), Orentlicher, David (D)
 
 ---
 
-### 123. 82:AB91 — Final Passage
+### 143. 82:AB91 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2126,7 +2482,7 @@ Hammond, Scott (R)
 
 ---
 
-### 124. 82:AB97 — Final Passage
+### 144. 82:AB97 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2140,7 +2496,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 125. 82:AB97 — Final Passage
+### 145. 82:AB97 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2158,7 +2514,7 @@ Hammond, Scott (R)
 
 ---
 
-### 126. 82:SB113 — Final Passage
+### 146. 82:SB113 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2172,7 +2528,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 127. 82:SB113 — Final Passage
+### 147. 82:SB113 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2186,7 +2542,7 @@ Buck, Carrie (R), Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), D
 
 ---
 
-### 128. 82:SB115 — Final Passage
+### 148. 82:SB115 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2200,7 +2556,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 129. 82:SB115 — Final Passage
+### 149. 82:SB115 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2214,7 +2570,7 @@ Buck, Carrie (R), Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), D
 
 ---
 
-### 130. 82:SB169 — Final Passage
+### 150. 82:SB169 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2236,7 +2592,7 @@ González, Cecelia (D)
 
 ---
 
-### 131. 82:SB169 — Final Passage
+### 151. 82:SB169 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2254,7 +2610,7 @@ Hammond, Scott (R), Hansen, Ira (R), Titus, Robin (R)
 
 ---
 
-### 132. 82:SB180 — Final Passage
+### 152. 82:SB180 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2272,7 +2628,7 @@ Bilbray-Axelrod, Shannon (D)
 
 ---
 
-### 133. 82:SB180 — Final Passage
+### 153. 82:SB180 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -2286,7 +2642,7 @@ Buck, Carrie (R), Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), D
 
 ---
 
-### 134. 82:SB210 — Final Passage
+### 154. 82:SB210 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -2308,7 +2664,7 @@ González, Cecelia (D)
 
 ---
 
-### 135. 82:SB210 — Final Passage
+### 155. 82:SB210 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -2330,7 +2686,7 @@ Lange, Roberta (D)
 
 ---
 
-### 136. 82:SB257 — Final Passage
+### 156. 82:SB257 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2344,7 +2700,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 137. 82:SB257 — Final Passage
+### 157. 82:SB257 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2358,7 +2714,7 @@ Buck, Carrie (R), Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), D
 
 ---
 
-### 138. 82:SB258 — Final Passage
+### 158. 82:SB258 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2372,7 +2728,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 139. 82:SB258 — Final Passage
+### 159. 82:SB258 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2386,7 +2742,7 @@ Buck, Carrie (R), Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), D
 
 ---
 
-### 140. 82:SB261 — Final Passage
+### 160. 82:SB261 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -2400,7 +2756,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 141. 82:SB261 — Final Passage
+### 161. 82:SB261 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -2418,7 +2774,7 @@ Titus, Robin (R)
 
 ---
 
-### 142. 82:SB394 — Final Passage
+### 162. 82:SB394 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2436,7 +2792,7 @@ Buck, Carrie (R), Goicoechea, Pete (R), Hammond, Scott (R), Krasner, Lisa (R), S
 
 ---
 
-### 143. 82:SB404 — Final Passage
+### 163. 82:SB404 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2454,7 +2810,7 @@ DeLong, Rich (R), Dickman, Jill (R), Gallant, Danielle (R), Gray, Ken (R), Gurr,
 
 ---
 
-### 144. 82:SB404 — Final Passage
+### 164. 82:SB404 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2472,7 +2828,7 @@ Buck, Carrie (R), Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Kra
 
 ---
 
-### 145. 82:SB429 — Final Passage
+### 165. 82:SB429 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2494,7 +2850,7 @@ Bilbray-Axelrod, Shannon (D), Miller, Cameron (D)
 
 ---
 
-### 146. 82:SB429 — Final Passage
+### 166. 82:SB429 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2512,7 +2868,7 @@ Hansen, Ira (R), Krasner, Lisa (R), Stone, Jeff (R), Titus, Robin (R)
 
 ---
 
-### 147. 82:SB431 — Final Passage
+### 167. 82:SB431 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2526,7 +2882,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 148. 82:SB431 — Final Passage
+### 168. 82:SB431 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2540,7 +2896,7 @@ Buck, Carrie (R), Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), D
 
 ---
 
-### 149. 82:SB472 — Final Passage
+### 169. 82:SB472 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -2554,7 +2910,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 150. 82:SB472 — Final Passage
+### 170. 82:SB472 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -2572,7 +2928,7 @@ Spearman, Pat (D)
 
 ---
 
-### 151. 82:SB473 — Final Passage
+### 171. 82:SB473 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -2586,7 +2942,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 152. 82:SB473 — Final Passage
+### 172. 82:SB473 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -2608,7 +2964,7 @@ Spearman, Pat (D)
 
 ---
 
-### 153. 82:SB59 — Final Passage
+### 173. 82:SB492 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2622,7 +2978,35 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 154. 82:SB59 — Final Passage
+### 174. 82:SB492 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 21; Nay 0; Absent 0; Excused 0
+
+#### Yea (21)
+
+Buck, Carrie (R), Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), Dondero Loop, Marilyn (D), Flores, Edgar (D), Goicoechea, Pete (R), Hammond, Scott (R), Hansen, Ira (R), Harris, Dallas (D), Krasner, Lisa (R), Lange, Roberta (D), Neal, Dina (D), Nguyen, Rochelle (D), Ohrenschall, James (D), Pazina, Julie (D), Scheible, Melanie (D), Seevers O'Gara, Heidi (R), Spearman, Pat (D), Stone, Jeff (R), Titus, Robin (R)
+
+---
+
+### 175. 82:SB59 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 42; Nay 0; Absent 0; Excused 0
+
+#### Yea (42)
+
+Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, Tracy (D), Carter, Max (D), Cohen, Lesley (D), Considine, Venicia (D), DeLong, Rich (R), Dickman, Jill (R), D'Silva, Reuben (D), Duran, Bea (D), Gallant, Danielle (R), González, Cecelia (D), Gorelow, Michelle (D), Gray, Ken (R), Gurr, Bert (R), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Hibbetts, Brian (R), Jauregui, Sandra (D), Kasama, Heidi (R), Koenig, Gregory (R), La Rue Hatch, Selena (D), Marzola, Elaine (D), McArthur, Richard (R), Miller, Brittney (D), Miller, Cameron (D), Monroe-Moreno, Daniele (D), Mosca, Erica (D), Newby, Sabra (D), Nguyen, Duy (D), O’Neill, Philip PK (R), Orentlicher, David (D), Peters, Sarah (D), Summers-Armstrong, Shondra (D), Taylor, Angie (D), Thomas, Clara (D), Torres, Selena (D), Watts, Howard (D), Yeager, Steve (D), Yurek, Toby (R)
+
+---
+
+### 176. 82:SB59 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2640,7 +3024,7 @@ Buck, Carrie (R), Krasner, Lisa (R), Stone, Jeff (R), Titus, Robin (R)
 
 ---
 
-### 155. 82:SB99 — Final Passage
+### 177. 82:SB99 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -2654,7 +3038,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 156. 82:SB99 — Final Passage
+### 178. 82:SB99 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -2668,7 +3052,7 @@ Buck, Carrie (R), Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), D
 
 ---
 
-### 157. 82:SJR3 — Final Passage
+### 179. 82:SJR3 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2682,7 +3066,7 @@ Anderson, Natha (D), Backus, Shea (D), Bilbray-Axelrod, Shannon (D), Brown-May, 
 
 ---
 
-### 158. 82:SJR3 — Final Passage
+### 180. 82:SJR3 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -2696,7 +3080,7 @@ Buck, Carrie (R), Cannizzaro, Nicole (D), Daly, Skip (D), Doñate, Fabian (D), D
 
 ---
 
-### 159. 83:AB1 — Final Passage
+### 181. 83:AB1 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -2714,7 +3098,7 @@ Dickman, Jill (R), Gallant, Danielle (R), Gray, Ken (R), Gurr, Bert (R), Hafen, 
 
 ---
 
-### 160. 83:AB1 — Final Passage
+### 182. 83:AB1 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -2728,7 +3112,7 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 161. 83:AB10 — Final Passage
+### 183. 83:AB10 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -2746,7 +3130,7 @@ Cole, Lisa (R), Dickman, Jill (R), Gallant, Danielle (R), Gray, Ken (R), Hafen, 
 
 ---
 
-### 162. 83:AB10 — Final Passage
+### 184. 83:AB10 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -2764,7 +3148,7 @@ Titus, Robin (R)
 
 ---
 
-### 163. 83:AB104 — Final Passage
+### 185. 83:AB104 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2778,7 +3162,7 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 164. 83:AB104 — Final Passage
+### 186. 83:AB104 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -2792,7 +3176,7 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 165. 83:AB110 — Final Passage
+### 187. 83:AB110 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2810,7 +3194,7 @@ Torres-Fossett, Selena (D)
 
 ---
 
-### 166. 83:AB110 — Final Passage
+### 188. 83:AB110 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2824,7 +3208,7 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 167. 83:AB132 — Final Passage
+### 189. 83:AB132 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -2838,7 +3222,7 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 168. 83:AB132 — Final Passage
+### 190. 83:AB132 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -2852,7 +3236,43 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 169. 83:AB26 — Final Passage
+### 191. 83:AB241 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 28; Nay 14; Absent 0; Excused 0
+
+#### Yea (28)
+
+Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Considine, Venicia (D), Dalia, Joe (D), D'Silva, Reuben (D), Flanagan, Tanya (D), Gallant, Danielle (R), González, Cecelia (D), Goulding, Heather (D), Hunt, Linda (D), Jackson, Jovan (D), Jauregui, Sandra (D), Karris, Venise (D), La Rue Hatch, Selena (D), Marzola, Elaine (D), Miller, Brittney (D), Monroe-Moreno, Daniele (D), Moore, Cinthia Zermeño (D), Mosca, Erica (D), Nadeem, Hanadi (D), Nguyen, Duy (D), Orentlicher, David (D), Roth, Erica (D), Torres-Fossett, Selena (D), Watts, Howard (D), Yeager, Steve (D)
+
+#### Nay (14)
+
+Cole, Lisa (R), DeLong, Rich (R), Dickman, Jill (R), Edgeworth, Rebecca (R), Gray, Ken (R), Gurr, Bert (R), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Hibbetts, Brian (R), Kasama, Heidi (R), Koenig, Gregory (R), O’Neill, PK (R), Yurek, Toby (R)
+
+---
+
+### 192. 83:AB241 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (2nd Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 15; Nay 6; Absent 0; Excused 0
+
+#### Yea (15)
+
+Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (D), Daly, Skip (D), Doñate, Fabian (D), Dondero Loop, Marilyn (D), Flores, Edgar (D), Lange, Roberta (D), Neal, Dina (D), Nguyen, Rochelle (D), Ohrenschall, James (D), Pazina, Julie (D), Rogich, Lori (R), Scheible, Melanie (D), Steinbeck, John (R), Taylor, Angela (D)
+
+#### Nay (6)
+
+Buck, Carrie Ann (R), Ellison, John (R), Hansen, Ira (R), Krasner, Lisa (R), Stone, Jeff (R), Titus, Robin (R)
+
+---
+
+### 193. 83:AB26 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2866,7 +3286,7 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 170. 83:AB26 — Final Passage
+### 194. 83:AB26 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2880,7 +3300,7 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 171. 83:AB377 — Final Passage
+### 195. 83:AB377 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2894,7 +3314,7 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 172. 83:AB377 — Final Passage
+### 196. 83:AB377 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2908,7 +3328,7 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 173. 83:AB397 — Final Passage
+### 197. 83:AB397 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -2922,7 +3342,7 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 174. 83:AB397 — Final Passage
+### 198. 83:AB397 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2940,7 +3360,7 @@ Scheible, Melanie (D)
 
 ---
 
-### 175. 83:AB449 — Final Passage
+### 199. 83:AB449 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2954,7 +3374,7 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 176. 83:AB449 — Final Passage
+### 200. 83:AB449 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -2968,7 +3388,7 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 177. 83:AB491 — Final Passage
+### 201. 83:AB491 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -2986,7 +3406,7 @@ Torres-Fossett, Selena (D)
 
 ---
 
-### 178. 83:AB491 — Final Passage
+### 202. 83:AB491 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -3004,7 +3424,7 @@ Buck, Carrie Ann (R), Krasner, Lisa (R), Titus, Robin (R)
 
 ---
 
-### 179. 83:AB506 — Final Passage
+### 203. 83:AB506 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -3018,7 +3438,7 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 180. 83:AB506 — Final Passage
+### 204. 83:AB506 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -3036,7 +3456,7 @@ Buck, Carrie Ann (R), Ellison, John (R), Krasner, Lisa (R), Titus, Robin (R)
 
 ---
 
-### 181. 83:AB592 — Final Passage
+### 205. 83:AB577 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -3050,7 +3470,39 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 182. 83:AB592 — Final Passage
+### 206. 83:AB577 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 20; Nay 0; Absent 0; Excused 1
+
+#### Yea (20)
+
+Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (D), Doñate, Fabian (D), Dondero Loop, Marilyn (D), Ellison, John (R), Flores, Edgar (D), Hansen, Ira (R), Krasner, Lisa (R), Lange, Roberta (D), Neal, Dina (D), Nguyen, Rochelle (D), Ohrenschall, James (D), Pazina, Julie (D), Rogich, Lori (R), Scheible, Melanie (D), Steinbeck, John (R), Stone, Jeff (R), Taylor, Angela (D), Titus, Robin (R)
+
+#### Excused (1)
+
+Daly, Skip (D)
+
+---
+
+### 207. 83:AB592 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 42; Nay 0; Absent 0; Excused 0
+
+#### Yea (42)
+
+Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Cole, Lisa (R), Considine, Venicia (D), Dalia, Joe (D), DeLong, Rich (R), Dickman, Jill (R), D'Silva, Reuben (D), Edgeworth, Rebecca (R), Flanagan, Tanya (D), Gallant, Danielle (R), González, Cecelia (D), Goulding, Heather (D), Gray, Ken (R), Gurr, Bert (R), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Hibbetts, Brian (R), Hunt, Linda (D), Jackson, Jovan (D), Jauregui, Sandra (D), Karris, Venise (D), Kasama, Heidi (R), Koenig, Gregory (R), La Rue Hatch, Selena (D), Marzola, Elaine (D), Miller, Brittney (D), Monroe-Moreno, Daniele (D), Moore, Cinthia Zermeño (D), Mosca, Erica (D), Nadeem, Hanadi (D), Nguyen, Duy (D), O’Neill, PK (R), Orentlicher, David (D), Roth, Erica (D), Torres-Fossett, Selena (D), Watts, Howard (D), Yeager, Steve (D), Yurek, Toby (R)
+
+---
+
+### 208. 83:AB592 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -3064,7 +3516,7 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 183. 83:AB592 — Final Passage
+### 209. 83:AB592 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -3082,7 +3534,7 @@ Pazina, Julie (D)
 
 ---
 
-### 184. 83:AB594 — Final Passage
+### 210. 83:AB594 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -3100,7 +3552,7 @@ DeLong, Rich (R), Dickman, Jill (R), Gray, Ken (R), Hafen, Gregory (R), Hansen, 
 
 ---
 
-### 185. 83:AB594 — Final Passage
+### 211. 83:AB594 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -3114,7 +3566,7 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 186. 83:AB70 — Final Passage
+### 212. 83:AB70 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -3128,7 +3580,7 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 187. 83:AB70 — Final Passage
+### 213. 83:AB70 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -3146,7 +3598,7 @@ Neal, Dina (D)
 
 ---
 
-### 188. 83:AJR13 — Final Passage
+### 214. 83:AJR13 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -3160,7 +3612,7 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 189. 83:AJR13 — Final Passage
+### 215. 83:AJR13 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -3174,7 +3626,7 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 190. 83:SB108 — Final Passage
+### 216. 83:SB10 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -3188,7 +3640,7 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 191. 83:SB108 — Final Passage
+### 217. 83:SB10 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -3202,7 +3654,25 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 192. 83:SB143 — Final Passage
+### 218. 83:SB106 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 41; Nay 0; Absent 0; Excused 1
+
+#### Yea (41)
+
+Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Cole, Lisa (R), Considine, Venicia (D), Dalia, Joe (D), DeLong, Rich (R), Dickman, Jill (R), D'Silva, Reuben (D), Edgeworth, Rebecca (R), Flanagan, Tanya (D), Gallant, Danielle (R), González, Cecelia (D), Goulding, Heather (D), Gray, Ken (R), Gurr, Bert (R), Hafen, Gregory (R), Hardy, Melissa (R), Hibbetts, Brian (R), Hunt, Linda (D), Jackson, Jovan (D), Jauregui, Sandra (D), Karris, Venise (D), Kasama, Heidi (R), Koenig, Gregory (R), La Rue Hatch, Selena (D), Marzola, Elaine (D), Miller, Brittney (D), Monroe-Moreno, Daniele (D), Moore, Cinthia Zermeño (D), Mosca, Erica (D), Nadeem, Hanadi (D), Nguyen, Duy (D), O’Neill, PK (R), Orentlicher, David (D), Roth, Erica (D), Torres-Fossett, Selena (D), Watts, Howard (D), Yeager, Steve (D), Yurek, Toby (R)
+
+#### Excused (1)
+
+Hansen, Alexis (R)
+
+---
+
+### 219. 83:SB106 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -3216,7 +3686,49 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 193. 83:SB276 — Final Passage
+### 220. 83:SB108 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 42; Nay 0; Absent 0; Excused 0
+
+#### Yea (42)
+
+Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Cole, Lisa (R), Considine, Venicia (D), Dalia, Joe (D), DeLong, Rich (R), Dickman, Jill (R), D'Silva, Reuben (D), Edgeworth, Rebecca (R), Flanagan, Tanya (D), Gallant, Danielle (R), González, Cecelia (D), Goulding, Heather (D), Gray, Ken (R), Gurr, Bert (R), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Hibbetts, Brian (R), Hunt, Linda (D), Jackson, Jovan (D), Jauregui, Sandra (D), Karris, Venise (D), Kasama, Heidi (R), Koenig, Gregory (R), La Rue Hatch, Selena (D), Marzola, Elaine (D), Miller, Brittney (D), Monroe-Moreno, Daniele (D), Moore, Cinthia Zermeño (D), Mosca, Erica (D), Nadeem, Hanadi (D), Nguyen, Duy (D), O’Neill, PK (R), Orentlicher, David (D), Roth, Erica (D), Torres-Fossett, Selena (D), Watts, Howard (D), Yeager, Steve (D), Yurek, Toby (R)
+
+---
+
+### 221. 83:SB108 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 21; Nay 0; Absent 0; Excused 0
+
+#### Yea (21)
+
+Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (D), Daly, Skip (D), Doñate, Fabian (D), Dondero Loop, Marilyn (D), Ellison, John (R), Flores, Edgar (D), Hansen, Ira (R), Krasner, Lisa (R), Lange, Roberta (D), Neal, Dina (D), Nguyen, Rochelle (D), Ohrenschall, James (D), Pazina, Julie (D), Rogich, Lori (R), Scheible, Melanie (D), Steinbeck, John (R), Stone, Jeff (R), Taylor, Angela (D), Titus, Robin (R)
+
+---
+
+### 222. 83:SB143 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 21; Nay 0; Absent 0; Excused 0
+
+#### Yea (21)
+
+Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (D), Daly, Skip (D), Doñate, Fabian (D), Dondero Loop, Marilyn (D), Ellison, John (R), Flores, Edgar (D), Hansen, Ira (R), Krasner, Lisa (R), Lange, Roberta (D), Neal, Dina (D), Nguyen, Rochelle (D), Ohrenschall, James (D), Pazina, Julie (D), Rogich, Lori (R), Scheible, Melanie (D), Steinbeck, John (R), Stone, Jeff (R), Taylor, Angela (D), Titus, Robin (R)
+
+---
+
+### 223. 83:SB276 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -3230,7 +3742,7 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 194. 83:SB276 — Final Passage
+### 224. 83:SB276 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -3244,7 +3756,7 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 195. 83:SB31 — Final Passage
+### 225. 83:SB31 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -3262,7 +3774,7 @@ Buck, Carrie Ann (R), Ellison, John (R), Hansen, Ira (R), Krasner, Lisa (R), Sto
 
 ---
 
-### 196. 83:SB324 — Final Passage
+### 226. 83:SB324 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -3284,7 +3796,7 @@ Buck, Carrie Ann (R)
 
 ---
 
-### 197. 83:SB326 — Final Passage
+### 227. 83:SB326 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -3298,7 +3810,7 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 198. 83:SB326 — Final Passage
+### 228. 83:SB326 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -3312,7 +3824,7 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 199. 83:SB36 — Final Passage
+### 229. 83:SB36 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -3326,7 +3838,7 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 200. 83:SB36 — Final Passage
+### 230. 83:SB36 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (2nd Reprint)
@@ -3340,7 +3852,7 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 201. 83:SB43 — Final Passage
+### 231. 83:SB426 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -3354,7 +3866,35 @@ Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Co
 
 ---
 
-### 202. 83:SB43 — Final Passage
+### 232. 83:SB426 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 21; Nay 0; Absent 0; Excused 0
+
+#### Yea (21)
+
+Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (D), Daly, Skip (D), Doñate, Fabian (D), Dondero Loop, Marilyn (D), Ellison, John (R), Flores, Edgar (D), Hansen, Ira (R), Krasner, Lisa (R), Lange, Roberta (D), Neal, Dina (D), Nguyen, Rochelle (D), Ohrenschall, James (D), Pazina, Julie (D), Rogich, Lori (R), Scheible, Melanie (D), Steinbeck, John (R), Stone, Jeff (R), Taylor, Angela (D), Titus, Robin (R)
+
+---
+
+### 233. 83:SB43 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (2nd Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 42; Nay 0; Absent 0; Excused 0
+
+#### Yea (42)
+
+Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Cole, Lisa (R), Considine, Venicia (D), Dalia, Joe (D), DeLong, Rich (R), Dickman, Jill (R), D'Silva, Reuben (D), Edgeworth, Rebecca (R), Flanagan, Tanya (D), Gallant, Danielle (R), González, Cecelia (D), Goulding, Heather (D), Gray, Ken (R), Gurr, Bert (R), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Hibbetts, Brian (R), Hunt, Linda (D), Jackson, Jovan (D), Jauregui, Sandra (D), Karris, Venise (D), Kasama, Heidi (R), Koenig, Gregory (R), La Rue Hatch, Selena (D), Marzola, Elaine (D), Miller, Brittney (D), Monroe-Moreno, Daniele (D), Moore, Cinthia Zermeño (D), Mosca, Erica (D), Nadeem, Hanadi (D), Nguyen, Duy (D), O’Neill, PK (R), Orentlicher, David (D), Roth, Erica (D), Torres-Fossett, Selena (D), Watts, Howard (D), Yeager, Steve (D), Yurek, Toby (R)
+
+---
+
+### 234. 83:SB43 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -3372,7 +3912,7 @@ Buck, Carrie Ann (R), Ellison, John (R), Titus, Robin (R)
 
 ---
 
-### 203. 83:SB442 — Final Passage
+### 235. 83:SB442 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (1st Reprint)
@@ -3390,7 +3930,7 @@ Cole, Lisa (R), DeLong, Rich (R), Edgeworth, Rebecca (R), Gallant, Danielle (R),
 
 ---
 
-### 204. 83:SB442 — Final Passage
+### 236. 83:SB442 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -3408,7 +3948,7 @@ Ellison, John (R), Krasner, Lisa (R), Stone, Jeff (R), Titus, Robin (R)
 
 ---
 
-### 205. 83:SB466 — Final Passage
+### 237. 83:SB466 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -3426,7 +3966,7 @@ Dickman, Jill (R), Kasama, Heidi (R)
 
 ---
 
-### 206. 83:SB466 — Final Passage
+### 238. 83:SB466 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -3440,7 +3980,35 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 207. 83:SB6 — Final Passage
+### 239. 83:SB494 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 42; Nay 0; Absent 0; Excused 0
+
+#### Yea (42)
+
+Anderson, Natha (D), Backus, Shea (D), Brown-May, Tracy (D), Carter, Max (D), Cole, Lisa (R), Considine, Venicia (D), Dalia, Joe (D), DeLong, Rich (R), Dickman, Jill (R), D'Silva, Reuben (D), Edgeworth, Rebecca (R), Flanagan, Tanya (D), Gallant, Danielle (R), González, Cecelia (D), Goulding, Heather (D), Gray, Ken (R), Gurr, Bert (R), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Hibbetts, Brian (R), Hunt, Linda (D), Jackson, Jovan (D), Jauregui, Sandra (D), Karris, Venise (D), Kasama, Heidi (R), Koenig, Gregory (R), La Rue Hatch, Selena (D), Marzola, Elaine (D), Miller, Brittney (D), Monroe-Moreno, Daniele (D), Moore, Cinthia Zermeño (D), Mosca, Erica (D), Nadeem, Hanadi (D), Nguyen, Duy (D), O’Neill, PK (R), Orentlicher, David (D), Roth, Erica (D), Torres-Fossett, Selena (D), Watts, Howard (D), Yeager, Steve (D), Yurek, Toby (R)
+
+---
+
+### 240. 83:SB494 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (As Introduced)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 21; Nay 0; Absent 0; Excused 0
+
+#### Yea (21)
+
+Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (D), Daly, Skip (D), Doñate, Fabian (D), Dondero Loop, Marilyn (D), Ellison, John (R), Flores, Edgar (D), Hansen, Ira (R), Krasner, Lisa (R), Lange, Roberta (D), Neal, Dina (D), Nguyen, Rochelle (D), Ohrenschall, James (D), Pazina, Julie (D), Rogich, Lori (R), Scheible, Melanie (D), Steinbeck, John (R), Stone, Jeff (R), Taylor, Angela (D), Titus, Robin (R)
+
+---
+
+### 241. 83:SB6 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (As Introduced)
@@ -3458,7 +4026,7 @@ Gallant, Danielle (R), Gray, Ken (R), Hafen, Gregory (R)
 
 ---
 
-### 208. 83:SB6 — Final Passage
+### 242. 83:SB6 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (As Introduced)
@@ -3472,7 +4040,7 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 
 ---
 
-### 209. 83:SB69 — Final Passage
+### 243. 83:SB69 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -3490,7 +4058,7 @@ Dickman, Jill (R), Gallant, Danielle (R), Gurr, Bert (R)
 
 ---
 
-### 210. 83:SB69 — Final Passage
+### 244. 83:SB69 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -3508,7 +4076,7 @@ Buck, Carrie Ann (R), Ellison, John (R), Steinbeck, John (R), Stone, Jeff (R)
 
 ---
 
-### 211. 83:SB71 — Final Passage
+### 245. 83:SB71 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Assembly (2nd Reprint)
@@ -3526,7 +4094,7 @@ DeLong, Rich (R), Gray, Ken (R), Gurr, Bert (R), Hansen, Alexis (R), Hardy, Meli
 
 ---
 
-### 212. 83:SB71 — Final Passage
+### 246. 83:SB71 — Final Passage
 
 - **Kind:** floor_final_passage
 - **Chamber / committee:** Senate (1st Reprint)
@@ -3541,6 +4109,38 @@ Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (
 #### Nay (1)
 
 Daly, Skip (D)
+
+---
+
+### 247. 83:SB83 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Assembly (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 39; Nay 0; Absent 0; Excused 3
+
+#### Yea (39)
+
+Brown-May, Tracy (D), Carter, Max (D), Cole, Lisa (R), Considine, Venicia (D), Dalia, Joe (D), DeLong, Rich (R), Dickman, Jill (R), D'Silva, Reuben (D), Edgeworth, Rebecca (R), Flanagan, Tanya (D), Gallant, Danielle (R), Goulding, Heather (D), Gray, Ken (R), Gurr, Bert (R), Hafen, Gregory (R), Hansen, Alexis (R), Hardy, Melissa (R), Hibbetts, Brian (R), Hunt, Linda (D), Jackson, Jovan (D), Jauregui, Sandra (D), Karris, Venise (D), Kasama, Heidi (R), Koenig, Gregory (R), La Rue Hatch, Selena (D), Marzola, Elaine (D), Miller, Brittney (D), Monroe-Moreno, Daniele (D), Moore, Cinthia Zermeño (D), Mosca, Erica (D), Nadeem, Hanadi (D), Nguyen, Duy (D), O’Neill, PK (R), Orentlicher, David (D), Roth, Erica (D), Torres-Fossett, Selena (D), Watts, Howard (D), Yeager, Steve (D), Yurek, Toby (R)
+
+#### Excused (3)
+
+Anderson, Natha (D), Backus, Shea (D), González, Cecelia (D)
+
+---
+
+### 248. 83:SB83 — Final Passage
+
+- **Kind:** floor_final_passage
+- **Chamber / committee:** Senate (1st Reprint)
+- **Date:** —
+- **Result:** —
+- **Counts:** Yea 21; Nay 0; Absent 0; Excused 0
+
+#### Yea (21)
+
+Buck, Carrie Ann (R), Cannizzaro, Nicole (D), Cruz-Crawford, Michelee "Shelly" (D), Daly, Skip (D), Doñate, Fabian (D), Dondero Loop, Marilyn (D), Ellison, John (R), Flores, Edgar (D), Hansen, Ira (R), Krasner, Lisa (R), Lange, Roberta (D), Neal, Dina (D), Nguyen, Rochelle (D), Ohrenschall, James (D), Pazina, Julie (D), Rogich, Lori (R), Scheible, Melanie (D), Steinbeck, John (R), Stone, Jeff (R), Taylor, Angela (D), Titus, Robin (R)
 
 ---
 
@@ -3614,7 +4214,7 @@ Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Fumo, Ozzie (D)
 
 #### Nay (4)
 
-Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. Deputy (R), Wheeler, Jim (R)
+Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. (R), Wheeler, Jim (R)
 
 #### Absent (1)
 
@@ -3770,7 +4370,151 @@ Flores, Edgar (D)*, McCurdy, William, II (D)*, Assefa, Alex*, Bilbray-Axelrod, S
 
 ---
 
-### 14. 80:AB233 — Heard, No Action
+### 14. 80:AB220 — Mentioned no jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Thursday, May 30, 2019 8:00 AM
+- **Result:** Mentioned no jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1427.pdf
+
+---
+
+### 15. 80:AB220 — Mentioned No Jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Finance
+- **Date:** Wednesday, May 29, 2019 8:00 AM
+- **Result:** Mentioned No Jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1419.pdf
+
+---
+
+### 16. 80:AB220 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Government Affairs
+- **Date:** Friday, May 10, 2019 1:00 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/268.pdf
+
+---
+
+### 17. 80:AB220 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Monday, April 8, 2019 8:00 AM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/832.pdf
+
+---
+
+### 18. 80:AB220 — Mentioned no jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Friday, March 22, 2019 8:00 AM
+- **Result:** Mentioned no jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/606.pdf
+
+---
+
+### 19. 80:AB220 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Government Affairs
+- **Date:** Tuesday, March 12, 2019 8:30 AM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/474.pdf
+
+---
+
+### 20. 80:AB220 — Discussed as BDR
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Wednesday, February 20, 2019 9:30 AM
+- **Result:** Discussed as BDR
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/312.pdf
+
+---
+
+### 21. 80:AB220 — DO PASS A
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Government Affairs
+- **Date:** Wednesday, May 15, 2019 1:00 PM
+- **Result:** pass_unanimous
+- **Counts:** Yea 5; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/270.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (5)
+
+Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefer, Ben (R)*, Goicoechea, Pete (R)*
+
+---
+
+### 22. 80:AB220 — DO PASS
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Wednesday, April 24, 2019 8:00 AM
+- **Result:** pass
+- **Counts:** Yea 12; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1024.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (12)
+
+Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
+
+---
+
+### 23. 80:AB220 — do pass Assembly Bill 220
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Government Affairs
+- **Date:** Friday, March 22, 2019 8:30 AM
+- **Result:** pass
+- **Counts:** Yea 14; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/620.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (14)
+
+Flores, Edgar (D)*, McCurdy, William, II (D)*, Assefa, Alex*, Bilbray-Axelrod, Shannon (D)*, Carrillo, Richard (D)*, Duran, Bea (D)*, Gorelow, Michelle (D)*, Martinez, Susie (D)*, Munk, Connie (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, II, Gregory T. Hafen*, Hardy, Melissa (R)*, Leavitt, Glen (R)*
+
+---
+
+### 24. 80:AB233 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -3782,7 +4526,7 @@ Flores, Edgar (D)*, McCurdy, William, II (D)*, Assefa, Alex*, Bilbray-Axelrod, S
 
 ---
 
-### 15. 80:AB233 — Heard
+### 25. 80:AB233 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -3794,7 +4538,7 @@ Flores, Edgar (D)*, McCurdy, William, II (D)*, Assefa, Alex*, Bilbray-Axelrod, S
 
 ---
 
-### 16. 80:AB233 — DO PASS A
+### 26. 80:AB233 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -3814,7 +4558,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 17. 80:AB233 — amend and do pass Assembly Bill 233
+### 27. 80:AB233 — amend and do pass Assembly Bill 233
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -3830,7 +4574,7 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (11)
 
-Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Fumo, Ozzie (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Fumo, Ozzie (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 #### Absent (1)
 
@@ -3838,7 +4582,7 @@ Carlton, Maggie (D)
 
 ---
 
-### 18. 80:AB240 — Heard, No Action
+### 28. 80:AB240 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -3850,7 +4594,7 @@ Carlton, Maggie (D)
 
 ---
 
-### 19. 80:AB240 — Heard
+### 29. 80:AB240 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -3862,7 +4606,7 @@ Carlton, Maggie (D)
 
 ---
 
-### 20. 80:AB240 — DO PASS A
+### 30. 80:AB240 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -3882,7 +4626,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 21. 80:AB240 — amend and do pass Assembly Bill 240
+### 31. 80:AB240 — amend and do pass Assembly Bill 240
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -3902,7 +4646,7 @@ Flores, Edgar (D)*, McCurdy, William, II (D)*, Assefa, Alex*, Bilbray-Axelrod, S
 
 ---
 
-### 22. 80:AB265 — Heard
+### 32. 80:AB265 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -3914,7 +4658,7 @@ Flores, Edgar (D)*, McCurdy, William, II (D)*, Assefa, Alex*, Bilbray-Axelrod, S
 
 ---
 
-### 23. 80:AB265 — AMEND AND DO PASS
+### 33. 80:AB265 — AMEND AND DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -3930,11 +4674,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie (D)*, Fumo, Ozzie (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie (D)*, Fumo, Ozzie (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 24. 80:AB275 — Mentioned no jurisdiction
+### 34. 80:AB275 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Commerce and Labor
@@ -3946,7 +4690,7 @@ Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie
 
 ---
 
-### 25. 80:AB275 — Heard, No Action
+### 35. 80:AB275 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Commerce and Labor
@@ -3958,7 +4702,7 @@ Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie
 
 ---
 
-### 26. 80:AB275 — Heard
+### 36. 80:AB275 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Commerce and Labor
@@ -3970,7 +4714,7 @@ Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie
 
 ---
 
-### 27. 80:AB275 — AMEND AND DO PASS AS AMENDED
+### 37. 80:AB275 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Commerce and Labor
@@ -3994,7 +4738,7 @@ Gansert, Heidi Seevers, Dy, Har, Settelmeyer, James A. (R)
 
 ---
 
-### 28. 80:AB275 — amend
+### 38. 80:AB275 — amend
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Commerce and Labor
@@ -4018,7 +4762,7 @@ Edwards, Chris Deputy (R), Frierson, Jason (D)
 
 ---
 
-### 29. 80:AB30 — Mentioned Not Agendized
+### 39. 80:AB30 — Mentioned Not Agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -4030,7 +4774,7 @@ Edwards, Chris Deputy (R), Frierson, Jason (D)
 
 ---
 
-### 30. 80:AB30 — Heard, No Action
+### 40. 80:AB30 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -4042,7 +4786,7 @@ Edwards, Chris Deputy (R), Frierson, Jason (D)
 
 ---
 
-### 31. 80:AB30 — Heard
+### 41. 80:AB30 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -4054,7 +4798,7 @@ Edwards, Chris Deputy (R), Frierson, Jason (D)
 
 ---
 
-### 32. 80:AB30 — Without recommendation
+### 42. 80:AB30 — Without recommendation
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -4074,7 +4818,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 33. 80:AB30 — Amend, and do pass as amended
+### 43. 80:AB30 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -4094,7 +4838,7 @@ Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Fumo, Ozzie (D)
 
 #### Nay (4)
 
-Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. Deputy (R), Wheeler, Jim (R)
+Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. (R), Wheeler, Jim (R)
 
 #### Absent (1)
 
@@ -4102,7 +4846,7 @@ Carlton, Maggie (D)
 
 ---
 
-### 34. 80:AB319 — Heard, No Action
+### 44. 80:AB319 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Commerce and Labor
@@ -4114,7 +4858,7 @@ Carlton, Maggie (D)
 
 ---
 
-### 35. 80:AB319 — No action
+### 45. 80:AB319 — No action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Commerce and Labor
@@ -4126,7 +4870,7 @@ Carlton, Maggie (D)
 
 ---
 
-### 36. 80:AB319 — Heard
+### 46. 80:AB319 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Commerce and Labor
@@ -4138,7 +4882,7 @@ Carlton, Maggie (D)
 
 ---
 
-### 37. 80:AB319 — DO PASS A
+### 47. 80:AB319 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Commerce and Labor
@@ -4158,7 +4902,7 @@ Spearman, Pat (D)*, Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Brooks, 
 
 ---
 
-### 38. 80:AB319 — AMEND AND DO PASS AS
+### 48. 80:AB319 — AMEND AND DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -4174,11 +4918,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 39. 80:AB319 — amend and
+### 49. 80:AB319 — amend and
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Commerce and Labor
@@ -4198,7 +4942,7 @@ Spiegel, Ellen B. (D)*, Frierson, Jason (D)*, Carlton, Maggie (D)*, Daly, Skip (
 
 ---
 
-### 40. 80:AB32 — Mentioned not agendized
+### 50. 80:AB32 — Mentioned not agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -4210,7 +4954,7 @@ Spiegel, Ellen B. (D)*, Frierson, Jason (D)*, Carlton, Maggie (D)*, Daly, Skip (
 
 ---
 
-### 41. 80:AB32 — Mentioned No Jurisdiction
+### 51. 80:AB32 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -4222,7 +4966,7 @@ Spiegel, Ellen B. (D)*, Frierson, Jason (D)*, Carlton, Maggie (D)*, Daly, Skip (
 
 ---
 
-### 42. 80:AB32 — Heard
+### 52. 80:AB32 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Taxation
@@ -4234,7 +4978,7 @@ Spiegel, Ellen B. (D)*, Frierson, Jason (D)*, Carlton, Maggie (D)*, Daly, Skip (
 
 ---
 
-### 43. 80:AB32 — Mentioned No Jurisdiction
+### 53. 80:AB32 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -4246,7 +4990,7 @@ Spiegel, Ellen B. (D)*, Frierson, Jason (D)*, Carlton, Maggie (D)*, Daly, Skip (
 
 ---
 
-### 44. 80:AB32 — Mentioned No Jurisdiction
+### 54. 80:AB32 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -4258,7 +5002,7 @@ Spiegel, Ellen B. (D)*, Frierson, Jason (D)*, Carlton, Maggie (D)*, Daly, Skip (
 
 ---
 
-### 45. 80:AB32 — Mentioned not agendized
+### 55. 80:AB32 — Mentioned not agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Taxation
@@ -4270,7 +5014,7 @@ Spiegel, Ellen B. (D)*, Frierson, Jason (D)*, Carlton, Maggie (D)*, Daly, Skip (
 
 ---
 
-### 46. 80:AB32 — amend and do pass
+### 56. 80:AB32 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Taxation
@@ -4294,7 +5038,7 @@ Thompson, Benitez-
 
 ---
 
-### 47. 80:AB400 — Heard, No Action
+### 57. 80:AB400 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -4306,7 +5050,7 @@ Thompson, Benitez-
 
 ---
 
-### 48. 80:AB400 — Heard
+### 58. 80:AB400 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Taxation
@@ -4318,7 +5062,7 @@ Thompson, Benitez-
 
 ---
 
-### 49. 80:AB400 — AMEND AND DO PASS AS AMENDED
+### 59. 80:AB400 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -4342,7 +5086,7 @@ Kieckhefer, Ben (R)
 
 ---
 
-### 50. 80:AB400 — amend
+### 60. 80:AB400 — amend
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Taxation
@@ -4362,7 +5106,7 @@ Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Backus, Shea (D)*, Benitez-Thompson, Te
 
 ---
 
-### 51. 80:AB413 — Heard, No Action
+### 61. 80:AB413 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -4374,7 +5118,7 @@ Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Backus, Shea (D)*, Benitez-Thompson, Te
 
 ---
 
-### 52. 80:AB413 — Heard
+### 62. 80:AB413 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -4386,7 +5130,7 @@ Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Backus, Shea (D)*, Benitez-Thompson, Te
 
 ---
 
-### 53. 80:AB413 — Discussed as BDR
+### 63. 80:AB413 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -4398,7 +5142,7 @@ Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Backus, Shea (D)*, Benitez-Thompson, Te
 
 ---
 
-### 54. 80:AB413 — DO PASS A
+### 64. 80:AB413 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -4418,7 +5162,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 55. 80:AB413 — amend and do pass Assembly Bill 413
+### 65. 80:AB413 — amend and do pass Assembly Bill 413
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -4438,7 +5182,7 @@ Flores, Edgar (D)*, McCurdy, William, II (D)*, Assefa, Alex*, Bilbray-Axelrod, S
 
 ---
 
-### 56. 80:AB466 — Heard, No Action
+### 66. 80:AB466 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -4450,7 +5194,7 @@ Flores, Edgar (D)*, McCurdy, William, II (D)*, Assefa, Alex*, Bilbray-Axelrod, S
 
 ---
 
-### 57. 80:AB466 — Heard
+### 67. 80:AB466 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Taxation
@@ -4462,7 +5206,7 @@ Flores, Edgar (D)*, McCurdy, William, II (D)*, Assefa, Alex*, Bilbray-Axelrod, S
 
 ---
 
-### 58. 80:AB466 — Discussed as BDR
+### 68. 80:AB466 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -4474,7 +5218,7 @@ Flores, Edgar (D)*, McCurdy, William, II (D)*, Assefa, Alex*, Bilbray-Axelrod, S
 
 ---
 
-### 59. 80:AB466 — DO PASS A
+### 69. 80:AB466 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -4494,7 +5238,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 60. 80:AB466 — DO PASS AS AMENDED
+### 70. 80:AB466 — DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -4510,11 +5254,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 61. 80:AB466 — amend and do pass
+### 71. 80:AB466 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Taxation
@@ -4534,7 +5278,7 @@ Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Backus, Shea (D)*, Benitez-Thompson, Te
 
 ---
 
-### 62. 80:AB504 — Heard, No Action
+### 72. 80:AB504 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -4546,7 +5290,7 @@ Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Backus, Shea (D)*, Benitez-Thompson, Te
 
 ---
 
-### 63. 80:AB504 — Mentioned No Jurisdiction
+### 73. 80:AB504 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -4558,7 +5302,7 @@ Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Backus, Shea (D)*, Benitez-Thompson, Te
 
 ---
 
-### 64. 80:AB504 — Discussed as BDR
+### 74. 80:AB504 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -4570,7 +5314,7 @@ Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Backus, Shea (D)*, Benitez-Thompson, Te
 
 ---
 
-### 65. 80:AB504 — AMEND AND DO PASS AS
+### 75. 80:AB504 — AMEND AND DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -4590,7 +5334,7 @@ Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Canc
 
 ---
 
-### 66. 80:AB504 — Heard; Amend, and do pass as amended
+### 76. 80:AB504 — Heard; Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -4606,11 +5350,87 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 67. 80:AB51 — Heard
+### 77. 80:AB505 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Finance
+- **Date:** Friday, May 31, 2019 8:00 AM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1439.pdf
+
+---
+
+### 78. 80:AB505 — Not heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Monday, May 6, 2019 8:00 AM
+- **Result:** Not heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1171.pdf
+
+---
+
+### 79. 80:AB505 — Discussed as BDR
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Tuesday, April 30, 2019 12:12 PM
+- **Result:** Discussed as BDR
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1133.pdf
+
+---
+
+### 80. 80:AB505 — DO PASS A
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Finance
+- **Date:** Sunday, June 2, 2019 10:00 AM
+- **Result:** pass_unanimous
+- **Counts:** Yea 8; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1464.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (8)
+
+Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Cancela, Yvanna D. (D)*, Brooks, Chris (D)*, Settelmeyer, James A. (R)*, Kieckhefer, Ben (R)*, Goicoechea, Pete (R)*
+
+---
+
+### 81. 80:AB505 — Heard; Amend, and do pass as amended
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Wednesday, May 22, 2019 9:00 AM
+- **Result:** pass
+- **Counts:** Yea 12; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1286.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (12)
+
+Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
+
+---
+
+### 82. 80:AB51 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -4622,7 +5442,7 @@ Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jaure
 
 ---
 
-### 68. 80:AB537 — Discussed as BDR
+### 83. 80:AB537 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -4634,7 +5454,7 @@ Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jaure
 
 ---
 
-### 69. 80:AB537 — DO PASS A
+### 84. 80:AB537 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -4654,7 +5474,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 70. 80:AB537 — AMEND AND DO
+### 85. 80:AB537 — AMEND AND DO
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -4670,11 +5490,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie (D)*, Fumo, Ozzie (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie (D)*, Fumo, Ozzie (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 71. 80:AB541 — Heard, No Action
+### 86. 80:AB541 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -4686,7 +5506,7 @@ Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie
 
 ---
 
-### 72. 80:AB541 — Discussed as BDR
+### 87. 80:AB541 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -4698,7 +5518,7 @@ Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie
 
 ---
 
-### 73. 80:AB541 — Discussed as BDR
+### 88. 80:AB541 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -4710,7 +5530,7 @@ Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie
 
 ---
 
-### 74. 80:AB541 — DO PASS A
+### 89. 80:AB541 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -4730,7 +5550,7 @@ Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Canc
 
 ---
 
-### 75. 80:AB541 — DO PASS
+### 90. 80:AB541 — DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -4746,11 +5566,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 76. 80:AB62 — Heard, No Action
+### 91. 80:AB62 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -4762,7 +5582,7 @@ Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jaure
 
 ---
 
-### 77. 80:AB62 — Heard
+### 92. 80:AB62 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -4774,7 +5594,7 @@ Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jaure
 
 ---
 
-### 78. 80:AB62 — Not heard
+### 93. 80:AB62 — Not heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -4786,7 +5606,7 @@ Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jaure
 
 ---
 
-### 79. 80:AB62 — accept the
+### 94. 80:AB62 — accept the
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -4810,7 +5630,7 @@ Goicoechea, Pete (R)
 
 ---
 
-### 80. 80:AB62 — amend and do pass A
+### 95. 80:AB62 — amend and do pass A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -4830,11 +5650,151 @@ Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie
 
 #### Nay (4)
 
-Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. Deputy (R), Wheeler, Jim (R)
+Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. (R), Wheeler, Jim (R)
 
 ---
 
-### 81. 80:AB95 — Heard, No Action
+### 96. 80:AB73 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Revenue and Economic Development
+- **Date:** Tuesday, May 14, 2019 1:30 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/RED/Final/1186.pdf
+
+---
+
+### 97. 80:AB73 — Mentioned no jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Government Affairs
+- **Date:** Tuesday, March 26, 2019 8:30 AM
+- **Result:** Mentioned no jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/681.pdf
+
+---
+
+### 98. 80:AB73 — Mentioned no jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Government Affairs
+- **Date:** Monday, February 11, 2019 9:00 AM
+- **Result:** Mentioned no jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GA/Final/189.pdf
+
+---
+
+### 99. 80:AB73 — Do pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Revenue and Economic Development
+- **Date:** Thursday, May 16, 2019 1:30 PM
+- **Result:** pass_unanimous
+- **Counts:** Yea 5; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/RED/Final/1229.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (5)
+
+Loop, Marilyn Dondero*, Ratti, Julia (D)*, Parks, David R. (D)*, Kieckhefer, Ben (R)*, Gansert, Heidi Seevers*
+
+---
+
+### 100. 80:AB73 — amend and do pass A
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Taxation
+- **Date:** Thursday, April 11, 2019 4:00 PM
+- **Result:** pass_unanimous
+- **Counts:** Yea 11; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/TAX/Final/847.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (11)
+
+Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Backus, Shea (D)*, Benitez-Thompson, Teresa (D)*, Cohen, Lesley E. (D)*, Flores, Edgar (D)*, Martinez, Susie (D)*, Swank, Heidi (D)*, Edwards, Chris Deputy (R)*, II, Gregory T. Hafen*, Kramer, Al (R)*
+
+---
+
+### 101. 80:AB84 — Mentioned No Jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Government Affairs
+- **Date:** Friday, March 15, 2019 1:00 PM
+- **Result:** Mentioned No Jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/221.pdf
+
+---
+
+### 102. 80:AB84 — Mentioned not agendized
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Thursday, February 14, 2019 8:00 AM
+- **Result:** Mentioned not agendized
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/198.pdf
+
+---
+
+### 103. 80:AB84 — DO PASS A
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Finance
+- **Date:** Sunday, June 2, 2019 10:00 AM
+- **Result:** pass_unanimous
+- **Counts:** Yea 8; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/FIN/Final/1464.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (8)
+
+Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Cancela, Yvanna D. (D)*, Brooks, Chris (D)*, Settelmeyer, James A. (R)*, Kieckhefer, Ben (R)*, Goicoechea, Pete (R)*
+
+---
+
+### 104. 80:AB84 — phase 3 as shown in Exhibit D
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Thursday, May 23, 2019 8:00 AM
+- **Result:** pass
+- **Counts:** Yea 12; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/WM/Final/1294.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (12)
+
+Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
+
+---
+
+### 105. 80:AB93 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -4846,7 +5806,19 @@ Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. Deputy (R), 
 
 ---
 
-### 82. 80:AB95 — Heard
+### 106. 80:AB93 — Not considered
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
+- **Date:** Monday, March 18, 2019 4:00 PM
+- **Result:** Not considered
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/NRAM/Final/537.pdf
+
+---
+
+### 107. 80:AB93 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -4858,7 +5830,75 @@ Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. Deputy (R), 
 
 ---
 
-### 83. 80:AB95 — DO PASS A
+### 108. 80:AB93 — DO PASS A
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Tuesday, May 7, 2019 3:00 PM
+- **Result:** pass_unanimous
+- **Counts:** Yea 5; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/NR/Final/1141.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (5)
+
+Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pete (R)*, Hansen, Ira (R)*
+
+---
+
+### 109. 80:AB93 — do pass Assembly Bill 93
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
+- **Date:** Wednesday, April 10, 2019 4:00 PM
+- **Result:** pass
+- **Counts:** Yea 11; Nay 0; Absent 1; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/NRAM/Final/785.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (11)
+
+Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Fumo, Ozzie (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
+
+#### Absent (1)
+
+Carlton, Maggie (D)
+
+---
+
+### 110. 80:AB95 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Thursday, May 2, 2019 4:00 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/NR/Final/1125.pdf
+
+---
+
+### 111. 80:AB95 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
+- **Date:** Monday, March 4, 2019 4:00 PM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/NRAM/Final/420.pdf
+
+---
+
+### 112. 80:AB95 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -4882,7 +5922,7 @@ Goicoechea, Pete (R), Hansen, Ira (R)
 
 ---
 
-### 84. 80:AB95 — amend and do pass
+### 113. 80:AB95 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -4902,11 +5942,11 @@ Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie
 
 #### Nay (4)
 
-Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. Deputy (R), Wheeler, Jim (R)
+Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. (R), Wheeler, Jim (R)
 
 ---
 
-### 85. 80:SB14 — Mentioned no jurisdiction
+### 114. 80:SB14 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Legislative Operations and Elections
@@ -4918,7 +5958,7 @@ Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. Deputy (R), 
 
 ---
 
-### 86. 80:SB14 — Heard
+### 115. 80:SB14 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -4930,7 +5970,7 @@ Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. Deputy (R), 
 
 ---
 
-### 87. 80:SB14 — Heard, No Action
+### 116. 80:SB14 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -4942,7 +5982,7 @@ Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. Deputy (R), 
 
 ---
 
-### 88. 80:SB14 — amend and do pass Senate Bill 14
+### 117. 80:SB14 — amend and do pass Senate Bill 14
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -4966,7 +6006,7 @@ Ellison, John C. Co-Deputy (R), Flores, Edgar (D)
 
 ---
 
-### 89. 80:SB14 — DO PASS S
+### 118. 80:SB14 — DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -4986,7 +6026,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 90. 80:SB140 — Heard
+### 119. 80:SB140 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -4998,7 +6038,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 91. 80:SB140 — Reconsider
+### 120. 80:SB140 — Reconsider
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -5010,7 +6050,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 92. 80:SB140 — Mentioned No Jurisdiction
+### 121. 80:SB140 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -5022,7 +6062,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 93. 80:SB140 — Heard, No Action
+### 122. 80:SB140 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -5034,7 +6074,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 94. 80:SB140 — amend and do pass Senate Bill 140 (1st Reprint)
+### 123. 80:SB140 — amend and do pass Senate Bill 140 (1st Reprint)
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -5050,7 +6090,7 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (11)
 
-Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Fumo, Ozzie (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Fumo, Ozzie (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 #### Absent (1)
 
@@ -5058,7 +6098,7 @@ Carlton, Maggie (D)
 
 ---
 
-### 95. 80:SB140 — AMEND AND DO PASS AS AMENDED
+### 124. 80:SB140 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -5078,7 +6118,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 96. 80:SB140 — AMEND AND DO PASS AS AMENDED
+### 125. 80:SB140 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -5098,7 +6138,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 97. 80:SB150 — Heard
+### 126. 80:SB150 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -5110,7 +6150,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 98. 80:SB150 — Mentioned No Jurisdiction
+### 127. 80:SB150 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -5122,7 +6162,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 99. 80:SB150 — Heard, No Action
+### 128. 80:SB150 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -5134,7 +6174,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 100. 80:SB150 — Mentioned no jurisdiction
+### 129. 80:SB150 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -5146,7 +6186,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 101. 80:SB150 — DO PASS
+### 130. 80:SB150 — DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -5166,7 +6206,7 @@ Flores, Edgar (D)*, McCurdy, William, II (D)*, Assefa, Alex*, Bilbray-Axelrod, S
 
 ---
 
-### 102. 80:SB150 — AMEND AND DO PA SS AS AMENDED
+### 131. 80:SB150 — AMEND AND DO PA SS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -5186,7 +6226,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 103. 80:SB232 — Heard
+### 132. 80:SB232 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -5198,7 +6238,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 104. 80:SB232 — Heard, No Action
+### 133. 80:SB232 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -5210,7 +6250,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 105. 80:SB232 — DO PASS SENATE
+### 134. 80:SB232 — DO PASS SENATE
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -5226,11 +6266,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie (D)*, Fumo, Ozzie (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Carlton, Maggie (D)*, Fumo, Ozzie (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 106. 80:SB232 — DO PASS S
+### 135. 80:SB232 — DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -5250,7 +6290,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 107. 80:SB236 — Mentioned not agendized
+### 136. 80:SB236 — Mentioned not agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -5262,7 +6302,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 108. 80:SB236 — Heard
+### 137. 80:SB236 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -5274,7 +6314,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 109. 80:SB236 — Heard, No Action
+### 138. 80:SB236 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -5286,7 +6326,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 110. 80:SB236 — AMEND AND DO
+### 139. 80:SB236 — AMEND AND DO
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -5302,7 +6342,7 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (8)
 
-Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Titus, Robin L. Deputy (R)*
+Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Titus, Robin L. (R)*
 
 #### Absent (4)
 
@@ -5310,7 +6350,7 @@ Carlton, Maggie (D), Fumo, Ozzie (D), Hansen, Alexis (R), Wheeler, Jim (R)
 
 ---
 
-### 111. 80:SB236 — AMEND AND DO PASS AS AMENDED
+### 140. 80:SB236 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -5330,7 +6370,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 112. 80:SB250 — Heard
+### 141. 80:SB250 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -5342,7 +6382,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 113. 80:SB250 — Heard, No Action
+### 142. 80:SB250 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -5354,7 +6394,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 114. 80:SB250 — amend and do pass Senate Bill 250 (1st Reprint)
+### 143. 80:SB250 — amend and do pass Senate Bill 250 (1st Reprint)
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -5370,7 +6410,7 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (11)
 
-Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Fumo, Ozzie (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Fumo, Ozzie (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 #### Absent (1)
 
@@ -5378,7 +6418,7 @@ Carlton, Maggie (D)
 
 ---
 
-### 115. 80:SB250 — AMEND AND DO PASS AS AMENDED
+### 144. 80:SB250 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -5398,7 +6438,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 116. 80:SB280 — Heard, No Action
+### 145. 80:SB280 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -5410,7 +6450,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 117. 80:SB298 — Heard
+### 146. 80:SB298 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Taxation
@@ -5422,7 +6462,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 118. 80:SB298 — Not Heard
+### 147. 80:SB298 — Not Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -5434,7 +6474,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 119. 80:SB298 — Heard, No Action
+### 148. 80:SB298 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -5446,7 +6486,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 120. 80:SB298 — amend and do pass S
+### 149. 80:SB298 — amend and do pass S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Taxation
@@ -5466,7 +6506,7 @@ Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Backus, Shea (D)*, Benitez-Thompson, Te
 
 ---
 
-### 121. 80:SB298 — AMEND AND DO PASS AS AMENDED
+### 150. 80:SB298 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -5486,7 +6526,7 @@ Cancela, Yvanna D. (D)*, Brooks, Chris (D)*, Denis, Moises (Mo) (D)*, Spearman, 
 
 ---
 
-### 122. 80:SB423 — Not Heard
+### 151. 80:SB423 — Not Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -5498,7 +6538,7 @@ Cancela, Yvanna D. (D)*, Brooks, Chris (D)*, Denis, Moises (Mo) (D)*, Spearman, 
 
 ---
 
-### 123. 80:SB433 — Heard
+### 152. 80:SB433 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Judiciary
@@ -5510,7 +6550,7 @@ Cancela, Yvanna D. (D)*, Brooks, Chris (D)*, Denis, Moises (Mo) (D)*, Spearman, 
 
 ---
 
-### 124. 80:SB433 — Heard, No Action
+### 153. 80:SB433 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Judiciary
@@ -5522,7 +6562,7 @@ Cancela, Yvanna D. (D)*, Brooks, Chris (D)*, Denis, Moises (Mo) (D)*, Spearman, 
 
 ---
 
-### 125. 80:SB433 — Do pass
+### 154. 80:SB433 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Judiciary
@@ -5542,7 +6582,7 @@ Yeager, Steve (D)*, Cohen, Lesley E. (D)*, Backus, Shea (D)*, Daly, Skip (D)*, F
 
 ---
 
-### 126. 80:SB433 — AMEND AND DO PASS AS
+### 155. 80:SB433 — AMEND AND DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Judiciary
@@ -5562,7 +6602,7 @@ Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Ohrenschall, James (D)*, Loop, 
 
 ---
 
-### 127. 80:SB495 — Not Heard
+### 156. 80:SB495 — Not Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -5574,7 +6614,7 @@ Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Ohrenschall, James (D)*, Loop, 
 
 ---
 
-### 128. 80:SB495 — Heard, No Action
+### 157. 80:SB495 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -5586,7 +6626,7 @@ Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Ohrenschall, James (D)*, Loop, 
 
 ---
 
-### 129. 80:SB495 — Mentioned no jurisdiction
+### 158. 80:SB495 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -5598,7 +6638,7 @@ Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Ohrenschall, James (D)*, Loop, 
 
 ---
 
-### 130. 80:SB495 — Mentioned Not Agendized
+### 159. 80:SB495 — Mentioned Not Agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -5610,7 +6650,7 @@ Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Ohrenschall, James (D)*, Loop, 
 
 ---
 
-### 131. 80:SB495 — Heard, No Action
+### 160. 80:SB495 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -5622,7 +6662,7 @@ Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Ohrenschall, James (D)*, Loop, 
 
 ---
 
-### 132. 80:SB495 — AMEND AND DO PASS AS AMENDED
+### 161. 80:SB495 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -5642,7 +6682,7 @@ Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Canc
 
 ---
 
-### 133. 80:SB495 — DO PASS S
+### 162. 80:SB495 — DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -5662,7 +6702,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 134. 80:SB499 — Mentioned No Jurisdiction
+### 163. 80:SB499 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -5674,7 +6714,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 135. 80:SB499 — Mentioned No Jurisdiction
+### 164. 80:SB499 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -5686,7 +6726,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 136. 80:SB499 — Heard, No Action
+### 165. 80:SB499 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -5698,7 +6738,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 137. 80:SB507 — Mentioned not agendized
+### 166. 80:SB507 — Mentioned not agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -5710,7 +6750,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 138. 80:SB507 — Heard
+### 167. 80:SB507 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -5722,7 +6762,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 139. 80:SB507 — Heard, No Action
+### 168. 80:SB507 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -5734,7 +6774,7 @@ Parks, David R. (D)*, Scheible, Melanie (D)*, Ohrenschall, James (D)*, Kieckhefe
 
 ---
 
-### 140. 80:SB507 — Do pass
+### 169. 80:SB507 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -5750,11 +6790,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 141. 80:SB507 — AMEND AND DO PASS AS AMENDED
+### 170. 80:SB507 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -5774,7 +6814,7 @@ Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Canc
 
 ---
 
-### 142. 80:SB509 — Heard
+### 171. 80:SB509 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -5786,7 +6826,7 @@ Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Canc
 
 ---
 
-### 143. 80:SB509 — Heard, No Action
+### 172. 80:SB509 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -5798,7 +6838,7 @@ Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Canc
 
 ---
 
-### 144. 80:SB509 — Do pass
+### 173. 80:SB509 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -5814,11 +6854,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 145. 80:SB509 — DO PASS S
+### 174. 80:SB509 — DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -5838,7 +6878,7 @@ Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Canc
 
 ---
 
-### 146. 80:SB519 — Heard
+### 175. 80:SB519 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -5850,7 +6890,7 @@ Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Canc
 
 ---
 
-### 147. 80:SB519 — Heard, No Action
+### 176. 80:SB519 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -5862,7 +6902,7 @@ Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Canc
 
 ---
 
-### 148. 80:SB519 — Do pass
+### 177. 80:SB519 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -5878,11 +6918,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Carlton, Maggie (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Jauregui, Sandra (D)*, Monroe-Moreno, Daniele (D)*, Neal, Dina (D)*, Spiegel, Ellen B. (D)*, Swank, Heidi (D)*, Hambrick, John (R)*, Kramer, Al (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 149. 80:SB519 — AMEND AND DO PASS AS
+### 178. 80:SB519 — AMEND AND DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -5902,7 +6942,7 @@ Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Canc
 
 ---
 
-### 150. 80:SB547 — Mentioned no jurisdiction
+### 179. 80:SB547 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Legislative Operations and Elections
@@ -5914,7 +6954,7 @@ Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Canc
 
 ---
 
-### 151. 80:SB547 — Heard, No Action
+### 180. 80:SB547 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -5926,7 +6966,7 @@ Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Canc
 
 ---
 
-### 152. 80:SB547 — Mentioned no jurisdiction
+### 181. 80:SB547 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -5938,7 +6978,7 @@ Woodhouse, Joyce Chief (D)*, Parks, David R. (D)*, Denis, Moises (Mo) (D)*, Canc
 
 ---
 
-### 153. 80:SB547 — do pass Senate Bill 547 (2nd Reprint)
+### 182. 80:SB547 — do pass Senate Bill 547 (2nd Reprint)
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -5958,7 +6998,7 @@ Monroe-Moreno, Daniele (D)*, Yeager, Steve (D)*, Backus, Shea (D)*, Bilbray-Axel
 
 ---
 
-### 154. 80:SB547 — Amend, and do pass as amended
+### 183. 80:SB547 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -5978,7 +7018,7 @@ Cancela, Yvanna D. (D)*, Brooks, Chris (D)*, Denis, Moises (Mo) (D)*, Spearman, 
 
 ---
 
-### 155. 80:SB56 — Heard
+### 184. 80:SB56 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -5990,7 +7030,7 @@ Cancela, Yvanna D. (D)*, Brooks, Chris (D)*, Denis, Moises (Mo) (D)*, Spearman, 
 
 ---
 
-### 156. 80:SB56 — Heard, No Action
+### 185. 80:SB56 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -6002,7 +7042,7 @@ Cancela, Yvanna D. (D)*, Brooks, Chris (D)*, Denis, Moises (Mo) (D)*, Spearman, 
 
 ---
 
-### 157. 80:SB56 — do pass Senate Bill 56 (1st Reprint)
+### 186. 80:SB56 — do pass Senate Bill 56 (1st Reprint)
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
@@ -6022,7 +7062,7 @@ Swank, Heidi (D)*, Bilbray-Axelrod, Shannon (D)*, Assefa, Alex*, Fumo, Ozzie (D)
 
 #### Nay (4)
 
-Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. Deputy (R), Wheeler, Jim (R)
+Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. (R), Wheeler, Jim (R)
 
 #### Absent (1)
 
@@ -6030,7 +7070,7 @@ Carlton, Maggie (D)
 
 ---
 
-### 158. 80:SB56 — AMEND AND DO PASS S
+### 187. 80:SB56 — AMEND AND DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -6050,7 +7090,95 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 159. 81:AB146 — Heard, No Action
+### 188. 80:SCR5 — Be adopted
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
+- **Date:** Monday, May 6, 2019 4:00 PM
+- **Result:** Be adopted
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/NRAM/Final/1029.pdf
+
+---
+
+### 189. 80:SCR5 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Natural Resources, Agriculture, and Mining
+- **Date:** Wednesday, April 24, 2019 4:00 PM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/NRAM/Final/880.pdf
+
+---
+
+### 190. 80:SCR5 — Be adopted
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Thursday, March 28, 2019 4:00 PM
+- **Result:** Be adopted
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/NR/Final/717.pdf
+
+---
+
+### 191. 80:SJR7 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Growth and Infrastructure
+- **Date:** Thursday, May 9, 2019 1:30 PM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GI/Final/1121.pdf
+
+---
+
+### 192. 80:SJR7 — Do pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Growth and Infrastructure
+- **Date:** Thursday, May 16, 2019 1:30 PM
+- **Result:** pass_unanimous
+- **Counts:** Yea 12; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Assembly/GI/Final/1222.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (12)
+
+Monroe-Moreno, Daniele (D)*, Yeager, Steve (D)*, Backus, Shea (D)*, Bilbray-Axelrod, Shannon (D)*, Carrillo, Richard (D)*, Nguyen, Rochelle T. (D)*, Watts, Howard (D)*, Smith, Greg (D)*, Ellison, John C. Co-Deputy (R)*, Leavitt, Glen (R)*, Roberts, Tom Co-Deputy (R)*, Wheeler, Jim (R)*
+
+---
+
+### 193. 80:SJR7 — Do pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Growth and Infrastructure
+- **Date:** Tuesday, April 2, 2019 1:30 PM
+- **Result:** Do pass
+- **Counts:** Yea 8; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/80th2019/Minutes/Senate/GRI/Final/711.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (8)
+
+Cancela, Yvanna D. (D)*, Brooks, Chris (D)*, Denis, Moises (Mo) (D)*, Spearman, Pat (D)*, Washington, Marcia L. (D)*, Hardy, Joseph (Joe) P. (R)*, Settelmeyer, James A. (R)*, Hammond, Scott (R)*
+
+---
+
+### 194. 81:AB146 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -6062,7 +7190,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 160. 81:AB146 — Heard
+### 195. 81:AB146 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -6074,7 +7202,7 @@ Scheible, Melanie (D)*, Brooks, Chris (D)*, Harris, Dallas (D)*, Goicoechea, Pet
 
 ---
 
-### 161. 81:AB146 — amend and do pass as amended A
+### 196. 81:AB146 — amend and do pass as amended A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -6098,7 +7226,7 @@ Hansen, Ira (R)
 
 ---
 
-### 162. 81:AB146 — amend and do pass
+### 197. 81:AB146 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -6122,11 +7250,11 @@ Black, Annie (R), Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Wheeler, J
 
 #### Absent (1)
 
-Titus, Robin L. Deputy (R)
+Titus, Robin L. (R)
 
 ---
 
-### 163. 81:AB184 — Heard, No Action
+### 198. 81:AB184 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -6138,7 +7266,7 @@ Titus, Robin L. Deputy (R)
 
 ---
 
-### 164. 81:AB184 — Mentioned no jurisdiction
+### 199. 81:AB184 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -6150,7 +7278,7 @@ Titus, Robin L. Deputy (R)
 
 ---
 
-### 165. 81:AB184 — Mentioned not agendized
+### 200. 81:AB184 — Mentioned not agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -6162,7 +7290,7 @@ Titus, Robin L. Deputy (R)
 
 ---
 
-### 166. 81:AB184 — Heard
+### 201. 81:AB184 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -6174,7 +7302,7 @@ Titus, Robin L. Deputy (R)
 
 ---
 
-### 167. 81:AB184 — Mentioned not agendized
+### 202. 81:AB184 — Mentioned not agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -6186,7 +7314,7 @@ Titus, Robin L. Deputy (R)
 
 ---
 
-### 168. 81:AB184 — DO PASS A
+### 203. 81:AB184 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -6206,7 +7334,7 @@ Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pe
 
 ---
 
-### 169. 81:AB184 — amend and do pass Assembly Bill 184
+### 204. 81:AB184 — amend and do pass Assembly Bill 184
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -6230,7 +7358,7 @@ Black, Annie (R), Dickman, Jill (R), Ellison, John C. Co-Deputy (R), Matthews, A
 
 ---
 
-### 170. 81:AB31 — Heard, No Action
+### 205. 81:AB31 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -6242,7 +7370,7 @@ Black, Annie (R), Dickman, Jill (R), Ellison, John C. Co-Deputy (R), Matthews, A
 
 ---
 
-### 171. 81:AB31 — Heard
+### 206. 81:AB31 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -6254,7 +7382,7 @@ Black, Annie (R), Dickman, Jill (R), Ellison, John C. Co-Deputy (R), Matthews, A
 
 ---
 
-### 172. 81:AB31 — DO PASS A
+### 207. 81:AB31 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -6274,7 +7402,7 @@ Donate, Fabian (D)*, Scheible, Melanie (D)*, Brooks, Chris (D)*, Goicoechea, Pet
 
 ---
 
-### 173. 81:AB31 — amend and do pass
+### 208. 81:AB31 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -6290,11 +7418,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Carlton, Maggie (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Black, Annie (R)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Carlton, Maggie (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Black, Annie (R)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 174. 81:AB333 — Heard, No Action
+### 209. 81:AB333 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -6306,7 +7434,7 @@ Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, T
 
 ---
 
-### 175. 81:AB333 — Heard
+### 210. 81:AB333 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -6318,7 +7446,7 @@ Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, T
 
 ---
 
-### 176. 81:AB333 — Mentioned not agendized
+### 211. 81:AB333 — Mentioned not agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -6330,7 +7458,7 @@ Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, T
 
 ---
 
-### 177. 81:AB333 — Amend, and do pass as amended
+### 212. 81:AB333 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -6350,7 +7478,7 @@ Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pe
 
 ---
 
-### 178. 81:AB333 — amend and do pass Assembly Bill 333
+### 213. 81:AB333 — amend and do pass Assembly Bill 333
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -6370,7 +7498,7 @@ Flores, Edgar (D)*, Torres, Selena (D)*, Anderson, Natha C. (D)*, Brown-May, Tra
 
 ---
 
-### 179. 81:AB354 — Heard
+### 214. 81:AB354 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -6382,7 +7510,7 @@ Flores, Edgar (D)*, Torres, Selena (D)*, Anderson, Natha C. (D)*, Brown-May, Tra
 
 ---
 
-### 180. 81:AB354 — Discussed as BDR
+### 215. 81:AB354 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -6394,7 +7522,7 @@ Flores, Edgar (D)*, Torres, Selena (D)*, Anderson, Natha C. (D)*, Brown-May, Tra
 
 ---
 
-### 181. 81:AB356 — Heard, No Action
+### 216. 81:AB356 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -6406,7 +7534,7 @@ Flores, Edgar (D)*, Torres, Selena (D)*, Anderson, Natha C. (D)*, Brown-May, Tra
 
 ---
 
-### 182. 81:AB356 — Heard
+### 217. 81:AB356 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -6418,7 +7546,7 @@ Flores, Edgar (D)*, Torres, Selena (D)*, Anderson, Natha C. (D)*, Brown-May, Tra
 
 ---
 
-### 183. 81:AB356 — Discussed as BDR
+### 218. 81:AB356 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -6430,7 +7558,7 @@ Flores, Edgar (D)*, Torres, Selena (D)*, Anderson, Natha C. (D)*, Brown-May, Tra
 
 ---
 
-### 184. 81:AB356 — amend and do pass as amended A
+### 219. 81:AB356 — amend and do pass as amended A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -6450,7 +7578,7 @@ Donate, Fabian (D)*, Scheible, Melanie (D)*, Brooks, Chris (D)*, Goicoechea, Pet
 
 ---
 
-### 185. 81:AB356 — DO PASS AS
+### 220. 81:AB356 — DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -6466,11 +7594,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (14)
 
-Carlton, Maggie (D)*, Monroe-Moreno, Daniele (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Gorelow, Michelle (D)*, Jauregui, Sandra (D)*, Miller, Brittney (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, II, Gregory T. Hafen*, Leavitt, Glen (R)*, Roberts, Tom Co-Deputy (R)*, Titus, Robin L. Deputy (R)*, Tolles, Jill (R)*
+Carlton, Maggie (D)*, Monroe-Moreno, Daniele (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Gorelow, Michelle (D)*, Jauregui, Sandra (D)*, Miller, Brittney (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, II, Gregory T. Hafen*, Leavitt, Glen (R)*, Roberts, Tom Co-Deputy (R)*, Titus, Robin L. (R)*, Tolles, Jill (R)*
 
 ---
 
-### 186. 81:AB356 — AMEND AND DO PASS
+### 221. 81:AB356 — AMEND AND DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -6486,7 +7614,7 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (9)
 
-Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Carlton, Maggie (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Hansen, Alexis (R)*, Titus, Robin L. Deputy (R)*
+Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Carlton, Maggie (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*
 
 #### Nay (3)
 
@@ -6498,7 +7626,7 @@ Tus, Ti
 
 ---
 
-### 187. 81:AB449 — Heard
+### 222. 81:AB449 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -6510,7 +7638,7 @@ Tus, Ti
 
 ---
 
-### 188. 81:AB465 — Heard, No Action
+### 223. 81:AB465 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -6522,7 +7650,7 @@ Tus, Ti
 
 ---
 
-### 189. 81:AB465 — Mentioned No Jurisdiction
+### 224. 81:AB465 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -6534,7 +7662,7 @@ Tus, Ti
 
 ---
 
-### 190. 81:AB465 — Mentioned not agendized
+### 225. 81:AB465 — Mentioned not agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -6546,7 +7674,7 @@ Tus, Ti
 
 ---
 
-### 191. 81:AB465 — Heard
+### 226. 81:AB465 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -6558,7 +7686,7 @@ Tus, Ti
 
 ---
 
-### 192. 81:AB465 — Discussed as BDR
+### 227. 81:AB465 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -6570,7 +7698,7 @@ Tus, Ti
 
 ---
 
-### 193. 81:AB465 — DO PASS A
+### 228. 81:AB465 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -6590,7 +7718,7 @@ Brooks, Chris (D)*, Denis, Moises (Mo) (D)*, Ratti, Julia (D)*, Cannizzaro, Nico
 
 ---
 
-### 194. 81:AB465 — DO PASS
+### 229. 81:AB465 — DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -6606,11 +7734,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (14)
 
-Carlton, Maggie (D)*, Monroe-Moreno, Daniele (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Gorelow, Michelle (D)*, Jauregui, Sandra (D)*, Miller, Brittney (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, II, Gregory T. Hafen*, Leavitt, Glen (R)*, Roberts, Tom Co-Deputy (R)*, Titus, Robin L. Deputy (R)*, Tolles, Jill (R)*
+Carlton, Maggie (D)*, Monroe-Moreno, Daniele (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Gorelow, Michelle (D)*, Jauregui, Sandra (D)*, Miller, Brittney (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, II, Gregory T. Hafen*, Leavitt, Glen (R)*, Roberts, Tom Co-Deputy (R)*, Titus, Robin L. (R)*, Tolles, Jill (R)*
 
 ---
 
-### 195. 81:AB5 — Heard
+### 230. 81:AB5 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -6622,7 +7750,7 @@ Carlton, Maggie (D)*, Monroe-Moreno, Daniele (D)*, Benitez-Thompson, Teresa (D)*
 
 ---
 
-### 196. 81:AB6 — Heard, No Action
+### 231. 81:AB6 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -6634,7 +7762,7 @@ Carlton, Maggie (D)*, Monroe-Moreno, Daniele (D)*, Benitez-Thompson, Teresa (D)*
 
 ---
 
-### 197. 81:AB6 — Heard
+### 232. 81:AB6 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -6646,7 +7774,7 @@ Carlton, Maggie (D)*, Monroe-Moreno, Daniele (D)*, Benitez-Thompson, Teresa (D)*
 
 ---
 
-### 198. 81:AB6 — do pass A
+### 233. 81:AB6 — do pass A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -6666,7 +7794,7 @@ Donate, Fabian (D)*, Scheible, Melanie (D)*, Brooks, Chris (D)*, Goicoechea, Pet
 
 ---
 
-### 199. 81:AB6 — AMEND AND DO PASS
+### 234. 81:AB6 — AMEND AND DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -6682,11 +7810,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Carlton, Maggie (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Black, Annie (R)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Carlton, Maggie (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Black, Annie (R)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 200. 81:AB66 — Not Heard
+### 235. 81:AB66 — Not Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -6698,7 +7826,7 @@ Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, T
 
 ---
 
-### 201. 81:AB66 — Heard, No Action
+### 236. 81:AB66 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -6710,7 +7838,7 @@ Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, T
 
 ---
 
-### 202. 81:AB66 — Not considered
+### 237. 81:AB66 — Not considered
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -6722,7 +7850,7 @@ Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, T
 
 ---
 
-### 203. 81:AB66 — Heard
+### 238. 81:AB66 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -6734,7 +7862,7 @@ Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, T
 
 ---
 
-### 204. 81:AB66 — Mentioned
+### 239. 81:AB66 — Mentioned
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -6746,7 +7874,7 @@ Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, T
 
 ---
 
-### 205. 81:AB66 — Amend, and do pass as amended
+### 240. 81:AB66 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -6766,7 +7894,7 @@ Neal, Dina (D)*, Ratti, Julia (D)*, Denis, Moises (Mo) (D)*, Kieckhefer, Ben (R)
 
 ---
 
-### 206. 81:AB66 — amend and do pass Assembly Bill 66
+### 241. 81:AB66 — amend and do pass Assembly Bill 66
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -6786,7 +7914,7 @@ Cohen, Lesley E. (D)*, Benitez-Thompson, Teresa (D)*, Anderson, Natha C. (D)*, B
 
 ---
 
-### 207. 81:AB97 — Heard, No Action
+### 242. 81:AB97 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -6798,7 +7926,7 @@ Cohen, Lesley E. (D)*, Benitez-Thompson, Teresa (D)*, Anderson, Natha C. (D)*, B
 
 ---
 
-### 208. 81:AB97 — Heard
+### 243. 81:AB97 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -6810,7 +7938,7 @@ Cohen, Lesley E. (D)*, Benitez-Thompson, Teresa (D)*, Anderson, Natha C. (D)*, B
 
 ---
 
-### 209. 81:AB97 — do pass A
+### 244. 81:AB97 — do pass A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -6830,7 +7958,7 @@ Donate, Fabian (D)*, Scheible, Melanie (D)*, Brooks, Chris (D)*, Goicoechea, Pet
 
 ---
 
-### 210. 81:AB97 — amend and do pass
+### 245. 81:AB97 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -6850,11 +7978,11 @@ Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, T
 
 #### Nay (5)
 
-Black, Annie (R), Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. Deputy (R), Wheeler, Jim (R)
+Black, Annie (R), Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Robin L. (R), Wheeler, Jim (R)
 
 ---
 
-### 211. 81:AJR2 — Heard, No Action
+### 246. 81:AJR2 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -6866,7 +7994,7 @@ Black, Annie (R), Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Rob
 
 ---
 
-### 212. 81:AJR2 — Heard
+### 247. 81:AJR2 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -6878,7 +8006,7 @@ Black, Annie (R), Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Rob
 
 ---
 
-### 213. 81:AJR2 — Mentioned
+### 248. 81:AJR2 — Mentioned
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -6890,7 +8018,7 @@ Black, Annie (R), Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Rob
 
 ---
 
-### 214. 81:AJR2 — Discussed as BDR
+### 249. 81:AJR2 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -6902,7 +8030,7 @@ Black, Annie (R), Ellison, John C. Co-Deputy (R), Hansen, Alexis (R), Titus, Rob
 
 ---
 
-### 215. 81:AJR2 — Do pass
+### 250. 81:AJR2 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -6922,7 +8050,7 @@ Donate, Fabian (D)*, Scheible, Melanie (D)*, Brooks, Chris (D)*, Goicoechea, Pet
 
 ---
 
-### 216. 81:AJR2 — Amend, and do pass as amended
+### 251. 81:AJR2 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -6938,11 +8066,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Carlton, Maggie (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Black, Annie (R)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Carlton, Maggie (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Black, Annie (R)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 217. 81:AJR3 — Heard, No Action
+### 252. 81:AJR3 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -6954,7 +8082,7 @@ Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, T
 
 ---
 
-### 218. 81:AJR3 — Heard
+### 253. 81:AJR3 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -6966,7 +8094,7 @@ Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, T
 
 ---
 
-### 219. 81:AJR3 — amend and do pass as amended A
+### 254. 81:AJR3 — amend and do pass as amended A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -6986,7 +8114,7 @@ Donate, Fabian (D)*, Scheible, Melanie (D)*, Brooks, Chris (D)*, Goicoechea, Pet
 
 ---
 
-### 220. 81:AJR3 — introduce BDR 26-718
+### 255. 81:AJR3 — introduce BDR 26-718
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -7002,7 +8130,7 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (10)
 
-Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Black, Annie (R)*, Hansen, Alexis (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Black, Annie (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 #### Absent (2)
 
@@ -7010,7 +8138,7 @@ Carlton, Maggie (D), Ellison, John C. Co-Deputy (R)
 
 ---
 
-### 221. 81:SB10 — Heard, No Action
+### 256. 81:SB10 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -7022,7 +8150,7 @@ Carlton, Maggie (D), Ellison, John C. Co-Deputy (R)
 
 ---
 
-### 222. 81:SB10 — Mentioned No Jurisdiction
+### 257. 81:SB10 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -7034,7 +8162,7 @@ Carlton, Maggie (D), Ellison, John C. Co-Deputy (R)
 
 ---
 
-### 223. 81:SB10 — Mentioned no jurisdiction
+### 258. 81:SB10 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -7046,7 +8174,7 @@ Carlton, Maggie (D), Ellison, John C. Co-Deputy (R)
 
 ---
 
-### 224. 81:SB14 — Heard
+### 259. 81:SB14 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -7058,7 +8186,7 @@ Carlton, Maggie (D), Ellison, John C. Co-Deputy (R)
 
 ---
 
-### 225. 81:SB14 — Heard, No Action
+### 260. 81:SB14 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -7070,7 +8198,7 @@ Carlton, Maggie (D), Ellison, John C. Co-Deputy (R)
 
 ---
 
-### 226. 81:SB14 — do pass Senate Bill 14 (1st Reprint)
+### 261. 81:SB14 — do pass Senate Bill 14 (1st Reprint)
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -7090,7 +8218,7 @@ Flores, Edgar (D)*, Torres, Selena (D)*, Anderson, Natha C. (D)*, Brown-May, Tra
 
 ---
 
-### 227. 81:SB14 — AME ND AND DO PASS AS
+### 262. 81:SB14 — AME ND AND DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -7110,7 +8238,7 @@ Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pe
 
 ---
 
-### 228. 81:SB149 — Heard, No Action
+### 263. 81:SB149 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -7122,7 +8250,7 @@ Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pe
 
 ---
 
-### 229. 81:SB155 — Heard, No Action
+### 264. 81:SB155 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -7134,7 +8262,7 @@ Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pe
 
 ---
 
-### 230. 81:SB205 — Not heard
+### 265. 81:SB205 — Not heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Commerce and Labor
@@ -7146,7 +8274,7 @@ Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pe
 
 ---
 
-### 231. 81:SB205 — Not heard
+### 266. 81:SB205 — Not heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Commerce and Labor
@@ -7158,7 +8286,7 @@ Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pe
 
 ---
 
-### 232. 81:SB205 — Heard, No Action
+### 267. 81:SB205 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -7170,7 +8298,7 @@ Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pe
 
 ---
 
-### 233. 81:SB205 — Heard, No Action
+### 268. 81:SB205 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Health and Human Services
@@ -7182,7 +8310,7 @@ Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pe
 
 ---
 
-### 234. 81:SB205 — do pass
+### 269. 81:SB205 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -7202,7 +8330,7 @@ Flores, Edgar (D)*, Torres, Selena (D)*, Anderson, Natha C. (D)*, Brown-May, Tra
 
 ---
 
-### 235. 81:SB205 — DO PASS S
+### 270. 81:SB205 — DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -7222,7 +8350,7 @@ Brooks, Chris (D)*, Denis, Moises (Mo) (D)*, Ratti, Julia (D)*, Cannizzaro, Nico
 
 ---
 
-### 236. 81:SB205 — AMEND AND DO PASS AS AMENDED
+### 271. 81:SB205 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Health and Human Services
@@ -7242,7 +8370,7 @@ Ratti, Julia (D)*, Spearman, Pat (D)*, Harris, Dallas (D)*, Hardy, Joseph (Joe) 
 
 ---
 
-### 237. 81:SB283 — Heard
+### 272. 81:SB283 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -7254,7 +8382,7 @@ Ratti, Julia (D)*, Spearman, Pat (D)*, Harris, Dallas (D)*, Hardy, Joseph (Joe) 
 
 ---
 
-### 238. 81:SB283 — Heard, No Action
+### 273. 81:SB283 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -7266,7 +8394,7 @@ Ratti, Julia (D)*, Spearman, Pat (D)*, Harris, Dallas (D)*, Hardy, Joseph (Joe) 
 
 ---
 
-### 239. 81:SB283 — amend and do pass Senate Bill 283
+### 274. 81:SB283 — amend and do pass Senate Bill 283
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -7290,7 +8418,7 @@ Black, Annie (R), Ellison, John C. Co-Deputy (R), Matthews, Andy (R), McArthur, 
 
 ---
 
-### 240. 81:SB283 — AMEND AND DO PASS AS AMENDED
+### 275. 81:SB283 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -7314,7 +8442,7 @@ Goicoechea, Pete (R)
 
 ---
 
-### 241. 81:SB297 — Heard
+### 276. 81:SB297 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -7326,7 +8454,7 @@ Goicoechea, Pete (R)
 
 ---
 
-### 242. 81:SB297 — Mentioned no jurisdiction
+### 277. 81:SB297 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -7338,7 +8466,7 @@ Goicoechea, Pete (R)
 
 ---
 
-### 243. 81:SB297 — Heard, No Action
+### 278. 81:SB297 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -7350,7 +8478,7 @@ Goicoechea, Pete (R)
 
 ---
 
-### 244. 81:SB297 — DO PASS
+### 279. 81:SB297 — DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -7374,7 +8502,7 @@ Thompson, Benitez-
 
 ---
 
-### 245. 81:SB297 — AMEND AND DO PASS AS AMENDED
+### 280. 81:SB297 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -7394,7 +8522,7 @@ Brooks, Chris (D)*, Denis, Moises (Mo) (D)*, Ratti, Julia (D)*, Cannizzaro, Nico
 
 ---
 
-### 246. 81:SB297 — AMEND AND DO PASS AS
+### 281. 81:SB297 — AMEND AND DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -7414,7 +8542,7 @@ Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pe
 
 ---
 
-### 247. 81:SB33 — Heard
+### 282. 81:SB33 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -7426,7 +8554,7 @@ Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pe
 
 ---
 
-### 248. 81:SB33 — After Passage Discussion
+### 283. 81:SB33 — After Passage Discussion
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -7438,7 +8566,7 @@ Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pe
 
 ---
 
-### 249. 81:SB33 — Heard, No Action
+### 284. 81:SB33 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -7450,7 +8578,7 @@ Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pe
 
 ---
 
-### 250. 81:SB33 — amend and do pass
+### 285. 81:SB33 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -7466,11 +8594,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Carlton, Maggie (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Black, Annie (R)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Carlton, Maggie (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Black, Annie (R)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 251. 81:SB33 — Amend, and do pass as amended
+### 286. 81:SB33 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -7490,7 +8618,71 @@ Donate, Fabian (D)*, Scheible, Melanie (D)*, Brooks, Chris (D)*, Goicoechea, Pet
 
 ---
 
-### 252. 81:SB395 — Heard
+### 287. 81:SB368 — Mentioned No Jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Finance
+- **Date:** Wednesday, May 26, 2021 9:00 AM
+- **Result:** Mentioned No Jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/FIN/Final/1373.pdf
+
+---
+
+### 288. 81:SB368 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Government Affairs
+- **Date:** Wednesday, April 7, 2021 3:30 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GA/Final/833.pdf
+
+---
+
+### 289. 81:SB368 — Do Pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Tuesday, May 18, 2021 8:00 AM
+- **Result:** pass
+- **Counts:** Yea 14; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/WM/Final/1251.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (14)
+
+Carlton, Maggie (D)*, Monroe-Moreno, Daniele (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Gorelow, Michelle (D)*, Jauregui, Sandra (D)*, Miller, Brittney (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, II, Gregory T. Hafen*, Leavitt, Glen (R)*, Roberts, Tom Co-Deputy (R)*, Titus, Robin L. (R)*, Tolles, Jill (R)*
+
+---
+
+### 290. 81:SB368 — DO PASS S
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Government Affairs
+- **Date:** Friday, April 9, 2021 [Call of Chair, See Agenda]
+- **Result:** pass_unanimous
+- **Counts:** Yea 5; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GA/Final/859.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (5)
+
+Loop, Marilyn Dondero*, Ohrenschall, James (D)*, Neal, Dina (D)*, Goicoechea, Pete (R)*, Hansen, Ira (R)*
+
+---
+
+### 291. 81:SB395 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -7502,7 +8694,7 @@ Donate, Fabian (D)*, Scheible, Melanie (D)*, Brooks, Chris (D)*, Goicoechea, Pet
 
 ---
 
-### 253. 81:SB395 — Not Heard
+### 292. 81:SB395 — Not Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -7514,7 +8706,7 @@ Donate, Fabian (D)*, Scheible, Melanie (D)*, Brooks, Chris (D)*, Goicoechea, Pet
 
 ---
 
-### 254. 81:SB395 — Heard, No Action
+### 293. 81:SB395 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -7526,7 +8718,7 @@ Donate, Fabian (D)*, Scheible, Melanie (D)*, Brooks, Chris (D)*, Goicoechea, Pet
 
 ---
 
-### 255. 81:SB395 — do pass S
+### 294. 81:SB395 — do pass S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -7550,7 +8742,7 @@ Considine, Venicia (D), O'Neill, Roberts, Tom Co-Deputy (R)
 
 ---
 
-### 256. 81:SB395 — DO PASS S
+### 295. 81:SB395 — DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -7570,7 +8762,7 @@ Neal, Dina (D)*, Ratti, Julia (D)*, Denis, Moises (Mo) (D)*, Kieckhefer, Ben (R)
 
 ---
 
-### 257. 81:SB430 — Heard
+### 296. 81:SB430 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -7582,7 +8774,7 @@ Neal, Dina (D)*, Ratti, Julia (D)*, Denis, Moises (Mo) (D)*, Kieckhefer, Ben (R)
 
 ---
 
-### 258. 81:SB430 — Heard, No Action
+### 297. 81:SB430 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -7594,7 +8786,7 @@ Neal, Dina (D)*, Ratti, Julia (D)*, Denis, Moises (Mo) (D)*, Kieckhefer, Ben (R)
 
 ---
 
-### 259. 81:SB430 — Mentioned No Jurisdiction
+### 298. 81:SB430 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -7606,7 +8798,7 @@ Neal, Dina (D)*, Ratti, Julia (D)*, Denis, Moises (Mo) (D)*, Kieckhefer, Ben (R)
 
 ---
 
-### 260. 81:SB430 — DO PASS
+### 299. 81:SB430 — DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -7622,11 +8814,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (14)
 
-Carlton, Maggie (D)*, Monroe-Moreno, Daniele (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Gorelow, Michelle (D)*, Jauregui, Sandra (D)*, Miller, Brittney (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, II, Gregory T. Hafen*, Leavitt, Glen (R)*, Roberts, Tom Co-Deputy (R)*, Titus, Robin L. Deputy (R)*, Tolles, Jill (R)*
+Carlton, Maggie (D)*, Monroe-Moreno, Daniele (D)*, Benitez-Thompson, Teresa (D)*, Frierson, Jason (D)*, Gorelow, Michelle (D)*, Jauregui, Sandra (D)*, Miller, Brittney (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, II, Gregory T. Hafen*, Leavitt, Glen (R)*, Roberts, Tom Co-Deputy (R)*, Titus, Robin L. (R)*, Tolles, Jill (R)*
 
 ---
 
-### 261. 81:SB430 — AMEND AND DO PASS AS
+### 300. 81:SB430 — AMEND AND DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -7646,7 +8838,7 @@ Harris, Dallas (D)*, Brooks, Chris (D)*, Spearman, Pat (D)*, Hammond, Scott (R)*
 
 ---
 
-### 262. 81:SB442 — Heard
+### 301. 81:SB442 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -7658,7 +8850,7 @@ Harris, Dallas (D)*, Brooks, Chris (D)*, Spearman, Pat (D)*, Hammond, Scott (R)*
 
 ---
 
-### 263. 81:SB442 — Heard, No Action
+### 302. 81:SB442 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -7670,7 +8862,7 @@ Harris, Dallas (D)*, Brooks, Chris (D)*, Spearman, Pat (D)*, Hammond, Scott (R)*
 
 ---
 
-### 264. 81:SB442 — do pass
+### 303. 81:SB442 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -7690,7 +8882,7 @@ Cohen, Lesley E. (D)*, Benitez-Thompson, Teresa (D)*, Anderson, Natha C. (D)*, B
 
 ---
 
-### 265. 81:SB442 — AMEND AND DO PASS AS AMENDED
+### 304. 81:SB442 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -7714,7 +8906,7 @@ Pickard, Keith F. (R)
 
 ---
 
-### 266. 81:SB64 — Mentioned No Jurisdiction
+### 305. 81:SB64 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -7726,7 +8918,7 @@ Pickard, Keith F. (R)
 
 ---
 
-### 267. 81:SB64 — Mentioned no jurisdiction
+### 306. 81:SB64 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -7738,7 +8930,7 @@ Pickard, Keith F. (R)
 
 ---
 
-### 268. 81:SB67 — Heard
+### 307. 81:SB67 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -7750,7 +8942,7 @@ Pickard, Keith F. (R)
 
 ---
 
-### 269. 81:SB67 — REFER
+### 308. 81:SB67 — REFER
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -7774,7 +8966,7 @@ Black, Annie (R), Dickman, Jill (R), Ellison, John C. Co-Deputy (R), Matthews, A
 
 ---
 
-### 270. 81:SB67 — AMEND AND DO PASS AS
+### 309. 81:SB67 — AMEND AND DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -7798,7 +8990,111 @@ Hansen, Ira (R)
 
 ---
 
-### 271. 81:SB98 — Heard
+### 310. 81:SB72 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Government Affairs
+- **Date:** Friday, April 23, 2021 9:00 AM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/979.pdf
+
+---
+
+### 311. 81:SB72 — Mentioned not agendized
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Government Affairs
+- **Date:** Thursday, April 22, 2021 9:00 AM
+- **Result:** Mentioned not agendized
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/978.pdf
+
+---
+
+### 312. 81:SB72 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Judiciary
+- **Date:** Monday, February 15, 2021 1:00 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/JUD/Final/272.pdf
+
+---
+
+### 313. 81:SB72 — do pass Senate Bill 72 (1st Reprint)
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Government Affairs
+- **Date:** Wednesday, May 12, 2021 9:00 AM
+- **Result:** pass
+- **Counts:** Yea 8; Nay 5; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/1060.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (8)
+
+Flores, Edgar (D)*, Torres, Selena (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Considine, Venicia (D)*, Duran, Bea (D)*, Martinez, Susie (D)*, Thomas, Clara (Claire) (D)*
+
+#### Nay (5)
+
+Black, Annie (R), Dickman, Jill (R), Ellison, John C. Co-Deputy (R), Matthews, Andy (R), McArthur, Richard (R)
+
+---
+
+### 314. 81:SB72 — amend and do pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Judiciary
+- **Date:** Thursday, March 11, 2021 1:00 PM
+- **Result:** pass_unanimous
+- **Counts:** Yea 7; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/JUD/Final/453.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (7)
+
+Scheible, Melanie (D)*, Cannizzaro, Nicole J. (D)*, Ohrenschall, James (D)*, Harris, Dallas (D)*, Settelmeyer, James A. (R)*, Hansen, Ira (R)*, Pickard, Keith F. (R)*
+
+---
+
+### 315. 81:SB73 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Revenue and Economic Development
+- **Date:** Thursday, March 4, 2021 1:00 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/RED/Final/476.pdf
+
+---
+
+### 316. 81:SB73 — Mentioned no jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Government Affairs
+- **Date:** Tuesday, February 23, 2021 9:00 AM
+- **Result:** Mentioned no jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GA/Final/325.pdf
+
+---
+
+### 317. 81:SB98 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -7810,7 +9106,7 @@ Hansen, Ira (R)
 
 ---
 
-### 272. 81:SB98 — Heard, No Action
+### 318. 81:SB98 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -7822,7 +9118,7 @@ Hansen, Ira (R)
 
 ---
 
-### 273. 81:SB98 — DO PASS SENATE BILL 98
+### 319. 81:SB98 — DO PASS SENATE BILL 98
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -7838,11 +9134,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Carlton, Maggie (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Black, Annie (R)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. Deputy (R)*, Wheeler, Jim (R)*
+Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Carlton, Maggie (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Black, Annie (R)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
 
 ---
 
-### 274. 81:SB98 — Do pass
+### 320. 81:SB98 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -7862,7 +9158,143 @@ Donate, Fabian (D)*, Scheible, Melanie (D)*, Brooks, Chris (D)*, Goicoechea, Pet
 
 ---
 
-### 275. 82:AB131 — Heard, No Action
+### 321. 81:SCR8 — Be adopted
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Growth and Infrastructure
+- **Date:** Tuesday, May 11, 2021 1:30 PM
+- **Result:** Be adopted
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GI/Final/1148.pdf
+
+---
+
+### 322. 81:SCR8 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Growth and Infrastructure
+- **Date:** Thursday, April 29, 2021 1:30 PM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GI/Final/992.pdf
+
+---
+
+### 323. 81:SCR8 — Be adopted
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Growth and Infrastructure
+- **Date:** Wednesday, April 7, 2021 3:30 PM
+- **Result:** Be adopted
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GRI/Final/824.pdf
+
+---
+
+### 324. 81:SCR9 — Heard; Be adopted
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Natural Resources
+- **Date:** Monday, May 24, 2021 4:00 PM
+- **Result:** Heard; Be adopted
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/NR/Final/1294.pdf
+
+---
+
+### 325. 81:SCR9 — Be adopted
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Education
+- **Date:** Wednesday, May 5, 2021 1:00 PM
+- **Result:** Be adopted
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/EDU/Final/1172.pdf
+
+---
+
+### 326. 81:SCR9 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Education
+- **Date:** Wednesday, April 21, 2021 1:00 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/EDU/Final/988.pdf
+
+---
+
+### 327. 81:SJR12 — Mentioned no jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Growth and Infrastructure
+- **Date:** Thursday, April 29, 2021 1:30 PM
+- **Result:** Mentioned no jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/GI/Final/992.pdf
+
+---
+
+### 328. 81:SJR12 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Natural Resources
+- **Date:** Wednesday, April 28, 2021 4:00 PM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/NR/Final/994.pdf
+
+---
+
+### 329. 81:SJR12 — Do pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Natural Resources
+- **Date:** Wednesday, May 5, 2021 4:00 PM
+- **Result:** Do pass
+- **Counts:** Yea 12; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Assembly/NR/Final/1046.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (12)
+
+Watts, Howard (D)*, Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Carlton, Maggie (D)*, González, Cecelia (D)*, Martinez, Susie (D)*, Black, Annie (R)*, Ellison, John C. Co-Deputy (R)*, Hansen, Alexis (R)*, Titus, Robin L. (R)*, Wheeler, Jim (R)*
+
+---
+
+### 330. 81:SJR12 — Do pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Growth and Infrastructure
+- **Date:** Wednesday, April 7, 2021 3:30 PM
+- **Result:** Do pass
+- **Counts:** Yea 5; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/81st2021/Minutes/Senate/GRI/Final/824.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (5)
+
+Harris, Dallas (D)*, Brooks, Chris (D)*, Spearman, Pat (D)*, Hammond, Scott (R)*, Pickard, Keith F. (R)*
+
+---
+
+### 331. 82:AB131 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -7874,7 +9306,7 @@ Donate, Fabian (D)*, Scheible, Melanie (D)*, Brooks, Chris (D)*, Goicoechea, Pet
 
 ---
 
-### 276. 82:AB131 — Heard
+### 332. 82:AB131 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -7886,7 +9318,7 @@ Donate, Fabian (D)*, Scheible, Melanie (D)*, Brooks, Chris (D)*, Goicoechea, Pet
 
 ---
 
-### 277. 82:AB131 — do pass A
+### 333. 82:AB131 — do pass A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -7906,7 +9338,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 278. 82:AB131 — do pass
+### 334. 82:AB131 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -7930,7 +9362,7 @@ DeLong, Rich (R)
 
 ---
 
-### 279. 82:AB19 — Heard, No Action
+### 335. 82:AB19 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -7942,7 +9374,7 @@ DeLong, Rich (R)
 
 ---
 
-### 280. 82:AB19 — Heard
+### 336. 82:AB19 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -7954,7 +9386,7 @@ DeLong, Rich (R)
 
 ---
 
-### 281. 82:AB19 — do pass A
+### 337. 82:AB19 — do pass A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -7974,7 +9406,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 282. 82:AB19 — do pass
+### 338. 82:AB19 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -7994,7 +9426,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 283. 82:AB191 — Heard, No Action
+### 339. 82:AB191 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -8006,7 +9438,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 284. 82:AB191 — Heard
+### 340. 82:AB191 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -8018,7 +9450,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 285. 82:AB191 — amend A
+### 341. 82:AB191 — amend A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -8038,7 +9470,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 286. 82:AB191 — amend and do pass?
+### 342. 82:AB191 — amend and do pass?
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -8058,7 +9490,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 287. 82:AB20 — Heard, No Action
+### 343. 82:AB20 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -8070,7 +9502,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 288. 82:AB20 — Heard
+### 344. 82:AB20 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -8082,7 +9514,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 289. 82:AB20 — Mentioned no jurisdiction
+### 345. 82:AB20 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -8094,7 +9526,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 290. 82:AB20 — do pass A
+### 346. 82:AB20 — do pass A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -8114,7 +9546,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 291. 82:AB20 — do pass
+### 347. 82:AB20 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -8138,7 +9570,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 292. 82:AB220 — Heard, No Action
+### 348. 82:AB220 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -8150,7 +9582,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 293. 82:AB220 — Mentioned No Jurisdiction
+### 349. 82:AB220 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -8162,7 +9594,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 294. 82:AB220 — Mentioned no jurisdiction
+### 350. 82:AB220 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Commerce and Labor
@@ -8174,7 +9606,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 295. 82:AB220 — Heard
+### 351. 82:AB220 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -8186,7 +9618,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 296. 82:AB220 — Discussed as BDR
+### 352. 82:AB220 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -8198,7 +9630,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 297. 82:AB220 — amend A
+### 353. 82:AB220 — amend A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -8218,7 +9650,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 298. 82:AB220 — amend and do pass
+### 354. 82:AB220 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -8246,7 +9678,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 299. 82:AB261 — Heard
+### 355. 82:AB261 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -8258,7 +9690,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 300. 82:AB261 — Mentioned no jurisdiction
+### 356. 82:AB261 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -8270,7 +9702,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 301. 82:AB261 — Heard
+### 357. 82:AB261 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -8282,7 +9714,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 302. 82:AB261 — Discussed as BDR
+### 358. 82:AB261 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -8294,7 +9726,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 303. 82:AB261 — DO PASS A
+### 359. 82:AB261 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -8310,11 +9742,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (8)
 
-Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, Dina (D)*, Nguyen, Rochelle T. (D)*, Goicoechea, Pete (R)*, O'Gara, Heidi Seevers*, Titus, Robin L. Deputy (R)*
+Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, Dina (D)*, Nguyen, Rochelle T. (D)*, Goicoechea, Pete (R)*, O'Gara, Heidi Seevers*, Titus, Robin L. (R)*
 
 ---
 
-### 304. 82:AB261 — AMEND AND DO PASS
+### 360. 82:AB261 — AMEND AND DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -8338,7 +9770,7 @@ Kasama, Heidi (R), Yeager, Steve (D)
 
 ---
 
-### 305. 82:AB261 — amend and do pass A
+### 361. 82:AB261 — amend and do pass A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -8358,7 +9790,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 306. 82:AB263 — Heard, No Action
+### 362. 82:AB263 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -8370,7 +9802,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 307. 82:AB263 — Heard
+### 363. 82:AB263 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -8382,7 +9814,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 308. 82:AB263 — Heard
+### 364. 82:AB263 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Health and Human Services
@@ -8394,7 +9826,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 309. 82:AB263 — AMEND AND DO PASS
+### 365. 82:AB263 — AMEND AND DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -8418,7 +9850,7 @@ Anderson, Natha C. (D), Dickman, Jill (R), Hafen, Gregory T., II (R), O'Neill
 
 ---
 
-### 310. 82:AB263 — amend and do pass
+### 366. 82:AB263 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Health and Human Services
@@ -8442,7 +9874,7 @@ Gray, Ken (R), Hafen, Gregory T., II (R), Hibbetts, Brian (R), Koenig, Gregory (
 
 ---
 
-### 311. 82:AB313 — Heard
+### 367. 82:AB313 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -8454,7 +9886,7 @@ Gray, Ken (R), Hafen, Gregory T., II (R), Hibbetts, Brian (R), Koenig, Gregory (
 
 ---
 
-### 312. 82:AB313 — amend and do pass
+### 368. 82:AB313 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -8478,7 +9910,7 @@ DeLong, Rich (R), Gurr, Bert (R), Hansen, Alexis (R), Yurek, Toby (R)
 
 ---
 
-### 313. 82:AB325 — Heard
+### 369. 82:AB325 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -8490,7 +9922,7 @@ DeLong, Rich (R), Gurr, Bert (R), Hansen, Alexis (R), Yurek, Toby (R)
 
 ---
 
-### 314. 82:AB325 — amend and do pass?
+### 370. 82:AB325 — amend and do pass?
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -8514,7 +9946,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 315. 82:AB34 — Heard, No Action
+### 371. 82:AB34 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -8526,7 +9958,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 316. 82:AB34 — Heard
+### 372. 82:AB34 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -8538,7 +9970,7 @@ Hatch, Selena La Rue
 
 ---
 
-### 317. 82:AB34 — amend and do pass as amended
+### 373. 82:AB34 — amend and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -8558,7 +9990,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 318. 82:AB34 — amend and do pass
+### 374. 82:AB34 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -8582,7 +10014,7 @@ Hansen, Alexis (R)
 
 ---
 
-### 319. 82:AB387 — Heard, No Action
+### 375. 82:AB387 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -8594,7 +10026,7 @@ Hansen, Alexis (R)
 
 ---
 
-### 320. 82:AB387 — Heard
+### 376. 82:AB387 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -8606,7 +10038,7 @@ Hansen, Alexis (R)
 
 ---
 
-### 321. 82:AB387 — Discussed as BDR
+### 377. 82:AB387 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -8618,7 +10050,7 @@ Hansen, Alexis (R)
 
 ---
 
-### 322. 82:AB387 — amend and do pass
+### 378. 82:AB387 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -8642,7 +10074,7 @@ DeLong, Rich (R), Gurr, Bert (R), Hansen, Alexis (R), Yurek, Toby (R)
 
 ---
 
-### 323. 82:AB419 — Mentioned no jurisdiction
+### 379. 82:AB419 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -8654,7 +10086,7 @@ DeLong, Rich (R), Gurr, Bert (R), Hansen, Alexis (R), Yurek, Toby (R)
 
 ---
 
-### 324. 82:AB419 — amend and do pass A
+### 380. 82:AB419 — amend and do pass A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -8678,7 +10110,111 @@ Anderson, Natha C. (D), Nguyen, Duy (D), Orentlicher, David (D)
 
 ---
 
-### 325. 82:AB445 — Heard
+### 381. 82:AB424 — Mentioned No Jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Finance
+- **Date:** Monday, May 22, 2023 6:00 PM
+- **Result:** Mentioned No Jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/FIN/Final/1220.pdf
+
+---
+
+### 382. 82:AB424 — Mentioned no jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Monday, May 22, 2023 8:00 AM
+- **Result:** Mentioned no jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/WM/Final/1179.pdf
+
+---
+
+### 383. 82:AB424 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Tuesday, May 9, 2023 3:30 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/NR/Final/1083.pdf
+
+---
+
+### 384. 82:AB424 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Natural Resources
+- **Date:** Wednesday, April 5, 2023 4:00 PM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/NR/Final/694.pdf
+
+---
+
+### 385. 82:AB424 — Discussed as BDR
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Government Affairs
+- **Date:** Monday, March 27, 2023 11:31 AM
+- **Result:** Discussed as BDR
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/GA/Final/662.pdf
+
+---
+
+### 386. 82:AB424 — do pass A
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Thursday, May 18, 2023 3:30 PM
+- **Result:** pass
+- **Counts:** Yea 5; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/NR/Final/1176.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (5)
+
+Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete (R)*, Hansen, Ira (R)*
+
+---
+
+### 387. 82:AB424 — do pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Natural Resources
+- **Date:** Monday, April 10, 2023 4:00 PM
+- **Result:** pass
+- **Counts:** Yea 11; Nay 0; Absent 1; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/NR/Final/765.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (11)
+
+Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, Brown-May, Tracy (D)*, Considine, Venicia (D)*, Duran, Bea (D)*, Watts, Howard (D)*, DeLong, Rich (R)*, Gurr, Bert (R)*, Hansen, Alexis (R)*, Yurek, Toby (R)*
+
+#### Absent (1)
+
+Hatch, Selena La Rue
+
+---
+
+### 388. 82:AB445 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -8690,7 +10226,7 @@ Anderson, Natha C. (D), Nguyen, Duy (D), Orentlicher, David (D)
 
 ---
 
-### 326. 82:AB445 — Heard
+### 389. 82:AB445 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -8702,7 +10238,7 @@ Anderson, Natha C. (D), Nguyen, Duy (D), Orentlicher, David (D)
 
 ---
 
-### 327. 82:AB445 — do pass A
+### 390. 82:AB445 — do pass A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -8722,7 +10258,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 328. 82:AB449 — Heard
+### 391. 82:AB449 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -8734,7 +10270,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 329. 82:AB449 — Heard
+### 392. 82:AB449 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -8746,7 +10282,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 330. 82:AB449 — DO PASS AS AMENDED
+### 393. 82:AB449 — DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -8766,7 +10302,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea (D)*, Anderson, Natha C. (D)*, Brown-M
 
 ---
 
-### 331. 82:AB449 — amend and do pass A
+### 394. 82:AB449 — amend and do pass A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -8786,7 +10322,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 332. 82:AB470 — Heard, No Action
+### 395. 82:AB470 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -8798,7 +10334,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 333. 82:AB470 — Heard
+### 396. 82:AB470 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -8810,7 +10346,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 334. 82:AB470 — Discussed as BDR
+### 397. 82:AB470 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -8822,7 +10358,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 335. 82:AB470 — Do pass
+### 398. 82:AB470 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -8838,11 +10374,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (8)
 
-Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, Dina (D)*, Nguyen, Rochelle T. (D)*, Goicoechea, Pete (R)*, O'Gara, Heidi Seevers*, Titus, Robin L. Deputy (R)*
+Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, Dina (D)*, Nguyen, Rochelle T. (D)*, Goicoechea, Pete (R)*, O'Gara, Heidi Seevers*, Titus, Robin L. (R)*
 
 ---
 
-### 336. 82:AB470 — DO PASS
+### 399. 82:AB470 — DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -8862,7 +10398,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea (D)*, Anderson, Natha C. (D)*, Brown-M
 
 ---
 
-### 337. 82:AB490 — Heard
+### 400. 82:AB490 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -8874,7 +10410,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea (D)*, Anderson, Natha C. (D)*, Brown-M
 
 ---
 
-### 338. 82:AB490 — amend and do pass Assembly Bill 490
+### 401. 82:AB490 — amend and do pass Assembly Bill 490
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -8894,7 +10430,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 339. 82:AB519 — Mentioned No Jurisdiction
+### 402. 82:AB519 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -8906,7 +10442,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 340. 82:AB519 — Discussed as BDR
+### 403. 82:AB519 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -8918,7 +10454,7 @@ Backus, Shea (D)*, Considine, Venicia (D)*, Anderson, Natha C. (D)*, Cohen, Lesl
 
 ---
 
-### 341. 82:AB519 — AMEND AND DO PASS AS AMENDED
+### 404. 82:AB519 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -8934,11 +10470,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (8)
 
-Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, Dina (D)*, Nguyen, Rochelle T. (D)*, Goicoechea, Pete (R)*, O'Gara, Heidi Seevers*, Titus, Robin L. Deputy (R)*
+Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, Dina (D)*, Nguyen, Rochelle T. (D)*, Goicoechea, Pete (R)*, O'Gara, Heidi Seevers*, Titus, Robin L. (R)*
 
 ---
 
-### 342. 82:AB519 — AMEND AND DO PASS
+### 405. 82:AB519 — AMEND AND DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -8958,7 +10494,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea (D)*, Anderson, Natha C. (D)*, Brown-M
 
 ---
 
-### 343. 82:AB91 — Heard, No Action
+### 406. 82:AB91 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -8970,7 +10506,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea (D)*, Anderson, Natha C. (D)*, Brown-M
 
 ---
 
-### 344. 82:AB91 — Heard
+### 407. 82:AB91 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -8982,7 +10518,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea (D)*, Anderson, Natha C. (D)*, Brown-M
 
 ---
 
-### 345. 82:AB91 — do pass A
+### 408. 82:AB91 — do pass A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -9002,7 +10538,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 346. 82:AB91 — amend and do pass
+### 409. 82:AB91 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -9026,7 +10562,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 347. 82:AB97 — Heard, No Action
+### 410. 82:AB97 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -9038,7 +10574,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 348. 82:AB97 — Heard
+### 411. 82:AB97 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -9050,7 +10586,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 349. 82:AB97 — DO PASS A
+### 412. 82:AB97 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -9070,7 +10606,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 350. 82:AB97 — amend and do pass
+### 413. 82:AB97 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -9090,7 +10626,75 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 351. 82:AJR3 — Heard
+### 414. 82:ACR5 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Tuesday, May 9, 2023 3:30 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/NR/Final/1083.pdf
+
+---
+
+### 415. 82:ACR5 — Be adopted
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Natural Resources
+- **Date:** Monday, April 10, 2023 4:00 PM
+- **Result:** Be adopted
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/NR/Final/765.pdf
+
+---
+
+### 416. 82:ACR5 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Natural Resources
+- **Date:** Wednesday, April 5, 2023 4:00 PM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/NR/Final/694.pdf
+
+---
+
+### 417. 82:ACR5 — Discussed as BDR
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Legislative Operations and Elections
+- **Date:** Thursday, March 16, 2023 4:00 PM
+- **Result:** Discussed as BDR
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/LOE/Final/502.pdf
+
+---
+
+### 418. 82:ACR5 — Do pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Thursday, May 18, 2023 3:30 PM
+- **Result:** Do pass
+- **Counts:** Yea 5; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/NR/Final/1176.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (5)
+
+Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete (R)*, Hansen, Ira (R)*
+
+---
+
+### 419. 82:AJR3 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Legislative Operations and Elections
@@ -9102,7 +10706,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 352. 82:SB112 — Heard, No Action
+### 420. 82:SB112 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -9114,7 +10718,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 353. 82:SB112 — amend and do pass as amended S
+### 421. 82:SB112 — amend and do pass as amended S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -9134,7 +10738,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 354. 82:SB113 — Heard
+### 422. 82:SB113 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -9146,7 +10750,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 355. 82:SB113 — Heard, No Action
+### 423. 82:SB113 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -9158,7 +10762,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 356. 82:SB113 — do pass
+### 424. 82:SB113 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -9182,7 +10786,7 @@ Hansen, Alexis (R)
 
 ---
 
-### 357. 82:SB113 — amend and do pass as amended S
+### 425. 82:SB113 — amend and do pass as amended S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -9202,7 +10806,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 358. 82:SB115 — Heard
+### 426. 82:SB115 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -9214,7 +10818,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 359. 82:SB115 — Heard, No Action
+### 427. 82:SB115 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -9226,7 +10830,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 360. 82:SB115 — do pass
+### 428. 82:SB115 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -9246,7 +10850,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 361. 82:SB115 — AMEND AND DO PASS AS
+### 429. 82:SB115 — AMEND AND DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -9266,7 +10870,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 362. 82:SB169 — Rescheduled
+### 430. 82:SB169 — Rescheduled
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -9278,7 +10882,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 363. 82:SB169 — Heard
+### 431. 82:SB169 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -9290,7 +10894,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 364. 82:SB169 — Heard, No Action
+### 432. 82:SB169 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -9302,7 +10906,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 365. 82:SB169 — do pass
+### 433. 82:SB169 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -9326,7 +10930,7 @@ McArthur, Richard (R)
 
 ---
 
-### 366. 82:SB169 — AMEND AND DO PASS AS
+### 434. 82:SB169 — AMEND AND DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -9346,7 +10950,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 367. 82:SB176 — Mentioned Not Agendized
+### 435. 82:SB176 — Mentioned Not Agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -9358,7 +10962,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 368. 82:SB176 — Mentioned no jurisdiction
+### 436. 82:SB176 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -9370,7 +10974,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 369. 82:SB176 — After Passage Discussion
+### 437. 82:SB176 — After Passage Discussion
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -9382,7 +10986,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 370. 82:SB176 — Heard, No Action
+### 438. 82:SB176 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -9394,7 +10998,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 371. 82:SB176 — amend and do pass
+### 439. 82:SB176 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -9414,7 +11018,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 372. 82:SB180 — Heard
+### 440. 82:SB180 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -9426,7 +11030,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 373. 82:SB180 — Heard, No Action
+### 441. 82:SB180 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -9438,7 +11042,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 374. 82:SB180 — amend and do pass
+### 442. 82:SB180 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -9462,7 +11066,7 @@ Duran, Bea (D)
 
 ---
 
-### 375. 82:SB180 — do pass S
+### 443. 82:SB180 — do pass S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -9482,7 +11086,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 376. 82:SB210 — Heard
+### 444. 82:SB210 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Commerce and Labor
@@ -9494,7 +11098,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 377. 82:SB210 — Heard, No Action
+### 445. 82:SB210 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -9506,7 +11110,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 378. 82:SB210 — do pass
+### 446. 82:SB210 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Commerce and Labor
@@ -9530,7 +11134,7 @@ Hardy, Melissa (R), Kasama, Heidi (R), O'Neill, Yurek, Toby (R)
 
 ---
 
-### 379. 82:SB210 — DO PASS S
+### 447. 82:SB210 — DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -9550,7 +11154,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 380. 82:SB257 — Heard
+### 448. 82:SB257 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -9562,7 +11166,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 381. 82:SB257 — Heard, No Action
+### 449. 82:SB257 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -9574,7 +11178,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 382. 82:SB257 — do pass Senate Bill 257 (1st Reprint)
+### 450. 82:SB257 — do pass Senate Bill 257 (1st Reprint)
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -9594,7 +11198,7 @@ Watts, Howard (D)*, Brown-May, Tracy (D)*, II, Max Carter*, Marzola, Elaine (D)*
 
 ---
 
-### 383. 82:SB257 — AMEND AND DO PASS AS
+### 451. 82:SB257 — AMEND AND DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -9614,7 +11218,7 @@ Harris, Dallas (D)*, Spearman, Pat (D)*, Pazina, Julie (D)*, Hammond, Scott (R)*
 
 ---
 
-### 384. 82:SB258 — Heard
+### 452. 82:SB258 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -9626,7 +11230,7 @@ Harris, Dallas (D)*, Spearman, Pat (D)*, Pazina, Julie (D)*, Hammond, Scott (R)*
 
 ---
 
-### 385. 82:SB258 — Heard, No Action
+### 453. 82:SB258 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -9638,7 +11242,7 @@ Harris, Dallas (D)*, Spearman, Pat (D)*, Pazina, Julie (D)*, Hammond, Scott (R)*
 
 ---
 
-### 386. 82:SB258 — do pass
+### 454. 82:SB258 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -9658,7 +11262,7 @@ Cohen, Lesley E. (D)*, Anderson, Natha C. (D)*, Bilbray-Axelrod, Shannon (D)*, B
 
 ---
 
-### 387. 82:SB258 — amend and do pass S
+### 455. 82:SB258 — amend and do pass S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -9678,7 +11282,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 388. 82:SB261 — Heard
+### 456. 82:SB261 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -9690,7 +11294,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 389. 82:SB261 — Heard, No Action
+### 457. 82:SB261 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -9702,7 +11306,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 390. 82:SB261 — DO PASS
+### 458. 82:SB261 — DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -9722,7 +11326,7 @@ Torres, Selena (D)*, Duran, Bea (D)*, II, Max Carter*, D'Silva, Reuben (D)*, Gon
 
 ---
 
-### 391. 82:SB261 — AMEND AND DO PASS AS
+### 459. 82:SB261 — AMEND AND DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -9742,7 +11346,39 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 392. 82:SB394 — Mentioned Not Agendized
+### 460. 82:SB318 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Government Affairs
+- **Date:** Wednesday, April 5, 2023 3:30 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/715.pdf
+
+---
+
+### 461. 82:SB318 — DO PASS S
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Government Affairs
+- **Date:** Friday, April 14, 2023 [Call of Chair, See Agenda]
+- **Result:** pass_unanimous
+- **Counts:** Yea 5; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/GA/Final/809.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (5)
+
+Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (R)*, Krasner, Lisa (R)*
+
+---
+
+### 462. 82:SB394 — Mentioned Not Agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -9754,7 +11390,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 393. 82:SB394 — Heard
+### 463. 82:SB394 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -9766,7 +11402,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 394. 82:SB394 — Heard, No Action
+### 464. 82:SB394 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -9778,7 +11414,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 395. 82:SB394 — AMEND AND DO PASS AS AMENDED
+### 465. 82:SB394 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -9802,7 +11438,7 @@ Buck, Carrie A. (R), Gansert, Seevers
 
 ---
 
-### 396. 82:SB404 — Heard
+### 466. 82:SB404 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Legislative Operations and Elections
@@ -9814,7 +11450,7 @@ Buck, Carrie A. (R), Gansert, Seevers
 
 ---
 
-### 397. 82:SB404 — Heard, No Action
+### 467. 82:SB404 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Legislative Operations and Elections
@@ -9826,7 +11462,7 @@ Buck, Carrie A. (R), Gansert, Seevers
 
 ---
 
-### 398. 82:SB404 — do pass
+### 468. 82:SB404 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Legislative Operations and Elections
@@ -9846,7 +11482,7 @@ Gorelow, Michelle (D)*, Miller, Brittney (D)*, D'Silva, Reuben (D)*, González, 
 
 ---
 
-### 399. 82:SB404 — Amend, and do pass as amended
+### 469. 82:SB404 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Legislative Operations and Elections
@@ -9870,7 +11506,7 @@ Gansert, Seevers
 
 ---
 
-### 400. 82:SB429 — Heard
+### 470. 82:SB429 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -9882,7 +11518,7 @@ Gansert, Seevers
 
 ---
 
-### 401. 82:SB429 — Heard, No Action
+### 471. 82:SB429 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -9894,7 +11530,7 @@ Gansert, Seevers
 
 ---
 
-### 402. 82:SB429 — do pass Senate Bill 429 (1st Reprint)
+### 472. 82:SB429 — do pass Senate Bill 429 (1st Reprint)
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -9918,7 +11554,7 @@ Gallant, Danielle Co-Deputy (R), Gray, Ken (R), Hafen, Gregory T., II (R), O'Nei
 
 ---
 
-### 403. 82:SB429 — AMEND AND DO PASS AS AMENDED
+### 473. 82:SB429 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -9938,7 +11574,7 @@ Neal, Dina (D)*, Doñate, Fabian (D)*, Spearman, Pat (D)*, O'Gara, Heidi Seevers
 
 ---
 
-### 404. 82:SB431 — Mentioned no jurisdiction
+### 474. 82:SB431 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -9950,7 +11586,7 @@ Neal, Dina (D)*, Doñate, Fabian (D)*, Spearman, Pat (D)*, O'Gara, Heidi Seevers
 
 ---
 
-### 405. 82:SB431 — Heard, No Action
+### 475. 82:SB431 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -9962,7 +11598,7 @@ Neal, Dina (D)*, Doñate, Fabian (D)*, Spearman, Pat (D)*, O'Gara, Heidi Seevers
 
 ---
 
-### 406. 82:SB431 — Mentioned No Jurisdiction
+### 476. 82:SB431 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Education
@@ -9974,7 +11610,7 @@ Neal, Dina (D)*, Doñate, Fabian (D)*, Spearman, Pat (D)*, O'Gara, Heidi Seevers
 
 ---
 
-### 407. 82:SB431 — Mentioned no jurisdiction
+### 477. 82:SB431 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -9986,7 +11622,7 @@ Neal, Dina (D)*, Doñate, Fabian (D)*, Spearman, Pat (D)*, O'Gara, Heidi Seevers
 
 ---
 
-### 408. 82:SB431 — Amend, and do pass as amended
+### 478. 82:SB431 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -10006,7 +11642,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Daly, Skip (D)*, Goicoechea, Pete (
 
 ---
 
-### 409. 82:SB431 — AMEND AND DO PASS
+### 479. 82:SB431 — AMEND AND DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -10026,7 +11662,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea (D)*, Anderson, Natha C. (D)*, Brown-M
 
 ---
 
-### 410. 82:SB472 — Heard, No Action
+### 480. 82:SB472 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -10038,7 +11674,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea (D)*, Anderson, Natha C. (D)*, Brown-M
 
 ---
 
-### 411. 82:SB472 — do pass
+### 481. 82:SB472 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -10058,7 +11694,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea (D)*, Anderson, Natha C. (D)*, Brown-M
 
 ---
 
-### 412. 82:SB472 — DO PASS S
+### 482. 82:SB472 — DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -10074,11 +11710,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (8)
 
-Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, Dina (D)*, Nguyen, Rochelle T. (D)*, Goicoechea, Pete (R)*, O'Gara, Heidi Seevers*, Titus, Robin L. Deputy (R)*
+Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, Dina (D)*, Nguyen, Rochelle T. (D)*, Goicoechea, Pete (R)*, O'Gara, Heidi Seevers*, Titus, Robin L. (R)*
 
 ---
 
-### 413. 82:SB473 — Heard, No Action
+### 483. 82:SB473 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -10090,7 +11726,7 @@ Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, D
 
 ---
 
-### 414. 82:SB473 — do pass
+### 484. 82:SB473 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -10110,7 +11746,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea (D)*, Anderson, Natha C. (D)*, Brown-M
 
 ---
 
-### 415. 82:SB473 — DO PASS S
+### 485. 82:SB473 — DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -10126,11 +11762,75 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (8)
 
-Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, Dina (D)*, Nguyen, Rochelle T. (D)*, Goicoechea, Pete (R)*, O'Gara, Heidi Seevers*, Titus, Robin L. Deputy (R)*
+Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, Dina (D)*, Nguyen, Rochelle T. (D)*, Goicoechea, Pete (R)*, O'Gara, Heidi Seevers*, Titus, Robin L. (R)*
 
 ---
 
-### 416. 82:SB59 — Heard
+### 486. 82:SB492 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Finance
+- **Date:** Saturday, May 27, 2023 9:00 AM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/FIN/Final/1290.pdf
+
+---
+
+### 487. 82:SB492 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Finance
+- **Date:** Monday, May 15, 2023 8:00 AM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/FIN/Final/1089.pdf
+
+---
+
+### 488. 82:SB492 — DO PASS
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Saturday, June 3, 2023 11:00 AM
+- **Result:** pass_unanimous
+- **Counts:** Yea 14; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Assembly/WM/Final/1376.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (14)
+
+Monroe-Moreno, Daniele (D)*, Backus, Shea (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Gorelow, Michelle (D)*, Jauregui, Sandra (D)*, Miller, Cameron (C.H.) (D)*, Peters, Sarah (D)*, Watts, Howard (D)*, Yeager, Steve (D)*, Dickman, Jill (R)*, Kasama, Heidi (R)*, O’Neill, PK (R)*, II, Gregory T. Hafen*
+
+---
+
+### 489. 82:SB492 — AMEND AND DO PASS AS AMENDED
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Finance
+- **Date:** Tuesday, May 30, 2023 8:00 AM
+- **Result:** pass_unanimous
+- **Counts:** Yea 8; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/82nd2023/Minutes/Senate/FIN/Final/1313.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (8)
+
+Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, Dina (D)*, Nguyen, Rochelle T. (D)*, Goicoechea, Pete (R)*, O'Gara, Heidi Seevers*, Titus, Robin L. (R)*
+
+---
+
+### 490. 82:SB59 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -10142,7 +11842,7 @@ Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, D
 
 ---
 
-### 417. 82:SB59 — Heard, No Action
+### 491. 82:SB59 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -10154,7 +11854,7 @@ Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, D
 
 ---
 
-### 418. 82:SB59 — do pass Senate Bill 59 (1st Reprint)
+### 492. 82:SB59 — do pass Senate Bill 59 (1st Reprint)
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -10174,7 +11874,7 @@ Watts, Howard (D)*, Brown-May, Tracy (D)*, II, Max Carter*, Marzola, Elaine (D)*
 
 ---
 
-### 419. 82:SB59 — AMEND AND D O PASS AS AMEN DED
+### 493. 82:SB59 — AMEND AND D O PASS AS AMEN DED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -10194,7 +11894,7 @@ Harris, Dallas (D)*, Spearman, Pat (D)*, Pazina, Julie (D)*, Hammond, Scott (R)*
 
 ---
 
-### 420. 82:SB96 — Heard, No Action
+### 494. 82:SB96 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -10206,7 +11906,7 @@ Harris, Dallas (D)*, Spearman, Pat (D)*, Pazina, Julie (D)*, Hammond, Scott (R)*
 
 ---
 
-### 421. 82:SB99 — Heard, No Action
+### 495. 82:SB99 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -10218,7 +11918,7 @@ Harris, Dallas (D)*, Spearman, Pat (D)*, Pazina, Julie (D)*, Hammond, Scott (R)*
 
 ---
 
-### 422. 82:SB99 — DO PASS
+### 496. 82:SB99 — DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -10242,7 +11942,7 @@ Jauregui, Sandra (D), Yeager, Steve (D)
 
 ---
 
-### 423. 82:SB99 — DO PASS S
+### 497. 82:SB99 — DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -10258,11 +11958,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (8)
 
-Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, Dina (D)*, Nguyen, Rochelle T. (D)*, Goicoechea, Pete (R)*, O'Gara, Heidi Seevers*, Titus, Robin L. Deputy (R)*
+Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, Dina (D)*, Nguyen, Rochelle T. (D)*, Goicoechea, Pete (R)*, O'Gara, Heidi Seevers*, Titus, Robin L. (R)*
 
 ---
 
-### 424. 82:SJR3 — Heard
+### 498. 82:SJR3 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Legislative Operations and Elections
@@ -10274,7 +11974,7 @@ Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, D
 
 ---
 
-### 425. 82:SJR3 — Heard, No Action
+### 499. 82:SJR3 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -10286,7 +11986,7 @@ Loop, Marilyn Dondero*, Cannizzaro, Nicole J. (D)*, Harris, Dallas (D)*, Neal, D
 
 ---
 
-### 426. 82:SJR3 — Amend, and do pass as amended
+### 500. 82:SJR3 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Legislative Operations and Elections
@@ -10306,7 +12006,7 @@ Gorelow, Michelle (D)*, Miller, Brittney (D)*, D'Silva, Reuben (D)*, González, 
 
 ---
 
-### 427. 82:SJR3 — Do pass
+### 501. 82:SJR3 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -10326,7 +12026,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 428. 83:AB1 — Heard, No Action
+### 502. 83:AB1 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -10338,7 +12038,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 429. 83:AB1 — Heard
+### 503. 83:AB1 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -10350,7 +12050,7 @@ Pazina, Julie (D)*, Scheible, Melanie (D)*, Flores, Edgar (D)*, Goicoechea, Pete
 
 ---
 
-### 430. 83:AB1 — Do pass
+### 504. 83:AB1 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -10370,7 +12070,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 431. 83:AB1 — do pass Assembly Bill 1
+### 505. 83:AB1 — do pass Assembly Bill 1
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -10390,7 +12090,7 @@ Considine, Venicia (D)*, Nguyen, Duy (D)*, II, Max E. Carter*, DeLong, Rich (R)*
 
 ---
 
-### 432. 83:AB10 — Heard, No Action
+### 506. 83:AB10 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -10402,7 +12102,7 @@ Considine, Venicia (D)*, Nguyen, Duy (D)*, II, Max E. Carter*, DeLong, Rich (R)*
 
 ---
 
-### 433. 83:AB10 — Heard
+### 507. 83:AB10 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -10414,7 +12114,7 @@ Considine, Venicia (D)*, Nguyen, Duy (D)*, II, Max E. Carter*, DeLong, Rich (R)*
 
 ---
 
-### 434. 83:AB10 — Mentioned No Jurisdiction
+### 508. 83:AB10 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -10426,7 +12126,7 @@ Considine, Venicia (D)*, Nguyen, Duy (D)*, II, Max E. Carter*, DeLong, Rich (R)*
 
 ---
 
-### 435. 83:AB10 — Mentioned not agendized
+### 509. 83:AB10 — Mentioned not agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -10438,7 +12138,7 @@ Considine, Venicia (D)*, Nguyen, Duy (D)*, II, Max E. Carter*, DeLong, Rich (R)*
 
 ---
 
-### 436. 83:AB10 — Do pass
+### 510. 83:AB10 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -10458,7 +12158,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 437. 83:AB10 — DO PASS
+### 511. 83:AB10 — DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -10478,7 +12178,7 @@ Considine, Venicia (D)*, Nguyen, Duy (D)*, II, Max E. Carter*, DeLong, Rich (R)*
 
 ---
 
-### 438. 83:AB104 — Mentioned
+### 512. 83:AB104 — Mentioned
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -10490,7 +12190,7 @@ Considine, Venicia (D)*, Nguyen, Duy (D)*, II, Max E. Carter*, DeLong, Rich (R)*
 
 ---
 
-### 439. 83:AB104 — Heard, No Action
+### 513. 83:AB104 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -10502,7 +12202,7 @@ Considine, Venicia (D)*, Nguyen, Duy (D)*, II, Max E. Carter*, DeLong, Rich (R)*
 
 ---
 
-### 440. 83:AB104 — Mentioned No Jurisdiction
+### 514. 83:AB104 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -10514,7 +12214,7 @@ Considine, Venicia (D)*, Nguyen, Duy (D)*, II, Max E. Carter*, DeLong, Rich (R)*
 
 ---
 
-### 441. 83:AB104 — Mentioned No Jurisdiction
+### 515. 83:AB104 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -10526,7 +12226,7 @@ Considine, Venicia (D)*, Nguyen, Duy (D)*, II, Max E. Carter*, DeLong, Rich (R)*
 
 ---
 
-### 442. 83:AB104 — Heard
+### 516. 83:AB104 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -10538,7 +12238,7 @@ Considine, Venicia (D)*, Nguyen, Duy (D)*, II, Max E. Carter*, DeLong, Rich (R)*
 
 ---
 
-### 443. 83:AB104 — Amend, and do pass as amended
+### 517. 83:AB104 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -10558,7 +12258,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 444. 83:AB104 — amend and do pass Assembly Bill 104
+### 518. 83:AB104 — amend and do pass Assembly Bill 104
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -10578,7 +12278,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 445. 83:AB110 — Heard, No Action
+### 519. 83:AB110 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -10590,7 +12290,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 446. 83:AB110 — Heard
+### 520. 83:AB110 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -10602,7 +12302,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 447. 83:AB110 — Do pass
+### 521. 83:AB110 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -10622,7 +12322,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 448. 83:AB110 — amend and
+### 522. 83:AB110 — amend and
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -10642,7 +12342,7 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 449. 83:AB132 — Heard, No Action
+### 523. 83:AB132 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -10654,7 +12354,7 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 450. 83:AB132 — Heard
+### 524. 83:AB132 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -10666,7 +12366,7 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 451. 83:AB132 — Do pass
+### 525. 83:AB132 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -10686,7 +12386,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 452. 83:AB132 — do pass
+### 526. 83:AB132 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -10706,7 +12406,87 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 453. 83:AB26 — Heard, No Action
+### 527. 83:AB241 — Mentioned No Jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Legislative Operations and Elections
+- **Date:** Thursday, May 1, 2025 3:00 PM
+- **Result:** Mentioned No Jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/LOE/Final/1037.pdf
+
+---
+
+### 528. 83:AB241 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Commerce and Labor
+- **Date:** Wednesday, April 30, 2025 8:00 AM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/CL/Final/816.pdf
+
+---
+
+### 529. 83:AB241 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Commerce and Labor
+- **Date:** Wednesday, March 26, 2025 1:30 PM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/CL/Final/598.pdf
+
+---
+
+### 530. 83:AB241 — AMEND AND DO PASS AS AMENDED
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Commerce and Labor
+- **Date:** Friday, May 16, 2025 8:00 AM
+- **Result:** pass
+- **Counts:** Yea 7; Nay 1; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/CL/Final/1019.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (7)
+
+Pazina, Julie (D)*, Daly, Skip (D)*, Scheible, Melanie (D)*, Lange, Roberta (D)*, Flores, Edgar (D)*, Rogich, Lori (R)*, Steinbeck, John C. (R)*
+
+#### Nay (1)
+
+Ellison, John C. Co-Deputy (R)
+
+---
+
+### 531. 83:AB241 — amend and do pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Commerce and Labor
+- **Date:** Wednesday, April 9, 2025 11:30 AM
+- **Result:** pass
+- **Counts:** Yea 14; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/CL/Final/737.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (14)
+
+Marzola, Elaine H. (D)*, Jauregui, Sandra (D)*, Anderson, Natha C. (D)*, II, Max E. Carter*, Cole, Lisa K. (R)*, Hardy, Melissa R.. (R)*, Kasama, Heidi (R)*, Miller, Brittney M. (D)*, Monroe-Moreno, Daniele (D)*, O’Neill, PK (R)*, Roth, Erica P. (D)*, Torres-Fossett, Selena (D)*, Yeager, Steve (D)*, Yurek, Toby (R)*
+
+---
+
+### 532. 83:AB26 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -10718,7 +12498,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 454. 83:AB26 — Heard
+### 533. 83:AB26 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -10730,7 +12510,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 455. 83:AB26 — Do pass
+### 534. 83:AB26 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -10750,7 +12530,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 456. 83:AB26 — amend
+### 535. 83:AB26 — amend
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -10770,7 +12550,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 457. 83:AB312 — Not heard
+### 536. 83:AB312 — Not heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Judiciary
@@ -10782,7 +12562,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 458. 83:AB363 — Heard
+### 537. 83:AB363 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -10794,7 +12574,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 459. 83:AB363 — Discussed as BDR
+### 538. 83:AB363 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -10806,7 +12586,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 460. 83:AB363 — amend and do pass Assembly Bill 363
+### 539. 83:AB363 — amend and do pass Assembly Bill 363
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -10826,7 +12606,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 461. 83:AB377 — Heard, No Action
+### 540. 83:AB377 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -10838,7 +12618,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 462. 83:AB377 — Heard
+### 541. 83:AB377 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -10850,7 +12630,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 463. 83:AB377 — DO PASS A
+### 542. 83:AB377 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -10870,7 +12650,7 @@ Neal, Dina (D)*, Doñate, Fabian (D)*, Cruz-Crawford, Michelee "Shelly" (D)*, St
 
 ---
 
-### 464. 83:AB377 — amend and do pass Assembly
+### 543. 83:AB377 — amend and do pass Assembly
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -10890,7 +12670,7 @@ Backus, Shea M. (D)*, Considine, Venicia (D)*, D'Silva, Reuben (D)*, Flanagan, T
 
 ---
 
-### 465. 83:AB397 — Mentioned no jurisdiction
+### 544. 83:AB397 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Education
@@ -10902,7 +12682,7 @@ Backus, Shea M. (D)*, Considine, Venicia (D)*, D'Silva, Reuben (D)*, Flanagan, T
 
 ---
 
-### 466. 83:AB397 — Heard
+### 545. 83:AB397 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Education
@@ -10914,7 +12694,7 @@ Backus, Shea M. (D)*, Considine, Venicia (D)*, D'Silva, Reuben (D)*, Flanagan, T
 
 ---
 
-### 467. 83:AB397 — do pass
+### 546. 83:AB397 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Education
@@ -10938,7 +12718,7 @@ Buck, Carrie A. (R), Titus, Robin L. Deputy (R)
 
 ---
 
-### 468. 83:AB397 — AMEND AND DO PASS
+### 547. 83:AB397 — AMEND AND DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -10954,11 +12734,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (14)
 
-Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Dickman, Jill (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Jauregui, Sandra (D)*, Koenig, Gregory S. (R)*, Mosca, Erica (D)*, O’Neill, PK (R)*, Torres-Fossett, Selena (D)*, Watts, Howard (D)*, Yeager, Steve (D)*
+Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Dickman, Jill (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Jauregui, Sandra (D)*, Koenig, Gregory (R)*, Mosca, Erica (D)*, O’Neill, PK (R)*, Torres-Fossett, Selena (D)*, Watts, Howard (D)*, Yeager, Steve (D)*
 
 ---
 
-### 469. 83:AB397 — do pass
+### 548. 83:AB397 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Education
@@ -10974,11 +12754,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (12)
 
-Torres-Fossett, Selena (D)*, D'Silva, Reuben (D)*, Dalia, Joe (D)*, DeLong, Rich (R)*, Flanagan, Tanya P. (D)*, Hansen, Alexis M. (R)*, Hardy, Melissa R.. (R)*, Hunt, Linda F. (D)*, Koenig, Gregory S. (R)*, Hatch, Selena La Rue*, Mosca, Erica (D)*, Orentlicher, David (D)*
+Torres-Fossett, Selena (D)*, D'Silva, Reuben (D)*, Dalia, Joe (D)*, DeLong, Rich (R)*, Flanagan, Tanya P. (D)*, Hansen, Alexis (R)*, Hardy, Melissa R.. (R)*, Hunt, Linda F. (D)*, Koenig, Gregory (R)*, Hatch, Selena La Rue*, Mosca, Erica (D)*, Orentlicher, David (D)*
 
 ---
 
-### 470. 83:AB419 — Heard
+### 549. 83:AB419 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -10990,7 +12770,7 @@ Torres-Fossett, Selena (D)*, D'Silva, Reuben (D)*, Dalia, Joe (D)*, DeLong, Rich
 
 ---
 
-### 471. 83:AB419 — move it without recommendation so it can move
+### 550. 83:AB419 — move it without recommendation so it can move
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -11014,7 +12794,7 @@ Jackson, Jovan A. (D), Karris, Venise (D), Hatch, Selena La Rue
 
 ---
 
-### 472. 83:AB449 — Heard, No Action
+### 551. 83:AB449 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -11026,7 +12806,7 @@ Jackson, Jovan A. (D), Karris, Venise (D), Hatch, Selena La Rue
 
 ---
 
-### 473. 83:AB449 — Heard
+### 552. 83:AB449 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -11038,7 +12818,7 @@ Jackson, Jovan A. (D), Karris, Venise (D), Hatch, Selena La Rue
 
 ---
 
-### 474. 83:AB449 — Do pass
+### 553. 83:AB449 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -11058,7 +12838,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 475. 83:AB449 — amend and do
+### 554. 83:AB449 — amend and do
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -11078,7 +12858,7 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 476. 83:AB485 — Discussed as BDR
+### 555. 83:AB485 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -11090,7 +12870,7 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 477. 83:AB491 — Heard, No Action
+### 556. 83:AB491 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Legislative Operations and Elections
@@ -11102,7 +12882,7 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 478. 83:AB491 — Mentioned no jurisdiction
+### 557. 83:AB491 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Legislative Operations and Elections
@@ -11114,7 +12894,7 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 479. 83:AB491 — Heard
+### 558. 83:AB491 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Legislative Operations and Elections
@@ -11126,7 +12906,7 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 480. 83:AB491 — Discussed as BDR
+### 559. 83:AB491 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Legislative Operations and Elections
@@ -11138,7 +12918,7 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 481. 83:AB491 — Amend, and do pass as amended
+### 560. 83:AB491 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Legislative Operations and Elections
@@ -11158,7 +12938,7 @@ Ohrenschall, James (D)*, Daly, Skip (D)*, Cannizzaro, Nicole J. (D)*, Krasner, L
 
 ---
 
-### 482. 83:AB491 — amend and do
+### 561. 83:AB491 — amend and do
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Legislative Operations and Elections
@@ -11178,7 +12958,7 @@ Mosca, Erica (D)*, González, Cecelia (D)*, Cole, Lisa K. (R)*, Dickman, Jill (R
 
 ---
 
-### 483. 83:AB506 — Heard, No Action
+### 562. 83:AB506 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Legislative Operations and Elections
@@ -11190,7 +12970,7 @@ Mosca, Erica (D)*, González, Cecelia (D)*, Cole, Lisa K. (R)*, Dickman, Jill (R
 
 ---
 
-### 484. 83:AB506 — Heard
+### 563. 83:AB506 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -11202,7 +12982,7 @@ Mosca, Erica (D)*, González, Cecelia (D)*, Cole, Lisa K. (R)*, Dickman, Jill (R
 
 ---
 
-### 485. 83:AB506 — Discussed as BDR
+### 564. 83:AB506 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -11214,7 +12994,7 @@ Mosca, Erica (D)*, González, Cecelia (D)*, Cole, Lisa K. (R)*, Dickman, Jill (R
 
 ---
 
-### 486. 83:AB506 — Do pass
+### 565. 83:AB506 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Legislative Operations and Elections
@@ -11234,7 +13014,7 @@ Ohrenschall, James (D)*, Daly, Skip (D)*, Cannizzaro, Nicole J. (D)*, Krasner, L
 
 ---
 
-### 487. 83:AB506 — do pass Assembly Bill 506
+### 566. 83:AB506 — do pass Assembly Bill 506
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -11250,11 +13030,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (14)
 
-Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Dickman, Jill (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Jauregui, Sandra (D)*, Koenig, Gregory S. (R)*, Mosca, Erica (D)*, O’Neill, PK (R)*, Torres-Fossett, Selena (D)*, Watts, Howard (D)*, Yeager, Steve (D)*
+Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Dickman, Jill (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Jauregui, Sandra (D)*, Koenig, Gregory (R)*, Mosca, Erica (D)*, O’Neill, PK (R)*, Torres-Fossett, Selena (D)*, Watts, Howard (D)*, Yeager, Steve (D)*
 
 ---
 
-### 488. 83:AB528 — Heard
+### 567. 83:AB528 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -11266,7 +13046,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brow
 
 ---
 
-### 489. 83:AB528 — Discussed as BDR
+### 568. 83:AB528 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -11278,7 +13058,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brow
 
 ---
 
-### 490. 83:AB528 — do pass
+### 569. 83:AB528 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -11298,7 +13078,71 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 491. 83:AB592 — Discussed as BDR
+### 570. 83:AB577 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Monday, May 19, 2025 9:00 AM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1156.pdf
+
+---
+
+### 571. 83:AB577 — Discussed as BDR
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Tuesday, May 13, 2025 8:00 AM
+- **Result:** Discussed as BDR
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1123.pdf
+
+---
+
+### 572. 83:AB577 — Do pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Finance
+- **Date:** Wednesday, May 28, 2025 [Call of Chair, See Agenda]
+- **Result:** pass
+- **Counts:** Yea 8; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/1278.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (8)
+
+Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Neal, Dina (D)*, Taylor, Angela D. (D)*, Buck, Carrie A. (R)*, Titus, Robin L. (R)*, Stone, Jeff (R)*
+
+---
+
+### 573. 83:AB577 — do pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Saturday, May 24, 2025 9:00 AM
+- **Result:** pass_unanimous
+- **Counts:** Yea 14; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1203.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (14)
+
+Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Dickman, Jill (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Jauregui, Sandra (D)*, Koenig, Gregory (R)*, Mosca, Erica (D)*, O’Neill, PK (R)*, Torres-Fossett, Selena (D)*, Watts, Howard (D)*, Yeager, Steve (D)*
+
+---
+
+### 574. 83:AB592 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -11310,7 +13154,7 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 492. 83:AB592 — DO PASS A
+### 575. 83:AB592 — DO PASS A
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -11326,11 +13170,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (8)
 
-Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Neal, Dina (D)*, Taylor, Angela D. (D)*, Buck, Carrie A. (R)*, Titus, Robin L. Deputy (R)*, Stone, Jeff (R)*
+Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Neal, Dina (D)*, Taylor, Angela D. (D)*, Buck, Carrie A. (R)*, Titus, Robin L. (R)*, Stone, Jeff (R)*
 
 ---
 
-### 493. 83:AB592 — DO PASS
+### 576. 83:AB592 — DO PASS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -11346,11 +13190,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (14)
 
-Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Dickman, Jill (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Jauregui, Sandra (D)*, Koenig, Gregory S. (R)*, Mosca, Erica (D)*, O’Neill, PK (R)*, Torres-Fossett, Selena (D)*, Watts, Howard (D)*, Yeager, Steve (D)*
+Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Dickman, Jill (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Jauregui, Sandra (D)*, Koenig, Gregory (R)*, Mosca, Erica (D)*, O’Neill, PK (R)*, Torres-Fossett, Selena (D)*, Watts, Howard (D)*, Yeager, Steve (D)*
 
 ---
 
-### 494. 83:AB594 — Heard
+### 577. 83:AB594 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -11362,7 +13206,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brow
 
 ---
 
-### 495. 83:AB594 — Discussed as BDR
+### 578. 83:AB594 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -11374,7 +13218,7 @@ Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brow
 
 ---
 
-### 496. 83:AB594 — Do pass
+### 579. 83:AB594 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -11390,11 +13234,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (8)
 
-Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Neal, Dina (D)*, Taylor, Angela D. (D)*, Buck, Carrie A. (R)*, Titus, Robin L. Deputy (R)*, Stone, Jeff (R)*
+Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Neal, Dina (D)*, Taylor, Angela D. (D)*, Buck, Carrie A. (R)*, Titus, Robin L. (R)*, Stone, Jeff (R)*
 
 ---
 
-### 497. 83:AB594 — Amend, and do pass as amended
+### 580. 83:AB594 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -11414,7 +13258,7 @@ Backus, Shea M. (D)*, Considine, Venicia (D)*, D'Silva, Reuben (D)*, Flanagan, T
 
 ---
 
-### 498. 83:AB70 — Heard, No Action
+### 581. 83:AB70 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -11426,7 +13270,7 @@ Backus, Shea M. (D)*, Considine, Venicia (D)*, D'Silva, Reuben (D)*, Flanagan, T
 
 ---
 
-### 499. 83:AB70 — Heard
+### 582. 83:AB70 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -11438,7 +13282,7 @@ Backus, Shea M. (D)*, Considine, Venicia (D)*, D'Silva, Reuben (D)*, Flanagan, T
 
 ---
 
-### 500. 83:AB70 — Do pass
+### 583. 83:AB70 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -11458,7 +13302,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 501. 83:AB70 — amend and do pass Assembly Bill 70
+### 584. 83:AB70 — amend and do pass Assembly Bill 70
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -11482,7 +13326,7 @@ D'Silva, Reuben (D), Flanagan, Tanya P. (D)
 
 ---
 
-### 502. 83:AB9 — Heard
+### 585. 83:AB9 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -11494,7 +13338,7 @@ D'Silva, Reuben (D), Flanagan, Tanya P. (D)
 
 ---
 
-### 503. 83:AB9 — Amend, and do pass as amended
+### 586. 83:AB9 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -11514,7 +13358,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 504. 83:AJR13 — Heard, No Action
+### 587. 83:AJR13 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Legislative Operations and Elections
@@ -11526,7 +13370,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 505. 83:AJR13 — Heard
+### 588. 83:AJR13 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -11538,7 +13382,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 506. 83:AJR13 — Discussed as BDR
+### 589. 83:AJR13 — Discussed as BDR
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Legislative Operations and Elections
@@ -11550,7 +13394,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 507. 83:AJR13 — Do pass
+### 590. 83:AJR13 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Legislative Operations and Elections
@@ -11570,7 +13414,7 @@ Ohrenschall, James (D)*, Daly, Skip (D)*, Cannizzaro, Nicole J. (D)*, Krasner, L
 
 ---
 
-### 508. 83:AJR13 — Amend, and do pass as amended
+### 591. 83:AJR13 — Amend, and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -11590,7 +13434,167 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 509. 83:SB108 — Heard, No Action
+### 592. 83:SB10 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Natural Resources
+- **Date:** Monday, April 28, 2025 4:00 PM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/NR/Final/958.pdf
+
+---
+
+### 593. 83:SB10 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Tuesday, February 18, 2025 3:30 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/NR/Final/135.pdf
+
+---
+
+### 594. 83:SB10 — do pass Senate Bill 10
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Natural Resources
+- **Date:** Wednesday, May 7, 2025 4:00 PM
+- **Result:** pass_unanimous
+- **Counts:** Yea 11; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/NR/Final/1045.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (11)
+
+Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong, Rich (R)*, Gurr, Bert K. (R)*, Hansen, Alexis (R)*, Jackson, Jovan A. (D)*, Karris, Venise (D)*, Kasama, Heidi (R)*, Marzola, Elaine (D)*, Watts, Howard (D)*
+
+---
+
+### 595. 83:SB10 — DO PASS S
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Tuesday, April 8, 2025 3:30 PM
+- **Result:** pass_unanimous
+- **Counts:** Yea 5; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/NR/Final/755.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (5)
+
+Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)*, Hansen, Ira (R)*, Ellison, John C. Co-Deputy (R)*
+
+---
+
+### 596. 83:SB106 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Saturday, May 24, 2025 9:00 AM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1203.pdf
+
+---
+
+### 597. 83:SB106 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Natural Resources
+- **Date:** Monday, April 28, 2025 4:00 PM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/NR/Final/958.pdf
+
+---
+
+### 598. 83:SB106 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Tuesday, February 25, 2025 3:30 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/NR/Final/282.pdf
+
+---
+
+### 599. 83:SB106 — DO PASS
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Monday, May 26, 2025 8:00 AM
+- **Result:** pass_unanimous
+- **Counts:** Yea 14; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1228.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (14)
+
+Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Dickman, Jill (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Jauregui, Sandra (D)*, Koenig, Gregory (R)*, Mosca, Erica (D)*, O’Neill, PK (R)*, Torres-Fossett, Selena (D)*, Watts, Howard (D)*, Yeager, Steve (D)*
+
+---
+
+### 600. 83:SB106 — do pass Senate Bill 106
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Natural Resources
+- **Date:** Monday, May 5, 2025 4:00 PM
+- **Result:** pass_unanimous
+- **Counts:** Yea 11; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/NR/Final/1044.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (11)
+
+Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong, Rich (R)*, Gurr, Bert K. (R)*, Hansen, Alexis (R)*, Jackson, Jovan A. (D)*, Karris, Venise (D)*, Kasama, Heidi (R)*, Marzola, Elaine (D)*, Watts, Howard (D)*
+
+---
+
+### 601. 83:SB106 — do pass S
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Tuesday, April 1, 2025 3:30 PM
+- **Result:** pass_unanimous
+- **Counts:** Yea 5; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/NR/Final/682.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (5)
+
+Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)*, Hansen, Ira (R)*, Ellison, John C. Co-Deputy (R)*
+
+---
+
+### 602. 83:SB108 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -11602,7 +13606,7 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 510. 83:SB108 — Re-refer
+### 603. 83:SB108 — Re-refer
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -11614,7 +13618,7 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 511. 83:SB108 — do pass
+### 604. 83:SB108 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -11634,7 +13638,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 512. 83:SB108 — DO PASS S
+### 605. 83:SB108 — DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -11650,11 +13654,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (8)
 
-Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Neal, Dina (D)*, Taylor, Angela D. (D)*, Buck, Carrie A. (R)*, Titus, Robin L. Deputy (R)*, Stone, Jeff (R)*
+Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Neal, Dina (D)*, Taylor, Angela D. (D)*, Buck, Carrie A. (R)*, Titus, Robin L. (R)*, Stone, Jeff (R)*
 
 ---
 
-### 513. 83:SB143 — Heard
+### 606. 83:SB143 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -11666,7 +13670,7 @@ Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Ne
 
 ---
 
-### 514. 83:SB143 — Heard, No Action
+### 607. 83:SB143 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Legislative Operations and Elections
@@ -11678,7 +13682,7 @@ Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Ne
 
 ---
 
-### 515. 83:SB143 — do pass
+### 608. 83:SB143 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Legislative Operations and Elections
@@ -11698,7 +13702,7 @@ Ohrenschall, James (D)*, Daly, Skip (D)*, Cannizzaro, Nicole J. (D)*, Krasner, L
 
 ---
 
-### 516. 83:SB276 — Heard
+### 609. 83:SB276 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -11710,7 +13714,7 @@ Ohrenschall, James (D)*, Daly, Skip (D)*, Cannizzaro, Nicole J. (D)*, Krasner, L
 
 ---
 
-### 517. 83:SB276 — Heard, No Action
+### 610. 83:SB276 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -11722,7 +13726,7 @@ Ohrenschall, James (D)*, Daly, Skip (D)*, Cannizzaro, Nicole J. (D)*, Krasner, L
 
 ---
 
-### 518. 83:SB276 — do pass Senate
+### 611. 83:SB276 — do pass Senate
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -11742,7 +13746,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 519. 83:SB276 — amend and do pass
+### 612. 83:SB276 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -11762,7 +13766,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 520. 83:SB31 — Heard
+### 613. 83:SB31 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -11774,7 +13778,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 521. 83:SB31 — Heard, No Action
+### 614. 83:SB31 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -11786,7 +13790,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 522. 83:SB31 — DO PASS S
+### 615. 83:SB31 — DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -11806,7 +13810,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 523. 83:SB324 — Heard
+### 616. 83:SB324 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Natural Resources
@@ -11818,7 +13822,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 524. 83:SB324 — Heard, No Action
+### 617. 83:SB324 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -11830,7 +13834,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 525. 83:SB324 — amend and do pass as
+### 618. 83:SB324 — amend and do pass as
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -11850,7 +13854,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 526. 83:SB326 — Heard
+### 619. 83:SB326 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -11862,7 +13866,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 527. 83:SB326 — Heard, No Action
+### 620. 83:SB326 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -11874,7 +13878,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 528. 83:SB326 — do pass
+### 621. 83:SB326 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -11894,7 +13898,7 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 529. 83:SB326 — AMEND AND DO PASS AS AMENDED
+### 622. 83:SB326 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -11914,7 +13918,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 530. 83:SB342 — Heard, No Action
+### 623. 83:SB342 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -11926,7 +13930,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 531. 83:SB355 — Heard, No Action
+### 624. 83:SB355 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -11938,7 +13942,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 532. 83:SB36 — Heard, No Action
+### 625. 83:SB36 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -11950,7 +13954,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 533. 83:SB36 — After Passage Discussion
+### 626. 83:SB36 — After Passage Discussion
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -11962,7 +13966,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 534. 83:SB36 — Mentioned Not Agendized
+### 627. 83:SB36 — Mentioned Not Agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -11974,7 +13978,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 535. 83:SB36 — Heard, No Action
+### 628. 83:SB36 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -11986,7 +13990,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 536. 83:SB36 — do pass Senate Bill 36 (2nd Reprint)
+### 629. 83:SB36 — do pass Senate Bill 36 (2nd Reprint)
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Natural Resources
@@ -12006,7 +14010,7 @@ Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong,
 
 ---
 
-### 537. 83:SB36 — AMEND AND DO PASS AS AMENDED
+### 630. 83:SB36 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -12022,11 +14026,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (8)
 
-Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Neal, Dina (D)*, Taylor, Angela D. (D)*, Buck, Carrie A. (R)*, Titus, Robin L. Deputy (R)*, Stone, Jeff (R)*
+Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Neal, Dina (D)*, Taylor, Angela D. (D)*, Buck, Carrie A. (R)*, Titus, Robin L. (R)*, Stone, Jeff (R)*
 
 ---
 
-### 538. 83:SB36 — amend and do pass as amended S
+### 631. 83:SB36 — amend and do pass as amended S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -12046,7 +14050,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 539. 83:SB364 — Heard, No Action
+### 632. 83:SB364 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -12058,7 +14062,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 540. 83:SB364 — amend and do pass as
+### 633. 83:SB364 — amend and do pass as
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -12078,147 +14082,31 @@ Neal, Dina (D)*, Doñate, Fabian (D)*, Cruz-Crawford, Michelee "Shelly" (D)*, St
 
 ---
 
-### 541. 83:SB43 — Heard
-
-- **Kind:** committee_hearing
-- **Chamber / committee:** Assembly Natural Resources
-- **Date:** Wednesday, April 30, 2025 4:00 PM
-- **Result:** Heard
-- **Counts:** Yea —; Nay —; Absent —; Excused —
-
-- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/NR/Final/959.pdf
-
----
-
-### 542. 83:SB43 — Heard, No Action
-
-- **Kind:** committee_hearing
-- **Chamber / committee:** Senate Health and Human Services
-- **Date:** Tuesday, February 18, 2025 3:30 PM
-- **Result:** Heard, No Action
-- **Counts:** Yea —; Nay —; Absent —; Excused —
-
-- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/HHS/Final/217.pdf
-
----
-
-### 543. 83:SB43 — amend and do pass Senate
-
-- **Kind:** committee_work_session
-- **Chamber / committee:** Assembly Natural Resources
-- **Date:** Wednesday, May 7, 2025 4:00 PM
-- **Result:** pass_unanimous
-- **Counts:** Yea 11; Nay 0; Absent 0; Excused 0
-
-- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/NR/Final/1045.pdf
-
-_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
-
-_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
-
-#### Yea (11)
-
-Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong, Rich (R)*, Gurr, Bert K. (R)*, Hansen, Alexis (R)*, Jackson, Jovan A. (D)*, Karris, Venise (D)*, Kasama, Heidi (R)*, Marzola, Elaine (D)*, Watts, Howard (D)*
-
----
-
-### 544. 83:SB43 — Amend, and do pass as amended
-
-- **Kind:** committee_work_session
-- **Chamber / committee:** Senate Health and Human Services
-- **Date:** Thursday, March 27, 2025 3:30 PM
-- **Result:** pass
-- **Counts:** Yea 4; Nay 1; Absent 0; Excused 0
-
-- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/HHS/Final/375.pdf
-
-_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
-
-_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
-
-#### Yea (4)
-
-Doñate, Fabian (D)*, Taylor, Angela D. (D)*, Lange, Roberta (D)*, Stone, Jeff (R)*
-
-#### Nay (1)
-
-Titus, Robin L. Deputy (R)
-
----
-
-### 545. 83:SB430 — Not Heard
-
-- **Kind:** committee_hearing
-- **Chamber / committee:** Senate Revenue and Economic Development
-- **Date:** Tuesday, April 8, 2025 1:00 PM
-- **Result:** Not Heard
-- **Counts:** Yea —; Nay —; Absent —; Excused —
-
-- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/RED/Final/786.pdf
-
----
-
-### 546. 83:SB442 — Heard
-
-- **Kind:** committee_hearing
-- **Chamber / committee:** Assembly Ways and Means
-- **Date:** Saturday, May 24, 2025 9:00 AM
-- **Result:** Heard
-- **Counts:** Yea —; Nay —; Absent —; Excused —
-
-- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1203.pdf
-
----
-
-### 547. 83:SB442 — Heard
+### 634. 83:SB426 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Growth and Infrastructure
-- **Date:** Thursday, May 1, 2025 2:00 PM
+- **Date:** Tuesday, May 6, 2025 1:30 PM
 - **Result:** Heard
 - **Counts:** Yea —; Nay —; Absent —; Excused —
 
-- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/980.pdf
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/1054.pdf
 
 ---
 
-### 548. 83:SB442 — Heard, No Action
+### 635. 83:SB426 — Heard, No Action
 
 - **Kind:** committee_hearing
-- **Chamber / committee:** Senate Growth and Infrastructure
-- **Date:** Monday, April 7, 2025 3:30 PM
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Tuesday, April 8, 2025 3:30 PM
 - **Result:** Heard, No Action
 - **Counts:** Yea —; Nay —; Absent —; Excused —
 
-- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GRI/Final/740.pdf
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/NR/Final/755.pdf
 
 ---
 
-### 549. 83:SB442 — DO PASS
-
-- **Kind:** committee_work_session
-- **Chamber / committee:** Assembly Ways and Means
-- **Date:** Sunday, June 1, 2025 10:00 AM
-- **Result:** pass
-- **Counts:** Yea 11; Nay 5; Absent 0; Excused 0
-
-- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1334.pdf
-
-_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
-
-_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
-
-#### Yea (11)
-
-Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, II, Gregory T. Hafen*, Jauregui, Sandra (D)*, Mosca, Erica (D)*, O’Neill, PK (R)*, Torres-Fossett, Selena (D)*, Watts, Howard (D)*, Yeager, Steve (D)*
-
-#### Nay (5)
-
-Dickman, Jill (R), Hafen, Gregory T., II (R), Hibbetts, Brian (R), Koenig, Gregory S. (R), O'Neill
-
----
-
-### 550. 83:SB442 — do pass
+### 636. 83:SB426 — amend and
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Growth and Infrastructure
@@ -12238,7 +14126,187 @@ Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (
 
 ---
 
-### 551. 83:SB442 — AMEND AND DO PASS AS AMENDED
+### 637. 83:SB426 — amend and do pass as
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Thursday, April 10, 2025 3:30 PM
+- **Result:** pass_unanimous
+- **Counts:** Yea 5; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/NR/Final/756.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (5)
+
+Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)*, Hansen, Ira (R)*, Ellison, John C. Co-Deputy (R)*
+
+---
+
+### 638. 83:SB43 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Natural Resources
+- **Date:** Wednesday, April 30, 2025 4:00 PM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/NR/Final/959.pdf
+
+---
+
+### 639. 83:SB43 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Health and Human Services
+- **Date:** Tuesday, February 18, 2025 3:30 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/HHS/Final/217.pdf
+
+---
+
+### 640. 83:SB43 — amend and do pass Senate
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Natural Resources
+- **Date:** Wednesday, May 7, 2025 4:00 PM
+- **Result:** pass_unanimous
+- **Counts:** Yea 11; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/NR/Final/1045.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (11)
+
+Anderson, Natha C. (D)*, Hatch, Selena La Rue*, Considine, Venicia (D)*, DeLong, Rich (R)*, Gurr, Bert K. (R)*, Hansen, Alexis (R)*, Jackson, Jovan A. (D)*, Karris, Venise (D)*, Kasama, Heidi (R)*, Marzola, Elaine (D)*, Watts, Howard (D)*
+
+---
+
+### 641. 83:SB43 — Amend, and do pass as amended
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Health and Human Services
+- **Date:** Thursday, March 27, 2025 3:30 PM
+- **Result:** pass
+- **Counts:** Yea 4; Nay 1; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/HHS/Final/375.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (4)
+
+Doñate, Fabian (D)*, Taylor, Angela D. (D)*, Lange, Roberta (D)*, Stone, Jeff (R)*
+
+#### Nay (1)
+
+Titus, Robin L. (R)
+
+---
+
+### 642. 83:SB430 — Not Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Revenue and Economic Development
+- **Date:** Tuesday, April 8, 2025 1:00 PM
+- **Result:** Not Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/RED/Final/786.pdf
+
+---
+
+### 643. 83:SB442 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Saturday, May 24, 2025 9:00 AM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1203.pdf
+
+---
+
+### 644. 83:SB442 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Growth and Infrastructure
+- **Date:** Thursday, May 1, 2025 2:00 PM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/980.pdf
+
+---
+
+### 645. 83:SB442 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Growth and Infrastructure
+- **Date:** Monday, April 7, 2025 3:30 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/GRI/Final/740.pdf
+
+---
+
+### 646. 83:SB442 — DO PASS
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Sunday, June 1, 2025 10:00 AM
+- **Result:** pass
+- **Counts:** Yea 11; Nay 5; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1334.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (11)
+
+Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, II, Gregory T. Hafen*, Jauregui, Sandra (D)*, Mosca, Erica (D)*, O’Neill, PK (R)*, Torres-Fossett, Selena (D)*, Watts, Howard (D)*, Yeager, Steve (D)*
+
+#### Nay (5)
+
+Dickman, Jill (R), Hafen, Gregory T., II (R), Hibbetts, Brian (R), Koenig, Gregory (R), O'Neill
+
+---
+
+### 647. 83:SB442 — do pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Growth and Infrastructure
+- **Date:** Thursday, May 8, 2025 1:30 PM
+- **Result:** pass
+- **Counts:** Yea 11; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/GI/Final/1055.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (11)
+
+Watts, Howard (D)*, II, Max E. Carter*, Backus, Shea M. (D)*, Brown-May, Tracy (D)*, Dickman, Jill (R)*, Gallant, Danielle Co-Deputy (R)*, Gurr, Bert K. (R)*, Karris, Venise (D)*, Moore, Cinthia Zermeño (D)*, Nguyen, Duy (D)*, Yurek, Toby (R)*
+
+---
+
+### 648. 83:SB442 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Growth and Infrastructure
@@ -12258,7 +14326,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 552. 83:SB461 — Mentioned no jurisdiction
+### 649. 83:SB461 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -12270,7 +14338,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 553. 83:SB461 — Heard, No Action
+### 650. 83:SB461 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -12282,7 +14350,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 554. 83:SB461 — Mentioned
+### 651. 83:SB461 — Mentioned
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -12294,7 +14362,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 555. 83:SB461 — Mentioned No Jurisdiction
+### 652. 83:SB461 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -12306,7 +14374,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 556. 83:SB461 — Mentioned
+### 653. 83:SB461 — Mentioned
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -12318,7 +14386,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 557. 83:SB461 — Mentioned No Jurisdiction
+### 654. 83:SB461 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -12330,7 +14398,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 558. 83:SB466 — Mentioned No Jurisdiction
+### 655. 83:SB466 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -12342,7 +14410,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 559. 83:SB466 — Mentioned
+### 656. 83:SB466 — Mentioned
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -12354,7 +14422,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 560. 83:SB466 — Mentioned Not Agendized
+### 657. 83:SB466 — Mentioned Not Agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Health and Human Services
@@ -12366,7 +14434,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 561. 83:SB466 — Mentioned no jurisdiction
+### 658. 83:SB466 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -12378,7 +14446,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 562. 83:SB466 — Heard, No Action
+### 659. 83:SB466 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Health and Human Services
@@ -12390,7 +14458,7 @@ Nguyen, Rochelle T. (D)*, Pazina, Julie (D)*, Doñate, Fabian (D)*, Hansen, Ira 
 
 ---
 
-### 563. 83:SB466 — do pass
+### 660. 83:SB466 — do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Health and Human Services
@@ -12406,11 +14474,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (14)
 
-Brown-May, Tracy (D)*, Nguyen, Duy (D)*, Dalia, Joe (D)*, Edgeworth, Rebecca (R)*, González, Cecelia (D)*, Goulding, Heather (D)*, Gray, Ken (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Hunt, Linda F. (D)*, Jackson, Jovan A. (D)*, Koenig, Gregory S. (R)*, Nadeem, Hanadi (D)*, Orentlicher, David (D)*
+Brown-May, Tracy (D)*, Nguyen, Duy (D)*, Dalia, Joe (D)*, Edgeworth, Rebecca (R)*, González, Cecelia (D)*, Goulding, Heather (D)*, Gray, Ken (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Hunt, Linda F. (D)*, Jackson, Jovan A. (D)*, Koenig, Gregory (R)*, Nadeem, Hanadi (D)*, Orentlicher, David (D)*
 
 ---
 
-### 564. 83:SB466 — amend and do pass
+### 661. 83:SB466 — amend and do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Health and Human Services
@@ -12430,11 +14498,91 @@ Doñate, Fabian (D)*, Taylor, Angela D. (D)*, Lange, Roberta (D)*, Stone, Jeff (
 
 #### Nay (1)
 
-Titus, Robin L. Deputy (R)
+Titus, Robin L. (R)
 
 ---
 
-### 565. 83:SB55 — Mentioned Not Agendized
+### 662. 83:SB494 — Mentioned no jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Friday, May 30, 2025 8:00 AM
+- **Result:** Mentioned no jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1295.pdf
+
+---
+
+### 663. 83:SB494 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Health and Human Services
+- **Date:** Tuesday, May 27, 2025 [Call of Chair, See Agenda]
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/HHS/Final/1247.pdf
+
+---
+
+### 664. 83:SB494 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Health and Human Services
+- **Date:** Tuesday, May 27, 2025 [Call of Chair, See Agenda]
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/HHS/Final/1247.pdf
+
+---
+
+### 665. 83:SB494 — do pass Senate
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Health and Human Services
+- **Date:** Saturday, May 31, 2025 [Upon Adjournment, See Agenda]
+- **Result:** pass
+- **Counts:** Yea 14; Nay 0; Absent 2; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/HHS/Final/1316.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (14)
+
+Brown-May, Tracy (D)*, Nguyen, Duy (D)*, Dalia, Joe (D)*, Edgeworth, Rebecca (R)*, González, Cecelia (D)*, Goulding, Heather (D)*, Gray, Ken (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Hunt, Linda F. (D)*, Jackson, Jovan A. (D)*, Koenig, Gregory (R)*, Nadeem, Hanadi (D)*, Orentlicher, David (D)*
+
+#### Absent (2)
+
+Ález, Gonz, Hafen
+
+---
+
+### 666. 83:SB494 — Do pass
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Health and Human Services
+- **Date:** Thursday, May 29, 2025 [Call of Chair, See Agenda]
+- **Result:** pass_unanimous
+- **Counts:** Yea 5; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/HHS/Final/1284.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (5)
+
+Doñate, Fabian (D)*, Taylor, Angela D. (D)*, Lange, Roberta (D)*, Titus, Robin L. (R)*, Stone, Jeff (R)*
+
+---
+
+### 667. 83:SB55 — Mentioned Not Agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -12446,7 +14594,7 @@ Titus, Robin L. Deputy (R)
 
 ---
 
-### 566. 83:SB6 — Heard
+### 668. 83:SB6 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -12458,7 +14606,7 @@ Titus, Robin L. Deputy (R)
 
 ---
 
-### 567. 83:SB6 — Heard, No Action
+### 669. 83:SB6 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -12470,7 +14618,7 @@ Titus, Robin L. Deputy (R)
 
 ---
 
-### 568. 83:SB6 — Heard, No Action
+### 670. 83:SB6 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Natural Resources
@@ -12482,7 +14630,7 @@ Titus, Robin L. Deputy (R)
 
 ---
 
-### 569. 83:SB6 — DO PASS SENATE BILL 6
+### 671. 83:SB6 — DO PASS SENATE BILL 6
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Ways and Means
@@ -12498,11 +14646,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (14)
 
-Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Dickman, Jill (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Jauregui, Sandra (D)*, Koenig, Gregory S. (R)*, Mosca, Erica (D)*, O’Neill, PK (R)*, Torres-Fossett, Selena (D)*, Watts, Howard (D)*, Yeager, Steve (D)*
+Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Dickman, Jill (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Jauregui, Sandra (D)*, Koenig, Gregory (R)*, Mosca, Erica (D)*, O’Neill, PK (R)*, Torres-Fossett, Selena (D)*, Watts, Howard (D)*, Yeager, Steve (D)*
 
 ---
 
-### 570. 83:SB6 — Do pass
+### 672. 83:SB6 — Do pass
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Finance
@@ -12518,11 +14666,11 @@ _Yeas inferred as committee members for this session who were not listed as Nay/
 
 #### Yea (8)
 
-Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Neal, Dina (D)*, Taylor, Angela D. (D)*, Buck, Carrie A. (R)*, Titus, Robin L. Deputy (R)*, Stone, Jeff (R)*
+Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Neal, Dina (D)*, Taylor, Angela D. (D)*, Buck, Carrie A. (R)*, Titus, Robin L. (R)*, Stone, Jeff (R)*
 
 ---
 
-### 571. 83:SB6 — DO PASS S
+### 673. 83:SB6 — DO PASS S
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Natural Resources
@@ -12542,7 +14690,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 572. 83:SB69 — Heard
+### 674. 83:SB69 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -12554,7 +14702,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 573. 83:SB69 — Heard, No Action
+### 675. 83:SB69 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -12566,7 +14714,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 574. 83:SB69 — Mentioned No Jurisdiction
+### 676. 83:SB69 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -12578,7 +14726,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 575. 83:SB69 — Mentioned no jurisdiction
+### 677. 83:SB69 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -12590,7 +14738,7 @@ Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)
 
 ---
 
-### 576. 83:SB69 — amend and do pass Senate
+### 678. 83:SB69 — amend and do pass Senate
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Revenue
@@ -12614,7 +14762,7 @@ Gallant, Danielle Co-Deputy (R)
 
 ---
 
-### 577. 83:SB69 — amend and do pass as amended
+### 679. 83:SB69 — amend and do pass as amended
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -12634,7 +14782,7 @@ Neal, Dina (D)*, Doñate, Fabian (D)*, Cruz-Crawford, Michelee "Shelly" (D)*, St
 
 ---
 
-### 578. 83:SB71 — Heard
+### 680. 83:SB71 — Heard
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -12646,7 +14794,7 @@ Neal, Dina (D)*, Doñate, Fabian (D)*, Cruz-Crawford, Michelee "Shelly" (D)*, St
 
 ---
 
-### 579. 83:SB71 — Heard, No Action
+### 681. 83:SB71 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -12658,7 +14806,7 @@ Neal, Dina (D)*, Doñate, Fabian (D)*, Cruz-Crawford, Michelee "Shelly" (D)*, St
 
 ---
 
-### 580. 83:SB71 — amend and do pass Senate Bill 71 (1st Reprint)
+### 682. 83:SB71 — amend and do pass Senate Bill 71 (1st Reprint)
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Assembly Government Affairs
@@ -12678,7 +14826,7 @@ Considine, Venicia (D)*, Nguyen, Duy (D)*, II, Max E. Carter*, DeLong, Rich (R)*
 
 ---
 
-### 581. 83:SB71 — AMEND AND DO PASS AS
+### 683. 83:SB71 — AMEND AND DO PASS AS
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -12698,7 +14846,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 582. 83:SB78 — Mentioned Not Agendized
+### 684. 83:SB78 — Mentioned Not Agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -12710,7 +14858,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 583. 83:SB78 — Mentioned
+### 685. 83:SB78 — Mentioned
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -12722,7 +14870,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 584. 83:SB78 — Mentioned Not Agendized
+### 686. 83:SB78 — Mentioned Not Agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -12734,7 +14882,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 585. 83:SB78 — Mentioned No Jurisdiction
+### 687. 83:SB78 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -12746,7 +14894,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 586. 83:SB78 — Mentioned no jurisdiction
+### 688. 83:SB78 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -12758,7 +14906,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 587. 83:SB78 — Heard, No Action
+### 689. 83:SB78 — Heard, No Action
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -12770,7 +14918,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 588. 83:SB78 — Mentioned no jurisdiction
+### 690. 83:SB78 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -12782,7 +14930,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 589. 83:SB78 — Mentioned No Jurisdiction
+### 691. 83:SB78 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -12794,7 +14942,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 590. 83:SB78 — Mentioned Not Agendized
+### 692. 83:SB78 — Mentioned Not Agendized
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Government Affairs
@@ -12806,7 +14954,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 591. 83:SB78 — Mentioned No Jurisdiction
+### 693. 83:SB78 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -12818,7 +14966,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 592. 83:SB78 — Mentioned no jurisdiction
+### 694. 83:SB78 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -12830,7 +14978,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 593. 83:SB78 — Mentioned no jurisdiction
+### 695. 83:SB78 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Government Affairs
@@ -12842,7 +14990,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 594. 83:SB78 — Mentioned no jurisdiction
+### 696. 83:SB78 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Revenue
@@ -12854,7 +15002,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 595. 83:SB78 — Mentioned No Jurisdiction
+### 697. 83:SB78 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Revenue and Economic Development
@@ -12866,7 +15014,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 596. 83:SB78 — Mentioned no jurisdiction
+### 698. 83:SB78 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Commerce and Labor
@@ -12878,7 +15026,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 597. 83:SB78 — Mentioned No Jurisdiction
+### 699. 83:SB78 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Commerce and Labor
@@ -12890,7 +15038,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 598. 83:SB78 — Mentioned No Jurisdiction
+### 700. 83:SB78 — Mentioned No Jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Senate Finance
@@ -12902,7 +15050,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 599. 83:SB78 — Mentioned no jurisdiction
+### 701. 83:SB78 — Mentioned no jurisdiction
 
 - **Kind:** committee_hearing
 - **Chamber / committee:** Assembly Ways and Means
@@ -12914,7 +15062,7 @@ Flores, Edgar (D)*, Ohrenschall, James (D)*, Neal, Dina (D)*, Daly, Skip (D)*, K
 
 ---
 
-### 600. 83:SB78 — AMEND AND DO PASS AS AMENDED
+### 702. 83:SB78 — AMEND AND DO PASS AS AMENDED
 
 - **Kind:** committee_work_session
 - **Chamber / committee:** Senate Government Affairs
@@ -12935,5 +15083,173 @@ Flores, Edgar (D)*, Krasner, Lisa (R)*, Ellison, John C. Co-Deputy (R)*, Rogich,
 #### Nay (3)
 
 Daly, Skip (D), Neal, Dina (D), Ohrenschall, James (D)
+
+---
+
+### 703. 83:SB83 — Heard
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Tuesday, May 27, 2025 4:00 PM
+- **Result:** Heard
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1241.pdf
+
+---
+
+### 704. 83:SB83 — Mentioned no jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Monday, May 19, 2025 9:00 AM
+- **Result:** Mentioned no jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1156.pdf
+
+---
+
+### 705. 83:SB83 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Finance
+- **Date:** Wednesday, May 14, 2025 8:00 AM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/1136.pdf
+
+---
+
+### 706. 83:SB83 — Mentioned Not Agendized
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Finance
+- **Date:** Monday, May 5, 2025 8:00 AM
+- **Result:** Mentioned Not Agendized
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/1006.pdf
+
+---
+
+### 707. 83:SB83 — Mentioned
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Monday, May 5, 2025 8:00 AM
+- **Result:** Mentioned
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/1006.pdf
+
+---
+
+### 708. 83:SB83 — Mentioned Not Agendized
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Finance
+- **Date:** Thursday, May 1, 2025 8:00 AM
+- **Result:** Mentioned Not Agendized
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/926.pdf
+
+---
+
+### 709. 83:SB83 — Mentioned No Jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Finance
+- **Date:** Wednesday, April 2, 2025 8:00 AM
+- **Result:** Mentioned No Jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/616.pdf
+
+---
+
+### 710. 83:SB83 — Mentioned no jurisdiction
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Wednesday, April 2, 2025 8:00 AM
+- **Result:** Mentioned no jurisdiction
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/616.pdf
+
+---
+
+### 711. 83:SB83 — Heard, No Action
+
+- **Kind:** committee_hearing
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Tuesday, February 18, 2025 3:30 PM
+- **Result:** Heard, No Action
+- **Counts:** Yea —; Nay —; Absent —; Excused —
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/NR/Final/135.pdf
+
+---
+
+### 712. 83:SB83 — DO PASS
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Assembly Ways and Means
+- **Date:** Wednesday, May 28, 2025 8:00 AM
+- **Result:** pass
+- **Counts:** Yea 14; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Assembly/WM/Final/1281.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (14)
+
+Monroe-Moreno, Daniele (D)*, Backus, Shea M. (D)*, Anderson, Natha C. (D)*, Brown-May, Tracy (D)*, Dickman, Jill (R)*, II, Gregory T. Hafen*, Hibbetts, Brian (R)*, Jauregui, Sandra (D)*, Koenig, Gregory (R)*, Mosca, Erica (D)*, O’Neill, PK (R)*, Torres-Fossett, Selena (D)*, Watts, Howard (D)*, Yeager, Steve (D)*
+
+---
+
+### 713. 83:SB83 — INTRODUCE BDR S-1231, BDR S-1232
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Finance
+- **Date:** Monday, May 19, 2025 8:00 AM
+- **Result:** pass_unanimous
+- **Counts:** Yea 8; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/FIN/Final/1152.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (8)
+
+Loop, Marilyn Dondero*, Nguyen, Rochelle T. (D)*, Cannizzaro, Nicole J. (D)*, Neal, Dina (D)*, Taylor, Angela D. (D)*, Buck, Carrie A. (R)*, Titus, Robin L. (R)*, Stone, Jeff (R)*
+
+---
+
+### 714. 83:SB83 — amend and do pass as amended S
+
+- **Kind:** committee_work_session
+- **Chamber / committee:** Senate Natural Resources
+- **Date:** Tuesday, April 8, 2025 3:30 PM
+- **Result:** pass_unanimous
+- **Counts:** Yea 5; Nay 0; Absent 0; Excused 0
+
+- **Minutes:** https://www.leg.state.nv.us/Session/83rd2025/Minutes/Senate/NR/Final/755.pdf
+
+_Nevada committee minutes usually list only NO and ABSENT by name; YEAs are not individually itemized unless the motion was not unanimous._
+
+_Yeas inferred as committee members for this session who were not listed as Nay/Absent/Excused in the minutes vote record._
+
+#### Yea (5)
+
+Cruz-Crawford, Michelee "Shelly" (D)*, Scheible, Melanie (D)*, Pazina, Julie (D)*, Hansen, Ira (R)*, Ellison, John C. Co-Deputy (R)*
 
 ---
