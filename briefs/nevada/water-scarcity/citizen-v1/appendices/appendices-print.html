@@ -27,6 +27,7 @@
 <li><a href="#appendix-f">Appendix F — What this data can and cannot say</a> <span class="toc-desc">— What this data can and cannot say</span></li>
 <li><a href="#appendix-g">Appendix G — Did the text change on the way to the governor?</a> <span class="toc-desc">— Introduced vs. final text for governor-bound bills</span></li>
 <li><a href="#appendix-h">Appendix H — Citizen statements, checked against the record</a> <span class="toc-desc">— The ten most common citizen statements, each checked against the record</span></li>
+<li><a href="#appendix-i">Appendix I — Sources and review notes</a> <span class="toc-desc">— Claim-to-source mapping, collection notes, review status</span></li>
   </ol>
   <p class="note">Committee Yea votes marked * are inferred (committee membership minus recorded Nay/Absent), because Nevada minutes usually list only No and Absent votes.</p>
 </div>
@@ -7581,6 +7582,146 @@ statewide rule copy the northern model, and what happens where there is
 no market to buy rights? - Who prices the use of shared
 transmission?</p>
 <div class="page-break"></div>
+
+</section>
+<div class="page-break"></div>
+<section id="appendix-i">
+<h2 class="appendix-title">Appendix I — Sources and
+review notes</h2>
+<p>This appendix holds the reviewer-facing material that does not belong
+in the front brief: the claim-to-source mapping, data-collection notes,
+and review status.</p>
+<h3 class="sub" id="how-this-record-was-assembled">How this record was
+assembled</h2>
+<p>Bills were discovered two ways for the 2019, 2021, 2023, and 2025
+sessions: NELIS keyword search (water, groundwater, Colorado River, data
+center, partial abatement, and related terms) and a full harvest of the
+Legislative Counsel Bureau’s official Subject Index of Bills (WATER,
+WATER RIGHTS AND APPROPRIATION OF PUBLIC WATERS, STATE ENGINEER,
+DROUGHT, IRRIGATION, DATA CENTERS, RIVERS, FLOOD CONTROL, SEWAGE, TAHOE,
+and related headings). All six 2020–2025 special sessions were checked;
+none contained water or data-center bills. The search yielded 189 bills,
+hand-curated into 108 policy bills (the basis for all headline numbers)
+and 81 context bills kept for audit. This is broad, double-source
+coverage but not a provably complete universe; the record shows where
+each bill stopped, never why. Committee Yea votes are partly inferred
+(committee membership minus recorded Nay/Absent) because Nevada minutes
+usually list only No and Absent votes; those rows are marked in the
+source data. Party labels come from official NELIS legislator rosters
+(100% of roll-call rows matched).</p>
+<h3 class="sub" id="claim-to-source-mapping-front-brief">Claim-to-source mapping
+(front brief)</h2>
+<p>Bill keys are <code>session:identifier</code> (80=2019, 81=2021,
+82=2023, 83=2025). Machine sources live in
+<code>working/nevada/water-scarcity/evidence-pack.json</code> and
+<code>reality-map.json</code>.</p>
+<table class="cmp">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Front-brief claim</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>108 policy bills; 59 enacted; 27 first-committee deaths (15 in
+Natural Resources); 3 vetoes; 2025 pass rate 13 of 31</td>
+<td><code>evidence-pack.json → inventory</code>,
+<code>people_signals</code>;
+<code>reality-map.json → session_snapshot</code></td>
+</tr>
+<tr class="even">
+<td>5 of 10 proposals never introduced</td>
+<td><code>evidence-pack.json → constituent_proposal_crosswalk</code>;
+statuses in <code>reality-map.json → proposal_reality_cards</code></td>
+</tr>
+<tr class="odd">
+<td>Data centers: no water/cooling bill; SB547 exemption; AB385
+preemption death</td>
+<td><code>80:SB547</code>, <code>83:AB385</code>; abatement statutes NRS
+360.754 et seq.; SNWA moratorium + TMWA dedication practice from LCB
+memo S25 (2026-03-20)</td>
+</tr>
+<tr class="even">
+<td>Metering edges</td>
+<td><code>80:AB95</code>, <code>82:SB113</code>,
+<code>82:AB191</code></td>
+</tr>
+<tr class="odd">
+<td>Waste fines nearest statute</td>
+<td><code>80:AB537</code></td>
+</tr>
+<tr class="even">
+<td>Reimbursement design never filed</td>
+<td>crosswalk <code>conditional-tax-incentives</code> (matched bills are
+conditioning attempts, not the reimbursement design)</td>
+</tr>
+<tr class="odd">
+<td>Bring your own water / dedication</td>
+<td><code>80:SB250</code> (39–0); TMWA 11% drought reserve from LCB memo
+S25</td>
+</tr>
+<tr class="even">
+<td>Expert water body</td>
+<td><code>80:SB499</code> (first committee), <code>83:SB143</code>
+(Senate 21–0, died in Assembly)</td>
+</tr>
+<tr class="odd">
+<td>Records/audit</td>
+<td><code>83:AB485</code> (first committee); passed pieces
+<code>80:AB95</code>, <code>82:SB113</code>, <code>83:AB577</code>,
+<code>83:SB36</code> (prior failures <code>81:AB354</code>,
+<code>82:SB176</code>)</td>
+</tr>
+<tr class="even">
+<td>Abatement conditions 0-for-5</td>
+<td><code>83:AB77</code>, <code>82:SB394</code> (Senate 14–7),
+<code>82:SB429</code> (vetoed), <code>81:AB449</code>,
+<code>83:SB364</code></td>
+</tr>
+<tr class="odd">
+<td>Statewide standards</td>
+<td><code>80:AB51</code>, <code>82:AB387</code> (Assembly 26–14);
+oversight theme 0-for-6 in
+<code>reality-map.json → theme_scorecards</code></td>
+</tr>
+<tr class="even">
+<td>Growth restrictions precedent</td>
+<td><code>81:AB356</code> (21–0, 42–0), <code>80:SB250</code>,
+<code>82:SB169</code> (vetoed), <code>83:SB143</code></td>
+</tr>
+<tr class="odd">
+<td>Groundwater reform</td>
+<td><code>82:SB113</code>, <code>83:SB36</code>, <code>82:SB180</code>
+(41–0 + unanimous, died), <code>83:AB363</code></td>
+</tr>
+<tr class="even">
+<td>Political terrain (sponsorship, committees)</td>
+<td><code>evidence-pack.json → people_signals</code>; chokepoint counts
+in <code>reality-map.json → people_and_process_signals</code></td>
+</tr>
+<tr class="odd">
+<td>New 2025 law</td>
+<td><code>83:SB36</code>, <code>83:SB6</code>, <code>83:SB442</code>,
+<code>83:SB276</code>, <code>83:AB449</code>, <code>83:SB326</code>,
+<code>83:AB577</code></td>
+</tr>
+<tr class="even">
+<td>Citizen proposals and quoted phrases</td>
+<td>“NV1 - RAG - Phase 2 Constituent Input” (Water sheet), mirrored in
+<code>config/issues/nevada-water-scarcity.yaml → constituent_proposals</code></td>
+</tr>
+</tbody>
+</table>
+<h3 class="sub" id="review-status">Review status</h2>
+<p>See <code>review-report.md</code> / <code>review-report.json</code>
+in the packet folder for the automated checklist (no-advice scan, fact
+spot-checks, page-count renders) and the items flagged for human
+judgment.</p>
 
 </section>
 

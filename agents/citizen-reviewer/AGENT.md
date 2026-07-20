@@ -1,7 +1,7 @@
 ---
 agent_id: citizen-reviewer
 agent_name: Citizen Reviewer
-version: 2.1
+version: 2.3
 pipeline_position: 5
 previous_agent: design-packager
 next_agent: human-review
@@ -48,26 +48,25 @@ You may make **small fixes** for reading level, missing explainers, or advice ph
 
 | ID | Pass condition |
 |----|----------------|
-| A1 | Front brief helps citizens weigh paths without telling them what to pick |
-| A2 | Three history baskets present (often moved / unfinished / rarely moved) |
-| A3 | Deliberation questions present and open-ended |
-| A4 | No pursue/adapt/avoid as commands (labels OK only as history baskets) |
-| A5 | Every constituent proposal (issue config) is checked against the record on page 1 |
+| A1 | Front brief reports the record without telling readers what to pick |
+| A2 | Proposals grouped by record status (never filed / stalled / precedent exists) |
+| A4 | No pursue/adapt/avoid as commands |
+| A5 | Every constituent proposal (issue config) is covered in the front brief |
+| A6 | No worksheet apparatus: no how-to-use, no discussion questions, no primers, no cautions/meta-commentary, no source keys in the front brief |
 
 ### B. Reading level & explainers
 
 | ID | Pass condition |
 |----|----------------|
-| B1 | Mostly short sentences (target ≈ grade 8); uncommon policy words explained inline in-section |
-| B2 | No glossary-only explainers for terms used on page 1–2 |
-| B3 | Bill “plain topics” are understandable without legal training |
-| B4 | How-a-bill-moves primer present on page 1 |
+| B1 | Adult professional prose; no reading-level scaffolding or definitions of common civic terms |
+| B2 | No glossary; policy terms used naturally |
+| B3 | Bill descriptions understandable without legal training |
 
 ### C. Length & layout
 
 | ID | Pass condition |
 |----|----------------|
-| C1 | Front brief designed for ≤2 letter pages |
+| C1 | Front brief renders ≤2 letter pages in HTML **and** Word |
 | C2 | Page 1 contains the essential map (not empty calories) |
 | C3 | Detail lives in appendices, not dumped on page 1 |
 
@@ -96,9 +95,10 @@ You may make **small fixes** for reading level, missing explainers, or advice ph
 | F1 | `citizen-brief.html` + print CSS exist |
 | F2 | Appendices A–F exist |
 | F3 | `PACKAGE.md` exists |
-| F3b | Word export exists (`.docx` for brief + appendices) or `PACKAGE.md` gives explicit conversion steps |
+| F3b | Word export exists (`.docx` for brief + appendices, brief ≤2 pages) or `PACKAGE.md` gives explicit conversion steps |
+| F7 | Reviewer material (claim-to-source map, collection notes) lives in an appendix, not the front brief |
 | F4 | Visuals use Phase 2 tokens (white page, navy `#1A2D4F`, terracotta `#C0392B`, Arial body) — no purple/gold/cream website palette |
-| F5 | Phase 2 modules present: eyebrow header, terracotta section headers, stat strip, history example cards, baskets table or cards, question grid |
+| F5 | Phase 2 modules present: masthead, terracotta section headers, stat strip; no tables in the front brief |
 | F6 | No Phase 2 sample headings/titles/body text copied into the brief |
 
 ## Scoring
