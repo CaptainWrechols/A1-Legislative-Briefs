@@ -1,6 +1,6 @@
-# Package — Growth, Water Scarcity, and Long-Term Supply in Nevada (citizen-v3.0)
+# Package — Growth, Water Scarcity, and Long-Term Supply in Nevada (citizen-v4.0)
 
-Design Packager v2.2 · 2026-07-17 · The Nevada Forum
+Design Packager v2.3 · 2026-07-20 · The Nevada Forum
 
 ## What's in this folder
 
@@ -56,18 +56,17 @@ line, navy-header comparison tables (proposals table on page 1 is the
 centerpiece; baskets table on page 2), quote-style history cards, info card
 pair, numbered question grid, footline.
 
-## v3.0 layout notes
+## v4.0 layout notes
 
-- Page 1 = statement-first: stat strip, bill-path primer, and rows 1–8 of
-  "The ten things Nevadans said most, checked against the record."
-- Page 2 = table rows 9–10 (navy header repeats across the break), compact
-  three-basket prose, people/process signals, passed recently, question
-  grid, caution footline.
-- The ten statements come from the Forum's RAG constituent-voice dataset
-  ("NV1 - RAG - Phase 2 Constituent Input", Water sheet); fuller wording is
-  preserved in `config/issues/nevada-water-scarcity.yaml`.
-- Appendix H carries the full statement-by-statement crosswalk (bill
-  tables, venue notes, open questions per statement).
-- Fit notes: ten-statement table renders at 7.6pt with tightened cell
-  padding; basket cards became labeled prose lines. No facts were dropped
-  from the packet — detail lives in Appendices B, C, and H.
+- Adult, prose-only front brief for working groups: title + subtitle,
+  legislative landscape, Key numbers stat strip, proposal paragraphs grouped
+  by record status (no bill on record / stalled / precedent exists),
+  political terrain, new 2025 law, and one pointer line to the appendices.
+- Removed per Forum direction (2026-07-20): version/kicker subtitle,
+  how-to-use section, bill-path primer, all tables, discussion questions,
+  data cautions, and the source-keys section (now Appendix I).
+- Word export restyled to the Phase 2 system: Arial 9pt compact body, navy
+  #1A2D4F title/H1, terracotta #C0392B ALL-CAPS section headers, 0.6-inch
+  margins. `citizen-brief.docx` verified at 2 pages (LibreOffice render).
+- Appendix I (Sources and review notes) holds the claim-to-source map and
+  collection notes formerly in the front brief.

@@ -24,6 +24,7 @@ APPENDIX_DESCRIPTIONS = {
     "F": "What this data can and cannot say",
     "G": "Introduced vs. final text for governor-bound bills",
     "H": "The ten most common citizen statements, each checked against the record",
+    "I": "Claim-to-source mapping, collection notes, review status",
 }
 
 
