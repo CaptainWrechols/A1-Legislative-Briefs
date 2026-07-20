@@ -28,10 +28,17 @@ Design Packager v2.3 · 2026-07-20 · The Nevada Forum
 python collectors/export_docx.py --brief-dir briefs/nevada/water-scarcity/citizen-v1
 ```
 
-They use the branded pandoc reference document
+The **front brief** is written by `collectors/export_docx_brief.py`
+(python-docx) with *direct formatting on every run* — literal Arial,
+explicit RGB colors, real uppercase heading text, the navy masthead rule,
+and the Key-numbers stat cards. Direct formatting is the part that makes
+the file look identical in Microsoft Word, Word Online, Google Docs,
+LibreOffice, and Pages; style-based formatting (the old approach) renders
+differently across those apps.
+
+The **appendices** use pandoc with the branded reference document
 `templates/citizen-brief/forum-reference.docx` (Arial body, navy `#1A2D4F`
-title/H1/H3, terracotta `#C0392B` H2). The Word files carry the same words as
-the markdown; the HTML remains the layout-faithful print artifact.
+title/H1/H3, terracotta `#C0392B` H2) — fine for long-form tables.
 
 **If you need Word and cannot run the script** (no pandoc installed):
 

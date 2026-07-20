@@ -235,8 +235,19 @@ def main() -> None:
 
     brief_md = brief_dir / "citizen-brief.md"
     if brief_md.exists():
-        # No pandoc title block: the markdown's own H1 is the title.
-        convert([brief_md], brief_dir / "citizen-brief.docx")
+        # The front brief uses the direct-formatting writer (python-docx):
+        # literal Arial/RGB/uppercase on every run, so the file renders the
+        # same in Word, Word Online, Google Docs, LibreOffice, and Pages.
+        # (Style-based formatting is applied inconsistently across apps.)
+        try:
+            subprocess.run(
+                [sys.executable, str(Path(__file__).parent / "export_docx_brief.py"),
+                 "--brief-dir", str(brief_dir)],
+                check=True,
+            )
+        except (subprocess.CalledProcessError, FileNotFoundError):
+            print("Direct writer failed; falling back to pandoc for the front brief")
+            convert([brief_md], brief_dir / "citizen-brief.docx")
     else:
         print(f"Missing {brief_md}; skipped front brief")
 
