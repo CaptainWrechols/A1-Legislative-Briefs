@@ -11,7 +11,12 @@ import html
 import json
 from pathlib import Path
 
-PROCESSED = Path("sources/nevada/water-scarcity/processed")
+import sys as _sys
+from pathlib import Path as _P
+_sys.path.insert(0, str(_P(__file__).resolve().parent))
+import issue_paths as ip  # noqa: E402
+
+PROCESSED = ip.PROCESSED
 OUT = PROCESSED / "readable"
 
 PROGRESS = PROCESSED / "bill-legislative-progress.json"
@@ -758,7 +763,7 @@ def main() -> None:
     }
     # Fallback to pass1 bills.json if core missing
     if not abstracts:
-        pass1 = load_obj(Path("sources/nevada/water-scarcity/pass1/bills.json"))
+        pass1 = load_obj(ip.PASS1 / "bills.json")
         abstracts = {
             f"{b.get('session')}:{b.get('identifier')}": b.get("abstract") or ""
             for b in (pass1.get("bills") or [])

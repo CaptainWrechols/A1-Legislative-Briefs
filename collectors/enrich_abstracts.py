@@ -21,7 +21,12 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
-PASS1 = Path("sources/nevada/water-scarcity/pass1")
+import sys as _sys
+from pathlib import Path as _P
+_sys.path.insert(0, str(_P(__file__).resolve().parent))
+import issue_paths as ip  # noqa: E402
+
+PASS1 = ip.PASS1
 BILLS = PASS1 / "bills.json"
 CACHE = PASS1 / "cache_abstracts.json"
 UA = {"User-Agent": "ForumLegislativeBrief/1.0", "X-Requested-With": "XMLHttpRequest"}

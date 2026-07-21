@@ -10,6 +10,7 @@ from pathlib import Path
 import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import issue_paths as ip  # noqa: E402
 from pass2_committee_votes import (  # noqa: E402
     download_pdf,
     parse_committee_vote_from_minutes,
@@ -17,10 +18,10 @@ from pass2_committee_votes import (  # noqa: E402
 )
 from pass2_party_roster import build_lookup, match_party  # noqa: E402
 
-PASS2 = Path("sources/nevada/water-scarcity/pass2")
-PROCESSED = Path("sources/nevada/water-scarcity/processed")
+PASS2 = ip.PASS2
+PROCESSED = ip.PROCESSED
 COMMITTEE_VOTES = PROCESSED / "bill-committee-votes.json"
-RAW = Path("sources/nevada/water-scarcity/raw/committee-minutes")
+RAW = ip.RAW / "committee-minutes"
 ROSTER = PASS2 / "legislator_roster.json"
 
 

@@ -22,9 +22,14 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
-PASS2 = Path("sources/nevada/water-scarcity/pass2")
+import sys as _sys
+from pathlib import Path as _P
+_sys.path.insert(0, str(_P(__file__).resolve().parent))
+import issue_paths as ip  # noqa: E402
+
+PASS2 = ip.PASS2
 ROSTER_PATH = PASS2 / "legislator_roster.json"
-PROCESSED_VOTES = Path("sources/nevada/water-scarcity/processed/bill-votes.json")
+PROCESSED_VOTES = ip.PROCESSED / "bill-votes.json"
 
 SESSION_PATHS = {
     "80": "80th2019",

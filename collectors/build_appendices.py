@@ -13,9 +13,14 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-SOURCES = Path("sources/nevada/water-scarcity")
-WORKING = Path("working/nevada/water-scarcity")
-OUT = Path("briefs/nevada/water-scarcity/citizen-v1/appendices")
+import sys as _sys
+from pathlib import Path as _P
+_sys.path.insert(0, str(_P(__file__).resolve().parent))
+import issue_paths as ip  # noqa: E402
+
+SOURCES = ip.SOURCES
+WORKING = ip.WORKING
+OUT = ip.BRIEF_DIR / "appendices"
 
 YEARS = {"80": "2019", "81": "2021", "82": "2023", "83": "2025"}
 STAGE_LABEL = {
