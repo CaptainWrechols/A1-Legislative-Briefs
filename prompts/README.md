@@ -1,5 +1,8 @@
 # Prompts
 
-Legacy folder. Agent instructions have moved to `agents/*/AGENT.md`.
+- `new-issue-kickoff.md` — the copy-paste prompt (plus upload list) for
+  starting a new issue brief in a fresh agent chat. Edit the three
+  capitalized lines, attach the Phase 2 RAG spreadsheet, paste.
 
-See `agents/README.md` for the current pipeline.
+Agent instructions live in `agents/*/AGENT.md`; the end-to-end recipe is
+`RUNBOOK.md` at the repo root.
