@@ -22,9 +22,14 @@ from pathlib import Path
 
 import yaml
 
-SOURCES = Path("sources/nevada/water-scarcity")
-WORKING = Path("working/nevada/water-scarcity")
-CONFIG = Path("config/issues/nevada-water-scarcity.yaml")
+import sys as _sys
+from pathlib import Path as _P
+_sys.path.insert(0, str(_P(__file__).resolve().parent))
+import issue_paths as ip  # noqa: E402
+
+SOURCES = ip.SOURCES
+WORKING = ip.WORKING
+CONFIG = ip.ISSUE_CONFIG
 
 YEARS = {"80": "2019", "81": "2021", "82": "2023", "83": "2025"}
 

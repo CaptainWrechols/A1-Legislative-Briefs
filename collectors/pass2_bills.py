@@ -19,6 +19,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import issue_paths as ip  # noqa: E402
 
 from pass2_common import (  # noqa: E402
     attach_party_from_openstates,
@@ -40,9 +41,9 @@ from pass2_openstates import (  # noqa: E402
     get_api_key,
 )
 
-PASS1 = Path("sources/nevada/water-scarcity/pass1")
-PASS2 = Path("sources/nevada/water-scarcity/pass2")
-PROCESSED = Path("sources/nevada/water-scarcity/processed")
+PASS1 = ip.PASS1
+PASS2 = ip.PASS2
+PROCESSED = ip.PROCESSED
 
 BILLS_JSON = PASS1 / "bills.json"
 ABSTRACT_CACHE = PASS1 / "cache_abstracts.json"

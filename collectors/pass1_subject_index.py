@@ -26,7 +26,12 @@ from pathlib import Path
 
 import requests
 
-OUT = Path("sources/nevada/water-scarcity/pass1")
+import sys as _sys
+from pathlib import Path as _P
+_sys.path.insert(0, str(_P(__file__).resolve().parent))
+import issue_paths as ip  # noqa: E402
+
+OUT = ip.PASS1
 BILLS = OUT / "bills.json"
 CACHE_DIR = OUT / "cache_subject_index"
 NELIS_CACHE = OUT / "cache_nelis.json"

@@ -24,12 +24,13 @@ from bs4 import BeautifulSoup
 from pypdf import PdfReader
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import issue_paths as ip  # noqa: E402
 from pass2_party_roster import build_lookup, match_party  # noqa: E402
 
-PASS1 = Path("sources/nevada/water-scarcity/pass1")
-PASS2 = Path("sources/nevada/water-scarcity/pass2")
-PROCESSED = Path("sources/nevada/water-scarcity/processed")
-RAW = Path("sources/nevada/water-scarcity/raw/committee-minutes")
+PASS1 = ip.PASS1
+PASS2 = ip.PASS2
+PROCESSED = ip.PROCESSED
+RAW = ip.RAW / "committee-minutes"
 
 ABSTRACT_CACHE = PASS1 / "cache_abstracts.json"
 PROGRESS = PROCESSED / "bill-legislative-progress.json"

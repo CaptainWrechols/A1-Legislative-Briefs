@@ -24,10 +24,11 @@ import requests
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import issue_paths as ip  # noqa: E402
 from pass2_party_roster import build_lookup, match_party, name_keys  # noqa: E402
 
-PASS2 = Path("sources/nevada/water-scarcity/pass2")
-PROCESSED = Path("sources/nevada/water-scarcity/processed")
+PASS2 = ip.PASS2
+PROCESSED = ip.PROCESSED
 
 COMMITTEE_VOTES = PROCESSED / "bill-committee-votes.json"
 ALL_VOTES = PROCESSED / "bill-votes.json"

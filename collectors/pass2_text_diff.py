@@ -24,10 +24,15 @@ import requests
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
 
-PASS1 = Path("sources/nevada/water-scarcity/pass1")
-PASS2 = Path("sources/nevada/water-scarcity/pass2")
-PROCESSED = Path("sources/nevada/water-scarcity/processed")
-RAW = Path("sources/nevada/water-scarcity/raw/bill-text")
+import sys as _sys
+from pathlib import Path as _P
+_sys.path.insert(0, str(_P(__file__).resolve().parent))
+import issue_paths as ip  # noqa: E402
+
+PASS1 = ip.PASS1
+PASS2 = ip.PASS2
+PROCESSED = ip.PROCESSED
+RAW = ip.RAW / "bill-text"
 
 BILLS = PASS1 / "bills.json"
 ABSTRACT_CACHE = PASS1 / "cache_abstracts.json"

@@ -31,8 +31,13 @@ from urllib.parse import quote
 import requests
 import yaml
 
-CONFIG = Path("config/issues/nevada-water-scarcity.yaml")
-OUT = Path("sources/nevada/water-scarcity/pass1")
+import sys as _sys
+from pathlib import Path as _P
+_sys.path.insert(0, str(_P(__file__).resolve().parent))
+import issue_paths as ip  # noqa: E402
+
+CONFIG = ip.ISSUE_CONFIG
+OUT = ip.PASS1
 NELIS_CACHE = OUT / "cache_nelis.json"
 OPENSTATES_CACHE = OUT / "cache_openstates.json"
 SEARCH_CACHE = OUT / "cache_searches.json"

@@ -1,5 +1,19 @@
 # Collectors
 
+## Selecting the issue
+
+All collectors and builders read the active issue from `ISSUE_CONFIG`
+(default: `config/issues/nevada-water-scarcity.yaml`):
+
+```bash
+export ISSUE_CONFIG=config/issues/nevada-housing.yaml
+```
+
+Paths derive from the config's `state` + `issue_slug`
+(`sources/{state}/{slug}`, `working/{state}/{slug}`,
+`briefs/{state}/{slug}/citizen-v1`). See `RUNBOOK.md` at the repo root for
+the full end-to-end recipe.
+
 ## Pass 1 — discover bills (two complementary sources)
 
 ```bash

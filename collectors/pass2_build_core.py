@@ -17,8 +17,13 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-PASS1 = Path("sources/nevada/water-scarcity/pass1/bills.json")
-PROCESSED = Path("sources/nevada/water-scarcity/processed")
+import sys as _sys
+from pathlib import Path as _P
+_sys.path.insert(0, str(_P(__file__).resolve().parent))
+import issue_paths as ip  # noqa: E402
+
+PASS1 = ip.PASS1 / "bills.json"
+PROCESSED = ip.PROCESSED
 PROGRESS = PROCESSED / "bill-legislative-progress.json"
 TEXT_CHANGES = PROCESSED / "bill-text-changes.json"
 SPONSORS = PROCESSED / "bill-sponsors.json"
