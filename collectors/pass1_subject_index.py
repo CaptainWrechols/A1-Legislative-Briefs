@@ -47,62 +47,71 @@ SESSIONS = {
 }
 
 # Subject headings to harvest fully (regex against the cleaned heading text).
+# Issue: nevada-housing-affordability. Headings verified against the cached
+# 2019/2021/2023/2025 index HTML (AFFORDABLE HOUSING, ATTAINABLE HOUSING,
+# HOUSING, LANDLORD AND TENANT, EVICTION, MANUFACTURED/MOBILE HOMES, TINY
+# HOUSES, ZONING, LAND USE PLANNING, IMPACT FEES, etc.).
 HEAD_PATTERNS = (
-    r"^WATER\b",
-    r"^WASTEWATER",
-    r"^COLORADO RIVER",
-    r"^LAKE POWELL",
-    r"^STATE ENGINEER",
-    r"^IRRIGATION",
-    r"^DROUGHT",
-    r"^WELLS\b",
-    r"^WELL DRILLERS",
-    r"^DATA CENTERS",
-    r"^SOUTHERN NEVADA WATER",
-    r"^MOAPA VALLEY WATER",
-    r"^VIRGIN VALLEY WATER",
-    r"^CARSON WATER",
-    r"^MARLETTE LAKE",
-    r"INTERSTATE WATERS",
-    r"^WATER BANKING",
-    r"^RIVERS\b",
-    r"^DAMS?\b",
-    r"^FLOOD",
-    r"^SEWAGE",
-    r"^SANITATION\b",
-    r"^LAKE TAHOE",
-    r"^TAHOE BASIN",
-    r"^TRUCKEE RIVER",
+    r"HOUSING",  # AFFORDABLE/ATTAINABLE/FACTORY-BUILT/FAIR HOUSING, HOMELESSNESS TO HOUSING, HOUSING AUTHORITIES...
+    r"^LANDLORD AND TENANT",
+    r"^APARTMENT HOUSES",
+    r"^EVICTION",
+    r"^LEASES\b",
+    r"^DWELLINGS",
+    r"^MANUFACTURED",
+    r"^MOBILE HOME",
+    r"^TINY HOUSES",
+    r"^HOMELESS",
+    r"^ZONING",
+    r"^LAND USE PLANNING",
+    r"^PLANNING COMMISSIONS",
+    r"^REGIONAL PLANNING",
+    r"^PLANNED UNIT DEVELOPMENTS",
+    r"^SUBDIVISION OF LAND",
+    r"^IMPACT FEES",
+    r"^RESIDENTIAL CONSTRUCTION TAX",
+    r"^REAL PROPERTY TRANSFER TAX",
+    r"^REAL ESTATE INVESTMENT TRUSTS",
+    r"^BUILDING CODES",
+    r"^BUILDING PERMITS",
 )
 
-# Headings that match above but are not about water policy.
+# Headings that match above but are not about housing policy.
 HEAD_EXCLUDE = (
-    r"^WELLS, CITY OF",
-    r"^WATER SLIDES",
+    r"^HOUSING DIVISION \(See",  # cross-reference heading, no entries of its own
 )
 
-# Entry-level keywords harvested from ANY heading (catches e.g. the 2023
-# evaporative-cooling ordinance bill filed under BUILDING CODES, or water
-# entries filed under the Conservation & Natural Resources department).
+# Entry-level keywords harvested from ANY heading (catches e.g. affordable-
+# housing accounts filed under TAXES AND TAXATION or appropriations
+# headings). Space-prefixed entries avoid substring traps ("tenant" in
+# "lieutenant").
 ENTRY_KEYWORDS = (
-    "data center",
-    "desalination",
-    "evaporative cooling",
-    "closed-loop",
-    "cloud seeding",
-    "water importation",
-    "water rights",
-    "water resources",
-    "water conservation",
-    "water pollution",
-    "water systems",
-    "water quality",
-    "public water",
-    "groundwater",
-    "aquifer",
-    "colorado river",
-    "truckee river",
-    "high water mark",
+    "affordable housing",
+    "attainable housing",
+    "workforce housing",
+    "low-income housing",
+    "accessory dwelling",
+    "tiny house",
+    "tiny home",
+    "manufactured home",
+    "mobile home",
+    "factory-built",
+    "down payment",
+    "first-time home",
+    "homebuyer",
+    "home buyer",
+    "rent control",
+    "rent increase",
+    "rental agreement",
+    "summary eviction",
+    "landlord",
+    " tenant",
+    "inclusionary",
+    "impact fee",
+    "residential construction tax",
+    "corporate investor",
+    "institutional investor",
+    "starter home",
 )
 
 IDENT_RE = re.compile(r">\s*((?:AB|SB|AJR|SJR|ACR|SCR)\s*\d+)\s*</a>")
@@ -274,9 +283,13 @@ def main() -> None:
         "updated_at": now(),
         "note": (
             "LCB Subject Index of Bills harvested per session; headings matched: "
-            "water/wastewater/Colorado River/State Engineer/irrigation/drought/wells/"
-            "data centers + entry keywords (data center, desalination, evaporative "
-            "cooling, closed-loop, cloud seeding)."
+            "housing (affordable/attainable/fair/factory-built, authorities, "
+            "homelessness-to-housing), landlord and tenant, eviction, "
+            "manufactured/mobile/tiny homes, zoning, land use planning, "
+            "subdivision, impact fees, residential construction tax, real "
+            "property transfer taxes, REITs, building codes/permits + entry "
+            "keywords (accessory dwelling, down payment, inclusionary, rent "
+            "control, corporate investor, starter home)."
         ),
         "added_bills": [r["key"] for r in report],
         "details": report,

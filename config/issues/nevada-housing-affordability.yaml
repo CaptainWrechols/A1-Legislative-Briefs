@@ -1,0 +1,304 @@
+state: nevada
+issue_id: nevada-01-housing-affordability
+issue_title: "Housing Affordability in Nevada"
+issue_slug: housing-affordability
+openstates_jurisdiction: Nevada
+
+# OpenStates session ids: 80=2019, 81=2021, 82=2023, 83=2025
+sessions:
+  - label: "2019"
+    openstates_identifier: "80"
+    name: "80th (2019) Session"
+  - label: "2021"
+    openstates_identifier: "81"
+    name: "81st (2021) Session"
+  - label: "2023"
+    openstates_identifier: "82"
+    name: "82nd (2023) Session"
+  - label: "2025"
+    openstates_identifier: "83"
+    name: "83rd (2025) Session"
+
+# NELIS full-text search terms. Every NELIS hit is kept and tagged with the
+# terms that found it; the relevance filter is only a review flag.
+search_terms:
+  # Core housing supply and affordability
+  - housing
+  - "affordable housing"
+  - "attainable housing"
+  - dwelling
+  - apartment
+  - "residential real property"
+  # Renting: increases, fees, protections (Phase 2 proposals 5 and 6)
+  - rent
+  - "rental agreement"
+  - landlord
+  - tenant
+  - eviction
+  - "security deposit"
+  # Corporate / institutional ownership (Phase 2 top proposal)
+  - "corporate investor"
+  - "institutional investor"
+  # Buying a home: assistance and entry costs (proposal 2)
+  - "down payment"
+  - homebuyer
+  - "home buyer"
+  - mortgage
+  # Developers, infrastructure, and growth rules (proposals 3, 4, 7)
+  - "impact fee"
+  - "residential construction tax"
+  - inclusionary
+  - zoning
+  - "land use planning"
+  - "accessory dwelling"
+  - infill
+  # Smaller and factory-built homes (proposal 8)
+  - "tiny house"
+  - "manufactured home"
+  - "mobile home"
+  - "factory-built"
+  - modular
+  - "starter home"
+  # Workforce-targeted subsidies raised in Phase 2 (proposal 9)
+  - "student loan"
+  # Study bodies and working groups on housing (proposal 10)
+  - "advisory committee on housing"
+
+# Words that mark a title/digest as clearly on-topic (review flag only;
+# nothing is dropped). Read by collectors/pass1_bills.py. Space-prefixed
+# entries avoid substring traps ("rent" in "current", "tenant" in
+# "lieutenant").
+relevance_terms:
+  - housing
+  - dwelling
+  - apartment
+  - " rent"
+  - " tenant"
+  - landlord
+  - eviction
+  - "security deposit"
+  - "residential real property"
+  - "corporate investor"
+  - "institutional investor"
+  - "down payment"
+  - homebuyer
+  - "home buyer"
+  - mortgage
+  - "impact fee"
+  - "residential construction tax"
+  - inclusionary
+  - zoning
+  - "land use"
+  - "accessory dwelling"
+  - infill
+  - "tiny house"
+  - "manufactured home"
+  - "mobile home"
+  - "factory-built"
+  - modular
+  - "starter home"
+  - "real property transfer tax"
+  - homeless
+
+# Phase 2 Community Conversation statements (June-July 2026): the ten most
+# common citizen statements on housing, from the RAG constituent-voice
+# dataset ("NV1 - RAG - Phase 2 Constituent Input", NV1 - Housing sheet).
+# Used by the pipeline to cross-reference citizen input against legislative
+# history. "Most popular" reflects how frequently and forcefully proposals
+# recurred across tables, not a formal vote.
+constituent_proposals:
+  - id: corporate-ownership-limits
+    title: "Limit corporate/institutional ownership of housing (cap the number of properties one owner can hold)"
+    detail: >-
+      Corporations buy homes and either sit on them to move the price point
+      or hold them as long-term rentals, so those homes never churn on the
+      market; a house that once turned over every seven years may now stay
+      held for 20 years. One in four houses in North Las Vegas was described
+      as corporate-owned.
+    consensus: >-
+      Strong consensus this is a top problem, especially in urban Las Vegas.
+      Participants noted that legislation to limit corporate ownership of
+      housing was introduced during the last special session but ended up
+      not passing.
+    tradeoffs: >-
+      Breaking a monopoly into pieces risks recreating it - like Russia
+      post-Soviet Union, where a few buyers reassembled the assets into a
+      monopoly all over again.
+    match_terms: ["corporate", "institutional invest", "investor", "hedge fund", "bulk purchase"]
+  - id: down-payment-assistance
+    title: "Down payment assistance / first-time buyer programs"
+    detail: >-
+      Help with the entry cost of buying a home; participants also wanted
+      the approval process streamlined, since it is not only hard to afford
+      a home, it's hard to get approved.
+    consensus: >-
+      Broad support, but with skepticism about effectiveness - a system
+      that's been out there for years that doesn't drive the necessary
+      volume, though it works for some people. Others argued Nevada lacks
+      such programs while California has many.
+    tradeoffs: >-
+      Assistance addresses only the entry cost, not long-term viability -
+      people still have loans and must be positioned to afford the house
+      over the long term. A counterpoint: a lot of people just need to get
+      in the door.
+    match_terms: ["down payment", "first-time home", "homebuyer", "home buyer", "housing assistance"]
+  - id: developer-infrastructure-contributions
+    title: "Require developers to fund infrastructure / \"pay to play\" rather than receive incentives"
+    detail: >-
+      Make developers more responsible for building the necessary
+      infrastructure; one version is a state infrastructure bank funded by
+      required developer contributions above a building threshold, dedicated
+      to affordable housing.
+    consensus: >-
+      Considerable agreement, particularly at Reno tables - legislation
+      should help individual Nevadans and not the developers. Out-of-state
+      precedents cited (Alameda County; Pleasanton's $150,000 per house).
+    tradeoffs: >-
+      Some fear it will drive developers away; a proponent argued somebody
+      will eventually decide Nevada is worth building in anyway.
+    match_terms: ["impact fee", "residential construction tax", "infrastructure", "developer"]
+  - id: inclusionary-requirements
+    title: "Inclusionary requirements (mandate a percentage of affordable/low-market-rate units per development)"
+    detail: >-
+      When a development is approved it must include a percentage of
+      affordable homes - a mandate, not an incentive, because developers
+      are seen as evading voluntary incentives ("there always seems to be a
+      workaround").
+    consensus: >-
+      Mixed. Agreement that developer contribution is needed, but genuine
+      disagreement over incentives versus hard mandates; whom to give the
+      incentive to - the developer or the buyer - was called "a tough one."
+    tradeoffs: >-
+      Invites NIMBY resistance - a Clark County affordable project drew an
+      "ugly" community turnout even though the homes were for firefighters,
+      police, teachers and nurses.
+    match_terms: [inclusionary, "affordable units", "set aside", "percentage of units", "affordable housing requirement"]
+  - id: rent-stabilization
+    title: "Rent regulation / guardrails on rent increases"
+    detail: >-
+      Guidelines or guardrails on rent increases - deliberately not framed
+      as "rent control" - motivated by cases like a long-term tenant forced
+      out after his landlord sold the building to a corporation that
+      "doesn't care."
+    consensus: >-
+      Support tempered by acknowledged resistance ("we don't like doing any
+      of that either"); agreement on protecting seniors and long-term
+      residents so they can age in place.
+    tradeoffs: >-
+      Political feasibility is the central trade-off - a rent control
+      policy "will get shut down quickly."
+    match_terms: ["rent increase", "rent control", "rent stabilization", "rent cap", "rent guardrail"]
+  - id: rental-fee-limits
+    title: "Regulate/cap rental fees and improve fee transparency"
+    detail: >-
+      Hidden fees added after a lease is signed can turn a $1,500 apartment
+      into a $2,000 one; contracts change between signing and paying rent;
+      enforcement gaps let managers attempt charges that seem "very
+      illegal."
+    consensus: >-
+      Strong consensus - both transparency and accountability on fees and
+      limits on the types of fees charged. Some precedent exists: the
+      legislature has already put caps on certain fees in rental and
+      purchase situations.
+    tradeoffs: "Enforcement capacity; the fee landscape shifts faster than statutes."
+    match_terms: ["late fee", "rental fee", "hidden fee", "application fee", "fee transparency", "security deposit"]
+  - id: adu-density-infill
+    title: "Encourage ADUs, smaller lots, and higher density / infill"
+    detail: >-
+      Legalize and support accessory dwelling units, smaller lots and infill
+      development; density carries side benefits - improved water use,
+      reduced heat island - and more apartments could ease market pressure
+      for people just starting out.
+    consensus: >-
+      Broad enthusiasm, with frustration that infill has stalled - "nobody
+      has done anything legislatively" despite years of discussion.
+    tradeoffs: >-
+      ADU/lot rules are largely a county code issue rather than a state
+      one, though the state can legislate how it's done at the county level;
+      most homes built in the last 20 years lack the land for an ADU.
+    match_terms: ["accessory dwelling", "density", "infill", "lot size", "zoning"]
+  - id: starter-modular-homes
+    title: "Incentivize builders to build starter/tiny/modular homes"
+    detail: >-
+      Look at tiny homes using different materials and modular building -
+      not mobile homes - to make housing affordable; builders naturally
+      maximize lot value, and one builder's firm doesn't build homes under a
+      million dollars.
+    consensus: >-
+      General agreement on the goal ("starter homes for sure"), but real
+      skepticism about whether incentives work given market pricing; quality
+      of fast corporate builds is a related concern ("built like garbage").
+    tradeoffs: >-
+      Incentives don't lower prices when the price is dictated by the
+      market, not the cost to build.
+    match_terms: ["tiny house", "tiny home", "modular", "manufactured home", "factory-built", "starter home"]
+  - id: workforce-buyer-subsidies
+    title: "Student-loan forgiveness / targeted subsidies for high-demand professions"
+    detail: >-
+      Borrow the rural-medicine model - loan forgiveness after five years of
+      service - for first-time home buyers in categories like teachers,
+      firefighters or specialty nurses; let counties define their own needs,
+      with impact fees and student-loan forgiveness as funding mechanisms.
+    consensus: >-
+      Emerging consensus at the Reno table, developed as a lead
+      recommendation; some caution that opposing interest groups, such as
+      banks, would push against it.
+    tradeoffs: >-
+      Funding and eligibility must be defined; the unmet need is acute
+      (a hospital with two brand-new floors not operating for lack of
+      nurses).
+    match_terms: ["student loan", "loan forgiveness", "loan repayment", "teacher", "nurse", "firefighter"]
+  - id: housing-working-group
+    title: "Convene a working group of builders, citizens, and legislators"
+    detail: >-
+      Pass legislation to form a working group of those three groups to
+      brainstorm how to fix the issues; builders must be at the table
+      because the first people legislators talk to are the builder
+      association, and any solution must be economically viable for
+      builders.
+    consensus: >-
+      Notable agreement, framed as a bipartisan approach - "nothing about
+      me without me"; housing was repeatedly called "such a bipartisan
+      issue." A prior model was cited: legislature-funded housing for
+      veterans and people with disabilities that is "doing great."
+    tradeoffs: >-
+      A working group produces recommendations, not law; lawmakers still
+      vote.
+    match_terms: ["working group", "task force", "advisory committee", "interim study", "study"]
+
+# Cross-cutting notes from the same dataset (context for writers, not proposals):
+# - housing cannot be separated from wages; many people are one paycheck
+#   away from homelessness
+# - external constraints beyond state control: tariff-driven cost increases
+#   in lumber, concrete and other building materials
+# - infrastructure limits (water, sewer, roads) constrain the "build more"
+#   path
+# - youth participants: homelessness is directly correlated with housing;
+#   financial-literacy education raised as a complementary measure
+
+nevada_revised_statutes_chapters:
+  - 118A
+  - 118B
+  - 278
+  - 319
+
+agency_document_urls:
+  - url: "https://housing.nv.gov/"
+    title: "Nevada Housing Division - programs and reports"
+    source_key: "S1"
+
+statute_urls:
+  - chapter: 118A
+    url: "https://www.leg.state.nv.us/NRS/NRS-118A.html"
+    source_key: "S10"
+  - chapter: 118B
+    url: "https://www.leg.state.nv.us/NRS/NRS-118B.html"
+    source_key: "S11"
+  - chapter: 278
+    url: "https://www.leg.state.nv.us/NRS/NRS-278.html"
+    source_key: "S12"
+  - chapter: 319
+    url: "https://www.leg.state.nv.us/NRS/NRS-319.html"
+    source_key: "S13"
+
+impact_lookback_years: 20
