@@ -11,7 +11,7 @@
   "skip_votes": false,
   "note": "Scoped to pass1/bills.json only. NELIS provides roll-call names; OpenStates provides voter party when the bill exists and names match.",
   "party_enrichment": {
-    "updated_at": "2026-07-24T20:37:10.021787+00:00",
+    "updated_at": "2026-07-24T21:24:06.141012+00:00",
     "ballot_rows": 23474,
     "ballot_rows_with_party": 22951,
     "coverage_pct": 97.8,

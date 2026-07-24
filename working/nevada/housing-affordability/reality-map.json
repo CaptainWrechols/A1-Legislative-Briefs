@@ -1,0 +1,547 @@
+{
+ "issue_id": "nevada-01-housing-affordability",
+ "issue_title": "Housing Affordability in Nevada",
+ "generated_by": "reality-mapper v2.2",
+ "generated_at": "2026-07-24T21:29:51.521718+00:00",
+ "input": "working/nevada/housing-affordability/evidence-pack.json (149 policy bills of 431 collected) + verification/special-sessions.json",
+ "baskets": {
+  "often_moved": "Often moved before",
+  "unfinished": "Got support but didn't finish",
+  "rarely_moved": "Rarely moved before",
+  "mixed": "Mixed record"
+ },
+ "session_snapshot": {
+  "2019": {
+   "bills": 35,
+   "enacted": 22,
+   "failed": 13,
+   "vetoed": 0,
+   "note": "friendliest session in the record for housing bills"
+  },
+  "2021": {
+   "bills": 27,
+   "enacted": 14,
+   "failed": 12,
+   "vetoed": 1,
+   "note": "COVID-era eviction and assistance measures dominate"
+  },
+  "2023": {
+   "bills": 39,
+   "enacted": 12,
+   "failed": 18,
+   "vetoed": 9,
+   "note": "the veto wave: nine housing bills passed both houses and were vetoed"
+  },
+  "2025": {
+   "bills": 48,
+   "enacted": 15,
+   "failed": 27,
+   "vetoed": 6,
+   "note": "most housing bills ever in the set; worst pass rate; density/supply bills passed while renter-cost bills were vetoed again"
+  }
+ },
+ "theme_scorecards": [
+  {
+   "theme_id": "tenant-protections",
+   "label": "Evictions, housing discrimination, and renter protections",
+   "bills": 37,
+   "enacted": 16,
+   "basket": "mixed",
+   "certainty": "high",
+   "typical_stop": "first committee (9) or the governor's desk (8 vetoes, all 2023-2025); eviction-procedure rewrites passed both houses twice (82:AB340, 83:AB283) and were vetoed both times",
+   "examples": [
+    "80:SB151",
+    "82:AB340",
+    "83:AB283",
+    "83:AB480",
+    "83:AB475"
+   ],
+   "inference": "Inference: majorities for renter protections exist in both houses; since 2023 the binding constraint has been the governor's signature, not the vote count."
+  },
+  {
+   "theme_id": "affordable-housing-money",
+   "label": "Money, tax breaks, and financing for affordable and attainable housing",
+   "bills": 24,
+   "enacted": 11,
+   "basket": "often_moved",
+   "certainty": "medium",
+   "typical_stop": "first committee (7) or a money-committee floor death; the dedicated transfer-tax fund (82:SB68) died on the Senate floor",
+   "examples": [
+    "83:AB540",
+    "80:SB448",
+    "81:SB284",
+    "82:SB450",
+    "82:SB68"
+   ],
+   "inference": "Inference: appropriations and tax-credit vehicles pass, often unanimously (83:AB540 42-0), when they spend general money; bills that earmark an existing revenue stream stall."
+  },
+  {
+   "theme_id": "renting-costs",
+   "label": "Rent levels, fees, deposits, and what landlords can charge",
+   "bills": 20,
+   "enacted": 5,
+   "basket": "unfinished",
+   "certainty": "high",
+   "typical_stop": "first committee (8, Commerce and Labor both houses) or the governor's desk (4 vetoes); rent-cap bills never reached an Assembly floor vote",
+   "examples": [
+    "82:AB218",
+    "82:AB298",
+    "83:AB121",
+    "80:SB151",
+    "82:SB381"
+   ],
+   "inference": "Inference: fee-transparency versions keep passing the Legislature (five times since 2023) and dying by veto, while the narrower fee bills that did become law (2019 SB151, 2021 AB308, 2023 SB381, 2025 AB121) were incremental and, twice, unanimous."
+  },
+  {
+   "theme_id": "zoning-density",
+   "label": "Zoning, density, ADUs, and what can be built where",
+   "bills": 19,
+   "enacted": 6,
+   "basket": "mixed",
+   "certainty": "medium",
+   "typical_stop": "first committee (6) or the second house (5); before 2025 the enacted bills were procedural",
+   "examples": [
+    "83:AB396",
+    "83:AB241",
+    "81:SB150",
+    "83:AB131",
+    "83:AB443"
+   ],
+   "inference": "Inference: 2025 broke the pattern citizens described - the two structural supply mandates (ADUs, by-right multifamily on commercial land) became law on party-line-ish votes."
+  },
+  {
+   "theme_id": "homelessness",
+   "label": "Homelessness and getting people into housing",
+   "bills": 16,
+   "enacted": 10,
+   "basket": "often_moved",
+   "certainty": "medium",
+   "typical_stop": "first committee (5)",
+   "examples": [
+    "80:SB270",
+    "82:AB310",
+    "82:AB528",
+    "83:AB317",
+    "83:AB366"
+   ],
+   "inference": "Inference: supportive-housing and crisis-response bills are the most reliably enacted housing bills in the record."
+  },
+  {
+   "theme_id": "manufactured-homes",
+   "label": "Manufactured, mobile, tiny, and factory-built homes",
+   "bills": 10,
+   "enacted": 6,
+   "basket": "often_moved",
+   "certainty": "medium",
+   "typical_stop": "the exception is rent caps in manufactured home parks: vetoed in 2023 (82:SB275), died in first committee in 2025 (83:SB151)",
+   "examples": [
+    "81:SB150",
+    "83:AB38",
+    "82:SB275",
+    "80:SB148"
+   ],
+   "inference": "Inference: regulatory and titling modernization moves easily; park rent regulation follows the same veto wall as other rent bills."
+  },
+  {
+   "theme_id": "corporate-buyers",
+   "label": "Corporate and investor buying of homes",
+   "bills": 7,
+   "enacted": 2,
+   "basket": "unfinished",
+   "certainty": "high",
+   "typical_stop": "the finish line: 82:SB395 passed both houses and was vetoed; 83:SB391 passed the Senate and died in the Assembly; special-session SB10 (Nov 2025) passed the Senate 18-0 and lost the Assembly final vote 27-10 needing a two-thirds majority",
+   "examples": [
+    "82:SB395",
+    "83:SB391",
+    "82:AB345",
+    "83:AB457",
+    "81:SB159"
+   ],
+   "inference": "Inference: purchase caps command majorities but have not survived the last step; what is law is a study (83:AB457) of taxing corporate rental owners."
+  },
+  {
+   "theme_id": "developer-obligations",
+   "label": "Developer fees, obligations, and infrastructure",
+   "bills": 6,
+   "enacted": 1,
+   "basket": "unfinished",
+   "certainty": "medium",
+   "typical_stop": "first committee (Government Affairs) for in-lieu funds (81:AB331, 81:AB334) and school impact fees (80:SB471); the 2025 linkage fee (83:SB99) passed both houses, was delivered to the governor May 27, 2025, and the record ends with no signature",
+   "examples": [
+    "83:SB99",
+    "81:AB331",
+    "80:SB103",
+    "80:SB471"
+   ],
+   "inference": "Inference: the only enacted bill in this theme reduces fees for affordable projects (80:SB103); every attempt to charge developers has stopped in Government Affairs or at the desk."
+  },
+  {
+   "theme_id": "buying-a-home",
+   "label": "Buying and keeping a home (down payments, mortgages, foreclosure)",
+   "bills": 5,
+   "enacted": 2,
+   "basket": "mixed",
+   "certainty": "low",
+   "typical_stop": "scattered; 83:SB193 (mortgage rate buy-down pilot) passed the Senate 14-5 and died in the Assembly",
+   "examples": [
+    "83:SB193",
+    "81:SB188",
+    "80:SB194",
+    "80:SB382"
+   ],
+   "inference": "Inference: too few bills for a strong pattern; the matched-savings program took two sessions to pass (failed 2019, enacted 2021)."
+  },
+  {
+   "theme_id": "housing-studies",
+   "label": "Housing data, studies, and state housing bodies",
+   "bills": 5,
+   "enacted": 4,
+   "basket": "often_moved",
+   "certainty": "low",
+   "typical_stop": "one death: 83:AB37 (Housing Liaison) passed the Assembly 42-0 and died in the Senate",
+   "examples": [
+    "80:AB476",
+    "82:AB213",
+    "83:AB103",
+    "83:AB37"
+   ],
+   "inference": "Inference: creating or feeding housing bodies and databases is low-friction; only 5 bills, so treat as weak evidence."
+  }
+ ],
+ "proposal_reality_cards": [
+  {
+   "proposal_id": "corporate-ownership-limits",
+   "citizen_statement": "Limit corporate/institutional ownership of housing - cap how many properties one owner can hold.",
+   "status": "tried_and_stalled_at_the_finish_line",
+   "record": "The most-advanced idea in the set that is still not law. 2023 SB395 (Sen. Dina Neal, D) capped corporate/LLC purchases at 1,000 homes a year statewide, passed the Senate 14-6 and the Assembly 28-14, and was vetoed. 2025 SB391 cut the cap to 100 homes, passed the Senate 13-8, and died in the Assembly without a vote. In the 36th (2025) Special Session, SB10 (Sen. Cannizzaro) - a 1,000-unit cap plus a corporate-investor registry - passed the Senate 18-0 and then lost the Assembly final-passage vote 27-10: the bill's registration-fee provisions required a two-thirds majority (28 of 42), so a 27-vote majority was recorded as Lost. This is the bill participants remembered from 'the last special session.' Related: 2023 AB345 (end the REIT commerce-tax exemption) passed the Assembly 28-13 and died in the Senate; 2021 SB159 (owner-occupant priority at foreclosure auctions, no bulk sales) died in Senate Judiciary. What is law: 2025 AB457 orders an interim study of taxing corporate rental-property owners as single entities, reporting for 2027.",
+   "matched_bills": [
+    "82:SB395",
+    "83:SB391",
+    "82:AB345",
+    "81:SB159",
+    "83:AB457",
+    "special-36th:SB10"
+   ],
+   "chokepoint": "Not the committee - the governor's desk (2023 veto) and the two-thirds supermajority rule (2025 special session, one vote short).",
+   "who_carried": "Sen. Dina Neal (D) carried SB395 and sits behind the tax-study line; Senate Majority Leader Cannizzaro carried the special-session cap; no Republican primary sponsor appears on a cap bill in this record.",
+   "venue_note": "Fully a state-legislature lever; the caps regulate purchases statewide. The two-thirds requirement is constitutional and attaches to the fee/registry design, not to the cap itself.",
+   "open_questions": [
+    "Would a cap without a fee-funded registry avoid the two-thirds requirement, and what enforcement would it lose?",
+    "What did the 2023 veto message object to, and does the 100-unit versus 1,000-unit threshold change that?",
+    "The AB457 tax study reports for 2027 - does a tax approach substitute for a cap or complement it?"
+   ]
+  },
+  {
+   "proposal_id": "down-payment-assistance",
+   "citizen_statement": "Down payment assistance / first-time buyer programs, with a streamlined approval process.",
+   "status": "tried_and_stalled",
+   "record": "The direct state attempt is recent and died late: 2025 SB193 (Sen. Neal) ordered the Housing Division to run a pilot buying down mortgage interest rates to roughly 4 percent for eligible first-home borrowers; it passed the Senate 14-5 and died in the Assembly without a floor vote. What is law is adjacent: 2021 SB188 created the matched-savings Individual Development Account program (donor-funded, savings matched up to 5-to-1, usable toward first homes) after the same idea died on the Senate floor in 2019 (SB194). The Housing Division already holds bond authority to lower borrowing costs (the hook SB193 built on), which is where Nevada's existing homebuyer programs live - in agency practice, not session-by-session statute.",
+   "matched_bills": [
+    "83:SB193",
+    "81:SB188",
+    "80:SB194"
+   ],
+   "chokepoint": "The second house: SB193 cleared the Senate and never got an Assembly vote.",
+   "who_carried": "Sen. Dina Neal (D) with Sens. Donate, Ohrenschall and Scheible on SB193; Sen. Pat Spearman (D) carried both IDA bills.",
+   "venue_note": "Split lever: the Legislature can order and fund programs, but day-to-day down-payment assistance runs through the Housing Division's bond programs; loan-approval standards are federal/lender territory, which no bill in this record touches.",
+   "open_questions": [
+    "Why did SB193 stall in the Assembly after a 14-5 Senate vote - money committee scoring or calendar?",
+    "Does the IDA program's donor-funded design (no general-fund money) explain why it passed when SB193's state-funded pilot did not?"
+   ]
+  },
+  {
+   "proposal_id": "developer-infrastructure-contributions",
+   "citizen_statement": "Require developers to fund infrastructure / 'pay to play' rather than receive incentives; a state fund for affordable housing built from required contributions.",
+   "status": "tried_and_stalled_at_the_finish_line",
+   "record": "Citizens described almost exactly 2025 SB99: it authorized cities and counties in the two big metros to charge residential developers a linkage fee dedicated to affordable housing. It passed the Senate 14-6 and the Assembly 27-15, was enrolled and delivered to the governor on May 27, 2025 - and the official history ends there, with no signature and no chapter number. It is not law. The earlier, quieter versions died in first committee: 2021 AB331 and AB334 (developer in-lieu payments into an affordable-housing trust fund) both died in Assembly Government Affairs; 2019 SB471 (impact fees for school construction) died in Senate Government Affairs. The one enacted bill in this space points the other way: 2019 SB103 lets local governments reduce or subsidize impact and permit fees for affordable-housing projects (21-0, 36-4). Nevada's impact-fee statute (NRS 278B) already lets local governments charge developers for certain capital improvements - the fights above are about expanding what counts.",
+   "matched_bills": [
+    "83:SB99",
+    "81:AB331",
+    "81:AB334",
+    "80:SB471",
+    "80:SB103"
+   ],
+   "chokepoint": "Government Affairs committees for the early versions; the governor's desk for the one that finished.",
+   "who_carried": "83:SB99 was committee-sponsored (Senate Government Affairs); Asm. Benitez-Thompson (D) carried the 2021 in-lieu bills.",
+   "venue_note": "Mixed lever: impact fees are charged locally under state authorization, so the statewide fight is over what the Legislature permits localities to charge; a mandatory state-level developer contribution has never been filed.",
+   "open_questions": [
+    "What happened to SB99 at the desk - the record shows delivery and then nothing; the veto/no-signature distinction matters for a retry.",
+    "Would participants' state infrastructure-bank design need new machinery, or can the linkage-fee authorization plus existing local tools carry it?"
+   ]
+  },
+  {
+   "proposal_id": "inclusionary-requirements",
+   "citizen_statement": "Inclusionary requirements - mandate a percentage of affordable units per development.",
+   "status": "never_filed_as_such",
+   "record": "No bill in this record mandates a percentage of affordable units in private developments, and none imposes a statewide inclusionary requirement. The real fight has been one step earlier - whether local governments may impose such conditions at all: 2023 SB371, which confirmed local power to enact any affordable-housing ordinance not expressly barred by statute, passed the Senate 12-9 and the Assembly 26-14 and was vetoed; the 2025 retry (SB289) died in Senate Government Affairs. The nearest filed designs are the pay-instead-of-build versions: developer in-lieu contributions (2021 AB331/AB334, died in first committee) and the 2025 linkage fee (SB99, died unsigned at the desk).",
+   "matched_bills": [
+    "82:SB371",
+    "83:SB289",
+    "81:AB331",
+    "81:AB334",
+    "83:SB99"
+   ],
+   "chokepoint": "For local-authority bills: the governor's desk (2023) and Senate Government Affairs (2025).",
+   "who_carried": "SB371 and SB289 were committee-sponsored (Senate Government Affairs); no lawmaker has put their name on a truly inclusionary mandate.",
+   "venue_note": "Today this is a local zoning question operating under state authorization; the vetoed SB371 record shows the Legislature and governor disagree about how much room localities have. A statewide mandate would be new ground.",
+   "open_questions": [
+    "Do Nevada localities believe they already have inclusionary authority, or is the SB371 fight the blocker?",
+    "Participants split on incentive versus mandate - the record only tests the authority question, not either design."
+   ]
+  },
+  {
+   "proposal_id": "rent-stabilization",
+   "citizen_statement": "Rent regulation / guardrails on rent increases - deliberately not called 'rent control.'",
+   "status": "tried_and_stalled",
+   "record": "Participants' prediction that rent control 'will get shut down quickly' matches this record precisely - in both directions. The general guardrail design (no increases in year one; annual increases capped at a published cost-of-living rate) was filed twice in 2023: AB362 died in Assembly Commerce and Labor, SB426 died on the Senate floor. The one rent cap that passed - 2023 SB275, capping annual rent increases in manufactured home parks, aimed at seniors on fixed incomes - passed the Senate 13-8 and the Assembly 28-14 and was vetoed; the 2025 retry (SB151) died in its first committee. The mirror-image bills also failed: 2025 SB123 (ban local rent control) died in Senate Government Affairs, and 2025 AB443 (ban rent control and strip local zoning powers) died in Assembly Commerce and Labor. Nevada law today neither caps rents nor forbids localities from trying.",
+   "matched_bills": [
+    "82:AB362",
+    "82:SB426",
+    "82:SB275",
+    "83:SB151",
+    "83:SB123",
+    "83:AB443"
+   ],
+   "chokepoint": "Commerce and Labor committees for general caps; the governor's desk for the manufactured-home-park cap that got through.",
+   "who_carried": "Sen. Skip Daly (D) carried the park rent caps; Sen. Pat Spearman (D) carried SB426. The preemption bills came from the other direction and also failed.",
+   "venue_note": "State lever with a local layer: nothing in current statute stops a city or county from attempting rent regulation, and nothing authorizes it explicitly - both clarifying bills died.",
+   "open_questions": [
+    "The senior-focused park cap is the version that got furthest - is a narrower, population-scoped guardrail the tested path?",
+    "What did the SB275 veto object to - the cap mechanics or the principle?"
+   ]
+  },
+  {
+   "proposal_id": "rental-fee-limits",
+   "citizen_statement": "Regulate/cap rental fees and improve fee transparency.",
+   "status": "passed_repeatedly_vetoed_repeatedly_precedent_exists",
+   "record": "Participants remembered that 'the legislature has already put caps on certain fees' - true, and the rest of the story is the veto wall. In statute now: the 5 percent late-fee cap (2019 SB151, part of the summary-eviction rewrite), a 3-day grace period before late fees (2021 AB308), a ban on charging tenants fees for repairs the landlord must make anyway (2023 SB381 - unanimous, 21-0 and 42-0), and all-in advertised rent pricing with fee disclosure (2025 AB121). Vetoed: 2023 AB298 (refund application fees when no unit is available, plus a plain-language appendix of every fee - passed 36-6 and 12-8), its 2025 retry AB280 (27-15, 13-8), 2023 AB218 (the all-in pricing bill that later passed as AB121), and 2023 SB78 (security deposits and prospective-tenant fees, 28-14 and 14-7). Died earlier: 2019 SB256 (late-fee caps, 11-10 Senate, died in the Assembly), 2021 SB218 (12-9, same), and both statewide landlord registries with rent reporting (2021 AB332, 2025 SB436, each dead in first committee).",
+   "matched_bills": [
+    "80:SB151",
+    "81:AB308",
+    "82:SB381",
+    "83:AB121",
+    "82:AB298",
+    "83:AB280",
+    "82:AB218",
+    "82:SB78",
+    "80:SB256",
+    "81:SB218",
+    "81:AB332",
+    "83:SB436"
+   ],
+   "chokepoint": "The governor's desk - four fee bills vetoed in 2023-2025; before 2023, the second house.",
+   "who_carried": "Asm. Sandra Jauregui (D) carried the application-fee bills twice; Asm. Venicia Considine (D) carried all-in pricing twice (vetoed 2023, enacted 2025); Sen. Julia Ratti (D) built the 2019 baseline.",
+   "venue_note": "Fully a state-legislature lever (NRS 118A). Enforcement capacity - the gap participants flagged - is the part no enacted bill funds.",
+   "open_questions": [
+    "AB121 passed in 2025 where the nearly identical AB218 was vetoed in 2023 - what changed in the text, and does that map a passable version of the application-fee bill?",
+    "Who enforces the existing fee rules today, and with what budget?"
+   ]
+  },
+  {
+   "proposal_id": "adu-density-infill",
+   "citizen_statement": "Encourage ADUs, smaller lots, and higher density / infill - 'nobody has done anything legislatively.'",
+   "status": "recently_done_in_part",
+   "record": "'Nobody has done anything legislatively' was accurate through 2023 and stopped being accurate in 2025. 2025 AB396 requires every large city and county (Clark, Washoe, and the five big cities) to adopt an ordinance allowing accessory dwelling units on residential lots - passed 27-15 and 14-7, now law. 2025 AB241 requires every city and county to allow multifamily and mixed-use housing by right on commercially zoned land - passed 28-14 and 15-6, now law. The older precedent is 2021 SB150 (Sen. Dallas Harris, with cross-party sponsors), requiring big jurisdictions to allow tiny houses in some zoning districts - 20-1 and 33-8. What keeps failing is the tax side: the property-tax exemption for ADUs rented to voucher tenants died in 2023 (AB416) and again in 2025 (AB131) - the 2025 version passed the Assembly 42-0 and still died in the Senate.",
+   "matched_bills": [
+    "83:AB396",
+    "83:AB241",
+    "81:SB150",
+    "82:AB416",
+    "83:AB131"
+   ],
+   "chokepoint": "For the surviving mandates, none - they finished in 2025. For the ADU tax incentives, the Senate after unanimous Assembly votes (a money-committee pattern).",
+   "who_carried": "The 2025 supply mandates were carried by Assembly Democrats on near-party-line votes; SB150's tiny-house coalition was cross-party.",
+   "venue_note": "Participants said this is 'largely a county code issue' - the 2025 laws work exactly that way: the state orders local ordinances into existence, and lot-level rules remain local.",
+   "open_questions": [
+    "AB396/AB241 are new: what do the local implementing ordinances actually allow, and are permits being issued?",
+    "Is the missing piece now financing (the twice-dead ADU tax exemption) rather than legality?"
+   ]
+  },
+  {
+   "proposal_id": "starter-modular-homes",
+   "citizen_statement": "Incentivize builders to build starter/tiny/modular homes - not mobile homes.",
+   "status": "tried_once_and_stalled_early",
+   "record": "The exact design - incentives for builders of entry-priced houses - was filed once: 2025 SB430 offered transferable tax credits and tax abatements for projects building single-family homes sold at cost to buyers under 130 percent of area median income, with resale protections keeping the homes out of corporate-investor hands. It died in Senate Revenue and Economic Development without a vote. The adjacent precedents are legal-status bills, not incentives: 2021 SB150 made big jurisdictions allow tiny houses in some zones; 2025 AB38 modernized the whole manufactured/factory-built housing code (40-2 and 17-3). Participants' skepticism that incentives can beat market pricing has never actually been tested in Nevada law.",
+   "matched_bills": [
+    "83:SB430",
+    "81:SB150",
+    "83:AB38"
+   ],
+   "chokepoint": "First committee - the tax committee, for the one real incentive bill.",
+   "who_carried": "SB430 was committee-sponsored (Senate Revenue and Economic Development); AB38 came from the Housing Division's housekeeping agenda.",
+   "venue_note": "State lever for tax incentives and building-code status; land costs and builder economics - the constraint participants emphasized - sit outside any bill in this record.",
+   "open_questions": [
+    "SB430 died with no vote in a committee its own chair sponsored it into - fiscal note or design?",
+    "Does the AB38 factory-built framework plus SB150 zoning cover the 'different materials, modular building' idea without new incentives?"
+   ]
+  },
+  {
+   "proposal_id": "workforce-buyer-subsidies",
+   "citizen_statement": "Student-loan forgiveness / targeted homebuying subsidies for high-demand professions (teachers, firefighters, nurses) - borrow the rural-medicine model.",
+   "status": "never_filed_as_such",
+   "record": "No bill in this record ties student-loan forgiveness or a homebuying subsidy to service in a profession. The model participants cited is real and growing on the health side - the Student Loan Repayment for Providers of Health Care in Underserved Communities program exists in statute and was expanded twice in 2025 (AB269, SB266, both enacted) - but no one has extended the design to housing or to teachers and firefighters. The closest housing attempts: 2023 SB47 let school districts build, buy, or rent homes for their own employees and died on the Senate floor; 2025 SB193's mortgage-rate buy-down pilot named eligible borrowers by income, not profession, and died in the Assembly.",
+   "matched_bills": [
+    "82:SB47",
+    "83:SB193",
+    "83:AB269",
+    "83:SB266"
+   ],
+   "chokepoint": "No pattern - the specific idea has never been in front of a committee.",
+   "who_carried": "Nobody yet, on the housing version. The health loan-repayment expansions moved without controversy.",
+   "venue_note": "State lever (the health precedent is a state program); counties defining their own priority professions, as participants proposed, would need state authorization for any state-funded version.",
+   "open_questions": [
+    "Why has a design with an enacted in-state template never been filed for housing?",
+    "Would it route through the education committees (like SB47) or the housing/commerce committees (like SB193)?"
+   ]
+  },
+  {
+   "proposal_id": "housing-working-group",
+   "citizen_statement": "Pass legislation convening a working group of builders, citizens, and legislators to fix housing together.",
+   "status": "precedent_exists",
+   "record": "The machinery exists. 2019 AB476 (cross-party sponsors including Benitez-Thompson and Republican co-sponsors) recreated the statutory Advisory Committee on Housing inside the Housing Division, revised its membership, powers and duties, required an annual statewide housing-needs report, and gave the Committee the right to request one bill draft per session - passed 38-2 and 20-0. Local versions also passed: 2019 AB73 created a Clark County working group on homelessness; 2019 AB240 made five northern counties report jointly on growth. Study bills in general are the most reliably enacted kind of housing bill in this record (4 of 5 housing-studies bills passed; 2025 AB457's corporate-landlord tax study is the newest). The failure is narrow: 2025 AB37, which upgraded the Housing Division's Housing Advocate into a Housing Liaison with new duties, passed the Assembly 42-0 and died in the Senate at the deadline.",
+   "matched_bills": [
+    "80:AB476",
+    "80:AB73",
+    "80:AB240",
+    "83:AB37",
+    "83:AB457"
+   ],
+   "chokepoint": "Essentially none for creating bodies; the one late death (AB37) was a deadline, not a No vote.",
+   "who_carried": "AB476's sponsor list crossed parties - one of only 16 cross-party bills in the policy set, and 13 of those 16 became law.",
+   "venue_note": "Fully a state-legislature lever, and the cheapest one in the record. The open design question is composition: nothing in the collected digests shows guaranteed seats for builders and ordinary citizens alongside legislators, which is the specific three-legged table participants described.",
+   "open_questions": [
+    "Does the existing Advisory Committee on Housing already have builder and citizen seats, and does it meet?",
+    "Would a working group produce different output than the Committee's existing annual report plus its one bill draft per session?"
+   ]
+  }
+ ],
+ "people_and_process_signals": {
+  "committee_vs_person_sponsored": "35 of 149 policy bills committee-sponsored; 114 from named lawmakers.",
+  "frequent_primaries": [
+   {
+    "name": "Sen. Julia Ratti (D)",
+    "bills": 12,
+    "note": "built the 2019 baseline: summary-eviction rewrite (80:SB151), late-fee caps (80:SB256), Housing Crisis Response System (80:SB270), local affordable-housing power (80:SB398)"
+   },
+   {
+    "name": "Sen. Dina Neal (D)",
+    "bills": 10,
+    "note": "the corporate-cap and finance line: 82:SB395, 82:SB450 (Windsor Park), 83:SB193 (rate buy-down), 83:SB160"
+   },
+   {
+    "name": "Sen. Dallas Harris (D)",
+    "bills": 9,
+    "note": "tiny houses (81:SB150), homelessness funding (82:SB318)"
+   },
+   {
+    "name": "Sen. Pat Spearman (D)",
+    "bills": 8,
+    "note": "matched-savings IDAs (80:SB194, 81:SB188), rent guardrails (82:SB426)"
+   },
+   {
+    "name": "Sen. Fabian Donate (D)",
+    "bills": 7,
+    "note": "fees and deposits (82:SB78), squatter removal (83:SB261)"
+   }
+  ],
+  "cross_party_bills": {
+   "count": 16,
+   "enacted": 13,
+   "examples": [
+    "80:AB476",
+    "81:SB150",
+    "82:SB381",
+    "83:AB103",
+    "82:SB450"
+   ],
+   "note": "cross-party sponsorship is rare and unusually successful in this set (13 of 16 enacted)."
+  },
+  "committee_chokepoints": "Of 43 first-committee deaths in the policy set: 11 in Assembly Commerce and Labor (landlord-tenant and rent bills), 14 in the two Government Affairs committees (local powers, linkage/in-lieu fees, registries), 5 in Senate Judiciary, 5 in tax committees (Assembly Revenue, Senate Revenue and Economic Development).",
+  "veto_watch": "16 policy bills vetoed in this record - 1 in 2021, 9 in 2023, 6 in 2025. Every rent-cap, fee-transparency, eviction-procedure and corporate-cap bill that reached the desk in 2023-2025 was vetoed except 2025 AB121 (all-in rent pricing), which was signed. 83:SB99 (linkage fee) was delivered to the governor and the record ends with no signature and no chapter - it is not law."
+ },
+ "high_support_non_enactments": [
+  {
+   "bill_key": "83:AB131",
+   "detail": "ADU property-tax break: Assembly 42-0, died in Senate"
+  },
+  {
+   "bill_key": "83:AB37",
+   "detail": "Housing Liaison: Assembly 42-0, died in Senate at deadline"
+  },
+  {
+   "bill_key": "82:AB298",
+   "detail": "application-fee refunds: 36-6 and 12-8, vetoed"
+  },
+  {
+   "bill_key": "83:SB393",
+   "detail": "Windsor Park revision: passed both houses, died after both chambers; the 36th Special Session then enacted the fix as SB6 (Nov 2025)"
+  },
+  {
+   "bill_key": "83:SB193",
+   "detail": "mortgage-rate buy-down pilot: Senate 14-5, died in Assembly"
+  },
+  {
+   "bill_key": "83:SB99",
+   "detail": "linkage fee: 14-6 and 27-15, delivered to the governor, never signed"
+  },
+  {
+   "bill_key": "82:SB395",
+   "detail": "corporate purchase cap: 14-6 and 28-14, vetoed"
+  },
+  {
+   "bill_key": "special-36th:SB10",
+   "detail": "corporate purchase cap + registry: Senate 18-0, Assembly 27-10 recorded Lost (two-thirds required)"
+  }
+ ],
+ "recent_enactments_watchlist": [
+  {
+   "bill_key": "83:AB540",
+   "note": "Nevada Attainable Housing Account, $133M, 42-0 - recently done; groups may ask what it funds first and what gap remains"
+  },
+  {
+   "bill_key": "83:AB396",
+   "note": "ADU ordinances mandated in big jurisdictions - recently done; implementation is the open question"
+  },
+  {
+   "bill_key": "83:AB241",
+   "note": "by-right multifamily on commercial land - recently done"
+  },
+  {
+   "bill_key": "83:AB121",
+   "note": "all-in advertised rent with fee disclosure - recently done; the enforcement question remains"
+  },
+  {
+   "bill_key": "83:AB457",
+   "note": "corporate-landlord tax study underway for 2027"
+  },
+  {
+   "bill_key": "83:AB475",
+   "note": "eviction-diversion program money to Clark County, Reno, Rural Housing Authority, 42-0 and 19-1"
+  },
+  {
+   "bill_key": "83:AB211",
+   "note": "forced repairs at badly maintained apartment properties, 41-0"
+  },
+  {
+   "bill_key": "special-36th:SB6",
+   "note": "Windsor Park act revision enacted in the November 2025 special session after 83:SB393 died in the regular session"
+  }
+ ],
+ "deliberation_prompts": [
+  "The corporate-purchase cap has now failed three different ways (veto, second house, one vote short of two-thirds). Which obstacle is the one worth solving?",
+  "Fee-transparency bills passed five times and were vetoed four times, and the fifth (AB121) became law. What was different about it?",
+  "If rent guardrails died in committee as predicted, why did the manufactured-home-park version get all the way to the desk?",
+  "The 2025 session enacted the ADU and by-right density mandates participants thought nobody had touched. Does that change which proposals still need a bill?",
+  "SB99's linkage fee passed both houses and was delivered to the governor with no recorded signature. What would a group need to learn about that ending before a retry?",
+  "Study and advisory-body bills almost always pass. Is the working-group proposal a cheap early win, or does the existing Advisory Committee on Housing already occupy the space?",
+  "Cross-party sponsor teams appear on only 16 of 149 policy bills, but 13 of those 16 became law. Which of the ten proposals could plausibly attract one?",
+  "The 2023-2025 veto pattern hit renter-cost bills hardest. Which proposals are exposed to it, and which (money, studies, supply mandates) historically are not?"
+ ],
+ "data_limits_carried_forward": [
+  "The set was found by keyword search plus the official subject index; broad but not a proven complete universe.",
+  "The record shows where each bill stopped - never why; veto messages and floor debates are not in the dataset.",
+  "Committee Yea votes are partly inferred (membership minus recorded Nay/Absent); such rows are marked in the source data.",
+  "Party labels come from official NELIS rosters (97.8% of ballot rows matched; the rest are name-fragment parsing artifacts left unlabeled).",
+  "Special-session facts come from a separate manual verification file, not the regular pipeline; SB10's two-thirds requirement is printed on the bill face."
+ ]
+}

@@ -124,7 +124,7 @@ constituent_proposals:
       Breaking a monopoly into pieces risks recreating it - like Russia
       post-Soviet Union, where a few buyers reassembled the assets into a
       monopoly all over again.
-    match_terms: ["corporate", "institutional invest", "investor", "hedge fund", "bulk purchase"]
+    match_terms: ["corporate", "corporation", "institutional invest", "investor", "hedge fund", "bulk purchase", "real estate investment"]
   - id: down-payment-assistance
     title: "Down payment assistance / first-time buyer programs"
     detail: >-
@@ -141,7 +141,7 @@ constituent_proposals:
       people still have loans and must be positioned to afford the house
       over the long term. A counterpoint: a lot of people just need to get
       in the door.
-    match_terms: ["down payment", "first-time home", "homebuyer", "home buyer", "housing assistance"]
+    match_terms: ["down payment", "first-time home", "first-home", "homebuyer", "home buyer", "buy down", "matched-savings"]
   - id: developer-infrastructure-contributions
     title: "Require developers to fund infrastructure / \"pay to play\" rather than receive incentives"
     detail: >-
@@ -201,7 +201,7 @@ constituent_proposals:
       legislature has already put caps on certain fees in rental and
       purchase situations.
     tradeoffs: "Enforcement capacity; the fee landscape shifts faster than statutes."
-    match_terms: ["late fee", "rental fee", "hidden fee", "application fee", "fee transparency", "security deposit"]
+    match_terms: ["late fee", "late-rent fee", "rental fee", "hidden fee", "application fee", "fee transparency", "security deposit", "security-deposit", "all-in", "fees for repairs", "rental application fee"]
   - id: adu-density-infill
     title: "Encourage ADUs, smaller lots, and higher density / infill"
     detail: >-
@@ -216,7 +216,7 @@ constituent_proposals:
       ADU/lot rules are largely a county code issue rather than a state
       one, though the state can legislate how it's done at the county level;
       most homes built in the last 20 years lack the land for an ADU.
-    match_terms: ["accessory dwelling", "density", "infill", "lot size", "zoning"]
+    match_terms: ["accessory dwelling", "density", "infill", "lot size", "by right", "mixed-use"]
   - id: starter-modular-homes
     title: "Incentivize builders to build starter/tiny/modular homes"
     detail: >-
@@ -231,7 +231,7 @@ constituent_proposals:
     tradeoffs: >-
       Incentives don't lower prices when the price is dictated by the
       market, not the cost to build.
-    match_terms: ["tiny house", "tiny home", "modular", "manufactured home", "factory-built", "starter home"]
+    match_terms: ["tiny house", "tiny home", "modular", "factory-built", "starter home"]
   - id: workforce-buyer-subsidies
     title: "Student-loan forgiveness / targeted subsidies for high-demand professions"
     detail: >-

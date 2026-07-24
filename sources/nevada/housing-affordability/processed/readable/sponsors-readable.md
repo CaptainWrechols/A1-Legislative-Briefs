@@ -8,7 +8,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Connie Munk
+- Assemblywoman Connie Munk (Democratic)
 
 ### Co-sponsors
 
@@ -22,7 +22,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Teresa Benitez-Thompson
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
 
 ### Co-sponsors
 
@@ -36,7 +36,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Richard Carrillo
+- Assemblyman Richard Carrillo (Democratic)
 
 ### Co-sponsors
 
@@ -50,16 +50,16 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Howard Watts
-- Senator Chris Brooks
+- Assemblyman Howard Watts (Democratic)
+- Senator Chris Brooks (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Lesley Cohen
-- Assemblywoman Rochelle Nguyen
-- Assemblywoman Sarah Peters
-- Assemblywoman Heidi Swank
-- Senator Melanie Scheible
+- Assemblywoman Lesley Cohen (Democratic)
+- Assemblywoman Rochelle Nguyen (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblywoman Heidi Swank (Democratic)
+- Senator Melanie Scheible (Democratic)
 
 ---
 
@@ -69,72 +69,72 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Tyrone Thompson
-- Assemblywoman Bea Duran
-- Assemblyman Richard Carrillo
-- Assemblyman Ozzie Fumo
-- Assemblywoman Ellen Spiegel
-- Senator David Parks
-- Senator Julia Ratti
-- Senator Yvanna Cancela
-- Senator Dallas Harris
+- Assemblyman Tyrone Thompson (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblyman Richard Carrillo (Democratic)
+- Assemblyman Ozzie Fumo (Democratic)
+- Assemblywoman Ellen Spiegel (Democratic)
+- Senator David Parks (Democratic)
+- Senator Julia Ratti (Democratic)
+- Senator Yvanna Cancela (Democratic)
+- Senator Dallas Harris (Democratic)
 
 ### Co-sponsors
 
-- Assemblyman Alexander Assefa
-- Assemblywoman Shea Backus
-- Assemblywoman Teresa Benitez-Thompson
-- Assemblywoman Shannon Bilbray-Axelrod
-- Assemblywoman Maggie Carlton
-- Assemblywoman Lesley Cohen
-- Assemblyman Skip Daly
-- Assemblyman Chris Edwards
-- Assemblyman John Ellison
-- Assemblyman Edgar Flores
-- Assemblyman Jason Frierson
-- Assemblywoman Michelle Gorelow
-- Assemblyman Gregory Hafen
-- Assemblyman John Hambrick
-- Assemblywoman Alexis Hansen
-- Assemblywoman Melissa Hardy
-- Assemblywoman Sandra Jauregui
-- Assemblyman Al Kramer
-- Assemblywoman Lisa Krasner
-- Assemblyman Glen Leavitt
-- Assemblywoman Susie Martinez
-- Assemblyman William McCurdy
-- Assemblywoman Brittney Miller
-- Assemblywoman Daniele Monroe-Moreno
-- Assemblywoman Connie Munk
-- Assemblywoman Dina Neal
-- Assemblywoman Rochelle Nguyen
-- Assemblywoman Sarah Peters
-- Assemblyman Tom Roberts
-- Assemblyman Greg Smith
-- Assemblywoman Heidi Swank
-- Assemblywoman Robin Titus
-- Assemblywoman Jill Tolles
-- Assemblywoman Selena Torres
-- Assemblyman Howard Watts
-- Assemblyman Jim Wheeler
-- Assemblyman Steve Yeager
-- Senator Chris Brooks
-- Senator Nicole Cannizzaro
-- Senator Moises Denis
-- Senator Marilyn Dondero Loop
-- Senator Pete Goicoechea
-- Senator Scott Hammond
-- Senator Ira Hansen
-- Senator Joseph Hardy
-- Senator Ben Kieckhefer
-- Senator James Ohrenschall
-- Senator Keith Pickard
-- Senator Melanie Scheible
-- Senator Heidi Seevers Gansert
-- Senator James Settelmeyer
-- Senator Pat Spearman
-- Senator Marcia Washington
-- Senator Joyce Woodhouse
+- Assemblyman Alexander Assefa (Democratic)
+- Assemblywoman Shea Backus (Democratic)
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
+- Assemblywoman Shannon Bilbray-Axelrod (Democratic)
+- Assemblywoman Maggie Carlton (Democratic)
+- Assemblywoman Lesley Cohen (Democratic)
+- Assemblyman Skip Daly (Democratic)
+- Assemblyman Chris Edwards (Republican)
+- Assemblyman John Ellison (Republican)
+- Assemblyman Edgar Flores (Democratic)
+- Assemblyman Jason Frierson (Democratic)
+- Assemblywoman Michelle Gorelow (Democratic)
+- Assemblyman Gregory Hafen (Republican)
+- Assemblyman John Hambrick (Republican)
+- Assemblywoman Alexis Hansen (Republican)
+- Assemblywoman Melissa Hardy (Republican)
+- Assemblywoman Sandra Jauregui (Democratic)
+- Assemblyman Al Kramer (Republican)
+- Assemblywoman Lisa Krasner (Republican)
+- Assemblyman Glen Leavitt (Republican)
+- Assemblywoman Susie Martinez (Democratic)
+- Assemblyman William McCurdy (Democratic)
+- Assemblywoman Brittney Miller (Democratic)
+- Assemblywoman Daniele Monroe-Moreno (Democratic)
+- Assemblywoman Connie Munk (Democratic)
+- Assemblywoman Dina Neal (Democratic)
+- Assemblywoman Rochelle Nguyen (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblyman Tom Roberts (Republican)
+- Assemblyman Greg Smith (Democratic)
+- Assemblywoman Heidi Swank (Democratic)
+- Assemblywoman Robin Titus (Republican)
+- Assemblywoman Jill Tolles (Republican)
+- Assemblywoman Selena Torres (Democratic)
+- Assemblyman Howard Watts (Democratic)
+- Assemblyman Jim Wheeler (Republican)
+- Assemblyman Steve Yeager (Democratic)
+- Senator Chris Brooks (Democratic)
+- Senator Nicole Cannizzaro (Democratic)
+- Senator Moises Denis (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Pete Goicoechea (Republican)
+- Senator Scott Hammond (Republican)
+- Senator Ira Hansen (Republican)
+- Senator Joseph Hardy (Republican)
+- Senator Ben Kieckhefer (Republican)
+- Senator James Ohrenschall (Democratic)
+- Senator Keith Pickard (Republican)
+- Senator Melanie Scheible (Democratic)
+- Senator Heidi Seevers Gansert (Republican)
+- Senator James Settelmeyer (Republican)
+- Senator Pat Spearman (Democratic)
+- Senator Marcia Washington (Democratic)
+- Senator Joyce Woodhouse (Democratic)
 
 ---
 
@@ -144,7 +144,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Steve Yeager
+- Assemblyman Steve Yeager (Democratic)
 
 ### Co-sponsors
 
@@ -158,14 +158,14 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Ellen Spiegel
+- Assemblywoman Ellen Spiegel (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Shannon Bilbray-Axelrod
-- Assemblywoman Bea Duran
-- Assemblyman Ozzie Fumo
-- Assemblywoman Connie Munk
+- Assemblywoman Shannon Bilbray-Axelrod (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblyman Ozzie Fumo (Democratic)
+- Assemblywoman Connie Munk (Democratic)
 
 ---
 
@@ -175,16 +175,16 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Jason Frierson
-- Assemblyman Tyrone Thompson
-- Assemblywoman Ellen Spiegel
+- Assemblyman Jason Frierson (Democratic)
+- Assemblyman Tyrone Thompson (Democratic)
+- Assemblywoman Ellen Spiegel (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Teresa Benitez-Thompson
-- Assemblywoman Daniele Monroe-Moreno
-- Assemblywoman Connie Munk
-- Assemblywoman Selena Torres
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
+- Assemblywoman Daniele Monroe-Moreno (Democratic)
+- Assemblywoman Connie Munk (Democratic)
+- Assemblywoman Selena Torres (Democratic)
 
 ---
 
@@ -194,15 +194,15 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Glen Leavitt
-- Assemblyman Tom Roberts
-- Senator Joseph Hardy
-- Senator Scott Hammond
+- Assemblyman Glen Leavitt (Republican)
+- Assemblyman Tom Roberts (Republican)
+- Senator Joseph Hardy (Republican)
+- Senator Scott Hammond (Republican)
 
 ### Co-sponsors
 
-- Assemblywoman Alexis Hansen
-- Assemblywoman Melissa Hardy
+- Assemblywoman Alexis Hansen (Republican)
+- Assemblywoman Melissa Hardy (Republican)
 
 ---
 
@@ -212,20 +212,20 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Daniele Monroe-Moreno
-- Assemblywoman Teresa Benitez-Thompson
-- Assemblyman Ozzie Fumo
+- Assemblywoman Daniele Monroe-Moreno (Democratic)
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
+- Assemblyman Ozzie Fumo (Democratic)
 
 ### Co-sponsors
 
-- Assemblyman Alexander Assefa
-- Assemblywoman Bea Duran
-- Assemblywoman Michelle Gorelow
-- Assemblywoman Connie Munk
-- Assemblywoman Sarah Peters
-- Assemblyman Tyrone Thompson
-- Assemblyman Howard Watts
-- Assemblyman Steve Yeager
+- Assemblyman Alexander Assefa (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblywoman Michelle Gorelow (Democratic)
+- Assemblywoman Connie Munk (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblyman Tyrone Thompson (Democratic)
+- Assemblyman Howard Watts (Democratic)
+- Assemblyman Steve Yeager (Democratic)
 
 ---
 
@@ -235,17 +235,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Skip Daly
-- Assemblywoman Sarah Peters
-- Assemblywoman Teresa Benitez-Thompson
-- Assemblyman Al Kramer
-- Senator Julia Ratti
-- Senator Ben Kieckhefer
+- Assemblyman Skip Daly (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
+- Assemblyman Al Kramer (Republican)
+- Senator Julia Ratti (Democratic)
+- Senator Ben Kieckhefer (Republican)
 
 ### Co-sponsors
 
-- Assemblywoman Lisa Krasner
-- Assemblywoman Jill Tolles
+- Assemblywoman Lisa Krasner (Republican)
+- Assemblywoman Jill Tolles (Republican)
 
 ---
 
@@ -255,7 +255,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Al Kramer
+- Assemblyman Al Kramer (Republican)
 
 ### Co-sponsors
 
@@ -269,17 +269,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Jason Frierson
-- Assemblywoman Daniele Monroe-Moreno
-- Assemblyman Tyrone Thompson
-- Assemblyman Steve Yeager
-- Assemblywoman Teresa Benitez-Thompson
+- Assemblyman Jason Frierson (Democratic)
+- Assemblywoman Daniele Monroe-Moreno (Democratic)
+- Assemblyman Tyrone Thompson (Democratic)
+- Assemblyman Steve Yeager (Democratic)
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Shea Backus
-- Assemblywoman Sandra Jauregui
-- Assemblywoman Heidi Swank
+- Assemblywoman Shea Backus (Democratic)
+- Assemblywoman Sandra Jauregui (Democratic)
+- Assemblywoman Heidi Swank (Democratic)
 
 ---
 
@@ -289,7 +289,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Shannon Bilbray-Axelrod
+- Assemblywoman Shannon Bilbray-Axelrod (Democratic)
 
 ### Co-sponsors
 
@@ -303,26 +303,26 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Selena Torres
-- Assemblyman Howard Watts
-- Assemblyman Alexander Assefa
-- Assemblyman Edgar Flores
-- Senator Moises Denis
-- Senator David Parks
-- Senator Yvanna Cancela
+- Assemblywoman Selena Torres (Democratic)
+- Assemblyman Howard Watts (Democratic)
+- Assemblyman Alexander Assefa (Democratic)
+- Assemblyman Edgar Flores (Democratic)
+- Senator Moises Denis (Democratic)
+- Senator David Parks (Democratic)
+- Senator Yvanna Cancela (Democratic)
 
 ### Co-sponsors
 
-- Assemblyman Richard Carrillo
-- Assemblywoman Bea Duran
-- Assemblyman Ozzie Fumo
-- Assemblywoman Sandra Jauregui
-- Assemblywoman Susie Martinez
-- Assemblyman William McCurdy
-- Assemblywoman Daniele Monroe-Moreno
-- Assemblywoman Dina Neal
-- Assemblywoman Ellen Spiegel
-- Senator Dallas Harris
+- Assemblyman Richard Carrillo (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblyman Ozzie Fumo (Democratic)
+- Assemblywoman Sandra Jauregui (Democratic)
+- Assemblywoman Susie Martinez (Democratic)
+- Assemblyman William McCurdy (Democratic)
+- Assemblywoman Daniele Monroe-Moreno (Democratic)
+- Assemblywoman Dina Neal (Democratic)
+- Assemblywoman Ellen Spiegel (Democratic)
+- Senator Dallas Harris (Democratic)
 
 ---
 
@@ -332,22 +332,22 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Tyrone Thompson
-- Assemblywoman Sarah Peters
-- Assemblywoman Ellen Spiegel
-- Assemblyman Richard Carrillo
-- Senator Moises Denis
+- Assemblyman Tyrone Thompson (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblywoman Ellen Spiegel (Democratic)
+- Assemblyman Richard Carrillo (Democratic)
+- Senator Moises Denis (Democratic)
 
 ### Co-sponsors
 
-- Assemblyman Ozzie Fumo
-- Assemblywoman Michelle Gorelow
-- Assemblyman William McCurdy
-- Assemblywoman Selena Torres
-- Assemblyman Howard Watts
-- Senator Marilyn Dondero Loop
-- Senator Dallas Harris
-- Senator Joyce Woodhouse
+- Assemblyman Ozzie Fumo (Democratic)
+- Assemblywoman Michelle Gorelow (Democratic)
+- Assemblyman William McCurdy (Democratic)
+- Assemblywoman Selena Torres (Democratic)
+- Assemblyman Howard Watts (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Dallas Harris (Democratic)
+- Senator Joyce Woodhouse (Democratic)
 
 ---
 
@@ -357,20 +357,20 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Selena Torres
-- Assemblywoman Teresa Benitez-Thompson
+- Assemblywoman Selena Torres (Democratic)
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Shea Backus
-- Assemblyman Edgar Flores
-- Assemblyman Jason Frierson
-- Assemblywoman Sandra Jauregui
-- Assemblywoman Susie Martinez
-- Assemblywoman Connie Munk
-- Assemblywoman Rochelle Nguyen
-- Assemblywoman Sarah Peters
-- Assemblyman Howard Watts
+- Assemblywoman Shea Backus (Democratic)
+- Assemblyman Edgar Flores (Democratic)
+- Assemblyman Jason Frierson (Democratic)
+- Assemblywoman Sandra Jauregui (Democratic)
+- Assemblywoman Susie Martinez (Democratic)
+- Assemblywoman Connie Munk (Democratic)
+- Assemblywoman Rochelle Nguyen (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblyman Howard Watts (Democratic)
 
 ---
 
@@ -380,18 +380,18 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Daniele Monroe-Moreno
-- Assemblyman Ozzie Fumo
-- Assemblywoman Shannon Bilbray-Axelrod
-- Assemblyman Alexander Assefa
+- Assemblywoman Daniele Monroe-Moreno (Democratic)
+- Assemblyman Ozzie Fumo (Democratic)
+- Assemblywoman Shannon Bilbray-Axelrod (Democratic)
+- Assemblyman Alexander Assefa (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Teresa Benitez-Thompson
-- Assemblywoman Lesley Cohen
-- Assemblywoman Brittney Miller
-- Assemblywoman Connie Munk
-- Assemblywoman Selena Torres
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
+- Assemblywoman Lesley Cohen (Democratic)
+- Assemblywoman Brittney Miller (Democratic)
+- Assemblywoman Connie Munk (Democratic)
+- Assemblywoman Selena Torres (Democratic)
 
 ---
 
@@ -401,7 +401,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Jason Frierson
+- Assemblyman Jason Frierson (Democratic)
 
 ### Co-sponsors
 
@@ -415,7 +415,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Lisa Krasner
+- Assemblywoman Lisa Krasner (Republican)
 
 ### Co-sponsors
 
@@ -429,17 +429,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Jill Tolles
-- Assemblywoman Melissa Hardy
-- Assemblyman Gregory Hafen
-- Assemblyman Glen Leavitt
-- Assemblyman Tom Roberts
+- Assemblywoman Jill Tolles (Republican)
+- Assemblywoman Melissa Hardy (Republican)
+- Assemblyman Gregory Hafen (Republican)
+- Assemblyman Glen Leavitt (Republican)
+- Assemblyman Tom Roberts (Republican)
 
 ### Co-sponsors
 
-- Assemblywoman Alexis Hansen
-- Assemblywoman Lisa Krasner
-- Assemblywoman Robin Titus
+- Assemblywoman Alexis Hansen (Republican)
+- Assemblywoman Lisa Krasner (Republican)
+- Assemblywoman Robin Titus (Republican)
 
 ---
 
@@ -449,21 +449,21 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Jill Tolles
-- Assemblyman Steve Yeager
-- Assemblyman Tom Roberts
-- Senator Ben Kieckhefer
-- Senator Moises Denis
-- Senator Heidi Seevers Gansert
+- Assemblywoman Jill Tolles (Republican)
+- Assemblyman Steve Yeager (Democratic)
+- Assemblyman Tom Roberts (Republican)
+- Senator Ben Kieckhefer (Republican)
+- Senator Moises Denis (Democratic)
+- Senator Heidi Seevers Gansert (Republican)
 
 ### Co-sponsors
 
-- Assemblywoman Alexis Hansen
-- Assemblywoman Melissa Hardy
-- Assemblyman Al Kramer
-- Assemblyman Glen Leavitt
-- Assemblyman William McCurdy
-- Senator Chris Brooks
+- Assemblywoman Alexis Hansen (Republican)
+- Assemblywoman Melissa Hardy (Republican)
+- Assemblyman Al Kramer (Republican)
+- Assemblyman Glen Leavitt (Republican)
+- Assemblyman William McCurdy (Democratic)
+- Senator Chris Brooks (Democratic)
 
 ---
 
@@ -473,10 +473,10 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Jason Frierson
-- Assemblywoman Teresa Benitez-Thompson
-- Assemblywoman Sandra Jauregui
-- Assemblyman Steve Yeager
+- Assemblyman Jason Frierson (Democratic)
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
+- Assemblywoman Sandra Jauregui (Democratic)
+- Assemblyman Steve Yeager (Democratic)
 
 ### Co-sponsors
 
@@ -490,7 +490,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Jason Frierson
+- Assemblyman Jason Frierson (Democratic)
 
 ### Co-sponsors
 
@@ -504,22 +504,22 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Melissa Hardy
-- Assemblyman Al Kramer
-- Assemblywoman Jill Tolles
-- Senator Scott Hammond
-- Senator Joseph Hardy
+- Assemblywoman Melissa Hardy (Republican)
+- Assemblyman Al Kramer (Republican)
+- Assemblywoman Jill Tolles (Republican)
+- Senator Scott Hammond (Republican)
+- Senator Joseph Hardy (Republican)
 
 ### Co-sponsors
 
-- Assemblyman Chris Edwards
-- Assemblyman John Ellison
-- Assemblyman Gregory Hafen
-- Assemblywoman Lisa Krasner
-- Assemblyman Glen Leavitt
-- Assemblyman Tom Roberts
-- Assemblyman Jim Wheeler
-- Senator Keith Pickard
+- Assemblyman Chris Edwards (Republican)
+- Assemblyman John Ellison (Republican)
+- Assemblyman Gregory Hafen (Republican)
+- Assemblywoman Lisa Krasner (Republican)
+- Assemblyman Glen Leavitt (Republican)
+- Assemblyman Tom Roberts (Republican)
+- Assemblyman Jim Wheeler (Republican)
+- Senator Keith Pickard (Republican)
 
 ---
 
@@ -529,15 +529,15 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Gregory Hafen
-- Assemblyman Glen Leavitt
-- Assemblywoman Jill Tolles
-- Assemblyman Al Kramer
-- Senator Scott Hammond
+- Assemblyman Gregory Hafen (Republican)
+- Assemblyman Glen Leavitt (Republican)
+- Assemblywoman Jill Tolles (Republican)
+- Assemblyman Al Kramer (Republican)
+- Senator Scott Hammond (Republican)
 
 ### Co-sponsors
 
-- Assemblywoman Melissa Hardy
+- Assemblywoman Melissa Hardy (Republican)
 
 ---
 
@@ -547,72 +547,72 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Tyrone Thompson
-- Assemblywoman Daniele Monroe-Moreno
-- Assemblyman William McCurdy
-- Assemblyman Jason Frierson
-- Assemblywoman Teresa Benitez-Thompson
+- Assemblyman Tyrone Thompson (Democratic)
+- Assemblywoman Daniele Monroe-Moreno (Democratic)
+- Assemblyman William McCurdy (Democratic)
+- Assemblyman Jason Frierson (Democratic)
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
 
 ### Co-sponsors
 
-- Assemblyman Alexander Assefa
-- Assemblywoman Shea Backus
-- Assemblywoman Shannon Bilbray-Axelrod
-- Assemblywoman Maggie Carlton
-- Assemblyman Richard Carrillo
-- Assemblywoman Lesley Cohen
-- Assemblyman Skip Daly
-- Assemblywoman Bea Duran
-- Assemblyman Chris Edwards
-- Assemblyman John Ellison
-- Assemblyman Edgar Flores
-- Assemblyman Ozzie Fumo
-- Assemblywoman Michelle Gorelow
-- Assemblyman Gregory Hafen
-- Assemblyman John Hambrick
-- Assemblywoman Alexis Hansen
-- Assemblywoman Melissa Hardy
-- Assemblywoman Sandra Jauregui
-- Assemblyman Al Kramer
-- Assemblywoman Lisa Krasner
-- Assemblyman Glen Leavitt
-- Assemblywoman Susie Martinez
-- Assemblywoman Brittney Miller
-- Assemblywoman Connie Munk
-- Assemblywoman Dina Neal
-- Assemblywoman Rochelle Nguyen
-- Assemblywoman Sarah Peters
-- Assemblyman Tom Roberts
-- Assemblyman Greg Smith
-- Assemblywoman Ellen Spiegel
-- Assemblywoman Heidi Swank
-- Assemblywoman Robin Titus
-- Assemblywoman Jill Tolles
-- Assemblywoman Selena Torres
-- Assemblyman Howard Watts
-- Assemblyman Jim Wheeler
-- Assemblyman Steve Yeager
-- Senator Chris Brooks
-- Senator Yvanna Cancela
-- Senator Nicole Cannizzaro
-- Senator Moises Denis
-- Senator Marilyn Dondero Loop
-- Senator Pete Goicoechea
-- Senator Scott Hammond
-- Senator Ira Hansen
-- Senator Joseph Hardy
-- Senator Dallas Harris
-- Senator Ben Kieckhefer
-- Senator James Ohrenschall
-- Senator David Parks
-- Senator Keith Pickard
-- Senator Julia Ratti
-- Senator Melanie Scheible
-- Senator Heidi Seevers Gansert
-- Senator James Settelmeyer
-- Senator Pat Spearman
-- Senator Marcia Washington
-- Senator Joyce Woodhouse
+- Assemblyman Alexander Assefa (Democratic)
+- Assemblywoman Shea Backus (Democratic)
+- Assemblywoman Shannon Bilbray-Axelrod (Democratic)
+- Assemblywoman Maggie Carlton (Democratic)
+- Assemblyman Richard Carrillo (Democratic)
+- Assemblywoman Lesley Cohen (Democratic)
+- Assemblyman Skip Daly (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblyman Chris Edwards (Republican)
+- Assemblyman John Ellison (Republican)
+- Assemblyman Edgar Flores (Democratic)
+- Assemblyman Ozzie Fumo (Democratic)
+- Assemblywoman Michelle Gorelow (Democratic)
+- Assemblyman Gregory Hafen (Republican)
+- Assemblyman John Hambrick (Republican)
+- Assemblywoman Alexis Hansen (Republican)
+- Assemblywoman Melissa Hardy (Republican)
+- Assemblywoman Sandra Jauregui (Democratic)
+- Assemblyman Al Kramer (Republican)
+- Assemblywoman Lisa Krasner (Republican)
+- Assemblyman Glen Leavitt (Republican)
+- Assemblywoman Susie Martinez (Democratic)
+- Assemblywoman Brittney Miller (Democratic)
+- Assemblywoman Connie Munk (Democratic)
+- Assemblywoman Dina Neal (Democratic)
+- Assemblywoman Rochelle Nguyen (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblyman Tom Roberts (Republican)
+- Assemblyman Greg Smith (Democratic)
+- Assemblywoman Ellen Spiegel (Democratic)
+- Assemblywoman Heidi Swank (Democratic)
+- Assemblywoman Robin Titus (Republican)
+- Assemblywoman Jill Tolles (Republican)
+- Assemblywoman Selena Torres (Democratic)
+- Assemblyman Howard Watts (Democratic)
+- Assemblyman Jim Wheeler (Republican)
+- Assemblyman Steve Yeager (Democratic)
+- Senator Chris Brooks (Democratic)
+- Senator Yvanna Cancela (Democratic)
+- Senator Nicole Cannizzaro (Democratic)
+- Senator Moises Denis (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Pete Goicoechea (Republican)
+- Senator Scott Hammond (Republican)
+- Senator Ira Hansen (Republican)
+- Senator Joseph Hardy (Republican)
+- Senator Dallas Harris (Democratic)
+- Senator Ben Kieckhefer (Republican)
+- Senator James Ohrenschall (Democratic)
+- Senator David Parks (Democratic)
+- Senator Keith Pickard (Republican)
+- Senator Julia Ratti (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Heidi Seevers Gansert (Republican)
+- Senator James Settelmeyer (Republican)
+- Senator Pat Spearman (Democratic)
+- Senator Marcia Washington (Democratic)
+- Senator Joyce Woodhouse (Democratic)
 
 ---
 
@@ -622,7 +622,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Howard Watts
+- Assemblyman Howard Watts (Democratic)
 
 ### Co-sponsors
 
@@ -636,7 +636,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Lesley Cohen
+- Assemblywoman Lesley Cohen (Democratic)
 
 ### Co-sponsors
 
@@ -650,7 +650,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Steve Yeager
+- Assemblyman Steve Yeager (Democratic)
 
 ### Co-sponsors
 
@@ -664,12 +664,12 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Alexis Hansen
+- Assemblywoman Alexis Hansen (Republican)
 
 ### Co-sponsors
 
-- Senator Scott Hammond
-- Senator Keith Pickard
+- Senator Scott Hammond (Republican)
+- Senator Keith Pickard (Republican)
 
 ---
 
@@ -679,12 +679,12 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Jason Frierson
+- Assemblyman Jason Frierson (Democratic)
 
 ### Co-sponsors
 
-- Assemblyman William McCurdy
-- Assemblyman Howard Watts
+- Assemblyman William McCurdy (Democratic)
+- Assemblyman Howard Watts (Democratic)
 
 ---
 
@@ -694,7 +694,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman William McCurdy
+- Assemblyman William McCurdy (Democratic)
 
 ### Co-sponsors
 
@@ -708,7 +708,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Glen Leavitt
+- Assemblyman Glen Leavitt (Republican)
 
 ### Co-sponsors
 
@@ -722,7 +722,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Jason Frierson
+- Assemblyman Jason Frierson (Democratic)
 
 ### Co-sponsors
 
@@ -736,7 +736,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Sandra Jauregui
+- Assemblywoman Sandra Jauregui (Democratic)
 
 ### Co-sponsors
 
@@ -750,23 +750,23 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman John Ellison
-- Assemblyman Al Kramer
-- Assemblyman Tom Roberts
+- Assemblyman John Ellison (Republican)
+- Assemblyman Al Kramer (Republican)
+- Assemblyman Tom Roberts (Republican)
 
 ### Co-sponsors
 
-- Assemblyman Glen Leavitt
-- Assemblywoman Robin Titus
-- Assemblyman Jim Wheeler
-- Senator Chris Brooks
-- Senator Yvanna Cancela
-- Senator Moises Denis
-- Senator Scott Hammond
-- Senator Joseph Hardy
-- Senator James Settelmeyer
-- Senator Pat Spearman
-- Senator Marcia Washington
+- Assemblyman Glen Leavitt (Republican)
+- Assemblywoman Robin Titus (Republican)
+- Assemblyman Jim Wheeler (Republican)
+- Senator Chris Brooks (Democratic)
+- Senator Yvanna Cancela (Democratic)
+- Senator Moises Denis (Democratic)
+- Senator Scott Hammond (Republican)
+- Senator Joseph Hardy (Republican)
+- Senator James Settelmeyer (Republican)
+- Senator Pat Spearman (Democratic)
+- Senator Marcia Washington (Democratic)
 
 ---
 
@@ -776,16 +776,16 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Al Kramer
-- Assemblyman Richard Carrillo
+- Assemblyman Al Kramer (Republican)
+- Assemblyman Richard Carrillo (Democratic)
 
 ### Co-sponsors
 
-- Assemblyman Alexander Assefa
-- Assemblywoman Melissa Hardy
-- Assemblyman Glen Leavitt
-- Assemblywoman Robin Titus
-- Assemblyman Jim Wheeler
+- Assemblyman Alexander Assefa (Democratic)
+- Assemblywoman Melissa Hardy (Republican)
+- Assemblyman Glen Leavitt (Republican)
+- Assemblywoman Robin Titus (Republican)
+- Assemblyman Jim Wheeler (Republican)
 
 ---
 
@@ -795,12 +795,12 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Al Kramer
-- Assemblywoman Robin Titus
+- Assemblyman Al Kramer (Republican)
+- Assemblywoman Robin Titus (Republican)
 
 ### Co-sponsors
 
-- Assemblyman John Ellison
+- Assemblyman John Ellison (Republican)
 
 ---
 
@@ -838,8 +838,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Jason Frierson
-- Assemblywoman Shea Backus
+- Assemblyman Jason Frierson (Democratic)
+- Assemblywoman Shea Backus (Democratic)
 
 ### Co-sponsors
 
@@ -895,9 +895,9 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Teresa Benitez-Thompson
-- Assemblyman Al Kramer
-- Assemblywoman Sarah Peters
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
+- Assemblyman Al Kramer (Republican)
+- Assemblywoman Sarah Peters (Democratic)
 
 ### Co-sponsors
 
@@ -925,8 +925,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Teresa Benitez-Thompson
-- Assemblyman Tom Roberts
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
+- Assemblyman Tom Roberts (Republican)
 
 ### Co-sponsors
 
@@ -1038,12 +1038,12 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Julia Ratti
-- Senator Dallas Harris
+- Senator Julia Ratti (Democratic)
+- Senator Dallas Harris (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Lisa Krasner
+- Assemblywoman Lisa Krasner (Republican)
 
 ---
 
@@ -1053,8 +1053,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Pete Goicoechea
-- Senator James Settelmeyer
+- Senator Pete Goicoechea (Republican)
+- Senator James Settelmeyer (Republican)
 
 ### Co-sponsors
 
@@ -1068,14 +1068,14 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Heidi Seevers Gansert
-- Senator Joseph Hardy
-- Senator Keith Pickard
+- Senator Heidi Seevers Gansert (Republican)
+- Senator Joseph Hardy (Republican)
+- Senator Keith Pickard (Republican)
 
 ### Co-sponsors
 
-- Senator Scott Hammond
-- Senator James Settelmeyer
+- Senator Scott Hammond (Republican)
+- Senator James Settelmeyer (Republican)
 
 ---
 
@@ -1113,14 +1113,14 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Pete Goicoechea
-- Senator James Settelmeyer
-- Senator Joseph Hardy
-- Assemblyman John Ellison
+- Senator Pete Goicoechea (Republican)
+- Senator James Settelmeyer (Republican)
+- Senator Joseph Hardy (Republican)
+- Assemblyman John Ellison (Republican)
 
 ### Co-sponsors
 
-- Senator Ira Hansen
+- Senator Ira Hansen (Republican)
 
 ---
 
@@ -1130,17 +1130,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Julia Ratti
-- Senator Yvanna Cancela
-- Senator Pat Spearman
-- Senator David Parks
+- Senator Julia Ratti (Democratic)
+- Senator Yvanna Cancela (Democratic)
+- Senator Pat Spearman (Democratic)
+- Senator David Parks (Democratic)
 
 ### Co-sponsors
 
-- Senator Chris Brooks
-- Senator Dallas Harris
-- Senator James Ohrenschall
-- Senator Joyce Woodhouse
+- Senator Chris Brooks (Democratic)
+- Senator Dallas Harris (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Joyce Woodhouse (Democratic)
 
 ---
 
@@ -1150,15 +1150,15 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Heidi Seevers Gansert
-- Senator Joseph Hardy
+- Senator Heidi Seevers Gansert (Republican)
+- Senator Joseph Hardy (Republican)
 
 ### Co-sponsors
 
-- Senator Pete Goicoechea
-- Senator Scott Hammond
-- Senator Ben Kieckhefer
-- Senator James Settelmeyer
+- Senator Pete Goicoechea (Republican)
+- Senator Scott Hammond (Republican)
+- Senator Ben Kieckhefer (Republican)
+- Senator James Settelmeyer (Republican)
 
 ---
 
@@ -1168,8 +1168,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Joyce Woodhouse
-- Senator David Parks
+- Senator Joyce Woodhouse (Democratic)
+- Senator David Parks (Democratic)
 
 ### Co-sponsors
 
@@ -1183,15 +1183,15 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Pat Spearman
-- Senator David Parks
+- Senator Pat Spearman (Democratic)
+- Senator David Parks (Democratic)
 
 ### Co-sponsors
 
-- Senator Dallas Harris
-- Senator James Ohrenschall
-- Senator Melanie Scheible
-- Senator Joyce Woodhouse
+- Senator Dallas Harris (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Joyce Woodhouse (Democratic)
 
 ---
 
@@ -1201,12 +1201,12 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Melanie Scheible
-- Senator David Parks
+- Senator Melanie Scheible (Democratic)
+- Senator David Parks (Democratic)
 
 ### Co-sponsors
 
-- Assemblyman Ozzie Fumo
+- Assemblyman Ozzie Fumo (Democratic)
 
 ---
 
@@ -1216,20 +1216,20 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Marilyn Dondero Loop
-- Senator Pat Spearman
-- Senator James Ohrenschall
-- Senator David Parks
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Pat Spearman (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator David Parks (Democratic)
 
 ### Co-sponsors
 
-- Senator Chris Brooks
-- Senator Yvanna Cancela
-- Senator Nicole Cannizzaro
-- Senator Moises Denis
-- Senator Dallas Harris
-- Senator Melanie Scheible
-- Senator Joyce Woodhouse
+- Senator Chris Brooks (Democratic)
+- Senator Yvanna Cancela (Democratic)
+- Senator Nicole Cannizzaro (Democratic)
+- Senator Moises Denis (Democratic)
+- Senator Dallas Harris (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Joyce Woodhouse (Democratic)
 
 ---
 
@@ -1239,20 +1239,20 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Pat Spearman
-- Senator Joyce Woodhouse
-- Senator David Parks
+- Senator Pat Spearman (Democratic)
+- Senator Joyce Woodhouse (Democratic)
+- Senator David Parks (Democratic)
 
 ### Co-sponsors
 
-- Senator Joseph Hardy
-- Senator Dallas Harris
-- Senator James Ohrenschall
-- Senator Melanie Scheible
-- Assemblyman Alexander Assefa
-- Assemblywoman Michelle Gorelow
-- Assemblywoman Lisa Krasner
-- Assemblywoman Rochelle Nguyen
+- Senator Joseph Hardy (Republican)
+- Senator Dallas Harris (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Assemblyman Alexander Assefa (Democratic)
+- Assemblywoman Michelle Gorelow (Democratic)
+- Assemblywoman Lisa Krasner (Republican)
+- Assemblywoman Rochelle Nguyen (Democratic)
 
 ---
 
@@ -1262,25 +1262,25 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Chris Brooks
-- Senator Moises Denis
-- Senator Nicole Cannizzaro
+- Senator Chris Brooks (Democratic)
+- Senator Moises Denis (Democratic)
+- Senator Nicole Cannizzaro (Democratic)
 
 ### Co-sponsors
 
-- Senator Yvanna Cancela
-- Senator Marilyn Dondero Loop
-- Senator Dallas Harris
-- Senator James Ohrenschall
-- Senator David Parks
-- Senator Julia Ratti
-- Senator Melanie Scheible
-- Senator Pat Spearman
-- Senator Joyce Woodhouse
-- Assemblyman Richard Carrillo
-- Assemblywoman Bea Duran
-- Assemblywoman Susie Martinez
-- Assemblyman Greg Smith
+- Senator Yvanna Cancela (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Dallas Harris (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator David Parks (Democratic)
+- Senator Julia Ratti (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Pat Spearman (Democratic)
+- Senator Joyce Woodhouse (Democratic)
+- Assemblyman Richard Carrillo (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblywoman Susie Martinez (Democratic)
+- Assemblyman Greg Smith (Democratic)
 
 ---
 
@@ -1290,21 +1290,21 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Moises Denis
-- Senator Pat Spearman
-- Senator Chris Brooks
-- Senator David Parks
+- Senator Moises Denis (Democratic)
+- Senator Pat Spearman (Democratic)
+- Senator Chris Brooks (Democratic)
+- Senator David Parks (Democratic)
 
 ### Co-sponsors
 
 - Senator Kelvin Atkinson
-- Senator Yvanna Cancela
-- Senator Nicole Cannizzaro
-- Senator Marilyn Dondero Loop
-- Senator James Ohrenschall
-- Senator Julia Ratti
-- Senator Melanie Scheible
-- Senator Joyce Woodhouse
+- Senator Yvanna Cancela (Democratic)
+- Senator Nicole Cannizzaro (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Julia Ratti (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Joyce Woodhouse (Democratic)
 
 ---
 
@@ -1314,7 +1314,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Moises Denis
+- Senator Moises Denis (Democratic)
 
 ### Co-sponsors
 
@@ -1328,7 +1328,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Joseph Hardy
+- Senator Joseph Hardy (Republican)
 
 ### Co-sponsors
 
@@ -1342,14 +1342,14 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Keith Pickard
-- Senator James Ohrenschall
-- Assemblyman Glen Leavitt
-- Assemblywoman Melissa Hardy
+- Senator Keith Pickard (Republican)
+- Senator James Ohrenschall (Democratic)
+- Assemblyman Glen Leavitt (Republican)
+- Assemblywoman Melissa Hardy (Republican)
 
 ### Co-sponsors
 
-- Assemblywoman Lesley Cohen
+- Assemblywoman Lesley Cohen (Democratic)
 
 ---
 
@@ -1359,8 +1359,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Keith Pickard
-- Assemblywoman Lesley Cohen
+- Senator Keith Pickard (Republican)
+- Assemblywoman Lesley Cohen (Democratic)
 
 ### Co-sponsors
 
@@ -1374,14 +1374,14 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator James Settelmeyer
-- Senator Pete Goicoechea
-- Senator Joseph Hardy
+- Senator James Settelmeyer (Republican)
+- Senator Pete Goicoechea (Republican)
+- Senator Joseph Hardy (Republican)
 
 ### Co-sponsors
 
-- Senator Ira Hansen
-- Senator Heidi Seevers Gansert
+- Senator Ira Hansen (Republican)
+- Senator Heidi Seevers Gansert (Republican)
 
 ---
 
@@ -1391,10 +1391,10 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Joyce Woodhouse
-- Senator David Parks
-- Assemblyman Ozzie Fumo
-- Assemblywoman Lesley Cohen
+- Senator Joyce Woodhouse (Democratic)
+- Senator David Parks (Democratic)
+- Assemblyman Ozzie Fumo (Democratic)
+- Assemblywoman Lesley Cohen (Democratic)
 
 ### Co-sponsors
 
@@ -1408,17 +1408,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Yvanna Cancela
-- Senator Pat Spearman
-- Senator Julia Ratti
-- Senator David Parks
+- Senator Yvanna Cancela (Democratic)
+- Senator Pat Spearman (Democratic)
+- Senator Julia Ratti (Democratic)
+- Senator David Parks (Democratic)
 
 ### Co-sponsors
 
-- Senator Dallas Harris
-- Senator James Ohrenschall
-- Senator Melanie Scheible
-- Senator Joyce Woodhouse
+- Senator Dallas Harris (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Joyce Woodhouse (Democratic)
 
 ---
 
@@ -1442,13 +1442,13 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dallas Harris
-- Senator Julia Ratti
+- Senator Dallas Harris (Democratic)
+- Senator Julia Ratti (Democratic)
 
 ### Co-sponsors
 
-- Senator Heidi Seevers Gansert
-- Assemblyman Tyrone Thompson
+- Senator Heidi Seevers Gansert (Republican)
+- Assemblyman Tyrone Thompson (Democratic)
 
 ---
 
@@ -1458,8 +1458,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Melanie Scheible
-- Senator Nicole Cannizzaro
+- Senator Melanie Scheible (Democratic)
+- Senator Nicole Cannizzaro (Democratic)
 
 ### Co-sponsors
 
@@ -1473,22 +1473,22 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Julia Ratti
+- Senator Julia Ratti (Democratic)
 
 ### Co-sponsors
 
-- Senator Chris Brooks
-- Senator Moises Denis
-- Senator Marilyn Dondero Loop
-- Senator Scott Hammond
-- Senator Joseph Hardy
-- Senator Dallas Harris
-- Senator Ben Kieckhefer
-- Senator David Parks
-- Senator Heidi Seevers Gansert
-- Senator James Settelmeyer
-- Senator Pat Spearman
-- Senator Joyce Woodhouse
+- Senator Chris Brooks (Democratic)
+- Senator Moises Denis (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Scott Hammond (Republican)
+- Senator Joseph Hardy (Republican)
+- Senator Dallas Harris (Democratic)
+- Senator Ben Kieckhefer (Republican)
+- Senator David Parks (Democratic)
+- Senator Heidi Seevers Gansert (Republican)
+- Senator James Settelmeyer (Republican)
+- Senator Pat Spearman (Democratic)
+- Senator Joyce Woodhouse (Democratic)
 
 ---
 
@@ -1498,7 +1498,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dallas Harris
+- Senator Dallas Harris (Democratic)
 
 ### Co-sponsors
 
@@ -1512,28 +1512,28 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator James Settelmeyer
-- Senator Ira Hansen
-- Senator Joseph Hardy
-- Senator Scott Hammond
-- Senator Keith Pickard
-- Assemblyman Jim Wheeler
-- Assemblywoman Robin Titus
-- Assemblyman Glen Leavitt
+- Senator James Settelmeyer (Republican)
+- Senator Ira Hansen (Republican)
+- Senator Joseph Hardy (Republican)
+- Senator Scott Hammond (Republican)
+- Senator Keith Pickard (Republican)
+- Assemblyman Jim Wheeler (Republican)
+- Assemblywoman Robin Titus (Republican)
+- Assemblyman Glen Leavitt (Republican)
 
 ### Co-sponsors
 
-- Senator Moises Denis
-- Senator Pete Goicoechea
-- Senator Heidi Seevers Gansert
-- Assemblyman Chris Edwards
-- Assemblyman John Ellison
-- Assemblyman Gregory Hafen
-- Assemblywoman Alexis Hansen
-- Assemblywoman Melissa Hardy
-- Assemblyman Al Kramer
-- Assemblyman Tom Roberts
-- Assemblywoman Jill Tolles
+- Senator Moises Denis (Democratic)
+- Senator Pete Goicoechea (Republican)
+- Senator Heidi Seevers Gansert (Republican)
+- Assemblyman Chris Edwards (Republican)
+- Assemblyman John Ellison (Republican)
+- Assemblyman Gregory Hafen (Republican)
+- Assemblywoman Alexis Hansen (Republican)
+- Assemblywoman Melissa Hardy (Republican)
+- Assemblyman Al Kramer (Republican)
+- Assemblyman Tom Roberts (Republican)
+- Assemblywoman Jill Tolles (Republican)
 
 ---
 
@@ -1543,7 +1543,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Ben Kieckhefer
+- Senator Ben Kieckhefer (Republican)
 
 ### Co-sponsors
 
@@ -1557,14 +1557,14 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Melanie Scheible
-- Senator David Parks
-- Senator Pat Spearman
+- Senator Melanie Scheible (Democratic)
+- Senator David Parks (Democratic)
+- Senator Pat Spearman (Democratic)
 
 ### Co-sponsors
 
-- Senator Marilyn Dondero Loop
-- Senator Dallas Harris
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Dallas Harris (Democratic)
 
 ---
 
@@ -1574,17 +1574,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator James Settelmeyer
-- Senator Pete Goicoechea
-- Senator Heidi Seevers Gansert
-- Senator Scott Hammond
-- Senator Ira Hansen
+- Senator James Settelmeyer (Republican)
+- Senator Pete Goicoechea (Republican)
+- Senator Heidi Seevers Gansert (Republican)
+- Senator Scott Hammond (Republican)
+- Senator Ira Hansen (Republican)
 
 ### Co-sponsors
 
-- Senator Joseph Hardy
-- Senator Ben Kieckhefer
-- Senator Keith Pickard
+- Senator Joseph Hardy (Republican)
+- Senator Ben Kieckhefer (Republican)
+- Senator Keith Pickard (Republican)
 
 ---
 
@@ -1608,7 +1608,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Melanie Scheible
+- Senator Melanie Scheible (Democratic)
 
 ### Co-sponsors
 
@@ -1622,12 +1622,12 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Chris Brooks
-- Senator Pat Spearman
+- Senator Chris Brooks (Democratic)
+- Senator Pat Spearman (Democratic)
 
 ### Co-sponsors
 
-- Senator Yvanna Cancela
+- Senator Yvanna Cancela (Democratic)
 
 ---
 
@@ -1637,7 +1637,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Nicole Cannizzaro
+- Senator Nicole Cannizzaro (Democratic)
 
 ### Co-sponsors
 
@@ -1651,8 +1651,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Melanie Scheible
-- Senator Julia Ratti
+- Senator Melanie Scheible (Democratic)
+- Senator Julia Ratti (Democratic)
 
 ### Co-sponsors
 
@@ -1666,18 +1666,18 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Keith Pickard
-- Senator Joseph Hardy
-- Assemblywoman Melissa Hardy
-- Assemblyman Al Kramer
+- Senator Keith Pickard (Republican)
+- Senator Joseph Hardy (Republican)
+- Assemblywoman Melissa Hardy (Republican)
+- Assemblyman Al Kramer (Republican)
 
 ### Co-sponsors
 
-- Assemblyman Chris Edwards
-- Assemblywoman Lisa Krasner
-- Assemblyman Glen Leavitt
-- Assemblyman Tom Roberts
-- Assemblyman Steve Yeager
+- Assemblyman Chris Edwards (Republican)
+- Assemblywoman Lisa Krasner (Republican)
+- Assemblyman Glen Leavitt (Republican)
+- Assemblyman Tom Roberts (Republican)
+- Assemblyman Steve Yeager (Democratic)
 
 ---
 
@@ -1687,7 +1687,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Julia Ratti
+- Senator Julia Ratti (Democratic)
 
 ### Co-sponsors
 
@@ -1701,11 +1701,11 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Moises Denis
+- Senator Moises Denis (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Lisa Krasner
+- Assemblywoman Lisa Krasner (Republican)
 
 ---
 
@@ -1715,7 +1715,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator James Ohrenschall
+- Senator James Ohrenschall (Democratic)
 
 ### Co-sponsors
 
@@ -1729,7 +1729,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Nicole Cannizzaro
+- Senator Nicole Cannizzaro (Democratic)
 
 ### Co-sponsors
 
@@ -1799,20 +1799,20 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator James Settelmeyer
-- Senator Keith Pickard
+- Senator James Settelmeyer (Republican)
+- Senator Keith Pickard (Republican)
 
 ### Co-sponsors
 
-- Senator Pete Goicoechea
-- Senator Scott Hammond
-- Senator Ira Hansen
-- Senator Joseph Hardy
-- Senator Ben Kieckhefer
-- Senator Julia Ratti
-- Senator Heidi Seevers Gansert
-- Senator Pat Spearman
-- Senator Joyce Woodhouse
+- Senator Pete Goicoechea (Republican)
+- Senator Scott Hammond (Republican)
+- Senator Ira Hansen (Republican)
+- Senator Joseph Hardy (Republican)
+- Senator Ben Kieckhefer (Republican)
+- Senator Julia Ratti (Democratic)
+- Senator Heidi Seevers Gansert (Republican)
+- Senator Pat Spearman (Democratic)
+- Senator Joyce Woodhouse (Democratic)
 
 ---
 
@@ -1836,8 +1836,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Nicole Cannizzaro
-- Assemblyman Jason Frierson
+- Senator Nicole Cannizzaro (Democratic)
+- Assemblyman Jason Frierson (Democratic)
 
 ### Co-sponsors
 
@@ -1851,7 +1851,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dallas Harris
+- Senator Dallas Harris (Democratic)
 
 ### Co-sponsors
 
@@ -1921,19 +1921,19 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Tom Roberts
-- Assemblywoman Daniele Monroe-Moreno
+- Assemblyman Tom Roberts (Republican)
+- Assemblywoman Daniele Monroe-Moreno (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Lisa Krasner
-- Assemblyman Glen Leavitt
-- Assemblywoman Rochelle Nguyen
-- Assemblywoman Robin Titus
-- Assemblywoman Jill Tolles
-- Senator Scott Hammond
-- Senator Ben Kieckhefer
-- Senator Heidi Seevers Gansert
+- Assemblywoman Lisa Krasner (Republican)
+- Assemblyman Glen Leavitt (Republican)
+- Assemblywoman Rochelle Nguyen (Democratic)
+- Assemblywoman Robin Titus (Republican)
+- Assemblywoman Jill Tolles (Republican)
+- Senator Scott Hammond (Republican)
+- Senator Ben Kieckhefer (Republican)
+- Senator Heidi Seevers Gansert (Republican)
 
 ---
 
@@ -1957,17 +1957,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Rochelle Nguyen
-- Assemblywoman Sarah Peters
-- Assemblywoman Cecelia González
-- Senator Melanie Scheible
-- Senator Nicole Cannizzaro
+- Assemblywoman Rochelle Nguyen (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblywoman Cecelia González (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Nicole Cannizzaro (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Selena Torres
-- Assemblyman Howard Watts
-- Senator Chris Brooks
+- Assemblywoman Selena Torres (Democratic)
+- Assemblyman Howard Watts (Democratic)
+- Senator Chris Brooks (Democratic)
 
 ---
 
@@ -1977,43 +1977,43 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Rochelle Nguyen
-- Assemblyman Steve Yeager
-- Assemblyman Jason Frierson
-- Assemblywoman Selena Torres
-- Assemblywoman Daniele Monroe-Moreno
-- Senator Nicole Cannizzaro
-- Senator Melanie Scheible
+- Assemblywoman Rochelle Nguyen (Democratic)
+- Assemblyman Steve Yeager (Democratic)
+- Assemblyman Jason Frierson (Democratic)
+- Assemblywoman Selena Torres (Democratic)
+- Assemblywoman Daniele Monroe-Moreno (Democratic)
+- Senator Nicole Cannizzaro (Democratic)
+- Senator Melanie Scheible (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Natha Anderson
-- Assemblywoman Teresa Benitez-Thompson
-- Assemblywoman Shannon Bilbray-Axelrod
-- Assemblywoman Tracy Brown-May
-- Assemblywoman Maggie Carlton
-- Assemblywoman Lesley Cohen
-- Assemblywoman Venicia Considine
-- Assemblywoman Bea Duran
-- Assemblyman Edgar Flores
-- Assemblywoman Cecelia González
-- Assemblywoman Michelle Gorelow
-- Assemblywoman Sandra Jauregui
-- Assemblywoman Lisa Krasner
-- Assemblywoman Susie Martinez
-- Assemblywoman Elaine Marzola
-- Assemblywoman Brittney Miller
+- Assemblywoman Natha Anderson (Democratic)
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
+- Assemblywoman Shannon Bilbray-Axelrod (Democratic)
+- Assemblywoman Tracy Brown-May (Democratic)
+- Assemblywoman Maggie Carlton (Democratic)
+- Assemblywoman Lesley Cohen (Democratic)
+- Assemblywoman Venicia Considine (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblyman Edgar Flores (Democratic)
+- Assemblywoman Cecelia González (Democratic)
+- Assemblywoman Michelle Gorelow (Democratic)
+- Assemblywoman Sandra Jauregui (Democratic)
+- Assemblywoman Lisa Krasner (Republican)
+- Assemblywoman Susie Martinez (Democratic)
+- Assemblywoman Elaine Marzola (Democratic)
+- Assemblywoman Brittney Miller (Democratic)
 - Assemblyman C.H. Miller
-- Assemblyman David Orentlicher
-- Assemblywoman Sarah Peters
-- Assemblywoman Shondra Summers-Armstrong
-- Assemblywoman Clara Thomas
-- Assemblyman Howard Watts
-- Senator Chris Brooks
-- Senator Scott Hammond
-- Senator Dallas Harris
-- Senator James Ohrenschall
-- Senator Keith Pickard
+- Assemblyman David Orentlicher (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblywoman Shondra Summers-Armstrong (Democratic)
+- Assemblywoman Clara Thomas (Democratic)
+- Assemblyman Howard Watts (Democratic)
+- Senator Chris Brooks (Democratic)
+- Senator Scott Hammond (Republican)
+- Senator Dallas Harris (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Keith Pickard (Republican)
 
 ---
 
@@ -2023,7 +2023,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Howard Watts
+- Assemblyman Howard Watts (Democratic)
 
 ### Co-sponsors
 
@@ -2037,8 +2037,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Selena Torres
-- Assemblywoman Shondra Summers-Armstrong
+- Assemblywoman Selena Torres (Democratic)
+- Assemblywoman Shondra Summers-Armstrong (Democratic)
 
 ### Co-sponsors
 
@@ -2052,20 +2052,20 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman John Ellison
-- Assemblywoman Jill Dickman
-- Assemblywoman Robin Titus
-- Senator Pete Goicoechea
+- Assemblyman John Ellison (Republican)
+- Assemblywoman Jill Dickman (Republican)
+- Assemblywoman Robin Titus (Republican)
+- Senator Pete Goicoechea (Republican)
 
 ### Co-sponsors
 
-- Assemblyman Gregory Hafen
-- Assemblywoman Alexis Hansen
-- Assemblywoman Heidi Kasama
-- Assemblyman Glen Leavitt
-- Assemblyman Andy Matthews
-- Assemblyman Philip P.K. O’Neill
-- Assemblyman Jim Wheeler
+- Assemblyman Gregory Hafen (Republican)
+- Assemblywoman Alexis Hansen (Republican)
+- Assemblywoman Heidi Kasama (Republican)
+- Assemblyman Glen Leavitt (Republican)
+- Assemblyman Andy Matthews (Republican)
+- Assemblyman Philip P.K. O’Neill (Republican)
+- Assemblyman Jim Wheeler (Republican)
 
 ---
 
@@ -2075,21 +2075,21 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Jim Wheeler
-- Assemblyman John Ellison
-- Assemblywoman Jill Dickman
-- Assemblyman Philip P.K. O’Neill
-- Assemblywoman Robin Titus
-- Senator Pete Goicoechea
-- Senator James Settelmeyer
+- Assemblyman Jim Wheeler (Republican)
+- Assemblyman John Ellison (Republican)
+- Assemblywoman Jill Dickman (Republican)
+- Assemblyman Philip P.K. O’Neill (Republican)
+- Assemblywoman Robin Titus (Republican)
+- Senator Pete Goicoechea (Republican)
+- Senator James Settelmeyer (Republican)
 
 ### Co-sponsors
 
-- Assemblywoman Alexis Hansen
-- Assemblyman Andy Matthews
-- Senator Ira Hansen
-- Senator Joseph Hardy
-- Senator Keith Pickard
+- Assemblywoman Alexis Hansen (Republican)
+- Assemblyman Andy Matthews (Republican)
+- Senator Ira Hansen (Republican)
+- Senator Joseph Hardy (Republican)
+- Senator Keith Pickard (Republican)
 
 ---
 
@@ -2099,23 +2099,23 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Alexis Hansen
-- Assemblywoman Jill Dickman
-- Assemblyman Jim Wheeler
-- Assemblyman John Ellison
-- Assemblyman Gregory Hafen
+- Assemblywoman Alexis Hansen (Republican)
+- Assemblywoman Jill Dickman (Republican)
+- Assemblyman Jim Wheeler (Republican)
+- Assemblyman John Ellison (Republican)
+- Assemblyman Gregory Hafen (Republican)
 
 ### Co-sponsors
 
-- Assemblywoman Melissa Hardy
-- Assemblywoman Heidi Kasama
-- Assemblywoman Lisa Krasner
-- Assemblyman Glen Leavitt
-- Assemblyman Andy Matthews
-- Assemblyman Philip P.K. O’Neill
-- Assemblyman Tom Roberts
-- Assemblywoman Robin Titus
-- Assemblywoman Jill Tolles
+- Assemblywoman Melissa Hardy (Republican)
+- Assemblywoman Heidi Kasama (Republican)
+- Assemblywoman Lisa Krasner (Republican)
+- Assemblyman Glen Leavitt (Republican)
+- Assemblyman Andy Matthews (Republican)
+- Assemblyman Philip P.K. O’Neill (Republican)
+- Assemblyman Tom Roberts (Republican)
+- Assemblywoman Robin Titus (Republican)
+- Assemblywoman Jill Tolles (Republican)
 
 ---
 
@@ -2125,8 +2125,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Jason Frierson
-- Assemblywoman Teresa Benitez-Thompson
+- Assemblyman Jason Frierson (Democratic)
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
 
 ### Co-sponsors
 
@@ -2140,21 +2140,21 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Selena Torres
-- Assemblywoman Rochelle Nguyen
-- Assemblyman Edgar Flores
-- Assemblyman Howard Watts
-- Senator Moises Denis
-- Senator Fabian Donate
+- Assemblywoman Selena Torres (Democratic)
+- Assemblywoman Rochelle Nguyen (Democratic)
+- Assemblyman Edgar Flores (Democratic)
+- Assemblyman Howard Watts (Democratic)
+- Senator Moises Denis (Democratic)
+- Senator Fabian Donate (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Tracy Brown-May
-- Assemblywoman Bea Duran
-- Assemblywoman Cecelia González
-- Assemblywoman Susie Martinez
+- Assemblywoman Tracy Brown-May (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblywoman Cecelia González (Democratic)
+- Assemblywoman Susie Martinez (Democratic)
 - Assemblyman C.H. Miller
-- Assemblywoman Sarah Peters
+- Assemblywoman Sarah Peters (Democratic)
 
 ---
 
@@ -2164,22 +2164,22 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Howard Watts
-- Assemblywoman Sarah Peters
-- Assemblywoman Rochelle Nguyen
-- Senator Fabian Donate
+- Assemblyman Howard Watts (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblywoman Rochelle Nguyen (Democratic)
+- Senator Fabian Donate (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Bea Duran
-- Assemblywoman Michelle Gorelow
-- Assemblywoman Susie Martinez
+- Assemblywoman Bea Duran (Democratic)
+- Assemblywoman Michelle Gorelow (Democratic)
+- Assemblywoman Susie Martinez (Democratic)
 - Assemblyman C.H. Miller
-- Assemblyman David Orentlicher
-- Assemblywoman Shondra Summers-Armstrong
-- Assemblywoman Clara Thomas
-- Assemblywoman Selena Torres
-- Senator Moises Denis
+- Assemblyman David Orentlicher (Democratic)
+- Assemblywoman Shondra Summers-Armstrong (Democratic)
+- Assemblywoman Clara Thomas (Democratic)
+- Assemblywoman Selena Torres (Democratic)
+- Senator Moises Denis (Democratic)
 
 ---
 
@@ -2189,25 +2189,25 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Heidi Kasama
-- Assemblywoman Robin Titus
-- Assemblyman Glen Leavitt
-- Assemblyman Jim Wheeler
-- Senator Carrie Buck
-- Senator Scott Hammond
+- Assemblywoman Heidi Kasama (Republican)
+- Assemblywoman Robin Titus (Republican)
+- Assemblyman Glen Leavitt (Republican)
+- Assemblyman Jim Wheeler (Republican)
+- Senator Carrie Buck (Republican)
+- Senator Scott Hammond (Republican)
 
 ### Co-sponsors
 
-- Assemblywoman Jill Dickman
-- Assemblyman John Ellison
-- Assemblyman Gregory Hafen
-- Assemblywoman Alexis Hansen
-- Assemblywoman Melissa Hardy
-- Assemblywoman Lisa Krasner
-- Assemblyman Andy Matthews
-- Assemblyman Richard McArthur
-- Assemblyman Philip P.K. O’Neill
-- Assemblyman Tom Roberts
+- Assemblywoman Jill Dickman (Republican)
+- Assemblyman John Ellison (Republican)
+- Assemblyman Gregory Hafen (Republican)
+- Assemblywoman Alexis Hansen (Republican)
+- Assemblywoman Melissa Hardy (Republican)
+- Assemblywoman Lisa Krasner (Republican)
+- Assemblyman Andy Matthews (Republican)
+- Assemblyman Richard McArthur (Republican)
+- Assemblyman Philip P.K. O’Neill (Republican)
+- Assemblyman Tom Roberts (Republican)
 
 ---
 
@@ -2217,17 +2217,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Glen Leavitt
-- Assemblywoman Robin Titus
+- Assemblyman Glen Leavitt (Republican)
+- Assemblywoman Robin Titus (Republican)
 
 ### Co-sponsors
 
-- Assemblyman Edgar Flores
-- Assemblywoman Elaine Marzola
-- Assemblyman David Orentlicher
-- Assemblyman Tom Roberts
-- Assemblywoman Shondra Summers-Armstrong
-- Assemblywoman Jill Tolles
+- Assemblyman Edgar Flores (Democratic)
+- Assemblywoman Elaine Marzola (Democratic)
+- Assemblyman David Orentlicher (Democratic)
+- Assemblyman Tom Roberts (Republican)
+- Assemblywoman Shondra Summers-Armstrong (Democratic)
+- Assemblywoman Jill Tolles (Republican)
 
 ---
 
@@ -2237,7 +2237,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Sandra Jauregui
+- Assemblywoman Sandra Jauregui (Democratic)
 
 ### Co-sponsors
 
@@ -2251,8 +2251,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Lesley Cohen
-- Senator James Ohrenschall
+- Assemblywoman Lesley Cohen (Democratic)
+- Senator James Ohrenschall (Democratic)
 
 ### Co-sponsors
 
@@ -2266,7 +2266,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Brittney Miller
+- Assemblywoman Brittney Miller (Democratic)
 
 ### Co-sponsors
 
@@ -2280,7 +2280,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Sandra Jauregui
+- Assemblywoman Sandra Jauregui (Democratic)
 
 ### Co-sponsors
 
@@ -2294,7 +2294,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Sandra Jauregui
+- Assemblywoman Sandra Jauregui (Democratic)
 
 ### Co-sponsors
 
@@ -2322,7 +2322,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Glen Leavitt
+- Assemblyman Glen Leavitt (Republican)
 
 ### Co-sponsors
 
@@ -2336,12 +2336,12 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Sarah Peters
+- Assemblywoman Sarah Peters (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Shannon Bilbray-Axelrod
-- Assemblywoman Selena Torres
+- Assemblywoman Shannon Bilbray-Axelrod (Democratic)
+- Assemblywoman Selena Torres (Democratic)
 
 ---
 
@@ -2351,7 +2351,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Edgar Flores
+- Assemblyman Edgar Flores (Democratic)
 
 ### Co-sponsors
 
@@ -2379,7 +2379,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Jason Frierson
+- Assemblyman Jason Frierson (Democratic)
 
 ### Co-sponsors
 
@@ -2393,22 +2393,22 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Cecelia González
-- Assemblyman Howard Watts
-- Assemblywoman Venicia Considine
-- Senator Julia Ratti
-- Senator Fabian Donate
-- Senator James Ohrenschall
+- Assemblywoman Cecelia González (Democratic)
+- Assemblyman Howard Watts (Democratic)
+- Assemblywoman Venicia Considine (Democratic)
+- Senator Julia Ratti (Democratic)
+- Senator Fabian Donate (Democratic)
+- Senator James Ohrenschall (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Natha Anderson
-- Assemblywoman Bea Duran
-- Assemblywoman Susie Martinez
-- Assemblywoman Sarah Peters
-- Assemblywoman Clara Thomas
-- Assemblywoman Selena Torres
-- Senator Moises Denis
+- Assemblywoman Natha Anderson (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblywoman Susie Martinez (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblywoman Clara Thomas (Democratic)
+- Assemblywoman Selena Torres (Democratic)
+- Senator Moises Denis (Democratic)
 
 ---
 
@@ -2418,7 +2418,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman John Ellison
+- Assemblyman John Ellison (Republican)
 
 ### Co-sponsors
 
@@ -2432,27 +2432,27 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Elaine Marzola
-- Assemblyman Edgar Flores
-- Assemblywoman Teresa Benitez-Thompson
-- Assemblyman Howard Watts
-- Senator Fabian Donate
+- Assemblywoman Elaine Marzola (Democratic)
+- Assemblyman Edgar Flores (Democratic)
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
+- Assemblyman Howard Watts (Democratic)
+- Senator Fabian Donate (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Natha Anderson
-- Assemblywoman Shannon Bilbray-Axelrod
-- Assemblywoman Venicia Considine
-- Assemblywoman Bea Duran
-- Assemblywoman Cecelia González
-- Assemblywoman Michelle Gorelow
-- Assemblywoman Susie Martinez
+- Assemblywoman Natha Anderson (Democratic)
+- Assemblywoman Shannon Bilbray-Axelrod (Democratic)
+- Assemblywoman Venicia Considine (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblywoman Cecelia González (Democratic)
+- Assemblywoman Michelle Gorelow (Democratic)
+- Assemblywoman Susie Martinez (Democratic)
 - Assemblyman C.H. Miller
-- Assemblywoman Daniele Monroe-Moreno
-- Assemblyman David Orentlicher
-- Assemblywoman Clara Thomas
-- Assemblywoman Selena Torres
-- Senator Moises Denis
+- Assemblywoman Daniele Monroe-Moreno (Democratic)
+- Assemblyman David Orentlicher (Democratic)
+- Assemblywoman Clara Thomas (Democratic)
+- Assemblywoman Selena Torres (Democratic)
+- Senator Moises Denis (Democratic)
 
 ---
 
@@ -2462,7 +2462,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Sarah Peters
+- Assemblywoman Sarah Peters (Democratic)
 
 ### Co-sponsors
 
@@ -2476,14 +2476,14 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Lisa Krasner
-- Assemblyman Tom Roberts
+- Assemblywoman Lisa Krasner (Republican)
+- Assemblyman Tom Roberts (Republican)
 
 ### Co-sponsors
 
-- Assemblyman John Ellison
-- Assemblywoman Melissa Hardy
-- Assemblyman Philip P.K. O’Neill
+- Assemblyman John Ellison (Republican)
+- Assemblywoman Melissa Hardy (Republican)
+- Assemblyman Philip P.K. O’Neill (Republican)
 
 ---
 
@@ -2493,11 +2493,11 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Shondra Summers-Armstrong
+- Assemblywoman Shondra Summers-Armstrong (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Elaine Marzola
+- Assemblywoman Elaine Marzola (Democratic)
 
 ---
 
@@ -2507,7 +2507,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Steve Yeager
+- Assemblyman Steve Yeager (Democratic)
 
 ### Co-sponsors
 
@@ -2521,7 +2521,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Clara Thomas
+- Assemblywoman Clara Thomas (Democratic)
 
 ### Co-sponsors
 
@@ -2535,8 +2535,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Melissa Hardy
-- Assemblyman Glen Leavitt
+- Assemblywoman Melissa Hardy (Republican)
+- Assemblyman Glen Leavitt (Republican)
 
 ### Co-sponsors
 
@@ -2550,8 +2550,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Rochelle Nguyen
-- Assemblyman Tom Roberts
+- Assemblywoman Rochelle Nguyen (Democratic)
+- Assemblyman Tom Roberts (Republican)
 
 ### Co-sponsors
 
@@ -2579,18 +2579,18 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Howard Watts
-- Assemblywoman Brittney Miller
-- Assemblywoman Natha Anderson
-- Assemblywoman Venicia Considine
-- Assemblywoman Rochelle Nguyen
+- Assemblyman Howard Watts (Democratic)
+- Assemblywoman Brittney Miller (Democratic)
+- Assemblywoman Natha Anderson (Democratic)
+- Assemblywoman Venicia Considine (Democratic)
+- Assemblywoman Rochelle Nguyen (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Shannon Bilbray-Axelrod
-- Assemblywoman Susie Martinez
-- Assemblywoman Sarah Peters
-- Assemblywoman Selena Torres
+- Assemblywoman Shannon Bilbray-Axelrod (Democratic)
+- Assemblywoman Susie Martinez (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblywoman Selena Torres (Democratic)
 
 ---
 
@@ -2600,8 +2600,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Howard Watts
-- Assemblywoman Tracy Brown-May
+- Assemblyman Howard Watts (Democratic)
+- Assemblywoman Tracy Brown-May (Democratic)
 
 ### Co-sponsors
 
@@ -2615,7 +2615,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Natha Anderson
+- Assemblywoman Natha Anderson (Democratic)
 
 ### Co-sponsors
 
@@ -2643,7 +2643,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Philip P.K. O’Neill
+- Assemblyman Philip P.K. O’Neill (Republican)
 
 ### Co-sponsors
 
@@ -2671,7 +2671,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Teresa Benitez-Thompson
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
 
 ### Co-sponsors
 
@@ -2755,8 +2755,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Rochelle Nguyen
-- Assemblyman Tom Roberts
+- Assemblywoman Rochelle Nguyen (Democratic)
+- Assemblyman Tom Roberts (Republican)
 
 ### Co-sponsors
 
@@ -2770,7 +2770,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Teresa Benitez-Thompson
+- Assemblywoman Teresa Benitez-Thompson (Democratic)
 
 ### Co-sponsors
 
@@ -2798,18 +2798,18 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Keith Pickard
-- Senator Joseph Hardy
-- Senator Carrie Buck
+- Senator Keith Pickard (Republican)
+- Senator Joseph Hardy (Republican)
+- Senator Carrie Buck (Republican)
 
 ### Co-sponsors
 
-- Senator Pete Goicoechea
-- Senator Scott Hammond
-- Senator Ben Kieckhefer
-- Senator Heidi Seevers Gansert
-- Senator James Settelmeyer
-- Assemblyman Gregory Hafen
+- Senator Pete Goicoechea (Republican)
+- Senator Scott Hammond (Republican)
+- Senator Ben Kieckhefer (Republican)
+- Senator Heidi Seevers Gansert (Republican)
+- Senator James Settelmeyer (Republican)
+- Assemblyman Gregory Hafen (Republican)
 
 ---
 
@@ -2833,16 +2833,16 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Keith Pickard
-- Senator James Settelmeyer
+- Senator Keith Pickard (Republican)
+- Senator James Settelmeyer (Republican)
 
 ### Co-sponsors
 
-- Senator Carrie Buck
-- Senator Pete Goicoechea
-- Senator Scott Hammond
-- Senator Joseph Hardy
-- Assemblyman John Ellison
+- Senator Carrie Buck (Republican)
+- Senator Pete Goicoechea (Republican)
+- Senator Scott Hammond (Republican)
+- Senator Joseph Hardy (Republican)
+- Assemblyman John Ellison (Republican)
 
 ---
 
@@ -2852,8 +2852,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Roberta Lange
-- Senator Keith Pickard
+- Senator Roberta Lange (Democratic)
+- Senator Keith Pickard (Republican)
 
 ### Co-sponsors
 
@@ -2867,14 +2867,14 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dallas Harris
-- Senator Fabian Donate
-- Senator Carrie Buck
+- Senator Dallas Harris (Democratic)
+- Senator Fabian Donate (Democratic)
+- Senator Carrie Buck (Republican)
 
 ### Co-sponsors
 
-- Senator Moises Denis
-- Senator Roberta Lange
+- Senator Moises Denis (Democratic)
+- Senator Roberta Lange (Democratic)
 
 ---
 
@@ -2884,7 +2884,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Julia Ratti
+- Senator Julia Ratti (Democratic)
 
 ### Co-sponsors
 
@@ -2898,14 +2898,14 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Fabian Donate
+- Senator Fabian Donate (Democratic)
 
 ### Co-sponsors
 
-- Senator Melanie Scheible
-- Assemblyman Edgar Flores
-- Assemblywoman Cecelia González
-- Assemblywoman Selena Torres
+- Senator Melanie Scheible (Democratic)
+- Assemblyman Edgar Flores (Democratic)
+- Assemblywoman Cecelia González (Democratic)
+- Assemblywoman Selena Torres (Democratic)
 
 ---
 
@@ -2915,7 +2915,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Pat Spearman
+- Senator Pat Spearman (Democratic)
 
 ### Co-sponsors
 
@@ -2929,7 +2929,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Pat Spearman
+- Senator Pat Spearman (Democratic)
 
 ### Co-sponsors
 
@@ -2943,17 +2943,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Keith Pickard
-- Senator Joseph Hardy
-- Senator Carrie Buck
+- Senator Keith Pickard (Republican)
+- Senator Joseph Hardy (Republican)
+- Senator Carrie Buck (Republican)
 
 ### Co-sponsors
 
-- Senator Scott Hammond
-- Senator Ira Hansen
-- Senator Heidi Seevers Gansert
-- Senator James Settelmeyer
-- Assemblywoman Melissa Hardy
+- Senator Scott Hammond (Republican)
+- Senator Ira Hansen (Republican)
+- Senator Heidi Seevers Gansert (Republican)
+- Senator James Settelmeyer (Republican)
+- Assemblywoman Melissa Hardy (Republican)
 
 ---
 
@@ -2963,7 +2963,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Julia Ratti
+- Senator Julia Ratti (Democratic)
 
 ### Co-sponsors
 
@@ -2977,7 +2977,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Marilyn Dondero Loop
+- Senator Marilyn Dondero Loop (Democratic)
 
 ### Co-sponsors
 
@@ -2991,7 +2991,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
+- Senator Dina Neal (Democratic)
 
 ### Co-sponsors
 
@@ -3005,13 +3005,13 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Keith Pickard
+- Senator Keith Pickard (Republican)
 
 ### Co-sponsors
 
-- Senator Carrie Buck
-- Senator Pete Goicoechea
-- Senator Joseph Hardy
+- Senator Carrie Buck (Republican)
+- Senator Pete Goicoechea (Republican)
+- Senator Joseph Hardy (Republican)
 
 ---
 
@@ -3035,7 +3035,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Scott Hammond
+- Senator Scott Hammond (Republican)
 
 ### Co-sponsors
 
@@ -3049,7 +3049,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Scott Hammond
+- Senator Scott Hammond (Republican)
 
 ### Co-sponsors
 
@@ -3063,7 +3063,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Melanie Scheible
+- Senator Melanie Scheible (Democratic)
 
 ### Co-sponsors
 
@@ -3077,7 +3077,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Chris Brooks
+- Senator Chris Brooks (Democratic)
 
 ### Co-sponsors
 
@@ -3091,7 +3091,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Julia Ratti
+- Senator Julia Ratti (Democratic)
 
 ### Co-sponsors
 
@@ -3105,7 +3105,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Pat Spearman
+- Senator Pat Spearman (Democratic)
 
 ### Co-sponsors
 
@@ -3119,7 +3119,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Julia Ratti
+- Senator Julia Ratti (Democratic)
 
 ### Co-sponsors
 
@@ -3133,8 +3133,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Carrie Buck
-- Senator Ira Hansen
+- Senator Carrie Buck (Republican)
+- Senator Ira Hansen (Republican)
 
 ### Co-sponsors
 
@@ -3148,7 +3148,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator James Ohrenschall
+- Senator James Ohrenschall (Democratic)
 
 ### Co-sponsors
 
@@ -3176,13 +3176,13 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Keith Pickard
-- Senator James Settelmeyer
+- Senator Keith Pickard (Republican)
+- Senator James Settelmeyer (Republican)
 
 ### Co-sponsors
 
-- Senator Carrie Buck
-- Senator Joseph Hardy
+- Senator Carrie Buck (Republican)
+- Senator Joseph Hardy (Republican)
 
 ---
 
@@ -3192,13 +3192,13 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Keith Pickard
-- Senator Ira Hansen
-- Senator Joseph Hardy
+- Senator Keith Pickard (Republican)
+- Senator Ira Hansen (Republican)
+- Senator Joseph Hardy (Republican)
 
 ### Co-sponsors
 
-- Senator Carrie Buck
+- Senator Carrie Buck (Republican)
 
 ---
 
@@ -3208,11 +3208,11 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator James Ohrenschall
+- Senator James Ohrenschall (Democratic)
 
 ### Co-sponsors
 
-- Senator Melanie Scheible
+- Senator Melanie Scheible (Democratic)
 
 ---
 
@@ -3278,7 +3278,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Keith Pickard
+- Senator Keith Pickard (Republican)
 
 ### Co-sponsors
 
@@ -3306,8 +3306,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
-- Assemblywoman Daniele Monroe-Moreno
+- Senator Dina Neal (Democratic)
+- Assemblywoman Daniele Monroe-Moreno (Democratic)
 
 ### Co-sponsors
 
@@ -3349,7 +3349,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Danielle Gallant
+- Assemblywoman Danielle Gallant (Republican)
 
 ### Co-sponsors
 
@@ -3363,19 +3363,19 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Tracy Brown-May
+- Assemblywoman Tracy Brown-May (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Cecelia González
-- Assemblywoman Michelle Gorelow
-- Assemblyman Ken Gray
-- Assemblywoman Sabra Newby
-- Assemblyman Duy Nguyen
-- Assemblyman David Orentlicher
-- Assemblywoman Sarah Peters
-- Assemblywoman Angie Taylor
-- Assemblywoman Clara Thomas
+- Assemblywoman Cecelia González (Democratic)
+- Assemblywoman Michelle Gorelow (Democratic)
+- Assemblyman Ken Gray (Republican)
+- Assemblywoman Sabra Newby (Democratic)
+- Assemblyman Duy Nguyen (Democratic)
+- Assemblyman David Orentlicher (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblywoman Angie Taylor (Democratic)
+- Assemblywoman Clara Thomas (Democratic)
 
 ---
 
@@ -3385,7 +3385,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Melissa Hardy
+- Assemblywoman Melissa Hardy (Republican)
 
 ### Co-sponsors
 
@@ -3399,7 +3399,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Sandra Jauregui
+- Assemblywoman Sandra Jauregui (Democratic)
 
 ### Co-sponsors
 
@@ -3413,14 +3413,14 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Lesley Cohen
-- Assemblyman Howard Watts
+- Assemblywoman Lesley Cohen (Democratic)
+- Assemblyman Howard Watts (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Natha Anderson
-- Assemblywoman Sabra Newby
-- Assemblywoman Sarah Peters
+- Assemblywoman Natha Anderson (Democratic)
+- Assemblywoman Sabra Newby (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
 
 ---
 
@@ -3444,7 +3444,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Philip PK O’Neill
+- Assemblyman Philip PK O’Neill (Republican)
 
 ### Co-sponsors
 
@@ -3458,7 +3458,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Elaine Marzola
+- Assemblywoman Elaine Marzola (Democratic)
 
 ### Co-sponsors
 
@@ -3472,14 +3472,14 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Cecelia González
-- Assemblywoman Shondra Summers-Armstrong
-- Senator Fabian Doñate
+- Assemblywoman Cecelia González (Democratic)
+- Assemblywoman Shondra Summers-Armstrong (Democratic)
+- Senator Fabian Doñate (Democratic)
 
 ### Co-sponsors
 
-- Assemblyman David Orentlicher
-- Senator Dina Neal
+- Assemblyman David Orentlicher (Democratic)
+- Senator Dina Neal (Democratic)
 
 ---
 
@@ -3489,11 +3489,11 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Erica Mosca
+- Assemblywoman Erica Mosca (Democratic)
 
 ### Co-sponsors
 
-- Senator Carrie Buck
+- Senator Carrie Buck (Republican)
 
 ---
 
@@ -3503,7 +3503,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Heidi Kasama
+- Assemblywoman Heidi Kasama (Republican)
 
 ### Co-sponsors
 
@@ -3517,21 +3517,21 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Ken Gray
-- Assemblywoman Jill Dickman
+- Assemblyman Ken Gray (Republican)
+- Assemblywoman Jill Dickman (Republican)
 
 ### Co-sponsors
 
-- Assemblyman Rich DeLong
-- Assemblywoman Danielle Gallant
-- Assemblyman Bert Gurr
-- Assemblyman Gregory Hafen
-- Assemblywoman Alexis Hansen
-- Assemblywoman Melissa Hardy
-- Assemblyman Brian Hibbetts
-- Assemblyman Gregory Koenig
-- Assemblyman Philip PK O’Neill
-- Assemblyman Toby Yurek
+- Assemblyman Rich DeLong (Republican)
+- Assemblywoman Danielle Gallant (Republican)
+- Assemblyman Bert Gurr (Republican)
+- Assemblyman Gregory Hafen (Republican)
+- Assemblywoman Alexis Hansen (Republican)
+- Assemblywoman Melissa Hardy (Republican)
+- Assemblyman Brian Hibbetts (Republican)
+- Assemblyman Gregory Koenig (Republican)
+- Assemblyman Philip PK O’Neill (Republican)
+- Assemblyman Toby Yurek (Republican)
 
 ---
 
@@ -3541,7 +3541,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Sandra Jauregui
+- Assemblywoman Sandra Jauregui (Democratic)
 
 ### Co-sponsors
 
@@ -3555,34 +3555,34 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Howard Watts
-- Assemblywoman Cecelia González
-- Assemblywoman Natha Anderson
-- Assemblywoman Venicia Considine
-- Assemblyman Cameron Miller
-- Senator Edgar Flores
-- Senator Fabian Doñate
-- Senator Dina Neal
+- Assemblyman Howard Watts (Democratic)
+- Assemblywoman Cecelia González (Democratic)
+- Assemblywoman Natha Anderson (Democratic)
+- Assemblywoman Venicia Considine (Democratic)
+- Assemblyman Cameron Miller (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Fabian Doñate (Democratic)
+- Senator Dina Neal (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Shea Backus
-- Assemblywoman Shannon Bilbray-Axelrod
-- Assemblywoman Tracy Brown-May
-- Assemblyman Max Carter
-- Assemblywoman Lesley Cohen
-- Assemblyman Reuben D'Silva
-- Assemblywoman Michelle Gorelow
-- Assemblywoman Selena La Rue Hatch
-- Assemblywoman Erica Mosca
-- Assemblywoman Sarah Peters
-- Assemblywoman Shondra Summers-Armstrong
-- Assemblywoman Angie Taylor
-- Assemblywoman Clara Thomas
-- Assemblywoman Selena Torres
-- Senator Roberta Lange
-- Senator Rochelle Nguyen
-- Senator Julie Pazina
+- Assemblywoman Shea Backus (Democratic)
+- Assemblywoman Shannon Bilbray-Axelrod (Democratic)
+- Assemblywoman Tracy Brown-May (Democratic)
+- Assemblyman Max Carter (Democratic)
+- Assemblywoman Lesley Cohen (Democratic)
+- Assemblyman Reuben D'Silva (Democratic)
+- Assemblywoman Michelle Gorelow (Democratic)
+- Assemblywoman Selena La Rue Hatch (Democratic)
+- Assemblywoman Erica Mosca (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblywoman Shondra Summers-Armstrong (Democratic)
+- Assemblywoman Angie Taylor (Democratic)
+- Assemblywoman Clara Thomas (Democratic)
+- Assemblywoman Selena Torres (Democratic)
+- Senator Roberta Lange (Democratic)
+- Senator Rochelle Nguyen (Democratic)
+- Senator Julie Pazina (Democratic)
 
 ---
 
@@ -3592,7 +3592,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Venicia Considine
+- Assemblywoman Venicia Considine (Democratic)
 
 ### Co-sponsors
 
@@ -3620,7 +3620,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Shea Backus
+- Assemblywoman Shea Backus (Democratic)
 
 ### Co-sponsors
 
@@ -3634,18 +3634,18 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Selena Torres
-- Assemblywoman Bea Duran
-- Assemblywoman Cecelia González
-- Senator Edgar Flores
-- Senator Fabian Doñate
+- Assemblywoman Selena Torres (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblywoman Cecelia González (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Fabian Doñate (Democratic)
 
 ### Co-sponsors
 
-- Assemblyman Reuben D'Silva
-- Assemblywoman Brittney Miller
-- Assemblyman Duy Nguyen
-- Senator Rochelle Nguyen
+- Assemblyman Reuben D'Silva (Democratic)
+- Assemblywoman Brittney Miller (Democratic)
+- Assemblyman Duy Nguyen (Democratic)
+- Senator Rochelle Nguyen (Democratic)
 
 ---
 
@@ -3655,24 +3655,24 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Reuben D'Silva
-- Assemblyman Ken Gray
-- Assemblywoman Clara Thomas
-- Senator Pat Spearman
-- Senator Edgar Flores
-- Senator Roberta Lange
+- Assemblyman Reuben D'Silva (Democratic)
+- Assemblyman Ken Gray (Republican)
+- Assemblywoman Clara Thomas (Democratic)
+- Senator Pat Spearman (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Roberta Lange (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Shannon Bilbray-Axelrod
-- Assemblywoman Danielle Gallant
-- Assemblyman Bert Gurr
-- Assemblywoman Selena La Rue Hatch
-- Assemblyman Richard McArthur
-- Assemblywoman Erica Mosca
-- Assemblywoman Shondra Summers-Armstrong
-- Assemblywoman Angie Taylor
-- Assemblywoman Selena Torres
+- Assemblywoman Shannon Bilbray-Axelrod (Democratic)
+- Assemblywoman Danielle Gallant (Republican)
+- Assemblyman Bert Gurr (Republican)
+- Assemblywoman Selena La Rue Hatch (Democratic)
+- Assemblyman Richard McArthur (Republican)
+- Assemblywoman Erica Mosca (Democratic)
+- Assemblywoman Shondra Summers-Armstrong (Democratic)
+- Assemblywoman Angie Taylor (Democratic)
+- Assemblywoman Selena Torres (Democratic)
 
 ---
 
@@ -3682,7 +3682,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Heidi Kasama
+- Assemblywoman Heidi Kasama (Republican)
 
 ### Co-sponsors
 
@@ -3696,7 +3696,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman David Orentlicher
+- Assemblyman David Orentlicher (Democratic)
 
 ### Co-sponsors
 
@@ -3710,7 +3710,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Sandra Jauregui
+- Assemblywoman Sandra Jauregui (Democratic)
 
 ### Co-sponsors
 
@@ -3724,7 +3724,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Natha Anderson
+- Assemblywoman Natha Anderson (Democratic)
 
 ### Co-sponsors
 
@@ -3738,12 +3738,12 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Daniele Monroe-Moreno
+- Assemblywoman Daniele Monroe-Moreno (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Venicia Considine
-- Assemblywoman Clara Thomas
+- Assemblywoman Venicia Considine (Democratic)
+- Assemblywoman Clara Thomas (Democratic)
 
 ---
 
@@ -3753,7 +3753,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Daniele Monroe-Moreno
+- Assemblywoman Daniele Monroe-Moreno (Democratic)
 
 ### Co-sponsors
 
@@ -3767,16 +3767,16 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Danielle Gallant
-- Assemblywoman Angie Taylor
+- Assemblywoman Danielle Gallant (Republican)
+- Assemblywoman Angie Taylor (Democratic)
 
 ### Co-sponsors
 
-- Assemblyman Rich DeLong
-- Assemblywoman Jill Dickman
-- Assemblyman Ken Gray
-- Assemblyman Duy Nguyen
-- Senator Jeff Stone
+- Assemblyman Rich DeLong (Republican)
+- Assemblywoman Jill Dickman (Republican)
+- Assemblyman Ken Gray (Republican)
+- Assemblyman Duy Nguyen (Democratic)
+- Senator Jeff Stone (Republican)
 
 ---
 
@@ -3800,7 +3800,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Venicia Considine
+- Assemblywoman Venicia Considine (Democratic)
 
 ### Co-sponsors
 
@@ -3814,22 +3814,22 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Sarah Peters
-- Assemblyman Howard Watts
-- Assemblyman Duy Nguyen
-- Assemblywoman Selena Torres
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblyman Howard Watts (Democratic)
+- Assemblyman Duy Nguyen (Democratic)
+- Assemblywoman Selena Torres (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Natha Anderson
-- Assemblyman Max Carter
-- Assemblywoman Michelle Gorelow
-- Assemblyman Gregory Koenig
-- Assemblywoman Selena La Rue Hatch
-- Assemblywoman Erica Mosca
-- Assemblywoman Sabra Newby
-- Assemblywoman Angie Taylor
-- Senator Rochelle Nguyen
+- Assemblywoman Natha Anderson (Democratic)
+- Assemblyman Max Carter (Democratic)
+- Assemblywoman Michelle Gorelow (Democratic)
+- Assemblyman Gregory Koenig (Republican)
+- Assemblywoman Selena La Rue Hatch (Democratic)
+- Assemblywoman Erica Mosca (Democratic)
+- Assemblywoman Sabra Newby (Democratic)
+- Assemblywoman Angie Taylor (Democratic)
+- Senator Rochelle Nguyen (Democratic)
 
 ---
 
@@ -3839,7 +3839,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Bea Duran
+- Assemblywoman Bea Duran (Democratic)
 
 ### Co-sponsors
 
@@ -3853,19 +3853,19 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Shondra Summers-Armstrong
+- Assemblywoman Shondra Summers-Armstrong (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Tracy Brown-May
-- Assemblywoman Bea Duran
-- Assemblywoman Michelle Gorelow
-- Assemblywoman Sabra Newby
-- Assemblyman David Orentlicher
-- Assemblywoman Sarah Peters
-- Assemblywoman Clara Thomas
-- Assemblywoman Selena Torres
-- Assemblyman Howard Watts
+- Assemblywoman Tracy Brown-May (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblywoman Michelle Gorelow (Democratic)
+- Assemblywoman Sabra Newby (Democratic)
+- Assemblyman David Orentlicher (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblywoman Clara Thomas (Democratic)
+- Assemblywoman Selena Torres (Democratic)
+- Assemblyman Howard Watts (Democratic)
 
 ---
 
@@ -3875,7 +3875,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Venicia Considine
+- Assemblywoman Venicia Considine (Democratic)
 
 ### Co-sponsors
 
@@ -3889,11 +3889,11 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Reuben D'Silva
+- Assemblyman Reuben D'Silva (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Shannon Bilbray-Axelrod
+- Assemblywoman Shannon Bilbray-Axelrod (Democratic)
 
 ---
 
@@ -3903,7 +3903,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Clara Thomas
+- Assemblywoman Clara Thomas (Democratic)
 
 ### Co-sponsors
 
@@ -3931,13 +3931,13 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Lesley Cohen
-- Assemblywoman Shea Backus
-- Senator James Ohrenschall
+- Assemblywoman Lesley Cohen (Democratic)
+- Assemblywoman Shea Backus (Democratic)
+- Senator James Ohrenschall (Democratic)
 
 ### Co-sponsors
 
-- Assemblywoman Shannon Bilbray-Axelrod
+- Assemblywoman Shannon Bilbray-Axelrod (Democratic)
 
 ---
 
@@ -3961,7 +3961,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Michelle Gorelow
+- Assemblywoman Michelle Gorelow (Democratic)
 
 ### Co-sponsors
 
@@ -3975,7 +3975,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Shea Backus
+- Assemblywoman Shea Backus (Democratic)
 
 ### Co-sponsors
 
@@ -3989,7 +3989,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Angie Taylor
+- Assemblywoman Angie Taylor (Democratic)
 
 ### Co-sponsors
 
@@ -4003,7 +4003,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Shondra Summers-Armstrong
+- Assemblywoman Shondra Summers-Armstrong (Democratic)
 
 ### Co-sponsors
 
@@ -4031,7 +4031,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Shea Backus
+- Assemblywoman Shea Backus (Democratic)
 
 ### Co-sponsors
 
@@ -4045,7 +4045,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Natha Anderson
+- Assemblywoman Natha Anderson (Democratic)
 
 ### Co-sponsors
 
@@ -4059,8 +4059,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Steve Yeager
-- Assemblywoman Sandra Jauregui
+- Assemblyman Steve Yeager (Democratic)
+- Assemblywoman Sandra Jauregui (Democratic)
 
 ### Co-sponsors
 
@@ -4074,7 +4074,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Venicia Considine
+- Assemblywoman Venicia Considine (Democratic)
 
 ### Co-sponsors
 
@@ -4130,7 +4130,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblyman Steve Yeager
+- Assemblyman Steve Yeager (Democratic)
 
 ### Co-sponsors
 
@@ -4172,7 +4172,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblywoman Melissa Hardy
+- Assemblywoman Melissa Hardy (Republican)
 
 ### Co-sponsors
 
@@ -4186,7 +4186,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Carrie Buck
+- Senator Carrie Buck (Republican)
 
 ### Co-sponsors
 
@@ -4200,16 +4200,16 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dallas Harris
-- Senator Melanie Scheible
-- Senator Edgar Flores
-- Senator Fabian Doñate
-- Senator James Ohrenschall
+- Senator Dallas Harris (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Fabian Doñate (Democratic)
+- Senator James Ohrenschall (Democratic)
 
 ### Co-sponsors
 
-- Senator Skip Daly
-- Senator Roberta Lange
+- Senator Skip Daly (Democratic)
+- Senator Roberta Lange (Democratic)
 
 ---
 
@@ -4219,7 +4219,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
+- Senator Dina Neal (Democratic)
 
 ### Co-sponsors
 
@@ -4233,7 +4233,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator James Ohrenschall
+- Senator James Ohrenschall (Democratic)
 
 ### Co-sponsors
 
@@ -4275,7 +4275,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Scott Hammond
+- Senator Scott Hammond (Republican)
 
 ### Co-sponsors
 
@@ -4289,16 +4289,16 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Fabian Doñate
-- Assemblywoman Bea Duran
-- Assemblywoman Selena Torres
+- Senator Fabian Doñate (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblywoman Selena Torres (Democratic)
 
 ### Co-sponsors
 
-- Senator Dina Neal
-- Senator Jeff Stone
-- Assemblywoman Cecelia González
-- Assemblyman David Orentlicher
+- Senator Dina Neal (Democratic)
+- Senator Jeff Stone (Republican)
+- Assemblywoman Cecelia González (Democratic)
+- Assemblyman David Orentlicher (Democratic)
 
 ---
 
@@ -4336,7 +4336,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dallas Harris
+- Senator Dallas Harris (Democratic)
 
 ### Co-sponsors
 
@@ -4350,8 +4350,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Nicole Cannizzaro
-- Assemblyman Steve Yeager
+- Senator Nicole Cannizzaro (Democratic)
+- Assemblyman Steve Yeager (Democratic)
 
 ### Co-sponsors
 
@@ -4365,15 +4365,15 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Pat Spearman
-- Assemblywoman Cecelia González
+- Senator Pat Spearman (Democratic)
+- Assemblywoman Cecelia González (Democratic)
 
 ### Co-sponsors
 
-- Senator Dallas Harris
-- Senator Melanie Scheible
-- Assemblyman Reuben D'Silva
-- Assemblywoman Angie Taylor
+- Senator Dallas Harris (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Assemblyman Reuben D'Silva (Democratic)
+- Assemblywoman Angie Taylor (Democratic)
 
 ---
 
@@ -4383,7 +4383,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Nicole Cannizzaro
+- Senator Nicole Cannizzaro (Democratic)
 
 ### Co-sponsors
 
@@ -4425,19 +4425,19 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Roberta Lange
-- Senator Scott Hammond
-- Senator Pat Spearman
+- Senator Roberta Lange (Democratic)
+- Senator Scott Hammond (Republican)
+- Senator Pat Spearman (Democratic)
 
 ### Co-sponsors
 
-- Senator Skip Daly
-- Senator Fabian Doñate
-- Senator Marilyn Dondero Loop
-- Senator Dallas Harris
-- Senator James Ohrenschall
-- Senator Melanie Scheible
-- Assemblyman Duy Nguyen
+- Senator Skip Daly (Democratic)
+- Senator Fabian Doñate (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Dallas Harris (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Assemblyman Duy Nguyen (Democratic)
 
 ---
 
@@ -4447,17 +4447,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Marilyn Dondero Loop
-- Senator Fabian Doñate
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Fabian Doñate (Democratic)
 
 ### Co-sponsors
 
-- Senator Nicole Cannizzaro
-- Senator Skip Daly
-- Senator Edgar Flores
-- Senator Roberta Lange
-- Senator Julie Pazina
-- Assemblywoman Natha Anderson
+- Senator Nicole Cannizzaro (Democratic)
+- Senator Skip Daly (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Roberta Lange (Democratic)
+- Senator Julie Pazina (Democratic)
+- Assemblywoman Natha Anderson (Democratic)
 
 ---
 
@@ -4467,19 +4467,19 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Skip Daly
+- Senator Skip Daly (Democratic)
 
 ### Co-sponsors
 
-- Senator Fabian Doñate
-- Senator Marilyn Dondero Loop
-- Senator Edgar Flores
-- Senator Dallas Harris
-- Senator Roberta Lange
-- Senator Dina Neal
-- Senator James Ohrenschall
-- Senator Melanie Scheible
-- Senator Pat Spearman
+- Senator Fabian Doñate (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Dallas Harris (Democratic)
+- Senator Roberta Lange (Democratic)
+- Senator Dina Neal (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Pat Spearman (Democratic)
 
 ---
 
@@ -4489,7 +4489,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Rochelle Nguyen
+- Senator Rochelle Nguyen (Democratic)
 
 ### Co-sponsors
 
@@ -4517,11 +4517,11 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Fabian Doñate
+- Senator Fabian Doñate (Democratic)
 
 ### Co-sponsors
 
-- Senator Skip Daly
+- Senator Skip Daly (Democratic)
 
 ---
 
@@ -4531,7 +4531,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Pat Spearman
+- Senator Pat Spearman (Democratic)
 
 ### Co-sponsors
 
@@ -4559,18 +4559,18 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Melanie Scheible
-- Senator Pat Spearman
-- Senator Fabian Doñate
-- Senator Dina Neal
-- Senator Dallas Harris
+- Senator Melanie Scheible (Democratic)
+- Senator Pat Spearman (Democratic)
+- Senator Fabian Doñate (Democratic)
+- Senator Dina Neal (Democratic)
+- Senator Dallas Harris (Democratic)
 
 ### Co-sponsors
 
-- Senator Skip Daly
-- Senator Roberta Lange
-- Senator James Ohrenschall
-- Senator Julie Pazina
+- Senator Skip Daly (Democratic)
+- Senator Roberta Lange (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Julie Pazina (Democratic)
 
 ---
 
@@ -4580,8 +4580,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Melanie Scheible
-- Senator Dallas Harris
+- Senator Melanie Scheible (Democratic)
+- Senator Dallas Harris (Democratic)
 
 ### Co-sponsors
 
@@ -4595,7 +4595,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator James Ohrenschall
+- Senator James Ohrenschall (Democratic)
 
 ### Co-sponsors
 
@@ -4609,17 +4609,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Fabian Doñate
-- Senator James Ohrenschall
-- Assemblywoman Cecelia González
+- Senator Fabian Doñate (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Assemblywoman Cecelia González (Democratic)
 
 ### Co-sponsors
 
-- Assemblyman Max Carter
-- Assemblywoman Bea Duran
-- Assemblywoman Erica Mosca
-- Assemblywoman Sarah Peters
-- Assemblyman Howard Watts
+- Assemblyman Max Carter (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblywoman Erica Mosca (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
+- Assemblyman Howard Watts (Democratic)
 
 ---
 
@@ -4629,7 +4629,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Scott Hammond
+- Senator Scott Hammond (Republican)
 
 ### Co-sponsors
 
@@ -4643,17 +4643,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Pat Spearman
-- Senator Skip Daly
+- Senator Pat Spearman (Democratic)
+- Senator Skip Daly (Democratic)
 
 ### Co-sponsors
 
-- Senator Dallas Harris
-- Senator Dina Neal
-- Senator James Ohrenschall
-- Senator Julie Pazina
-- Senator Melanie Scheible
-- Assemblyman Reuben D'Silva
+- Senator Dallas Harris (Democratic)
+- Senator Dina Neal (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Julie Pazina (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Assemblyman Reuben D'Silva (Democratic)
 
 ---
 
@@ -4677,16 +4677,16 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Jeff Stone
-- Senator Ira Hansen
-- Senator Lisa Krasner
-- Senator Carrie Buck
+- Senator Jeff Stone (Republican)
+- Senator Ira Hansen (Republican)
+- Senator Lisa Krasner (Republican)
+- Senator Carrie Buck (Republican)
 
 ### Co-sponsors
 
-- Senator Pete Goicoechea
-- Senator Heidi Seevers O'Gara
-- Assemblyman Bert Gurr
+- Senator Pete Goicoechea (Republican)
+- Senator Heidi Seevers O'Gara (Republican)
+- Assemblyman Bert Gurr (Republican)
 
 ---
 
@@ -4696,20 +4696,20 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dallas Harris
-- Senator Fabian Doñate
-- Senator Pat Spearman
-- Senator Edgar Flores
+- Senator Dallas Harris (Democratic)
+- Senator Fabian Doñate (Democratic)
+- Senator Pat Spearman (Democratic)
+- Senator Edgar Flores (Democratic)
 
 ### Co-sponsors
 
-- Senator Skip Daly
-- Senator Lisa Krasner
-- Senator Roberta Lange
-- Senator Dina Neal
-- Senator James Ohrenschall
-- Senator Melanie Scheible
-- Senator Jeff Stone
+- Senator Skip Daly (Democratic)
+- Senator Lisa Krasner (Republican)
+- Senator Roberta Lange (Democratic)
+- Senator Dina Neal (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Jeff Stone (Republican)
 
 ---
 
@@ -4733,7 +4733,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
+- Senator Dina Neal (Democratic)
 
 ### Co-sponsors
 
@@ -4761,10 +4761,10 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
-- Senator Edgar Flores
-- Senator Fabian Doñate
-- Assemblyman Reuben D'Silva
+- Senator Dina Neal (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Fabian Doñate (Democratic)
+- Assemblyman Reuben D'Silva (Democratic)
 
 ### Co-sponsors
 
@@ -4806,19 +4806,19 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Pat Spearman
-- Assemblywoman Sarah Peters
+- Senator Pat Spearman (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
 
 ### Co-sponsors
 
-- Senator Fabian Doñate
-- Assemblywoman Natha Anderson
-- Assemblywoman Tracy Brown-May
-- Assemblyman Reuben D'Silva
-- Assemblywoman Bea Duran
-- Assemblywoman Michelle Gorelow
-- Assemblywoman Selena La Rue Hatch
-- Assemblywoman Shondra Summers-Armstrong
+- Senator Fabian Doñate (Democratic)
+- Assemblywoman Natha Anderson (Democratic)
+- Assemblywoman Tracy Brown-May (Democratic)
+- Assemblyman Reuben D'Silva (Democratic)
+- Assemblywoman Bea Duran (Democratic)
+- Assemblywoman Michelle Gorelow (Democratic)
+- Assemblywoman Selena La Rue Hatch (Democratic)
+- Assemblywoman Shondra Summers-Armstrong (Democratic)
 
 ---
 
@@ -4842,14 +4842,14 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
-- Senator Edgar Flores
-- Senator Fabian Doñate
+- Senator Dina Neal (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Fabian Doñate (Democratic)
 
 ### Co-sponsors
 
-- Senator Ira Hansen
-- Senator Pat Spearman
+- Senator Ira Hansen (Republican)
+- Senator Pat Spearman (Democratic)
 
 ---
 
@@ -4943,7 +4943,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Robin Titus
+- Senator Robin Titus (Republican)
 
 ### Co-sponsors
 
@@ -4957,13 +4957,13 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Fabian Doñate
-- Assemblywoman Cecelia González
-- Assemblywoman Sarah Peters
+- Senator Fabian Doñate (Democratic)
+- Assemblywoman Cecelia González (Democratic)
+- Assemblywoman Sarah Peters (Democratic)
 
 ### Co-sponsors
 
-- Assemblyman Howard Watts
+- Assemblyman Howard Watts (Democratic)
 
 ---
 
@@ -4973,7 +4973,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Skip Daly
+- Senator Skip Daly (Democratic)
 
 ### Co-sponsors
 
@@ -4987,7 +4987,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Skip Daly
+- Senator Skip Daly (Democratic)
 
 ### Co-sponsors
 
@@ -5001,7 +5001,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Heidi Seevers O'Gara
+- Senator Heidi Seevers O'Gara (Republican)
 
 ### Co-sponsors
 
@@ -5043,11 +5043,11 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember PK O’Neill
+- Assemblymember PK O’Neill (Republican)
 
 ### Co-sponsors
 
-- Assemblymember Natha Anderson
+- Assemblymember Natha Anderson (Democratic)
 
 ---
 
@@ -5057,7 +5057,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Venise Karris
+- Assemblymember Venise Karris (Democratic)
 
 ### Co-sponsors
 
@@ -5071,7 +5071,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Venicia Considine
+- Assemblymember Venicia Considine (Democratic)
 
 ### Co-sponsors
 
@@ -5085,7 +5085,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Jovan Jackson
+- Assemblymember Jovan Jackson (Democratic)
 
 ### Co-sponsors
 
@@ -5099,7 +5099,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Danielle Gallant
+- Assemblymember Danielle Gallant (Republican)
 
 ### Co-sponsors
 
@@ -5113,7 +5113,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Natha Anderson
+- Assemblymember Natha Anderson (Democratic)
 
 ### Co-sponsors
 
@@ -5127,7 +5127,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Shea Backus
+- Assemblymember Shea Backus (Democratic)
 
 ### Co-sponsors
 
@@ -5155,7 +5155,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Erica Roth
+- Assemblymember Erica Roth (Democratic)
 
 ### Co-sponsors
 
@@ -5169,7 +5169,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Venicia Considine
+- Assemblymember Venicia Considine (Democratic)
 
 ### Co-sponsors
 
@@ -5183,7 +5183,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Linda Hunt
+- Assemblymember Linda Hunt (Democratic)
 
 ### Co-sponsors
 
@@ -5197,7 +5197,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Jovan Jackson
+- Assemblymember Jovan Jackson (Democratic)
 
 ### Co-sponsors
 
@@ -5211,15 +5211,15 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Venicia Considine
+- Assemblymember Venicia Considine (Democratic)
 
 ### Co-sponsors
 
-- Assemblymember Natha Anderson
-- Assemblymember Venise Karris
-- Assemblymember Erica Mosca
-- Assemblymember Erica Roth
-- Assemblymember Howard Watts
+- Assemblymember Natha Anderson (Democratic)
+- Assemblymember Venise Karris (Democratic)
+- Assemblymember Erica Mosca (Democratic)
+- Assemblymember Erica Roth (Democratic)
+- Assemblymember Howard Watts (Democratic)
 
 ---
 
@@ -5229,7 +5229,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Duy Nguyen
+- Assemblymember Duy Nguyen (Democratic)
 
 ### Co-sponsors
 
@@ -5243,7 +5243,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Sandra Jauregui
+- Assemblymember Sandra Jauregui (Democratic)
 
 ### Co-sponsors
 
@@ -5257,19 +5257,19 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Erica Mosca
+- Assemblymember Erica Mosca (Democratic)
 
 ### Co-sponsors
 
-- Assemblymember Max Carter
-- Assemblymember Venicia Considine
-- Assemblymember Reuben D'Silva
-- Assemblymember Rebecca Edgeworth
-- Assemblymember Tanya Flanagan
-- Assemblymember Linda Hunt
-- Assemblymember Jovan Jackson
-- Assemblymember Heidi Kasama
-- Assemblymember Duy Nguyen
+- Assemblymember Max Carter (Democratic)
+- Assemblymember Venicia Considine (Democratic)
+- Assemblymember Reuben D'Silva (Democratic)
+- Assemblymember Rebecca Edgeworth (Republican)
+- Assemblymember Tanya Flanagan (Democratic)
+- Assemblymember Linda Hunt (Democratic)
+- Assemblymember Jovan Jackson (Democratic)
+- Assemblymember Heidi Kasama (Republican)
+- Assemblymember Duy Nguyen (Democratic)
 
 ---
 
@@ -5279,7 +5279,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Reuben D'Silva
+- Assemblymember Reuben D'Silva (Democratic)
 
 ### Co-sponsors
 
@@ -5293,7 +5293,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Sandra Jauregui
+- Assemblymember Sandra Jauregui (Democratic)
 
 ### Co-sponsors
 
@@ -5307,7 +5307,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Max Carter
+- Assemblymember Max Carter (Democratic)
 
 ### Co-sponsors
 
@@ -5321,11 +5321,11 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Heather Goulding
+- Assemblymember Heather Goulding (Democratic)
 
 ### Co-sponsors
 
-- Assemblymember Selena La Rue Hatch
+- Assemblymember Selena La Rue Hatch (Democratic)
 
 ---
 
@@ -5335,7 +5335,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Venise Karris
+- Assemblymember Venise Karris (Democratic)
 
 ### Co-sponsors
 
@@ -5349,17 +5349,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Jovan Jackson
-- Assemblymember Reuben D'Silva
-- Assemblymember Cecelia González
-- Assemblymember PK O’Neill
+- Assemblymember Jovan Jackson (Democratic)
+- Assemblymember Reuben D'Silva (Democratic)
+- Assemblymember Cecelia González (Democratic)
+- Assemblymember PK O’Neill (Republican)
 
 ### Co-sponsors
 
-- Assemblymember Joe Dalia
-- Assemblymember Hanadi Nadeem
-- Assemblymember David Orentlicher
-- Assemblymember Erica Roth
+- Assemblymember Joe Dalia (Democratic)
+- Assemblymember Hanadi Nadeem (Democratic)
+- Assemblymember David Orentlicher (Democratic)
+- Assemblymember Erica Roth (Democratic)
 
 ---
 
@@ -5383,7 +5383,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember David Orentlicher
+- Assemblymember David Orentlicher (Democratic)
 
 ### Co-sponsors
 
@@ -5397,21 +5397,21 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Ken Gray
-- Assemblymember Alexis Hansen
-- Assemblymember Erica Roth
-- Assemblymember Natha Anderson
-- Assemblymember Rich DeLong
-- Senator Angela Taylor
-- Senator Skip Daly
+- Assemblymember Ken Gray (Republican)
+- Assemblymember Alexis Hansen (Republican)
+- Assemblymember Erica Roth (Democratic)
+- Assemblymember Natha Anderson (Democratic)
+- Assemblymember Rich DeLong (Republican)
+- Senator Angela Taylor (Democratic)
+- Senator Skip Daly (Democratic)
 
 ### Co-sponsors
 
-- Assemblymember Jill Dickman
-- Assemblymember Heather Goulding
-- Assemblymember Selena La Rue Hatch
-- Assemblymember PK O’Neill
-- Senator Ira Hansen
+- Assemblymember Jill Dickman (Republican)
+- Assemblymember Heather Goulding (Democratic)
+- Assemblymember Selena La Rue Hatch (Democratic)
+- Assemblymember PK O’Neill (Republican)
+- Senator Ira Hansen (Republican)
 
 ---
 
@@ -5435,7 +5435,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Elaine Marzola
+- Assemblymember Elaine Marzola (Democratic)
 
 ### Co-sponsors
 
@@ -5449,7 +5449,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Natha Anderson
+- Assemblymember Natha Anderson (Democratic)
 
 ### Co-sponsors
 
@@ -5463,7 +5463,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Daniele Monroe-Moreno
+- Assemblymember Daniele Monroe-Moreno (Democratic)
 
 ### Co-sponsors
 
@@ -5505,7 +5505,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Lisa Cole
+- Assemblymember Lisa Cole (Republican)
 
 ### Co-sponsors
 
@@ -5519,7 +5519,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Shea Backus
+- Assemblymember Shea Backus (Democratic)
 
 ### Co-sponsors
 
@@ -5533,8 +5533,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Howard Watts
-- Senator Angela Taylor
+- Assemblymember Howard Watts (Democratic)
+- Senator Angela Taylor (Democratic)
 
 ### Co-sponsors
 
@@ -5548,7 +5548,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Duy Nguyen
+- Assemblymember Duy Nguyen (Democratic)
 
 ### Co-sponsors
 
@@ -5562,16 +5562,16 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Lisa Cole
-- Assemblymember Heidi Kasama
+- Assemblymember Lisa Cole (Republican)
+- Assemblymember Heidi Kasama (Republican)
 
 ### Co-sponsors
 
-- Assemblymember Rich DeLong
-- Assemblymember Bert Gurr
-- Assemblymember Gregory Hafen
-- Assemblymember Alexis Hansen
-- Assemblymember Brian Hibbetts
+- Assemblymember Rich DeLong (Republican)
+- Assemblymember Bert Gurr (Republican)
+- Assemblymember Gregory Hafen (Republican)
+- Assemblymember Alexis Hansen (Republican)
+- Assemblymember Brian Hibbetts (Republican)
 
 ---
 
@@ -5581,7 +5581,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Shea Backus
+- Assemblymember Shea Backus (Democratic)
 
 ### Co-sponsors
 
@@ -5595,7 +5595,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Danielle Gallant
+- Assemblymember Danielle Gallant (Republican)
 
 ### Co-sponsors
 
@@ -5609,8 +5609,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Gregory Hafen
-- Senator Dina Neal
+- Assemblymember Gregory Hafen (Republican)
+- Senator Dina Neal (Democratic)
 
 ### Co-sponsors
 
@@ -5624,11 +5624,11 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Melissa Hardy
+- Assemblymember Melissa Hardy (Republican)
 
 ### Co-sponsors
 
-- Assemblymember Duy Nguyen
+- Assemblymember Duy Nguyen (Democratic)
 
 ---
 
@@ -5638,8 +5638,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Natha Anderson
-- Assemblymember Venicia Considine
+- Assemblymember Natha Anderson (Democratic)
+- Assemblymember Venicia Considine (Democratic)
 
 ### Co-sponsors
 
@@ -5653,7 +5653,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Venicia Considine
+- Assemblymember Venicia Considine (Democratic)
 
 ### Co-sponsors
 
@@ -5667,7 +5667,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Howard Watts
+- Assemblymember Howard Watts (Democratic)
 
 ### Co-sponsors
 
@@ -5681,8 +5681,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Cecelia González
-- Senator Fabian Doñate
+- Assemblymember Cecelia González (Democratic)
+- Senator Fabian Doñate (Democratic)
 
 ### Co-sponsors
 
@@ -5724,26 +5724,26 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Steve Yeager
-- Assemblymember Daniele Monroe-Moreno
-- Assemblymember Sandra Jauregui
-- Assemblymember Venicia Considine
+- Assemblymember Steve Yeager (Democratic)
+- Assemblymember Daniele Monroe-Moreno (Democratic)
+- Assemblymember Sandra Jauregui (Democratic)
+- Assemblymember Venicia Considine (Democratic)
 
 ### Co-sponsors
 
-- Assemblymember Tracy Brown-May
-- Assemblymember Joe Dalia
-- Assemblymember Cecelia González
-- Assemblymember Selena La Rue Hatch
-- Assemblymember Elaine Marzola
-- Assemblymember Brittney Miller
-- Assemblymember Cinthia Zermeño Moore
-- Assemblymember Hanadi Nadeem
-- Assemblymember David Orentlicher
-- Assemblymember Erica Roth
-- Senator Nicole Cannizzaro
-- Senator Marilyn Dondero Loop
-- Senator Rochelle Nguyen
+- Assemblymember Tracy Brown-May (Democratic)
+- Assemblymember Joe Dalia (Democratic)
+- Assemblymember Cecelia González (Democratic)
+- Assemblymember Selena La Rue Hatch (Democratic)
+- Assemblymember Elaine Marzola (Democratic)
+- Assemblymember Brittney Miller (Democratic)
+- Assemblymember Cinthia Zermeño Moore (Democratic)
+- Assemblymember Hanadi Nadeem (Democratic)
+- Assemblymember David Orentlicher (Democratic)
+- Assemblymember Erica Roth (Democratic)
+- Senator Nicole Cannizzaro (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Rochelle Nguyen (Democratic)
 
 ---
 
@@ -5921,7 +5921,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Assemblymember Sandra Jauregui
+- Assemblymember Sandra Jauregui (Democratic)
 
 ### Co-sponsors
 
@@ -5949,7 +5949,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Carrie Ann Buck
+- Senator Carrie Ann Buck (Republican)
 
 ### Co-sponsors
 
@@ -5963,7 +5963,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
+- Senator Dina Neal (Democratic)
 
 ### Co-sponsors
 
@@ -5977,22 +5977,22 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Julie Pazina
-- Assemblymember PK O’Neill
+- Senator Julie Pazina (Democratic)
+- Assemblymember PK O’Neill (Republican)
 
 ### Co-sponsors
 
-- Senator Michelee "Shelly" Cruz-Crawford
-- Senator Skip Daly
-- Senator Fabian Doñate
-- Senator Edgar Flores
-- Senator Lisa Krasner
-- Senator Rochelle Nguyen
-- Senator James Ohrenschall
-- Senator Melanie Scheible
-- Senator John Steinbeck
-- Senator Jeff Stone
-- Senator Angela Taylor
+- Senator Michelee "Shelly" Cruz-Crawford (Democratic)
+- Senator Skip Daly (Democratic)
+- Senator Fabian Doñate (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Lisa Krasner (Republican)
+- Senator Rochelle Nguyen (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator John Steinbeck (Republican)
+- Senator Jeff Stone (Republican)
+- Senator Angela Taylor (Democratic)
 
 ---
 
@@ -6002,7 +6002,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator John Ellison
+- Senator John Ellison (Republican)
 
 ### Co-sponsors
 
@@ -6016,16 +6016,16 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Nicole Cannizzaro
+- Senator Nicole Cannizzaro (Democratic)
 
 ### Co-sponsors
 
-- Assemblymember Tracy Brown-May
-- Assemblymember Cecelia González
-- Assemblymember Ken Gray
-- Assemblymember Hanadi Nadeem
-- Assemblymember Duy Nguyen
-- Assemblymember David Orentlicher
+- Assemblymember Tracy Brown-May (Democratic)
+- Assemblymember Cecelia González (Democratic)
+- Assemblymember Ken Gray (Republican)
+- Assemblymember Hanadi Nadeem (Democratic)
+- Assemblymember Duy Nguyen (Democratic)
+- Assemblymember David Orentlicher (Democratic)
 
 ---
 
@@ -6035,7 +6035,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Marilyn Dondero Loop
+- Senator Marilyn Dondero Loop (Democratic)
 
 ### Co-sponsors
 
@@ -6063,7 +6063,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Angela Taylor
+- Senator Angela Taylor (Democratic)
 
 ### Co-sponsors
 
@@ -6077,7 +6077,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
+- Senator Dina Neal (Democratic)
 
 ### Co-sponsors
 
@@ -6091,7 +6091,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Melanie Scheible
+- Senator Melanie Scheible (Democratic)
 
 ### Co-sponsors
 
@@ -6105,7 +6105,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Edgar Flores
+- Senator Edgar Flores (Democratic)
 
 ### Co-sponsors
 
@@ -6119,7 +6119,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator James Ohrenschall
+- Senator James Ohrenschall (Democratic)
 
 ### Co-sponsors
 
@@ -6133,20 +6133,20 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator James Ohrenschall
-- Senator Carrie Ann Buck
-- Senator Jeff Stone
-- Senator Lisa Krasner
-- Senator Nicole Cannizzaro
+- Senator James Ohrenschall (Democratic)
+- Senator Carrie Ann Buck (Republican)
+- Senator Jeff Stone (Republican)
+- Senator Lisa Krasner (Republican)
+- Senator Nicole Cannizzaro (Democratic)
 
 ### Co-sponsors
 
-- Senator Skip Daly
-- Senator John Ellison
-- Senator Edgar Flores
-- Senator Dina Neal
-- Senator Julie Pazina
-- Senator Lori Rogich
+- Senator Skip Daly (Democratic)
+- Senator John Ellison (Republican)
+- Senator Edgar Flores (Democratic)
+- Senator Dina Neal (Democratic)
+- Senator Julie Pazina (Democratic)
+- Senator Lori Rogich (Republican)
 
 ---
 
@@ -6156,22 +6156,22 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Fabian Doñate
-- Senator Dina Neal
-- Senator Melanie Scheible
-- Senator Nicole Cannizzaro
-- Senator James Ohrenschall
+- Senator Fabian Doñate (Democratic)
+- Senator Dina Neal (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Nicole Cannizzaro (Democratic)
+- Senator James Ohrenschall (Democratic)
 
 ### Co-sponsors
 
-- Senator Michelee "Shelly" Cruz-Crawford
-- Senator Skip Daly
-- Senator Marilyn Dondero Loop
-- Senator Edgar Flores
-- Senator Roberta Lange
-- Senator Rochelle Nguyen
-- Senator Julie Pazina
-- Senator Angela Taylor
+- Senator Michelee "Shelly" Cruz-Crawford (Democratic)
+- Senator Skip Daly (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Roberta Lange (Democratic)
+- Senator Rochelle Nguyen (Democratic)
+- Senator Julie Pazina (Democratic)
+- Senator Angela Taylor (Democratic)
 
 ---
 
@@ -6181,7 +6181,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Melanie Scheible
+- Senator Melanie Scheible (Democratic)
 
 ### Co-sponsors
 
@@ -6195,7 +6195,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Nicole Cannizzaro
+- Senator Nicole Cannizzaro (Democratic)
 
 ### Co-sponsors
 
@@ -6209,7 +6209,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
+- Senator Dina Neal (Democratic)
 
 ### Co-sponsors
 
@@ -6223,30 +6223,30 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Julie Pazina
-- Senator Dina Neal
-- Senator Edgar Flores
-- Senator Melanie Scheible
-- Senator Lisa Krasner
-- Assemblymember Erica Roth
-- Assemblymember Duy Nguyen
+- Senator Julie Pazina (Democratic)
+- Senator Dina Neal (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Lisa Krasner (Republican)
+- Assemblymember Erica Roth (Democratic)
+- Assemblymember Duy Nguyen (Democratic)
 
 ### Co-sponsors
 
-- Senator Nicole Cannizzaro
-- Senator Michelee "Shelly" Cruz-Crawford
-- Senator Skip Daly
-- Senator Fabian Doñate
-- Senator Marilyn Dondero Loop
-- Senator John Ellison
-- Senator Roberta Lange
-- Senator Rochelle Nguyen
-- Senator James Ohrenschall
-- Senator Lori Rogich
-- Senator John Steinbeck
-- Senator Jeff Stone
-- Senator Angela Taylor
-- Assemblymember Danielle Gallant
+- Senator Nicole Cannizzaro (Democratic)
+- Senator Michelee "Shelly" Cruz-Crawford (Democratic)
+- Senator Skip Daly (Democratic)
+- Senator Fabian Doñate (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator John Ellison (Republican)
+- Senator Roberta Lange (Democratic)
+- Senator Rochelle Nguyen (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Lori Rogich (Republican)
+- Senator John Steinbeck (Republican)
+- Senator Jeff Stone (Republican)
+- Senator Angela Taylor (Democratic)
+- Assemblymember Danielle Gallant (Republican)
 
 ---
 
@@ -6256,12 +6256,12 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator John Ellison
-- Senator Jeff Stone
+- Senator John Ellison (Republican)
+- Senator Jeff Stone (Republican)
 
 ### Co-sponsors
 
-- Senator John Steinbeck
+- Senator John Steinbeck (Republican)
 
 ---
 
@@ -6271,8 +6271,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Jeff Stone
-- Senator James Ohrenschall
+- Senator Jeff Stone (Republican)
+- Senator James Ohrenschall (Democratic)
 
 ### Co-sponsors
 
@@ -6286,10 +6286,10 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Jeff Stone
-- Senator John Ellison
-- Senator Lisa Krasner
-- Senator Carrie Ann Buck
+- Senator Jeff Stone (Republican)
+- Senator John Ellison (Republican)
+- Senator Lisa Krasner (Republican)
+- Senator Carrie Ann Buck (Republican)
 
 ### Co-sponsors
 
@@ -6303,7 +6303,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Carrie Ann Buck
+- Senator Carrie Ann Buck (Republican)
 
 ### Co-sponsors
 
@@ -6317,7 +6317,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
+- Senator Dina Neal (Democratic)
 
 ### Co-sponsors
 
@@ -6331,16 +6331,16 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Fabian Doñate
-- Senator Lisa Krasner
-- Senator Jeff Stone
-- Senator Ira Hansen
-- Assemblymember Danielle Gallant
+- Senator Fabian Doñate (Democratic)
+- Senator Lisa Krasner (Republican)
+- Senator Jeff Stone (Republican)
+- Senator Ira Hansen (Republican)
+- Assemblymember Danielle Gallant (Republican)
 
 ### Co-sponsors
 
-- Senator Skip Daly
-- Senator Rochelle Nguyen
+- Senator Skip Daly (Democratic)
+- Senator Rochelle Nguyen (Democratic)
 
 ---
 
@@ -6350,19 +6350,19 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Angela Taylor
-- Senator Michelee "Shelly" Cruz-Crawford
+- Senator Angela Taylor (Democratic)
+- Senator Michelee "Shelly" Cruz-Crawford (Democratic)
 
 ### Co-sponsors
 
-- Senator Nicole Cannizzaro
-- Senator Skip Daly
-- Senator Fabian Doñate
-- Senator Marilyn Dondero Loop
-- Senator Edgar Flores
-- Senator James Ohrenschall
-- Senator Julie Pazina
-- Senator Melanie Scheible
+- Senator Nicole Cannizzaro (Democratic)
+- Senator Skip Daly (Democratic)
+- Senator Fabian Doñate (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Julie Pazina (Democratic)
+- Senator Melanie Scheible (Democratic)
 
 ---
 
@@ -6372,7 +6372,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Rochelle Nguyen
+- Senator Rochelle Nguyen (Democratic)
 
 ### Co-sponsors
 
@@ -6386,8 +6386,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Robin Titus
-- Assemblymember Sandra Jauregui
+- Senator Robin Titus (Republican)
+- Assemblymember Sandra Jauregui (Democratic)
 
 ### Co-sponsors
 
@@ -6401,7 +6401,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Nicole Cannizzaro
+- Senator Nicole Cannizzaro (Democratic)
 
 ### Co-sponsors
 
@@ -6429,20 +6429,20 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Nicole Cannizzaro
-- Senator Melanie Scheible
-- Senator Julie Pazina
-- Senator Edgar Flores
-- Senator Marilyn Dondero Loop
+- Senator Nicole Cannizzaro (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Julie Pazina (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
 
 ### Co-sponsors
 
-- Senator Michelee "Shelly" Cruz-Crawford
-- Senator Skip Daly
-- Senator Fabian Doñate
-- Senator Rochelle Nguyen
-- Senator James Ohrenschall
-- Senator Angela Taylor
+- Senator Michelee "Shelly" Cruz-Crawford (Democratic)
+- Senator Skip Daly (Democratic)
+- Senator Fabian Doñate (Democratic)
+- Senator Rochelle Nguyen (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Angela Taylor (Democratic)
 
 ---
 
@@ -6452,7 +6452,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Skip Daly
+- Senator Skip Daly (Democratic)
 
 ### Co-sponsors
 
@@ -6508,11 +6508,11 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Fabian Doñate
-- Senator Edgar Flores
-- Assemblymember Cecelia González
-- Assemblymember Cinthia Zermeño Moore
-- Assemblymember Reuben D'Silva
+- Senator Fabian Doñate (Democratic)
+- Senator Edgar Flores (Democratic)
+- Assemblymember Cecelia González (Democratic)
+- Assemblymember Cinthia Zermeño Moore (Democratic)
+- Assemblymember Reuben D'Silva (Democratic)
 
 ### Co-sponsors
 
@@ -6526,8 +6526,8 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Michelee "Shelly" Cruz-Crawford
-- Assemblymember Erica Mosca
+- Senator Michelee "Shelly" Cruz-Crawford (Democratic)
+- Assemblymember Erica Mosca (Democratic)
 
 ### Co-sponsors
 
@@ -6541,7 +6541,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
+- Senator Dina Neal (Democratic)
 
 ### Co-sponsors
 
@@ -6555,20 +6555,20 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Nicole Cannizzaro
-- Senator Rochelle Nguyen
-- Senator Julie Pazina
-- Senator Melanie Scheible
-- Senator Marilyn Dondero Loop
+- Senator Nicole Cannizzaro (Democratic)
+- Senator Rochelle Nguyen (Democratic)
+- Senator Julie Pazina (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
 
 ### Co-sponsors
 
-- Senator Michelee "Shelly" Cruz-Crawford
-- Senator Skip Daly
-- Senator Fabian Doñate
-- Senator Edgar Flores
-- Senator Roberta Lange
-- Senator Angela Taylor
+- Senator Michelee "Shelly" Cruz-Crawford (Democratic)
+- Senator Skip Daly (Democratic)
+- Senator Fabian Doñate (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Roberta Lange (Democratic)
+- Senator Angela Taylor (Democratic)
 
 ---
 
@@ -6578,7 +6578,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Carrie Ann Buck
+- Senator Carrie Ann Buck (Republican)
 
 ### Co-sponsors
 
@@ -6592,7 +6592,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Angela Taylor
+- Senator Angela Taylor (Democratic)
 
 ### Co-sponsors
 
@@ -6606,17 +6606,17 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Fabian Doñate
-- Assemblymember Cinthia Zermeño Moore
+- Senator Fabian Doñate (Democratic)
+- Assemblymember Cinthia Zermeño Moore (Democratic)
 
 ### Co-sponsors
 
-- Senator Michelee "Shelly" Cruz-Crawford
-- Senator Skip Daly
-- Senator Edgar Flores
-- Senator John Steinbeck
-- Senator Jeff Stone
-- Assemblymember Howard Watts
+- Senator Michelee "Shelly" Cruz-Crawford (Democratic)
+- Senator Skip Daly (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator John Steinbeck (Republican)
+- Senator Jeff Stone (Republican)
+- Assemblymember Howard Watts (Democratic)
 
 ---
 
@@ -6626,11 +6626,11 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator James Ohrenschall
+- Senator James Ohrenschall (Democratic)
 
 ### Co-sponsors
 
-- Senator Jeff Stone
+- Senator Jeff Stone (Republican)
 
 ---
 
@@ -6640,7 +6640,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
+- Senator Dina Neal (Democratic)
 
 ### Co-sponsors
 
@@ -6654,7 +6654,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
+- Senator Dina Neal (Democratic)
 
 ### Co-sponsors
 
@@ -6668,7 +6668,7 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Dina Neal
+- Senator Dina Neal (Democratic)
 
 ### Co-sponsors
 
@@ -6682,14 +6682,14 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Marilyn Dondero Loop
+- Senator Marilyn Dondero Loop (Democratic)
 
 ### Co-sponsors
 
-- Senator Fabian Doñate
-- Senator James Ohrenschall
-- Senator Julie Pazina
-- Senator Angela Taylor
+- Senator Fabian Doñate (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Julie Pazina (Democratic)
+- Senator Angela Taylor (Democratic)
 
 ---
 
@@ -6797,22 +6797,22 @@ Bills with sponsor rows: **431**
 
 ### Primary sponsors
 
-- Senator Nicole Cannizzaro
-- Senator Marilyn Dondero Loop
-- Senator Julie Pazina
+- Senator Nicole Cannizzaro (Democratic)
+- Senator Marilyn Dondero Loop (Democratic)
+- Senator Julie Pazina (Democratic)
 
 ### Co-sponsors
 
-- Senator Michelee "Shelly" Cruz-Crawford
-- Senator Skip Daly
-- Senator Fabian Doñate
-- Senator Edgar Flores
-- Senator Roberta Lange
-- Senator Dina Neal
-- Senator Rochelle Nguyen
-- Senator James Ohrenschall
-- Senator Melanie Scheible
-- Senator Angela Taylor
+- Senator Michelee "Shelly" Cruz-Crawford (Democratic)
+- Senator Skip Daly (Democratic)
+- Senator Fabian Doñate (Democratic)
+- Senator Edgar Flores (Democratic)
+- Senator Roberta Lange (Democratic)
+- Senator Dina Neal (Democratic)
+- Senator Rochelle Nguyen (Democratic)
+- Senator James Ohrenschall (Democratic)
+- Senator Melanie Scheible (Democratic)
+- Senator Angela Taylor (Democratic)
 
 ---
 

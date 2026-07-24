@@ -12,7 +12,7 @@ Each bill includes the **full abstract** (what the bill does), legislative miles
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Connie Munk
+- **Primary:** Assemblywoman Connie Munk (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -40,7 +40,7 @@ Existing law generally prohibits enrolling a child in a public or private school
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Teresa Benitez-Thompson
+- **Primary:** Assemblywoman Teresa Benitez-Thompson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -79,7 +79,7 @@ This bill: (1) sets forth legislative findings relating to homeless youth as a s
 
 ### Sponsors
 
-- **Primary:** Assemblyman Richard Carrillo
+- **Primary:** Assemblyman Richard Carrillo (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -107,8 +107,8 @@ Existing law defines “tentative map” for purposes of provisions governing pl
 
 ### Sponsors
 
-- **Primary:** Assemblyman Howard Watts; Senator Chris Brooks
-- **Co-sponsors:** Assemblywoman Lesley Cohen; Assemblywoman Rochelle Nguyen; Assemblywoman Sarah Peters; Assemblywoman Heidi Swank; Senator Melanie Scheible
+- **Primary:** Assemblyman Howard Watts (Democratic); Senator Chris Brooks (Democratic)
+- **Co-sponsors:** Assemblywoman Lesley Cohen (Democratic); Assemblywoman Rochelle Nguyen (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblywoman Heidi Swank (Democratic); Senator Melanie Scheible (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -146,8 +146,8 @@ Existing law requires each supplier of water and each public utility to adopt a 
 
 ### Sponsors
 
-- **Primary:** Assemblyman Tyrone Thompson; Assemblywoman Bea Duran; Assemblyman Richard Carrillo; Assemblyman Ozzie Fumo; Assemblywoman Ellen Spiegel; Senator David Parks; Senator Julia Ratti; Senator Yvanna Cancela; Senator Dallas Harris
-- **Co-sponsors:** Assemblyman Alexander Assefa; Assemblywoman Shea Backus; Assemblywoman Teresa Benitez-Thompson; Assemblywoman Shannon Bilbray-Axelrod; Assemblywoman Maggie Carlton; Assemblywoman Lesley Cohen; Assemblyman Skip Daly; Assemblyman Chris Edwards; Assemblyman John Ellison; Assemblyman Edgar Flores; Assemblyman Jason Frierson; Assemblywoman Michelle Gorelow; Assemblyman Gregory Hafen; Assemblyman John Hambrick; Assemblywoman Alexis Hansen; Assemblywoman Melissa Hardy; Assemblywoman Sandra Jauregui; Assemblyman Al Kramer; Assemblywoman Lisa Krasner; Assemblyman Glen Leavitt; Assemblywoman Susie Martinez; Assemblyman William McCurdy; Assemblywoman Brittney Miller; Assemblywoman Daniele Monroe-Moreno; Assemblywoman Connie Munk; Assemblywoman Dina Neal; Assemblywoman Rochelle Nguyen; Assemblywoman Sarah Peters; Assemblyman Tom Roberts; Assemblyman Greg Smith; Assemblywoman Heidi Swank; Assemblywoman Robin Titus; Assemblywoman Jill Tolles; Assemblywoman Selena Torres; Assemblyman Howard Watts; Assemblyman Jim Wheeler; Assemblyman Steve Yeager; Senator Chris Brooks; Senator Nicole Cannizzaro; Senator Moises Denis; Senator Marilyn Dondero Loop; Senator Pete Goicoechea; Senator Scott Hammond; Senator Ira Hansen; Senator Joseph Hardy; Senator Ben Kieckhefer; Senator James Ohrenschall; Senator Keith Pickard; Senator Melanie Scheible; Senator Heidi Seevers Gansert; Senator James Settelmeyer; Senator Pat Spearman; Senator Marcia Washington; Senator Joyce Woodhouse
+- **Primary:** Assemblyman Tyrone Thompson (Democratic); Assemblywoman Bea Duran (Democratic); Assemblyman Richard Carrillo (Democratic); Assemblyman Ozzie Fumo (Democratic); Assemblywoman Ellen Spiegel (Democratic); Senator David Parks (Democratic); Senator Julia Ratti (Democratic); Senator Yvanna Cancela (Democratic); Senator Dallas Harris (Democratic)
+- **Co-sponsors:** Assemblyman Alexander Assefa (Democratic); Assemblywoman Shea Backus (Democratic); Assemblywoman Teresa Benitez-Thompson (Democratic); Assemblywoman Shannon Bilbray-Axelrod (Democratic); Assemblywoman Maggie Carlton (Democratic); Assemblywoman Lesley Cohen (Democratic); Assemblyman Skip Daly (Democratic); Assemblyman Chris Edwards (Republican); Assemblyman John Ellison (Republican); Assemblyman Edgar Flores (Democratic); Assemblyman Jason Frierson (Democratic); Assemblywoman Michelle Gorelow (Democratic); Assemblyman Gregory Hafen (Republican); Assemblyman John Hambrick (Republican); Assemblywoman Alexis Hansen (Republican); Assemblywoman Melissa Hardy (Republican); Assemblywoman Sandra Jauregui (Democratic); Assemblyman Al Kramer (Republican); Assemblywoman Lisa Krasner (Republican); Assemblyman Glen Leavitt (Republican); Assemblywoman Susie Martinez (Democratic); Assemblyman William McCurdy (Democratic); Assemblywoman Brittney Miller (Democratic); Assemblywoman Daniele Monroe-Moreno (Democratic); Assemblywoman Connie Munk (Democratic); Assemblywoman Dina Neal (Democratic); Assemblywoman Rochelle Nguyen (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblyman Tom Roberts (Republican); Assemblyman Greg Smith (Democratic); Assemblywoman Heidi Swank (Democratic); Assemblywoman Robin Titus (Republican); Assemblywoman Jill Tolles (Republican); Assemblywoman Selena Torres (Democratic); Assemblyman Howard Watts (Democratic); Assemblyman Jim Wheeler (Republican); Assemblyman Steve Yeager (Democratic); Senator Chris Brooks (Democratic); Senator Nicole Cannizzaro (Democratic); Senator Moises Denis (Democratic); Senator Marilyn Dondero Loop (Democratic); Senator Pete Goicoechea (Republican); Senator Scott Hammond (Republican); Senator Ira Hansen (Republican); Senator Joseph Hardy (Republican); Senator Ben Kieckhefer (Republican); Senator James Ohrenschall (Democratic); Senator Keith Pickard (Republican); Senator Melanie Scheible (Democratic); Senator Heidi Seevers Gansert (Republican); Senator James Settelmeyer (Republican); Senator Pat Spearman (Democratic); Senator Marcia Washington (Democratic); Senator Joyce Woodhouse (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -185,7 +185,7 @@ Existing law requires the Di rector of the State Department of Agriculture to es
 
 ### Sponsors
 
-- **Primary:** Assemblyman Steve Yeager
+- **Primary:** Assemblyman Steve Yeager (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -224,8 +224,8 @@ Under existing law, applications for the registration of a vehicle must generall
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Ellen Spiegel
-- **Co-sponsors:** Assemblywoman Shannon Bilbray-Axelrod; Assemblywoman Bea Duran; Assemblyman Ozzie Fumo; Assemblywoman Connie Munk
+- **Primary:** Assemblywoman Ellen Spiegel (Democratic)
+- **Co-sponsors:** Assemblywoman Shannon Bilbray-Axelrod (Democratic); Assemblywoman Bea Duran (Democratic); Assemblyman Ozzie Fumo (Democratic); Assemblywoman Connie Munk (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -252,8 +252,8 @@ Section 1 of this bill prohibits the parent or guardian of any child who is less
 
 ### Sponsors
 
-- **Primary:** Assemblyman Jason Frierson; Assemblyman Tyrone Thompson; Assemblywoman Ellen Spiegel
-- **Co-sponsors:** Assemblywoman Teresa Benitez-Thompson; Assemblywoman Daniele Monroe-Moreno; Assemblywoman Connie Munk; Assemblywoman Selena Torres
+- **Primary:** Assemblyman Jason Frierson (Democratic); Assemblyman Tyrone Thompson (Democratic); Assemblywoman Ellen Spiegel (Democratic)
+- **Co-sponsors:** Assemblywoman Teresa Benitez-Thompson (Democratic); Assemblywoman Daniele Monroe-Moreno (Democratic); Assemblywoman Connie Munk (Democratic); Assemblywoman Selena Torres (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -287,8 +287,8 @@ AN ACT making an appropriation to the Department of Education for incentives for
 
 ### Sponsors
 
-- **Primary:** Assemblyman Glen Leavitt; Assemblyman Tom Roberts; Senator Joseph Hardy; Senator Scott Hammond
-- **Co-sponsors:** Assemblywoman Alexis Hansen; Assemblywoman Melissa Hardy
+- **Primary:** Assemblyman Glen Leavitt (Republican); Assemblyman Tom Roberts (Republican); Senator Joseph Hardy (Republican); Senator Scott Hammond (Republican)
+- **Co-sponsors:** Assemblywoman Alexis Hansen (Republican); Assemblywoman Melissa Hardy (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -315,8 +315,8 @@ Under existing law, the Department of Transportation is authorized to acquire re
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Daniele Monroe-Moreno; Assemblywoman Teresa Benitez-Thompson; Assemblyman Ozzie Fumo
-- **Co-sponsors:** Assemblyman Alexander Assefa; Assemblywoman Bea Duran; Assemblywoman Michelle Gorelow; Assemblywoman Connie Munk; Assemblywoman Sarah Peters; Assemblyman Tyrone Thompson; Assemblyman Howard Watts; Assemblyman Steve Yeager
+- **Primary:** Assemblywoman Daniele Monroe-Moreno (Democratic); Assemblywoman Teresa Benitez-Thompson (Democratic); Assemblyman Ozzie Fumo (Democratic)
+- **Co-sponsors:** Assemblyman Alexander Assefa (Democratic); Assemblywoman Bea Duran (Democratic); Assemblywoman Michelle Gorelow (Democratic); Assemblywoman Connie Munk (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblyman Tyrone Thompson (Democratic); Assemblyman Howard Watts (Democratic); Assemblyman Steve Yeager (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -354,8 +354,8 @@ Existing federal law establishes the Child Care and Development Block Grant Act 
 
 ### Sponsors
 
-- **Primary:** Assemblyman Skip Daly; Assemblywoman Sarah Peters; Assemblywoman Teresa Benitez-Thompson; Assemblyman Al Kramer; Senator Julia Ratti; Senator Ben Kieckhefer
-- **Co-sponsors:** Assemblywoman Lisa Krasner; Assemblywoman Jill Tolles
+- **Primary:** Assemblyman Skip Daly (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblywoman Teresa Benitez-Thompson (Democratic); Assemblyman Al Kramer (Republican); Senator Julia Ratti (Democratic); Senator Ben Kieckhefer (Republican)
+- **Co-sponsors:** Assemblywoman Lisa Krasner (Republican); Assemblywoman Jill Tolles (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -393,7 +393,7 @@ This bill requires Carson City, Douglas County, Lyon County, Storey County and W
 
 ### Sponsors
 
-- **Primary:** Assemblyman Al Kramer
+- **Primary:** Assemblyman Al Kramer (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -432,8 +432,8 @@ During the 2015 Legislative Session, the Legislature enacted Senate Bill No. 411
 
 ### Sponsors
 
-- **Primary:** Assemblyman Jason Frierson; Assemblywoman Daniele Monroe-Moreno; Assemblyman Tyrone Thompson; Assemblyman Steve Yeager; Assemblywoman Teresa Benitez-Thompson
-- **Co-sponsors:** Assemblywoman Shea Backus; Assemblywoman Sandra Jauregui; Assemblywoman Heidi Swank
+- **Primary:** Assemblyman Jason Frierson (Democratic); Assemblywoman Daniele Monroe-Moreno (Democratic); Assemblyman Tyrone Thompson (Democratic); Assemblyman Steve Yeager (Democratic); Assemblywoman Teresa Benitez-Thompson (Democratic)
+- **Co-sponsors:** Assemblywoman Shea Backus (Democratic); Assemblywoman Sandra Jauregui (Democratic); Assemblywoman Heidi Swank (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -460,7 +460,7 @@ Existing law defines the term “foster home” to mean a home that receives, nu
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Shannon Bilbray-Axelrod
+- **Primary:** Assemblywoman Shannon Bilbray-Axelrod (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -499,8 +499,8 @@ Existing law provides that eviction case court files relating to actions fo r su
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Selena Torres; Assemblyman Howard Watts; Assemblyman Alexander Assefa; Assemblyman Edgar Flores; Senator Moises Denis; Senator David Parks; Senator Yvanna Cancela
-- **Co-sponsors:** Assemblyman Richard Carrillo; Assemblywoman Bea Duran; Assemblyman Ozzie Fumo; Assemblywoman Sandra Jauregui; Assemblywoman Susie Martinez; Assemblyman William McCurdy; Assemblywoman Daniele Monroe-Moreno; Assemblywoman Dina Neal; Assemblywoman Ellen Spiegel; Senator Dallas Harris
+- **Primary:** Assemblywoman Selena Torres (Democratic); Assemblyman Howard Watts (Democratic); Assemblyman Alexander Assefa (Democratic); Assemblyman Edgar Flores (Democratic); Senator Moises Denis (Democratic); Senator David Parks (Democratic); Senator Yvanna Cancela (Democratic)
+- **Co-sponsors:** Assemblyman Richard Carrillo (Democratic); Assemblywoman Bea Duran (Democratic); Assemblyman Ozzie Fumo (Democratic); Assemblywoman Sandra Jauregui (Democratic); Assemblywoman Susie Martinez (Democratic); Assemblyman William McCurdy (Democratic); Assemblywoman Daniele Monroe-Moreno (Democratic); Assemblywoman Dina Neal (Democratic); Assemblywoman Ellen Spiegel (Democratic); Senator Dallas Harris (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -538,8 +538,8 @@ Existing law allows a person to apply for various professional and occupational 
 
 ### Sponsors
 
-- **Primary:** Assemblyman Tyrone Thompson; Assemblywoman Sarah Peters; Assemblywoman Ellen Spiegel; Assemblyman Richard Carrillo; Senator Moises Denis
-- **Co-sponsors:** Assemblyman Ozzie Fumo; Assemblywoman Michelle Gorelow; Assemblyman William McCurdy; Assemblywoman Selena Torres; Assemblyman Howard Watts; Senator Marilyn Dondero Loop; Senator Dallas Harris; Senator Joyce Woodhouse
+- **Primary:** Assemblyman Tyrone Thompson (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblywoman Ellen Spiegel (Democratic); Assemblyman Richard Carrillo (Democratic); Senator Moises Denis (Democratic)
+- **Co-sponsors:** Assemblyman Ozzie Fumo (Democratic); Assemblywoman Michelle Gorelow (Democratic); Assemblyman William McCurdy (Democratic); Assemblywoman Selena Torres (Democratic); Assemblyman Howard Watts (Democratic); Senator Marilyn Dondero Loop (Democratic); Senator Dallas Harris (Democratic); Senator Joyce Woodhouse (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -577,8 +577,8 @@ Existing law to become effective on July 1, 2019, provides that , unless a pupil
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Selena Torres; Assemblywoman Teresa Benitez-Thompson
-- **Co-sponsors:** Assemblywoman Shea Backus; Assemblyman Edgar Flores; Assemblyman Jason Frierson; Assemblywoman Sandra Jauregui; Assemblywoman Susie Martinez; Assemblywoman Connie Munk; Assemblywoman Rochelle Nguyen; Assemblywoman Sarah Peters; Assemblyman Howard Watts
+- **Primary:** Assemblywoman Selena Torres (Democratic); Assemblywoman Teresa Benitez-Thompson (Democratic)
+- **Co-sponsors:** Assemblywoman Shea Backus (Democratic); Assemblyman Edgar Flores (Democratic); Assemblyman Jason Frierson (Democratic); Assemblywoman Sandra Jauregui (Democratic); Assemblywoman Susie Martinez (Democratic); Assemblywoman Connie Munk (Democratic); Assemblywoman Rochelle Nguyen (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblyman Howard Watts (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -605,8 +605,8 @@ Existing law requires a pupil enrolled in high school to complete certain course
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Daniele Monroe-Moreno; Assemblyman Ozzie Fumo; Assemblywoman Shannon Bilbray-Axelrod; Assemblyman Alexander Assefa
-- **Co-sponsors:** Assemblywoman Teresa Benitez-Thompson; Assemblywoman Lesley Cohen; Assemblywoman Brittney Miller; Assemblywoman Connie Munk; Assemblywoman Selena Torres
+- **Primary:** Assemblywoman Daniele Monroe-Moreno (Democratic); Assemblyman Ozzie Fumo (Democratic); Assemblywoman Shannon Bilbray-Axelrod (Democratic); Assemblyman Alexander Assefa (Democratic)
+- **Co-sponsors:** Assemblywoman Teresa Benitez-Thompson (Democratic); Assemblywoman Lesley Cohen (Democratic); Assemblywoman Brittney Miller (Democratic); Assemblywoman Connie Munk (Democratic); Assemblywoman Selena Torres (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -633,7 +633,7 @@ Existing law imposes a tax, commonly known as the modified business tax, on fina
 
 ### Sponsors
 
-- **Primary:** Assemblyman Jason Frierson
+- **Primary:** Assemblyman Jason Frierson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -672,7 +672,7 @@ Existing law declares that “the proper objective of state financial aid to pub
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Lisa Krasner
+- **Primary:** Assemblywoman Lisa Krasner (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -700,8 +700,8 @@ Existing law requires the board of trustees of each school district to issue pre
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Jill Tolles; Assemblywoman Melissa Hardy; Assemblyman Gregory Hafen; Assemblyman Glen Leavitt; Assemblyman Tom Roberts
-- **Co-sponsors:** Assemblywoman Alexis Hansen; Assemblywoman Lisa Krasner; Assemblywoman Robin Titus
+- **Primary:** Assemblywoman Jill Tolles (Republican); Assemblywoman Melissa Hardy (Republican); Assemblyman Gregory Hafen (Republican); Assemblyman Glen Leavitt (Republican); Assemblyman Tom Roberts (Republican)
+- **Co-sponsors:** Assemblywoman Alexis Hansen (Republican); Assemblywoman Lisa Krasner (Republican); Assemblywoman Robin Titus (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -728,8 +728,8 @@ Existing law authorizes the board of trustees of a school district or the govern
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Jill Tolles; Assemblyman Steve Yeager; Assemblyman Tom Roberts; Senator Ben Kieckhefer; Senator Moises Denis; Senator Heidi Seevers Gansert
-- **Co-sponsors:** Assemblywoman Alexis Hansen; Assemblywoman Melissa Hardy; Assemblyman Al Kramer; Assemblyman Glen Leavitt; Assemblyman William McCurdy; Senator Chris Brooks
+- **Primary:** Assemblywoman Jill Tolles (Republican); Assemblyman Steve Yeager (Democratic); Assemblyman Tom Roberts (Republican); Senator Ben Kieckhefer (Republican); Senator Moises Denis (Democratic); Senator Heidi Seevers Gansert (Republican)
+- **Co-sponsors:** Assemblywoman Alexis Hansen (Republican); Assemblywoman Melissa Hardy (Republican); Assemblyman Al Kramer (Republican); Assemblyman Glen Leavitt (Republican); Assemblyman William McCurdy (Democratic); Senator Chris Brooks (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -767,7 +767,7 @@ Existing law allows a person to apply for various pro fessional and occupational
 
 ### Sponsors
 
-- **Primary:** Assemblyman Jason Frierson; Assemblywoman Teresa Benitez-Thompson; Assemblywoman Sandra Jauregui; Assemblyman Steve Yeager
+- **Primary:** Assemblyman Jason Frierson (Democratic); Assemblywoman Teresa Benitez-Thompson (Democratic); Assemblywoman Sandra Jauregui (Democratic); Assemblyman Steve Yeager (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -806,7 +806,7 @@ Under the Nevada Constitution, a person must be a qualified elector in order to 
 
 ### Sponsors
 
-- **Primary:** Assemblyman Jason Frierson
+- **Primary:** Assemblyman Jason Frierson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -834,8 +834,8 @@ Existing law prohibits a person from voluntarily engaging in sexual conduct with
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Melissa Hardy; Assemblyman Al Kramer; Assemblywoman Jill Tolles; Senator Scott Hammond; Senator Joseph Hardy
-- **Co-sponsors:** Assemblyman Chris Edwards; Assemblyman John Ellison; Assemblyman Gregory Hafen; Assemblywoman Lisa Krasner; Assemblyman Glen Leavitt; Assemblyman Tom Roberts; Assemblyman Jim Wheeler; Senator Keith Pickard
+- **Primary:** Assemblywoman Melissa Hardy (Republican); Assemblyman Al Kramer (Republican); Assemblywoman Jill Tolles (Republican); Senator Scott Hammond (Republican); Senator Joseph Hardy (Republican)
+- **Co-sponsors:** Assemblyman Chris Edwards (Republican); Assemblyman John Ellison (Republican); Assemblyman Gregory Hafen (Republican); Assemblywoman Lisa Krasner (Republican); Assemblyman Glen Leavitt (Republican); Assemblyman Tom Roberts (Republican); Assemblyman Jim Wheeler (Republican); Senator Keith Pickard (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -862,8 +862,8 @@ Existing law provides that a lender who willfully engages in an unfair lending p
 
 ### Sponsors
 
-- **Primary:** Assemblyman Gregory Hafen; Assemblyman Glen Leavitt; Assemblywoman Jill Tolles; Assemblyman Al Kramer; Senator Scott Hammond
-- **Co-sponsors:** Assemblywoman Melissa Hardy
+- **Primary:** Assemblyman Gregory Hafen (Republican); Assemblyman Glen Leavitt (Republican); Assemblywoman Jill Tolles (Republican); Assemblyman Al Kramer (Republican); Senator Scott Hammond (Republican)
+- **Co-sponsors:** Assemblywoman Melissa Hardy (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -890,8 +890,8 @@ Existing law authorizes the board of trustees of a school district or the govern
 
 ### Sponsors
 
-- **Primary:** Assemblyman Tyrone Thompson; Assemblywoman Daniele Monroe-Moreno; Assemblyman William McCurdy; Assemblyman Jason Frierson; Assemblywoman Teresa Benitez-Thompson
-- **Co-sponsors:** Assemblyman Alexander Assefa; Assemblywoman Shea Backus; Assemblywoman Shannon Bilbray-Axelrod; Assemblywoman Maggie Carlton; Assemblyman Richard Carrillo; Assemblywoman Lesley Cohen; Assemblyman Skip Daly; Assemblywoman Bea Duran; Assemblyman Chris Edwards; Assemblyman John Ellison; Assemblyman Edgar Flores; Assemblyman Ozzie Fumo; Assemblywoman Michelle Gorelow; Assemblyman Gregory Hafen; Assemblyman John Hambrick; Assemblywoman Alexis Hansen; Assemblywoman Melissa Hardy; Assemblywoman Sandra Jauregui; Assemblyman Al Kramer; Assemblywoman Lisa Krasner; Assemblyman Glen Leavitt; Assemblywoman Susie Martinez; Assemblywoman Brittney Miller; Assemblywoman Connie Munk; Assemblywoman Dina Neal; Assemblywoman Rochelle Nguyen; Assemblywoman Sarah Peters; Assemblyman Tom Roberts; Assemblyman Greg Smith; Assemblywoman Ellen Spiegel; Assemblywoman Heidi Swank; Assemblywoman Robin Titus; Assemblywoman Jill Tolles; Assemblywoman Selena Torres; Assemblyman Howard Watts; Assemblyman Jim Wheeler; Assemblyman Steve Yeager; Senator Chris Brooks; Senator Yvanna Cancela; Senator Nicole Cannizzaro; Senator Moises Denis; Senator Marilyn Dondero Loop; Senator Pete Goicoechea; Senator Scott Hammond; Senator Ira Hansen; Senator Joseph Hardy; Senator Dallas Harris; Senator Ben Kieckhefer; Senator James Ohrenschall; Senator David Parks; Senator Keith Pickard; Senator Julia Ratti; Senator Melanie Scheible; Senator Heidi Seevers Gansert; Senator James Settelmeyer; Senator Pat Spearman; Senator Marcia Washington; Senator Joyce Woodhouse
+- **Primary:** Assemblyman Tyrone Thompson (Democratic); Assemblywoman Daniele Monroe-Moreno (Democratic); Assemblyman William McCurdy (Democratic); Assemblyman Jason Frierson (Democratic); Assemblywoman Teresa Benitez-Thompson (Democratic)
+- **Co-sponsors:** Assemblyman Alexander Assefa (Democratic); Assemblywoman Shea Backus (Democratic); Assemblywoman Shannon Bilbray-Axelrod (Democratic); Assemblywoman Maggie Carlton (Democratic); Assemblyman Richard Carrillo (Democratic); Assemblywoman Lesley Cohen (Democratic); Assemblyman Skip Daly (Democratic); Assemblywoman Bea Duran (Democratic); Assemblyman Chris Edwards (Republican); Assemblyman John Ellison (Republican); Assemblyman Edgar Flores (Democratic); Assemblyman Ozzie Fumo (Democratic); Assemblywoman Michelle Gorelow (Democratic); Assemblyman Gregory Hafen (Republican); Assemblyman John Hambrick (Republican); Assemblywoman Alexis Hansen (Republican); Assemblywoman Melissa Hardy (Republican); Assemblywoman Sandra Jauregui (Democratic); Assemblyman Al Kramer (Republican); Assemblywoman Lisa Krasner (Republican); Assemblyman Glen Leavitt (Republican); Assemblywoman Susie Martinez (Democratic); Assemblywoman Brittney Miller (Democratic); Assemblywoman Connie Munk (Democratic); Assemblywoman Dina Neal (Democratic); Assemblywoman Rochelle Nguyen (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblyman Tom Roberts (Republican); Assemblyman Greg Smith (Democratic); Assemblywoman Ellen Spiegel (Democratic); Assemblywoman Heidi Swank (Democratic); Assemblywoman Robin Titus (Republican); Assemblywoman Jill Tolles (Republican); Assemblywoman Selena Torres (Democratic); Assemblyman Howard Watts (Democratic); Assemblyman Jim Wheeler (Republican); Assemblyman Steve Yeager (Democratic); Senator Chris Brooks (Democratic); Senator Yvanna Cancela (Democratic); Senator Nicole Cannizzaro (Democratic); Senator Moises Denis (Democratic); Senator Marilyn Dondero Loop (Democratic); Senator Pete Goicoechea (Republican); Senator Scott Hammond (Republican); Senator Ira Hansen (Republican); Senator Joseph Hardy (Republican); Senator Dallas Harris (Democratic); Senator Ben Kieckhefer (Republican); Senator James Ohrenschall (Democratic); Senator David Parks (Democratic); Senator Keith Pickard (Republican); Senator Julia Ratti (Democratic); Senator Melanie Scheible (Democratic); Senator Heidi Seevers Gansert (Republican); Senator James Settelmeyer (Republican); Senator Pat Spearman (Democratic); Senator Marcia Washington (Democratic); Senator Joyce Woodhouse (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -929,7 +929,7 @@ Existing law authorizes the Department of Motor Vehicles to require applicants f
 
 ### Sponsors
 
-- **Primary:** Assemblyman Howard Watts
+- **Primary:** Assemblyman Howard Watts (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -968,7 +968,7 @@ Under existing law, if a person applying for a certificate of ownership for a ma
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Lesley Cohen
+- **Primary:** Assemblywoman Lesley Cohen (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -1007,7 +1007,7 @@ Under existing law, a short -term lessor of vehicles may offer to a lessee, but 
 
 ### Sponsors
 
-- **Primary:** Assemblyman Steve Yeager
+- **Primary:** Assemblyman Steve Yeager (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -1035,8 +1035,8 @@ This bill imposes in Washoe County additional surcharges on the per night charge
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Alexis Hansen
-- **Co-sponsors:** Senator Scott Hammond; Senator Keith Pickard
+- **Primary:** Assemblywoman Alexis Hansen (Republican)
+- **Co-sponsors:** Senator Scott Hammond (Republican); Senator Keith Pickard (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -1074,8 +1074,8 @@ Existing law requires the Department of Education to develop a model plan for th
 
 ### Sponsors
 
-- **Primary:** Assemblyman Jason Frierson
-- **Co-sponsors:** Assemblyman William McCurdy; Assemblyman Howard Watts
+- **Primary:** Assemblyman Jason Frierson (Democratic)
+- **Co-sponsors:** Assemblyman William McCurdy (Democratic); Assemblyman Howard Watts (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -1113,7 +1113,7 @@ Existing law requires the State Treasurer to perform certain duties relating to 
 
 ### Sponsors
 
-- **Primary:** Assemblyman William McCurdy
+- **Primary:** Assemblyman William McCurdy (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -1141,7 +1141,7 @@ Section 1 of this bill requires the Department of Motor Vehicles to design, prep
 
 ### Sponsors
 
-- **Primary:** Assemblyman Glen Leavitt
+- **Primary:** Assemblyman Glen Leavitt (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -1169,7 +1169,7 @@ Under existing law, personal property held for sale by a merchant is exempt from
 
 ### Sponsors
 
-- **Primary:** Assemblyman Jason Frierson
+- **Primary:** Assemblyman Jason Frierson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -1208,7 +1208,7 @@ The Federal Employees Civil Relief Act, which is pending before Congress, propos
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Sandra Jauregui
+- **Primary:** Assemblywoman Sandra Jauregui (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -1247,8 +1247,8 @@ Existing law requires persons and entities eng aged in mortgage lending to be li
 
 ### Sponsors
 
-- **Primary:** Assemblyman John Ellison; Assemblyman Al Kramer; Assemblyman Tom Roberts
-- **Co-sponsors:** Assemblyman Glen Leavitt; Assemblywoman Robin Titus; Assemblyman Jim Wheeler; Senator Chris Brooks; Senator Yvanna Cancela; Senator Moises Denis; Senator Scott Hammond; Senator Joseph Hardy; Senator James Settelmeyer; Senator Pat Spearman; Senator Marcia Washington
+- **Primary:** Assemblyman John Ellison (Republican); Assemblyman Al Kramer (Republican); Assemblyman Tom Roberts (Republican)
+- **Co-sponsors:** Assemblyman Glen Leavitt (Republican); Assemblywoman Robin Titus (Republican); Assemblyman Jim Wheeler (Republican); Senator Chris Brooks (Democratic); Senator Yvanna Cancela (Democratic); Senator Moises Denis (Democratic); Senator Scott Hammond (Republican); Senator Joseph Hardy (Republican); Senator James Settelmeyer (Republican); Senator Pat Spearman (Democratic); Senator Marcia Washington (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -1286,8 +1286,8 @@ Under exi sting law, traffic laws and certain other laws relating to motor vehic
 
 ### Sponsors
 
-- **Primary:** Assemblyman Al Kramer; Assemblyman Richard Carrillo
-- **Co-sponsors:** Assemblyman Alexander Assefa; Assemblywoman Melissa Hardy; Assemblyman Glen Leavitt; Assemblywoman Robin Titus; Assemblyman Jim Wheeler
+- **Primary:** Assemblyman Al Kramer (Republican); Assemblyman Richard Carrillo (Democratic)
+- **Co-sponsors:** Assemblyman Alexander Assefa (Democratic); Assemblywoman Melissa Hardy (Republican); Assemblyman Glen Leavitt (Republican); Assemblywoman Robin Titus (Republican); Assemblyman Jim Wheeler (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -1314,8 +1314,8 @@ Under the Internal Revenue Code, states and local governments are allowed to fin
 
 ### Sponsors
 
-- **Primary:** Assemblyman Al Kramer; Assemblywoman Robin Titus
-- **Co-sponsors:** Assemblyman John Ellison
+- **Primary:** Assemblyman Al Kramer (Republican); Assemblywoman Robin Titus (Republican)
+- **Co-sponsors:** Assemblyman John Ellison (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -1420,7 +1420,7 @@ Existing law establishes within the Central Repository for Nevada Records of Cri
 
 ### Sponsors
 
-- **Primary:** Assemblyman Jason Frierson; Assemblywoman Shea Backus
+- **Primary:** Assemblyman Jason Frierson (Democratic); Assemblywoman Shea Backus (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -1576,7 +1576,7 @@ Existing law prohibits an individual or group insurance plan from denying covera
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Teresa Benitez-Thompson; Assemblyman Al Kramer; Assemblywoman Sarah Peters
+- **Primary:** Assemblywoman Teresa Benitez-Thompson (Democratic); Assemblyman Al Kramer (Republican); Assemblywoman Sarah Peters (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -1654,7 +1654,7 @@ Existing law contains various provisions governing retail installment sales. (Ch
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Teresa Benitez-Thompson; Assemblyman Tom Roberts
+- **Primary:** Assemblywoman Teresa Benitez-Thompson (Democratic); Assemblyman Tom Roberts (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -1944,8 +1944,8 @@ Under existing law, a county whose population is 700,000 or more (currently Clar
 
 ### Sponsors
 
-- **Primary:** Senator Julia Ratti; Senator Dallas Harris
-- **Co-sponsors:** Assemblywoman Lisa Krasner
+- **Primary:** Senator Julia Ratti (Democratic); Senator Dallas Harris (Democratic)
+- **Co-sponsors:** Assemblywoman Lisa Krasner (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -1983,7 +1983,7 @@ Existing law provides that any provision in a written instrument which purports 
 
 ### Sponsors
 
-- **Primary:** Senator Pete Goicoechea; Senator James Settelmeyer
+- **Primary:** Senator Pete Goicoechea (Republican); Senator James Settelmeyer (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -2011,8 +2011,8 @@ Existing law authorizes the Board of Regents of the University of Nevada to acce
 
 ### Sponsors
 
-- **Primary:** Senator Heidi Seevers Gansert; Senator Joseph Hardy; Senator Keith Pickard
-- **Co-sponsors:** Senator Scott Hammond; Senator James Settelmeyer
+- **Primary:** Senator Heidi Seevers Gansert (Republican); Senator Joseph Hardy (Republican); Senator Keith Pickard (Republican)
+- **Co-sponsors:** Senator Scott Hammond (Republican); Senator James Settelmeyer (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -2106,8 +2106,8 @@ Existing law requires a landlord of a manufactured home park to pay certain cost
 
 ### Sponsors
 
-- **Primary:** Senator Pete Goicoechea; Senator James Settelmeyer; Senator Joseph Hardy; Assemblyman John Ellison
-- **Co-sponsors:** Senator Ira Hansen
+- **Primary:** Senator Pete Goicoechea (Republican); Senator James Settelmeyer (Republican); Senator Joseph Hardy (Republican); Assemblyman John Ellison (Republican)
+- **Co-sponsors:** Senator Ira Hansen (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -2145,8 +2145,8 @@ Under existing law, planning commissions and certain governing bodies prepare an
 
 ### Sponsors
 
-- **Primary:** Senator Julia Ratti; Senator Yvanna Cancela; Senator Pat Spearman; Senator David Parks
-- **Co-sponsors:** Senator Chris Brooks; Senator Dallas Harris; Senator James Ohrenschall; Senator Joyce Woodhouse
+- **Primary:** Senator Julia Ratti (Democratic); Senator Yvanna Cancela (Democratic); Senator Pat Spearman (Democratic); Senator David Parks (Democratic)
+- **Co-sponsors:** Senator Chris Brooks (Democratic); Senator Dallas Harris (Democratic); Senator James Ohrenschall (Democratic); Senator Joyce Woodhouse (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -2184,8 +2184,8 @@ Existing law provides for a summary eviction procedure when the tenant of any dw
 
 ### Sponsors
 
-- **Primary:** Senator Heidi Seevers Gansert; Senator Joseph Hardy
-- **Co-sponsors:** Senator Pete Goicoechea; Senator Scott Hammond; Senator Ben Kieckhefer; Senator James Settelmeyer
+- **Primary:** Senator Heidi Seevers Gansert (Republican); Senator Joseph Hardy (Republican)
+- **Co-sponsors:** Senator Pete Goicoechea (Republican); Senator Scott Hammond (Republican); Senator Ben Kieckhefer (Republican); Senator James Settelmeyer (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -2223,7 +2223,7 @@ Under existing law, an employee or volunteer for a public or private school must
 
 ### Sponsors
 
-- **Primary:** Senator Joyce Woodhouse; Senator David Parks
+- **Primary:** Senator Joyce Woodhouse (Democratic); Senator David Parks (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -2251,8 +2251,8 @@ The United States Constitution mandates that a census of the population of the U
 
 ### Sponsors
 
-- **Primary:** Senator Pat Spearman; Senator David Parks
-- **Co-sponsors:** Senator Dallas Harris; Senator James Ohrenschall; Senator Melanie Scheible; Senator Joyce Woodhouse
+- **Primary:** Senator Pat Spearman (Democratic); Senator David Parks (Democratic)
+- **Co-sponsors:** Senator Dallas Harris (Democratic); Senator James Ohrenschall (Democratic); Senator Melanie Scheible (Democratic); Senator Joyce Woodhouse (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -2279,8 +2279,8 @@ The Oregon Individual Development Account Initiative Program allows certain pers
 
 ### Sponsors
 
-- **Primary:** Senator Melanie Scheible; Senator David Parks
-- **Co-sponsors:** Assemblyman Ozzie Fumo
+- **Primary:** Senator Melanie Scheible (Democratic); Senator David Parks (Democratic)
+- **Co-sponsors:** Assemblyman Ozzie Fumo (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -2318,8 +2318,8 @@ This bill requires a county assessor to provide a report to the county treasurer
 
 ### Sponsors
 
-- **Primary:** Senator Marilyn Dondero Loop; Senator Pat Spearman; Senator James Ohrenschall; Senator David Parks
-- **Co-sponsors:** Senator Chris Brooks; Senator Yvanna Cancela; Senator Nicole Cannizzaro; Senator Moises Denis; Senator Dallas Harris; Senator Melanie Scheible; Senator Joyce Woodhouse
+- **Primary:** Senator Marilyn Dondero Loop (Democratic); Senator Pat Spearman (Democratic); Senator James Ohrenschall (Democratic); Senator David Parks (Democratic)
+- **Co-sponsors:** Senator Chris Brooks (Democratic); Senator Yvanna Cancela (Democratic); Senator Nicole Cannizzaro (Democratic); Senator Moises Denis (Democratic); Senator Dallas Harris (Democratic); Senator Melanie Scheible (Democratic); Senator Joyce Woodhouse (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -2357,8 +2357,8 @@ Existing federal law requires a school district to take certain actions to facil
 
 ### Sponsors
 
-- **Primary:** Senator Pat Spearman; Senator Joyce Woodhouse; Senator David Parks
-- **Co-sponsors:** Senator Joseph Hardy; Senator Dallas Harris; Senator James Ohrenschall; Senator Melanie Scheible; Assemblyman Alexander Assefa; Assemblywoman Michelle Gorelow; Assemblywoman Lisa Krasner; Assemblywoman Rochelle Nguyen
+- **Primary:** Senator Pat Spearman (Democratic); Senator Joyce Woodhouse (Democratic); Senator David Parks (Democratic)
+- **Co-sponsors:** Senator Joseph Hardy (Republican); Senator Dallas Harris (Democratic); Senator James Ohrenschall (Democratic); Senator Melanie Scheible (Democratic); Assemblyman Alexander Assefa (Democratic); Assemblywoman Michelle Gorelow (Democratic); Assemblywoman Lisa Krasner (Republican); Assemblywoman Rochelle Nguyen (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -2396,8 +2396,8 @@ Existing law establishes a program to provide assistive technology and interpret
 
 ### Sponsors
 
-- **Primary:** Senator Chris Brooks; Senator Moises Denis; Senator Nicole Cannizzaro
-- **Co-sponsors:** Senator Yvanna Cancela; Senator Marilyn Dondero Loop; Senator Dallas Harris; Senator James Ohrenschall; Senator David Parks; Senator Julia Ratti; Senator Melanie Scheible; Senator Pat Spearman; Senator Joyce Woodhouse; Assemblyman Richard Carrillo; Assemblywoman Bea Duran; Assemblywoman Susie Martinez; Assemblyman Greg Smith
+- **Primary:** Senator Chris Brooks (Democratic); Senator Moises Denis (Democratic); Senator Nicole Cannizzaro (Democratic)
+- **Co-sponsors:** Senator Yvanna Cancela (Democratic); Senator Marilyn Dondero Loop (Democratic); Senator Dallas Harris (Democratic); Senator James Ohrenschall (Democratic); Senator David Parks (Democratic); Senator Julia Ratti (Democratic); Senator Melanie Scheible (Democratic); Senator Pat Spearman (Democratic); Senator Joyce Woodhouse (Democratic); Assemblyman Richard Carrillo (Democratic); Assemblywoman Bea Duran (Democratic); Assemblywoman Susie Martinez (Democratic); Assemblyman Greg Smith (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -2435,8 +2435,8 @@ Existing law creates the State Apprenticeship Council and requires the Council t
 
 ### Sponsors
 
-- **Primary:** Senator Moises Denis; Senator Pat Spearman; Senator Chris Brooks; Senator David Parks
-- **Co-sponsors:** Senator Kelvin Atkinson; Senator Yvanna Cancela; Senator Nicole Cannizzaro; Senator Marilyn Dondero Loop; Senator James Ohrenschall; Senator Julia Ratti; Senator Melanie Scheible; Senator Joyce Woodhouse
+- **Primary:** Senator Moises Denis (Democratic); Senator Pat Spearman (Democratic); Senator Chris Brooks (Democratic); Senator David Parks (Democratic)
+- **Co-sponsors:** Senator Kelvin Atkinson; Senator Yvanna Cancela (Democratic); Senator Nicole Cannizzaro (Democratic); Senator Marilyn Dondero Loop (Democratic); Senator James Ohrenschall (Democratic); Senator Julia Ratti (Democratic); Senator Melanie Scheible (Democratic); Senator Joyce Woodhouse (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -2463,7 +2463,7 @@ This bill enacts provisions governing community solar facilities in this State. 
 
 ### Sponsors
 
-- **Primary:** Senator Moises Denis
+- **Primary:** Senator Moises Denis (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -2502,7 +2502,7 @@ Existing law imposes certain conditions on the towing of a motor vehicle from a 
 
 ### Sponsors
 
-- **Primary:** Senator Joseph Hardy
+- **Primary:** Senator Joseph Hardy (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -2530,8 +2530,8 @@ Existing law establishes the Aging and Disability Services Division of the Depar
 
 ### Sponsors
 
-- **Primary:** Senator Keith Pickard; Senator James Ohrenschall; Assemblyman Glen Leavitt; Assemblywoman Melissa Hardy
-- **Co-sponsors:** Assemblywoman Lesley Cohen
+- **Primary:** Senator Keith Pickard (Republican); Senator James Ohrenschall (Democratic); Assemblyman Glen Leavitt (Republican); Assemblywoman Melissa Hardy (Republican)
+- **Co-sponsors:** Assemblywoman Lesley Cohen (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -2558,7 +2558,7 @@ Existing law requires a mental health facility to obtain the informed written co
 
 ### Sponsors
 
-- **Primary:** Senator Keith Pickard; Assemblywoman Lesley Cohen
+- **Primary:** Senator Keith Pickard (Republican); Assemblywoman Lesley Cohen (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -2586,8 +2586,8 @@ Existing law authorizes parties to a divorce to use a summary procedure to disso
 
 ### Sponsors
 
-- **Primary:** Senator James Settelmeyer; Senator Pete Goicoechea; Senator Joseph Hardy
-- **Co-sponsors:** Senator Ira Hansen; Senator Heidi Seevers Gansert
+- **Primary:** Senator James Settelmeyer (Republican); Senator Pete Goicoechea (Republican); Senator Joseph Hardy (Republican)
+- **Co-sponsors:** Senator Ira Hansen (Republican); Senator Heidi Seevers Gansert (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -2625,7 +2625,7 @@ Existing law authorizes the State Engineer to require the dedication of a right 
 
 ### Sponsors
 
-- **Primary:** Senator Joyce Woodhouse; Senator David Parks; Assemblyman Ozzie Fumo; Assemblywoman Lesley Cohen
+- **Primary:** Senator Joyce Woodhouse (Democratic); Senator David Parks (Democratic); Assemblyman Ozzie Fumo (Democratic); Assemblywoman Lesley Cohen (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -2653,8 +2653,8 @@ Section 1 of this bill requires the Legislative Commission to appoint a committe
 
 ### Sponsors
 
-- **Primary:** Senator Yvanna Cancela; Senator Pat Spearman; Senator Julia Ratti; Senator David Parks
-- **Co-sponsors:** Senator Dallas Harris; Senator James Ohrenschall; Senator Melanie Scheible; Senator Joyce Woodhouse
+- **Primary:** Senator Yvanna Cancela (Democratic); Senator Pat Spearman (Democratic); Senator Julia Ratti (Democratic); Senator David Parks (Democratic)
+- **Co-sponsors:** Senator Dallas Harris (Democratic); Senator James Ohrenschall (Democratic); Senator Melanie Scheible (Democratic); Senator Joyce Woodhouse (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -2709,8 +2709,8 @@ Under federal law, programs for home and community-based services for elderly an
 
 ### Sponsors
 
-- **Primary:** Senator Dallas Harris; Senator Julia Ratti
-- **Co-sponsors:** Senator Heidi Seevers Gansert; Assemblyman Tyrone Thompson
+- **Primary:** Senator Dallas Harris (Democratic); Senator Julia Ratti (Democratic)
+- **Co-sponsors:** Senator Heidi Seevers Gansert (Republican); Assemblyman Tyrone Thompson (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -2748,7 +2748,7 @@ To the extent that money is available for that purpose, section 2 of this bill r
 
 ### Sponsors
 
-- **Primary:** Senator Melanie Scheible; Senator Nicole Cannizzaro
+- **Primary:** Senator Melanie Scheible (Democratic); Senator Nicole Cannizzaro (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -2787,8 +2787,8 @@ Existing law provides that a person who willfully and maliciously discharges a f
 
 ### Sponsors
 
-- **Primary:** Senator Julia Ratti
-- **Co-sponsors:** Senator Chris Brooks; Senator Moises Denis; Senator Marilyn Dondero Loop; Senator Scott Hammond; Senator Joseph Hardy; Senator Dallas Harris; Senator Ben Kieckhefer; Senator David Parks; Senator Heidi Seevers Gansert; Senator James Settelmeyer; Senator Pat Spearman; Senator Joyce Woodhouse
+- **Primary:** Senator Julia Ratti (Democratic)
+- **Co-sponsors:** Senator Chris Brooks (Democratic); Senator Moises Denis (Democratic); Senator Marilyn Dondero Loop (Democratic); Senator Scott Hammond (Republican); Senator Joseph Hardy (Republican); Senator Dallas Harris (Democratic); Senator Ben Kieckhefer (Republican); Senator David Parks (Democratic); Senator Heidi Seevers Gansert (Republican); Senator James Settelmeyer (Republican); Senator Pat Spearman (Democratic); Senator Joyce Woodhouse (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -2826,7 +2826,7 @@ Existing law provides for the licensure of foster homes. (NRS 424.020 - 424.090)
 
 ### Sponsors
 
-- **Primary:** Senator Dallas Harris
+- **Primary:** Senator Dallas Harris (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -2854,8 +2854,8 @@ Existing law authorizes the board of county commissioners of certain counties to
 
 ### Sponsors
 
-- **Primary:** Senator James Settelmeyer; Senator Ira Hansen; Senator Joseph Hardy; Senator Scott Hammond; Senator Keith Pickard; Assemblyman Jim Wheeler; Assemblywoman Robin Titus; Assemblyman Glen Leavitt
-- **Co-sponsors:** Senator Moises Denis; Senator Pete Goicoechea; Senator Heidi Seevers Gansert; Assemblyman Chris Edwards; Assemblyman John Ellison; Assemblyman Gregory Hafen; Assemblywoman Alexis Hansen; Assemblywoman Melissa Hardy; Assemblyman Al Kramer; Assemblyman Tom Roberts; Assemblywoman Jill Tolles
+- **Primary:** Senator James Settelmeyer (Republican); Senator Ira Hansen (Republican); Senator Joseph Hardy (Republican); Senator Scott Hammond (Republican); Senator Keith Pickard (Republican); Assemblyman Jim Wheeler (Republican); Assemblywoman Robin Titus (Republican); Assemblyman Glen Leavitt (Republican)
+- **Co-sponsors:** Senator Moises Denis (Democratic); Senator Pete Goicoechea (Republican); Senator Heidi Seevers Gansert (Republican); Assemblyman Chris Edwards (Republican); Assemblyman John Ellison (Republican); Assemblyman Gregory Hafen (Republican); Assemblywoman Alexis Hansen (Republican); Assemblywoman Melissa Hardy (Republican); Assemblyman Al Kramer (Republican); Assemblyman Tom Roberts (Republican); Assemblywoman Jill Tolles (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -2882,7 +2882,7 @@ Sections 2-5 of this bill establish the Nevada Child Adoption Grant Program. Sec
 
 ### Sponsors
 
-- **Primary:** Senator Ben Kieckhefer
+- **Primary:** Senator Ben Kieckhefer (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -2910,8 +2910,8 @@ Existing law establishes procedures for the governing body of a city or county t
 
 ### Sponsors
 
-- **Primary:** Senator Melanie Scheible; Senator David Parks; Senator Pat Spearman
-- **Co-sponsors:** Senator Marilyn Dondero Loop; Senator Dallas Harris
+- **Primary:** Senator Melanie Scheible (Democratic); Senator David Parks (Democratic); Senator Pat Spearman (Democratic)
+- **Co-sponsors:** Senator Marilyn Dondero Loop (Democratic); Senator Dallas Harris (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -2949,8 +2949,8 @@ Existing law provides that if a person is lawfully arrested and detained in a co
 
 ### Sponsors
 
-- **Primary:** Senator James Settelmeyer; Senator Pete Goicoechea; Senator Heidi Seevers Gansert; Senator Scott Hammond; Senator Ira Hansen
-- **Co-sponsors:** Senator Joseph Hardy; Senator Ben Kieckhefer; Senator Keith Pickard
+- **Primary:** Senator James Settelmeyer (Republican); Senator Pete Goicoechea (Republican); Senator Heidi Seevers Gansert (Republican); Senator Scott Hammond (Republican); Senator Ira Hansen (Republican)
+- **Co-sponsors:** Senator Joseph Hardy (Republican); Senator Ben Kieckhefer (Republican); Senator Keith Pickard (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -3016,7 +3016,7 @@ Existing l aw sets forth requirements for the purchase, sale or lease of real pr
 
 ### Sponsors
 
-- **Primary:** Senator Melanie Scheible
+- **Primary:** Senator Melanie Scheible (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -3055,8 +3055,8 @@ Existing law creates the Account for Low-Income Housing in the State General Fun
 
 ### Sponsors
 
-- **Primary:** Senator Chris Brooks; Senator Pat Spearman
-- **Co-sponsors:** Senator Yvanna Cancela
+- **Primary:** Senator Chris Brooks (Democratic); Senator Pat Spearman (Democratic)
+- **Co-sponsors:** Senator Yvanna Cancela (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -3094,7 +3094,7 @@ Existing law requires a landlord of a manufactured home park to maintain the man
 
 ### Sponsors
 
-- **Primary:** Senator Nicole Cannizzaro
+- **Primary:** Senator Nicole Cannizzaro (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -3133,7 +3133,7 @@ Existing law set s forth various definitions that apply to deeds of trust. (NRS 
 
 ### Sponsors
 
-- **Primary:** Senator Melanie Scheible; Senator Julia Ratti
+- **Primary:** Senator Melanie Scheible (Democratic); Senator Julia Ratti (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -3172,8 +3172,8 @@ Existing law prohibits a person from v oluntarily engaging in sexual conduct wit
 
 ### Sponsors
 
-- **Primary:** Senator Keith Pickard; Senator Joseph Hardy; Assemblywoman Melissa Hardy; Assemblyman Al Kramer
-- **Co-sponsors:** Assemblyman Chris Edwards; Assemblywoman Lisa Krasner; Assemblyman Glen Leavitt; Assemblyman Tom Roberts; Assemblyman Steve Yeager
+- **Primary:** Senator Keith Pickard (Republican); Senator Joseph Hardy (Republican); Assemblywoman Melissa Hardy (Republican); Assemblyman Al Kramer (Republican)
+- **Co-sponsors:** Assemblyman Chris Edwards (Republican); Assemblywoman Lisa Krasner (Republican); Assemblyman Glen Leavitt (Republican); Assemblyman Tom Roberts (Republican); Assemblyman Steve Yeager (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -3200,7 +3200,7 @@ Existing law provides for the regulation of apiaries and bees in this State, inc
 
 ### Sponsors
 
-- **Primary:** Senator Julia Ratti
+- **Primary:** Senator Julia Ratti (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -3228,8 +3228,8 @@ Existing law authorizes a board of county commissioners or the governing body of
 
 ### Sponsors
 
-- **Primary:** Senator Moises Denis
-- **Co-sponsors:** Assemblywoman Lisa Krasner
+- **Primary:** Senator Moises Denis (Democratic)
+- **Co-sponsors:** Assemblywoman Lisa Krasner (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -3267,7 +3267,7 @@ Existing law generally controls the manner in which a school service provider ma
 
 ### Sponsors
 
-- **Primary:** Senator James Ohrenschall
+- **Primary:** Senator James Ohrenschall (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -3295,7 +3295,7 @@ Existing law defines the terms “public utility” and “utility” for the pu
 
 ### Sponsors
 
-- **Primary:** Senator Nicole Cannizzaro
+- **Primary:** Senator Nicole Cannizzaro (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -3468,8 +3468,8 @@ Existing law contains numerous definitions of “affordable housing.” (NRS 244
 
 ### Sponsors
 
-- **Primary:** Senator James Settelmeyer; Senator Keith Pickard
-- **Co-sponsors:** Senator Pete Goicoechea; Senator Scott Hammond; Senator Ira Hansen; Senator Joseph Hardy; Senator Ben Kieckhefer; Senator Julia Ratti; Senator Heidi Seevers Gansert; Senator Pat Spearman; Senator Joyce Woodhouse
+- **Primary:** Senator James Settelmeyer (Republican); Senator Keith Pickard (Republican)
+- **Co-sponsors:** Senator Pete Goicoechea (Republican); Senator Scott Hammond (Republican); Senator Ira Hansen (Republican); Senator Joseph Hardy (Republican); Senator Ben Kieckhefer (Republican); Senator Julia Ratti (Democratic); Senator Heidi Seevers Gansert (Republican); Senator Pat Spearman (Democratic); Senator Joyce Woodhouse (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -3546,7 +3546,7 @@ Existing law requires residential mortgage loan originators at privately insured
 
 ### Sponsors
 
-- **Primary:** Senator Nicole Cannizzaro; Assemblyman Jason Frierson
+- **Primary:** Senator Nicole Cannizzaro (Democratic); Assemblyman Jason Frierson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -3574,7 +3574,7 @@ Section 8 of this bill creates the Office of the Small Business Advocate within 
 
 ### Sponsors
 
-- **Primary:** Senator Dallas Harris
+- **Primary:** Senator Dallas Harris (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -3758,8 +3758,8 @@ Existing law requires a person, other than certain medical facilities, to obtain
 
 ### Sponsors
 
-- **Primary:** Assemblyman Tom Roberts; Assemblywoman Daniele Monroe-Moreno
-- **Co-sponsors:** Assemblywoman Lisa Krasner; Assemblyman Glen Leavitt; Assemblywoman Rochelle Nguyen; Assemblywoman Robin Titus; Assemblywoman Jill Tolles; Senator Scott Hammond; Senator Ben Kieckhefer; Senator Heidi Seevers Gansert
+- **Primary:** Assemblyman Tom Roberts (Republican); Assemblywoman Daniele Monroe-Moreno (Democratic)
+- **Co-sponsors:** Assemblywoman Lisa Krasner (Republican); Assemblyman Glen Leavitt (Republican); Assemblywoman Rochelle Nguyen (Democratic); Assemblywoman Robin Titus (Republican); Assemblywoman Jill Tolles (Republican); Senator Scott Hammond (Republican); Senator Ben Kieckhefer (Republican); Senator Heidi Seevers Gansert (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -3825,8 +3825,8 @@ Under the Nevada Constitution, justice courts are courts of limited original jur
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Rochelle Nguyen; Assemblywoman Sarah Peters; Assemblywoman Cecelia González; Senator Melanie Scheible; Senator Nicole Cannizzaro
-- **Co-sponsors:** Assemblywoman Selena Torres; Assemblyman Howard Watts; Senator Chris Brooks
+- **Primary:** Assemblywoman Rochelle Nguyen (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblywoman Cecelia González (Democratic); Senator Melanie Scheible (Democratic); Senator Nicole Cannizzaro (Democratic)
+- **Co-sponsors:** Assemblywoman Selena Torres (Democratic); Assemblyman Howard Watts (Democratic); Senator Chris Brooks (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -3864,8 +3864,8 @@ Existing law establishes provisions governing the adoption of children. (NRS 127
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Rochelle Nguyen; Assemblyman Steve Yeager; Assemblyman Jason Frierson; Assemblywoman Selena Torres; Assemblywoman Daniele Monroe-Moreno; Senator Nicole Cannizzaro; Senator Melanie Scheible
-- **Co-sponsors:** Assemblywoman Natha Anderson; Assemblywoman Teresa Benitez-Thompson; Assemblywoman Shannon Bilbray-Axelrod; Assemblywoman Tracy Brown-May; Assemblywoman Maggie Carlton; Assemblywoman Lesley Cohen; Assemblywoman Venicia Considine; Assemblywoman Bea Duran; Assemblyman Edgar Flores; Assemblywoman Cecelia González; Assemblywoman Michelle Gorelow; Assemblywoman Sandra Jauregui; Assemblywoman Lisa Krasner; Assemblywoman Susie Martinez; Assemblywoman Elaine Marzola; Assemblywoman Brittney Miller; Assemblyman C.H. Miller; Assemblyman David Orentlicher; Assemblywoman Sarah Peters; Assemblywoman Shondra Summers-Armstrong; Assemblywoman Clara Thomas; Assemblyman Howard Watts; Senator Chris Brooks; Senator Scott Hammond; Senator Dallas Harris; Senator James Ohrenschall; Senator Keith Pickard
+- **Primary:** Assemblywoman Rochelle Nguyen (Democratic); Assemblyman Steve Yeager (Democratic); Assemblyman Jason Frierson (Democratic); Assemblywoman Selena Torres (Democratic); Assemblywoman Daniele Monroe-Moreno (Democratic); Senator Nicole Cannizzaro (Democratic); Senator Melanie Scheible (Democratic)
+- **Co-sponsors:** Assemblywoman Natha Anderson (Democratic); Assemblywoman Teresa Benitez-Thompson (Democratic); Assemblywoman Shannon Bilbray-Axelrod (Democratic); Assemblywoman Tracy Brown-May (Democratic); Assemblywoman Maggie Carlton (Democratic); Assemblywoman Lesley Cohen (Democratic); Assemblywoman Venicia Considine (Democratic); Assemblywoman Bea Duran (Democratic); Assemblyman Edgar Flores (Democratic); Assemblywoman Cecelia González (Democratic); Assemblywoman Michelle Gorelow (Democratic); Assemblywoman Sandra Jauregui (Democratic); Assemblywoman Lisa Krasner (Republican); Assemblywoman Susie Martinez (Democratic); Assemblywoman Elaine Marzola (Democratic); Assemblywoman Brittney Miller (Democratic); Assemblyman C.H. Miller; Assemblyman David Orentlicher (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblywoman Shondra Summers-Armstrong (Democratic); Assemblywoman Clara Thomas (Democratic); Assemblyman Howard Watts (Democratic); Senator Chris Brooks (Democratic); Senator Scott Hammond (Republican); Senator Dallas Harris (Democratic); Senator James Ohrenschall (Democratic); Senator Keith Pickard (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -3903,7 +3903,7 @@ Existing law provides that a violation of any provision of existing law relating
 
 ### Sponsors
 
-- **Primary:** Assemblyman Howard Watts
+- **Primary:** Assemblyman Howard Watts (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -3942,7 +3942,7 @@ Existing law establishes a supplemental remedy through an action f or summary ev
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Selena Torres; Assemblywoman Shondra Summers-Armstrong
+- **Primary:** Assemblywoman Selena Torres (Democratic); Assemblywoman Shondra Summers-Armstrong (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -3970,8 +3970,8 @@ Existing law establishes a supplemental remedy through an action for summary evi
 
 ### Sponsors
 
-- **Primary:** Assemblyman John Ellison; Assemblywoman Jill Dickman; Assemblywoman Robin Titus; Senator Pete Goicoechea
-- **Co-sponsors:** Assemblyman Gregory Hafen; Assemblywoman Alexis Hansen; Assemblywoman Heidi Kasama; Assemblyman Glen Leavitt; Assemblyman Andy Matthews; Assemblyman Philip P.K. O’Neill; Assemblyman Jim Wheeler
+- **Primary:** Assemblyman John Ellison (Republican); Assemblywoman Jill Dickman (Republican); Assemblywoman Robin Titus (Republican); Senator Pete Goicoechea (Republican)
+- **Co-sponsors:** Assemblyman Gregory Hafen (Republican); Assemblywoman Alexis Hansen (Republican); Assemblywoman Heidi Kasama (Republican); Assemblyman Glen Leavitt (Republican); Assemblyman Andy Matthews (Republican); Assemblyman Philip P.K. O’Neill (Republican); Assemblyman Jim Wheeler (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -3998,8 +3998,8 @@ Existing law requires a contractor or subcontractor engaged in vertical or horiz
 
 ### Sponsors
 
-- **Primary:** Assemblyman Jim Wheeler; Assemblyman John Ellison; Assemblywoman Jill Dickman; Assemblyman Philip P.K. O’Neill; Assemblywoman Robin Titus; Senator Pete Goicoechea; Senator James Settelmeyer
-- **Co-sponsors:** Assemblywoman Alexis Hansen; Assemblyman Andy Matthews; Senator Ira Hansen; Senator Joseph Hardy; Senator Keith Pickard
+- **Primary:** Assemblyman Jim Wheeler (Republican); Assemblyman John Ellison (Republican); Assemblywoman Jill Dickman (Republican); Assemblyman Philip P.K. O’Neill (Republican); Assemblywoman Robin Titus (Republican); Senator Pete Goicoechea (Republican); Senator James Settelmeyer (Republican)
+- **Co-sponsors:** Assemblywoman Alexis Hansen (Republican); Assemblyman Andy Matthews (Republican); Senator Ira Hansen (Republican); Senator Joseph Hardy (Republican); Senator Keith Pickard (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -4026,8 +4026,8 @@ Existing law provides that a person is guilty of: (1) a gross misdemeanor if the
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Alexis Hansen; Assemblywoman Jill Dickman; Assemblyman Jim Wheeler; Assemblyman John Ellison; Assemblyman Gregory Hafen
-- **Co-sponsors:** Assemblywoman Melissa Hardy; Assemblywoman Heidi Kasama; Assemblywoman Lisa Krasner; Assemblyman Glen Leavitt; Assemblyman Andy Matthews; Assemblyman Philip P.K. O’Neill; Assemblyman Tom Roberts; Assemblywoman Robin Titus; Assemblywoman Jill Tolles
+- **Primary:** Assemblywoman Alexis Hansen (Republican); Assemblywoman Jill Dickman (Republican); Assemblyman Jim Wheeler (Republican); Assemblyman John Ellison (Republican); Assemblyman Gregory Hafen (Republican)
+- **Co-sponsors:** Assemblywoman Melissa Hardy (Republican); Assemblywoman Heidi Kasama (Republican); Assemblywoman Lisa Krasner (Republican); Assemblyman Glen Leavitt (Republican); Assemblyman Andy Matthews (Republican); Assemblyman Philip P.K. O’Neill (Republican); Assemblyman Tom Roberts (Republican); Assemblywoman Robin Titus (Republican); Assemblywoman Jill Tolles (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -4054,7 +4054,7 @@ Existing law regulates the medical conditions under which abortions may be perfo
 
 ### Sponsors
 
-- **Primary:** Assemblyman Jason Frierson; Assemblywoman Teresa Benitez-Thompson
+- **Primary:** Assemblyman Jason Frierson (Democratic); Assemblywoman Teresa Benitez-Thompson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4093,8 +4093,8 @@ Existing law requires the Lieutenant Governor to perform certain duties relating
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Selena Torres; Assemblywoman Rochelle Nguyen; Assemblyman Edgar Flores; Assemblyman Howard Watts; Senator Moises Denis; Senator Fabian Donate
-- **Co-sponsors:** Assemblywoman Tracy Brown-May; Assemblywoman Bea Duran; Assemblywoman Cecelia González; Assemblywoman Susie Martinez; Assemblyman C.H. Miller; Assemblywoman Sarah Peters
+- **Primary:** Assemblywoman Selena Torres (Democratic); Assemblywoman Rochelle Nguyen (Democratic); Assemblyman Edgar Flores (Democratic); Assemblyman Howard Watts (Democratic); Senator Moises Denis (Democratic); Senator Fabian Donate (Democratic)
+- **Co-sponsors:** Assemblywoman Tracy Brown-May (Democratic); Assemblywoman Bea Duran (Democratic); Assemblywoman Cecelia González (Democratic); Assemblywoman Susie Martinez (Democratic); Assemblyman C.H. Miller; Assemblywoman Sarah Peters (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -4132,8 +4132,8 @@ Existing law requires the board of trustees of each school district to develop a
 
 ### Sponsors
 
-- **Primary:** Assemblyman Howard Watts; Assemblywoman Sarah Peters; Assemblywoman Rochelle Nguyen; Senator Fabian Donate
-- **Co-sponsors:** Assemblywoman Bea Duran; Assemblywoman Michelle Gorelow; Assemblywoman Susie Martinez; Assemblyman C.H. Miller; Assemblyman David Orentlicher; Assemblywoman Shondra Summers-Armstrong; Assemblywoman Clara Thomas; Assemblywoman Selena Torres; Senator Moises Denis
+- **Primary:** Assemblyman Howard Watts (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblywoman Rochelle Nguyen (Democratic); Senator Fabian Donate (Democratic)
+- **Co-sponsors:** Assemblywoman Bea Duran (Democratic); Assemblywoman Michelle Gorelow (Democratic); Assemblywoman Susie Martinez (Democratic); Assemblyman C.H. Miller; Assemblyman David Orentlicher (Democratic); Assemblywoman Shondra Summers-Armstrong (Democratic); Assemblywoman Clara Thomas (Democratic); Assemblywoman Selena Torres (Democratic); Senator Moises Denis (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -4171,8 +4171,8 @@ Existing law authorizes a minor to consent to certain services p rovided to hims
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Heidi Kasama; Assemblywoman Robin Titus; Assemblyman Glen Leavitt; Assemblyman Jim Wheeler; Senator Carrie Buck; Senator Scott Hammond
-- **Co-sponsors:** Assemblywoman Jill Dickman; Assemblyman John Ellison; Assemblyman Gregory Hafen; Assemblywoman Alexis Hansen; Assemblywoman Melissa Hardy; Assemblywoman Lisa Krasner; Assemblyman Andy Matthews; Assemblyman Richard McArthur; Assemblyman Philip P.K. O’Neill; Assemblyman Tom Roberts
+- **Primary:** Assemblywoman Heidi Kasama (Republican); Assemblywoman Robin Titus (Republican); Assemblyman Glen Leavitt (Republican); Assemblyman Jim Wheeler (Republican); Senator Carrie Buck (Republican); Senator Scott Hammond (Republican)
+- **Co-sponsors:** Assemblywoman Jill Dickman (Republican); Assemblyman John Ellison (Republican); Assemblyman Gregory Hafen (Republican); Assemblywoman Alexis Hansen (Republican); Assemblywoman Melissa Hardy (Republican); Assemblywoman Lisa Krasner (Republican); Assemblyman Andy Matthews (Republican); Assemblyman Richard McArthur (Republican); Assemblyman Philip P.K. O’Neill (Republican); Assemblyman Tom Roberts (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -4199,8 +4199,8 @@ Existing law sets forth certain actions and proceedings concerning the eviction 
 
 ### Sponsors
 
-- **Primary:** Assemblyman Glen Leavitt; Assemblywoman Robin Titus
-- **Co-sponsors:** Assemblyman Edgar Flores; Assemblywoman Elaine Marzola; Assemblyman David Orentlicher; Assemblyman Tom Roberts; Assemblywoman Shondra Summers-Armstrong; Assemblywoman Jill Tolles
+- **Primary:** Assemblyman Glen Leavitt (Republican); Assemblywoman Robin Titus (Republican)
+- **Co-sponsors:** Assemblyman Edgar Flores (Democratic); Assemblywoman Elaine Marzola (Democratic); Assemblyman David Orentlicher (Democratic); Assemblyman Tom Roberts (Republican); Assemblywoman Shondra Summers-Armstrong (Democratic); Assemblywoman Jill Tolles (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -4227,7 +4227,7 @@ Under existing law, a pupil may enroll in a program of distance education provid
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Sandra Jauregui
+- **Primary:** Assemblywoman Sandra Jauregui (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4266,7 +4266,7 @@ Existing law sets forth an approval process for the subdivision of land that req
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Lesley Cohen; Senator James Ohrenschall
+- **Primary:** Assemblywoman Lesley Cohen (Democratic); Senator James Ohrenschall (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4294,7 +4294,7 @@ Existing law sets forth provisions governing parentage and the establishment of 
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Brittney Miller
+- **Primary:** Assemblywoman Brittney Miller (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4333,7 +4333,7 @@ Existing federal law establishes the Free Application for Federal Student A id t
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Sandra Jauregui
+- **Primary:** Assemblywoman Sandra Jauregui (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4372,7 +4372,7 @@ Existing law authorizes a unit -owners’ association for a common -interest com
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Sandra Jauregui
+- **Primary:** Assemblywoman Sandra Jauregui (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4450,7 +4450,7 @@ Existing law requires the Division of Welfare and Supportive Services of the Dep
 
 ### Sponsors
 
-- **Primary:** Assemblyman Glen Leavitt
+- **Primary:** Assemblyman Glen Leavitt (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4478,8 +4478,8 @@ Under existing law, all property of every kind and nature in this State is subje
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Sarah Peters
-- **Co-sponsors:** Assemblywoman Shannon Bilbray-Axelrod; Assemblywoman Selena Torres
+- **Primary:** Assemblywoman Sarah Peters (Democratic)
+- **Co-sponsors:** Assemblywoman Shannon Bilbray-Axelrod (Democratic); Assemblywoman Selena Torres (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -4517,7 +4517,7 @@ Existing law provides that all persons are entitled to the full and equal enjoym
 
 ### Sponsors
 
-- **Primary:** Assemblyman Edgar Flores
+- **Primary:** Assemblyman Edgar Flores (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4595,7 +4595,7 @@ Existing law prescribes various requirements relating to the filing, submission 
 
 ### Sponsors
 
-- **Primary:** Assemblyman Jason Frierson
+- **Primary:** Assemblyman Jason Frierson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4634,8 +4634,8 @@ Existing law authorizes a landlord to charge a reasonable late fee for the late 
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Cecelia González; Assemblyman Howard Watts; Assemblywoman Venicia Considine; Senator Julia Ratti; Senator Fabian Donate; Senator James Ohrenschall
-- **Co-sponsors:** Assemblywoman Natha Anderson; Assemblywoman Bea Duran; Assemblywoman Susie Martinez; Assemblywoman Sarah Peters; Assemblywoman Clara Thomas; Assemblywoman Selena Torres; Senator Moises Denis
+- **Primary:** Assemblywoman Cecelia González (Democratic); Assemblyman Howard Watts (Democratic); Assemblywoman Venicia Considine (Democratic); Senator Julia Ratti (Democratic); Senator Fabian Donate (Democratic); Senator James Ohrenschall (Democratic)
+- **Co-sponsors:** Assemblywoman Natha Anderson (Democratic); Assemblywoman Bea Duran (Democratic); Assemblywoman Susie Martinez (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblywoman Clara Thomas (Democratic); Assemblywoman Selena Torres (Democratic); Senator Moises Denis (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -4662,7 +4662,7 @@ Existing law, commonly referred to as the Nevada Fair Housing Law, prohibits dis
 
 ### Sponsors
 
-- **Primary:** Assemblyman John Ellison
+- **Primary:** Assemblyman John Ellison (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4701,8 +4701,8 @@ Section 1 of this bill provides that persons who complete certain training progr
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Elaine Marzola; Assemblyman Edgar Flores; Assemblywoman Teresa Benitez-Thompson; Assemblyman Howard Watts; Senator Fabian Donate
-- **Co-sponsors:** Assemblywoman Natha Anderson; Assemblywoman Shannon Bilbray-Axelrod; Assemblywoman Venicia Considine; Assemblywoman Bea Duran; Assemblywoman Cecelia González; Assemblywoman Michelle Gorelow; Assemblywoman Susie Martinez; Assemblyman C.H. Miller; Assemblywoman Daniele Monroe-Moreno; Assemblyman David Orentlicher; Assemblywoman Clara Thomas; Assemblywoman Selena Torres; Senator Moises Denis
+- **Primary:** Assemblywoman Elaine Marzola (Democratic); Assemblyman Edgar Flores (Democratic); Assemblywoman Teresa Benitez-Thompson (Democratic); Assemblyman Howard Watts (Democratic); Senator Fabian Donate (Democratic)
+- **Co-sponsors:** Assemblywoman Natha Anderson (Democratic); Assemblywoman Shannon Bilbray-Axelrod (Democratic); Assemblywoman Venicia Considine (Democratic); Assemblywoman Bea Duran (Democratic); Assemblywoman Cecelia González (Democratic); Assemblywoman Michelle Gorelow (Democratic); Assemblywoman Susie Martinez (Democratic); Assemblyman C.H. Miller; Assemblywoman Daniele Monroe-Moreno (Democratic); Assemblyman David Orentlicher (Democratic); Assemblywoman Clara Thomas (Democratic); Assemblywoman Selena Torres (Democratic); Senator Moises Denis (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -4729,7 +4729,7 @@ Existing law authorizes the governing body of a city or county to regulate and r
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Sarah Peters
+- **Primary:** Assemblywoman Sarah Peters (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4757,8 +4757,8 @@ Existing law defines the term “landlord” as a person who provides a dwelling
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Lisa Krasner; Assemblyman Tom Roberts
-- **Co-sponsors:** Assemblyman John Ellison; Assemblywoman Melissa Hardy; Assemblyman Philip P.K. O’Neill
+- **Primary:** Assemblywoman Lisa Krasner (Republican); Assemblyman Tom Roberts (Republican)
+- **Co-sponsors:** Assemblyman John Ellison (Republican); Assemblywoman Melissa Hardy (Republican); Assemblyman Philip P.K. O’Neill (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -4796,8 +4796,8 @@ Existing law prohibits the filing of an action against a governing body, commiss
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Shondra Summers-Armstrong
-- **Co-sponsors:** Assemblywoman Elaine Marzola
+- **Primary:** Assemblywoman Shondra Summers-Armstrong (Democratic)
+- **Co-sponsors:** Assemblywoman Elaine Marzola (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -4824,7 +4824,7 @@ Existing law authorizes the governing body of a city or county to regulate and r
 
 ### Sponsors
 
-- **Primary:** Assemblyman Steve Yeager
+- **Primary:** Assemblyman Steve Yeager (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4863,7 +4863,7 @@ Existing law provides for the licensure and regulation of persons and establishm
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Clara Thomas
+- **Primary:** Assemblywoman Clara Thomas (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4902,7 +4902,7 @@ Existing law authorizes the establishment of regional transportation commissions
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Melissa Hardy; Assemblyman Glen Leavitt
+- **Primary:** Assemblywoman Melissa Hardy (Republican); Assemblyman Glen Leavitt (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -4930,7 +4930,7 @@ Section 3 of this bill requires the Director of the State Department of Agricult
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Rochelle Nguyen; Assemblyman Tom Roberts
+- **Primary:** Assemblywoman Rochelle Nguyen (Democratic); Assemblyman Tom Roberts (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -5008,8 +5008,8 @@ Existing law creates the State Land Office for the purpose of sel ecting and dis
 
 ### Sponsors
 
-- **Primary:** Assemblyman Howard Watts; Assemblywoman Brittney Miller; Assemblywoman Natha Anderson; Assemblywoman Venicia Considine; Assemblywoman Rochelle Nguyen
-- **Co-sponsors:** Assemblywoman Shannon Bilbray-Axelrod; Assemblywoman Susie Martinez; Assemblywoman Sarah Peters; Assemblywoman Selena Torres
+- **Primary:** Assemblyman Howard Watts (Democratic); Assemblywoman Brittney Miller (Democratic); Assemblywoman Natha Anderson (Democratic); Assemblywoman Venicia Considine (Democratic); Assemblywoman Rochelle Nguyen (Democratic)
+- **Co-sponsors:** Assemblywoman Shannon Bilbray-Axelrod (Democratic); Assemblywoman Susie Martinez (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblywoman Selena Torres (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -5036,7 +5036,7 @@ Existing law authorizes the Commissioner of Financial Institutions to supervise 
 
 ### Sponsors
 
-- **Primary:** Assemblyman Howard Watts; Assemblywoman Tracy Brown-May
+- **Primary:** Assemblyman Howard Watts (Democratic); Assemblywoman Tracy Brown-May (Democratic)
 - **Co-sponsors:** Assemblyman C.H. Miller
 
 ### What the bill does (NELIS digest)
@@ -5075,7 +5075,7 @@ Sections 2-30 of this bill establish definitions for terms related to the energy
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Natha Anderson
+- **Primary:** Assemblywoman Natha Anderson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -5142,7 +5142,7 @@ Under existing law, the maximum permissible height of a vehicle operating on any
 
 ### Sponsors
 
-- **Primary:** Assemblyman Philip P.K. O’Neill
+- **Primary:** Assemblyman Philip P.K. O’Neill (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -5209,7 +5209,7 @@ Section 20 of this bill requires a person to obtain a license from the Departmen
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Teresa Benitez-Thompson
+- **Primary:** Assemblywoman Teresa Benitez-Thompson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -5432,7 +5432,7 @@ Existing law requires the Director of the Department of Veterans Services to pro
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Rochelle Nguyen; Assemblyman Tom Roberts
+- **Primary:** Assemblywoman Rochelle Nguyen (Democratic); Assemblyman Tom Roberts (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -5471,7 +5471,7 @@ Existing law sets forth a procedure for the vacation or abandonment of streets a
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Teresa Benitez-Thompson
+- **Primary:** Assemblywoman Teresa Benitez-Thompson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -5527,8 +5527,8 @@ Existing law authorizes a board of county commissioners of a county whose popula
 
 ### Sponsors
 
-- **Primary:** Senator Keith Pickard; Senator Joseph Hardy; Senator Carrie Buck
-- **Co-sponsors:** Senator Pete Goicoechea; Senator Scott Hammond; Senator Ben Kieckhefer; Senator Heidi Seevers Gansert; Senator James Settelmeyer; Assemblyman Gregory Hafen
+- **Primary:** Senator Keith Pickard (Republican); Senator Joseph Hardy (Republican); Senator Carrie Buck (Republican)
+- **Co-sponsors:** Senator Pete Goicoechea (Republican); Senator Scott Hammond (Republican); Senator Ben Kieckhefer (Republican); Senator Heidi Seevers Gansert (Republican); Senator James Settelmeyer (Republican); Assemblyman Gregory Hafen (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -5594,8 +5594,8 @@ Existing federal law establishes a federal income tax credit in an amount equal 
 
 ### Sponsors
 
-- **Primary:** Senator Keith Pickard; Senator James Settelmeyer
-- **Co-sponsors:** Senator Carrie Buck; Senator Pete Goicoechea; Senator Scott Hammond; Senator Joseph Hardy; Assemblyman John Ellison
+- **Primary:** Senator Keith Pickard (Republican); Senator James Settelmeyer (Republican)
+- **Co-sponsors:** Senator Carrie Buck (Republican); Senator Pete Goicoechea (Republican); Senator Scott Hammond (Republican); Senator Joseph Hardy (Republican); Assemblyman John Ellison (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -5622,7 +5622,7 @@ Existing law requires obligations for the support of children to be determined i
 
 ### Sponsors
 
-- **Primary:** Senator Roberta Lange; Senator Keith Pickard
+- **Primary:** Senator Roberta Lange (Democratic); Senator Keith Pickard (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -5661,8 +5661,8 @@ Existing law gives certain powers to a city or county that enacts an ordinance f
 
 ### Sponsors
 
-- **Primary:** Senator Dallas Harris; Senator Fabian Donate; Senator Carrie Buck
-- **Co-sponsors:** Senator Moises Denis; Senator Roberta Lange
+- **Primary:** Senator Dallas Harris (Democratic); Senator Fabian Donate (Democratic); Senator Carrie Buck (Republican)
+- **Co-sponsors:** Senator Moises Denis (Democratic); Senator Roberta Lange (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -5700,7 +5700,7 @@ Existing law authorizes a governing bod y to divide the city, county or region i
 
 ### Sponsors
 
-- **Primary:** Senator Julia Ratti
+- **Primary:** Senator Julia Ratti (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -5728,8 +5728,8 @@ Existing law establishes various procedures related to nonjudicial foreclosure s
 
 ### Sponsors
 
-- **Primary:** Senator Fabian Donate
-- **Co-sponsors:** Senator Melanie Scheible; Assemblyman Edgar Flores; Assemblywoman Cecelia González; Assemblywoman Selena Torres
+- **Primary:** Senator Fabian Donate (Democratic)
+- **Co-sponsors:** Senator Melanie Scheible (Democratic); Assemblyman Edgar Flores (Democratic); Assemblywoman Cecelia González (Democratic); Assemblywoman Selena Torres (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -5756,7 +5756,7 @@ Existing law authorizes the Department of Transportation to designate a lane on 
 
 ### Sponsors
 
-- **Primary:** Senator Pat Spearman
+- **Primary:** Senator Pat Spearman (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -5784,7 +5784,7 @@ Existing law prohibits the Department of Corrections and private facilities and 
 
 ### Sponsors
 
-- **Primary:** Senator Pat Spearman
+- **Primary:** Senator Pat Spearman (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -5823,8 +5823,8 @@ The Oregon Individual Development Account Initiative program allows certain pers
 
 ### Sponsors
 
-- **Primary:** Senator Keith Pickard; Senator Joseph Hardy; Senator Carrie Buck
-- **Co-sponsors:** Senator Scott Hammond; Senator Ira Hansen; Senator Heidi Seevers Gansert; Senator James Settelmeyer; Assemblywoman Melissa Hardy
+- **Primary:** Senator Keith Pickard (Republican); Senator Joseph Hardy (Republican); Senator Carrie Buck (Republican)
+- **Co-sponsors:** Senator Scott Hammond (Republican); Senator Ira Hansen (Republican); Senator Heidi Seevers Gansert (Republican); Senator James Settelmeyer (Republican); Assemblywoman Melissa Hardy (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -5851,7 +5851,7 @@ Existing law creates the State Apprenticeship Council which administers the prov
 
 ### Sponsors
 
-- **Primary:** Senator Julia Ratti
+- **Primary:** Senator Julia Ratti (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -5879,7 +5879,7 @@ Existing law provides that a landlord may require a tenant to pay security, defi
 
 ### Sponsors
 
-- **Primary:** Senator Marilyn Dondero Loop
+- **Primary:** Senator Marilyn Dondero Loop (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -5918,7 +5918,7 @@ The federal National Apprenticeship Act of 1937 authorizes and directs the Unite
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal
+- **Primary:** Senator Dina Neal (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -5957,8 +5957,8 @@ Existing law creates the Nevada Equal Rights Commission. (NRS 233.030) The Commi
 
 ### Sponsors
 
-- **Primary:** Senator Keith Pickard
-- **Co-sponsors:** Senator Carrie Buck; Senator Pete Goicoechea; Senator Joseph Hardy
+- **Primary:** Senator Keith Pickard (Republican)
+- **Co-sponsors:** Senator Carrie Buck (Republican); Senator Pete Goicoechea (Republican); Senator Joseph Hardy (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -6013,7 +6013,7 @@ Existing law makes the Superintendent of Public Instruction the educational lead
 
 ### Sponsors
 
-- **Primary:** Senator Scott Hammond
+- **Primary:** Senator Scott Hammond (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6041,7 +6041,7 @@ Existing law requires a midwife to perform certain duties relating to reporting 
 
 ### Sponsors
 
-- **Primary:** Senator Scott Hammond
+- **Primary:** Senator Scott Hammond (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6069,7 +6069,7 @@ Under existing law, the governing body of any county or incorporated city is aut
 
 ### Sponsors
 
-- **Primary:** Senator Melanie Scheible
+- **Primary:** Senator Melanie Scheible (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6097,7 +6097,7 @@ Existing law creates the Real Estate Commission, consisting of five members who 
 
 ### Sponsors
 
-- **Primary:** Senator Chris Brooks
+- **Primary:** Senator Chris Brooks (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6136,7 +6136,7 @@ Existing law sets forth the procedures for the governing body of a municipality 
 
 ### Sponsors
 
-- **Primary:** Senator Julia Ratti
+- **Primary:** Senator Julia Ratti (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6175,7 +6175,7 @@ Existing law authorizes the Housing Division of the Department of Business and I
 
 ### Sponsors
 
-- **Primary:** Senator Pat Spearman
+- **Primary:** Senator Pat Spearman (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6214,7 +6214,7 @@ Existing law requires the planning commission of a city o r county to prepare a 
 
 ### Sponsors
 
-- **Primary:** Senator Julia Ratti
+- **Primary:** Senator Julia Ratti (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6253,7 +6253,7 @@ Existing law authorizes the Nevada Rural Housing Authority to prepare, carry out
 
 ### Sponsors
 
-- **Primary:** Senator Carrie Buck; Senator Ira Hansen
+- **Primary:** Senator Carrie Buck (Republican); Senator Ira Hansen (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6281,7 +6281,7 @@ Existing law requires a board of county commissioners and the governing body of 
 
 ### Sponsors
 
-- **Primary:** Senator James Ohrenschall
+- **Primary:** Senator James Ohrenschall (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6348,8 +6348,8 @@ Existing law authorizes the State Forester Firewarden to negotiate with and ente
 
 ### Sponsors
 
-- **Primary:** Senator Keith Pickard; Senator James Settelmeyer
-- **Co-sponsors:** Senator Carrie Buck; Senator Joseph Hardy
+- **Primary:** Senator Keith Pickard (Republican); Senator James Settelmeyer (Republican)
+- **Co-sponsors:** Senator Carrie Buck (Republican); Senator Joseph Hardy (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -6376,8 +6376,8 @@ Existing law generally authorizes a unit-owners' association of a common-interes
 
 ### Sponsors
 
-- **Primary:** Senator Keith Pickard; Senator Ira Hansen; Senator Joseph Hardy
-- **Co-sponsors:** Senator Carrie Buck
+- **Primary:** Senator Keith Pickard (Republican); Senator Ira Hansen (Republican); Senator Joseph Hardy (Republican)
+- **Co-sponsors:** Senator Carrie Buck (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -6404,8 +6404,8 @@ Existing law authorizes the board of trustees of a school district to make vario
 
 ### Sponsors
 
-- **Primary:** Senator James Ohrenschall
-- **Co-sponsors:** Senator Melanie Scheible
+- **Primary:** Senator James Ohrenschall (Democratic)
+- **Co-sponsors:** Senator Melanie Scheible (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -6577,7 +6577,7 @@ This bill requires the Department of Corrections and the Division of Child and F
 
 ### Sponsors
 
-- **Primary:** Senator Keith Pickard
+- **Primary:** Senator Keith Pickard (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6633,7 +6633,7 @@ Existing law provides for the registration and regulation of providers of servic
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal; Assemblywoman Daniele Monroe-Moreno
+- **Primary:** Senator Dina Neal (Democratic); Assemblywoman Daniele Monroe-Moreno (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6739,7 +6739,7 @@ Existing law authorizes the governing body of a municipality to designate a tax 
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Danielle Gallant
+- **Primary:** Assemblywoman Danielle Gallant (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6767,8 +6767,8 @@ Existing law requires the unit-owners' association of a common-interest communit
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Tracy Brown-May
-- **Co-sponsors:** Assemblywoman Cecelia González; Assemblywoman Michelle Gorelow; Assemblyman Ken Gray; Assemblywoman Sabra Newby; Assemblyman Duy Nguyen; Assemblyman David Orentlicher; Assemblywoman Sarah Peters; Assemblywoman Angie Taylor; Assemblywoman Clara Thomas
+- **Primary:** Assemblywoman Tracy Brown-May (Democratic)
+- **Co-sponsors:** Assemblywoman Cecelia González (Democratic); Assemblywoman Michelle Gorelow (Democratic); Assemblyman Ken Gray (Republican); Assemblywoman Sabra Newby (Democratic); Assemblyman Duy Nguyen (Democratic); Assemblyman David Orentlicher (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblywoman Angie Taylor (Democratic); Assemblywoman Clara Thomas (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -6806,7 +6806,7 @@ Existing law requires the testing of newborn children and persons who are pregna
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Melissa Hardy
+- **Primary:** Assemblywoman Melissa Hardy (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6834,7 +6834,7 @@ Existing law sets forth specific requirements for various types of insurance pol
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Sandra Jauregui
+- **Primary:** Assemblywoman Sandra Jauregui (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6873,8 +6873,8 @@ Existing federal law establishes the Medicare program, which is a public health 
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Lesley Cohen; Assemblyman Howard Watts
-- **Co-sponsors:** Assemblywoman Natha Anderson; Assemblywoman Sabra Newby; Assemblywoman Sarah Peters
+- **Primary:** Assemblywoman Lesley Cohen (Democratic); Assemblyman Howard Watts (Democratic)
+- **Co-sponsors:** Assemblywoman Natha Anderson (Democratic); Assemblywoman Sabra Newby (Democratic); Assemblywoman Sarah Peters (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -6951,7 +6951,7 @@ Existing law requires the State Board of Health to provide, and the State Regist
 
 ### Sponsors
 
-- **Primary:** Assemblyman Philip PK O’Neill
+- **Primary:** Assemblyman Philip PK O’Neill (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -6990,7 +6990,7 @@ Existing law sets forth certain procedures for a board of county commissioners t
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Elaine Marzola
+- **Primary:** Assemblywoman Elaine Marzola (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7029,8 +7029,8 @@ Upon the filing of a petition that a child is in need of protection, existing la
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Cecelia González; Assemblywoman Shondra Summers-Armstrong; Senator Fabian Doñate
-- **Co-sponsors:** Assemblyman David Orentlicher; Senator Dina Neal
+- **Primary:** Assemblywoman Cecelia González (Democratic); Assemblywoman Shondra Summers-Armstrong (Democratic); Senator Fabian Doñate (Democratic)
+- **Co-sponsors:** Assemblyman David Orentlicher (Democratic); Senator Dina Neal (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -7057,8 +7057,8 @@ Existing law provides that: (1) any provision in a written instrument relating t
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Erica Mosca
-- **Co-sponsors:** Senator Carrie Buck
+- **Primary:** Assemblywoman Erica Mosca (Democratic)
+- **Co-sponsors:** Senator Carrie Buck (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -7096,7 +7096,7 @@ Existing law authorizes a charter school to give preference in enrollment to cer
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Heidi Kasama
+- **Primary:** Assemblywoman Heidi Kasama (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7124,8 +7124,8 @@ Existing law requires the Secretary of State to prescribe standard and special f
 
 ### Sponsors
 
-- **Primary:** Assemblyman Ken Gray; Assemblywoman Jill Dickman
-- **Co-sponsors:** Assemblyman Rich DeLong; Assemblywoman Danielle Gallant; Assemblyman Bert Gurr; Assemblyman Gregory Hafen; Assemblywoman Alexis Hansen; Assemblywoman Melissa Hardy; Assemblyman Brian Hibbetts; Assemblyman Gregory Koenig; Assemblyman Philip PK O’Neill; Assemblyman Toby Yurek
+- **Primary:** Assemblyman Ken Gray (Republican); Assemblywoman Jill Dickman (Republican)
+- **Co-sponsors:** Assemblyman Rich DeLong (Republican); Assemblywoman Danielle Gallant (Republican); Assemblyman Bert Gurr (Republican); Assemblyman Gregory Hafen (Republican); Assemblywoman Alexis Hansen (Republican); Assemblywoman Melissa Hardy (Republican); Assemblyman Brian Hibbetts (Republican); Assemblyman Gregory Koenig (Republican); Assemblyman Philip PK O’Neill (Republican); Assemblyman Toby Yurek (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -7152,7 +7152,7 @@ Sections 2-5 of this bill establish the Nevada Child Adoption Grant Program. Sec
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Sandra Jauregui
+- **Primary:** Assemblywoman Sandra Jauregui (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7191,8 +7191,8 @@ Existing law requires the governing body of certain cities or counties to includ
 
 ### Sponsors
 
-- **Primary:** Assemblyman Howard Watts; Assemblywoman Cecelia González; Assemblywoman Natha Anderson; Assemblywoman Venicia Considine; Assemblyman Cameron Miller; Senator Edgar Flores; Senator Fabian Doñate; Senator Dina Neal
-- **Co-sponsors:** Assemblywoman Shea Backus; Assemblywoman Shannon Bilbray-Axelrod; Assemblywoman Tracy Brown-May; Assemblyman Max Carter; Assemblywoman Lesley Cohen; Assemblyman Reuben D'Silva; Assemblywoman Michelle Gorelow; Assemblywoman Selena La Rue Hatch; Assemblywoman Erica Mosca; Assemblywoman Sarah Peters; Assemblywoman Shondra Summers-Armstrong; Assemblywoman Angie Taylor; Assemblywoman Clara Thomas; Assemblywoman Selena Torres; Senator Roberta Lange; Senator Rochelle Nguyen; Senator Julie Pazina
+- **Primary:** Assemblyman Howard Watts (Democratic); Assemblywoman Cecelia González (Democratic); Assemblywoman Natha Anderson (Democratic); Assemblywoman Venicia Considine (Democratic); Assemblyman Cameron Miller (Democratic); Senator Edgar Flores (Democratic); Senator Fabian Doñate (Democratic); Senator Dina Neal (Democratic)
+- **Co-sponsors:** Assemblywoman Shea Backus (Democratic); Assemblywoman Shannon Bilbray-Axelrod (Democratic); Assemblywoman Tracy Brown-May (Democratic); Assemblyman Max Carter (Democratic); Assemblywoman Lesley Cohen (Democratic); Assemblyman Reuben D'Silva (Democratic); Assemblywoman Michelle Gorelow (Democratic); Assemblywoman Selena La Rue Hatch (Democratic); Assemblywoman Erica Mosca (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblywoman Shondra Summers-Armstrong (Democratic); Assemblywoman Angie Taylor (Democratic); Assemblywoman Clara Thomas (Democratic); Assemblywoman Selena Torres (Democratic); Senator Roberta Lange (Democratic); Senator Rochelle Nguyen (Democratic); Senator Julie Pazina (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -7219,7 +7219,7 @@ Existing law authorizes the Board of Regents of the University of Nevada to gran
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Venicia Considine
+- **Primary:** Assemblywoman Venicia Considine (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7297,7 +7297,7 @@ Under existing law, a district board of health may adopt regulations to control 
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Shea Backus
+- **Primary:** Assemblywoman Shea Backus (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7336,8 +7336,8 @@ Existing law contains the Uniform Commercial Code, which is a set of uniform law
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Selena Torres; Assemblywoman Bea Duran; Assemblywoman Cecelia González; Senator Edgar Flores; Senator Fabian Doñate
-- **Co-sponsors:** Assemblyman Reuben D'Silva; Assemblywoman Brittney Miller; Assemblyman Duy Nguyen; Senator Rochelle Nguyen
+- **Primary:** Assemblywoman Selena Torres (Democratic); Assemblywoman Bea Duran (Democratic); Assemblywoman Cecelia González (Democratic); Senator Edgar Flores (Democratic); Senator Fabian Doñate (Democratic)
+- **Co-sponsors:** Assemblyman Reuben D'Silva (Democratic); Assemblywoman Brittney Miller (Democratic); Assemblyman Duy Nguyen (Democratic); Senator Rochelle Nguyen (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -7375,8 +7375,8 @@ Existing law requires the head of each agency of the Executive Department of the
 
 ### Sponsors
 
-- **Primary:** Assemblyman Reuben D'Silva; Assemblyman Ken Gray; Assemblywoman Clara Thomas; Senator Pat Spearman; Senator Edgar Flores; Senator Roberta Lange
-- **Co-sponsors:** Assemblywoman Shannon Bilbray-Axelrod; Assemblywoman Danielle Gallant; Assemblyman Bert Gurr; Assemblywoman Selena La Rue Hatch; Assemblyman Richard McArthur; Assemblywoman Erica Mosca; Assemblywoman Shondra Summers-Armstrong; Assemblywoman Angie Taylor; Assemblywoman Selena Torres
+- **Primary:** Assemblyman Reuben D'Silva (Democratic); Assemblyman Ken Gray (Republican); Assemblywoman Clara Thomas (Democratic); Senator Pat Spearman (Democratic); Senator Edgar Flores (Democratic); Senator Roberta Lange (Democratic)
+- **Co-sponsors:** Assemblywoman Shannon Bilbray-Axelrod (Democratic); Assemblywoman Danielle Gallant (Republican); Assemblyman Bert Gurr (Republican); Assemblywoman Selena La Rue Hatch (Democratic); Assemblyman Richard McArthur (Republican); Assemblywoman Erica Mosca (Democratic); Assemblywoman Shondra Summers-Armstrong (Democratic); Assemblywoman Angie Taylor (Democratic); Assemblywoman Selena Torres (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -7414,7 +7414,7 @@ Existing law authorizes the Board of Regents to grant a waiver of registration a
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Heidi Kasama
+- **Primary:** Assemblywoman Heidi Kasama (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7442,7 +7442,7 @@ Existing law requires an applicant for a license as a mortgage company to state 
 
 ### Sponsors
 
-- **Primary:** Assemblyman David Orentlicher
+- **Primary:** Assemblyman David Orentlicher (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7470,7 +7470,7 @@ Existing law requires the Department of Health and Human Services to administer 
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Sandra Jauregui
+- **Primary:** Assemblywoman Sandra Jauregui (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7509,7 +7509,7 @@ Existing law sets forth certain requirements relating to a written rental agreem
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Natha Anderson
+- **Primary:** Assemblywoman Natha Anderson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7548,8 +7548,8 @@ Existing law authorizes the Department of Motor Vehicles to issue special licens
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Daniele Monroe-Moreno
-- **Co-sponsors:** Assemblywoman Venicia Considine; Assemblywoman Clara Thomas
+- **Primary:** Assemblywoman Daniele Monroe-Moreno (Democratic)
+- **Co-sponsors:** Assemblywoman Venicia Considine (Democratic); Assemblywoman Clara Thomas (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -7587,7 +7587,7 @@ Existing law requires a contractor or subcontractor e ngaged in: (1) vertical co
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Daniele Monroe-Moreno
+- **Primary:** Assemblywoman Daniele Monroe-Moreno (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7626,8 +7626,8 @@ Existing law charges the Housing Division of the Department of Business and Indu
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Danielle Gallant; Assemblywoman Angie Taylor
-- **Co-sponsors:** Assemblyman Rich DeLong; Assemblywoman Jill Dickman; Assemblyman Ken Gray; Assemblyman Duy Nguyen; Senator Jeff Stone
+- **Primary:** Assemblywoman Danielle Gallant (Republican); Assemblywoman Angie Taylor (Democratic)
+- **Co-sponsors:** Assemblyman Rich DeLong (Republican); Assemblywoman Jill Dickman (Republican); Assemblyman Ken Gray (Republican); Assemblyman Duy Nguyen (Democratic); Senator Jeff Stone (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -7693,7 +7693,7 @@ Existing law creates the Department of Sentencin g Policy (hereinafter “Depart
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Venicia Considine
+- **Primary:** Assemblywoman Venicia Considine (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7721,8 +7721,8 @@ Existing law provides for the licensure and regulation of real estate brokers, r
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Sarah Peters; Assemblyman Howard Watts; Assemblyman Duy Nguyen; Assemblywoman Selena Torres
-- **Co-sponsors:** Assemblywoman Natha Anderson; Assemblyman Max Carter; Assemblywoman Michelle Gorelow; Assemblyman Gregory Koenig; Assemblywoman Selena La Rue Hatch; Assemblywoman Erica Mosca; Assemblywoman Sabra Newby; Assemblywoman Angie Taylor; Senator Rochelle Nguyen
+- **Primary:** Assemblywoman Sarah Peters (Democratic); Assemblyman Howard Watts (Democratic); Assemblyman Duy Nguyen (Democratic); Assemblywoman Selena Torres (Democratic)
+- **Co-sponsors:** Assemblywoman Natha Anderson (Democratic); Assemblyman Max Carter (Democratic); Assemblywoman Michelle Gorelow (Democratic); Assemblyman Gregory Koenig (Republican); Assemblywoman Selena La Rue Hatch (Democratic); Assemblywoman Erica Mosca (Democratic); Assemblywoman Sabra Newby (Democratic); Assemblywoman Angie Taylor (Democratic); Senator Rochelle Nguyen (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -7760,7 +7760,7 @@ Existing law authorizes the Commissioner of Financial Institutions to supervise 
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Bea Duran
+- **Primary:** Assemblywoman Bea Duran (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7799,8 +7799,8 @@ Existing law creates local housing authorities and the Nevada Rural Housing Auth
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Shondra Summers-Armstrong
-- **Co-sponsors:** Assemblywoman Tracy Brown-May; Assemblywoman Bea Duran; Assemblywoman Michelle Gorelow; Assemblywoman Sabra Newby; Assemblyman David Orentlicher; Assemblywoman Sarah Peters; Assemblywoman Clara Thomas; Assemblywoman Selena Torres; Assemblyman Howard Watts
+- **Primary:** Assemblywoman Shondra Summers-Armstrong (Democratic)
+- **Co-sponsors:** Assemblywoman Tracy Brown-May (Democratic); Assemblywoman Bea Duran (Democratic); Assemblywoman Michelle Gorelow (Democratic); Assemblywoman Sabra Newby (Democratic); Assemblyman David Orentlicher (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblywoman Clara Thomas (Democratic); Assemblywoman Selena Torres (Democratic); Assemblyman Howard Watts (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -7838,7 +7838,7 @@ In general, existing law authorizes a landlord who seeks to recover possession o
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Venicia Considine
+- **Primary:** Assemblywoman Venicia Considine (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7866,8 +7866,8 @@ Existing law imposes an annual commerce tax on each business entity whose gross 
 
 ### Sponsors
 
-- **Primary:** Assemblyman Reuben D'Silva
-- **Co-sponsors:** Assemblywoman Shannon Bilbray-Axelrod
+- **Primary:** Assemblyman Reuben D'Silva (Democratic)
+- **Co-sponsors:** Assemblywoman Shannon Bilbray-Axelrod (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -7894,7 +7894,7 @@ Section 3 of this bill imposes on the Department of Education and the board of t
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Clara Thomas
+- **Primary:** Assemblywoman Clara Thomas (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -7961,8 +7961,8 @@ Existing law establishes the Keep Nevada Working Act and creat es the Keep Nevad
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Lesley Cohen; Assemblywoman Shea Backus; Senator James Ohrenschall
-- **Co-sponsors:** Assemblywoman Shannon Bilbray-Axelrod
+- **Primary:** Assemblywoman Lesley Cohen (Democratic); Assemblywoman Shea Backus (Democratic); Senator James Ohrenschall (Democratic)
+- **Co-sponsors:** Assemblywoman Shannon Bilbray-Axelrod (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -8035,7 +8035,7 @@ AN ACT making appropriations to Clark County and the Cities of Reno and Sparks f
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Michelle Gorelow
+- **Primary:** Assemblywoman Michelle Gorelow (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8063,7 +8063,7 @@ Existing law requires the State Board of Health to adopt licensing standards and
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Shea Backus
+- **Primary:** Assemblywoman Shea Backus (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8102,7 +8102,7 @@ Existing law sets forth provisions g overning durable powers of attorney for hea
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Angie Taylor
+- **Primary:** Assemblywoman Angie Taylor (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8141,7 +8141,7 @@ Existing law creates the Board of Dispensing Opticians to regulate the p ractice
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Shondra Summers-Armstrong
+- **Primary:** Assemblywoman Shondra Summers-Armstrong (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8197,7 +8197,7 @@ Existing law requires each electric utility in this State to offer net metering 
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Shea Backus
+- **Primary:** Assemblywoman Shea Backus (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8236,7 +8236,7 @@ The federal Indian Child Welfare Act, 25 U.S.C. §§ 1901 et seq., was enacted i
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Natha Anderson
+- **Primary:** Assemblywoman Natha Anderson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8264,7 +8264,7 @@ Existing law makes the rent owed by a tenant to a landlord payable without deman
 
 ### Sponsors
 
-- **Primary:** Assemblyman Steve Yeager; Assemblywoman Sandra Jauregui
+- **Primary:** Assemblyman Steve Yeager (Democratic); Assemblywoman Sandra Jauregui (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8303,7 +8303,7 @@ Existing law provides for the imposition of taxes on transfers of real property.
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Venicia Considine
+- **Primary:** Assemblywoman Venicia Considine (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8437,7 +8437,7 @@ Section 1 of this bill requires the Governor to certify the amount of money auth
 
 ### Sponsors
 
-- **Primary:** Assemblyman Steve Yeager
+- **Primary:** Assemblyman Steve Yeager (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8554,7 +8554,7 @@ Existing law exempts from property taxes the portion of real property and tangib
 
 ### Sponsors
 
-- **Primary:** Assemblywoman Melissa Hardy
+- **Primary:** Assemblywoman Melissa Hardy (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8593,7 +8593,7 @@ Under exi sting law, subject to certain limitations, the governing body of any c
 
 ### Sponsors
 
-- **Primary:** Senator Carrie Buck
+- **Primary:** Senator Carrie Buck (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8621,8 +8621,8 @@ This bill provides that a person is guilty of the crime of targeted residential 
 
 ### Sponsors
 
-- **Primary:** Senator Dallas Harris; Senator Melanie Scheible; Senator Edgar Flores; Senator Fabian Doñate; Senator James Ohrenschall
-- **Co-sponsors:** Senator Skip Daly; Senator Roberta Lange
+- **Primary:** Senator Dallas Harris (Democratic); Senator Melanie Scheible (Democratic); Senator Edgar Flores (Democratic); Senator Fabian Doñate (Democratic); Senator James Ohrenschall (Democratic)
+- **Co-sponsors:** Senator Skip Daly (Democratic); Senator Roberta Lange (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -8649,7 +8649,7 @@ This bill enacts the Homeless Persons' Bill of Rights. Section 3 of this bill re
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal
+- **Primary:** Senator Dina Neal (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8677,7 +8677,7 @@ Existing law creates the Nevada Equal Rights Commission within the Department of
 
 ### Sponsors
 
-- **Primary:** Senator James Ohrenschall
+- **Primary:** Senator James Ohrenschall (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8794,7 +8794,7 @@ Existing law requires the planning commission of a city, county or region, as ap
 
 ### Sponsors
 
-- **Primary:** Senator Scott Hammond
+- **Primary:** Senator Scott Hammond (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8833,8 +8833,8 @@ Existing law requires the Nevada Interscholastic Activities Association to adopt
 
 ### Sponsors
 
-- **Primary:** Senator Fabian Doñate; Assemblywoman Bea Duran; Assemblywoman Selena Torres
-- **Co-sponsors:** Senator Dina Neal; Senator Jeff Stone; Assemblywoman Cecelia González; Assemblyman David Orentlicher
+- **Primary:** Senator Fabian Doñate (Democratic); Assemblywoman Bea Duran (Democratic); Assemblywoman Selena Torres (Democratic)
+- **Co-sponsors:** Senator Dina Neal (Democratic); Senator Jeff Stone (Republican); Assemblywoman Cecelia González (Democratic); Assemblyman David Orentlicher (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -8928,7 +8928,7 @@ Existing law authorizes, under certain circumstances, a board of county commissi
 
 ### Sponsors
 
-- **Primary:** Senator Dallas Harris
+- **Primary:** Senator Dallas Harris (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -8967,7 +8967,7 @@ Existing law provides that in an action for the foreclosure of a mortgage upon r
 
 ### Sponsors
 
-- **Primary:** Senator Nicole Cannizzaro; Assemblyman Steve Yeager
+- **Primary:** Senator Nicole Cannizzaro (Democratic); Assemblyman Steve Yeager (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -9006,8 +9006,8 @@ Existing law provides that every contract to which a public body of this State i
 
 ### Sponsors
 
-- **Primary:** Senator Pat Spearman; Assemblywoman Cecelia González
-- **Co-sponsors:** Senator Dallas Harris; Senator Melanie Scheible; Assemblyman Reuben D'Silva; Assemblywoman Angie Taylor
+- **Primary:** Senator Pat Spearman (Democratic); Assemblywoman Cecelia González (Democratic)
+- **Co-sponsors:** Senator Dallas Harris (Democratic); Senator Melanie Scheible (Democratic); Assemblyman Reuben D'Silva (Democratic); Assemblywoman Angie Taylor (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -9034,7 +9034,7 @@ Section 1 of this bill defines the term “symbol of hate” to mean a symbol, i
 
 ### Sponsors
 
-- **Primary:** Senator Nicole Cannizzaro
+- **Primary:** Senator Nicole Cannizzaro (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -9140,8 +9140,8 @@ Existing law requires the board of county commissioners and the city council of 
 
 ### Sponsors
 
-- **Primary:** Senator Roberta Lange; Senator Scott Hammond; Senator Pat Spearman
-- **Co-sponsors:** Senator Skip Daly; Senator Fabian Doñate; Senator Marilyn Dondero Loop; Senator Dallas Harris; Senator James Ohrenschall; Senator Melanie Scheible; Assemblyman Duy Nguyen
+- **Primary:** Senator Roberta Lange (Democratic); Senator Scott Hammond (Republican); Senator Pat Spearman (Democratic)
+- **Co-sponsors:** Senator Skip Daly (Democratic); Senator Fabian Doñate (Democratic); Senator Marilyn Dondero Loop (Democratic); Senator Dallas Harris (Democratic); Senator James Ohrenschall (Democratic); Senator Melanie Scheible (Democratic); Assemblyman Duy Nguyen (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -9179,8 +9179,8 @@ Existing law provides for the licensure and regulation by the State Board of Cos
 
 ### Sponsors
 
-- **Primary:** Senator Marilyn Dondero Loop; Senator Fabian Doñate
-- **Co-sponsors:** Senator Nicole Cannizzaro; Senator Skip Daly; Senator Edgar Flores; Senator Roberta Lange; Senator Julie Pazina; Assemblywoman Natha Anderson
+- **Primary:** Senator Marilyn Dondero Loop (Democratic); Senator Fabian Doñate (Democratic)
+- **Co-sponsors:** Senator Nicole Cannizzaro (Democratic); Senator Skip Daly (Democratic); Senator Edgar Flores (Democratic); Senator Roberta Lange (Democratic); Senator Julie Pazina (Democratic); Assemblywoman Natha Anderson (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -9218,8 +9218,8 @@ Existing law requires a person to obtain a license from the State Board of Healt
 
 ### Sponsors
 
-- **Primary:** Senator Skip Daly
-- **Co-sponsors:** Senator Fabian Doñate; Senator Marilyn Dondero Loop; Senator Edgar Flores; Senator Dallas Harris; Senator Roberta Lange; Senator Dina Neal; Senator James Ohrenschall; Senator Melanie Scheible; Senator Pat Spearman
+- **Primary:** Senator Skip Daly (Democratic)
+- **Co-sponsors:** Senator Fabian Doñate (Democratic); Senator Marilyn Dondero Loop (Democratic); Senator Edgar Flores (Democratic); Senator Dallas Harris (Democratic); Senator Roberta Lange (Democratic); Senator Dina Neal (Democratic); Senator James Ohrenschall (Democratic); Senator Melanie Scheible (Democratic); Senator Pat Spearman (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -9257,7 +9257,7 @@ Existing law establishe s certain requirements relating to manufactured home par
 
 ### Sponsors
 
-- **Primary:** Senator Rochelle Nguyen
+- **Primary:** Senator Rochelle Nguyen (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -9335,8 +9335,8 @@ Existing law provides that a taxpayer is entitled to receive interest on any ref
 
 ### Sponsors
 
-- **Primary:** Senator Fabian Doñate
-- **Co-sponsors:** Senator Skip Daly
+- **Primary:** Senator Fabian Doñate (Democratic)
+- **Co-sponsors:** Senator Skip Daly (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -9374,7 +9374,7 @@ Existing law imposes certain requirements on solar installation compani es that 
 
 ### Sponsors
 
-- **Primary:** Senator Pat Spearman
+- **Primary:** Senator Pat Spearman (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -9441,8 +9441,8 @@ Existing law authorizes a cannabis establishment to move to a new location under
 
 ### Sponsors
 
-- **Primary:** Senator Melanie Scheible; Senator Pat Spearman; Senator Fabian Doñate; Senator Dina Neal; Senator Dallas Harris
-- **Co-sponsors:** Senator Skip Daly; Senator Roberta Lange; Senator James Ohrenschall; Senator Julie Pazina
+- **Primary:** Senator Melanie Scheible (Democratic); Senator Pat Spearman (Democratic); Senator Fabian Doñate (Democratic); Senator Dina Neal (Democratic); Senator Dallas Harris (Democratic)
+- **Co-sponsors:** Senator Skip Daly (Democratic); Senator Roberta Lange (Democratic); Senator James Ohrenschall (Democratic); Senator Julie Pazina (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -9480,7 +9480,7 @@ Existing law requires the Department of Health and Human Services to provide cer
 
 ### Sponsors
 
-- **Primary:** Senator Melanie Scheible; Senator Dallas Harris
+- **Primary:** Senator Melanie Scheible (Democratic); Senator Dallas Harris (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -9508,7 +9508,7 @@ Existing law provides for the imposition of certain surcharges and taxes by a co
 
 ### Sponsors
 
-- **Primary:** Senator James Ohrenschall
+- **Primary:** Senator James Ohrenschall (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -9547,8 +9547,8 @@ In general, existing law provide s for a summary eviction procedure when a tenan
 
 ### Sponsors
 
-- **Primary:** Senator Fabian Doñate; Senator James Ohrenschall; Assemblywoman Cecelia González
-- **Co-sponsors:** Assemblyman Max Carter; Assemblywoman Bea Duran; Assemblywoman Erica Mosca; Assemblywoman Sarah Peters; Assemblyman Howard Watts
+- **Primary:** Senator Fabian Doñate (Democratic); Senator James Ohrenschall (Democratic); Assemblywoman Cecelia González (Democratic)
+- **Co-sponsors:** Assemblyman Max Carter (Democratic); Assemblywoman Bea Duran (Democratic); Assemblywoman Erica Mosca (Democratic); Assemblywoman Sarah Peters (Democratic); Assemblyman Howard Watts (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -9586,7 +9586,7 @@ Existing law requires a person to obtain the written approval of the: (1) Direct
 
 ### Sponsors
 
-- **Primary:** Senator Scott Hammond
+- **Primary:** Senator Scott Hammond (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -9614,8 +9614,8 @@ Sections 2-6 of this bill establish the Transportation Modernization Grants Prog
 
 ### Sponsors
 
-- **Primary:** Senator Pat Spearman; Senator Skip Daly
-- **Co-sponsors:** Senator Dallas Harris; Senator Dina Neal; Senator James Ohrenschall; Senator Julie Pazina; Senator Melanie Scheible; Assemblyman Reuben D'Silva
+- **Primary:** Senator Pat Spearman (Democratic); Senator Skip Daly (Democratic)
+- **Co-sponsors:** Senator Dallas Harris (Democratic); Senator Dina Neal (Democratic); Senator James Ohrenschall (Democratic); Senator Julie Pazina (Democratic); Senator Melanie Scheible (Democratic); Assemblyman Reuben D'Silva (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -9692,8 +9692,8 @@ Existing law authorizes a board of county commissioners or a governing body of a
 
 ### Sponsors
 
-- **Primary:** Senator Jeff Stone; Senator Ira Hansen; Senator Lisa Krasner; Senator Carrie Buck
-- **Co-sponsors:** Senator Pete Goicoechea; Senator Heidi Seevers O'Gara; Assemblyman Bert Gurr
+- **Primary:** Senator Jeff Stone (Republican); Senator Ira Hansen (Republican); Senator Lisa Krasner (Republican); Senator Carrie Buck (Republican)
+- **Co-sponsors:** Senator Pete Goicoechea (Republican); Senator Heidi Seevers O'Gara (Republican); Assemblyman Bert Gurr (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -9720,8 +9720,8 @@ Existing law provides a partial exemption from property taxes for a veteran with
 
 ### Sponsors
 
-- **Primary:** Senator Dallas Harris; Senator Fabian Doñate; Senator Pat Spearman; Senator Edgar Flores
-- **Co-sponsors:** Senator Skip Daly; Senator Lisa Krasner; Senator Roberta Lange; Senator Dina Neal; Senator James Ohrenschall; Senator Melanie Scheible; Senator Jeff Stone
+- **Primary:** Senator Dallas Harris (Democratic); Senator Fabian Doñate (Democratic); Senator Pat Spearman (Democratic); Senator Edgar Flores (Democratic)
+- **Co-sponsors:** Senator Skip Daly (Democratic); Senator Lisa Krasner (Republican); Senator Roberta Lange (Democratic); Senator Dina Neal (Democratic); Senator James Ohrenschall (Democratic); Senator Melanie Scheible (Democratic); Senator Jeff Stone (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -9798,7 +9798,7 @@ Existing law requires a person who wishes to be licensed as a barber or an appre
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal
+- **Primary:** Senator Dina Neal (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -9876,7 +9876,7 @@ Existing law sets forth various requir ements and restrictions relating to a cer
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal; Senator Edgar Flores; Senator Fabian Doñate; Assemblyman Reuben D'Silva
+- **Primary:** Senator Dina Neal (Democratic); Senator Edgar Flores (Democratic); Senator Fabian Doñate (Democratic); Assemblyman Reuben D'Silva (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -9993,8 +9993,8 @@ Existing law requires the Director of the Department of Health and Human Service
 
 ### Sponsors
 
-- **Primary:** Senator Pat Spearman; Assemblywoman Sarah Peters
-- **Co-sponsors:** Senator Fabian Doñate; Assemblywoman Natha Anderson; Assemblywoman Tracy Brown-May; Assemblyman Reuben D'Silva; Assemblywoman Bea Duran; Assemblywoman Michelle Gorelow; Assemblywoman Selena La Rue Hatch; Assemblywoman Shondra Summers-Armstrong
+- **Primary:** Senator Pat Spearman (Democratic); Assemblywoman Sarah Peters (Democratic)
+- **Co-sponsors:** Senator Fabian Doñate (Democratic); Assemblywoman Natha Anderson (Democratic); Assemblywoman Tracy Brown-May (Democratic); Assemblyman Reuben D'Silva (Democratic); Assemblywoman Bea Duran (Democratic); Assemblywoman Michelle Gorelow (Democratic); Assemblywoman Selena La Rue Hatch (Democratic); Assemblywoman Shondra Summers-Armstrong (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -10060,8 +10060,8 @@ Existing law authorizes the Governor, within the limits of available money, to e
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal; Senator Edgar Flores; Senator Fabian Doñate
-- **Co-sponsors:** Senator Ira Hansen; Senator Pat Spearman
+- **Primary:** Senator Dina Neal (Democratic); Senator Edgar Flores (Democratic); Senator Fabian Doñate (Democratic)
+- **Co-sponsors:** Senator Ira Hansen (Republican); Senator Pat Spearman (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -10281,7 +10281,7 @@ Existing law imposes a tax on certain transfers of real property. The tax includ
 
 ### Sponsors
 
-- **Primary:** Senator Robin Titus
+- **Primary:** Senator Robin Titus (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10309,8 +10309,8 @@ Existing law authorizes a district court to grant visitation rights to certain r
 
 ### Sponsors
 
-- **Primary:** Senator Fabian Doñate; Assemblywoman Cecelia González; Assemblywoman Sarah Peters
-- **Co-sponsors:** Assemblyman Howard Watts
+- **Primary:** Senator Fabian Doñate (Democratic); Assemblywoman Cecelia González (Democratic); Assemblywoman Sarah Peters (Democratic)
+- **Co-sponsors:** Assemblyman Howard Watts (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -10348,7 +10348,7 @@ Existing law requires a landlord and a tenant to perform certain obligations wit
 
 ### Sponsors
 
-- **Primary:** Senator Skip Daly
+- **Primary:** Senator Skip Daly (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10387,7 +10387,7 @@ Existing law requires Carson City, Douglas County, Lyon County, Storey County an
 
 ### Sponsors
 
-- **Primary:** Senator Skip Daly
+- **Primary:** Senator Skip Daly (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10426,7 +10426,7 @@ Existing law requires contractors or subcontractors engaged on public works to u
 
 ### Sponsors
 
-- **Primary:** Senator Heidi Seevers O'Gara
+- **Primary:** Senator Heidi Seevers O'Gara (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10532,8 +10532,8 @@ Senate Bill No. 301 of the 2007 Legislative Session (S.B. 301) transferred the p
 
 ### Sponsors
 
-- **Primary:** Assemblymember PK O’Neill
-- **Co-sponsors:** Assemblymember Natha Anderson
+- **Primary:** Assemblymember PK O’Neill (Republican)
+- **Co-sponsors:** Assemblymember Natha Anderson (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -10571,7 +10571,7 @@ With certain exceptions, existing law creates a municipal corporation known as a
 
 ### Sponsors
 
-- **Primary:** Assemblymember Venise Karris
+- **Primary:** Assemblymember Venise Karris (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10599,7 +10599,7 @@ Existing law: (1) provides that, at all times, the maintenance of the Capitol Bu
 
 ### Sponsors
 
-- **Primary:** Assemblymember Venicia Considine
+- **Primary:** Assemblymember Venicia Considine (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10638,7 +10638,7 @@ Existing law sets forth certain requirements relating to a written rental agreem
 
 ### Sponsors
 
-- **Primary:** Assemblymember Jovan Jackson
+- **Primary:** Assemblymember Jovan Jackson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10666,7 +10666,7 @@ Existing federal law authorizes the Secretary of the United States Department of
 
 ### Sponsors
 
-- **Primary:** Assemblymember Danielle Gallant
+- **Primary:** Assemblymember Danielle Gallant (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10694,7 +10694,7 @@ Existing law recognizes that the liberty interest of a parent in the care, custo
 
 ### Sponsors
 
-- **Primary:** Assemblymember Natha Anderson
+- **Primary:** Assemblymember Natha Anderson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10733,7 +10733,7 @@ Existing law sets forth certain requirements for the licensure and operation of 
 
 ### Sponsors
 
-- **Primary:** Assemblymember Shea Backus
+- **Primary:** Assemblymember Shea Backus (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10811,7 +10811,7 @@ Existing law authorizes the Department of Motor Vehicles to adopt regulation s e
 
 ### Sponsors
 
-- **Primary:** Assemblymember Erica Roth
+- **Primary:** Assemblymember Erica Roth (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10850,7 +10850,7 @@ Existing law provides for the automatic sealing of certain eviction case court f
 
 ### Sponsors
 
-- **Primary:** Assemblymember Venicia Considine
+- **Primary:** Assemblymember Venicia Considine (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10889,7 +10889,7 @@ Existing law: (1) requires a landlord to maintain a dwelling unit in a habitable
 
 ### Sponsors
 
-- **Primary:** Assemblymember Linda Hunt
+- **Primary:** Assemblymember Linda Hunt (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10928,7 +10928,7 @@ Existing law requires the Director of the Department of Motor Vehicles to issue 
 
 ### Sponsors
 
-- **Primary:** Assemblymember Jovan Jackson
+- **Primary:** Assemblymember Jovan Jackson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -10956,8 +10956,8 @@ Existing law sets forth general provisions applicable to public works, including
 
 ### Sponsors
 
-- **Primary:** Assemblymember Venicia Considine
-- **Co-sponsors:** Assemblymember Natha Anderson; Assemblymember Venise Karris; Assemblymember Erica Mosca; Assemblymember Erica Roth; Assemblymember Howard Watts
+- **Primary:** Assemblymember Venicia Considine (Democratic)
+- **Co-sponsors:** Assemblymember Natha Anderson (Democratic); Assemblymember Venise Karris (Democratic); Assemblymember Erica Mosca (Democratic); Assemblymember Erica Roth (Democratic); Assemblymember Howard Watts (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -10995,7 +10995,7 @@ Section 3 of this bill defines the term “loss of value” for purposes of the 
 
 ### Sponsors
 
-- **Primary:** Assemblymember Duy Nguyen
+- **Primary:** Assemblymember Duy Nguyen (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11023,7 +11023,7 @@ Existing law provides for the regulation of the practice of massage therapy. (Ch
 
 ### Sponsors
 
-- **Primary:** Assemblymember Sandra Jauregui
+- **Primary:** Assemblymember Sandra Jauregui (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11062,8 +11062,8 @@ Section 1 of this bill requires each governing body of a county or city to adopt
 
 ### Sponsors
 
-- **Primary:** Assemblymember Erica Mosca
-- **Co-sponsors:** Assemblymember Max Carter; Assemblymember Venicia Considine; Assemblymember Reuben D'Silva; Assemblymember Rebecca Edgeworth; Assemblymember Tanya Flanagan; Assemblymember Linda Hunt; Assemblymember Jovan Jackson; Assemblymember Heidi Kasama; Assemblymember Duy Nguyen
+- **Primary:** Assemblymember Erica Mosca (Democratic)
+- **Co-sponsors:** Assemblymember Max Carter (Democratic); Assemblymember Venicia Considine (Democratic); Assemblymember Reuben D'Silva (Democratic); Assemblymember Rebecca Edgeworth (Republican); Assemblymember Tanya Flanagan (Democratic); Assemblymember Linda Hunt (Democratic); Assemblymember Jovan Jackson (Democratic); Assemblymember Heidi Kasama (Republican); Assemblymember Duy Nguyen (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -11101,7 +11101,7 @@ Section 1 of this bill requires the board of county commissioners of each county
 
 ### Sponsors
 
-- **Primary:** Assemblymember Reuben D'Silva
+- **Primary:** Assemblymember Reuben D'Silva (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11140,7 +11140,7 @@ Existing law creates the Student Loan Repayment for Providers of Health Care in 
 
 ### Sponsors
 
-- **Primary:** Assemblymember Sandra Jauregui
+- **Primary:** Assemblymember Sandra Jauregui (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11179,7 +11179,7 @@ Existing law sets forth certain requirements relating to a written re ntal agree
 
 ### Sponsors
 
-- **Primary:** Assemblymember Max Carter
+- **Primary:** Assemblymember Max Carter (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11218,8 +11218,8 @@ In general, existing law authorizes a landlord who seeks to recover possession o
 
 ### Sponsors
 
-- **Primary:** Assemblymember Heather Goulding
-- **Co-sponsors:** Assemblymember Selena La Rue Hatch
+- **Primary:** Assemblymember Heather Goulding (Democratic)
+- **Co-sponsors:** Assemblymember Selena La Rue Hatch (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -11257,7 +11257,7 @@ Existing law authorizes, under certain circumstances, the creation of a general 
 
 ### Sponsors
 
-- **Primary:** Assemblymember Venise Karris
+- **Primary:** Assemblymember Venise Karris (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11285,8 +11285,8 @@ Existing law sets forth various powers and duties of counties and cities. (Chapt
 
 ### Sponsors
 
-- **Primary:** Assemblymember Jovan Jackson; Assemblymember Reuben D'Silva; Assemblymember Cecelia González; Assemblymember PK O’Neill
-- **Co-sponsors:** Assemblymember Joe Dalia; Assemblymember Hanadi Nadeem; Assemblymember David Orentlicher; Assemblymember Erica Roth
+- **Primary:** Assemblymember Jovan Jackson (Democratic); Assemblymember Reuben D'Silva (Democratic); Assemblymember Cecelia González (Democratic); Assemblymember PK O’Neill (Republican)
+- **Co-sponsors:** Assemblymember Joe Dalia (Democratic); Assemblymember Hanadi Nadeem (Democratic); Assemblymember David Orentlicher (Democratic); Assemblymember Erica Roth (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -11352,7 +11352,7 @@ Existing law authorizes the association of a common-interest community to adopt 
 
 ### Sponsors
 
-- **Primary:** Assemblymember David Orentlicher
+- **Primary:** Assemblymember David Orentlicher (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11380,8 +11380,8 @@ Existing law requires a unit-owners' association of a common-interest community 
 
 ### Sponsors
 
-- **Primary:** Assemblymember Ken Gray; Assemblymember Alexis Hansen; Assemblymember Erica Roth; Assemblymember Natha Anderson; Assemblymember Rich DeLong; Senator Angela Taylor; Senator Skip Daly
-- **Co-sponsors:** Assemblymember Jill Dickman; Assemblymember Heather Goulding; Assemblymember Selena La Rue Hatch; Assemblymember PK O’Neill; Senator Ira Hansen
+- **Primary:** Assemblymember Ken Gray (Republican); Assemblymember Alexis Hansen (Republican); Assemblymember Erica Roth (Democratic); Assemblymember Natha Anderson (Democratic); Assemblymember Rich DeLong (Republican); Senator Angela Taylor (Democratic); Senator Skip Daly (Democratic)
+- **Co-sponsors:** Assemblymember Jill Dickman (Republican); Assemblymember Heather Goulding (Democratic); Assemblymember Selena La Rue Hatch (Democratic); Assemblymember PK O’Neill (Republican); Senator Ira Hansen (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -11447,7 +11447,7 @@ Existing law sets forth the Nevada Fair Housing Law which prohibits certain disc
 
 ### Sponsors
 
-- **Primary:** Assemblymember Elaine Marzola
+- **Primary:** Assemblymember Elaine Marzola (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11486,7 +11486,7 @@ Existing law authorizes the appointment of a master or special master to perform
 
 ### Sponsors
 
-- **Primary:** Assemblymember Natha Anderson
+- **Primary:** Assemblymember Natha Anderson (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11525,7 +11525,7 @@ Under existing law, the Commissioner of Food and Drugs is required to adopt regu
 
 ### Sponsors
 
-- **Primary:** Assemblymember Daniele Monroe-Moreno
+- **Primary:** Assemblymember Daniele Monroe-Moreno (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11631,7 +11631,7 @@ Existing law regulates various activities relating to manufactured homes, mobile
 
 ### Sponsors
 
-- **Primary:** Assemblymember Lisa Cole
+- **Primary:** Assemblymember Lisa Cole (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11659,7 +11659,7 @@ Under existing law, subject to certain limitations, a governing body of any city
 
 ### Sponsors
 
-- **Primary:** Assemblymember Shea Backus
+- **Primary:** Assemblymember Shea Backus (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11698,7 +11698,7 @@ Section 10.5 of this bill declares that access to affordable housing is essentia
 
 ### Sponsors
 
-- **Primary:** Assemblymember Howard Watts; Senator Angela Taylor
+- **Primary:** Assemblymember Howard Watts (Democratic); Senator Angela Taylor (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11737,7 +11737,7 @@ Existing law authorizes, or in certain cases, requires the Board of Regents of t
 
 ### Sponsors
 
-- **Primary:** Assemblymember Duy Nguyen
+- **Primary:** Assemblymember Duy Nguyen (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11765,8 +11765,8 @@ Existing law provides for the promotion, registration and approval of apprentice
 
 ### Sponsors
 
-- **Primary:** Assemblymember Lisa Cole; Assemblymember Heidi Kasama
-- **Co-sponsors:** Assemblymember Rich DeLong; Assemblymember Bert Gurr; Assemblymember Gregory Hafen; Assemblymember Alexis Hansen; Assemblymember Brian Hibbetts
+- **Primary:** Assemblymember Lisa Cole (Republican); Assemblymember Heidi Kasama (Republican)
+- **Co-sponsors:** Assemblymember Rich DeLong (Republican); Assemblymember Bert Gurr (Republican); Assemblymember Gregory Hafen (Republican); Assemblymember Alexis Hansen (Republican); Assemblymember Brian Hibbetts (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -11793,7 +11793,7 @@ Under the Unemployment Compensation Law: (1) with certain exceptions, employers 
 
 ### Sponsors
 
-- **Primary:** Assemblymember Shea Backus
+- **Primary:** Assemblymember Shea Backus (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11821,7 +11821,7 @@ Existing law sets forth provisions governing parentage and the establishment of 
 
 ### Sponsors
 
-- **Primary:** Assemblymember Danielle Gallant
+- **Primary:** Assemblymember Danielle Gallant (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11849,7 +11849,7 @@ Existing law authorizes a board of county commissioners or a governing body of a
 
 ### Sponsors
 
-- **Primary:** Assemblymember Gregory Hafen; Senator Dina Neal
+- **Primary:** Assemblymember Gregory Hafen (Republican); Senator Dina Neal (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11888,8 +11888,8 @@ The Nevada Administrative Procedure Act establishes procedural requirements for 
 
 ### Sponsors
 
-- **Primary:** Assemblymember Melissa Hardy
-- **Co-sponsors:** Assemblymember Duy Nguyen
+- **Primary:** Assemblymember Melissa Hardy (Republican)
+- **Co-sponsors:** Assemblymember Duy Nguyen (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -11916,7 +11916,7 @@ Existing law provides for a partial abatement of the property taxes levied on ce
 
 ### Sponsors
 
-- **Primary:** Assemblymember Natha Anderson; Assemblymember Venicia Considine
+- **Primary:** Assemblymember Natha Anderson (Democratic); Assemblymember Venicia Considine (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11944,7 +11944,7 @@ Sections 24 and 33 of this bill impose a tax on a retail sale in this State of s
 
 ### Sponsors
 
-- **Primary:** Assemblymember Venicia Considine
+- **Primary:** Assemblymember Venicia Considine (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -11983,7 +11983,7 @@ Existing law imposes an annual commerce tax on each busine ss entity engaged in 
 
 ### Sponsors
 
-- **Primary:** Assemblymember Howard Watts
+- **Primary:** Assemblymember Howard Watts (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -12022,7 +12022,7 @@ Existing law requires each electric utility in this State to offer net metering 
 
 ### Sponsors
 
-- **Primary:** Assemblymember Cecelia González; Senator Fabian Doñate
+- **Primary:** Assemblymember Cecelia González (Democratic); Senator Fabian Doñate (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -12135,8 +12135,8 @@ Existing law: (1) prohibits discrimination based on race, bullying or cyber- bul
 
 ### Sponsors
 
-- **Primary:** Assemblymember Steve Yeager; Assemblymember Daniele Monroe-Moreno; Assemblymember Sandra Jauregui; Assemblymember Venicia Considine
-- **Co-sponsors:** Assemblymember Tracy Brown-May; Assemblymember Joe Dalia; Assemblymember Cecelia González; Assemblymember Selena La Rue Hatch; Assemblymember Elaine Marzola; Assemblymember Brittney Miller; Assemblymember Cinthia Zermeño Moore; Assemblymember Hanadi Nadeem; Assemblymember David Orentlicher; Assemblymember Erica Roth; Senator Nicole Cannizzaro; Senator Marilyn Dondero Loop; Senator Rochelle Nguyen
+- **Primary:** Assemblymember Steve Yeager (Democratic); Assemblymember Daniele Monroe-Moreno (Democratic); Assemblymember Sandra Jauregui (Democratic); Assemblymember Venicia Considine (Democratic)
+- **Co-sponsors:** Assemblymember Tracy Brown-May (Democratic); Assemblymember Joe Dalia (Democratic); Assemblymember Cecelia González (Democratic); Assemblymember Selena La Rue Hatch (Democratic); Assemblymember Elaine Marzola (Democratic); Assemblymember Brittney Miller (Democratic); Assemblymember Cinthia Zermeño Moore (Democratic); Assemblymember Hanadi Nadeem (Democratic); Assemblymember David Orentlicher (Democratic); Assemblymember Erica Roth (Democratic); Senator Nicole Cannizzaro (Democratic); Senator Marilyn Dondero Loop (Democratic); Senator Rochelle Nguyen (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -12587,7 +12587,7 @@ Existing law requires a planning commission to develop a master plan as a compre
 
 ### Sponsors
 
-- **Primary:** Assemblymember Sandra Jauregui
+- **Primary:** Assemblymember Sandra Jauregui (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -12654,7 +12654,7 @@ Existing law requires the State Land Registr ar to report quarterly to the State
 
 ### Sponsors
 
-- **Primary:** Senator Carrie Ann Buck
+- **Primary:** Senator Carrie Ann Buck (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -12682,7 +12682,7 @@ Existing federal law establishes the Medicare program, which is a public health 
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal
+- **Primary:** Senator Dina Neal (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -12710,8 +12710,8 @@ Existing law creates the Nevada Equal Rights Commission within the Department of
 
 ### Sponsors
 
-- **Primary:** Senator Julie Pazina; Assemblymember PK O’Neill
-- **Co-sponsors:** Senator Michelee "Shelly" Cruz-Crawford; Senator Skip Daly; Senator Fabian Doñate; Senator Edgar Flores; Senator Lisa Krasner; Senator Rochelle Nguyen; Senator James Ohrenschall; Senator Melanie Scheible; Senator John Steinbeck; Senator Jeff Stone; Senator Angela Taylor
+- **Primary:** Senator Julie Pazina (Democratic); Assemblymember PK O’Neill (Republican)
+- **Co-sponsors:** Senator Michelee "Shelly" Cruz-Crawford (Democratic); Senator Skip Daly (Democratic); Senator Fabian Doñate (Democratic); Senator Edgar Flores (Democratic); Senator Lisa Krasner (Republican); Senator Rochelle Nguyen (Democratic); Senator James Ohrenschall (Democratic); Senator Melanie Scheible (Democratic); Senator John Steinbeck (Republican); Senator Jeff Stone (Republican); Senator Angela Taylor (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -12749,7 +12749,7 @@ Existing law requires certain persons who work for a landlord of dwelling units 
 
 ### Sponsors
 
-- **Primary:** Senator John Ellison
+- **Primary:** Senator John Ellison (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -12777,8 +12777,8 @@ Existing law authorizes a board of county commissioners or a governing body of a
 
 ### Sponsors
 
-- **Primary:** Senator Nicole Cannizzaro
-- **Co-sponsors:** Assemblymember Tracy Brown-May; Assemblymember Cecelia González; Assemblymember Ken Gray; Assemblymember Hanadi Nadeem; Assemblymember Duy Nguyen; Assemblymember David Orentlicher
+- **Primary:** Senator Nicole Cannizzaro (Democratic)
+- **Co-sponsors:** Assemblymember Tracy Brown-May (Democratic); Assemblymember Cecelia González (Democratic); Assemblymember Ken Gray (Republican); Assemblymember Hanadi Nadeem (Democratic); Assemblymember Duy Nguyen (Democratic); Assemblymember David Orentlicher (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -12816,7 +12816,7 @@ Existing law requires certain hospitals to enter into agreements with the United
 
 ### Sponsors
 
-- **Primary:** Senator Marilyn Dondero Loop
+- **Primary:** Senator Marilyn Dondero Loop (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -12883,7 +12883,7 @@ Existing law creates a debt management commission in each county of this State a
 
 ### Sponsors
 
-- **Primary:** Senator Angela Taylor
+- **Primary:** Senator Angela Taylor (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -12911,7 +12911,7 @@ Existing law establishes certain requirements relating to manufactured home park
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal
+- **Primary:** Senator Dina Neal (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -12950,7 +12950,7 @@ Existing law creates the Nevada Equal Rights Commission within the Department of
 
 ### Sponsors
 
-- **Primary:** Senator Melanie Scheible
+- **Primary:** Senator Melanie Scheible (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -12989,7 +12989,7 @@ Existing law prohibits an insurer from refusing to issue, cancelling, refusing t
 
 ### Sponsors
 
-- **Primary:** Senator Edgar Flores
+- **Primary:** Senator Edgar Flores (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13017,7 +13017,7 @@ Existing law prescribes periods for rest and meals for employees during work hou
 
 ### Sponsors
 
-- **Primary:** Senator James Ohrenschall
+- **Primary:** Senator James Ohrenschall (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13056,8 +13056,8 @@ Existing law establishes the process for the principal of a school to determine 
 
 ### Sponsors
 
-- **Primary:** Senator James Ohrenschall; Senator Carrie Ann Buck; Senator Jeff Stone; Senator Lisa Krasner; Senator Nicole Cannizzaro
-- **Co-sponsors:** Senator Skip Daly; Senator John Ellison; Senator Edgar Flores; Senator Dina Neal; Senator Julie Pazina; Senator Lori Rogich
+- **Primary:** Senator James Ohrenschall (Democratic); Senator Carrie Ann Buck (Republican); Senator Jeff Stone (Republican); Senator Lisa Krasner (Republican); Senator Nicole Cannizzaro (Democratic)
+- **Co-sponsors:** Senator Skip Daly (Democratic); Senator John Ellison (Republican); Senator Edgar Flores (Democratic); Senator Dina Neal (Democratic); Senator Julie Pazina (Democratic); Senator Lori Rogich (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -13095,8 +13095,8 @@ Existing law prohibits various practices of discrimination based u pon race, rel
 
 ### Sponsors
 
-- **Primary:** Senator Fabian Doñate; Senator Dina Neal; Senator Melanie Scheible; Senator Nicole Cannizzaro; Senator James Ohrenschall
-- **Co-sponsors:** Senator Michelee "Shelly" Cruz-Crawford; Senator Skip Daly; Senator Marilyn Dondero Loop; Senator Edgar Flores; Senator Roberta Lange; Senator Rochelle Nguyen; Senator Julie Pazina; Senator Angela Taylor
+- **Primary:** Senator Fabian Doñate (Democratic); Senator Dina Neal (Democratic); Senator Melanie Scheible (Democratic); Senator Nicole Cannizzaro (Democratic); Senator James Ohrenschall (Democratic)
+- **Co-sponsors:** Senator Michelee "Shelly" Cruz-Crawford (Democratic); Senator Skip Daly (Democratic); Senator Marilyn Dondero Loop (Democratic); Senator Edgar Flores (Democratic); Senator Roberta Lange (Democratic); Senator Rochelle Nguyen (Democratic); Senator Julie Pazina (Democratic); Senator Angela Taylor (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -13123,7 +13123,7 @@ Existing law authorizes the Housing Division of the Department of Business and I
 
 ### Sponsors
 
-- **Primary:** Senator Melanie Scheible
+- **Primary:** Senator Melanie Scheible (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13162,7 +13162,7 @@ Existing law prohibits a short -term lessor from requiring the purchase of a wai
 
 ### Sponsors
 
-- **Primary:** Senator Nicole Cannizzaro
+- **Primary:** Senator Nicole Cannizzaro (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13201,7 +13201,7 @@ Under existing law, all property of every kind and nature in this State is subje
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal
+- **Primary:** Senator Dina Neal (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13229,8 +13229,8 @@ This bill enacts various provisions relating to “artificial intelligence syste
 
 ### Sponsors
 
-- **Primary:** Senator Julie Pazina; Senator Dina Neal; Senator Edgar Flores; Senator Melanie Scheible; Senator Lisa Krasner; Assemblymember Erica Roth; Assemblymember Duy Nguyen
-- **Co-sponsors:** Senator Nicole Cannizzaro; Senator Michelee "Shelly" Cruz-Crawford; Senator Skip Daly; Senator Fabian Doñate; Senator Marilyn Dondero Loop; Senator John Ellison; Senator Roberta Lange; Senator Rochelle Nguyen; Senator James Ohrenschall; Senator Lori Rogich; Senator John Steinbeck; Senator Jeff Stone; Senator Angela Taylor; Assemblymember Danielle Gallant
+- **Primary:** Senator Julie Pazina (Democratic); Senator Dina Neal (Democratic); Senator Edgar Flores (Democratic); Senator Melanie Scheible (Democratic); Senator Lisa Krasner (Republican); Assemblymember Erica Roth (Democratic); Assemblymember Duy Nguyen (Democratic)
+- **Co-sponsors:** Senator Nicole Cannizzaro (Democratic); Senator Michelee "Shelly" Cruz-Crawford (Democratic); Senator Skip Daly (Democratic); Senator Fabian Doñate (Democratic); Senator Marilyn Dondero Loop (Democratic); Senator John Ellison (Republican); Senator Roberta Lange (Democratic); Senator Rochelle Nguyen (Democratic); Senator James Ohrenschall (Democratic); Senator Lori Rogich (Republican); Senator John Steinbeck (Republican); Senator Jeff Stone (Republican); Senator Angela Taylor (Democratic); Assemblymember Danielle Gallant (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -13268,8 +13268,8 @@ Existing law requires the unit -owners’ association of a common -interest comm
 
 ### Sponsors
 
-- **Primary:** Senator John Ellison; Senator Jeff Stone
-- **Co-sponsors:** Senator John Steinbeck
+- **Primary:** Senator John Ellison (Republican); Senator Jeff Stone (Republican)
+- **Co-sponsors:** Senator John Steinbeck (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -13296,7 +13296,7 @@ Existing law makes it a crime to engage in housebreaking or unlawful occupancy. 
 
 ### Sponsors
 
-- **Primary:** Senator Jeff Stone; Senator James Ohrenschall
+- **Primary:** Senator Jeff Stone (Republican); Senator James Ohrenschall (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13335,7 +13335,7 @@ Existing law authorizes constables and the sheriff of each county in this State,
 
 ### Sponsors
 
-- **Primary:** Senator Jeff Stone; Senator John Ellison; Senator Lisa Krasner; Senator Carrie Ann Buck
+- **Primary:** Senator Jeff Stone (Republican); Senator John Ellison (Republican); Senator Lisa Krasner (Republican); Senator Carrie Ann Buck (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13363,7 +13363,7 @@ Existing law makes it a crime to engage in housebreaking or unlawful occupancy. 
 
 ### Sponsors
 
-- **Primary:** Senator Carrie Ann Buck
+- **Primary:** Senator Carrie Ann Buck (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13391,7 +13391,7 @@ Existing law requires the Department of Education to: (1) determine annually whe
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal
+- **Primary:** Senator Dina Neal (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13419,8 +13419,8 @@ Existing law authorizes the board of county commissioners of each county to enac
 
 ### Sponsors
 
-- **Primary:** Senator Fabian Doñate; Senator Lisa Krasner; Senator Jeff Stone; Senator Ira Hansen; Assemblymember Danielle Gallant
-- **Co-sponsors:** Senator Skip Daly; Senator Rochelle Nguyen
+- **Primary:** Senator Fabian Doñate (Democratic); Senator Lisa Krasner (Republican); Senator Jeff Stone (Republican); Senator Ira Hansen (Republican); Assemblymember Danielle Gallant (Republican)
+- **Co-sponsors:** Senator Skip Daly (Democratic); Senator Rochelle Nguyen (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -13447,8 +13447,8 @@ Existing law sets forth certain procedures for the removal of a person who is gu
 
 ### Sponsors
 
-- **Primary:** Senator Angela Taylor; Senator Michelee "Shelly" Cruz-Crawford
-- **Co-sponsors:** Senator Nicole Cannizzaro; Senator Skip Daly; Senator Fabian Doñate; Senator Marilyn Dondero Loop; Senator Edgar Flores; Senator James Ohrenschall; Senator Julie Pazina; Senator Melanie Scheible
+- **Primary:** Senator Angela Taylor (Democratic); Senator Michelee "Shelly" Cruz-Crawford (Democratic)
+- **Co-sponsors:** Senator Nicole Cannizzaro (Democratic); Senator Skip Daly (Democratic); Senator Fabian Doñate (Democratic); Senator Marilyn Dondero Loop (Democratic); Senator Edgar Flores (Democratic); Senator James Ohrenschall (Democratic); Senator Julie Pazina (Democratic); Senator Melanie Scheible (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -13486,7 +13486,7 @@ Existing law: (1) creates the Student Loan Repayment for Providers of Health Car
 
 ### Sponsors
 
-- **Primary:** Senator Rochelle Nguyen
+- **Primary:** Senator Rochelle Nguyen (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13514,7 +13514,7 @@ Existing law requires the payment of prevailing wages to certain workers on a pu
 
 ### Sponsors
 
-- **Primary:** Senator Robin Titus; Assemblymember Sandra Jauregui
+- **Primary:** Senator Robin Titus (Republican); Assemblymember Sandra Jauregui (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13542,7 +13542,7 @@ AN ACT making an appropriation to the Division of Public and Behavioral Health o
 
 ### Sponsors
 
-- **Primary:** Senator Nicole Cannizzaro
+- **Primary:** Senator Nicole Cannizzaro (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13620,8 +13620,8 @@ Existing law authorizes the governing body of a municipality to designate a tax 
 
 ### Sponsors
 
-- **Primary:** Senator Nicole Cannizzaro; Senator Melanie Scheible; Senator Julie Pazina; Senator Edgar Flores; Senator Marilyn Dondero Loop
-- **Co-sponsors:** Senator Michelee "Shelly" Cruz-Crawford; Senator Skip Daly; Senator Fabian Doñate; Senator Rochelle Nguyen; Senator James Ohrenschall; Senator Angela Taylor
+- **Primary:** Senator Nicole Cannizzaro (Democratic); Senator Melanie Scheible (Democratic); Senator Julie Pazina (Democratic); Senator Edgar Flores (Democratic); Senator Marilyn Dondero Loop (Democratic)
+- **Co-sponsors:** Senator Michelee "Shelly" Cruz-Crawford (Democratic); Senator Skip Daly (Democratic); Senator Fabian Doñate (Democratic); Senator Rochelle Nguyen (Democratic); Senator James Ohrenschall (Democratic); Senator Angela Taylor (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -13648,7 +13648,7 @@ AN ACT making appropriations to Clark County and the Cities of Reno and Sparks f
 
 ### Sponsors
 
-- **Primary:** Senator Skip Daly
+- **Primary:** Senator Skip Daly (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13771,7 +13771,7 @@ Existing law authorizes a board of county commissioners or a governing body of a
 
 ### Sponsors
 
-- **Primary:** Senator Fabian Doñate; Senator Edgar Flores; Assemblymember Cecelia González; Assemblymember Cinthia Zermeño Moore; Assemblymember Reuben D'Silva
+- **Primary:** Senator Fabian Doñate (Democratic); Senator Edgar Flores (Democratic); Assemblymember Cecelia González (Democratic); Assemblymember Cinthia Zermeño Moore (Democratic); Assemblymember Reuben D'Silva (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13810,7 +13810,7 @@ Existing law requires a local board of health in a county whose population is 10
 
 ### Sponsors
 
-- **Primary:** Senator Michelee "Shelly" Cruz-Crawford; Assemblymember Erica Mosca
+- **Primary:** Senator Michelee "Shelly" Cruz-Crawford (Democratic); Assemblymember Erica Mosca (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13838,7 +13838,7 @@ Existing law imposes certain requirements concerning the treatment of a child wi
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal
+- **Primary:** Senator Dina Neal (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13866,8 +13866,8 @@ Under existing law, the Director of the Office for a Safe and Respectful Learnin
 
 ### Sponsors
 
-- **Primary:** Senator Nicole Cannizzaro; Senator Rochelle Nguyen; Senator Julie Pazina; Senator Melanie Scheible; Senator Marilyn Dondero Loop
-- **Co-sponsors:** Senator Michelee "Shelly" Cruz-Crawford; Senator Skip Daly; Senator Fabian Doñate; Senator Edgar Flores; Senator Roberta Lange; Senator Angela Taylor
+- **Primary:** Senator Nicole Cannizzaro (Democratic); Senator Rochelle Nguyen (Democratic); Senator Julie Pazina (Democratic); Senator Melanie Scheible (Democratic); Senator Marilyn Dondero Loop (Democratic)
+- **Co-sponsors:** Senator Michelee "Shelly" Cruz-Crawford (Democratic); Senator Skip Daly (Democratic); Senator Fabian Doñate (Democratic); Senator Edgar Flores (Democratic); Senator Roberta Lange (Democratic); Senator Angela Taylor (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -13905,7 +13905,7 @@ Existing law requires certain public and private insurers, i ncluding Medicaid a
 
 ### Sponsors
 
-- **Primary:** Senator Carrie Ann Buck
+- **Primary:** Senator Carrie Ann Buck (Republican)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13933,7 +13933,7 @@ Existing law establishes various provisions governing the licensing and control 
 
 ### Sponsors
 
-- **Primary:** Senator Angela Taylor
+- **Primary:** Senator Angela Taylor (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -13972,8 +13972,8 @@ Existing law sets forth various requirements and restrictions relating to the is
 
 ### Sponsors
 
-- **Primary:** Senator Fabian Doñate; Assemblymember Cinthia Zermeño Moore
-- **Co-sponsors:** Senator Michelee "Shelly" Cruz-Crawford; Senator Skip Daly; Senator Edgar Flores; Senator John Steinbeck; Senator Jeff Stone; Assemblymember Howard Watts
+- **Primary:** Senator Fabian Doñate (Democratic); Assemblymember Cinthia Zermeño Moore (Democratic)
+- **Co-sponsors:** Senator Michelee "Shelly" Cruz-Crawford (Democratic); Senator Skip Daly (Democratic); Senator Edgar Flores (Democratic); Senator John Steinbeck (Republican); Senator Jeff Stone (Republican); Assemblymember Howard Watts (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -14011,8 +14011,8 @@ Existing law provides for the licensure and regulation of installment lenders by
 
 ### Sponsors
 
-- **Primary:** Senator James Ohrenschall
-- **Co-sponsors:** Senator Jeff Stone
+- **Primary:** Senator James Ohrenschall (Democratic)
+- **Co-sponsors:** Senator Jeff Stone (Republican)
 
 ### What the bill does (NELIS digest)
 
@@ -14039,7 +14039,7 @@ Existing law authorizes a sheriff to appoint one or more deputies who are author
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal
+- **Primary:** Senator Dina Neal (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -14067,7 +14067,7 @@ Section 2 of this bill provides, with certain exceptions, that: (1) the total ag
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal
+- **Primary:** Senator Dina Neal (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -14095,7 +14095,7 @@ Sections 24 and 33 of this bill impose a tax on a retail sale in this State of s
 
 ### Sponsors
 
-- **Primary:** Senator Dina Neal
+- **Primary:** Senator Dina Neal (Democratic)
 - **Co-sponsors:** —
 
 ### What the bill does (NELIS digest)
@@ -14123,8 +14123,8 @@ Existing law contains the Windsor Park Environmental Justice Act, which establis
 
 ### Sponsors
 
-- **Primary:** Senator Marilyn Dondero Loop
-- **Co-sponsors:** Senator Fabian Doñate; Senator James Ohrenschall; Senator Julie Pazina; Senator Angela Taylor
+- **Primary:** Senator Marilyn Dondero Loop (Democratic)
+- **Co-sponsors:** Senator Fabian Doñate (Democratic); Senator James Ohrenschall (Democratic); Senator Julie Pazina (Democratic); Senator Angela Taylor (Democratic)
 
 ### What the bill does (NELIS digest)
 
@@ -14402,8 +14402,8 @@ During the 2023 Legislative Session, the Nevada Legislature appropriated from th
 
 ### Sponsors
 
-- **Primary:** Senator Nicole Cannizzaro; Senator Marilyn Dondero Loop; Senator Julie Pazina
-- **Co-sponsors:** Senator Michelee "Shelly" Cruz-Crawford; Senator Skip Daly; Senator Fabian Doñate; Senator Edgar Flores; Senator Roberta Lange; Senator Dina Neal; Senator Rochelle Nguyen; Senator James Ohrenschall; Senator Melanie Scheible; Senator Angela Taylor
+- **Primary:** Senator Nicole Cannizzaro (Democratic); Senator Marilyn Dondero Loop (Democratic); Senator Julie Pazina (Democratic)
+- **Co-sponsors:** Senator Michelee "Shelly" Cruz-Crawford (Democratic); Senator Skip Daly (Democratic); Senator Fabian Doñate (Democratic); Senator Edgar Flores (Democratic); Senator Roberta Lange (Democratic); Senator Dina Neal (Democratic); Senator Rochelle Nguyen (Democratic); Senator James Ohrenschall (Democratic); Senator Melanie Scheible (Democratic); Senator Angela Taylor (Democratic)
 
 ### What the bill does (NELIS digest)
 
