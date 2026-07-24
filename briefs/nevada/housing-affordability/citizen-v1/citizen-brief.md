@@ -6,7 +6,8 @@ version: citizen-v1.0
 organization: The Nevada Forum
 generated_by: citizen-brief-writer v2.3
 date: 2026-07-24
-status: DRAFT
+status: READY FOR HUMAN REVIEW
+reviewed_by: citizen-reviewer v2.3 (2026-07-24)
 ---
 
 # Housing Affordability in Nevada
