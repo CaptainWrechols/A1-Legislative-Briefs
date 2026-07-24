@@ -1,0 +1,1827 @@
+{
+  "80:AB123": {
+    "session": "80",
+    "identifier": "AB123",
+    "nelis_bill_key": "6167",
+    "session_path": "80th2019",
+    "official_title": "AN ACT relating to education; requiring certain information regarding exemptions from immunization requirements for pupils to be maintained by a school district, charter school or private school; requiring notification to the parent or guardian of a pupil enrolled in a public or private school concerning certain outbreaks; requiring notification to the Division of Public and Behavioral Health of the Department of Health and Human Services concerning the number of children who receive such exemptions; prescribing the duration of exemptions from immunization requirements; requiring an annual statement regarding certain medical exemptions to be submitted to the board of trustees of a school district or the governing body of a school; providing a penalty; and providing other matters properly relating thereto.",
+    "most_recent_history_action": "(Pursuant to Joint Standing Rule No. 14.3.3, no further action allowed.)",
+    "sponsors": [
+      {
+        "name": "Assemblywoman Connie Munk",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/4",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      }
+    ],
+    "actions": [
+      {
+        "session": "80",
+        "bill_identifier": "AB123",
+        "date": "Feb 11, 2019",
+        "description": "Read first time. Referred to Committee on Education. To printer.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB123",
+        "date": "Feb 12, 2019",
+        "description": "From printer. To committee.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB123",
+        "date": "Apr 16, 2019",
+        "description": "From committee: Amend, and do pass as amended.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB123",
+        "date": "Apr 17, 2019",
+        "description": "Read second time. Amended. (Amend. No. 124.) To printer.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB123",
+        "date": "Apr 18, 2019",
+        "description": "From printer. To engrossment. Engrossed. First reprint. Read third time. Passed, as amended. Title approved, as amended. (Yeas: 41, Nays: None, Excused: 1.) To Senate.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB123",
+        "date": "Apr 19, 2019",
+        "description": "In Senate. Read first time. Referred to Committee on Education. To committee.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB123",
+        "date": "May 18, 2019",
+        "description": "(Pursuant to Joint Standing Rule No. 14.3.3, no further action allowed.)",
+        "journal": "Assembly: No Floor Session Senate: No Floor Session",
+        "source": "nelis"
+      }
+    ],
+    "hearings": [
+      {
+        "session": "80",
+        "bill_identifier": "AB123",
+        "committee": "Assembly Education",
+        "date": "Feb 19, 2019",
+        "time": "1:30 PM",
+        "recommendation": "Heard",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB123",
+        "committee": "Assembly Education",
+        "date": "Mar 26, 2019",
+        "time": "12:30 PM",
+        "recommendation": "Mentioned not agendized",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB123",
+        "committee": "Assembly Education (Work Session)",
+        "date": "Mar 28, 2019",
+        "time": "12:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "source": "nelis"
+      }
+    ],
+    "votes": [
+      {
+        "session": "80",
+        "bill_identifier": "AB123",
+        "vote_type": "Final Passage",
+        "vote_type_id": "3",
+        "chamber_label": "Assembly (1st Reprint)",
+        "vote_key": "5740",
+        "counts": {
+          "Yea": 41,
+          "Nay": 0,
+          "Excused": 1,
+          "Absent": 0
+        },
+        "yea_voters": [
+          "Assefa, Alexander",
+          "Backus, Shea",
+          "Benitez-Thompson, Teresa",
+          "Bilbray-Axelrod, Shannon",
+          "Carlton, Maggie",
+          "Carrillo, Richard",
+          "Cohen, Lesley",
+          "Daly, Skip",
+          "Duran, Bea",
+          "Edwards, Chris",
+          "Ellison, John",
+          "Flores, Edgar",
+          "Frierson, Jason",
+          "Fumo, Ozzie",
+          "Gorelow, Michelle",
+          "Hafen, Gregory",
+          "Hansen, Alexis",
+          "Hardy, Melissa",
+          "Jauregui, Sandra",
+          "Kramer, Al",
+          "Krasner, Lisa",
+          "Leavitt, Glen",
+          "Martinez, Susie",
+          "McCurdy, William",
+          "Miller, Brittney",
+          "Monroe-Moreno, Daniele",
+          "Munk, Connie",
+          "Neal, Dina",
+          "Nguyen, Rochelle",
+          "Peters, Sarah",
+          "Roberts, Tom",
+          "Smith, Greg",
+          "Spiegel, Ellen",
+          "Swank, Heidi",
+          "Thompson, Tyrone",
+          "Titus, Robin",
+          "Tolles, Jill",
+          "Torres, Selena",
+          "Watts, Howard",
+          "Wheeler, Jim",
+          "Yeager, Steve"
+        ],
+        "nay_voters": [],
+        "not_voting": [],
+        "absent": [],
+        "excused": [
+          "Hambrick, John"
+        ],
+        "source": "nelis"
+      }
+    ],
+    "collected_at": "2026-07-24T18:47:41.828399+00:00"
+  },
+  "80:AB133": {
+    "session": "80",
+    "identifier": "AB133",
+    "nelis_bill_key": "6192",
+    "session_path": "80th2019",
+    "official_title": "AN ACT relating to public welfare; setting forth legislative findings and declarations concerning homeless youth; and providing other matters properly relating thereto.",
+    "most_recent_history_action": "Approved by the Governor. Chapter 52.",
+    "sponsors": [
+      {
+        "name": "Assemblywoman Teresa Benitez-Thompson",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/27",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      }
+    ],
+    "actions": [
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "date": "Feb 13, 2019",
+        "description": "Read first time. Referred to Committee on Health and Human Services. To printer.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "date": "Feb 14, 2019",
+        "description": "From printer. To committee.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "date": "Apr 22, 2019",
+        "description": "From committee: Amend, and do pass as amended. Placed on Second Reading File. Read second time. Amended. (Amend. No. 220.) To printer.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "date": "Apr 23, 2019",
+        "description": "From printer. To engrossment. Engrossed. First reprint. Read third time. Passed, as amended. Title approved, as amended. (Yeas: 41, Nays: None, Excused: 1.) To Senate.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "date": "Apr 24, 2019",
+        "description": "In Senate. Read first time. Referred to Committee on Health and Human Services. To committee.",
+        "journal": "Assembly: No Floor Session Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "date": "May 06, 2019",
+        "description": "From committee: Do pass.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "date": "May 07, 2019",
+        "description": "Read second time.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "date": "May 08, 2019",
+        "description": "Read third time. Passed. Title approved. (Yeas: 21, Nays: None.) To Assembly.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "date": "May 09, 2019",
+        "description": "In Assembly. To enrollment.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "date": "May 10, 2019",
+        "description": "Enrolled and delivered to Governor.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "date": "May 15, 2019",
+        "description": "Approved by the Governor. Chapter 52.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      }
+    ],
+    "hearings": [
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "committee": "Assembly Health and Human Services",
+        "date": "Feb 25, 2019",
+        "time": "See Agenda",
+        "recommendation": "Heard",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "committee": "Assembly Health and Human Services (Work Session)",
+        "date": "Apr 03, 2019",
+        "time": "See Agenda",
+        "recommendation": "Not considered",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "committee": "Assembly Health and Human Services (Work Session)",
+        "date": "Apr 08, 2019",
+        "time": "See Agenda",
+        "recommendation": "Amend, and do pass as amended",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "committee": "Senate Health and Human Services",
+        "date": "May 06, 2019",
+        "time": "4:00 PM",
+        "recommendation": "Do pass",
+        "source": "nelis"
+      }
+    ],
+    "votes": [
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "vote_type": "Final Passage",
+        "vote_type_id": "3",
+        "chamber_label": "Assembly (1st Reprint)",
+        "vote_key": "5848",
+        "counts": {
+          "Yea": 41,
+          "Nay": 0,
+          "Excused": 1,
+          "Absent": 0
+        },
+        "yea_voters": [
+          "Assefa, Alexander",
+          "Backus, Shea",
+          "Benitez-Thompson, Teresa",
+          "Bilbray-Axelrod, Shannon",
+          "Carlton, Maggie",
+          "Carrillo, Richard",
+          "Cohen, Lesley",
+          "Daly, Skip",
+          "Duran, Bea",
+          "Edwards, Chris",
+          "Ellison, John",
+          "Flores, Edgar",
+          "Frierson, Jason",
+          "Fumo, Ozzie",
+          "Gorelow, Michelle",
+          "Hafen, Gregory",
+          "Hansen, Alexis",
+          "Hardy, Melissa",
+          "Jauregui, Sandra",
+          "Kramer, Al",
+          "Krasner, Lisa",
+          "Leavitt, Glen",
+          "Martinez, Susie",
+          "McCurdy, William",
+          "Miller, Brittney",
+          "Monroe-Moreno, Daniele",
+          "Munk, Connie",
+          "Neal, Dina",
+          "Nguyen, Rochelle",
+          "Peters, Sarah",
+          "Roberts, Tom",
+          "Smith, Greg",
+          "Spiegel, Ellen",
+          "Swank, Heidi",
+          "Thompson, Tyrone",
+          "Titus, Robin",
+          "Tolles, Jill",
+          "Torres, Selena",
+          "Watts, Howard",
+          "Wheeler, Jim",
+          "Yeager, Steve"
+        ],
+        "nay_voters": [],
+        "not_voting": [],
+        "absent": [],
+        "excused": [
+          "Hambrick, John"
+        ],
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB133",
+        "vote_type": "Final Passage",
+        "vote_type_id": "3",
+        "chamber_label": "Senate (1st Reprint)",
+        "vote_key": "6047",
+        "counts": {
+          "Yea": 21,
+          "Nay": 0,
+          "Excused": 0,
+          "Absent": 0
+        },
+        "yea_voters": [
+          "Brooks, Chris",
+          "Cancela, Yvanna",
+          "Cannizzaro, Nicole",
+          "Denis, Moises",
+          "Dondero Loop, Marilyn",
+          "Goicoechea, Pete",
+          "Hammond, Scott",
+          "Hansen, Ira",
+          "Hardy, Joseph",
+          "Harris, Dallas",
+          "Kieckhefer, Ben",
+          "Ohrenschall, James",
+          "Parks, David",
+          "Pickard, Keith",
+          "Ratti, Julia",
+          "Scheible, Melanie",
+          "Seevers Gansert, Heidi",
+          "Settelmeyer, James",
+          "Spearman, Pat",
+          "Washington, Marcia",
+          "Woodhouse, Joyce"
+        ],
+        "nay_voters": [],
+        "not_voting": [],
+        "absent": [],
+        "excused": [],
+        "source": "nelis"
+      }
+    ],
+    "collected_at": "2026-07-24T18:47:54.510847+00:00"
+  },
+  "80:AB135": {
+    "session": "80",
+    "identifier": "AB135",
+    "nelis_bill_key": "6194",
+    "session_path": "80th2019",
+    "official_title": "AN ACT relating to land use planning; revising provisions governing the manner in which to terminate certain easements; requiring a public hearing to take action on a tentative map; requiring tentative and final maps to include certain information; and providing other matters properly relating thereto.",
+    "most_recent_history_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "sponsors": [
+      {
+        "name": "Assemblyman Richard Carrillo",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/18",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      }
+    ],
+    "actions": [
+      {
+        "session": "80",
+        "bill_identifier": "AB135",
+        "date": "Feb 13, 2019",
+        "description": "Read first time. Referred to Committee on Government Affairs. To printer.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB135",
+        "date": "Feb 14, 2019",
+        "description": "From printer. To committee.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB135",
+        "date": "Apr 13, 2019",
+        "description": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+        "journal": "Assembly: No Floor Session Senate: No Floor Session",
+        "source": "nelis"
+      }
+    ],
+    "hearings": [
+      {
+        "session": "80",
+        "bill_identifier": "AB135",
+        "committee": "Assembly Government Affairs",
+        "date": "Feb 28, 2019",
+        "time": "8:30 AM",
+        "recommendation": "Heard",
+        "source": "nelis"
+      }
+    ],
+    "votes": [],
+    "collected_at": "2026-07-24T18:47:57.491002+00:00"
+  },
+  "80:AB163": {
+    "session": "80",
+    "identifier": "AB163",
+    "nelis_bill_key": "6249",
+    "session_path": "80th2019",
+    "official_title": "AN ACT relating to water; revising certain requirements relating to a plan of water conservation; revising minimum standards for plumbing fixtures in new construction and expansions and renovations in certain structures; and providing other matters properly relating thereto.",
+    "most_recent_history_action": "Chapter 342.",
+    "sponsors": [
+      {
+        "name": "Assemblyman Howard Watts",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/15",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Senator Chris Brooks",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/3",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblywoman Lesley Cohen",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/29",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblywoman Rochelle Nguyen",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/10",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblywoman Sarah Peters",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/24",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      }
+    ],
+    "actions": [
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "Feb 15, 2019",
+        "description": "Read first time. Referred to Committee on Natural Resources, Agriculture, and Mining. To printer.",
+        "journal": "Assembly: Journal Senate: No Floor Session",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "Feb 18, 2019",
+        "description": "From printer. To committee.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "Mar 12, 2019",
+        "description": "Notice of eligibility for exemption.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "Apr 11, 2019",
+        "description": "From committee: Amend, and do pass as amended.",
+        "journal": "Assembly: Journal Senate: No Floor Session",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "Apr 15, 2019",
+        "description": "Read second time. Amended. (Amend. No. 137.) To printer.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "Apr 16, 2019",
+        "description": "From printer. To engrossment. Engrossed. First reprint. Read third time. Passed, as amended. Title approved. (Yeas: 28, Nays: 12, Excused: 2.) To Senate.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "Apr 17, 2019",
+        "description": "In Senate. Read first time. Referred to Committee on Natural Resources. To committee.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "May 14, 2019",
+        "description": "From committee: Amend, and do pass as amended. Placed on Second Reading File. Read second time. Amended. (Amend. No. 682.) To printer.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "May 15, 2019",
+        "description": "From printer. To re-engrossment. Re-engrossed. Second reprint. Taken from General File. Placed on General File for next legislative day.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "May 16, 2019",
+        "description": "Taken from General File. Placed on General File for next legislative day.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "May 20, 2019",
+        "description": "Read third time. Passed, as amended. Title approved. (Yeas: 14, Nays: 6, Excused: 1.) To Assembly.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "May 21, 2019",
+        "description": "In Assembly.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "May 27, 2019",
+        "description": "Senate Amendment No. 682 concurred in. To enrollment.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "Jun 01, 2019",
+        "description": "Enrolled and delivered to Governor.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "Jun 03, 2019",
+        "description": "Approved by the Governor.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "date": "Jun 05, 2019",
+        "description": "Chapter 342.",
+        "journal": "",
+        "source": "nelis"
+      }
+    ],
+    "hearings": [
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "committee": "Assembly Natural Resources, Agriculture, and Mining",
+        "date": "Mar 25, 2019",
+        "time": "12:48 PM",
+        "recommendation": "Heard",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "committee": "Assembly Natural Resources, Agriculture, and Mining (Work Session)",
+        "date": "Apr 01, 2019",
+        "time": "4:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "committee": "Senate Natural Resources",
+        "date": "May 02, 2019",
+        "time": "4:00 PM",
+        "recommendation": "Heard, No Action",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "committee": "Senate Natural Resources (Work Session)",
+        "date": "May 09, 2019",
+        "time": "4:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "source": "nelis"
+      }
+    ],
+    "votes": [
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "vote_type": "Final Passage",
+        "vote_type_id": "3",
+        "chamber_label": "Assembly (1st Reprint)",
+        "vote_key": "5626",
+        "counts": {
+          "Yea": 28,
+          "Nay": 12,
+          "Excused": 2,
+          "Absent": 0
+        },
+        "yea_voters": [
+          "Assefa, Alexander",
+          "Backus, Shea",
+          "Benitez-Thompson, Teresa",
+          "Bilbray-Axelrod, Shannon",
+          "Carlton, Maggie",
+          "Carrillo, Richard",
+          "Cohen, Lesley",
+          "Daly, Skip",
+          "Duran, Bea",
+          "Flores, Edgar",
+          "Frierson, Jason",
+          "Fumo, Ozzie",
+          "Gorelow, Michelle",
+          "Jauregui, Sandra",
+          "Martinez, Susie",
+          "McCurdy, William",
+          "Miller, Brittney",
+          "Monroe-Moreno, Daniele",
+          "Munk, Connie",
+          "Neal, Dina",
+          "Nguyen, Rochelle",
+          "Peters, Sarah",
+          "Smith, Greg",
+          "Swank, Heidi",
+          "Thompson, Tyrone",
+          "Torres, Selena",
+          "Watts, Howard",
+          "Yeager, Steve"
+        ],
+        "nay_voters": [
+          "Edwards, Chris",
+          "Ellison, John",
+          "Hafen, Gregory",
+          "Hansen, Alexis",
+          "Hardy, Melissa",
+          "Kramer, Al",
+          "Krasner, Lisa",
+          "Leavitt, Glen",
+          "Roberts, Tom",
+          "Titus, Robin",
+          "Tolles, Jill",
+          "Wheeler, Jim"
+        ],
+        "not_voting": [],
+        "absent": [],
+        "excused": [
+          "Hambrick, John",
+          "Spiegel, Ellen"
+        ],
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB163",
+        "vote_type": "Final Passage",
+        "vote_type_id": "3",
+        "chamber_label": "Senate (2nd Reprint)",
+        "vote_key": "6170",
+        "counts": {
+          "Yea": 14,
+          "Nay": 6,
+          "Excused": 1,
+          "Absent": 0
+        },
+        "yea_voters": [
+          "Brooks, Chris",
+          "Cancela, Yvanna",
+          "Cannizzaro, Nicole",
+          "Denis, Moises",
+          "Dondero Loop, Marilyn",
+          "Harris, Dallas",
+          "Kieckhefer, Ben",
+          "Ohrenschall, James",
+          "Parks, David",
+          "Ratti, Julia",
+          "Scheible, Melanie",
+          "Seevers Gansert, Heidi",
+          "Spearman, Pat",
+          "Woodhouse, Joyce"
+        ],
+        "nay_voters": [
+          "Goicoechea, Pete",
+          "Hammond, Scott",
+          "Hansen, Ira",
+          "Hardy, Joseph",
+          "Pickard, Keith",
+          "Settelmeyer, James"
+        ],
+        "not_voting": [],
+        "absent": [],
+        "excused": [
+          "Washington, Marcia"
+        ],
+        "source": "nelis"
+      }
+    ],
+    "collected_at": "2026-07-24T18:48:10.346878+00:00"
+  },
+  "80:AB174": {
+    "session": "80",
+    "identifier": "AB174",
+    "nelis_bill_key": "6275",
+    "session_path": "80th2019",
+    "official_title": "AN ACT relating to homelessness; establishing the Nevada Interagency Advisory Council on Homelessness to Housing; prescribing the membership and duties of the Council; and providing other matters properly relating thereto.",
+    "most_recent_history_action": "Chapter 343.",
+    "sponsors": [
+      {
+        "name": "Assemblyman Tyrone Thompson",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/17",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblywoman Bea Duran",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/11",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblyman Richard Carrillo",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/18",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblyman Ozzie Fumo",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/21",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblywoman Ellen Spiegel",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/20",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Senator David Parks",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/7",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Senator Julia Ratti",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/13",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Senator Yvanna Cancela",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/10",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Senator Dallas Harris",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Senate/80th2019/11",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      }
+    ],
+    "actions": [
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "Feb 18, 2019",
+        "description": "Read first time. Referred to Committee on Government Affairs. To printer.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "Feb 19, 2019",
+        "description": "From printer. To committee.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "Apr 15, 2019",
+        "description": "From committee: Amend, and do pass as amended.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "Apr 16, 2019",
+        "description": "Read second time. Amended. (Amend. No. 232.) To printer.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "Apr 17, 2019",
+        "description": "From printer. To engrossment. Engrossed. First reprint. Read third time. Passed, as amended. Title approved. (Yeas: 41, Nays: None, Excused: 1.) To Senate.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "Apr 18, 2019",
+        "description": "In Senate. Read first time. Referred to Committee on Government Affairs. To committee.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "May 16, 2019",
+        "description": "From committee: Amend, and do pass as amended.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "May 20, 2019",
+        "description": "Read second time. Amended. (Amend. No. 760.) To printer.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "May 21, 2019",
+        "description": "From printer. To re-engrossment. Re-engrossed. Second reprint. Read third time. Passed, as amended. Title approved. (Yeas: 20, Nays: None, Excused: 1.) To Assembly.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "May 22, 2019",
+        "description": "In Assembly.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "May 27, 2019",
+        "description": "Senate Amendment No. 760 concurred in. To enrollment.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "Jun 01, 2019",
+        "description": "Enrolled and delivered to Governor.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "Jun 03, 2019",
+        "description": "Approved by the Governor.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "date": "Jun 05, 2019",
+        "description": "Chapter 343.",
+        "journal": "",
+        "source": "nelis"
+      }
+    ],
+    "hearings": [
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "committee": "Assembly Government Affairs",
+        "date": "Mar 26, 2019",
+        "time": "8:30 AM",
+        "recommendation": "Heard",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "committee": "Assembly Government Affairs (Work Session)",
+        "date": "Apr 05, 2019",
+        "time": "8:30 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "committee": "Assembly Taxation",
+        "date": "Apr 11, 2019",
+        "time": "4:00 PM",
+        "recommendation": "Mentioned no jurisdiction",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "committee": "Senate Government Affairs",
+        "date": "May 01, 2019",
+        "time": "1:00 PM",
+        "recommendation": "Heard, No Action",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "committee": "Senate Government Affairs (Work Session)",
+        "date": "May 15, 2019",
+        "time": "1:00 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "source": "nelis"
+      }
+    ],
+    "votes": [
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "vote_type": "Final Passage",
+        "vote_type_id": "3",
+        "chamber_label": "Assembly (1st Reprint)",
+        "vote_key": "5711",
+        "counts": {
+          "Yea": 41,
+          "Nay": 0,
+          "Excused": 1,
+          "Absent": 0
+        },
+        "yea_voters": [
+          "Assefa, Alexander",
+          "Backus, Shea",
+          "Benitez-Thompson, Teresa",
+          "Bilbray-Axelrod, Shannon",
+          "Carlton, Maggie",
+          "Carrillo, Richard",
+          "Cohen, Lesley",
+          "Daly, Skip",
+          "Duran, Bea",
+          "Edwards, Chris",
+          "Ellison, John",
+          "Flores, Edgar",
+          "Frierson, Jason",
+          "Fumo, Ozzie",
+          "Gorelow, Michelle",
+          "Hafen, Gregory",
+          "Hansen, Alexis",
+          "Hardy, Melissa",
+          "Jauregui, Sandra",
+          "Kramer, Al",
+          "Krasner, Lisa",
+          "Leavitt, Glen",
+          "Martinez, Susie",
+          "McCurdy, William",
+          "Miller, Brittney",
+          "Monroe-Moreno, Daniele",
+          "Munk, Connie",
+          "Neal, Dina",
+          "Nguyen, Rochelle",
+          "Peters, Sarah",
+          "Roberts, Tom",
+          "Smith, Greg",
+          "Spiegel, Ellen",
+          "Swank, Heidi",
+          "Thompson, Tyrone",
+          "Titus, Robin",
+          "Tolles, Jill",
+          "Torres, Selena",
+          "Watts, Howard",
+          "Wheeler, Jim",
+          "Yeager, Steve"
+        ],
+        "nay_voters": [],
+        "not_voting": [],
+        "absent": [],
+        "excused": [
+          "Hambrick, John"
+        ],
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB174",
+        "vote_type": "Final Passage",
+        "vote_type_id": "3",
+        "chamber_label": "Senate (2nd Reprint)",
+        "vote_key": "6193",
+        "counts": {
+          "Yea": 20,
+          "Nay": 0,
+          "Excused": 1,
+          "Absent": 0
+        },
+        "yea_voters": [
+          "Brooks, Chris",
+          "Cancela, Yvanna",
+          "Cannizzaro, Nicole",
+          "Denis, Moises",
+          "Dondero Loop, Marilyn",
+          "Goicoechea, Pete",
+          "Hammond, Scott",
+          "Hansen, Ira",
+          "Hardy, Joseph",
+          "Harris, Dallas",
+          "Kieckhefer, Ben",
+          "Ohrenschall, James",
+          "Parks, David",
+          "Pickard, Keith",
+          "Ratti, Julia",
+          "Scheible, Melanie",
+          "Seevers Gansert, Heidi",
+          "Settelmeyer, James",
+          "Spearman, Pat",
+          "Woodhouse, Joyce"
+        ],
+        "nay_voters": [],
+        "not_voting": [],
+        "absent": [],
+        "excused": [
+          "Washington, Marcia"
+        ],
+        "source": "nelis"
+      }
+    ],
+    "collected_at": "2026-07-24T18:48:23.484572+00:00"
+  },
+  "80:AB177": {
+    "session": "80",
+    "identifier": "AB177",
+    "nelis_bill_key": "6280",
+    "session_path": "80th2019",
+    "official_title": "AN ACT relating to motor vehicles; requiring the Department of Motor Vehicles to establish a program to allow for registration and renewal of registration of certain fleets of vehicles owned by short-term lessors; allowing certificates of registration and license plate decals to continue to be valid without replacement in certain circumstances; and providing other matters properly relating thereto.",
+    "most_recent_history_action": "Approved by the Governor. Chapter 34.",
+    "sponsors": [
+      {
+        "name": "Assemblyman Steve Yeager",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/9",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      }
+    ],
+    "actions": [
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "date": "Feb 18, 2019",
+        "description": "Read first time. Referred to Committee on Growth and Infrastructure. To printer.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "date": "Feb 19, 2019",
+        "description": "From printer. To committee.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "date": "Mar 12, 2019",
+        "description": "Notice of eligibility for exemption.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "date": "Apr 16, 2019",
+        "description": "From committee: Amend, and do pass as amended.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "date": "Apr 17, 2019",
+        "description": "Read second time. Amended. (Amend. No. 109.) To printer.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "date": "Apr 18, 2019",
+        "description": "From printer. To engrossment. Engrossed. First reprint. Read third time. Passed, as amended. Title approved, as amended. (Yeas: 41, Nays: None, Excused: 1.) To Senate.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "date": "Apr 19, 2019",
+        "description": "In Senate. Read first time. Referred to Committee on Growth and Infrastructure. To committee.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "date": "May 03, 2019",
+        "description": "From committee: Do pass.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "date": "May 06, 2019",
+        "description": "Read second time.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "date": "May 07, 2019",
+        "description": "Read third time. Passed. Title approved. (Yeas: 21, Nays: None.) To Assembly.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "date": "May 08, 2019",
+        "description": "In Assembly. To enrollment.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "date": "May 09, 2019",
+        "description": "Enrolled and delivered to Governor.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "date": "May 14, 2019",
+        "description": "Approved by the Governor. Chapter 34.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      }
+    ],
+    "hearings": [
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "committee": "Assembly Growth and Infrastructure",
+        "date": "Mar 19, 2019",
+        "time": "1:30 PM",
+        "recommendation": "Heard",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Mar 26, 2019",
+        "time": "1:30 PM",
+        "recommendation": "Mentioned No Jurisdiction",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "committee": "Assembly Growth and Infrastructure (Work Session)",
+        "date": "Mar 28, 2019",
+        "time": "12:30 PM",
+        "recommendation": "Amend, and do pass as amended",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "committee": "Senate Growth and Infrastructure",
+        "date": "Apr 30, 2019",
+        "time": "1:30 PM",
+        "recommendation": "Heard, No Action",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "committee": "Senate Growth and Infrastructure (Work Session)",
+        "date": "May 02, 2019",
+        "time": "1:30 PM",
+        "recommendation": "Do pass",
+        "source": "nelis"
+      }
+    ],
+    "votes": [
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "vote_type": "Final Passage",
+        "vote_type_id": "3",
+        "chamber_label": "Assembly (1st Reprint)",
+        "vote_key": "5741",
+        "counts": {
+          "Yea": 41,
+          "Nay": 0,
+          "Excused": 1,
+          "Absent": 0
+        },
+        "yea_voters": [
+          "Assefa, Alexander",
+          "Backus, Shea",
+          "Benitez-Thompson, Teresa",
+          "Bilbray-Axelrod, Shannon",
+          "Carlton, Maggie",
+          "Carrillo, Richard",
+          "Cohen, Lesley",
+          "Daly, Skip",
+          "Duran, Bea",
+          "Edwards, Chris",
+          "Ellison, John",
+          "Flores, Edgar",
+          "Frierson, Jason",
+          "Fumo, Ozzie",
+          "Gorelow, Michelle",
+          "Hafen, Gregory",
+          "Hansen, Alexis",
+          "Hardy, Melissa",
+          "Jauregui, Sandra",
+          "Kramer, Al",
+          "Krasner, Lisa",
+          "Leavitt, Glen",
+          "Martinez, Susie",
+          "McCurdy, William",
+          "Miller, Brittney",
+          "Monroe-Moreno, Daniele",
+          "Munk, Connie",
+          "Neal, Dina",
+          "Nguyen, Rochelle",
+          "Peters, Sarah",
+          "Roberts, Tom",
+          "Smith, Greg",
+          "Spiegel, Ellen",
+          "Swank, Heidi",
+          "Thompson, Tyrone",
+          "Titus, Robin",
+          "Tolles, Jill",
+          "Torres, Selena",
+          "Watts, Howard",
+          "Wheeler, Jim",
+          "Yeager, Steve"
+        ],
+        "nay_voters": [],
+        "not_voting": [],
+        "absent": [],
+        "excused": [
+          "Hambrick, John"
+        ],
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB177",
+        "vote_type": "Final Passage",
+        "vote_type_id": "3",
+        "chamber_label": "Senate (1st Reprint)",
+        "vote_key": "6029",
+        "counts": {
+          "Yea": 21,
+          "Nay": 0,
+          "Excused": 0,
+          "Absent": 0
+        },
+        "yea_voters": [
+          "Brooks, Chris",
+          "Cancela, Yvanna",
+          "Cannizzaro, Nicole",
+          "Denis, Moises",
+          "Dondero Loop, Marilyn",
+          "Goicoechea, Pete",
+          "Hammond, Scott",
+          "Hansen, Ira",
+          "Hardy, Joseph",
+          "Harris, Dallas",
+          "Kieckhefer, Ben",
+          "Ohrenschall, James",
+          "Parks, David",
+          "Pickard, Keith",
+          "Ratti, Julia",
+          "Scheible, Melanie",
+          "Seevers Gansert, Heidi",
+          "Settelmeyer, James",
+          "Spearman, Pat",
+          "Washington, Marcia",
+          "Woodhouse, Joyce"
+        ],
+        "nay_voters": [],
+        "not_voting": [],
+        "absent": [],
+        "excused": [],
+        "source": "nelis"
+      }
+    ],
+    "collected_at": "2026-07-24T18:48:36.087155+00:00"
+  },
+  "80:AB187": {
+    "session": "80",
+    "identifier": "AB187",
+    "nelis_bill_key": "6290",
+    "session_path": "80th2019",
+    "official_title": "AN ACT relating to public safety; requiring a parent or guardian to ensure that a child wears a safety helmet when operating, using or riding, or when the child is a passenger on or is being pulled by someone operating, using or riding a bicycle or certain other recreational devices; providing a penalty; and providing other matters properly relating thereto.",
+    "most_recent_history_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+    "sponsors": [
+      {
+        "name": "Assemblywoman Ellen Spiegel",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/20",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblywoman Shannon Bilbray-Axelrod",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/34",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblywoman Bea Duran",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/11",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblyman Ozzie Fumo",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/21",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblywoman Connie Munk",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/4",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      }
+    ],
+    "actions": [
+      {
+        "session": "80",
+        "bill_identifier": "AB187",
+        "date": "Feb 18, 2019",
+        "description": "Read first time. Referred to Committee on Judiciary. To printer.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB187",
+        "date": "Feb 19, 2019",
+        "description": "From printer. To committee.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB187",
+        "date": "Apr 13, 2019",
+        "description": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+        "journal": "Assembly: No Floor Session Senate: No Floor Session",
+        "source": "nelis"
+      }
+    ],
+    "hearings": [
+      {
+        "session": "80",
+        "bill_identifier": "AB187",
+        "committee": "Assembly Judiciary",
+        "date": "Mar 11, 2019",
+        "time": "9:00 AM",
+        "recommendation": "Heard",
+        "source": "nelis"
+      }
+    ],
+    "votes": [],
+    "collected_at": "2026-07-24T18:48:39.193237+00:00"
+  },
+  "80:AB196": {
+    "session": "80",
+    "identifier": "AB196",
+    "nelis_bill_key": "6302",
+    "session_path": "80th2019",
+    "official_title": "AN ACT making an appropriation to the Department of Education for incentives for teachers who currently teach at Title I schools and schools designated as underperforming; and providing other matters properly relating thereto.",
+    "most_recent_history_action": "Chapter 488.",
+    "sponsors": [
+      {
+        "name": "Assemblyman Jason Frierson",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/8",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblyman Tyrone Thompson",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/17",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblywoman Ellen Spiegel",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/20",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblywoman Teresa Benitez-Thompson",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/27",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      },
+      {
+        "name": "Assemblywoman Daniele Monroe-Moreno",
+        "classification": "primary",
+        "primary": true,
+        "entity_type": "person",
+        "source_url": "https://www.leg.state.nv.us/App/Legislator/A/Assembly/80th2019/1",
+        "session_path": "80th2019",
+        "party": "Democratic"
+      }
+    ],
+    "actions": [
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "date": "Feb 18, 2019",
+        "description": "Read first time. Referred to Committee on Ways and Means. To printer.",
+        "journal": "Assembly: Journal Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "date": "Feb 19, 2019",
+        "description": "From printer. To committee.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "date": "Feb 25, 2019",
+        "description": "Notice of exemption.",
+        "journal": "Assembly: Not discussed Senate: Not discussed",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "date": "Jun 01, 2019",
+        "description": "From committee: Amend, and do pass as amended. Declared an emergency measure under the Constitution. Read third time. Amended. (Amend. No. 1079.) Dispensed with reprinting. Read third time. Passed, as amended. Title approved, as amended. (Yeas: 38, Nays: None, Excused: 3, Vacant: 1.) To printer. From printer. To engrossment. Engrossed. First reprint. To Senate. In Senate. Read first time. Referred to Committee on Finance. To committee.",
+        "journal": "Assembly: Journal Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "date": "Jun 02, 2019",
+        "description": "From committee: Do pass. Placed on Second Reading File. Read second time.",
+        "journal": "Assembly: Not discussed Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "date": "Jun 03, 2019",
+        "description": "Read third time. Passed. Title approved. (Yeas: 21, Nays: None.) To Assembly. In Assembly. To enrollment.",
+        "journal": "Assembly: Journal Senate: Journal",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "date": "Jun 06, 2019",
+        "description": "Enrolled and delivered to Governor.",
+        "journal": "",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "date": "Jun 07, 2019",
+        "description": "Approved by the Governor.",
+        "journal": "",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "date": "Jun 10, 2019",
+        "description": "Chapter 488.",
+        "journal": "",
+        "source": "nelis"
+      }
+    ],
+    "hearings": [
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "committee": "Assembly Ways and Means",
+        "date": "May 28, 2019",
+        "time": "8:00 AM",
+        "recommendation": "Heard",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "committee": "Assembly Ways and Means",
+        "date": "Jun 01, 2019",
+        "time": "8:00 AM",
+        "recommendation": "Amend, and do pass as amended",
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "committee": "Senate Finance",
+        "date": "Jun 02, 2019",
+        "time": "10:00 AM",
+        "recommendation": "Do pass",
+        "source": "nelis"
+      }
+    ],
+    "votes": [
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "vote_type": "Final Passage",
+        "vote_type_id": "3",
+        "chamber_label": "Assembly (1st Reprint)",
+        "vote_key": "6720",
+        "counts": {
+          "Yea": 38,
+          "Nay": 0,
+          "Excused": 3,
+          "Absent": 0
+        },
+        "yea_voters": [
+          "Assefa, Alexander",
+          "Backus, Shea",
+          "Benitez-Thompson, Teresa",
+          "Bilbray-Axelrod, Shannon",
+          "Carlton, Maggie",
+          "Carrillo, Richard",
+          "Cohen, Lesley",
+          "Daly, Skip",
+          "Duran, Bea",
+          "Edwards, Chris",
+          "Ellison, John",
+          "Flores, Edgar",
+          "Frierson, Jason",
+          "Fumo, Ozzie",
+          "Gorelow, Michelle",
+          "Hafen, Gregory",
+          "Hambrick, John",
+          "Hansen, Alexis",
+          "Hardy, Melissa",
+          "Jauregui, Sandra",
+          "Kramer, Al",
+          "Krasner, Lisa",
+          "Leavitt, Glen",
+          "McCurdy, William",
+          "Miller, Brittney",
+          "Monroe-Moreno, Daniele",
+          "Munk, Connie",
+          "Nguyen, Rochelle",
+          "Peters, Sarah",
+          "Roberts, Tom",
+          "Smith, Greg",
+          "Spiegel, Ellen",
+          "Swank, Heidi",
+          "Tolles, Jill",
+          "Torres, Selena",
+          "Watts, Howard",
+          "Wheeler, Jim",
+          "Yeager, Steve"
+        ],
+        "nay_voters": [],
+        "not_voting": [],
+        "absent": [],
+        "excused": [
+          "Martinez, Susie",
+          "Neal, Dina",
+          "Titus, Robin"
+        ],
+        "source": "nelis"
+      },
+      {
+        "session": "80",
+        "bill_identifier": "AB196",
+        "vote_type": "Final Passage",
+        "vote_type_id": "3",
+        "chamber_label": "Senate (1st Reprint)",
+        "vote_key": "6858",
+        "counts": {
+          "Yea": 21,
+          "Nay": 0,
+          "Excused": 0,
+          "Absent": 0
+        },
+        "yea_voters": [
+          "Brooks, Chris",
+          "Cancela, Yvanna",
+          "Cannizzaro, Nicole",
+          "Denis, Moises",
+          "Dondero Loop, Marilyn",
+          "Goicoechea, Pete",
+          "Hammond, Scott",
+          "Hansen, Ira",
+          "Hardy, Joseph",
+          "Harris, Dallas",
+          "Kieckhefer, Ben",
+          "Ohrenschall, James",
+          "Parks, David",
+          "Pickard, Keith",
+          "Ratti, Julia",
+          "Scheible, Melanie",
+          "Seevers Gansert, Heidi",
+          "Settelmeyer, James",
+          "Spearman, Pat",
+          "Washington, Marcia",
+          "Woodhouse, Joyce"
+        ],
+        "nay_voters": [],
+        "not_voting": [],
+        "absent": [],
+        "excused": [],
+        "source": "nelis"
+      }
+    ],
+    "collected_at": "2026-07-24T18:48:51.932088+00:00"
+  }
+}
