@@ -1,0 +1,167 @@
+{
+ "note": "Manual check of the six 2020-2025 special sessions (31st2020, 32nd2020, 33rd2021, 34th2023, 35th2023, 36th2025) for K-12-education-relevant bills, per RUNBOOK step 2. Full bill lists were reviewed by title and, for candidates, by NELIS digest. The two bills below are the only K-12-relevant items; both are from the 31st (2020) Special Session, the COVID budget session. The regular pipeline covers only the four regular sessions (80-83).",
+ "checked_at": "2026-07-25T01:54:57.609473+00:00",
+ "sessions_checked": [
+  "31st2020Special",
+  "32nd2020Special",
+  "33rd2021Special",
+  "34th2023Special",
+  "35th2023Special",
+  "36th2025Special"
+ ],
+ "reviewed_and_excluded": [
+  {
+   "session_path": "31st2020Special",
+   "identifier": "SB1",
+   "reason": "State capital-improvement bond reallocation; no K-12 education provisions in the digest."
+  },
+  {
+   "session_path": "31st2020Special",
+   "identifier": "SB2",
+   "reason": "Governor Guinn Millennium Scholarship eligibility waivers (Board of Regents) - postsecondary, outside the K-12 scope."
+  },
+  {
+   "session_path": "36th2025Special",
+   "identifier": "AB5",
+   "reason": "Film-studio infrastructure tax credits and workforce training (Summerlin Production Studios) - economic development, not K-12 education."
+  },
+  {
+   "note": "The 32nd (2020) Special Session covered policing, elections, evictions, unemployment and mining-tax resolutions; the 33rd (2021) was redistricting; the 34th (2023) was capital projects; the 35th (2023) was one economic-infrastructure (stadium) bill. No K-12 education bills in any of them."
+  }
+ ],
+ "bills": [
+  {
+   "session_path": "31st2020Special",
+   "identifier": "AB2",
+   "nelis_bill_key": "7126",
+   "short_note": "Would have let a large school district (Clark County) treat local school precincts' year-end balances as unrestricted for FY 2020-2021 to fund instructional services; never voted - placed on the Chief Clerk's desk and the session ended (\"No further action taken\").",
+   "official_title": "AN ACT relating to large school districts; temporarily removing a requirement for the year-end balances of local school precincts in a large school district to be carried forward as a restricted fund balance; and providing other matters properly relating thereto.",
+   "digest_first_1200": "Existing law requires: (1) each local school precinct in a large school district to carry forward its year-end balance for use in the next school year; and (2) each large school district to account for such amounts as a restricted fund balance. (NRS 388G.650) This bill authorizes a large school district to treat the year-end balances of local school precincts as unrestricted fund balances for the fiscal year beginning July 1, 2020, for the purpose of providing instructional services and programs to local school precincts.",
+   "most_recent_history_action": "No further action taken.",
+   "sponsors": [
+    {
+     "name": "Assembly Committee of the Whole",
+     "classification": "primary"
+    }
+   ],
+   "history": [
+    {
+     "date": "Jul 09, 2020",
+     "description": "Read first time. Referred to Committee of the Whole. To printer.",
+     "journal": "Assembly: Journal Senate: Not discussed"
+    },
+    {
+     "date": "Jul 10, 2020",
+     "description": "From printer. To committee.",
+     "journal": "Assembly: Not discussed Senate: Not discussed"
+    },
+    {
+     "date": "Jul 13, 2020",
+     "description": "From committee: Considered. Declared an emergency measure under the Constitution. Taken from General File. Placed on Chief Clerk's desk.",
+     "journal": "Assembly: Journal(Not Yet Available) Senate: Not discussed"
+    },
+    {
+     "date": "Jul 20, 2020",
+     "description": "No further action taken.",
+     "journal": ""
+    }
+   ],
+   "votes": [],
+   "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/31st2020Special/Bill/7126/Overview"
+  },
+  {
+   "session_path": "31st2020Special",
+   "identifier": "AB3",
+   "nelis_bill_key": "7127",
+   "short_note": "The COVID budget-reduction act (enacted, Chapter 5): reduced FY 2020-2021 appropriations across state government, including K-12 education accounts.",
+   "official_title": "AN ACT relating to state financial administration; reducing certain appropriations and other money budgeted for Fiscal Year 2020-2021; authorizing certain sums appropriated to the Department of Health and Human Services to be transferred among the various budget accounts of the Department under certain circumstances; requiring the transfer of certain money to the State General Fund; revising various provisions relating to the authority for such transfers; authorizing certain expenditures; temporarily suspending the transfer from the State General Fund to the Account to Stabilize the Operation ",
+   "digest_first_1200": "The Legislature appropriated various sums of money for the support of the government of the State of Nevada and for other specific purposes during the 2019 Legislative Session. Sections 1-8, 10-14, 16-56 and 57-81 of this bill reduce certain appropriations for Fiscal Year 2020-2021. Existing law provides a procedure for the revision of the work program of any department, institution or agency of the Executive Department of the State Government. (NRS 353.220) During the remainder of Fiscal Year 2020-2021, section 15 of this bill authorizes the transfer of certain sums appropriated to the Department of Health and Human Services among the various budget accounts of the Department in the same manner and within the same limits as allowed for revisions of work programs in NRS 353.220. Section 15 also provides that the appropriations made to the Supreme Court of Nevada for Fiscal Year 2019-2020 and Fiscal Year 2020-2021 are available for both fiscal years and authorizes transfers of such money among certain budget accounts of the Supreme Court and from one fiscal year to the other upon certain approval. Section 82 of this bill reduces the current amount of money budgeted for Fiscal Year 2",
+   "most_recent_history_action": "Enrolled and delivered to Governor. Chapter 5.",
+   "sponsors": [
+    {
+     "name": "Assembly Committee of the Whole",
+     "classification": "primary"
+    }
+   ],
+   "history": [
+    {
+     "date": "Jul 09, 2020",
+     "description": "Read first time. Referred to Committee of the Whole. To printer.",
+     "journal": "Assembly: Journal Senate: Not discussed"
+    },
+    {
+     "date": "Jul 10, 2020",
+     "description": "From printer. To committee.",
+     "journal": "Assembly: Not discussed Senate: Not discussed"
+    },
+    {
+     "date": "Jul 15, 2020",
+     "description": "From committee: Considered. Declared an emergency measure under the Constitution. Taken from General File. Placed on General File for next legislative day.",
+     "journal": "Assembly: Journal Senate: Not discussed"
+    },
+    {
+     "date": "Jul 16, 2020",
+     "description": "Taken from General File. Placed on General File for next legislative day.",
+     "journal": "Assembly: Journal Senate: Not discussed"
+    },
+    {
+     "date": "Jul 18, 2020",
+     "description": "Read third time. Amended. (Amend. No. 4.) Dispensed with reprinting. Taken from General File. Rereferred to Committee of the Whole. To committee. From committee: Considered. Read third time. Passed, as amended. Title approved, as amended. (Yeas: 29, Nays: 13.) To printer. From printer. To engrossment. Engrossed. First reprint.",
+     "journal": "Assembly: Journal Senate: Not discussed"
+    },
+    {
+     "date": "Jul 19, 2020",
+     "description": "Action of passage rescinded. Read third time. Amended. (Amend. No. 7.) Dispensed with reprinting. Read third time. Passed, as amended. Title approved. (Yeas: 36, Nays: 6.) To printer. From printer. To reengrossment. Reengrossed. Second reprint. To Senate. In Senate. Read first time. Referred to Committee of the Whole. To committee. From committee: Do pass. Declared an emergency measure under the Constitution. Read third time. Passed. Title approved. (Yeas: 21, Nays: None.) To Assembly. In Assembly. To enrollment.",
+     "journal": "Assembly: Journal Senate: Journal"
+    },
+    {
+     "date": "Jul 20, 2020",
+     "description": "Enrolled and delivered to Governor. Chapter 5.",
+     "journal": ""
+    }
+   ],
+   "votes": [
+    {
+     "vote_type": "Final Passage",
+     "chamber_label": "Assembly (2nd Reprint)",
+     "vote_key": "6934",
+     "counts": {
+      "Yea": 36,
+      "Nay": 6,
+      "Excused": 0,
+      "Absent": 0
+     }
+    },
+    {
+     "vote_type": "Final Passage",
+     "chamber_label": "Assembly (1st Reprint)",
+     "vote_key": "6933",
+     "counts": {
+      "Yea": 29,
+      "Nay": 13,
+      "Excused": 0,
+      "Absent": 0
+     }
+    },
+    {
+     "vote_type": "Final Passage",
+     "chamber_label": "Senate (2nd Reprint)",
+     "vote_key": "6935",
+     "counts": {
+      "Yea": 21,
+      "Nay": 0,
+      "Excused": 0,
+      "Absent": 0
+     }
+    }
+   ],
+   "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/31st2020Special/Bill/7127/Overview",
+   "bill_text_url": "https://www.leg.state.nv.us/Session/31st2020Special/Bills/AB/AB3_EN.pdf",
+   "education_provisions_verified_from_enrolled_text": [
+    "Sec. 71 amends 2019 Statutes ch. 376 sec. 25 to strike the Fiscal Year 2020-2021 transfer of $31,429,229 for the Read by Grade 3 grant program (leaving only the FY 2019-2020 $31,454,516).",
+    "Sec. 131.6 sets the order of priority for restoring reductions if federal offset money arrives: priority 1 is Budget Account 101-2677 (New Nevada Education Funding Plan) and priority 2 is Budget Account 101-2699 (Read by Grade Three).",
+    "School Safety Account transfers reduced (e.g., $876,020 transferred out of Department of Education - School Safety)."
+   ]
+  }
+ ]
+}
