@@ -7,3 +7,7 @@ __pycache__/
 sources/nevada/water-scarcity/raw/bill-text/
 sources/nevada/water-scarcity/raw/committee-minutes/
 sources/nevada/water-scarcity/raw/committee-minutes/
+
+# Local bill PDF downloads for housing-affordability (summaries + official URLs are committed)
+sources/nevada/housing-affordability/raw/bill-text/
+sources/nevada/housing-affordability/raw/committee-minutes/

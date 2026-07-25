@@ -1,0 +1,2173 @@
+{
+  "note": "Evidence Curator v2.2 curation map for nevada-housing-affordability. One entry per bill: plain_topic (citizen wording), theme_id, relevance (core = housing affordability/supply, renting, or housing-program policy is the point of the bill; adjacent = touches housing in part; context = found by broad search or omnibus indexing but not housing policy). Themes are citizen-facing labels. Written by reading every NELIS Overview digest.",
+  "themes": {
+    "renting-costs": "Rent levels, fees, deposits, and what landlords can charge",
+    "tenant-protections": "Evictions, housing discrimination, and renter protections",
+    "affordable-housing-money": "Money, tax breaks, and financing for affordable and attainable housing",
+    "corporate-buyers": "Corporate and investor buying of homes",
+    "buying-a-home": "Buying and keeping a home (down payments, mortgages, foreclosure)",
+    "zoning-density": "Zoning, density, ADUs, and what can be built where",
+    "manufactured-homes": "Manufactured, mobile, tiny, and factory-built homes",
+    "developer-obligations": "Developer fees, obligations, and infrastructure",
+    "homelessness": "Homelessness and getting people into housing",
+    "housing-studies": "Housing data, studies, and state housing bodies",
+    "context": "Context bills (not housing policy)"
+  },
+  "bills": {
+    "80:AB123": {
+      "plain_topic": "Immunization records at schools; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB133": {
+      "plain_topic": "Legislative findings on youth homelessness and county funding intent",
+      "theme": "homelessness",
+      "relevance": "adjacent"
+    },
+    "80:AB135": {
+      "plain_topic": "Subdivision map procedures: hearings and deadlines for tentative maps",
+      "theme": "zoning-density",
+      "relevance": "adjacent"
+    },
+    "80:AB163": {
+      "plain_topic": "Water conservation plans and plumbing standards; a water bill, not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB174": {
+      "plain_topic": "Put the Nevada Interagency Advisory Council on Homelessness to Housing into statute",
+      "theme": "homelessness",
+      "relevance": "core"
+    },
+    "80:AB177": {
+      "plain_topic": "DMV registration for short-term lessor vehicle fleets; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB187": {
+      "plain_topic": "Bicycle helmets for children; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB196": {
+      "plain_topic": "Money for teacher incentives at Title I schools; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB198": {
+      "plain_topic": "Sale or lease of surplus highway land by NDOT; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB234": {
+      "plain_topic": "Child care for children with disabilities; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB240": {
+      "plain_topic": "Made five northern counties report jointly on managing growth in the region",
+      "theme": "zoning-density",
+      "relevance": "adjacent"
+    },
+    "80:AB244": {
+      "plain_topic": "School-overcrowding tax advisory committees; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB247": {
+      "plain_topic": "Power of attorney for a child's care; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB266": {
+      "plain_topic": "Sealed more eviction court records automatically so old cases don't follow renters",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "80:AB275": {
+      "plain_topic": "Occupational licensing regardless of immigration status; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB289": {
+      "plain_topic": "Grade 3 reading retention rules; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB294": {
+      "plain_topic": "School credit transfer for pupils with unstable housing; an education bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB308": {
+      "plain_topic": "Payroll tax credit for employer-paid education; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB309": {
+      "plain_topic": "School funding accounts; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB312": {
+      "plain_topic": "School rating weights; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB318": {
+      "plain_topic": "Work-based learning policy in schools; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB319": {
+      "plain_topic": "Criminal-history pre-checks for occupational licenses; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB345": {
+      "plain_topic": "County-wide polling places; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB349": {
+      "plain_topic": "Crimes by law enforcement; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB352": {
+      "plain_topic": "Required plain disclosures in reverse-mortgage ads aimed at homeowners",
+      "theme": "buying-a-home",
+      "relevance": "adjacent"
+    },
+    "80:AB359": {
+      "plain_topic": "Work-based learning networks; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB363": {
+      "plain_topic": "DMV fee waivers for homeless youth; a services bill, not housing supply",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB364": {
+      "plain_topic": "Let people get title to a manufactured home when the old ownership papers are missing",
+      "theme": "manufactured-homes",
+      "relevance": "adjacent"
+    },
+    "80:AB365": {
+      "plain_topic": "Rental-car damage waiver price caps; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB368": {
+      "plain_topic": "Washoe hotel room surcharge for tourism facilities; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB378": {
+      "plain_topic": "School crisis plans; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB383": {
+      "plain_topic": "Created a Student Loan Ombudsman for borrowers; student-loan policy, not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB386": {
+      "plain_topic": "Moulin Rouge commemorative license plates; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB388": {
+      "plain_topic": "Property-tax exemption for rented heavy equipment; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB393": {
+      "plain_topic": "Paused foreclosures and evictions for government workers during shutdowns",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "80:AB398": {
+      "plain_topic": "License exemption for wholesale commercial mortgage lenders; not consumer housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB403": {
+      "plain_topic": "Reckless driving on private premises; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB405": {
+      "plain_topic": "State bonds to finance student loans; student-loan finance, not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB406": {
+      "plain_topic": "Carson City airport authority governance; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB411": {
+      "plain_topic": "Civil penalties for traffic violations; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB417": {
+      "plain_topic": "Name-based criminal background checks used in screening (including tenants)",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "80:AB430": {
+      "plain_topic": "Study of early-childhood home visitation; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB461": {
+      "plain_topic": "College liaison for homeless pupils; an education bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB465": {
+      "plain_topic": "Utility solar program for renters and small customers; an energy bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB472": {
+      "plain_topic": "Insurance coverage for gestational carriers; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB476": {
+      "plain_topic": "Recreated the state Advisory Committee on Housing to advise the Housing Division",
+      "theme": "housing-studies",
+      "relevance": "core"
+    },
+    "80:AB477": {
+      "plain_topic": "Consumer form-contract protections; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB492": {
+      "plain_topic": "Industrial insurance for first responders; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB5": {
+      "plain_topic": "Let local governments amend master-plan land use more often for rezonings up to 250 parcels",
+      "theme": "zoning-density",
+      "relevance": "adjacent"
+    },
+    "80:AB500": {
+      "plain_topic": "State financial administration; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB68": {
+      "plain_topic": "Apprenticeship program rules; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB73": {
+      "plain_topic": "Created a temporary Clark County working group on reducing homelessness and its funding",
+      "theme": "homelessness",
+      "relevance": "adjacent"
+    },
+    "80:SB103": {
+      "plain_topic": "Let local governments cut or subsidize impact and permit fees for affordable housing projects",
+      "theme": "developer-obligations",
+      "relevance": "core"
+    },
+    "80:SB104": {
+      "plain_topic": "Added local reports to the statewide low-income housing database",
+      "theme": "housing-studies",
+      "relevance": "core"
+    },
+    "80:SB11": {
+      "plain_topic": "Fire-marshal building code exemptions for big cities; administrative, not housing cost",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB117": {
+      "plain_topic": "Made it easier to void racist deed restrictions on homes",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "80:SB132": {
+      "plain_topic": "University property proceeds; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB141": {
+      "plain_topic": "Equal Rights Commission outreach on discrimination complaints, including housing",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "80:SB147": {
+      "plain_topic": "School credit for homeless pupils; an education bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB148": {
+      "plain_topic": "Moving-cost rules when a manufactured home park converts to seniors-only",
+      "theme": "manufactured-homes",
+      "relevance": "core"
+    },
+    "80:SB150": {
+      "plain_topic": "Water resource plans in local master plans; a water bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB151": {
+      "plain_topic": "Rewrote the summary eviction process for renters, with longer notice for late rent",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "80:SB184": {
+      "plain_topic": "Child-witness identity protection; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB190": {
+      "plain_topic": "2020 Census outreach commission; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB194": {
+      "plain_topic": "Matched-savings accounts (IDAs) low-income families can use toward goals like a home",
+      "theme": "buying-a-home",
+      "relevance": "adjacent"
+    },
+    "80:SB199": {
+      "plain_topic": "Assessor reports on residential ownership changes to the county treasurer; administrative",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB202": {
+      "plain_topic": "Reporting on pupils with disabilities; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB203": {
+      "plain_topic": "Hearing-device discounts for children; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB207": {
+      "plain_topic": "Apprentices on public works; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB210": {
+      "plain_topic": "Community solar program; an energy bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB212": {
+      "plain_topic": "Towing notice rules at residential complexes",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "80:SB222": {
+      "plain_topic": "Hearing aids for children; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB247": {
+      "plain_topic": "Parental consent for minors' mental health care; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB248": {
+      "plain_topic": "Summary divorce procedures; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB250": {
+      "plain_topic": "Water-right dedication before land divisions; a water bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB251": {
+      "plain_topic": "Ordered an interim study of redeveloping residential golf courses",
+      "theme": "zoning-density",
+      "relevance": "adjacent"
+    },
+    "80:SB256": {
+      "plain_topic": "Capped late-rent fees and tightened security-deposit return rules for renters",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "80:SB264": {
+      "plain_topic": "Medicaid tenancy-support services for elderly and disabled renters",
+      "theme": "homelessness",
+      "relevance": "adjacent"
+    },
+    "80:SB270": {
+      "plain_topic": "Created the Nevada Housing Crisis Response System to connect people to housing",
+      "theme": "homelessness",
+      "relevance": "core"
+    },
+    "80:SB274": {
+      "plain_topic": "Firearm discharge penalties; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB293": {
+      "plain_topic": "Services coordinator for exploited children; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB305": {
+      "plain_topic": "County sales tax option supporting programs including housing and homelessness",
+      "theme": "affordable-housing-money",
+      "relevance": "adjacent"
+    },
+    "80:SB325": {
+      "plain_topic": "Adoption grants; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB327": {
+      "plain_topic": "Defined residential dwelling unit and eased land division in planned unit developments",
+      "theme": "zoning-density",
+      "relevance": "adjacent"
+    },
+    "80:SB342": {
+      "plain_topic": "Impounded animals of arrested persons; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB352": {
+      "plain_topic": "Concurrent vehicle registration; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB36": {
+      "plain_topic": "County real-property purchase appraisals; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB367": {
+      "plain_topic": "Let tenants of state-funded low-income housing keep pets",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "80:SB371": {
+      "plain_topic": "Let more people do manufactured home park maintenance without extra licenses",
+      "theme": "manufactured-homes",
+      "relevance": "adjacent"
+    },
+    "80:SB382": {
+      "plain_topic": "Deed-of-trust and foreclosure-mediation rule updates for home loans",
+      "theme": "buying-a-home",
+      "relevance": "adjacent"
+    },
+    "80:SB383": {
+      "plain_topic": "Civil actions over police sexual conduct; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB389": {
+      "plain_topic": "Banned apiaries in denser residential areas; a bee bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB398": {
+      "plain_topic": "Made affordable housing an official matter of local concern and let local money fund it",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "80:SB403": {
+      "plain_topic": "School technology privacy; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB420": {
+      "plain_topic": "Utility-regulation exemption for renewable systems; an energy bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB425": {
+      "plain_topic": "Medicaid tenancy-support services waiver for elderly and disabled people",
+      "theme": "homelessness",
+      "relevance": "adjacent"
+    },
+    "80:SB448": {
+      "plain_topic": "Created state transferable tax credits to build low-income housing projects",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "80:SB449": {
+      "plain_topic": "Election candidate lists; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB471": {
+      "plain_topic": "Let local governments charge developer impact fees for school construction",
+      "theme": "developer-obligations",
+      "relevance": "adjacent"
+    },
+    "80:SB473": {
+      "plain_topic": "Set one consistent legal definition of affordable housing across state law",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "80:SB477": {
+      "plain_topic": "Child welfare release rules; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB479": {
+      "plain_topic": "Mortgage loan originator license repeal at credit unions; industry licensing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB495": {
+      "plain_topic": "Small Business Advocate office; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB496": {
+      "plain_topic": "Limousine leasing; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB51": {
+      "plain_topic": "State personnel appointments; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB543": {
+      "plain_topic": "School funding formula; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB74": {
+      "plain_topic": "Clarified eviction appeals and extended them to mobile home park cases",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "80:SB92": {
+      "plain_topic": "Licensing for group-housing referral businesses; a health-facility bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB105": {
+      "plain_topic": "School sports association boards; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB11": {
+      "plain_topic": "Small-claims court limits; a courts bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB115": {
+      "plain_topic": "Adoption petitions; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB116": {
+      "plain_topic": "Traffic civil infractions; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB141": {
+      "plain_topic": "Automatically sealed records of COVID-era evictions for unpaid rent",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "81:AB161": {
+      "plain_topic": "Ordered an interim legislative study of the summary eviction process",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "81:AB162": {
+      "plain_topic": "Apprentices on public works; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB168": {
+      "plain_topic": "Riot crime penalties; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB176": {
+      "plain_topic": "Parental notice of abortion; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB184": {
+      "plain_topic": "Temporary small-business advocacy office; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB195": {
+      "plain_topic": "English learner data in schools; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB197": {
+      "plain_topic": "Health-care consent for homeless minors; a health bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB203": {
+      "plain_topic": "Ended courts' power to pause evictions after May 31, 2021",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "81:AB206": {
+      "plain_topic": "Distance education counts; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB211": {
+      "plain_topic": "Added wildlife review to subdivision map approvals",
+      "theme": "zoning-density",
+      "relevance": "adjacent"
+    },
+    "81:AB229": {
+      "plain_topic": "Uniform Parentage Act; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB235": {
+      "plain_topic": "FAFSA support in schools; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB237": {
+      "plain_topic": "Capped and regulated HOA fees charged when a home is sold (resale packages)",
+      "theme": "renting-costs",
+      "relevance": "adjacent"
+    },
+    "81:AB249": {
+      "plain_topic": "HOA construction-hours rules; not housing policy",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB26": {
+      "plain_topic": "Energy assistance fund; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB279": {
+      "plain_topic": "Heavy equipment rental tax; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB280": {
+      "plain_topic": "Public restroom access; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB298": {
+      "plain_topic": "Consumer vehicle leases; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB3": {
+      "plain_topic": "Electronic filing of subdivision maps; recording procedure",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB308": {
+      "plain_topic": "Added a 3-day grace period before late-rent fees and clarified rent-increase notices",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "81:AB317": {
+      "plain_topic": "Banned housing discrimination based on source of income (like vouchers)",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "81:AB330": {
+      "plain_topic": "Occupational license credit for training; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB331": {
+      "plain_topic": "Let local governments take developer in-lieu payments into a fund for affordable housing obligations",
+      "theme": "developer-obligations",
+      "relevance": "core"
+    },
+    "81:AB332": {
+      "plain_topic": "Proposed a statewide registry of landlords reporting units owned and rents charged",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "81:AB333": {
+      "plain_topic": "Set deadlines for court challenges to land-use decisions",
+      "theme": "zoning-density",
+      "relevance": "adjacent"
+    },
+    "81:AB334": {
+      "plain_topic": "Let local governments take developer in-lieu payments into a fund for affordable housing obligations",
+      "theme": "developer-obligations",
+      "relevance": "core"
+    },
+    "81:AB341": {
+      "plain_topic": "Cannabis consumption lounges; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB343": {
+      "plain_topic": "Regional transportation commission bill drafts; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB350": {
+      "plain_topic": "Animal abuser registry; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB363": {
+      "plain_topic": "Required big southern cities and Clark County to regulate short-term rentals of homes",
+      "theme": "renting-costs",
+      "relevance": "adjacent"
+    },
+    "81:AB378": {
+      "plain_topic": "State Land Office purposes; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB382": {
+      "plain_topic": "Licensed student-loan servicers; a student-loan bill, not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB383": {
+      "plain_topic": "Appliance efficiency standards; an energy bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB391": {
+      "plain_topic": "Opticians board; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB41": {
+      "plain_topic": "Oversize vehicle permits (including moving mobile homes); a transport bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB414": {
+      "plain_topic": "Transfer-tax exemption for deeds upon death; an estate bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB429": {
+      "plain_topic": "Peer-to-peer car sharing; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB449": {
+      "plain_topic": "Made economic-development tax abatement approvals discretionary; not housing-specific",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB459": {
+      "plain_topic": "Moved the workforce innovation office; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB486": {
+      "plain_topic": "Gave tenants eviction defenses while rental assistance applications were pending (COVID era)",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "81:AB52": {
+      "plain_topic": "Land Use Planning Advisory Council membership; administrative",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB60": {
+      "plain_topic": "Voided contract clauses restricting testimony; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB77": {
+      "plain_topic": "Required the veterans department to connect homeless veterans to housing",
+      "theme": "homelessness",
+      "relevance": "adjacent"
+    },
+    "81:AB87": {
+      "plain_topic": "Simplified vacating easements; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB90": {
+      "plain_topic": "Ordered an interim study of the local impacts of big incentive-backed projects",
+      "theme": "developer-obligations",
+      "relevance": "adjacent"
+    },
+    "81:SB11": {
+      "plain_topic": "City vehicle tax option in Washoe; a tax bill, not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB119": {
+      "plain_topic": "Summary divorce procedures; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB12": {
+      "plain_topic": "Required notice before affordability restrictions on tax-credit housing expire",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "81:SB133": {
+      "plain_topic": "Child support with joint custody; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB138": {
+      "plain_topic": "Tightened how local ordinances set standards for planned unit developments",
+      "theme": "zoning-density",
+      "relevance": "adjacent"
+    },
+    "81:SB150": {
+      "plain_topic": "Required big cities and counties to allow tiny houses in some zoning districts",
+      "theme": "manufactured-homes",
+      "relevance": "core"
+    },
+    "81:SB159": {
+      "plain_topic": "Gave owner-occupants and tenant buyers priority over investors at foreclosure auctions and banned bulk sales",
+      "theme": "corporate-buyers",
+      "relevance": "core"
+    },
+    "81:SB162": {
+      "plain_topic": "HOV lane exception; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB187": {
+      "plain_topic": "Solitary confinement definitions; a corrections bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB188": {
+      "plain_topic": "Created the matched-savings Individual Development Account Program, usable toward housing goals",
+      "theme": "buying-a-home",
+      "relevance": "adjacent"
+    },
+    "81:SB207": {
+      "plain_topic": "Apprenticeship pilot; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB218": {
+      "plain_topic": "Regulated fees landlords charge prospective tenants and rental application practices",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "81:SB247": {
+      "plain_topic": "Apprenticeship registration; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB254": {
+      "plain_topic": "Strengthened housing-discrimination remedies and penalties",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "81:SB264": {
+      "plain_topic": "Truck lane limits; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB27": {
+      "plain_topic": "School superintendent powers; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB271": {
+      "plain_topic": "Midwife licensure; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB277": {
+      "plain_topic": "Broadband wiring in building codes; not housing cost policy",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB280": {
+      "plain_topic": "Real Estate Commission membership; industry governance",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB283": {
+      "plain_topic": "Improvement districts for energy and water projects; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB284": {
+      "plain_topic": "Tightened the process and recapture rules for affordable-housing transferable tax credits",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "81:SB297": {
+      "plain_topic": "Vacant-land inventories for urban agriculture; a food bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB311": {
+      "plain_topic": "Let the Nevada Rural Housing Authority create a for-profit arm to build and run housing",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "81:SB322": {
+      "plain_topic": "Limited local governments' power to ban short-term rentals",
+      "theme": "renting-costs",
+      "relevance": "adjacent"
+    },
+    "81:SB324": {
+      "plain_topic": "Allowed off-grid electric service in new mobile home parks",
+      "theme": "manufactured-homes",
+      "relevance": "adjacent"
+    },
+    "81:SB33": {
+      "plain_topic": "Revegetation programs; a forestry bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB339": {
+      "plain_topic": "Let HOAs rehabilitate and lease abandoned homes in their communities",
+      "theme": "zoning-density",
+      "relevance": "adjacent"
+    },
+    "81:SB343": {
+      "plain_topic": "School facility leases; an education bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB349": {
+      "plain_topic": "Farmers' market rules; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB354": {
+      "plain_topic": "School discipline data; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB356": {
+      "plain_topic": "Study of housing youthful offenders; a corrections bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB357": {
+      "plain_topic": "Tracking costs of housing youthful offenders; a corrections bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB365": {
+      "plain_topic": "Pilot on where offenders under 18 are housed; a corrections bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB374": {
+      "plain_topic": "Digital products tax; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB381": {
+      "plain_topic": "Home service contract regulation; consumer goods, not housing supply",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB389": {
+      "plain_topic": "Car sharing fees; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB60": {
+      "plain_topic": "License plate design; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB10": {
+      "plain_topic": "Created transportation and housing reinvestment zones - local tax-increment financing that can fund housing near transit",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "82:AB111": {
+      "plain_topic": "Religious displays in HOAs and rentals; not housing policy",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB116": {
+      "plain_topic": "Down syndrome information; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB123": {
+      "plain_topic": "Regulated rental-obligations insurance offered in place of security deposits",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "82:AB127": {
+      "plain_topic": "Medicare supplement commissions; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB131": {
+      "plain_topic": "Urban forestry program; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB135": {
+      "plain_topic": "Free birth certificates for homeless people; a vital-records bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB143": {
+      "plain_topic": "Small-county land conveyances to clear title; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB148": {
+      "plain_topic": "Guardians ad litem in child welfare; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB176": {
+      "plain_topic": "Banned housing discrimination based on source of income (like vouchers)",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "82:AB185": {
+      "plain_topic": "Charter school enrollment preferences; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB190": {
+      "plain_topic": "Voter registration forms at lease signings; an elections bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB205": {
+      "plain_topic": "Adoption grants; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB213": {
+      "plain_topic": "Made cities and counties report their housing-element data to the state and post land-use applications online",
+      "theme": "housing-studies",
+      "relevance": "core"
+    },
+    "82:AB217": {
+      "plain_topic": "College fee waivers for homeless pupils; an education bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB218": {
+      "plain_topic": "Required rent to be advertised and listed as one all-in figure and set payment-method rules",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "82:AB220": {
+      "plain_topic": "Septic-to-sewer conversion help; a water bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB231": {
+      "plain_topic": "Uniform Commercial Code updates; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB266": {
+      "plain_topic": "Language access plans for local government; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB279": {
+      "plain_topic": "Tuition waivers for veterans' children; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB284": {
+      "plain_topic": "Remote work for mortgage company employees; industry licensing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB293": {
+      "plain_topic": "Medicaid coverage for medical-legal partnerships that can help with eviction issues",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "82:AB298": {
+      "plain_topic": "Required refunds of rental application fees in some cases and a plain-language appendix of every fee in a lease",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "82:AB304": {
+      "plain_topic": "Organ donation license plates; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB305": {
+      "plain_topic": "Women apprentices on public works; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB310": {
+      "plain_topic": "Created a state supportive-housing grant program and account",
+      "theme": "homelessness",
+      "relevance": "core"
+    },
+    "82:AB314": {
+      "plain_topic": "Blocked local bans on home-based businesses in residential zones",
+      "theme": "zoning-density",
+      "relevance": "adjacent"
+    },
+    "82:AB32": {
+      "plain_topic": "Sentencing data confidentiality; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB327": {
+      "plain_topic": "Required permits and rules for landlord property managers",
+      "theme": "renting-costs",
+      "relevance": "adjacent"
+    },
+    "82:AB332": {
+      "plain_topic": "Licensed student-loan servicers; a student-loan bill, not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB333": {
+      "plain_topic": "Required housing authorities to inspect and repair the units they own or lease",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "82:AB340": {
+      "plain_topic": "Rewrote summary eviction procedure so landlords file first",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "82:AB345": {
+      "plain_topic": "Ended the commerce-tax exemption for real estate investment trusts",
+      "theme": "corporate-buyers",
+      "relevance": "core"
+    },
+    "82:AB352": {
+      "plain_topic": "School funding for low achievers; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB362": {
+      "plain_topic": "Capped annual rent increases for existing tenants at a published cost-of-living rate",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "82:AB366": {
+      "plain_topic": "Keep Nevada Working Task Force move; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB371": {
+      "plain_topic": "Uniform Parentage Act; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB396": {
+      "plain_topic": "Money to Clark County, Reno and Sparks for rental assistance programs",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "82:AB406": {
+      "plain_topic": "Hospital discharge coordination for homeless patients",
+      "theme": "homelessness",
+      "relevance": "adjacent"
+    },
+    "82:AB414": {
+      "plain_topic": "Advance health-care directives; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB415": {
+      "plain_topic": "Opticians board; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB416": {
+      "plain_topic": "Property-tax break for accessory dwelling units rented to housing-voucher tenants",
+      "theme": "zoning-density",
+      "relevance": "core"
+    },
+    "82:AB425": {
+      "plain_topic": "Shared solar net metering for low-income housing; an energy bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB444": {
+      "plain_topic": "Indian Child Welfare Act provisions; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB447": {
+      "plain_topic": "Rules for third-party rent collection and payment processors",
+      "theme": "renting-costs",
+      "relevance": "adjacent"
+    },
+    "82:AB448": {
+      "plain_topic": "Closed a transfer-tax loophole for real property moved between business entities",
+      "theme": "corporate-buyers",
+      "relevance": "adjacent"
+    },
+    "82:AB450": {
+      "plain_topic": "Closed a transfer-tax loophole for real property moved between business entities",
+      "theme": "corporate-buyers",
+      "relevance": "adjacent"
+    },
+    "82:AB453": {
+      "plain_topic": "Adoption assistance; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB516": {
+      "plain_topic": "Department of Native American Affairs; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB526": {
+      "plain_topic": "COVID relief money redistribution; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB528": {
+      "plain_topic": "Up to $100 million in matching funds for homelessness support-service campuses, with local fee abatements",
+      "theme": "homelessness",
+      "relevance": "core"
+    },
+    "82:AB57": {
+      "plain_topic": "Vehicle liens and wreckers; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB62": {
+      "plain_topic": "Extended the property-tax exemption to more low-income housing properties",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "82:AB97": {
+      "plain_topic": "Refrigerant preemption in building codes; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB122": {
+      "plain_topic": "Crime of targeted residential picketing; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB142": {
+      "plain_topic": "Homeless Persons' Bill of Rights with a right to sue",
+      "theme": "homelessness",
+      "relevance": "adjacent"
+    },
+    "82:SB143": {
+      "plain_topic": "Strengthened housing-discrimination remedies and penalties",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "82:SB155": {
+      "plain_topic": "Diversion courts for homeless defendants; a courts bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB169": {
+      "plain_topic": "Heat-mitigation element in big-county master plans; a climate bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB18": {
+      "plain_topic": "Planning commission meeting frequency in small counties; administrative",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB196": {
+      "plain_topic": "School sports rules; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB204": {
+      "plain_topic": "Foreign medical graduate licensure; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB210": {
+      "plain_topic": "Diversity in state board appointments; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB213": {
+      "plain_topic": "Lodging-tax remittance between governments; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB223": {
+      "plain_topic": "Property-lawsuit notice and sale procedures, with landlord-tenant tweaks",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "82:SB226": {
+      "plain_topic": "Prevailing wage declarations; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB227": {
+      "plain_topic": "Symbols-of-hate crime; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB233": {
+      "plain_topic": "Heavy equipment rental tax; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB24": {
+      "plain_topic": "Small business advocacy office funding; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB247": {
+      "plain_topic": "Made Clark County regional planning coalition optional; administrative",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB249": {
+      "plain_topic": "Cosmetology licensing; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB260": {
+      "plain_topic": "Senior living referral agencies; a health-facility bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB275": {
+      "plain_topic": "Capped annual rent increases in manufactured home parks at a published percentage",
+      "theme": "manufactured-homes",
+      "relevance": "core"
+    },
+    "82:SB281": {
+      "plain_topic": "Natural gas planning; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB29": {
+      "plain_topic": "Interest on tax refunds; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB293": {
+      "plain_topic": "Solar contract protections; an energy bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB307": {
+      "plain_topic": "Solitary confinement rules; a corrections bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB31": {
+      "plain_topic": "Cannabis establishment relocation; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB317": {
+      "plain_topic": "Mailing addresses for homeless people; a services bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB318": {
+      "plain_topic": "Let cities add a sewer surcharge to fund affordable housing and homeless services",
+      "theme": "homelessness",
+      "relevance": "core"
+    },
+    "82:SB335": {
+      "plain_topic": "Let tenants pause an eviction while a rental-assistance application is decided",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "82:SB348": {
+      "plain_topic": "Hospital closure approvals; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB357": {
+      "plain_topic": "School transportation grants; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB363": {
+      "plain_topic": "Set funding priorities in the Account for Affordable Housing for projects serving certain women",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "82:SB371": {
+      "plain_topic": "Confirmed local governments can enact any affordable-housing ordinance not expressly barred",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "82:SB374": {
+      "plain_topic": "Property-tax exemption for certain veterans' homes; a tax-relief bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB381": {
+      "plain_topic": "Banned charging tenants fees for repairs the landlord must make anyway",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "82:SB386": {
+      "plain_topic": "Barber exam retakes; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB395": {
+      "plain_topic": "Capped at 1,000 the homes corporations and LLCs together may buy per year statewide",
+      "theme": "corporate-buyers",
+      "relevance": "core"
+    },
+    "82:SB40": {
+      "plain_topic": "Renamed manufactured-home ownership papers as certificates of title and updated the rules",
+      "theme": "manufactured-homes",
+      "relevance": "adjacent"
+    },
+    "82:SB400": {
+      "plain_topic": "Medicaid managed-care contract requirements; a health bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB412": {
+      "plain_topic": "Probation and battery definitions; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB419": {
+      "plain_topic": "Health information exchange; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB426": {
+      "plain_topic": "Capped annual rent increases for existing tenants at a published cost-of-living rate",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "82:SB431": {
+      "plain_topic": "Governor's office innovation staff; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB450": {
+      "plain_topic": "Windsor Park Environmental Justice Act: state-funded relocation homes for a sinking North Las Vegas neighborhood",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "82:SB455": {
+      "plain_topic": "Computer replacement money; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB456": {
+      "plain_topic": "State office leases money; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB47": {
+      "plain_topic": "Let school districts build, buy or rent homes for teachers and other employees",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "82:SB508": {
+      "plain_topic": "School scholarship grants; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB509": {
+      "plain_topic": "Baseball stadium financing; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB68": {
+      "plain_topic": "Created the Critical Needs Fund, steering part of the property transfer tax to very-low-income and supportive housing",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "82:SB74": {
+      "plain_topic": "Grandparent visitation; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB78": {
+      "plain_topic": "Regulated security deposits and the fees landlords charge prospective tenants, and how unpaid rent is collected",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "82:SB81": {
+      "plain_topic": "Extended the northern counties' joint growth-management reports",
+      "theme": "zoning-density",
+      "relevance": "adjacent"
+    },
+    "82:SB82": {
+      "plain_topic": "Apprentices on public works; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB86": {
+      "plain_topic": "Offender treatment programs; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB9": {
+      "plain_topic": "School report deadlines; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB1": {
+      "plain_topic": "Fort Mohave Valley land regulations; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB103": {
+      "plain_topic": "Allowed regional housing authorities in more counties",
+      "theme": "housing-studies",
+      "relevance": "core"
+    },
+    "83:AB115": {
+      "plain_topic": "Renting rooms in the Capitol Building; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB121": {
+      "plain_topic": "Required rent to be advertised and listed as one all-in figure and set payment-method rules",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "83:AB131": {
+      "plain_topic": "Property-tax break for accessory dwelling units rented to housing-voucher tenants",
+      "theme": "zoning-density",
+      "relevance": "core"
+    },
+    "83:AB146": {
+      "plain_topic": "Parental rights and disability; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB185": {
+      "plain_topic": "Child care facilities in HOAs; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB192": {
+      "plain_topic": "Uniform easement and mortgage-modification acts; property procedure",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB20": {
+      "plain_topic": "DMV medical symbols; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB201": {
+      "plain_topic": "Expanded automatic sealing of eviction court records",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "83:AB211": {
+      "plain_topic": "Made cities and counties force repairs or abatement at badly maintained apartment properties",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "83:AB220": {
+      "plain_topic": "ID cards for homeless residents; a services bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB222": {
+      "plain_topic": "Worker preferences on public works; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB223": {
+      "plain_topic": "Gave tenants an expedited court path when landlords ignore habitability repairs",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "83:AB225": {
+      "plain_topic": "Massage and barber licensing; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB241": {
+      "plain_topic": "Required every city and county to allow apartments and mixed-use housing by right on commercial land",
+      "theme": "zoning-density",
+      "relevance": "core"
+    },
+    "83:AB263": {
+      "plain_topic": "Encampment clean-up notification; a services bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB269": {
+      "plain_topic": "Expanded the student-loan repayment program for health care providers in underserved areas; a health-workforce bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB280": {
+      "plain_topic": "Required refunds of rental application fees in some cases and a plain-language appendix of every fee in a lease",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "83:AB283": {
+      "plain_topic": "Rewrote summary eviction procedure so landlords file first",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "83:AB301": {
+      "plain_topic": "Improvement district records; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB317": {
+      "plain_topic": "Authorized county and city programs providing housing units plus services for homeless residents",
+      "theme": "homelessness",
+      "relevance": "core"
+    },
+    "83:AB321": {
+      "plain_topic": "Transitional housing tied to forestry training for offenders; a corrections bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB322": {
+      "plain_topic": "Small child care in HOAs; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB324": {
+      "plain_topic": "HOA property insurance requirements; not housing policy",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB333": {
+      "plain_topic": "State fairgrounds; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB341": {
+      "plain_topic": "Barred landlords from refusing to rent to corporations housing people with disabilities",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "83:AB344": {
+      "plain_topic": "Judicial officer terminology; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB352": {
+      "plain_topic": "Cottage cosmetics licensing; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB366": {
+      "plain_topic": "Revised and funded the Nevada Supportive Housing Development Fund",
+      "theme": "homelessness",
+      "relevance": "core"
+    },
+    "83:AB37": {
+      "plain_topic": "Turned the Housing Advocate into a Housing Liaison and updated the Housing Division's duties",
+      "theme": "housing-studies",
+      "relevance": "core"
+    },
+    "83:AB38": {
+      "plain_topic": "Omnibus update of manufactured, mobile and factory-built housing regulation",
+      "theme": "manufactured-homes",
+      "relevance": "core"
+    },
+    "83:AB385": {
+      "plain_topic": "Preemption of local water-cooling tower bans; a water bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB396": {
+      "plain_topic": "Required big cities and counties to allow accessory dwelling units on residential lots",
+      "theme": "zoning-density",
+      "relevance": "core"
+    },
+    "83:AB397": {
+      "plain_topic": "College fee waivers including homeless students; an education bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB413": {
+      "plain_topic": "Health care apprenticeship pilot; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB423": {
+      "plain_topic": "Unemployment contributions; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB424": {
+      "plain_topic": "Uniform Parentage Act; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB443": {
+      "plain_topic": "Banned local rent control and stripped local zoning powers, moving development rules to the state",
+      "theme": "zoning-density",
+      "relevance": "core"
+    },
+    "83:AB444": {
+      "plain_topic": "Small-business impact rules for regulations; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB447": {
+      "plain_topic": "Extended the property-tax break for fair-market-rent rentals to owners who skip pet fees",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "83:AB453": {
+      "plain_topic": "Digital products tax; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB457": {
+      "plain_topic": "Ordered an interim study of taxing corporate rental-property owners as single entities and taxing controlling-interest transfers",
+      "theme": "corporate-buyers",
+      "relevance": "core"
+    },
+    "83:AB458": {
+      "plain_topic": "Solar net metering for affordable housing; an energy bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB460": {
+      "plain_topic": "Guardian nomination forms; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB475": {
+      "plain_topic": "Money to Clark County, Reno and the Rural Housing Authority for eviction diversion programs",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "83:AB48": {
+      "plain_topic": "School discrimination reports; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB480": {
+      "plain_topic": "Wrote the disparate-impact standard into the Nevada Fair Housing Law",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "83:AB491": {
+      "plain_topic": "Election data deadlines; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB492": {
+      "plain_topic": "Limousine leasing; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB493": {
+      "plain_topic": "Solar system disposal plans; an energy bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB502": {
+      "plain_topic": "Apprentices on public works; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB520": {
+      "plain_topic": "Adoption agency background checks; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB528": {
+      "plain_topic": "Green building tax abatements; an energy bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB540": {
+      "plain_topic": "Created the Nevada Attainable Housing Account with a $133 million appropriation for attainable housing",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "83:AB543": {
+      "plain_topic": "State grazing leases; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB62": {
+      "plain_topic": "Streamlined applying for and transferring affordable-housing tax credits",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "83:AB68": {
+      "plain_topic": "Made landlords offer to report tenants' positive rent payments to credit bureaus",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "83:AB74": {
+      "plain_topic": "Insurance code reorganization; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB96": {
+      "plain_topic": "Heat mitigation plans in master plans; a climate bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AJR10": {
+      "plain_topic": "Resolution urging the Federal Government to release federal land in Nevada for housing",
+      "theme": "zoning-density",
+      "relevance": "core"
+    },
+    "83:SB10": {
+      "plain_topic": "Land registrar reporting; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB105": {
+      "plain_topic": "Medicare supplement policies; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB107": {
+      "plain_topic": "Strengthened housing-discrimination remedies and penalties",
+      "theme": "tenant-protections",
+      "relevance": "core"
+    },
+    "83:SB114": {
+      "plain_topic": "Required background checks and key-control policies for apartment staff",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "83:SB123": {
+      "plain_topic": "Banned counties and cities from enacting rent control",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "83:SB138": {
+      "plain_topic": "Medicaid presumptive eligibility; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB147": {
+      "plain_topic": "Southern Nevada regional planning pilot for infrastructure and economic resiliency",
+      "theme": "zoning-density",
+      "relevance": "adjacent"
+    },
+    "83:SB15": {
+      "plain_topic": "Debt management commission meetings; administrative",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB151": {
+      "plain_topic": "Capped annual rent increases in manufactured home parks at a published percentage",
+      "theme": "manufactured-homes",
+      "relevance": "core"
+    },
+    "83:SB160": {
+      "plain_topic": "Moved the Equal Rights Commission (which handles housing discrimination) to the Attorney General",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "83:SB166": {
+      "plain_topic": "Insurance dog-breed rules at housing properties and supportive-housing tweaks",
+      "theme": "homelessness",
+      "relevance": "adjacent"
+    },
+    "83:SB172": {
+      "plain_topic": "Agricultural workers' rights including lodging values; a labor bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB177": {
+      "plain_topic": "Discipline placements for homeless pupils; an education bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB179": {
+      "plain_topic": "Equal Rights Commission investigation procedures for discrimination complaints",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "83:SB193": {
+      "plain_topic": "State pilot to buy down mortgage interest rates for eligible first-home borrowers",
+      "theme": "buying-a-home",
+      "relevance": "core"
+    },
+    "83:SB194": {
+      "plain_topic": "Rental car insurance proof; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB196": {
+      "plain_topic": "Heavy equipment recovery fees; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB199": {
+      "plain_topic": "Registration of artificial intelligence companies; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB201": {
+      "plain_topic": "Religious and cultural displays in rentals and HOAs; not housing policy",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB202": {
+      "plain_topic": "Made fake rental agreements part of squatting crimes and expanded removal tools",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "83:SB210": {
+      "plain_topic": "Raised constable and sheriff service fees; a courts bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB236": {
+      "plain_topic": "Defined squatter and tenant for fast possession proceedings",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "83:SB253": {
+      "plain_topic": "Charter school facilities account; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB259": {
+      "plain_topic": "Refocused a county quarter-cent sales tax on homelessness programs and transit",
+      "theme": "homelessness",
+      "relevance": "adjacent"
+    },
+    "83:SB261": {
+      "plain_topic": "Let sheriffs remove unauthorized occupants of homes on an owner's complaint",
+      "theme": "tenant-protections",
+      "relevance": "adjacent"
+    },
+    "83:SB266": {
+      "plain_topic": "Added behavioral health providers to the student-loan repayment program for underserved areas; a health-workforce bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB270": {
+      "plain_topic": "Prevailing wage documentation; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB271": {
+      "plain_topic": "Nurse apprentice program money; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB275": {
+      "plain_topic": "Child custody reunification treatment; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB28": {
+      "plain_topic": "Set the rules for tax-increment areas that finance transportation and affordable housing projects",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "83:SB283": {
+      "plain_topic": "Money to Clark County, Reno and Sparks for rental assistance programs",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "83:SB285": {
+      "plain_topic": "Construction apprenticeship registration; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB286": {
+      "plain_topic": "Tribal consultation in land-use planning; a process bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB288": {
+      "plain_topic": "Fire-hazard area designation and property disclosures; a fire bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB289": {
+      "plain_topic": "Confirmed local governments can enact any affordable-housing ordinance not expressly barred",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "83:SB295": {
+      "plain_topic": "Sidewalk food vendors; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB306": {
+      "plain_topic": "Task force on housing for children leaving treatment facilities; a child-services bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB331": {
+      "plain_topic": "School discrimination complaints; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB344": {
+      "plain_topic": "Genetic screening coverage; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB362": {
+      "plain_topic": "Gaming regulation and institutional investors; a gaming bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB370": {
+      "plain_topic": "Updated manufactured-home title issuance when old papers are missing",
+      "theme": "manufactured-homes",
+      "relevance": "adjacent"
+    },
+    "83:SB379": {
+      "plain_topic": "Solar financing consumer rules; an energy bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB381": {
+      "plain_topic": "Civil enforcement officers for court process; a courts bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB391": {
+      "plain_topic": "Capped at 100 the homes corporations and LLCs together may buy per year statewide",
+      "theme": "corporate-buyers",
+      "relevance": "core"
+    },
+    "83:SB392": {
+      "plain_topic": "Digital products tax; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB393": {
+      "plain_topic": "Adjusted the Windsor Park relocation program's boundaries and eligibility",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "83:SB400": {
+      "plain_topic": "Special education transfers; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB426": {
+      "plain_topic": "Tahoe corridor parking safety; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB430": {
+      "plain_topic": "Tax credits and abatements for builders of starter homes sold at cost to moderate-income buyers, kept out of corporate-investor hands",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "83:SB433": {
+      "plain_topic": "Structural inspections in high-rise HOAs; building safety",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB436": {
+      "plain_topic": "Created a statewide registry of larger landlords with a tenant complaint mechanism",
+      "theme": "renting-costs",
+      "relevance": "core"
+    },
+    "83:SB44": {
+      "plain_topic": "Financial data safeguards; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB440": {
+      "plain_topic": "Solar installation in HOAs; an energy bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB452": {
+      "plain_topic": "State office lease appropriations; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB460": {
+      "plain_topic": "School accountability plans; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB48": {
+      "plain_topic": "Regional planning report deadlines in Washoe County; administrative",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB489": {
+      "plain_topic": "Equipment for corrections transitional housing; a corrections bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB499": {
+      "plain_topic": "Leasing state-owned homes to state employees; a state-administration bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB5": {
+      "plain_topic": "Small business advocacy office; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB51": {
+      "plain_topic": "Created an account reimbursing cities and counties that cut regulatory barriers to housing",
+      "theme": "affordable-housing-money",
+      "relevance": "core"
+    },
+    "83:SB54": {
+      "plain_topic": "Medicaid medical respite for homeless patients; a health bill",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB61": {
+      "plain_topic": "Clark County regional planning fallback body; administrative",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB74": {
+      "plain_topic": "Election documentation; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB77": {
+      "plain_topic": "Transportation department administration; not housing",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB78": {
+      "plain_topic": "Moved boards including the Advisory Committee on Housing under a standards office; administrative",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB99": {
+      "plain_topic": "Let cities and counties charge developers a linkage fee to fund affordable housing",
+      "theme": "developer-obligations",
+      "relevance": "core"
+    },
+    "83:SJR4": {
+      "plain_topic": "Resolution urging federal projects to respect state and local land-use planning principles",
+      "theme": "zoning-density",
+      "relevance": "adjacent"
+    }
+  }
+}

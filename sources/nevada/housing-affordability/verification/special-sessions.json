@@ -1,0 +1,198 @@
+{
+  "note": "Manual check of the six 2020-2025 special sessions (31st2020, 32nd2020, 33rd2021, 34th2023, 35th2023, 36th2025) for housing-relevant bills, per RUNBOOK step 2. Full bill lists were reviewed by title; the three bills below are the only housing-relevant items. The regular pipeline covers only the four regular sessions (80-83).",
+  "checked_at": "2026-07-24T18:26:41.321858+00:00",
+  "sessions_checked": [
+    "31st2020Special",
+    "32nd2020Special",
+    "33rd2021Special",
+    "34th2023Special",
+    "35th2023Special",
+    "36th2025Special"
+  ],
+  "bills": [
+    {
+      "session_path": "32nd2020Special",
+      "identifier": "SB1",
+      "nelis_bill_key": "7139",
+      "short_note": "Authorizes certain courts to grant a stay for certain evictions.",
+      "official_title": "AN ACT relating to property; authorizing certain courts to grant a stay in certain proceedings concerning eviction; and providing other matters properly relating thereto.",
+      "digest_first_1200": "Existing law sets forth certain actions and proceedings concerning the eviction of a tenant of any dwelling unit, apartment, mobile home, recreational vehicle or part of a low-rent housing program operated by a public housing authority. (Chapter 40 of NRS) This bill authorizes a court to stay such eviction proceedings for a period of not more than 30 days to facilitate the program, if the Supreme Court or a district court or justice court establishes by rule an expedited program of alternative dispute resolution.",
+      "most_recent_history_action": "Approved by the Governor. Chapter 5.",
+      "sponsors": [
+        {
+          "name": "Senate Committee of the Whole",
+          "classification": "primary"
+        }
+      ],
+      "history": [
+        {
+          "date": "Jul 30, 2020",
+          "description": "Prefiled. Referred to Committee of the Whole. To printer.",
+          "journal": ""
+        },
+        {
+          "date": "Jul 31, 2020",
+          "description": "From printer. Read first time. To committee. From committee: Do pass.",
+          "journal": "Assembly: Not discussed Senate: Journal"
+        },
+        {
+          "date": "Aug 01, 2020",
+          "description": "Read second time.",
+          "journal": "Assembly: Not discussed Senate: Journal"
+        },
+        {
+          "date": "Aug 02, 2020",
+          "description": "Read third time. Passed. Title approved. (Yeas: 18, Nays: 3.) To Assembly.",
+          "journal": "Assembly: No Floor Session Senate: Journal"
+        },
+        {
+          "date": "Aug 03, 2020",
+          "description": "In Assembly. Read first time. Referred to Committee of the Whole. To committee. From committee: Do pass. Declared an emergency measure under the Constitution. Read third time. Passed. Title approved. (Yeas: 38, Nays: 4.) To Senate. In Senate. To enrollment.",
+          "journal": "Assembly: Journal Senate: Journal"
+        },
+        {
+          "date": "Aug 05, 2020",
+          "description": "Enrolled and delivered to Governor.",
+          "journal": "Assembly: Not discussed Senate: Not discussed"
+        },
+        {
+          "date": "Aug 07, 2020",
+          "description": "Approved by the Governor. Chapter 5.",
+          "journal": ""
+        }
+      ],
+      "votes": [
+        {
+          "vote_type": "Final Passage",
+          "chamber": "Assembly (As Introduced)",
+          "counts": {
+            "Yea": 38,
+            "Nay": 4,
+            "Excused": 0,
+            "Absent": 0
+          }
+        },
+        {
+          "vote_type": "Final Passage",
+          "chamber": "Senate (As Introduced)",
+          "counts": {
+            "Yea": 18,
+            "Nay": 3,
+            "Excused": 0,
+            "Absent": 0
+          }
+        }
+      ],
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/32nd2020Special/Bill/7139/Overview"
+    },
+    {
+      "session_path": "36th2025Special",
+      "identifier": "SB6",
+      "nelis_bill_key": "13002",
+      "short_note": "Revises the Windsor Park Environmental Justice Act.",
+      "official_title": "AN ACT relating to housing; revising the Windsor Park Environmental Justice Act; requiring the Housing Division of the Department of Business and Industry to adopt certain regulations and provide quarterly reports to the Interim Finance Committee; clarifying the boundaries of the Windsor Park neighborhood for the purposes of determining eligibility to participate in the program established by the Act; revising certain requirements to be eligible to acquire a new single-family residence under the Act; authorizing certain owners of vacant lots in the Windsor Park neighborhood to exchange the vac",
+      "digest_first_1200": "Existing law contains the Windsor Park Environmental Justice Act, which establishes a program for the relocation of persons residing in the Windsor Park neighborhood of the City of North Las Vegas whose residences have been damaged by the sinking of the ground beneath the residences. (Chapter 531, Statutes of Nevada 2023, at page 3538) Under the Act, the Housing Division of the Department of Business and Industry is required to establish and administer a program by which the owner of a single-family residence in the Windsor Park neighborhood who owns the residence on July 1, 2023, may exchange the residence in the Windsor Park neighborhood for a new residence constructed in accordance with the Act. (Section 9 of chapter 531, Statutes of Nevada 2023, at page 3540) This bill makes revisions to the Act. Section 1 of this bill requires the Housing Division to: (1) adopt regulations to carry out the provisions of the Act, including, without limitation, regulations governing certain specific topics; and (2) provide quarterly reports to the Interim Finance Committee concerning the implementation of the provisions of the Act. Section 2 of this bill clarifies the boundaries of the Windsor P",
+      "most_recent_history_action": "Enrolled and delivered to Governor. Approved by the Governor. Chapter 7.",
+      "sponsors": [
+        {
+          "name": "Senate Jobs and Economy",
+          "classification": "primary"
+        }
+      ],
+      "history": [
+        {
+          "date": "Nov 14, 2025",
+          "description": "Read first time. Referred to Select Committee on Public Safety and Security. To printer. From printer. To committee.",
+          "journal": "Assembly: Not discussed Senate: Journal"
+        },
+        {
+          "date": "Nov 16, 2025",
+          "description": "From committee: Amend, and do pass as amended. Placed on Second Reading File. Read second time. Amended. (Amend. No. 12.) Declared an emergency measure under the Constitution. Reprinting dispensed with. Read third time. Passed, as amended. Title approved, as amended. (Yeas: 19, Nays: 2.) To printer. From printer. To engrossment. Engrossed. First reprint. To Assembly. In Assembly. Read first time. Referred to Select Committee on Jobs and Economy. To committee. From committee: Do pass.",
+          "journal": "Assembly: Journal Senate: Journal"
+        },
+        {
+          "date": "Nov 17, 2025",
+          "description": "Declared an emergency measure under the Constitution. Read third time. Amended. (Amend. No. 22.) Dispensed with reprinting. Read third time. Passed, as amended. Title approved. (Yeas: 38, Nays: None, Excused: 3, Not voting: 1.) To printer. From printer. To reengrossment. Reengrossed. Second reprint. To Senate. In Senate. Assembly Amendment No. 22 concurred in. To enrollment.",
+          "journal": "Assembly: Journal Senate: Journal"
+        },
+        {
+          "date": "Nov 20, 2025",
+          "description": "Enrolled and delivered to Governor. Approved by the Governor. Chapter 7.",
+          "journal": ""
+        }
+      ],
+      "votes": [
+        {
+          "vote_type": "Final Passage",
+          "chamber": "Assembly (1st Reprint)",
+          "counts": {
+            "Yea": 38,
+            "Nay": 0,
+            "Excused": 3,
+            "Absent": 0
+          }
+        },
+        {
+          "vote_type": "Final Passage",
+          "chamber": "Senate (1st Reprint)",
+          "counts": {
+            "Yea": 19,
+            "Nay": 2,
+            "Excused": 0,
+            "Absent": 0
+          }
+        }
+      ],
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/13002/Overview"
+    },
+    {
+      "session_path": "36th2025Special",
+      "identifier": "SB10",
+      "nelis_bill_key": "13008",
+      "short_note": "Revises provisions relating to real property (corporate investors in residential real property).",
+      "official_title": "AN ACT relating to real property; limiting, with certain exceptions, the total aggregate number of units of residential real property in this State that may be purchased in any 1 calendar year by certain corporate investors; requiring, with certain exceptions, certain corporate investors in residential real property in this State to register with the Securities Division of the Office of the Secretary of State before purchasing a unit of residential real property; requiring the Securities Division to create and maintain a database that tracks the aggregate number of units of residential real pr",
+      "digest_first_1200": "Section 1.5 of this bill declares that: (1) the State has certain compelling interests related to attainable housing, stabilizing neighborhoods and supporting certain housing programs; (2) ensuring a fair and competitive housing market is necessary to support certain public interests; (3) preserving the stability and character of the State's communities is essential; and (4) reducing speculative investment in residential real estate by certain buyers is necessary to further certain public interests. Section 2 of this bill provides, with certain exceptions, that: (1) the total aggregate number of units of residential real property in this State that may be purchased in any 1 calendar year by corporations, foreign corporations, multinational corporations, pooled investment vehicles, limited-liability companies and any affiliates of such entities must not exceed 1,000 units; and (2) a corporation, foreign corporation, multinational corporation, pooled investment vehicle, limited-liability company or affiliate of such an entity is prohibited from purchasing any unit of residential real property in this State if, as a result of the purchase, the total aggregate number of units of reside",
+      "most_recent_history_action": "Read first time. Referred to Select Committee on Jobs and Economy. To printer. From printer. To committee. From committee: Do pass. Declared an emergency measure under the Constitution. Read third time. Amended. (Amend. No. 32.) Reprinting dispensed with. Read third time. Passed, as amended. Title approved, as amended. (Yeas: 18, Nays: None, Excused: 3.) To printer. From printer. To engrossment. Engrossed. First reprint. To Assembly. In Assembly. Read first time. Declared an emergency measure under the Constitution. Read third time. Amended. (Amend. No. 35.) Dispensed with reprinting. Read third time. Lost. (Yeas: 27, Nays: 10, Excused: 5.)",
+      "sponsors": [
+        {
+          "name": "Senator Nicole Cannizzaro",
+          "classification": "primary"
+        }
+      ],
+      "history": [
+        {
+          "date": "Nov 19, 2025",
+          "description": "Read first time. Referred to Select Committee on Jobs and Economy. To printer. From printer. To committee. From committee: Do pass. Declared an emergency measure under the Constitution. Read third time. Amended. (Amend. No. 32.) Reprinting dispensed with. Read third time. Passed, as amended. Title approved, as amended. (Yeas: 18, Nays: None, Excused: 3.) To printer. From printer. To engrossment. Engrossed. First reprint. To Assembly. In Assembly. Read first time. Declared an emergency measure under the Constitution. Read third time. Amended. (Amend. No. 35.) Dispensed with reprinting. Read third time. Lost. (Yeas: 27, Nays: 10, Excused: 5.)",
+          "journal": "Assembly: Journal Senate: Journal"
+        }
+      ],
+      "votes": [
+        {
+          "vote_type": "Final Passage",
+          "chamber": "Assembly (1st Reprint)",
+          "counts": {
+            "Yea": 27,
+            "Nay": 10,
+            "Excused": 5,
+            "Absent": 0
+          }
+        },
+        {
+          "vote_type": "Final Passage",
+          "chamber": "Senate (1st Reprint)",
+          "counts": {
+            "Yea": 18,
+            "Nay": 0,
+            "Excused": 3,
+            "Absent": 0
+          }
+        }
+      ],
+      "nelis_url": "https://www.leg.state.nv.us/App/NELIS/REL/36th2025Special/Bill/13008/Overview",
+      "vote_requirement": "REQUIRES TWO-THIRDS MAJORITY VOTE (SS 2) - printed on the bill face (SB10.pdf, as introduced)",
+      "bill_text_url": "https://www.leg.state.nv.us/Session/36th2025Special/Bills/SB/SB10.pdf",
+      "primary_sponsor_from_bill_face": "Senator Cannizzaro",
+      "outcome_note": "Passed Senate 18-0 (3 excused); Assembly final passage Nov 19, 2025 recorded as \"Lost. (Yeas: 27, Nays: 10, Excused: 5.)\" - 27 yeas fell short of the 28 (two-thirds of 42) required because the bill requires a two-thirds majority vote per its printed vote requirement."
+    }
+  ]
+}
