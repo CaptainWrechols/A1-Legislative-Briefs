@@ -1,0 +1,65 @@
+---
+issue_id: nevada-03-k-12-educational-outcomes
+issue_title: K-12 Educational Outcomes in Nevada
+brief_type: citizen-front-brief
+version: citizen-v1.0
+organization: The Nevada Forum
+generated_by: citizen-brief-writer v2.3
+date: 2026-07-25
+status: READY FOR HUMAN REVIEW
+reviewed_by: citizen-reviewer v2.3 (2026-07-25)
+---
+
+# K-12 Educational Outcomes in Nevada
+
+The legislative record behind Nevadans' ten most common K-12 education proposals, 2019–2025.
+
+## The legislative landscape
+
+Education is the biggest subject in Nevada's Legislature and its most crowded funnel: 513 education bills across the 2019, 2021, 2023, and 2025 sessions, of which 228 became law. Most bills that fail never get started — 193 of the 269 failures died in their first committee, 127 of them inside an Education committee, and 40 in the money committees. The big structural fight of this record was settled early: the 2019 session replaced the Nevada Plan, the state's previous school funding formula, with the Pupil-Centered Funding Plan (SB543). What stalls now is different — oversight machinery, classroom-time mandates, and changes to what gets measured. And since 2023 the governor's desk has become a live stop: 13 education vetoes in 2023 and 2025 combined, concentrated on collective-bargaining, school-adjacent health, and library bills, while raises, audits, and funding acts were signed.
+
+## Key numbers
+
+- **513** education bills, 2019–2025
+- **228** became law
+- **193** died in their first committee
+- **13** vetoes — all in 2023 and 2025
+- **7** independent-audit bills filed; none ever got a vote
+
+## Proposals with no bill on record
+
+**Evidence-based classroom technology.** No bill in this record requires independent proof of learning benefit before districts buy instructional technology, and none limits classroom screen time for young pupils. The Legislature regulates the edges instead: schools must disclose which online services receive pupil data (SB403, 2019, 40–0 and 21–0), districts are required to adopt cellphone policies with instructional-time limits (SB444, 2025, 42–0 and 21–0), and artificial intelligence cannot perform school counselors' mental-health work (AB406, 2025). The state's dedicated ed-tech commission was abolished in 2023 (SB214). A purchasing standard would be new statutory ground — and the 2025 bill nearest to transparency about classroom materials, SB248, died in Senate Education.
+
+## Proposals that reached the Legislature and stalled
+
+**An outside audit of school spending.** The independent inspector-general design has been filed seven times in four sessions and has never received a vote: AB146 and AB296 (2019), AB108 (2021), AB149 — an Inspector General of Education — and AB353 (2023), AB33 and AB154 (2025). Assemblymember Brittney Miller (D) carried it four sessions running; a Republican version died the same way. A Financial Oversight of School Spending Committee (AB395, 2023) also died in committee. What passed keeps auditing inside government: AB517 (2023) orders recurring legislative performance audits of the two biggest districts and the charter authority, 42–0 and 21–0, with the first audits due in 2026, and existing law already requires six-year outside-consultant financial reviews of districts — a 2025 bill to repeal those reviews failed too.
+
+**Recess and guaranteed instructional minutes.** The recess mandate reached the Legislature once: AB53 (2025) would have required at least 20 minutes of daily outdoor recess in kindergarten through grade 5 and banned withholding recess for academic or behavioral reasons — the exact enforcement gap participants described. It died in Assembly Education without a vote. A PE-content bill (SB182, 2021) and a fourth social-studies credit (AB228, 2023) also stalled. The contrast: when leadership wants a content mandate, it passes nearly unanimously — financial-literacy credits (AB274, 2023, 40–0 and 20–0) and the cellphone rules of 2025.
+
+**Measuring growth instead of fixed proficiency.** The purest "measure the delta" bill, SB351 (2025), would have double-weighted the growth of the lowest-scoring pupils in school star ratings; it died in Senate Education without a vote. The social-emotional measurement bill cleared committee and died on the Senate floor twice — SB313 (2023, carried by Sen. Roberta Lange (D) with Sen. Lisa Krasner (R)) and SB314 (2025). Competency-based education expansion passed the Senate 21–0 and died in the second house (SB403, 2025). What passed trims testing rather than redesigning it: a cap on class time spent on tests (SB353, 2021, 42–0 and 21–0) and the end of end-of-course finals (SB9, 2023). Nevada's ratings already include a growth component; the failed bills changed its weight, not its existence.
+
+**Read by Grade 3 reform.** The record confirms what participants remembered: AB289 (2019) removed automatic third-grade retention and substituted mandatory intensive reading help, 28–11 and 17–4 — and no bill since has proposed reinstating retention. No bill repeals the assessment requirement either. The nearest attempt, AB386 (2025), let Washoe County pilot an alternative literacy assessment; it passed the Assembly 40–0 and the Senate 21–0 as amended, then died awaiting a final concurrence vote when the session ended. What did pass narrows the machinery — SB278 (2025) made the statewide assessment the sole trigger for deficiency decisions (42–0, 21–0). The phonics-side bill, a ban on three-cueing reading instruction (AB187, 2023), died in committee. In the 2020 special session, the COVID budget act cut the program's $31.4 million second-year transfer and listed it among the first accounts to restore.
+
+## Where precedent exists
+
+**Per-pupil funding.** The machinery was rebuilt inside this record: SB543 (2019) created the State Education Fund and the per-pupil formula (18–3, 34–7); SB439 (2021) rebuilt its revenue streams; AB495 (2021) added a gold-and-silver mining tax routed to education (28–14, 16–5); SB503 (2023) and SB500 (2025, 42–0 and 13–8) are the biennium funding acts, and SB231 (2023) funded raises in districts that budget them (21–0, 41–1). No bill sets a national-average target, and the guarantee keeps dying: AB459 (2023), requiring the education budget to at least keep pace with inflation plus enrollment, died in Ways and Means, as did its 2025 successor in Finance. The standing Commission on School Funding is the body in statute charged with calculating what full funding would take.
+
+**Universal pre-K and early childhood.** No bill proposes pre-K for all children; the investment precedent is solid. SB84 (2019) put the state pre-K grant program in statute, 41–0 and 20–0; AB400 (2023) added an early-literacy account; family-engagement programs for children entering kindergarten passed in 2023 and were extended in 2025 (AB212, 38–4 and 21–0). The structural bills keep dying: statutory early-childhood offices failed on the Assembly floor in 2023 (AB113) and in committee in 2025 (SB82), and the 2025 bill widening pre-K grant eligibility and tying grant size to per-pupil funding (SB58) died in Senate Finance. Seats grow through the budget, not through an entitlement statute.
+
+**Accountability for administrators.** Principal accountability is law twice over: SB292 (2023) makes principals at-will employees when their school's rating falls and half the teachers ask to transfer (21–0, 39–3), and SB460 (2025) requires elementary achievement plans with consequences for principals and created a Public Education Oversight Board (21–0, 38–4). School-board restructuring keeps failing: appointed-seat bills died in committee in 2019, 2021, and 2023 before AB175 (2023) seated four appointed nonvoting Clark County trustees (29–11, 16–4); the 2025 upgrade giving them full rights and term limits passed the Assembly 24–18 and died in Senate Education. Superintendent pay — the $485,000 contracts participants described — has never been touched by a bill in this record; those contracts are signed by elected boards.
+
+**Teacher pay and the shortage.** Participants predicted lawmakers would say they "just raised teacher pay," and the record shows why: SB231 (2023) sent state money to districts budgeting raises for teachers and support staff, and AB398 (2025) funds extra pay for hard-to-fill positions (20–0, 41–1). The supply pipeline passed nearly unanimously — the Interstate Teacher Mobility Compact (SB442, 2023), paid teaching-pathway grants (AB515 and AB428, 2023), one-year provisional hiring of out-of-state teachers (AB49, 2025, 42–0 and 21–0). What failed or died: the $45,000 minimum salary (SB445, 2019, Republican-sponsored, died in committee), the 16-pupil grade-3 class-size cap (AB335, 2023), and — at the governor's desk — the substitute-teacher insurance subsidy (AB282, 2023, passed 31–11 and 16–4, vetoed) and class-size collective bargaining (AB155, 2025, vetoed).
+
+**School-based mental health.** The staffing framework exists: SB319 (2019) defined counselor, psychologist, and social-worker roles and requires a full-time counselor in every school "to the extent money is available" (41–0, 21–0); SB151 (2021) makes the two urban districts plan and report annually on improving support-staff ratios; SB277 (2025) does the same for social workers and eases their licensure (38–1, 15–5). The unconditional versions die: the bill deleting the money-permitting words (AB298, 2025) and the monthly mental-health workshop mandate (AB374, 2025) both died in committee. The governance layer hit the veto desk — the statewide children's mental-health consortium passed 42–0 and 20–0 and was vetoed (AB265, 2023).
+
+## The political terrain
+
+Education is the Legislature's most cross-party subject in this record: 55 policy bills carried sponsors from both parties, and 28 of them became law. Senate Education Democrats and Republicans both carry heavy loads — Sen. Marilyn Dondero Loop (D) is the most frequent primary sponsor (37 bills), followed by Sen. Scott Hammond (R, 31, mostly choice bills that died in committee) and Sen. Carrie Buck (R, 31). Assemblymember Brittney Miller (D) owns the auditor file; Assemblymember Selena Torres-Fossett (D) the teacher pipeline. The chokepoints are stable: Education committees killed 127 bills at the first stop, the money committees 40 — mostly bills with price tags — and Government Affairs 12, including most inspector-general designs. Since 2023, bargaining and school-adjacent health bills pass on divided floor votes and stop at the governor's desk; money, audits, and licensure bills pass unanimously and get signed.
+
+## New law from the 2025 session
+
+The 2025 session funded hard-to-fill teacher pay (AB398) and let out-of-state teachers start work provisionally (AB49, 42–0 and 21–0). It created principal consequences and a Public Education Oversight Board (SB460), made the statewide assessment the sole Read by Grade 3 trigger (SB278), required district cellphone policies (SB444), banned AI from counselor duties (AB406), and added school social workers where money allows (SB277). It bonded $100 million for emergency school repairs (AB224, 41–1 and 21–0), opened cross-zone transfers with transportation grants (AB533), and passed the biennium funding act (SB500) 42–0 in the Assembly and 13–8 in the Senate.
+
+---
+
+Full bill-by-bill detail, votes, sponsors, and sources: Appendices A–I.

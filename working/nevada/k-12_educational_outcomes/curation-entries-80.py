@@ -222,7 +222,7 @@ add("80:SB520", "Supplemental money to the Distributive School Account for unant
 add("80:SB523", "Supplemental money for a staffing shortfall in state literacy programs", "early-learning-reading", "core")
 add("80:SB528", "Brain-health center appropriations; not K-12", "context", "context")
 add("80:SB538", "Office for New Americans; not K-12", "context", "context")
-add("80:SB543", "Created the State Education Fund and the Pupil-Centered Funding Plan, replacing the 52-year-old Nevada Plan formula", "school-funding", "core")
+add("80:SB543", "Created the State Education Fund and the Pupil-Centered Funding Plan, replacing the Nevada Plan, the state's previous funding formula", "school-funding", "core")
 add("80:SB545", "Redirected the 10 percent retail marijuana tax from the Rainy Day Fund to the school account", "school-funding", "core")
 add("80:SB549", "Adjusted which assessments drive New Nevada Education Funding Plan allocations", "school-funding", "core")
 add("80:SB551", "Kept payroll-tax rates from falling and steered money to schools and safety programs", "school-funding", "adjacent")
