@@ -1,0 +1,355 @@
+state: nevada
+issue_id: nevada-02-cost-of-living
+issue_title: "The Rising Cost of Living in Nevada: Health Care"
+issue_slug: cost-of-living
+openstates_jurisdiction: Nevada
+
+# OpenStates session ids: 80=2019, 81=2021, 82=2023, 83=2025
+sessions:
+  - label: "2019"
+    openstates_identifier: "80"
+    name: "80th (2019) Session"
+  - label: "2021"
+    openstates_identifier: "81"
+    name: "81st (2021) Session"
+  - label: "2023"
+    openstates_identifier: "82"
+    name: "82nd (2023) Session"
+  - label: "2025"
+    openstates_identifier: "83"
+    name: "83rd (2025) Session"
+
+# NELIS full-text search terms. Every NELIS hit is kept and tagged with the
+# terms that found it; the relevance filter is only a review flag. Seeded
+# from the issue vocabulary AND the Phase 2 constituent statements
+# (licensure compacts, provider supply, residencies, loan forgiveness,
+# prior authorization, PBMs/middlemen, network accuracy/credentialing,
+# small-business insurance pooling, reimbursement rates, urgent care vs ER).
+search_terms:
+  # Core health-care cost and coverage vocabulary
+  - "health care"
+  - "health insurance"
+  - "health benefit plan"
+  - "managed care"
+  - "public option"
+  # Provider licensure, compacts, and reciprocity (proposals 1 and 2)
+  - "licensure compact"
+  - "licensure by endorsement"
+  - physician
+  - nurse
+  - nursing
+  - "physician assistant"
+  # Provider supply, medical education, and residencies (proposals 2 and 3)
+  - "medical education"
+  - "graduate medical education"
+  - residency
+  - "health care workforce"
+  # Loan forgiveness / service-commitment recruiting (proposal 4)
+  - "loan repayment"
+  - "student loan"
+  - "Health Service Corps"
+  # Insurance practices: prior authorization, utilization review (proposal 5)
+  - "prior authorization"
+  - "utilization review"
+  - "step therapy"
+  # Middlemen and pharmacy benefit managers (proposal 6)
+  - "pharmacy benefit"
+  - pharmacist
+  - "prescription drug"
+  # Network accuracy and credentialing (proposal 7)
+  - "network plan"
+  - "provider network"
+  - "network adequacy"
+  - credentialing
+  # Insurance pooling for small businesses and non-employer groups (proposal 8)
+  - "small employer"
+  - "group health"
+  # Reimbursement rates and public payers (proposal 9)
+  - Medicaid
+  - Medicare
+  - reimbursement
+  # Care settings, billing, and patient cost exposure (proposal 10 + cost focus)
+  - "urgent care"
+  - "emergency room"
+  - "emergency department"
+  - telehealth
+  - telemedicine
+  - hospital
+  - "medical debt"
+  - "medical bill"
+  - "balance billing"
+  - "out-of-network"
+
+# Words that mark a title/digest as clearly on-topic (review flag only;
+# nothing is dropped). Read by collectors/pass1_bills.py. Space-prefixed
+# entries avoid substring traps.
+relevance_terms:
+  - "health care"
+  - healthcare
+  - "health insurance"
+  - "health benefit"
+  - "health maintenance organization"
+  - "managed care"
+  - "public option"
+  - medicaid
+  - medicare
+  - physician
+  - " nurse"
+  - nursing
+  - pharmac
+  - "prescription drug"
+  - prescription
+  - hospital
+  - telehealth
+  - telemedicine
+  - "prior authorization"
+  - "utilization review"
+  - "step therapy"
+  - credentialing
+  - "provider network"
+  - "network adequacy"
+  - "network plan"
+  - reimburs
+  - "medical debt"
+  - "medical bill"
+  - "urgent care"
+  - "emergency room"
+  - "emergency department"
+  - "emergency medical"
+  - "licensure compact"
+  - "licensure by endorsement"
+  - "loan repayment"
+  - "health service corps"
+  - "medical education"
+  - "medical facility"
+  - "provider of health care"
+  - insurer
+
+# Phase 2 Community Conversation statements (June-July 2026): the ten most
+# common citizen statements on the rising cost of living (healthcare focus),
+# from the RAG constituent-voice dataset ("NV1 - RAG - Phase 2 Constituent
+# Input", NV1 - Cost of Living sheet). Used by the pipeline to
+# cross-reference citizen input against legislative history. "Most popular"
+# reflects how frequently and forcefully proposals recurred across tables,
+# not a formal vote.
+constituent_proposals:
+  - id: licensure-compacts
+    title: "Adopt interstate licensure compacts (e.g., the Nurse Licensure Compact) to expand provider supply"
+    detail: >-
+      The compact allows you to work in any state no matter where you live;
+      if enacted for doctors, PAs, nurse practitioners and nurses, it would
+      let more providers come across state lines rather than going through a
+      one-to-two-year licensing process.
+    consensus: >-
+      Strong consensus at the Carson City table; a participant cited a
+      25-year study of all 50 states finding that in each of the 42 states
+      that passed the NLC, provider growth increased, and the table
+      designated it their first consensus point. Reno participants similarly
+      endorsed reciprocity, noting nurses now have reciprocity.
+    tradeoffs: >-
+      Most of the unions are fighting against it; a lobbyist group claims
+      studies show low-quality licensed providers will come into the state,
+      though when pressed they could not produce the studies. Compacts also
+      require attention to integrity of the process, licensing, and FBI
+      background checks.
+    match_terms: ["compact", "licensure by endorsement", "endorsement", "reciprocity", "license without an examination", "interstate"]
+  - id: provider-supply
+    title: "Increase the overall supply of physicians and providers"
+    detail: >-
+      The core problem is a shortage - "Rural Nevada is just a shortage
+      everywhere" - and Nevada needs to add roughly 500 doctors just to
+      reach the national average.
+    consensus: >-
+      Explicit consensus at Carson City that there is a supply issue and a
+      focus on supply would be a good potential solution; Reno agreed
+      strongly that access is solved by having more providers and the state
+      needs to attract them.
+    tradeoffs: "The central trade-off is figuring out how to pay for it."
+    match_terms: ["workforce", "shortage", "recruit", "attract", "visa", "supply of provider", "supply of physician"]
+  - id: gme-residencies
+    title: "Fund more graduate medical education / residency programs"
+    detail: >-
+      Nevada loses graduates because there are not enough residency programs
+      to keep them, so they go out of state and often stay there; attracting
+      top residents also requires attracting the top people to teach them.
+    consensus: >-
+      Broad agreement in Reno - asked directly whether more residencies were
+      needed, participants answered "Absolutely," reasoning that "90% of the
+      time they stay where their residences are."
+    tradeoffs: "Expanding these programs comes down to funding."
+    match_terms: ["graduate medical education", "residency", "residencies", "medical education", "medical school"]
+  - id: provider-loan-forgiveness
+    title: "Offer student-loan / medical-debt forgiveness for providers serving in-state or in rural areas"
+    detail: >-
+      Recruit new doctors by offering to work off their student loans in
+      exchange for a service commitment of several years in the state; one
+      version gives medical debt relief for working especially in rural
+      areas, possibly funded by incoming rural funding from the
+      administration.
+    consensus: >-
+      Widely supported across both Carson City and Reno; one Reno
+      participant endorsed a public-service-style pay-down of medical debt
+      as "a great" idea, though it had not yet reached a formal bill draft.
+    tradeoffs: >-
+      Funding source and the length of the service commitment must be
+      defined.
+    match_terms: ["loan repayment", "loan forgiveness", "student loan", "health service corps", "underserved", "service commitment"]
+  - id: prior-authorization-reform
+    title: "Reform / limit insurance prior authorization (including AI-driven denials)"
+    detail: >-
+      Prior authorization is criticized as redundant ("why get a prior
+      authorization when the doctor's gonna say I need it anyway?");
+      denials are now reviewed by "a robot" - companies put high volumes
+      into an algorithm and reject requests. A relevant bill, AB290, died in
+      committee in the 2025 session but is planned for reintroduction.
+    consensus: >-
+      General agreement it is a problem; the counterpoint added nuance
+      rather than opposition. One participant insisted that anyone who says
+      a treatment isn't needed should be a medical professional.
+    tradeoffs: >-
+      There should still be a way for insurers to verify need, "because
+      there's a lot of bad players out there," and some requests are
+      genuinely cosmetic.
+    match_terms: ["prior authorization", "utilization review", "step therapy", "artificial intelligence", "denial", "adverse determination"]
+  - id: pbm-middlemen
+    title: "Reduce administrative burden and eliminate insurance \"middlemen\" (including PBMs)"
+    detail: >-
+      Providers spend excessive time on paperwork and fighting with
+      insurance companies instead of seeing patients; pharmacy benefit
+      managers are a middleman collecting a lot of money - the
+      pharmaceutical company is not the one "raking in," these middle
+      people are.
+    consensus: >-
+      Strong consensus, especially at the SW Vegas table; a legislator
+      confirmed legislation is being pursued to rein PBMs in.
+    tradeoffs: >-
+      Administrative requirements exist partly as insurers' verification
+      tools; removing layers shifts oversight elsewhere.
+    match_terms: ["pharmacy benefit", "middleman", "rebate", "administrative", "third party", "paperwork"]
+  - id: network-credentialing
+    title: "Improve provider-network accuracy and speed up insurance credentialing"
+    detail: >-
+      Panels are listed as closed because they're "full" when they're not
+      actually full or accurate, and new practices struggle to get insurance
+      companies to bring them on board; the ask became ensuring insurers
+      have quicker credentialing for actual access to providers, alongside
+      background checks and easing the ability to practice in the state.
+    consensus: >-
+      Reached as a consensus point at Carson City after the facilitator
+      asked whether it could be one, with the group working to word it for
+      legislators.
+    tradeoffs: >-
+      Credentialing and background checks exist to protect the integrity of
+      the process; speed has to coexist with vetting.
+    match_terms: ["credentialing", "network adequacy", "provider network", "network plan", "directory", "panel"]
+  - id: small-business-pooling
+    title: "Expand insurance pooling for small businesses and non-employer groups"
+    detail: >-
+      Allow small businesses to join with others to negotiate better
+      insurance rates and coverage; small independent operators find
+      offering insurance "astronomically expensive." Pooling exists via
+      chambers of commerce, but it's still tens of thousands of dollars;
+      one suggestion was for Nevada to allow any healthcare insurance pool
+      to be offered to any group - an association, credit union, or
+      otherwise.
+    consensus: >-
+      Interest expressed across SW Vegas and Reno, but treated more as an
+      exploratory idea than a settled proposal.
+    tradeoffs: >-
+      A structural barrier is the post-WWII rule that coverage must run
+      through your employer; the employer-based restriction was flagged as
+      the key obstacle.
+    match_terms: ["small employer", "association", "pool", "group health", "purchasing", "public option", "chamber of commerce"]
+  - id: reimbursement-rates
+    title: "Increase insurance reimbursement rates to attract and retain providers"
+    detail: >-
+      Nevada's reimbursement rates are hard, making it difficult to bring
+      in specialty or high-level providers, compounded by slow payment -
+      Tricare, for example, is being dropped given the paperwork and
+      nine-month wait for payment; one provider planned to drop insurance
+      and go cash-only.
+    consensus: >-
+      Raised repeatedly as a priority ("Insurance reimbursement" named as a
+      secondary ask); broadly agreed as a problem, with cost as the
+      recognized constraint.
+    tradeoffs: >-
+      Higher reimbursement strains the state budget, given one in four are
+      Medicaid patients hitting the state's financial budget.
+    match_terms: ["reimburs", "rates of payment", "rate of payment", "prompt payment", "medicaid rate"]
+  - id: care-settings
+    title: "Right-size the care setting (urgent care vs. ER) and use rotating/staffed clinics for access"
+    detail: >-
+      Patients get an emergency-room charge no matter whether their issue is
+      an emergency; the proposed model splits ER and urgent care so minor
+      issues don't incur ER billing, using rotating physicians required to
+      do time in urgent care, extendable to community facilities. A related
+      state-level idea was a physician staffed in each county, paid for by
+      the state, available at any time.
+    consensus: >-
+      Moderate support; the access problem is universally acknowledged
+      (multiple participants reported waits of almost three and a half
+      months for a primary appointment), but specific delivery mechanisms
+      were still being debated.
+    tradeoffs: >-
+      The obvious trade-off is again how to pay for it; there is also
+      disagreement on scope - telehealth drew pushback on which services
+      qualify ("if you need a colonoscopy, you're not going to use
+      telehealth").
+    match_terms: ["urgent care", "emergency room", "emergency department", "freestanding", "telehealth", "telemedicine", "clinic", "emergency services"]
+
+# Cross-cutting notes from the same dataset (context for writers, not proposals):
+# - several additional ideas surfaced but appeared less central or fell
+#   partly outside the healthcare focus: tax incentives for businesses that
+#   provide employee health coverage (participants noted that in reality
+#   "there's no incentives, there's only... penalties"), broader promotion
+#   of ACA subsidies and "navigator" outreach (navigator funding largely
+#   went away, so outreach was lost), and incentivizing specific in-demand
+#   specialties using health-assessment data to pay a premium where those
+#   doctors are needed most
+# - these reflect real interest but did not reach the same level of table
+#   consensus as the ten proposals above
+
+nevada_revised_statutes_chapters:
+  - 422
+  - 439A
+  - 449
+  - 630
+  - 632
+  - 683A
+  - 695G
+
+agency_document_urls:
+  - url: "https://dhcfp.nv.gov/"
+    title: "Nevada Division of Health Care Financing and Policy (Medicaid)"
+    source_key: "S1"
+  - url: "https://doi.nv.gov/"
+    title: "Nevada Division of Insurance"
+    source_key: "S2"
+  - url: "https://ppc.nv.gov/"
+    title: "Nevada Patient Protection Commission"
+    source_key: "S3"
+
+statute_urls:
+  - chapter: 422
+    url: "https://www.leg.state.nv.us/NRS/NRS-422.html"
+    source_key: "S10"
+  - chapter: 439A
+    url: "https://www.leg.state.nv.us/NRS/NRS-439A.html"
+    source_key: "S11"
+  - chapter: 449
+    url: "https://www.leg.state.nv.us/NRS/NRS-449.html"
+    source_key: "S12"
+  - chapter: 630
+    url: "https://www.leg.state.nv.us/NRS/NRS-630.html"
+    source_key: "S13"
+  - chapter: 632
+    url: "https://www.leg.state.nv.us/NRS/NRS-632.html"
+    source_key: "S14"
+  - chapter: 683A
+    url: "https://www.leg.state.nv.us/NRS/NRS-683A.html"
+    source_key: "S15"
+  - chapter: 695G
+    url: "https://www.leg.state.nv.us/NRS/NRS-695G.html"
+    source_key: "S16"
+
+impact_lookback_years: 20

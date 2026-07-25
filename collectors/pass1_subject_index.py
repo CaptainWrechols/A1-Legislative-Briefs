@@ -47,71 +47,103 @@ SESSIONS = {
 }
 
 # Subject headings to harvest fully (regex against the cleaned heading text).
-# Issue: nevada-housing-affordability. Headings verified against the cached
-# 2019/2021/2023/2025 index HTML (AFFORDABLE HOUSING, ATTAINABLE HOUSING,
-# HOUSING, LANDLORD AND TENANT, EVICTION, MANUFACTURED/MOBILE HOMES, TINY
-# HOUSES, ZONING, LAND USE PLANNING, IMPACT FEES, etc.).
+# Issue: nevada-02-cost-of-living (healthcare focus). Headings verified
+# against the cached 2019/2021/2023/2025 index HTML (INSURANCE, HEALTH CARE
+# PROVIDERS, HEALTH CARE - RESTRAINING COSTS OF, MEDICAID, MEDICARE,
+# PHYSICIANS, NURSES AND NURSING, PHARMACY BENEFIT MANAGERS, PRESCRIPTIONS,
+# HOSPITALS, TELEHEALTH, MEDICAL BILLS, MEDICAL DEBT, PATIENT PROTECTION
+# COMMISSION, PUBLIC OPTION HEALTH BENEFIT PLAN, etc.).
 HEAD_PATTERNS = (
-    r"HOUSING",  # AFFORDABLE/ATTAINABLE/FACTORY-BUILT/FAIR HOUSING, HOMELESSNESS TO HOUSING, HOUSING AUTHORITIES...
-    r"^LANDLORD AND TENANT",
-    r"^APARTMENT HOUSES",
-    r"^EVICTION",
-    r"^LEASES\b",
-    r"^DWELLINGS",
-    r"^MANUFACTURED",
-    r"^MOBILE HOME",
-    r"^TINY HOUSES",
-    r"^HOMELESS",
-    r"^ZONING",
-    r"^LAND USE PLANNING",
-    r"^PLANNING COMMISSIONS",
-    r"^REGIONAL PLANNING",
-    r"^PLANNED UNIT DEVELOPMENTS",
-    r"^SUBDIVISION OF LAND",
-    r"^IMPACT FEES",
-    r"^RESIDENTIAL CONSTRUCTION TAX",
-    r"^REAL PROPERTY TRANSFER TAX",
-    r"^REAL ESTATE INVESTMENT TRUSTS",
-    r"^BUILDING CODES",
-    r"^BUILDING PERMITS",
+    r"^INSURANCE\b",  # general INSURANCE heading + INSURANCE COMPANIES/ADMINISTRATORS (health carriers, TPAs)
+    r"^HEALTH CARE PROVIDERS",
+    r"^HEALTH CARE, RESTRAINING COSTS OF",
+    r"^HEALTH CARE ACCESS AND RECRUITMENT",
+    r"^HEALTH BENEFIT PLANS",
+    r"^HEALTH MAINTENANCE ORGANIZATIONS",
+    r"^MANAGED CARE",
+    r"HOSPITAL, MEDICAL (AND|OR) DENTAL",  # nonprofit hospital/medical/dental service corporations
+    r"^NONPROFIT HOSPITAL",
+    r"^PREPAID LIMITED HEALTH SERVICE",
+    r"^PUBLIC OPTION HEALTH BENEFIT PLAN",
+    r"^SILVER STATE HEALTH INSURANCE EXCHANGE",
+    r"^PATIENT PROTECTION COMMISSION",
+    r"^PATIENTS\b",
+    r"^PHARMACY BENEFIT MANAGERS",
+    r"^PHARMACISTS AND PHARMACY",
+    r"^PHARMACEUTICAL SALES REPRESENTATIVES",
+    r"^PRESCRIPTION",  # PRESCRIPTIONS + PRESCRIPTION DRUG AFFORDABILITY BOARD/COUNCIL
+    r"^REBATES, PRESCRIPTION DRUGS",
+    r"^MEDICAID\b",
+    r"^MEDICARE\b",
+    r"^MEDICAL BILLS",
+    r"^MEDICAL DEBT",
+    r"^HOSPITALS\b",
+    r"^COUNTY HOSPITALS",
+    r"^TELEHEALTH",
+    r"^PHYSICIANS\b",
+    r"^PHYSICIAN ASSISTANTS",
+    r"^PHYSICIAN VISA WAIVER PROGRAM",
+    r"^OSTEOPATHIC PHYSICIANS",
+    r"^NURSES AND NURSING",
+    r"^NURSING POOLS",
+    r"^MEDICAL EDUCATION COUNCIL",
+    r"HEALTH SERVICE CORPS",
+    r"^EMERGENCY MEDICAL SERVICES\b",
+    r"^PSYCHOLOGY INTERJURISDICTIONAL COMPACT",
 )
 
-# Headings that match above but are not about housing policy.
+# Headings that match above but are not about healthcare cost/access policy.
 HEAD_EXCLUDE = (
-    r"^HOUSING DIVISION \(See",  # cross-reference heading, no entries of its own
+    r"^INSURANCE ADJUSTERS",       # claims-adjuster licensing
+    r"^INSURANCE AGENTS",          # producer/agent licensing
+    r"^INSURANCE BROKERS",
+    r"^INSURANCE CONSULTANTS",
+    r"^INSURANCE PRODUCERS",
+    r"^INSURANCE GUARANTY",        # insolvency guaranty associations
+    r"^INSURANCE DATA SECURITY",
+    r"^INSURANCE PREMIUM TAX",     # general revenue mechanics
+    r"^INSURANCE DIVISION \(See",  # cross-reference heading
+    r"^INSURANCE, COMMISSIONER OF \(See",
+    r"^INSURANCE, DIVISION OF \(See",
+    r"^HEALTH INSURANCE \(See",    # cross-reference heading, no entries of its own
 )
 
-# Entry-level keywords harvested from ANY heading (catches e.g. affordable-
-# housing accounts filed under TAXES AND TAXATION or appropriations
-# headings). Space-prefixed entries avoid substring traps ("tenant" in
-# "lieutenant").
+# Entry-level keywords harvested from ANY heading (catches e.g. graduate-
+# medical-education money filed under appropriations or university headings).
+# Space-prefixed entries avoid substring traps.
 ENTRY_KEYWORDS = (
-    "affordable housing",
-    "attainable housing",
-    "workforce housing",
-    "low-income housing",
-    "accessory dwelling",
-    "tiny house",
-    "tiny home",
-    "manufactured home",
-    "mobile home",
-    "factory-built",
-    "down payment",
-    "first-time home",
-    "homebuyer",
-    "home buyer",
-    "rent control",
-    "rent increase",
-    "rental agreement",
-    "summary eviction",
-    "landlord",
-    " tenant",
-    "inclusionary",
-    "impact fee",
-    "residential construction tax",
-    "corporate investor",
-    "institutional investor",
-    "starter home",
+    "licensure compact",
+    "nurse licensure",
+    "interstate medical",
+    "interjurisdictional compact",
+    "licensure by endorsement",
+    "prior authorization",
+    "utilization review",
+    "step therapy",
+    "pharmacy benefit",
+    "graduate medical education",
+    "residency program",
+    "medical residenc",
+    "loan repayment",
+    "health service corps",
+    "network adequacy",
+    "provider network",
+    "credentialing",
+    "urgent care",
+    "emergency room",
+    "freestanding emergency",
+    "telehealth",
+    "telemedicine",
+    "medical debt",
+    "surprise billing",
+    "balance billing",
+    "out-of-network",
+    "health insurance",
+    "health benefit plan",
+    "health coverage",
+    "reimbursement rate",
+    "rates of reimbursement",
+    "public option",
 )
 
 IDENT_RE = re.compile(r">\s*((?:AB|SB|AJR|SJR|ACR|SCR)\s*\d+)\s*</a>")
@@ -283,13 +315,18 @@ def main() -> None:
         "updated_at": now(),
         "note": (
             "LCB Subject Index of Bills harvested per session; headings matched: "
-            "housing (affordable/attainable/fair/factory-built, authorities, "
-            "homelessness-to-housing), landlord and tenant, eviction, "
-            "manufactured/mobile/tiny homes, zoning, land use planning, "
-            "subdivision, impact fees, residential construction tax, real "
-            "property transfer taxes, REITs, building codes/permits + entry "
-            "keywords (accessory dwelling, down payment, inclusionary, rent "
-            "control, corporate investor, starter home)."
+            "insurance (general/companies/administrators, excluding "
+            "agent-licensing and guaranty subsets), health care providers, "
+            "restraining costs of health care, health benefit plans, HMOs, "
+            "managed care, nonprofit hospital/medical/dental service "
+            "corporations, public option, Silver State Exchange, Patient "
+            "Protection Commission, patients, PBMs, pharmacists and pharmacy, "
+            "prescriptions, Medicaid, Medicare, medical bills/debt, hospitals, "
+            "telehealth, physicians/PAs/osteopaths, nurses, Medical Education "
+            "Council, Health Service Corps, EMS, psychology compact + entry "
+            "keywords (licensure compact, prior authorization, pharmacy "
+            "benefit, graduate medical education, credentialing, urgent care, "
+            "telehealth, medical debt, reimbursement rate, public option)."
         ),
         "added_bills": [r["key"] for r in report],
         "details": report,
