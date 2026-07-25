@@ -1,0 +1,196 @@
+{
+  "issue_id": "nevada-03-k-12-educational-outcomes",
+  "generated_by": "reality-mapper v2.2",
+  "built_at": "2026-07-25",
+  "input": "working/nevada/k-12_educational_outcomes/evidence-pack.json (513 policy bills of 724 collected; 2019-2025) + verification/special-sessions.json",
+  "headline": "Education is the Legislature's biggest subject and its most crowded funnel: 513 policy bills in four sessions, 228 became law, and 193 of the 269 failures never left their first committee - 127 of them dying inside an Education committee. The formula fights citizens remember were settled in 2019 (the Pupil-Centered Funding Plan); what stalls now is oversight machinery (seven independent-auditor bills dead in committee), classroom-time mandates (the 2025 recess bill died without a vote), and measurement changes (the growth-weighting bill died in committee; two social-emotional measurement bills died on the Senate floor). Since 2023 a veto wall has appeared: 13 education vetoes in 2023-2025, concentrated on bargaining and school-adjacent health and library bills.",
+  "session_snapshot": {
+    "2019": {"bills_in_set": 146, "enacted": 77, "failed": 69, "vetoed": 0},
+    "2021": {"bills_in_set": 110, "enacted": 50, "failed": 60, "vetoed": 0},
+    "2023": {"bills_in_set": 128, "enacted": 52, "failed": 67, "vetoed": 8, "unknown_resolutions": 1},
+    "2025": {"bills_in_set": 129, "enacted": 49, "failed": 73, "vetoed": 5, "in_progress_resolutions": 1, "unknown_resolutions": 1},
+    "failure_stages_policy_set": {"origin_committee_or_introduced": 193, "origin_floor": 43, "second_chamber": 30, "after_both_chambers": 3},
+    "first_committee_deaths_by_committee": {"Education committees": 127, "Finance / Ways and Means": 40, "Government Affairs": 12, "other": 14}
+  },
+  "theme_scorecards": [
+    {"theme_id": "school-funding", "bills": 44, "enacted": 28, "basket": "often_moved", "certainty": "high", "typical_stop": "first committee (14) - mostly alternative revenue designs", "examples": ["80:SB543", "81:SB439", "82:SB503", "83:SB500"], "inference": "Inference: the funding formula and biennium funding acts pass reliably; bills that add earmarks or change the budget baseline die in the money committees."},
+    {"theme_id": "facilities-operations", "bills": 35, "enacted": 21, "basket": "often_moved", "certainty": "medium", "typical_stop": "first committee (11)", "examples": ["83:AB224", "83:AB355", "80:SB318"], "inference": "Inference: school-building money and safety mechanics move; the 2025 session bonded $100 million for emergency repairs (83:AB224)."},
+    {"theme_id": "student-supports", "bills": 97, "enacted": 51, "basket": "mixed", "certainty": "high", "typical_stop": "first committee (21), origin floor (14); vetoed (4)", "examples": ["80:SB319", "81:SB151", "83:SB277", "82:AB265"], "inference": "Inference: support-staff and safety bills often become law, but school-adjacent health governance hit the veto desk in 2023 (82:AB201, 82:AB265)."},
+    {"theme_id": "early-learning-reading", "bills": 26, "enacted": 14, "basket": "often_moved", "certainty": "medium", "typical_stop": "first committee (9) - mostly money designs in Finance", "examples": ["80:SB84", "80:AB289", "82:AB400", "83:SB278"], "inference": "Inference: pre-K and literacy program bills pass when routed as grants; statutory offices and new earmarks die."},
+    {"theme_id": "teacher-workforce", "bills": 68, "enacted": 33, "basket": "mixed", "certainty": "high", "typical_stop": "first committee (20), origin floor (9); vetoed (3)", "examples": ["82:SB231", "82:SB442", "83:AB398", "83:AB155"], "inference": "Inference: raise money and licensure-pipeline bills pass, often unanimously; collective-bargaining expansions pass both houses and get vetoed."},
+    {"theme_id": "classroom-time-content", "bills": 86, "enacted": 30, "basket": "mixed", "certainty": "high", "typical_stop": "first committee (34)", "examples": ["82:AB274", "83:SB444", "83:AB53"], "inference": "Inference: content the Legislature prescribes (financial literacy, civics, cellphone policies) passes; time mandates (recess, PE minutes, class-size caps) die in the first committee."},
+    {"theme_id": "accountability-governance", "bills": 53, "enacted": 16, "basket": "rarely_moved", "certainty": "high", "typical_stop": "first committee (26)", "examples": ["82:SB292", "83:SB460", "82:AB175", "83:AB156"], "inference": "Inference: school-board restructuring dies in committee session after session; principal-accountability bills carried by leadership passed in 2023 and 2025."},
+    {"theme_id": "testing-graduation", "bills": 35, "enacted": 13, "basket": "rarely_moved", "certainty": "medium", "typical_stop": "first committee (18), second house (4)", "examples": ["81:SB353", "82:SB9", "83:SB403", "83:AB386"], "inference": "Inference: bills that trim testing pass; bills that redesign what is measured stall - two died at the very end of the 2025 session."},
+    {"theme_id": "charters-choice", "bills": 45, "enacted": 15, "basket": "rarely_moved", "certainty": "high", "typical_stop": "first committee (27)", "examples": ["80:SB349", "82:SB200", "83:SB252"], "inference": "Inference: education savings accounts and Opportunity Scholarship expansions died in committee in all four sessions; charter administration and transportation money passed."},
+    {"theme_id": "spending-oversight", "bills": 24, "enacted": 7, "basket": "rarely_moved", "certainty": "high", "typical_stop": "first committee (13)", "examples": ["82:AB517", "82:AB149", "83:AB33", "83:SB411"], "inference": "Inference: independent inspector-general designs died seven times in committee across four sessions; the one auditor bill that passed keeps auditing inside the Legislature (82:AB517)."}
+  ],
+  "people_and_process_signals": {
+    "person_sponsored_policy_bills": 340,
+    "committee_sponsored_policy_bills": 173,
+    "frequent_primary_sponsors_note": "Counts merge NELIS name variants for the same person across sessions (e.g., Assemblywoman Selena Torres 2019-2023 + Assemblymember Selena Torres-Fossett 2025; Senator Carrie Buck + Senator Carrie Ann Buck).",
+    "frequent_primary_sponsors": [
+      {"name": "Sen. Marilyn Dondero Loop", "party": "Democratic", "bills": 37, "note": "Senate Education chair-line; counselor-ratio, funding and early-learning bills"},
+      {"name": "Sen. Scott Hammond", "party": "Republican", "bills": 31, "note": "education savings accounts and choice bills; kindergarten cutoff"},
+      {"name": "Sen. Carrie (Ann) Buck", "party": "Republican", "bills": 31, "note": "charter facilities, growth weighting, school libraries (23 as Carrie Buck + 8 as Carrie Ann Buck)"},
+      {"name": "Asm. Selena Torres(-Fossett)", "party": "Democratic", "bills": 27, "note": "teacher pipeline, English learners, early childhood (21 + 6 across name forms)"},
+      {"name": "Asm. Brittney Miller", "party": "Democratic", "bills": 24, "note": "carried the independent inspector-general bill in four straight sessions; class-size and vacancy transparency (18 + 6 across title forms)"},
+      {"name": "Asm. Natha Anderson", "party": "Democratic", "bills": 20, "note": "teacher licensing and pay bills (14 + 6 across title forms)"},
+      {"name": "Sen. Heidi Seevers Gansert", "party": "Republican", "bills": 19, "note": "literacy money, school-board training"},
+      {"name": "Sen. Roberta Lange", "party": "Democratic", "bills": 19, "note": "civics seal, social-emotional health standards (twice to the Senate floor)"},
+      {"name": "Sen. Moises Denis", "party": "Democratic", "bills": 18, "note": "ed-tech data privacy, administrator reappointment"}
+    ],
+    "cross_party": {"bills": 55, "enacted": 28, "note": "Education is unusually cross-party: 55 policy bills had both parties among sponsors and 28 became law - the 2023 financial-literacy credit (82:AB274) and the 2023 teacher-pipeline package carried R and D names together."},
+    "committee_chokepoints": "Of 193 first-committee deaths, 127 died in an Education committee, 40 in Finance or Ways and Means (money designs), 12 in Government Affairs (inspector-general and office bills).",
+    "veto_wall": "13 education vetoes, all in 2023 (8) and 2025 (5): union contact lists (82:AB172), the substitute-teacher insurance subsidy (82:AB282), universal free school meals (82:AB319), Clark County staffing recentralization (82:SB148), bargaining expansions (82:SB251, 83:AB155), summer-school mandates (82:SB340), children's mental-health governance (82:AB201, 82:AB265 - the latter after 42-0 and 20-0 votes), sex-education opt-out (83:AB205), school immigration protections (83:AB217), and two library-access bills (83:AB416, 83:AB445)."
+  },
+  "proposal_reality_cards": [
+    {
+      "proposal_id": "classroom-spending-audit",
+      "status": "tried_and_stalled",
+      "what_citizens_proposed": "A verifiable, external audit process so money reaches the classroom - participants noted the state 'audits itself' and there is no outside inspector general for schools.",
+      "what_lawmakers_tried": "The independent inspector-general design has been filed seven times in four sessions and never reached a floor vote: 80:AB146 and 80:AB296 (2019), 81:AB108 (2021), 82:AB149 (an Inspector General of Education) and 82:AB353 (under the State Controller) in 2023, 83:AB33 and 83:AB154 (2025). A Financial Oversight of School Spending Committee (82:AB395) also died in its first committee. What passed is legislative auditing: 82:AB517 (2023) requires the Legislative Auditor to performance-audit the two biggest districts and the charter authority at least every four years - it passed 42-0 and 21-0.",
+      "where_similar_ideas_stopped": "First committee, every time: Government Affairs killed the statewide inspector-general bills (2019, 2021, 2025); the Education committees killed the education-specific versions (2023). 83:SB411 (2025), which would have repealed the existing six-year outside-consultant reviews of district financial management, also died in committee - the review requirement survives in statute (NRS 387.607).",
+      "who_carried_adjacent_bills": "Asm. Brittney Miller (D) carried the independent inspector-general bill in four straight sessions; Asm. Rich DeLong (R) and Asm. Jill Dickman (R) carried the Controller version in 2023. The enacted audit bill (82:AB517) came from Assembly Ways and Means.",
+      "levers_and_venue": "A state-legislature lever. Existing law already requires six-year financial-management reviews of districts by outside consultants and, since 2023, recurring legislative performance audits; the never-passed piece is an auditor independent of both the Legislature and the Education Department.",
+      "open_questions": ["Why did the same design die in two different committees under sponsors from both parties?", "Does the 2023 legislative-audit law (first audits due August 2026) answer the 'outside entity' demand or not?", "Would an inspector general need new money, and does that route it through the money committees that killed 40 education bills?"]
+    },
+    {
+      "proposal_id": "per-pupil-funding",
+      "status": "precedent_exists",
+      "what_citizens_proposed": "Raise per-pupil funding toward the national average - participants cited a roughly $2,000 gap even after a large increase.",
+      "what_lawmakers_tried": "The machinery was rebuilt in this record: 80:SB543 (2019) created the State Education Fund and the Pupil-Centered Funding Plan (18-3, 34-7); 81:SB439 (2021) rebuilt its revenue streams (20-1, 36-5); 81:AB495 (2021) added a gold and silver mining excise tax routed to education (28-14, 16-5); 82:SB503 (2023) and 83:SB500 (2025) are the biennium funding acts (SB500 passed the Assembly 42-0 and the Senate 13-8). The 2023 session also passed 82:SB231, money for districts that budget raises for teachers and support staff. What keeps dying is the guarantee: 82:AB459 (2023), requiring the education budget to at least keep pace with revenue growth or inflation-plus-enrollment, died in Ways and Means; 83:SB471 (2025), changing how the Governor budgets the education baseline, died in Finance.",
+      "where_similar_ideas_stopped": "The money committees. Alternative revenue designs (county sales-tax options, 80:SB305; cannabis-tax rerouting, 83:AB307 and 83:AB508) died in Revenue, Ways and Means or on the floor.",
+      "who_carried_adjacent_bills": "The funding acts are committee bills (Senate Finance / Assembly Ways and Means). The Commission on School Funding - a standing statutory body of appointees that reviews the formula and recommends optimal funding - gained duties in 82:AB400 (enacted 41-0, 20-1).",
+      "levers_and_venue": "A state-legislature lever exercised every two years in the biennium budget. No bill in this record sets a national-average target in statute; the Commission on School Funding is the standing body that computes and recommends the gap.",
+      "open_questions": ["What did the Commission on School Funding recommend as optimal funding, and how far short is the current biennium?", "Would a statutory floor like 82:AB459 have survived a veto even if it had cleared Ways and Means?", "Which revenue source fills the gap - the designs tried so far died in committee?"]
+    },
+    {
+      "proposal_id": "recess-instructional-minutes",
+      "status": "tried_and_stalled",
+      "what_citizens_proposed": "State-prescribed instructional minutes guaranteeing recess, PE, art, social studies and science; one participant is pursuing a recess bill ('45 to thrive and don't deprive').",
+      "what_lawmakers_tried": "The recess mandate reached the Legislature once: 83:AB53 (2025) would have required at least 20 minutes of daily outdoor recess in kindergarten through grade 5 and banned withholding recess for academic or behavioral reasons - exactly the enforcement gap participants described. It died in Assembly Education without a vote. 81:SB182 (2021), requiring PE to include activity scientifically shown to reduce obesity, died in Senate Education. 82:AB228 (2023), raising required high school social studies from three to four credits, cleared committee and died on the Assembly floor.",
+      "where_similar_ideas_stopped": "The first committee (Education), or the origin floor for the credit expansion. No minutes-guarantee bill has ever reached a floor vote.",
+      "who_carried_adjacent_bills": "83:AB53 was introduced by the Assembly Education Committee itself; 82:AB228 by Asm. Selena La Rue Hatch (D), a teacher. Content mandates that did pass show the lever works when leadership wants it: financial-literacy credits (82:AB274, enacted 40-0 and 20-0) and cellphone-policy rules (83:SB444, 42-0 and 21-0).",
+      "levers_and_venue": "Split venue. Statute already prescribes required subjects (NRS 389.018) and 180 school days, so a minutes mandate is a state lever - but day-to-day recess practice currently lives in district wellness policies, which is why provision varies school to school.",
+      "open_questions": ["Why did AB53 never get a committee vote - opposition, or calendar?", "Would a grades-limited mandate (K-5 only, as AB53 was drafted) answer the age trade-off participants raised?", "Which districts already guarantee recess minutes by policy, making a statewide floor cheaper to enforce?"]
+    },
+    {
+      "proposal_id": "evidence-based-edtech",
+      "status": "no_bill_on_record",
+      "what_citizens_proposed": "Evidence-based, kid-centered classroom technology policies - benefits proven by peer-reviewed independent research, not vendor claims; concern about kindergartners spending the day on iPads.",
+      "what_lawmakers_tried": "Nothing on the core design: no bill in this record requires independent proof of learning benefit before districts buy instructional technology, and no bill limits classroom screen time for young pupils. The nearest laws regulate the edges: 80:SB403 (2019) makes schools disclose which online services receive pupil data (40-0, 21-0); 81:SB66 (2021) tracks home Internet and device access; 83:SB444 (2025) requires district cellphone policies with instructional-time limits (42-0, 21-0); 83:AB406 (2025) bans artificial intelligence from doing school counselors' mental-health work (42-0, 20-1). The state's dedicated ed-tech body went the other way: 82:SB214 (2023) abolished the Commission on Educational Technology and folded its duties into the Department.",
+      "where_similar_ideas_stopped": "Nothing to stop - the proposal has not been filed. A 2025 transparency bill that would have required schools to post a public catalog of instructional materials including digital ones (83:SB248) died in Senate Education.",
+      "who_carried_adjacent_bills": "Sen. Moises Denis (D) carried the data-privacy law; the cellphone and AI guardrails of 2025 were committee and D-sponsored bills that passed nearly unanimously.",
+      "levers_and_venue": "Mostly a district procurement decision today. The state lever exists - the Legislature has shown it will regulate school technology (privacy, cellphones, AI) - but purchasing standards would be new statutory ground.",
+      "open_questions": ["Should the standard bind the state's own grant money first (ed-tech bought with categorical funds) before binding district general funds?", "Who defines 'independent research' - the Department, or an outside body, given the Commission on Educational Technology no longer exists?", "Does the cellphone-policy law (83:SB444) open a template for device-time rules for younger grades?"]
+    },
+    {
+      "proposal_id": "universal-pre-k",
+      "status": "precedent_exists",
+      "what_citizens_proposed": "Universal pre-K and early childhood investment, possibly funded by ed-tech savings; cited as the superintendents' top priority.",
+      "what_lawmakers_tried": "No bill in this record proposes pre-K for all children. The investment machinery exists and keeps growing: 80:SB84 (2019) put the state pre-K grant program in statute (41-0, 20-0); 82:AB400 (2023) added an Early Childhood Literacy and Readiness Account (41-0, 20-1); 82:AB348 (2023) and 83:AB212 (2025) built and extended a virtual family-engagement program for children entering kindergarten (38-4, 21-0 in 2025). The structural bills keep dying: a statutory Office of Early Childhood Systems passed committee and died on the Assembly floor in 2023 (82:AB113), and its Senate successor died in committee in 2025 (83:SB82); 83:SB58 (2025), which would have widened pre-K grant eligibility and tied grant size to per-pupil funding, died in Senate Finance; 83:AB292 (2025), requiring new elementary buildings to include pre-K space, died in Assembly Education.",
+      "where_similar_ideas_stopped": "Money and structure: Finance for the eligibility expansion, the Assembly floor and Government Affairs for the office bills. Program money routed as grants passes nearly unanimously.",
+      "who_carried_adjacent_bills": "Asm. Selena Torres (D) and Asm. Daniele Monroe-Moreno (D) carried the family-engagement bills; Asm. Clara Thomas (D) carried the office bills; 83:SB58 was a committee bill.",
+      "levers_and_venue": "A state lever exercised through the budget: pre-K seats grow through appropriations to the grant program, not through an entitlement statute. A universal guarantee would be new ground.",
+      "open_questions": ["How many children does the state grant program reach today, and what would universal coverage cost per biennium?", "Why did the office-of-early-childhood design fail twice - turf, money, or redundancy with existing councils?", "Does tying grant size to per-pupil funding (the failed 83:SB58 design) make pre-K funding automatic or just more visible?"]
+    },
+    {
+      "proposal_id": "administrator-accountability",
+      "status": "precedent_exists",
+      "what_citizens_proposed": "Hold administrators and superintendents accountable - link pay to outcomes, an honest annual 'state of the school,' fix pay-by-enrollment incentives ('pass the trash').",
+      "what_lawmakers_tried": "Principal accountability is now law twice over: 82:SB292 (2023) makes principals at-will employees when their school's rating falls and half the teachers ask to leave (21-0, 39-3); 83:SB460 (2025) requires elementary achievement plans with consequences for principals and created a Public Education Oversight Board (21-0, 38-4). District-level accountability arrived the same way: 82:AB517's recurring performance audits. Superintendent pay has never been touched: no bill in this record caps it, links it to outcomes, or changes principal pay-by-enrollment. School-board restructuring keeps failing: appointed-seat bills died in committee in 2019 (80:AB57, 80:SB105, 80:AB491), 2021 (81:AB255, 81:SB111) and 2023 (82:SB64, 82:SB65) before 82:AB175 (2023) added four appointed nonvoting members to the Clark County board (29-11, 16-4); the 2025 follow-up giving them full rights and term limits (83:AB156) passed the Assembly 24-18 and died in Senate Education.",
+      "where_similar_ideas_stopped": "Education committees, session after session, for board restructuring; the Senate for the 2025 appointed-trustee upgrade. The enacted accountability bills were carried from the Senate leadership side.",
+      "who_carried_adjacent_bills": "Sen. Julie Pazina (D) carried 82:SB292; Senate Majority Leader Nicole Cannizzaro (D) and Sen. Marilyn Dondero Loop (D) carried 83:SB460; the board-appointment push came from both parties (Speaker Jason Frierson (D) in 2021, Sen. Ben Kieckhefer (R) in 2019/2021, Asm. Toby Yurek (R) in 2023).",
+      "levers_and_venue": "Split. Evaluation frameworks, ratings and audits are state levers and have moved. Superintendent contracts and principal pay schedules are district decisions made by elected boards under collective-bargaining law - the state record touches them only through the at-will law.",
+      "open_questions": ["What have the first at-will principal removals under 82:SB292 looked like in practice?", "Does the new Public Education Oversight Board (83:SB460) publish anything close to the 'state of the school' participants asked for?", "Is superintendent compensation reachable by statute, or only through the elected boards that sign the contracts?"]
+    },
+    {
+      "proposal_id": "teacher-pay-shortage",
+      "status": "precedent_exists",
+      "what_citizens_proposed": "Raise teacher pay and support; address a shortage that leaves pupils with substitutes; participants predicted legislators would balk because they 'just raised teacher pay last session.'",
+      "what_lawmakers_tried": "The raise happened: 82:SB231 (2023) sent state money to districts that budget salary increases for teachers and support staff (21-0, 41-1), and 83:AB398 (2025) funds extra pay for hard-to-fill positions (20-0, 41-1). The pipeline was rebuilt mostly unanimously: the Interstate Teacher Mobility Compact (82:SB442, 42-0), paid-pathway grants (82:AB515 and 82:AB428, both 42-0), student-teacher substitute rules (82:SB291), one-year provisional hiring of out-of-state teachers (83:AB49, 42-0 and 21-0), and recruiter-fee limits for visa teachers (83:AB472). What failed or died: the $45,000 minimum salary (80:SB445, R-sponsored, died in committee 2019), the 16-pupil grade-3 class-size cap with oversize pay (82:AB335), and the substitute-teacher insurance subsidy, which passed 31-11 and 16-4 and was vetoed (82:AB282). Bargaining expansions passed both houses and were vetoed twice (82:SB251; 83:AB155, the class-size-bargaining bill).",
+      "where_similar_ideas_stopped": "Salary floors and class-size caps die in the first committee; bargaining and benefit expansions die at the governor's desk. Everything about supply - licensure, compacts, pathways - passes nearly unanimously.",
+      "who_carried_adjacent_bills": "Committee bills and Sen. Dina Neal (D) (substitute pensions, 82:SB434), Asm. Selena La Rue Hatch (D) (class-size bargaining), Sen. Roberta Lange (D) with Sen. Carrie Buck (R) on the 2023 recruitment package (82:SB438, died on the Senate floor).",
+      "levers_and_venue": "State lever for money and licensure; actual salary schedules are district-union contracts. The 2023 state raise worked by conditioning new state money on districts budgeting raises - the tested template.",
+      "open_questions": ["Did the 2023 raise money reach paychecks in every district, and what happened where bargaining stalled?", "Is the hard-to-fill differential (83:AB398) large enough to move anyone, and which subjects qualify?", "Class-size reduction collides with the shortage participants named - what does the record say the Legislature chose when forced to pick?"]
+    },
+    {
+      "proposal_id": "growth-based-assessment",
+      "status": "tried_and_stalled",
+      "what_citizens_proposed": "Measure improvement (the 'delta') rather than fixed proficiency, and add measures for social-emotional learning and life skills - participants supported pursuing two bills.",
+      "what_lawmakers_tried": "The purest 'measure the delta' bill died without a vote: 83:SB351 (2025) would have double-weighted the growth of the lowest-scoring pupils in school ratings; it died in Senate Education. The social-emotional measurement bill died on the Senate floor twice: 82:SB313 (2023) and 83:SB314 (2025), both aligning health standards with social-emotional learning standards and requiring teacher mental-health training, cleared committee and never got a floor vote. Alternative-assessment structures did somewhat better: competency-based education expansion passed the Senate 21-0 and died in the second house (83:SB403); the permanent competency-based approval process died in committee (83:AB24). What passed trims testing rather than redesigning it: 81:SB353 capped time spent on tests (42-0, 21-0), 82:SB9 ended end-of-course finals, and 83:AB401 - ending the college-and-career-readiness assessment as a diploma requirement - died in committee.",
+      "where_similar_ideas_stopped": "Senate Education for the growth-weighting bill; the Senate floor (twice) for social-emotional measurement; the second house for competency-based expansion in 2025.",
+      "who_carried_adjacent_bills": "Sen. Carrie Buck (R) carried the growth-weighting bill; Sen. Roberta Lange (D) carried the social-emotional bills, with Sen. Lisa Krasner (R) co-sponsoring in 2023 - a cross-party pairing that still died on the floor of its own chamber.",
+      "levers_and_venue": "A state lever: the statewide accountability system and its star-rating formula are set by the State Board under statute, and Nevada's ratings already include a growth component - the failed bills changed its weight, not its existence.",
+      "open_questions": ["How much of a school's star rating currently comes from growth versus proficiency, and how far short of 'measure the delta' is that?", "Why did the Lange bills die on the Senate floor after clearing committee twice - cost of the training mandate, or the standards themselves?", "Does the metrics subcommittee created in the failed 83:SB403 design exist anywhere else in statute now?"]
+    },
+    {
+      "proposal_id": "read-by-grade-three",
+      "status": "tried_and_stalled",
+      "what_citizens_proposed": "Reform Read by Grade 3: repeal the online assessment while keeping the reading goal, and revisit retention, which was removed after teacher associations objected.",
+      "what_lawmakers_tried": "The record confirms the constituents' history and shows no bill going their direction since. Retention was removed by 80:AB289 (2019), which replaced automatic third-grade retention with mandatory intensive intervention (28-11, 17-4) - no bill since has proposed reinstating retention. No bill repeals the assessment requirement either; the closest was 83:AB386 (2025), letting Washoe County pilot an alternative literacy assessment: it passed the Assembly 40-0 and the Senate 21-0 as amended on the session's final days, then died awaiting an Assembly concurrence vote when time ran out. What did pass narrows the machinery: 83:SB278 (2025) dropped local assessments from deficiency decisions, leaving the statewide assessment as the trigger (42-0, 21-0). The phonics fight surfaced once: 82:AB187 (2023), banning three-cueing reading instruction in K-2, died in Assembly Education. Money: the 31st (2020) Special Session's AB3 struck the FY 2020-2021 $31.4 million Read by Grade 3 transfer during COVID cuts and made it a top restoration priority; 82:AB400 (2023) created the Early Childhood Literacy and Readiness Account.",
+      "where_similar_ideas_stopped": "The finish line for the alternative-assessment pilot (concurrence never happened); the first committee for the phonics ban and the 2021 literacy grant account (81:SB273, Senate Finance).",
+      "who_carried_adjacent_bills": "Asm. Heather Goulding (D) carried the Washoe pilot; Asm. Heidi Kasama (R) the three-cueing ban; Sen. Heidi Seevers Gansert (R) the 2021 literacy account; Asm. Tyrone Thompson (D) carried the 2019 retention removal.",
+      "levers_and_venue": "A state lever: Read by Grade 3 is statute (NRS 392.750-392.760), and both the retention removal and the assessment rules were changed by bill. The specific assessment instrument is chosen by the State Board under that statute.",
+      "open_questions": ["Would the Washoe pilot (83:AB386) have answered the online-assessment complaint, and does its 40-0/21-0 record invite a refile?", "Ten years of results: what do the statewide reading numbers actually show since 2015 - the factual dispute participants could not settle?", "Is there any sponsor on record for reinstating retention, given the associations' standing objection?"]
+    },
+    {
+      "proposal_id": "school-mental-health",
+      "status": "precedent_exists",
+      "what_citizens_proposed": "Expand school-based mental health services and early intervention; increase specialized staff - participants cited counselors with 600-student caseloads.",
+      "what_lawmakers_tried": "The staffing framework is law: 80:SB319 (2019) defined school counselor, psychologist and social-worker roles and requires a full-time counselor where money allows (41-0, 21-0); 81:SB151 (2021) makes the two urban districts plan and report annually on improving support-staff ratios (33-8, 18-3); 83:SB277 (2025) does the same for social workers and eases their licensure pipeline (38-1, 15-5). Crisis infrastructure passed too: SafeVoice and Handle with Care (80:SB80), suicide-prevention policies (80:SB204), behavioral-health excused absences and crisis lines on pupil IDs (81:SB249), and a ban on AI doing counselors' mental-health work (83:AB406, 42-0). The mandates keep failing: making the full-time counselor unconditional (83:AB298) died in committee in 2025, monthly mental-health workshops (83:AB374) died in committee, and the well-being screening policy (83:SB254) died on the Senate floor. The governance layer hit the veto desk: the statewide children's mental health consortium (82:AB265) passed 42-0 and 20-0 and was vetoed in 2023, as was the behavioral-health oversight bill (82:AB201).",
+      "where_similar_ideas_stopped": "First committee for the unconditional mandates (they carry price tags); the governor's desk for children's mental-health governance in 2023.",
+      "who_carried_adjacent_bills": "Sen. Marilyn Dondero Loop (D) carried the ratio-plan and absence bills; Sen. Michelee Cruz-Crawford (D) the 2025 social-worker law; Asm. Michelle Gorelow (D) the vetoed consortium. Republican names appear on the crisis-line and SafeVoice side (Sen. Seevers Gansert, Asm. Glen Leavitt).",
+      "levers_and_venue": "A state lever for frameworks and money; actual counselor hiring is district staffing constrained by the same shortage as teachers - which is why every enacted law says 'to the extent money is available' and the bill that removed those words died.",
+      "open_questions": ["What are the current counselor and social-worker ratios in the two urban districts under the 81:SB151 reports?", "What would the unconditional counselor mandate (83:AB298) cost, and did a fiscal note kill it?", "The 2023 vetoes hit governance, not services - does that leave a path through service money instead of new bodies?"]
+    }
+  ],
+  "high_support_non_enactments": {
+    "note": "47 policy bills drew a floor majority and still did not become law - possible timing/process deaths, not proof of popularity. Leaders:",
+    "top": [
+      {"bill_key": "83:AB386", "detail": "Washoe alternative literacy assessment pilot - 40-0 Assembly, 21-0 Senate (amended), died awaiting concurrence at session's end"},
+      {"bill_key": "82:AB265", "detail": "children's mental health consortium - 42-0 and 20-0, vetoed"},
+      {"bill_key": "83:AB391", "detail": "achievement reporting for chronically absent and substitute-taught pupils - 42-0 Assembly, died in Senate; second failure of the same idea (82:AB339, 39-3)"},
+      {"bill_key": "83:AB495", "detail": "charter closure/restart after three straight low ratings - 42-0 Assembly, died in Senate"},
+      {"bill_key": "83:SB403", "detail": "competency-based learning expansion - 21-0 Senate, died in second house"},
+      {"bill_key": "83:SB374", "detail": "discipline training and disproportionality tracking - 21-0 Senate, died in second house"},
+      {"bill_key": "83:SB229", "detail": "financial literacy from kindergarten - 21-0 Senate, died in second house"},
+      {"bill_key": "82:AB423", "detail": "school-board nondiscrimination and late-vote ban - 40-0 Assembly and 12-8 Senate, died after both chambers"}
+    ]
+  },
+  "recent_enactments_watchlist": {
+    "note": "Recently done - groups may ask whether a repeat is needed or whether a gap remains.",
+    "items": [
+      "83:AB398 - extra pay for hard-to-fill teaching positions (20-0, 41-1)",
+      "83:AB49 - one-year provisional hiring of out-of-state teachers (42-0, 21-0)",
+      "83:SB460 - elementary achievement plans with principal consequences; Public Education Oversight Board (21-0, 38-4)",
+      "83:SB278 - statewide assessment as the sole Read by Grade 3 deficiency trigger (42-0, 21-0)",
+      "83:SB444 - district cellphone policies with instructional-time limits (42-0, 21-0)",
+      "83:AB406 - no AI in counselors' mental-health work (42-0, 20-1)",
+      "83:SB277 - school social workers where money allows, easier licensure (38-1, 15-5)",
+      "83:AB224 - $100 million in bonds for emergency school repairs (41-1, 21-0)",
+      "83:AB533 - cross-zone school transfers with transportation grants (38-1, 21-0)",
+      "83:SB500 - the 2025-2027 K-12 funding act (42-0, 13-8)"
+    ]
+  },
+  "deliberation_prompts": [
+    "The independent-auditor idea died seven times in first committees under sponsors from both parties, while the Legislature's own audit bill passed 42-0. Is the sticking point auditing, or who controls the auditor?",
+    "Recess reached the Legislature once and never got a vote. Content mandates like financial literacy passed unanimously. What makes a classroom-time mandate different from a classroom-content mandate?",
+    "The growth-weighting bill died in committee while test-trimming bills passed unanimously. Is there a constituency for changing what is measured, not just how much?",
+    "Two social-emotional measurement bills cleared committee and died on the Senate floor without a vote. What happens between committee and floor?",
+    "The 2023 raise money passed 21-0 and 42-0. The $45,000 salary floor never left committee. What does that pair of facts say about how pay moves in Carson City?",
+    "83:AB386 passed 40-0 and 21-0 and died on a concurrence technicality. Is that a 'no' on alternative reading assessments - or a process accident inviting a refile?",
+    "Thirteen education vetoes in 2023-2025 hit bargaining, health governance and library bills - but raises, audits and funding acts were signed. Which of the ten proposals sit on the signed side of that line?",
+    "Fifty-five education bills had cross-party sponsors and 28 became law. Which proposals could plausibly attract that pairing next session?",
+    "Every enacted counselor law says 'to the extent money is available,' and the bill deleting those words died. Is the fight over the mandate or the money?",
+    "School-board restructuring died in committee three sessions running before a nonvoting-member compromise passed. Does incrementalism read as a path or a dead end here?"
+  ],
+  "data_limits": [
+    "Keyword-plus-index discovery is broad but not a proven complete universe.",
+    "The record shows where bills stopped, never why - no veto messages or floor debate in the dataset.",
+    "Committee Yeas are partly inferred (membership minus recorded Nay/Absent) and marked in source data.",
+    "Party labels: 97.9% of ballot rows, 99.6% of sponsor rows, from official NELIS rosters.",
+    "Resolutions carry no final NELIS action (two adopted resolutions read Unknown; 2025 AJR9 reads In Progress).",
+    "Special-session facts come from a manual verification file; the 31st (2020) AB3 education cuts were verified from the enrolled bill text."
+  ]
+}
