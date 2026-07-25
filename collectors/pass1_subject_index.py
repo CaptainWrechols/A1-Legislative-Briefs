@@ -47,71 +47,79 @@ SESSIONS = {
 }
 
 # Subject headings to harvest fully (regex against the cleaned heading text).
-# Issue: nevada-housing-affordability. Headings verified against the cached
-# 2019/2021/2023/2025 index HTML (AFFORDABLE HOUSING, ATTAINABLE HOUSING,
-# HOUSING, LANDLORD AND TENANT, EVICTION, MANUFACTURED/MOBILE HOMES, TINY
-# HOUSES, ZONING, LAND USE PLANNING, IMPACT FEES, etc.).
+# Issue: nevada-03-k-12-educational-outcomes. Headings verified against the
+# cached 2019/2021/2023/2025 index HTML (EDUCATION family incl. DEPARTMENT
+# OF / STATE BOARD OF / INSPECTOR GENERAL OF / SAVINGS ACCOUNTS, SCHOOL
+# PUPILS, SCHOOL PERSONNEL, SCHOOL FINANCES AND FUNDS, SCHOOL ACCOUNTABILITY,
+# SCHOOL DISTRICTS incl. county districts, SCHOOLS PUBLIC/CHARTER/PRIVATE-
+# adjacent, SUPERINTENDENT OF PUBLIC INSTRUCTION, TEACHERS bodies, EARLY
+# CHILDHOOD EDUCATION, CTE, ACADEMIC STANDARDS, etc.). Higher-education-only
+# headings (NEVADA SYSTEM OF HIGHER EDUCATION, POSTSECONDARY ...) are
+# intentionally not harvested: the issue is K-12 outcomes.
 HEAD_PATTERNS = (
-    r"HOUSING",  # AFFORDABLE/ATTAINABLE/FACTORY-BUILT/FAIR HOUSING, HOMELESSNESS TO HOUSING, HOUSING AUTHORITIES...
-    r"^LANDLORD AND TENANT",
-    r"^APARTMENT HOUSES",
-    r"^EVICTION",
-    r"^LEASES\b",
-    r"^DWELLINGS",
-    r"^MANUFACTURED",
-    r"^MOBILE HOME",
-    r"^TINY HOUSES",
-    r"^HOMELESS",
-    r"^ZONING",
-    r"^LAND USE PLANNING",
-    r"^PLANNING COMMISSIONS",
-    r"^REGIONAL PLANNING",
-    r"^PLANNED UNIT DEVELOPMENTS",
-    r"^SUBDIVISION OF LAND",
-    r"^IMPACT FEES",
-    r"^RESIDENTIAL CONSTRUCTION TAX",
-    r"^REAL PROPERTY TRANSFER TAX",
-    r"^REAL ESTATE INVESTMENT TRUSTS",
-    r"^BUILDING CODES",
-    r"^BUILDING PERMITS",
+    r"^EDUCATION\b",  # EDUCATION; EDUCATION, DEPARTMENT OF; EDUCATION, STATE BOARD OF; EDUCATION, INSPECTOR GENERAL OF; EDUCATION SAVINGS...
+    r"^EDUCATIONAL ",  # EDUCATIONAL TECHNOLOGY COMMISSION, EDUCATIONAL FOUNDATIONS
+    r"^PUBLIC EDUCATION",  # PUBLIC EDUCATION EMPLOYEE WORKING CONDITIONS TASK FORCE
+    r"^EARLY CHILDHOOD EDUCATION",
+    r"^CAREER AND TECHNICAL EDUCATION",
+    r"^DISTANCE EDUCATION",
+    r"^SCHOOL ACCOUNTABILITY",
+    r"^SCHOOL DISTRICTS?\b",
+    r"^SCHOOL DISTRICT,",  # SCHOOL DISTRICT, ACHIEVEMENT
+    r"^SCHOOL FINANCES",
+    r"^SCHOOL FUNDING",
+    r"^SCHOOL PERSONNEL",
+    r"^SCHOOL PUPILS",
+    r"^SCHOOL CHOICE",
+    r"^SCHOOL PRECINCTS",
+    r"^SCHOOL SPENDING",
+    r"^SCHOOL MODERNIZATION",
+    r"^SCHOOLS, PUBLIC",
+    r"^SCHOOLS, CHARTER",
+    r"^SCHOOLS, ACHIEVEMENT",
+    r"^SCHOOLS, EMPOWERMENT",
+    r"^SCHOOLS FOR PROFOUNDLY GIFTED",
+    r"^SUPERINTENDENT OF PUBLIC INSTRUCTION",
+    r"^ACADEMIC STANDARDS",
+    r"^LOCAL SCHOOL SUPPORT TAX",
+    r"COUNTY SCHOOL DISTRICT",  # CLARK/WASHOE/ELKO/... COUNTY SCHOOL DISTRICT
+    r"^TEACHERS?\b",  # TEACHERS AND LEADERS COUNCIL, TEACHER RECRUITMENT..., TEACHERS, ADVISORY COMMITTEE...
+    r"^TEACH NEVADA",
+    r"^EDUCATION SUPPORT PROFESSIONAL",
+    r"^INNOVATION AND EXCELLENCE IN EDUCATION",
+    r"^FINANCIAL OVERSIGHT OF SCHOOL SPENDING",
+    r"^HOMESCHOOLING",
 )
 
-# Headings that match above but are not about housing policy.
+# Headings that match above but are not about K-12 education policy.
 HEAD_EXCLUDE = (
-    r"^HOUSING DIVISION \(See",  # cross-reference heading, no entries of its own
+    r"^EDUCATION SAVINGS ACCOUNTS? \(See",  # cross-reference heading, no entries of its own
 )
 
-# Entry-level keywords harvested from ANY heading (catches e.g. affordable-
-# housing accounts filed under TAXES AND TAXATION or appropriations
-# headings). Space-prefixed entries avoid substring traps ("tenant" in
-# "lieutenant").
+# Entry-level keywords harvested from ANY heading (catches e.g. school
+# mental-health entries filed under MENTAL HEALTH SERVICES, or classroom
+# appropriations filed under LEGISLATIVE COUNSEL BUREAU / APPROPRIATIONS
+# headings). Space-prefixed entries avoid substring traps.
 ENTRY_KEYWORDS = (
-    "affordable housing",
-    "attainable housing",
-    "workforce housing",
-    "low-income housing",
-    "accessory dwelling",
-    "tiny house",
-    "tiny home",
-    "manufactured home",
-    "mobile home",
-    "factory-built",
-    "down payment",
-    "first-time home",
-    "homebuyer",
-    "home buyer",
-    "rent control",
-    "rent increase",
-    "rental agreement",
-    "summary eviction",
-    "landlord",
-    " tenant",
-    "inclusionary",
-    "impact fee",
-    "residential construction tax",
-    "corporate investor",
-    "institutional investor",
-    "starter home",
+    "pupil",
+    "public school",
+    "school district",
+    "charter school",
+    "kindergarten",
+    "prekindergarten",
+    "early childhood",
+    " teacher",
+    "classroom",
+    "read by grade",
+    "literacy",
+    "recess",
+    "physical education",
+    "school counselor",
+    "school social worker",
+    "school psychologist",
+    "class size",
+    "per-pupil",
+    "per pupil",
 )
 
 IDENT_RE = re.compile(r">\s*((?:AB|SB|AJR|SJR|ACR|SCR)\s*\d+)\s*</a>")
@@ -283,13 +291,19 @@ def main() -> None:
         "updated_at": now(),
         "note": (
             "LCB Subject Index of Bills harvested per session; headings matched: "
-            "housing (affordable/attainable/fair/factory-built, authorities, "
-            "homelessness-to-housing), landlord and tenant, eviction, "
-            "manufactured/mobile/tiny homes, zoning, land use planning, "
-            "subdivision, impact fees, residential construction tax, real "
-            "property transfer taxes, REITs, building codes/permits + entry "
-            "keywords (accessory dwelling, down payment, inclusionary, rent "
-            "control, corporate investor, starter home)."
+            "the K-12 education family (EDUCATION incl. Department/State Board/"
+            "Inspector General/savings accounts, SCHOOL PUPILS, SCHOOL PERSONNEL, "
+            "SCHOOL FINANCES AND FUNDS, SCHOOL ACCOUNTABILITY, SCHOOL FUNDING "
+            "COMMISSION, SCHOOL DISTRICTS incl. county districts, SCHOOLS "
+            "PUBLIC/CHARTER/ACHIEVEMENT/EMPOWERMENT/GIFTED, SUPERINTENDENT OF "
+            "PUBLIC INSTRUCTION, TEACHERS bodies, EARLY CHILDHOOD EDUCATION, "
+            "CAREER AND TECHNICAL EDUCATION, DISTANCE EDUCATION, ACADEMIC "
+            "STANDARDS, LOCAL SCHOOL SUPPORT TAX, HOMESCHOOLING, SCHOOL CHOICE) "
+            "+ entry keywords (pupil, public school, school district, charter "
+            "school, kindergarten/prekindergarten, early childhood, teacher, "
+            "classroom, read by grade, literacy, recess, physical education, "
+            "school counselor/social worker/psychologist, class size, "
+            "per-pupil). Higher-ed-only headings intentionally excluded."
         ),
         "added_bills": [r["key"] for r in report],
         "details": report,
