@@ -275,7 +275,7 @@ constituent_proposals:
     tradeoffs: >-
       Higher reimbursement strains the state budget, given one in four are
       Medicaid patients hitting the state's financial budget.
-    match_terms: ["reimburs", "rates of payment", "rate of payment", "prompt payment", "medicaid rate"]
+    match_terms: ["reimburs", "rates of payment", "rate of payment", "payment rate", "prompt payment", "medicaid rate"]
   - id: care-settings
     title: "Right-size the care setting (urgent care vs. ER) and use rotating/staffed clinics for access"
     detail: >-
@@ -295,7 +295,7 @@ constituent_proposals:
       disagreement on scope - telehealth drew pushback on which services
       qualify ("if you need a colonoscopy, you're not going to use
       telehealth").
-    match_terms: ["urgent care", "emergency room", "emergency department", "freestanding", "telehealth", "telemedicine", "clinic", "emergency services"]
+    match_terms: ["urgent care", "emergency room", "emergency department", "freestanding", "telehealth", "telemedicine", "clinic", "emergency services", "emergency care", "emergency hospital", "emergency facilit", "emergency center"]
 
 # Cross-cutting notes from the same dataset (context for writers, not proposals):
 # - several additional ideas surfaced but appeared less central or fell
