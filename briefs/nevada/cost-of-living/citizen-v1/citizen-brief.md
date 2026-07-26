@@ -6,7 +6,7 @@ version: citizen-v1.0
 organization: The Nevada Forum
 generated_by: citizen-brief-writer v2.3
 date: 2026-07-26
-status: DRAFT
+status: READY FOR HUMAN REVIEW
 ---
 
 # The Rising Cost of Living in Nevada: Health Care
