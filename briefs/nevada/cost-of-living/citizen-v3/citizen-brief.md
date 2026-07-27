@@ -2,7 +2,7 @@
 issue_id: nevada-02-cost-of-living
 issue_title: "The Rising Cost of Living in Nevada: Health Care"
 brief_type: citizen-front-brief
-version: citizen-v2.0
+version: citizen-v3.0
 organization: The Nevada Forum
 generated_by: citizen-brief-writer v2.3
 date: 2026-07-27
@@ -17,7 +17,7 @@ The legislative record behind Nevadans' ten most common healthcare-cost proposal
 
 Nevada's Legislature took up 409 healthcare-cost bills across its 2019, 2021, 2023, and 2025 sessions, and 221 became law — the deepest well of enacted precedent of any issue The Forum has mapped, and most of it consensus law (see Key numbers). Bills that fall short mostly stop early and quietly, and the most consequential recent losses were late-stage timing accidents — one returned three months after its final-day death and passed in the November 2025 special session. The sections below sort the record by distance traveled: bills that passed both chambers, then bills with a winning vote behind them, then settled law and its openings, then routes with no traction yet — with notes on momentum, federal overlap, and sponsors.
 
-## Key numbers: how far healthcare-cost proposals have traveled
+## Key numbers: how far these proposals have traveled
 
 *Each figure below is unpacked, bill by bill, in the section it points to.*
 
@@ -27,7 +27,7 @@ Nevada's Legislature took up 409 healthcare-cost bills across its 2019, 2021, 20
 - **42–0** Assembly vote on SB316 (2025), the PBM bill that died awaiting final concurrence
 - **4 of 5** health-profession licensure compacts enacted — every one except nursing
 
-## Closest to law: bills that passed both chambers and stopped at the last step
+## Closest to law: bills that passed both chambers
 
 *These bills assembled majorities in both houses; only a veto or the session clock separated them from statute — the record's most advanced unfinished work.*
 
@@ -41,7 +41,7 @@ Nevada's Legislature took up 409 healthcare-cost bills across its 2019, 2021, 20
 
 All fifteen vetoes in this record fall in 2023 and 2025, each attached to a specific kind of bill: capping drug prices at Medicare-negotiated levels, limiting medical-debt collection tactics, banning forced arbitration in health policies (vetoed after a 42–0 Assembly vote), and constraining insurer decision tools — most recently **SB128 (2025)**, barring insurers from relying solely on artificial intelligence to deny prior-authorization requests, passed 23–16 and 15–6, vetoed. Each design has a proven floor majority; the desk is the one recorded obstacle.
 
-## Demonstrated support: bills that cleared one chamber or a committee
+## Proven support: bills that cleared a chamber or a committee
 
 *Each bill here won a recorded majority — in committee or on a floor — before stalling: the strongest signal short of passage.*
 
@@ -61,7 +61,7 @@ AB463 set prior-authorization rules and deadlines across private insurance, Medi
 
 The workforce ladder keeps extending: Health Service Corps funding (SB289, 2019; SB233, 2021), the broader loan-repayment program (AB45, 2023, 41–0 and 21–0), the two 2025 expansions, and residency grants created in 2023 (SB350, 21–0 and 40–0) and revised unanimously in 2025 — alongside dental therapy's licensure in 2019 and the 2021 workforce-data laws. Targeted Medicaid rate raises pass the same way: autism technicians (SB96, 2021), the provider-assessment financing mechanism (SB435, 2023), children's cancer clinics (SB221, 2023), family caregivers (SB185) and training clinics (SB353, 2025). The PBM file is one concurrence vote from a comprehensive regime, built on enacted rungs — the pharmacist gag-clause ban (AB141, 2019), Medicaid rebate pass-through (SB378, 2019), 340B protections (AB434, 2023), SB389 — and step-therapy limits passed unanimously in 2023 (SB167, SB194). Where the record resists: every across-the-board reimbursement reform has died at the money stage without a floor vote against it — AB116 (2019), AB99 (2023), SB255 (2023) and SB239 (2025), both from Senator Carrie Buck (R), still serving, and 2025's substance-use and mental-health rate bills.
 
-## Routes with little traction yet: never filed, never heard, or stopped early
+## Routes with little traction: never filed or stopped early
 
 *Nothing here has won a vote — never filed, never heard in committee, or stopped early. The least-traveled routes: unproven rather than closed.*
 
