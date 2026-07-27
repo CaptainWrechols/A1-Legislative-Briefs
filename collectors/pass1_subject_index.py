@@ -144,6 +144,79 @@ ENTRY_KEYWORDS = (
     "reimbursement rate",
     "rates of reimbursement",
     "public option",
+# Issue: nevada-03-k-12-educational-outcomes. Headings verified against the
+# cached 2019/2021/2023/2025 index HTML (EDUCATION family incl. DEPARTMENT
+# OF / STATE BOARD OF / INSPECTOR GENERAL OF / SAVINGS ACCOUNTS, SCHOOL
+# PUPILS, SCHOOL PERSONNEL, SCHOOL FINANCES AND FUNDS, SCHOOL ACCOUNTABILITY,
+# SCHOOL DISTRICTS incl. county districts, SCHOOLS PUBLIC/CHARTER/PRIVATE-
+# adjacent, SUPERINTENDENT OF PUBLIC INSTRUCTION, TEACHERS bodies, EARLY
+# CHILDHOOD EDUCATION, CTE, ACADEMIC STANDARDS, etc.). Higher-education-only
+# headings (NEVADA SYSTEM OF HIGHER EDUCATION, POSTSECONDARY ...) are
+# intentionally not harvested: the issue is K-12 outcomes.
+HEAD_PATTERNS = (
+    r"^EDUCATION\b",  # EDUCATION; EDUCATION, DEPARTMENT OF; EDUCATION, STATE BOARD OF; EDUCATION, INSPECTOR GENERAL OF; EDUCATION SAVINGS...
+    r"^EDUCATIONAL ",  # EDUCATIONAL TECHNOLOGY COMMISSION, EDUCATIONAL FOUNDATIONS
+    r"^PUBLIC EDUCATION",  # PUBLIC EDUCATION EMPLOYEE WORKING CONDITIONS TASK FORCE
+    r"^EARLY CHILDHOOD EDUCATION",
+    r"^CAREER AND TECHNICAL EDUCATION",
+    r"^DISTANCE EDUCATION",
+    r"^SCHOOL ACCOUNTABILITY",
+    r"^SCHOOL DISTRICTS?\b",
+    r"^SCHOOL DISTRICT,",  # SCHOOL DISTRICT, ACHIEVEMENT
+    r"^SCHOOL FINANCES",
+    r"^SCHOOL FUNDING",
+    r"^SCHOOL PERSONNEL",
+    r"^SCHOOL PUPILS",
+    r"^SCHOOL CHOICE",
+    r"^SCHOOL PRECINCTS",
+    r"^SCHOOL SPENDING",
+    r"^SCHOOL MODERNIZATION",
+    r"^SCHOOLS, PUBLIC",
+    r"^SCHOOLS, CHARTER",
+    r"^SCHOOLS, ACHIEVEMENT",
+    r"^SCHOOLS, EMPOWERMENT",
+    r"^SCHOOLS FOR PROFOUNDLY GIFTED",
+    r"^SUPERINTENDENT OF PUBLIC INSTRUCTION",
+    r"^ACADEMIC STANDARDS",
+    r"^LOCAL SCHOOL SUPPORT TAX",
+    r"COUNTY SCHOOL DISTRICT",  # CLARK/WASHOE/ELKO/... COUNTY SCHOOL DISTRICT
+    r"^TEACHERS?\b",  # TEACHERS AND LEADERS COUNCIL, TEACHER RECRUITMENT..., TEACHERS, ADVISORY COMMITTEE...
+    r"^TEACH NEVADA",
+    r"^EDUCATION SUPPORT PROFESSIONAL",
+    r"^INNOVATION AND EXCELLENCE IN EDUCATION",
+    r"^FINANCIAL OVERSIGHT OF SCHOOL SPENDING",
+    r"^HOMESCHOOLING",
+)
+
+# Headings that match above but are not about K-12 education policy.
+HEAD_EXCLUDE = (
+    r"^EDUCATION SAVINGS ACCOUNTS? \(See",  # cross-reference heading, no entries of its own
+)
+
+# Entry-level keywords harvested from ANY heading (catches e.g. school
+# mental-health entries filed under MENTAL HEALTH SERVICES, or classroom
+# appropriations filed under LEGISLATIVE COUNSEL BUREAU / APPROPRIATIONS
+# headings). Space-prefixed entries avoid substring traps.
+ENTRY_KEYWORDS = (
+    "pupil",
+    "public school",
+    "school district",
+    "charter school",
+    "kindergarten",
+    "prekindergarten",
+    "early childhood",
+    " teacher",
+    "classroom",
+    "read by grade",
+    "literacy",
+    "recess",
+    "physical education",
+    "school counselor",
+    "school social worker",
+    "school psychologist",
+    "class size",
+    "per-pupil",
+    "per pupil",
 )
 
 IDENT_RE = re.compile(r">\s*((?:AB|SB|AJR|SJR|ACR|SCR)\s*\d+)\s*</a>")
@@ -327,6 +400,19 @@ def main() -> None:
             "keywords (licensure compact, prior authorization, pharmacy "
             "benefit, graduate medical education, credentialing, urgent care, "
             "telehealth, medical debt, reimbursement rate, public option)."
+            "the K-12 education family (EDUCATION incl. Department/State Board/"
+            "Inspector General/savings accounts, SCHOOL PUPILS, SCHOOL PERSONNEL, "
+            "SCHOOL FINANCES AND FUNDS, SCHOOL ACCOUNTABILITY, SCHOOL FUNDING "
+            "COMMISSION, SCHOOL DISTRICTS incl. county districts, SCHOOLS "
+            "PUBLIC/CHARTER/ACHIEVEMENT/EMPOWERMENT/GIFTED, SUPERINTENDENT OF "
+            "PUBLIC INSTRUCTION, TEACHERS bodies, EARLY CHILDHOOD EDUCATION, "
+            "CAREER AND TECHNICAL EDUCATION, DISTANCE EDUCATION, ACADEMIC "
+            "STANDARDS, LOCAL SCHOOL SUPPORT TAX, HOMESCHOOLING, SCHOOL CHOICE) "
+            "+ entry keywords (pupil, public school, school district, charter "
+            "school, kindergarten/prekindergarten, early childhood, teacher, "
+            "classroom, read by grade, literacy, recess, physical education, "
+            "school counselor/social worker/psychologist, class size, "
+            "per-pupil). Higher-ed-only headings intentionally excluded."
         ),
         "added_bills": [r["key"] for r in report],
         "details": report,

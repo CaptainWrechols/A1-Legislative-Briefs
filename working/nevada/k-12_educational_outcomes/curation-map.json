@@ -1,0 +1,3638 @@
+{
+ "note": "Evidence Curator v2.2 curation map for nevada-03-k-12-educational-outcomes. One entry per bill: plain_topic (citizen wording), theme_id, relevance (core = K-12 education policy affecting educational outcomes is the point of the bill; adjacent = a real but partial K-12 angle, such as facilities money, school-adjacent health services, or bargaining mechanics; context = found by broad search or omnibus indexing but not K-12 education policy, including higher-education-only bills). Themes are citizen-facing labels. Written by reading every NELIS Overview digest.",
+ "themes": {
+  "school-funding": "How schools get money: the per-pupil funding plan, formulas, and school finance",
+  "spending-oversight": "Audits, transparency, and oversight of how school money is spent",
+  "teacher-workforce": "Teacher pay, hiring, licensing, and the educator shortage",
+  "accountability-governance": "School and district accountability, school boards, superintendents, and administrators",
+  "testing-graduation": "Testing, grading, graduation, and how pupil progress is measured",
+  "early-learning-reading": "Pre-K, kindergarten, early childhood, and reading by grade three",
+  "classroom-time-content": "What is taught and time in the school day: courses, recess, PE, and class size",
+  "student-supports": "Pupil health, mental health, meals, discipline, and student and family supports",
+  "charters-choice": "Charter schools, school choice, and non-district schooling",
+  "facilities-operations": "School buildings, safety, transportation, and operations",
+  "context": "Context bills (not K-12 education policy)"
+ },
+ "bills": {
+  "80:AB101": {
+   "plain_topic": "Declaratory-judgment lawsuits against governments; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB113": {
+   "plain_topic": "Sales tax on out-of-state firearm transfers; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB114": {
+   "plain_topic": "Required schools to report suicide-prevention courses, staff training, and pupil suicide incidents to the state",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:AB123": {
+   "plain_topic": "Would have required schools to keep and report records on pupil immunization exemptions and notify parents of outbreaks",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "80:AB132": {
+   "plain_topic": "Marijuana screening tests in hiring; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB136": {
+   "plain_topic": "Ended the rule that let school and higher-ed construction pay 90 percent of the prevailing wage",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "80:AB144": {
+   "plain_topic": "Ballot question to exempt diapers from sales tax, amending the Local School Support Tax in parallel; not education policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB145": {
+   "plain_topic": "Would have required a police officer in every middle, junior high, and high school and access-control gates on request",
+   "theme": "facilities-operations",
+   "relevance": "core"
+  },
+  "80:AB146": {
+   "plain_topic": "Would have created a statewide, independent Nevada Office of the Inspector General to investigate state and local agencies",
+   "theme": "spending-oversight",
+   "relevance": "adjacent"
+  },
+  "80:AB147": {
+   "plain_topic": "Let physician assistants and nurse practitioners sign concussion return-to-play clearances; health licensing, not K-12 policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB151": {
+   "plain_topic": "Reporting of commercial sexual exploitation of children; child welfare, not school policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB156": {
+   "plain_topic": "Required courts to appoint an educational decision maker for children in protection cases",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "80:AB157": {
+   "plain_topic": "Would have had the education department create school materials about human trafficking of children",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "80:AB159": {
+   "plain_topic": "Governor's food security council; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB164": {
+   "plain_topic": "Marijuana advertising rules; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB168": {
+   "plain_topic": "Required a restorative-justice plan before expelling a pupil and limited suspensions for young children",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:AB180": {
+   "plain_topic": "Would have set rules for transporting foster and disabled pupils and keeping foster children in their school of origin",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:AB190": {
+   "plain_topic": "General prevailing-wage rules for public works; not K-12 policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB194": {
+   "plain_topic": "Added a pediatric-health member to the Early Childhood Advisory Council and required an annual report",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "80:AB196": {
+   "plain_topic": "Funded pay incentives for teachers at Title I and underperforming schools",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:AB199": {
+   "plain_topic": "Would have let unions and trade groups help schools teach career and technical courses and eased CTE teacher endorsements",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:AB205": {
+   "plain_topic": "Required school districts to adopt integrated pest-management policies for school grounds",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "80:AB208": {
+   "plain_topic": "Would have eased background-check waivers for school volunteers and required certain instruction, including in youth detention facilities",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:AB213": {
+   "plain_topic": "Restricted driver's licenses for charter school pupils; DMV rule, not education policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB216": {
+   "plain_topic": "Database of higher-education funding sources; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB218": {
+   "plain_topic": "Would have revised the education savings account program for private-school costs, with an appropriation",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "80:AB219": {
+   "plain_topic": "Required separate accountability reporting on English learners and corrective plans at low-performing schools",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "80:AB235": {
+   "plain_topic": "Restructured the Nevada Advisory Commission on Mentoring and gave it education-department support",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "80:AB237": {
+   "plain_topic": "Would have turned teacher reimbursements into an up-front stipend for classroom supplies and widened who gets it",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:AB238": {
+   "plain_topic": "Would have added mental health screenings and follow-up monitoring after bullying reports, with public reporting",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:AB240": {
+   "plain_topic": "Regional growth-management reports in western Nevada; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB244": {
+   "plain_topic": "Let school boards convene advisory committees to recommend property taxes for school buildings",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "80:AB248": {
+   "plain_topic": "Settlement agreement secrecy limits; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB249": {
+   "plain_topic": "Land banks for vacant property; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB253": {
+   "plain_topic": "Would have created a state program and money to expand prekindergarten and train pre-K teachers",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "80:AB258": {
+   "plain_topic": "Let parents enforce special-education due-process decisions through the education department",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:AB261": {
+   "plain_topic": "Required schools to report training and incidents relating to the personal safety and abuse of children",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "80:AB275": {
+   "plain_topic": "Occupational licensing regardless of immigration status; touches teacher licensing only in passing",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB276": {
+   "plain_topic": "Created the state Teacher Recruitment and Retention Advisory Task Force, with money attached",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:AB277": {
+   "plain_topic": "Would have required every district to bargain a program raising teacher and support-staff salaries and reserve money for it",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:AB281": {
+   "plain_topic": "Immigration holds by police, including school police; not education policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB284": {
+   "plain_topic": "Would have opened the alternative teaching license route to special-education teachers of deaf and visually impaired pupils",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:AB289": {
+   "plain_topic": "Ended automatic third-grade retention under Read by Grade 3, requiring intensive reading help instead",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "80:AB293": {
+   "plain_topic": "Would have banned suspending young pupils for defiance or disruption",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:AB294": {
+   "plain_topic": "Would have made schools accept transfer credits of pupils with unstable housing and eased their graduation requirements",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "80:AB295": {
+   "plain_topic": "Would have replaced the AIDS/reproduction course with evidence-based sexuality education and added pupils to the advisory committee",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:AB296": {
+   "plain_topic": "Would have created a Nevada Office of the Inspector General inside the Department of Administration to investigate agencies",
+   "theme": "spending-oversight",
+   "relevance": "adjacent"
+  },
+  "80:AB304": {
+   "plain_topic": "Required class-size reduction plans with ratio-variance requests and annual public posting of class sizes",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:AB308": {
+   "plain_topic": "Payroll-tax credit for employers paying for employee courses; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB309": {
+   "plain_topic": "Reorganized state aid accounting in the school formula and made districts reserve money for negotiated raises",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "80:AB312": {
+   "plain_topic": "Would have limited how much test-participation counts in school star ratings and required parent notices about exams",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "80:AB314": {
+   "plain_topic": "Would have let schools count up to three 'digital days' of remote instruction when buildings close",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:AB318": {
+   "plain_topic": "Would have required districts and charters to adopt policies promoting work-based learning and apprenticeship preparation",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:AB319": {
+   "plain_topic": "Criminal-history petitions for occupational licenses; not K-12 policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB32": {
+   "plain_topic": "Workforce recruitment and training programs for businesses; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB322": {
+   "plain_topic": "Money for Clark County juvenile assessment centers; justice system, not school policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB331": {
+   "plain_topic": "Created an outdoor education grant program aimed at disadvantaged and at-risk pupils",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:AB332": {
+   "plain_topic": "Would have given school staff legal immunity for using force to stop harm and piloted body cameras in Clark County",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "80:AB34": {
+   "plain_topic": "State Treasurer investment rules, touching the Permanent School Fund only in passing",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB340": {
+   "plain_topic": "Would have let schools stock opioid-overdose antidotes under a health professional's order",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "80:AB341": {
+   "plain_topic": "Would have gave nationally certified school nurses the same 5 percent pay bump as certified teachers",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:AB342": {
+   "plain_topic": "Added district liaisons for military children under the interstate education compact",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "80:AB343": {
+   "plain_topic": "Would have required staff training on pupil mental health and created the Task Force on the Mental Health of Children",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:AB35": {
+   "plain_topic": "Would have let new schools open as achievement charter schools and set conversion and enrollment rules",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "80:AB350": {
+   "plain_topic": "Would have restructured higher-education administration; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB353": {
+   "plain_topic": "Recycling requirements for public agencies including school districts; not education policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB359": {
+   "plain_topic": "Would have built statewide and regional networks to broker work-based learning programs with employers",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:AB363": {
+   "plain_topic": "DMV fee waivers for homeless youth; not school policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB371": {
+   "plain_topic": "Public-records request reporting; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB378": {
+   "plain_topic": "Added mental-illness response procedures to school crisis plans and revised emergency admissions for children",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:AB380": {
+   "plain_topic": "Would have made reported bullying victims immediately eligible for private-school education savings accounts",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "80:AB383": {
+   "plain_topic": "Student-loan ombudsman for borrowers; higher-education finance, not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB385": {
+   "plain_topic": "Southern Nevada Enterprise Community economic development; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB387": {
+   "plain_topic": "Task force to keep families from giving up custody to get children's mental health services; child welfare with school ties",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "80:AB392": {
+   "plain_topic": "Would have certified employers for work-based learning and covered pupil insurance in such programs",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:AB396": {
+   "plain_topic": "Would have made confirmed bullying victims immediately eligible for education savings accounts",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "80:AB400": {
+   "plain_topic": "Shielded the Local School Support Tax from economic-development abatements and tightened repeat abatements",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "80:AB405": {
+   "plain_topic": "Bond-financed student loans for job training; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB409": {
+   "plain_topic": "Marijuana consumption lounges; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB41": {
+   "plain_topic": "Fictitious addresses for crime victims; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB411": {
+   "plain_topic": "Civil penalties for traffic violations; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB42": {
+   "plain_topic": "Would have ordered a State Board subcommittee to study adding substance-abuse lessons to middle and high school health classes",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:AB420": {
+   "plain_topic": "Criminal forfeiture procedures; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB430": {
+   "plain_topic": "Interim study of maternal, infant, and early childhood home visitation services",
+   "theme": "early-learning-reading",
+   "relevance": "adjacent"
+  },
+  "80:AB434": {
+   "plain_topic": "Fines and traffic offense collections; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB435": {
+   "plain_topic": "Would have moved detained youths who assault their teachers to approved distance education courses",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "80:AB442": {
+   "plain_topic": "Payroll-tax credit for employers funding employee instruction; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB445": {
+   "plain_topic": "Online marketplace sales-tax collection; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB459": {
+   "plain_topic": "Would have made the state's education accountability data searchable by category",
+   "theme": "spending-oversight",
+   "relevance": "core"
+  },
+  "80:AB460": {
+   "plain_topic": "Would have cut pupil-growth data from 40 to 10 percent of teacher and administrator evaluations",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "80:AB461": {
+   "plain_topic": "Higher-education liaison and fee waivers for homeless students; postsecondary, not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB462": {
+   "plain_topic": "Required a statewide plan to manage charter school growth and notice before schools open or expand",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "80:AB464": {
+   "plain_topic": "Sports eligibility for returning foreign-exchange pupils; interscholastic rules, not education outcomes",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB475": {
+   "plain_topic": "Would have set training standards for school boards and charter boards, with public completion announcements",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "80:AB486": {
+   "plain_topic": "Created the state Division of Outdoor Recreation; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB490": {
+   "plain_topic": "Required schools to collect and report pupil discipline data broken out by student group",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:AB491": {
+   "plain_topic": "Would have added two governor-appointed finance experts to the Clark and Washoe school boards",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "80:AB543": {
+   "plain_topic": "The state general appropriations act for 2019-2021, funding all of state government including schools",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "80:AB57": {
+   "plain_topic": "Would have made some Clark and Washoe school board seats appointed instead of elected",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "80:AB6": {
+   "plain_topic": "Swapped which state official sits on the STEM and library/literacy councils; not K-12 policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:AB64": {
+   "plain_topic": "Changed how charter schools are paid for pupils in full-time distance education",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "80:AB67": {
+   "plain_topic": "Would have created 'A+' achievement charter schools run by independent administrators",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "80:AB72": {
+   "plain_topic": "Would have changed who evaluates the principal of a low-performing 'turnaround' school",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "80:AB78": {
+   "plain_topic": "Abolished the Achievement School District and moved its charter schools to the State Public Charter School Authority",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "80:AB88": {
+   "plain_topic": "Adjusted district enrollment-reporting deadlines and what large districts must report and post online about school allocations",
+   "theme": "spending-oversight",
+   "relevance": "adjacent"
+  },
+  "80:AB92": {
+   "plain_topic": "Extended the English Mastery Council and expanded its advice on teaching English learners, with money attached",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:AB99": {
+   "plain_topic": "Would have required civics instruction on the founding principles of American government, with biennial reports",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:SB100": {
+   "plain_topic": "Expedited teaching licenses for military spouses and credited military experience",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:SB101": {
+   "plain_topic": "Adjusted the timeline for adopting the school-funding equity allocation model",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "80:SB105": {
+   "plain_topic": "Would have made some Clark and Washoe school board seats appointed instead of elected",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "80:SB106": {
+   "plain_topic": "Would have let schools reduce required textbook-and-supplies spending when materials are free",
+   "theme": "spending-oversight",
+   "relevance": "adjacent"
+  },
+  "80:SB109": {
+   "plain_topic": "Would have required cameras in self-contained special-education classrooms",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:SB111": {
+   "plain_topic": "Changed which school-district money is on the table in collective bargaining",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "80:SB126": {
+   "plain_topic": "Ended the five-year reappointment cycle for postprobationary school administrators",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "80:SB133": {
+   "plain_topic": "Money for educational leadership training programs",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:SB139": {
+   "plain_topic": "Would have funded a grant program teaching leadership skills to younger pupils",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:SB14": {
+   "plain_topic": "Governor's removal of board appointees; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB142": {
+   "plain_topic": "Would have added counselors and school police to school safety teams and revised the SafeVoice program",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:SB147": {
+   "plain_topic": "Made schools give homeless and foster pupils partial credit and flexible diplomas",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "80:SB153": {
+   "plain_topic": "Collective-bargaining procedures including school district negotiations",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "80:SB159": {
+   "plain_topic": "Required school sun-safety policies letting pupils carry sunscreen",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "80:SB162": {
+   "plain_topic": "Blockchain records; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB171": {
+   "plain_topic": "Health workforce data collection; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB178": {
+   "plain_topic": "Council on Food Security; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB184": {
+   "plain_topic": "Child-abuse report handling, touching school reporting duties; child welfare, not education policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB185": {
+   "plain_topic": "Loosened fingerprint background checks for supervised school volunteers",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "80:SB188": {
+   "plain_topic": "Would have required every district and school to publish a plain explanation of each expenditure and budget per-pupil",
+   "theme": "spending-oversight",
+   "relevance": "core"
+  },
+  "80:SB190": {
+   "plain_topic": "2020 census outreach; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB191": {
+   "plain_topic": "Would have required every public school to keep a standards-based library with a teacher librarian",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:SB193": {
+   "plain_topic": "Money for history, law, and civics education programs",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:SB194": {
+   "plain_topic": "Matched-savings accounts for low-income households; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB202": {
+   "plain_topic": "Required annual public reporting on pupils with disabilities and parental information on services",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:SB203": {
+   "plain_topic": "Hearing aids for children; health services, school-adjacent",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB204": {
+   "plain_topic": "Required suicide-prevention policies for every school and a model response plan",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:SB216": {
+   "plain_topic": "Established the autism commission in statute; health policy with school ties",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB227": {
+   "plain_topic": "Would have required a standard template for reporting school-by-school spending and what a budget should buy",
+   "theme": "spending-oversight",
+   "relevance": "core"
+  },
+  "80:SB231": {
+   "plain_topic": "Public-works labor records; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB233": {
+   "plain_topic": "Eased conditions for emergency school-repair grants to districts",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "80:SB238": {
+   "plain_topic": "Marijuana licensing; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB239": {
+   "plain_topic": "Put bullying victims' interests first in investigations and adjusted timelines",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:SB240": {
+   "plain_topic": "Would have dropped the school-law and constitution training requirements for new teachers",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:SB245": {
+   "plain_topic": "Tort damages cap against governments; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB249": {
+   "plain_topic": "Would have required school libraries with licensed school librarians in every public school",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:SB253": {
+   "plain_topic": "Changed suspension and dismissal procedures for licensed school employees",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:SB26": {
+   "plain_topic": "Would have shielded a slice of school district ending fund balances from collective-bargaining arbitration",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "80:SB262": {
+   "plain_topic": "Asthma drug price reporting; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB266": {
+   "plain_topic": "Mental-health first-aid training program; statewide health, not school-specific",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB267": {
+   "plain_topic": "Required schools to identify and weigh social and environmental factors affecting pupils",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:SB282": {
+   "plain_topic": "Crisis-center liability; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB285": {
+   "plain_topic": "Grants up to $500,000 per building for school security improvements, with money attached",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "80:SB295": {
+   "plain_topic": "Created the National Guard Youth Challenge school for dropouts and at-risk youth",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:SB296": {
+   "plain_topic": "Allowed teaching licenses by endorsement for teachers licensed in other countries",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:SB299": {
+   "plain_topic": "Electric vehicle infrastructure; school-bus mention only",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB302": {
+   "plain_topic": "Government data security; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB303": {
+   "plain_topic": "Money for pay incentives for nationally certified teachers at Title I schools",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:SB305": {
+   "plain_topic": "Would have let counties raise sales tax for pre-K and other programs and tapped marijuana tax for achievement",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "80:SB313": {
+   "plain_topic": "Built a computer-science resource repository, teacher reimbursements, and a technology account",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:SB314": {
+   "plain_topic": "Created the State Seal of Financial Literacy, an advisory council, and teaching endorsements",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:SB315": {
+   "plain_topic": "Rare-disease council and childhood health awareness; not education policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB317": {
+   "plain_topic": "Would have funded juvenile assessment centers to support pupils after adverse childhood experiences, $16 million",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "80:SB318": {
+   "plain_topic": "Would have created school threat assessment teams and district safety specialists",
+   "theme": "facilities-operations",
+   "relevance": "core"
+  },
+  "80:SB319": {
+   "plain_topic": "Defined school counselor, psychologist, and social worker duties and pushed full-time counselors where money allows",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:SB320": {
+   "plain_topic": "Required schools to identify pupils for more rigorous core courses",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:SB321": {
+   "plain_topic": "Abolished the Achievement School District and reverted its schools",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "80:SB324": {
+   "plain_topic": "Made teacher school-supplies money easier to disburse and roll over",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:SB330": {
+   "plain_topic": "Electric vehicle infrastructure incentives; school buses mentioned only",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB332": {
+   "plain_topic": "Ordered an interim study on safe and respectful learning environments free of bullying",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:SB343": {
+   "plain_topic": "Would have set training and reporting standards for school boards, with spending data added to the accountability system",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "80:SB349": {
+   "plain_topic": "Would have revived and funded education savings accounts under a new Office of Educational Choice",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "80:SB351": {
+   "plain_topic": "Would have ordered independent evaluations of the private-school Opportunity Scholarship program and eased disability eligibility",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "80:SB372": {
+   "plain_topic": "Would have moved school psychologist and counselor licensing to health boards",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:SB402": {
+   "plain_topic": "STEM support license plates; not education policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB403": {
+   "plain_topic": "Required schools to disclose which online services get pupil data before pupils use classroom technology",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:SB404": {
+   "plain_topic": "Would have added tax-credit scholarships for early childhood and career-technical programs",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "80:SB41": {
+   "plain_topic": "Reworked teacher licensing: dropped the special-qualifications license and revised the standards commission",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:SB414": {
+   "plain_topic": "Expanded the Guinn Memorial scholarship for future teachers; postsecondary scholarship",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "80:SB441": {
+   "plain_topic": "Created rules for charter schools operating entirely as distance education",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "80:SB444": {
+   "plain_topic": "Money for prekindergarten enrollment costs",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "80:SB445": {
+   "plain_topic": "Would have set a $45,000 minimum teacher salary and grants for relocating teachers",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:SB447": {
+   "plain_topic": "Medical equipment sales-tax exemption; Local School Support Tax amended mechanically",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB451": {
+   "plain_topic": "Let charter contracts renew for three to ten years instead of a fixed six",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "80:SB458": {
+   "plain_topic": "Money for nonprofit school-garden programs at Title I schools",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "80:SB465": {
+   "plain_topic": "Let redevelopment agencies pass school property-tax increments back to districts",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "80:SB467": {
+   "plain_topic": "Extended Zoom (English learner) and Victory (poverty) school programs, with money attached",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "80:SB468": {
+   "plain_topic": "Would have exempted private pre-K programs taking no public money from child-care licensing",
+   "theme": "early-learning-reading",
+   "relevance": "adjacent"
+  },
+  "80:SB469": {
+   "plain_topic": "Tuned Clark County's site-based school precinct system: utilities, supervision spans, and allocations",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "80:SB475": {
+   "plain_topic": "Cut pupil performance to 15 percent of educator evaluations and required annual evaluation of other licensed staff",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "80:SB476": {
+   "plain_topic": "Would have built the computer-science instruction repository and grant program",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "80:SB478": {
+   "plain_topic": "Peer-to-peer car sharing; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB485": {
+   "plain_topic": "Limited reimbursements to hospitals schooling resident child patients",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "80:SB503": {
+   "plain_topic": "Money to continue the Nevada Promise college scholarship; postsecondary",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB505": {
+   "plain_topic": "Money to settle the district-of-residence funding adjustment among districts",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "80:SB52": {
+   "plain_topic": "Would have funded scholarships for teachers seeking business-and-industry endorsements",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:SB520": {
+   "plain_topic": "Supplemental money to the Distributive School Account for unanticipated enrollment growth",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "80:SB523": {
+   "plain_topic": "Supplemental money for a staffing shortfall in state literacy programs",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "80:SB528": {
+   "plain_topic": "Brain-health center appropriations; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB538": {
+   "plain_topic": "Office for New Americans; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB543": {
+   "plain_topic": "Created the State Education Fund and the Pupil-Centered Funding Plan, replacing the Nevada Plan, the state's previous funding formula",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "80:SB545": {
+   "plain_topic": "Redirected the 10 percent retail marijuana tax from the Rainy Day Fund to the school account",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "80:SB549": {
+   "plain_topic": "Adjusted which assessments drive New Nevada Education Funding Plan allocations",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "80:SB551": {
+   "plain_topic": "Kept payroll-tax rates from falling and steered money to schools and safety programs",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "80:SB555": {
+   "plain_topic": "The biennium K-12 funding act: apportioned the school account, class-size reduction, and categorical programs",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "80:SB57": {
+   "plain_topic": "Made public school blueprints confidential except for safety agencies",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "80:SB69": {
+   "plain_topic": "Standardized emergency response plan updates for schools and others",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "80:SB79": {
+   "plain_topic": "Would have required a statewide policy and training for managing chronic absenteeism",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:SB80": {
+   "plain_topic": "Renamed Safe-to-Tell as SafeVoice and created Handle with Care alerts when children face trauma",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "80:SB82": {
+   "plain_topic": "College savings plan governance; higher-education finance, not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB84": {
+   "plain_topic": "Created the state grant program supporting prekindergarten programs statewide",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "80:SB89": {
+   "plain_topic": "Required accountability reports broken out by pupil group, school-climate plans, and school safety changes",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "80:SB90": {
+   "plain_topic": "Child lead testing and diaper assistance; health policy, not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "80:SB91": {
+   "plain_topic": "Would have created the Commission on Innovation and Excellence in Education to benchmark Nevada against top systems",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "80:SB99": {
+   "plain_topic": "Would have created an advisory committee to design a tiered career pathway for teachers",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "80:SCR1": {
+   "plain_topic": "Interim energy study; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB105": {
+   "plain_topic": "Would have added parents and pupils to Nevada Interscholastic Activities Association boards",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB108": {
+   "plain_topic": "Would have created a statewide independent Office of the Inspector General",
+   "theme": "spending-oversight",
+   "relevance": "adjacent"
+  },
+  "81:AB109": {
+   "plain_topic": "Raised the share of charter school teachers who must be licensed from 70 to 80 percent",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "81:AB116": {
+   "plain_topic": "Civil penalties for traffic infractions; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB122": {
+   "plain_topic": "Would have funded grants for virtual prekindergarten programs",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "81:AB159": {
+   "plain_topic": "Would have extended COVID liability protection to public schools; legal immunity, not education policy",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "81:AB167": {
+   "plain_topic": "Would have put mental health crisis lines on pupil identification cards",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "81:AB184": {
+   "plain_topic": "Small business advocacy office; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB19": {
+   "plain_topic": "Redefined social studies to include civics, financial literacy, and multicultural education",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:AB194": {
+   "plain_topic": "Added restorative-justice reporting and appeal rights to school discipline",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "81:AB195": {
+   "plain_topic": "Required districts to track English learners, protect their program rights, and post information",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "81:AB204": {
+   "plain_topic": "Moved the Office of Workforce Innovation; workforce administration, not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB205": {
+   "plain_topic": "Let schools stock opioid-overdose antidotes under a health professional's order",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "81:AB206": {
+   "plain_topic": "Would have counted military-family distance-education pupils for school funding before relocation",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "81:AB208": {
+   "plain_topic": "Would have let unions and trade groups help teach career and technical courses and set CTE endorsement experience",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:AB215": {
+   "plain_topic": "Opened adult high school diploma courses to 17-year-olds with four years of high school",
+   "theme": "testing-graduation",
+   "relevance": "adjacent"
+  },
+  "81:AB224": {
+   "plain_topic": "Required free menstrual products in secondary school bathrooms with accountability reporting",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "81:AB225": {
+   "plain_topic": "Required alternative competency demonstrations in teacher licensing exams for people with disabilities",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "81:AB231": {
+   "plain_topic": "Required a State Board subcommittee on Holocaust and genocide instruction",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:AB235": {
+   "plain_topic": "Made high schools help seniors complete the federal student aid application",
+   "theme": "testing-graduation",
+   "relevance": "adjacent"
+  },
+  "81:AB255": {
+   "plain_topic": "Would have made three of seven Clark County school board seats appointed",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "81:AB257": {
+   "plain_topic": "Required schools to assess and improve ventilation and air filtration where money allows",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "81:AB261": {
+   "plain_topic": "Required instruction on the history and contributions of diverse groups and inclusive textbooks",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:AB265": {
+   "plain_topic": "Would have created an alternative route to licensure for school administrators",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "81:AB266": {
+   "plain_topic": "Tightened who counts in class-size ratios and required posting teacher vacancy numbers",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:AB273": {
+   "plain_topic": "Would have created a statewide children's mental health consortium",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "81:AB280": {
+   "plain_topic": "Inclusive single-stall restrooms; not K-12 policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB288": {
+   "plain_topic": "Would have raised the income limit for private-school Opportunity Scholarships to 400 percent of poverty",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "81:AB296": {
+   "plain_topic": "Civil action for doxing; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB305": {
+   "plain_topic": "Would have raised the school-district fund balance shielded from collective bargaining",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "81:AB306": {
+   "plain_topic": "Would have penalized false reports to the SafeVoice school-safety tip line",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "81:AB319": {
+   "plain_topic": "Dual-credit pilot at the College of Southern Nevada for high school pupils",
+   "theme": "testing-graduation",
+   "relevance": "adjacent"
+  },
+  "81:AB322": {
+   "plain_topic": "Cannabis event licensing; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB329": {
+   "plain_topic": "Would have opened full-time distance education across district lines and unlimited distance-charter enrollment",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "81:AB330": {
+   "plain_topic": "Credit for vocational training toward occupational licenses; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB345": {
+   "plain_topic": "Drug-checking products; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB348": {
+   "plain_topic": "Patient Protection Commission; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB352": {
+   "plain_topic": "Would have declared a legal right to a high-quality public education for every pupil",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "81:AB353": {
+   "plain_topic": "Would have required biennial sexual-misconduct climate surveys and stronger grievance processes in schools",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "81:AB355": {
+   "plain_topic": "Appropriations for various health and education purposes",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "81:AB364": {
+   "plain_topic": "Would have made school board members teach one supervised classroom day each year",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "81:AB366": {
+   "plain_topic": "Mental-health training recordings; health records, not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB367": {
+   "plain_topic": "Would have eased the combined American government-economics course and required disciplinary-skills instruction",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:AB371": {
+   "plain_topic": "Extended the school bullying framework to cover discrimination based on race",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "81:AB372": {
+   "plain_topic": "Doctor loan-repayment program; health workforce, not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB374": {
+   "plain_topic": "Substance use working group; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB376": {
+   "plain_topic": "Immigration model policies including for schools; immigration policy, not education outcomes",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB38": {
+   "plain_topic": "Streamlined career-and-technical education advisory committees and work-based learning rules",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:AB415": {
+   "plain_topic": "Would have ordered an interim study of the statewide school accountability and rating system",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "81:AB417": {
+   "plain_topic": "Tightened school-bus inspection follow-up and reporting",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "81:AB418": {
+   "plain_topic": "Would have required exit surveys for teachers leaving districts, analyzed for retention lessons",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "81:AB419": {
+   "plain_topic": "Set governance standards, training, and disclosure rules for charter school boards and low-rated charters",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "81:AB420": {
+   "plain_topic": "Redefined for-profit educational management organizations serving charter schools",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "81:AB447": {
+   "plain_topic": "Money for the We the People civics program in schools",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:AB450": {
+   "plain_topic": "Community-college workforce study; postsecondary, not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB459": {
+   "plain_topic": "Moved the Office of Workforce Innovation; administration, not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB485": {
+   "plain_topic": "Emergency management reorganization; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB494": {
+   "plain_topic": "The state general appropriations act for 2021-2023",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "81:AB495": {
+   "plain_topic": "New gold and silver mining excise tax with proceeds routed to the State Education Fund",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "81:AB54": {
+   "plain_topic": "Traffic safety committee; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AB56": {
+   "plain_topic": "Would have had a State Board subcommittee study Holocaust and genocide instruction",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:AB57": {
+   "plain_topic": "Zeroed out pupil growth in educator evaluations for 2021-22, restoring 15 percent the next year",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "81:AB67": {
+   "plain_topic": "Rewrote suspension and expulsion rules, defining terms and protecting pupils with disabilities",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "81:AB68": {
+   "plain_topic": "Adjusted charter application timelines, performance frameworks, and school closures",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "81:AB82": {
+   "plain_topic": "Would have required instruction on founding principles of American government with reports",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:AB88": {
+   "plain_topic": "Banned racially discriminatory school names, mascots, and imagery without tribal permission",
+   "theme": "accountability-governance",
+   "relevance": "adjacent"
+  },
+  "81:AB90": {
+   "plain_topic": "Interim study of intercounty development projects; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AJR13": {
+   "plain_topic": "Election certification by the Legislature; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:AJR8": {
+   "plain_topic": "Would have asked voters to repeal the ban on public funds for sectarian purposes, easing private-school aid",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "81:SB102": {
+   "plain_topic": "Moved the kindergarten age cutoff to the first day of school",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "81:SB111": {
+   "plain_topic": "Would have made some Clark and Washoe school board seats appointed instead of elected",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "81:SB116": {
+   "plain_topic": "Mental-health first-aid training plus reporting on distance education's mental-health effects on pupils and teachers",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "81:SB118": {
+   "plain_topic": "College support program for low-income first-generation students; postsecondary",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB120": {
+   "plain_topic": "Would have made principals at-will employees when their school's rating falls and teachers flee",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "81:SB126": {
+   "plain_topic": "Would have required school libraries with teacher librarians in the two urban counties",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:SB131": {
+   "plain_topic": "State grants office reorganization; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB132": {
+   "plain_topic": "Money for juvenile assessment center support services to Clark County pupils",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "81:SB135": {
+   "plain_topic": "Would have banned charging fees for access to public school property or employees",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "81:SB142": {
+   "plain_topic": "Would have repealed the shield keeping school ending fund balances out of collective bargaining",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "81:SB151": {
+   "plain_topic": "Required the urban districts to plan and report on improving counselor and support-staff ratios",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "81:SB152": {
+   "plain_topic": "Would have required big schools to post their learning materials online for parents",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:SB157": {
+   "plain_topic": "Would have loosened rules on which pupils private-school scholarship organizations may fund",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "81:SB160": {
+   "plain_topic": "Widened who can offer dual-credit courses, including out-of-state colleges",
+   "theme": "testing-graduation",
+   "relevance": "adjacent"
+  },
+  "81:SB166": {
+   "plain_topic": "Hate crime penalties; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB169": {
+   "plain_topic": "Would have recast special-education categories around developmental trauma and behavioral dysregulation",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "81:SB172": {
+   "plain_topic": "Standardized grading weight for dual-credit and IB courses",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "81:SB173": {
+   "plain_topic": "Authorized COVID learning-loss plans with expanded summer school, transportation, and meals",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:SB182": {
+   "plain_topic": "Would have required PE to include activity scientifically shown to reduce obesity",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:SB188": {
+   "plain_topic": "Matched-savings accounts for low-income families; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB194": {
+   "plain_topic": "Created the State Seal of Civics and required civics in social studies instruction",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:SB195": {
+   "plain_topic": "Would have made colleges grant credit for high school State Seal subjects",
+   "theme": "testing-graduation",
+   "relevance": "adjacent"
+  },
+  "81:SB199": {
+   "plain_topic": "Would have barred race discrimination in schools and employment, including hair and cultural traits",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "81:SB2": {
+   "plain_topic": "Moved kindergarten reading checks to early-learning assessments and trimmed some pupil measurements",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "81:SB202": {
+   "plain_topic": "Would have counted computer-coding credits as world-language credits",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:SB210": {
+   "plain_topic": "Required education plans for children admitted to psychiatric residential treatment",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "81:SB215": {
+   "plain_topic": "Loosened alternative schedules and let distance-education pupils finish courses early",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:SB217": {
+   "plain_topic": "Behavior analyst licensing transfer; health boards, not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB220": {
+   "plain_topic": "Would have made every district run alternative educational opportunity programs with apprenticeships",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:SB224": {
+   "plain_topic": "Would have protected collective-bargaining transfer rules when Clark County precincts pick their staff",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "81:SB226": {
+   "plain_topic": "Would have steered career-technical education toward high-need industries with grants and reporting",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:SB230": {
+   "plain_topic": "Would have required trauma training for all school employees and reporting on integrated student supports in distance education",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "81:SB243": {
+   "plain_topic": "Would have let teachers keep home addresses confidential in public records",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "81:SB244": {
+   "plain_topic": "Would have banned GPA conditions for specialty-school and charter enrollment and standardized course grade weights",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "81:SB249": {
+   "plain_topic": "Excused school absences for behavioral health and put crisis lines on pupil ID cards",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "81:SB250": {
+   "plain_topic": "Would have counted adult diploma-course pupils for school funding",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "81:SB255": {
+   "plain_topic": "Supplier diversity office; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB265": {
+   "plain_topic": "Would have focused work-based learning on high-demand industries with priority for underserved pupils",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:SB27": {
+   "plain_topic": "Would have let the state superintendent investigate school personnel and delegate license suspensions",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "81:SB272": {
+   "plain_topic": "Would have created the Nevada Educator Corps tutoring force, with money attached",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:SB273": {
+   "plain_topic": "Would have funded a literacy grant account for elementary reading programs",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "81:SB306": {
+   "plain_topic": "Would have revived education savings accounts under an Office of Educational Choice",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "81:SB312": {
+   "plain_topic": "Would have steered $8 million of federal relief to enroll at least 500 pre-K pupils",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "81:SB316": {
+   "plain_topic": "Would have steered $25 million of federal relief to a pilot for pupils who missed graduation in the pandemic",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "81:SB321": {
+   "plain_topic": "Would have split community colleges from the university system; postsecondary governance",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB327": {
+   "plain_topic": "Race discrimination protections in employment and education; civil rights, partial school angle",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "81:SB330": {
+   "plain_topic": "Would have required plain-language expenditure reports and per-pupil budgeting from every district",
+   "theme": "spending-oversight",
+   "relevance": "core"
+  },
+  "81:SB333": {
+   "plain_topic": "Would have created tax-credit donations for charter school facilities",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "81:SB343": {
+   "plain_topic": "Would have funded leased classroom space to reduce class sizes, paid by cannabis taxes",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:SB352": {
+   "plain_topic": "Accelerated student teaching for working paraprofessionals and recognized out-of-state experience",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "81:SB353": {
+   "plain_topic": "Capped time spent on tests and required review of redundant assessments",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "81:SB354": {
+   "plain_topic": "Extended restorative-justice requirements to suspensions and recognized schools reducing discipline removals",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "81:SB355": {
+   "plain_topic": "Civil infractions procedure; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB36": {
+   "plain_topic": "Turned school crisis committees into all-hazards emergency planning committees",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "81:SB363": {
+   "plain_topic": "Required charter schools to disclose payments to management companies",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "81:SB374": {
+   "plain_topic": "Digital products tax; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB375": {
+   "plain_topic": "Would have created an Enhanced Classroom Funding Account on top of the funding formula",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "81:SB39": {
+   "plain_topic": "Digital token payments; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB391": {
+   "plain_topic": "Teledentistry and dental staffing; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB395": {
+   "plain_topic": "Would have required voter-approved property taxes for small-county school building projects",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "81:SB40": {
+   "plain_topic": "All-payer health claims database; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB402": {
+   "plain_topic": "Would have required education licenses within 30 days and reciprocal licensing agreements",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "81:SB439": {
+   "plain_topic": "Overhauled State Education Fund revenues and the mechanics of the Pupil-Centered Funding Plan",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "81:SB441": {
+   "plain_topic": "Sales tax seller permits; Local School Support Tax touched mechanically",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB444": {
+   "plain_topic": "Supplemental money to the school account after pandemic revenue drops",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "81:SB450": {
+   "plain_topic": "Let districts stretch existing voter-approved bonding for school buildings",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "81:SB458": {
+   "plain_topic": "The biennium K-12 funding act: per-pupil base and weighted funding under the new plan",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "81:SB460": {
+   "plain_topic": "General appropriations to state agencies, education among them",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "81:SB463": {
+   "plain_topic": "Money transferred to certain charter schools",
+   "theme": "charters-choice",
+   "relevance": "adjacent"
+  },
+  "81:SB66": {
+   "plain_topic": "Made the state track pupils' home Internet and device access and work to close gaps",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "81:SB68": {
+   "plain_topic": "State investments touching the Permanent School Fund; finance, not education policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB69": {
+   "plain_topic": "Peer recovery specialist certification; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "81:SB76": {
+   "plain_topic": "Would have cut education reports, renamed the teacher council, and abolished the technology and literacy councils",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "81:SB83": {
+   "plain_topic": "Let Nevada pause school ratings and exams when federal accountability rules are waived",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "81:SB91": {
+   "plain_topic": "Would have let juniors choose between a college or a career readiness assessment for graduation",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "81:SB92": {
+   "plain_topic": "Would have added robotics to approved career and technical education subjects",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "82:AB113": {
+   "plain_topic": "Would have created the Office of Early Childhood Systems in the Governor's Office, with money attached",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "82:AB114": {
+   "plain_topic": "Broadened the Early Childhood Advisory Council to include health, tribal, and parent members",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "82:AB115": {
+   "plain_topic": "Overdose prevention programs; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB128": {
+   "plain_topic": "Money for the outdoor education grant program",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "82:AB131": {
+   "plain_topic": "Urban forestry program; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB132": {
+   "plain_topic": "Clark County opioid task force; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB135": {
+   "plain_topic": "Birth certificates and IDs for homeless people, touching pupil ID cards; not education policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB147": {
+   "plain_topic": "Teledentistry rules; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB149": {
+   "plain_topic": "Would have created an independent Inspector General of Education to audit anyone receiving education money",
+   "theme": "spending-oversight",
+   "relevance": "core"
+  },
+  "82:AB164": {
+   "plain_topic": "Outdoor recreation grant program administration; recreation policy with pupil-program edge",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "82:AB172": {
+   "plain_topic": "Would have made districts share employee contact lists with unions semiannually",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "82:AB175": {
+   "plain_topic": "Added four appointed nonvoting members to the Clark County school board",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:AB182": {
+   "plain_topic": "Would have required a bachelor's degree for teaching licenses and created a substitute-teacher license",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:AB185": {
+   "plain_topic": "Gave military children charter enrollment preference and transfer accommodations",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "82:AB187": {
+   "plain_topic": "Would have banned three-cueing reading instruction in kindergarten through grade 2",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "82:AB194": {
+   "plain_topic": "Would have expanded suspension and expulsion authority for assaults on staff or pupils",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "82:AB199": {
+   "plain_topic": "Chiropractor head-injury clearances; health licensing",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB201": {
+   "plain_topic": "Would have added oversight of the children's behavioral health system; vetoed; health policy with school ties",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "82:AB207": {
+   "plain_topic": "Let schools buy liability insurance for pupils in work-based learning",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "82:AB217": {
+   "plain_topic": "College fee waivers for formerly homeless pupils; postsecondary",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB222": {
+   "plain_topic": "Would have gave school employees a full year of pension credit at 900 hours",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "82:AB228": {
+   "plain_topic": "Would have raised required high school social studies from three to four credits including geography",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "82:AB236": {
+   "plain_topic": "Psychologist title protections; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB237": {
+   "plain_topic": "Medicaid appropriations; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB238": {
+   "plain_topic": "Would have required training for school and child-welfare staff to identify sexually exploited children",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "82:AB239": {
+   "plain_topic": "State employee merit awards plus family-engagement council tweaks; administration",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB241": {
+   "plain_topic": "Made the college-and-career-ready course load the default high school enrollment",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "82:AB243": {
+   "plain_topic": "Legislative interim committee mechanics, touching a teacher task force deadline; process",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB245": {
+   "plain_topic": "Required school agreements with power-based violence victim organizations and referrals",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "82:AB247": {
+   "plain_topic": "Would have created Nevada-written college and career readiness exams required for a diploma",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "82:AB25": {
+   "plain_topic": "CPR liability protection including school staff; liability law, not education policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB255": {
+   "plain_topic": "Adoption assistance until high school graduation; child welfare",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB256": {
+   "plain_topic": "Streamlined work-based learning approvals and volunteer supervision rules",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "82:AB258": {
+   "plain_topic": "Nonprofit donor confidentiality; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB264": {
+   "plain_topic": "Protected perfect-attendance awards and credit for religious-holiday absences",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "82:AB265": {
+   "plain_topic": "Would have created a statewide children's mental health consortium; vetoed; health governance with school ties",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "82:AB269": {
+   "plain_topic": "Would have let consistently effective teachers skip to fewer evaluations",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:AB273": {
+   "plain_topic": "Money for Elko County to replace a school building",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "82:AB274": {
+   "plain_topic": "Required financial-literacy credits inside high school social studies and restructured the advisory council",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "82:AB280": {
+   "plain_topic": "Would have made districts dedicate per-pupil money to behavior schools for removed pupils",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "82:AB282": {
+   "plain_topic": "Would have required a $450 monthly health-insurance subsidy for full-time substitute teachers",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:AB285": {
+   "plain_topic": "Replaced the restorative-discipline mandate with progressive discipline plans",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "82:AB296": {
+   "plain_topic": "Would have required reporting of class time spent on testing, with corrective plans past 2 percent",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "82:AB3": {
+   "plain_topic": "Cut Permanent School Fund financial reports from quarterly to annual",
+   "theme": "spending-oversight",
+   "relevance": "adjacent"
+  },
+  "82:AB301": {
+   "plain_topic": "Police officer benefit definitions including school police; employment benefits",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB308": {
+   "plain_topic": "Would have required orientations for J-1 visa teachers and ethical international recruiting",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:AB317": {
+   "plain_topic": "Would have allowed dual credit from accredited out-of-state institutions",
+   "theme": "testing-graduation",
+   "relevance": "adjacent"
+  },
+  "82:AB319": {
+   "plain_topic": "Would have funded universal free school breakfast and lunch",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "82:AB323": {
+   "plain_topic": "Would have required a statewide teacher-recruitment strategic plan and reshaped the standards commission",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:AB33": {
+   "plain_topic": "Expanded allowed investments of the Permanent School Fund; state finance",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB330": {
+   "plain_topic": "Extended discipline rules to charters, set appeal timelines, and required education during expulsions",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "82:AB335": {
+   "plain_topic": "Would have cut the grade-3 class-size cap to 16 and paid teachers extra in oversized classes",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "82:AB339": {
+   "plain_topic": "Would have required accountability reporting on achievement of chronically absent and substitute-taught pupils",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "82:AB341": {
+   "plain_topic": "Would have changed which unions nominate teacher members of state education boards",
+   "theme": "accountability-governance",
+   "relevance": "adjacent"
+  },
+  "82:AB344": {
+   "plain_topic": "Would have repealed the cost adjustment factor in the Pupil-Centered Funding Plan",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "82:AB347": {
+   "plain_topic": "Money for dual-credit program grants",
+   "theme": "testing-graduation",
+   "relevance": "adjacent"
+  },
+  "82:AB348": {
+   "plain_topic": "Piloted virtual early-childhood family engagement before kindergarten, with money attached",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "82:AB352": {
+   "plain_topic": "Would have added weighted funding for low-achieving pupils who are not English learners",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "82:AB353": {
+   "plain_topic": "Would have created an Inspector General under the Controller to audit school districts",
+   "theme": "spending-oversight",
+   "relevance": "core"
+  },
+  "82:AB357": {
+   "plain_topic": "Would have replaced the HIV/reproduction course with evidence-based sexuality education",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "82:AB36": {
+   "plain_topic": "Veterans council membership; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB360": {
+   "plain_topic": "Would have given teachers sole authority over the grades they assign",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "82:AB37": {
+   "plain_topic": "Behavioral health workforce center at colleges; postsecondary",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB372": {
+   "plain_topic": "Let the university system partner on early-childhood family tools",
+   "theme": "early-learning-reading",
+   "relevance": "adjacent"
+  },
+  "82:AB385": {
+   "plain_topic": "Would have expanded private-school scholarship eligibility and tax credits",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "82:AB395": {
+   "plain_topic": "Would have created the Financial Oversight of School Spending Committee to review district budgets quarterly",
+   "theme": "spending-oversight",
+   "relevance": "core"
+  },
+  "82:AB399": {
+   "plain_topic": "Created a legislative Subcommittee on Education Accountability over spending and outcomes",
+   "theme": "spending-oversight",
+   "relevance": "core"
+  },
+  "82:AB4": {
+   "plain_topic": "Would have let the Commission on School Funding meet year-round and adjusted the teacher-standards commission",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "82:AB400": {
+   "plain_topic": "Education omnibus: early-literacy account, school-funding commission duties, charter transportation money",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "82:AB409": {
+   "plain_topic": "Juneteenth commission; cultural affairs, not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB42": {
+   "plain_topic": "Would have extended class-size ratio rules to charters and required public reporting on ratio variances",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "82:AB420": {
+   "plain_topic": "Would have carved a rural regional school district out of Clark County, with $6 million",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:AB421": {
+   "plain_topic": "Consumer data tax; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB423": {
+   "plain_topic": "Would have barred school boards from restricting pupil access by identity and from late-night votes",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:AB428": {
+   "plain_topic": "Created teacher-pipeline career pathways and a Nevada Grown Educator tuition account",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:AB43": {
+   "plain_topic": "Adjusted deadlines for school emergency operations plans",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "82:AB445": {
+   "plain_topic": "Would have given tax abatements to businesses providing children's mental health services",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "82:AB458": {
+   "plain_topic": "Would have allowed temporary advances from the Education Stabilization Account to the State Education Fund",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "82:AB459": {
+   "plain_topic": "Would have required the education budget to at least keep pace with revenue growth or inflation plus enrollment",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "82:AB463": {
+   "plain_topic": "Moved child-care licensing between divisions and adjusted the early childhood council",
+   "theme": "early-learning-reading",
+   "relevance": "adjacent"
+  },
+  "82:AB490": {
+   "plain_topic": "Academic medical district; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB497": {
+   "plain_topic": "Would have let pupils transfer to any school with open seats outside their zone",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "82:AB503": {
+   "plain_topic": "Tightened background-check rules for school volunteers and license applicants",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "82:AB515": {
+   "plain_topic": "Created the Incentivizing Pathways to Teaching grant program with tuition help and stipends",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:AB517": {
+   "plain_topic": "Required recurring legislative performance audits of the two biggest districts and the charter authority",
+   "theme": "spending-oversight",
+   "relevance": "core"
+  },
+  "82:AB519": {
+   "plain_topic": "Required an Elko County property tax for school buildings and eased rural capital grants",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "82:AB52": {
+   "plain_topic": "Open Meeting Law changes; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB522": {
+   "plain_topic": "State employee pay act; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB523": {
+   "plain_topic": "Adjusted State Education Fund revenues, advances, and the inflation factor for per-pupil funding",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "82:AB54": {
+   "plain_topic": "Education-department cleanup: attendance, accountability reports, hospital-school reimbursements",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:AB65": {
+   "plain_topic": "Barred school board votes after 11 p.m. and revised discrimination-report investigations",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:AB69": {
+   "plain_topic": "Extended health-provider loan repayment to behavioral health; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB72": {
+   "plain_topic": "Created an advisory committee on the safety and well-being of school staff",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:AB73": {
+   "plain_topic": "Let pupils wear tribal regalia and religious or cultural objects at graduation",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "82:AB81": {
+   "plain_topic": "Concealed-carry in vehicles on school property; firearms law, not education policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:AB93": {
+   "plain_topic": "Automated speed cameras in school zones; traffic enforcement",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB10": {
+   "plain_topic": "Let the state infrastructure bank finance rural K-12 school facilities",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "82:SB100": {
+   "plain_topic": "Money for White Pine County to build an elementary school",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "82:SB112": {
+   "plain_topic": "Groundwater assessments; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB114": {
+   "plain_topic": "Loosened sports-transfer eligibility; interscholastic athletics",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB121": {
+   "plain_topic": "Age of consent; criminal law, not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB124": {
+   "plain_topic": "Rerouted mining tax proceeds through the State Education Fund and stabilization account",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "82:SB144": {
+   "plain_topic": "Would have created tax-credit donations for career and technical education programs",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "82:SB148": {
+   "plain_topic": "Would have recentralized custodial and support staffing decisions from Clark County school precincts",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:SB149": {
+   "plain_topic": "Would have required elementary math improvement plans, math specialists, and early math-reading checks",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "82:SB151": {
+   "plain_topic": "Would have kept federal support labels out of star ratings, revised diplomas and evaluations, added mentorship",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "82:SB152": {
+   "plain_topic": "Would have made restorative-justice plans optional before removing or suspending pupils",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "82:SB158": {
+   "plain_topic": "Would have let parents request cameras in self-contained special-education classrooms",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "82:SB165": {
+   "plain_topic": "Emerging technology task force; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB171": {
+   "plain_topic": "Firearms after hate-crime convictions; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB188": {
+   "plain_topic": "Concealed carry on campuses; firearms law",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB189": {
+   "plain_topic": "Money for Communities In Schools to provide integrated student supports",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "82:SB196": {
+   "plain_topic": "Restricted coaches from forcing out-of-season club participation; athletics",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB197": {
+   "plain_topic": "Fentanyl penalties; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB199": {
+   "plain_topic": "Would have required district programs for alternative educational opportunities outside school",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "82:SB200": {
+   "plain_topic": "Would have revived education savings accounts for private schooling",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "82:SB206": {
+   "plain_topic": "Would have required shared instructional models and converted the lowest-rated schools to Department charters",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:SB210": {
+   "plain_topic": "Board appointment diversity; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB212": {
+   "plain_topic": "Would have recreated the Teachers' School Supplies Assistance Account for classroom supplies",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:SB214": {
+   "plain_topic": "Abolished the STEM council and educational technology commission, moving duties to the education department",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "82:SB220": {
+   "plain_topic": "Would have expanded Opportunity Scholarship eligibility, minimum grants, and tax credits",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "82:SB228": {
+   "plain_topic": "PERS investment restrictions; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB231": {
+   "plain_topic": "Money for districts budgeting raises for teachers and support staff (the 2023 educator pay match)",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:SB236": {
+   "plain_topic": "Money for civics education programs in schools",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "82:SB244": {
+   "plain_topic": "Money for school-garden programs in public schools",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "82:SB251": {
+   "plain_topic": "Would have made transfer and reassignment of non-teaching district staff a mandatory bargaining subject",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "82:SB256": {
+   "plain_topic": "Would have funded charter school facilities per pupil through a new account",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "82:SB277": {
+   "plain_topic": "Cannabis regulation; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB282": {
+   "plain_topic": "Tightened Clark County precinct rules: bargaining-compliant hiring and carryforward money for pupils",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:SB285": {
+   "plain_topic": "Money for civics education programs for pupils and adults",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "82:SB29": {
+   "plain_topic": "Tax refund interest; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB291": {
+   "plain_topic": "Let student teachers substitute sooner and funded the teaching institute",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:SB292": {
+   "plain_topic": "Made principals at-will when their school's rating falls and half the teachers seek transfers",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:SB294": {
+   "plain_topic": "Gun locking devices with school notice provisions; firearms law",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB295": {
+   "plain_topic": "Would have gave every principal their school's full budget and required posting learning materials online",
+   "theme": "spending-oversight",
+   "relevance": "core"
+  },
+  "82:SB308": {
+   "plain_topic": "Would have cut PERS vesting from 10 to 5 years and limited J-1 teacher recruiter fees",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "82:SB313": {
+   "plain_topic": "Would have aligned health-class standards with social-emotional learning and required educator mental-health training",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "82:SB315": {
+   "plain_topic": "Rights for pupils with disabilities in transition services",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "82:SB317": {
+   "plain_topic": "Homeless mailing addresses incl. school enrollment; welfare policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB329": {
+   "plain_topic": "Would have ordered an interim study of school district budgeting and required reports",
+   "theme": "spending-oversight",
+   "relevance": "core"
+  },
+  "82:SB337": {
+   "plain_topic": "Criminal forfeiture; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB339": {
+   "plain_topic": "Money for grants supplying classrooms for teachers and support staff",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:SB340": {
+   "plain_topic": "Would have required district summer school plans with transportation and meals for 2023-24",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "82:SB343": {
+   "plain_topic": "Fentanyl trafficking; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB344": {
+   "plain_topic": "Would have protected public comment at school board meetings, required audits, and set substitute licensing rules",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:SB345": {
+   "plain_topic": "Postsecondary institution licensing; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB347": {
+   "plain_topic": "Higher-education funding commission; postsecondary",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB357": {
+   "plain_topic": "Would have created transportation modernization grants so pupils can reach schools of choice",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "82:SB359": {
+   "plain_topic": "Juvenile community service; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB366": {
+   "plain_topic": "Would have created an expert committee for child personal-safety curriculum standards",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "82:SB38": {
+   "plain_topic": "Made it a felony for school staff to groom or solicit pupils",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "82:SB383": {
+   "plain_topic": "Would have let Clark County cities form municipal school districts",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:SB394": {
+   "plain_topic": "Would have capped economic-development tax abatements at $500,000",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB396": {
+   "plain_topic": "Digital products tax; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB404": {
+   "plain_topic": "Election procedures; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB419": {
+   "plain_topic": "Health information exchange; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB425": {
+   "plain_topic": "Created the Commission on Innovation and Excellence in Education to benchmark and plan, with money",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:SB428": {
+   "plain_topic": "Diaper sales-tax ballot question; Local School Support Tax touched mechanically",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB429": {
+   "plain_topic": "Paid leave conditions on tax abatements; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB431": {
+   "plain_topic": "Governor's office staffing; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB434": {
+   "plain_topic": "Made substitute teachers eligible for public pensions",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "82:SB438": {
+   "plain_topic": "Teacher recruitment, preparation, and retention measures",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:SB439": {
+   "plain_topic": "Communicable disease services; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB442": {
+   "plain_topic": "Enacted the Interstate Teacher Mobility Compact easing licenses for teachers moving to Nevada",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:SB46": {
+   "plain_topic": "Would have replaced empowerment schools with a Program of Empowerment Districts",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:SB47": {
+   "plain_topic": "Would have let districts build or rent housing for teachers and capped license fees",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:SB474": {
+   "plain_topic": "Money for the outdoor education grant program",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "82:SB477": {
+   "plain_topic": "Tourism department administration; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB48": {
+   "plain_topic": "Air pollution penalty proceeds redirected away from school district funds; environment policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB484": {
+   "plain_topic": "Election audit appropriations; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB50": {
+   "plain_topic": "National Guard sales-tax holiday; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB500": {
+   "plain_topic": "Money to replace the education department's computer hardware",
+   "theme": "spending-oversight",
+   "relevance": "adjacent"
+  },
+  "82:SB503": {
+   "plain_topic": "The biennium K-12 funding act for 2023-2025",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "82:SB508": {
+   "plain_topic": "Money for the private-school Opportunity Scholarship program",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "82:SB56": {
+   "plain_topic": "Would have created a Commission on School Modernization to streamline education statutes",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:SB64": {
+   "plain_topic": "Would have added appointed members to county school boards and required district audits",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:SB65": {
+   "plain_topic": "Would have required school board candidates to certify governance training before running",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:SB71": {
+   "plain_topic": "Broadened the teacher retention task force to education support professionals, with money",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "82:SB72": {
+   "plain_topic": "Ordered six interim studies: pupil mental health, teacher workload, licensing, graduation trends and more",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "82:SB79": {
+   "plain_topic": "Would have banned charging fees for access to public school property or employees",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "82:SB80": {
+   "plain_topic": "Required head-injury policies covering classroom effects, not just sports return",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "82:SB84": {
+   "plain_topic": "Would have let teachers keep home addresses confidential in public records",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "82:SB86": {
+   "plain_topic": "Criminal justice provisions; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "82:SB9": {
+   "plain_topic": "Education cleanup: later expenditure-report deadlines, more CTE leadership money, ended end-of-course finals",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "82:SB98": {
+   "plain_topic": "Required grade-level performance metrics, eased stabilization transfers, and funded school-funding studies",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "82:SCR2": {
+   "plain_topic": "Declared April 2023 Financial Literacy Month; resolution",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "83:AB138": {
+   "plain_topic": "Would have required curriculum standards on sexual-abuse awareness and prevention",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:AB139": {
+   "plain_topic": "Money for dual-credit program grants",
+   "theme": "testing-graduation",
+   "relevance": "adjacent"
+  },
+  "83:AB153": {
+   "plain_topic": "FAFSA help for incarcerated people; corrections, not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB154": {
+   "plain_topic": "Would have created an independent statewide Office of the Inspector General",
+   "theme": "spending-oversight",
+   "relevance": "adjacent"
+  },
+  "83:AB155": {
+   "plain_topic": "Would have made class-size and support-staff ratios mandatory subjects of collective bargaining",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:AB156": {
+   "plain_topic": "Would have given Clark County's appointed trustees full rights, set term limits, and curbed workshop votes",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "83:AB165": {
+   "plain_topic": "Created the Outdoor Education Council with school designations",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "83:AB177": {
+   "plain_topic": "Speech-language pathology licensing; health boards",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB184": {
+   "plain_topic": "Interscholastic athletics governance and transfers; sports rules",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB195": {
+   "plain_topic": "Would have empowered appointed Clark County trustees and set term limits",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "83:AB203": {
+   "plain_topic": "Cannabis packaging; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB205": {
+   "plain_topic": "Would have switched sex-education consent from opt-in to opt-out forms",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:AB210": {
+   "plain_topic": "Would have allowed state exams to be taken remotely by distance-education pupils",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "83:AB212": {
+   "plain_topic": "Extended and renamed the virtual early-childhood family engagement program, with money",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "83:AB214": {
+   "plain_topic": "Would have expanded Opportunity Scholarship eligibility, priorities, and tax credits",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "83:AB215": {
+   "plain_topic": "Child labor hour limits; employment law",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB217": {
+   "plain_topic": "Would have barred schools from aiding immigration enforcement without a court order",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "83:AB224": {
+   "plain_topic": "Issued $100 million in state bonds for emergency school-building repairs",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "83:AB232": {
+   "plain_topic": "Full pension credit for school employees at 900 hours across eight months",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "83:AB236": {
+   "plain_topic": "Changed which unions nominate teachers to state education boards",
+   "theme": "accountability-governance",
+   "relevance": "adjacent"
+  },
+  "83:AB238": {
+   "plain_topic": "Film studio tax credits; economic development",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB24": {
+   "plain_topic": "Would have turned the competency-based education pilot into a permanent approval process",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "83:AB240": {
+   "plain_topic": "Would have required school sports teams to be designated by biological sex",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB247": {
+   "plain_topic": "Would have made American Sign Language a world-language course and improved meeting access",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "83:AB257": {
+   "plain_topic": "Money for the Nevada School of the Arts programs",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "83:AB268": {
+   "plain_topic": "Would have funded universal free school breakfast and lunch",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:AB272": {
+   "plain_topic": "Forensic exam payments; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB286": {
+   "plain_topic": "Allowed alternative assessments of teaching competency for licensure",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "83:AB288": {
+   "plain_topic": "Money for White Pine County to build an elementary school",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "83:AB289": {
+   "plain_topic": "College financial literacy course; postsecondary",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB292": {
+   "plain_topic": "Would have required new elementary buildings to include designated pre-K space",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "83:AB298": {
+   "plain_topic": "Would have made full-time school counselors mandatory instead of money-permitting",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:AB307": {
+   "plain_topic": "Would have raised the retail cannabis tax with proceeds tied to the State Education Fund",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "83:AB314": {
+   "plain_topic": "Health-care career pathways and tuition reimbursement; workforce policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB316": {
+   "plain_topic": "Would have added a nonvoting pupil trustee to every county school board",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "83:AB323": {
+   "plain_topic": "Would have required community notice and limits before school closures; eased adding pre-K",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "83:AB327": {
+   "plain_topic": "Would have ordered legislative audits of Vegas PBS and education-department broadcasting grants",
+   "theme": "spending-oversight",
+   "relevance": "adjacent"
+  },
+  "83:AB33": {
+   "plain_topic": "Would have created an Inspector General under the Controller to audit anyone receiving public money",
+   "theme": "spending-oversight",
+   "relevance": "adjacent"
+  },
+  "83:AB335": {
+   "plain_topic": "Required district English-learner administrators, teacher training, and achievement-gap goals in school plans",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:AB34": {
+   "plain_topic": "Sentencing rules; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB345": {
+   "plain_topic": "Required a college-outcomes data dashboard tracking remediation of high school graduates",
+   "theme": "testing-graduation",
+   "relevance": "adjacent"
+  },
+  "83:AB355": {
+   "plain_topic": "Kept school-repair funds from reverting and eased rural capital grants",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "83:AB359": {
+   "plain_topic": "Bullion sales-tax ballot question; Local School Support Tax touched mechanically",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB364": {
+   "plain_topic": "Would have adjusted Opportunity Scholarship rules and tax credits",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "83:AB374": {
+   "plain_topic": "Would have required monthly mental-health workshops for every grade",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:AB383": {
+   "plain_topic": "Set state criteria for vendors of high-impact tutoring programs",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:AB386": {
+   "plain_topic": "Would have let Washoe County pilot an alternative elementary literacy assessment",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "83:AB389": {
+   "plain_topic": "Would have streamlined pupil-performance metrics and had the innovation commission review achievement and financial accountability reports",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "83:AB39": {
+   "plain_topic": "Adjusted charter authority membership and charter renewal requirements",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "83:AB391": {
+   "plain_topic": "Would have required accountability reporting on achievement of chronically absent and substitute-taught pupils",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "83:AB398": {
+   "plain_topic": "Funded extra pay for hard-to-fill teaching positions and curbed weighted-funding diversions",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "83:AB401": {
+   "plain_topic": "Would have ended the college and career readiness assessment as a diploma requirement",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "83:AB406": {
+   "plain_topic": "Banned artificial intelligence from doing counselors' mental-health work in schools",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:AB412": {
+   "plain_topic": "Would have funded school-mapping data grants for law enforcement and camera rules",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "83:AB416": {
+   "plain_topic": "Would have restricted school and public libraries from limiting access to library materials",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "83:AB420": {
+   "plain_topic": "Required annual public reports on use of force by school police",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "83:AB425": {
+   "plain_topic": "Would have gave teachers sole authority over the grades they assign",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "83:AB426": {
+   "plain_topic": "Would have tightened Clark County precinct budgeting votes and organizational team rules",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "83:AB427": {
+   "plain_topic": "State private-equity investments touching the Permanent School Fund; finance",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB432": {
+   "plain_topic": "State security operations center; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB435": {
+   "plain_topic": "Would have created a charter school facility fund with bonds and an optional district property tax",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "83:AB445": {
+   "plain_topic": "Would have shielded school and public library staff from liability for providing access to materials",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "83:AB453": {
+   "plain_topic": "Digital products tax; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB454": {
+   "plain_topic": "Required school heart-emergency response plans and CPR-certified coaches (Smart Heart Law)",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "83:AB460": {
+   "plain_topic": "Guardianship nomination forms; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB462": {
+   "plain_topic": "Industrial park authorities with a school career-coordination clause; economic development",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB464": {
+   "plain_topic": "Would have locked in course standards on genocide and ethnic histories against repeal",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:AB465": {
+   "plain_topic": "Would have gave schools civil immunity for harassment incidents if they enforce required policies",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "83:AB468": {
+   "plain_topic": "Would have extended hospital-school reimbursements to certain private placements",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "83:AB47": {
+   "plain_topic": "Would have sent excess Education Stabilization money to districts for teacher retention, recruitment, and training",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "83:AB472": {
+   "plain_topic": "Limited recruiter fees districts can pay for J-1 and H-1B visa teachers",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "83:AB48": {
+   "plain_topic": "Added screening steps for discrimination and bullying reports with perpetrator transfers",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:AB49": {
+   "plain_topic": "Let out-of-state licensed teachers start work provisionally for up to a year",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "83:AB491": {
+   "plain_topic": "Election administration; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB494": {
+   "plain_topic": "Required contingency plans if federal education laws (IDEA, FERPA, ESSA) are repealed",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "83:AB495": {
+   "plain_topic": "Would have required charter closure or restart after three straight years of low ratings, with a pause until 2027",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "83:AB501": {
+   "plain_topic": "Allowed academic credit for approved outdoor recreational activities",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "83:AB506": {
+   "plain_topic": "Eliminated reports incl. the Legislative Bureau of Educational Accountability; administration",
+   "theme": "accountability-governance",
+   "relevance": "adjacent"
+  },
+  "83:AB508": {
+   "plain_topic": "Would have required Economic Forum estimates for the State Education Fund and revised cannabis-tax routing",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "83:AB516": {
+   "plain_topic": "Would have made Medicaid reimbursement work for health services delivered at schools",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:AB527": {
+   "plain_topic": "Allowed stop-arm cameras on school buses; traffic enforcement",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "83:AB53": {
+   "plain_topic": "Would have required at least 20 minutes of daily outdoor recess in elementary school and banned withholding it for academics or behavior",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:AB531": {
+   "plain_topic": "Would have required a real-time pupil attendance dashboard and a task force on comparative metrics",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "83:AB533": {
+   "plain_topic": "Opened cross-zone school transfers with grant-funded transportation",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "83:AB535": {
+   "plain_topic": "Sales-tax exemption administration; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB538": {
+   "plain_topic": "Tax-credit board procedures; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB539": {
+   "plain_topic": "Authorized career coaches in middle and junior high schools",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:AB546": {
+   "plain_topic": "Would have exempted charter school vehicles from registration fees; administrative",
+   "theme": "charters-choice",
+   "relevance": "adjacent"
+  },
+  "83:AB547": {
+   "plain_topic": "State hiring rules; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB548": {
+   "plain_topic": "Vessel fees; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB571": {
+   "plain_topic": "Money to the education department for surveys, federal-grant offsets, technology, and studies",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "83:AB573": {
+   "plain_topic": "Money to run the Incentivizing Pathways to Teaching grant program",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "83:AB579": {
+   "plain_topic": "Money to replace the educator-licensure computer system",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "83:AB584": {
+   "plain_topic": "Would have created a district-level accountability system with interventions for low-performing districts and streamlined reporting",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "83:AB592": {
+   "plain_topic": "State employee salary act; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB599": {
+   "plain_topic": "Would have tightened Opportunity Scholarship registration, reporting, and carryforward rules",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "83:AB77": {
+   "plain_topic": "Economic-development tax abatement criteria; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AB93": {
+   "plain_topic": "Police-officer benefit definitions including school police; employment benefits",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:AJR9": {
+   "plain_topic": "Resolution urging Congress to keep immigration enforcement out of schools",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "83:SB104": {
+   "plain_topic": "Money for school gardens and other nonprofits",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "83:SB112": {
+   "plain_topic": "Would have required school sports teams designated by biological sex",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB115": {
+   "plain_topic": "Allowed stipends for bilingual-education teachers",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "83:SB131": {
+   "plain_topic": "Would have required human-trafficking prevention instruction standards for grades 6-12",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:SB135": {
+   "plain_topic": "Money for Communities In Schools integrated student supports",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:SB15": {
+   "plain_topic": "Local government administration; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB161": {
+   "plain_topic": "Added binding arbitration paths for teacher bargaining and limited unpaid extra work",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "83:SB172": {
+   "plain_topic": "Agricultural workers' rights; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB174": {
+   "plain_topic": "Would have required policies letting pupils with disabilities receive private medical services at school",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:SB175": {
+   "plain_topic": "Let certified military JROTC instructors earn teaching endorsements",
+   "theme": "teacher-workforce",
+   "relevance": "adjacent"
+  },
+  "83:SB176": {
+   "plain_topic": "Would have piloted paying certified nursing assistant exam costs for CTE pupils, with money",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:SB177": {
+   "plain_topic": "Protected homeless and foster pupils in discipline with meetings and alternative placements",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:SB178": {
+   "plain_topic": "Contingent money for a Las Vegas community facility; not school policy",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB181": {
+   "plain_topic": "University license plates; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB192": {
+   "plain_topic": "Health care requirements; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB196": {
+   "plain_topic": "Heavy equipment fees; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB199": {
+   "plain_topic": "Artificial intelligence regulation; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB21": {
+   "plain_topic": "Adjusted the outdoor education grant program's advisory board",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "83:SB216": {
+   "plain_topic": "Money to United Citizens Foundation for K-12-related services",
+   "theme": "student-supports",
+   "relevance": "adjacent"
+  },
+  "83:SB220": {
+   "plain_topic": "Film tax credits with an education-diversification label; economic development",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB224": {
+   "plain_topic": "Would have required shared instructional models and conversion of the lowest-rated schools to Department charters",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "83:SB226": {
+   "plain_topic": "Interim committee mechanics touching a teacher task force; process",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB227": {
+   "plain_topic": "Would have enacted the School Psychologist Interstate Licensure Compact",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "83:SB229": {
+   "plain_topic": "Would have extended financial-literacy instruction to the earliest grades and refined the state seal",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:SB245": {
+   "plain_topic": "Would have created the Advisory Council on Civics Education and funded civics awards",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:SB248": {
+   "plain_topic": "Would have required every school to post a public catalog of library and instructional materials",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:SB252": {
+   "plain_topic": "Would have created education savings accounts funded by tax-credit donations",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "83:SB253": {
+   "plain_topic": "Would have funded charter facilities per pupil and posted top-10 school rankings",
+   "theme": "charters-choice",
+   "relevance": "core"
+  },
+  "83:SB254": {
+   "plain_topic": "Would have required a model policy for screening pupils' behavioral, social, and emotional well-being",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:SB255": {
+   "plain_topic": "Would have required school-climate and exit surveys of school staff",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "83:SB259": {
+   "plain_topic": "Would have narrowed a county sales tax away from early childhood and teacher-incentive uses",
+   "theme": "school-funding",
+   "relevance": "adjacent"
+  },
+  "83:SB272": {
+   "plain_topic": "Sports transfer eligibility appeals; athletics",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB277": {
+   "plain_topic": "Required school social workers where money allows and eased their licensure pipeline",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:SB278": {
+   "plain_topic": "Improved licensure access and dropped local assessments from Read by Grade 3 deficiency decisions",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "83:SB314": {
+   "plain_topic": "Would have aligned health standards with social-emotional learning and required teacher mental-health training",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:SB318": {
+   "plain_topic": "Would have required charter schools to document public-works compliance for construction over $100,000",
+   "theme": "charters-choice",
+   "relevance": "adjacent"
+  },
+  "83:SB328": {
+   "plain_topic": "Would have required accountability reporting on broken school air conditioning and school-level salary budgets",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "83:SB331": {
+   "plain_topic": "Would have set complaint procedures for discrimination reports and strengthened family-engagement policy",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:SB343": {
+   "plain_topic": "4-H and cooperative extension; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB351": {
+   "plain_topic": "Would have double-weighted growth of the lowest-scoring pupils in school ratings",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "83:SB357": {
+   "plain_topic": "Would have required Braille and assistive-technology standards for visually impaired pupils",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:SB368": {
+   "plain_topic": "Would have kept federal special-education law in force in Nevada if Congress repeals it",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:SB374": {
+   "plain_topic": "Would have required staff training on discipline and a system to flag disproportionate discipline",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:SB38": {
+   "plain_topic": "Let emergency managers share school emergency plans with public-safety agencies",
+   "theme": "facilities-operations",
+   "relevance": "adjacent"
+  },
+  "83:SB383": {
+   "plain_topic": "Juvenile community service; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB385": {
+   "plain_topic": "Would have tied tax abatements to workforce development plans; economic development",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB392": {
+   "plain_topic": "Digital products tax; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB396": {
+   "plain_topic": "Would have required literacy-instruction training and capped special-education class loads",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:SB400": {
+   "plain_topic": "Guaranteed comparable services for transferring pupils with disabilities and eased music and art teacher rules",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:SB403": {
+   "plain_topic": "Would have created a metrics subcommittee, expanded competency-based learning, and allowed alternative schedules",
+   "theme": "testing-graduation",
+   "relevance": "core"
+  },
+  "83:SB411": {
+   "plain_topic": "Would have repealed the six-year consultant reviews of district financial management",
+   "theme": "spending-oversight",
+   "relevance": "core"
+  },
+  "83:SB418": {
+   "plain_topic": "Pension contribution collections; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB430": {
+   "plain_topic": "Would have given tax credits for at-cost starter homes; housing policy, Local School Support Tax touched mechanically",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB444": {
+   "plain_topic": "Required school cellphone policies with progressive discipline and instructional-time limits",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:SB445": {
+   "plain_topic": "Required archiving and destroying pupil data after graduation",
+   "theme": "spending-oversight",
+   "relevance": "adjacent"
+  },
+  "83:SB446": {
+   "plain_topic": "Would have adjusted work-based learning eligibility and volunteer background checks",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:SB448": {
+   "plain_topic": "Money to Workforce Connections for a youth program",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB45": {
+   "plain_topic": "Refocused career and technical education grants on advanced courses and eased reporting",
+   "theme": "classroom-time-content",
+   "relevance": "core"
+  },
+  "83:SB460": {
+   "plain_topic": "Required elementary achievement plans with consequences for principals and created a Public Education Oversight Board",
+   "theme": "accountability-governance",
+   "relevance": "core"
+  },
+  "83:SB461": {
+   "plain_topic": "Economic development abatements; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB468": {
+   "plain_topic": "Money for charter school pupil transportation",
+   "theme": "charters-choice",
+   "relevance": "adjacent"
+  },
+  "83:SB470": {
+   "plain_topic": "Money for the Account for Charter Schools",
+   "theme": "charters-choice",
+   "relevance": "adjacent"
+  },
+  "83:SB471": {
+   "plain_topic": "Would have changed how the Governor budgets the State Education Fund baseline",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "83:SB473": {
+   "plain_topic": "Money to replace education-department computers and chairs; administration",
+   "theme": "spending-oversight",
+   "relevance": "adjacent"
+  },
+  "83:SB48": {
+   "plain_topic": "Regional planning timelines; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB500": {
+   "plain_topic": "The biennium K-12 funding act for 2025-2027: per-pupil base and weighted funding",
+   "theme": "school-funding",
+   "relevance": "core"
+  },
+  "83:SB506": {
+   "plain_topic": "Money for charter school employee salary increases through the charter authority",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "83:SB52": {
+   "plain_topic": "Refined English-learner counting, long-term learner definitions, and Read by Grade 3 exemptions",
+   "theme": "student-supports",
+   "relevance": "core"
+  },
+  "83:SB57": {
+   "plain_topic": "Body camera rules including school police; law enforcement administration",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB58": {
+   "plain_topic": "Would have widened who counts for state pre-K grants and tied grant size to per-pupil funding",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "83:SB59": {
+   "plain_topic": "Would have banned grooming by school staff and created license holds for accused educators",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "83:SB71": {
+   "plain_topic": "Government purchasing; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB74": {
+   "plain_topic": "Election procedures; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB78": {
+   "plain_topic": "Boards and commissions consolidation; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB81": {
+   "plain_topic": "Required school-climate and exit surveys of school employees, with hospital-school reimbursement changes",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "83:SB82": {
+   "plain_topic": "Would have created an Office of Early Childhood Services in the Governor's Office",
+   "theme": "early-learning-reading",
+   "relevance": "core"
+  },
+  "83:SB89": {
+   "plain_topic": "Firearms after hate crimes; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  },
+  "83:SB90": {
+   "plain_topic": "Money for grants supplying classrooms for teachers and support staff",
+   "theme": "teacher-workforce",
+   "relevance": "core"
+  },
+  "83:SB98": {
+   "plain_topic": "Would have renamed world languages 'languages other than English' and studied endorsement rules",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "83:SCR4": {
+   "plain_topic": "Declared April 2025 Financial Literacy Month; resolution",
+   "theme": "classroom-time-content",
+   "relevance": "adjacent"
+  },
+  "83:SCR5": {
+   "plain_topic": "Antimicrobial resistance resolution; not K-12",
+   "theme": "context",
+   "relevance": "context"
+  }
+ }
+}

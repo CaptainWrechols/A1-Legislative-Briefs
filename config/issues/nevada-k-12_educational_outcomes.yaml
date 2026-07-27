@@ -1,0 +1,332 @@
+state: nevada
+issue_id: nevada-03-k-12-educational-outcomes
+issue_title: "K-12 Educational Outcomes in Nevada"
+issue_slug: k-12_educational_outcomes
+openstates_jurisdiction: Nevada
+
+# OpenStates session ids: 80=2019, 81=2021, 82=2023, 83=2025
+sessions:
+  - label: "2019"
+    openstates_identifier: "80"
+    name: "80th (2019) Session"
+  - label: "2021"
+    openstates_identifier: "81"
+    name: "81st (2021) Session"
+  - label: "2023"
+    openstates_identifier: "82"
+    name: "82nd (2023) Session"
+  - label: "2025"
+    openstates_identifier: "83"
+    name: "83rd (2025) Session"
+
+# NELIS full-text search terms. Every NELIS hit is kept and tagged with the
+# terms that found it; the relevance filter is only a review flag. The LCB
+# Subject Index harvest (pass1_subject_index.py) carries the bulk of
+# discovery for this issue: the K-12 heading family (EDUCATION, SCHOOL
+# PUPILS, SCHOOL PERSONNEL, SCHOOL FINANCES AND FUNDS, SCHOOLS PUBLIC/
+# CHARTER, SUPERINTENDENT OF PUBLIC INSTRUCTION, ...) is far larger than the
+# water or housing families, so keyword terms here stay proposal-focused.
+search_terms:
+  # Core K-12 vocabulary (Nevada statute says "pupil", not "student")
+  - pupil
+  - teacher
+  - "public schools"
+  - "school district"
+  - "charter school"
+  # Funding and classroom spending (proposals 1 and 2)
+  - "per pupil"
+  - "pupil-centered funding"
+  - "State Education Fund"
+  - "education funding"
+  - "inspector general"
+  # Recess and guaranteed instructional minutes (proposal 3)
+  - recess
+  - "physical education"
+  - "instructional time"
+  # Classroom technology (proposal 4)
+  - "educational technology"
+  # Pre-K and early childhood (proposal 5)
+  - kindergarten
+  - prekindergarten
+  - "early childhood"
+  # Administrators and superintendents (proposal 6)
+  - superintendent
+  # Teacher pay, shortage, class size (proposal 7)
+  - "class size"
+  - "teacher salaries"
+  # Assessment and growth measurement (proposal 8)
+  - "achievement of pupils"
+  - "college and career readiness"
+  # Read by Grade 3 (proposal 9)
+  - "read by grade"
+  - literacy
+  # School-based mental health and integrated supports (proposal 10)
+  - "school counselor"
+  - "school social worker"
+  - "school psychologist"
+  - "school-based"
+  - "safe-to-tell"
+
+# Words that mark a title/digest as clearly on-topic (review flag only;
+# nothing is dropped). Read by collectors/pass1_bills.py. Space-prefixed
+# entries avoid substring traps.
+relevance_terms:
+  - pupil
+  - "public school"
+  - "school district"
+  - "charter school"
+  - teacher
+  - kindergarten
+  - prekindergarten
+  - "early childhood"
+  - classroom
+  - literacy
+  - "read by grade"
+  - recess
+  - "physical education"
+  - "superintendent of public instruction"
+  - "class size"
+  - "school counselor"
+  - "school social worker"
+  - "school psychologist"
+  - "state education fund"
+  - "board of education"
+  - "department of education"
+
+# Phase 2 Community Conversation statements (June-July 2026): the ten most
+# common citizen statements on K-12 educational outcomes, from the RAG
+# constituent-voice dataset ("NV1 - RAG - Phase 2 Constituent Input",
+# NV1 - Education sheet). Used by the pipeline to cross-reference citizen
+# input against legislative history. "Most popular" reflects how frequently
+# and forcefully proposals recurred across tables, not a formal vote.
+constituent_proposals:
+  - id: classroom-spending-audit
+    title: "Audit spending and direct more funding to the classroom"
+    detail: >-
+      A verifiable, external audit and evaluation process so resources are
+      directed to the classroom level - teachers, student supplies,
+      classroom learning - rather than administration. Participants said
+      the state currently audits itself: there is no inspector general to
+      go to the schools, auditing is done by the Education Department, not
+      an outside agency, and reported spending figures were described as
+      questionable.
+    consensus: >-
+      Strong consensus. One group agreed on a verifiable audit and
+      evaluation process with no disagreements; Carson City participants
+      supported reapportioning per-pupil funding so the highest percentage
+      goes to classroom learning, teachers, and student supplies. Concern
+      centered on difficulty of capture, not the goal.
+    tradeoffs: >-
+      Spending is hard to verify - without an external audit "you will
+      always have the possibility of some level of financial corruption,"
+      and one participant felt the data would be very hard to capture.
+    match_terms: ["audit", "inspector general", "classroom spending", "financial oversight", "fiscal accountability", "how money is spent"]
+  - id: per-pupil-funding
+    title: "Increase per-pupil funding / raise Nevada above the national average"
+    detail: >-
+      Raise Nevada's per-pupil spending, which participants cited as low -
+      even after a large increase the state is still below the national
+      average, with a roughly $2,000 gap cited as something to work on
+      closing.
+    consensus: >-
+      Mixed. Some strongly supported closing the gap below the national
+      average; others were skeptical money is the core problem ("we need
+      less funding for administrators") or argued the deeper issue is
+      priorities and political will, since there is plenty of money in the
+      state held in very few hands.
+    tradeoffs: >-
+      Where new revenue comes from - elected officials are reluctant to
+      vote for a tax increase for fear it will be used against them on the
+      ballot; money alone was not seen as a fix for everything.
+    match_terms: ["per-pupil", "per pupil", "pupil-centered funding", "state education fund", "education funding", "school funding"]
+  - id: recess-instructional-minutes
+    title: "Mandate/protect recess and guaranteed instructional minutes (PE, art, social studies)"
+    detail: >-
+      Have the state prescribe instructional minutes guaranteeing adequate
+      PE, art, recess, social studies and science so students have an
+      equitable experience regardless of their zoned school. One
+      participant is actively pursuing a bill she calls "45 to thrive and
+      don't deprive" to mandate recess for young children.
+    consensus: >-
+      High consensus, especially at the Reno table. Disagreement is over
+      scope (which grades) rather than the principle.
+    tradeoffs: >-
+      Enforcement is the central problem - the existing wellness policy
+      has no teeth, so provision varies dramatically site to site; recess
+      is withheld for academic reasons; and requiring the same amount for
+      a 14-year-old as for a 7-year-old may not make sense.
+    match_terms: [recess, "physical education", "instructional minutes", "instruction time", " arts", "social studies", "course of study"]
+  - id: evidence-based-edtech
+    title: "Adopt evidence-based, kid-centered classroom technology policies"
+    detail: >-
+      Intentional, evidence-based, kid-centered tech-use policies:
+      districts spend heavily on ed-tech tools whose benefits have not
+      been shown by peer-reviewed independent research, while
+      kindergartners spend much of the day on iPads wearing headphones.
+      Savings could fund pre-K.
+    consensus: >-
+      Consensus at the Reno table. Some pushback elsewhere acknowledged
+      technology's benefits and favored moderation - being mindful of
+      where technology is beneficial and where it is a detriment.
+    tradeoffs: >-
+      Distinguishing vendor claims from independent proof; technology has
+      real benefits in moderation, so the line is policy design, not
+      prohibition.
+    match_terms: ["educational technology", "classroom technology", "device", "screen", "digital", "media literacy", "cellular phone", "cell phone"]
+  - id: universal-pre-k
+    title: "Universal pre-K and early childhood investment"
+    detail: >-
+      Universal pre-K so early gaps do not compound - children in poverty
+      hear one-fifth as many words before kindergarten, making it hard to
+      get them reading by grade three - and so parents can work. Nevada
+      now has a pre-K department and is working on implementation.
+    consensus: >-
+      Broad support; no opposition appears in the excerpts. The state
+      superintendents' top priority was cited: five things they want all
+      districts to pass, the first being pre-K for all kids.
+    tradeoffs: >-
+      Implementation is still developing; it was floated as a use of
+      ed-tech savings, which ties its funding to another proposal.
+    match_terms: ["pre-k", "prekindergarten", "early childhood", "preschool", "kindergarten"]
+  - id: administrator-accountability
+    title: "Strengthen accountability for administrators and superintendents"
+    detail: >-
+      Hold administrators and superintendents accountable for outcomes -
+      options raised included linking administrative compensation to
+      outcomes and an annual, honest "state of the school" report showing
+      where money is spent and where results improved or slid. Anger
+      focused on superintendent pay and turnover (one made $485,000 and
+      left after about a year and a half) and on Clark County paying
+      administrators by student count, so a good principal moves to a
+      bigger school - "pass the trash."
+    consensus: >-
+      Consensus that accountability is needed, with disagreement over
+      method; a caution was added that consequences should not come at the
+      expense of the school.
+    tradeoffs: >-
+      Measurement is difficult and self-serving reporting is unlikely;
+      "there's always a problem determining merit."
+    match_terms: [superintendent, principal, administrator, "school board", "board of trustees"]
+  - id: teacher-pay-shortage
+    title: "Increase teacher pay, support, and address the teacher shortage"
+    detail: >-
+      Raise teacher pay and support so teachers can afford to live where
+      they teach; address the shortage that leaves students with
+      substitute teachers (one student had eight classes, six with
+      substitutes) and pay that lags neighboring California.
+    consensus: >-
+      Support tempered by political realism - legislators would have a
+      hard time debating more money because they just raised teacher pay
+      last session.
+    tradeoffs: >-
+      Cost of living makes retention hard even with raises; smaller
+      classes conflict with the shortage, since making classrooms smaller
+      runs into the fact that there is a teacher shortage.
+    match_terms: ["teacher pay", "teacher salar", "salaries of teachers", "teacher shortage", "teacher retention", "recruit", "class size", "substitute", "educational personnel", "collective bargaining"]
+  - id: growth-based-assessment
+    title: "Measure student growth rather than fixed proficiency; broaden assessment beyond core testing"
+    detail: >-
+      Measure the "delta" - improvement rather than functioning, so a
+      child who moves from second- to fourth-grade level did better than
+      one who moved second to third - and add measures for
+      social-emotional learning and life-skills development, giving
+      broader approaches equal weight to core subjects. Participants
+      supported pursuing two bills on this.
+    consensus: >-
+      Consensus favored measuring growth; support for adding a
+      social-emotional learning and life-skills score.
+    tradeoffs: >-
+      Standardized testing was called unfair to teachers whose students
+      start behind grade level, but reading and math remain critical
+      skills that still must be assessed.
+    match_terms: [assessment, examination, proficiency, "pupil growth", "growth model", accountability, "social-emotional", "life skills"]
+  - id: read-by-grade-three
+    title: "Reform read-by-grade-three: reinstate retention, drop online assessment"
+    detail: >-
+      Revisit the Read by Grade 3 law: repeal the online assessment
+      requirement while keeping the reading goal, and reconsider
+      retention, which was removed after teacher associations objected.
+      One participant argued the law has produced no improvement after 10
+      years; participants disagreed whether Mississippi's gains came from
+      retention or phonics.
+    consensus: >-
+      Some consensus on scrapping the online assessment, but disagreement
+      over retention and even the underlying facts (whether Mississippi
+      actually retains students). A cited obstacle: the teachers'
+      association has a lot of power with legislators and resists
+      retention.
+    tradeoffs: >-
+      A sharp factual disagreement over the law's effect; retention was
+      already tried and removed once.
+    match_terms: ["read by grade", literacy, reading, retention, "promotion of pupils"]
+  - id: school-mental-health
+    title: "Add school-based mental health services and integrated student/family supports"
+    detail: >-
+      Expand school-based mental health services and early intervention
+      programs, and increase specialized staff and training. Schools are
+      absorbing needs beyond academics - for some children, school is the
+      only place they eat - while some counselors handle 600 students
+      each and teachers lack their own support.
+    consensus: >-
+      Consensus at the SW Vegas table, which produced bullet points to
+      expand school-based services and specialized staff. One participant
+      warned Nevada is as bad off on mental health as on education, and
+      without resources it will keep getting worse.
+    tradeoffs: >-
+      It puts extra work on the school or agency - "but who else is going
+      to do it?"
+    match_terms: ["mental health", counselor, "social worker", psychologist, "behavioral health", wraparound, "community school", "safe-to-tell", "early intervention"]
+
+# Cross-cutting notes from the same dataset (context for writers, not proposals):
+# - local control is a recurring tension: principal decisions are
+#   district-level, not something legislators can dictate, and "districts
+#   are not going to give up any of their control"
+# - broad agreement that families and parental engagement matter, with
+#   disagreement over how much responsibility rests with schools vs. parents
+# - the two Carson City source documents are near-duplicate transcripts of
+#   the same conversation, so the same points recur across them
+
+nevada_revised_statutes_chapters:
+  - 385
+  - 385A
+  - 387
+  - 388
+  - 389
+  - 391
+  - 392
+
+agency_document_urls:
+  - url: "https://doe.nv.gov/"
+    title: "Nevada Department of Education"
+    source_key: "S1"
+  - url: "https://doe.nv.gov/offices/office-of-district-support-services/commission-on-school-funding"
+    title: "Nevada Commission on School Funding"
+    source_key: "S2"
+  - url: "https://nevadareportcard.nv.gov/"
+    title: "Nevada Report Card - Nevada Accountability Portal"
+    source_key: "S3"
+
+statute_urls:
+  - chapter: 385
+    url: "https://www.leg.state.nv.us/NRS/NRS-385.html"
+    source_key: "S10"
+  - chapter: 385A
+    url: "https://www.leg.state.nv.us/NRS/NRS-385A.html"
+    source_key: "S11"
+  - chapter: 387
+    url: "https://www.leg.state.nv.us/NRS/NRS-387.html"
+    source_key: "S12"
+  - chapter: 388
+    url: "https://www.leg.state.nv.us/NRS/NRS-388.html"
+    source_key: "S13"
+  - chapter: 389
+    url: "https://www.leg.state.nv.us/NRS/NRS-389.html"
+    source_key: "S14"
+  - chapter: 391
+    url: "https://www.leg.state.nv.us/NRS/NRS-391.html"
+    source_key: "S15"
+  - chapter: 392
+    url: "https://www.leg.state.nv.us/NRS/NRS-392.html"
+    source_key: "S16"
+
+impact_lookback_years: 20
