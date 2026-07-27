@@ -131,6 +131,18 @@ def add_rich_text(p, text: str, size=9.0, color=BODY, bold_color=NAVY):
             set_font(run, size, color)
 
 
+def _is_explainer(line: str) -> bool:
+    """Full-line single-asterisk italics used as section explainers."""
+    s = line.strip()
+    return (
+        len(s) > 2
+        and s.startswith("*")
+        and s.endswith("*")
+        and not s.startswith("**")
+        and not s.endswith("**")
+    )
+
+
 def parse_markdown(md_path: Path):
     text = md_path.read_text(encoding="utf-8")
     if text.startswith("---"):
@@ -156,6 +168,8 @@ def parse_markdown(md_path: Path):
             if j < len(lines) and not lines[j].startswith("#"):
                 subtitle = lines[j].strip()
                 i = j
+        elif line.startswith("### ") and current is not None:
+            current["items"].append(("h3", line[4:].strip()))
         elif line.startswith("## "):
             current = {"heading": line[3:].strip(), "items": []}
             sections.append(current)
@@ -167,9 +181,17 @@ def parse_markdown(md_path: Path):
             break
         elif line.strip().startswith("- ") and current is not None:
             current["items"].append(("bullet", line.strip()[2:].strip()))
+        elif _is_explainer(line) and current is not None:
+            current["items"].append(("explainer", line.strip()[1:-1].strip()))
         elif line.strip() and current is not None:
             block = [line.strip()]
-            while i + 1 < len(lines) and lines[i + 1].strip() and not lines[i + 1].startswith(("#", "- ")) and lines[i + 1].strip() != "---":
+            while (
+                i + 1 < len(lines)
+                and lines[i + 1].strip()
+                and not lines[i + 1].startswith(("#", "- "))
+                and lines[i + 1].strip() != "---"
+                and not _is_explainer(lines[i + 1])
+            ):
                 i += 1
                 block.append(lines[i].strip())
             current["items"].append(("para", " ".join(block)))
@@ -239,23 +261,38 @@ def main() -> None:
         add_rich_text(p, subtitle, size=8.8, color=BODY)
 
     for sec in sections:
-        p = para(doc, before=6, after=3)
+        p = para(doc, before=5, after=2.5)
         run = p.add_run(sec["heading"].upper())
         set_font(run, 10.5, TERRACOTTA, bold=True, spacing_pts=1.0)
         bullets = [t for kind, t in sec["items"] if kind == "bullet"]
-        if sec["heading"].strip().lower() == "key numbers" and bullets:
+        if sec["heading"].strip().lower().startswith("key numbers") and bullets:
+            for kind, text in sec["items"]:
+                if kind == "explainer":
+                    p = para(doc, after=3)
+                    add_rich_text(p, text, size=8.0, color=MUTED)
+                    for run in p.runs:
+                        run.font.italic = True
             build_stat_strip(doc, bullets)
             continue
         for kind, text in sec["items"]:
-            if kind == "bullet":
-                p = para(doc, after=2.5)
+            if kind == "h3":
+                p = para(doc, before=3.5, after=1.5, line=1.04)
+                run = p.add_run(text)
+                set_font(run, 9.2, NAVY2, bold=True)
+            elif kind == "explainer":
+                p = para(doc, after=2.5, line=1.04)
+                add_rich_text(p, text, size=7.8, color=MUTED)
+                for run in p.runs:
+                    run.font.italic = True
+            elif kind == "bullet":
+                p = para(doc, after=2.5, line=1.04)
                 p.paragraph_format.left_indent = Pt(10)
                 run = p.add_run("▪  ")
                 set_font(run, 8, TERRACOTTA)
-                add_rich_text(p, text)
+                add_rich_text(p, text, size=8.5)
             else:
-                p = para(doc, after=4, align=WD_ALIGN_PARAGRAPH.JUSTIFY)
-                add_rich_text(p, text)
+                p = para(doc, after=3.2, align=WD_ALIGN_PARAGRAPH.JUSTIFY, line=1.04)
+                add_rich_text(p, text, size=8.5)
 
     if footline:
         p = para(doc, before=8, after=0)
