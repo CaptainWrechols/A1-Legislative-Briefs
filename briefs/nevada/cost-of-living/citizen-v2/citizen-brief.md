@@ -2,62 +2,92 @@
 issue_id: nevada-02-cost-of-living
 issue_title: "The Rising Cost of Living in Nevada: Health Care"
 brief_type: citizen-front-brief
-version: citizen-v1.0
+version: citizen-v2.0
 organization: The Nevada Forum
 generated_by: citizen-brief-writer v2.3
-date: 2026-07-26
+date: 2026-07-27
 status: READY FOR HUMAN REVIEW
 ---
 
 # The Rising Cost of Living in Nevada: Health Care
 
-The legislative record behind Nevadans' ten most common healthcare-cost proposals, 2019–2025.
+The legislative record behind Nevadans' ten most common healthcare-cost proposals, 2019–2025 — organized by how far each idea has traveled toward law.
 
-## The legislative landscape
+## What this brief covers and how it is organized
 
-Nevada's Legislature took up 409 healthcare-cost bills across its 2019, 2021, 2023, and 2025 sessions; 221 became law. The record has a distinctive shape: bills die early and quietly, then pass overwhelmingly when they pass — 187 of the 221 laws carried a unanimous floor vote in at least one chamber, while 95 bills died in their first committee, concentrated in the four health and commerce committees. The exceptions define the politics. All fifteen vetoes in the set fall in 2023 and 2025, aimed at bills that cap prices, curb medical-debt collection, or constrain insurer decision tools. And 2025, the biggest session in the record, ended with two major bills dying in the final-day amendment shuttle after passing both houses — one of which, the provider-shortage grant program, came back three months later and passed in the November special session.
+Nevada's Legislature took up 409 healthcare-cost bills across its 2019, 2021, 2023, and 2025 sessions, and 221 became law — the deepest well of enacted precedent of any issue The Forum has mapped, and most of it consensus law (see Key numbers). Bills that fall short mostly stop early and quietly, and the most consequential recent losses were late-stage timing accidents — one returned three months after its final-day death and passed in the November 2025 special session. The sections below sort the record by distance traveled: bills that passed both chambers, then bills with a winning vote behind them, then settled law and its openings, then routes with no traction yet — with notes on momentum, federal overlap, and sponsors.
 
-## Key numbers
+## Key numbers: how far healthcare-cost proposals have traveled
 
-- **409** healthcare-cost bills, 2019–2025
+*Each figure below is unpacked, bill by bill, in the section it points to.*
+
+- **409** healthcare-cost bills taken up, 2019–2025
 - **221** became law
-- **15** vetoes — all in 2023 and 2025
-- **95** died in their first committee
-- **3** first-committee deaths for the Nurse Licensure Compact — 2021, 2023, and 2025 — while four other professions' compacts passed unanimously
+- **187** of those laws passed with a unanimous floor vote in at least one chamber
+- **42–0** Assembly vote on SB316 (2025), the PBM bill that died awaiting final concurrence
+- **4 of 5** health-profession licensure compacts enacted — every one except nursing
 
-## Proposals with no bill on record
+## Closest to law: bills that passed both chambers and stopped at the last step
 
-**Splitting emergency-room from urgent-care billing.** The model participants designed — separate ER and urgent-care billing so minor issues don't incur ER charges, rotating physicians, a state-paid physician in each county — has never been filed. What exists sits at the edges: AB469 (2019) limits what out-of-network providers can bill patients for emergency care, SB497 (2023) built the arbitration system for those disputes, AB317 (2019) made off-campus ER and urgent-care sites carry distinct provider identifiers, and AB277 (2023) let small 24/7 rural emergency hospitals operate, 41–0 and 21–0. The bills that tried to control what emergency facilities charge died early both times — AB85 (2023) on the origin floor, AB349 (2025) in its first committee. Telehealth, the other access lever participants debated, is settled law (SB5 of 2021, SB119 of 2023).
+*These bills assembled majorities in both houses; only a veto or the session clock separated them from statute — the record's most advanced unfinished work.*
 
-**Network accuracy and faster credentialing.** No bill in this record sets credentialing deadlines for insurers, audits directory accuracy, or defines when a panel is "full." The one direct law is SB234 (2019), which standardized the letters insurers send when rejecting a provider from a network and required trend reporting, 21–0 and 39–0; SB494 (2023) funded centralized credentialing systems for Medicaid. The two adjacent attempts, both from Senator Joseph Hardy (R), stopped short — SB290 (2019) in its first committee, SB90 (2021) in the Assembly after a 21–0 Senate vote.
+### Passed both chambers, lost to the clock
 
-## Proposals that reached the Legislature and stalled
+**Comprehensive PBM regulation — SB316 (2025).** Passed the Senate 18–2 and the Assembly 42–0, then died on the session's final day without concurrence on the last amendment. No pharmacy-benefit-manager bill has ever lost a floor vote in this record; this one came within a procedural step of statute. The 2023 version, SB352, passed the Senate 21–0 before dying in the Assembly — the design strengthens every session.
 
-**The Nurse Licensure Compact.** Nevada passes licensure compacts — for other professions. The physical therapy compact (SB186 of 2019, re-enacted as AB248 of 2025), the EMS personnel compact (AB158, 2023), and the audiology and speech-language compact (AB230, 2025) all passed with unanimous or near-unanimous floor votes, and dental-hygienist licensure by endorsement passed 42–0 and 21–0 (AB334, 2025). The nurse compact citizens named has been filed three times and never reached a floor vote: AB142 (2021) and AB108 (2023) died in Assembly Commerce and Labor, and in 2025 it was folded into SB34, a five-compact omnibus that died in Senate Commerce and Labor while two of its compacts passed as separate bills. The physician compact has been in Nevada statute since before this record; SB124 (2025), easing foreign medical graduates' path to full licensure, passed 41–0 and 21–0.
+**The provider-shortage grant program — SB434 (2025) — already converted.** It passed 18–2 and 42–0, died on the last day without Senate concurrence in the final amendment, and was enacted three months later as SB5 of the 36th (2025) Special Session, 15–6 and 37–0 — proof that a clock death is not a policy defeat.
 
-**Regulating pharmacy benefit managers.** No PBM bill has ever lost a floor vote in this record — the designs die everywhere else. In law: the 2019 ban on gagging pharmacists about cheaper options (AB141), Medicaid drug-rebate pass-through (SB378, 2019), 340B protections (AB434, 2023), and a single state-contracted PBM for all Medicaid prescriptions (SB389 of 2025, 41–0 and 18–2, carried by a Democrat–Republican team). The comprehensive regulation kept stopping late: SB352 (2023) passed the Senate 21–0 and died in the Assembly, and SB316 (2025) passed the Senate 18–2 and the Assembly 42–0, then died on the session's final day without concurrence on the last amendment. Licensing designs died in first committees in 2021 and 2025.
+### Vetoed at the governor's desk
 
-**Raising reimbursement rates across the board.** The record splits by scope. Targeted Medicaid raises pass, usually unanimously: autism behavior-technician rates (SB96, 2021), the provider-assessment mechanism that funds higher Medicaid payments without General Fund money (SB435, 2023), children's cancer clinic rates (SB221, 2023), family-caregiver pay (SB185, 2025), and mental-health training-clinic rates (SB353, 2025). Every broad reform died at the money stage without a floor vote: the study of paying rates that reflect actual provider costs (AB116, 2019), the rate-review overhaul (AB99, 2023), across-the-board children's rate raises twice (SB255 of 2023 and SB239 of 2025, both from Senator Carrie Buck, R), and 2025's substance-use and mental-health rate bills. In the 31st (2020) Special Session, AB3 cut appropriations across the Department of Health and Human Services, 36–6 and 21–0. Medicare and Tricare rates — the examples participants used — are federal and appear in no Nevada bill.
+All fifteen vetoes in this record fall in 2023 and 2025, each attached to a specific kind of bill: capping drug prices at Medicare-negotiated levels, limiting medical-debt collection tactics, banning forced arbitration in health policies (vetoed after a 42–0 Assembly vote), and constraining insurer decision tools — most recently **SB128 (2025)**, barring insurers from relying solely on artificial intelligence to deny prior-authorization requests, passed 23–16 and 15–6, vetoed. Each design has a proven floor majority; the desk is the one recorded obstacle.
 
-## Where precedent exists
+## Demonstrated support: bills that cleared one chamber or a committee
 
-**Growing the overall provider supply.** The largest supply bill in the record is now law, three months late. SB434 (2025) created the Statewide Health Care Access and Recruitment Grant Program — competitive grants against critical provider shortages — passed the Senate 18–2 and the Assembly 42–0, and died on the last day when the Senate did not concur in the final amendment. The 36th (2025) Special Session enacted the same program as SB5, 15–6 and 37–0, under the new Nevada Health Authority. Around it: Health Service Corps funding passed in 2019 and 2021, dental therapy became a licensed profession in 2019, and workforce-data laws passed in 2021. The 2025 workforce-needs assessment (SB495) passed the Senate 13–8 and died in the Assembly.
+*Each bill here won a recorded majority — in committee or on a floor — before stalling: the strongest signal short of passage.*
 
-**Funding residencies and medical education.** A state residency-grant program is in statute: SB350 (2023) created grants for new and expanded physician residency programs, 21–0 and 40–0, and SB262 (2025) revised it unanimously — both carried by Senator Julie Pazina (D). The competing design, tax credits for businesses that donate to residency programs, died on the Senate floor twice (SB369 of 2023 and SB269 of 2025, both from Senator Robin Titus, R), and the 2019 direct appropriation died in its first committee.
+**Network accuracy and credentialing — SB90 (2021).** Senator Joseph Hardy's (R) bill passed the Senate 21–0 and died in the Assembly; his SB290 (2019) had died in its first committee. What is law is adjacent: SB234 (2019) standardized network-rejection letters with trend reporting, 21–0 and 39–0, and SB494 (2023) funded centralized Medicaid credentialing. No bill yet sets credentialing deadlines, audits directory accuracy, or defines a "full" panel.
 
-**Loan forgiveness for providers who stay.** Participants described this as not yet drafted; it is Nevada's most consistently enacted recruitment tool. The Health Service Corps — loan repayment for providers committing to underserved areas — was funded in 2019 (SB289) and 2021 (SB233), both carried by Senator Joseph Hardy (R). AB45 (2023) created a broader loan-repayment program for providers in underserved communities, 41–0 and 21–0, and the 2025 session widened eligibility twice (AB269, 40–2 and 21–0; SB266, 42–0 and 21–0). The larger-money versions died at committee and floor money stages in 2019, 2021, and 2023 — never on a vote against them.
+**Two more 2025 bills won votes and stalled.** SB495, the workforce-needs assessment, passed the Senate 13–8 and died in the Assembly; AB290, the prior-authorization bill participants remembered, cleared its first committee, was re-referred, and died at session's end — while the general reform, AB463, became law the same session (see below).
 
-**Limiting prior authorization.** The general reform passed in 2025: AB463 tightened prior-authorization rules and deadlines for private insurers, Medicaid, and the Children's Health Insurance Program, 42–0 and 20–0. The AI piece did not survive: SB128, barring insurers from relying solely on artificial intelligence to deny prior-authorization requests, passed the Assembly 23–16 and the Senate 15–6 and was vetoed. AB290 — the bill participants remembered — cleared its first committee, was re-referred, and died at session's end; three other 2025 attempts, two of them Republican-led, died in first committees, as did all three 2019 bills. Step-therapy limits passed unanimously in 2023 (SB167, SB194).
+## Already law — and the openings around it
 
-**Insurance pooling for small businesses and groups.** Nevada has legislated around this idea in every direction except the any-group design participants sketched, which has never been filed. SB481 (2019) set state rules for association health plans and self-funded multiple-employer arrangements, unanimously. SB396 (2021) let public agencies pool with private entities to buy prescription drugs and medical supplies. The biggest structure is the Public Option (SB420, 2021), a state-designed plan any Nevadan can buy — the record's rare party-divided enactment, 12–9 in the Senate and 26–15 in the Assembly. The employer-based coverage structure participants called the key obstacle is federal law, which no state bill reaches.
+*Fresh statutes mark ground unlikely to be revisited soon — and the lanes where the Legislature keeps building.*
 
-## The political terrain
+### Recently settled ground (2025 session)
 
-Most healthcare-cost bills come from named lawmakers — 270 of 409, against 139 from committees. Senator Pat Spearman (D) is the most frequent primary sponsor (21 bills, coverage and drug purchasing), followed by Senator Joseph Hardy (R, 19 — the Health Service Corps line), Senator Melanie Scheible (D, 18 — the PBM bills, including the enacted SB389), and Senators Cannizzaro (D), Lange (D), Stone (R), and Doñate (D) at 16 each. Cross-party sponsor teams appear on 54 policy bills and 36 became law, clustering exactly where citizens' proposals sit: PBM, compact, and rate bills. First-committee deaths concentrate in Senate Health and Human Services (22), Assembly Commerce and Labor (21), Senate Commerce and Labor (19), and Assembly Health and Human Services (16). The vetoes are new and specific: all fifteen fall in 2023 and 2025, on bills that capped drug prices at Medicare-negotiated levels, limited medical-debt collection tactics, banned forced arbitration in health policies (after a 42–0 Assembly vote), or constrained insurer decision tools like AI denials.
+AB463 set prior-authorization rules and deadlines across private insurance, Medicaid, and CHIP, 42–0 and 20–0. SB389 put all Medicaid prescriptions under a single state-contracted PBM, 41–0 and 18–2, carried by a Democrat–Republican team. SB262 revised the residency-grant program; AB269 (40–2, 21–0) and SB266 (42–0, 21–0) expanded provider loan repayment. SB124 eased foreign medical graduates into full licensure, 41–0 and 21–0. AB230 and AB248 enacted the audiology/speech-language and physical therapy compacts; AB334 eased dental-hygienist endorsement, 42–0 and 21–0. SB185 let Medicaid pay family caregivers of disabled children; SB497 (2025) freed autism therapy rates from out-of-state caps. SB494 (2025) reorganized public health-insurance programs under the new Nevada Health Authority, and the special session added the recruitment grant program (SB5). Bills restating any of these would duplicate fresh statute and are unlikely to advance.
 
-## New law from the 2025 session
+### Where the record points further
 
-AB463 set prior-authorization rules and deadlines across private insurance, Medicaid, and CHIP, 42–0 and 20–0. SB389 put all Medicaid prescription drugs under a single state-contracted pharmacy benefit manager. SB262 revised the residency-grant program, and AB269 and SB266 expanded provider loan repayment. SB124 eased foreign medical graduates into full licensure. AB230 and AB248 enacted the audiology/speech-language and physical therapy compacts, and AB334 eased dental-hygienist endorsement. SB185 let Medicaid pay family caregivers of disabled children, and SB497 freed autism therapy rates from out-of-state caps. The November special session then created the Statewide Health Care Access and Recruitment Grant Program (SB5, Chapter 12) after the regular-session version died at the deadline, and SB494 reorganized the state's public health-insurance programs under a new Nevada Health Authority.
+The workforce ladder keeps extending: Health Service Corps funding (SB289, 2019; SB233, 2021), the broader loan-repayment program (AB45, 2023, 41–0 and 21–0), the two 2025 expansions, and residency grants created in 2023 (SB350, 21–0 and 40–0) and revised unanimously in 2025 — alongside dental therapy's licensure in 2019 and the 2021 workforce-data laws. Targeted Medicaid rate raises pass the same way: autism technicians (SB96, 2021), the provider-assessment financing mechanism (SB435, 2023), children's cancer clinics (SB221, 2023), family caregivers (SB185) and training clinics (SB353, 2025). The PBM file is one concurrence vote from a comprehensive regime, built on enacted rungs — the pharmacist gag-clause ban (AB141, 2019), Medicaid rebate pass-through (SB378, 2019), 340B protections (AB434, 2023), SB389 — and step-therapy limits passed unanimously in 2023 (SB167, SB194). Where the record resists: every across-the-board reimbursement reform has died at the money stage without a floor vote against it — AB116 (2019), AB99 (2023), SB255 (2023) and SB239 (2025), both from Senator Carrie Buck (R), still serving, and 2025's substance-use and mental-health rate bills.
+
+## Routes with little traction yet: never filed, never heard, or stopped early
+
+*Nothing here has won a vote — never filed, never heard in committee, or stopped early. The least-traveled routes: unproven rather than closed.*
+
+**The Nurse Licensure Compact.** Filed three times, never a floor vote: AB142 (2021) and AB108 (2023) died in Assembly Commerce and Labor, and the 2025 five-compact omnibus SB34 died in Senate Commerce and Labor while two of its compacts passed as separate bills. The contrast is the opening: the physical-therapy compact (SB186 of 2019, re-enacted in 2025), the EMS compact (AB158, 2023), and the 2025 audiology and dental-hygiene bills all passed with unanimous or near-unanimous votes. Nursing is the one compact not yet moved; the obstacle has been the committee, not the floor.
+
+**Splitting ER from urgent-care billing.** The full design — separate billing, rotating physicians, a state-paid physician per county — has never been filed. Edges exist in law: AB469 (2019) limits out-of-network emergency billing, SB497 (2023) built the arbitration system, AB317 (2019) gave off-campus ER and urgent-care sites distinct identifiers, and AB277 (2023) let small 24/7 rural emergency hospitals operate, 41–0 and 21–0. The bills that tried to control ER charges died early (AB85, 2023, on the origin floor; AB349, 2025, in committee). Telehealth is settled law (SB5 of 2021, SB119 of 2023).
+
+**Residency tax credits and the biggest money bills.** The tax-credit design for businesses that donate to residency programs died on the Senate floor twice (SB369, 2023; SB269, 2025, both from Senator Robin Titus (R), still serving), and the 2019 direct appropriation died in committee; the direct-grant design passed instead. Credentialing deadlines and any-group insurance pooling have never been filed — SB481 (2019) and SB396 (2021) legislated around the pooling idea, and the Public Option (SB420, 2021), the record's rare party-divided enactment at 12–9 and 26–15, is the biggest structure in that space. The 31st (2020) Special Session's AB3, cutting health appropriations 36–6 and 21–0, marks the record's fiscal floor.
+
+## Momentum map: active fronts and quiet fronts
+
+*Where bills keep appearing and advancing — and where the Legislature has not yet shown willingness to legislate.*
+
+**Active:** provider supply and retention (loan repayment, residencies, grants — enacted and expanded in every recent session); licensure compacts, four of five enacted; PBM regulation (never lost a floor vote, stronger each session); prior authorization (general law now in place); targeted Medicaid rate raises. **Quiet:** across-the-board reimbursement reform (dies at the money stage), ER charge control, network-accuracy standards (silent since 2021), any-group pooling (never filed), and the nurse compact (three committee deaths against a current of unanimous compact passages).
+
+## Federal overlap: what is already addressed outside Carson City
+
+*Where federal action already covers ground, a state bill duplicates it; where none exists, the state route is the only one.*
+
+Surprise emergency billing is covered nationwide by the federal No Surprises Act (in force since 2022); Nevada's AB469 and SB497 arbitration system operates alongside it, and new state bills there would largely duplicate federal protection. Drug-price caps pegged to Medicare-negotiated prices depend on the federal negotiation program created in 2022, whose first prices take effect in 2026 — the vetoed Nevada caps were built on that machinery. Federal rules finalized in 2024 impose prior-authorization deadlines on Medicare Advantage, Medicaid, and exchange plans through 2027; AB463 covers the state-regulated plans those rules do not reach. Medicare and Tricare rates are set federally and appear in no Nevada bill; self-funded employer plans sit behind federal ERISA preemption, beyond state reach. Congress has advanced but not enacted national PBM transparency rules, so that field remains open to the state.
+
+## Sponsors, committees, and who still serves
+
+*Who has carried these bills, where bills stop, and which authors remain in the Legislature.*
+
+Most healthcare-cost bills come from named lawmakers — 270 of 409. The two most frequent sponsors have left the Legislature: Senator Pat Spearman (D, 21 bills, coverage and drug purchasing) last served in 2023, Senator Joseph Hardy (R, 19, the Health Service Corps line) in 2021. The other heavy carriers still serve: Senator Melanie Scheible (D, 18 — the PBM bills, including the enacted SB389), Senators Cannizzaro (D), Lange (D), Stone (R), and Doñate (D) at 16 each, and Senators Carrie Buck (R), Julie Pazina (D), and Robin Titus (R) on the rate, residency, and tax-credit files. Cross-party teams appear on 54 policy bills, 36 now law, clustering where citizens' proposals sit — PBM, compact, and rate bills. First-committee stops concentrate in Senate Health and Human Services (22), Assembly Commerce and Labor (21), Senate Commerce and Labor (19), and Assembly Health and Human Services (16).
 
 ---
 
