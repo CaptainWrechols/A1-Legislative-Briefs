@@ -1,13 +1,32 @@
-# Package — K-12 Educational Outcomes in Nevada (citizen-v2.0)
+# Package — K-12 Educational Outcomes in Nevada (citizen-v3.0)
 
 Design Packager v2.3 · 2026-07-27 · The Nevada Forum
 
-citizen-v2.0 is the tone/format revision of citizen-v1.0, produced per Forum
-direction (2026-07-27). `citizen-v1/` is untouched; compare the two folders
-side by side. Facts, bills, and votes are unchanged — only presentation,
-organization, and voice.
+citizen-v3.0 is the formatting-polish pass over citizen-v2.0, produced per
+Forum direction (2026-07-27). `citizen-v1/` and `citizen-v2/` are untouched;
+compare the folders side by side. Facts, bills, and votes are unchanged
+throughout — v2.0 changed presentation, organization, and voice; v3.0
+changes layout polish only.
 
-## What changed from v1.0 (shared across all four issue briefs)
+## What changed from v2.0 (v3.0 formatting polish)
+
+Content is unchanged from v2.0 — v3.0 is a formatting-only pass:
+
+- **Single-line section headers.** Every terracotta H2 was shortened to hold
+  one line in both the HTML and Word renders (the full nuance stays in the
+  explainer line under each header).
+- **No widow lines.** No paragraph, dek, or explainer ends with fewer than
+  three words: the exporters glue the final words with non-breaking spaces,
+  and the HTML adds `text-wrap: pretty` on body paragraphs.
+- **Balanced wraps.** Title, dek, section explainers, and stat-card captions
+  use `text-wrap: balance`, so any multi-line run breaks into even lines
+  instead of a long line over a short one.
+- **Word export.** Widow/orphan control on every paragraph plus the same
+  last-line gluing; still direct-formatted (renders identically across
+  Word, Word Online, Google Docs, LibreOffice, Pages).
+- Both renders re-verified at exactly **2 US Letter pages**.
+
+## What changed from v1.0 (introduced in v2.0, retained here)
 
 - **Sections reordered by viability.** Proposals now appear in order of how
   far their bills traveled: passed both chambers (vetoed or timed out) first,
@@ -40,23 +59,23 @@ organization, and voice.
 
 | File | What it is |
 |---|---|
-| `citizen-brief.md` | Source markdown of the 2-page front brief (v2.0) |
+| `citizen-brief.md` | Source markdown of the 2-page front brief (v3.0) |
 | `citizen-brief.html` | Print-ready front brief (verified 2 US Letter pages in headless Chrome) |
 | `citizen-brief.docx` | Word version of the front brief (verified 2 pages in LibreOffice) |
-| `citizen-brief-print.css` | Shared Phase 2 print CSS + v2 `h3.subsec` subsection style |
+| `citizen-brief-print.css` | Shared Phase 2 print CSS + v2 `h3.subsec` subsection style (v3 widow/balance rules live in the HTML head) |
 | `appendices/` | Appendices A–I (markdown), `appendices-print.html`, `appendices.docx` — unchanged from v1.0 |
-| `render-check/` | Page images of both verified v2.0 renders (HTML and Word) |
+| `render-check/` | Page images of both verified v3.0 renders (HTML and Word) |
 | `review-report.md` / `.json` | Citizen Reviewer output for the **v1.0** content (v2.0 revision not yet re-reviewed) |
 
 ## Rebuild the outputs
 
 ```bash
 # HTML (Phase 2 shell; masthead, terracotta H2s, stat strip, subsection H3s)
-python collectors/export_brief_html.py --brief-dir briefs/nevada/k-12_educational_outcomes/citizen-v2
+python collectors/export_brief_html.py --brief-dir briefs/nevada/k-12_educational_outcomes/citizen-v3
 
 # Word (front brief via python-docx direct formatting; appendices via pandoc)
 ISSUE_CONFIG=config/issues/nevada-k-12_educational_outcomes.yaml \
-python collectors/export_docx.py --brief-dir briefs/nevada/k-12_educational_outcomes/citizen-v2
+python collectors/export_docx.py --brief-dir briefs/nevada/k-12_educational_outcomes/citizen-v3
 ```
 
 ## Print to PDF
@@ -87,4 +106,4 @@ Issue-title strings that the print assembler stamps from the first
 (water-scarcity) run were corrected in `appendices-print.html` after
 generation (title, kicker, footline); all data content is untouched builder
 output. See Appendix I for the full list of documented post-build
-corrections. `render-check/` images were regenerated for v2.0.
+corrections. `render-check/` images were regenerated for v3.0.

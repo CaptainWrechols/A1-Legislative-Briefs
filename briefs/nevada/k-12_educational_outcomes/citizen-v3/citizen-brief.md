@@ -2,7 +2,7 @@
 issue_id: nevada-03-k-12-educational-outcomes
 issue_title: K-12 Educational Outcomes in Nevada
 brief_type: citizen-front-brief
-version: citizen-v2.0
+version: citizen-v3.0
 organization: The Nevada Forum
 generated_by: citizen-brief-writer v2.3
 date: 2026-07-27
@@ -17,7 +17,7 @@ The legislative record behind Nevadans' ten most common K-12 education proposals
 
 Education is the Legislature's biggest and most cross-party subject: 513 bills across the 2019, 2021, 2023, and 2025 sessions, 228 of them now law (see Key numbers for the cross-party count). The big structural fight settled early — SB543 (2019) replaced the Nevada Plan with the Pupil-Centered Funding Plan — and every session since has built on it. Raises, audits, funding acts, and licensure bills pass, usually near-unanimously, and get signed; what stalls is narrower — oversight machinery, classroom-time mandates, and changes to what gets measured, several within one vote of law. The sections below sort the record by distance traveled: bills that passed both chambers, then bills with a winning vote behind them, then settled law and its openings, then routes with no traction yet — with notes on momentum, federal overlap, and sponsors.
 
-## Key numbers: how far education proposals have traveled
+## Key numbers: how far these proposals have traveled
 
 *Each figure below is unpacked, bill by bill, in the section it points to.*
 
@@ -27,7 +27,7 @@ Education is the Legislature's biggest and most cross-party subject: 513 bills a
 - **55** bills carried sponsors from both parties — 28 became law
 - **7** outside-audit bills filed; none has yet received a vote
 
-## Closest to law: bills that passed both chambers and stopped at the last step
+## Closest to law: bills that passed both chambers
 
 *These bills assembled majorities in both houses; only a veto or the session clock separated them from statute — the record's most advanced unfinished work.*
 
@@ -39,7 +39,7 @@ Education is the Legislature's biggest and most cross-party subject: 513 bills a
 
 All 13 education vetoes fall in 2023 and 2025 and attach to specific designs: **the statewide children's mental-health consortium (AB265, 2023)**, vetoed after passing 42–0 and 20–0; **the substitute-teacher insurance subsidy (AB282, 2023)**, vetoed after 31–11 and 16–4; **class-size collective bargaining (AB155, 2025)**. Collective-bargaining, school-adjacent health, and library bills stop at the desk — several with proven majorities, one unanimous — while raises, audits, and funding acts are signed.
 
-## Demonstrated support: bills that cleared one chamber or a committee
+## Proven support: bills that cleared a chamber or a committee
 
 *Each bill here won a recorded majority — in committee or on a floor — before stalling: the strongest signal short of passage.*
 
@@ -59,7 +59,7 @@ The 2025 session funded extra pay for hard-to-fill positions (AB398, 20–0 and 
 
 The accountability lane is widening, not closing: AB517 (2023) ordered recurring legislative performance audits of the two biggest districts and the charter authority, 42–0 and 21–0, first audits due in 2026, and SB460's new oversight board gives future accountability proposals a statutory home. Principal accountability is law twice over (SB292 of 2023, 21–0 and 39–3; SB460). Nevada's ratings already include a growth component — the failed bills changed its weight, not its existence — and testing has been trimmed twice (SB353 of 2021, capping test time, 42–0 and 21–0; SB9 of 2023, ending end-of-course finals). The teacher pipeline keeps passing near-unanimously: the Interstate Teacher Mobility Compact (SB442, 2023), paid teaching-pathway grants (AB515, AB428, 2023), provisional hiring (AB49), raise funding (SB231 of 2023, 21–0 and 41–1). Pre-K investment is solid precedent — the state grant program (SB84, 2019, 41–0 and 20–0), the early-literacy account (AB400, 2023), family engagement extended in 2025 (AB212, 38–4 and 21–0) — with seats growing through the budget. The funding machinery itself was rebuilt inside this record: SB543 (2019, 18–3 and 34–7), SB439 (2021), the mining tax routed to education (AB495, 2021, 28–14 and 16–5), the biennium acts (SB503, SB500), and the statutory Commission on School Funding charged with calculating what full funding would take. AB289 (2019) removed automatic third-grade retention, 28–11 and 17–4 — no bill since has proposed reinstating it, and when the 2020 special session's COVID budget act cut the program's $31.4 million second-year transfer, it listed that money among the first accounts to restore.
 
-## Routes with little traction yet: never filed, never heard, or stopped early
+## Routes with little traction: never filed or stopped early
 
 *Nothing here has won a vote — never filed, never heard in committee, or stopped early. The least-traveled routes: unproven rather than closed.*
 
