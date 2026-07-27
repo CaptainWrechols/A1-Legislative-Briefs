@@ -232,14 +232,14 @@ def build_stat_strip(doc, bullets: list[str]):
         p1 = cell.paragraphs[0]
         p1.paragraph_format.space_after = Pt(1)
         run = p1.add_run(num)
-        set_font(run, 15 if len(num) <= 4 else 11.5, NAVY, bold=True)
+        set_font(run, 18 if len(num) <= 4 else 14, NAVY, bold=True)
         p2 = cell.add_paragraph()
         p2.paragraph_format.space_after = Pt(0)
         p2.paragraph_format.line_spacing = 1.0
         run = p2.add_run(caption)
-        set_font(run, 6.8, MUTED)
-    spacer = para(doc, after=5)
-    spacer.paragraph_format.space_after = Pt(5)
+        set_font(run, 10, MUTED)
+    spacer = para(doc, after=3)
+    spacer.paragraph_format.space_after = Pt(3)
 
 
 def main() -> None:
@@ -262,57 +262,55 @@ def main() -> None:
     # Masthead: THE FORUM + navy rule
     p = para(doc, after=1)
     run = p.add_run("T H E   F O R U M")
-    set_font(run, 9, NAVY, bold=True, spacing_pts=1.0)
+    set_font(run, 10, NAVY, bold=True, spacing_pts=1.0)
     rule = para(doc, after=6)
     add_bottom_border(rule, "1A2D4F", 20)
 
     # Title + subtitle
     p = para(doc, after=2, line=1.05)
     run = p.add_run(title)
-    set_font(run, 17, NAVY, bold=True)
+    set_font(run, 18, NAVY, bold=True)
     if subtitle:
         p = para(doc, after=6)
-        add_rich_text(p, no_widow(subtitle), size=8.8, color=BODY)
+        add_rich_text(p, no_widow(subtitle), size=10, color=BODY)
 
     for sec in sections:
-        p = para(doc, before=5, after=2.5)
+        p = para(doc, before=5, after=2)
         run = p.add_run(sec["heading"].upper())
-        set_font(run, 10.5, TERRACOTTA, bold=True, spacing_pts=1.0)
-        bullets = [t for kind, t in sec["items"] if kind == "bullet"]
-        if sec["heading"].strip().lower().startswith("key numbers") and bullets:
-            for kind, text in sec["items"]:
-                if kind == "explainer":
-                    p = para(doc, after=3)
-                    add_rich_text(p, text, size=8.0, color=MUTED)
-                    for run in p.runs:
-                        run.font.italic = True
-            build_stat_strip(doc, bullets)
-            continue
+        set_font(run, 12.5, TERRACOTTA, bold=True, spacing_pts=1.0)
+        stat_bullets = [
+            t for kind, t in sec["items"]
+            if kind == "bullet" and re.match(r"\*\*(.+?)\*\*\s", t)
+        ]
         for kind, text in sec["items"]:
+            if kind == "bullet" and text in stat_bullets:
+                continue
             if kind == "h3":
-                p = para(doc, before=3.5, after=1.5, line=1.04)
+                p = para(doc, before=4, after=1.5, line=1.04)
                 run = p.add_run(text)
-                set_font(run, 9.2, NAVY2, bold=True)
+                set_font(run, 12, NAVY2, bold=True)
             elif kind == "explainer":
-                p = para(doc, after=2.5, line=1.04)
-                add_rich_text(p, no_widow(text), size=7.8, color=MUTED)
+                p = para(doc, after=2, line=1.03)
+                add_rich_text(p, no_widow(text), size=10, color=MUTED)
                 for run in p.runs:
                     run.font.italic = True
             elif kind == "bullet":
-                p = para(doc, after=2.5, line=1.04)
+                p = para(doc, after=3, line=1.05)
                 p.paragraph_format.left_indent = Pt(10)
                 run = p.add_run("▪  ")
-                set_font(run, 8, TERRACOTTA)
-                add_rich_text(p, no_widow(text), size=8.5)
+                set_font(run, 10, TERRACOTTA)
+                add_rich_text(p, no_widow(text), size=10)
             else:
-                p = para(doc, after=3.2, align=WD_ALIGN_PARAGRAPH.JUSTIFY, line=1.04)
-                add_rich_text(p, no_widow(text), size=8.5)
+                p = para(doc, after=2.8, align=WD_ALIGN_PARAGRAPH.JUSTIFY, line=1.03)
+                add_rich_text(p, no_widow(text), size=10)
+        if stat_bullets:
+            build_stat_strip(doc, stat_bullets)
 
     if footline:
-        p = para(doc, before=8, after=0)
+        p = para(doc, before=2, after=0)
         add_top_border(p, "C8CDD6", 6)
-        run = p.add_run(footline.upper())
-        set_font(run, 7, MUTED, spacing_pts=0.6)
+        run = p.add_run(footline)
+        set_font(run, 10, MUTED, spacing_pts=0.2)
 
     doc.save(out_path)
     print(f"Wrote {out_path} (direct-formatted, cross-app safe)")

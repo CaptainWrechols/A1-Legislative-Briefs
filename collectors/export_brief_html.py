@@ -17,18 +17,23 @@ import re
 from pathlib import Path
 
 STYLE_BLOCK = """<style>
-  /* adult prose layout ({version}, {slug}) */
-  body {{ font-size: 8.5pt; line-height: 1.25; }}
-  h2.sec {{ margin: 5pt 0 2.5pt; }}
-  h3.subsec {{ margin: 2.5pt 0 1.5pt; }}
-  p.lead-item {{ margin: 0 0 3.2pt; text-align: justify; }}
+  /* adult prose layout ({version}, {slug}) — readable type: body 10pt, headers 12pt+ */
+  body {{ font-size: 10pt; line-height: 1.19; }}
+  .masthead .forum {{ font-size: 10pt; }}
+  h1.title {{ font-size: 18pt; }}
+  .dek {{ font-size: 10pt; }}
+  h2.sec {{ font-size: 12.5pt; letter-spacing: 0.1em; margin: 5.5pt 0 2.5pt; }}
+  h3.subsec {{ font-size: 12pt; margin: 2.5pt 0 1.5pt; }}
+  p.lead-item {{ margin: 0 0 3.4pt; text-align: justify; }}
   p.lead-item strong.li {{ color: #1A2D4F; }}
-  p.explainer-block {{ margin: 0 0 3pt; font-size: 8.1pt; }}
-  .stat-strip {{ margin-bottom: 2pt; }}
-  .stat-card {{ padding: 3pt 5pt 3.5pt; }}
-  .stat-num {{ font-size: 18pt; }}
-  .stat-num.compact {{ font-size: 13.5pt; padding-top: 3.5pt; }}
-  /* v3 polish: no widow lines; balanced headers, deks, explainers, captions */
+  p.explainer-block {{ margin: 0 0 2.5pt; font-size: 10pt; }}
+  .stat-strip {{ margin-bottom: 0; }}
+  .stat-card {{ padding: 3.5pt 6pt 4pt; }}
+  .stat-num {{ font-size: 20pt; }}
+  .stat-num.compact {{ font-size: 15pt; padding-top: 4pt; }}
+  .stat-cap {{ font-size: 10pt; line-height: 1.2; }}
+  .footline {{ font-size: 10pt; text-transform: none; letter-spacing: 0.02em; padding-top: 4pt; }}
+  /* no widow lines; balanced headers, deks, explainers, captions */
   h1.title, h2.sec, h3.subsec, .stat-cap, .dek, p.explainer-block {{ text-wrap: balance; }}
   p.lead-item {{ text-wrap: pretty; }}
 </style>"""
@@ -159,19 +164,21 @@ def render_stat_strip(items) -> str:
 
 def render_section(sec: dict) -> str:
     out = ["<section>", f"  <h2 class=\"sec\">{typographize(sec['heading'])}</h2>"]
-    if sec["heading"].strip().lower().startswith("key numbers"):
-        for kind, text in sec["items"]:
-            if kind == "explainer":
-                out.append(f"  <p class=\"explainer-block\">{inline_md(text)}</p>")
-        out.append(render_stat_strip(sec["items"]))
-    else:
-        for kind, text in sec["items"]:
-            if kind == "h3":
-                out.append(f"  <h3 class=\"subsec\">{typographize(text)}</h3>")
-            elif kind == "explainer":
-                out.append(f"  <p class=\"explainer-block\">{inline_md(no_widow(text))}</p>")
-            else:
-                out.append(f"  <p class=\"lead-item\">{inline_md(no_widow(text))}</p>")
+    stat_bullets = [
+        (k, t) for k, t in sec["items"]
+        if k == "bullet" and re.match(r"\*\*(.+?)\*\*\s", t)
+    ]
+    for kind, text in sec["items"]:
+        if kind == "bullet" and (kind, text) in stat_bullets:
+            continue
+        if kind == "h3":
+            out.append(f"  <h3 class=\"subsec\">{typographize(text)}</h3>")
+        elif kind == "explainer":
+            out.append(f"  <p class=\"explainer-block\">{inline_md(no_widow(text))}</p>")
+        else:
+            out.append(f"  <p class=\"lead-item\">{inline_md(no_widow(text))}</p>")
+    if stat_bullets:
+        out.append(render_stat_strip(stat_bullets))
     out.append("</section>")
     return "\n".join(out)
 
@@ -226,7 +233,7 @@ def main() -> None:
     foot = typographize(footline.rstrip("."))
     if month_year:
         foot += f" &middot; The Nevada Forum &middot; {month_year}"
-    parts.append(f"<p class=\"footline\" style=\"margin-top: 2pt;\">{foot}</p>")
+    parts.append(f"<p class=\"footline\" style=\"margin-top: 1pt;\">{foot}</p>")
     parts.append("")
     parts.append("</body>")
     parts.append("</html>")

@@ -6,24 +6,31 @@ citizen-v3.0 is the formatting-polish pass over citizen-v2.0, produced per
 Forum direction (2026-07-27). `citizen-v1/` and `citizen-v2/` are untouched;
 compare the folders side by side. Facts, bills, and votes are unchanged
 throughout — v2.0 changed presentation, organization, and voice; v3.0
-changes layout polish only.
+changes formatting, type sizes, and layout only.
 
-## What changed from v2.0 (v3.0 formatting polish)
+## What changed from v2.0 (v3.0 polish + readable type)
 
-Content is unchanged from v2.0 — v3.0 is a formatting-only pass:
+v3.0 keeps v2.0's facts, bills, votes, and viability-first organization, with
+formatting and readability edits per Forum direction (2026-07-27):
 
-- **Single-line section headers.** Every terracotta H2 was shortened to hold
-  one line in both the HTML and Word renders (the full nuance stays in the
-  explainer line under each header).
+- **Readable type.** No text renders below 10pt: body, explainers, stat
+  captions, dek, masthead, and footline are 10pt; section headers are 12.5pt
+  ALL-CAPS terracotta, subsection headers 12pt navy, and the title 18pt.
+- **Single-line headers.** Every title and section header holds one line in
+  both the HTML and Word renders; the nuance lives in the explainer line
+  under each header.
 - **No widow lines.** No paragraph, dek, or explainer ends with fewer than
-  three words: the exporters glue the final words with non-breaking spaces,
-  and the HTML adds `text-wrap: pretty` on body paragraphs.
-- **Balanced wraps.** Title, dek, section explainers, and stat-card captions
-  use `text-wrap: balance`, so any multi-line run breaks into even lines
-  instead of a long line over a short one.
-- **Word export.** Widow/orphan control on every paragraph plus the same
-  last-line gluing; still direct-formatted (renders identically across
-  Word, Word Online, Google Docs, LibreOffice, Pages).
+  three words (non-breaking-space gluing plus `text-wrap: pretty`); title,
+  dek, explainers, and stat captions use balanced wrapping.
+- **Tighter structure to hold 2 pages at the larger type.** The stat strip
+  now sits directly under the opening section (no separate "Key numbers"
+  header), and the former "Sponsors, committees, and who still serves"
+  section was folded into the Momentum map as a "Chokepoints and carriers"
+  paragraph — keeping every viability-relevant fact (committee chokepoints,
+  cross-party success rates, and which sponsors still serve) and dropping
+  only viability-neutral tallies (e.g. how many bills were person- vs
+  committee-sponsored). Prose was tightened throughout without removing any
+  bill, vote, or outcome.
 - Both renders re-verified at exactly **2 US Letter pages**.
 
 ## What changed from v1.0 (introduced in v2.0, retained here)
