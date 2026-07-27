@@ -1,0 +1,3877 @@
+{
+  "note": "Evidence Curator v2.2 curation map for nevada-02-cost-of-living (healthcare focus). One entry per bill: plain_topic (citizen wording), theme, relevance (core = healthcare cost, coverage, access, provider supply, or regulation of insurers/providers toward patients is the point of the bill; adjacent = a real but partial healthcare cost/access angle; context = found by broad search terms or omnibus subject indexing but not healthcare cost/access policy - kept for audit, excluded from headline counts). Themes are citizen-facing labels. Written by reading every NELIS Overview digest.",
+  "themes": {
+    "provider-licensing": "Licensing doctors, nurses, and other providers: compacts, endorsement, scope of practice",
+    "provider-pipeline": "Growing the provider workforce: medical education, residencies, loan repayment, recruitment money",
+    "insurer-rules": "How insurers treat patients and providers: prior authorization, denials, networks, credentialing, claim deadlines",
+    "coverage-mandates": "What health plans and Medicaid must cover",
+    "drug-costs": "Prescription drug costs, pharmacies, and pharmacy benefit managers",
+    "medicaid-public-programs": "Medicaid and public coverage: reimbursement rates, eligibility, administration",
+    "patient-billing": "Patient bills, medical debt, price transparency, and surprise billing",
+    "care-delivery": "Where care happens: hospitals, clinics, urgent care, telehealth, rural access",
+    "insurance-market": "Insurance market structure: pooling, association plans, the public option, the exchange",
+    "context": "Context bills (not healthcare cost/access policy)"
+  },
+  "bills": {
+    "80:AB102": {
+      "plain_topic": "Toughened criminal penalties for crimes against first responders' family members; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB115": {
+      "plain_topic": "Let physician-group quality review committees keep their proceedings and records confidential; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB116": {
+      "plain_topic": "Ordered a study of what raising Medicaid payment rates to reflect actual provider costs would cost.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "80:AB119": {
+      "plain_topic": "Made workers' compensation insurers accept certain injury claims from police and firefighters; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB122": {
+      "plain_topic": "Required a study of opening assisted living facilities with respite and day care in rural Nevada.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "80:AB123": {
+      "plain_topic": "Required schools to keep records on pupils' immunization exemptions; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB124": {
+      "plain_topic": "Required hospitals and emergency centers to give sexual assault victims certain information; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB129": {
+      "plain_topic": "Required EMTs, firefighters and police to train on interacting with people with developmental disabilities before certification.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "80:AB13": {
+      "plain_topic": "Changed how administrators of veterans' homes and day health facilities are appointed and funded; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB131": {
+      "plain_topic": "Revised certification rules for providers of community-based living services for adults with mental or developmental disabilities.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "80:AB132": {
+      "plain_topic": "Barred employers from rejecting job applicants over positive marijuana screening tests; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB141": {
+      "plain_topic": "Stopped pharmacy benefit managers from restricting pharmacists who tell patients about cheaper drug options.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "80:AB147": {
+      "plain_topic": "Let physician assistants and advanced practice nurses sign off on more services, like concussion return-to-play clearances.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:AB151": {
+      "plain_topic": "Required professionals to report commercial sexual exploitation of children to child welfare agencies; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB170": {
+      "plain_topic": "Made insurers give the state consumer health office navigator contacts so patients can access care.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "80:AB172": {
+      "plain_topic": "Required auto insurers to pay full replacement value on totaled vehicles; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB173": {
+      "plain_topic": "Restricted aftermarket parts in insured car repairs and regulated body shops; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB176": {
+      "plain_topic": "Created a bill of rights for sexual assault survivors; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB185": {
+      "plain_topic": "Ordered a study of using Medicare-based pricing to cut costs in the state employee health plan.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "80:AB204": {
+      "plain_topic": "Licensed addiction recovery centers to hold and give medications using hospital-style chart orders.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "80:AB21": {
+      "plain_topic": "Let small-county commissioners appoint, rather than elect, members of some local district boards; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB223": {
+      "plain_topic": "Sought a federal waiver so Medicaid covers dental care for adults with diabetes.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "80:AB225": {
+      "plain_topic": "Set rules health plans must follow when requiring prior authorization before paying for care.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "80:AB232": {
+      "plain_topic": "Required most hospitals to join Medicare, obligating emergency care regardless of patients' ability to pay.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "80:AB237": {
+      "plain_topic": "Gave teachers stipends for out-of-pocket school supply costs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB239": {
+      "plain_topic": "Eased how licensing boards review complaints about practitioners' controlled-substance prescribing; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB254": {
+      "plain_topic": "Created a statewide system for reporting cases of sickle cell disease; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB260": {
+      "plain_topic": "Revised confidentiality of peer support counseling for law enforcement and public safety workers; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB268": {
+      "plain_topic": "Raised fines on doctors and nurses who refuse to complete death certificates; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB275": {
+      "plain_topic": "Barred licensing boards, including health boards, from denying licenses based on immigration or citizenship status.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "80:AB283": {
+      "plain_topic": "Let certain counties reimburse fuel retailers for inflation-based fuel tax increases; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB285": {
+      "plain_topic": "Allowed an observer to attend court-ordered mental or physical examinations in lawsuits; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB287": {
+      "plain_topic": "Required Medicaid reimbursement increases for autism therapy to pass through to behavior analysts' pay.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "80:AB295": {
+      "plain_topic": "Replaced the required school course on AIDS and sex education; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB299": {
+      "plain_topic": "Revised rules for powers of attorney, including health care decision-making; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB300": {
+      "plain_topic": "Created optional collection and reporting of veterans' health and service-related disability information; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB302": {
+      "plain_topic": "Created a commission on mental health of emergency response employees; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB303": {
+      "plain_topic": "Banned kratom sales to minors and required labeling of kratom products; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB310": {
+      "plain_topic": "Required controlled-substance prescriptions to be sent to pharmacies electronically; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB311": {
+      "plain_topic": "Appropriated state money for postgraduate medical education residency programs.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "80:AB313": {
+      "plain_topic": "Created a public database of occupational licensing information across professions; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB317": {
+      "plain_topic": "Required off-campus hospital sites offering surgery, urgent or emergency care to use separate provider identifiers.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "80:AB32": {
+      "plain_topic": "Let nonprofits join state workforce recruitment and training programs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB328": {
+      "plain_topic": "Removed the requirement that physician assistants work under a supervising physician, expanding their practice independence.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:AB334": {
+      "plain_topic": "Let licensing boards recover hearing-officer costs in disciplinary cases against licensees; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB340": {
+      "plain_topic": "Let schools acquire and use opioid overdose antidotes; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB341": {
+      "plain_topic": "Gave nationally certified school nurses a five percent salary increase to reward and retain them.",
+      "theme": "provider-pipeline",
+      "relevance": "adjacent"
+    },
+    "80:AB346": {
+      "plain_topic": "Revised criminal-background restrictions on workers at health care and child care facilities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB348": {
+      "plain_topic": "Required hospitals to adopt workplace violence prevention plans for their staff; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB357": {
+      "plain_topic": "Required boards to grant expedited licenses by endorsement to qualified out-of-state professionals, including health providers.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "80:AB358": {
+      "plain_topic": "Created a loan repayment program to attract doctors and health professionals to practice in Nevada.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "80:AB361": {
+      "plain_topic": "Loosened rules on which medical students can train under physicians, expanding training opportunities.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "80:AB370": {
+      "plain_topic": "Increased workers' compensation death benefits annually for surviving family members; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB372": {
+      "plain_topic": "Required insurers to cover emergency care without prior authorization, even from out-of-network providers.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "80:AB373": {
+      "plain_topic": "Barred state and local health agencies from restricting what care providers may tell or offer patients; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB378": {
+      "plain_topic": "Changed transport and emergency admission procedures for people posing danger to themselves or others; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB38": {
+      "plain_topic": "Required emergency responders and others to report drug overdoses to a state tracking system; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB383": {
+      "plain_topic": "Created a Student Loan Ombudsman to help student borrowers; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB392": {
+      "plain_topic": "Coordinated school work-based learning programs with workforce agencies; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB405": {
+      "plain_topic": "Created a state student loan program for postsecondary education; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB421": {
+      "plain_topic": "Revised notice requirements for construction defect claims; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB439": {
+      "plain_topic": "Limited fees and costs charged to families in juvenile court cases; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB448": {
+      "plain_topic": "Revised residency rules and procedures for filling vacant legislative offices; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB453": {
+      "plain_topic": "Added a seventh member with training experience to the Board of Psychological Examiners.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "80:AB456": {
+      "plain_topic": "Raised Nevada's minimum wage, with rates tied to whether employers offer health benefits; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB457": {
+      "plain_topic": "Revised licensing requirements and board rules for chiropractors and chiropractor's assistants.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:AB469": {
+      "plain_topic": "Regulated how out-of-network providers bill patients for medically necessary emergency services.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "80:AB472": {
+      "plain_topic": "Barred insurers from denying maternity coverage because the insured is a gestational surrogate.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "80:AB485": {
+      "plain_topic": "Set traffic rules and local regulation for electric scooters; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB49": {
+      "plain_topic": "Required overdose information to be uploaded to the prescription drug monitoring database; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB492": {
+      "plain_topic": "Expanded when first responders can claim workers' compensation for stress injuries; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB493": {
+      "plain_topic": "Created state certification for basic skills trainers and psychosocial rehabilitation providers in mental health care.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "80:AB494": {
+      "plain_topic": "Revised county funding and Medicaid supplemental payments for hospital care of indigent patients.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "80:AB496": {
+      "plain_topic": "Changed employment rules for staff of the Silver State Health Insurance Exchange.",
+      "theme": "insurance-market",
+      "relevance": "adjacent"
+    },
+    "80:AB515": {
+      "plain_topic": "Appropriated money to the Legislative Fund for building maintenance and related costs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB528": {
+      "plain_topic": "Kept Medicaid's preferred prescription drug list rules, including protected drug exclusions, from expiring.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "80:AB531": {
+      "plain_topic": "Eased penalties for a first lapse in required car insurance; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB533": {
+      "plain_topic": "Created cannabis advisory and regulatory bodies for marijuana oversight; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB534": {
+      "plain_topic": "Moved crime victim compensation administration to the health department; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB66": {
+      "plain_topic": "Let psychiatric hospitals be endorsed as crisis stabilization centers providing behavioral health crisis services.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "80:AB77": {
+      "plain_topic": "Allowed certified optometry assistants to perform certain tasks, expanding what optometry offices can do.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:AB85": {
+      "plain_topic": "Set rules on involuntary medication and discharge planning at mental health facilities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB87": {
+      "plain_topic": "Increased criminal penalties for insurance fraud causing injury; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB94": {
+      "plain_topic": "Revised licensing board oversight of controlled-substance prescribing practices; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:AB97": {
+      "plain_topic": "Revised how the state health department allocates money for Medicaid, children's insurance and public health.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "80:ACR2": {
+      "plain_topic": "Authorized extra travel reimbursement for legislators in certain circumstances; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB102": {
+      "plain_topic": "Funded students receiving geriatric medical training through the Western Regional Education Compact.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "80:SB115": {
+      "plain_topic": "Required Medicaid to cover donor breast milk for medically fragile infants.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "80:SB116": {
+      "plain_topic": "Created a proxy decision-maker process for patients who cannot consent to medical treatment; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB121": {
+      "plain_topic": "Added a health care power-of-attorney form for people with dementia; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB124": {
+      "plain_topic": "Restricted sex-assignment surgeries on children without assessment and assent; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB130": {
+      "plain_topic": "Created licensing for radiation therapy and radiologic imaging practitioners with an advisory committee.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:SB134": {
+      "plain_topic": "Let advanced practice registered nurses sign forms and statements previously requiring a physician.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:SB138": {
+      "plain_topic": "Let certain local governments raise diesel fuel taxes; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB14": {
+      "plain_topic": "Let the Governor remove appointees from state boards and commissions; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB165": {
+      "plain_topic": "Allowed terminally ill patients to request life-ending medication from physicians; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB170": {
+      "plain_topic": "Let out-of-state physicians demonstrate cosmetic injections at educational events and revised restraint rules; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB171": {
+      "plain_topic": "Collected workforce data from health providers at license renewal to track access to care statewide.",
+      "theme": "provider-pipeline",
+      "relevance": "adjacent"
+    },
+    "80:SB174": {
+      "plain_topic": "Ordered an audit of how the state delivers Medicaid-funded services for people with autism.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "80:SB176": {
+      "plain_topic": "Gave injured workers the right to choose their treating provider under workers' compensation; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB186": {
+      "plain_topic": "Joined an interstate compact letting physical therapists licensed elsewhere practice in Nevada.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:SB187": {
+      "plain_topic": "Eased evaluation requirements for dentists, optometrists and physicians prescribing pain medications; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB189": {
+      "plain_topic": "Set a process for handling patient requests for treatment doctors deem medically ineffective; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB192": {
+      "plain_topic": "Defined the minimum health benefits employers must offer to qualify for paying the lower minimum wage.",
+      "theme": "insurance-market",
+      "relevance": "adjacent"
+    },
+    "80:SB194": {
+      "plain_topic": "Created matched savings accounts for low-income households; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB198": {
+      "plain_topic": "Required analysis and reporting on how many children lose Medicaid coverage and why.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "80:SB20": {
+      "plain_topic": "Revised guardianship rules, including successor and temporary substitute guardians; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB200": {
+      "plain_topic": "Required health insurers to cover hearing devices and related services and supplies.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "80:SB202": {
+      "plain_topic": "Required annual reporting on pupils with disabilities and their education plans; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB203": {
+      "plain_topic": "Let the state negotiate discounts and rebates on hearing devices for deaf children statewide.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "80:SB21": {
+      "plain_topic": "Required insurance licensees to adopt data security programs protecting customer information; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB216": {
+      "plain_topic": "Required agencies running autism service programs to report program details to a state autism commission; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB223": {
+      "plain_topic": "Changed notarization and witness rules for guardian nominations and powers of attorney; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB226": {
+      "plain_topic": "Created a shared state prescription drug list and bulk purchasing to lower drug costs for public health plans.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "80:SB228": {
+      "plain_topic": "Let health providers and others administer patient-supplied CBD products without discipline; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB234": {
+      "plain_topic": "Made insurers use a standard letter and report trends when rejecting doctors from their provider networks.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "80:SB235": {
+      "plain_topic": "Banned insurers from denying coverage or charging more based on preexisting conditions or health status.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "80:SB238": {
+      "plain_topic": "Eased transfers of marijuana business licenses and inventory rules; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB247": {
+      "plain_topic": "Required consent from every custodial parent before a child gets most mental health services; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB259": {
+      "plain_topic": "Let out-of-state doctors get quick provisional Nevada licenses when sponsored by a licensed Nevada physician.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:SB262": {
+      "plain_topic": "Made drug companies report prices and cost increases for essential asthma medicines.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "80:SB264": {
+      "plain_topic": "Required Medicaid to offer added home and community-based services, including tenancy support, for elderly and disabled people.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "80:SB266": {
+      "plain_topic": "Created a state training program to help people recognize and assist those in mental health crises; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB271": {
+      "plain_topic": "Revised how physicians supervise physician assistants, affecting what physician assistants may do.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:SB276": {
+      "plain_topic": "Ordered a legislative study of prescription drug costs and how manufacturer rebates affect prices.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "80:SB281": {
+      "plain_topic": "Let some counties reimburse fuel retailers for part of local fuel taxes; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB283": {
+      "plain_topic": "Required Medicaid drug-coverage contractors and pharmacy benefit managers to give the state their pricing and service information.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "80:SB289": {
+      "plain_topic": "Gave money to the Nevada Health Service Corps to attract medical providers to underserved areas.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "80:SB290": {
+      "plain_topic": "Made insurer network plans pay out-of-network providers for unanticipated care, addressing surprise bills.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "80:SB307": {
+      "plain_topic": "Removed requirements that doctors participate in carrying out the death penalty; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB313": {
+      "plain_topic": "Expanded computer science courses and credits in public schools; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB315": {
+      "plain_topic": "Created a Rare Disease Advisory Council and public information on physical exams; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB322": {
+      "plain_topic": "Raised pay for state law enforcement officers for two fiscal years; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB323": {
+      "plain_topic": "Limited how licensing boards recover attorney fees from people they discipline; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB324": {
+      "plain_topic": "Renamed and adjusted the account reimbursing teachers for school supplies; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB33": {
+      "plain_topic": "Made insurers check whether claimants owe past-due child support before paying claims; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB344": {
+      "plain_topic": "Barred most Medicaid cost-sharing and expanded Medicaid family planning and community health worker coverage.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "80:SB357": {
+      "plain_topic": "Regulated home warranty protection plans as service contracts; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB359": {
+      "plain_topic": "Stopped insurers from requiring new prior authorization for chronic condition treatments already approved.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "80:SB361": {
+      "plain_topic": "Let pharmacists dispense self-administered hormonal birth control to any patient under a standing order.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:SB362": {
+      "plain_topic": "Required group care homes to assess residents yearly and place people with severe dementia appropriately.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "80:SB363": {
+      "plain_topic": "Ordered a legislative study of stem cell centers and whether Nevada should host one.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "80:SB365": {
+      "plain_topic": "Barred insurers and third parties from using providers' contract discounts without an actual contract.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "80:SB366": {
+      "plain_topic": "Created the new licensed profession of dental therapy to expand the dental workforce.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:SB369": {
+      "plain_topic": "Banned pharmacy benefit managers and drug makers from raising a drug's effective price mid plan year.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "80:SB370": {
+      "plain_topic": "Made Medicaid and children's health insurance cover fetal alcohol spectrum disorder screening and treatment.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "80:SB378": {
+      "plain_topic": "Required Medicaid drug contractors to share information and pass drug rebates back to the state.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "80:SB381": {
+      "plain_topic": "Gave injured workers the right to choose their treating physician under workers' compensation; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB384": {
+      "plain_topic": "Removed the time limit for prosecuting perjury in certain cases; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB385": {
+      "plain_topic": "Created licensing rules for sellers of personal property storage insurance; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB393": {
+      "plain_topic": "Clarified that insurers must pay out-of-network mental health and addiction providers directly under assigned benefits.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "80:SB425": {
+      "plain_topic": "Required Medicaid to offer added home and community-based services, including tenancy support, for elderly and disabled people.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "80:SB43": {
+      "plain_topic": "Allowed governments to use automated traffic cameras to enforce speeding laws; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB435": {
+      "plain_topic": "Let injured people void quick liability releases and set injury-claim information exchange rules; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB436": {
+      "plain_topic": "Let chiropractors join multi-specialty professional business entities with doctors and psychologists; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB44": {
+      "plain_topic": "Updated Nevada's unclaimed property law to match a national uniform act; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB443": {
+      "plain_topic": "Appropriated money to raise reimbursement rates for senior meal programs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB446": {
+      "plain_topic": "Let Medicaid recipients directly receive payment for personal care services and kept eligibility suspended, not ended, during incarceration.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "80:SB455": {
+      "plain_topic": "Reclassified supported-living and residential care providers, changing how these behavioral and disability care providers are regulated.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "80:SB456": {
+      "plain_topic": "Allowed hospitals to grant advanced practice registered nurses medical staff privileges without automatic denial.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:SB457": {
+      "plain_topic": "Expanded which facility deaths and events must be reported as sentinel events; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB470": {
+      "plain_topic": "Required cultural competency training for staff at licensed health facilities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB472": {
+      "plain_topic": "Created an all-payer database of health insurance claims to track health care prices statewide.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "80:SB478": {
+      "plain_topic": "Set rules for peer-to-peer car sharing programs and agreements; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB48": {
+      "plain_topic": "Let smaller counties raise diesel fuel taxes in certain circumstances; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB481": {
+      "plain_topic": "Regulated association health plans and self-funded multiple employer arrangements offering small-employer coverage.",
+      "theme": "insurance-market",
+      "relevance": "core"
+    },
+    "80:SB482": {
+      "plain_topic": "Addressed interstate health care choice compacts letting insurers sell plans across state lines.",
+      "theme": "insurance-market",
+      "relevance": "core"
+    },
+    "80:SB484": {
+      "plain_topic": "Required Medicaid to reimburse chiropractor services.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "80:SB485": {
+      "plain_topic": "Revised school-funding reimbursement for children being treated in hospitals or residential facilities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB491": {
+      "plain_topic": "Changed salvage title paperwork rules after vehicle insurance settlements; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB524": {
+      "plain_topic": "Covered a shortfall in subsidies for non-state retirees' public-employee health coverage; employee-benefits budgeting, not general healthcare policy",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB528": {
+      "plain_topic": "Appropriated money to the Lou Ruvo Center for Brain Health for research, clinical work and education.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "80:SB532": {
+      "plain_topic": "Added state money to cover rising Medicaid per-person costs and Nevada Check-Up program expenses.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "80:SB544": {
+      "plain_topic": "Created a Patient Protection Commission to examine health care issues affecting Nevada patients.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "80:SB550": {
+      "plain_topic": "Set the state's share of public employees' group insurance premiums for 2019-2021; employee-benefits budgeting, not general healthcare policy",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB552": {
+      "plain_topic": "Revised expense allowances and phone charges for state legislators; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB57": {
+      "plain_topic": "Made public school blueprints confidential with limited disclosure to safety agencies; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB60": {
+      "plain_topic": "Required certification of for-profit entities providing care for people with mental illness or disabilities.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "80:SB61": {
+      "plain_topic": "Authorized certain cities to impose a diesel fuel tax; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB63": {
+      "plain_topic": "Revised provisional licensing across health professions and construction rules for health facilities.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:SB66": {
+      "plain_topic": "Revised the state disaster victim identification team's operations; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB68": {
+      "plain_topic": "Sped up provisional registration so volunteer health providers can practice quickly during declared emergencies.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "80:SB77": {
+      "plain_topic": "Eased competitive bidding rules so county hospitals can buy supplies through group purchasing contracts.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "80:SB86": {
+      "plain_topic": "Revised how the state charges insurers for regulatory examinations; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB87": {
+      "plain_topic": "Updated the state guaranty association protecting policyholders when life or health insurers fail; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB88": {
+      "plain_topic": "Changed licensing fees and education requirements for insurance producers and adjusters; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB90": {
+      "plain_topic": "Strengthened childhood lead testing rules and created a diapering resources account; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB92": {
+      "plain_topic": "Required licenses for businesses referring people to group housing and review of unlicensed homes; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SB95": {
+      "plain_topic": "Required medical facilities to follow diets ordered or prescribed for patients; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "80:SCR10": {
+      "plain_topic": "Ordered a study of creating a public health insurance plan open to all Nevada residents.",
+      "theme": "insurance-market",
+      "relevance": "core"
+    },
+    "81:AB100": {
+      "plain_topic": "Let the State Forester create cooperative fire boards for wildfire management; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB105": {
+      "plain_topic": "Required parents and student athletes on boards governing school sports; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB130": {
+      "plain_topic": "Required insurers to offer uninsured motorist coverage on motorcycle policies; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB14": {
+      "plain_topic": "Changed meeting schedules for state emergency management advisory bodies; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB142": {
+      "plain_topic": "Joined the Nurse Licensure Compact so nurses licensed elsewhere can practice in Nevada.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "81:AB164": {
+      "plain_topic": "Let pharmacists dispense self-administered hormonal birth control to any patient under a standing order.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "81:AB174": {
+      "plain_topic": "Listed who may consent to health care for an incapacitated patient without an agent; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB177": {
+      "plain_topic": "Required pharmacies to provide prescription directions in languages other than English on request.",
+      "theme": "drug-costs",
+      "relevance": "adjacent"
+    },
+    "81:AB178": {
+      "plain_topic": "Made insurers, including Medicaid, waive prescription refill limits for people in declared emergency areas.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "81:AB18": {
+      "plain_topic": "Revised renewal and uninsured motorist coverage rules for motor vehicle insurance; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB180": {
+      "plain_topic": "Required insurers selling Medicare supplement policies to offer them to disabled people under 65.",
+      "theme": "insurance-market",
+      "relevance": "core"
+    },
+    "81:AB181": {
+      "plain_topic": "Required providers to report suicide attempts and drug overdoses to health officials; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB189": {
+      "plain_topic": "Expanded Medicaid for pregnant women by making qualifying women presumptively eligible for coverage.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "81:AB191": {
+      "plain_topic": "Required Medicaid to cover services of supervised community health workers.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "81:AB192": {
+      "plain_topic": "Required syphilis reporting and testing of pregnant women for sexually transmitted diseases; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB193": {
+      "plain_topic": "Expanded Medicaid income eligibility and postpartum coverage for pregnant women.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "81:AB197": {
+      "plain_topic": "Let homeless and independent minors consent to care from more types of health providers.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "81:AB198": {
+      "plain_topic": "Required Medicaid to cover genetic testing for birth defects for pregnant women aged 40 or older.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "81:AB200": {
+      "plain_topic": "Required a veterinarian-client-patient relationship for veterinary practice, including telemedicine; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB205": {
+      "plain_topic": "Let schools stock and administer epinephrine auto-injectors and opioid overdose antidotes; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB210": {
+      "plain_topic": "Required business entities providing chiropractic services to register with the chiropractic licensing board.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "81:AB216": {
+      "plain_topic": "Required Medicaid to cover cognitive assessments and care planning for people showing signs of cognitive impairment.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "81:AB217": {
+      "plain_topic": "Required training for unlicensed caregivers at licensed care facilities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB228": {
+      "plain_topic": "Established children's advocacy centers to investigate child abuse and help victims recover; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB244": {
+      "plain_topic": "Required insurers offering Medicare supplement policies to make them available to more people, including under-65 enrollees.",
+      "theme": "insurance-market",
+      "relevance": "core"
+    },
+    "81:AB247": {
+      "plain_topic": "Updated the Western Regional Education Compact's signatories and office name; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB250": {
+      "plain_topic": "Revised rules on the form, content and sale of Medicare supplement insurance policies.",
+      "theme": "insurance-market",
+      "relevance": "core"
+    },
+    "81:AB256": {
+      "plain_topic": "Required Medicaid to cover doula services for pregnant women.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "81:AB259": {
+      "plain_topic": "Let trained unlicensed staff at psychiatric residential treatment facilities administer medications to residents.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "81:AB274": {
+      "plain_topic": "Required health plans to cover standard fertility preservation services for patients facing certain medical treatments.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "81:AB277": {
+      "plain_topic": "Set rules for exchanging medical and insurance records in car injury claims; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB278": {
+      "plain_topic": "Had the state collect workforce data from physicians when they register or renew licenses.",
+      "theme": "provider-pipeline",
+      "relevance": "adjacent"
+    },
+    "81:AB283": {
+      "plain_topic": "Requires stores to let people with certain medical conditions use employee restrooms; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB287": {
+      "plain_topic": "Updates midwife definitions and gender-neutral terms in childbirth and vital-records laws; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB294": {
+      "plain_topic": "Limits insurers' ability to deny claims over application errors unrelated to the claim itself.",
+      "theme": "insurer-rules",
+      "relevance": "adjacent"
+    },
+    "81:AB313": {
+      "plain_topic": "Allows homeowners' associations to use electronic ballots for board elections; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB314": {
+      "plain_topic": "Revises legal immunity rules for entities sued over COVID-19 exposure; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB327": {
+      "plain_topic": "Requires mental health professionals to take cultural competency and diversity training to renew licenses.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "81:AB34": {
+      "plain_topic": "Updates rules for controlling noxious weeds, pests and pesticides; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB344": {
+      "plain_topic": "Creates a program helping seniors and people with disabilities transition from hospital to home care.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "81:AB345": {
+      "plain_topic": "Legalizes drug-checking products used to test substances and prevent overdoses; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB346": {
+      "plain_topic": "Lets the state set the rates hospitals and doctors can charge many privately insured patients.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "81:AB347": {
+      "plain_topic": "Orders a legislative study of health care payment rates and their impact on patients and costs.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "81:AB348": {
+      "plain_topic": "Moves the Patient Protection Commission, which reviews health care affordability, into the state health department.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "81:AB35": {
+      "plain_topic": "Consolidates state programs helping seniors and people with disabilities pay for prescription drugs.",
+      "theme": "drug-costs",
+      "relevance": "adjacent"
+    },
+    "81:AB350": {
+      "plain_topic": "Creates a statewide registry of people convicted of animal abuse; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB351": {
+      "plain_topic": "Allows terminally ill patients to request life-ending medication from a physician; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB358": {
+      "plain_topic": "Keeps Medicaid eligibility suspended, not terminated, during incarceration so coverage resumes quickly after release.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "81:AB366": {
+      "plain_topic": "Lets mental health training programs skip keeping session recordings used only for training; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB372": {
+      "plain_topic": "Creates a program repaying student debt and paying stipends to attract physicians to Nevada.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "81:AB374": {
+      "plain_topic": "Creates a statewide working group to study substance misuse and response programs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB376": {
+      "plain_topic": "Creates a task force and protections supporting immigrant workers in Nevada; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB377": {
+      "plain_topic": "Creates a program helping low-income households afford broadband internet service; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB381": {
+      "plain_topic": "Gives money to a rural county hospital district to buy emergency medical services equipment.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "81:AB382": {
+      "plain_topic": "Licenses and regulates student loan servicers and private education lenders; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB386": {
+      "plain_topic": "Joins an interstate compact letting emergency medical personnel licensed elsewhere work in Nevada.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "81:AB387": {
+      "plain_topic": "Creates state licensing so certified professional midwives can practice legally in Nevada.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "81:AB423": {
+      "plain_topic": "Expands enforcement authority over ride-hailing companies and their drivers; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB428": {
+      "plain_topic": "Makes patient consent to health record sharing automatic unless the patient opts out; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB429": {
+      "plain_topic": "Licenses and regulates peer-to-peer car sharing programs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB431": {
+      "plain_topic": "Makes patient consent to health record sharing automatic unless the patient opts out; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB432": {
+      "plain_topic": "Makes more state agencies automatically register people to vote; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB436": {
+      "plain_topic": "Restricts vision insurers' contract terms with eye-care providers and requires reimbursement disclosures.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "81:AB438": {
+      "plain_topic": "Revises how the dental board hires staff and handles certain out-of-state dentists.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "81:AB439": {
+      "plain_topic": "Requires licensing boards to grant licenses by endorsement to military members, veterans and their spouses.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "81:AB44": {
+      "plain_topic": "Revises governance and meeting rules for county public hospital boards.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "81:AB442": {
+      "plain_topic": "Requires prescribers to train in a screening-and-referral approach for substance use disorders; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB449": {
+      "plain_topic": "Revises rules for business tax abatements approved by the economic development office; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB45": {
+      "plain_topic": "Makes technical updates to insurance regulation, bonds and service of process; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB46": {
+      "plain_topic": "Repeals Nevada's commerce tax on large businesses; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB47": {
+      "plain_topic": "Requires advance notice to the Attorney General before hospital, physician-group or health insurer mergers.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "81:AB471": {
+      "plain_topic": "Expands required reporting of cancer cases to the state registry; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB478": {
+      "plain_topic": "Moves the Patient Protection Commission, which studies health care affordability, into a state health division.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "81:AB495": {
+      "plain_topic": "Imposes a new tax on large gold and silver mining businesses; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB76": {
+      "plain_topic": "Lets the state run adult day health care and similar care programs for veterans using federal funds.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "81:AB81": {
+      "plain_topic": "Lets providers who have not practiced recently still give free volunteer health care in Nevada.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "81:AB91": {
+      "plain_topic": "Changes the required makeup and term limits of the State Board of Nursing.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "81:AB94": {
+      "plain_topic": "Stops auto insurers from denying personal coverage because someone drives for a ride-hailing company; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:AB96": {
+      "plain_topic": "Allows peer-support counseling programs for emergency responders facing mental health issues; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB100": {
+      "plain_topic": "Joins an interstate compact letting physical therapists licensed elsewhere practice in Nevada.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "81:SB103": {
+      "plain_topic": "Bars insurers from denying or pricing property coverage based on a dog's breed; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB105": {
+      "plain_topic": "Allows terminally ill patients to obtain life-ending controlled substances from a physician; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB112": {
+      "plain_topic": "Exempts certain veterinary biologic products for livestock from state drug regulation; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB139": {
+      "plain_topic": "Requires health insurance, including Medicaid, to cover treatment for gender dysphoria.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "81:SB146": {
+      "plain_topic": "Requires psychiatric facilities to consult a foster child's existing provider when admitting the child; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB154": {
+      "plain_topic": "Seeks federal permission for Medicaid to pay for treatment in institutions for mental diseases.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "81:SB156": {
+      "plain_topic": "Lets more kinds of hospitals qualify as crisis stabilization centers for mental health emergencies.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "81:SB171": {
+      "plain_topic": "Bans pharmacy benefit managers from forcing mail-order drugs and certain copay accumulator programs.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "81:SB175": {
+      "plain_topic": "Creates a state system for reporting and tracking lupus cases; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB179": {
+      "plain_topic": "Revises registration rules for sign language interpreters and captioning providers; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB184": {
+      "plain_topic": "Updates how physicians supervise physician assistants and related medical licensing requirements.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "81:SB188": {
+      "plain_topic": "Creates matched savings accounts to help low-income people build savings; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB189": {
+      "plain_topic": "Keeps children continuously eligible for Medicaid coverage for 12 months after enrollment.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "81:SB190": {
+      "plain_topic": "Lets pharmacists dispense self-administered hormonal birth control directly under a state protocol.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "81:SB196": {
+      "plain_topic": "Requires informed consent before pelvic exams on unconscious or anesthetized patients; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB201": {
+      "plain_topic": "Requires pharmaceutical sales representatives who market drugs in Nevada to be licensed and regulated.",
+      "theme": "drug-costs",
+      "relevance": "adjacent"
+    },
+    "81:SB206": {
+      "plain_topic": "Requires open enrollment periods for insurance covering costs Medicare does not pay.",
+      "theme": "insurance-market",
+      "relevance": "core"
+    },
+    "81:SB209": {
+      "plain_topic": "Gives workers paid leave to get COVID-19 vaccinations; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB210": {
+      "plain_topic": "Requires education plans for foster children admitted to psychiatric hospitals; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB211": {
+      "plain_topic": "Requires emergency and primary care providers to offer sexually transmitted disease testing; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB214": {
+      "plain_topic": "Shifts opioid pain-prescription rules from statute to licensing board regulations; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB217": {
+      "plain_topic": "Revises how the state licenses and oversees behavior analysts and behavior technicians.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "81:SB229": {
+      "plain_topic": "Removes distance limits so pharmacists can collaborate with practitioners on drug therapy management.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "81:SB233": {
+      "plain_topic": "Funds the Nevada Health Service Corps to attract medical and dental providers to underserved areas.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "81:SB240": {
+      "plain_topic": "Requires hospitals to report their standard charges for items and services to the state.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "81:SB248": {
+      "plain_topic": "Sets new rules on how collection agencies may pursue medical debt.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "81:SB251": {
+      "plain_topic": "Requires coverage of genetic counseling and testing for people at risk of hereditary cancer.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "81:SB257": {
+      "plain_topic": "Changes property insurance requirements for townhomes and duplexes in homeowners' associations; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB266": {
+      "plain_topic": "Updates workers' compensation claim filing and medical exam rules; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB269": {
+      "plain_topic": "Limits dental insurers' ability to claw back payments and restricts contract terms with dentists.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "81:SB290": {
+      "plain_topic": "Lets patients with advanced cancer bypass insurers' step-therapy requirements for prescription drugs.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "81:SB291": {
+      "plain_topic": "Creates licensing for advanced estheticians under the cosmetology board; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB295": {
+      "plain_topic": "Protects disability payments for injured first responders who earn income; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB305": {
+      "plain_topic": "Bars denying organ transplants to people because of their disabilities.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "81:SB309": {
+      "plain_topic": "Creates a Clark County committee advising how Medicaid managed-care plans reinvest in the community.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "81:SB325": {
+      "plain_topic": "Lets pharmacists test for and dispense HIV prevention drugs without a doctor's prescription.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "81:SB326": {
+      "plain_topic": "Revises provider licensing rules for telehealth care following pandemic emergency license waivers.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "81:SB329": {
+      "plain_topic": "Requires hospitals and large physician groups to report mergers so the state can monitor competition.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "81:SB335": {
+      "plain_topic": "Creates a state division to centralize administration of occupational licensing boards, including health professions.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "81:SB34": {
+      "plain_topic": "Creates agricultural police officers to enforce agriculture laws; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB341": {
+      "plain_topic": "Lets the state seek and award grants to reduce racial and other health care disparities.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "81:SB364": {
+      "plain_topic": "Requires training and information for emergency care of sexual assault victims; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB372": {
+      "plain_topic": "Narrows which burn injuries health providers must report to fire officials; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB374": {
+      "plain_topic": "Taxes digital products sold electronically to Nevada purchasers; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB378": {
+      "plain_topic": "Requires many health plans to offer prescription drug coverage with no deductible and capped copayments.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "81:SB379": {
+      "plain_topic": "Creates a state database of health provider demographics and practice details for workforce planning.",
+      "theme": "provider-pipeline",
+      "relevance": "adjacent"
+    },
+    "81:SB380": {
+      "plain_topic": "Expands state reporting requirements for prescription drugs with large price increases.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "81:SB389": {
+      "plain_topic": "Licenses peer-to-peer car sharing programs and imposes related fees; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB391": {
+      "plain_topic": "Eases job qualifications for state dental health officials; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB392": {
+      "plain_topic": "Requires pharmacy benefit managers to be licensed and regulated by the state health department.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "81:SB396": {
+      "plain_topic": "Lets public agencies join with private entities to purchase prescription drugs and medical supplies.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "81:SB40": {
+      "plain_topic": "Expands the Patient Protection Commission's power to collect health care data for affordability reviews.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "81:SB402": {
+      "plain_topic": "Requires reciprocal licensing agreements so professionals licensed in other states can practice in Nevada.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "81:SB408": {
+      "plain_topic": "Expands the pharmacy board's powers, including background checks and enforcement agreements.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "81:SB420": {
+      "plain_topic": "Creates a state-designed Public Option health insurance plan for Nevadans to buy.",
+      "theme": "insurance-market",
+      "relevance": "core"
+    },
+    "81:SB44": {
+      "plain_topic": "Eases transcript-submission requirements for people applying for behavioral health licenses.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "81:SB445": {
+      "plain_topic": "Revises state government purchasing and contracting rules; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB451": {
+      "plain_topic": "Set the state's share of public employees' group insurance premiums for 2021-2023; employee-benefits budgeting, not general healthcare policy",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB456": {
+      "plain_topic": "Transfers dental health officer duties and adjusts restricted dental licensing for public health practice.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "81:SB5": {
+      "plain_topic": "Updates telehealth rules, including which technologies count and how services are covered.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "81:SB56": {
+      "plain_topic": "Requires insurers to cover behavioral health services delivered through telehealth like in-person care.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "81:SB69": {
+      "plain_topic": "Sets certification requirements for peer recovery support specialists and their supervisors.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "81:SB70": {
+      "plain_topic": "Revises rules on chemical restraints for people with disabilities in facilities and schools; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "81:SB86": {
+      "plain_topic": "Required Medicaid to cover prescribed donor breast milk and milk fortifiers for certain infants.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "81:SB90": {
+      "plain_topic": "Relabeled unfounded investigations of health providers so they do not count against licensure, credentialing or insurance.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "81:SB93": {
+      "plain_topic": "Let Medicaid recipients directly pay personal care assistants and suspended, not ended, eligibility during incarceration.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "81:SB96": {
+      "plain_topic": "Raised Medicaid and Check-Up payment rates for autism behavior technicians to at least $52 hourly.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:AB100": {
+      "plain_topic": "Created a pilot program to assess the needs of family caregivers; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB107": {
+      "plain_topic": "Required out-of-state pharmacies and pharmacists serving Nevada patients to register and follow state rules.",
+      "theme": "drug-costs",
+      "relevance": "adjacent"
+    },
+    "82:AB108": {
+      "plain_topic": "Joined the Nurse Licensure Compact so nurses licensed in other member states can practice in Nevada.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "82:AB11": {
+      "plain_topic": "Banned hospitals from directly employing physicians to practice medicine except where law expressly allows.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:AB110": {
+      "plain_topic": "Let drug manufacturers and wholesalers ship dialysis drugs and equipment directly to patients for home dialysis.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "82:AB116": {
+      "plain_topic": "Required providers to give families information and referrals about Down syndrome; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB119": {
+      "plain_topic": "Created a committee to review deaths from abuse or neglect of vulnerable adults; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB120": {
+      "plain_topic": "Loosened recent-practice rules so more licensed providers can volunteer free health care in Nevada.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "82:AB121": {
+      "plain_topic": "Required prisons to give inmates original physical copies of their mail; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB123": {
+      "plain_topic": "Set rules for landlord rental-obligations insurance covering unpaid rent and tenant damage; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB124": {
+      "plain_topic": "Simplified annual license renewal and continuing-education checks for osteopathic physicians and physician assistants.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "82:AB127": {
+      "plain_topic": "Changed rules for private Medicare supplemental insurance policies offered to seniors and public employees.",
+      "theme": "insurance-market",
+      "relevance": "core"
+    },
+    "82:AB132": {
+      "plain_topic": "Made Clark County create a task force studying opioid overdose deaths; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB133": {
+      "plain_topic": "Let deaf or hard-of-hearing drivers get a designation on their licenses; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB134": {
+      "plain_topic": "Required pharmaceutical sales representatives who market prescription drugs in Nevada to be licensed and regulated.",
+      "theme": "drug-costs",
+      "relevance": "adjacent"
+    },
+    "82:AB137": {
+      "plain_topic": "Extended fetal alcohol syndrome prevention and confidentiality rules to all fetal alcohol spectrum disorders; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB138": {
+      "plain_topic": "Required Medicaid to cover behavioral health services delivered through integrated care models, with funding.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "82:AB147": {
+      "plain_topic": "Regulated dental hygienists and dental therapists as health providers and updated teledentistry rules.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "82:AB148": {
+      "plain_topic": "Provided guardians ad litem for incapacitated parents in child welfare cases; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB153": {
+      "plain_topic": "Created state licensing and regulation for naprapaths, a new type of health practitioner.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "82:AB155": {
+      "plain_topic": "Required public and private health plans to cover evidence-supported biomarker testing for cancer care.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "82:AB156": {
+      "plain_topic": "Created a fund for bulk purchase and distribution of opioid overdose antidotes; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB158": {
+      "plain_topic": "Joined an interstate compact letting emergency medical personnel certified elsewhere work in Nevada.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "82:AB161": {
+      "plain_topic": "Let people with certain conditions get medical designations on vehicle registrations and licenses; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB164": {
+      "plain_topic": "Reorganized advisory bodies for outdoor recreation grant programs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB168": {
+      "plain_topic": "Created a program to review fetal and infant deaths and recommend prevention; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB178": {
+      "plain_topic": "Extended ambulance and fire vehicle operating permits from one year to two years.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:AB179": {
+      "plain_topic": "Created a Perinatal Quality Collaborative to improve maternal and infant health data; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB188": {
+      "plain_topic": "Expanded rules letting seriously ill patients access investigational drugs and treatments not yet fully approved.",
+      "theme": "drug-costs",
+      "relevance": "adjacent"
+    },
+    "82:AB196": {
+      "plain_topic": "Changed rules on how botulinum toxin injections and single-dose vials may be used; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB197": {
+      "plain_topic": "Let the state assess certain health providers to fund higher Medicaid payments to them.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:AB198": {
+      "plain_topic": "Set statewide certification rules for nurse anesthetists who administer anesthesia under physician care.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "82:AB199": {
+      "plain_topic": "Let qualified chiropractors evaluate and treat head injuries and clear patients to resume activity.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "82:AB201": {
+      "plain_topic": "Required the state to track spending and plan for the children's behavioral health care system.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:AB202": {
+      "plain_topic": "Let nursing home patients install cameras or communication devices in their rooms; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB207": {
+      "plain_topic": "Let schools buy liability insurance for students in work-based learning programs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB208": {
+      "plain_topic": "Sought a Medicaid waiver to pay family caregivers through a structured family caregiving program.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:AB209": {
+      "plain_topic": "Changed which health providers are covered by medical malpractice lawsuit rules.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "82:AB215": {
+      "plain_topic": "Eased residency requirements for members of a senior citizens' advisory forum; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB216": {
+      "plain_topic": "Reorganized and updated the rules governing travel insurance sales; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB223": {
+      "plain_topic": "Required collection agencies to give debtors free payoff and satisfaction letters; not specifically healthcare billing.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB234": {
+      "plain_topic": "Barred health facilities and providers from refusing to treat patients based on vaccination status.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:AB237": {
+      "plain_topic": "Appropriated state money to the Medicaid agency for certain Medicaid costs.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:AB24": {
+      "plain_topic": "Added members to the state advisory committee on emergency medical services; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB243": {
+      "plain_topic": "Changed how legislative interim committees and their chairs operate; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB244": {
+      "plain_topic": "Gave people rights to observers and recordings during court-ordered medical exams; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB248": {
+      "plain_topic": "Funded the Nevada Health Service Corps to attract health practitioners to underserved areas.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "82:AB250": {
+      "plain_topic": "Barred buyers and payers from paying more than Medicare-negotiated maximum fair prices for drugs.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "82:AB251": {
+      "plain_topic": "Required pharmacies to provide prescription directions in more languages patients can understand.",
+      "theme": "drug-costs",
+      "relevance": "adjacent"
+    },
+    "82:AB257": {
+      "plain_topic": "Made counties, not victims, pay for forensic medical exams after strangulation domestic violence.",
+      "theme": "patient-billing",
+      "relevance": "adjacent"
+    },
+    "82:AB259": {
+      "plain_topic": "Revised rules on paying workers with disabilities less than minimum wage; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB263": {
+      "plain_topic": "Set water-system safety rules in health facilities to prevent Legionnaires' disease; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB267": {
+      "plain_topic": "Revised cultural competency training requirements for staff of health facilities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB270": {
+      "plain_topic": "Created state licensing for anesthesiologist assistants working under supervising anesthesiologists.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "82:AB276": {
+      "plain_topic": "Broadened telehealth to include provider-to-provider consultations, including for forensic medical exams.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "82:AB277": {
+      "plain_topic": "Allowed rural emergency hospitals, small 24/7 emergency facilities, to operate in Nevada.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "82:AB281": {
+      "plain_topic": "Set heating and air-conditioning requirements for senior living facilities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB282": {
+      "plain_topic": "Created a subsidy program for certain substitute teachers; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB283": {
+      "plain_topic": "Let Medicaid pay incentive payments to doulas serving patients in rural Nevada.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:AB293": {
+      "plain_topic": "Added Medicaid coverage for medical-legal partnership services addressing social causes of poor health.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "82:AB294": {
+      "plain_topic": "Banned sales of flavored tobacco and vapor products and tightened enforcement; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB301": {
+      "plain_topic": "Expanded which officers count as police for occupational disease benefits; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB311": {
+      "plain_topic": "Let hospitals host military medical personnel, including unlicensed ones, to provide care during training.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "82:AB318": {
+      "plain_topic": "Raised fines the medical board can impose on doctors and redirected the money; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB322": {
+      "plain_topic": "Required kratom products to be registered with the state before sale; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB332": {
+      "plain_topic": "Created licensing and regulation of student loan servicers and private education lenders; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB334": {
+      "plain_topic": "Set deadlines for auto insurers to inspect vehicles for repair claims; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB338": {
+      "plain_topic": "Added Medicaid coverage for creative arts therapy services.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "82:AB357": {
+      "plain_topic": "Replaced required school sex education courses with revised instruction requirements; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB358": {
+      "plain_topic": "Moved oversight of emergency medical services to a new bureau under the State Fire Marshal.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:AB364": {
+      "plain_topic": "Expanded the medical licensing board to add a physician assistant and a respiratory practitioner.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "82:AB37": {
+      "plain_topic": "Created a university center to grow Nevada's behavioral health workforce.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "82:AB371": {
+      "plain_topic": "Rewrote Nevada's parentage laws using the Uniform Parentage Act; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB383": {
+      "plain_topic": "Barred governments from singling out reproductive health care for restrictions; abortion regulation, not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB385": {
+      "plain_topic": "Changed eligibility and funding for private school choice scholarships; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB386": {
+      "plain_topic": "Created state licensing and regulation of certified professional midwives.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "82:AB389": {
+      "plain_topic": "Sought federal permission to provide Medicaid coverage to people who are incarcerated.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:AB392": {
+      "plain_topic": "Banned deceptive long-term home service agreements recorded against residential property; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB393": {
+      "plain_topic": "Created a program repaying doctors' student debt and funding residencies to attract physicians to Nevada.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "82:AB398": {
+      "plain_topic": "Barred liability insurance policies from reducing coverage limits by legal defense costs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB401": {
+      "plain_topic": "Let nursing schools set their own clinical faculty-to-student ratios within a maximum limit.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "82:AB404": {
+      "plain_topic": "Gradually raised the cap on noneconomic damages in medical malpractice lawsuits.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "82:AB406": {
+      "plain_topic": "Required hospitals discharging homeless patients to coordinate with family or shelter organizations.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:AB411": {
+      "plain_topic": "Required medical facilities to let terminally ill patients use medical cannabis on site; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB414": {
+      "plain_topic": "Updated forms and rules for advance health-care directives and powers of attorney; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB415": {
+      "plain_topic": "Updated the governance and operations of the board that licenses dispensing opticians.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "82:AB418": {
+      "plain_topic": "Made state abortion law override local ordinances regulating abortion; abortion regulation, not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB428": {
+      "plain_topic": "Created a career pathways workforce program in priority industries; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB432": {
+      "plain_topic": "Updated optometry practice rules, board citation authority and licensing fees.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "82:AB434": {
+      "plain_topic": "Stopped pharmacy benefit managers and insurers from penalizing providers in the 340B drug discount program.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "82:AB435": {
+      "plain_topic": "Funded grants for programs treating people with co-occurring mental health and substance use disorders.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:AB437": {
+      "plain_topic": "Limited what providers may charge patients for completing medical leave paperwork.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "82:AB439": {
+      "plain_topic": "Made forced arbitration clauses in health insurance policies unenforceable against patients.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "82:AB440": {
+      "plain_topic": "Tightened regulation of pharmacy benefit managers that run insurers' prescription drug plans.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "82:AB441": {
+      "plain_topic": "Changed workers' compensation insurers' file access and claims rules; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB442": {
+      "plain_topic": "Required health licensing boards to refer domestic violence and sexual assault complaints to police; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB445": {
+      "plain_topic": "Offered tax breaks to businesses that locate in Nevada and provide children's mental health services.",
+      "theme": "provider-pipeline",
+      "relevance": "adjacent"
+    },
+    "82:AB45": {
+      "plain_topic": "Created a program repaying student loans of health providers working in underserved communities.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "82:AB456": {
+      "plain_topic": "Set safety rules for railroad wayside detectors and blocked crossings; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB460": {
+      "plain_topic": "Narrowed which nurse staffing agencies must be licensed as medical facilities.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:AB490": {
+      "plain_topic": "Allowed creation of academic medical districts to develop medical education and health care access.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:AB503": {
+      "plain_topic": "Set criminal background check rules for school volunteers; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB518": {
+      "plain_topic": "Changed how much counties must pay for indigent criminal defense; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB526": {
+      "plain_topic": "Redistributed unspent COVID-19 relief money to certain nonprofit organizations; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB528": {
+      "plain_topic": "Created matching funds up to $100 million for homelessness service facilities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB54": {
+      "plain_topic": "Made assorted changes to school accountability reporting and related education rules; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB56": {
+      "plain_topic": "Let emergency and transit vehicles drive on highway shoulders in certain situations; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB6": {
+      "plain_topic": "Puts yearly targets and reporting on how fast total health care spending can grow in Nevada.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "82:AB69": {
+      "plain_topic": "Expands loan repayment for health providers in shortage areas to include behavioral health providers.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "82:AB7": {
+      "plain_topic": "Sets statewide rules for storing and sharing electronic health records; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:AB78": {
+      "plain_topic": "Lets certain jobs and day training service providers work without a nursing license.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "82:AB85": {
+      "plain_topic": "Creates a process to set fixed prices hospitals, emergency centers and surgery centers can charge.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "82:AB9": {
+      "plain_topic": "Gives regional behavioral health boards staff and support to oversee mental health services in their regions.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:AB99": {
+      "plain_topic": "Changes how Medicaid payment rates to health providers are reviewed and updated.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:ACR1": {
+      "plain_topic": "Adopts the Legislature's internal joint rules for the 2023 session; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:ACR2": {
+      "plain_topic": "Allows extra travel reimbursement for legislators in certain cases; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB117": {
+      "plain_topic": "Lets Medicaid cover community health worker services supervised by more types of health providers.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:SB119": {
+      "plain_topic": "Keeps requiring insurers to pay for telehealth visits the same as in-person care.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "82:SB127": {
+      "plain_topic": "Requires Medicaid to cover heart and lung transplants for adults.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "82:SB131": {
+      "plain_topic": "Protects health providers' licenses from discipline for providing legal reproductive health care.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "82:SB132": {
+      "plain_topic": "Bans insurers from charging living organ donors more or denying them coverage.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "82:SB134": {
+      "plain_topic": "Limits how vision insurers can control what eye care providers charge and get paid.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "82:SB137": {
+      "plain_topic": "Requires Medicaid to cover donor breast milk and related products.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "82:SB140": {
+      "plain_topic": "Lets some counties get reimbursed for costs tied to the live entertainment tax; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB142": {
+      "plain_topic": "Creates a bill of rights for people experiencing homelessness; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB146": {
+      "plain_topic": "Lets nurse-midwives do hospital admission exams for births and protects their insurance network participation.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "82:SB154": {
+      "plain_topic": "Makes it a felony for fertility providers to secretly use their own genetic material; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB161": {
+      "plain_topic": "Strengthens insurance coverage of contraceptives, including banning prior authorization for birth control.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "82:SB163": {
+      "plain_topic": "Requires health insurance to cover treatment for gender dysphoria and gender incongruence.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "82:SB167": {
+      "plain_topic": "Blocks insurers from forcing patients to retry cheaper drugs (step therapy) in certain cases.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "82:SB172": {
+      "plain_topic": "Expands when minors can consent to certain health services without a parent; consent law, not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB177": {
+      "plain_topic": "Requires Medicaid to cover certain antipsychotic and anticonvulsant drugs beyond its preferred drug list.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "82:SB179": {
+      "plain_topic": "Regulates outside investors who fund lawsuits for a share of winnings; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB183": {
+      "plain_topic": "Sets rules for secure drug take-back bins to collect unused medications; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB184": {
+      "plain_topic": "Expands the North Las Vegas City Council from four to six wards; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB187": {
+      "plain_topic": "Raises prison wages and limits medical copays charged to incarcerated people.",
+      "theme": "patient-billing",
+      "relevance": "adjacent"
+    },
+    "82:SB191": {
+      "plain_topic": "Updates Medicaid payment rules for applied behavior analysis providers.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:SB192": {
+      "plain_topic": "Changes how county hospitals and hospital districts are governed.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:SB194": {
+      "plain_topic": "Expands patients' ability to get exemptions from insurer step-therapy drug requirements.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "82:SB2": {
+      "plain_topic": "Reorganizes the state disaster victim identification committee; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB201": {
+      "plain_topic": "Lets pharmacists collect specimens by more methods and order more lab tests, expanding their practice.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "82:SB202": {
+      "plain_topic": "Sets supervision and medication record-keeping rules for hospital pharmacies.",
+      "theme": "drug-costs",
+      "relevance": "adjacent"
+    },
+    "82:SB203": {
+      "plain_topic": "Bans drug makers and wholesalers from giving gifts to prescribers.",
+      "theme": "drug-costs",
+      "relevance": "adjacent"
+    },
+    "82:SB204": {
+      "plain_topic": "Lets certain medical school graduates practice medicine in limited settings before full licensure.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "82:SB210": {
+      "plain_topic": "Asks the Governor to make state board appointments reflect Nevada's diversity; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB212": {
+      "plain_topic": "Reimburses teachers for out-of-pocket classroom supply costs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB214": {
+      "plain_topic": "Updates the state science and technology advisory council's duties; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB220": {
+      "plain_topic": "Changes eligibility and funding for private school choice scholarships; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB221": {
+      "plain_topic": "Creates a special Medicaid billing category and rates for clinics treating children with cancer and rare diseases.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:SB226": {
+      "plain_topic": "Revises prevailing wage rules for public works contracts; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB232": {
+      "plain_topic": "Requires Medicaid to cover postpartum care for 12 months after pregnancy.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "82:SB237": {
+      "plain_topic": "Adjusts the phone surcharge funding Nevada's suicide prevention and mental health crisis hotline.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:SB239": {
+      "plain_topic": "Lets terminally ill patients get medication to end their own lives; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB241": {
+      "plain_topic": "Requires Medicaid to pay small rural critical access hospitals their actual costs for certain services.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:SB242": {
+      "plain_topic": "Creates a working group to study therapeutic use of psychedelics; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB249": {
+      "plain_topic": "Revises cosmetology licensing and scope-of-practice rules; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB255": {
+      "plain_topic": "Raises Medicaid payment rates at least 10 percent for services mainly treating seriously ill children.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:SB267": {
+      "plain_topic": "Requires health insurance to cover mental health services.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "82:SB276": {
+      "plain_topic": "Licenses debt buyers as collection agencies and sets general debt collection rules; not specifically healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB280": {
+      "plain_topic": "Requires hospitals to provide long-acting birth control after childbirth when a patient requests it.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "82:SB283": {
+      "plain_topic": "Requires medical records to be transmitted electronically on request; records handling, not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB286": {
+      "plain_topic": "Updates the state wellness and chronic disease prevention program; public health promotion, not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB289": {
+      "plain_topic": "Increases criminal penalties for assaults on health care workers; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB298": {
+      "plain_topic": "Adds discipline grounds and resident eviction protections for group-home care facilities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB302": {
+      "plain_topic": "Protects health providers' licenses from discipline for providing legal gender-affirming care.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "82:SB307": {
+      "plain_topic": "Restricts the use of solitary confinement in prisons; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB309": {
+      "plain_topic": "Makes fertility fraud by assisted reproduction providers a crime; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB320": {
+      "plain_topic": "Makes the state pay part of legislators' health insurance premiums; not broader healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB324": {
+      "plain_topic": "Eases faculty-to-student ratio rules so nursing schools can train more students.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "82:SB330": {
+      "plain_topic": "Requires insurers to cover breast cancer screening and diagnostic imaging without patient cost-sharing.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "82:SB332": {
+      "plain_topic": "Makes children under guardianship who lack other coverage eligible for Medicaid.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:SB333": {
+      "plain_topic": "Requires virtual currency businesses to register with state regulators; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB336": {
+      "plain_topic": "Clarifies that practitioners of one healing art are not regulated under other professions' licensing laws.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "82:SB348": {
+      "plain_topic": "Requires state approval before closing or converting a hospital in Nevada's urban counties.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "82:SB350": {
+      "plain_topic": "Creates a state grant program funding new and expanded physician residency training programs.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "82:SB352": {
+      "plain_topic": "Makes pharmacy benefit managers follow the same insurance rules as the insurers they serve.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "82:SB355": {
+      "plain_topic": "Revises licensing rules for banks and financial institutions; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB362": {
+      "plain_topic": "Requires police to get medical aid for detainees who say they cannot breathe; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB365": {
+      "plain_topic": "Limits which health facility employees must take cultural competency training and caps hours; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB369": {
+      "plain_topic": "Gives businesses a tax credit for donations that fund new hospital residency programs in shortage specialties.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "82:SB370": {
+      "plain_topic": "Sets privacy rules for companies collecting consumer health data; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB372": {
+      "plain_topic": "Changes how much insurers must pay out-of-network providers for emergency care, protecting patients from balance bills.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "82:SB375": {
+      "plain_topic": "Funds a grant program to expand nursing programs at Nevada colleges and universities.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "82:SB381": {
+      "plain_topic": "Stops landlords from charging tenants fees for required repairs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB385": {
+      "plain_topic": "Requires hospitals to connect discharged patients with a dietician as part of care planning.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:SB390": {
+      "plain_topic": "Creates state reporting systems for neurodegenerative diseases; health data collection, not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB393": {
+      "plain_topic": "Tightens rules against excessive dental insurance premiums and requires insurers to report costs.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "82:SB399": {
+      "plain_topic": "Requires licensing boards, including health boards, to grant licenses by endorsement to qualified out-of-state professionals.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "82:SB4": {
+      "plain_topic": "Updates state programs helping seniors and people with disabilities pay for prescription drugs.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "82:SB400": {
+      "plain_topic": "Makes Medicaid managed care plans reinvest profits in homelessness and related health services.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "82:SB41": {
+      "plain_topic": "Replaces child welfare incentive payments with annual grants to county agencies; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB419": {
+      "plain_topic": "Builds a statewide framework for exchanging electronic health records; records infrastructure, not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB42": {
+      "plain_topic": "Expands what counties can spend their indigent medical assistance funds on.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:SB422": {
+      "plain_topic": "Sets rules for sidewalk personal delivery robots; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB427": {
+      "plain_topic": "Requires workplace safety programs to address heat illness and poor air quality; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB431": {
+      "plain_topic": "Creates a state innovation office and Chief Innovation Officer; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB435": {
+      "plain_topic": "Lets provider-assessment money fund higher Medicaid payments to more care providers.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:SB439": {
+      "plain_topic": "Updates state and local duties for controlling communicable diseases; public health, not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB44": {
+      "plain_topic": "Moves responsibility for appointing the State Dental Health Officer; mostly an administrative change.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "82:SB445": {
+      "plain_topic": "Funds an information system tracking emergency medical services training records and adjusts EMS personnel regulation.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "82:SB45": {
+      "plain_topic": "Sets the monthly personal needs allowance Medicaid nursing home residents can keep.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "82:SB481": {
+      "plain_topic": "Appropriates money to reimburse counties for indigent criminal defense costs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB493": {
+      "plain_topic": "Buys computer hardware and software for the state health department; IT spending, not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB494": {
+      "plain_topic": "Funds Medicaid agency computer systems, including utilization review and centralized provider credentialing.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "82:SB497": {
+      "plain_topic": "Adjusts arbitration rules for payment disputes over out-of-network emergency care.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "82:SB501": {
+      "plain_topic": "Sets the state's premium subsidies for public employee health benefits; not broader healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB57": {
+      "plain_topic": "Streamlines insurance regulators' paperwork, hearings and fraud-unit procedures; administrative, not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB6": {
+      "plain_topic": "Limits DMV release of personal information to reporters; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB73": {
+      "plain_topic": "Revises COVID-19 civil liability protections for businesses; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB80": {
+      "plain_topic": "Updates youth sports concussion prevention and treatment policies; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SB97": {
+      "plain_topic": "Joins an interstate compact letting licensed physical therapists practice across member states.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "82:SCR5": {
+      "plain_topic": "Urges expanding cardiovascular screening programs and orders a legislative study; public health resolution, not cost/access policy.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SJR7": {
+      "plain_topic": "Proposes a constitutional right to reproductive freedom including abortion; rights measure, not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "82:SJR8": {
+      "plain_topic": "Asks Congress to make Medicare cover multi-cancer early detection tests.",
+      "theme": "coverage-mandates",
+      "relevance": "adjacent"
+    },
+    "83:AB101": {
+      "plain_topic": "Makes state abortion law override local abortion regulations; abortion regulation, not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB102": {
+      "plain_topic": "Lets local health district boards regulate emergency medical services in their areas.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:AB106": {
+      "plain_topic": "Joins an interstate compact letting licensed occupational therapists practice across member states.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:AB15": {
+      "plain_topic": "Strengthens the Attorney General's subpoena powers to investigate Medicaid fraud; enforcement, not cost/coverage/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB161": {
+      "plain_topic": "Required hospice programs to get informed consent and give patients notice of their care rights; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB169": {
+      "plain_topic": "Exempted limited-benefit and specified-disease insurance policies from Nevada's required health coverage mandates.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:AB170": {
+      "plain_topic": "Created limited licenses letting medical school graduates practice under supervision as associate physicians.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:AB176": {
+      "plain_topic": "Established a legal right to contraception and family planning services, barring government interference with access.",
+      "theme": "coverage-mandates",
+      "relevance": "adjacent"
+    },
+    "83:AB183": {
+      "plain_topic": "Let the optometry board summarily suspend optometrist licenses and revised discipline procedures; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB186": {
+      "plain_topic": "Let pharmacists prescribe and dispense drugs for certain diagnosed, minor, or test-confirmed conditions.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:AB188": {
+      "plain_topic": "Adjusted funding mechanics for retired state employees' health benefits; employee-benefits budgeting, not general healthcare policy",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB202": {
+      "plain_topic": "Required a dentist, not just a physician, to make dental coverage denial decisions for managed care plans.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "83:AB204": {
+      "plain_topic": "Barred medical debt collectors from arrests, property liens, and other harsh tactics against patients.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "83:AB206": {
+      "plain_topic": "Repealed rules on how liability insurance policies handle legal defense costs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB207": {
+      "plain_topic": "Changed how insurers report their compliance with mental health and addiction coverage parity rules.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:AB214": {
+      "plain_topic": "Revised school-choice scholarship eligibility and related business tax credits; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB221": {
+      "plain_topic": "Exempted certain physician offices and facilities from state permits for offering anesthesia and sedation.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:AB230": {
+      "plain_topic": "Joined an interstate compact letting audiologists and speech-language pathologists licensed elsewhere practice in Nevada.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:AB234": {
+      "plain_topic": "Required Medicaid to cover screening for lung, colorectal, and prostate cancer.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:AB235": {
+      "plain_topic": "Let reproductive health providers keep their personal information confidential in government records; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB248": {
+      "plain_topic": "Joined an interstate compact letting physical therapists licensed in member states practice in Nevada.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:AB253": {
+      "plain_topic": "Gave civil liability immunity to military personnel providing care in hospitals under Armed Forces agreements.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:AB259": {
+      "plain_topic": "Regulated prescription drug prices by tying them to Medicare's negotiated maximum fair prices.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "83:AB260": {
+      "plain_topic": "Required abortion providers to give patients lists of post-abortion counseling and support services; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB266": {
+      "plain_topic": "Required the state to publicize Medicaid's breastfeeding coverage and available lactation support services.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "83:AB269": {
+      "plain_topic": "Added speech-language pathologists, physical therapists, and others to the health provider student loan repayment program.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "83:AB272": {
+      "plain_topic": "Changed who pays hospitals for forensic exams of assault victims, keeping victims from being billed.",
+      "theme": "patient-billing",
+      "relevance": "adjacent"
+    },
+    "83:AB282": {
+      "plain_topic": "Required medical facilities and billers to respond to and fix patient reports of billing overcharges.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "83:AB284": {
+      "plain_topic": "Sought higher Medicaid reimbursement rates for devices that treat epilepsy.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:AB290": {
+      "plain_topic": "Added rules and deadlines for insurers requiring prior authorization before covering medical or dental care.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "83:AB295": {
+      "plain_topic": "Set faster deadlines for insurers, Medicaid, and CHIP to decide prior authorization requests.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "83:AB297": {
+      "plain_topic": "Required Medicaid to cover optional home visits for pregnant and recently postpartum enrollees.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:AB304": {
+      "plain_topic": "Required researchers running brain stimulation pilot programs to notify and report to the Legislature; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB305": {
+      "plain_topic": "Capped what health providers may charge patients for filling out family and medical leave forms.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "83:AB31": {
+      "plain_topic": "Required Medicaid to reimburse nonemergency secure behavioral health transport providers for travel distances.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:AB311": {
+      "plain_topic": "Barred auto insurers from denying coverage because the insured drives for a rideshare company; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB314": {
+      "plain_topic": "Revised workforce career-pathway programs run by the Governor's Office of Workforce Innovation; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB315": {
+      "plain_topic": "Changed the verification statement required on applications to become a Medicaid provider.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "83:AB318": {
+      "plain_topic": "Let captive insurers directly provide workers' compensation insurance; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB319": {
+      "plain_topic": "Revised physician licensing exam requirements and other rules of the Board of Medical Examiners.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:AB324": {
+      "plain_topic": "Changed property insurance requirements for homeowner associations in common-interest communities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB326": {
+      "plain_topic": "Revised how hospitals get approved and designated as trauma treatment centers.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "83:AB334": {
+      "plain_topic": "Eased licensure by endorsement for out-of-state dental hygienists and expanded function dental assistants.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:AB337": {
+      "plain_topic": "Created a state dementia care specialist program to support patients, families, and caregivers.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:AB338": {
+      "plain_topic": "Expanded Medicaid's home and community-based services waiver for elderly recipients, including attendant care.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:AB339": {
+      "plain_topic": "Created a state Office of Children's Mental and Behavioral Health and revised behavioral health governance.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:AB340": {
+      "plain_topic": "Required public and private health insurance to cover certain screenings, assessments, and diagnoses.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:AB343": {
+      "plain_topic": "Required hospitals to publish standard charges and price-estimator tools so patients can compare costs.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "83:AB346": {
+      "plain_topic": "Let terminally ill patients request and self-administer life-ending medication; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB349": {
+      "plain_topic": "Capped what hospitals and emergency centers may charge patients covered by public employee health plans.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "83:AB36": {
+      "plain_topic": "Revised hearing and oversight procedures for providers sanctioned under the state Medicaid plan.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "83:AB360": {
+      "plain_topic": "Expanded required syphilis testing of pregnant women by physicians and medical facilities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB368": {
+      "plain_topic": "Revised rules for cameras and communication devices in nursing facility patient rooms; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB371": {
+      "plain_topic": "Joined an interstate licensing compact for cosmetologists; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB376": {
+      "plain_topic": "Created a regulatory sandbox program for insurers to test new property insurance products; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB378": {
+      "plain_topic": "Created a pilot program giving mental health patients supervised access to psychedelic therapy; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB380": {
+      "plain_topic": "Revised requirements for mobile crisis teams responding to people in behavioral health crises via 988.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "83:AB382": {
+      "plain_topic": "Broadened required insurance coverage of biomarker testing beyond cancer diagnosis and treatment.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:AB393": {
+      "plain_topic": "Prohibited hospitals and psychiatric hospitals from directly employing physicians.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:AB395": {
+      "plain_topic": "Required health providers to ensure effective communication and interpreters for deaf and hard-of-hearing patients.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:AB399": {
+      "plain_topic": "Required health insurance to cover treatment for severe obesity.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:AB406": {
+      "plain_topic": "Restricted schools from using artificial intelligence in place of counselors for student mental health; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB411": {
+      "plain_topic": "Let abortion medication labels show the prescribing practice's name instead of the individual prescriber; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB413": {
+      "plain_topic": "Created a Southern Nevada apprenticeship pilot to train medical assistants and pharmacy technicians amid shortages.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "83:AB424": {
+      "plain_topic": "Overhauled state parentage law to follow the Uniform Parentage Act; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB428": {
+      "plain_topic": "Required health plans to cover fertility preservation for patients diagnosed with certain cancers.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:AB437": {
+      "plain_topic": "Created a FAIR Plan so property owners can get fire insurance when the market won't; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB438": {
+      "plain_topic": "Revised state regulation of private providers of nonemergency medical transportation.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:AB440": {
+      "plain_topic": "Revised workers' compensation disease testing for police, firefighters, and arson investigators; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB446": {
+      "plain_topic": "Limited freight train lengths and required railroad safety equipment; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB448": {
+      "plain_topic": "Restricted how insurers may set reimbursement and contract terms with vision care providers.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "83:AB454": {
+      "plain_topic": "Required schools to plan CPR training and defibrillator readiness for staff and coaches; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB461": {
+      "plain_topic": "Created a long-term care planning education program and updated advance directive laws; not primarily healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB462": {
+      "plain_topic": "Expanded the Inland Port Authority Act to industrial parks for economic development; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB463": {
+      "plain_topic": "Tightened prior authorization rules for private insurers, Medicaid, and the Children's Health Insurance Program.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "83:AB466": {
+      "plain_topic": "Revised notice delivery rules for portable electronics insurance policies; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB467": {
+      "plain_topic": "Allowed treatment facilities inside county jails for criminal defendants found incompetent; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB468": {
+      "plain_topic": "Revised school reimbursement for educating children in residential treatment facilities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB469": {
+      "plain_topic": "Revised rules for self-insured employer groups under workers' compensation law; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB470": {
+      "plain_topic": "Added requirements on insurers' use of prior authorization for medical and dental care.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "83:AB482": {
+      "plain_topic": "Expanded Medicaid contraception coverage, including male sterilization and related clinical services.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:AB483": {
+      "plain_topic": "Required priority review of license applications for health professions to speed providers into practice.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:AB484": {
+      "plain_topic": "Expanded state collection of data about where and how much health providers practice.",
+      "theme": "provider-pipeline",
+      "relevance": "adjacent"
+    },
+    "83:AB49": {
+      "plain_topic": "Let schools provisionally hire teachers licensed in other states; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB491": {
+      "plain_topic": "Required clerks to quickly give election data to the Secretary of State; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB494": {
+      "plain_topic": "Required state agencies to report if key federal education laws are repealed; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB499": {
+      "plain_topic": "Required voters to show photo identification to vote in person; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB50": {
+      "plain_topic": "Let counties build databases of mass casualty victims to coordinate support services; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB511": {
+      "plain_topic": "Revised insureds' rights to reimbursement when treated by chiropractors, psychologists, social workers, and similar providers.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "83:AB512": {
+      "plain_topic": "Clarified which liability insurance policies must cover legal defense costs; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB513": {
+      "plain_topic": "Let out-of-state chiropractic assistants get temporary Nevada certificates to practice quickly.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:AB514": {
+      "plain_topic": "Required Medicaid to cover rehabilitative residential mental health care for certain recipients.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:AB516": {
+      "plain_topic": "Ensured schools can get Medicaid reimbursement for covered health services provided to children on campus.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:AB519": {
+      "plain_topic": "Created a separate licensing framework for agencies providing nonmedical personal care services in homes.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:AB52": {
+      "plain_topic": "Revised deadlines for health insurers to approve, deny, and pay insurance claims.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "83:AB522": {
+      "plain_topic": "Wrote federal rules into state law requiring dependent coverage to age 26 and no-cost preventive care.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:AB523": {
+      "plain_topic": "Revised minimum insurance amounts for rideshare companies and drivers; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB54": {
+      "plain_topic": "Increased penalties for drivers who cause death or injury near traffic incidents; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB544": {
+      "plain_topic": "Made medical facility licenses expire one year after issuance instead of every December 31.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:AB555": {
+      "plain_topic": "Capped patient cost-sharing at $35 for a 30-day supply of prescription insulin.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "83:AB556": {
+      "plain_topic": "Created a Medicaid Advisory Committee and Beneficiary Advisory Council to comply with federal rules.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "83:AB56": {
+      "plain_topic": "Revised continuing education requirements physicians must complete to renew their licenses.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:AB583": {
+      "plain_topic": "Set the state's share of public employees' group insurance premiums for 2025-2027; employee-benefits budgeting, not general healthcare policy",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB584": {
+      "plain_topic": "Streamlined school data reporting and revised the statewide school accountability system; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB70": {
+      "plain_topic": "Revised tax abatement approval processes for renewable energy facilities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB74": {
+      "plain_topic": "Reorganized the Nevada Insurance Code's rules for examining insurers; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:AB77": {
+      "plain_topic": "Revised criteria for businesses seeking partial tax abatements for economic development; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:ACR1": {
+      "plain_topic": "Adopted the Legislature's joint standing rules for the 2025 session; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:ACR2": {
+      "plain_topic": "Authorized extra travel reimbursement for legislators in certain circumstances; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB105": {
+      "plain_topic": "Revised state rules for Medicare supplemental insurance policies sold to seniors.",
+      "theme": "insurance-market",
+      "relevance": "core"
+    },
+    "83:SB118": {
+      "plain_topic": "Required Medicaid to cover and fairly reimburse pharmacist-provided services within their scope of practice.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:SB124": {
+      "plain_topic": "Eased the path for foreign medical school graduates to move from restricted to full physician licenses.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:SB127": {
+      "plain_topic": "Required EMTs, paramedics, and other first responders to complete annual human trafficking awareness training.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:SB128": {
+      "plain_topic": "Barred insurers from relying solely on artificial intelligence to deny prior authorization requests.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "83:SB134": {
+      "plain_topic": "Appropriated money for grants to relieve residents' medical debt through local governments.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "83:SB137": {
+      "plain_topic": "Create a state program to improve people's access to help and resources during medical emergencies.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:SB138": {
+      "plain_topic": "Improve care for pregnant women and newborns, including Medicaid enrollment and hospital birthing requirements.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:SB149": {
+      "plain_topic": "Require the state to use a single pharmacy benefit manager for Medicaid prescription drug coverage.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "83:SB150": {
+      "plain_topic": "Raise Medicaid payment rates for certain substance use disorder treatment services.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:SB165": {
+      "plain_topic": "Create a new state license for behavioral health and wellness practitioners under the psychology board.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "83:SB166": {
+      "plain_topic": "Stop insurers from denying or raising the price of property insurance based on dog breed; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB171": {
+      "plain_topic": "Protect providers of gender-affirming care from losing their licenses or facing board discipline.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "83:SB172": {
+      "plain_topic": "Give agricultural workers rights to rest breaks, fair pay rules and other job protections; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB176": {
+      "plain_topic": "Change rules for career and technical education programs in schools; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB182": {
+      "plain_topic": "Strengthen hospital nurse staffing committees and staffing plan requirements in large counties.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:SB184": {
+      "plain_topic": "Ban latex gloves and utensils in food establishments to prevent allergies; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB185": {
+      "plain_topic": "Let Medicaid pay family members who provide personal care to disabled or chronically ill children.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:SB186": {
+      "plain_topic": "Require disclaimers when doctors or facilities use artificial intelligence to communicate with patients; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB188": {
+      "plain_topic": "Require health care entities to help patients with limited English get language assistance when seeking care.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:SB189": {
+      "plain_topic": "Create state licensing for genetic counselors under the Board of Medical Examiners.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:SB192": {
+      "plain_topic": "Require health providers to communicate effectively with patients who have disabilities, including interpreter services.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:SB199": {
+      "plain_topic": "Register and regulate artificial intelligence companies through a state consumer protection bureau; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB200": {
+      "plain_topic": "Reimburse counties for costs tied to events subject to the live entertainment tax; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB207": {
+      "plain_topic": "Require the state to run an all-inclusive care program (PACE) for older Medicare and Medicaid recipients.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:SB209": {
+      "plain_topic": "Tighten state regulation of pharmacy benefit managers who administer prescription drug coverage.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "83:SB211": {
+      "plain_topic": "Let state peace officers and firefighters collectively bargain over insurance benefits; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB217": {
+      "plain_topic": "Protect access to assisted reproduction, like IVF, from government restrictions; not healthcare cost/coverage policy.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB220": {
+      "plain_topic": "Expand film production tax credits and create a film industry development act; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB226": {
+      "plain_topic": "Change how legislative interim committees and their chairs operate; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB227": {
+      "plain_topic": "Join an interstate compact so school psychologists licensed elsewhere can work in Nevada schools.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "83:SB228": {
+      "plain_topic": "Fund a foundation to start a pediatric stem cell and bone marrow transplant program in Nevada.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "83:SB231": {
+      "plain_topic": "Set rules for secure drug take-back bins to collect unused medications; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB234": {
+      "plain_topic": "Spell out what emergency Medicaid must cover for young people regardless of immigration status.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:SB237": {
+      "plain_topic": "Waive university tuition and fees for survivors of service members killed on duty; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB239": {
+      "plain_topic": "Raise Medicaid payment rates for services treating children with cancer and serious childhood diseases.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:SB24": {
+      "plain_topic": "Create certification and rules for emergency medical responders alongside EMTs and paramedics.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:SB244": {
+      "plain_topic": "Require Medicaid to cover obesity treatments, including lifestyle programs and weight-loss surgery.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:SB246": {
+      "plain_topic": "Extend the rule letting women see gynecologists without insurer referral or prior approval to more health plans.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "83:SB249": {
+      "plain_topic": "Let certified nurse anesthetists prescribe and administer drugs in more settings, not just small rural hospitals.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:SB250": {
+      "plain_topic": "Give patients ownership of their health records and free electronic access to them; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB257": {
+      "plain_topic": "Update state standards for assessing and evaluating people with autism spectrum disorders; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB260": {
+      "plain_topic": "Require workplace protections for employees exposed to wildfire smoke; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB262": {
+      "plain_topic": "Revise the state grant program that funds physician residency and fellowship training positions.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "83:SB266": {
+      "plain_topic": "Let more types of health providers qualify for student loan repayment for working in underserved areas.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "83:SB268": {
+      "plain_topic": "Require insurance to cover dental services provided independently by public health dental hygienists.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:SB269": {
+      "plain_topic": "Give businesses a tax credit for donating to graduate medical education residency programs.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "83:SB271": {
+      "plain_topic": "Provide state money for a nurse apprentice program to train new nurses.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "83:SB280": {
+      "plain_topic": "Fund the UNLV dental school to create a medical team for cleft and craniofacial care.",
+      "theme": "care-delivery",
+      "relevance": "core"
+    },
+    "83:SB29": {
+      "plain_topic": "Have Medicaid pay accountable care organizations that coordinate primary care to improve outcomes and lower costs.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:SB292": {
+      "plain_topic": "Require insurers to offer Medicare supplement policies to people under 65 with disabilities.",
+      "theme": "insurance-market",
+      "relevance": "core"
+    },
+    "83:SB294": {
+      "plain_topic": "Change how many physician assistants one supervising doctor may oversee.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:SB299": {
+      "plain_topic": "Replace licensing of senior living community referral agencies with a simpler registration; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB300": {
+      "plain_topic": "Require Medicaid to cover medication-assisted treatment for opioid use disorder.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:SB306": {
+      "plain_topic": "Create a task force on housing and services for children leaving mental health or detention facilities; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB312": {
+      "plain_topic": "Create a Tribal Health Authority Council to coordinate health matters affecting American Indians in Nevada.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:SB316": {
+      "plain_topic": "Expand pharmacy benefit manager regulation to also cover insurance plans for pharmacist services.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "83:SB317": {
+      "plain_topic": "Change workers' compensation insurer office and administration rules; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB325": {
+      "plain_topic": "Let counties and cities waive animal shelter adoption fees for veterans and first responders; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB329": {
+      "plain_topic": "Allow regulations requiring extra training for EMT and paramedic certification applicants.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:SB330": {
+      "plain_topic": "Clarify the definition of skilled nursing facilities and require consistent terms in local ordinances.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:SB335": {
+      "plain_topic": "Ban providers from giving electroconvulsive therapy to anyone under 18; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB336": {
+      "plain_topic": "Let gig workers and sole proprietors open portable benefit accounts to pay for health insurance and care.",
+      "theme": "insurance-market",
+      "relevance": "adjacent"
+    },
+    "83:SB337": {
+      "plain_topic": "Create a form letting patients state they do not want to receive opioids; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB34": {
+      "plain_topic": "Join the interstate PA Licensure Compact so physician assistants licensed elsewhere can practice in Nevada.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:SB343": {
+      "plain_topic": "Rename the Agricultural Extension Department and update cooperative extension governance; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB344": {
+      "plain_topic": "Require health insurance to cover screenings for certain genetic disorders.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:SB346": {
+      "plain_topic": "Change procedures for appointing guardians for adults, including less restrictive alternatives; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB348": {
+      "plain_topic": "Revise newborn screening and public health laboratory testing requirements; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB352": {
+      "plain_topic": "Ban health insurers, including Medicaid, from discriminating based on race, sex, age, sexual orientation or disability.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "83:SB353": {
+      "plain_topic": "Create a Medicaid billing category and payment rates for clinics that train mental health students.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:SB354": {
+      "plain_topic": "Strengthen required insurance coverage of drugs that prevent or treat HIV and hepatitis C.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:SB366": {
+      "plain_topic": "Ask the federal government to raise Medicaid payment rates for mental health and therapy providers.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:SB376": {
+      "plain_topic": "Change workers' compensation rules for firefighters' and police officers' heart and lung disease claims; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB377": {
+      "plain_topic": "Require health insurance to cover non-opioid alternative drugs for pain treatment.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:SB378": {
+      "plain_topic": "Bar the state from forcing providers to pay fees to exchange electronic health records; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB38": {
+      "plain_topic": "Let emergency officials share school emergency plans with responders; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB387": {
+      "plain_topic": "Require health insurance to cover screening for the early detection of lung cancer.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:SB388": {
+      "plain_topic": "Limit or eliminate cost sharing for low-income families in the child care assistance program; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB389": {
+      "plain_topic": "Require the state to contract with a single pharmacy benefit manager for Medicaid drug benefits by 2030.",
+      "theme": "drug-costs",
+      "relevance": "core"
+    },
+    "83:SB397": {
+      "plain_topic": "License naturopathic physicians and certify naturopathic assistants under a renamed state medical board.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:SB398": {
+      "plain_topic": "Add rules limiting how health insurers use prior authorization for medical and dental care.",
+      "theme": "insurer-rules",
+      "relevance": "core"
+    },
+    "83:SB40": {
+      "plain_topic": "Create a Medicaid account to fund residency training, nursing loans and other health workforce programs.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "83:SB408": {
+      "plain_topic": "Update how county hospitals and hospital districts are governed and staffed.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:SB410": {
+      "plain_topic": "Make dependents' insurance benefits a mandatory bargaining topic for local government workers; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB415": {
+      "plain_topic": "Allow governments to use automated camera systems for traffic enforcement; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB424": {
+      "plain_topic": "Tax private ambulance providers to fund higher Medicaid payments for emergency medical transport.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:SB425": {
+      "plain_topic": "Create a state office to oversee health care workforce needs and provider licensing.",
+      "theme": "provider-licensing",
+      "relevance": "core"
+    },
+    "83:SB428": {
+      "plain_topic": "Require public officers to keep living in the area they represent during their term; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB429": {
+      "plain_topic": "Fund university scholarships for social work students doing field training.",
+      "theme": "provider-pipeline",
+      "relevance": "adjacent"
+    },
+    "83:SB434": {
+      "plain_topic": "Create a state grant program to fix critical shortages of health care providers and clinical services.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "83:SB47": {
+      "plain_topic": "Fund a study of whether insurers cover mental health care as fully as other medical care.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:SB48": {
+      "plain_topic": "Change deadlines and rules for regional land use planning reports; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB494": {
+      "plain_topic": "Create a Nevada Health Authority to take over public health insurance programs and health care regulation.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "83:SB495": {
+      "plain_topic": "Require a regular statewide assessment of health care workforce needs and shortages.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "83:SB497": {
+      "plain_topic": "Drop the rule that Medicaid autism therapy rates must match other states' rates.",
+      "theme": "medicaid-public-programs",
+      "relevance": "core"
+    },
+    "83:SB498": {
+      "plain_topic": "Fund state universities to expand undergraduate and graduate nursing programs.",
+      "theme": "provider-pipeline",
+      "relevance": "core"
+    },
+    "83:SB503": {
+      "plain_topic": "Eliminate a separate state account for regulating captive insurers; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB51": {
+      "plain_topic": "Reimburse cities and counties that reduce fees for affordable housing projects; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB54": {
+      "plain_topic": "Require Medicaid to cover medical respite care for people experiencing homelessness.",
+      "theme": "coverage-mandates",
+      "relevance": "core"
+    },
+    "83:SB64": {
+      "plain_topic": "Change how the state recovers Medicaid costs from disability savings (ABLE) accounts.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "83:SB68": {
+      "plain_topic": "Require behavioral health licensing boards to report more detail on license applications and denials.",
+      "theme": "provider-licensing",
+      "relevance": "adjacent"
+    },
+    "83:SB74": {
+      "plain_topic": "Revise election rules, including mail ballot procedures and voter documentation; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB78": {
+      "plain_topic": "Revise the powers of the state office overseeing occupational licensing boards generally; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB81": {
+      "plain_topic": "Require surveys of school employees about working conditions and exits; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB86": {
+      "plain_topic": "Give legal immunity to providers who perform forensic exams on assault victims in good faith.",
+      "theme": "care-delivery",
+      "relevance": "adjacent"
+    },
+    "83:SB87": {
+      "plain_topic": "Let victim compensation pay medical providers directly for sexual assault forensic exam costs.",
+      "theme": "patient-billing",
+      "relevance": "adjacent"
+    },
+    "83:SB88": {
+      "plain_topic": "Stop the prison system from collecting medical debt from offenders after their release.",
+      "theme": "patient-billing",
+      "relevance": "core"
+    },
+    "83:SB9": {
+      "plain_topic": "Align state law with federal rules on insurers paying claims when Medicaid is the backup payer.",
+      "theme": "medicaid-public-programs",
+      "relevance": "adjacent"
+    },
+    "83:SB92": {
+      "plain_topic": "Let insurers use new rates for certain non-health insurance lines while regulators review them; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    },
+    "83:SB97": {
+      "plain_topic": "Add a tribal member with health care expertise to the state health insurance exchange board.",
+      "theme": "insurance-market",
+      "relevance": "adjacent"
+    },
+    "83:SCR5": {
+      "plain_topic": "Declare antimicrobial resistance a public health crisis and encourage responses; not healthcare cost/access.",
+      "theme": "context",
+      "relevance": "context"
+    }
+  }
+}

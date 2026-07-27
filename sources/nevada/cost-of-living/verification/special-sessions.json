@@ -1,0 +1,211 @@
+{
+  "note": "Manual check of the six 2020-2025 special sessions (31st2020, 32nd2020, 33rd2021, 34th2023, 35th2023, 36th2025) for bills relevant to healthcare cost/access/provider supply, per RUNBOOK step 2. Full bill lists were reviewed by title (and digest where the title was ambiguous); the bills below are the healthcare-relevant items. The regular pipeline covers only the four regular sessions (80-83).",
+  "checked_at": "2026-07-25T23:56:18.175774+00:00",
+  "sessions_checked": [
+    "31st2020Special",
+    "32nd2020Special",
+    "33rd2021Special",
+    "34th2023Special",
+    "35th2023Special",
+    "36th2025Special"
+  ],
+  "reviewed_not_relevant": [
+    {
+      "session_path": "32nd2020Special",
+      "identifier": "SB4",
+      "note": "Public-health emergency powers, COVID-19 safety standards for public accommodations, and related liability limits; reviewed - not a healthcare cost/access/provider-supply bill."
+    },
+    {
+      "session_path": "32nd2020Special",
+      "identifier": "SCR1",
+      "note": "Resolution urging actions on the public health crisis caused by systemic racism magnified by COVID-19; reviewed - resolution, not healthcare cost/access legislation."
+    },
+    {
+      "session_path": "36th2025Special",
+      "identifier": "SB3",
+      "note": "Silver State General Assistance Program (temporary financial or in-kind assistance during benefit disruptions); reviewed - public assistance, not healthcare cost/access."
+    },
+    {
+      "session_path": "36th2025Special",
+      "identifier": "SB7",
+      "note": "Occupational-disease (lung disease) presumptions for police and firefighters; reviewed - workers' compensation, not healthcare cost/access."
+    }
+  ],
+  "bills": [
+    {
+      "session_path": "31st2020Special",
+      "identifier": "AB3",
+      "nelis_bill_key": "7127",
+      "short_note": "Pandemic budget bill: reduced FY2020-2021 appropriations, including Department of Health and Human Services budgets; authorized DHHS budget transfers and acceptance of additional federal Medicaid money.",
+      "official_title": "AN ACT relating to state financial administration; reducing certain appropriations and other money budgeted for Fiscal Year 2020-2021; authorizing certain sums appropriated to the Department of Health and Human Services to be transferred among the various budget accounts of the Department under certain circumstances; requiring the transfer of certain money to the State General Fund; revising various provisions relating to the authority for such transfers; authorizing certain expenditures; temporarily suspending the transfer from the State General Fund to the Account to Stabilize the Operation of the State Government for Fiscal Year 2020-2021; temporarily increasing the limitation on the amount of annual leave that certain state employees are authorized to carry forward to the next calendar year; providing for a 1-month suspension during Fiscal Year 2020-2021 of the payment of subsidies by the State to the Public Employees' Benefits Program for group insurance for certain active and retired public officers and employees; requiring state employees to take a certain number of hours of unpaid furlough leave during a certain period of Fiscal Year 2020-2021; providing exceptions and requirements relating to the furlough leave; and providing other matters properly relating thereto.",
+      "digest_first_1200": "The Legislature appropriated various sums of money for the support of the government of the State of Nevada and for other specific purposes during the 2019 Legislative Session. Sections 1-8, 10-14, 16-56 and 57-81 of this bill reduce certain appropriations for Fiscal Year 2020-2021. Existing law provides a procedure for the revision of the work program of any department, institution or agency of the Executive Department of the State Government. (NRS 353.220) During the remainder of Fiscal Year 2020-2021, section 15 of this bill authorizes the transfer of certain sums appropriated to the Department of Health and Human Services among the various budget accounts of the Department in the same manner and within the same limits as allowed for revisions of work programs in NRS 353.220. Section 15 also provides that the appropriations made to the Supreme Court of Nevada for Fiscal Year 2019-2020 and Fiscal Year 2020-2021 are available for both fiscal years and authorizes transfers of such money among certain budget accounts of the Supreme Court and from one fiscal year to the other upon certain approval. Section 82 of this bill reduces the current amount of money budgeted for Fiscal Year 2",
+      "most_recent_history_action": "Enrolled and delivered to Governor. Chapter 5.",
+      "vote_requirement": "",
+      "sponsors": [
+        {
+          "name": "Assembly Committee of the Whole",
+          "classification": "primary"
+        }
+      ],
+      "history": [
+        {
+          "date": "Jul 09, 2020",
+          "description": "Read first time. Referred to Committee of the Whole. To printer.",
+          "journal": "Assembly: Journal Senate: Not discussed"
+        },
+        {
+          "date": "Jul 10, 2020",
+          "description": "From printer. To committee.",
+          "journal": "Assembly: Not discussed Senate: Not discussed"
+        },
+        {
+          "date": "Jul 15, 2020",
+          "description": "From committee: Considered. Declared an emergency measure under the Constitution. Taken from General File. Placed on General File for next legislative day.",
+          "journal": "Assembly: Journal Senate: Not discussed"
+        },
+        {
+          "date": "Jul 16, 2020",
+          "description": "Taken from General File. Placed on General File for next legislative day.",
+          "journal": "Assembly: Journal Senate: Not discussed"
+        },
+        {
+          "date": "Jul 18, 2020",
+          "description": "Read third time. Amended. (Amend. No. 4.) Dispensed with reprinting. Taken from General File. Rereferred to Committee of the Whole. To committee. From committee: Considered. Read third time. Passed, as amended. Title approved, as amended. (Yeas: 29, Nays: 13.) To printer. From printer. To engrossment. Engrossed. First reprint.",
+          "journal": "Assembly: Journal Senate: Not discussed"
+        },
+        {
+          "date": "Jul 19, 2020",
+          "description": "Action of passage rescinded. Read third time. Amended. (Amend. No. 7.) Dispensed with reprinting. Read third time. Passed, as amended. Title approved. (Yeas: 36, Nays: 6.) To printer. From printer. To reengrossment. Reengrossed. Second reprint. To Senate. In Senate. Read first time. Referred to Committee of the Whole. To committee. From committee: Do pass. Declared an emergency measure under the Constitution. Read third time. Passed. Title approved. (Yeas: 21, Nays: None.) To Assembly. In Assembly. To enrollment.",
+          "journal": "Assembly: Journal Senate: Journal"
+        },
+        {
+          "date": "Jul 20, 2020",
+          "description": "Enrolled and delivered to Governor. Chapter 5.",
+          "journal": ""
+        }
+      ],
+      "votes": [
+        {
+          "vote_type": "Final Passage",
+          "chamber": "Assembly (2nd Reprint)",
+          "counts": {
+            "Yea": 36,
+            "Nay": 6,
+            "Excused": 0,
+            "Absent": 0
+          }
+        },
+        {
+          "vote_type": "Final Passage",
+          "chamber": "Assembly (1st Reprint)",
+          "counts": {
+            "Yea": 29,
+            "Nay": 13,
+            "Excused": 0,
+            "Absent": 0
+          }
+        },
+        {
+          "vote_type": "Final Passage",
+          "chamber": "Senate (2nd Reprint)",
+          "counts": {
+            "Yea": 21,
+            "Nay": 0,
+            "Excused": 0,
+            "Absent": 0
+          }
+        }
+      ]
+    },
+    {
+      "session_path": "36th2025Special",
+      "identifier": "SB5",
+      "nelis_bill_key": "12996",
+      "short_note": "Created the Statewide Health Care Access and Recruitment Grant Program and Account under the Nevada Health Authority to address critical shortages of providers of health care.",
+      "official_title": "AN ACT relating to health care; creating the Statewide Health Care Access and Recruitment Program Account; providing for certain transfers of money out of the Account; requiring a biennial assessment of the health care needs of this State; establishing the Statewide Health Care Access and Recruitment Grant Program to award grants of money to fund certain projects to address shortages of providers of health care or clinical services or expertise identified by the assessment; requiring a grantee to enter into a funding agreement with the Nevada Health Authority; providing for certain oversight of projects funded through the Program; authorizing the Authority to take certain actions in response to certain changes to a funded project or if a grantee fails to comply with a funding agreement or applicable law; prescribing certain requirements to expedite the credentialing and privileging of providers of health care; revising the circumstances under which a registered pharmacist may possess and administer a dangerous drug for the purposes of administering an immunization; requiring the prioritization of certain applications for licensure as a physician or osteopathic physician; requiring certain reports of the Board of Medical Examiners and the State Board of Osteopathic Medicine to include certain information; making appropriations; and providing other matters properly relating thereto.",
+      "digest_first_1200": "Existing law provides for various programs for the improvement of public health and health care in this State. (NRS 433.702-433.744, 439.4921-439.5297, 439.600-439.690, 439A.111-439A.185, 439A.200-439A.290, 442.710-442.745, 457.230-457.280, 458.025, 458A.090, 458A.100, 458A.110) Section 10 of this bill establishes the Statewide Health Care Access and Recruitment Grant Program, which is a competitive grant program managed by the Nevada Health Authority to support projects to address critical shortages of providers of health care or clinical services or expertise in this State. Sections 3-7 of this bill define certain terms, and section 2 of this bill establishes the applicability of those definitions. Section 8 of this bill creates the Statewide Health Care Access and Recruitment Program Account to hold money to fund the Program. Section 8 authorizes the Director of the Authority, with the approval of the Interim Finance Committee, to transfer money from the Account to another account for the purpose of obtaining additional federal financial participation under Medicaid. Section 25 of this bill authorizes the Interim Finance Committee to issue such approval during a legislative sess",
+      "most_recent_history_action": "Chapter 12.",
+      "vote_requirement": "",
+      "sponsors": [
+        {
+          "name": "Senate Health and Wellness",
+          "classification": "primary"
+        }
+      ],
+      "history": [
+        {
+          "date": "Nov 12, 2025",
+          "description": "Prefiled. Referred to Select Committee on Health and Wellness. To printer.",
+          "journal": ""
+        },
+        {
+          "date": "Nov 13, 2025",
+          "description": "From printer. Read first time. To committee. From committee: Amend, and do pass as amended. Placed on Second Reading File. Declared an emergency measure under the Constitution. Read second time. Amended. (Amend. No. 2.) Reprinting dispensed with. Read third time. Passed, as amended. Title approved, as amended. (Yeas: 15, Nays: 6.) To printer.",
+          "journal": "Assembly: Not discussed Senate: Journal"
+        },
+        {
+          "date": "Nov 14, 2025",
+          "description": "From printer. To engrossment. Engrossed. First reprint. To Assembly. In Assembly. Read first time. Referred to Select Committee on Health and Wellness. To committee.",
+          "journal": "Assembly: Journal Senate: Not discussed"
+        },
+        {
+          "date": "Nov 16, 2025",
+          "description": "From committee: Amend, and do pass as amended. Placed on Second Reading File. Read second time. Amended. (Amend. No. 8.) To printer. From printer. To reengrossment. Reengrossed. Second reprint.",
+          "journal": "Assembly: Journal Senate: Not discussed"
+        },
+        {
+          "date": "Nov 17, 2025",
+          "description": "Taken from General File. Placed on General File for next legislative day.",
+          "journal": "Assembly: Journal Senate: Not discussed"
+        },
+        {
+          "date": "Nov 18, 2025",
+          "description": "Taken from General File. Placed on General File for next legislative day.",
+          "journal": "Assembly: Journal Senate: Not discussed"
+        },
+        {
+          "date": "Nov 19, 2025",
+          "description": "Read third time. Passed, as amended. Title approved. (Yeas: 37, Nays: None, Excused: 5.) To Senate. In Senate. Assembly Amendment No. 8 concurred in. To enrollment.",
+          "journal": "Assembly: Journal Senate: Journal"
+        },
+        {
+          "date": "Nov 21, 2025",
+          "description": "Enrolled and delivered to Governor.",
+          "journal": ""
+        },
+        {
+          "date": "Nov 29, 2025",
+          "description": "Approved by the Governor.",
+          "journal": ""
+        },
+        {
+          "date": "Dec 01, 2025",
+          "description": "Chapter 12.",
+          "journal": ""
+        }
+      ],
+      "votes": [
+        {
+          "vote_type": "Final Passage",
+          "chamber": "Assembly (2nd Reprint)",
+          "counts": {
+            "Yea": 37,
+            "Nay": 0,
+            "Excused": 5,
+            "Absent": 0
+          }
+        },
+        {
+          "vote_type": "Final Passage",
+          "chamber": "Senate (1st Reprint)",
+          "counts": {
+            "Yea": 15,
+            "Nay": 6,
+            "Excused": 0,
+            "Absent": 0
+          }
+        }
+      ]
+    }
+  ]
+}

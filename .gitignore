@@ -12,6 +12,10 @@ sources/nevada/water-scarcity/raw/committee-minutes/
 sources/nevada/housing-affordability/raw/bill-text/
 sources/nevada/housing-affordability/raw/committee-minutes/
 
+# Local bill PDF downloads for cost-of-living (summaries + official URLs are committed)
+sources/nevada/cost-of-living/raw/bill-text/
+sources/nevada/cost-of-living/raw/committee-minutes/
+
 # Local bill PDF downloads for k-12_educational_outcomes (summaries + official URLs are committed)
 sources/nevada/k-12_educational_outcomes/raw/bill-text/
 sources/nevada/k-12_educational_outcomes/raw/committee-minutes/
