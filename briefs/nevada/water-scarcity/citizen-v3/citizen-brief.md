@@ -2,7 +2,7 @@
 issue_id: nevada-04-water-scarcity
 issue_title: Growth, Water Scarcity, and Long-Term Supply in Nevada
 brief_type: citizen-front-brief
-version: citizen-v2.0
+version: citizen-v3.0
 organization: The Nevada Forum
 generated_by: citizen-brief-writer v2.3
 date: 2026-07-27
@@ -17,7 +17,7 @@ The legislative record behind Nevadans' ten most common water proposals, 2019–
 
 Nevada's Legislature took up 108 water and large-user bills across its 2019, 2021, 2023, and 2025 sessions, and 59 became law — water legislation moves in Carson City every session. Several of the reforms Nevadans proposed have traveled farther than a first glance suggests: four bills passed both chambers since 2023 and stopped one step short of statute, and others cleared a full chamber or a committee before running out of calendar. The sections below sort the record by distance traveled — bills that reached the governor's desk first, then bills with a winning vote behind them, then settled law and its openings, then the routes with no traction yet — with notes on momentum, federal overlap, and sponsors.
 
-## Key numbers: how far water proposals have traveled
+## Key numbers: how far these proposals have traveled
 
 *Each figure below is unpacked, bill by bill, in the section it points to.*
 
@@ -27,7 +27,7 @@ Nevada's Legislature took up 108 water and large-user bills across its 2019, 202
 - **21–0** the Senate's vote on SB143 (2025), the stalled statewide conservation review
 - **5 of 10** citizen proposals never yet filed as a bill
 
-## Closest to law: bills that passed both chambers and stopped at the last step
+## Closest to law: bills that passed both chambers
 
 *These bills assembled majorities in both houses; only a veto or the session clock separated them from statute — the record's most advanced unfinished work.*
 
@@ -43,7 +43,7 @@ Nevada's Legislature took up 108 water and large-user bills across its 2019, 202
 
 **Groundwater board restructuring — SB180 (2023).** Passed both houses with zero "no" votes and still died at session's end without reaching the governor. The 2025 retry, AB363, cleared its committee and died on the Assembly floor calendar. Two sessions of near-unanimous support make this the record's clearest piece of unfinished business.
 
-## Demonstrated support: bills that cleared one chamber or a committee
+## Proven support: bills that cleared a chamber or a committee
 
 *Each bill here won a recorded majority — in committee or on a floor — before stalling: the strongest signal short of passage.*
 
@@ -65,7 +65,7 @@ SB36 created the state account to purchase and retire water rights in over-appro
 
 SB36 is the pattern to watch: the buy-and-retire design failed in 2021 and 2023 before passing in 2025 — the Legislature returned to it until it worked. The precedents run the same way: AB356 (2021) banned decorative Colorado River grass in southern Nevada 21–0 and 42–0, proof that a hard restriction passes when regionally scoped; SB250 (2019) tied land divisions to water-right dedication, 39–0; AB95 (2019) required domestic-well metering in stressed basins and SB113 (2023) extended it; AB191 (2023) made suppliers audit their water losses. Each is a base that later bills have widened rather than a ceiling.
 
-## Routes with little traction yet: never filed, never heard, or stopped early
+## Routes with little traction: never filed or stopped early
 
 *Nothing here has won a vote — never filed, never heard in committee, or stopped early. The least-traveled routes: unproven rather than closed.*
 
