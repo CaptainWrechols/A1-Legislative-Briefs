@@ -1,0 +1,59 @@
+{
+  "reviewer": "citizen-reviewer v2.3",
+  "date": "2026-07-25",
+  "issue_id": "nevada-03-k-12-educational-outcomes",
+  "brief": "briefs/nevada/k-12_educational_outcomes/citizen-v1/citizen-brief.md",
+  "status": "READY FOR HUMAN REVIEW",
+  "checks": {
+    "A1_reports_without_telling": "pass",
+    "A2_grouped_by_record_status": "pass — no bill on record / reached and stalled / precedent exists",
+    "A4_no_pursue_adapt_avoid_commands": "pass — automated advice scan clean (0 hits)",
+    "A5_every_proposal_covered": "pass — all 10 config proposals have a bold-lead paragraph",
+    "A6_no_worksheet_apparatus": "pass — no how-to-use, questions, primers, cautions, meta-commentary, or source keys; automated banned-section scan clean",
+    "B1_adult_prose": "pass — no reading-level scaffolding; no definitions of common civic terms",
+    "B2_no_glossary": "pass — policy terms used naturally (see working/.../explainer-log.md)",
+    "B3_bill_descriptions_plain": "pass",
+    "C1_two_pages_html_and_word": "pass — headless Chrome: 2 US Letter pages; LibreOffice render of citizen-brief.docx: 2 pages (render-check/*.png)",
+    "C2_page1_essential_map": "pass — landscape, stat strip, never-filed and stalled proposals on page 1",
+    "C3_detail_in_appendices": "pass",
+    "D1_example_bills_exist": "pass — every bill key in the brief and reality map exists in evidence-pack.json (fact-check-reality-map.py)",
+    "D2_no_invented_votes_or_parties": "pass — 100+ disposition/stage/vote claims verified programmatically; party labels from official rosters",
+    "D3_data_limits_stated": "pass — Appendix F + evidence-pack data_limits",
+    "D4_inferred_committee_yeas_marked": "pass — marked * and explained in Appendix C intro",
+    "E1_no_should_must_recommend": "pass — scan clean; 'required to' phrasings describe enacted law only",
+    "E2_no_party_blame_without_votes": "pass — party mentions are sponsor facts or roll-call counts",
+    "E3_people_signals_descriptive": "pass",
+    "E4_recently_passed_neutral": "pass — 2025 enactments listed as record, watchlist framing in reality map only",
+    "F1_html_and_css_exist": "pass",
+    "F2_appendices_A_to_F": "pass — A through I present",
+    "F3_package_md": "pass",
+    "F3b_word_export": "pass — citizen-brief.docx (direct-formatted) 2 pages; appendices.docx",
+    "F7_reviewer_material_in_appendix": "pass — Appendix I holds claim-to-source map and collection notes",
+    "F4_phase2_tokens": "pass — white page, navy #1A2D4F, terracotta #C0392B, Arial; no purple/gold/cream",
+    "F5_phase2_modules_no_tables": "pass — masthead, terracotta section headers, stat strip; zero tables in front brief",
+    "F6_no_phase2_text_copied": "pass — module shapes and tokens only"
+  },
+  "fact_spot_checks": [
+    {"claim": "AB517 (2023) recurring legislative audits enacted 42-0 and 21-0", "result": "verified against processed/bill-votes.json"},
+    {"claim": "AB53 (2025) recess mandate died in Assembly Education without a vote", "result": "verified (stage origin_committee; no committee-passage action)"},
+    {"claim": "AB386 (2025) passed 40-0 and 21-0 and ended with 'No further action taken'", "result": "verified against processed/bill-actions.json"},
+    {"claim": "AB265 (2023) passed 42-0 and 20-0 and was vetoed", "result": "verified"},
+    {"claim": "13 policy vetoes, 8 in 2023 and 5 in 2025", "result": "verified against evidence pack"},
+    {"claim": "31st (2020) Special Session AB3 struck the $31,429,229 FY2021 Read by Grade 3 transfer", "result": "verified against verification/special-sessions.json (enrolled bill text)"},
+    {"claim": "193 first-committee deaths; 127 in Education committees; 40 in money committees", "result": "verified programmatically"},
+    {"claim": "55 cross-party policy bills, 28 enacted", "result": "verified programmatically"}
+  ],
+  "small_fixes_logged": [
+    "Reworded two descriptive phrasings that pattern-matched the advice scan ('districts must adopt' -> 'districts are required to adopt'; commission 'recommends the gap' -> 'charged with calculating what full funding would take').",
+    "Removed an uncollected characterization ('52-year-old' Nevada Plan) from the brief and curation map; replaced with neutral wording.",
+    "Normalized plain-topic tense to disposition across the curation map (178 topics) so failed bills never read as enacted fact.",
+    "Corrected issue-title strings the assemblers stamp from the water run (evidence-pack discovery_note/data_limits; intros of Appendices A, F, H, README; appendices-print.html title/kicker/footline) - documented in Appendix I."
+  ],
+  "notes_for_human_review": [
+    "Sponsor counts merge NELIS name variants (Torres/Torres-Fossett, Buck/Carrie Ann Buck, 2025 'Assemblymember' titles); merges listed in reality-map.json and Appendix I.",
+    "Two adopted concurrent resolutions read Unknown and 2025 AJR9 reads In Progress because NELIS records no final action for resolutions; excluded from pass-rate claims.",
+    "The 'measure the delta' and social-emotional assessment cards rest on three failed bills (SB351, SB313, SB314); certainty medium.",
+    "First legislative performance audits under AB517 are due August 2026 - a natural follow-up for the working group."
+  ],
+  "reviewers": ["Ryan Echols", "Jodi Stephens", "Ashley Lovell"]
+}
