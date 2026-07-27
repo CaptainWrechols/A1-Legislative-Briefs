@@ -1,0 +1,57 @@
+{
+ "issue_id": "nevada-01-housing-affordability",
+ "version": "citizen-v1.0",
+ "reviewer": "citizen-reviewer v2.3",
+ "date": "2026-07-24",
+ "status": "READY FOR HUMAN REVIEW",
+ "checks": {
+  "A1_no_advice": "pass",
+  "A2_grouped_by_record_status": "pass",
+  "A4_no_commands": "pass",
+  "A5_all_proposals_covered": "pass",
+  "A6_no_worksheet_apparatus": "pass",
+  "B1_adult_prose": "pass",
+  "B2_no_glossary": "pass",
+  "B3_readable": "pass",
+  "C1_two_pages_html_and_word": "pass",
+  "C2_page1_essential": "pass",
+  "C3_detail_in_appendices": "pass",
+  "D1_facts_match_pack": "pass",
+  "D2_no_invented_votes_or_parties": "pass",
+  "D3_data_limits_stated": "pass",
+  "D4_inferred_yeas_marked": "pass",
+  "E1_no_should_must_recommend_urge": "pass",
+  "E2_no_party_blame_without_votes": "pass",
+  "E3_people_signals_descriptive": "pass",
+  "E4_recent_list_neutral": "pass",
+  "F1_html_and_css": "pass",
+  "F2_appendices_A_to_F": "pass",
+  "F3_package_md": "pass",
+  "F3b_word_exports": "pass",
+  "F4_phase2_tokens": "pass",
+  "F5_phase2_modules": "pass",
+  "F6_no_sample_text_copied": "pass",
+  "F7_reviewer_material_in_appendix": "pass"
+ },
+ "page_counts": {
+  "html_chrome_letter": 2,
+  "docx_libreoffice": 2
+ },
+ "fact_check": "working/nevada/housing-affordability/fact-check-reality-map.py \u2014 all claims verified",
+ "fixes_made": [
+  "Appendix H status slugs replaced with plain labels",
+  "Generated appendix intros corrected from water-template wording to this issue's counts/topic (table numbers untouched)",
+  "Status line DRAFT -> READY FOR HUMAN REVIEW"
+ ],
+ "flags_for_humans": [
+  "SB99 ending stated in record language (delivered to governor; history ends; not law) - no veto inferred",
+  "Special-session SB10 facts sourced from manual verification file; two-thirds requirement printed on bill face",
+  "Key numbers stat strip is the one non-prose module (matches Phase 2 sample)",
+  "Participant quotes appear once each, attributed"
+ ],
+ "reviewers": [
+  "Ryan Echols",
+  "Jodi Stephens",
+  "Ashley Lovell"
+ ]
+}

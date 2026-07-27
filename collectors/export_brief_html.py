@@ -28,6 +28,9 @@ STYLE_BLOCK = """<style>
   .stat-card {{ padding: 3pt 5pt 3.5pt; }}
   .stat-num {{ font-size: 18pt; }}
   .stat-num.compact {{ font-size: 13.5pt; padding-top: 3.5pt; }}
+  /* v3 polish: no widow lines; balanced headers, deks, explainers, captions */
+  h1.title, h2.sec, h3.subsec, .stat-cap, .dek, p.explainer-block {{ text-wrap: balance; }}
+  p.lead-item {{ text-wrap: pretty; }}
 </style>"""
 
 
@@ -54,7 +57,21 @@ def typographize(text: str) -> str:
     t = t.replace("\u201c", "&ldquo;").replace("\u201d", "&rdquo;")
     t = t.replace("\u2013", "&ndash;").replace("\u2014", "&mdash;")
     t = t.replace("\u00b7", "&middot;")
+    t = t.replace("\u00a0", "&nbsp;")
     return t
+
+
+def no_widow(text: str) -> str:
+    """Glue the final words together with non-breaking spaces so the last
+    line of a paragraph never holds fewer than three words (the glued run
+    is kept short so justification gaps stay invisible)."""
+    m = re.search(r"(\S+) (\S+) (\S+)$", text)
+    if m and sum(len(g) for g in m.groups()) <= 22:
+        return text[: m.start()] + "\u00a0".join(m.groups())
+    m = re.search(r"(\S+) (\S+)$", text)
+    if m and len(m.group(1)) + len(m.group(2)) <= 24:
+        return text[: m.start()] + m.group(1) + "\u00a0" + m.group(2)
+    return text
 
 
 def inline_md(text: str) -> str:
@@ -152,11 +169,9 @@ def render_section(sec: dict) -> str:
             if kind == "h3":
                 out.append(f"  <h3 class=\"subsec\">{typographize(text)}</h3>")
             elif kind == "explainer":
-                out.append(f"  <p class=\"explainer-block\">{inline_md(text)}</p>")
-            elif kind == "bullet":
-                out.append(f"  <p class=\"lead-item\">{inline_md(text)}</p>")
+                out.append(f"  <p class=\"explainer-block\">{inline_md(no_widow(text))}</p>")
             else:
-                out.append(f"  <p class=\"lead-item\">{inline_md(text)}</p>")
+                out.append(f"  <p class=\"lead-item\">{inline_md(no_widow(text))}</p>")
     out.append("</section>")
     return "\n".join(out)
 
@@ -201,7 +216,7 @@ def main() -> None:
         "  <div class=\"forum\">The&nbsp;Forum</div>",
         "  <hr class=\"navy-rule\">",
         f"  <h1 class=\"title\">{typographize(title)}</h1>",
-        f"  <p class=\"dek\">{inline_md(dek)}</p>",
+        f"  <p class=\"dek\">{inline_md(no_widow(dek))}</p>",
         "</header>",
         "",
     ]
