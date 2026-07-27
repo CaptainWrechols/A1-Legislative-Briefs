@@ -1,79 +1,81 @@
-# Package — Growth, Water Scarcity, and Long-Term Supply in Nevada (citizen-v4.0)
+# Package — Growth, Water Scarcity, and Long-Term Supply in Nevada (citizen-v2.0)
 
-Design Packager v2.3 · 2026-07-20 · The Nevada Forum
+Design Packager v2.3 · 2026-07-27 · The Nevada Forum
+
+citizen-v2.0 is the tone/format revision of citizen-v1.0, produced per Forum
+direction (2026-07-27). `citizen-v1/` is untouched; compare the two folders
+side by side. Facts, bills, and votes are unchanged — only presentation,
+organization, and voice.
+
+## What changed from v1.0 (shared across all four issue briefs)
+
+- **Sections reordered by viability.** Proposals now appear in order of how
+  far their bills traveled: passed both chambers (vetoed or timed out) first,
+  then cleared-one-chamber/cleared-committee, then enacted law and the
+  openings around it, then never-filed/never-heard/stopped-early routes.
+- **Specific section headers with explainers.** Every H2 states what the
+  section holds; an italic explainer line under each header says why the
+  content is there and what it informs. H3 subheaders split the veto/clock
+  and settled/openings material.
+- **Positive, opportunity-forward tone.** Bare pass-rate and veto-rate
+  statistics were removed or re-anchored to named bills; near-misses are
+  framed as the record's most advanced unfinished work without dropping any
+  fact about what has failed.
+- **Momentum map.** A section states where bills keep appearing and
+  advancing, and where the Legislature has shown little or no willingness
+  to legislate.
+- **Recently passed law analyzed both ways.** New statutes are flagged as
+  ground too similar for near-term retreads, and as the lanes where the
+  record shows appetite to go further.
+- **Federal overlap.** A section notes where current or planned federal
+  action already covers a proposal (redundancy risk) and where no federal
+  role exists.
+- **Current-membership notes.** Every named legislator is marked as still
+  serving or departed, per the NELIS 83rd (2025) Session roster in
+  `sources/nevada/*/pass2/legislator_roster.json`.
+- **Key numbers rebuilt.** Stat cards now carry viability-anchored figures
+  tied to named bills instead of bare rate statistics.
 
 ## What's in this folder
 
 | File | What it is |
 |---|---|
-| `citizen-brief.md` | Source markdown of the 2-page front brief |
-| `citizen-brief.html` | Print-ready front brief (verified 2 US Letter pages) |
-| `citizen-brief.docx` | Word version of the front brief |
-| `citizen-brief-print.css` | Shared Phase 2 print CSS |
-| `appendices/` | Appendices A–G (markdown), `appendices-print.html`, `appendices.docx` |
-| `review-report.md` / `.json` | Citizen Reviewer output |
+| `citizen-brief.md` | Source markdown of the 2-page front brief (v2.0) |
+| `citizen-brief.html` | Print-ready front brief (verified 2 US Letter pages in headless Chrome) |
+| `citizen-brief.docx` | Word version of the front brief (verified 2 pages in LibreOffice) |
+| `citizen-brief-print.css` | Shared Phase 2 print CSS + v2 `h3.subsec` subsection style |
+| `appendices/` | Appendices A–I (markdown), `appendices-print.html`, `appendices.docx` — unchanged from v1.0 |
+| `review-report.md` / `.json` | Citizen Reviewer output for the **v1.0** content (v2.0 revision not yet re-reviewed) |
+
+## Rebuild the outputs
+
+```bash
+# HTML (Phase 2 shell; masthead, terracotta H2s, stat strip, subsection H3s)
+python collectors/export_brief_html.py --brief-dir briefs/nevada/water-scarcity/citizen-v2
+
+# Word (front brief via python-docx direct formatting; appendices via pandoc)
+ISSUE_CONFIG=config/issues/nevada-water-scarcity.yaml \
+python collectors/export_docx.py --brief-dir briefs/nevada/water-scarcity/citizen-v2
+```
 
 ## Print to PDF
 
 1. Open `citizen-brief.html` in Chrome or Edge.
 2. Print → Destination: *Save as PDF* → Paper: **Letter** → Margins: **Default** → **Background graphics: on** → no headers/footers.
 3. Result should be exactly **2 pages** (verified with headless Chrome at 0.6in margins).
-4. Repeat with `appendices/appendices-print.html` for the long appendix PDF (many pages; tables repeat their header rows across breaks).
+4. Repeat with `appendices/appendices-print.html` for the long appendix PDF.
 
-## Word (.docx)
+**If you need Word and cannot run the script:** open `citizen-brief.html` in
+Microsoft Word and Save As `.docx`, or upload `citizen-brief.md` to Google
+Docs and download as Word.
 
-`citizen-brief.docx` and `appendices/appendices.docx` are generated with:
+## Design notes
 
-```bash
-python collectors/export_docx.py --brief-dir briefs/nevada/water-scarcity/citizen-v1
-```
-
-The **front brief** is written by `collectors/export_docx_brief.py`
-(python-docx) with *direct formatting on every run* — literal Arial,
-explicit RGB colors, real uppercase heading text, the navy masthead rule,
-and the Key-numbers stat cards. Direct formatting is the part that makes
-the file look identical in Microsoft Word, Word Online, Google Docs,
-LibreOffice, and Pages; style-based formatting (the old approach) renders
-differently across those apps.
-
-The **appendices** use pandoc with the branded reference document
-`templates/citizen-brief/forum-reference.docx` (Arial body, navy `#1A2D4F`
-title/H1/H3, terracotta `#C0392B` H2) — fine for long-form tables.
-
-**If you need Word and cannot run the script** (no pandoc installed):
-
-1. Easiest: open `citizen-brief.html` in Microsoft Word directly
-   (File → Open → select the .html file), then File → Save As → `.docx`.
-   Word keeps the tables and most of the styling.
-2. Or: upload `citizen-brief.md` to Google Docs (File → Open → Upload), then
-   File → Download → Microsoft Word (.docx).
-3. Or install pandoc ([pandoc.org/installing](https://pandoc.org/installing.html))
-   and run the command above.
-
-## Visual system
-
-Tokens come from `config/forum-brand.yaml`, extracted from the Phase 2 sample
-`templates/phase-2-samples/NV1-Issue-Brief-4-Growth-and-Water-Scarcity-v1.5.pdf`:
-white page, navy `#1A2D4F`, secondary navy `#2E4A78`, terracotta `#C0392B`
-ALL-CAPS section headers, soft tint `#E8D5D3`, Arial body (~9pt), Georgia serif
-only inside quote-style history cards. No purple/gold/cream website palette.
-
-Modules used: eyebrow header, terracotta H2s, navy-bar stat strip, process
-line, navy-header comparison tables (proposals table on page 1 is the
-centerpiece; baskets table on page 2), quote-style history cards, info card
-pair, numbered question grid, footline.
-
-## v4.0 layout notes
-
-- Adult, prose-only front brief for working groups: title + subtitle,
-  legislative landscape, Key numbers stat strip, proposal paragraphs grouped
-  by record status (no bill on record / stalled / precedent exists),
-  political terrain, new 2025 law, and one pointer line to the appendices.
-- Removed per Forum direction (2026-07-20): version/kicker subtitle,
-  how-to-use section, bill-path primer, all tables, discussion questions,
-  data cautions, and the source-keys section (now Appendix I).
-- Word export restyled to the Phase 2 system: Arial 9pt compact body, navy
-  #1A2D4F title/H1, terracotta #C0392B ALL-CAPS section headers, 0.6-inch
-  margins. `citizen-brief.docx` verified at 2 pages (LibreOffice render).
-- Appendix I (Sources and review notes) holds the claim-to-source map and
-  collection notes formerly in the front brief.
+Visual tokens follow `config/forum-brand.yaml`, extracted from the Phase 2
+Issue Brief sample (`templates/phase-2-samples/`): white page, navy `#1A2D4F`
+masthead/title/stat numbers, terracotta `#C0392B` ALL-CAPS section headers,
+secondary navy `#2E4A78` H3 subheaders, Arial body. v2.0 body sits at 8.5pt
+(HTML) / 8.5pt (Word) with compact spacing so the added sections (momentum
+map, federal overlap, membership notes) still hold the 2-page budget. The
+section explainers reuse the brand's muted-gray inline-explainer style with
+a thin terracotta left border. No Phase 2 sample text was copied.

@@ -2,65 +2,98 @@
 issue_id: nevada-04-water-scarcity
 issue_title: Growth, Water Scarcity, and Long-Term Supply in Nevada
 brief_type: citizen-front-brief
-version: citizen-v4.0
+version: citizen-v2.0
 organization: The Nevada Forum
 generated_by: citizen-brief-writer v2.3
-date: 2026-07-20
+date: 2026-07-27
 status: READY FOR HUMAN REVIEW
-reviewed_by: citizen-reviewer v2.3 (2026-07-20)
 ---
 
 # Growth, Water Scarcity, and Long-Term Supply in Nevada
 
-The legislative record behind Nevadans' ten most common water proposals, 2019–2025.
+The legislative record behind Nevadans' ten most common water proposals, 2019–2025 — organized by how far each idea has traveled toward law.
 
-## The legislative landscape
+## What this brief covers and how it is organized
 
-Nevada's Legislature took up 108 water and large-user bills across its 2019, 2021, 2023, and 2025 sessions; 59 became law. Appropriations, technical permitting fixes, and utility regulation passed routinely. Structural reform did not: the most common point of death was the first committee (27 bills, 15 of them in a Natural Resources committee), and since 2023 the governor's veto has become a second wall — three water-related bills passed both houses in 2023 and were vetoed. The 2025 session produced the worst pass rate in the record, 13 of 31 bills.
+Nevada's Legislature took up 108 water and large-user bills across its 2019, 2021, 2023, and 2025 sessions, and 59 became law — water legislation moves in Carson City every session. Several of the reforms Nevadans proposed have traveled farther than a first glance suggests: four bills passed both chambers since 2023 and stopped one step short of statute, and others cleared a full chamber or a committee before running out of calendar. The sections below sort the record by distance traveled — bills that reached the governor's desk first, then bills with a winning vote behind them, then settled law and its openings, then the routes with no traction yet — with notes on momentum, federal overlap, and sponsors.
 
-## Key numbers
+## Key numbers: how far water proposals have traveled
 
-- **108** water and large-user bills, 2019–2025
+*Each figure below is unpacked, bill by bill, in the section it points to.*
+
+- **108** water and large-user bills taken up, 2019–2025
 - **59** became law
-- **5 of 10** of Nevadans' most common proposals have never been introduced as a bill
-- **27** bills died in their first committee
-- **3** vetoes, all in 2023
+- **4** bills passed both chambers since 2023 and stopped at the last step — SB429, SB169, AB97 (vetoed) and SB180 (out of time)
+- **21–0** the Senate's vote on SB143 (2025), the stalled statewide conservation review
+- **5 of 10** citizen proposals never yet filed as a bill
 
-## Proposals with no bill on record
+## Closest to law: bills that passed both chambers and stopped at the last step
 
-**Statewide guardrails on data centers.** No bill has ever proposed state water or cooling standards for data centers. The existing statutes run the other way: SB547 (2019) let data centers run their own power equipment free of utility regulation, and the abatement statutes recruit them. Cooling rules are currently local — the Southern Nevada Water Authority's evaporative-cooling moratorium is a water-authority rule, not state law — which produces the county-by-county variation participants described. AB385 (2025) would have barred local governments from banning large water-cooled towers; it died in its first committee. Interim committees studied data-center water and energy through 2026 for the 2027 session.
+*These bills assembled majorities in both houses; only a veto or the session clock separated them from statute — the record's most advanced unfinished work.*
 
-**Statewide metering.** No statewide metering requirement has been introduced. The edges exist in law: domestic wells in stressed basins must be metered to keep pumping (AB95 of 2019, extended by SB113 of 2023), and suppliers must audit and report their water losses (AB191 of 2023). Retail metering of homes and businesses remains a city and utility decision, which is where the flat-rate billing participants criticized lives.
+### Vetoed at the governor's desk (2023)
 
-**Escalating fines for water waste.** Never introduced. The closest statute, AB537 (2019), raised civil penalties for pollution and public-water-system violations — not landscape watering. Waste fines and watering-day enforcement sit with utilities and cities, and no bill has funded that enforcement.
+**Conditions on tax abatements — SB429.** Attached family-leave conditions to the up-front tax abatements that recruit large water users; passed both houses and was vetoed. It is the only abatement-conditions design to clear the full Legislature.
 
-**Reimbursement-style incentives.** The specific design participants developed — public-benefit metrics with the tax break paid only at the end, once metrics are met — has never been introduced in any form.
+**Conservation in local master plans — SB169.** Added conservation elements to local government master plans; passed both houses and was vetoed.
 
-**"Bring your own water."** No statewide dedication requirement for developers or large users has been introduced. Northern Nevada already operates this way — Truckee Meadows developers must acquire water rights and dedicate them plus an 11 percent drought reserve — but by water-authority rule, not statute. Southern Nevada operates differently under Lake Mead arrangements. The nearest statute is SB250 (2019), which passed 39–0 and governs water-right dedication before land divisions.
+**Local cooling-equipment rules — AB97.** Would have blocked local governments from banning newer refrigerants in cooling equipment; passed 42–0 and 20–0 — unanimous in both chambers — and was vetoed. Its sponsor, Assemblymember Melissa Hardy (R), is still a member of the Assembly.
 
-## Proposals that reached the Legislature and stalled
+### Passed both chambers, lost to the clock
 
-**A statewide expert water body.** Introduced twice, finished zero times. SB499 (2019), creating a state water planning advisory board, died in its first committee. SB143 (2025), directing an interim review of water conservation policy, passed the Senate 21–0 and died in the Assembly. No Economic Forum-style water body exists in statute.
+**Groundwater board restructuring — SB180 (2023).** Passed both houses with zero "no" votes and still died at session's end without reaching the governor. The 2025 retry, AB363, cleared its committee and died on the Assembly floor calendar. Two sessions of near-unanimous support make this the record's clearest piece of unfinished business.
 
-**Audit the water, fix over-allocation, digitize the records.** Participants' sense that these bills "keep getting shut down in committee" matches the record. AB485 (2025) — funding basin water budgets, monitoring, digitization of the Division of Water Resources' records, and staff to adjudicate old claims — died in its first committee. Pieces passed separately: groundwater basin studies (AB95, 2019), critical management area designations (SB113, 2023), money for the Division's new website and database (AB577, 2025), and a buy-and-retire account for over-allocated basins (SB36, 2025), which itself failed in 2021 and 2023 before passing.
+## Demonstrated support: bills that cleared one chamber or a committee
 
-**Conditions on tax abatements.** Every attempt to condition, cap, or deny the existing up-front abatements has failed: AB77 (2025, grounds to deny abatements with data centers named) died in Assembly Revenue; SB394 (2023, a $500,000 abatement cap) passed the Senate 14–7 and died in Assembly Revenue at the deadline; SB429 (2023, family-leave conditions) passed both houses and was vetoed; AB449 (2021) died in its first committee; SB364 (2025) stalled on the floor. Assembly Revenue is the consistent stopping point, and the 2023 veto shows the governor's desk is part of this path.
+*Each bill here won a recorded majority — in committee or on a floor — before stalling: the strongest signal short of passage.*
 
-**Statewide standards and fairness across regions.** AB51 (2019), directing the State Engineer to manage all water sources conjunctively, died in its first committee. AB387 (2023), requiring the State Engineer to use the best available science, passed the Assembly 26–14 and died in the Senate. Oversight of the State Engineer more broadly is 0-for-6 since 2021. The laws that did pass are regional by design — the grass ban covers only the Colorado River service area, and dedication practice differs north to south.
+**A statewide expert water body — SB143 (2025).** Directed an interim review of water conservation policy; passed the Senate 21–0 and died in the Assembly. The earlier version, SB499 (2019), never left its first committee — so the idea's newest test is also its strongest showing. No Economic Forum-style water body exists in statute.
 
-## Where precedent exists
+**Science-based statewide standards — AB387 (2023).** Required the State Engineer to use the best available science; passed the Assembly 26–14 and died in the Senate.
 
-**Growth and landscape restrictions.** AB356 (2021) banned decorative Colorado River grass in southern Nevada, passing 21–0 and 42–0 — the record's clearest proof that a hard restriction can pass when regionally scoped. SB250 (2019) tied land divisions to water-right dedication. The follow-ons stalled: SB169 (2023), adding conservation elements to local master plans, was vetoed; the 2025 turf study died with SB143. Moratoriums, including the evaporative-cooling moratorium, remain local rules.
+**Caps on abatements — SB394 (2023).** A $500,000 abatement cap; passed the Senate 14–7 and died in Assembly Revenue at the deadline. **SB364 (2025)**, conditioning data-center abatements, cleared its first committee and stalled on the Senate floor. Assembly Revenue is where abatement designs stop — but the Senate has now voted for one.
 
-**Groundwater reform.** SB113 (2023) strengthened critical management areas, and SB36 (2025) created the buy-and-retire program. But the governance piece is unfinished business: SB180 (2023), restructuring groundwater boards, passed both houses with zero "no" votes and still died at session's end; the 2025 retry (AB363) died on the Assembly floor calendar.
+## Already law — and the openings around it
 
-## The political terrain
+*Fresh statutes mark ground unlikely to be revisited soon — and the lanes where the Legislature keeps building.*
 
-A slight majority of the 108 bills (58) were committee-sponsored. Senator Pete Goicoechea (R) is the most frequent individual sponsor — 14 bills across all four sessions, concentrated in groundwater, districts, and rights retirement; Assemblymember Howard Watts (D), Senator Chris Brooks (D), and Assemblymember Sarah Peters (D) each carried five. Cross-party sponsor teams were rare — five bills — but four of the five became law. Incentive and abatement bills route through Assembly Revenue and Senate Revenue; water policy routes through the Natural Resources committees, where most early deaths occurred.
+### Recently settled ground (2025 session)
 
-## New law from the 2025 session
+SB36 created the state account to purchase and retire water rights in over-appropriated basins. SB6 funded cloud seeding a second time, unanimously. SB442 added utility shut-off protections; SB276 added public-notice requirements for water pollution permits with cross-party sponsorship; AB449 and SB326 simplified rate procedures for small water utilities; AB577 funded the water agency's records database. New proposals that restate these — another retirement account, another records appropriation — would duplicate fresh statute and are unlikely to advance.
 
-SB36 created the state account to purchase and retire water rights in over-appropriated basins. SB6 funded cloud seeding a second time, unanimously. SB442 added utility shut-off protections; SB276 added public-notice requirements for water pollution permits with cross-party sponsorship; AB449 and SB326 simplified rate procedures for small water utilities; AB577 funded the water agency's records database.
+### Where the record points further
+
+SB36 is the pattern to watch: the buy-and-retire design failed in 2021 and 2023 before passing in 2025 — the Legislature returned to it until it worked. The precedents run the same way: AB356 (2021) banned decorative Colorado River grass in southern Nevada 21–0 and 42–0, proof that a hard restriction passes when regionally scoped; SB250 (2019) tied land divisions to water-right dedication, 39–0; AB95 (2019) required domestic-well metering in stressed basins and SB113 (2023) extended it; AB191 (2023) made suppliers audit their water losses. Each is a base that later bills have widened rather than a ceiling.
+
+## Routes with little traction yet: never filed, never heard, or stopped early
+
+*Nothing here has won a vote — never filed, never heard in committee, or stopped early. The least-traveled routes: unproven rather than closed.*
+
+**Statewide guardrails on data centers.** Never filed. The existing statutes run the other way — SB547 (2019) let data centers run their own power equipment free of utility regulation, and the abatement statutes recruit them. Cooling rules are local (the Southern Nevada Water Authority's evaporative-cooling moratorium is a water-authority rule, not state law), and AB385 (2025), which would have barred local bans on large water-cooled towers, died in its first committee. The forward signal: interim committees studied data-center water and energy through 2026 for the 2027 session.
+
+**Statewide metering, waste fines, and reimbursement-style incentives.** None has ever been filed. Metering's edges exist in law (AB95, SB113, AB191), but retail metering remains a city and utility decision. The nearest waste statute, AB537 (2019), raised penalties for pollution — not landscape watering. The reimbursement design participants developed — tax breaks paid only after public-benefit metrics are met — has never been introduced in any form.
+
+**"Bring your own water."** Never filed statewide. Northern Nevada already operates this way — Truckee Meadows developers must dedicate water rights plus an 11 percent drought reserve — but by water-authority rule, not statute; SB250 (2019) is the nearest law.
+
+**The omnibus audit.** AB485 (2025) — basin water budgets, monitoring, digitized records, staff for old claims — died in its first committee. But its pieces passed one by one: basin studies (AB95), critical management areas (SB113), the records database (AB577), the retirement account (SB36). The record's pattern is incremental, not omnibus. Early deaths also took AB51 (2019, conjunctive management), AB449 (2021) and AB77 (2025, abatement conditions in Assembly Revenue), and State Engineer oversight is 0-for-6 since 2021.
+
+## Momentum map: active fronts and quiet fronts
+
+*Where bills keep appearing and advancing — and where the Legislature has not yet shown willingness to legislate.*
+
+**Active:** groundwater management and retirement (SB113, SB36, SB180, AB363 — bills every session, with rising success and near-unanimous votes); data-center water (no law yet, but filings and interim studies are multiplying — AB385, SB364, AB77, plus the 2026 interim work); regionally scoped conservation (AB356, SB250). **Quiet:** statewide metering, escalating waste fines, and reimbursement-style incentives have never drawn a single bill; State Engineer oversight is 0-for-6; statewide (rather than regional) mandates have not yet found a sponsor who can move them.
+
+## Federal overlap: what is already addressed outside Carson City
+
+*Where federal action already covers ground, a state bill duplicates it; where none exists, the state route is the only one.*
+
+Nevada's Colorado River share is fixed by interstate compact and federal operations — the Bureau of Reclamation sets shortage rules, and the post-2026 operating guidelines are being negotiated at the federal level now — so state bills cannot change the allocation itself. Federal drought-response money appropriated in 2022 already pays Colorado River users for measured conservation, overlapping part of the reimbursement-incentive idea. By contrast, groundwater management, metering, waste enforcement, and data-center water standards have no federal statute: those fronts are state or local by default, with no redundancy risk.
+
+## Sponsors, committees, and who still serves
+
+*Who has carried these bills, where bills stop, and which authors remain in the Legislature.*
+
+A slight majority of the 108 bills (58) were committee-sponsored. Senator Pete Goicoechea (R), the most frequent individual sponsor — 14 bills across all four sessions, concentrated in groundwater, districts, and rights retirement — left the Legislature after the 2023 session. Of the other frequent sponsors, Assemblymember Howard Watts (D, five bills) still serves; Senator Chris Brooks (D) and Assemblymember Sarah Peters (D), five each, have left. The active portfolio sits with current members Assemblymembers Bert Gurr (R) and Rich DeLong (R) and Senators Robin Titus (R) and Edgar Flores (D), each with three or four bills in 2023–2025. Cross-party sponsor teams were rare — five bills — but four of the five became law. Abatement and incentive bills route through the Revenue committees; water policy routes through Natural Resources, where most early deaths occurred (27 bills stopped in their first committee, 15 of them in a Natural Resources committee).
 
 ---
 
