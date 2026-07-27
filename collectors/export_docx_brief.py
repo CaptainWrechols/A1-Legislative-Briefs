@@ -63,9 +63,23 @@ def para(doc, before=0.0, after=4.0, align=None, line=1.06):
     pf.space_after = Pt(after)
     pf.line_spacing_rule = WD_LINE_SPACING.MULTIPLE
     pf.line_spacing = line
+    pf.widow_control = True
     if align is not None:
         pf.alignment = align
     return p
+
+
+def no_widow(text: str) -> str:
+    """Glue the final words together with non-breaking spaces so the last
+    line of a paragraph never holds fewer than three words (the glued run
+    is kept short so justification gaps stay invisible)."""
+    m = re.search(r"(\S+) (\S+) (\S+)$", text)
+    if m and sum(len(g) for g in m.groups()) <= 22:
+        return text[: m.start()] + "\u00a0".join(m.groups())
+    m = re.search(r"(\S+) (\S+)$", text)
+    if m and len(m.group(1)) + len(m.group(2)) <= 24:
+        return text[: m.start()] + m.group(1) + "\u00a0" + m.group(2)
+    return text
 
 
 def add_bottom_border(p, color: str, size_eighth_pts: int):
@@ -258,7 +272,7 @@ def main() -> None:
     set_font(run, 17, NAVY, bold=True)
     if subtitle:
         p = para(doc, after=6)
-        add_rich_text(p, subtitle, size=8.8, color=BODY)
+        add_rich_text(p, no_widow(subtitle), size=8.8, color=BODY)
 
     for sec in sections:
         p = para(doc, before=5, after=2.5)
@@ -281,7 +295,7 @@ def main() -> None:
                 set_font(run, 9.2, NAVY2, bold=True)
             elif kind == "explainer":
                 p = para(doc, after=2.5, line=1.04)
-                add_rich_text(p, text, size=7.8, color=MUTED)
+                add_rich_text(p, no_widow(text), size=7.8, color=MUTED)
                 for run in p.runs:
                     run.font.italic = True
             elif kind == "bullet":
@@ -289,10 +303,10 @@ def main() -> None:
                 p.paragraph_format.left_indent = Pt(10)
                 run = p.add_run("▪  ")
                 set_font(run, 8, TERRACOTTA)
-                add_rich_text(p, text, size=8.5)
+                add_rich_text(p, no_widow(text), size=8.5)
             else:
                 p = para(doc, after=3.2, align=WD_ALIGN_PARAGRAPH.JUSTIFY, line=1.04)
-                add_rich_text(p, text, size=8.5)
+                add_rich_text(p, no_widow(text), size=8.5)
 
     if footline:
         p = para(doc, before=8, after=0)
