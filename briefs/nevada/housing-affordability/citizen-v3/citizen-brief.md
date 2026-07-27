@@ -2,7 +2,7 @@
 issue_id: nevada-01-housing-affordability
 issue_title: Housing Affordability in Nevada
 brief_type: citizen-front-brief
-version: citizen-v2.0
+version: citizen-v3.0
 organization: The Nevada Forum
 generated_by: citizen-brief-writer v2.3
 date: 2026-07-27
@@ -17,7 +17,7 @@ The legislative record behind Nevadans' ten most common housing proposals, 2019�
 
 Nevada's Legislature took up 149 housing bills across its 2019, 2021, 2023, and 2025 sessions, and 63 became law — in two clear lanes. Supply and money bills now pass with room to spare — the 2025 session enacted the ADU and by-right density mandates and a $133 million attainable-housing account on unanimous and near-unanimous votes. Renter-cost and ownership bills assemble floor majorities session after session and stop at the last step: the governor's desk since 2023, and once, in November 2025, a single vote short of a two-thirds threshold. That is a record full of proven majorities, not dead ends. The sections below sort it by distance traveled: bills that passed both chambers, then bills with a winning vote behind them, then settled law and its openings, then routes with no traction yet — with notes on momentum, federal overlap, and sponsors.
 
-## Key numbers: how far housing proposals have traveled
+## Key numbers: how far these proposals have traveled
 
 *Each figure below is unpacked, bill by bill, in the section it points to.*
 
@@ -27,7 +27,7 @@ Nevada's Legislature took up 149 housing bills across its 2019, 2021, 2023, and 
 - **42–0** the Assembly's vote on AB540, the $133 million Nevada Attainable Housing Account — now law
 - **2 of 10** citizen proposals never yet filed as a bill
 
-## Closest to law: bills that passed both chambers and stopped at the last step
+## Closest to law: bills that passed both chambers
 
 *These bills assembled majorities in both houses; only a veto, a missing signature, or a supermajority rule separated them from statute — the record's most advanced unfinished work.*
 
@@ -39,7 +39,7 @@ Fifteen of the record's sixteen vetoes fall in 2023 and 2025 — nine housing bi
 
 **Developer linkage fees — SB99 (2025).** Authorized the two big metros to charge residential developers a fee dedicated to affordable housing; passed the Senate 14–6 and the Assembly 27–15, was delivered to the governor on May 27, 2025 — and the official history ends there: no signature, no chapter, not law. **The corporate-purchase cap — SB10 (November 2025 special session).** A 1,000-home cap plus an investor registry passed the Senate 18–0 and won the Assembly 27–10 — one vote short of the 28 its fee provisions required. A unanimous Senate and a 27-vote Assembly majority are the strongest showing this idea has ever made.
 
-## Demonstrated support: bills that cleared one chamber or a committee
+## Proven support: bills that cleared a chamber or a committee
 
 *Each bill here won a recorded majority — in committee or on a floor — before stalling: the strongest signal short of passage.*
 
@@ -61,7 +61,7 @@ AB540 created the Nevada Attainable Housing Account with $133 million, passing t
 
 Fee transparency is the Legislature's most consistent housing lane, each rung extending the last: the 5 percent late-fee cap (SB151, 2019), the three-day grace period (AB308, 2021), the unanimous ban on charging tenants for repairs the landlord owes (SB381, 2023), all-in pricing (AB121, 2025). The unfinished rung — application-fee refunds — has now passed the Legislature twice. On supply, SB150 (2021) legalized tiny houses in some zones and AB38 (2025) modernized the factory-built housing code, 40–2 and 17–3; the incentive side — SB430 (2025), tax credits for builders of at-cost starter homes with resale protections against investors — died in committee without a vote, untested rather than rejected. The machinery for a builders–citizens–legislators working group already exists: AB476 (2019), carried by a cross-party team, recreated the statutory Advisory Committee on Housing — annual needs report, one bill draft per session — 38–2 and 20–0, and study bills remain the most reliably enacted kind of housing bill. SB188 (2021) created donor-funded matched-savings accounts toward a first home after the same idea died in 2019. On corporate ownership, a one-vote special-session miss plus a statutory study due in 2027 mark that file as open, not closed.
 
-## Routes with little traction yet: never filed, never heard, or stopped early
+## Routes with little traction: never filed or stopped early
 
 *Nothing here has won a vote — never filed, never heard in committee, or stopped early. The least-traveled routes: unproven rather than closed.*
 
