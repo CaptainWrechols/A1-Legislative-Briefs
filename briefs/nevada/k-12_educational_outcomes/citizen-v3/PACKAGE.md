@@ -70,6 +70,7 @@ formatting and readability edits per Forum direction (2026-07-27):
 | `citizen-brief.html` | Print-ready front brief (verified 2 US Letter pages in headless Chrome) |
 | `citizen-brief.docx` | Word version of the front brief (verified 2 pages in LibreOffice) |
 | `glossary.md` / `.html` / `.docx` | Companion glossary (glossary-v2.0), organized like the Phase 2 Issue Brief glossary: one alphabetized two-column list of bulleted `Term:` entries (left-aligned, no bill citations, no sub-headers), followed by the alphabetized legislative process guide shared by all four briefs, which starts on its own page with a full-width header; ≤2 Word pages (glossary page 1, guide page 2). The guide also stands alone at `briefs/nevada/how-nevada-lawmaking-works.*` |
+| `proposal-spotlights.md` / `.html` / `.docx` | Companion deep dives (spotlights-v1.0) on the working-group rubric's short-listed proposals — committee paths, party breakdowns, and bills beyond the brief; single-column prose at 1.15 line spacing (`--layout prose`) |
 | `citizen-brief-print.css` | Shared Phase 2 print CSS + v2 `h3.subsec` subsection style (v3 widow/balance rules live in the HTML head) |
 | `appendices/` | Appendices A–I (markdown), `appendices-print.html`, `appendices.docx` — unchanged from v1.0 |
 | `render-check/` | Page images of both verified v3.0 renders (HTML and Word) |

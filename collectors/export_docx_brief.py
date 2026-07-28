@@ -258,12 +258,18 @@ def main() -> None:
     parser.add_argument("--brief-dir", required=True)
     parser.add_argument("--file", default="citizen-brief",
                         help="basename of the markdown/docx pair (default citizen-brief)")
+    parser.add_argument("--layout", choices=["brief", "glossary", "prose"], default=None,
+                        help="brief: justified 2-page front-brief; glossary: two-column "
+                             "Term: entries; prose: single-column left-aligned companion "
+                             "at 1.15 line spacing")
     args = parser.parse_args()
+    layout = args.layout or ("brief" if args.file == "citizen-brief" else "glossary")
     brief_dir = Path(args.brief_dir)
     md_path = brief_dir / f"{args.file}.md"
     out_path = brief_dir / f"{args.file}.docx"
 
-    keep_entries_together = args.file != "citizen-brief"
+    keep_entries_together = layout == "glossary"
+    prose = layout == "prose"
 
     title, subtitle, sections, footline = parse_markdown(md_path)
 
@@ -315,7 +321,7 @@ def main() -> None:
                 run = p.add_run(text)
                 set_font(run, 12, NAVY2, bold=True)
             elif kind == "explainer":
-                p = para(doc, after=2, line=1.03)
+                p = para(doc, after=3 if prose else 2, line=1.15 if prose else 1.03)
                 add_rich_text(p, no_widow(text), size=10, color=MUTED)
                 for run in p.runs:
                     run.font.italic = True
@@ -327,9 +333,13 @@ def main() -> None:
                 set_font(run, 10, TERRACOTTA)
                 add_rich_text(p, no_widow(text), size=10)
             else:
-                p = para(doc, after=2.8, align=WD_ALIGN_PARAGRAPH.JUSTIFY, line=1.03)
-                if keep_entries_together:
+                if prose:
+                    p = para(doc, after=5, line=1.15)
                     p.paragraph_format.keep_together = True
+                else:
+                    p = para(doc, after=2.8, align=WD_ALIGN_PARAGRAPH.JUSTIFY, line=1.03)
+                    if keep_entries_together:
+                        p.paragraph_format.keep_together = True
                 add_rich_text(p, no_widow(text), size=10)
         if stat_bullets:
             build_stat_strip(doc, stat_bullets)
