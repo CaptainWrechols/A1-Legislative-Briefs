@@ -24,6 +24,7 @@ import re
 from pathlib import Path
 
 from docx import Document
+from docx.enum.section import WD_SECTION_START
 from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_LINE_SPACING
 from docx.oxml import OxmlElement
@@ -67,6 +68,16 @@ def para(doc, before=0.0, after=4.0, align=None, line=1.06):
     if align is not None:
         pf.alignment = align
     return p
+
+
+def set_columns(section, num: int, space_twips: int = 300) -> None:
+    sect_pr = section._sectPr
+    cols = sect_pr.find(qn("w:cols"))
+    if cols is None:
+        cols = OxmlElement("w:cols")
+        sect_pr.append(cols)
+    cols.set(qn("w:num"), str(num))
+    cols.set(qn("w:space"), str(space_twips))
 
 
 def no_widow(text: str) -> str:
@@ -278,13 +289,20 @@ def main() -> None:
         p = para(doc, after=6)
         add_rich_text(p, no_widow(subtitle), size=10, color=BODY)
 
+    if keep_entries_together:
+        body_section = doc.add_section(WD_SECTION_START.CONTINUOUS)
+        set_columns(body_section, 2)
+
     for sec in sections:
         p = para(doc, before=5, after=2)
         run = p.add_run(sec["heading"].upper())
         set_font(run, 12.5, TERRACOTTA, bold=True, spacing_pts=1.0)
         stat_bullets = [
             t for kind, t in sec["items"]
-            if kind == "bullet" and re.match(r"\*\*(.+?)\*\*\s", t)
+            if kind == "bullet"
+            and (m := re.match(r"\*\*(.+?)\*\*\s", t))
+            and len(m.group(1)) <= 12
+            and not m.group(1).endswith(":")
         ]
         for kind, text in sec["items"]:
             if kind == "bullet" and text in stat_bullets:
@@ -313,6 +331,9 @@ def main() -> None:
             build_stat_strip(doc, stat_bullets)
 
     if footline:
+        if keep_entries_together:
+            foot_section = doc.add_section(WD_SECTION_START.CONTINUOUS)
+            set_columns(foot_section, 1)
         p = para(doc, before=2, after=0)
         add_top_border(p, "C8CDD6", 6)
         run = p.add_run(footline)

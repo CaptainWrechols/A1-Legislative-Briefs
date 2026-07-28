@@ -162,23 +162,44 @@ def render_stat_strip(items) -> str:
     return "  <div class=\"stat-strip\">\n" + "\n".join(cards) + "\n  </div>"
 
 
-def render_section(sec: dict) -> str:
+def render_section(sec: dict, columns: bool = False, tail_html: str = "") -> str:
     out = ["<section>", f"  <h2 class=\"sec\">{typographize(sec['heading'])}</h2>"]
+    if columns:
+        out.append("  <div class=\"cols\">")
     stat_bullets = [
         (k, t) for k, t in sec["items"]
-        if k == "bullet" and re.match(r"\*\*(.+?)\*\*\s", t)
+        if k == "bullet"
+        and (m := re.match(r"\*\*(.+?)\*\*\s", t))
+        and len(m.group(1)) <= 12
+        and not m.group(1).endswith(":")
     ]
+    in_list = False
     for kind, text in sec["items"]:
         if kind == "bullet" and (kind, text) in stat_bullets:
             continue
+        if kind == "bullet":
+            if not in_list:
+                out.append("  <ul class=\"plain\">")
+                in_list = True
+            out.append(f"    <li>{inline_md(no_widow(text))}</li>")
+            continue
+        if in_list:
+            out.append("  </ul>")
+            in_list = False
         if kind == "h3":
             out.append(f"  <h3 class=\"subsec\">{typographize(text)}</h3>")
         elif kind == "explainer":
             out.append(f"  <p class=\"explainer-block\">{inline_md(no_widow(text))}</p>")
         else:
             out.append(f"  <p class=\"lead-item\">{inline_md(no_widow(text))}</p>")
+    if in_list:
+        out.append("  </ul>")
     if stat_bullets:
         out.append(render_stat_strip(stat_bullets))
+    if tail_html:
+        out.append(tail_html)
+    if columns:
+        out.append("  </div>")
     out.append("</section>")
     return "\n".join(out)
 
@@ -218,7 +239,7 @@ def main() -> None:
         f"<title>{typographize(title)}</title>",
         "<link rel=\"stylesheet\" href=\"citizen-brief-print.css\">",
         STYLE_BLOCK.format(version=version, slug=slug)
-        + ("\n<style>\n  /* glossary/companion docs: keep each entry on one page */\n  p.lead-item { break-inside: avoid; }\n</style>" if args.file != "citizen-brief" else ""),
+        + ("\n<style>\n  /* glossary/companion docs: Phase 2 glossary layout — two columns,\n     left-aligned bulleted entries that never split */\n  body { line-height: 1.16; }\n  h2.sec { margin: 4.5pt 0 2pt; }\n  p.lead-item { break-inside: avoid; text-align: left; }\n  .cols { column-count: 2; column-gap: 14pt; }\n  ul.plain { margin: 0; }\n  ul.plain li { break-inside: avoid; margin-bottom: 2.8pt; text-align: left; }\n  ul.plain li strong.li { color: #1A2D4F; }\n</style>" if args.file != "citizen-brief" else ""),
         "</head>",
         "<body>",
         "",
@@ -230,14 +251,18 @@ def main() -> None:
         "</header>",
         "",
     ]
-    for sec in sections:
-        parts.append(render_section(sec))
-        parts.append("")
+    companion = args.file != "citizen-brief"
     foot = typographize(footline.rstrip("."))
     if month_year:
         foot += f" &middot; The Nevada Forum &middot; {month_year}"
-    parts.append(f"<p class=\"footline\" style=\"margin-top: 1pt;\">{foot}</p>")
-    parts.append("")
+    foot_html = f"<p class=\"footline\" style=\"margin-top: 1pt;\">{foot}</p>"
+    for i, sec in enumerate(sections):
+        tail = foot_html if companion and i == len(sections) - 1 else ""
+        parts.append(render_section(sec, columns=companion, tail_html=tail))
+        parts.append("")
+    if not companion:
+        parts.append(foot_html)
+        parts.append("")
     parts.append("</body>")
     parts.append("</html>")
 
