@@ -239,7 +239,7 @@ def main() -> None:
         f"<title>{typographize(title)}</title>",
         "<link rel=\"stylesheet\" href=\"citizen-brief-print.css\">",
         STYLE_BLOCK.format(version=version, slug=slug)
-        + ("\n<style>\n  /* glossary/companion docs: Phase 2 glossary layout — two columns,\n     left-aligned bulleted entries that never split */\n  body { line-height: 1.16; }\n  h2.sec { margin: 4.5pt 0 2pt; }\n  p.lead-item { break-inside: avoid; text-align: left; }\n  .cols { column-count: 2; column-gap: 14pt; }\n  ul.plain { margin: 0; }\n  ul.plain li { break-inside: avoid; margin-bottom: 2.8pt; text-align: left; }\n  ul.plain li strong.li { color: #1A2D4F; }\n</style>" if args.file != "citizen-brief" else ""),
+        + ("\n<style>\n  /* glossary/companion docs: Phase 2 glossary layout — two columns,\n     left-aligned bulleted entries that never split */\n  body { line-height: 1.16; }\n  h2.sec { margin: 4.5pt 0 2pt; }\n  p.lead-item { break-inside: avoid; text-align: left; }\n  .cols { column-count: 2; column-gap: 14pt; }\n  ul.plain { margin: 0; }\n  ul.plain li { break-inside: avoid; margin-bottom: 2.8pt; text-align: left; }\n  ul.plain li strong.li { color: #1A2D4F; }\n  section:not(:first-of-type) { break-before: page; }\n</style>" if args.file != "citizen-brief" else ""),
         "</head>",
         "<body>",
         "",

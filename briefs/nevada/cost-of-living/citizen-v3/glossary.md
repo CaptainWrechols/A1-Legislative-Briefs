@@ -11,45 +11,41 @@ status: READY FOR HUMAN REVIEW
 
 # Glossary — Health Care Costs Brief
 
-Plain-language definitions of the terms and acronyms in "The Rising Cost of Living in Nevada: Health Care" (citizen brief v3.0), followed by the legislative process guide shared by all four briefs.
+Plain-language definitions of this brief's terms and acronyms; the shared legislative process guide follows.
 
 ## Glossary
 
-- **340B:** A federal program letting hospitals and clinics serving low-income patients buy drugs at deep discounts.
-- **Any-group pooling:** Letting small businesses or unrelated groups band together to buy insurance at large-group prices — never filed.
-- **Arbitration:** A neutral process settling insurer–provider payment disputes outside court; forced arbitration — the vetoed-bill subject — is a policy clause stripping the patient's right to sue.
+- **340B:** A federal program letting safety-net hospitals and clinics buy drugs at deep discounts.
+- **Any-group pooling:** Small businesses or unrelated groups banding together to buy insurance at large-group prices — never filed.
+- **Arbitration:** A neutral process settling insurer–provider payment disputes out of court; forced arbitration — the vetoed-bill subject — strips the patient's right to sue.
+- **Credentialing:** An insurer's vetting process for adding a provider to its network; delays keep new providers from insured patients for months.
 - **Autism behavior technicians:** Front-line providers of behavioral therapy for autistic children.
-- **Credentialing:** An insurer's vetting process for adding a provider to its network; slow credentialing keeps new providers from insured patients for months.
-- **Dental therapy:** A licensed midlevel dental profession — more training than a hygienist, less than a dentist.
+- **Dental therapy:** A licensed midlevel dental profession — between hygienist and dentist.
 - **EMS:** Emergency medical services — ambulance and paramedic personnel.
-- **ER / urgent care:** Emergency room versus walk-in clinic; ER visits carry hospital-level charges even for minor problems — why participants proposed splitting the billing.
-- **ERISA:** The federal Employee Retirement Income Security Act, which puts self-funded employer health plans under federal — not state — regulation.
-- **Federal prior-authorization rules:** 2024 federal rules imposing decision deadlines on Medicare Advantage, Medicaid, and exchange plans through 2027; Nevada's law covers the plans they miss.
-- **Foreign medical graduates:** Doctors trained abroad, whose path to full Nevada licensure was eased in 2025.
-- **Gag clause:** A contract term barring pharmacists from volunteering that paying cash would be cheaper than insurance; now banned in Nevada.
-- **Health Service Corps:** Nevada's loan-repayment program for providers who commit to underserved areas.
-- **HHS:** Health and Human Services, as in the Senate and Assembly HHS committees.
-- **Licensure compact:** An agreement among states to honor each other's professional licenses across member states; the Nurse Licensure Compact is the nursing version — the one compact Nevada has not joined.
-- **Medicaid / CHIP:** The state-federal insurance program for lower-income Nevadans and its companion Children's Health Insurance Program; the state sets many of its rules, so many bills target it.
+- **ER / urgent care:** Emergency room versus walk-in clinic; ER visits carry hospital-level charges even for minor problems.
+- **Foreign medical graduates:** Doctors trained abroad; their path to full Nevada licensure was eased in 2025.
+- **Gag clause:** A contract term barring pharmacists from saying cash would be cheaper than insurance; now banned in Nevada.
+- **Health Service Corps:** Nevada's loan-repayment program for providers committing to underserved areas.
+- **HHS:** Health and Human Services — the Senate and Assembly HHS committees.
+- **Licensure compact:** States agreeing to honor each other's professional licenses; the Nurse Licensure Compact is the nursing version — the one compact Nevada has not joined.
+- **Medicaid / CHIP:** The state-federal program for lower-income Nevadans and its companion Children's Health Insurance Program; the state sets many of its rules, so many bills target it.
 - **Medical-debt collection:** Lawsuits, garnishments, and credit tactics used to collect unpaid medical bills; bills limiting them were vetoed.
-- **Medicare:** The federal insurance program for people 65 and over and some with disabilities; its payment rates and drug prices are set federally.
-- **Medicare-negotiated prices:** Drug prices the federal government negotiates with manufacturers under a 2022 law; the first take effect in 2026 — Nevada's vetoed caps were pegged to them.
-- **Network / panel:** The providers under contract with an insurer; a provider whose "panel is full" is not accepting new patients, and no law defines when a panel is full.
+- **Medicare / Medicare-negotiated prices:** The federal insurance program for people 65 and over and some with disabilities; its rates and drug prices are set federally. A 2022 law lets the federal government negotiate drug prices — the first take effect in 2026, and Nevada's vetoed caps were pegged to them.
+- **Network / panel / out-of-network:** The providers under contract with an insurer; a "full panel" is not accepting new patients, and no law defines when a panel is full. An out-of-network provider has no insurer contract — the source of the biggest surprise bills.
 - **Nevada Health Authority:** The new state agency consolidating Nevada's public health-insurance programs.
-- **No Surprises Act:** The 2022 federal law protecting patients nationwide from surprise out-of-network emergency bills.
-- **Out-of-network:** A provider with no contract with the patient's insurer — the source of the highest surprise bills.
-- **Pharmacy benefit manager (PBM):** A middleman hired by insurers to run drug benefits — choosing covered drugs, negotiating drugmaker rebates, and setting pharmacy payments — a major driver of what patients pay at the counter.
-- **Prior authorization:** Requiring a doctor to get insurer approval before a treatment or prescription is covered.
-- **Provider-assessment mechanism:** A fee on providers used to draw federal matching money — funding higher Medicaid payments without state general-fund dollars.
+- **No Surprises Act:** The 2022 federal law protecting patients from surprise out-of-network emergency bills.
+- **Pharmacy benefit manager (PBM):** A middleman hired by insurers to run drug benefits — choosing covered drugs, negotiating drugmaker rebates, and setting pharmacy payments — a major driver of what patients pay.
+- **Prior authorization:** Requiring insurer approval before a treatment or prescription is covered; 2024 federal rules impose decision deadlines on Medicare Advantage, Medicaid, and exchange plans through 2027, and Nevada's law covers the plans they miss.
+- **Provider-assessment mechanism:** A fee on providers that draws federal matching money — funding higher Medicaid payments without state general-fund dollars.
 - **Public Option:** A state-designed health plan any Nevadan can buy.
-- **Rebate pass-through:** Passing the discounts drugmakers pay PBMs along to the payer, as Nevada requires for Medicaid.
-- **Recruitment grant program:** State grants aimed at provider shortages, enacted in the 2025 special session.
-- **Reimbursement rate:** What an insurer or program pays a provider; low rates are why some providers do not accept Medicaid patients.
-- **Residency:** Supervised hospital training after medical school — the bottleneck for growing the doctor supply and the target of Nevada's residency grants.
-- **Self-funded employer plan:** A plan where the employer pays claims itself; most large-employer coverage works this way, beyond state regulation (see ERISA).
-- **Step therapy:** Requiring a patient to try cheaper drugs first — and "fail" on them — before the prescribed one is covered.
-- **Telehealth:** Care delivered by video or phone; settled Nevada law.
-- **Tricare:** The federal health program for military members, retirees, and their families.
+- **Rebate pass-through:** Passing drugmaker discounts paid to PBMs along to the payer, as Nevada requires for Medicaid.
+- **Recruitment grant program:** State grants against provider shortages, enacted in the 2025 special session.
+- **Reimbursement rate:** What an insurer or program pays a provider; low rates are why some providers decline Medicaid patients.
+- **Residency:** Supervised hospital training after medical school — the doctor-supply bottleneck and the target of Nevada's residency grants.
+- **Self-funded employer plan / ERISA:** A plan where the employer pays claims itself; most large-employer coverage works this way, under the federal ERISA law (Employee Retirement Income Security Act), not the state.
+- **Step therapy:** Trying cheaper drugs first — and "failing" on them — before the prescribed one is covered.
+- **Telehealth:** Video or phone care; settled Nevada law.
+- **Tricare:** The federal health program for military members, retirees, and families.
 
 ## Legislative process guide
 

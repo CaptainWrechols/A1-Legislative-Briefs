@@ -70,7 +70,7 @@ def para(doc, before=0.0, after=4.0, align=None, line=1.06):
     return p
 
 
-def set_columns(section, num: int, space_twips: int = 300) -> None:
+def set_columns(section, num: int, space_twips: int = 240) -> None:
     sect_pr = section._sectPr
     cols = sect_pr.find(qn("w:cols"))
     if cols is None:
@@ -289,14 +289,17 @@ def main() -> None:
         p = para(doc, after=6)
         add_rich_text(p, no_widow(subtitle), size=10, color=BODY)
 
-    if keep_entries_together:
-        body_section = doc.add_section(WD_SECTION_START.CONTINUOUS)
-        set_columns(body_section, 2)
 
-    for sec in sections:
+    for sec_index, sec in enumerate(sections):
+        if keep_entries_together and sec_index > 0:
+            head_section = doc.add_section(WD_SECTION_START.NEW_PAGE)
+            set_columns(head_section, 1)
         p = para(doc, before=5, after=2)
         run = p.add_run(sec["heading"].upper())
         set_font(run, 12.5, TERRACOTTA, bold=True, spacing_pts=1.0)
+        if keep_entries_together:
+            entry_section = doc.add_section(WD_SECTION_START.CONTINUOUS)
+            set_columns(entry_section, 2)
         stat_bullets = [
             t for kind, t in sec["items"]
             if kind == "bullet"
@@ -317,7 +320,8 @@ def main() -> None:
                 for run in p.runs:
                     run.font.italic = True
             elif kind == "bullet":
-                p = para(doc, after=3, line=1.05)
+                p = para(doc, after=2.2 if keep_entries_together else 3,
+                         line=1.0 if keep_entries_together else 1.05)
                 p.paragraph_format.left_indent = Pt(10)
                 run = p.add_run("▪  ")
                 set_font(run, 10, TERRACOTTA)

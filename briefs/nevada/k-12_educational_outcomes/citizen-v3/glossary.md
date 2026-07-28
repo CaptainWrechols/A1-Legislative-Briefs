@@ -11,45 +11,45 @@ status: READY FOR HUMAN REVIEW
 
 # Glossary — K-12 Outcomes Brief
 
-Plain-language definitions of the terms and acronyms in "K-12 Educational Outcomes in Nevada" (citizen brief v3.0), followed by the legislative process guide shared by all four briefs.
+Plain-language definitions of this brief's terms and acronyms; the shared legislative process guide follows.
 
 ## Glossary
 
-- **AI:** Artificial intelligence — software that mimics human judgment; barred from school counselors' duties in 2025.
-- **Appointed nonvoting trustees:** School-board members appointed rather than elected, seated without a vote — four now sit on the Clark County board.
-- **Charter authority:** The State Public Charter School Authority, which oversees charter schools and is covered by the new recurring audits.
+- **AI:** Artificial intelligence; barred from school counselors' duties in 2025.
+- **Appointed nonvoting trustees:** Board members appointed rather than elected, without a vote — four now sit on the Clark County board.
+- **Charter authority:** The State Public Charter School Authority, overseer of charter schools, covered by the new recurring audits.
 - **Collective bargaining:** Contract negotiation between a district and its employee unions.
-- **Commission on School Funding:** The statutory body charged with calculating what fully funding Nevada schools would take.
+- **Commission on School Funding:** The statutory body that calculates what full funding would take.
 - **Competency-based education:** Letting pupils advance by demonstrating mastery rather than by hours spent in a seat.
-- **Cross-zone transfers:** Letting a pupil attend a school outside the attendance zone assigned to their address, with transportation grants.
-- **Ed-tech commission:** The state's dedicated educational-technology commission, abolished in 2023.
+- **Cross-zone transfers:** Letting a pupil attend a school outside their assigned attendance zone, with transportation grants.
+- **Ed-tech commission:** The state's educational-technology commission, abolished in 2023.
 - **End-of-course finals:** The statewide exams once required to finish certain high-school courses; ended in 2023.
-- **Every Student Succeeds Act (ESSA):** The federal education law requiring annual statewide testing in grades 3–8 and once in high school. Dropping Nevada's statewide test would collide with it — but it allows growth-based accountability.
-- **Federal single audit:** The annual independent audit required of any district spending significant federal money.
-- **Federal teacher loan forgiveness:** Existing federal programs that cancel student debt for teachers who serve qualifying schools.
-- **FERPA / COPPA:** The federal laws protecting pupil records (Family Educational Rights and Privacy Act) and children's online data (Children's Online Privacy Protection Act) — the ground Nevada's pupil-data disclosure law built on.
-- **Growth vs. proficiency:** Two ways to judge schools: how much pupils improve over a year (growth) versus how many clear a fixed bar (proficiency). Nevada's ratings already include a growth component; the failed bills changed its weight.
-- **Hard-to-fill positions:** Teaching jobs districts struggle to staff — special education, rural posts — now eligible for extra pay.
-- **Head Start:** The federal pre-kindergarten program for low-income families. Universal federal pre-K has been proposed but never enacted.
-- **Inspector General (IG):** An independent watchdog office with power to investigate an agency from outside — the never-heard design for auditing school spending.
-- **Interstate Teacher Mobility Compact:** The multi-state agreement honoring other states' teacher licenses.
-- **K-12 / K-5:** Kindergarten through grade 12 (all of public school) / kindergarten through grade 5 (elementary).
-- **Mining tax routed to education:** The 2021 tax on gold and silver mining whose proceeds go to schools.
+- **Every Student Succeeds Act (ESSA):** The federal law requiring annual testing in grades 3–8 and once in high school; dropping Nevada's test would collide with it, though it allows growth-based accountability.
+- **Federal single audit:** The annual independent audit required of districts spending significant federal money.
+- **Federal teacher loan forgiveness:** Federal programs that cancel student debt for teachers who serve qualifying schools.
+- **FERPA / COPPA:** The federal laws protecting pupil records (Family Educational Rights and Privacy Act) and children's online data (Children's Online Privacy Protection Act); Nevada's pupil-data disclosure law built on them.
+- **Growth vs. proficiency:** How much pupils improve over a year (growth) versus how many clear a fixed bar (proficiency); Nevada's ratings already include growth — the failed bills changed its weight.
+- **Hard-to-fill positions:** Teaching jobs districts struggle to staff — special education, rural posts — now drawing extra pay.
+- **Head Start:** The federal pre-K program for low-income families; universal pre-K has been proposed, never enacted.
+- **Inspector General (IG):** An independent watchdog office investigating from outside — the never-heard design for auditing school spending.
+- **Interstate Teacher Mobility Compact:** The multi-state pact honoring other states' teacher licenses.
+- **K-12 / K-5:** Kindergarten through grade 12 (all of public school) / through grade 5 (elementary).
+- **Mining tax routed to education:** The 2021 gold-and-silver mining tax whose proceeds go to schools.
 - **PE:** Physical education.
-- **Provisional hiring:** Letting a licensed out-of-state teacher start work for a year while Nevada licensure paperwork finishes.
+- **Provisional hiring:** Letting a licensed out-of-state teacher work a year while Nevada paperwork finishes.
 - **Public Education Oversight Board:** The new statewide accountability board created in 2025.
-- **Pupil-Centered Funding Plan / Nevada Plan:** Nevada's school funding formula since 2019, which attaches dollars to each pupil with weights for need — replacing the 1967-era Nevada Plan.
-- **Read by Grade 3:** Nevada's early-literacy program: pupils are assessed through third grade, and those reading far behind get mandatory intensive help.
-- **Retention:** Holding a pupil back to repeat a grade. Automatic third-grade retention was removed in 2019, and no bill has proposed restoring it.
-- **School star ratings:** Nevada's one-to-five-star report card for each school, built from test results and other measures.
-- **Screen time:** Pupils' time on classroom devices; no bill limits it in the early grades.
-- **Six-year outside-consultant reviews:** The financial reviews of districts by outside consultants that existing law already requires.
+- **Pupil-Centered Funding Plan / Nevada Plan:** Nevada's funding formula since 2019, attaching dollars to each pupil with weights for need — replacing the 1967-era Nevada Plan.
+- **Read by Grade 3:** Nevada's early-literacy program: pupils are assessed through grade 3, and those far behind get mandatory intensive help.
+- **Retention:** Holding a pupil back a grade; automatic third-grade retention was removed in 2019, and no bill has proposed restoring it.
+- **School star ratings:** Nevada's five-star report card for each school, built from tests and other measures.
+- **Screen time:** Time on classroom devices; no bill limits it in the early grades.
+- **Six-year outside-consultant reviews:** District financial reviews by outside consultants, already required by law.
 - **Social-emotional measurement:** Tracking skills like self-management and relationships alongside academics.
-- **Statewide assessment:** The standardized test every Nevada pupil takes — the anchor for school ratings and the Read by Grade 3 trigger.
-- **Superintendent:** A district's chief executive, hired by the elected school board — which is why the $485,000 contracts have never been touched by a bill.
-- **Teaching-pathway grants:** Paid routes into the profession for aspiring teachers.
-- **Three-cueing:** A reading-instruction method that has pupils guess words from context and pictures rather than sounding them out.
-- **"Where money allows" mandates:** Staffing requirements — such as school social workers — that apply only to the extent funding exists. The unconditional versions die in committee; the money-permitting versions pass.
+- **Statewide assessment:** The standardized test every pupil takes — the anchor for ratings and the Read by Grade 3 trigger.
+- **Superintendent:** A district's chief executive, hired by the elected board — why the $485,000 contracts were never touched by a bill.
+- **Teaching-pathway grants:** Paid training routes into the profession.
+- **Three-cueing:** A reading method where pupils guess words from context and pictures rather than sounding them out.
+- **"Where money allows" mandates:** Staffing rules — like school social workers — that apply only as funding exists; unconditional versions die in committee, money-permitting ones pass.
 
 ## Legislative process guide
 

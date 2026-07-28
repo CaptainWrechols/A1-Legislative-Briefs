@@ -11,7 +11,7 @@ status: READY FOR HUMAN REVIEW
 
 # Glossary — Housing Affordability Brief
 
-Plain-language definitions of the terms and acronyms in "Housing Affordability in Nevada" (citizen brief v3.0), followed by the legislative process guide shared by all four briefs.
+Plain-language definitions of this brief's terms and acronyms; the shared legislative process guide follows.
 
 ## Glossary
 
