@@ -69,6 +69,7 @@ formatting and readability edits per Forum direction (2026-07-27):
 | `citizen-brief.md` | Source markdown of the 2-page front brief (v3.0) |
 | `citizen-brief.html` | Print-ready front brief (verified 2 US Letter pages in headless Chrome) |
 | `citizen-brief.docx` | Word version of the front brief (verified 2 pages in LibreOffice) |
+| `glossary.md` / `.html` / `.docx` | Companion glossary (glossary-v1.0): plain-language definitions of the brief's terms, ideas, and acronyms — same type sizes and Phase 2 system; the brief itself is unchanged |
 | `citizen-brief-print.css` | Shared Phase 2 print CSS + v2 `h3.subsec` subsection style (v3 widow/balance rules live in the HTML head) |
 | `appendices/` | Appendices A–I (markdown), `appendices-print.html`, `appendices.docx` — unchanged from v1.0 |
 | `render-check/` | Page images of both verified v3.0 renders (HTML and Word) |
@@ -79,6 +80,10 @@ formatting and readability edits per Forum direction (2026-07-27):
 ```bash
 # HTML (Phase 2 shell; masthead, terracotta H2s, stat strip, subsection H3s)
 python collectors/export_brief_html.py --brief-dir briefs/nevada/k-12_educational_outcomes/citizen-v3
+
+# Glossary (same shell; --file selects the document)
+python collectors/export_brief_html.py --brief-dir briefs/nevada/k-12_educational_outcomes/citizen-v3 --file glossary
+python collectors/export_docx_brief.py --brief-dir briefs/nevada/k-12_educational_outcomes/citizen-v3 --file glossary
 
 # Word (front brief via python-docx direct formatting; appendices via pandoc)
 ISSUE_CONFIG=config/issues/nevada-k-12_educational_outcomes.yaml \
