@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="review-status" content="READY FOR HUMAN REVIEW">
-<!-- glossary-v1.1 tone/format revision · 2026-07-28 · status: READY FOR HUMAN REVIEW -->
+<!-- glossary-v2.0 tone/format revision · 2026-07-28 · status: READY FOR HUMAN REVIEW -->
 <title>Glossary &mdash; Health Care Costs Brief</title>
 <link rel="stylesheet" href="citizen-brief-print.css">
 <style>
-  /* adult prose layout (glossary-v1.1, cost-of-living) — readable type: body 10pt, headers 12pt+ */
+  /* adult prose layout (glossary-v2.0, cost-of-living) — readable type: body 10pt, headers 12pt+ */
   body { font-size: 10pt; line-height: 1.19; }
   .masthead .forum { font-size: 10pt; }
   h1.title { font-size: 18pt; }
@@ -29,8 +29,15 @@
   p.lead-item { text-wrap: pretty; }
 </style>
 <style>
-  /* glossary/companion docs: keep each entry on one page */
-  p.lead-item { break-inside: avoid; }
+  /* glossary/companion docs: Phase 2 glossary layout — two columns,
+     left-aligned bulleted entries that never split */
+  body { line-height: 1.16; }
+  h2.sec { margin: 4.5pt 0 2pt; }
+  p.lead-item { break-inside: avoid; text-align: left; }
+  .cols { column-count: 2; column-gap: 14pt; }
+  ul.plain { margin: 0; }
+  ul.plain li { break-inside: avoid; margin-bottom: 2.8pt; text-align: left; }
+  ul.plain li strong.li { color: #1A2D4F; }
 </style>
 </head>
 <body>
@@ -39,66 +46,79 @@
   <div class="forum">The&nbsp;Forum</div>
   <hr class="navy-rule">
   <h1 class="title">Glossary &mdash; Health Care Costs Brief</h1>
-  <p class="dek">Plain-language definitions for the terms and acronyms in &ldquo;The Rising Cost of Living in Nevada: Health Care&rdquo; (citizen brief v3.0). Lawmaking-process terms are in the shared companion, &ldquo;How Nevada&nbsp;Lawmaking&nbsp;Works.&rdquo;</p>
+  <p class="dek">Plain-language definitions of the terms and acronyms in &ldquo;The Rising Cost of Living in Nevada: Health Care&rdquo; (citizen brief v3.0), followed by the legislative process guide shared by all&nbsp;four&nbsp;briefs.</p>
 </header>
 
 <section>
-  <h2 class="sec">Health care and insurance terms</h2>
-  <p class="explainer-block">Subject terms used in the brief&rsquo;s proposal&nbsp;sections.</p>
-  <p class="lead-item"><strong class="li">Pharmacy benefit manager (PBM).</strong> A middleman hired by insurers to run drug benefits &mdash; deciding which drugs are covered, negotiating rebates from drugmakers, and setting what pharmacies get paid. A major driver of what patients pay at&nbsp;the&nbsp;counter.</p>
-  <p class="lead-item"><strong class="li">Gag clause.</strong> A contract term that barred pharmacists from volunteering that paying cash would be cheaper than using insurance; now banned&nbsp;in&nbsp;Nevada.</p>
-  <p class="lead-item"><strong class="li">Rebate pass-through.</strong> Requiring the discounts drugmakers pay to PBMs to be passed along to the payer, as Nevada requires&nbsp;for&nbsp;Medicaid.</p>
-  <p class="lead-item"><strong class="li">340B.</strong> A federal program letting hospitals and clinics that serve low-income patients buy drugs at&nbsp;deep&nbsp;discounts.</p>
-  <p class="lead-item"><strong class="li">Prior authorization.</strong> An insurer&rsquo;s requirement that a doctor get approval before a treatment or prescription&nbsp;is&nbsp;covered.</p>
-  <p class="lead-item"><strong class="li">Step therapy.</strong> An insurer&rsquo;s requirement that a patient try cheaper drugs first &mdash; and &ldquo;fail&rdquo; on them &mdash; before the prescribed one&nbsp;is&nbsp;covered.</p>
-  <p class="lead-item"><strong class="li">Licensure compact.</strong> An agreement among states to honor each other&rsquo;s professional licenses, so a provider licensed in one member state can practice in the others. The <strong class="li">Nurse Licensure Compact</strong> is the nursing version &mdash; the one compact Nevada has&nbsp;not&nbsp;joined.</p>
-  <p class="lead-item"><strong class="li">Credentialing.</strong> An insurer&rsquo;s process for vetting and approving a provider to join its network. Slow credentialing keeps new providers from seeing insured patients&nbsp;for&nbsp;months.</p>
-  <p class="lead-item"><strong class="li">Network / panel.</strong> The providers under contract with an insurer. A provider whose &ldquo;panel is full&rdquo; is not accepting new patients; no Nevada law defines when a panel counts&nbsp;as&nbsp;full.</p>
-  <p class="lead-item"><strong class="li">Out-of-network.</strong> A provider with no contract with the patient&rsquo;s insurer &mdash; the source of the highest&nbsp;surprise&nbsp;bills.</p>
-  <p class="lead-item"><strong class="li">Arbitration.</strong> A neutral process that settles insurer&ndash;provider payment disputes outside court. <strong class="li">Forced arbitration</strong> &mdash; the vetoed-bill subject &mdash; is a policy clause that strips the patient&rsquo;s right&nbsp;to&nbsp;sue.</p>
-  <p class="lead-item"><strong class="li">ER / urgent care.</strong> Emergency room versus walk-in clinic. ER visits carry hospital-level charges even for minor problems &mdash; why participants proposed splitting&nbsp;the&nbsp;billing.</p>
-  <p class="lead-item"><strong class="li">Telehealth.</strong> Medical care delivered by video or phone; settled&nbsp;Nevada&nbsp;law.</p>
-  <p class="lead-item"><strong class="li">Reimbursement rate.</strong> What an insurer or government program pays a provider. Low rates are why some providers do not accept Medicaid&nbsp;patients.</p>
-  <p class="lead-item"><strong class="li">Provider-assessment mechanism.</strong> A fee collected from providers and used to draw down federal matching money &mdash; funding higher Medicaid payments without state general-fund&nbsp;dollars.</p>
-  <p class="lead-item"><strong class="li">Medicaid / CHIP.</strong> The state-federal insurance program for lower-income Nevadans, and its companion program for children. The state sets many of its rules, which is why so many bills&nbsp;target&nbsp;it.</p>
-  <p class="lead-item"><strong class="li">Medicare.</strong> The federal insurance program for people 65 and over and some people with disabilities. Its payment rates and drug prices are&nbsp;set&nbsp;federally.</p>
-  <p class="lead-item"><strong class="li">Tricare.</strong> The federal health program for military members, retirees, and&nbsp;their&nbsp;families.</p>
-  <p class="lead-item"><strong class="li">Public Option.</strong> A state-designed health plan any Nevadan&nbsp;can&nbsp;buy.</p>
-  <p class="lead-item"><strong class="li">Any-group pooling.</strong> Letting small businesses or unrelated groups band together to buy insurance at large-group prices &mdash; never filed as&nbsp;a&nbsp;bill.</p>
-  <p class="lead-item"><strong class="li">Self-funded employer plan.</strong> A plan where the employer pays claims itself and an insurer only administers paperwork. Most large-employer coverage works this way &mdash; and it is beyond state regulation&nbsp;(see&nbsp;ERISA).</p>
-  <p class="lead-item"><strong class="li">Health Service Corps.</strong> Nevada&rsquo;s loan-repayment program for providers who commit to practicing in&nbsp;underserved&nbsp;areas.</p>
-  <p class="lead-item"><strong class="li">Residency.</strong> The years of supervised hospital training after medical school &mdash; the bottleneck for growing the doctor supply, and the target of Nevada&rsquo;s residency&nbsp;grants.</p>
-  <p class="lead-item"><strong class="li">Foreign medical graduates.</strong> Doctors trained abroad, whose path to full Nevada licensure was eased&nbsp;in&nbsp;2025.</p>
-  <p class="lead-item"><strong class="li">Autism behavior technicians.</strong> Front-line providers of behavioral therapy for&nbsp;autistic&nbsp;children.</p>
-  <p class="lead-item"><strong class="li">Dental therapy.</strong> A licensed midlevel dental profession &mdash; more training than a hygienist, less than&nbsp;a&nbsp;dentist.</p>
-  <p class="lead-item"><strong class="li">Medical-debt collection.</strong> The lawsuits, garnishments, and credit tactics used to collect unpaid medical bills; bills limiting them&nbsp;were&nbsp;vetoed.</p>
-  <p class="lead-item"><strong class="li">Nevada Health Authority.</strong> The new state agency that consolidates Nevada&rsquo;s public health-insurance programs.</p>
-  <p class="lead-item"><strong class="li">Recruitment grant program.</strong> Competitive state grants aimed at critical provider shortages, enacted in the 2025&nbsp;special&nbsp;session.</p>
+  <h2 class="sec">Glossary</h2>
+  <div class="cols">
+  <ul class="plain">
+    <li><strong class="li">340B:</strong> A federal program letting hospitals and clinics serving low-income patients buy drugs at&nbsp;deep&nbsp;discounts.</li>
+    <li><strong class="li">Any-group pooling:</strong> Letting small businesses or unrelated groups band together to buy insurance at large-group prices &mdash;&nbsp;never&nbsp;filed.</li>
+    <li><strong class="li">Arbitration:</strong> A neutral process settling insurer&ndash;provider payment disputes outside court; forced arbitration &mdash; the vetoed-bill subject &mdash; is a policy clause stripping the patient&rsquo;s right&nbsp;to&nbsp;sue.</li>
+    <li><strong class="li">Autism behavior technicians:</strong> Front-line providers of behavioral therapy for&nbsp;autistic&nbsp;children.</li>
+    <li><strong class="li">Credentialing:</strong> An insurer&rsquo;s vetting process for adding a provider to its network; slow credentialing keeps new providers from insured patients&nbsp;for&nbsp;months.</li>
+    <li><strong class="li">Dental therapy:</strong> A licensed midlevel dental profession &mdash; more training than a hygienist, less than&nbsp;a&nbsp;dentist.</li>
+    <li><strong class="li">EMS:</strong> Emergency medical services &mdash; ambulance and&nbsp;paramedic&nbsp;personnel.</li>
+    <li><strong class="li">ER / urgent care:</strong> Emergency room versus walk-in clinic; ER visits carry hospital-level charges even for minor problems &mdash; why participants proposed splitting&nbsp;the&nbsp;billing.</li>
+    <li><strong class="li">ERISA:</strong> The federal Employee Retirement Income Security Act, which puts self-funded employer health plans under federal &mdash; not state&nbsp;&mdash;&nbsp;regulation.</li>
+    <li><strong class="li">Federal prior-authorization rules:</strong> 2024 federal rules imposing decision deadlines on Medicare Advantage, Medicaid, and exchange plans through 2027; Nevada&rsquo;s law covers the plans&nbsp;they&nbsp;miss.</li>
+    <li><strong class="li">Foreign medical graduates:</strong> Doctors trained abroad, whose path to full Nevada licensure was eased&nbsp;in&nbsp;2025.</li>
+    <li><strong class="li">Gag clause:</strong> A contract term barring pharmacists from volunteering that paying cash would be cheaper than insurance; now banned&nbsp;in&nbsp;Nevada.</li>
+    <li><strong class="li">Health Service Corps:</strong> Nevada&rsquo;s loan-repayment program for providers who commit to&nbsp;underserved&nbsp;areas.</li>
+    <li><strong class="li">HHS:</strong> Health and Human Services, as in the Senate and Assembly&nbsp;HHS&nbsp;committees.</li>
+    <li><strong class="li">Licensure compact:</strong> An agreement among states to honor each other&rsquo;s professional licenses across member states; the Nurse Licensure Compact is the nursing version &mdash; the one compact Nevada has&nbsp;not&nbsp;joined.</li>
+    <li><strong class="li">Medicaid / CHIP:</strong> The state-federal insurance program for lower-income Nevadans and its companion Children&rsquo;s Health Insurance Program; the state sets many of its rules, so many bills&nbsp;target&nbsp;it.</li>
+    <li><strong class="li">Medical-debt collection:</strong> Lawsuits, garnishments, and credit tactics used to collect unpaid medical bills; bills limiting them&nbsp;were&nbsp;vetoed.</li>
+    <li><strong class="li">Medicare:</strong> The federal insurance program for people 65 and over and some with disabilities; its payment rates and drug prices are&nbsp;set&nbsp;federally.</li>
+    <li><strong class="li">Medicare-negotiated prices:</strong> Drug prices the federal government negotiates with manufacturers under a 2022 law; the first take effect in 2026 &mdash; Nevada&rsquo;s vetoed caps were pegged&nbsp;to&nbsp;them.</li>
+    <li><strong class="li">Network / panel:</strong> The providers under contract with an insurer; a provider whose &ldquo;panel is full&rdquo; is not accepting new patients, and no law defines when a panel&nbsp;is&nbsp;full.</li>
+    <li><strong class="li">Nevada Health Authority:</strong> The new state agency consolidating Nevada&rsquo;s public health-insurance programs.</li>
+    <li><strong class="li">No Surprises Act:</strong> The 2022 federal law protecting patients nationwide from surprise out-of-network emergency&nbsp;bills.</li>
+    <li><strong class="li">Out-of-network:</strong> A provider with no contract with the patient&rsquo;s insurer &mdash; the source of the highest&nbsp;surprise&nbsp;bills.</li>
+    <li><strong class="li">Pharmacy benefit manager (PBM):</strong> A middleman hired by insurers to run drug benefits &mdash; choosing covered drugs, negotiating drugmaker rebates, and setting pharmacy payments &mdash; a major driver of what patients pay at&nbsp;the&nbsp;counter.</li>
+    <li><strong class="li">Prior authorization:</strong> Requiring a doctor to get insurer approval before a treatment or prescription&nbsp;is&nbsp;covered.</li>
+    <li><strong class="li">Provider-assessment mechanism:</strong> A fee on providers used to draw federal matching money &mdash; funding higher Medicaid payments without state general-fund&nbsp;dollars.</li>
+    <li><strong class="li">Public Option:</strong> A state-designed health plan any Nevadan&nbsp;can&nbsp;buy.</li>
+    <li><strong class="li">Rebate pass-through:</strong> Passing the discounts drugmakers pay PBMs along to the payer, as Nevada requires&nbsp;for&nbsp;Medicaid.</li>
+    <li><strong class="li">Recruitment grant program:</strong> State grants aimed at provider shortages, enacted in the 2025&nbsp;special&nbsp;session.</li>
+    <li><strong class="li">Reimbursement rate:</strong> What an insurer or program pays a provider; low rates are why some providers do not accept Medicaid&nbsp;patients.</li>
+    <li><strong class="li">Residency:</strong> Supervised hospital training after medical school &mdash; the bottleneck for growing the doctor supply and the target of Nevada&rsquo;s residency&nbsp;grants.</li>
+    <li><strong class="li">Self-funded employer plan:</strong> A plan where the employer pays claims itself; most large-employer coverage works this way, beyond state regulation&nbsp;(see&nbsp;ERISA).</li>
+    <li><strong class="li">Step therapy:</strong> Requiring a patient to try cheaper drugs first &mdash; and &ldquo;fail&rdquo; on them &mdash; before the prescribed one&nbsp;is&nbsp;covered.</li>
+    <li><strong class="li">Telehealth:</strong> Care delivered by video or phone; settled&nbsp;Nevada&nbsp;law.</li>
+    <li><strong class="li">Tricare:</strong> The federal health program for military members, retirees, and&nbsp;their&nbsp;families.</li>
+  </ul>
+  </div>
 </section>
 
 <section>
-  <h2 class="sec">Federal programs and terms</h2>
-  <p class="explainer-block">Terms from the brief&rsquo;s federal-overlap&nbsp;section.</p>
-  <p class="lead-item"><strong class="li">No Surprises Act.</strong> The federal law, in force since 2022, protecting patients nationwide from surprise out-of-network emergency&nbsp;bills.</p>
-  <p class="lead-item"><strong class="li">Medicare-negotiated prices.</strong> Drug prices the federal government negotiates directly with manufacturers under a 2022 law; the first take effect in 2026. Nevada&rsquo;s vetoed price caps were pegged&nbsp;to&nbsp;them.</p>
-  <p class="lead-item"><strong class="li">Federal prior-authorization rules.</strong> Rules finalized in 2024 imposing decision deadlines on Medicare Advantage, Medicaid, and exchange plans through 2027; Nevada&rsquo;s law covers the state-regulated plans they do&nbsp;not&nbsp;reach.</p>
-  <p class="lead-item"><strong class="li">ERISA.</strong> The federal Employee Retirement Income Security Act, which puts self-funded employer health plans under federal &mdash; not state&nbsp;&mdash;&nbsp;regulation.</p>
-</section>
-
-<section>
-  <h2 class="sec">Acronyms and abbreviations</h2>
-  <p class="explainer-block">Every shortened form used in&nbsp;the&nbsp;brief.</p>
-  <p class="lead-item"><strong class="li">AB / SB.</strong> Assembly Bill / Senate Bill &mdash; the chamber a bill started in, plus its number. Numbering restarts every session, so the same number in different years is a&nbsp;different&nbsp;bill.</p>
-  <p class="lead-item"><strong class="li">D / R.</strong> Democrat / Republican, shown after a&nbsp;legislator&rsquo;s&nbsp;name.</p>
-  <p class="lead-item"><strong class="li">PBM.</strong> Pharmacy benefit&nbsp;manager.</p>
-  <p class="lead-item"><strong class="li">ER.</strong>&nbsp;Emergency&nbsp;room.</p>
-  <p class="lead-item"><strong class="li">EMS.</strong> Emergency medical services &mdash; ambulance and&nbsp;paramedic&nbsp;personnel.</p>
-  <p class="lead-item"><strong class="li">CHIP.</strong> Children&rsquo;s Health Insurance&nbsp;Program.</p>
-  <p class="lead-item"><strong class="li">HHS.</strong> Health and Human Services, as in the Senate and Assembly&nbsp;HHS&nbsp;committees.</p>
-  <p class="lead-item"><strong class="li">ERISA.</strong> Employee Retirement Income Security&nbsp;Act&nbsp;(federal).</p>
-</section>
-
+  <h2 class="sec">Legislative process guide</h2>
+  <div class="cols">
+  <ul class="plain">
+    <li><strong class="li">AB / SB:</strong> Assembly Bill / Senate Bill &mdash; the chamber a bill started in, plus its number. Numbering restarts every session, so the same number in different years is a&nbsp;different&nbsp;bill.</li>
+    <li><strong class="li">Amendment / concurrence:</strong> A change made to a bill along the way; if one chamber amends, the other must vote to accept &mdash; &ldquo;concur in&rdquo; &mdash; the change. Bills can die awaiting that one&nbsp;last&nbsp;vote.</li>
+    <li><strong class="li">Appropriation:</strong> A bill or provision that sets aside state money for&nbsp;a&nbsp;purpose.</li>
+    <li><strong class="li">Chambers:</strong> The Legislature&rsquo;s two houses: the Assembly (42 members) and the Senate (21). A bill must pass both to reach&nbsp;the&nbsp;governor.</li>
+    <li><strong class="li">Committee / first committee:</strong> A small panel of lawmakers that studies a bill and votes on whether to send it onward; most bills that fail die in their first committee &mdash; &ldquo;never heard&rdquo; means no hearing&nbsp;at&nbsp;all.</li>
+    <li><strong class="li">D / R:</strong> Democrat / Republican, shown after a legislator&rsquo;s name; &ldquo;still serves&rdquo; and &ldquo;has left&rdquo; reflect the&nbsp;current&nbsp;roster.</li>
+    <li><strong class="li">Delivered / signed / chapter:</strong> A passed bill is delivered to the governor; a signed bill becomes a numbered &ldquo;chapter&rdquo; of state law, and &ldquo;no signature, no chapter&rdquo; means it never&nbsp;became&nbsp;law.</li>
+    <li><strong class="li">Died at session&rsquo;s end / out of time:</strong> A bill that cleared every vote taken but ran out of calendar before the final step &mdash; in these briefs, a mark of proven support,&nbsp;not&nbsp;rejection.</li>
+    <li><strong class="li">Floor vote / floor calendar:</strong> A vote of the full chamber, and the schedule of bills waiting for one; a bill &ldquo;dies on the calendar&rdquo; when the session ends before its turn &mdash; a scheduling death, not&nbsp;a&nbsp;defeat.</li>
+    <li><strong class="li">Interim committee / interim study:</strong> Panels that meet between sessions to study a topic and prepare recommendations for the&nbsp;next&nbsp;session.</li>
+    <li><strong class="li">Money committees / the money stage:</strong> Assembly Ways and Means and Senate Finance review anything that costs money; bills with price tags routinely stop there without a vote against the&nbsp;policy&nbsp;itself.</li>
+    <li><strong class="li">Second house:</strong> After passing the chamber where it started, a bill repeats the entire process &mdash; committee, then floor &mdash; in the&nbsp;other&nbsp;chamber.</li>
+    <li><strong class="li">Session:</strong> The Legislature meets for 120 days in odd-numbered years (2019, 2021, 2023, 2025); a bill that has not finished every step by then is dead and must start over in a&nbsp;future&nbsp;session.</li>
+    <li><strong class="li">Special session:</strong> A short extra meeting the governor calls for specific topics; bills that ran out of regular-session time can&nbsp;pass&nbsp;there.</li>
+    <li><strong class="li">Sponsor:</strong> The lawmaker or committee that formally introduces a bill; a committee-sponsored bill has no single author. Cross-party sponsorship &mdash; sponsors from both parties &mdash; is one of the strongest signals a bill&nbsp;will&nbsp;pass.</li>
+    <li><strong class="li">Statute / enacted:</strong> A statute is a law on the books; an enacted bill is one that became law. &ldquo;By rule, not statute&rdquo; means an agency or local authority adopted something the Legislature&nbsp;has&nbsp;not.</li>
+    <li><strong class="li">Two-thirds majority:</strong> The constitution requires a two-thirds vote in each chamber &mdash; 28 of 42, 14 of 21 &mdash; for any measure raising revenue, including fees; a bill can win a majority and still fail&nbsp;this&nbsp;bar.</li>
+    <li><strong class="li">Veto:</strong> The governor&rsquo;s rejection of a bill that passed both chambers. A vetoed bill does not become law unless two-thirds of each chamber votes to override&nbsp;the&nbsp;veto.</li>
+    <li><strong class="li">Vote pairs such as &ldquo;42&ndash;0 and 21&ndash;0&rdquo;:</strong> Floor votes are yes&ndash;no tallies, one per chamber; 42&ndash;0 is a unanimous Assembly vote, 21&ndash;0 a unanimous&nbsp;Senate&nbsp;vote.</li>
+  </ul>
 <p class="footline" style="margin-top: 1pt;">Companion glossary to the citizen brief v3.0 &middot; The Nevada Forum &middot; July 2026</p>
+  </div>
+</section>
 
 </body>
 </html>

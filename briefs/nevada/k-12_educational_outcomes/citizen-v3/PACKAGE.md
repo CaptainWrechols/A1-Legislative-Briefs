@@ -69,7 +69,7 @@ formatting and readability edits per Forum direction (2026-07-27):
 | `citizen-brief.md` | Source markdown of the 2-page front brief (v3.0) |
 | `citizen-brief.html` | Print-ready front brief (verified 2 US Letter pages in headless Chrome) |
 | `citizen-brief.docx` | Word version of the front brief (verified 2 pages in LibreOffice) |
-| `glossary.md` / `.html` / `.docx` | Companion glossary (glossary-v1.1): plain-language definitions of the brief's issue terms, federal terms, and acronyms — no embedded bill citations; ≤2 Word pages. Lawmaking-process terms live in the shared `briefs/nevada/how-nevada-lawmaking-works.*` companion |
+| `glossary.md` / `.html` / `.docx` | Companion glossary (glossary-v2.0), organized like the Phase 2 Issue Brief glossary: one alphabetized two-column list of bulleted `Term:` entries (left-aligned, no bill citations, no sub-headers), followed by the alphabetized legislative process guide shared by all four briefs; ≤2 Word pages. The guide also stands alone at `briefs/nevada/how-nevada-lawmaking-works.*` |
 | `citizen-brief-print.css` | Shared Phase 2 print CSS + v2 `h3.subsec` subsection style (v3 widow/balance rules live in the HTML head) |
 | `appendices/` | Appendices A–I (markdown), `appendices-print.html`, `appendices.docx` — unchanged from v1.0 |
 | `render-check/` | Page images of both verified v3.0 renders (HTML and Word) |
