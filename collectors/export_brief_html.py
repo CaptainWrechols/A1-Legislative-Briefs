@@ -186,10 +186,12 @@ def render_section(sec: dict) -> str:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--brief-dir", required=True)
+    parser.add_argument("--file", default="citizen-brief",
+                        help="basename of the markdown/html pair (default citizen-brief)")
     args = parser.parse_args()
     brief_dir = Path(args.brief_dir)
-    md_path = brief_dir / "citizen-brief.md"
-    out_path = brief_dir / "citizen-brief.html"
+    md_path = brief_dir / f"{args.file}.md"
+    out_path = brief_dir / f"{args.file}.html"
 
     meta, body = parse_front_matter(md_path.read_text(encoding="utf-8"))
     title, dek, sections, footline = parse_body(body)
@@ -215,7 +217,8 @@ def main() -> None:
         f"<!-- {version} tone/format revision · {date} · status: {status} -->",
         f"<title>{typographize(title)}</title>",
         "<link rel=\"stylesheet\" href=\"citizen-brief-print.css\">",
-        STYLE_BLOCK.format(version=version, slug=slug),
+        STYLE_BLOCK.format(version=version, slug=slug)
+        + ("\n<style>\n  /* glossary/companion docs: keep each entry on one page */\n  p.lead-item { break-inside: avoid; }\n</style>" if args.file != "citizen-brief" else ""),
         "</head>",
         "<body>",
         "",
