@@ -245,10 +245,14 @@ def build_stat_strip(doc, bullets: list[str]):
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--brief-dir", required=True)
+    parser.add_argument("--file", default="citizen-brief",
+                        help="basename of the markdown/docx pair (default citizen-brief)")
     args = parser.parse_args()
     brief_dir = Path(args.brief_dir)
-    md_path = brief_dir / "citizen-brief.md"
-    out_path = brief_dir / "citizen-brief.docx"
+    md_path = brief_dir / f"{args.file}.md"
+    out_path = brief_dir / f"{args.file}.docx"
+
+    keep_entries_together = args.file != "citizen-brief"
 
     title, subtitle, sections, footline = parse_markdown(md_path)
 
@@ -302,6 +306,8 @@ def main() -> None:
                 add_rich_text(p, no_widow(text), size=10)
             else:
                 p = para(doc, after=2.8, align=WD_ALIGN_PARAGRAPH.JUSTIFY, line=1.03)
+                if keep_entries_together:
+                    p.paragraph_format.keep_together = True
                 add_rich_text(p, no_widow(text), size=10)
         if stat_bullets:
             build_stat_strip(doc, stat_bullets)
