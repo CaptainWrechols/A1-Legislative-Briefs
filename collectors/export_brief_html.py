@@ -209,6 +209,10 @@ def main() -> None:
     parser.add_argument("--brief-dir", required=True)
     parser.add_argument("--file", default="citizen-brief",
                         help="basename of the markdown/html pair (default citizen-brief)")
+    parser.add_argument("--footer", default=None,
+                        help="footer label; in HTML it renders as a muted line at the end")
+    parser.add_argument("--no-masthead", action="store_true",
+                        help="omit the THE FORUM masthead block")
     parser.add_argument("--layout", choices=["brief", "glossary", "prose"], default=None,
                         help="brief: justified 2-page front-brief; glossary: two-column "
                              "Term: entries; prose: single-column left-aligned companion "
@@ -250,8 +254,10 @@ def main() -> None:
         "<body>",
         "",
         "<header class=\"masthead\">",
-        "  <div class=\"forum\">The&nbsp;Forum</div>",
-        "  <hr class=\"navy-rule\">",
+        *([] if args.no_masthead else [
+            "  <div class=\"forum\">The&nbsp;Forum</div>",
+            "  <hr class=\"navy-rule\">",
+        ]),
         f"  <h1 class=\"title\">{typographize(title)}</h1>",
         f"  <p class=\"dek\">{inline_md(no_widow(dek))}</p>",
         "</header>",
@@ -266,7 +272,10 @@ def main() -> None:
         tail = foot_html if companion and i == len(sections) - 1 else ""
         parts.append(render_section(sec, columns=companion, tail_html=tail))
         parts.append("")
-    if not companion:
+    if args.footer:
+        parts.append(f"<p class=\"footline\" style=\"margin-top: 6pt;\">{typographize(args.footer)}</p>")
+        parts.append("")
+    elif not companion:
         parts.append(foot_html)
         parts.append("")
     parts.append("</body>")

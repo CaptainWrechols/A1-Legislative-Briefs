@@ -80,6 +80,35 @@ def set_columns(section, num: int, space_twips: int = 240) -> None:
     cols.set(qn("w:space"), str(space_twips))
 
 
+def add_page_footer(doc, text: str) -> None:
+    """Real Word footer: italic gray label on the left, PAGE field on the
+    right — fully editable in Word."""
+    from docx.enum.text import WD_TAB_ALIGNMENT
+    section = doc.sections[0]
+    section.footer_distance = Pt(18)
+    footer = section.footer
+    footer.is_linked_to_previous = False
+    p = footer.paragraphs[0]
+    p.text = ""
+    pf = p.paragraph_format
+    pf.tab_stops.add_tab_stop(Inches(7.3), WD_TAB_ALIGNMENT.RIGHT)
+    run = p.add_run(text + "\t")
+    set_font(run, 8, MUTED)
+    run.font.italic = True
+    fld = OxmlElement("w:fldSimple")
+    fld.set(qn("w:instr"), " PAGE ")
+    r = OxmlElement("w:r")
+    rpr = OxmlElement("w:rPr")
+    sz = OxmlElement("w:sz"); sz.set(qn("w:val"), "16"); rpr.append(sz)
+    col = OxmlElement("w:color"); col.set(qn("w:val"), "666666"); rpr.append(col)
+    it = OxmlElement("w:i"); rpr.append(it)
+    r.append(rpr)
+    t_el = OxmlElement("w:t"); t_el.text = "1"
+    r.append(t_el)
+    fld.append(r)
+    p._element.append(fld)
+
+
 def no_widow(text: str) -> str:
     """Glue the final words together with non-breaking spaces so the last
     line of a paragraph never holds fewer than three words (the glued run
@@ -258,6 +287,11 @@ def main() -> None:
     parser.add_argument("--brief-dir", required=True)
     parser.add_argument("--file", default="citizen-brief",
                         help="basename of the markdown/docx pair (default citizen-brief)")
+    parser.add_argument("--footer", default=None,
+                        help="add a real Word footer: this text on the left, page number "
+                             "on the right (editable in Word)")
+    parser.add_argument("--no-masthead", action="store_true",
+                        help="omit the THE FORUM masthead block")
     parser.add_argument("--layout", choices=["brief", "glossary", "prose"], default=None,
                         help="brief: justified 2-page front-brief; glossary: two-column "
                              "Term: entries; prose: single-column left-aligned companion "
@@ -280,12 +314,13 @@ def main() -> None:
     for side in ("top_margin", "bottom_margin", "left_margin", "right_margin"):
         setattr(section, side, Inches(0.6))
 
-    # Masthead: THE FORUM + navy rule
-    p = para(doc, after=1)
-    run = p.add_run("T H E   F O R U M")
-    set_font(run, 10, NAVY, bold=True, spacing_pts=1.0)
-    rule = para(doc, after=6)
-    add_bottom_border(rule, "1A2D4F", 20)
+    if not args.no_masthead:
+        # Masthead: THE FORUM + navy rule
+        p = para(doc, after=1)
+        run = p.add_run("T H E   F O R U M")
+        set_font(run, 10, NAVY, bold=True, spacing_pts=1.0)
+        rule = para(doc, after=6)
+        add_bottom_border(rule, "1A2D4F", 20)
 
     # Title + subtitle
     p = para(doc, after=2, line=1.05)
@@ -352,6 +387,9 @@ def main() -> None:
         add_top_border(p, "C8CDD6", 6)
         run = p.add_run(footline)
         set_font(run, 10, MUTED, spacing_pts=0.2)
+
+    if args.footer:
+        add_page_footer(doc, args.footer)
 
     doc.save(out_path)
     print(f"Wrote {out_path} (direct-formatted, cross-app safe)")
