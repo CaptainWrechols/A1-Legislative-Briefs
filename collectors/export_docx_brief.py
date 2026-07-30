@@ -361,8 +361,13 @@ def main() -> None:
                 for run in p.runs:
                     run.font.italic = True
             elif kind == "bullet":
-                p = para(doc, after=2.2 if keep_entries_together else 3,
-                         line=1.0 if keep_entries_together else 1.05)
+                if prose:
+                    b_after, b_line = 4, 1.15
+                elif keep_entries_together:
+                    b_after, b_line = 2.2, 1.0
+                else:
+                    b_after, b_line = 3, 1.05
+                p = para(doc, after=b_after, line=b_line)
                 p.paragraph_format.left_indent = Pt(10)
                 run = p.add_run("▪  ")
                 set_font(run, 10, TERRACOTTA)

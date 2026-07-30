@@ -16,6 +16,7 @@ plain-language wording from the 2026-07-29 review. `citizen-v1/` through
 | `citizen-brief.md` | Source markdown of the combined document |
 | `citizen-brief.docx` | Word version — the primary deliverable (5 pages, LibreOffice-verified) |
 | `citizen-brief.html` | Print-ready HTML companion |
+| `proposal-spotlights.md` / `.docx` / `.html` | Standalone policy spotlights: each short-listed policy as bulleted bill lists grouped by viability (already law / closest to law / proven support / stopped early / never filed), single column at 1.15 line spacing, editable Word footer (2 pages) |
 
 ## v4.0 format notes
 
@@ -37,4 +38,13 @@ python collectors/export_docx_brief.py --brief-dir briefs/nevada/cost-of-living/
   --no-masthead --footer "NV1 Healthcare Legislative Brief v4.0"
 python collectors/export_brief_html.py --brief-dir briefs/nevada/cost-of-living/citizen-v4 \
   --no-masthead --footer "NV1 Healthcare Legislative Brief v4.0"
+```
+
+## Rebuild the policy spotlights
+
+```bash
+python collectors/export_docx_brief.py --brief-dir briefs/nevada/cost-of-living/citizen-v4 \
+  --file proposal-spotlights --layout prose --no-masthead --footer "NV1 Healthcare Policy Spotlights v4.0"
+python collectors/export_brief_html.py --brief-dir briefs/nevada/cost-of-living/citizen-v4 \
+  --file proposal-spotlights --layout prose --no-masthead --footer "NV1 Healthcare Policy Spotlights v4.0"
 ```
