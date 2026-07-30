@@ -249,8 +249,8 @@ def build_stat_strip(doc, bullets: list[str]):
         p2.paragraph_format.line_spacing = 1.0
         run = p2.add_run(caption)
         set_font(run, 10, MUTED)
-    spacer = para(doc, after=3)
-    spacer.paragraph_format.space_after = Pt(3)
+    spacer = para(doc, after=2)
+    spacer.paragraph_format.space_after = Pt(2)
 
 
 def main() -> None:
@@ -300,7 +300,7 @@ def main() -> None:
         if keep_entries_together and sec_index > 0:
             head_section = doc.add_section(WD_SECTION_START.NEW_PAGE)
             set_columns(head_section, 1)
-        p = para(doc, before=5, after=2)
+        p = para(doc, before=4.2, after=1.8)
         run = p.add_run(sec["heading"].upper())
         set_font(run, 12.5, TERRACOTTA, bold=True, spacing_pts=1.0)
         if keep_entries_together:
@@ -317,11 +317,11 @@ def main() -> None:
             if kind == "bullet" and text in stat_bullets:
                 continue
             if kind == "h3":
-                p = para(doc, before=4, after=1.5, line=1.04)
+                p = para(doc, before=3.5, after=1.5, line=1.04)
                 run = p.add_run(text)
                 set_font(run, 12, NAVY2, bold=True)
             elif kind == "explainer":
-                p = para(doc, after=3 if prose else 2, line=1.15 if prose else 1.03)
+                p = para(doc, after=3 if prose else 1.8, line=1.15 if prose else 1.03)
                 add_rich_text(p, no_widow(text), size=10, color=MUTED)
                 for run in p.runs:
                     run.font.italic = True
@@ -334,10 +334,10 @@ def main() -> None:
                 add_rich_text(p, no_widow(text), size=10)
             else:
                 if prose:
-                    p = para(doc, after=5, line=1.15)
+                    p = para(doc, after=4.5, line=1.15)
                     p.paragraph_format.keep_together = True
                 else:
-                    p = para(doc, after=2.8, align=WD_ALIGN_PARAGRAPH.JUSTIFY, line=1.03)
+                    p = para(doc, after=2.45, align=WD_ALIGN_PARAGRAPH.JUSTIFY, line=1.03)
                     if keep_entries_together:
                         p.paragraph_format.keep_together = True
                 add_rich_text(p, no_widow(text), size=10)
