@@ -23,6 +23,7 @@ from __future__ import annotations
 
 import base64
 import re
+import time
 from urllib.parse import urlsplit
 
 import requests
@@ -93,25 +94,45 @@ def _solve(session: requests.Session, url: str, challenge_html: str) -> None:
     )
 
 
+def _get_raw(session: requests.Session, url: str, *, retries: int = 5, **kw) -> requests.Response:
+    """GET with retries on transient network/5xx errors (the WAF drops
+    connections under load).
+    """
+    last = None
+    for i in range(retries):
+        try:
+            r = session.get(url, **kw)
+            if r.status_code in {502, 503, 504}:
+                last = RuntimeError(f"HTTP {r.status_code}")
+                time.sleep(min(30, 2 * (2 ** i)))
+                continue
+            return r
+        except requests.RequestException as exc:
+            last = exc
+            time.sleep(min(30, 2 * (2 ** i)))
+    raise RuntimeError(f"GET failed after {retries} retries: {url} ({last})")
+
+
 def get(session: requests.Session, url: str, *, max_solves: int = 6, **kw) -> requests.Response:
     """GET ``url`` through the WAF, solving the challenge as needed.
 
     The WAF rotates several challenge variants; a couple are not parseable, so
     on a parse failure we simply request a fresh challenge and try again.
+    Transient connection resets are retried transparently.
     """
     kw.setdefault("timeout", 60)
     kw.setdefault("headers", {})
     kw["headers"].setdefault("User-Agent", UA)
-    r = session.get(url, **kw)
+    r = _get_raw(session, url, **kw)
     attempts = 0
     while is_challenge(r.text) and attempts < max_solves:
         attempts += 1
         try:
             _solve(session, url, r.text)
         except Exception:
-            r = session.get(url, **kw)
+            r = _get_raw(session, url, **kw)
             continue
-        r = session.get(url, **kw)
+        r = _get_raw(session, url, **kw)
     if is_challenge(r.text):
         raise RuntimeError(f"still challenged after {attempts} solves: {url}")
     return r
@@ -126,6 +147,18 @@ def new_session() -> requests.Session:
             break
         except Exception:
             continue
+    return s
+
+
+def clone_session(src: requests.Session) -> requests.Session:
+    """A new session that reuses an already-solved WAF cookie.
+
+    Useful for concurrent crawling: solve the challenge once, then hand each
+    worker its own connection pool while sharing the cookie jar values.
+    """
+    s = requests.Session()
+    for c in src.cookies:
+        s.cookies.set(c.name, c.value, domain=c.domain, path=c.path)
     return s
 
 

@@ -1,45 +1,54 @@
-# New Hampshire collectors (foundation)
+# New Hampshire collectors
 
-Thin, **isolated** adapters for the New Hampshire General Court. They stand up
-NH data access without touching the Nevada / NELIS collectors. Full details and
-coverage are in [`docs/nh-data-sources.md`](../../docs/nh-data-sources.md).
+**Isolated** adapters for the New Hampshire General Court — they do not touch the
+Nevada / NELIS collectors. Full details and coverage are in
+[`docs/nh-data-sources.md`](../../docs/nh-data-sources.md).
 
-> Status: **foundation only.** Sources are proven and sample artifacts are
-> generated. No citizen briefs and no full collection yet.
+> **The fact that shapes everything:** GenCourt (website *and* SQL) only holds
+> the **current biennium (2025–2026)** for bill identity/title/status/text; only
+> **roll-call votes** go back to 1999. So 2020–2024 bill metadata/text comes from
+> OpenStates, while votes for every year come from GenCourt SQL.
 
 ## Modules
 
 | Module | Purpose |
 |--------|---------|
-| `fortiweb.py` | Solve the `gc.nh.gov` FortiWeb anti-bot challenge and hold the WAF cookie. |
-| `gencourt_sql.py` | Read-only client for the public NH SQL database (roll-call votes for all sessions; docket/sponsors for the current biennium). |
-| `gencourt_web.py` | Fetch bill detail pages and full bill text (ASP.NET version postback). |
-| `hb2_sections.py` | Split the HB2 omnibus budget trailer into numbered sections. |
-| `spike.py` | Smoke-test all routes and write sample artifacts. |
+| `collect.py` | **Main entry point.** Config-driven collector: discovers bills + pulls all vote data for one issue across all sessions, picking the right source per year. |
+| `gencourt_sql.py` | Read-only client for the public NH SQL database: votes (all years) + `legislation`/`legislationtext`/sponsors (current biennium) + keyword search. |
+| `legiscan.py` | **Recommended older-year backfill.** LegiScan bulk datasets: one ZIP per session with every bill/vote/person (incl. committee-killed). No rate limits. Needs free `LEGISCAN_API_KEY`. |
+| `openstates_backfill.py` | Fallback older-year backfill via OpenStates (per-bill, rate-limited). Votes still come from SQL. Needs `OPENSTATES_API_KEY`. |
+| `hb2_sections.py` | Split the HB2 omnibus budget trailer into numbered sections and select the issue-relevant ones. |
+| `fortiweb.py` | Solve the `gc.nh.gov` FortiWeb anti-bot challenge (used by the web fallback). |
+| `gencourt_web.py` | Bill detail + full text via ASP.NET postback (current biennium; fallback/cross-check — SQL is primary). |
+| `spike.py` | Original source-proving smoke test (writes samples under `sources/new-hampshire/_spike/`). |
 
 ## Quick start
 
 ```bash
 pip install -r requirements.txt            # brings in pymssql
 
-# Prove the WAF handshake
-python3 -m collectors.nh.fortiweb
+# Collect one issue end to end (all years):
+ISSUE_CONFIG=config/issues/new-hampshire-<slug>.yaml python3 -m collectors.nh.collect
+ISSUE_CONFIG=config/issues/new-hampshire-<slug>.yaml python3 -m collectors.nh.collect --skip-ballots
 
-# Prove SQL votes for each budget cycle
-python3 -m collectors.nh.gencourt_sql
-
-# Run the full spike (writes samples under sources/new-hampshire/_spike/)
-python3 -m collectors.nh.spike
+# Lower-level checks:
+python3 -m collectors.nh.gencourt_sql   # legislation years + HB2 vote counts
+python3 -m collectors.nh.fortiweb       # WAF handshake
 ```
 
-## What the routes give you
+Start from the example config `config/issues/new-hampshire-water-example.yaml`
+(a filled-in copy of the template) to see the expected output shape.
 
-- **Votes (all sessions 1999→current):** `gencourt_sql.rollcall_summaries()` and
-  `rollcall_ballots()`. This is the authoritative, non-invented vote source.
-- **Bill text (all sessions):** `gencourt_web.fetch_version_text()`. Needs the
-  numeric `legislationID` — from SQL for the current biennium
-  (`gencourt_sql.resolve_legislation_id()`), or the site search / OpenStates for
-  older sessions.
+## Sources per year (what the collector does)
+
+- **Votes, every year:** `gencourt_sql.rollcall_summaries()` / `rollcall_ballots()`
+  — authoritative, keyless, 1999→current.
+- **Current biennium bills:** `gencourt_sql.search_legislation()` +
+  `legislation_record()` + `full_bill_version()` — title/status/sponsors/text.
+- **Older bills (2020–2024):** `gencourt_sql.search_rollcalls()` (keyless, voted
+  bills) plus a full backfill for committee-killed bills — `legiscan.py`
+  (recommended; `LEGISCAN_API_KEY`) or `openstates_backfill.py`
+  (`OPENSTATES_API_KEY`).
 - **HB2 sections:** `hb2_sections.extract_sections()` +
   `match_sections(sections, issue_terms)`. See
   [`docs/nh-hb2-section-workflow.md`](../../docs/nh-hb2-section-workflow.md).
