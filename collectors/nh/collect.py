@@ -40,7 +40,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 import issue_paths as ip  # noqa: E402
 
 from . import gencourt_sql as db  # noqa: E402
-from . import hb2_sections, openstates_backfill  # noqa: E402
+from . import hb2_sections, legiscan, openstates_backfill  # noqa: E402
 
 
 def now() -> str:
@@ -111,35 +111,83 @@ def discover(cfg: dict, sessions: list[dict], gaps: list[dict]) -> dict[tuple, d
         add(r["sessionYear"], r["condensedBillNo"], "sql:rollcall",
             r.get("title1") or r.get("title2"), r["found_by_terms"])
 
-    # 3) Older years: OpenStates backfill for committee-killed bills (needs key).
+    # 3) Older years: full backfill for committee-killed bills too.
+    #    Prefer LegiScan (bulk datasets -> no rate limits, complete); fall back
+    #    to OpenStates; otherwise record a gap (SQL roll-call titles above still
+    #    captured the voted bills).
     older_years = [s for s in sessions if s["year"] not in sql_years]
     if older_years:
-        if openstates_backfill.available():
-            for s in older_years:
-                try:
-                    found = openstates_backfill.discover(terms, s["openstates_identifier"])
-                except openstates_backfill.NoApiKey:
-                    break
-                for b in found:
-                    blob = (b["title"] + " " + b["abstract"]).lower()
-                    if not any(t in blob for t in rel):
-                        continue
-                    add(s["year"], b["identifier"], "openstates",
-                        b["title"], b["found_by_terms"],
-                        {"abstract": b["abstract"], "openstates_url": b["openstates_url"],
-                         "os_sponsors": b["sponsors"], "os_versions": b["versions"]})
+        if legiscan.available():
+            _legiscan_discover(older_years, terms, rel, add, gaps)
+        elif openstates_backfill.available():
+            _openstates_discover(older_years, terms, rel, add)
         else:
             gaps.append({
                 "gap": "older_session_discovery_incomplete",
                 "years": [s["year"] for s in older_years],
                 "detail": (
-                    "OPENSTATES_API_KEY not set. Older-session bills that reached "
-                    "a floor vote were found via SQL roll-call titles, but bills "
-                    "killed in committee (no recorded vote) are not captured. "
-                    "Set the key to complete these years."
+                    "No LEGISCAN_API_KEY or OPENSTATES_API_KEY set. Older-session "
+                    "bills that reached a floor vote were found via SQL roll-call "
+                    "titles, but bills killed in committee (no recorded vote) are "
+                    "not captured. Set a key (LegiScan preferred) to complete "
+                    "these years."
                 ),
             })
     return bills
+
+
+def _legiscan_discover(older_years, terms, rel, add, gaps) -> None:
+    """Fill older years from LegiScan bulk datasets (cached, ~1 call/session)."""
+    want = {s["year"] for s in older_years}
+    cache_dir = ip.RAW / "legiscan"
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    try:
+        datasets = legiscan.dataset_list(year_min=min(want))
+    except legiscan.NoApiKey:
+        return
+    for ds in datasets:
+        y0, y1 = int(ds.get("year_start", 0)), int(ds.get("year_end", 0))
+        years_covered = {y for y in want if y0 <= y <= y1}
+        if not years_covered:
+            continue
+        sid = ds["session_id"]
+        cache = cache_dir / f"{sid}.json"
+        if cache.exists():
+            parsed = json.loads(cache.read_text(encoding="utf-8"))
+        else:
+            parsed = legiscan.fetch_dataset(sid, ds["access_key"])
+            cache.write_text(json.dumps(parsed), encoding="utf-8")
+        for b in legiscan.discover_session(parsed, terms, rel):
+            year = _legiscan_bill_year(b, years_covered, y0)
+            add(year, b["bill_no"], "legiscan", b["title"], b["found_by_terms"],
+                {"description": b["description"], "legiscan_status": b["status"],
+                 "legiscan_url": b["legiscan_url"], "ls_sponsors": b["sponsors"],
+                 "ls_texts": b["texts"], "ls_history": b["history"]})
+
+
+def _legiscan_bill_year(bill: dict, years_covered: set, default_year: int) -> int:
+    """Best-effort session year for a LegiScan bill from its first history date."""
+    for h in bill.get("history") or []:
+        d = str(h.get("date", ""))
+        if len(d) >= 4 and d[:4].isdigit() and int(d[:4]) in years_covered:
+            return int(d[:4])
+    return min(years_covered) if years_covered else default_year
+
+
+def _openstates_discover(older_years, terms, rel, add) -> None:
+    for s in older_years:
+        try:
+            found = openstates_backfill.discover(terms, s["openstates_identifier"])
+        except openstates_backfill.NoApiKey:
+            return
+        for b in found:
+            blob = (b["title"] + " " + b["abstract"]).lower()
+            if not any(t in blob for t in rel):
+                continue
+            add(s["year"], b["identifier"], "openstates",
+                b["title"], b["found_by_terms"],
+                {"abstract": b["abstract"], "openstates_url": b["openstates_url"],
+                 "os_sponsors": b["sponsors"], "os_versions": b["versions"]})
 
 
 def enrich(bills: dict[tuple, dict], sessions: list[dict], *, ballots: bool) -> tuple[list, list]:

@@ -31,7 +31,8 @@ unchanged (see the inventory at the bottom).
 | **Public SQL `rollcallsummary` / `rollcallhistory`** | Roll-call votes (summary + per-member, joined to name/party) | **1999 → current (all target sessions)** | ✅ Authoritative, keyless, reachable from the VM |
 | **Public SQL `legislation` / `legislationtext`** | Bill title, status, chapter, sponsors, **full text (all versions)** | **Current biennium only (2025–2026)** | ✅ Keyless; makes the current biennium fully collectable from SQL alone |
 | **gc.nh.gov bill pages + site search** | Title/sponsors/status + full text via postback | **Current biennium only** (`sy=` is ignored) | ✅ Works behind the WAF, but redundant with SQL for the current biennium |
-| **OpenStates v3 API** | Bills, sponsors, abstracts, versions for older sessions | **2017 → 2026** for NH | ⚠️ **Required for 2020–2024 bill identity/metadata/text.** Needs `OPENSTATES_API_KEY`; rate-limited (see mitigation below) |
+| **LegiScan bulk dataset API** | **Complete** bill list + sponsors + history + votes + text refs for a whole session, incl. committee-killed bills | **All sessions, multiple years back** | ✅ **Recommended for 2020–2024.** One ZIP per session -> no rate limits. Needs free `LEGISCAN_API_KEY` |
+| **OpenStates v3 API** | Bills, sponsors, abstracts, versions for older sessions | **2017 → 2026** for NH | ⚠️ Works for 2020–2024 but per-bill and rate-limited. Needs `OPENSTATES_API_KEY`. Secondary fallback |
 | **SQL roll-call-title search** (keyless older-year discovery) | Older-session bills **that reached a floor vote** | 1999 → current | ✅ Keyless partial for 2020–2024; misses committee-killed bills |
 | **Static document paths / bulk table `.txt` files** | — | — | ❌ WAF-blocked/404. Only `Members.txt` is published. Use SQL. |
 
@@ -39,20 +40,33 @@ unchanged (see the inventory at the bottom).
 
 - **Votes, every year:** GenCourt SQL (`gencourt_sql.rollcall_*`). Authoritative, keyless.
 - **Current biennium bills (2025–2026):** GenCourt SQL `legislation` + `legislationtext`. Complete, keyless.
-- **Older bills (2020–2024):** OpenStates for the bill list + metadata/text; **votes still from SQL** — which is exactly the rate-limit mitigation (votes are the heaviest OpenStates calls). As a keyless partial, the SQL roll-call-title search finds older bills that were voted on.
+- **Older bills (2020–2024):** **LegiScan bulk datasets** for the complete bill list + metadata/text (preferred), or OpenStates as a fallback; **votes still from SQL**.
 
-### Solving the OpenStates rate-limit problem
+### Getting complete older-year data without rate limits — use LegiScan
 
-The user's blocker was OpenStates throttling when pulling *everything*. The
-collector avoids that by design:
+No *government* source publishes complete historical NH bill *lists* (with
+committee-killed bills) programmatically — GenCourt keeps only the current
+biennium (plus votes back to 1999), and every database on its SQL server is
+current-biennium-only for bill identity. So older-year completeness needs an
+outside mirror of the official data. The two reputable options:
 
-1. **Votes never hit OpenStates** — they come from SQL for all years. This
-   removes the bulk of per-bill calls.
-2. **OpenStates is used only for older-year discovery + light metadata**, one
-   cached `/bills?q=<term>` search per (term, session), with long backoff on
-   429s (`openstates_backfill.py`).
-3. **Everything is cached and resumable**, so a rate-limit pause never loses
-   progress — the run just continues where it left off.
+- **LegiScan (recommended).** Its **bulk dataset API** returns one ZIP per
+  session containing *every* bill, roll call, and person as JSON — including
+  bills that died in committee — plus text references. Mirroring all of
+  NH 2020–2026 is about **8 API calls total** (`getDatasetList` +
+  `getDataset` per session) against a free **30,000-queries/month** key, so
+  rate limits are a non-issue. Full text per bill comes from `getBillText`
+  (a handful of extra calls, only for issue-relevant bills). Wrapped in
+  `collectors/nh/legiscan.py`.
+- **OpenStates (fallback).** Complete for 2017→2026 too, but its per-bill API
+  is rate-limited. The collector minimises calls (votes come from SQL, not
+  OpenStates; discovery is one cached `/bills?q=<term>` per term/session with
+  long 429 backoff) and is resumable, but LegiScan's bulk route is simpler and
+  faster. Wrapped in `collectors/nh/openstates_backfill.py`.
+
+Either way, **votes always come from GenCourt SQL** — the authoritative
+government source — and only bill *identity/metadata/text* for older years comes
+from the mirror.
 
 ---
 
