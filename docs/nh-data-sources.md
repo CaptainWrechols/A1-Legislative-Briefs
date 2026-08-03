@@ -1,15 +1,26 @@
-# New Hampshire data sources — spike results
+# New Hampshire data sources
 
-Foundation spike for The Forum's New Hampshire citizen legislative reality
-briefs. Goal: **prove the data sources before any large collection.** No
-citizen briefs and no full scrape were done here.
+Data-source map for The Forum's New Hampshire citizen legislative reality
+briefs. Findings verified live 2026-08-03; **updated 2026-08-03** after building
+the collector, when a decisive fact emerged (see the box below).
 
 The New Hampshire General Court is the analogue of Nevada's NELIS. Its site
 (`gc.nh.gov`, also reachable as `www.gencourt.state.nh.us`) behaves very
 differently from NELIS, so the Nevada collectors do **not** work against it
 unchanged (see the inventory at the bottom).
 
-All findings below were verified live during the spike on 2026-08-03.
+> ## ⚠️ The one fact that shapes everything
+>
+> **GenCourt — both the live website *and* its public SQL database — only holds
+> the _current biennium_ (2025–2026) for bill identity, title, status,
+> sponsors, and full text. The only thing it keeps for older years is
+> roll-call votes (1999→current).**
+>
+> Concretely: `billinfo.aspx?id=N` ignores any `sy=` year and always resolves a
+> current-biennium bill; the site search only searches the current biennium;
+> and the SQL `legislation` / `legislationtext` tables contain only 2025–2026.
+> So **bill data for 2020–2024 cannot come from GenCourt** — it must come from
+> OpenStates (or an archive). Votes for 2020–2024 *do* come from GenCourt SQL.
 
 ---
 
@@ -17,16 +28,31 @@ All findings below were verified live during the spike on 2026-08-03.
 
 | Route | What it gives | Coverage | Status |
 |-------|---------------|----------|--------|
-| **Public SQL Server** (`66.211.150.69`, `publicuser`/`PublicAccess`, `NHLegislatureDB`) | Roll-call votes (summary + per-member), docket, sponsors, legislators, subjects | **Roll calls: 1999→current.** Docket: current biennium + ≤2016. Sponsors: current biennium only. | ✅ Works, reachable from the VM |
-| **gc.nh.gov bill pages** (`billinfo.aspx?id=<legislationID>`) | Title, sponsors, committee/status, version list, **full bill text** (via postback) | All sessions (needs the numeric `legislationID`) | ✅ Works, behind a solvable WAF challenge |
-| **gc.nh.gov site search** (`results.aspx` → `quicksearch.aspx`) | bill number / title / subject → `legislationID` | All sessions | ⚠️ Interactive search works; the ASP.NET postback is finicky to drive programmatically (500s on an incomplete VIEWSTATE). Needs more work or use SQL/OpenStates for id resolution. |
-| **Static document paths** (`/bill_status/legislation/<yr>/HB0002.html`, `/pdf/…`, `billText.aspx`) | — | — | ❌ WAF-blocked (403) or 404. Do **not** rely on these. |
-| **OpenStates v3 API** | Bills, sponsors, votes, versions across all sessions | 2017→2026 for NH | ⚠️ Available but **needs `OPENSTATES_API_KEY`** (not present in this environment). Documented fallback, especially for older-session bill identity/metadata. |
-| **Downloads page bulk tables** (`/downloads/<Table>.txt`) | — | Only `Members.txt` is published on the new site | ❌ The other tables 404; use the SQL Server instead. |
+| **Public SQL `rollcallsummary` / `rollcallhistory`** | Roll-call votes (summary + per-member, joined to name/party) | **1999 → current (all target sessions)** | ✅ Authoritative, keyless, reachable from the VM |
+| **Public SQL `legislation` / `legislationtext`** | Bill title, status, chapter, sponsors, **full text (all versions)** | **Current biennium only (2025–2026)** | ✅ Keyless; makes the current biennium fully collectable from SQL alone |
+| **gc.nh.gov bill pages + site search** | Title/sponsors/status + full text via postback | **Current biennium only** (`sy=` is ignored) | ✅ Works behind the WAF, but redundant with SQL for the current biennium |
+| **OpenStates v3 API** | Bills, sponsors, abstracts, versions for older sessions | **2017 → 2026** for NH | ⚠️ **Required for 2020–2024 bill identity/metadata/text.** Needs `OPENSTATES_API_KEY`; rate-limited (see mitigation below) |
+| **SQL roll-call-title search** (keyless older-year discovery) | Older-session bills **that reached a floor vote** | 1999 → current | ✅ Keyless partial for 2020–2024; misses committee-killed bills |
+| **Static document paths / bulk table `.txt` files** | — | — | ❌ WAF-blocked/404. Only `Members.txt` is published. Use SQL. |
 
-**Bottom line:** GenCourt *is* scrapable. The cleanest split is **SQL for votes
-(all sessions) + gc.nh.gov bill pages for text/metadata**, with OpenStates as a
-metadata fallback for 2020–2024 once an API key is available.
+**Bottom line / the working split the collector uses:**
+
+- **Votes, every year:** GenCourt SQL (`gencourt_sql.rollcall_*`). Authoritative, keyless.
+- **Current biennium bills (2025–2026):** GenCourt SQL `legislation` + `legislationtext`. Complete, keyless.
+- **Older bills (2020–2024):** OpenStates for the bill list + metadata/text; **votes still from SQL** — which is exactly the rate-limit mitigation (votes are the heaviest OpenStates calls). As a keyless partial, the SQL roll-call-title search finds older bills that were voted on.
+
+### Solving the OpenStates rate-limit problem
+
+The user's blocker was OpenStates throttling when pulling *everything*. The
+collector avoids that by design:
+
+1. **Votes never hit OpenStates** — they come from SQL for all years. This
+   removes the bulk of per-bill calls.
+2. **OpenStates is used only for older-year discovery + light metadata**, one
+   cached `/bills?q=<term>` search per (term, session), with long backoff on
+   429s (`openstates_backfill.py`).
+3. **Everything is cached and resumable**, so a rate-limit pause never loses
+   progress — the run just continues where it left off.
 
 ---
 
@@ -49,55 +75,84 @@ collecting for real.
 python3 -m collectors.nh.fortiweb   # prints the cookie + fetches /downloads/
 ```
 
-## 2. Public SQL Server (best source for votes)
+## 2. Public SQL Server (votes for all years + the whole current biennium)
 
 The Downloads page links "Public SQL and Data Table Information", documenting a
 read-only SQL Server. Port 1433 is reachable from the VM.
 
 - Server `66.211.150.69`, user `publicuser`, password `PublicAccess`, database
   `NHLegislatureDB` (all overridable via `NH_SQL_*` env vars).
-- Driver: `pymssql` (added to `requirements.txt`).
-- `INFORMATION_SCHEMA.TABLES` is not readable by `publicuser`, but the known
-  tables from the schema PDF are all `SELECT`-able.
+- Driver: `pymssql` (in `requirements.txt`).
+- `INFORMATION_SCHEMA.TABLES` is not readable by `publicuser`, but named tables
+  are `SELECT`-able — including two that are **not** in the public schema PDF.
 
-Verified row counts per session year:
+Coverage by table (verified):
 
-- `rollcallsummary` / `rollcallhistory`: **complete 1999→2026**, including 2020,
-  2021, 2022, 2023, 2024. This is the authoritative vote source for every target
-  session.
-- `docket` (status/action history): **2025, 2026, then a gap, then ≤2016.**
-  2017–2024 are **absent**.
-- `sponsors`: **2025, 2026 only.**
-- `legislators`: current membership (used to attach names/party to votes).
+- `rollcallsummary` / `rollcallhistory`: **complete 1999→2026** (all target
+  sessions). Authoritative vote source. `rollcallhistory` is one row per member
+  per vote; join to `legislators` on `EmployeeNo` for name/party.
+- **`legislation`** *(undocumented; the master bill table)*: `LSRTitle`,
+  `GeneralStatusCode`, `ChapterNo`, `BillType`, `SubjectCode`, House/Senate
+  status codes + dates, `EffectiveDate`, `legislationID`. **Current biennium
+  only (2025–2026).**
+- **`legislationtext`** *(undocumented)*: full bill text (`HTMLText`, `Text`) for
+  every version (Introduced … Chaptered Final). **Current biennium only.**
+- `sponsors`: prime/co-sponsors. Current biennium only.
+- `docket` (action history): current biennium + ≤2016.
+- `legislators`, `committees`, `subject`, `generalstatuscodes`,
+  `bodystatuscodes`, `house/senatedistricts`, `county`.
 
-Implication: votes come from SQL for all sessions; **older-session bill
-identity, sponsors, and status must come from the website or OpenStates.**
+Implication: for **2025–2026**, SQL alone gives discovery (keyword search over
+`legislation.LSRTitle`), status, chapter, sponsors, votes, and full text — no
+website scraping, no API key. For **2020–2024**, SQL gives votes only.
 
-Key tables (from `Downloads → ODBC and Data Table Structure.pdf`):
-`docket`, `sponsors`, `legislators`, `rollcallsummary`, `rollcallhistory`,
-`committees`, `subject`, `bodystatuscodes`, `generalstatuscodes`,
-`house/senatedistricts`, `houseRemoteTestify`, `county`.
+`collectors/nh/gencourt_sql.py` wraps all of this:
+`rollcall_summaries`, `rollcall_ballots`, `search_legislation`,
+`search_rollcalls` (keyless older-year voted-bill discovery),
+`legislation_record`, `legislation_id`, `bill_text_versions`,
+`full_bill_version`, `sponsors_by_legislation_id`, and the code maps.
 
-`collectors/nh/gencourt_sql.py` wraps this: `rollcall_summaries`,
-`rollcall_ballots`, `docket_actions`, `sponsors`, `resolve_lsr`,
-`resolve_legislation_id`.
-
-## 3. gc.nh.gov bill pages + full bill text
+## 3. gc.nh.gov bill pages (current biennium only; redundant with SQL)
 
 `billinfo.aspx?id=<legislationID>&inflect=2` renders title, sponsors,
-committee/status, and the **versions** dropdown (Introduced → As Amended by the
-House → … → Chaptered Final) plus amendments.
+committee/status, the **versions** dropdown, and (via an ASP.NET `linkv`
+postback) the full text inline. `collectors/nh/gencourt_web.py` wraps this.
 
-Bill **text** is not a static URL. It loads via an ASP.NET `__doPostBack` on the
-version link (`ctl00$pageBody$rVersions$ctlNN$linkv`). Posting that back with the
-page's `__VIEWSTATE`/`__EVENTVALIDATION` returns the full text inline
-(~1.1 MB for HB2). `collectors/nh/gencourt_web.py` wraps both steps.
+**Two hard limits discovered while building the collector:**
 
-Resolving `legislationID`:
-- **Current biennium:** SQL — `docket` maps bill number ↔ LSR, `sponsors` maps
-  LSR ↔ `legislationID` (`gencourt_sql.resolve_legislation_id`).
-- **Older sessions:** the site search or OpenStates (the programmatic search
-  postback still needs work — see the table above).
+- The `sy=<year>` query param is **ignored** — `billinfo.aspx?id=N` always
+  resolves a bill in the *current* biennium (its LSR always starts `25-`).
+- The site search (`quicksearch.aspx`) only searches the current biennium; the
+  year param does not switch sessions.
+
+So the website cannot reach 2020–2024 bills, and for the current biennium it is
+redundant with the SQL `legislation`/`legislationtext` tables (which are faster
+and need no WAF handshake). The web module is kept for text cross-checks and as
+a fallback, but the collector reads current-biennium text from SQL.
+
+**For 2020–2024 bill identity/metadata/text, the source is OpenStates**
+(`collectors/nh/openstates_backfill.py`), with votes still taken from SQL.
+
+## 3a. The collector
+
+`collectors/nh/collect.py` ties the sources together, driven by an issue config
+(`ISSUE_CONFIG=config/issues/new-hampshire-<slug>.yaml`):
+
+```bash
+ISSUE_CONFIG=config/issues/new-hampshire-<slug>.yaml python3 -m collectors.nh.collect
+```
+
+Per session it discovers bills (SQL `legislation` for the current biennium; SQL
+roll-call titles for older voted bills; OpenStates for older committee-killed
+bills when a key is present), enriches them (status/chapter/sponsors for the
+current biennium; **votes from SQL for every year**), splits HB2 into sections
+for each budget cycle, and writes `pass1/bills.json`,
+`processed/bills-core.json`, `processed/bill-votes.json`, the HB2 section files,
+and a `data-gaps.json` recording anything that needs the OpenStates key.
+
+Verified end to end on an example water issue: 51 bills across 2020–2026, real
+votes attached (e.g. HB1264 2020 passed 23–1), and HB2 2025 split into 204
+sections with 22 flagged water-relevant.
 
 ## 4. Sessions 2020 → current
 

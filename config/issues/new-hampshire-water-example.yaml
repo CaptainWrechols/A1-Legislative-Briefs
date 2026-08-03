@@ -1,0 +1,49 @@
+# EXAMPLE New Hampshire issue config (water) -- used to verify the NH collector
+# end to end. It is a filled-in copy of new-hampshire-TEMPLATE.yaml and is safe
+# to delete; real issues get their own config from the user's keyword seeds.
+
+state: new-hampshire
+issue_id: nh-00-water-example
+issue_title: "Water resources in New Hampshire (example)"
+issue_slug: water-example
+openstates_jurisdiction: New Hampshire
+
+sessions:
+  - {label: "2020", openstates_identifier: "2020", sql_session_year: 2020, biennium: "2019-2020", budget: false}
+  - {label: "2021", openstates_identifier: "2021", sql_session_year: 2021, biennium: "2021-2022", budget: true}
+  - {label: "2022", openstates_identifier: "2022", sql_session_year: 2022, biennium: "2021-2022", budget: false}
+  - {label: "2023", openstates_identifier: "2023", sql_session_year: 2023, biennium: "2023-2024", budget: true}
+  - {label: "2024", openstates_identifier: "2024", sql_session_year: 2024, biennium: "2023-2024", budget: false}
+  - {label: "2025", openstates_identifier: "2025", sql_session_year: 2025, biennium: "2025-2026", budget: true}
+  - {label: "2026", openstates_identifier: "2026", sql_session_year: 2026, biennium: "2025-2026", budget: false}
+
+search_terms:
+  - water
+  - groundwater
+  - wetland
+  - shoreland
+  - aquifer
+  - drinking water
+  - PFAS
+  - stormwater
+
+relevance_terms:
+  - water
+  - groundwater
+  - wetland
+  - shoreland
+  - aquifer
+  - pfas
+  - stormwater
+
+omnibus_bills:
+  - bill_no: HB2
+    role: "budget policy trailer (companion to HB1)"
+    cycles: [2021, 2023, 2025]
+    method: section-by-section
+    section_extractor: collectors/nh/hb2_sections.py
+    affected_rsa_chapters: ["482-A", "485", "485-A", "485-C"]
+
+rsa_chapters: ["482-A", "485", "485-A"]
+agency_document_urls: []
+impact_lookback_years: 20
