@@ -15,8 +15,9 @@ Nevada / NELIS collectors. Full details and coverage are in
 |--------|---------|
 | `collect.py` | **Main entry point.** Config-driven collector: discovers bills + pulls all vote data for one issue across all sessions, picking the right source per year. |
 | `gencourt_sql.py` | Read-only client for the public NH SQL database: votes (all years) + `legislation`/`legislationtext`/sponsors (current biennium) + keyword search. |
-| `legiscan.py` | **Recommended older-year backfill.** LegiScan bulk datasets: one ZIP per session with every bill/vote/person (incl. committee-killed). No rate limits. Needs free `LEGISCAN_API_KEY`. |
-| `openstates_backfill.py` | Fallback older-year backfill via OpenStates (per-bill, rate-limited). Votes still come from SQL. Needs `OPENSTATES_API_KEY`. |
+| `openstates_bulk.py` | **Recommended older-year backfill.** Reads OpenStates *bulk CSV* files you download once (free instant account) and drop in a folder — no API calls, no rate limits, no review queue. Votes still come from SQL. |
+| `legiscan.py` | Older-year backfill via LegiScan bulk datasets (one ZIP/session, no rate limits). Needs `LEGISCAN_API_KEY` — note key issuance involves a manual review that can take a while. |
+| `openstates_backfill.py` | Older-year backfill via the OpenStates *API* (per-bill, rate-limited). Votes still come from SQL. Needs `OPENSTATES_API_KEY` (issued instantly). |
 | `hb2_sections.py` | Split the HB2 omnibus budget trailer into numbered sections and select the issue-relevant ones. |
 | `fortiweb.py` | Solve the `gc.nh.gov` FortiWeb anti-bot challenge (used by the web fallback). |
 | `gencourt_web.py` | Bill detail + full text via ASP.NET postback (current biennium; fallback/cross-check — SQL is primary). |
@@ -46,9 +47,9 @@ Start from the example config `config/issues/new-hampshire-water-example.yaml`
 - **Current biennium bills:** `gencourt_sql.search_legislation()` +
   `legislation_record()` + `full_bill_version()` — title/status/sponsors/text.
 - **Older bills (2020–2024):** `gencourt_sql.search_rollcalls()` (keyless, voted
-  bills) plus a full backfill for committee-killed bills — `legiscan.py`
-  (recommended; `LEGISCAN_API_KEY`) or `openstates_backfill.py`
-  (`OPENSTATES_API_KEY`).
+  bills) plus a full backfill for committee-killed bills. Backfill priority:
+  local OpenStates bulk CSVs (`openstates_bulk.py`, keyless, no rate limit) →
+  LegiScan bulk API (`legiscan.py`) → OpenStates API (`openstates_backfill.py`).
 - **HB2 sections:** `hb2_sections.extract_sections()` +
   `match_sections(sections, issue_terms)`. See
   [`docs/nh-hb2-section-workflow.md`](../../docs/nh-hb2-section-workflow.md).

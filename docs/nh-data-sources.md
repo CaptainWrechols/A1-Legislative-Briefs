@@ -31,8 +31,9 @@ unchanged (see the inventory at the bottom).
 | **Public SQL `rollcallsummary` / `rollcallhistory`** | Roll-call votes (summary + per-member, joined to name/party) | **1999 → current (all target sessions)** | ✅ Authoritative, keyless, reachable from the VM |
 | **Public SQL `legislation` / `legislationtext`** | Bill title, status, chapter, sponsors, **full text (all versions)** | **Current biennium only (2025–2026)** | ✅ Keyless; makes the current biennium fully collectable from SQL alone |
 | **gc.nh.gov bill pages + site search** | Title/sponsors/status + full text via postback | **Current biennium only** (`sy=` is ignored) | ✅ Works behind the WAF, but redundant with SQL for the current biennium |
-| **LegiScan bulk dataset API** | **Complete** bill list + sponsors + history + votes + text refs for a whole session, incl. committee-killed bills | **All sessions, multiple years back** | ✅ **Recommended for 2020–2024.** One ZIP per session -> no rate limits. Needs free `LEGISCAN_API_KEY` |
-| **OpenStates v3 API** | Bills, sponsors, abstracts, versions for older sessions | **2017 → 2026** for NH | ⚠️ Works for 2020–2024 but per-bill and rate-limited. Needs `OPENSTATES_API_KEY`. Secondary fallback |
+| **OpenStates bulk CSV (downloaded once)** | **Complete** bills + sponsors + abstracts + votes per session, incl. committee-killed bills | **All NH sessions** | ✅ **Recommended for 2020–2024.** No API, no rate limit; needs a free *instant* OpenStates account to download the files, then read locally (`openstates_bulk.py`) |
+| **LegiScan bulk dataset API** | Same completeness, one ZIP per session | **All sessions, years back** | ✅ Also great, but `LEGISCAN_API_KEY` issuance goes through a manual review that can be slow |
+| **OpenStates v3 API** | Bills, sponsors, abstracts, versions for older sessions | **2017 → 2026** for NH | ⚠️ Works for 2020–2024 but per-bill and rate-limited (free tier ~10/min, 500/day). Needs `OPENSTATES_API_KEY` (instant). Our design keeps calls low; fallback |
 | **SQL roll-call-title search** (keyless older-year discovery) | Older-session bills **that reached a floor vote** | 1999 → current | ✅ Keyless partial for 2020–2024; misses committee-killed bills |
 | **Static document paths / bulk table `.txt` files** | — | — | ❌ WAF-blocked/404. Only `Members.txt` is published. Use SQL. |
 
@@ -48,21 +49,26 @@ No *government* source publishes complete historical NH bill *lists* (with
 committee-killed bills) programmatically — GenCourt keeps only the current
 biennium (plus votes back to 1999), and every database on its SQL server is
 current-biennium-only for bill identity. So older-year completeness needs an
-outside mirror of the official data. The two reputable options:
+outside mirror of the official data. The reputable options, in the order the collector prefers them:
 
-- **LegiScan (recommended).** Its **bulk dataset API** returns one ZIP per
-  session containing *every* bill, roll call, and person as JSON — including
-  bills that died in committee — plus text references. Mirroring all of
-  NH 2020–2026 is about **8 API calls total** (`getDatasetList` +
-  `getDataset` per session) against a free **30,000-queries/month** key, so
-  rate limits are a non-issue. Full text per bill comes from `getBillText`
-  (a handful of extra calls, only for issue-relevant bills). Wrapped in
-  `collectors/nh/legiscan.py`.
-- **OpenStates (fallback).** Complete for 2017→2026 too, but its per-bill API
-  is rate-limited. The collector minimises calls (votes come from SQL, not
-  OpenStates; discovery is one cached `/bills?q=<term>` per term/session with
-  long 429 backoff) and is resumable, but LegiScan's bulk route is simpler and
-  faster. Wrapped in `collectors/nh/openstates_backfill.py`.
+1. **OpenStates bulk CSV — recommended, keyless at runtime, no rate limit.**
+   OpenStates publishes each session's bills/sponsors/abstracts/votes as a bulk
+   CSV archive. A **free OpenStates account is issued instantly** (unlike
+   LegiScan, which puts API keys through a manual review that can take weeks).
+   You download the ~5 NH session archives (2020–2024) once from
+   [open.pluralpolicy.com/data/session-csv](https://open.pluralpolicy.com/data/session-csv/),
+   unzip each into `sources/new-hampshire/_bulk/openstates/<year>/`, and the
+   collector reads them locally — **no API calls, nothing to rate-limit.**
+   Wrapped in `collectors/nh/openstates_bulk.py`.
+2. **LegiScan bulk dataset API.** One ZIP per session via `getDataset`
+   (~8 calls for all years, free 30k/month). Equally complete, but the
+   `LEGISCAN_API_KEY` requires a manual review to be granted.
+   `collectors/nh/legiscan.py`.
+3. **OpenStates v3 API.** Complete for 2017→2026 but per-bill and rate-limited
+   (free tier ~10/min, 500/day; ask contact@openstates.org for a free higher
+   tier). The collector minimises calls (votes from SQL; one cached
+   `/bills?q=<term>` per term/session with long 429 backoff) and is resumable.
+   `collectors/nh/openstates_backfill.py`.
 
 Either way, **votes always come from GenCourt SQL** — the authoritative
 government source — and only bill *identity/metadata/text* for older years comes
