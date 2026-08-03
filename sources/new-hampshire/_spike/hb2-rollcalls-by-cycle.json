@@ -1,0 +1,143 @@
+{
+  "2021": {
+    "roll_call_count": 42,
+    "sample": [
+      {
+        "sessionYear": 2021,
+        "legislativeBody": "H",
+        "voteSequenceNumber": 66,
+        "voteDate": "2021-04-07 00:00:00",
+        "condensedBillNo": "HB2",
+        "yeas": 204,
+        "nays": 178,
+        "present": 6,
+        "absent": 10,
+        "question_Motion": "Adopt Amendment 2021-1059h",
+        "title1": "relative to state fees, funds, revenues, and expenditures.",
+        "title2": ""
+      },
+      {
+        "sessionYear": 2021,
+        "legislativeBody": "H",
+        "voteSequenceNumber": 67,
+        "voteDate": "2021-04-07 00:00:00",
+        "condensedBillNo": "HB2",
+        "yeas": 175,
+        "nays": 203,
+        "present": 9,
+        "absent": 11,
+        "question_Motion": "Adopt Amendment 2021-1064h (Walz)",
+        "title1": "relative to state fees, funds, revenues, and expenditures.",
+        "title2": ""
+      },
+      {
+        "sessionYear": 2021,
+        "legislativeBody": "H",
+        "voteSequenceNumber": 68,
+        "voteDate": "2021-04-07 00:00:00",
+        "condensedBillNo": "HB2",
+        "yeas": 175,
+        "nays": 206,
+        "present": 7,
+        "absent": 10,
+        "question_Motion": "Adopt Amendment 2021-1065h (Nordgren)",
+        "title1": "relative to state fees, funds, revenues, and expenditures.",
+        "title2": ""
+      }
+    ]
+  },
+  "2023": {
+    "roll_call_count": 17,
+    "sample": [
+      {
+        "sessionYear": 2023,
+        "legislativeBody": "H",
+        "voteSequenceNumber": 126,
+        "voteDate": "2023-04-06 10:01:59.537000",
+        "condensedBillNo": "HB2",
+        "yeas": 326,
+        "nays": 63,
+        "present": 3,
+        "absent": 5,
+        "question_Motion": "Adopt Floor Amendment 1336",
+        "title1": "relative to state fees, funds, revenues, and expenditures.",
+        "title2": ""
+      },
+      {
+        "sessionYear": 2023,
+        "legislativeBody": "H",
+        "voteSequenceNumber": 127,
+        "voteDate": "2023-04-06 10:20:40.453000",
+        "condensedBillNo": "HB2",
+        "yeas": 190,
+        "nays": 199,
+        "present": 3,
+        "absent": 5,
+        "question_Motion": "Adopt Floor Amendment 1290",
+        "title1": "relative to state fees, funds, revenues, and expenditures.",
+        "title2": ""
+      },
+      {
+        "sessionYear": 2023,
+        "legislativeBody": "H",
+        "voteSequenceNumber": 128,
+        "voteDate": "2023-04-06 10:35:36.307000",
+        "condensedBillNo": "HB2",
+        "yeas": 199,
+        "nays": 187,
+        "present": 6,
+        "absent": 5,
+        "question_Motion": "Adopt Floor Amendment 1292",
+        "title1": "relative to state fees, funds, revenues, and expenditures.",
+        "title2": ""
+      }
+    ]
+  },
+  "2025": {
+    "roll_call_count": 45,
+    "sample": [
+      {
+        "sessionYear": 2025,
+        "legislativeBody": "H",
+        "voteSequenceNumber": 149,
+        "voteDate": "2025-04-10 14:44:36.970000",
+        "condensedBillNo": "HB2",
+        "yeas": 200,
+        "nays": 175,
+        "present": 5,
+        "absent": 18,
+        "question_Motion": "Adopt Amendment",
+        "title1": "relative to state fees, funds, revenues, and expenditures.",
+        "title2": ""
+      },
+      {
+        "sessionYear": 2025,
+        "legislativeBody": "H",
+        "voteSequenceNumber": 150,
+        "voteDate": "2025-04-10 14:54:44.683000",
+        "condensedBillNo": "HB2",
+        "yeas": 203,
+        "nays": 169,
+        "present": 8,
+        "absent": 18,
+        "question_Motion": "Adopt Floor Amendment",
+        "title1": "relative to state fees, funds, revenues, and expenditures.",
+        "title2": ""
+      },
+      {
+        "sessionYear": 2025,
+        "legislativeBody": "H",
+        "voteSequenceNumber": 151,
+        "voteDate": "2025-04-10 15:04:47.490000",
+        "condensedBillNo": "HB2",
+        "yeas": 195,
+        "nays": 175,
+        "present": 9,
+        "absent": 19,
+        "question_Motion": "Adopt Floor Amendment",
+        "title1": "relative to state fees, funds, revenues, and expenditures.",
+        "title2": ""
+      }
+    ]
+  }
+}
