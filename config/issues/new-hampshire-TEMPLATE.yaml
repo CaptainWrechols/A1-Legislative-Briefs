@@ -1,0 +1,105 @@
+# New Hampshire issue-config TEMPLATE
+# ---------------------------------------------------------------------------
+# Copy this file to config/issues/new-hampshire-<issue-slug>.yaml and fill in
+# the issue-specific fields (marked TODO). One file per citizen issue.
+#
+# This mirrors the Nevada issue configs but targets the NH General Court data
+# routes proven in docs/nh-data-sources.md:
+#   * votes/sponsors: public SQL Server (collectors/nh/gencourt_sql.py)
+#   * bill text:      gc.nh.gov bill pages (collectors/nh/gencourt_web.py)
+#   * omnibus HB2:    section-by-section (docs/nh-hb2-section-workflow.md)
+#
+# Select it with: export ISSUE_CONFIG=config/issues/new-hampshire-<slug>.yaml
+# ---------------------------------------------------------------------------
+
+state: new-hampshire
+issue_id: nh-XX-TODO                 # TODO: e.g. nh-01-housing
+issue_title: "TODO: full issue title in New Hampshire"
+issue_slug: TODO-slug                # TODO: e.g. housing (drives working/new-hampshire/<slug>)
+openstates_jurisdiction: New Hampshire
+
+# NH runs annual sessions inside two-year biennia; bill numbers persist across a
+# biennium. OpenStates models each year as "YYYY Regular Session" with the year
+# as the identifier. The SQL database keys everything on the same calendar year
+# (sql_session_year). "Back to 2020" = the sessions below.
+#
+#   budget: true marks the odd year of a biennium, when HB1 (operating budget)
+#   and HB2 (policy trailer) are enacted -> analyse HB2 section-by-section.
+sessions:
+  - label: "2020"
+    openstates_identifier: "2020"
+    sql_session_year: 2020
+    biennium: "2019-2020"
+    budget: false
+  - label: "2021"
+    openstates_identifier: "2021"
+    sql_session_year: 2021
+    biennium: "2021-2022"
+    budget: true
+  - label: "2022"
+    openstates_identifier: "2022"
+    sql_session_year: 2022
+    biennium: "2021-2022"
+    budget: false
+  - label: "2023"
+    openstates_identifier: "2023"
+    sql_session_year: 2023
+    biennium: "2023-2024"
+    budget: true
+  - label: "2024"
+    openstates_identifier: "2024"
+    sql_session_year: 2024
+    biennium: "2023-2024"
+    budget: false
+  - label: "2025"
+    openstates_identifier: "2025"
+    sql_session_year: 2025
+    biennium: "2025-2026"
+    budget: true
+  - label: "2026"
+    openstates_identifier: "2026"
+    sql_session_year: 2026
+    biennium: "2025-2026"
+    budget: false
+
+# Full-text search terms used to discover bills (site search / OpenStates).
+# Keep recall high; every hit is kept for human review.
+search_terms:
+  - "TODO term 1"
+  - "TODO term 2"
+  # ...
+
+# Words that mark a title/abstract as clearly on-topic (review flag only;
+# nothing is dropped). Also used to select relevant HB2 sections
+# (hb2_sections.match_sections).
+relevance_terms:
+  - "todo term 1"
+  - "todo term 2"
+  # ...
+
+# Omnibus / trailer bills that must be handled section-by-section rather than as
+# a single bill. HB2 is New Hampshire's budget policy trailer. For each budget
+# cycle in scope, the workflow fetches HB2's text, splits it into sections, and
+# keeps only sections matching relevance_terms / affected RSA chapters.
+# See docs/nh-hb2-section-workflow.md.
+omnibus_bills:
+  - bill_no: HB2
+    role: "budget policy trailer (companion to HB1)"
+    cycles: [2021, 2023, 2025]     # budget years in scope
+    method: section-by-section
+    section_extractor: collectors/nh/hb2_sections.py
+    outputs:
+      sections_json: "working/new-hampshire/{issue}/hb2-sections.json"
+      sections_md: "working/new-hampshire/{issue}/hb2-sections.md"
+      relevant_json: "working/new-hampshire/{issue}/hb2-relevant.json"
+    # RSA chapters this issue is known to live in; used alongside relevance_terms
+    # to select HB2 sections. TODO: fill with the issue's core RSA chapters.
+    affected_rsa_chapters: []       # e.g. ["482-A", "485"]
+
+# Relevant NH Revised Statutes Annotated (RSA) chapters for background/context.
+rsa_chapters: []                    # TODO: e.g. ["482-A", "485-A"]
+
+# Optional agency/background document URLs (source_key is cited in the brief).
+agency_document_urls: []
+
+impact_lookback_years: 20
