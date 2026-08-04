@@ -1,0 +1,137 @@
+# New Hampshire issue config — Housing Affordability
+# Built from config/issues/new-hampshire-TEMPLATE.yaml with the user-provided
+# search/relevance term seeds (2026-08-04). Sessions 2020 -> current only.
+#
+# Select with: export ISSUE_CONFIG=config/issues/new-hampshire-housing-affordability.yaml
+
+state: new-hampshire
+issue_id: new-hampshire-01-housing-affordability
+issue_title: "Housing Affordability in New Hampshire"
+issue_slug: housing-affordability
+openstates_jurisdiction: New Hampshire
+
+# NH runs annual sessions inside two-year biennia; budget years (HB1 operating
+# budget + HB2 policy trailer) are 2021, 2023, 2025.
+sessions:
+  - {label: "2020", openstates_identifier: "2020", sql_session_year: 2020, biennium: "2019-2020", budget: false}
+  - {label: "2021", openstates_identifier: "2021", sql_session_year: 2021, biennium: "2021-2022", budget: true}
+  - {label: "2022", openstates_identifier: "2022", sql_session_year: 2022, biennium: "2021-2022", budget: false}
+  - {label: "2023", openstates_identifier: "2023", sql_session_year: 2023, biennium: "2023-2024", budget: true}
+  - {label: "2024", openstates_identifier: "2024", sql_session_year: 2024, biennium: "2023-2024", budget: false}
+  - {label: "2025", openstates_identifier: "2025", sql_session_year: 2025, biennium: "2025-2026", budget: true}
+  - {label: "2026", openstates_identifier: "2026", sql_session_year: 2026, biennium: "2025-2026", budget: false}
+
+# Full-text search terms used to discover bills (SQL LIKE '%term%' over titles;
+# OpenStates title+abstract when available). High recall; every hit is kept for
+# human review in curation.
+#
+# Substring-safety adjustments to the seed list (SQL LIKE matches substrings):
+#   * "rent" -> " rent" (leading space) so it does not match "current",
+#     "parent", "different"; it still matches " rent", " rental", " renters".
+#   * "ADU" dropped as a standalone term ("adu" is inside "adult",
+#     "graduate"); "accessory dwelling" covers ADU bills.
+search_terms:
+  - housing
+  - "affordable housing"
+  - "workforce housing"
+  - "attainable housing"
+  - dwelling
+  - apartment
+  - "multi-family"
+  - multifamily
+  - "residential development"
+  - " rent"
+  - "rental housing"
+  - landlord
+  - tenant
+  - eviction
+  - "security deposit"
+  - "rent control"
+  - "missing middle"
+  - zoning
+  - "land use"
+  - "accessory dwelling"
+  # Plural acronym only: bare "ADU" is inside "adult"/"graduate", but "ADUs"
+  # is unambiguous in titles (catches 2025 HB577 "definition of ADUs").
+  - "ADUs"
+  - "lot size"
+  - density
+  - infill
+  - "housing production"
+  - "inclusionary"
+  - "impact fee"
+  - "manufactured housing"
+  - "mobile home"
+  - modular
+  - "tiny home"
+  - "starter home"
+  - homebuyer
+  - "home buyer"
+  - "down payment"
+  - mortgage
+  - "housing trust"
+  - "housing appeals"
+  - homelessness
+  - homeless
+  - shelter
+
+# Words that mark a title/abstract as clearly on-topic (review flag only;
+# nothing is dropped). Also selects candidate HB2 sections
+# (hb2_sections.match_sections) — matches are recall-first and hand-pruned.
+# Space-prefixed entries avoid substring traps ("rent" in "current",
+# "tenant" in "lieutenant"). "ADU" dropped for the same reason (inside
+# "adult"); "accessory dwelling" covers it.
+relevance_terms:
+  - housing
+  - "workforce housing"
+  - "affordable housing"
+  - dwelling
+  - apartment
+  - " rent"
+  - landlord
+  - " tenant"
+  - eviction
+  - zoning
+  - "land use"
+  - "accessory dwelling"
+  - "ADUs"
+  - density
+  - infill
+  - "inclusionary"
+  - "manufactured housing"
+  - "mobile home"
+  - homebuyer
+  - homeless
+  - shelter
+
+# HB2 is New Hampshire's omnibus budget policy trailer; it must be analysed
+# section-by-section (see docs/nh-hb2-section-workflow.md). Votes are recorded
+# on HB2 as a whole, never per section.
+omnibus_bills:
+  - bill_no: HB2
+    role: "budget policy trailer (companion to HB1)"
+    cycles: [2021, 2023, 2025]
+    method: section-by-section
+    section_extractor: collectors/nh/hb2_sections.py
+    outputs:
+      sections_json: "working/new-hampshire/{issue}/hb2-sections.json"
+      sections_md: "working/new-hampshire/{issue}/hb2-sections.md"
+      relevant_json: "working/new-hampshire/{issue}/hb2-relevant.json"
+    # RSA chapters this issue is known to live in; used alongside
+    # relevance_terms when hand-reviewing HB2 section matches.
+    affected_rsa_chapters:
+      - "204-C"   # NH Housing Finance Authority
+      - "205-A"   # Manufactured housing parks
+      - "540"     # Actions against tenants (eviction)
+      - "540-A"   # Prohibited practices (landlord/tenant)
+      - "674"     # Local land use planning and regulation (incl. workforce housing, ADUs)
+      - "676"     # Land use administration and enforcement
+      - "679"     # Housing Appeals Board
+      - "79-E"    # Community revitalization tax relief (housing opportunity zones)
+
+# Relevant NH RSA chapters for background/context.
+rsa_chapters: ["204-C", "205-A", "540", "540-A", "674", "676", "679", "79-E"]
+
+agency_document_urls: []
+
+impact_lookback_years: 20

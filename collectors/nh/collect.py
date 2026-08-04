@@ -235,6 +235,17 @@ def enrich(bills: dict[tuple, dict], sessions: list[dict], *, ballots: bool) -> 
         }
         if year in sql_years:
             lr = db.legislation_record(bill_no, year)
+            if lr is None:
+                # NH bills span a two-year biennium; a bill discovered via a
+                # first-year roll call may be keyed to the second year in the
+                # legislation table (e.g. SB84: 2025 votes, 2026 record).
+                for other in sorted(sql_years):
+                    if other == year:
+                        continue
+                    lr = db.legislation_record(bill_no, other)
+                    if lr:
+                        entry["biennium_record_year"] = other
+                        break
             if lr:
                 entry.update({
                     "expanded_bill_no": lr.get("ExpandedBillNo"),

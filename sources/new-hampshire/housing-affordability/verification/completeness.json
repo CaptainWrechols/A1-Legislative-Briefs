@@ -1,0 +1,158 @@
+{
+  "collected_at": "2026-08-04T16:04:59.165267+00:00",
+  "issue": "new-hampshire-01-housing-affordability",
+  "issue_slug": "housing-affordability",
+  "verdict": "PASS_WITH_WARNINGS",
+  "counts": {
+    "checks": 19,
+    "fail": 0,
+    "warn": 2,
+    "pass": 17,
+    "bills": 149,
+    "sessions_configured": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "bills_by_year": {
+      "2020": 6,
+      "2021": 8,
+      "2022": 4,
+      "2023": 9,
+      "2024": 8,
+      "2025": 36,
+      "2026": 78
+    }
+  },
+  "empty_search_terms": [
+    "attainable housing",
+    "apartment",
+    "rent control",
+    "missing middle",
+    "lot size",
+    "infill",
+    "housing production",
+    "inclusionary",
+    "modular",
+    "tiny home",
+    "starter home",
+    "homebuyer",
+    "down payment",
+    "housing trust",
+    "housing appeals"
+  ],
+  "checks": [
+    {
+      "check": "artifact_pass1",
+      "status": "PASS",
+      "detail": "sources/new-hampshire/housing-affordability/pass1/bills.json"
+    },
+    {
+      "check": "artifact_bills_core",
+      "status": "PASS",
+      "detail": "sources/new-hampshire/housing-affordability/processed/bills-core.json"
+    },
+    {
+      "check": "artifact_bill_votes",
+      "status": "PASS",
+      "detail": "sources/new-hampshire/housing-affordability/processed/bill-votes.json"
+    },
+    {
+      "check": "sessions_covered",
+      "status": "PASS",
+      "detail": "bills/year={2020: 6, 2021: 8, 2022: 4, 2023: 9, 2024: 8, 2025: 36, 2026: 78}; missing_unexplained=[]"
+    },
+    {
+      "check": "bill_fields_complete",
+      "status": "PASS",
+      "detail": "0 incomplete of 149"
+    },
+    {
+      "check": "votes_row_per_bill",
+      "status": "PASS",
+      "detail": "missing_vote_rows=0 examples=[]"
+    },
+    {
+      "check": "vote_counts_are_integers",
+      "status": "PASS",
+      "detail": "all yea/nay integers or null"
+    },
+    {
+      "check": "search_term_coverage",
+      "status": "WARN",
+      "detail": "hits={'housing': 61, 'affordable housing': 11, 'workforce housing': 4, 'attainable housing': 0, 'dwelling': 17, 'apartment': 0, 'multi-family': 4, 'multifamily': 2, 'residential development': 2, ' rent': 19, 'rental housing': 1, 'landlord': 9, 'tenant': 13, 'eviction': 5, 'security deposit': 1, 'rent control': 0, 'missing middle': 0, 'zoning': 29, 'land use': 10, 'accessory dwelling': 10, 'ADUs': 1, 'lot size': 0, 'density': 3, 'infill': 0, 'housing production': 0, 'inclusionary': 0, 'impact fee': 2, 'manufactured housing': 7, 'mobile home': 1, 'modular': 0, 'tiny home': 0, 'starter home': 0, 'homebuyer': 0, 'home buyer': 1, 'down payment': 0, 'mortgage': 2, 'housing trust': 0, 'housing appeals': 0, 'homelessness': 2, 'homeless': 5, 'shelter': 3}; empty_search_terms=['attainable housing', 'apartment', 'rent control', 'missing middle', 'lot size', 'infill', 'housing production', 'inclusionary', 'modular', 'tiny home', 'starter home', 'homebuyer', 'down payment', 'housing trust', 'housing appeals']"
+    },
+    {
+      "check": "hb2_2021_sections",
+      "status": "PASS",
+      "detail": "path=working/new-hampshire/housing-affordability/hb2/2021/hb2-sections.json section_count=468 (min 10); source=gencourt:legislation_html"
+    },
+    {
+      "check": "hb2_2021_votes",
+      "status": "PASS",
+      "detail": "roll_call_count=42"
+    },
+    {
+      "check": "hb2_2021_relevant_index",
+      "status": "PASS",
+      "detail": "path=working/new-hampshire/housing-affordability/hb2/2021/hb2-relevant.json relevant=25"
+    },
+    {
+      "check": "hb2_2023_sections",
+      "status": "PASS",
+      "detail": "path=working/new-hampshire/housing-affordability/hb2/2023/hb2-sections.json section_count=612 (min 10); source=gencourt:lba_or_agency_pdf"
+    },
+    {
+      "check": "hb2_2023_votes",
+      "status": "PASS",
+      "detail": "roll_call_count=17"
+    },
+    {
+      "check": "hb2_2023_relevant_index",
+      "status": "PASS",
+      "detail": "path=working/new-hampshire/housing-affordability/hb2/2023/hb2-relevant.json relevant=20"
+    },
+    {
+      "check": "hb2_2025_sections",
+      "status": "PASS",
+      "detail": "path=working/new-hampshire/housing-affordability/hb2/2025/hb2-sections.json section_count=461 (min 10); source=sql:legislationtext"
+    },
+    {
+      "check": "hb2_2025_votes",
+      "status": "PASS",
+      "detail": "roll_call_count=45"
+    },
+    {
+      "check": "hb2_2025_relevant_index",
+      "status": "PASS",
+      "detail": "path=working/new-hampshire/housing-affordability/hb2/2025/hb2-relevant.json relevant=21"
+    },
+    {
+      "check": "rollcall_discovery_not_dropped",
+      "status": "PASS",
+      "detail": "SQL rollcall-title hits missing from pass1: [] (total_missing=0)"
+    },
+    {
+      "check": "no_advice_language_in_titles",
+      "status": "WARN",
+      "detail": "titles_with_advice_words=['2026:HR30']"
+    }
+  ],
+  "gaps_recorded": [
+    {
+      "gap": "older_session_discovery_incomplete",
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "detail": "No local OpenStates bulk files, LEGISCAN_API_KEY, or OPENSTATES_API_KEY for these years. Bills that reached a floor vote were still found via SQL roll-call titles, but committee-killed bills are not captured. Drop OpenStates bulk CSVs in sources/new-hampshire/_bulk/openstates/<year>/ (no rate limit) or set a key to complete them."
+    }
+  ]
+}

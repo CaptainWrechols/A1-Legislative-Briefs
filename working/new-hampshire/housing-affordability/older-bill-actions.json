@@ -1,0 +1,3019 @@
+{
+  "note": "Action histories + sponsors for 2022-2024 bills, from Internet Archive snapshots of openstates.org bill pages (OpenStates mirrors the official GenCourt docket). Actions are listed newest first, as rendered. Each record carries its snapshot URL. Used to stage deaths that roll calls alone cannot resolve; vote counts still come only from GenCourt SQL. 2023-2024 bills (and 2022 leftovers) come from archived LegiScan bill pages (source=legiscan_wayback), which mirror the GenCourt docket with journal citations. Bills unresolvable from snapshots (2022 SB415, 2023 SB203) and post-passage fates (2023 SB145, 2024 HB1291) were resolved by web research from official/news sources; each carries citations and is used only for disposition staging, never for vote counts.",
+  "bills": [
+    {
+      "session_year": 2020,
+      "bill_no": "SB721",
+      "title": "relative to court review of planning board decisions and making an appropriation therefor.",
+      "source": "openstates_wayback",
+      "snapshot": "https://web.archive.org/web/20210128041545id_/https://openstates.org/nh/bills/2020/SB721/",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "Mar 05, 2020",
+          "actor": "Senate",
+          "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 03/05/2020;  SJ 5"
+        },
+        {
+          "date": "Feb 18, 2020",
+          "actor": "Senate",
+          "description": "Committee Report: Inexpedient to Legislate, 03/05/2020;  SC 9"
+        },
+        {
+          "date": "Jan 23, 2020",
+          "actor": "Senate",
+          "description": "Hearing: 01/28/2020, Room 100, SH, 10:15 am;  SC 4"
+        },
+        {
+          "date": "Jan 16, 2020",
+          "actor": "Senate",
+          "description": "Introduced 01/08/2020 and Referred to Judiciary;  SJ 2"
+        }
+      ],
+      "sponsors": []
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB735",
+      "title": "repealing the housing appeals board.",
+      "source": "openstates_wayback",
+      "snapshot": "https://web.archive.org/web/20210420170727id_/https://openstates.org/nh/bills/2020/SB735/",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "Mar 05, 2020",
+          "actor": "Senate",
+          "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 03/05/2020;  SJ 5"
+        },
+        {
+          "date": "Feb 18, 2020",
+          "actor": "Senate",
+          "description": "Committee Report: Inexpedient to Legislate, 03/05/2020;  SC 9"
+        },
+        {
+          "date": "Jan 23, 2020",
+          "actor": "Senate",
+          "description": "Hearing: 01/28/2020, Room 100, SH, 09:55 am;  SC 4"
+        },
+        {
+          "date": "Jan 16, 2020",
+          "actor": "Senate",
+          "description": "Introduced 01/08/2020 and Referred to Judiciary;  SJ 2"
+        }
+      ],
+      "sponsors": []
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB284",
+      "title": "2021 | Regular Session",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20210923162556id_/https://legiscan.com/NH/bill/HB284/2021",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2021-07-26",
+          "actor": "House",
+          "description": "Signed by Governor Sununu 07/23/2021; Chapter 136; Eff: 09/21/2021"
+        },
+        {
+          "date": "2021-07-12",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 06/24/2021"
+        },
+        {
+          "date": "2021-07-12",
+          "actor": "Senate",
+          "description": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20"
+        },
+        {
+          "date": "2021-06-10",
+          "actor": "House",
+          "description": "House Concurs with Senate Amendment 2021-1142s (Rep. Dolan): Motion Adopted Voice Vote 06/10/2021 House Journal  10 P. 15"
+        },
+        {
+          "date": "2021-04-22",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2021-1142s, Regular Calendar 23Y-1N, Motion Adopted; OT3rdg; 04/22/2021; Senate Journal 12"
+        },
+        {
+          "date": "2021-04-22",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2021-1142s, Regular Calendar 23Y-1N, Amendment Adopted; 04/22/2021; Senate Journal 12"
+        },
+        {
+          "date": "2021-04-15",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2021-1142s, 04/22/2021; Vote 5-0; Consent Calendar; Senate Calendar  20"
+        },
+        {
+          "date": "2021-04-07",
+          "actor": "Senate",
+          "description": "Remote Hearing: 04/12/2021, 10:15 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  19"
+        },
+        {
+          "date": "2021-04-07",
+          "actor": "Senate",
+          "description": "Introduced 04/01/2021 and Referred to Election Law and Municipal Affairs; Senate Journal 11"
+        },
+        {
+          "date": "2021-04-07",
+          "actor": "House",
+          "description": "Reconsider (Rep. Osborne): Motion Failed Voice Vote 04/07/2021 House Journal  5 P. 50"
+        },
+        {
+          "date": "2021-04-07",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2021-0569h: Motion Adopted Voice Vote 04/07/2021 House Journal  5 P. 44"
+        },
+        {
+          "date": "2021-04-07",
+          "actor": "House",
+          "description": "Amendment # 2021-0569h: Amendment Adopted Voice Vote 04/07/2021 House Journal  5 P. 44"
+        },
+        {
+          "date": "2021-03-15",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass with Amendment # 2021-0569h (Vote 19-0; Consent Calendar) House Calendar 18 P. 20"
+        },
+        {
+          "date": "2021-02-08",
+          "actor": "House",
+          "description": "Public Hearing: 02/18/2021 10:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/94522837794 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened."
+        },
+        {
+          "date": "2021-01-09",
+          "actor": "House",
+          "description": "Introduced (in recess of) 01/06/2021 and referred to Municipal and County Government House Journal  2 P. 42"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Partisan Bill (Democrat 1-0)",
+      "status_line": "Status: Passed on July 26 2021 - 100% progression"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB286",
+      "title": "",
+      "source": "none",
+      "snapshot": "",
+      "status": "no_snapshot"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB332",
+      "title": "",
+      "source": "none",
+      "snapshot": "",
+      "status": "no_snapshot"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB377",
+      "title": "HB 377 - New Hampshire House (2021) - Open States",
+      "source": "openstates_wayback",
+      "snapshot": "https://web.archive.org/web/20220710204009id_/https://openstates.org/nh/bills/2021/HB377/",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "May 10, 2021",
+          "actor": "House",
+          "description": "Signed by Governor Sununu 05/06/2021; Chapter 26; Eff: 07/05/2021"
+        },
+        {
+          "date": "Apr 29, 2021",
+          "actor": "Senate",
+          "description": "Enrolled RC 24Y-0N, MA, (In recess of 04/22/2021);  SJ 13"
+        },
+        {
+          "date": "Apr 29, 2021",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 04/09/2021  HJ 7  P. 101"
+        },
+        {
+          "date": "Apr 08, 2021",
+          "actor": "Senate",
+          "description": "Ought to Pass: RC 23Y-1N, MA; OT3rdg; 04/08/2021;  SJ 11"
+        },
+        {
+          "date": "Mar 31, 2021",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass, 04/08/2021; Vote 5-0; CC;  SC 18"
+        },
+        {
+          "date": "Mar 17, 2021",
+          "actor": "Senate",
+          "description": "Remote Hearing: 03/24/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar;  SC 16"
+        },
+        {
+          "date": "Mar 04, 2021",
+          "actor": "Senate",
+          "description": "Introduced 03/04/2021 and Referred to Executive Departments and Administration;  SJ 7"
+        },
+        {
+          "date": "Feb 24, 2021",
+          "actor": "House",
+          "description": "Ought to Pass: MA VV 02/24/2021  HJ 3  P. 9"
+        },
+        {
+          "date": "Feb 16, 2021",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass   (Vote 19-0; CC)  HC 12  P. 6"
+        },
+        {
+          "date": "Jan 27, 2021",
+          "actor": "House",
+          "description": "Public Hearing: 02/04/2021 10:15 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99659562277 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened."
+        },
+        {
+          "date": "Jan 10, 2021",
+          "actor": "House",
+          "description": "Introduced (in recess of) 01/06/2021 and referred to Executive Departments and Administration  HJ 2  P. 45"
+        }
+      ],
+      "sponsors": []
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB102",
+      "title": "2021 | Regular Session",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20211020111241id_/https://legiscan.com/NH/bill/SB102/2021",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2021-08-16",
+          "actor": "Senate",
+          "description": "Part II Effective 10/09/2021"
+        },
+        {
+          "date": "2021-08-16",
+          "actor": "Senate",
+          "description": "Part I- II. Remainder Effective 10/09/2021"
+        },
+        {
+          "date": "2021-08-16",
+          "actor": "Senate",
+          "description": "Part I- I. Sections 4 & 5 Effective as Provided in Section 6"
+        },
+        {
+          "date": "2021-08-16",
+          "actor": "Senate",
+          "description": "Signed by the Governor on 08/10/2021; Chapter 0200"
+        },
+        {
+          "date": "2021-07-28",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 06/24/2021"
+        },
+        {
+          "date": "2021-07-28",
+          "actor": "Senate",
+          "description": "Enrolled Adopted, Voice Vote, (In recess 06/24/2021); Senate Journal 20"
+        },
+        {
+          "date": "2021-07-16",
+          "actor": "Senate",
+          "description": "Enrolled Bill Amendment # 2021-2070e Adopted, Voice Vote, (In recess of 06/24/2021); Senate Journal 20"
+        },
+        {
+          "date": "2021-07-12",
+          "actor": "House",
+          "description": "Enrolled Bill Amendment # 2021-2062e: Amendment Adopted Voice Vote (in recess of) 06/24/2021"
+        },
+        {
+          "date": "2021-06-04",
+          "actor": "House",
+          "description": "Ought to Pass: Motion Adopted Regular Calendar 208-165 06/04/2021 House Journal  9 P. 25"
+        },
+        {
+          "date": "2021-05-27",
+          "actor": "House",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "date": "2021-05-27",
+          "actor": "House",
+          "description": "Majority Committee Report: Ought to Pass (Vote 15-4; Regular Calendar) House Calendar 26 P. 28"
+        },
+        {
+          "date": "2021-05-17",
+          "actor": "House",
+          "description": "Public Hearing: 05/17/2021 10:45 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91407870095 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened."
+        },
+        {
+          "date": "2021-04-15",
+          "actor": "House",
+          "description": "Vacated and Referred to Municipal and County Government (): Motion Adopted Voice Vote (in recess of) 04/09/2021 House Journal  7 P. 100"
+        },
+        {
+          "date": "2021-03-31",
+          "actor": "House",
+          "description": "Introduced (in recess of) 02/25/2021 and referred to Ways and Means House Journal  4 P. 51"
+        },
+        {
+          "date": "2021-03-25",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2021-0846s, Regular Calendar 24Y-0N, Motion Adopted; OT3rdg; 03/25/2021; Senate Journal 9"
+        },
+        {
+          "date": "2021-03-25",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2021-0846s, Regular Calendar 24Y-0N, Amendment Adopted; 03/25/2021; Senate Journal 9"
+        },
+        {
+          "date": "2021-03-16",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2021-0846s, 03/25/2021; Vote 5-0; Consent Calendar; Senate Calendar  16"
+        },
+        {
+          "date": "2021-03-04",
+          "actor": "Senate",
+          "description": "Remote Hearing: 03/08/2021, 09:40 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  14"
+        },
+        {
+          "date": "2021-01-26",
+          "actor": "Senate",
+          "description": "Introduced 01/06/2021 and Referred to Ways and Means; Senate Journal 3"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Partisan Bill (Democrat 1-0)",
+      "status_line": "Status: Passed on August 16 2021 - 100% progression"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1021",
+      "title": "2022 | Regular Session",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20220516152325id_/https://legiscan.com/NH/bill/HB1021/2022",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2022-05-13",
+          "actor": "House",
+          "description": "House Concurs with Senate Amendment (Rep. Gordon): Motion Adopted Voice Vote 05/12/2022 House Journal  13"
+        },
+        {
+          "date": "2022-04-28",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2022-1653s, Amendment Adopted, Voice Vote; 04/28/2022; Senate Journal 10"
+        },
+        {
+          "date": "2022-04-28",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2022-1653s, Motion Adopted, Voice Vote; OT3rdg; 04/28/2022; Senate Journal 10"
+        },
+        {
+          "date": "2022-04-20",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2022-1653s, 04/28/2022; Vote 5-0; Consent Calendar; Senate Calendar  17"
+        },
+        {
+          "date": "2022-03-21",
+          "actor": "Senate",
+          "description": "Hearing: 03/21/2022, Room 100, State House, 01:00 pm; Senate Calendar  12"
+        },
+        {
+          "date": "2022-03-15",
+          "actor": "Senate",
+          "description": "Introduced 02/24/2022 and Referred to Election Law and Municipal Affairs; Senate Journal 5"
+        },
+        {
+          "date": "2022-03-12",
+          "actor": "House",
+          "description": "Ought to Pass: Motion Adopted Voice Vote 03/10/2022 House Journal  5"
+        },
+        {
+          "date": "2022-02-14",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass (Vote 14-7; Regular Calendar)"
+        },
+        {
+          "date": "2022-01-27",
+          "actor": "House",
+          "description": "Executive Session: 02/03/2022 09:00 am Legislative Office Building 206-208"
+        },
+        {
+          "date": "2022-01-13",
+          "actor": "House",
+          "description": "Public Hearing: 01/20/2022 01:45 pm Legislative Office Building 206-208"
+        },
+        {
+          "date": "2021-10-29",
+          "actor": "House",
+          "description": "Introduced 01/05/2022 and referred to Judiciary"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Partisan Bill (Republican 3-0)",
+      "status_line": "Status: Engrossed on March 15 2022 - 50% progression",
+      "resolution": "House concurred with the Senate amendment 2022-05-13 (voice vote); became law: Laws of 2022, Chapter 291 (NHMA Final Legislative Bulletin 2022: local regulations on primarily religious use of land restricted).",
+      "final_disposition": "enacted (Chapter 291, 2022)",
+      "resolution_source": "web_research",
+      "citations": [
+        "https://www.nhmunicipal.org/sites/default/files/uploads/legislative-bulletins/2022_nhma_legis_bltn_final_0.pdf"
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1291",
+      "title": "prohibiting discrimination against tenants holding certain vouchers for purposes of renting dwellings.",
+      "source": "openstates_wayback",
+      "snapshot": "https://web.archive.org/web/20230207112631id_/https://openstates.org/nh/bills/2022/HB1291/",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "Mar 16, 2022",
+          "actor": "House",
+          "description": "Lay HB1291 on Table (Rep. Gordon): MA RC 179-148 03/16/2022  HJ 7"
+        },
+        {
+          "date": "Feb 14, 2022",
+          "actor": "House",
+          "description": "Majority Committee Report: Inexpedient to Legislate   (Vote 11-10; RC)"
+        },
+        {
+          "date": "Feb 14, 2022",
+          "actor": "House",
+          "description": "Minority Committee Report: Ought to Pass"
+        },
+        {
+          "date": "Jan 27, 2022",
+          "actor": "House",
+          "description": "Executive Session: 02/03/2022 09:00 am LOB 206-208"
+        },
+        {
+          "date": "Jan 13, 2022",
+          "actor": "House",
+          "description": "Public Hearing: 01/19/2022 01:00 pm LOB 206-208"
+        },
+        {
+          "date": "Nov 19, 2021",
+          "actor": "House",
+          "description": "Introduced 01/05/2022 and referred to Judiciary"
+        }
+      ],
+      "sponsors": []
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1661",
+      "title": "2022 | Regular Session",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20220810190202id_/https://legiscan.com/NH/bill/HB1661/2022",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2022-06-29",
+          "actor": "House",
+          "description": "Signed by Governor Sununu 06/24/2022; Chapter 272; I. Sections 1-5 7-9 12 21 22 28 34 58 59 & 61 eff 07/01/2022 II. Sections 23 29 70-74 & 76-79 eff. 08/23/2022 III. Sections 6 31-33 eff. 6/30/2022 IV.Sections 13 14 68 $ 75 eff 01/01/2023 V. Sectioins 63-67 eff. 07/24/2022 VI. Rem eff. 6/24/2022 House Journal  14"
+        },
+        {
+          "date": "2022-06-14",
+          "actor": "Senate",
+          "description": "Enrolled Adopted, Voice Vote, (In recess 05/26/2022); Senate Journal 13"
+        },
+        {
+          "date": "2022-06-14",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 05/26/2022 House Journal  14"
+        },
+        {
+          "date": "2022-06-09",
+          "actor": "House",
+          "description": "Enrolled Bill Amendment # 2022-2111e: Amendment Adopted Voice Vote (in recess of) 05/26/2022 House Journal  14"
+        },
+        {
+          "date": "2022-06-09",
+          "actor": "Senate",
+          "description": "Enrolled Bill Amendment # 2022-2111e Adopted, Voice Vote, (In recess of 05/26/2022); Senate Journal 13"
+        },
+        {
+          "date": "2022-05-26",
+          "actor": "House",
+          "description": "Conference Committee Report 2022-2088c: Adopted, Regular Calendar 244-99 05/26/2022 House Journal  14"
+        },
+        {
+          "date": "2022-05-26",
+          "actor": "House",
+          "description": "Lay HB1661 on Table (Rep. Ankarberg): Motion Failed DV 99-243 05/26/2022 House Journal  14"
+        },
+        {
+          "date": "2022-05-26",
+          "actor": "Senate",
+          "description": "Conference Committee Report # 2022-2088c, Adopted, Voice Vote; 05/26/2022; Senate Journal 13"
+        },
+        {
+          "date": "2022-05-19",
+          "actor": "Senate",
+          "description": "Conference Committee Report Filed, # 2022-2088c; 05/26/2022"
+        },
+        {
+          "date": "2022-05-19",
+          "actor": "House",
+          "description": "Conferee Change: Rep. Packard Replaces Rep. Turcotte 05/19/2022"
+        },
+        {
+          "date": "2022-05-19",
+          "actor": "House",
+          "description": "Conference Committee Meeting: 05/19/2022 09:00 am Legislative Office Building 210-211"
+        },
+        {
+          "date": "2022-05-18",
+          "actor": "House",
+          "description": "==RECESSED== Conference Committee Meeting: 05/18/2022 09:30 am Legislative Office Building 210-211"
+        },
+        {
+          "date": "2022-05-16",
+          "actor": "House",
+          "description": "==RECESSED== Conference Committee Meeting: 05/16/2022 11:30 am Legislative Office Building 301-303"
+        },
+        {
+          "date": "2022-05-13",
+          "actor": "House",
+          "description": "Conferee Change: Rep. Cordelli Replaces Rep. Edwards 05/13/2022"
+        },
+        {
+          "date": "2022-05-13",
+          "actor": "House",
+          "description": "==RECESSED== Conference Committee Meeting: 05/13/2022 03:00 pm Legislative Office Building 205-207"
+        },
+        {
+          "date": "2022-05-12",
+          "actor": "Senate",
+          "description": "President Appoints: Senators Bradley, Hennessey, D'Allesandro; 05/12/2022; Senate Journal 12"
+        },
+        {
+          "date": "2022-05-12",
+          "actor": "Senate",
+          "description": "Sen. Reagan Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 05/12/2022; Senate Journal 12"
+        },
+        {
+          "date": "2022-05-10",
+          "actor": "House",
+          "description": "House Non-Concurs with Senate Amendment 2022-1960s 2022-1973s 2022-1976s 2022-1966s 2022-1659s and Requests CofC (Reps. Ladd, Umberger, Edwards, Turcotte): Motion Adopted Voice Vote 05/05/2022 House Journal  12"
+        },
+        {
+          "date": "2022-05-05",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendments 2022-1966s, 2022-1976s; 2022-1973s, and 2022-1960s, Regular Calendar 23Y-0N, Motion Adopted; OT3rdg; 05/05/2022; Senate Journal 11"
+        },
+        {
+          "date": "2022-05-05",
+          "actor": "Senate",
+          "description": "Sen. Bradley Floor Amendment # 2022-1960s, Amendment Adopted, Voice Vote; 05/05/2022; Senate Journal 11"
+        },
+        {
+          "date": "2022-05-05",
+          "actor": "Senate",
+          "description": "Sen. Bradley Floor Amendment # 2022-1973s, Amendment Adopted, Voice Vote; 05/05/2022; Senate Journal 11"
+        },
+        {
+          "date": "2022-05-05",
+          "actor": "Senate",
+          "description": "Sen. Bradley Floor Amendment # 2022-1976s, Amendment Adopted, Voice Vote; 05/05/2022; Senate Journal 11"
+        },
+        {
+          "date": "2022-05-05",
+          "actor": "Senate",
+          "description": "Sen. Bradley Floor Amendment # 2022-1966s, Amendment Adopted, Voice Vote; 05/05/2022; Senate Journal 11"
+        },
+        {
+          "date": "2022-05-05",
+          "actor": "Senate",
+          "description": "Special Order to after the Bills removed from the Consent Calendar, Without Objection, Motion Adopted; 05/05/2022; Senate Journal 11"
+        },
+        {
+          "date": "2022-05-03",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass, 05/05/2022; Senate Calendar  18A"
+        },
+        {
+          "date": "2022-04-28",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2022-1659s, Motion Adopted, Voice Vote; Refer to Finance Rule 4-5; 04/28/2022; Senate Journal 10"
+        },
+        {
+          "date": "2022-04-28",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2022-1659s, Amendment Adopted, Voice Vote; 04/28/2022; Senate Journal 10"
+        },
+        {
+          "date": "2022-04-20",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2022-1659s, 04/28/2022; Senate Calendar  17"
+        },
+        {
+          "date": "2022-04-15",
+          "actor": "Senate",
+          "description": "Hearing: 04/19/2022, Room 103, State House, 12:30 pm; Senate Calendar  16"
+        },
+        {
+          "date": "2022-04-13",
+          "actor": "Senate",
+          "description": "Amendment # 2022-1475s to HB 1661 will be proposed; Senate Calendar  16"
+        },
+        {
+          "date": "2022-04-05",
+          "actor": "Senate",
+          "description": "Introduced 03/31/2022 and Referred to Capital Budget; Senate Journal 8"
+        },
+        {
+          "date": "2022-03-31",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2022-1173h: Motion Adopted Voice Vote 03/31/2022 House Journal  9"
+        },
+        {
+          "date": "2022-03-31",
+          "actor": "House",
+          "description": "Amendment # 2022-1173h: Amendment Adopted Regular Calendar 271-65 03/31/2022 House Journal  9"
+        },
+        {
+          "date": "2022-03-24",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass with Amendment # 2022-1173h (NT) (Vote 21-0; Regular Calendar)"
+        },
+        {
+          "date": "2022-03-21",
+          "actor": "House",
+          "description": "==CONTINUED== Division II Work Session: 03/21/2022 02:30 pm Legislative Office Building 209"
+        },
+        {
+          "date": "2022-03-18",
+          "actor": "House",
+          "description": "Public Hearing: 03/21/2022 02:00 pm Legislative Office Building 201-203"
+        },
+        {
+          "date": "2022-03-18",
+          "actor": "House",
+          "description": "Public Hearing on non-germane Amendment # 2022-111h: 03/21/2022 02:00 pm Legislative Office Building 201-203"
+        },
+        {
+          "date": "2022-03-14",
+          "actor": "House",
+          "description": "Division Work Session: 03/21/2022 11:00 am Legislative Office Building 209"
+        },
+        {
+          "date": "2022-03-09",
+          "actor": "House",
+          "description": "Executive Session: 03/23/2022 10:00 am Legislative Office Building 210-211"
+        },
+        {
+          "date": "2022-03-01",
+          "actor": "House",
+          "description": "==CANCELLED== Division II Work Session: 03/15/2022 11:00 am Legislative Office Building 210-211"
+        },
+        {
+          "date": "2022-02-24",
+          "actor": "House",
+          "description": "Amendment # 2022-0356h: Amendment Adopted Voice Vote 02/16/2022"
+        },
+        {
+          "date": "2022-02-16",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2022-0356h: Motion Adopted Voice Vote 02/16/2022 House Journal  3"
+        },
+        {
+          "date": "2022-02-10",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass with Amendment # 2022-0356h (Vote 18-0; Consent Calendar)"
+        },
+        {
+          "date": "2022-01-26",
+          "actor": "House",
+          "description": "Executive Session: 02/09/2022 10:00 am Legislative Office Building 205-207"
+        },
+        {
+          "date": "2022-01-09",
+          "actor": "House",
+          "description": "Introduced 01/05/2022 and referred to Education"
+        },
+        {
+          "date": "2022-01-09",
+          "actor": "House",
+          "description": "Public Hearing: 01/21/2022 01:00 pm Legislative Office Building 205-207"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Slight Partisan Bill (Republican 7-3)",
+      "status_line": "Status: Passed on June 29 2022 - 100% progression"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1662",
+      "title": "(Second New Title) relative to the privacy obligations of the department of health and human services, an appropriation for housing expenses for homeless people and parameters thereof, electronic wage payments, and requiring online marketplaces to disclos",
+      "snapshot": "https://web.archive.org/web/20221207195606id_/https://openstates.org/nh/bills/2022/HB1662/",
+      "actions": [
+        {
+          "date": "May 23, 2022",
+          "actor": "Senate",
+          "description": "Conference Committee Report; Not Signed Off;  SJ 13"
+        },
+        {
+          "date": "May 17, 2022",
+          "actor": "House",
+          "description": "Conference Committee Meeting: 05/17/2022 03:00 pm LOB 205-207"
+        },
+        {
+          "date": "May 16, 2022",
+          "actor": "House",
+          "description": "==RECESSED== Conference Committee Meeting: 05/16/2022 01:00 pm LOB 205-207"
+        },
+        {
+          "date": "May 13, 2022",
+          "actor": "House",
+          "description": "Conferee Change: Rep. Turcotte Replaces Rep. Kofalt 05/13/2022"
+        },
+        {
+          "date": "May 12, 2022",
+          "actor": "Senate",
+          "description": "President Appoints: Senators Carson, Birdsell, Kahn; 05/12/2022;  SJ 12"
+        },
+        {
+          "date": "May 12, 2022",
+          "actor": "Senate",
+          "description": "Sen. Bradley Accedes to House Request for Committee of Conference, MA, VV; 05/12/2022;  SJ 12"
+        },
+        {
+          "date": "May 10, 2022",
+          "actor": "House",
+          "description": "House Non-Concurs with Senate Amendment 2022-1952s 2022-1905s 2022-1969s and Requests CofC (Reps. M. Pearson, Kofalt, Edwards, Hunt): MA VV 05/05/2022  HJ 12"
+        },
+        {
+          "date": "May 05, 2022",
+          "actor": "Senate",
+          "description": "Sen. Bradley Floor Amendment # 2022-1969s, RC 24Y-0N, AA; 05/05/2022;  SJ 11"
+        },
+        {
+          "date": "May 05, 2022",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendments 2022-1969s, 2022-1905s, and 2022-1952s, MA, VV; OT3rdg; 05/05/2022;  SJ 11"
+        },
+        {
+          "date": "May 05, 2022",
+          "actor": "Senate",
+          "description": "Sen. Bradley Floor Amendment # 2022-1952s, AA, VV; 05/05/2022;  SJ 11"
+        },
+        {
+          "date": "May 05, 2022",
+          "actor": "Senate",
+          "description": "Sen. Kahn Floor Amendment # 2022-1905s, RC 24Y-0N, AA; 05/05/2022;  SJ 11"
+        },
+        {
+          "date": "Apr 26, 2022",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass, 05/05/2022;  SC 18"
+        },
+        {
+          "date": "Apr 21, 2022",
+          "actor": "Senate",
+          "description": "Ought to Pass: MA, VV; Refer to Finance Rule 4-5; 04/21/2022;  SJ 9"
+        },
+        {
+          "date": "Apr 14, 2022",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass, 04/21/2022; Vote 5-0; CC;  SC 16"
+        },
+        {
+          "date": "Apr 07, 2022",
+          "actor": "Senate",
+          "description": "Hearing: 04/14/2022, Room Reps Hall, SH, 11:10 am;  SC 15"
+        },
+        {
+          "date": "Apr 05, 2022",
+          "actor": "Senate",
+          "description": "Introduced 03/31/2022 and Referred to Health and Human Services;  SJ 8"
+        },
+        {
+          "date": "Mar 31, 2022",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2022-1134h: MA VV 03/31/2022  HJ 9"
+        },
+        {
+          "date": "Mar 31, 2022",
+          "actor": "House",
+          "description": "Amendment # 2022-1134h: AA VV 03/31/2022  HJ 9"
+        },
+        {
+          "date": "Mar 24, 2022",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass with Amendment # 2022-1134h    (Vote 21-0; RC)"
+        },
+        {
+          "date": "Mar 18, 2022",
+          "actor": "House",
+          "description": "==CONTINUED== Division III Work Session: 03/21/2022 10:00 am LOB 201-203"
+        },
+        {
+          "date": "Mar 11, 2022",
+          "actor": "House",
+          "description": "Division Work Session: 03/14/2022 10:00 am LOB 210-211"
+        },
+        {
+          "date": "Mar 09, 2022",
+          "actor": "House",
+          "description": "Executive Session: 03/23/2022 10:00 am LOB 210-211"
+        },
+        {
+          "date": "Mar 04, 2022",
+          "actor": "House",
+          "description": "Referred to Finance 02/16/2022  HJ 3"
+        },
+        {
+          "date": "Feb 18, 2022",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2022-0577h: MA VV 02/16/2022  HJ 3"
+        },
+        {
+          "date": "Feb 18, 2022",
+          "actor": "House",
+          "description": "Amendment # 2022-0577h: AA VV 02/16/2022  HJ 3"
+        },
+        {
+          "date": "Feb 10, 2022",
+          "actor": "House",
+          "description": "Majority Committee Report: Ought to Pass with Amendment # 2022-0577h    (Vote 18-3; RC)"
+        },
+        {
+          "date": "Feb 10, 2022",
+          "actor": "House",
+          "description": "Minority Committee Report: Refer for Interim Study"
+        },
+        {
+          "date": "Feb 03, 2022",
+          "actor": "House",
+          "description": "Executive Session: 02/08/2022 09:30 am LOB 210-211"
+        },
+        {
+          "date": "Jan 18, 2022",
+          "actor": "House",
+          "description": "Public Hearing: 01/25/2022 11:00 am LOB 210-211"
+        },
+        {
+          "date": "Dec 30, 2021",
+          "actor": "House",
+          "description": "Introduced 01/05/2022 and referred to Health, Human Services and Elderly Affairs"
+        }
+      ],
+      "sponsors": [],
+      "status": "ok",
+      "source": "openstates_wayback"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB223",
+      "title": "relative to the minimum size of recovery houses.",
+      "source": "none",
+      "snapshot": "",
+      "status": "ok",
+      "resolution": "Became law: Laws of 2022, Chapter 88 (NHMA Final Legislative Bulletin 2022).",
+      "final_disposition": "enacted (Chapter 88, 2022)",
+      "citations": [
+        "https://www.nhmunicipal.org/sites/default/files/uploads/legislative-bulletins/2022_nhma_legis_bltn_final_0.pdf"
+      ],
+      "resolution_source": "web_research"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB334",
+      "title": "establishing a committee to study property blight in municipalities.",
+      "source": "none",
+      "snapshot": "",
+      "status": "ok",
+      "resolution": "Became law: Laws of 2022, Chapter 167 (NHMA Final Legislative Bulletin 2022).",
+      "final_disposition": "enacted (Chapter 167, 2022)",
+      "citations": [
+        "https://www.nhmunicipal.org/sites/default/files/uploads/legislative-bulletins/2022_nhma_legis_bltn_final_0.pdf"
+      ],
+      "resolution_source": "web_research"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB400",
+      "title": "relative to training and procedures for zoning and planning boards and relative to financial investments and incentives for affordable housing development.",
+      "snapshot": "https://web.archive.org/web/20220711225149id_/https://openstates.org/nh/bills/2022/SB400/",
+      "actions": [
+        {
+          "date": "May 05, 2022",
+          "actor": "House",
+          "description": "Lay SB400 on Table (Rep. Wuelper): MA DV 170-159 05/05/2022  HJ 12"
+        },
+        {
+          "date": "Apr 28, 2022",
+          "actor": "House",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "date": "Apr 28, 2022",
+          "actor": "House",
+          "description": "Majority Committee Report: Ought to Pass with Amendment # 2022-1848h (NT)    (Vote 10-8; RC)"
+        },
+        {
+          "date": "Apr 19, 2022",
+          "actor": "House",
+          "description": "Executive Session: 04/27/2022 10:00 am LOB 305-307"
+        },
+        {
+          "date": "Apr 06, 2022",
+          "actor": "House",
+          "description": "Executive Session: 04/18/2022 10:00 am LOB 301-303"
+        },
+        {
+          "date": "Mar 29, 2022",
+          "actor": "House",
+          "description": "Public Hearing: 04/07/2022 04:00 pm LOB 301-303"
+        },
+        {
+          "date": "Mar 23, 2022",
+          "actor": "House",
+          "description": "Introduced 03/17/2022 and referred to Municipal and County Government"
+        },
+        {
+          "date": "Mar 17, 2022",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2022-0999s, RC 13Y-11N, MA; OT3rdg; 03/17/2022;  SJ 5"
+        },
+        {
+          "date": "Mar 17, 2022",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2022-0999s, AA, VV; 03/17/2022;  SJ 5"
+        },
+        {
+          "date": "Mar 17, 2022",
+          "actor": "Senate",
+          "description": "Sen. Avard Moved Laid on Table, MA, VV; 03/17/2022;  SJ 5"
+        },
+        {
+          "date": "Mar 17, 2022",
+          "actor": "Senate",
+          "description": "Pending Motion Ought to Pass with Amendment #2022-0999s; 03/17/2022;  SJ 5"
+        },
+        {
+          "date": "Mar 17, 2022",
+          "actor": "Senate",
+          "description": "Sen. Bradley Moved to Remove From Table, MA, VV; 03/17/2022;  SJ 5"
+        },
+        {
+          "date": "Mar 08, 2022",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2022-0999s, 03/17/2022;  SC 11"
+        },
+        {
+          "date": "Jan 05, 2022",
+          "actor": "Senate",
+          "description": "Hearing: 01/20/2022, Room 100, SH, 01:00 pm;  SC 2"
+        },
+        {
+          "date": "Dec 23, 2021",
+          "actor": "Senate",
+          "description": "To Be  Introduced 01/05/2022 and Referred to Election Law and Municipal Affairs;  SJ 1"
+        }
+      ],
+      "sponsors": [],
+      "status": "ok",
+      "source": "openstates_wayback"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB415",
+      "title": "making an appropriation to the department of health and human services for the purpose of increasing rates paid to homeless shelters.",
+      "source": "web_research",
+      "snapshot": "https://legiscan.com/NH/bill/SB415/2022",
+      "status": "ok",
+      "resolution": "Senate Finance reported Inexpedient to Legislate; on 2022-03-31 the Senate laid SB415 on the table by roll call 13-11 (matches the SQL roll call); the bill died on the table at adjournment (Inexpedient to Legislate, Senate Rule 3-23, Adjournment 09/15/2022; SJ 14).",
+      "citations": [
+        "https://trackbill.com/bill/new-hampshire-senate-bill-415-making-an-appropriation-to-the-department-of-health-and-human-services-for-the-purpose-of-increasing-rates-paid-to-homeless-shelters/2178562/",
+        "https://myreptracker.com/new-hampshire/bills/nh-2022-regular-session-sb-415",
+        "https://indepthnh.org/2022/03/31/2756766/"
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB111",
+      "title": "establishing a committee to study electrical vehicle charging for residential renters.",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20240812142556id_/https://legiscan.com/NH/bill/HB111/2023",
+      "actions": [
+        {
+          "date": "2023-06-21",
+          "actor": "House",
+          "description": "Signed by Governor Sununu 06/20/2023; Chapter 81; Eff: 06/20/2023"
+        },
+        {
+          "date": "2023-06-13",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 06/08/2023 House Journal  15"
+        },
+        {
+          "date": "2023-06-13",
+          "actor": "Senate",
+          "description": "Enrolled Adopted, Voice Vote, (In recess 06/08/2023); Senate Journal 19"
+        },
+        {
+          "date": "2023-05-18",
+          "actor": "House",
+          "description": "House Concurs with Senate Amendment 2023-1246s (Rep. T. Walsh): Motion Adopted Voice Vote 05/18/2023 House Journal  14 P. 3"
+        },
+        {
+          "date": "2023-04-13",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2023-1246s, Amendment Adopted, Voice Vote; 04/13/2023; Senate Journal 13"
+        },
+        {
+          "date": "2023-04-13",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2023-1246s, Motion Adopted, Voice Vote; OT3rdg; 04/13/2023; Senate Journal 13"
+        },
+        {
+          "date": "2023-04-03",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2023-1246s, 04/13/2023; Vote 5-0; Consent Calendar; Senate Calendar  17"
+        },
+        {
+          "date": "2023-03-21",
+          "actor": "Senate",
+          "description": "Hearing: 03/28/2023, Room 101, Legislative Office Building, 01:20 pm; Senate Calendar  15"
+        },
+        {
+          "date": "2023-03-07",
+          "actor": "Senate",
+          "description": "Introduced 02/22/2023 and Referred to Transportation; Senate Journal 9"
+        },
+        {
+          "date": "2023-02-23",
+          "actor": "House",
+          "description": "Reconsider HB111 (Rep. Adjutant): Motion Failed Regular Calendar 170-177 02/23/2023 House Journal  7 P. 39"
+        },
+        {
+          "date": "2023-02-23",
+          "actor": "House",
+          "description": "Ought to Pass: Motion Adopted DV 175-172 02/23/2023 House Journal  7 P. 37"
+        },
+        {
+          "date": "2023-02-23",
+          "actor": "House",
+          "description": "Inexpedient to Legislate: Motion Failed DV 172-174 02/23/2023 House Journal  7 P. 38"
+        },
+        {
+          "date": "2023-02-08",
+          "actor": "House",
+          "description": "Committee Report: Inexpedient to Legislate HB111 02/07/2023 (Vote 11-9; Regular Calendar) House Calendar 12 P. 27"
+        },
+        {
+          "date": "2023-02-03",
+          "actor": "House",
+          "description": "Executive Session: 02/07/2023 02:00 pm Legislative Office Building 201-203"
+        },
+        {
+          "date": "2023-01-11",
+          "actor": "House",
+          "description": "Public Hearing: 01/17/2023 01:30 pm Legislative Office Building 201-203"
+        },
+        {
+          "date": "2022-12-23",
+          "actor": "House",
+          "description": "Introduced 01/04/2023 and referred to Transportation"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Partisan Bill (Democrat 1-0)",
+      "status_line": "Status: Passed on June 21 2023 - 100% progression",
+      "status": "ok"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB112",
+      "title": "relative to tenant's right to notification prior to the sale of a multifamily home.",
+      "source": "sql_rollcall",
+      "snapshot": "https://legiscan.com/NH/bill/HB112/2023",
+      "status": "ok",
+      "resolution": "Ought to Pass failed on the House floor 175-199 (2023-03-09, SQL roll call); the bill was killed in the House."
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB296",
+      "title": "relative to residential driveway permits.",
+      "source": "none",
+      "snapshot": "",
+      "status": "ok",
+      "resolution": "Became law: Laws of 2023, Chapter 187 (NHMA Final Legislative Bulletin 2023: residential driveway authority altered).",
+      "final_disposition": "enacted (Chapter 187, 2023)",
+      "citations": [
+        "https://www.nhmunicipal.org/sites/default/files/uploads/legislative-bulletins/2023_nhma_legis_bltn_final.pdf"
+      ],
+      "resolution_source": "web_research"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB401",
+      "title": "relative to evictions based on the owner's intent to renovate the property.",
+      "source": "sql_rollcall",
+      "snapshot": "https://legiscan.com/NH/bill/HB401/2023",
+      "status": "ok",
+      "resolution": "Ought to Pass failed on the House floor 154-213 (2023-03-09, SQL roll call); the bill was killed in the House."
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB42",
+      "title": "2023 | Regular Session",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250121220919id_/https://legiscan.com/NH/bill/HB42/2023",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2023-07-12",
+          "actor": "House",
+          "description": "Signed by Governor Sununu 06/30/2023; Chapter 114; Eff: 01/01/2024 House Journal  17"
+        },
+        {
+          "date": "2023-06-20",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 06/15/2023 House Journal  16 P. 14"
+        },
+        {
+          "date": "2023-06-20",
+          "actor": "Senate",
+          "description": "Enrolled Adopted, Voice Vote, (In recess 06/15/2023); Senate Journal 20"
+        },
+        {
+          "date": "2023-05-11",
+          "actor": "Senate",
+          "description": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 05/11/2023; Senate Journal 14"
+        },
+        {
+          "date": "2023-04-18",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass, 05/11/2023; Senate Calendar  21"
+        },
+        {
+          "date": "2023-04-04",
+          "actor": "Senate",
+          "description": "Hearing: 04/11/2023, Room 100, State House, 09:50 am; Senate Calendar  17"
+        },
+        {
+          "date": "2023-03-24",
+          "actor": "Senate",
+          "description": "Introduced 03/23/2023 and Referred to Commerce; Senate Journal 12"
+        },
+        {
+          "date": "2023-03-22",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2023-0286h: Motion Adopted Voice Vote 03/22/2023 House Journal  10 P. 2"
+        },
+        {
+          "date": "2023-03-22",
+          "actor": "House",
+          "description": "Amendment # 2023-0286h: Amendment Adopted Voice Vote 03/22/2023 House Journal  10 P. 2"
+        },
+        {
+          "date": "2023-03-14",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass with Amendment # 2023-0286h 03/08/2023 (Vote 19-0; Consent Calendar) House Calendar 16 P. 3"
+        },
+        {
+          "date": "2023-02-23",
+          "actor": "House",
+          "description": "Executive Session: 03/08/2023 01:15 pm Legislative Office Building 302-304"
+        },
+        {
+          "date": "2023-02-23",
+          "actor": "House",
+          "description": "Subcommittee Work Session: 03/07/2023 10:00 am Legislative Office Building210-211"
+        },
+        {
+          "date": "2023-01-26",
+          "actor": "House",
+          "description": "Executive Session: 02/02/2023 01:30 pm Legislative Office Building 302-304"
+        },
+        {
+          "date": "2023-01-25",
+          "actor": "House",
+          "description": "Subcommittee Work Session: 02/01/2023 10:00 am Legislative Office Building 302-304"
+        },
+        {
+          "date": "2023-01-11",
+          "actor": "House",
+          "description": "Public Hearing: 01/18/2023 11:15 am Legislative Office Building 302-304"
+        },
+        {
+          "date": "2022-12-23",
+          "actor": "House",
+          "description": "Introduced 01/04/2023 and referred to Commerce and Consumer Affairs"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Partisan Bill (Democrat 3-0)",
+      "status_line": "Status: Passed on July 12 2023 - 100% progression"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB44",
+      "title": "relative to permissible residential units in a residential zone.",
+      "source": "none",
+      "snapshot": "",
+      "status": "ok",
+      "resolution": "Killed on the House floor 2023-02-23: Ought to Pass failed 117-232 (SQL roll call), then Inexpedient to Legislate adopted by division vote 209-141 (House Journal 7). The bill would have allowed 4 residential units by right on single-family lots served by municipal water and sewer.",
+      "final_disposition": "killed on House floor (2023-02-23)",
+      "citations": [
+        "https://legiscan.com/NH/text/HB44/id/2621414",
+        "https://indepthnh.org/2023/02/23/the-natives-were-restless-in-the-n-h-house-thursday/",
+        "https://www.citizenscount.org/bills/hb-44-2023"
+      ],
+      "resolution_source": "web_research"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB469",
+      "title": "prohibiting discrimination against tenants holding certain vouchers for purposes of renting dwellings.",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250321110649id_/https://legiscan.com/NH/bill/HB469/2023",
+      "actions": [
+        {
+          "date": "2023-03-09",
+          "actor": "House",
+          "description": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/09/2023 House Journal  8 P. 53"
+        },
+        {
+          "date": "2023-03-09",
+          "actor": "House",
+          "description": "Ought to Pass: Motion Failed Regular Calendar 165-206 03/09/2023 House Journal  8 P. 50"
+        },
+        {
+          "date": "2023-02-16",
+          "actor": "House",
+          "description": "Committee Report: Without Recommendation 02/08/2023 (Vote ; Regular Calendar) House Calendar 14 P. 15"
+        },
+        {
+          "date": "2023-01-30",
+          "actor": "House",
+          "description": "==CONTINUED== Executive Session: 02/09/2023 09:00 am Legislative Office Building 206-208"
+        },
+        {
+          "date": "2023-01-30",
+          "actor": "House",
+          "description": "Executive Session: 02/08/2023 11:00 am Legislative Office Building 206-208"
+        },
+        {
+          "date": "2023-01-18",
+          "actor": "House",
+          "description": "Public Hearing: 01/26/2023 09:00 am Legislative Office Building 206-208"
+        },
+        {
+          "date": "2023-01-11",
+          "actor": "House",
+          "description": "Introduced (in recess of) 01/05/2023 and referred to Judiciary House Journal  3 P. 17"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Partisan Bill (Democrat 12-0)",
+      "status_line": "Status: Introduced on January 11 2023 - 25% progression, died in chamber",
+      "status": "ok"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB477",
+      "title": "to prohibit municipal inspections of owner-occupied units of multi-unit housing.",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20241008033040id_/https://legiscan.com/NH/bill/HB477/2023",
+      "actions": [
+        {
+          "date": "2023-04-13",
+          "actor": "Senate",
+          "description": "Inexpedient to Legislate, Motion Adopted, Voice Vote === BILL KILLED ===; 04/13/2023; Senate Journal 13"
+        },
+        {
+          "date": "2023-04-04",
+          "actor": "Senate",
+          "description": "Committee Report: Inexpedient to Legislate, 04/13/2023; Senate Calendar  17"
+        },
+        {
+          "date": "2023-03-15",
+          "actor": "Senate",
+          "description": "Hearing: 03/21/2023, Room 100, State House, 09:45 am; Senate Calendar  14"
+        },
+        {
+          "date": "2023-03-14",
+          "actor": "Senate",
+          "description": "Introduced 03/09/2023 and Referred to Commerce; Senate Journal 10"
+        },
+        {
+          "date": "2023-03-09",
+          "actor": "House",
+          "description": "Ought to Pass: Motion Adopted DV 194-179 03/09/2023 House Journal  8 P. 73"
+        },
+        {
+          "date": "2023-03-09",
+          "actor": "House",
+          "description": "Inexpedient to Legislate: Motion Failed Regular Calendar 179-191 03/09/2023 House Journal  8 P. 71"
+        },
+        {
+          "date": "2023-02-27",
+          "actor": "House",
+          "description": "Minority Committee Report: Ought to Pass"
+        },
+        {
+          "date": "2023-02-27",
+          "actor": "House",
+          "description": "Majority Committee Report: Inexpedient to Legislate HB 477 02/15/2023 (Vote 12-8; Regular Calendar) House Calendar 14 P. 18"
+        },
+        {
+          "date": "2023-02-13",
+          "actor": "House",
+          "description": "==CONTINUED== Executive Session: 02/16/2023 10:30 am Legislative Office Building 301-303"
+        },
+        {
+          "date": "2023-02-08",
+          "actor": "House",
+          "description": "Executive Session: 02/15/2023 10:30 am Legislative Office Building 301"
+        },
+        {
+          "date": "2023-01-31",
+          "actor": "House",
+          "description": "Public Hearing: 02/08/2023 10:50 am Legislative Office Building 301-303"
+        },
+        {
+          "date": "2023-01-11",
+          "actor": "House",
+          "description": "Introduced (in recess of) 01/05/2023 and referred to Municipal and County Government House Journal  3 P. 17"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Partisan Bill (Republican 2-0)",
+      "status_line": "Status: Engrossed on March 14 2023 - 50% progression, died in chamber",
+      "status": "ok"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB567",
+      "title": "relative to notice of rent increases in certain residential rental property.",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20241204125805id_/https://legiscan.com/NH/bill/HB567/2023",
+      "actions": [
+        {
+          "date": "2023-03-09",
+          "actor": "House",
+          "description": "Inexpedient to Legislate: Motion Adopted DV 208-168 03/09/2023 House Journal  8 P. 55"
+        },
+        {
+          "date": "2023-03-09",
+          "actor": "House",
+          "description": "Ought to Pass: Motion Failed Regular Calendar 166-207 03/09/2023 House Journal  8 P. 54"
+        },
+        {
+          "date": "2023-03-09",
+          "actor": "House",
+          "description": "Amendment # 2023-0429h: Amendment Failed Voice Vote 03/09/2023 House Journal  8 P. 53"
+        },
+        {
+          "date": "2023-02-16",
+          "actor": "House",
+          "description": "Committee Report: Without Recommendation 02/08/2023 (Vote ; Regular Calendar) House Calendar 14 P. 15"
+        },
+        {
+          "date": "2023-01-30",
+          "actor": "House",
+          "description": "==CONTINUED== Executive Session: 02/09/2023 09:00 am Legislative Office Building 206-208"
+        },
+        {
+          "date": "2023-01-30",
+          "actor": "House",
+          "description": "Executive Session: 02/08/2023 11:00 am Legislative Office Building 206-208"
+        },
+        {
+          "date": "2023-01-18",
+          "actor": "House",
+          "description": "Public Hearing: 01/26/2023 09:45 am Legislative Office Building 206-208"
+        },
+        {
+          "date": "2023-01-11",
+          "actor": "House",
+          "description": "Introduced (in recess of) 01/05/2023 and referred to Judiciary House Journal  3 P. 20"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Partisan Bill (Democrat 8-0)",
+      "status_line": "Status: Introduced on January 11 2023 - 25% progression, died in chamber",
+      "status": "ok"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB95",
+      "title": "enabling municipalities to adopt rental practice regulations.",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20230507104331id_/https://legiscan.com/NH/bill/HB95/2023",
+      "actions": [
+        {
+          "date": "2023-02-02",
+          "actor": "House",
+          "description": "Inexpedient to Legislate: Motion Adopted Regular Calendar 301-63 02/02/2023 House Journal  4 P. 9"
+        },
+        {
+          "date": "2023-02-02",
+          "actor": "House",
+          "description": "Lay HB95 on Table (Rep. Stavis): Motion Failed Regular Calendar 180-186 02/02/2023 House Journal  4 P. 7"
+        },
+        {
+          "date": "2023-01-30",
+          "actor": "House",
+          "description": "Minority Committee Report: Ought to Pass"
+        },
+        {
+          "date": "2023-01-30",
+          "actor": "House",
+          "description": "Majority Committee Report: Inexpedient to Legislate HB95 01/25/2023 (Vote 16-3; Regular Calendar) House Calendar 9 P. 7"
+        },
+        {
+          "date": "2023-01-18",
+          "actor": "House",
+          "description": "Executive Session: 01/25/2023 10:30 am Legislative Office Building 301-303"
+        },
+        {
+          "date": "2023-01-11",
+          "actor": "House",
+          "description": "Public Hearing: 01/18/2023 10:00 am Legislative Office Building 301-303"
+        },
+        {
+          "date": "2022-12-23",
+          "actor": "House",
+          "description": "Introduced 01/04/2023 and referred to Municipal and County Government"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Moderate Partisan Bill (Democrat 7-1)",
+      "status_line": "Status: Introduced on December 23 2022 - 25% progression",
+      "status": "ok"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB145",
+      "title": "relative to New Hampshire housing champion designation for municipalities and making appropriations therefor.",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250117235048id_/https://legiscan.com/NH/bill/SB145/2023",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2023-03-30",
+          "actor": "Senate",
+          "description": "Pending Motion OT3rdg; 03/30/2023; Senate Journal 12"
+        },
+        {
+          "date": "2023-03-30",
+          "actor": "Senate",
+          "description": "Sen. Gray Moved Laid on Table, Motion Adopted, Voice Vote; 03/30/2023; Senate Journal 12"
+        },
+        {
+          "date": "2023-03-30",
+          "actor": "Senate",
+          "description": "Ought to Pass: Motion Adopted, Voice Vote; 03/30/2023; Senate Journal 12"
+        },
+        {
+          "date": "2023-03-22",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass, 03/30/2023; Senate Calendar  15"
+        },
+        {
+          "date": "2023-03-16",
+          "actor": "Senate",
+          "description": "Ought to Pass: Regular Calendar 21Y-3N, Motion Adopted; Refer to Finance Rule 4-5; 03/16/2023; Senate Journal 10"
+        },
+        {
+          "date": "2023-03-07",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass, 03/16/2023; Senate Calendar  13"
+        },
+        {
+          "date": "2023-01-31",
+          "actor": "Senate",
+          "description": "Hearing: 02/14/2023, Room 100, State House, 09:30 am; Senate Calendar  9"
+        },
+        {
+          "date": "2023-01-19",
+          "actor": "Senate",
+          "description": "Introduced 01/19/2023 and Referred to Commerce; Senate Journal 5"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Moderate Partisan Bill (Democrat 8-2)",
+      "status_line": "Status: Introduced on January 19 2023 - 25% progression, died in chamber",
+      "resolution_source": "web_research_supplement",
+      "resolution": "Passed the Senate (SQL roll call: Ought to Pass 21-3, 2023-03-16). The standalone bill went no further as such; its housing champion designation and grant programs were enacted through HB2, the 2023 budget trailer (Chapter Law 79:462-466, creating RSA 12-O:71-76), signed 2023-06-20.",
+      "citations": [
+        "https://www.nheconomy.com/getmedia/7e5dc8b2-6dbf-4b20-af7f-4bb0fa47e2b5/2023-OPD-Planning-and-Zoning-Legislation-Matrix-Final.pdf",
+        "https://www.nheconomy.com/investnh-housing/programs/housing-champion-program"
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB203",
+      "title": "relative to the composition and jurisdiction of the manufactured housing board.",
+      "source": "web_research",
+      "snapshot": "https://legiscan.com/NH/bill/SB203/2023",
+      "status": "ok",
+      "resolution": "Passed the Senate (Ought to Pass w/Amendment, voice vote, 2023-03-16; the 12-12 tabling roll call that day failed). The House passed it with a new-title amendment 19-0 committee / voice floor on 2023-05-04; the Senate nonconcurred and requested a committee of conference; the House refused to accede (GenCourt status: REFUSED TO ACCEDE TO REQUEST) \u2014 the bill died between the chambers. Separately, HB2 2023 (Chapter 79:301) repealed the Board of Manufactured Housing statutes RSA 205-A:25-31 effective 2023-09-01.",
+      "citations": [
+        "https://gencourt.state.nh.us/bill_status/billinfo.aspx?id=875&inflect=2",
+        "https://bills.nhliberty.org/bills/2023/SB203",
+        "https://law.justia.com/codes/new-hampshire/title-xvii/chapter-205-a/"
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB231",
+      "title": "establishing a historic housing tax credit and making appropriations for workforce housing and affordable housing.",
+      "source": "none",
+      "snapshot": "",
+      "status": "ok",
+      "resolution": "Standalone bill did not pass as such; its provisions were enacted through HB2, the 2023 budget trailer (Chapter Law 79:39-43 - InvestNH and Affordable Housing Fund appropriations - and 79:564-565 - shelter funding), signed 2023-06-20, per the NH Office of Planning and Development 2023 legislation matrix.",
+      "final_disposition": "content enacted via HB2 (79:39-43, 79:564-565)",
+      "citations": [
+        "https://www.nheconomy.com/getmedia/7e5dc8b2-6dbf-4b20-af7f-4bb0fa47e2b5/2023-OPD-Planning-and-Zoning-Legislation-Matrix-Final.pdf"
+      ],
+      "resolution_source": "web_research"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1065",
+      "title": "2024 | Regular Session",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250709110541id_/https://legiscan.com/NH/bill/HB1065/2024",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2024-08-07",
+          "actor": "House",
+          "description": "Signed by Governor Sununu 08/02/2024; Chapter 324; 10/01/2024 House Journal  16"
+        },
+        {
+          "date": "2024-07-23",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 06/13/2024 House Journal  16"
+        },
+        {
+          "date": "2024-07-18",
+          "actor": "Senate",
+          "description": "Enrolled Adopted, Voice Vote, (In recess 06/13/2024); Senate Journal 18"
+        },
+        {
+          "date": "2024-07-15",
+          "actor": "House",
+          "description": "Enrolled Bill Amendment # 2024-2336e: Amendment Adopted Voice Vote (in recess of) 06/13/2024"
+        },
+        {
+          "date": "2024-07-11",
+          "actor": "Senate",
+          "description": "Enrolled Bill Amendment # 2024-2336e Adopted, Voice Vote, (In recess of 06/13/2024); Senate Journal 18"
+        },
+        {
+          "date": "2024-05-31",
+          "actor": "House",
+          "description": "House Concurs with Senate Amendment 2024-2006s (Rep. Alexander Jr.): Motion Adopted Voice Vote 05/30/2024 House Journal  15 P. 23"
+        },
+        {
+          "date": "2024-05-22",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2024-2006s, Motion Adopted, Voice Vote; OT3rdg; 05/22/2024; Senate Journal 14"
+        },
+        {
+          "date": "2024-05-22",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2024-2006s, Amendment Adopted, Voice Vote; 05/22/2024; Senate Journal 14"
+        },
+        {
+          "date": "2024-05-16",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2024-2006s, 05/22/2024, Vote 4-1; Senate Calendar  20"
+        },
+        {
+          "date": "2024-04-23",
+          "actor": "Senate",
+          "description": "Hearing: 05/01/2024, Room 103, State House, 09:15 am; Senate Calendar  17"
+        },
+        {
+          "date": "2024-04-02",
+          "actor": "Senate",
+          "description": "Introduced 03/21/2024 and Referred to Executive Departments and Administration; Senate Journal 8"
+        },
+        {
+          "date": "2024-03-28",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2024-1046h: Motion Adopted Voice Vote 03/28/2024 House Journal  10 P. 95"
+        },
+        {
+          "date": "2024-03-28",
+          "actor": "House",
+          "description": "Amendment # 2024-1046h: Amendment Adopted Voice Vote 03/28/2024 House Journal  10 P. 95"
+        },
+        {
+          "date": "2024-03-15",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass with Amendment # 2024-1046h 03/08/2024 (Vote 10-0; Consent Calendar) House Calendar 12 P. 18"
+        },
+        {
+          "date": "2024-02-20",
+          "actor": "House",
+          "description": "Executive Session: 03/08/2024 01:00 pm Legislative Office Building 302-304"
+        },
+        {
+          "date": "2024-02-20",
+          "actor": "House",
+          "description": "Full Committee Work Session: 03/08/2024 11:00 am Legislative Office Building 302-304"
+        },
+        {
+          "date": "2024-01-18",
+          "actor": "House",
+          "description": "Public Hearing: 02/16/2024 09:30 am Legislative Office Building 302-304"
+        },
+        {
+          "date": "2023-11-27",
+          "actor": "House",
+          "description": "Introduced 01/03/2024 and referred to Special Committee on Housing"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Bipartisan Bill",
+      "status_line": "Status: Passed on August  7 2024 - 100% progression"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1199",
+      "title": "relative to services of the office of the child advocate for youth experiencing homelessness and making an appropriation therefor.",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250515104438id_/https://legiscan.com/NH/bill/HB1199/2024",
+      "actions": [
+        {
+          "date": "2024-04-11",
+          "actor": "House",
+          "description": "Indefinitely Postpone (Rep. Sweeney): Motion Adopted Regular Calendar 192-190 04/11/2024 House Journal  11 P. 27"
+        },
+        {
+          "date": "2024-04-11",
+          "actor": "House",
+          "description": "Lay HB1199 on Table (Rep. Weber): Motion Failed DV 189-193 04/11/2024 House Journal  11 P. 27"
+        },
+        {
+          "date": "2024-04-11",
+          "actor": "House",
+          "description": "Ought to Pass: Motion Failed Regular Calendar 191-192 04/11/2024 House Journal  11 P. 24"
+        },
+        {
+          "date": "2024-04-11",
+          "actor": "House",
+          "description": "Inexpedient to Legislate: Motion Failed Regular Calendar 190-191 04/11/2024 House Journal  11 P. 22"
+        },
+        {
+          "date": "2024-03-26",
+          "actor": "House",
+          "description": "Minority Committee Report: Ought to Pass"
+        },
+        {
+          "date": "2024-03-26",
+          "actor": "House",
+          "description": "Majority Committee Report: Inexpedient to Legislate 03/26/2024 (Vote 13-12; Regular Calendar) House Calendar 14 P. 8"
+        },
+        {
+          "date": "2024-03-13",
+          "actor": "House",
+          "description": "Executive Session: 03/19/2024 10:00 am Legislative Office Building 210-211"
+        },
+        {
+          "date": "2024-02-21",
+          "actor": "House",
+          "description": "Division I Work Session: 03/06/2024 11:15 am Legislative Office Building 212"
+        },
+        {
+          "date": "2024-02-01",
+          "actor": "House",
+          "description": "Referred to Finance 02/01/2024 House Journal  3 P. 12"
+        },
+        {
+          "date": "2024-02-01",
+          "actor": "House",
+          "description": "Ought to Pass: Motion Adopted Voice Vote 02/01/2024 House Journal  3 P. 12"
+        },
+        {
+          "date": "2024-02-01",
+          "actor": "House",
+          "description": "Lay HB1199 on Table (Rep. M. Pearson): Motion Failed DV 187-188 02/01/2024 House Journal  3 P. 12"
+        },
+        {
+          "date": "2024-01-16",
+          "actor": "House",
+          "description": "Executive Session: 01/09/2024 02:30 pm 206-208"
+        },
+        {
+          "date": "2024-01-16",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass 01/09/2024 (Vote 12-0; Regular Calendar) House Calendar 4 P. 12"
+        },
+        {
+          "date": "2024-01-05",
+          "actor": "House",
+          "description": "Public Hearing: 01/09/2024 02:00 pm Legislative Office Building 206-208"
+        },
+        {
+          "date": "2023-12-01",
+          "actor": "House",
+          "description": "Introduced 01/03/2024 and referred to Children and Family Law"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Partisan Bill (Democrat 1-0)",
+      "status_line": "Status: Introduced on December  1 2023 - 25% progression, died in chamber",
+      "status": "ok"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1202",
+      "title": "2024 | Regular Session",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20241205033903id_/https://legiscan.com/NH/bill/HB1202/2024",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2024-08-27",
+          "actor": "House",
+          "description": "Signed by Governor Sununu 08/23/2024; Chapter 367; Eff: I. Sec 2-3 eff 1/1/25 II. Rem eff 10/22/24 House Journal  16"
+        },
+        {
+          "date": "2024-07-29",
+          "actor": "Senate",
+          "description": "Enrolled Adopted, Voice Vote, (In recess 06/13/2024); Senate Journal 18"
+        },
+        {
+          "date": "2024-07-29",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 06/13/2024 House Journal  16"
+        },
+        {
+          "date": "2024-07-23",
+          "actor": "House",
+          "description": "Enrolled Bill Amendment # 2024-2367e: Amendment Adopted Voice Vote (in recess of) 06/13/2024 House Journal  16"
+        },
+        {
+          "date": "2024-07-18",
+          "actor": "Senate",
+          "description": "Enrolled Bill Amendment # 2024-2367e Adopted, Voice Vote, (In recess of 06/13/2024); Senate Journal 18"
+        },
+        {
+          "date": "2024-06-13",
+          "actor": "House",
+          "description": "Conference Committee Report 2024-2255c: Adopted, Voice Vote 06/13/2024 House Journal  16"
+        },
+        {
+          "date": "2024-06-12",
+          "actor": "Senate",
+          "description": "Conference Committee Report # 2024-2255c, Adopted, Voice Vote; 06/13/2024; Senate Journal 17"
+        },
+        {
+          "date": "2024-06-06",
+          "actor": "Senate",
+          "description": "Conference Committee Report Filed, # 2024-2255c; 06/13/2024"
+        },
+        {
+          "date": "2024-06-04",
+          "actor": "House",
+          "description": "Conferee Change: Rep. S. Smith Replaces Rep. Edwards 06/04/2024 House Journal  15 P. 35"
+        },
+        {
+          "date": "2024-06-04",
+          "actor": "House",
+          "description": "Conference Committee Meeting: 06/04/2024 12:30 pm Legislative Office Building 201"
+        },
+        {
+          "date": "2024-05-31",
+          "actor": "House",
+          "description": "Conferee Change: Rep. Wallner Replaces Rep. Milz 05/31/2024 House Journal  15 P. 34"
+        },
+        {
+          "date": "2024-05-30",
+          "actor": "Senate",
+          "description": "President Appoints: Senators Ricciardi, Gendreau, Watters; 05/30/2024; Senate Journal 16"
+        },
+        {
+          "date": "2024-05-30",
+          "actor": "Senate",
+          "description": "Sen. Ricciardi Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 05/30/2024; Senate Journal 16"
+        },
+        {
+          "date": "2024-05-29",
+          "actor": "House",
+          "description": "House Non-Concurs with Senate Amendment 2024-2192s and Requests CofC (Reps. McConkey, Milz, Cloutier, Edwards): Motion Adopted Voice Vote 05/29/2024 House Journal  14 P. 179"
+        },
+        {
+          "date": "2024-05-23",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2024-2192s, Motion Adopted, Voice Vote; OT3rdg; 05/23/2024; Senate Journal 15"
+        },
+        {
+          "date": "2024-05-23",
+          "actor": "Senate",
+          "description": "Sen. Ricciardi Floor Amendment # 2024-2192s, Amendment Adopted, Voice Vote; 05/23/2024; Senate Journal 15"
+        },
+        {
+          "date": "2024-05-23",
+          "actor": "Senate",
+          "description": "Special Order to after Judiciary, Without Objection, Motion Adopted; 05/23/2024; Senate Journal 15"
+        },
+        {
+          "date": "2024-05-23",
+          "actor": "Senate",
+          "description": "Special Order to the end of the Committee on Finance, Without Objection, Motion Adopted; 05/23/2024; Senate Journal 14"
+        },
+        {
+          "date": "2024-05-22",
+          "actor": "Senate",
+          "description": "Special Order to 05/23/2024, Without Objection, Motion Adopted; 05/22/2024 Senate Journal 14"
+        },
+        {
+          "date": "2024-05-21",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass, 05/22/2024, Vote 7-0; Senate Calendar  20A"
+        },
+        {
+          "date": "2024-05-09",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2024-1845s, Motion Adopted, Voice Vote; Refer to Finance Rule 4-5; 05/15/2024; Senate Journal 12"
+        },
+        {
+          "date": "2024-05-09",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2024-1845s, Amendment Adopted, Voice Vote; 05/15/2024; Senate Journal 12"
+        },
+        {
+          "date": "2024-05-08",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment #2024-1845s, 05/16/2024; Vote 5-0; Consent Calendar; Senate Calendar  19"
+        },
+        {
+          "date": "2024-04-24",
+          "actor": "Senate",
+          "description": "Hearing: 04/30/2024, Room 101, Legislative Office Building, 01:10 pm; Senate Calendar  17"
+        },
+        {
+          "date": "2024-04-16",
+          "actor": "Senate",
+          "description": "Introduced 04/11/2024 and Referred to Transportation; Senate Journal 10"
+        },
+        {
+          "date": "2024-04-11",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2024-0971h: Motion Adopted Voice Vote 04/11/2024 House Journal  11 P. 29"
+        },
+        {
+          "date": "2024-04-11",
+          "actor": "House",
+          "description": "Amendment # 2024-0971h: Amendment Adopted Voice Vote 04/11/2024 House Journal  11 P. 29"
+        },
+        {
+          "date": "2024-04-02",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass with Amendment # 2024-0971h 04/02/2024 (Vote 23-2; Regular Calendar) House Calendar 14 P. 9"
+        },
+        {
+          "date": "2024-03-28",
+          "actor": "House",
+          "description": "Executive Session: 04/02/2024 11:30 am Legislative Office Building 210-211"
+        },
+        {
+          "date": "2024-02-28",
+          "actor": "House",
+          "description": "Division Work Session: 03/05/2024 11:45 am Legislative Office Building 209"
+        },
+        {
+          "date": "2024-02-22",
+          "actor": "House",
+          "description": "Referred to Finance 02/22/2024 House Journal  6 P. 15"
+        },
+        {
+          "date": "2024-02-22",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2024-0706h: Motion Adopted Voice Vote 02/22/2024 House Journal  6 P. 15"
+        },
+        {
+          "date": "2024-02-22",
+          "actor": "House",
+          "description": "Amendment # 2024-0706h: Amendment Adopted Voice Vote 02/22/2024 House Journal  6 P. 15"
+        },
+        {
+          "date": "2024-02-14",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass with Amendment # 2024-0706h 02/14/2024 (Vote 18-0; Consent Calendar)"
+        },
+        {
+          "date": "2024-02-08",
+          "actor": "House",
+          "description": "==CONTINUED== Executive Session: 02/14/2024 09:30 am Legislative Office Building 201"
+        },
+        {
+          "date": "2024-01-29",
+          "actor": "House",
+          "description": "==RECESSED== Executive Session: 02/07/2024 02:40 pm Legislative Office Building 201"
+        },
+        {
+          "date": "2024-01-29",
+          "actor": "House",
+          "description": "Public Hearing: 02/07/2024 10:45 am Legislative Office Building 201"
+        },
+        {
+          "date": "2023-12-01",
+          "actor": "House",
+          "description": "Introduced 01/03/2024 and referred to Public Works and Highways"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Slight Partisan Bill (Republican 7-3)",
+      "status_line": "Status: Passed on August 27 2024 - 100% progression"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1291",
+      "title": "relative to accessory dwelling unit uses allowed by right.",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20240508045856id_/https://legiscan.com/NH/bill/HB1291/2024",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2024-04-30",
+          "actor": "Senate",
+          "description": "Hearing: 05/07/2024, Room 100, State House, 10:20 am; Senate Calendar  18"
+        },
+        {
+          "date": "2024-04-02",
+          "actor": "Senate",
+          "description": "Introduced 03/21/2024 and Referred to Commerce; Senate Journal 8"
+        },
+        {
+          "date": "2024-03-28",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2024-1203h: Motion Adopted Regular Calendar 220-143 03/28/2024 House Journal  10"
+        },
+        {
+          "date": "2024-03-28",
+          "actor": "House",
+          "description": "Lay HB1291 on Table (Rep. L. Turcotte): Motion Failed Regular Calendar 87-277 03/28/2024 House Journal  10"
+        },
+        {
+          "date": "2024-03-28",
+          "actor": "House",
+          "description": "Amendment # 2024-1203h: Amendment Adopted Voice Vote 03/28/2024 House Journal  10"
+        },
+        {
+          "date": "2024-03-20",
+          "actor": "House",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "date": "2024-03-20",
+          "actor": "House",
+          "description": "Majority Committee Report: Ought to Pass with Amendment # 2024-1203h 03/15/2024 (Vote 8-2; Regular Calendar) House Calendar 12 P. 37"
+        },
+        {
+          "date": "2024-02-20",
+          "actor": "House",
+          "description": "Full Committee Work Session: 03/08/2024 11:00 am Legislative Office Building 302-304"
+        },
+        {
+          "date": "2024-02-20",
+          "actor": "House",
+          "description": "Executive Session: 03/08/2024 01:00 pm Legislative Office Building 302-304"
+        },
+        {
+          "date": "2024-02-20",
+          "actor": "House",
+          "description": "Public Hearing: 03/08/2024 09:00 am Legislative Office Building 302-304"
+        },
+        {
+          "date": "2024-01-18",
+          "actor": "House",
+          "description": "Public Hearing: 02/16/2024 02:30 pm Legislative Office Building 302-304"
+        },
+        {
+          "date": "2023-12-06",
+          "actor": "House",
+          "description": "Introduced 01/03/2024 and referred to Special Committee on Housing House Journal  1"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Bipartisan Bill",
+      "status_line": "Status: Engrossed on April  2 2024 - 50% progression",
+      "resolution_source": "web_research_supplement",
+      "resolution": "Passed the House (SQL roll call: OTPA 220-143, 2024-03-28). In the Senate on 2024-05-22 a floor amendment failed by roll call 8-16 (matches the SQL roll call) and the Senate indefinitely postponed the bill by voice vote - it died in the Senate.",
+      "citations": [
+        "https://newhampshirebulletin.com/2024/05/23/senate-kills-bill-to-expand-accessory-dwelling-units-in-a-blow-for-housing-advocates/",
+        "https://housingactionnh.org/news/senate-rejects-hb-1291/"
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1359",
+      "title": "relative to appeals of certain zoning decisions by abutters.",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250813140042id_/https://legiscan.com/NH/bill/HB1359/2024",
+      "actions": [
+        {
+          "date": "2024-07-22",
+          "actor": "House",
+          "description": "Signed by Governor Sununu 07/03/2024; Chapter 130; eff. 09/01/2024"
+        },
+        {
+          "date": "2024-06-19",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 06/13/2024"
+        },
+        {
+          "date": "2024-06-19",
+          "actor": "Senate",
+          "description": "Enrolled Adopted, Voice Vote, (In recess 06/13/2024); Senate Journal 18"
+        },
+        {
+          "date": "2024-05-16",
+          "actor": "Senate",
+          "description": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 05/16/2024; Senate Journal 13"
+        },
+        {
+          "date": "2024-05-16",
+          "actor": "Senate",
+          "description": "Special Order to 05/16/2024, Without Objection, Motion Adopted; 05/15/2024 Senate Journal 12"
+        },
+        {
+          "date": "2024-05-01",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass, 05/16/2024, Vote 3-0; Senate Calendar  19"
+        },
+        {
+          "date": "2024-03-20",
+          "actor": "Senate",
+          "description": "Hearing: 03/26/2024, Room 103, Legislative Office Building, 10:00 am; Senate Calendar  12"
+        },
+        {
+          "date": "2024-03-13",
+          "actor": "Senate",
+          "description": "Introduced 03/07/2024 and Referred to Election Law and Municipal Affairs; Senate Journal 7"
+        },
+        {
+          "date": "2024-03-07",
+          "actor": "House",
+          "description": "Ought to Pass: Motion Adopted Regular Calendar 265-88 03/07/2024 House Journal  7 P. 86"
+        },
+        {
+          "date": "2024-03-07",
+          "actor": "House",
+          "description": "FLAM # 2024-0952h (Rep. Pauer): Amendment Failed DV 130-224 03/07/2024 House Journal  7 P. 85"
+        },
+        {
+          "date": "2024-02-27",
+          "actor": "House",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "date": "2024-02-27",
+          "actor": "House",
+          "description": "Majority Committee Report: Ought to Pass 02/21/2024 (Vote 10-8; Regular Calendar) House Calendar 9 P. 28"
+        },
+        {
+          "date": "2024-02-15",
+          "actor": "House",
+          "description": "Executive Session: 02/21/2024 09:30 am Legislative Office Building 307"
+        },
+        {
+          "date": "2024-01-31",
+          "actor": "House",
+          "description": "Public Hearing: 02/07/2024 02:30 pm Legislative Office Building 301-303"
+        },
+        {
+          "date": "2023-12-06",
+          "actor": "House",
+          "description": "Introduced 01/03/2024 and referred to Municipal and County Government House Journal  1 P. 17"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Slight Partisan Bill (Republican 3-1)",
+      "status_line": "Status: Passed on July 22 2024 - 100% progression",
+      "status": "ok"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1361",
+      "title": "2024 | Regular Session",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250418202952id_/https://legiscan.com/NH/bill/HB1361/2024",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2024-05-21",
+          "actor": "House",
+          "description": "Signed by Governor Sununu 05/20/2024; Chapter 23; eff:07/19/2024 House Journal  13"
+        },
+        {
+          "date": "2024-05-09",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 05/02/2024 House Journal  12 P. 94"
+        },
+        {
+          "date": "2024-05-08",
+          "actor": "Senate",
+          "description": "Enrolled Adopted, Voice Vote, (In recess 05/02/2024); Senate Journal 12"
+        },
+        {
+          "date": "2024-04-18",
+          "actor": "Senate",
+          "description": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 04/18/2024; Senate Journal 10"
+        },
+        {
+          "date": "2024-04-16",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass, 04/18/2024, Vote 4-0; Senate Calendar  15A"
+        },
+        {
+          "date": "2024-04-04",
+          "actor": "Senate",
+          "description": "Hearing: 04/09/2024, Room 103, Legislative Office Building, 09:50 am; Senate Calendar  14"
+        },
+        {
+          "date": "2024-04-02",
+          "actor": "Senate",
+          "description": "Introduced 03/21/2024 and Referred to Election Law and Municipal Affairs; Senate Journal 8"
+        },
+        {
+          "date": "2024-03-28",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2024-1040h: Motion Adopted Voice Vote 03/28/2024 House Journal  10 P. 98"
+        },
+        {
+          "date": "2024-03-28",
+          "actor": "House",
+          "description": "Amendment # 2024-1040h: Amendment Adopted Voice Vote 03/28/2024 House Journal  10 P. 98"
+        },
+        {
+          "date": "2024-03-18",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass with Amendment # 2024-1040h 03/08/2024 (Vote 10-0; Consent Calendar) House Calendar 12 P. 19"
+        },
+        {
+          "date": "2024-02-20",
+          "actor": "House",
+          "description": "Executive Session: 03/08/2024 01:00 pm Legislative Office Building 302-304"
+        },
+        {
+          "date": "2024-02-20",
+          "actor": "House",
+          "description": "Full Committee Work Session: 03/08/2024 11:00 am Legislative Office Building 302-304"
+        },
+        {
+          "date": "2024-01-18",
+          "actor": "House",
+          "description": "Public Hearing: 02/16/2024 10:45 am Legislative Office Building 302-304"
+        },
+        {
+          "date": "2023-12-06",
+          "actor": "House",
+          "description": "Introduced 01/03/2024 and referred to Special Committee on Housing House Journal  1 P. 17"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Bipartisan Bill",
+      "status_line": "Status: Passed on May 21 2024 - 100% progression"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1396",
+      "title": "relative to prohibiting municipal inspections of owner-occupied units of multi-unit housing.",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250713210913id_/https://legiscan.com/NH/bill/HB1396/2024",
+      "actions": [
+        {
+          "date": "2024-02-08",
+          "actor": "House",
+          "description": "Notice of Reconsideration (Rep. Berry) 02/08/2024 House Journal  4"
+        },
+        {
+          "date": "2024-02-08",
+          "actor": "House",
+          "description": "Inexpedient to Legislate: Motion Adopted Regular Calendar 195-182 02/08/2024 House Journal  4 P. 39"
+        },
+        {
+          "date": "2024-01-30",
+          "actor": "House",
+          "description": "Minority Committee Report: Ought to Pass"
+        },
+        {
+          "date": "2024-01-30",
+          "actor": "House",
+          "description": "Majority Committee Report: Inexpedient to Legislate 01/24/2024 (Vote 11-8; Regular Calendar)"
+        },
+        {
+          "date": "2024-01-16",
+          "actor": "House",
+          "description": "Executive Session: 01/24/2024 10:00 am Legislative Office Building 301-303"
+        },
+        {
+          "date": "2024-01-08",
+          "actor": "House",
+          "description": "Public Hearing: 01/17/2024 03:15 pm Legislative Office Building 301-303"
+        },
+        {
+          "date": "2023-12-06",
+          "actor": "House",
+          "description": "Introduced 01/03/2024 and referred to Municipal and County Government House Journal  1 P. 19"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Partisan Bill (Republican 1-0)",
+      "status_line": "Status: Introduced on December  6 2023 - 25% progression, died in chamber",
+      "status": "ok"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1399",
+      "title": "2024 | Regular Session",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250715235014id_/https://legiscan.com/NH/bill/HB1399/2024",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2024-05-16",
+          "actor": "Senate",
+          "description": "Refer to Interim Study, Motion Adopted, Voice Vote; 05/16/2024; Senate Journal 13"
+        },
+        {
+          "date": "2024-05-16",
+          "actor": "Senate",
+          "description": "Special Order to 05/16/2024, Without Objection, Motion Adopted; 05/15/2024 Senate Journal 12"
+        },
+        {
+          "date": "2024-05-01",
+          "actor": "Senate",
+          "description": "Committee Report: Referred to Interim Study, 05/16/2024, Vote 3-0; Senate Calendar  19"
+        },
+        {
+          "date": "2024-04-04",
+          "actor": "Senate",
+          "description": "Hearing: 04/09/2024, Room 103, Legislative Office Building, 10:00 am; Senate Calendar  14"
+        },
+        {
+          "date": "2024-04-02",
+          "actor": "Senate",
+          "description": "Introduced 03/21/2024 and Referred to Election Law and Municipal Affairs; Senate Journal 8"
+        },
+        {
+          "date": "2024-03-28",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2024-1157h: Motion Adopted Regular Calendar 220-140 03/28/2024 House Journal  10 P. 207"
+        },
+        {
+          "date": "2024-03-28",
+          "actor": "House",
+          "description": "Amendment # 2024-1157h: Amendment Adopted Voice Vote 03/28/2024 House Journal  10 P. 206"
+        },
+        {
+          "date": "2024-03-20",
+          "actor": "House",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "date": "2024-03-20",
+          "actor": "House",
+          "description": "Majority Committee Report: Ought to Pass with Amendment # 2024-1157h 03/15/2024 (Vote 9-1; Regular Calendar) House Calendar 12 P. 37"
+        },
+        {
+          "date": "2024-02-20",
+          "actor": "House",
+          "description": "Executive Session: 03/08/2024 01:00 pm Legislative Office Building 302-304"
+        },
+        {
+          "date": "2024-02-20",
+          "actor": "House",
+          "description": "Full Committee Work Session: 03/08/2024 11:00 am Legislative Office Building 302-304"
+        },
+        {
+          "date": "2024-01-18",
+          "actor": "House",
+          "description": "Public Hearing: 02/16/2024 01:00 pm Legislative Office Building 302-304"
+        },
+        {
+          "date": "2023-12-06",
+          "actor": "House",
+          "description": "Introduced 01/03/2024 and referred to Special Committee on Housing House Journal  1 P. 19"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Slight Partisan Bill (Democrat 2-1)",
+      "status_line": "Status: Engrossed on April  2 2024 - 50% progression, died in chamber"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1400",
+      "title": "2024 | Regular Session",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250717195736id_/https://legiscan.com/NH/bill/HB1400/2024",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2024-08-27",
+          "actor": "House",
+          "description": "Signed by Governor Sununu 08/23/2024; Chapter 370; Eff: I. Sec 1-7 eff 1/1/25 II. Sec 14 eff 1/1/35 III. Rem eff 7/1/24 House Journal  16"
+        },
+        {
+          "date": "2024-07-29",
+          "actor": "Senate",
+          "description": "Enrolled Adopted, Voice Vote, (In recess 06/13/2024); Senate Journal 18"
+        },
+        {
+          "date": "2024-07-29",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 06/13/2024 House Journal  16"
+        },
+        {
+          "date": "2024-07-23",
+          "actor": "House",
+          "description": "Enrolled Bill Amendment # 2024-2364e: Amendment Adopted Voice Vote (in recess of) 06/13/2024 House Journal  16"
+        },
+        {
+          "date": "2024-07-18",
+          "actor": "Senate",
+          "description": "Enrolled Bill Amendment # 2024-2364e Adopted, Voice Vote, (In recess of 06/13/2024); Senate Journal 18"
+        },
+        {
+          "date": "2024-06-13",
+          "actor": "House",
+          "description": "Conference Committee Report 2024-2295c: Adopted, Regular Calendar 205-149 06/13/2024 House Journal  16"
+        },
+        {
+          "date": "2024-06-12",
+          "actor": "Senate",
+          "description": "Conference Committee Report # 2024-2295c, Adopted, Voice Vote; 06/13/2024; Senate Journal 17"
+        },
+        {
+          "date": "2024-06-06",
+          "actor": "Senate",
+          "description": "Conference Committee Report Filed, # 2024-2295c; 06/13/2024"
+        },
+        {
+          "date": "2024-06-06",
+          "actor": "House",
+          "description": "Conference Committee Meeting: 06/06/2024 12:30 pm Legislative Office Building 205-207"
+        },
+        {
+          "date": "2024-06-05",
+          "actor": "House",
+          "description": "Conference Committee Meeting: 06/05/2024 02:30 pm Legislative Office Building 305"
+        },
+        {
+          "date": "2024-05-30",
+          "actor": "Senate",
+          "description": "President Appoints: Senators Gannon, Bradley, Perkins Kwoka; 05/30/2024; Senate Journal 16"
+        },
+        {
+          "date": "2024-05-30",
+          "actor": "Senate",
+          "description": "Sen. Gannon Accedes to House Request for Committee of Conference, Motion Adopted, Voice Vote; 05/30/2024; Senate Journal 16"
+        },
+        {
+          "date": "2024-05-29",
+          "actor": "House",
+          "description": "House Non-Concurs with Senate Amendment 2024-1962s and 2024-2144s and Requests CofC (Reps. Alexander Jr., McWilliams, Sweeney, D. Mannion): Motion Adopted Voice Vote 05/29/2024 House Journal  14"
+        },
+        {
+          "date": "2024-05-22",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendments 2024-1962s and 2024-2144s, Motion Adopted, Voice Vote; OT3rdg; 05/22/2024; Senate Journal 14"
+        },
+        {
+          "date": "2024-05-22",
+          "actor": "Senate",
+          "description": "Sen. Perkins Kwoka Floor Amendment # 2024-2144s, Amendment Adopted, Voice Vote; 05/22/2024; Senate Journal 14"
+        },
+        {
+          "date": "2024-05-22",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2024-1962s, Amendment Adopted, Voice Vote; 05/22/2024; Senate Journal 14"
+        },
+        {
+          "date": "2024-05-22",
+          "actor": "Senate",
+          "description": "Special Order to after the Committee on Education, Without Objection, Motion Adopted; 05/22/2024; Senate Journal 14"
+        },
+        {
+          "date": "2024-05-15",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2024-1962s, 05/22/2024, Vote 5-0; Senate Calendar  20"
+        },
+        {
+          "date": "2024-04-30",
+          "actor": "Senate",
+          "description": "Hearing: 05/07/2024, Room 100, State House, 09:30 am, on proposed non-germane amendment # 2024-1658s; Senate Calendar  18"
+        },
+        {
+          "date": "2024-04-03",
+          "actor": "Senate",
+          "description": "Hearing: 04/09/2024, Room 100, State House, 10:20 am; Senate Calendar  14"
+        },
+        {
+          "date": "2024-04-02",
+          "actor": "Senate",
+          "description": "Introduced 03/21/2024 and Referred to Commerce; Senate Journal 8"
+        },
+        {
+          "date": "2024-03-28",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2024-0853h: Motion Adopted Voice Vote 03/28/2024 House Journal  10 P. 98"
+        },
+        {
+          "date": "2024-03-28",
+          "actor": "House",
+          "description": "Amendment # 2024-0853h (NT): Amendment Adopted Voice Vote 03/28/2024 House Journal  10 P. 98"
+        },
+        {
+          "date": "2024-03-15",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass with Amendment # 2024-0853h (NT) 03/08/2024 (Vote 9-1; Consent Calendar) House Calendar 12 P. 19"
+        },
+        {
+          "date": "2024-02-20",
+          "actor": "House",
+          "description": "Executive Session: 03/08/2024 01:00 pm Legislative Office Building 302-304"
+        },
+        {
+          "date": "2024-02-20",
+          "actor": "House",
+          "description": "Full Committee Work Session: 03/08/2024 11:00 am Legislative Office Building 302-304"
+        },
+        {
+          "date": "2024-01-18",
+          "actor": "House",
+          "description": "Public Hearing: 02/16/2024 01:45 pm Legislative Office Building 302-304"
+        },
+        {
+          "date": "2023-12-06",
+          "actor": "House",
+          "description": "Introduced 01/03/2024 and referred to Special Committee on Housing House Journal  1 P. 19"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Bipartisan Bill",
+      "status_line": "Status: Passed on August 27 2024 - 100% progression"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1470",
+      "title": "establishing a study committee on the feasibility and impact of a low-income housing tax credit.",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250208024335id_/https://legiscan.com/NH/bill/HB1470/2024",
+      "actions": [
+        {
+          "date": "2024-03-21",
+          "actor": "House",
+          "description": "Indefinitely Postpone (Rep. Sweeney): Motion Adopted Regular Calendar 164-162 03/21/2024 House Journal  9 P. 124"
+        },
+        {
+          "date": "2024-03-21",
+          "actor": "House",
+          "description": "Amendment # 2024-0701h: Amendment Adopted Voice Vote 03/21/2024 House Journal  9 P. 123"
+        },
+        {
+          "date": "2024-03-15",
+          "actor": "House",
+          "description": "Committee Report: Without Recommendation 03/06/2024 (Vote 10-10; Regular Calendar)"
+        },
+        {
+          "date": "2024-02-28",
+          "actor": "House",
+          "description": "Full Committee Work Session: 03/06/2024 09:30 am Legislative Office Building 202-204"
+        },
+        {
+          "date": "2024-02-28",
+          "actor": "House",
+          "description": "==CONTINUED== Executive Session: 03/06/2024 01:30 pm Legislative Office Building 202-204"
+        },
+        {
+          "date": "2024-02-07",
+          "actor": "House",
+          "description": "==RECESSED== Executive Session: 02/14/2024 10:00 am Legislative Office Building 202-204"
+        },
+        {
+          "date": "2024-02-07",
+          "actor": "House",
+          "description": "Full Committee Work Session: 02/13/2024 10:00 am Legislative Office Building 202-204"
+        },
+        {
+          "date": "2024-01-17",
+          "actor": "House",
+          "description": "Public Hearing: 01/31/2024 11:30 am Legislative Office Building 202-204"
+        },
+        {
+          "date": "2023-12-11",
+          "actor": "House",
+          "description": "Introduced 01/03/2024 and referred to Ways and Means House Journal  1 P. 21"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Partisan Bill (Democrat 2-0)",
+      "status_line": "Status: Introduced on December 11 2023 - 25% progression, died in chamber",
+      "status": "ok"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1545",
+      "title": "relative to the disposal of state surplus property for affordable housing.",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250524043545id_/https://legiscan.com/NH/bill/HB1545/2024",
+      "actions": [
+        {
+          "date": "2024-03-28",
+          "actor": "House",
+          "description": "Lay HB1545 on Table (Rep. Sweeney): Motion Adopted Regular Calendar 190-185 03/28/2024 House Journal  10 P. 161"
+        },
+        {
+          "date": "2024-03-18",
+          "actor": "House",
+          "description": "Committee Report: Without Recommendation 03/13/2024 (Vote 10-10; Regular Calendar) House Calendar 12 P. 31"
+        },
+        {
+          "date": "2024-03-06",
+          "actor": "House",
+          "description": "Executive Session: 03/13/2024 10:00 am Legislative Office Building 306-308"
+        },
+        {
+          "date": "2024-02-06",
+          "actor": "House",
+          "description": "Public Hearing: 02/14/2024 02:00 pm Legislative Office Building 306-308"
+        },
+        {
+          "date": "2023-12-11",
+          "actor": "House",
+          "description": "Introduced 01/03/2024 and referred to Executive Departments and Administration House Journal  1 P. 24"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Partisan Bill (Democrat 2-0)",
+      "status_line": "Status: Introduced on December 11 2023 - 25% progression, died in chamber",
+      "status": "ok"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1567",
+      "title": "2024 | Regular Session",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250719235735id_/https://legiscan.com/NH/bill/HB1567/2024",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2024-07-30",
+          "actor": "House",
+          "description": "Signed by Governor Sununu 07/26/2024; Chapter 271; eff. 09/24/2024"
+        },
+        {
+          "date": "2024-07-15",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 06/13/2024"
+        },
+        {
+          "date": "2024-07-11",
+          "actor": "Senate",
+          "description": "Enrolled Adopted, Voice Vote, (In recess 06/13/2024); Senate Journal 18"
+        },
+        {
+          "date": "2024-05-31",
+          "actor": "House",
+          "description": "House Concurs with Senate Amendment 2024-1981s (Rep. J. Nelson): Motion Adopted Voice Vote 05/30/2024 House Journal  15 P. 23"
+        },
+        {
+          "date": "2024-05-23",
+          "actor": "Senate",
+          "description": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 05/23/2024; Senate Journal 15"
+        },
+        {
+          "date": "2024-05-22",
+          "actor": "Senate",
+          "description": "Special Order to 05/23/2024, Without Objection, Motion Adopted; 05/22/2024 Senate Journal 14"
+        },
+        {
+          "date": "2024-05-21",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass, 05/22/2024, Vote 7-0; Senate Calendar  20A"
+        },
+        {
+          "date": "2024-05-16",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2024-1981s, Motion Adopted, Voice Vote; Refer to Finance Rule 4-5; 05/16/2024; Senate Journal 13"
+        },
+        {
+          "date": "2024-05-16",
+          "actor": "Senate",
+          "description": "Sen. Perkins Kwoka Floor Amendment # 2024-1981s, Amendment Adopted, Voice Vote; 05/16/2024; Senate Journal 13"
+        },
+        {
+          "date": "2024-05-16",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2024-1824s, Amendment Failed, Voice Vote; 05/16/2024; Senate Journal 13"
+        },
+        {
+          "date": "2024-05-16",
+          "actor": "Senate",
+          "description": "Special Order to 05/16/2024, Without Objection, Motion Adopted; 05/15/2024 Senate Journal 12"
+        },
+        {
+          "date": "2024-05-07",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment #2024-1824s, 05/16/2024, Vote 5-0; Senate Calendar  19"
+        },
+        {
+          "date": "2024-04-24",
+          "actor": "Senate",
+          "description": "Hearing: 04/30/2024, Room 103, Legislative Office Building, 10:20 am; Senate Calendar  17"
+        },
+        {
+          "date": "2024-03-26",
+          "actor": "Senate",
+          "description": "Introduced 03/21/2024 and Referred to Election Law and Municipal Affairs; Senate Journal 8"
+        },
+        {
+          "date": "2024-03-21",
+          "actor": "House",
+          "description": "Ought to Pass: Motion Adopted Voice Vote 03/21/2024 House Journal  9 P. 17"
+        },
+        {
+          "date": "2024-03-11",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass 03/06/2024 (Vote 8-0; Consent Calendar)"
+        },
+        {
+          "date": "2024-02-28",
+          "actor": "House",
+          "description": "==CONTINUED== Executive Session: 03/06/2024 11:00 am Legislative Office Building 104"
+        },
+        {
+          "date": "2024-02-15",
+          "actor": "House",
+          "description": "==RECESSED== Executive Session: 02/21/2024 10:00 am Legislative Office Building 104"
+        },
+        {
+          "date": "2024-01-31",
+          "actor": "House",
+          "description": "Public Hearing: 02/07/2024 01:30 pm Legislative Office Building 209"
+        },
+        {
+          "date": "2023-12-15",
+          "actor": "House",
+          "description": "Introduced 01/03/2024 and referred to Special Committee on Childcare House Journal  1 P. 25"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Moderate Partisan Bill (Democrat 9-2)",
+      "status_line": "Status: Passed on July 30 2024 - 100% progression"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB318",
+      "title": "(New Title) converting the manufactured housing installations standards board and the board of examiners of nursing home administrators into advisory boards, and creating a new advisory board named the advisory board of massage therapists, reflexologists,",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250420192330id_/https://legiscan.com/NH/bill/SB318/2024",
+      "actions": [
+        {
+          "date": "2024-07-30",
+          "actor": "Senate",
+          "description": "Vetoed by Governor 07/26/2024"
+        },
+        {
+          "date": "2024-07-15",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 06/13/2024"
+        },
+        {
+          "date": "2024-07-11",
+          "actor": "Senate",
+          "description": "Enrolled Adopted, Voice Vote, (In recess 06/13/2024); Senate Journal 18"
+        },
+        {
+          "date": "2024-05-30",
+          "actor": "Senate",
+          "description": "Sen. Pearl Moved to Concur with the House Amendment, Motion Adopted, Voice Vote; 05/30/2024; Senate Journal 16"
+        },
+        {
+          "date": "2024-05-23",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2024-1780h: Motion Adopted Voice Vote 05/23/2024 House Journal  14 P. 25"
+        },
+        {
+          "date": "2024-05-23",
+          "actor": "House",
+          "description": "Amendment # 2024-1780h (NT): Amendment Adopted Voice Vote 05/23/2024 House Journal  14 P. 25"
+        },
+        {
+          "date": "2024-05-10",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass with Amendment # 2024-1780h (NT) 05/08/2024 (Vote 20-0; Consent Calendar) House Calendar 20 P. 9"
+        },
+        {
+          "date": "2024-04-26",
+          "actor": "House",
+          "description": "Executive Session: 05/08/2024 11:00 am Legislative Office Building 306-308"
+        },
+        {
+          "date": "2024-04-22",
+          "actor": "House",
+          "description": "Subcommittee Work Session: 04/30/2024 10:00 am Legislative Office Building 306-308"
+        },
+        {
+          "date": "2024-04-05",
+          "actor": "House",
+          "description": "Public Hearing on non-germane Amendment # 2024-1429h: 04/10/2024 03:05 pm Legislative Office Building 306-308"
+        },
+        {
+          "date": "2024-03-27",
+          "actor": "House",
+          "description": "Public Hearing: 04/10/2024 03:00 pm Legislative Office Building 306-308"
+        },
+        {
+          "date": "2024-02-29",
+          "actor": "House",
+          "description": "Introduced (in recess of) 02/22/2024 and referred to Executive Departments and Administration House Journal  6 P. 138"
+        },
+        {
+          "date": "2024-02-08",
+          "actor": "Senate",
+          "description": "Ought to Pass: Motion Adopted, Voice Vote; OT3rdg; 02/08/2024; Senate Journal 3"
+        },
+        {
+          "date": "2024-02-01",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass, 02/08/2024; Vote 5-0; Consent Calendar; Senate Calendar  6"
+        },
+        {
+          "date": "2024-01-05",
+          "actor": "Senate",
+          "description": "Hearing: 01/17/2024, Room 103, State House, 09:15 am; Senate Calendar  3"
+        },
+        {
+          "date": "2023-12-08",
+          "actor": "Senate",
+          "description": "To Be Introduced 01/03/2024 and Referred to Executive Departments and Administration; Senate Journal 1"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Slight Partisan Bill (Democrat 7-4)",
+      "status_line": "Status: Vetoed on July 30 2024 - 100% progression",
+      "status": "ok"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB406",
+      "title": "2024 | Regular Session",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250715235200id_/https://legiscan.com/NH/bill/SB406/2024",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2024-07-30",
+          "actor": "Senate",
+          "description": "Signed by the Governor on 07/26/2024; Chapter 0290; Effective 06/30/2024"
+        },
+        {
+          "date": "2024-07-15",
+          "actor": "House",
+          "description": "Enrolled (in recess of) 06/13/2024"
+        },
+        {
+          "date": "2024-07-11",
+          "actor": "Senate",
+          "description": "Enrolled Adopted, Voice Vote, (In recess 06/13/2024); Senate Journal 18"
+        },
+        {
+          "date": "2024-05-30",
+          "actor": "Senate",
+          "description": "Sen. Birdsell Moved to Concur with the House Amendment, Motion Adopted, Voice Vote; 05/30/2024; Senate Journal 16"
+        },
+        {
+          "date": "2024-05-23",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2024-1866h: Motion Adopted Voice Vote 05/23/2024 House Journal  14 P. 74"
+        },
+        {
+          "date": "2024-05-23",
+          "actor": "House",
+          "description": "Amendment # 2024-1866h: Amendment Adopted Voice Vote 05/23/2024 House Journal  14 P. 74"
+        },
+        {
+          "date": "2024-05-15",
+          "actor": "House",
+          "description": "Committee Report: Ought to Pass with Amendment # 2024-1866h 05/15/2024 (Vote 23-2; Regular Calendar) House Calendar 20 P. 19"
+        },
+        {
+          "date": "2024-05-08",
+          "actor": "House",
+          "description": "Executive Session: 05/14/2024 01:00 pm Legislative Office Building 210-211"
+        },
+        {
+          "date": "2024-04-17",
+          "actor": "House",
+          "description": "Division III Work Session: 04/29/2024 02:00 pm Legislative Office Building 210-211"
+        },
+        {
+          "date": "2024-04-17",
+          "actor": "House",
+          "description": "Division III Work Session: 04/23/2024 02:30 pm Legislative Office Building 210-211"
+        },
+        {
+          "date": "2024-04-17",
+          "actor": "House",
+          "description": "Public Hearing: 04/23/2024 10:00 am Legislative Office Building 210-211"
+        },
+        {
+          "date": "2024-04-12",
+          "actor": "House",
+          "description": "Introduced 04/12/2024 and referred to Finance House Journal  11 P. 103"
+        },
+        {
+          "date": "2024-04-11",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2024-1465s, Motion Adopted, Voice Vote; OT3rdg; 04/11/2024; Senate Journal 9"
+        },
+        {
+          "date": "2024-04-11",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2024-1465s, Amendment Adopted, Voice Vote; 04/11/2024; Senate Journal 9"
+        },
+        {
+          "date": "2024-04-09",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2024-1465s, 04/11/2024, Vote 7-0; Senate Calendar  14A"
+        },
+        {
+          "date": "2024-04-05",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2024-1268s, Motion Adopted, Voice Vote; Refer to Finance Rule 4-5; 04/05/2024; Senate Journal 8"
+        },
+        {
+          "date": "2024-04-05",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2024-1268s, Amendment Adopted, Voice Vote; 04/05/2024; Senate Journal 8"
+        },
+        {
+          "date": "2024-03-20",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2024-1268s, 04/05/2024, Vote 5-0; Senate Calendar  13"
+        },
+        {
+          "date": "2024-01-25",
+          "actor": "Senate",
+          "description": "Hearing: 01/31/2024, Room 100, State House, 09:00 am; Senate Calendar  5"
+        },
+        {
+          "date": "2023-12-12",
+          "actor": "Senate",
+          "description": "To Be Introduced 01/03/2024 and Referred to Health and Human Services; Senate Journal 1"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Partisan Bill (Democrat 11-0)",
+      "status_line": "Status: Passed on July 30 2024 - 100% progression"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB454",
+      "title": "2024 | Regular Session",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250323180551id_/https://legiscan.com/NH/bill/SB454/2024",
+      "status": "ok",
+      "actions": [
+        {
+          "date": "2024-05-02",
+          "actor": "House",
+          "description": "Lay SB454 on Table (Rep. Sweeney): Motion Adopted DV 180-176 05/02/2024 House Journal  12 P. 86"
+        },
+        {
+          "date": "2024-04-08",
+          "actor": "House",
+          "description": "Minority Committee Report: Ought to Pass"
+        },
+        {
+          "date": "2024-04-08",
+          "actor": "House",
+          "description": "Majority Committee Report: Refer for Interim Study 03/26/2024 (Vote 11-8; Regular Calendar) House Calendar 17 P. 28"
+        },
+        {
+          "date": "2024-03-13",
+          "actor": "House",
+          "description": "Executive Session: 03/26/2024 11:00 am Legislative Office Building 202-204"
+        },
+        {
+          "date": "2024-03-07",
+          "actor": "House",
+          "description": "Public Hearing: 03/11/2024 01:30 pm Legislative Office Building 202-204"
+        },
+        {
+          "date": "2024-02-29",
+          "actor": "House",
+          "description": "Introduced (in recess of) 02/22/2024 and referred to Ways and Means House Journal  6 P. 139"
+        },
+        {
+          "date": "2024-02-08",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2024-0365s, Motion Adopted, Voice Vote; OT3rdg; 02/08/2024; Senate Journal 3"
+        },
+        {
+          "date": "2024-02-08",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2024-0365s, Amendment Adopted, Voice Vote; 02/08/2024; Senate Journal 3"
+        },
+        {
+          "date": "2024-01-31",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2024-0365s, 02/08/2024, Vote 7-0; Senate Calendar  6"
+        },
+        {
+          "date": "2023-12-14",
+          "actor": "Senate",
+          "description": "Hearing: 01/09/2024, Room 103, State House, 01:00 pm; Senate Calendar  48"
+        },
+        {
+          "date": "2023-12-12",
+          "actor": "Senate",
+          "description": "To Be Introduced 01/03/2024 and Referred to Finance; Senate Journal 1"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Bipartisan Bill",
+      "status_line": "Status: Engrossed on February 29 2024 - 50% progression, died in chamber"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB538",
+      "title": "relative to zoning procedures concerning residential housing.",
+      "source": "legiscan_wayback",
+      "snapshot": "https://web.archive.org/web/20250519204541id_/https://legiscan.com/NH/bill/SB538/2024",
+      "actions": [
+        {
+          "date": "2024-05-02",
+          "actor": "House",
+          "description": "Inexpedient to Legislate: Motion Adopted Regular Calendar 188-173 05/02/2024 House Journal  12 P. 71"
+        },
+        {
+          "date": "2024-04-24",
+          "actor": "House",
+          "description": "Minority Committee Report: Ought to Pass"
+        },
+        {
+          "date": "2024-04-24",
+          "actor": "House",
+          "description": "Majority Committee Report: Inexpedient to Legislate 04/23/2024 (Vote 9-8; Regular Calendar) House Calendar 17 P. 24"
+        },
+        {
+          "date": "2024-04-17",
+          "actor": "House",
+          "description": "Executive Session: 04/23/2024 11:00 am Legislative Office Building 301-303"
+        },
+        {
+          "date": "2024-04-17",
+          "actor": "House",
+          "description": "Public Hearing: 04/23/2024 09:30 am Legislative Office Building 301-303"
+        },
+        {
+          "date": "2024-04-10",
+          "actor": "House",
+          "description": "Introduced (in recess of) 03/28/2024 and referred to Municipal and County Government House Journal  11"
+        },
+        {
+          "date": "2024-04-05",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendments 2024-1216s and 2024-1436s, Motion Adopted, Voice Vote; OT3rdg; 04/05/2024; Senate Journal 8"
+        },
+        {
+          "date": "2024-04-05",
+          "actor": "Senate",
+          "description": "Sen. Abbas Floor Amendment # 2024-1436s, Amendment Adopted, Voice Vote; 04/05/2024; Senate Journal 8"
+        },
+        {
+          "date": "2024-04-05",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2024-1216s, Amendment Adopted, Voice Vote; 04/05/2024; Senate Journal 8"
+        },
+        {
+          "date": "2024-03-19",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2024-1216s, 04/05/2024, Vote 4-1; Senate Calendar  13"
+        },
+        {
+          "date": "2024-02-13",
+          "actor": "Senate",
+          "description": "==RECONVENE== Hearing: 02/20/2024, Room 103, Legislative Office Building, 09:15 am; Senate Calendar  8"
+        },
+        {
+          "date": "2024-02-06",
+          "actor": "Senate",
+          "description": "==RECESSED== Hearing: 02/13/2024, Room 103, Legislative Office Building, 10:00 am; Senate Calendar  7"
+        },
+        {
+          "date": "2023-12-14",
+          "actor": "Senate",
+          "description": "To Be Introduced 01/03/2024 and Referred to Election Law and Municipal Affairs; Senate Journal 1"
+        }
+      ],
+      "sponsors": [],
+      "sponsor_spectrum": "Strong Partisan Bill (Democrat 12-1)",
+      "status_line": "Status: Engrossed on April 10 2024 - 50% progression, died in chamber",
+      "status": "ok"
+    }
+  ]
+}
