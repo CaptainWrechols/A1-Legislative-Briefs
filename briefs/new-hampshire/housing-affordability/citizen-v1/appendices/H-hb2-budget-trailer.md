@@ -19,11 +19,12 @@ New Hampshire enacts much of its housing policy inside HB2, the omnibus policy b
 
 ## HB2 2023 — Laws of 2023, Chapter 79
 
-612 sections; 13 housing-relevant after review. Final passage (whole bill): House 326–53 (2023-06-08).
+612 sections; 14 housing-relevant after review. Final passage (whole bill): House 326–53 (2023-06-08).
 
 | Section | What it does | Weight |
 |---|---|---|
 | 79:39 | Wrote the InvestNH fund and program into law - a standing fund that makes grants and loans to speed up municipal approvals and support housing construction. (InvestNH began in 2022 with federal money; this made it permanent in statute.) | core |
+| 79:41 | Put $10 million into the InvestNH fund for its municipal-approval and housing-construction grants. | core |
 | 79:43 | Put another $25 million into the Affordable Housing Fund, non-lapsing, for financing or matching funds for affordable housing. | core |
 | 79:196 | Restored $1.5 million for the congregate housing and congregate services programs for older adults that the 2021 budget had suspended. | adjacent |
 | 79:239 | Within a package of Medicaid rate increases, raised the housing reimbursement rates paid on behalf of people receiving community mental health services. | adjacent |

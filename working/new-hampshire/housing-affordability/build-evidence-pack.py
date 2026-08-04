@@ -150,10 +150,12 @@ def main() -> None:
         "by_session": dict(sorted(Counter(b["session_year"] for b in policy).items())),
         "by_disposition": dict(Counter(b["disposition"] for b in policy).most_common()),
         "keyword_discovered_note": (
-            "Set discovered by keyword search, not a proven complete universe. "
-            "2020-2024 coverage is limited to bills that received a floor roll "
-            "call (plus HB2); committee-killed bills without roll calls in those "
-            "years are not in the set - see data_limits."),
+            "Set discovered by keyword search plus a documented supplement, not "
+            "a proven complete universe. 2020-2024 coverage combines floor-roll-"
+            "call matches with bills identified in year-end official/civic "
+            "indexes (NHMA Final Legislative Bulletins, NH OPD legislation "
+            "summaries, NH Housing's session summary, NH Bulletin roundups); "
+            "see data_limits."),
     }
 
     # --- theme buckets ---
@@ -240,18 +242,25 @@ def main() -> None:
          "note": "SB203 tried to restructure the Board of Manufactured Housing and died between the chambers; HB2 2023 repealed the board outright."},
         {"bill_key": "2021:SB152", "hb2": "91:376",
          "note": "SB152's Affordable Housing Fund money died in the House as a standalone bill; the 2021 budget carried a $25M appropriation instead."},
+        {"bill_key": "2023:SB231", "hb2": "79:39-43, 79:564",
+         "note": "SB231's InvestNH, Affordable Housing Fund, and shelter appropriations were enacted through HB2 2023 while the standalone bill went no further."},
         {"bill_key": "2026:HB572", "hb2": "141:212",
          "note": "The Partners in Housing program moved through HB2 2025 while the standalone bill sat in the House."},
     ]
 
     # --- data limits ---
     data_limits = [
-        "2020-2024 discovery is roll-call-based: GenCourt keeps only the current "
-        "biennium's bill list, and no API key or bulk file was available for the "
-        "OpenStates/LegiScan backfill in this run. Bills from 2020-2024 that died "
-        "without any floor roll call are therefore missing from the set. The set "
-        "under-counts failures in those years, so cross-year failure comparisons "
-        "are not safe; 2025-2026 coverage is complete from the official database.",
+        "2020-2024 discovery is two-layered: (1) bills that received a floor "
+        "roll call (GenCourt keeps only the current biennium's bill list, and no "
+        "API key or bulk file was available for the OpenStates/LegiScan backfill "
+        "in this run); plus (2) a documented supplement of 23 bills identified "
+        "in year-end official/civic indexes (NHMA Final Legislative Bulletins "
+        "2021-2024, NH OPD legislation summaries, NH Housing's 2024 session "
+        "summary, NH Bulletin roundups) and resolved against archived official "
+        "dockets. Major enacted laws and prominent failures are covered; "
+        "low-profile 2020-2024 bills that died quietly by voice vote may still "
+        "be missing, so cross-year failure-rate comparisons remain unsafe. "
+        "2025-2026 coverage is complete from the official database.",
         "Sponsor names are complete for 2025-2026 (SQL) and for 2020-2021 "
         "(official final-text pages); they are absent for most 2022-2024 bills.",
         "NH kills most bills by voice vote or on the consent calendar; a bill with "

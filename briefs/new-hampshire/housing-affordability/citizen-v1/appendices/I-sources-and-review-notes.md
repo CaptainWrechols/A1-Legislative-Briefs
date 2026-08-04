@@ -13,6 +13,7 @@ in the citizen-facing front brief.
 | S3 | Legislative Budget Assistant chapter-law PDF for HB2 2023 (Laws of 2023, Chapter 79) |
 | S4 | Internet Archive snapshots of openstates.org and legiscan.com bill pages — mirrors of the official GenCourt docket, used only for 2022–2024 action histories; each record stores its snapshot URL |
 | S5 | Cited public reporting and agency documents for six bills whose final stage the snapshots could not fully resolve (NH Office of Planning and Development legislation matrix, NH Bulletin, InDepthNH, NHMA legislative bulletin, NHHA newsletter, Housing Action NH, TrackBill/MyRepTracker docket mirrors); per-bill citations in `working/.../dispositions.json` and `older-bill-status.json` |
+| S5b | Year-end official/civic indexes used for supplemental 2020–2024 discovery: NHMA Final Legislative Bulletins (2021–2024), NH OPD planning-legislation summaries and 2023 legislation matrix, NH Housing 2024 session summary, NH Bulletin and Housing Action NH session roundups; per-bill provenance in `pass1/bills.json` (`discovery_source`) |
 | S6 | Derived working files in this repository: `evidence-pack.json`, `curation-map.json`, `dispositions.json`, `hb2-sections.json` (all fact-checked layers over S1–S5) |
 
 ## Claim-to-source map (front brief)
@@ -49,6 +50,14 @@ in the citizen-facing front brief.
 - Discovery: 40 search terms over SQL bill titles (current biennium) and roll-call
   titles (all years); every hit kept and hand-curated. `ADUs` was added after a
   known 2025 ADU law (HB577) was found missing — documented in the issue config.
+- Supplemental discovery (S5b): 23 bills from 2020–2024 that moved only by voice
+  or division vote were identified in year-end official/civic indexes and then
+  resolved against archived official dockets and SQL roll calls
+  (`working/.../supplement-older-bills.py`). One bulletin-derived candidate
+  (2021 HB220) was found to be a non-housing bill on verification and removed.
+- SB454's 180–176 House tabling is a division-vote tally recorded in the official
+  docket (House Journal 12, p. 86), not a roll call; it is the only vote number
+  in the front brief that does not come from the SQL roll-call table.
 - 2020–2024 completeness is limited to floor-voted bills plus HB2; no
   OpenStates/LegiScan key was available in this environment, so committee- and
   voice-vote-killed bills from those years are absent. The strict completeness

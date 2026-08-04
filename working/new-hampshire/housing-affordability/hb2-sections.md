@@ -52,13 +52,14 @@ Final passage (whole bill): Senate 14–10 (Conference Committee Report, 2021-06
 
 ## HB2 2023 — Laws of 2023, Chapter 79
 
-*612 sections extracted; 13 housing-relevant after review; 17 floor roll calls on the whole bill.*
+*612 sections extracted; 14 housing-relevant after review; 17 floor roll calls on the whole bill.*
 
 Final passage (whole bill): House 326–53 (Concur (with Senate changes), 2023-06-08).
 
 ### Core housing sections
 
 - **79:39 — New Subdivision; InvestNH Program.** Wrote the InvestNH fund and program into law - a standing fund that makes grants and loans to speed up municipal approvals and support housing construction. (InvestNH began in 2022 with federal money; this made it permanent in statute.) *(affects RSA 12-O, RSA 12-O:70, RSA 541-A, RSA 674:58)*
+- **79:41 — Appropriation; InvestNH.** Put $10 million into the InvestNH fund for its municipal-approval and housing-construction grants. *(affects RSA 12-O:69, RSA 12-O:70)*
 - **79:43 — Appropriation; Affordable Housing Fund.** Put another $25 million into the Affordable Housing Fund, non-lapsing, for financing or matching funds for affordable housing. *(affects RSA 204-C:57)*
 - **79:301 — Board of Manufactured Housing; Repeals.** Repealed the Board of Manufactured Housing (RSA 205-A:25-31) effective September 1, 2023 - the state board where manufactured-home park residents and park owners could resolve disputes without going to court. A separate bill to restructure the board (SB203) died between the chambers the same year. *(affects RSA 205-A:25, RSA 205-A:26, RSA 205-A:27, RSA 205-A:28)*
 - **79:371 — New Section; Superior Court; Land Use Review Docket.** Created a land use review docket in the superior court - a dedicated court track for appeals of local planning and zoning decisions, intended to speed up housing-related land disputes. *(affects RSA 100-C, RSA 491, RSA 491-A:1, RSA 491:1)*

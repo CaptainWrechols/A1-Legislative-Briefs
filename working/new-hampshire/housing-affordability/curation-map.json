@@ -14,13 +14,13 @@
     "Context: not primarily housing"
   ],
   "counts": {
-    "total": 149,
+    "total": 172,
     "by_relevance": {
-      "adjacent": 35,
-      "core": 101,
+      "adjacent": 48,
+      "core": 111,
       "context": 13
     },
-    "policy_set": 135
+    "policy_set": 158
   },
   "bills": [
     {
@@ -84,6 +84,18 @@
       "roll_call_count": 1
     },
     {
+      "bill_key": "2020:SB721",
+      "session_year": 2020,
+      "bill_no": "SB721",
+      "title": "relative to court review of planning board decisions and making an appropriation therefor.",
+      "plain_topic": "Would have replaced the new Housing Appeals Board with court review of planning board appeals.",
+      "theme": "Land use boards, appeals, and the courts",
+      "relevance": "core",
+      "disposition": "died_other",
+      "stage": "died mid-process (latest official text: As Introduced)",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2020:SB726",
       "session_year": 2020,
       "bill_no": "SB726",
@@ -94,6 +106,18 @@
       "disposition": "died_on_table",
       "stage": "died on the table",
       "roll_call_count": 1
+    },
+    {
+      "bill_key": "2020:SB735",
+      "session_year": 2020,
+      "bill_no": "SB735",
+      "title": "repealing the housing appeals board.",
+      "plain_topic": "Would have repealed the Housing Appeals Board in its first year.",
+      "theme": "Land use boards, appeals, and the courts",
+      "relevance": "core",
+      "disposition": "died_other",
+      "stage": "died mid-process (latest official text: As Introduced)",
+      "roll_call_count": 0
     },
     {
       "bill_key": "2021:HB15",
@@ -108,6 +132,54 @@
       "roll_call_count": 2
     },
     {
+      "bill_key": "2021:HB284",
+      "session_year": 2021,
+      "bill_no": "HB284",
+      "title": "relative to the restoration of involuntarily merged lots.",
+      "plain_topic": "Removed the deadline for restoring involuntarily merged residential lots.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Laws of 2021, Chapter 136)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2021:HB286",
+      "session_year": 2021,
+      "bill_no": "HB286",
+      "title": "establishing a committee to study the response of law enforcement and the criminal justice system to homelessness in New Hampshire.",
+      "plain_topic": "Created a study committee on law enforcement's response to homelessness.",
+      "theme": "Homelessness and housing stability",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Laws of 2021, Chapter 39)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2021:HB332",
+      "session_year": 2021,
+      "bill_no": "HB332",
+      "title": "relative to deadlines for consideration of developments of regional impact by planning boards.",
+      "plain_topic": "Gave planning boards 30 extra days to act on developments of regional impact.",
+      "theme": "Land use boards, appeals, and the courts",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Laws of 2021, Chapter 69)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2021:HB377",
+      "session_year": 2021,
+      "bill_no": "HB377",
+      "title": "relative to the authority of the state fire marshal to grant an exemption from fire code requirements to recovery houses.",
+      "plain_topic": "Let the state fire marshal exempt recovery houses from certain fire code requirements.",
+      "theme": "Homelessness and housing stability",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Laws of 2021, Chapter 26)",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2021:HB503",
       "session_year": 2021,
       "bill_no": "HB503",
@@ -115,8 +187,8 @@
       "plain_topic": "Wrote the state Council on Housing Stability into law (with unrelated telehealth provisions).",
       "theme": "Homelessness and housing stability",
       "relevance": "core",
-      "disposition": "resolved_manually",
-      "stage": "Retained into the second year of the biennium; passed in 2022 and became Chapter 251 of the Laws of 2022 (effective 2022-06-24), codifying the state Council on Housing Stability (plus telehealth provisions). The 2021 House roll call in this set (Reconsider 142-214, failed) preceded retention.",
+      "disposition": "enacted",
+      "stage": "became law (Laws of 2021, Chapter 4)",
       "roll_call_count": 1
     },
     {
@@ -141,6 +213,18 @@
       "relevance": "adjacent",
       "disposition": "enacted",
       "stage": "became law (Laws of 2021, Chapter 194)",
+      "roll_call_count": 1
+    },
+    {
+      "bill_key": "2021:SB102",
+      "session_year": 2021,
+      "bill_no": "SB102",
+      "title": "adopting omnibus legislation on property taxation.",
+      "plain_topic": "Property-tax omnibus that created community revitalization (79-E) tax relief for housing development.",
+      "theme": "State housing money and programs",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Laws of 2021, Chapter 200)",
       "roll_call_count": 1
     },
     {
@@ -192,6 +276,18 @@
       "roll_call_count": 7
     },
     {
+      "bill_key": "2022:HB1021",
+      "session_year": 2022,
+      "bill_no": "HB1021",
+      "title": "prohibiting certain zoning regulation of land or structures used primarily for religious purposes.",
+      "plain_topic": "Restricted zoning regulation of land or structures used primarily for religious purposes.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "resolved_manually",
+      "stage": "House concurred with the Senate amendment 2022-05-13 (voice vote); became law: Laws of 2022, Chapter 291 (NHMA Final Legislative Bulletin 2022: local regulations on primarily religious use of land restricted).",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2022:HB1291",
       "session_year": 2022,
       "bill_no": "HB1291",
@@ -204,6 +300,18 @@
       "roll_call_count": 1
     },
     {
+      "bill_key": "2022:HB1661",
+      "session_year": 2022,
+      "bill_no": "HB1661",
+      "title": "relative to regional career technical education agreements, an appropriation for preliminary work for a new legislative parking garage, health and human services, establishing",
+      "plain_topic": "Omnibus bill whose land-use sections made significant changes to planning, zoning, and development rules.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 272)",
+      "roll_call_count": 3
+    },
+    {
       "bill_key": "2022:HB1662",
       "session_year": 2022,
       "bill_no": "HB1662",
@@ -214,6 +322,30 @@
       "disposition": "died_between_chambers",
       "stage": "died in a committee of conference (no agreed report)",
       "roll_call_count": 2
+    },
+    {
+      "bill_key": "2022:SB223",
+      "session_year": 2022,
+      "bill_no": "SB223",
+      "title": "relative to the minimum size of recovery houses.",
+      "plain_topic": "Changed the minimum size of recovery houses.",
+      "theme": "Homelessness and housing stability",
+      "relevance": "adjacent",
+      "disposition": "resolved_manually",
+      "stage": "Became law: Laws of 2022, Chapter 88 (NHMA Final Legislative Bulletin 2022).",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2022:SB334",
+      "session_year": 2022,
+      "bill_no": "SB334",
+      "title": "establishing a committee to study property blight in municipalities.",
+      "plain_topic": "Created a committee to study property blight in municipalities.",
+      "theme": "Housing studies, plans, and data",
+      "relevance": "adjacent",
+      "disposition": "resolved_manually",
+      "stage": "Became law: Laws of 2022, Chapter 167 (NHMA Final Legislative Bulletin 2022).",
+      "roll_call_count": 0
     },
     {
       "bill_key": "2022:SB400",
@@ -264,6 +396,18 @@
       "roll_call_count": 1
     },
     {
+      "bill_key": "2023:HB296",
+      "session_year": 2023,
+      "bill_no": "HB296",
+      "title": "relative to residential driveway permits.",
+      "plain_topic": "Altered local authority over residential driveway permits.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "resolved_manually",
+      "stage": "Became law: Laws of 2023, Chapter 187 (NHMA Final Legislative Bulletin 2023: residential driveway authority altered).",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2023:HB401",
       "session_year": 2023,
       "bill_no": "HB401",
@@ -273,6 +417,30 @@
       "relevance": "core",
       "disposition": "resolved_manually",
       "stage": "Ought to Pass failed on the House floor 154-213 (2023-03-09, SQL roll call); the bill was killed in the House.",
+      "roll_call_count": 1
+    },
+    {
+      "bill_key": "2023:HB42",
+      "session_year": 2023,
+      "bill_no": "HB42",
+      "title": "relative to the operation of certain homeowners' associations.",
+      "plain_topic": "Expanded land use board authority over homeowners' associations.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 114)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2023:HB44",
+      "session_year": 2023,
+      "bill_no": "HB44",
+      "title": "relative to permissible residential units in a residential zone.",
+      "plain_topic": "Would have allowed four homes by right on single-family lots served by municipal water and sewer.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "core",
+      "disposition": "resolved_manually",
+      "stage": "Killed on the House floor 2023-02-23: Ought to Pass failed 117-232 (SQL roll call), then Inexpedient to Legislate adopted by division vote 209-141 (House Journal 7). The bill would have allowed 4 residential units by right on single-family lots served by municipal water and sewer.",
       "roll_call_count": 1
     },
     {
@@ -348,6 +516,30 @@
       "roll_call_count": 1
     },
     {
+      "bill_key": "2023:SB231",
+      "session_year": 2023,
+      "bill_no": "SB231",
+      "title": "establishing a historic housing tax credit and making appropriations for workforce housing and affordable housing.",
+      "plain_topic": "Workforce and affordable housing appropriations (with a proposed historic housing tax credit); its appropriations were enacted through the HB2 budget trailer.",
+      "theme": "State housing money and programs",
+      "relevance": "core",
+      "disposition": "resolved_manually",
+      "stage": "Standalone bill did not pass as such; its provisions were enacted through HB2, the 2023 budget trailer (Chapter Law 79:39-43 - InvestNH and Affordable Housing Fund appropriations - and 79:564-565 - shelter funding), signed 2023-06-20, per the NH Office of Planning and Development 2023 legislation matrix.",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2024:HB1065",
+      "session_year": 2024,
+      "bill_no": "HB1065",
+      "title": "relative to fire sprinkler requirements in residential buildings.",
+      "plain_topic": "Extended the sprinkler exemption to three- and four-family homes and barred stricter local sprinkler codes.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 324)",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2024:HB1199",
       "session_year": 2024,
       "bill_no": "HB1199",
@@ -358,6 +550,18 @@
       "disposition": "killed_floor",
       "stage": "Ought to Pass failed on the floor 191-192",
       "roll_call_count": 3
+    },
+    {
+      "bill_key": "2024:HB1202",
+      "session_year": 2024,
+      "bill_no": "HB1202",
+      "title": "relative to the issuance of permits for the alteration of driveways exiting onto public ways and relative to the definition of disability or special needs under the child care",
+      "plain_topic": "Required the state to issue residential driveway permits within 60 days.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 367)",
+      "roll_call_count": 0
     },
     {
       "bill_key": "2024:HB1291",
@@ -384,6 +588,18 @@
       "roll_call_count": 1
     },
     {
+      "bill_key": "2024:HB1361",
+      "session_year": 2024,
+      "bill_no": "HB1361",
+      "title": "relative to municipal land use regulation for manufactured housing and subdivisions.",
+      "plain_topic": "Required municipalities to provide realistic opportunities for manufactured housing and rewrote manufactured-home subdivision rules.",
+      "theme": "Manufactured, tiny, and factory-built homes",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 23)",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2024:HB1396",
       "session_year": 2024,
       "bill_no": "HB1396",
@@ -393,6 +609,30 @@
       "relevance": "adjacent",
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 1
+    },
+    {
+      "bill_key": "2024:HB1399",
+      "session_year": 2024,
+      "bill_no": "HB1399",
+      "title": "allowing municipalities to permit 2 residential units in certain single-family residential zones.",
+      "plain_topic": "Would have let municipalities permit two residential units in certain single-family zones.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "core",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "roll_call_count": 1
+    },
+    {
+      "bill_key": "2024:HB1400",
+      "session_year": 2024,
+      "bill_no": "HB1400",
+      "title": "relative to residential parking spaces, landlord-tenant law, unauthorized occupant evictions, and zoning procedures concerning residential housing.",
+      "plain_topic": "Housing omnibus: tax incentives for office-to-housing conversions, limits on local parking mandates, alternative parking, and faster local zoning amendments.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 370)",
       "roll_call_count": 1
     },
     {
@@ -420,6 +660,18 @@
       "roll_call_count": 1
     },
     {
+      "bill_key": "2024:HB1567",
+      "session_year": 2024,
+      "bill_no": "HB1567",
+      "title": "relative to zoning provisions concerning family and group family child care uses.",
+      "plain_topic": "Loosened municipal zoning rules for home-based child care.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 271)",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2024:SB318",
       "session_year": 2024,
       "bill_no": "SB318",
@@ -430,6 +682,30 @@
       "disposition": "vetoed",
       "stage": "vetoed (no override action recorded as of collection)",
       "roll_call_count": 1
+    },
+    {
+      "bill_key": "2024:SB406",
+      "session_year": 2024,
+      "bill_no": "SB406",
+      "title": "making an appropriation to the department of health and human services to increase rates for shelter programs.",
+      "plain_topic": "Appropriated $2.5 million to raise the rates paid to homeless shelter programs.",
+      "theme": "Homelessness and housing stability",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 0290)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2024:SB454",
+      "session_year": 2024,
+      "bill_no": "SB454",
+      "title": "increasing the annual real estate transfer tax revenue contribution to the affordable housing fund.",
+      "plain_topic": "Would have doubled the real estate transfer tax revenue flowing to the Affordable Housing Fund.",
+      "theme": "State housing money and programs",
+      "relevance": "core",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "roll_call_count": 0
     },
     {
       "bill_key": "2024:SB538",

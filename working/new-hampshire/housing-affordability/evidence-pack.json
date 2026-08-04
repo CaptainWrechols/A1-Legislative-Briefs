@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T16:08:36.589618+00:00",
+  "generated_at": "2026-08-04T17:02:35.636615+00:00",
   "issue": "new-hampshire-01-housing-affordability",
   "sessions": [
     2020,
@@ -11,43 +11,54 @@
     2026
   ],
   "inventory": {
-    "collected_total": 149,
-    "policy_set": 135,
-    "core": 100,
-    "adjacent": 35,
+    "collected_total": 172,
+    "policy_set": 158,
+    "core": 110,
+    "adjacent": 48,
     "context_excluded": 13,
     "carryover_duplicates": 1,
     "by_session": {
-      "2020": 6,
-      "2021": 7,
-      "2022": 4,
-      "2023": 9,
-      "2024": 8,
+      "2020": 8,
+      "2021": 12,
+      "2022": 8,
+      "2023": 13,
+      "2024": 16,
       "2025": 29,
       "2026": 72
     },
     "by_disposition": {
-      "killed": 91,
-      "enacted": 29,
-      "interim_study": 11,
+      "killed": 95,
+      "enacted": 46,
+      "interim_study": 12,
       "vetoed": 3,
-      "content_enacted_via_hb2": 1
+      "content_enacted_via_hb2": 2
     },
-    "keyword_discovered_note": "Set discovered by keyword search, not a proven complete universe. 2020-2024 coverage is limited to bills that received a floor roll call (plus HB2); committee-killed bills without roll calls in those years are not in the set - see data_limits."
+    "keyword_discovered_note": "Set discovered by keyword search plus a documented supplement, not a proven complete universe. 2020-2024 coverage combines floor-roll-call matches with bills identified in year-end official/civic indexes (NHMA Final Legislative Bulletins, NH OPD legislation summaries, NH Housing's session summary, NH Bulletin roundups); see data_limits."
   },
   "themes": [
     {
       "theme": "Building more homes: zoning and land use",
-      "bills": 24,
-      "enacted": 7,
-      "enactment_rate_pct": 29.2,
+      "bills": 35,
+      "enacted": 16,
+      "enactment_rate_pct": 45.7,
       "typical_stop": "killed",
       "stops": {
-        "killed": 12,
-        "interim_study": 5
+        "killed": 13,
+        "interim_study": 6
       },
       "bill_keys": [
+        "2021:HB284",
         "2021:SB86",
+        "2022:HB1021",
+        "2022:HB1661",
+        "2023:HB296",
+        "2023:HB42",
+        "2023:HB44",
+        "2024:HB1065",
+        "2024:HB1202",
+        "2024:HB1399",
+        "2024:HB1400",
+        "2024:HB1567",
         "2024:SB538",
         "2025:HB168",
         "2025:HB229",
@@ -99,12 +110,12 @@
     },
     {
       "theme": "State housing money and programs",
-      "bills": 36,
-      "enacted": 9,
-      "enactment_rate_pct": 25.0,
+      "bills": 39,
+      "enacted": 11,
+      "enactment_rate_pct": 28.2,
       "typical_stop": "killed",
       "stops": {
-        "killed": 24,
+        "killed": 25,
         "interim_study": 3
       },
       "bill_keys": [
@@ -112,12 +123,15 @@
         "2020:SB726",
         "2021:HB586",
         "2021:HB610",
+        "2021:SB102",
         "2021:SB152",
         "2021:SB73",
         "2022:SB400",
         "2023:SB145",
+        "2023:SB231",
         "2024:HB1470",
         "2024:HB1545",
+        "2024:SB454",
         "2025:HB437",
         "2025:HB530",
         "2025:HB731",
@@ -204,18 +218,22 @@
     },
     {
       "theme": "Homelessness and housing stability",
-      "bills": 9,
-      "enacted": 2,
-      "enactment_rate_pct": 22.2,
+      "bills": 13,
+      "enacted": 6,
+      "enactment_rate_pct": 46.2,
       "typical_stop": "killed",
       "stops": {
         "killed": 7
       },
       "bill_keys": [
+        "2021:HB286",
+        "2021:HB377",
         "2021:HB503",
         "2022:HB1662",
+        "2022:SB223",
         "2022:SB415",
         "2024:HB1199",
+        "2024:SB406",
         "2025:HB490",
         "2025:SB113",
         "2025:SB114",
@@ -225,9 +243,9 @@
     },
     {
       "theme": "Manufactured, tiny, and factory-built homes",
-      "bills": 9,
-      "enacted": 2,
-      "enactment_rate_pct": 22.2,
+      "bills": 10,
+      "enacted": 3,
+      "enactment_rate_pct": 30.0,
       "typical_stop": "killed",
       "stops": {
         "killed": 6,
@@ -235,6 +253,7 @@
       },
       "bill_keys": [
         "2023:SB203",
+        "2024:HB1361",
         "2024:SB318",
         "2025:HB685",
         "2025:SB166",
@@ -247,15 +266,18 @@
     },
     {
       "theme": "Land use boards, appeals, and the courts",
-      "bills": 11,
-      "enacted": 2,
-      "enactment_rate_pct": 18.2,
+      "bills": 14,
+      "enacted": 3,
+      "enactment_rate_pct": 21.4,
       "typical_stop": "killed",
       "stops": {
-        "killed": 9
+        "killed": 11
       },
       "bill_keys": [
         "2020:HB1629",
+        "2020:SB721",
+        "2020:SB735",
+        "2021:HB332",
         "2024:HB1359",
         "2025:HB92",
         "2025:SB78",
@@ -270,14 +292,15 @@
     },
     {
       "theme": "Housing studies, plans, and data",
-      "bills": 6,
-      "enacted": 2,
-      "enactment_rate_pct": 33.3,
+      "bills": 7,
+      "enacted": 3,
+      "enactment_rate_pct": 42.9,
       "typical_stop": "killed",
       "stops": {
         "killed": 4
       },
       "bill_keys": [
+        "2022:SB334",
         "2025:HB399",
         "2025:HB471",
         "2025:HB633",
@@ -331,6 +354,12 @@
       "outcome": "Passed the House (SQL roll call: OTPA 220-143, 2024-03-28). In the Senate on 2024-05-22 a floor amendment failed by roll call 8-16 (matches the SQL roll call) and the Senate indefinitely postponed the bill by voice vote - it died in the Senate."
     },
     {
+      "bill_key": "2024:HB1399",
+      "plain_topic": "Would have let municipalities permit two residential units in certain single-family zones.",
+      "vote": "House 220-140 (OTPA)",
+      "outcome": "sent to interim study by the Senate"
+    },
+    {
       "bill_key": "2025:SB113",
       "plain_topic": "Would have funded homeless services and homelessness prevention.",
       "vote": "Senate 23-0 (Ought to Pass)",
@@ -356,7 +385,7 @@
     }
   ],
   "people_signals": {
-    "bills_with_sponsor_data": 114,
+    "bills_with_sponsor_data": 108,
     "sponsor_data_note": "Sponsors come from the SQL sponsors table (current biennium) and gc.nh.gov final-text pages (2020-2021). Sponsor names for most 2022-2024 bills are not in the collected record.",
     "frequent_primary_sponsors": [
       {
@@ -497,10 +526,11 @@
       {
         "session_year": 2023,
         "laws_citation": "Laws of 2023, Chapter 79",
-        "core_sections": 10,
+        "core_sections": 11,
         "adjacent_sections": 3,
         "headline_items": [
           "79:39 - Wrote the InvestNH fund and program into law - a standing fund that makes grants and loans to speed up municipal approvals and support housing construction. (InvestNH began in 2022 with federal money; this made it permanent in statute.)",
+          "79:41 - Put $10 million into the InvestNH fund for its municipal-approval and housing-construction grants.",
           "79:43 - Put another $25 million into the Affordable Housing Fund, non-lapsing, for financing or matching funds for affordable housing.",
           "79:301 - Repealed the Board of Manufactured Housing (RSA 205-A:25-31) effective September 1, 2023 - the state board where manufactured-home park residents and park owners could resolve disputes without going to court. A separate bill to restructure the board (SB203) died between the chambers the same year.",
           "79:371 - Created a land use review docket in the superior court - a dedicated court track for appeals of local planning and zoning decisions, intended to speed up housing-related land disputes.",
@@ -573,6 +603,11 @@
         "note": "SB152's Affordable Housing Fund money died in the House as a standalone bill; the 2021 budget carried a $25M appropriation instead."
       },
       {
+        "bill_key": "2023:SB231",
+        "hb2": "79:39-43, 79:564",
+        "note": "SB231's InvestNH, Affordable Housing Fund, and shelter appropriations were enacted through HB2 2023 while the standalone bill went no further."
+      },
+      {
         "bill_key": "2026:HB572",
         "hb2": "141:212",
         "note": "The Partners in Housing program moved through HB2 2025 while the standalone bill sat in the House."
@@ -580,7 +615,7 @@
     ]
   },
   "data_limits": [
-    "2020-2024 discovery is roll-call-based: GenCourt keeps only the current biennium's bill list, and no API key or bulk file was available for the OpenStates/LegiScan backfill in this run. Bills from 2020-2024 that died without any floor roll call are therefore missing from the set. The set under-counts failures in those years, so cross-year failure comparisons are not safe; 2025-2026 coverage is complete from the official database.",
+    "2020-2024 discovery is two-layered: (1) bills that received a floor roll call (GenCourt keeps only the current biennium's bill list, and no API key or bulk file was available for the OpenStates/LegiScan backfill in this run); plus (2) a documented supplement of 23 bills identified in year-end official/civic indexes (NHMA Final Legislative Bulletins 2021-2024, NH OPD legislation summaries, NH Housing's 2024 session summary, NH Bulletin roundups) and resolved against archived official dockets. Major enacted laws and prominent failures are covered; low-profile 2020-2024 bills that died quietly by voice vote may still be missing, so cross-year failure-rate comparisons remain unsafe. 2025-2026 coverage is complete from the official database.",
     "Sponsor names are complete for 2025-2026 (SQL) and for 2020-2021 (official final-text pages); they are absent for most 2022-2024 bills.",
     "NH kills most bills by voice vote or on the consent calendar; a bill with no roll call is not necessarily uncontroversial.",
     "Committee votes appear only where a committee report recorded them (e.g. 'Vote 10-8; RC' in the docket); there is no complete committee-vote table.",
@@ -601,99 +636,6 @@
       "stage": "laid on the table in the Senate at the pandemic-shortened session's end; never taken back up",
       "found_by_terms": [
         " rent"
-      ],
-      "sponsors": [
-        {
-          "name": "Edgar",
-          "body": "House",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Loughman",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Cushing",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Maggiore",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Cleaver",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Bushway",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Almy",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Somssich",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Cloutier",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Pantelakos",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Watters",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Sherman",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Fuller Clark",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        }
       ],
       "roll_calls": [
         {
@@ -735,64 +677,6 @@
       "found_by_terms": [
         " rent",
         "mortgage"
-      ],
-      "sponsors": [
-        {
-          "name": "Conley",
-          "body": "House",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Griffith",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Telerski",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Schultz",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Chase",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Vincent",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Wazir",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Kenney",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        }
       ],
       "roll_calls": [
         {
@@ -901,29 +785,6 @@
       "found_by_terms": [
         "housing"
       ],
-      "sponsors": [
-        {
-          "name": "Read",
-          "body": "House",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Schultz",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Buchanan",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        }
-      ],
       "roll_calls": [
         {
           "body": "House",
@@ -965,22 +826,6 @@
       "found_by_terms": [
         "housing"
       ],
-      "sponsors": [
-        {
-          "name": "Roy",
-          "body": "House",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Aron",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        }
-      ],
       "roll_calls": [
         {
           "body": "Senate",
@@ -1014,50 +859,6 @@
       "found_by_terms": [
         "zoning"
       ],
-      "sponsors": [
-        {
-          "name": "Griffith",
-          "body": "House",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Alexander Jr.",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Loughman",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Lucas",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Butler",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Hennessey",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        }
-      ],
       "roll_calls": [
         {
           "body": "House",
@@ -1087,6 +888,50 @@
       "best_floor_yes_pct": 82.1
     },
     {
+      "bill_key": "2020:SB721",
+      "session_year": 2020,
+      "identifier": "SB721",
+      "title": "relative to court review of planning board decisions and making an appropriation therefor.",
+      "plain_topic": "Would have replaced the new Housing Appeals Board with court review of planning board appeals.",
+      "theme": "Land use boards, appeals, and the courts",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "died mid-process (latest official text: As Introduced)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Dietsch",
+          "body": "Senate",
+          "party": null,
+          "prime": true,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Fuller Clark",
+          "body": "Senate",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Mullen",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Maggiore",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2020:SB726",
       "session_year": 2020,
       "identifier": "SB726",
@@ -1098,106 +943,6 @@
       "stage": "died on the table",
       "found_by_terms": [
         "housing"
-      ],
-      "sponsors": [
-        {
-          "name": "Morgan",
-          "body": "Senate",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Sherman",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Bradley",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Birdsell",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "D'Allesandro",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Rosenwald",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Fuller Clark",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Cavanaugh",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Carson",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Chandley",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Morse",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Soucy",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Woodcock",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Allard",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        }
       ],
       "roll_calls": [
         {
@@ -1220,6 +965,85 @@
       "best_floor_yes_pct": 100.0
     },
     {
+      "bill_key": "2020:SB735",
+      "session_year": 2020,
+      "identifier": "SB735",
+      "title": "repealing the housing appeals board.",
+      "plain_topic": "Would have repealed the Housing Appeals Board in its first year.",
+      "theme": "Land use boards, appeals, and the courts",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "died mid-process (latest official text: As Introduced)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Birdsell",
+          "body": "Senate",
+          "party": null,
+          "prime": true,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Sherman",
+          "body": "Senate",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Dietsch",
+          "body": "Senate",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Ward",
+          "body": "Senate",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "O'Connor",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "B. Griffin",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Edwards",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Gould",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Milz",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2021:HB15",
       "session_year": 2021,
       "identifier": "HB15",
@@ -1231,36 +1055,6 @@
       "stage": "became law (Laws of 2021, Chapter 160)",
       "found_by_terms": [
         " rent"
-      ],
-      "sponsors": [
-        {
-          "name": "Packard",
-          "body": "House",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Major",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Almy",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Abrami",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        }
       ],
       "roll_calls": [
         {
@@ -1310,6 +1104,182 @@
       "best_floor_yes_pct": 78.7
     },
     {
+      "bill_key": "2021:HB284",
+      "session_year": 2021,
+      "identifier": "HB284",
+      "title": "relative to the restoration of involuntarily merged lots.",
+      "plain_topic": "Removed the deadline for restoring involuntarily merged residential lots.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Laws of 2021, Chapter 136)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "McBeath",
+          "body": "House",
+          "party": null,
+          "prime": true,
+          "source": "gencourt_final_text"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2021:HB286",
+      "session_year": 2021,
+      "identifier": "HB286",
+      "title": "establishing a committee to study the response of law enforcement and the criminal justice system to homelessness in New Hampshire.",
+      "plain_topic": "Created a study committee on law enforcement's response to homelessness.",
+      "theme": "Homelessness and housing stability",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Laws of 2021, Chapter 39)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Klein-Knight",
+          "body": "House",
+          "party": null,
+          "prime": true,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Moran",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Massimilla",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Griffith",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Labranche",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Oxaal",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Bouchard",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Stevens",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2021:HB332",
+      "session_year": 2021,
+      "identifier": "HB332",
+      "title": "relative to deadlines for consideration of developments of regional impact by planning boards.",
+      "plain_topic": "Gave planning boards 30 extra days to act on developments of regional impact.",
+      "theme": "Land use boards, appeals, and the courts",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Laws of 2021, Chapter 69)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Seaworth",
+          "body": "House",
+          "party": null,
+          "prime": true,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Birdsell",
+          "body": "Senate",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2021:HB377",
+      "session_year": 2021,
+      "identifier": "HB377",
+      "title": "relative to the authority of the state fire marshal to grant an exemption from fire code requirements to recovery houses.",
+      "plain_topic": "Let the state fire marshal exempt recovery houses from certain fire code requirements.",
+      "theme": "Homelessness and housing stability",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Laws of 2021, Chapter 26)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Connors",
+          "body": "House",
+          "party": null,
+          "prime": true,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Cornell",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Goley",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "Snow",
+          "body": "House",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        },
+        {
+          "name": "D'Allesandro",
+          "body": "Senate",
+          "party": null,
+          "prime": false,
+          "source": "gencourt_final_text"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2021:HB503",
       "session_year": 2021,
       "identifier": "HB503",
@@ -1318,29 +1288,9 @@
       "theme": "Homelessness and housing stability",
       "relevance": "core",
       "disposition": "enacted",
-      "stage": "Retained into the second year of the biennium; passed in 2022 and became Chapter 251 of the Laws of 2022 (effective 2022-06-24), codifying the state Council on Housing Stability (plus telehealth provisions). The 2021 House roll call in this set (Reconsider 142-214, failed) preceded retention.",
+      "stage": "became law (Laws of 2021, Chapter 4)",
       "found_by_terms": [
         "housing"
-      ],
-      "stage_citations": [
-        "https://www.nhha.org/wp-content/uploads/2023/01/NHHA-Legislative-Newsletter-August-1-2022_update.pdf",
-        "https://www.nhmunicipal.org/sites/default/files/uploads/legislative-bulletins/2022_nhma_legis_bltn_final_0.pdf"
-      ],
-      "sponsors": [
-        {
-          "name": "Long",
-          "body": "House",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Wilhelm",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        }
       ],
       "roll_calls": [
         {
@@ -1387,57 +1337,6 @@
         "affordable housing",
         "zoning"
       ],
-      "sponsors": [
-        {
-          "name": "Alexander Jr.",
-          "body": "House",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Lascelles",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Burroughs",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Umberger",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Griffith",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Hennessey",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Perkins Kwoka",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        }
-      ],
       "roll_calls": [
         {
           "body": "House",
@@ -1481,15 +1380,6 @@
       "found_by_terms": [
         "housing"
       ],
-      "sponsors": [
-        {
-          "name": "Hunt",
-          "body": "House",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        }
-      ],
       "roll_calls": [
         {
           "body": "Senate",
@@ -1512,6 +1402,56 @@
       "best_floor_yes_pct": 95.8
     },
     {
+      "bill_key": "2021:SB102",
+      "session_year": 2021,
+      "identifier": "SB102",
+      "title": "adopting omnibus legislation on property taxation.",
+      "plain_topic": "Property-tax omnibus that created community revitalization (79-E) tax relief for housing development.",
+      "theme": "State housing money and programs",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Laws of 2021, Chapter 200)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Perkins Kwoka",
+          "body": "Senate",
+          "party": null,
+          "prime": true,
+          "source": "gencourt_final_text"
+        }
+      ],
+      "roll_calls": [
+        {
+          "body": "House",
+          "date": "2021-06-04",
+          "motion": "OTP",
+          "yeas": 208,
+          "nays": 165,
+          "yes_pct": 55.8,
+          "party_split": {
+            "?": {
+              "yea": 1,
+              "nay": 2
+            },
+            "D": {
+              "yea": 171,
+              "nay": 1
+            },
+            "I": {
+              "yea": 3,
+              "nay": 1
+            },
+            "R": {
+              "yea": 33,
+              "nay": 161
+            }
+          }
+        }
+      ],
+      "best_floor_yes_pct": 55.8
+    },
+    {
       "bill_key": "2021:SB126",
       "session_year": 2021,
       "identifier": "SB126",
@@ -1524,15 +1464,6 @@
       "found_by_terms": [
         "landlord",
         "tenant"
-      ],
-      "sponsors": [
-        {
-          "name": "Perkins Kwoka",
-          "body": "Senate",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        }
       ],
       "roll_calls": [
         {
@@ -1588,15 +1519,6 @@
         "https://www.nhbr.com/support-solidifies-for-added-boost-to-new-hampshires-affordable-housing-fund/",
         "https://www.citizenscount.org/keys-new-hampshire-legislature-website"
       ],
-      "sponsors": [
-        {
-          "name": "Gray",
-          "body": "Senate",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        }
-      ],
       "roll_calls": [
         {
           "body": "Senate",
@@ -1646,43 +1568,6 @@
       "found_by_terms": [
         "housing"
       ],
-      "sponsors": [
-        {
-          "name": "Soucy",
-          "body": "Senate",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Watters",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Perkins Kwoka",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "Cavanaugh",
-          "body": "Senate",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        },
-        {
-          "name": "McWilliams",
-          "body": "House",
-          "party": null,
-          "prime": false,
-          "source": "gencourt_final_text"
-        }
-      ],
       "roll_calls": [
         {
           "body": "Senate",
@@ -1715,15 +1600,6 @@
       "stage": "became law (Laws of 2021, Chapter 224)",
       "found_by_terms": [
         "zoning"
-      ],
-      "sponsors": [
-        {
-          "name": "Kahn",
-          "body": "Senate",
-          "party": null,
-          "prime": true,
-          "source": "gencourt_final_text"
-        }
       ],
       "roll_calls": [
         {
@@ -1880,6 +1756,23 @@
       "best_floor_yes_pct": 100.0
     },
     {
+      "bill_key": "2022:HB1021",
+      "session_year": 2022,
+      "identifier": "HB1021",
+      "title": "prohibiting certain zoning regulation of land or structures used primarily for religious purposes.",
+      "plain_topic": "Restricted zoning regulation of land or structures used primarily for religious purposes.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "House concurred with the Senate amendment 2022-05-13 (voice vote); became law: Laws of 2022, Chapter 291 (NHMA Final Legislative Bulletin 2022: local regulations on primarily religious use of land restricted).",
+      "found_by_terms": [],
+      "stage_citations": [
+        "https://www.nhmunicipal.org/sites/default/files/uploads/legislative-bulletins/2022_nhma_legis_bltn_final_0.pdf"
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2022:HB1291",
       "session_year": 2022,
       "identifier": "HB1291",
@@ -1923,6 +1816,88 @@
         }
       ],
       "best_floor_yes_pct": 54.7
+    },
+    {
+      "bill_key": "2022:HB1661",
+      "session_year": 2022,
+      "identifier": "HB1661",
+      "title": "relative to regional career technical education agreements, an appropriation for preliminary work for a new legislative parking garage, health and human services, establishing",
+      "plain_topic": "Omnibus bill whose land-use sections made significant changes to planning, zoning, and development rules.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 272)",
+      "found_by_terms": [],
+      "roll_calls": [
+        {
+          "body": "House",
+          "date": "2022-03-31",
+          "motion": "Adopt Amendment",
+          "yeas": 271,
+          "nays": 65,
+          "yes_pct": 80.7,
+          "party_split": {
+            "?": {
+              "yea": 1,
+              "nay": 2
+            },
+            "D": {
+              "yea": 148,
+              "nay": 4
+            },
+            "I": {
+              "yea": 1,
+              "nay": 1
+            },
+            "R": {
+              "yea": 121,
+              "nay": 58
+            }
+          }
+        },
+        {
+          "body": "Senate",
+          "date": "2022-05-05",
+          "motion": "Ought to Pass w/Amendment",
+          "yeas": 23,
+          "nays": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "D": {
+              "yea": 10
+            },
+            "R": {
+              "yea": 13
+            }
+          }
+        },
+        {
+          "body": "House",
+          "date": "2022-05-26",
+          "motion": "Adopt CofC Report",
+          "yeas": 244,
+          "nays": 99,
+          "yes_pct": 71.1,
+          "party_split": {
+            "?": {
+              "nay": 2,
+              "yea": 2
+            },
+            "D": {
+              "yea": 158
+            },
+            "I": {
+              "nay": 2,
+              "yea": 2
+            },
+            "R": {
+              "yea": 82,
+              "nay": 95
+            }
+          }
+        }
+      ],
+      "best_floor_yes_pct": 100.0
     },
     {
       "bill_key": "2022:HB1662",
@@ -1973,6 +1948,40 @@
         }
       ],
       "best_floor_yes_pct": 100.0
+    },
+    {
+      "bill_key": "2022:SB223",
+      "session_year": 2022,
+      "identifier": "SB223",
+      "title": "relative to the minimum size of recovery houses.",
+      "plain_topic": "Changed the minimum size of recovery houses.",
+      "theme": "Homelessness and housing stability",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "Became law: Laws of 2022, Chapter 88 (NHMA Final Legislative Bulletin 2022).",
+      "found_by_terms": [],
+      "stage_citations": [
+        "https://www.nhmunicipal.org/sites/default/files/uploads/legislative-bulletins/2022_nhma_legis_bltn_final_0.pdf"
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2022:SB334",
+      "session_year": 2022,
+      "identifier": "SB334",
+      "title": "establishing a committee to study property blight in municipalities.",
+      "plain_topic": "Created a committee to study property blight in municipalities.",
+      "theme": "Housing studies, plans, and data",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "Became law: Laws of 2022, Chapter 167 (NHMA Final Legislative Bulletin 2022).",
+      "found_by_terms": [],
+      "stage_citations": [
+        "https://www.nhmunicipal.org/sites/default/files/uploads/legislative-bulletins/2022_nhma_legis_bltn_final_0.pdf"
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
     },
     {
       "bill_key": "2022:SB400",
@@ -2138,6 +2147,23 @@
       "best_floor_yes_pct": 46.8
     },
     {
+      "bill_key": "2023:HB296",
+      "session_year": 2023,
+      "identifier": "HB296",
+      "title": "relative to residential driveway permits.",
+      "plain_topic": "Altered local authority over residential driveway permits.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "Became law: Laws of 2023, Chapter 187 (NHMA Final Legislative Bulletin 2023: residential driveway authority altered).",
+      "found_by_terms": [],
+      "stage_citations": [
+        "https://www.nhmunicipal.org/sites/default/files/uploads/legislative-bulletins/2023_nhma_legis_bltn_final.pdf"
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2023:HB401",
       "session_year": 2023,
       "identifier": "HB401",
@@ -2178,6 +2204,65 @@
         }
       ],
       "best_floor_yes_pct": 42.0
+    },
+    {
+      "bill_key": "2023:HB42",
+      "session_year": 2023,
+      "identifier": "HB42",
+      "title": "relative to the operation of certain homeowners' associations.",
+      "plain_topic": "Expanded land use board authority over homeowners' associations.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 114)",
+      "found_by_terms": [],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2023:HB44",
+      "session_year": 2023,
+      "identifier": "HB44",
+      "title": "relative to permissible residential units in a residential zone.",
+      "plain_topic": "Would have allowed four homes by right on single-family lots served by municipal water and sewer.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "Killed on the House floor 2023-02-23: Ought to Pass failed 117-232 (SQL roll call), then Inexpedient to Legislate adopted by division vote 209-141 (House Journal 7). The bill would have allowed 4 residential units by right on single-family lots served by municipal water and sewer.",
+      "found_by_terms": [],
+      "stage_citations": [
+        "https://legiscan.com/NH/text/HB44/id/2621414",
+        "https://indepthnh.org/2023/02/23/the-natives-were-restless-in-the-n-h-house-thursday/",
+        "https://www.citizenscount.org/bills/hb-44-2023"
+      ],
+      "roll_calls": [
+        {
+          "body": "House",
+          "date": "2023-02-23",
+          "motion": "OTPA",
+          "yeas": 117,
+          "nays": 232,
+          "yes_pct": 33.5,
+          "party_split": {
+            "?": {
+              "nay": 3
+            },
+            "D": {
+              "yea": 96,
+              "nay": 75
+            },
+            "I": {
+              "yea": 1,
+              "nay": 1
+            },
+            "R": {
+              "yea": 20,
+              "nay": 153
+            }
+          }
+        }
+      ],
+      "best_floor_yes_pct": 33.5
     },
     {
       "bill_key": "2023:HB469",
@@ -2455,6 +2540,37 @@
       "best_floor_yes_pct": 50.0
     },
     {
+      "bill_key": "2023:SB231",
+      "session_year": 2023,
+      "identifier": "SB231",
+      "title": "establishing a historic housing tax credit and making appropriations for workforce housing and affordable housing.",
+      "plain_topic": "Workforce and affordable housing appropriations (with a proposed historic housing tax credit); its appropriations were enacted through the HB2 budget trailer.",
+      "theme": "State housing money and programs",
+      "relevance": "core",
+      "disposition": "content_enacted_via_hb2",
+      "stage": "Standalone bill did not pass as such; its provisions were enacted through HB2, the 2023 budget trailer (Chapter Law 79:39-43 - InvestNH and Affordable Housing Fund appropriations - and 79:564-565 - shelter funding), signed 2023-06-20, per the NH Office of Planning and Development 2023 legislation matrix.",
+      "found_by_terms": [],
+      "stage_citations": [
+        "https://www.nheconomy.com/getmedia/7e5dc8b2-6dbf-4b20-af7f-4bb0fa47e2b5/2023-OPD-Planning-and-Zoning-Legislation-Matrix-Final.pdf"
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2024:HB1065",
+      "session_year": 2024,
+      "identifier": "HB1065",
+      "title": "relative to fire sprinkler requirements in residential buildings.",
+      "plain_topic": "Extended the sprinkler exemption to three- and four-family homes and barred stricter local sprinkler codes.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 324)",
+      "found_by_terms": [],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2024:HB1199",
       "session_year": 2024,
       "identifier": "HB1199",
@@ -2546,6 +2662,20 @@
         }
       ],
       "best_floor_yes_pct": 50.3
+    },
+    {
+      "bill_key": "2024:HB1202",
+      "session_year": 2024,
+      "identifier": "HB1202",
+      "title": "relative to the issuance of permits for the alteration of driveways exiting onto public ways and relative to the definition of disability or special needs under the child care",
+      "plain_topic": "Required the state to issue residential driveway permits within 60 days.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 367)",
+      "found_by_terms": [],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
     },
     {
       "bill_key": "2024:HB1291",
@@ -2677,6 +2807,20 @@
       "best_floor_yes_pct": 75.1
     },
     {
+      "bill_key": "2024:HB1361",
+      "session_year": 2024,
+      "identifier": "HB1361",
+      "title": "relative to municipal land use regulation for manufactured housing and subdivisions.",
+      "plain_topic": "Required municipalities to provide realistic opportunities for manufactured housing and rewrote manufactured-home subdivision rules.",
+      "theme": "Manufactured, tiny, and factory-built homes",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 23)",
+      "found_by_terms": [],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2024:HB1396",
       "session_year": 2024,
       "identifier": "HB1396",
@@ -2717,6 +2861,87 @@
         }
       ],
       "best_floor_yes_pct": 51.7
+    },
+    {
+      "bill_key": "2024:HB1399",
+      "session_year": 2024,
+      "identifier": "HB1399",
+      "title": "allowing municipalities to permit 2 residential units in certain single-family residential zones.",
+      "plain_topic": "Would have let municipalities permit two residential units in certain single-family zones.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "core",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "found_by_terms": [],
+      "roll_calls": [
+        {
+          "body": "House",
+          "date": "2024-03-28",
+          "motion": "OTPA",
+          "yeas": 220,
+          "nays": 140,
+          "yes_pct": 61.1,
+          "party_split": {
+            "?": {
+              "yea": 1,
+              "nay": 1
+            },
+            "D": {
+              "yea": 152,
+              "nay": 29
+            },
+            "I": {
+              "nay": 1,
+              "yea": 1
+            },
+            "R": {
+              "yea": 66,
+              "nay": 109
+            }
+          }
+        }
+      ],
+      "best_floor_yes_pct": 61.1
+    },
+    {
+      "bill_key": "2024:HB1400",
+      "session_year": 2024,
+      "identifier": "HB1400",
+      "title": "relative to residential parking spaces, landlord-tenant law, unauthorized occupant evictions, and zoning procedures concerning residential housing.",
+      "plain_topic": "Housing omnibus: tax incentives for office-to-housing conversions, limits on local parking mandates, alternative parking, and faster local zoning amendments.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 370)",
+      "found_by_terms": [],
+      "roll_calls": [
+        {
+          "body": "House",
+          "date": "2024-06-13",
+          "motion": "Adopt CofC Report",
+          "yeas": 205,
+          "nays": 149,
+          "yes_pct": 57.9,
+          "party_split": {
+            "?": {
+              "yea": 2,
+              "nay": 1
+            },
+            "D": {
+              "nay": 28,
+              "yea": 148
+            },
+            "I": {
+              "nay": 2
+            },
+            "R": {
+              "yea": 55,
+              "nay": 118
+            }
+          }
+        }
+      ],
+      "best_floor_yes_pct": 57.9
     },
     {
       "bill_key": "2024:HB1470",
@@ -2805,6 +3030,20 @@
       "best_floor_yes_pct": 50.7
     },
     {
+      "bill_key": "2024:HB1567",
+      "session_year": 2024,
+      "identifier": "HB1567",
+      "title": "relative to zoning provisions concerning family and group family child care uses.",
+      "plain_topic": "Loosened municipal zoning rules for home-based child care.",
+      "theme": "Building more homes: zoning and land use",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 271)",
+      "found_by_terms": [],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2024:SB318",
       "session_year": 2024,
       "identifier": "SB318",
@@ -2837,6 +3076,34 @@
         }
       ],
       "best_floor_yes_pct": 0.0
+    },
+    {
+      "bill_key": "2024:SB406",
+      "session_year": 2024,
+      "identifier": "SB406",
+      "title": "making an appropriation to the department of health and human services to increase rates for shelter programs.",
+      "plain_topic": "Appropriated $2.5 million to raise the rates paid to homeless shelter programs.",
+      "theme": "Homelessness and housing stability",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 0290)",
+      "found_by_terms": [],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2024:SB454",
+      "session_year": 2024,
+      "identifier": "SB454",
+      "title": "increasing the annual real estate transfer tax revenue contribution to the affordable housing fund.",
+      "plain_topic": "Would have doubled the real estate transfer tax revenue flowing to the Affordable Housing Fund.",
+      "theme": "State housing money and programs",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "laid on the table in the House; never taken back up",
+      "found_by_terms": [],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
     },
     {
       "bill_key": "2024:SB538",

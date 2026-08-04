@@ -1,8 +1,8 @@
 {
   "collected_at": "2026-08-04T16:04:21.370073+00:00",
   "issue": "new-hampshire-01-housing-affordability",
-  "note": "NH discovery: SQL legislation (current biennium) + SQL roll-call titles (all years) + OpenStates backfill (older years, if key).",
-  "count": 149,
+  "note": "NH discovery: SQL legislation (current biennium) + SQL roll-call titles (all years) + OpenStates backfill (older years, if key). Supplemented with 2020-2024 bills identified in NHMA Final Legislative Bulletins, NH OPD legislation summaries, NH Housing's 2024 session summary, and NH Bulletin roundups (voice/division-vote bills the roll-call route cannot see); see discovery_source per bill.",
+  "count": 172,
   "bills": [
     {
       "session_year": 2020,
@@ -72,6 +72,16 @@
     },
     {
       "session_year": 2020,
+      "bill_no": "SB721",
+      "title": "relative to court review of planning board decisions and making an appropriation therefor.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:openstates"
+      ],
+      "discovery_source": "NHBR/Sulloway 2020 coverage: attempted repeal of the Housing Appeals Board"
+    },
+    {
+      "session_year": 2020,
       "bill_no": "SB726",
       "title": "(Second New Title) relative to programs to aid veterans' access to employment, housing, health care, and college degrees.",
       "found_by_terms": [
@@ -82,6 +92,16 @@
       ],
       "abstract": "",
       "openstates_url": null
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB735",
+      "title": "repealing the housing appeals board.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:openstates"
+      ],
+      "discovery_source": "NHBR/Sulloway 2020 coverage: attempted repeal of the Housing Appeals Board"
     },
     {
       "session_year": 2021,
@@ -95,6 +115,46 @@
       ],
       "abstract": "",
       "openstates_url": null
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB284",
+      "title": "relative to the restoration of involuntarily merged lots.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:legiscan"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2021: restoration of involuntarily merged lots (Chapter 136)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB286",
+      "title": "establishing a committee to study the response of law enforcement and the criminal justice system to homelessness in New Hampshire.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:index-only"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2021: committee on law enforcement response to homelessness (Chapter 39)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB332",
+      "title": "relative to deadlines for consideration of developments of regional impact by planning boards.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:index-only"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2021: planning board deadline extension (Chapter 69)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB377",
+      "title": "relative to the authority of the state fire marshal to grant an exemption from fire code requirements to recovery houses.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:openstates"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2021: recovery house fire code exemption (Chapter 26)"
     },
     {
       "session_year": 2021,
@@ -136,6 +196,16 @@
       ],
       "abstract": "",
       "openstates_url": null
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB102",
+      "title": "adopting omnibus legislation on property taxation.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:legiscan"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2021: Community Revitalization Tax Relief for Housing Development (Chapter 200)"
     },
     {
       "session_year": 2021,
@@ -193,6 +263,16 @@
     },
     {
       "session_year": 2022,
+      "bill_no": "HB1021",
+      "title": "prohibiting certain zoning regulation of land or structures used primarily for religious purposes.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:legiscan"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2022: local regulation of religious land use restricted (Chapter 291)"
+    },
+    {
+      "session_year": 2022,
       "bill_no": "HB1291",
       "title": "prohibiting discrimination against tenants holding certain vouchers for purposes of renting dwellings.",
       "found_by_terms": [
@@ -208,6 +288,16 @@
     },
     {
       "session_year": 2022,
+      "bill_no": "HB1661",
+      "title": "relative to regional career technical education agreements, an appropriation for preliminary work for a new legislative parking garage, health and human services, establishing",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:legiscan"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2022: land use statutes modified (Chapter 272)"
+    },
+    {
+      "session_year": 2022,
       "bill_no": "HB1662",
       "title": "(Second New Title) relative to the privacy obligations of the department of health and human services, an appropriation for housing expenses for homeless people and parameters thereof, electronic wage payments, and requiring online marketplaces to disclos",
       "found_by_terms": [
@@ -219,6 +309,26 @@
       ],
       "abstract": "",
       "openstates_url": null
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB223",
+      "title": "relative to the minimum size of recovery houses.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:index-only"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2022: minimum size of recovery houses (Chapter 88)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB334",
+      "title": "establishing a committee to study property blight in municipalities.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:index-only"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2022: committee to study property blight (Chapter 167)"
     },
     {
       "session_year": 2022,
@@ -278,6 +388,16 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "HB296",
+      "title": "relative to residential driveway permits.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:index-only"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2023: residential driveway authority (Chapter 187)"
+    },
+    {
+      "session_year": 2023,
       "bill_no": "HB401",
       "title": "relative to evictions based on the owner's intent to renovate the property.",
       "found_by_terms": [
@@ -288,6 +408,26 @@
       ],
       "abstract": "",
       "openstates_url": null
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB42",
+      "title": "relative to the operation of certain homeowners' associations.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:legiscan"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2023: land use board authority over homeowners associations (Chapter 114)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB44",
+      "title": "relative to permissible residential units in a residential zone.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:index-only"
+      ],
+      "discovery_source": "NH Bulletin 2023 coverage: statewide duplex/fourplex zoning bill"
     },
     {
       "session_year": 2023,
@@ -371,6 +511,26 @@
       "openstates_url": null
     },
     {
+      "session_year": 2023,
+      "bill_no": "SB231",
+      "title": "establishing a historic housing tax credit and making appropriations for workforce housing and affordable housing.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:index-only"
+      ],
+      "discovery_source": "NH OPD 2023 legislation matrix: historic housing tax credit + housing appropriations (enacted via HB2)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1065",
+      "title": "relative to fire sprinkler requirements in residential buildings.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:legiscan"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2024 / NH Bulletin: sprinkler exemption for 3-4 family homes (Chapter 324)"
+    },
+    {
       "session_year": 2024,
       "bill_no": "HB1199",
       "title": "relative to services of the office of the child advocate for youth experiencing homelessness and making an appropriation therefor.",
@@ -383,6 +543,16 @@
       ],
       "abstract": "",
       "openstates_url": null
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1202",
+      "title": "relative to the issuance of permits for the alteration of driveways exiting onto public ways and relative to the definition of disability or special needs under the child care",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:legiscan"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2024 / NH Bulletin: 60-day DOT residential driveway permits (Chapter 367)"
     },
     {
       "session_year": 2024,
@@ -413,6 +583,16 @@
     },
     {
       "session_year": 2024,
+      "bill_no": "HB1361",
+      "title": "relative to municipal land use regulation for manufactured housing and subdivisions.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:legiscan"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2024: manufactured home subdivision statutes rewrite (Chapter 23)"
+    },
+    {
+      "session_year": 2024,
       "bill_no": "HB1396",
       "title": "relative to prohibiting municipal inspections of owner-occupied units of multi-unit housing.",
       "found_by_terms": [
@@ -423,6 +603,26 @@
       ],
       "abstract": "",
       "openstates_url": null
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1399",
+      "title": "allowing municipalities to permit 2 residential units in certain single-family residential zones.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:legiscan"
+      ],
+      "discovery_source": "NHBR 2024 roundup: residential-units bill referred to interim study by Senate"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1400",
+      "title": "relative to residential parking spaces, landlord-tenant law, unauthorized occupant evictions, and zoning procedures concerning residential housing.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:legiscan"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2024 / NH Bulletin: housing omnibus - office conversions, parking limits, zoning process (Chapter 370)"
     },
     {
       "session_year": 2024,
@@ -453,6 +653,16 @@
     },
     {
       "session_year": 2024,
+      "bill_no": "HB1567",
+      "title": "relative to zoning provisions concerning family and group family child care uses.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:legiscan"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2024: home-based childcare zoning (Chapter 271)"
+    },
+    {
+      "session_year": 2024,
       "bill_no": "SB318",
       "title": "(New Title) converting the manufactured housing installations standards board and the board of examiners of nursing home administrators into advisory boards, and creating a new advisory board named the advisory board of massage therapists, reflexologists,",
       "found_by_terms": [
@@ -464,6 +674,26 @@
       ],
       "abstract": "",
       "openstates_url": null
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB406",
+      "title": "making an appropriation to the department of health and human services to increase rates for shelter programs.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:legiscan"
+      ],
+      "discovery_source": "NHMA Final Bulletin 2024: $2.5M to raise homeless shelter program rates (Chapter 290)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB454",
+      "title": "increasing the annual real estate transfer tax revenue contribution to the affordable housing fund.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:legiscan"
+      ],
+      "discovery_source": "NH Bulletin 2024: doubling transfer-tax revenue to the Affordable Housing Fund (failed)"
     },
     {
       "session_year": 2024,

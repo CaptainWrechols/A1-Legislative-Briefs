@@ -9,35 +9,58 @@ One row per bill found by the housing search, 2020–2026. 'Tier' marks how cent
 | 2020 | HB1391 | Would have banned housing discrimination against people with pets. | Renting: costs, fees, and rules | Did not pass | core |
 | 2020 | HB1582 | Veterans omnibus that included programs helping veterans access housing. | State housing money and programs | Became law | adjacent |
 | 2020 | HB1629 | Would have expanded training and procedural requirements for local zoning and planning boards. | Land use boards, appeals, and the courts | Did not pass | core |
+| 2020 | SB721 | Would have replaced the new Housing Appeals Board with court review of planning board appeals. | Land use boards, appeals, and the courts | Did not pass | core |
 | 2020 | SB726 | Veterans services omnibus that included housing-access programs. | State housing money and programs | Did not pass | adjacent |
+| 2020 | SB735 | Would have repealed the Housing Appeals Board in its first year. | Land use boards, appeals, and the courts | Did not pass | core |
 | 2021 | HB15 | Extended the rooms and meals tax to online booking facilitators; matched by rental search terms but not a housing bill. | — | Became law | context |
+| 2021 | HB284 | Removed the deadline for restoring involuntarily merged residential lots. | Building more homes: zoning and land use | Became law | adjacent |
+| 2021 | HB286 | Created a study committee on law enforcement's response to homelessness. | Homelessness and housing stability | Became law | adjacent |
+| 2021 | HB332 | Gave planning boards 30 extra days to act on developments of regional impact. | Land use boards, appeals, and the courts | Became law | adjacent |
+| 2021 | HB377 | Let the state fire marshal exempt recovery houses from certain fire code requirements. | Homelessness and housing stability | Became law | adjacent |
 | 2021 | HB503 | Wrote the state Council on Housing Stability into law (with unrelated telehealth provisions). | Homelessness and housing stability | Became law | core |
 | 2021 | HB586 | Would have required land-board training and created financial incentives for affordable housing development. | State housing money and programs | Did not pass | core |
 | 2021 | HB610 | Banking omnibus that also created the New Hampshire housing and conservation planning program. | State housing money and programs | Became law | adjacent |
+| 2021 | SB102 | Property-tax omnibus that created community revitalization (79-E) tax relief for housing development. | State housing money and programs | Became law | adjacent |
 | 2021 | SB126 | Omnibus rewrite of landlord-tenant court proceedings. | Eviction and tenant protections | Became law | core |
 | 2021 | SB152 | Would have added $10 million to the Affordable Housing Fund and extended homelessness housing supports. | State housing money and programs | Did not pass | core |
 | 2021 | SB73 | Would have added green building standards to the state's low- and moderate-income housing loan program. | State housing money and programs | Did not pass | adjacent |
 | 2021 | SB86 | Omnibus planning and zoning bill: land-board training, housing data, and local process changes. | Building more homes: zoning and land use | Became law | core |
+| 2022 | HB1021 | Restricted zoning regulation of land or structures used primarily for religious purposes. | Building more homes: zoning and land use | Became law | adjacent |
 | 2022 | HB1291 | Would have barred landlords from turning away tenants because they hold a housing voucher. | Eviction and tenant protections | Did not pass | core |
+| 2022 | HB1661 | Omnibus bill whose land-use sections made significant changes to planning, zoning, and development rules. | Building more homes: zoning and land use | Became law | core |
 | 2022 | HB1662 | Health-department omnibus that included an appropriation for housing expenses for homeless people. | Homelessness and housing stability | Did not pass | adjacent |
+| 2022 | SB223 | Changed the minimum size of recovery houses. | Homelessness and housing stability | Became law | adjacent |
+| 2022 | SB334 | Created a committee to study property blight in municipalities. | Housing studies, plans, and data | Became law | adjacent |
 | 2022 | SB400 | Would have required land-board training and created affordable-housing development incentives (retry of 2021 HB586). | State housing money and programs | Did not pass | core |
 | 2022 | SB415 | Would have raised the rates the state pays homeless shelters. | Homelessness and housing stability | Did not pass | core |
 | 2023 | HB111 | Created a study committee on electric-vehicle charging for residential renters. | Renting: costs, fees, and rules | Became law | adjacent |
 | 2023 | HB112 | Would have given tenants the right to notice before their multifamily building is sold. | Eviction and tenant protections | Did not pass | core |
+| 2023 | HB296 | Altered local authority over residential driveway permits. | Building more homes: zoning and land use | Became law | adjacent |
 | 2023 | HB401 | Would have limited evictions based on an owner's intent to renovate. | Eviction and tenant protections | Did not pass | core |
+| 2023 | HB42 | Expanded land use board authority over homeowners' associations. | Building more homes: zoning and land use | Became law | adjacent |
+| 2023 | HB44 | Would have allowed four homes by right on single-family lots served by municipal water and sewer. | Building more homes: zoning and land use | Did not pass | core |
 | 2023 | HB469 | Would have barred voucher discrimination by landlords (retry of 2022 HB1291). | Eviction and tenant protections | Did not pass | core |
 | 2023 | HB477 | Would have barred municipal inspections of owner-occupied units in multi-unit housing. | Renting: costs, fees, and rules | Did not pass | adjacent |
 | 2023 | HB567 | Would have required advance notice of rent increases in certain residential rentals. | Renting: costs, fees, and rules | Did not pass | core |
 | 2023 | HB95 | Would have let municipalities adopt their own rental practice regulations. | Renting: costs, fees, and rules | Did not pass | core |
 | 2023 | SB145 | Housing Champion designation and grants for municipalities that welcome housing; enacted through the HB2 budget trailer. | State housing money and programs | Enacted via HB2 | core |
 | 2023 | SB203 | Would have restructured the Board of Manufactured Housing's membership and expanded its jurisdiction. | Manufactured, tiny, and factory-built homes | Did not pass | core |
+| 2023 | SB231 | Workforce and affordable housing appropriations (with a proposed historic housing tax credit); its appropriations were enacted through the HB2 budget trailer. | State housing money and programs | Enacted via HB2 | core |
+| 2024 | HB1065 | Extended the sprinkler exemption to three- and four-family homes and barred stricter local sprinkler codes. | Building more homes: zoning and land use | Became law | adjacent |
 | 2024 | HB1199 | Child-advocate services and funding for youth experiencing homelessness. | Homelessness and housing stability | Did not pass | adjacent |
+| 2024 | HB1202 | Required the state to issue residential driveway permits within 60 days. | Building more homes: zoning and land use | Became law | adjacent |
 | 2024 | HB1291 | Would have allowed two accessory dwelling units per lot by right statewide. | Accessory dwelling units (ADUs) | Did not pass | core |
 | 2024 | HB1359 | Changed who counts as an 'abutter' able to appeal zoning decisions. | Land use boards, appeals, and the courts | Became law | core |
+| 2024 | HB1361 | Required municipalities to provide realistic opportunities for manufactured housing and rewrote manufactured-home subdivision rules. | Manufactured, tiny, and factory-built homes | Became law | core |
 | 2024 | HB1396 | Would have barred municipal inspections of owner-occupied multi-unit housing (retry of 2023 HB477). | Renting: costs, fees, and rules | Did not pass | adjacent |
+| 2024 | HB1399 | Would have let municipalities permit two residential units in certain single-family zones. | Building more homes: zoning and land use | Interim study | core |
+| 2024 | HB1400 | Housing omnibus: tax incentives for office-to-housing conversions, limits on local parking mandates, alternative parking, and faster local zoning amendments. | Building more homes: zoning and land use | Became law | core |
 | 2024 | HB1470 | Would have created a study committee on a state low-income housing tax credit. | State housing money and programs | Did not pass | adjacent |
 | 2024 | HB1545 | Would have directed surplus state property toward affordable housing. | State housing money and programs | Did not pass | core |
+| 2024 | HB1567 | Loosened municipal zoning rules for home-based child care. | Building more homes: zoning and land use | Became law | adjacent |
 | 2024 | SB318 | Would have converted the manufactured-housing installation standards board into an advisory board. | Manufactured, tiny, and factory-built homes | Vetoed | adjacent |
+| 2024 | SB406 | Appropriated $2.5 million to raise the rates paid to homeless shelter programs. | Homelessness and housing stability | Became law | core |
+| 2024 | SB454 | Would have doubled the real estate transfer tax revenue flowing to the Affordable Housing Fund. | State housing money and programs | Did not pass | core |
 | 2024 | SB538 | Would have streamlined local zoning procedures for residential housing. | Building more homes: zoning and land use | Did not pass | core |
 | 2025 | CACR1 | Constitutional amendment about a lieutenant governor; matched by search terms but unrelated to housing. | — | Did not pass | context |
 | 2025 | HB119 | Rental-car fleet registration; not a housing bill. | — | Did not pass | context |

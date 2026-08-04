@@ -55,6 +55,7 @@ KEEP = {
     },
     2023: {
         "79:39": ("core", "Wrote the InvestNH fund and program into law - a standing fund that makes grants and loans to speed up municipal approvals and support housing construction. (InvestNH began in 2022 with federal money; this made it permanent in statute.)"),
+        "79:41": ("core", "Put $10 million into the InvestNH fund for its municipal-approval and housing-construction grants."),
         "79:43": ("core", "Put another $25 million into the Affordable Housing Fund, non-lapsing, for financing or matching funds for affordable housing."),
         "79:196": ("adjacent", "Restored $1.5 million for the congregate housing and congregate services programs for older adults that the 2021 budget had suspended."),
         "79:239": ("adjacent", "Within a package of Medicaid rate increases, raised the housing reimbursement rates paid on behalf of people receiving community mental health services."),

@@ -1,8 +1,9 @@
 # Appendices — Housing Affordability in New Hampshire (citizen-v1)
 
-Long-form detail behind the two-page citizen front brief. 149 bills were
-found for 2020–2026; 135 policy bills carry the headline numbers (13 context
-bills and one biennium-carryover duplicate are kept for audit).
+Long-form detail behind the two-page citizen front brief. 172 bills are in
+the set for 2020–2026 (keyword discovery plus a documented supplement from
+year-end official indexes); 158 policy bills carry the headline numbers (13
+context bills and one biennium-carryover duplicate are kept for audit).
 
 | File | Contents |
 |---|---|

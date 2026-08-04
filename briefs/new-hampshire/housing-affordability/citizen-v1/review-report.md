@@ -2,7 +2,9 @@
 
 **Status: READY FOR HUMAN REVIEW**
 
-Reviewed 2026-08-04 by citizen-reviewer v2.3 (automated pass; agent spec
+Re-reviewed 2026-08-04 (citizen-v1.1: 2020–2024 supplement of 23 bills from
+year-end official indexes; headline numbers now 158 policy bills / 48 laws) by
+citizen-reviewer v2.3 (automated pass; agent spec
 `agents/citizen-reviewer/AGENT.md`). Machine scans ran against
 `working/new-hampshire/housing-affordability/evidence-pack.json`; the reality
 map behind the brief passed its own programmatic fact-check
@@ -30,7 +32,7 @@ map behind the brief passed its own programmatic fact-check
 
 | ID | Result | Notes |
 |---|---|---|
-| C1 | PASS | `citizen-brief.html` renders exactly 2 US Letter pages in headless Chrome; `citizen-brief.docx` renders exactly 2 pages in LibreOffice. |
+| C1 | PASS | `citizen-brief.html` renders exactly 2 US Letter pages in headless Chrome; `citizen-brief.docx` renders exactly 2 pages in LibreOffice (re-verified after the v1.1 revision). |
 | C2 | PASS | Page 1: landscape, Key numbers stat strip, HB2 budget-bill callout (mission requirement), and the enacted-law map. |
 | C3 | PASS | Bill-by-bill detail, all roll calls, sponsors, HB2 sections, and limits live in Appendices A–I. |
 
@@ -38,8 +40,8 @@ map behind the brief passed its own programmatic fact-check
 
 | ID | Result | Notes |
 |---|---|---|
-| D1 | PASS | All 23 bills cited in the front brief exist in Appendix A / the evidence pack (automated scan; zero missing). |
-| D2 | PASS | Every vote pair cited in the brief matches a roll call in the official record or an HB2 whole-bill vote (automated scan; the only non-matches were the year range "2025–2026" and "Rule 3-23", which are not votes). Party-split claims (SB86 2021, HB1291 2024, HB1196 2026) match the ballot-level party tallies. |
+| D1 | PASS | All 27 bills cited in the front brief exist in Appendix A / the evidence pack (automated scan; zero missing). |
+| D2 | PASS | Every vote pair cited in the brief matches a roll call in the official record or an HB2 whole-bill vote, except SB454's 180–176 tabling, which is a division-vote tally recorded in the official docket (House Journal 12, p. 86) and described as such in the brief. Party-split claims (SB86 2021, HB1291 2024, HB44 2023, HB1196 2026) match the ballot-level party tallies. |
 | D3 | PASS | Data limits stated in Appendix F, including the 2020–2024 roll-call-only coverage gap. |
 | D4 | N/A | No inferred committee Yeas are presented. |
 
@@ -76,12 +78,13 @@ None.
 
 ## Notes for human reviewers
 
-- The 2020–2024 record covers floor-voted bills plus HB2 only (no
-  OpenStates/LegiScan key in this environment). Dispositions for eight older
-  bills rest on archived official dockets or cited reporting; citations are in
-  `working/new-hampshire/housing-affordability/dispositions.json`. Re-running
-  the `collect-nh` GitHub Actions workflow with the repo's OpenStates secret
-  would close the older-year gap; headline framing already scopes claims to
+- 2020–2024 coverage combines roll-call discovery with a documented supplement
+  of 23 bills from year-end official indexes (NHMA, OPD, NH Housing, NH
+  Bulletin), each resolved against archived official dockets. Major enacted
+  laws and prominent failures are covered; low-profile older bills that died
+  quietly by voice vote may still be missing. Running the `collect-nh` GitHub
+  Actions workflow (which holds the repo's OpenStates secret) remains the way
+  to make the older years provably complete; headline framing scopes claims to
   "in this record".
 - HB1336 (2026) is described as "override pending this fall" based on the
   docket showing a veto with no override action as of collection; re-check

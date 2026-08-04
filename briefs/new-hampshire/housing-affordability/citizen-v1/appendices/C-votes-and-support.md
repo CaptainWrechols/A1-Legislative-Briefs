@@ -16,6 +16,7 @@ Every floor roll call recorded for bills in the set, from the official General C
 | 2021 | HB503 | House | 2021-04-08 | Reconsider | 142 | 214 | 39.9 | R 136–48, D 3–160, I 1–3 |
 | 2021 | HB586 | House | 2021-02-26 | Remove from Table | 164 | 175 | 48.4 | R 23–163, D 137–7, I 2–2 |
 | 2021 | HB610 | Senate | 2021-06-24 | Conference Committee Report | 23 | 1 | 95.8 | R 14–0, D 9–1 |
+| 2021 | SB102 | House | 2021-06-04 | OTP | 208 | 165 | 55.8 | R 33–161, D 171–1, I 3–1 |
 | 2021 | SB126 | Senate | 2021-03-18 | Committee Amendment 0733s | 24 | 0 | 100.0 | R 14–0, D 10–0 |
 | 2021 | SB126 | Senate | 2021-03-18 | Ought to Pass w/Amendment | 24 | 0 | 100.0 | R 14–0, D 10–0 |
 | 2021 | SB152 | Senate | 2021-03-04 | Committee Amendment 0450s | 24 | 0 | 100.0 | R 14–0, D 10–0 |
@@ -29,6 +30,9 @@ Every floor roll call recorded for bills in the set, from the official General C
 | 2021 | SB86 | House | 2021-06-04 | OTPA | 208 | 167 | 55.5 | R 196–0, D 8–164, I 2–2 |
 | 2021 | SB86 | House | 2021-06-04 | Reconsider | 169 | 200 | 45.8 | R 0–195, D 166–2, I 2–1 |
 | 2022 | HB1291 | House | 2022-03-16 |   | 179 | 148 | 54.7 | R 172–1, D 4–144, I 2–2 |
+| 2022 | HB1661 | House | 2022-03-31 | Adopt Amendment | 271 | 65 | 80.7 | R 121–58, D 148–4, I 1–1 |
+| 2022 | HB1661 | Senate | 2022-05-05 | Ought to Pass w/Amendment | 23 | 0 | 100.0 | R 13–0, D 10–0 |
+| 2022 | HB1661 | House | 2022-05-26 | Adopt CofC Report | 244 | 99 | 71.1 | R 82–95, D 158–0, I 2–2 |
 | 2022 | HB1662 | Senate | 2022-05-05 | Floor Amendment | 24 | 0 | 100.0 | R 14–0, D 10–0 |
 | 2022 | HB1662 | Senate | 2022-05-05 | Floor Amendment | 24 | 0 | 100.0 | R 14–0, D 10–0 |
 | 2022 | SB400 | Senate | 2022-03-17 | Ought to Pass w/Amendment | 13 | 11 | 54.2 | R 3–11, D 10–0 |
@@ -36,6 +40,7 @@ Every floor roll call recorded for bills in the set, from the official General C
 | 2023 | HB111 | House | 2023-02-23 | Reconsider | 170 | 177 | 49.0 | R 166–3, D 2–170, I 1–2 |
 | 2023 | HB112 | House | 2023-03-09 | OTP | 175 | 199 | 46.8 | R 3–189, D 168–7, I 2–2 |
 | 2023 | HB401 | House | 2023-03-09 | OTP | 154 | 213 | 42.0 | R 2–187, D 150–22, I 2–1 |
+| 2023 | HB44 | House | 2023-02-23 | OTPA | 117 | 232 | 33.5 | R 20–153, D 96–75, I 1–1 |
 | 2023 | HB469 | House | 2023-03-09 | OTP | 165 | 206 | 44.5 | R 1–190, D 161–12, I 2–2 |
 | 2023 | HB477 | House | 2023-03-09 | ITL | 179 | 191 | 48.4 | R 12–179, D 163–9, I 2–2 |
 | 2023 | HB567 | House | 2023-03-09 | OTP | 166 | 207 | 44.5 | R 0–191, D 164–11, I 2–2 |
@@ -51,6 +56,8 @@ Every floor roll call recorded for bills in the set, from the official General C
 | 2024 | HB1291 | Senate | 2024-05-22 | Floor Amendment | 8 | 16 | 33.3 | R 0–14, D 8–2 |
 | 2024 | HB1359 | House | 2024-03-07 | OTP | 265 | 88 | 75.1 | R 106–77, D 155–11, I 2–0 |
 | 2024 | HB1396 | House | 2024-02-08 | ITL | 195 | 182 | 51.7 | R 14–177, D 179–3, I 0–1 |
+| 2024 | HB1399 | House | 2024-03-28 | OTPA | 220 | 140 | 61.1 | R 66–109, D 152–29, I 1–1 |
+| 2024 | HB1400 | House | 2024-06-13 | Adopt CofC Report | 205 | 149 | 57.9 | R 55–118, D 148–28, I 0–2 |
 | 2024 | HB1470 | House | 2024-03-21 | Indefinitely Postpone | 164 | 162 | 50.3 | R 161–1, D 1–160, I 1–0 |
 | 2024 | HB1545 | House | 2024-03-28 | Table | 190 | 185 | 50.7 | R 186–3, D 2–179, I 1–1 |
 | 2024 | SB318 | Senate | 2024-10-10 | VETO MESSAGE - Roll Call Required | 0 | 23 | 0.0 | R 0–13, D 0–10 |
@@ -92,6 +99,7 @@ Bills that won a floor majority somewhere and still did not become law.
 | 2021 SB152 | Would have added $10 million to the Affordable Housing Fund and extended homelessness housing supports. | Senate 24-0 (Ought to Pass w/Amendment) | Passed the Senate 24-0 (SQL roll call, 2021-03-04). The House voted it Inexpedient to Legislate on 2021-06-03 (no roll call recorded) - killed in the House. Its |
 | 2022 SB400 | Would have required land-board training and created affordable-housing development incentives (retry of 2021 HB586). | Senate 13-11 (Ought to Pass w/Amendment) | laid on the table in the House; never taken back up |
 | 2024 HB1291 | Would have allowed two accessory dwelling units per lot by right statewide. | House 220-143 (OTPA) | Passed the House (SQL roll call: OTPA 220-143, 2024-03-28). In the Senate on 2024-05-22 a floor amendment failed by roll call 8-16 (matches the SQL roll call) a |
+| 2024 HB1399 | Would have let municipalities permit two residential units in certain single-family zones. | House 220-140 (OTPA) | sent to interim study by the Senate |
 | 2025 SB113 | Would have funded homeless services and homelessness prevention. | Senate 23-0 (Ought to Pass) | killed at the Senate's end-of-year deadline (Senate Rule 3-23) |
 | 2026 HB1196 | Would have repealed the state Housing Champion designation and grant program. | House 185-166 (OTP) | killed on the Senate floor (Inexpedient to Legislate) |
 | 2026 HB1336 | Would have allowed exceptions to the residential security-deposit cap for applicants who fail standard screening. | Senate 14-9 (Ought to Pass w/Amendment) | vetoed (no override action recorded as of collection) |

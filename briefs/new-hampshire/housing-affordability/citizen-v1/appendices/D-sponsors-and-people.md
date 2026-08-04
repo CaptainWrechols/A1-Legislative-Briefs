@@ -27,19 +27,13 @@ Cross-party sponsor teams appeared on **42** policy bills (both major parties am
 
 | Year | Bill | Primary sponsor(s) | All sponsors |
 |---|---|---|---|
-| 2020 | HB1160 | Edgar | Edgar (?), Loughman (?), Cushing (?), Maggiore (?), Cleaver (?), Bushway (?), Almy (?), Somssich (?), +5 more |
-| 2020 | HB1247 | Conley | Conley (?), Griffith (?), Telerski (?), Schultz (?), Chase (?), Vincent (?), Wazir (?), Kenney (?) |
-| 2020 | HB1391 | Read | Read (?), Schultz (?), Buchanan (?) |
-| 2020 | HB1582 | Roy | Roy (?), Aron (?) |
-| 2020 | HB1629 | Griffith | Griffith (?), Alexander Jr. (?), Loughman (?), Lucas (?), Butler (?), Hennessey (?) |
-| 2020 | SB726 | Morgan | Morgan (?), Sherman (?), Bradley (?), Birdsell (?), D'Allesandro (?), Rosenwald (?), Fuller Clark (?), Cavanaugh (?), +6 more |
-| 2021 | HB503 | Long | Long (?), Wilhelm (?) |
-| 2021 | HB586 | Alexander Jr. | Alexander Jr. (?), Lascelles (?), Burroughs (?), Umberger (?), Griffith (?), Hennessey (?), Perkins Kwoka (?) |
-| 2021 | HB610 | Hunt | Hunt (?) |
-| 2021 | SB126 | Perkins Kwoka | Perkins Kwoka (?) |
-| 2021 | SB152 | Gray | Gray (?) |
-| 2021 | SB73 | Soucy | Soucy (?), Watters (?), Perkins Kwoka (?), Cavanaugh (?), McWilliams (?) |
-| 2021 | SB86 | Kahn | Kahn (?) |
+| 2020 | SB721 | Dietsch | Dietsch (?), Fuller Clark (?), Mullen (?), Maggiore (?) |
+| 2020 | SB735 | Birdsell | Birdsell (?), Sherman (?), Dietsch (?), Ward (?), O'Connor (?), B. Griffin (?), Edwards (?), Gould (?), +1 more |
+| 2021 | HB284 | McBeath | McBeath (?) |
+| 2021 | HB286 | Klein-Knight | Klein-Knight (?), Moran (?), Massimilla (?), Griffith (?), Labranche (?), Oxaal (?), Bouchard (?), Stevens (?) |
+| 2021 | HB332 | Seaworth | Seaworth (?), Birdsell (?) |
+| 2021 | HB377 | Connors | Connors (?), Cornell (?), Goley (?), Snow (?), D'Allesandro (?) |
+| 2021 | SB102 | Perkins Kwoka | Perkins Kwoka (?) |
 | 2025 | HB168 | Diane Pauer | Diane Pauer (R), Kevin Avard (R), Tom Dolan (R), Richard Lascelles (R), Jim Maggiore (D), Charles Melvin (R), Denise Ricciardi (R), Daniel Veilleux (D), +1 more |
 | 2025 | HB229 | Michael Vose | Michael Vose (R), Gregory Hill (R), Timothy Lang (R), Donald McFarlane (R), Dan McGuire (R), Diane Pauer (R), Walter Spilsbury (R), Len Turcotte (R), +1 more |
 | 2025 | HB309 | Maureen Mooney | Maureen Mooney (R), Bill Boyd (R), Daniel Innis (R), Julie Miles (R) |

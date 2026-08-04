@@ -2,7 +2,7 @@
 
 Plain-language limits of the collected record. Anyone quoting the brief should know these.
 
-- 2020-2024 discovery is roll-call-based: GenCourt keeps only the current biennium's bill list, and no API key or bulk file was available for the OpenStates/LegiScan backfill in this run. Bills from 2020-2024 that died without any floor roll call are therefore missing from the set. The set under-counts failures in those years, so cross-year failure comparisons are not safe; 2025-2026 coverage is complete from the official database.
+- 2020-2024 discovery is two-layered: (1) bills that received a floor roll call (GenCourt keeps only the current biennium's bill list, and no API key or bulk file was available for the OpenStates/LegiScan backfill in this run); plus (2) a documented supplement of 23 bills identified in year-end official/civic indexes (NHMA Final Legislative Bulletins 2021-2024, NH OPD legislation summaries, NH Housing's 2024 session summary, NH Bulletin roundups) and resolved against archived official dockets. Major enacted laws and prominent failures are covered; low-profile 2020-2024 bills that died quietly by voice vote may still be missing, so cross-year failure-rate comparisons remain unsafe. 2025-2026 coverage is complete from the official database.
 - Sponsor names are complete for 2025-2026 (SQL) and for 2020-2021 (official final-text pages); they are absent for most 2022-2024 bills.
 - NH kills most bills by voice vote or on the consent calendar; a bill with no roll call is not necessarily uncontroversial.
 - Committee votes appear only where a committee report recorded them (e.g. 'Vote 10-8; RC' in the docket); there is no complete committee-vote table.

@@ -33,6 +33,8 @@ THEMES = {
 # (plain_topic, theme_key, relevance)
 E = {
     # ---------------- 2020 ----------------
+    "2020:SB721": ("Would have replaced the new Housing Appeals Board with court review of planning board appeals.", "T8", "core"),
+    "2020:SB735": ("Would have repealed the Housing Appeals Board in its first year.", "T8", "core"),
     "2020:HB1160": ("Would have let towns collect an occupancy fee from operators of local short-term room rentals.", "T4", "adjacent"),
     "2020:HB1247": ("Paused evictions and mortgage foreclosures for nonpayment during the COVID-19 emergency and set repayment rules.", "T5", "core"),
     "2020:HB1391": ("Would have banned housing discrimination against people with pets.", "T4", "core"),
@@ -48,11 +50,20 @@ E = {
     "2021:SB152": ("Would have added $10 million to the Affordable Housing Fund and extended homelessness housing supports.", "T3", "core"),
     "2021:SB73": ("Would have added green building standards to the state's low- and moderate-income housing loan program.", "T3", "adjacent"),
     "2021:SB86": ("Omnibus planning and zoning bill: land-board training, housing data, and local process changes.", "T1", "core"),
+    "2021:SB102": ("Property-tax omnibus that created community revitalization (79-E) tax relief for housing development.", "T3", "adjacent"),
+    "2021:HB377": ("Let the state fire marshal exempt recovery houses from certain fire code requirements.", "T6", "adjacent"),
+    "2021:HB286": ("Created a study committee on law enforcement's response to homelessness.", "T6", "adjacent"),
+    "2021:HB284": ("Removed the deadline for restoring involuntarily merged residential lots.", "T1", "adjacent"),
+    "2021:HB332": ("Gave planning boards 30 extra days to act on developments of regional impact.", "T8", "adjacent"),
     # ---------------- 2022 ----------------
     "2022:HB1291": ("Would have barred landlords from turning away tenants because they hold a housing voucher.", "T5", "core"),
     "2022:HB1662": ("Health-department omnibus that included an appropriation for housing expenses for homeless people.", "T6", "adjacent"),
     "2022:SB400": ("Would have required land-board training and created affordable-housing development incentives (retry of 2021 HB586).", "T3", "core"),
     "2022:SB415": ("Would have raised the rates the state pays homeless shelters.", "T6", "core"),
+    "2022:HB1661": ("Omnibus bill whose land-use sections made significant changes to planning, zoning, and development rules.", "T1", "core"),
+    "2022:HB1021": ("Restricted zoning regulation of land or structures used primarily for religious purposes.", "T1", "adjacent"),
+    "2022:SB223": ("Changed the minimum size of recovery houses.", "T6", "adjacent"),
+    "2022:SB334": ("Created a committee to study property blight in municipalities.", "T9", "adjacent"),
     # ---------------- 2023 ----------------
     "2023:HB111": ("Created a study committee on electric-vehicle charging for residential renters.", "T4", "adjacent"),
     "2023:HB112": ("Would have given tenants the right to notice before their multifamily building is sold.", "T5", "core"),
@@ -63,6 +74,10 @@ E = {
     "2023:HB95": ("Would have let municipalities adopt their own rental practice regulations.", "T4", "core"),
     "2023:SB145": ("Housing Champion designation and grants for municipalities that welcome housing; enacted through the HB2 budget trailer.", "T3", "core"),
     "2023:SB203": ("Would have restructured the Board of Manufactured Housing's membership and expanded its jurisdiction.", "T7", "core"),
+    "2023:HB42": ("Expanded land use board authority over homeowners' associations.", "T1", "adjacent"),
+    "2023:HB296": ("Altered local authority over residential driveway permits.", "T1", "adjacent"),
+    "2023:HB44": ("Would have allowed four homes by right on single-family lots served by municipal water and sewer.", "T1", "core"),
+    "2023:SB231": ("Workforce and affordable housing appropriations (with a proposed historic housing tax credit); its appropriations were enacted through the HB2 budget trailer.", "T3", "core"),
     # ---------------- 2024 ----------------
     "2024:HB1199": ("Child-advocate services and funding for youth experiencing homelessness.", "T6", "adjacent"),
     "2024:HB1291": ("Would have allowed two accessory dwelling units per lot by right statewide.", "T2", "core"),
@@ -72,6 +87,14 @@ E = {
     "2024:HB1545": ("Would have directed surplus state property toward affordable housing.", "T3", "core"),
     "2024:SB318": ("Would have converted the manufactured-housing installation standards board into an advisory board.", "T7", "adjacent"),
     "2024:SB538": ("Would have streamlined local zoning procedures for residential housing.", "T1", "core"),
+    "2024:HB1400": ("Housing omnibus: tax incentives for office-to-housing conversions, limits on local parking mandates, alternative parking, and faster local zoning amendments.", "T1", "core"),
+    "2024:HB1361": ("Required municipalities to provide realistic opportunities for manufactured housing and rewrote manufactured-home subdivision rules.", "T7", "core"),
+    "2024:HB1065": ("Extended the sprinkler exemption to three- and four-family homes and barred stricter local sprinkler codes.", "T1", "adjacent"),
+    "2024:HB1202": ("Required the state to issue residential driveway permits within 60 days.", "T1", "adjacent"),
+    "2024:SB406": ("Appropriated $2.5 million to raise the rates paid to homeless shelter programs.", "T6", "core"),
+    "2024:HB1567": ("Loosened municipal zoning rules for home-based child care.", "T1", "adjacent"),
+    "2024:SB454": ("Would have doubled the real estate transfer tax revenue flowing to the Affordable Housing Fund.", "T3", "core"),
+    "2024:HB1399": ("Would have let municipalities permit two residential units in certain single-family zones.", "T1", "core"),
     # ---------------- 2025 ----------------
     "2025:CACR1": ("Constitutional amendment about a lieutenant governor; matched by search terms but unrelated to housing.", "CTX", "context"),
     "2025:HB119": ("Rental-car fleet registration; not a housing bill.", "CTX", "context"),

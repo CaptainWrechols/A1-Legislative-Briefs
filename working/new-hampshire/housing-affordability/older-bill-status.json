@@ -1,5 +1,5 @@
 {
-  "note": "Disposition evidence for 2020-2024 bills. For 2020-2021, gc.nh.gov/legislation/{year}/{bill}.html serves the LATEST VERSION of every bill: a 'CHAPTER N' header means enacted law; 'FINAL VERSION' means passed both chambers (check roll calls/veto); 'AS INTRODUCED'/'AS AMENDED...' means it died mid-process. The archive stops after 2021; 2022-2024 dispositions live in older-bill-actions.json. Deaths are staged from roll-call motions and docket actions only; nothing is invented.",
+  "note": "Disposition evidence for 2020-2024 bills. chaptered_page=True means gc.nh.gov publishes a chaptered final law for the bill (became law). Deaths are staged from roll-call motions only; nothing is invented. Bills without a chaptered page and without a killing roll call have an unresolved final status.",
   "bills": [
     {
       "session_year": 2020,
@@ -17,9 +17,6 @@
           "nays": 113
         }
       ],
-      "version_header": "AS INTRODUCED",
-      "sponsors_line": "Rep. Edgar, Rock. 21; Rep. Loughman, Rock. 21; Rep. Cushing, Rock. 21; Rep. Maggiore, Rock. 22; Rep. Cleaver, Hills. 35; Rep. Bushway, Rock. 21; Rep. Almy, Graf. 13; Rep. Somssich, Rock. 27; Rep. Cloutier, Sull. 10; Rep. Pantelakos, Rock. 25; Sen. Watters, Dist 4; Sen. Sherman, Dist 24; Sen. Fuller Clark, Dist 21",
-      "page_meaning": "latest bill version only (existence does not prove enactment)",
       "docket_actions": [
         {
           "date": "Jun 16, 2020",
@@ -71,8 +68,7 @@
           "actor": "House",
           "description": "Introduced 01/08/2020 and referred to Municipal and County Government  HJ 1  P. 11"
         }
-      ],
-      "docket_snapshot": "https://web.archive.org/web/20210304224736id_/https://openstates.org/nh/bills/2020/HB1160/"
+      ]
     },
     {
       "session_year": 2020,
@@ -110,10 +106,7 @@
           "yeas": 187,
           "nays": 148
         }
-      ],
-      "version_header": "FINAL VERSION",
-      "sponsors_line": "Rep. Conley, Straf. 13; Rep. Griffith, Hills. 18; Rep. Telerski, Hills. 35; Rep. Schultz, Merr. 18; Rep. Chase, Straf. 18; Rep. Vincent, Straf. 17; Rep. Wazir, Merr. 17; Rep. Kenney, Straf. 6",
-      "page_meaning": "latest bill version only (existence does not prove enactment)"
+      ]
     },
     {
       "session_year": 2020,
@@ -130,10 +123,7 @@
           "yeas": 196,
           "nays": 96
         }
-      ],
-      "version_header": "AS INTRODUCED",
-      "sponsors_line": "Rep. Read, Rock. 17; Rep. Schultz, Merr. 18; Rep. Buchanan, Merr. 15",
-      "page_meaning": "latest bill version only (existence does not prove enactment)"
+      ]
     },
     {
       "session_year": 2020,
@@ -150,10 +140,7 @@
           "yeas": 24,
           "nays": 0
         }
-      ],
-      "version_header": "FINAL VERSION",
-      "sponsors_line": "Rep. Roy, Rock. 32; Rep. Aron, Sull. 7",
-      "page_meaning": "chaptered law"
+      ]
     },
     {
       "session_year": 2020,
@@ -171,9 +158,6 @@
           "nays": 60
         }
       ],
-      "version_header": "AS AMENDED BY THE HOUSE",
-      "sponsors_line": "Rep. Griffith, Hills. 18; Rep. Alexander Jr., Hills. 6; Rep. Loughman, Rock. 21; Rep. Lucas, Sull. 2; Rep. Butler, Carr. 7; Rep. Hennessey, Graf. 1",
-      "page_meaning": "latest bill version only (existence does not prove enactment)",
       "docket_actions": [
         {
           "date": "Jun 16, 2020",
@@ -250,8 +234,20 @@
           "actor": "House",
           "description": "Introduced 01/08/2020 and referred to Municipal and County Government  HJ 1  P. 29"
         }
-      ],
-      "docket_snapshot": "https://web.archive.org/web/20210421174816id_/https://openstates.org/nh/bills/2020/HB1629/"
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB721",
+      "title": "New Hampshire Senate Bill",
+      "url": "https://gc.nh.gov/legislation/2020/SB0721.html",
+      "chaptered_page": true,
+      "chapter": null,
+      "roll_call_motions": [],
+      "version_header": "AS INTRODUCED",
+      "official_title": "relative to court review of planning board decisions and making an appropriation therefor",
+      "sponsors_line": "Sen. Dietsch, Dist 9; Sen. Fuller Clark, Dist 21; Rep. Mullen, Hills. 7; Rep. Maggiore, Rock. 22",
+      "page_meaning": "latest bill version only"
     },
     {
       "session_year": 2020,
@@ -269,9 +265,6 @@
           "nays": 0
         }
       ],
-      "version_header": "AS AMENDED BY THE SENATE",
-      "sponsors_line": "Sen. Morgan, Dist 23; Sen. Sherman, Dist 24; Sen. Bradley, Dist 3; Sen. Birdsell, Dist 19; Sen. D'Allesandro, Dist 20; Sen. Rosenwald, Dist 13; Sen. Fuller Clark, Dist 21; Sen. Cavanaugh, Dist 16; Sen. Carson, Dist 14; Sen. Chandley, Dist 11; Sen. Morse, Dist 22; Sen. Soucy, Dist 18; Rep. Woodcock, Carr. 2; Rep. Allard, Merr. 21",
-      "page_meaning": "latest bill version only (existence does not prove enactment)",
       "docket_actions": [
         {
           "date": "Sep 23, 2020",
@@ -333,8 +326,20 @@
           "actor": "Senate",
           "description": "Introduced 01/08/2020 and Referred to Education and Workforce Development;  SJ 2"
         }
-      ],
-      "docket_snapshot": "https://web.archive.org/web/20201126062813id_/https://openstates.org/nh/bills/2020/SB726/"
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB735",
+      "title": "New Hampshire Senate Bill",
+      "url": "https://gc.nh.gov/legislation/2020/SB0735.html",
+      "chaptered_page": true,
+      "chapter": null,
+      "roll_call_motions": [],
+      "version_header": "AS INTRODUCED",
+      "official_title": "repealing the housing appeals board",
+      "sponsors_line": "Sen. Birdsell, Dist 19; Sen. Sherman, Dist 24; Sen. Dietsch, Dist 9; Sen. Ward, Dist 8; Rep. O'Connor, Rock. 6; Rep. B. Griffin, Hills. 6; Rep. Edwards, Rock. 4; Rep. Gould, Hills. 7; Rep. Milz, Rock. 6",
+      "page_meaning": "latest bill version only"
     },
     {
       "session_year": 2021,
@@ -358,9 +363,58 @@
           "yeas": 16,
           "nays": 7
         }
-      ],
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB284",
+      "title": "2021 NH HB284 (Summary) Relative to the restoration of involuntarily merged lots.",
+      "url": "https://gc.nh.gov/legislation/2021/HB0284.html",
+      "chaptered_page": true,
+      "chapter": "136",
+      "roll_call_motions": [],
       "version_header": "FINAL VERSION",
-      "sponsors_line": "Rep. Packard, Rock. 5; Rep. Major, Rock. 14; Rep. Almy, Graf. 13; Rep. Abrami, Rock. 19",
+      "official_title": "relative to the restoration of involuntarily merged lots",
+      "sponsors_line": "Rep. McBeath, Rock. 26",
+      "page_meaning": "chaptered law"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB286",
+      "title": "",
+      "url": "https://gc.nh.gov/legislation/2021/HB0286.html",
+      "chaptered_page": true,
+      "chapter": "39",
+      "roll_call_motions": [],
+      "version_header": "FINAL VERSION",
+      "official_title": "establishing a committee to study the response of law enforcement and the criminal justice system to homelessness in New Hampshire",
+      "sponsors_line": "Rep. Klein-Knight, Hills. 11; Rep. Moran, Hills. 34; Rep. Massimilla, Graf. 1; Rep. Griffith, Hills. 18; Rep. Labranche, Hills. 22; Rep. Oxaal, Straf. 15; Rep. Bouchard, Hills. 11; Rep. Stevens, Hills. 34",
+      "page_meaning": "chaptered law"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB332",
+      "title": "",
+      "url": "https://gc.nh.gov/legislation/2021/HB0332.html",
+      "chaptered_page": true,
+      "chapter": "69",
+      "roll_call_motions": [],
+      "version_header": "FINAL VERSION",
+      "official_title": "relative to deadlines for consideration of developments of regional impact by planning boards",
+      "sponsors_line": "Rep. Seaworth, Merr. 20; Sen. Birdsell, Dist 19",
+      "page_meaning": "chaptered law"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB377",
+      "title": "New Hampshire House Bill",
+      "url": "https://gc.nh.gov/legislation/2021/HB0377.html",
+      "chaptered_page": true,
+      "chapter": "26",
+      "roll_call_motions": [],
+      "version_header": "FINAL VERSION",
+      "official_title": "relative to the authority of the state fire marshal to grant an exemption from fire code requirements to recovery houses",
+      "sponsors_line": "Rep. Connors, Hills. 15; Rep. Cornell, Hills. 18; Rep. Goley, Hills. 8; Rep. Snow, Hills. 19; Sen. D'Allesandro, Dist 20",
       "page_meaning": "chaptered law"
     },
     {
@@ -369,7 +423,7 @@
       "title": "(Second New Title) codifying the council on housing stability and relative to telehealth and medically assisted treatment for substance use disorder.",
       "url": "https://gc.nh.gov/legislation/2021/HB0503.html",
       "chaptered_page": true,
-      "chapter": null,
+      "chapter": "4",
       "roll_call_motions": [
         {
           "body": "H",
@@ -379,89 +433,13 @@
           "nays": 214
         }
       ],
-      "version_header": "AS AMENDED BY THE HOUSE",
-      "sponsors_line": "Rep. Long, Hills. 10; Rep. Wilhelm, Hills. 42",
-      "page_meaning": "latest bill version only (existence does not prove enactment)",
-      "docket_actions": [
-        {
-          "date": "2021-10-27",
-          "actor": "Senate",
-          "description": "Committee Report: Ought to Pass with Amendment # 2021-2219s"
-        },
-        {
-          "date": "2021-10-21",
-          "actor": "Senate",
-          "description": "Hearing: 10/26/2021, Room 100, State House, 11:00 am, on proposed amendment # 2021-2204s; Senate Calendar  42"
-        },
-        {
-          "date": "2021-05-20",
-          "actor": "Senate",
-          "description": "Rereferred to Committee, Motion Adopted, Voice Vote; 05/20/2021; Senate Journal 16"
-        },
-        {
-          "date": "2021-05-13",
-          "actor": "Senate",
-          "description": "Committee Report: Rereferred to Committee, 05/20/2021; Vote 5-0; Consent Calendar; Senate Calendar  24"
-        },
-        {
-          "date": "2021-04-21",
-          "actor": "Senate",
-          "description": "Remote Hearing: 04/28/2021, 09:45 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  21"
-        },
-        {
-          "date": "2021-04-13",
-          "actor": "Senate",
-          "description": "Introduced 04/08/2021 and Referred to Health and Human Services; Senate Journal 12"
-        },
-        {
-          "date": "2021-04-08",
-          "actor": "House",
-          "description": "Reconsider (Rep. Verville): Motion Failed Regular Calendar 142-214 04/08/2021 House Journal  6 P. 89"
-        },
-        {
-          "date": "2021-04-08",
-          "actor": "House",
-          "description": "Ought to Pass with Amendment 2021-0678h: Motion Adopted DV 210-115 04/08/2021 House Journal  6 P. 89"
-        },
-        {
-          "date": "2021-04-08",
-          "actor": "House",
-          "description": "Lay on Table (Rep. Sylvia): Motion Failed DV 140-213 04/08/2021 House Journal  6 P. 89"
-        },
-        {
-          "date": "2021-04-08",
-          "actor": "House",
-          "description": "Amendment # 2021-0678h: Amendment Adopted Voice Vote 04/08/2021 House Journal  6 P. 87"
-        },
-        {
-          "date": "2021-03-11",
-          "actor": "House",
-          "description": "Minority Committee Report: Inexpedient to Legislate"
-        },
-        {
-          "date": "2021-03-11",
-          "actor": "House",
-          "description": "Majority Committee Report: Ought to Pass with Amendment # 2021-0678h (Vote 19-2; Regular Calendar) House Calendar 18 P. 49"
-        },
-        {
-          "date": "2021-03-02",
-          "actor": "House",
-          "description": "Public Hearing: 03/02/2021 11:15 am Members of the public may attend using the following links:1. To join the webinar: https://www.zoom.us/j/99282187833 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened."
-        },
-        {
-          "date": "2021-01-11",
-          "actor": "House",
-          "description": "Introduced (in recess of) 01/06/2021 and referred to Health, Human Services and Elderly Affairs House Journal  2 P. 51"
-        }
-      ],
-      "docket_snapshot": "https://web.archive.org/web/20211221023418id_/https://legiscan.com/NH/bill/HB503/2021",
       "resolution": "Retained into the second year of the biennium; passed in 2022 and became Chapter 251 of the Laws of 2022 (effective 2022-06-24), codifying the state Council on Housing Stability (plus telehealth provisions). The 2021 House roll call in this set (Reconsider 142-214, failed) preceded retention.",
       "final_disposition": "enacted (Laws of 2022, Chapter 251)",
+      "resolution_source": "web_research",
       "citations": [
         "https://www.nhha.org/wp-content/uploads/2023/01/NHHA-Legislative-Newsletter-August-1-2022_update.pdf",
         "https://www.nhmunicipal.org/sites/default/files/uploads/legislative-bulletins/2022_nhma_legis_bltn_final_0.pdf"
-      ],
-      "resolution_source": "web_research"
+      ]
     },
     {
       "session_year": 2021,
@@ -478,10 +456,7 @@
           "yeas": 164,
           "nays": 175
         }
-      ],
-      "version_header": "AS INTRODUCED",
-      "sponsors_line": "Rep. Alexander Jr., Hills. 6; Rep. Lascelles, Hills. 20; Rep. Burroughs, Carr. 1; Rep. Umberger, Carr. 2; Rep. Griffith, Hills. 18; Sen. Hennessey, Dist 1; Sen. Perkins Kwoka, Dist 21",
-      "page_meaning": "latest bill version only (existence does not prove enactment)"
+      ]
     },
     {
       "session_year": 2021,
@@ -498,9 +473,27 @@
           "yeas": 23,
           "nays": 1
         }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB102",
+      "title": "2021 NH SB102 (Summary) Adopting omnibus legislation on property taxation.",
+      "url": "https://gc.nh.gov/legislation/2021/SB0102.html",
+      "chaptered_page": true,
+      "chapter": "200",
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2021-06-04",
+          "motion": "OTP",
+          "yeas": 208,
+          "nays": 165
+        }
       ],
       "version_header": "FINAL VERSION",
-      "sponsors_line": "Rep. Hunt, Ches. 11",
+      "official_title": "adopting omnibus legislation on property taxation",
+      "sponsors_line": "Sen. Perkins Kwoka, Dist 21",
       "page_meaning": "chaptered law"
     },
     {
@@ -525,10 +518,7 @@
           "yeas": 24,
           "nays": 0
         }
-      ],
-      "version_header": "FINAL VERSION",
-      "sponsors_line": "Sen. Perkins Kwoka, Dist 21",
-      "page_meaning": "chaptered law"
+      ]
     },
     {
       "session_year": 2021,
@@ -553,16 +543,13 @@
           "nays": 0
         }
       ],
-      "version_header": "AS AMENDED BY THE SENATE",
-      "sponsors_line": "Sen. Gray, Dist 6",
-      "page_meaning": "latest bill version only (existence does not prove enactment)",
       "resolution": "Passed the Senate 24-0 (SQL roll call, 2021-03-04). The House voted it Inexpedient to Legislate on 2021-06-03 (no roll call recorded) - killed in the House. Its $10M Affordable Housing Fund appropriation moved through the 2021 budget instead.",
       "final_disposition": "killed in House (2021-06-03, ITL)",
+      "resolution_source": "web_research",
       "citations": [
         "https://www.nhbr.com/support-solidifies-for-added-boost-to-new-hampshires-affordable-housing-fund/",
         "https://www.citizenscount.org/keys-new-hampshire-legislature-website"
-      ],
-      "resolution_source": "web_research"
+      ]
     },
     {
       "session_year": 2021,
@@ -579,10 +566,7 @@
           "yeas": 14,
           "nays": 10
         }
-      ],
-      "version_header": "AS INTRODUCED",
-      "sponsors_line": "Sen. Soucy, Dist 18; Sen. Watters, Dist 4; Sen. Perkins Kwoka, Dist 21; Sen. Cavanaugh, Dist 16; Rep. McWilliams, Merr. 27",
-      "page_meaning": "latest bill version only (existence does not prove enactment)"
+      ]
     },
     {
       "session_year": 2021,
@@ -641,10 +625,16 @@
           "yeas": 169,
           "nays": 200
         }
-      ],
-      "version_header": "FINAL VERSION",
-      "sponsors_line": "Sen. Kahn, Dist 10",
-      "page_meaning": "chaptered law"
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1021",
+      "title": "2022 NH HB1021 (Summary) Prohibiting certain zoning regulation of land or structures used primarily for religious purposes.",
+      "url": "https://gc.nh.gov/legislation/2022/HB1021.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": []
     },
     {
       "session_year": 2022,
@@ -660,6 +650,37 @@
           "motion": " ",
           "yeas": 179,
           "nays": 148
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1661",
+      "title": "2022 NH HB1661 (Summary) Relative to regional career technical education agreements, an appropriation for preliminary work for a new legislative parking garage, health and human services, establishing",
+      "url": "https://gc.nh.gov/legislation/2022/HB1661.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2022-03-31",
+          "motion": "Adopt Amendment",
+          "yeas": 271,
+          "nays": 65
+        },
+        {
+          "body": "S",
+          "date": "2022-05-05",
+          "motion": "Ought to Pass w/Amendment",
+          "yeas": 23,
+          "nays": 0
+        },
+        {
+          "body": "H",
+          "date": "2022-05-26",
+          "motion": "Adopt CofC Report",
+          "yeas": 244,
+          "nays": 99
         }
       ]
     },
@@ -686,6 +707,24 @@
           "nays": 0
         }
       ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB223",
+      "title": "",
+      "url": "https://gc.nh.gov/legislation/2022/SB0223.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": []
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB334",
+      "title": "",
+      "url": "https://gc.nh.gov/legislation/2022/SB0334.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": []
     },
     {
       "session_year": 2022,
@@ -757,6 +796,15 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "HB296",
+      "title": "",
+      "url": "https://gc.nh.gov/legislation/2023/HB0296.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": []
+    },
+    {
+      "session_year": 2023,
       "bill_no": "HB401",
       "title": "relative to evictions based on the owner's intent to renovate the property.",
       "url": "https://gc.nh.gov/legislation/2023/HB0401.html",
@@ -769,6 +817,32 @@
           "motion": "OTP",
           "yeas": 154,
           "nays": 213
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB42",
+      "title": "2023 NH HB42 (Summary) Relative to the operation of certain homeowners' associations.",
+      "url": "https://gc.nh.gov/legislation/2023/HB0042.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": []
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB44",
+      "title": "",
+      "url": "https://gc.nh.gov/legislation/2023/HB0044.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2023-02-23",
+          "motion": "OTPA",
+          "yeas": 117,
+          "nays": 232
         }
       ]
     },
@@ -882,6 +956,24 @@
       ]
     },
     {
+      "session_year": 2023,
+      "bill_no": "SB231",
+      "title": "",
+      "url": "https://gc.nh.gov/legislation/2023/SB0231.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": []
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1065",
+      "title": "2024 NH HB1065 (Summary) Relative to fire sprinkler requirements in residential buildings.",
+      "url": "https://gc.nh.gov/legislation/2024/HB1065.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": []
+    },
+    {
       "session_year": 2024,
       "bill_no": "HB1199",
       "title": "relative to services of the office of the child advocate for youth experiencing homelessness and making an appropriation therefor.",
@@ -911,6 +1003,15 @@
           "nays": 190
         }
       ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1202",
+      "title": "2024 NH HB1202 (Summary) Relative to the issuance of permits for the alteration of driveways exiting onto public ways and relative to the definition of disability or special needs under the child care",
+      "url": "https://gc.nh.gov/legislation/2024/HB1202.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": []
     },
     {
       "session_year": 2024,
@@ -962,6 +1063,15 @@
     },
     {
       "session_year": 2024,
+      "bill_no": "HB1361",
+      "title": "2024 NH HB1361 (Summary) Relative to municipal land use regulation for manufactured housing and subdivisions.",
+      "url": "https://gc.nh.gov/legislation/2024/HB1361.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": []
+    },
+    {
+      "session_year": 2024,
       "bill_no": "HB1396",
       "title": "relative to prohibiting municipal inspections of owner-occupied units of multi-unit housing.",
       "url": "https://gc.nh.gov/legislation/2024/HB1396.html",
@@ -974,6 +1084,40 @@
           "motion": "ITL",
           "yeas": 195,
           "nays": 182
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1399",
+      "title": "2024 NH HB1399 (Summary) Allowing municipalities to permit 2 residential units in certain single-family residential zones.",
+      "url": "https://gc.nh.gov/legislation/2024/HB1399.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2024-03-28",
+          "motion": "OTPA",
+          "yeas": 220,
+          "nays": 140
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1400",
+      "title": "2024 NH HB1400 (Summary) Relative to residential parking spaces, landlord-tenant law, unauthorized occupant evictions, and zoning procedures concerning residential housing.",
+      "url": "https://gc.nh.gov/legislation/2024/HB1400.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2024-06-13",
+          "motion": "Adopt CofC Report",
+          "yeas": 205,
+          "nays": 149
         }
       ]
     },
@@ -1013,6 +1157,15 @@
     },
     {
       "session_year": 2024,
+      "bill_no": "HB1567",
+      "title": "2024 NH HB1567 (Summary) Relative to zoning provisions concerning family and group family child care uses.",
+      "url": "https://gc.nh.gov/legislation/2024/HB1567.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": []
+    },
+    {
+      "session_year": 2024,
       "bill_no": "SB318",
       "title": "(New Title) converting the manufactured housing installations standards board and the board of examiners of nursing home administrators into advisory boards, and creating a new advisory board named the advisory board of massage therapists, reflexologists,",
       "url": "https://gc.nh.gov/legislation/2024/SB0318.html",
@@ -1027,6 +1180,24 @@
           "nays": 23
         }
       ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB406",
+      "title": "2024 NH SB406 (Summary) Making an appropriation to the department of health and human services to increase rates for shelter programs.",
+      "url": "https://gc.nh.gov/legislation/2024/SB0406.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": []
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB454",
+      "title": "2024 NH SB454 (Summary) Increasing the annual real estate transfer tax revenue contribution to the affordable housing fund.",
+      "url": "https://gc.nh.gov/legislation/2024/SB0454.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": []
     },
     {
       "session_year": 2024,
