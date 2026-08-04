@@ -1,6 +1,6 @@
 {
   "issue_id": "new-hampshire-01-housing-affordability",
-  "brief_version": "citizen-v1.1",
+  "brief_version": "citizen-v1.2",
   "reviewer": "citizen-reviewer v2.3 (automated pass)",
   "reviewed_at": "2026-08-04",
   "status": "READY FOR HUMAN REVIEW",
@@ -16,7 +16,7 @@
     "C1_two_pages_html_and_word": "PASS (2 pages headless Chrome; 2 pages LibreOffice)",
     "C2_page1_essentials": "PASS (landscape, stat strip, HB2 callout, enacted-law map)",
     "C3_detail_in_appendices": "PASS",
-    "D1_cited_bills_exist": "PASS (27/27 cited bills in evidence pack)",
+    "D1_cited_bills_exist": "PASS (23/23 cited bills in evidence pack)",
     "D2_no_invented_votes_or_parties": "PASS (all cited vote pairs match official roll calls or HB2 whole-bill votes; SB454's 180-176 tabling is a division-vote tally from the official docket, described as such; party splits match ballots)",
     "D3_data_limits_stated": "PASS (Appendix F)",
     "D4_inferred_committee_yeas_marked": "N/A",
@@ -35,15 +35,17 @@
   },
   "fixes_applied": [
     "Removed mid-brief appendix pointer from the HB2 callout; re-exported HTML and Word; both renders remained 2 pages.",
-    "v1.1: supplemented 2020-2024 with 23 bills from year-end official indexes; corrected the brief's landscape (supply reforms began 2024 with HB1400), shelter-funding precedent (SB406 2024), and money-bill narrative (SB454); headline numbers now 158 policy bills / 48 laws; both renders re-verified at 2 pages."
+    "v1.1: supplemented 2020-2024 with 23 bills from year-end official indexes; corrected the brief's landscape (supply reforms began 2024 with HB1400), shelter-funding precedent (SB406 2024), and money-bill narrative (SB454); headline numbers now 158 policy bills / 48 laws; both renders re-verified at 2 pages.",
+    "v1.2: collection completed from the OpenStates bulk universe (289 policy bills, 59 laws) with a certification sweep of all 5,467 bills in 2020-2024; brief corrected (HB283 fee-disclosure law, HB261 domestic-violence protection, density-mandate escalation, Housing Appeals Board fight, SB406); both renders re-verified at 2 pages."
   ],
   "blocking_issues": [],
   "upstream_verifications": {
     "collection_completeness": "PASS_WITH_WARNINGS (sources/new-hampshire/housing-affordability/verification/completeness.md)",
-    "reality_map_fact_check": "PASS (re-run after v1.1 update)"
+    "reality_map_fact_check": "PASS (re-run after v1.1 update)",
+    "universe_certification": "PASS - certify-universe.py: all collected bills exist in the universe; no vote undercounts vs the mirror; 237 wide-net candidates human-reviewed (35 added, 202 excluded with categories)"
   },
   "notes_for_humans": [
-    "2020-2024 coverage combines roll-call discovery with a documented 23-bill supplement from year-end official indexes resolved against archived dockets; low-profile voice-vote deaths may still be missing. The collect-nh GitHub Actions workflow (repo OpenStates secret) remains the path to provable completeness.",
+    "2020-2024 discovery certified against the complete bulk universe; see Appendix I. Theoretical residual: a housing bill whose title avoids the entire wide-net vocabulary.",
     "HB1336 (2026) veto override described as pending; re-check after the fall 2026 veto session."
   ]
 }

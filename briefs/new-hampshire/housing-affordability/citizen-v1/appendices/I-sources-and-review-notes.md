@@ -13,6 +13,7 @@ in the citizen-facing front brief.
 | S3 | Legislative Budget Assistant chapter-law PDF for HB2 2023 (Laws of 2023, Chapter 79) |
 | S4 | Internet Archive snapshots of openstates.org and legiscan.com bill pages — mirrors of the official GenCourt docket, used only for 2022–2024 action histories; each record stores its snapshot URL |
 | S5 | Cited public reporting and agency documents for six bills whose final stage the snapshots could not fully resolve (NH Office of Planning and Development legislation matrix, NH Bulletin, InDepthNH, NHMA legislative bulletin, NHHA newsletter, Housing Action NH, TrackBill/MyRepTracker docket mirrors); per-bill citations in `working/.../dispositions.json` and `older-bill-status.json` |
+| S5a | OpenStates bulk session CSVs (complete per-session mirrors of the official GenCourt docket, 2020–2024; committed under `sources/new-hampshire/_bulk/`) — bill lists, sponsors, actions, votes |
 | S5b | Year-end official/civic indexes used for supplemental 2020–2024 discovery: NHMA Final Legislative Bulletins (2021–2024), NH OPD planning-legislation summaries and 2023 legislation matrix, NH Housing 2024 session summary, NH Bulletin and Housing Action NH session roundups; per-bill provenance in `pass1/bills.json` (`discovery_source`) |
 | S6 | Derived working files in this repository: `evidence-pack.json`, `curation-map.json`, `dispositions.json`, `hb2-sections.json` (all fact-checked layers over S1–S5) |
 
@@ -44,6 +45,21 @@ in the citizen-facing front brief.
 | SB86 (2021) House 208–167 with 196 R / 164 D pattern | S1 ballots joined to the legislators roster |
 | Three vetoes (HB1247 2020 override failed 187–148; SB318 2024; HB1336 2026) | S1 (roll calls), S2 (HB1247 final version), S4 (SB318 history) |
 | Rule 3-23 deadline deaths of five 2025 Senate bills | S1 dockets (`Inexpedient to Legislate, Senate Rule 3-23, 10/31/2025`) |
+
+## Completeness certification (2020–2024)
+
+The five OpenStates bulk session archives are complete mirrors of the official
+docket: 5,467 bills. `working/.../certify-universe.py` verified that (1) every
+collected 2020–2024 bill exists in that universe, (2) no bill in the set is
+missing votes the mirror knows about, and (3) every one of the 5,467 titles
+was swept with a wide-net housing vocabulary far broader than the issue's
+search terms. All 237 wide-net matches not already in the set were reviewed by
+hand: 35 were added (tagged `supplement:universe-certification`) and 202 were
+excluded with per-bill categories (condominium governance, nursing homes,
+building-code administration, 'House of Representatives' false positives, tax
+mechanics, and similar) recorded in
+`working/.../certification-report.json`. A 2020–2024 housing bill could be
+absent from this record only if its title avoids that entire vocabulary.
 
 ## Collection notes
 

@@ -3,63 +3,422 @@
   "bills": [
     {
       "session_year": 2020,
+      "bill_no": "HB1120",
+      "title": "establishing a committee to study the establishment of water testing requirements for residential rental property.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Introduced 06/16/2020, and Laid on Table, MA, VV; 06/16/2020;  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
       "bill_no": "HB1160",
       "title": "allowing municipalities to collect an occupancy fee from operators of local room rentals.",
       "disposition": "died_on_table",
-      "stage": "laid on the table in the Senate at the pandemic-shortened session's end; never taken back up",
+      "stage": "laid on the table in the Senate; never taken back up",
       "evidence": "Introduced 06/16/2020, and Laid on Table, MA, VV; 06/16/2020;  SJ 8",
-      "evidence_source": "gencourt_version_header+rollcalls+archived_docket",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1187",
+      "title": "relative to animal shelter facilities.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Introduced 06/16/2020, and Laid on Table, MA, VV; 06/16/2020;  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1207",
+      "title": "requiring landlords to notify prospective tenants of the use of pesticides or other toxins in the premises.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/11/2020  HJ 7  P. 40",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2020,
       "bill_no": "HB1247",
       "title": "(Second New Title) relative to mortgage defaults and nonpayment of rent during the novel coronavirus disease (Covid-19) outbreak state of emergency.\r\n",
       "disposition": "vetoed",
-      "stage": "vetoed; House override failed 187-148 (short of two-thirds)",
-      "evidence": "roll call: Veto Override 187-148",
-      "evidence_source": "gencourt_version_header+rollcalls+archived_docket",
+      "stage": "vetoed (no override action recorded as of collection)",
+      "evidence": "Vetoed by Governor Sununu 07/10/2020",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 4
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1276",
+      "title": "relative to ex-officio members of budget committees and planning boards.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA DV 216-122 03/05/2020  HJ 6  P. 23",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1320",
+      "title": "establishing a renter's insurance notification requirement.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA DV 287-51 03/11/2020  HJ 7  P. 110",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1324",
+      "title": "exempting rentals of shared facilities from requirements under the real estate practice act.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Vacated from Committee and Laid on Table, MA, VV; 06/16/2020  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1342",
+      "title": "establishing a program for installation of heat pumps for low-income housing.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/11/2020  HJ 7  P. 62",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1389",
+      "title": "relative to criminal penalties for not providing adequate food, water, and shelter for animals.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/19/2020  HJ 4  P. 11",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2020,
       "bill_no": "HB1391",
       "title": "relative to prohibiting discrimination in housing against persons with pets.",
       "disposition": "died_on_table",
-      "stage": "laid on the table; never taken back up",
-      "evidence": "roll call: Table 196-96",
-      "evidence_source": "gencourt_version_header+rollcalls+archived_docket",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Lay  on Table (Rep. Read): MA RC 196-96 03/12/2020  HJ 8  P. 136",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB143",
+      "title": "relative to disqualification of members of local land use boards.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Vacated from Committee and Laid on Table, MA, VV; 06/16/2020  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1439",
+      "title": "relative to notification of zoning determination announcements and to appeals to the zoning board of adjustment.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/13/2020  HJ 3  P. 4",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1450",
+      "title": "relative to the powers of the zoning board of adjustment.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/13/2020  HJ 3  P. 16",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1488",
+      "title": "prohibiting conditioning of employment or student enrollment on approved housing.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/13/2020  HJ 3  P. 3",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1510",
+      "title": "enabling municipalities to adopt a property tax exemption for qualifying accessory dwelling units.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/19/2020  HJ 4  P. 19",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1511",
+      "title": "relative to actions against tenants.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/12/2020  HJ 8  P. 141",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1579",
+      "title": "relative to collection of tax for short-term rentals under the meals and rooms tax.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/19/2020  HJ 4  P. 27",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2020,
       "bill_no": "HB1582",
       "title": "(New Title) relative to free tuition at colleges and universities for children of veterans who are totally and permanently disabled; programs to aid veterans' access to employment, housing, health care, and college degrees; educational assistance for memb",
       "disposition": "enacted",
-      "stage": "became law (Laws of 2020, Chapter 34)",
-      "evidence": "gc.nh.gov chaptered final text (CHAPTER 34)",
-      "evidence_source": "gencourt_final_text",
+      "stage": "became law (Chapter 34)",
+      "evidence": "Signed by Governor Sununu 07/28/2020; Chapter 34",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1588",
+      "title": "establishing a mortgage mediation procedure.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA VV 03/11/2020  HJ 7  P. 139",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2020,
       "bill_no": "HB1629",
       "title": "relative to training and procedures for zoning and planning boards.",
       "disposition": "died_on_table",
-      "stage": "laid on the table in the Senate at the pandemic-shortened session's end; never taken back up",
+      "stage": "laid on the table in the Senate; never taken back up",
       "evidence": "Introduced 06/16/2020, and Laid on Table, MA, VV; 06/16/2020;  SJ 8",
-      "evidence_source": "gencourt_version_header+rollcalls+archived_docket",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1632",
+      "title": "relative to financial investments and incentives for affordable housing development.",
+      "disposition": "died_other",
+      "stage": "committee recommended Ought to Pass but the House never took a floor vote before the session ended",
+      "evidence": "Committee Report: Ought to Pass with Amendment # 2020-1242h    (Vote 20-0; RC)  HC 23  P. 12",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1709",
+      "title": "relative to building code and zoning requirements applicable to home-based child day care providers.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/11/2020  HJ 7  P. 30",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB274",
+      "title": "relative to including under the meals and rooms tax facilitators of Internet transactions of motor vehicle rentals and facilitators of Internet transactions of room occupancies.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Vacated from Committee and Laid on Table, MA, VV; 06/16/2020  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB311",
+      "title": "relative to the authority of the state fire marshal to grant an exemption from fire code requirements to recovery houses.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Vacated from Committee and Laid on Table, MA, VV; 06/16/2020  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB653",
+      "title": "relative to the payment of the meals and rooms tax for short-term rentals.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 01/08/2020  HJ 1  P. 57",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB15",
+      "title": "making an appropriation to the affordable housing fund.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 01/08/2020  HJ 1  P. 46",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB152",
+      "title": "relative to third party inspections conducted pursuant to a planning board approval.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Vacated and Laid on Table MA VV 06/30/2020  HJ 10  P. 4",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB256",
+      "title": "relative to emergency generators in certain senior housing.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Refer to Interim Study, MA, VV; 01/08/2020;  SJ 1",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB458",
+      "title": "relative to municipal regulation of vacation or short-term rentals.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Vacated from Committee and Laid on Table, MA, VV; 06/16/2020  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB460",
+      "title": "relative to enforcement of zoning violations.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Vacated and Laid on Table MA VV 06/30/2020  HJ 10  P. 4",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB475",
+      "title": "enabling municipalities to adopt a property tax credit for densely-built workforce housing.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Placed on Laid on Table Consent List and Laid on Table, MA, VV; 06/16/2020;  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB482",
+      "title": "relative to building codes for tiny houses.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Vacated from Committee and Laid on Table, MA, VV; 06/16/2020  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB487",
+      "title": "repealing the housing appeals board and establishing a commission to advance affordable housing in New Hampshire.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 03/05/2020;  SJ 5",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB536",
+      "title": "requiring an annual report of the housing appeals board.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Vacated and Laid on Table MA VV 06/30/2020  HJ 10  P. 4",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB562",
+      "title": "relative to a property tax relief program for qualifying residential property in a designated residential property revitalization zone.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Vacated and Laid on Table MA VV 06/30/2020  HJ 10  P. 4",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB605",
+      "title": "relative to interference with the enjoyment of a dwelling place.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Introduced and Laid on Table MA VV 06/30/2020  HJ 10  P. 5",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB633",
+      "title": "relative to recovery housing.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Vacated from Committee and Laid on Table, MA, VV; 06/16/2020  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB638",
+      "title": "establishing the New Hampshire housing and conservation planning program.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Refer to Interim Study, MA, VV; 02/13/2020;  SJ 4",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB69",
+      "title": "relative to short-term rentals.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 01/08/2020;  SJ 1",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB710",
+      "title": "establishing a homeowners' association act.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Sen. Fuller Clark Move to Refer to Interim Study, MA, VV; 03/11/2020;  SJ 6",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2020,
       "bill_no": "SB721",
       "title": "relative to court review of planning board decisions and making an appropriation therefor.",
-      "disposition": "died_other",
-      "stage": "died mid-process (latest official text: As Introduced)",
-      "evidence": "gc.nh.gov version header: AS INTRODUCED",
-      "evidence_source": "gencourt_version_header+rollcalls+archived_docket",
-      "gencourt_version_header": "AS INTRODUCED",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 03/05/2020;  SJ 5",
+      "evidence_source": "bulk_docket",
       "sponsors_line": "Sen. Dietsch, Dist 9; Sen. Fuller Clark, Dist 21; Rep. Mullen, Hills. 7; Rep. Maggiore, Rock. 22",
       "roll_call_count": 0
     },
@@ -68,21 +427,29 @@
       "bill_no": "SB726",
       "title": "(Second New Title) relative to programs to aid veterans' access to employment, housing, health care, and college degrees.",
       "disposition": "died_on_table",
-      "stage": "died on the table",
-      "evidence": "Died on Table",
-      "evidence_source": "gencourt_version_header+rollcalls+archived_docket",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Introduced and Laid on Table MA VV 06/30/2020  HJ 10  P. 6",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
     },
     {
       "session_year": 2020,
       "bill_no": "SB735",
       "title": "repealing the housing appeals board.",
-      "disposition": "died_other",
-      "stage": "died mid-process (latest official text: As Introduced)",
-      "evidence": "gc.nh.gov version header: AS INTRODUCED",
-      "evidence_source": "gencourt_version_header+rollcalls+archived_docket",
-      "gencourt_version_header": "AS INTRODUCED",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 03/05/2020;  SJ 5",
+      "evidence_source": "bulk_docket",
       "sponsors_line": "Sen. Birdsell, Dist 19; Sen. Sherman, Dist 24; Sen. Dietsch, Dist 9; Sen. Ward, Dist 8; Rep. O'Connor, Rock. 6; Rep. B. Griffin, Hills. 6; Rep. Edwards, Rock. 4; Rep. Gould, Hills. 7; Rep. Milz, Rock. 6",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB132",
+      "title": "relative to acreage required to build certain single family housing.",
+      "disposition": "carryover_duplicate",
+      "stage": "same bill as 2022 HB132 (carried across the biennium); see the 2022 record",
+      "evidence_source": "biennium carryover",
       "roll_call_count": 0
     },
     {
@@ -90,33 +457,80 @@
       "bill_no": "HB15",
       "title": "relative to including under the meals and rooms tax facilitators of Internet transactions of motor vehicle rentals and facilitators of Internet transactions of room occupancies.",
       "disposition": "enacted",
-      "stage": "became law (Laws of 2021, Chapter 160)",
-      "evidence": "gc.nh.gov chaptered final text (CHAPTER 160)",
-      "evidence_source": "gencourt_final_text",
+      "stage": "became law (Chapter 160)",
+      "evidence": "Signed by Governor Sununu 07/30/2021; Chapter 160",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 2
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB160",
+      "title": "relative to notice of rent increases in certain residential rental property.",
+      "disposition": "killed_committee",
+      "stage": "House committee recommended Inexpedient to Legislate; no floor action recorded in the docket",
+      "evidence": "Majority Committee Report: Inexpedient to Legislate   (Vote 11-10; RC)  HC 18  P. 75",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB189",
+      "title": "relative to accessory dwelling units.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/24/2021  HJ 3  P. 14",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB227",
+      "title": "relative to termination of tenancy at the expiration of the tenancy or lease term.",
+      "disposition": "carryover_duplicate",
+      "stage": "same bill as 2022 HB227 (carried across the biennium); see the 2022 record",
+      "evidence_source": "biennium carryover",
+      "roll_call_count": 3
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB249",
+      "title": "relative to animal shelter facilities.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 214)",
+      "evidence": "Signed by Governor Sununu 08/17/2021; Chapter 214",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2021,
       "bill_no": "HB284",
       "title": "relative to the restoration of involuntarily merged lots.",
       "disposition": "enacted",
-      "stage": "became law (Laws of 2021, Chapter 136)",
-      "evidence": "gc.nh.gov chaptered final text (CHAPTER 136)",
-      "evidence_source": "gencourt_final_text",
-      "gencourt_version_header": "FINAL VERSION",
+      "stage": "became law (Chapter 136)",
+      "evidence": "Signed by Governor Sununu 07/23/2021; Chapter 136",
+      "evidence_source": "bulk_docket",
       "sponsors_line": "Rep. McBeath, Rock. 26",
       "roll_call_count": 0
     },
     {
       "session_year": 2021,
       "bill_no": "HB286",
-      "title": "establishing a committee to study the response of law enforcement and the criminal justice system to homelessness in New Hampshire.",
+      "title": "establishing a committee to study the response of law enforcement and the criminal justice system to homelessness in New Hampshire,",
       "disposition": "enacted",
-      "stage": "became law (Laws of 2021, Chapter 39)",
-      "evidence": "gc.nh.gov chaptered final text (CHAPTER 39)",
-      "evidence_source": "gencourt_final_text",
-      "gencourt_version_header": "FINAL VERSION",
+      "stage": "became law (Chapter 39)",
+      "evidence": "Signed by Governor Sununu 05/17/2021; Chapter 39",
+      "evidence_source": "bulk_docket",
       "sponsors_line": "Rep. Klein-Knight, Hills. 11; Rep. Moran, Hills. 34; Rep. Massimilla, Graf. 1; Rep. Griffith, Hills. 18; Rep. Labranche, Hills. 22; Rep. Oxaal, Straf. 15; Rep. Bouchard, Hills. 11; Rep. Stevens, Hills. 34",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB288",
+      "title": "eliminating the housing appeals board.",
+      "disposition": "killed_committee",
+      "stage": "House committee recommended Inexpedient to Legislate; no floor action recorded in the docket",
+      "evidence": "Majority Committee Report: Inexpedient to Legislate   (Vote 15-6; RC)  HC 18  P. 75",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
     {
@@ -124,11 +538,30 @@
       "bill_no": "HB332",
       "title": "relative to deadlines for consideration of developments of regional impact by planning boards.",
       "disposition": "enacted",
-      "stage": "became law (Laws of 2021, Chapter 69)",
-      "evidence": "gc.nh.gov chaptered final text (CHAPTER 69)",
-      "evidence_source": "gencourt_final_text",
-      "gencourt_version_header": "FINAL VERSION",
+      "stage": "became law (Chapter 69)",
+      "evidence": "Signed by Governor Sununu 06/10/2021; Chapter 69",
+      "evidence_source": "bulk_docket",
       "sponsors_line": "Rep. Seaworth, Merr. 20; Sen. Birdsell, Dist 19",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB341",
+      "title": "relative to permissible residential units in a residential zone.",
+      "disposition": "killed_committee",
+      "stage": "House committee recommended Inexpedient to Legislate; no floor action recorded in the docket",
+      "evidence": "Majority Committee Report: Inexpedient to Legislate   (Vote 10-9; RC)  HC 18  P. 79",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB360",
+      "title": "relative to the rental of shared living facilities.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 63)",
+      "evidence": "Signed by Governor Sununu 06/04/2021; Chapter 63",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
     {
@@ -136,52 +569,118 @@
       "bill_no": "HB377",
       "title": "relative to the authority of the state fire marshal to grant an exemption from fire code requirements to recovery houses.",
       "disposition": "enacted",
-      "stage": "became law (Laws of 2021, Chapter 26)",
-      "evidence": "gc.nh.gov chaptered final text (CHAPTER 26)",
-      "evidence_source": "gencourt_final_text",
-      "gencourt_version_header": "FINAL VERSION",
+      "stage": "became law (Chapter 26)",
+      "evidence": "Signed by Governor Sununu 05/06/2021; Chapter 26",
+      "evidence_source": "bulk_docket",
       "sponsors_line": "Rep. Connors, Hills. 15; Rep. Cornell, Hills. 18; Rep. Goley, Hills. 8; Rep. Snow, Hills. 19; Sen. D'Allesandro, Dist 20",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB392",
+      "title": "relative to the membership of local land use boards.",
+      "disposition": "killed_committee",
+      "stage": "House committee recommended Inexpedient to Legislate; no floor action recorded in the docket",
+      "evidence": "Majority Committee Report: Inexpedient to Legislate   (Vote 15-4; RC)  HC 18  P. 79",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB395",
+      "title": "relative to consideration of home-share income and exempting rentals of shared facilities from requirements under the real estate practice act.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 04/07/2021  HJ 5  P. 38",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB473",
+      "title": "establishing a renter's insurance notification requirement.",
+      "disposition": "carryover_duplicate",
+      "stage": "same bill as 2022 HB473 (carried across the biennium); see the 2022 record",
+      "evidence_source": "biennium carryover",
       "roll_call_count": 0
     },
     {
       "session_year": 2021,
       "bill_no": "HB503",
       "title": "(Second New Title) codifying the council on housing stability and relative to telehealth and medically assisted treatment for substance use disorder.",
-      "disposition": "enacted",
-      "stage": "became law (Laws of 2021, Chapter 4)",
-      "evidence": "gc.nh.gov chaptered final text (CHAPTER 4)",
-      "evidence_source": "gencourt_final_text",
+      "disposition": "carryover_duplicate",
+      "stage": "same bill as 2022 HB503 (carried across the biennium); see the 2022 record",
+      "evidence_source": "biennium carryover",
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB512",
+      "title": "relative to emergency housing assistance.",
+      "disposition": "killed_committee",
+      "stage": "House committee recommended Inexpedient to Legislate; no floor action recorded in the docket",
+      "evidence": "Majority Committee Report: Inexpedient to Legislate   (Vote 10-9; RC)  HC 18  P. 79",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB550",
+      "title": "relative to the nonpayment of rent during the state of emergency.",
+      "disposition": "killed_committee",
+      "stage": "House committee recommended Inexpedient to Legislate; no floor action recorded in the docket",
+      "evidence": "Majority Committee Report: Inexpedient to Legislate   (Vote 11-10; RC)  HC 18  P. 76",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2021,
       "bill_no": "HB586",
       "title": "relative to training and procedures for zoning and planning boards and relative to financial investments and incentives for affordable housing development.",
       "disposition": "died_on_table",
-      "stage": "stayed on the table (motion to remove failed)",
-      "evidence": "roll call: Remove from Table 164-175",
-      "evidence_source": "gencourt_version_header+rollcalls+archived_docket",
+      "stage": "stayed on the House table (motion to remove failed)",
+      "evidence": "Remove from Table (Rep. Dolan) MF RC 164-175 02/25/2021",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB588",
+      "title": "relative to building codes for tiny houses.",
+      "disposition": "killed_committee",
+      "stage": "House committee recommended Inexpedient to Legislate; no floor action recorded in the docket",
+      "evidence": "Majority Committee Report: Inexpedient to Legislate   (Vote 10-9; RC)  HC 18  P. 79",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2021,
       "bill_no": "HB610",
       "title": "(New Title) requiring certain licensing and reporting functions be conducted through the Nationwide Multistate Licensing System and Registry, relative to background investigations of trust officers, to certain filing fees, assessments, and interest rates, and to the transmission of consumer complaints by the banking department, and establishing the New Hampshire housing and conservation planning program.",
       "disposition": "enacted",
-      "stage": "became law (Laws of 2021, Chapter 194)",
-      "evidence": "gc.nh.gov chaptered final text (CHAPTER 194)",
-      "evidence_source": "gencourt_final_text",
+      "stage": "became law (Chapter 194)",
+      "evidence": "Signed by Governor Sununu 08/10/2021; Chapter 194",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB616",
+      "title": "relative to review of planning board decisions.",
+      "disposition": "killed_committee",
+      "stage": "House committee recommended Inexpedient to Legislate; no floor action recorded in the docket",
+      "evidence": "Majority Committee Report: Inexpedient to Legislate   (Vote 11-8; RC)  HC 18  P. 80",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2021,
       "bill_no": "SB102",
       "title": "adopting omnibus legislation on property taxation.",
       "disposition": "enacted",
-      "stage": "became law (Laws of 2021, Chapter 200)",
-      "evidence": "gc.nh.gov chaptered final text (CHAPTER 200)",
-      "evidence_source": "gencourt_final_text",
-      "gencourt_version_header": "FINAL VERSION",
+      "stage": "became law (Chapter 0200)",
+      "evidence": "Signed by the Governor on 08/10/2021; Chapter 0200",
+      "evidence_source": "bulk_docket",
       "sponsors_line": "Sen. Perkins Kwoka, Dist 21",
       "roll_call_count": 1
     },
@@ -190,9 +689,9 @@
       "bill_no": "SB126",
       "title": "adopting omnibus legislation on landlord tenant proceedings.",
       "disposition": "enacted",
-      "stage": "became law (Laws of 2021, Chapter 152)",
-      "evidence": "gc.nh.gov chaptered final text (CHAPTER 152)",
-      "evidence_source": "gencourt_final_text",
+      "stage": "became law (Chapter 0152)",
+      "evidence": "Signed by the Governor on 07/23/2021; Chapter 0152",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 2
     },
     {
@@ -213,9 +712,9 @@
       "bill_no": "SB73",
       "title": "establishing a green building standards initiative as part of the low or moderate income housing loan program and making an appropriation therefor; and establishing a commission to study green housing and utility source options.",
       "disposition": "killed_floor",
-      "stage": "killed on the floor (Inexpedient to Legislate)",
-      "evidence": "roll call: ITL 14-10",
-      "evidence_source": "gencourt_version_header+rollcalls+archived_docket",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, RC 14Y-10N, MA === BILL KILLED ===; 03/11/2021;  SJ 7",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
     },
     {
@@ -223,9 +722,9 @@
       "bill_no": "SB86",
       "title": "adopting omnibus legislation relative to planning and zoning.",
       "disposition": "enacted",
-      "stage": "became law (Laws of 2021, Chapter 224)",
-      "evidence": "gc.nh.gov chaptered final text (CHAPTER 224)",
-      "evidence_source": "gencourt_final_text",
+      "stage": "became law (Chapter 0224)",
+      "evidence": "Signed by the Governor on 08/24/2021; Chapter 0224",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 7
     },
     {
@@ -242,22 +741,262 @@
     },
     {
       "session_year": 2022,
+      "bill_no": "HB1042",
+      "title": "requiring certain health advisory notices to be provided to renters of vacation or recreational rental units.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/16/2022  HJ 3",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1068",
+      "title": "relative to building codes for tiny houses.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/10/2022  HJ 5",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1087",
+      "title": "relative to zoning for single family housing lots.",
+      "disposition": "died_on_table",
+      "stage": "stayed on the House table (motion to remove failed)",
+      "evidence": "Remove from Table (Rep. Verville): MF DV 166-169 03/17/2022  HJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1098",
+      "title": "limiting the number of parking spaces required per occupied dwelling.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/15/2022  HJ 6",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1107",
+      "title": "establishing a committee to study the rental or lease of housing to a person who has pets.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Lay HB1107 on Table (Rep. Alexander Jr.): MA VV 03/16/2022  HJ 7",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1133",
+      "title": "prohibiting the termination of a lease during the sale of real property.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/16/2022  HJ 7",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1136",
+      "title": "requiring planning boards to list the type of studies required to render a decision.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/15/2022  HJ 6",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1172",
+      "title": "requiring composting and waste recycling to be made available to residents of public housing.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA VV 03/17/2022  HJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1177",
+      "title": "relative to permissible residential units in a residential zone.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Lay HB1177 on Table (Rep. Baldasaro): MA RC 167-157 03/17/2022  HJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 2
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1179",
+      "title": "relative to zoning protest petitions.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/15/2022  HJ 6",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1191",
+      "title": "relative to electrical work, plumbing, and fuel gas fitting in one or two family housing.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA VV 02/16/2022  HJ 3",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1200",
+      "title": "relative to notice of rent increases in residential rental property.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Lay HB1200 on Table (Rep. Gordon): MA VV 03/16/2022  HJ 7",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1216",
+      "title": "repealing the housing appeals board.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/10/2022  HJ 5",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1219",
+      "title": "relative to parking requirements for religious institution-affiliated housing development projects.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/17/2022  HJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1238",
+      "title": "relative to zoning powers and the supply of workforce housing.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/15/2022  HJ 6",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1254",
+      "title": "relative to the housing appeals board.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/10/2022  HJ 5",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
       "bill_no": "HB1291",
       "title": "prohibiting discrimination against tenants holding certain vouchers for purposes of renting dwellings.",
       "disposition": "died_on_table",
       "stage": "laid on the table in the House; never taken back up",
       "evidence": "Lay HB1291 on Table (Rep. Gordon): MA RC 179-148 03/16/2022  HJ 7",
-      "evidence_source": "archived_docket:openstates_wayback",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
     },
     {
       "session_year": 2022,
+      "bill_no": "HB1307",
+      "title": "modifying the authority and duties of the housing appeals board.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 05/05/2022;  SJ 11",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB132",
+      "title": "relative to acreage required to build certain single family housing.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA VV 01/05/2022  HJ 1",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1374",
+      "title": "relative to the membership of local land use boards.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV  HJ 6",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1389",
+      "title": "establishing a superior court land use review docket.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA VV 03/16/2022  HJ 7",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1407",
+      "title": "including the promotion of affordable housing under the land and community heritage investment program.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/16/2022  HJ 3",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1408",
+      "title": "requiring the refund of residential tenancy application fees.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/10/2022  HJ 5",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1430",
+      "title": "repealing the tax on rentals of motor vehicles under the meals and rooms tax.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/10/2022  HJ 5",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1617",
+      "title": "relative to housing projects of the community development finance authority and establishing a committee to prevent state subsidies for housing development that is not income-sensitive.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/15/2022  HJ 6",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
       "bill_no": "HB1661",
-      "title": "relative to regional career technical education agreements, an appropriation for preliminary work for a new legislative parking garage, health and human services, establishing",
+      "title": "relative to regional career technical education agreements, an appropriation for preliminary work for a new legislative parking garage, health and human services, establishing an extraordinary need grant for schools, training and procedures for zoning and planning boards, and financial investments and incentives for affordable housing development.",
       "disposition": "enacted",
       "stage": "became law (Chapter 272)",
       "evidence": "Signed by Governor Sununu 06/24/2022; Chapter 272",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 3
     },
     {
@@ -267,8 +1006,68 @@
       "disposition": "died_between_chambers",
       "stage": "died in a committee of conference (no agreed report)",
       "evidence": "Conference Committee Report; Not Signed Off;  SJ 13",
-      "evidence_source": "archived_docket:openstates_wayback",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 2
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB227",
+      "title": "relative to termination of tenancy at the expiration of the tenancy or lease term.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 01/05/2022;  SJ 1",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB473",
+      "title": "establishing a renter's insurance notification requirement.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA DV 190-166 01/05/2022  HJ 1",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB503",
+      "title": "codifying the council on housing stability and relative to telehealth and medically assisted treatment for substance use disorder.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 251)",
+      "evidence": "Signed by Governor Sununu 06/24/2022; Chapter 251",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB210",
+      "title": "relative to the sale of manufactured housing parks.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 0124)",
+      "evidence": "Signed by the Governor on 05/27/2022; Chapter 0124",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB216",
+      "title": "establishing a commission to study the landlord and tenant mediation program in circuit courts.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 05/05/2022  HJ 12",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB217",
+      "title": "relative to eviction notices.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA DV 178-140 05/05/2022  HJ 12",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2022,
@@ -280,6 +1079,56 @@
       "citations": [
         "https://www.nhmunicipal.org/sites/default/files/uploads/legislative-bulletins/2022_nhma_legis_bltn_final_0.pdf"
       ],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB244",
+      "title": "relative to non-conforming structures and variances.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Refer to Interim Study, MA, VV; 02/24/2022;  SJ 4",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB245",
+      "title": "establishing a committee to study agreements between developers and municipalities on municipal trash removal fees paid by condominium owners and renters.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Lay SB245 on Table (Rep. Dolan): MA DV 187-148 05/05/2022  HJ 12",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB249",
+      "title": "prohibiting planning and zoning ordinances that prohibit short-term rentals.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA VV 05/04/2022  HJ 11",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB324",
+      "title": "relative to the resolution of disputes for condominium unit owners, homeowners' association unit owners, and tenant owned manufactured housing parks.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 05/04/2022  HJ 11",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB329",
+      "title": "establishing a commission to study barriers to specific housing development in New Hampshire and establishing a procedure for overriding a local tax cap.",
+      "disposition": "died_between_chambers",
+      "stage": "Senate refused to accept the other chamber's changes; no conference",
+      "evidence": "Sen. Bradley Moved Nonconcur with the House Amendment, MA, VV; 05/12/2022;  SJ 12",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
     {
@@ -296,12 +1145,32 @@
     },
     {
       "session_year": 2022,
+      "bill_no": "SB338",
+      "title": "enabling municipalities to adopt a municipal occupancy fee.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 02/16/2022;",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB359",
+      "title": "requiring the commissioner of the department of administrative services to conduct an inventory of all state real estate.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, RC 13Y-11N, MA === BILL KILLED ===; 03/17/2022;  SJ 5",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 1
+    },
+    {
+      "session_year": 2022,
       "bill_no": "SB400",
       "title": "relative to training and procedures for zoning and planning boards and relative to financial investments and incentives for affordable housing development.",
       "disposition": "died_on_table",
       "stage": "laid on the table in the House; never taken back up",
       "evidence": "Lay SB400 on Table (Rep. Wuelper): MA DV 170-159 05/05/2022  HJ 12",
-      "evidence_source": "archived_docket:openstates_wayback",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
     },
     {
@@ -325,7 +1194,7 @@
       "disposition": "enacted",
       "stage": "became law (Chapter 81)",
       "evidence": "Signed by Governor Sununu 06/20/2023; Chapter 81",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
     },
     {
@@ -337,6 +1206,74 @@
       "evidence_source": "sql_rollcall",
       "citations": null,
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB117",
+      "title": "relative to the termination of tenancy at the expiration of the tenancy or lease term.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 04/13/2023;  SJ 13",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 1
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB184",
+      "title": "relative to public notice requirements for zoning board of adjustment hearings.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/02/2023  HJ 4",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB235",
+      "title": "establishing a committee to study the landlord tenant mediation program.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 31)",
+      "evidence": "Signed by Governor Sununu 05/17/2023; Chapter 31",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB236",
+      "title": "relative to condominium conversions under water and waste disposal laws and municipal ordinances.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/09/2023  HJ 8  P. 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB261",
+      "title": "authorizing residential tenants to terminate their lease in instances of domestic violence or following a disabling illness or accident.",
+      "disposition": "carryover_duplicate",
+      "stage": "same bill as 2024 HB261 (carried across the biennium); see the 2024 record",
+      "evidence_source": "biennium carryover",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB273",
+      "title": "requiring composting and waste recycling to be made available to residents of public housing.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/22/2023  HJ 6  P. 12",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB283",
+      "title": "to limit application fees charged to prospective residential tenants.",
+      "disposition": "carryover_duplicate",
+      "stage": "same bill as 2024 HB283 (carried across the biennium); see the 2024 record",
+      "evidence_source": "biennium carryover",
+      "roll_call_count": 0
     },
     {
       "session_year": 2023,
@@ -352,6 +1289,54 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "HB310",
+      "title": "requiring developers to secure hydrology analysis certifying adequate water capacity and potability when building new subdivisions.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/23/2023  HJ 7  P. 23",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB340",
+      "title": "relative to the transfer of residential property.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA RC 273-78 02/14/2023  HJ 5  P. 61",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 1
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB347",
+      "title": "establishing a superior court land use review docket.",
+      "disposition": "carryover_duplicate",
+      "stage": "same bill as 2024 HB347 (carried across the biennium); see the 2024 record",
+      "evidence_source": "biennium carryover",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB355",
+      "title": "establishing a committee to study the sharing of data between state and federal public housing agencies.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/02/2023  HJ 4",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB379",
+      "title": "requiring notice be provided to tenants during residential eviction proceedings regarding legal counsel.",
+      "disposition": "carryover_duplicate",
+      "stage": "same bill as 2024 HB379 (carried across the biennium); see the 2024 record",
+      "evidence_source": "biennium carryover",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
       "bill_no": "HB401",
       "title": "relative to evictions based on the owner's intent to renovate the property.",
       "disposition": "resolved_manually",
@@ -362,12 +1347,42 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "HB416",
+      "title": "relative to membership on certain local land use boards.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/02/2023  HJ 4",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
       "bill_no": "HB42",
       "title": "relative to the operation of certain homeowners' associations.",
       "disposition": "enacted",
       "stage": "became law (Chapter 114)",
       "evidence": "Signed by Governor Sununu 06/30/2023; Chapter 114",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB422",
+      "title": "to create a public county registry of the monthly rent charged by landlords for each owned unit.",
+      "disposition": "killed_floor",
+      "stage": "indefinitely postponed by the House",
+      "evidence": "Indefinitely Postpone (Rep. L. Turcotte): MA DV 206-158 02/02/2023  HJ 4  P. 12",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB423",
+      "title": "relative to accessory dwelling unit uses allowed by right.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Lay HB423 on Table (Rep. Yokela): MA DV 203-178 03/23/2023  HJ 11  P. 39",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
     {
@@ -389,9 +1404,9 @@
       "bill_no": "HB469",
       "title": "prohibiting discrimination against tenants holding certain vouchers for purposes of renting dwellings.",
       "disposition": "killed_floor",
-      "stage": "Ought to Pass failed on the floor 165-206",
-      "evidence": "roll call: OTP 165-206",
-      "evidence_source": "gencourt_version_header+rollcalls+archived_docket",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/09/2023  HJ 8  P. 53",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
     },
     {
@@ -400,8 +1415,8 @@
       "title": "to prohibit municipal inspections of owner-occupied units of multi-unit housing.",
       "disposition": "killed_floor",
       "stage": "killed on the Senate floor (Inexpedient to Legislate)",
-      "evidence": "Inexpedient to Legislate, Motion Adopted, Voice Vote === BILL KILLED ===; 04/13/2023; Senate Journal 13",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 04/13/2023;  SJ 13",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
     },
     {
@@ -409,10 +1424,20 @@
       "bill_no": "HB567",
       "title": "relative to notice of rent increases in certain residential rental property.",
       "disposition": "killed_floor",
-      "stage": "Ought to Pass failed on the floor 166-207",
-      "evidence": "roll call: OTP 166-207",
-      "evidence_source": "gencourt_version_header+rollcalls+archived_docket",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA DV 208-168 03/09/2023  HJ 8  P. 55",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB636",
+      "title": "relative to required education for zoning board of adjustment members.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/09/2023  HJ 8  P. 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2023,
@@ -420,9 +1445,18 @@
       "title": "enabling municipalities to adopt rental practice regulations.",
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
-      "evidence": "Inexpedient to Legislate: Motion Adopted Regular Calendar 301-63 02/02/2023 House Journal  4 P. 9",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence": "Inexpedient to Legislate: MA RC 301-63 02/02/2023  HJ 4  P. 9",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 2
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB101",
+      "title": "relative to penalties for violations of manufactured housing park sales requirements.",
+      "disposition": "carryover_duplicate",
+      "stage": "same bill as 2024 SB101 (carried across the biennium); see the 2024 record",
+      "evidence_source": "biennium carryover",
+      "roll_call_count": 0
     },
     {
       "session_year": 2023,
@@ -436,6 +1470,16 @@
         "https://www.nheconomy.com/investnh-housing/programs/housing-champion-program"
       ],
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB202",
+      "title": "relative to establishing a homeownership innovations fund in the New Hampshire housing finance authority.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Sen. Gray Moved Laid on Table, MA, VV; 03/16/2023;  SJ 10",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2023,
@@ -453,6 +1497,15 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "SB224",
+      "title": "relative to housing opportunity zones and inclusionary zoning.",
+      "disposition": "carryover_duplicate",
+      "stage": "same bill as 2024 SB224 (carried across the biennium); see the 2024 record",
+      "evidence_source": "biennium carryover",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
       "bill_no": "SB231",
       "title": "establishing a historic housing tax credit and making appropriations for workforce housing and affordable housing.",
       "disposition": "resolved_manually",
@@ -464,13 +1517,141 @@
       "roll_call_count": 0
     },
     {
+      "session_year": 2023,
+      "bill_no": "SB262",
+      "title": "allowing municipalities to collect an occupancy fee from operators of local room rentals.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 03/09/2023;  SJ 9",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB33",
+      "title": "relative to the fee differential for non-member lot rent in a manufactured housing park.",
+      "disposition": "carryover_duplicate",
+      "stage": "same bill as 2024 SB33 (carried across the biennium); see the 2024 record",
+      "evidence_source": "biennium carryover",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB47",
+      "title": "establishing a commission to study barriers to increased density of residential development in New Hampshire.",
+      "disposition": "died_between_chambers",
+      "stage": "died in a committee of conference (no agreed report)",
+      "evidence": "Conference Committee Report; Not Signed Off;  HJ 16",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB64",
+      "title": "establishing a study committee on resident-owned manufactured housing park disputes and oversight of resident-owned manufactured housing parks.",
+      "disposition": "carryover_duplicate",
+      "stage": "same bill as 2024 SB64 (carried across the biennium); see the 2024 record",
+      "evidence_source": "biennium carryover",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB78",
+      "title": "relative to subdivision regulations on the completion of improvements.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 0208)",
+      "evidence": "Signed by the Governor on 08/04/2023; Chapter 0208",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SR10",
+      "title": "urging Congress to support additional federal resources to expand the housing supply and address the housing shortfall in New Hampshire.",
+      "disposition": "passed",
+      "stage": "adopted/passed by the Senate (last recorded action)",
+      "evidence": "Sen. Carson moved Introduction and offered a motion of Ought to Pass, MA, VV; 06/08/2023;  SJ 18",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "CACR16",
+      "title": "relating to local governance. Providing that local construction projects seeking amendments, waivers, or variances be subject to certain local approval, disclosure, and vote requirements.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/21/2024  HJ 9  P. 14",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1053",
+      "title": "relative to permissible residential units in a commercial zone.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Lay HB1053 on Table (Rep. L. Turcotte): MA DV 316-18 03/21/2024  HJ 9  P. 112",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
       "session_year": 2024,
       "bill_no": "HB1065",
       "title": "relative to fire sprinkler requirements in residential buildings.",
       "disposition": "enacted",
       "stage": "became law (Chapter 324)",
       "evidence": "Signed by Governor Sununu 08/02/2024; Chapter 324",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1086",
+      "title": "relative to public notice of zoning board of adjustment hearings.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/07/2024  HJ 7  P. 80",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1101",
+      "title": "establishing a committee to study a potential state program to make loans to low-to-moderate income households for the purpose of buying a home or for the purpose of consolidating student loans.",
+      "disposition": "killed_floor",
+      "stage": "indefinitely postponed by the House",
+      "evidence": "Indefinitely Postpone (Rep. L. Turcotte): MA DV 171-164 03/21/2024  HJ 9  P. 112",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1115",
+      "title": "relative to the termination of tenancy at the expiration of the tenancy or lease term.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Refer to Interim Study, MA, VV; 05/02/2024;  SJ 11",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1140",
+      "title": "relative to requirements for homeowner installations of septic systems.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 112)",
+      "evidence": "Signed by Governor Sununu 07/03/2024; Chapter 112",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1168",
+      "title": "establishing a committee to study the impact of the housing crisis on people with disabilities.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 188)",
+      "evidence": "Signed by Governor Sununu 07/12/2024; Chapter 188",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
     {
@@ -478,9 +1659,9 @@
       "bill_no": "HB1199",
       "title": "relative to services of the office of the child advocate for youth experiencing homelessness and making an appropriation therefor.",
       "disposition": "killed_floor",
-      "stage": "Ought to Pass failed on the floor 191-192",
-      "evidence": "roll call: OTP 191-192",
-      "evidence_source": "gencourt_version_header+rollcalls+archived_docket",
+      "stage": "indefinitely postponed by the House",
+      "evidence": "Indefinitely Postpone (Rep. Sweeney): MA RC 192-190 04/11/2024  HJ 11  P. 27",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 3
     },
     {
@@ -490,7 +1671,47 @@
       "disposition": "enacted",
       "stage": "became law (Chapter 367)",
       "evidence": "Signed by Governor Sununu 08/23/2024; Chapter 367",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1203",
+      "title": "relative to prohibiting the charging of rent to charities by charitable gaming facilities.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 8)",
+      "evidence": "Signed by Governor Sununu 04/16/2024; Chapter 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1215",
+      "title": "relative to development approvals and appeals, and allowing the town of Hampton to discontinue a particular highway in order to lease that property.",
+      "disposition": "died_between_chambers",
+      "stage": "conference report rejected by the House",
+      "evidence": "Conference Committee Report 2024-2273c: Failed, RC 102-261 06/13/2024  HJ 16  P. 19",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 2
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1281",
+      "title": "relative to zoning restrictions on residential rental property.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Lay HB1281 on Table (Rep. L. Turcotte): MA DV 300-17 03/21/2024  HJ 9  P. 120",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1284",
+      "title": "relative to the quasi-judicial authority of planning boards.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/21/2024  HJ 9  P. 16",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
     {
@@ -508,12 +1729,22 @@
     },
     {
       "session_year": 2024,
+      "bill_no": "HB1358",
+      "title": "relative to tenant and contract manufacturers of beer, wine, and liquor and establishing a committee to study the acquisition of land by China.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 338)",
+      "evidence": "Signed by Governor Sununu 08/02/2024; Chapter 338",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
       "bill_no": "HB1359",
       "title": "relative to appeals of certain zoning decisions by abutters.",
       "disposition": "enacted",
       "stage": "became law (Chapter 130)",
       "evidence": "Signed by Governor Sununu 07/03/2024; Chapter 130",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
     },
     {
@@ -523,7 +1754,37 @@
       "disposition": "enacted",
       "stage": "became law (Chapter 23)",
       "evidence": "Signed by Governor Sununu 05/20/2024; Chapter 23",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1362",
+      "title": "relative to authorizing municipalities to stabilize rent increases in rental housing.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/15/2024  HJ 5  P. 14",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1368",
+      "title": "prohibiting termination of a tenancy based on a tenant's failure to pay rent that was increased by certain price fixing programs.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/21/2024  HJ 9  P. 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1371",
+      "title": "relative to allowing the land use master plan to include a section on waste reduction.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 266)",
+      "evidence": "Signed by Governor Sununu 07/26/2024; Chapter 266",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
     {
@@ -532,8 +1793,8 @@
       "title": "relative to prohibiting municipal inspections of owner-occupied units of multi-unit housing.",
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
-      "evidence": "Inexpedient to Legislate: Motion Adopted Regular Calendar 195-182 02/08/2024 House Journal  4 P. 39",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence": "Inexpedient to Legislate: MA RC 195-182 02/08/2024  HJ 4  P. 39",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
     },
     {
@@ -542,8 +1803,8 @@
       "title": "allowing municipalities to permit 2 residential units in certain single-family residential zones.",
       "disposition": "interim_study",
       "stage": "sent to interim study by the Senate",
-      "evidence": "Refer to Interim Study, Motion Adopted, Voice Vote; 05/16/2024; Senate Journal 13",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence": "Refer to Interim Study, MA, VV; 05/16/2024;  SJ 13",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
     },
     {
@@ -553,8 +1814,18 @@
       "disposition": "enacted",
       "stage": "became law (Chapter 370)",
       "evidence": "Signed by Governor Sununu 08/23/2024; Chapter 370",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1456",
+      "title": "relative to the appointment and removal of the members of the board of tax and land appeals and the housing appeals board.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 267)",
+      "evidence": "Signed by Governor Sununu 07/26/2024; Chapter 267",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2024,
@@ -562,18 +1833,58 @@
       "title": "establishing a study committee on the feasibility and impact of a low-income housing tax credit.",
       "disposition": "killed_floor",
       "stage": "indefinitely postponed by the House",
-      "evidence": "Indefinitely Postpone (Rep. Sweeney): Motion Adopted Regular Calendar 164-162 03/21/2024 House Journal  9 P. 124",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence": "Indefinitely Postpone (Rep. Sweeney): MA RC 164-162 03/21/2024  HJ 9  P. 124",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1483",
+      "title": "allowing subdivision regulations concerning water supply.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA DV 182-165 03/07/2024  HJ 7  P. 91",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1498",
+      "title": "establishing a state short term rental registry.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/28/2024  HJ 10  P. 16",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1521",
+      "title": "relative to recovery houses.",
+      "disposition": "died_between_chambers",
+      "stage": "died in a committee of conference (no agreed report)",
+      "evidence": "Conference Committee Report: Not Filed  HJ 15",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 1
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1544",
+      "title": "relative to indemnification for municipalities adopting policies to address homelessness.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA VV 02/08/2024  HJ 4  P. 12",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2024,
       "bill_no": "HB1545",
       "title": "relative to the disposal of state surplus property for affordable housing.",
       "disposition": "died_on_table",
-      "stage": "laid on the table; never taken back up",
-      "evidence": "roll call: Table 190-185",
-      "evidence_source": "gencourt_version_header+rollcalls+archived_docket",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Lay HB1545 on Table (Rep. Sweeney): MA RC 190-185 03/28/2024  HJ 10  P. 161",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
     },
     {
@@ -583,7 +1894,117 @@
       "disposition": "enacted",
       "stage": "became law (Chapter 271)",
       "evidence": "Signed by Governor Sununu 07/26/2024; Chapter 271",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1602",
+      "title": "relative to the authority of the housing appeals board.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA VV 03/21/2024  HJ 9  P. 11",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1635",
+      "title": "relative to the definition of short-term rental.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/28/2024  HJ 10  P. 18",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1651",
+      "title": "relative to combining the board of tax and land appeals and the housing appeals board.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/15/2024  HJ 5  P. 13",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1672",
+      "title": "relative to tenants in section 8 public housing.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/07/2024  HJ 7  P. 18",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB261",
+      "title": "relative to rights of tenants in cases of domestic violence.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 9)",
+      "evidence": "Signed by Governor Sununu 05/14/2024; Chapter 9",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB283",
+      "title": "relative to rental application fees charged to prospective tenants.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 46)",
+      "evidence": "Signed by Governor Sununu 06/14/2024; Chapter 46",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB347",
+      "title": "establishing a superior court land use review docket.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 01/03/2024  HJ 1  P. 54",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB379",
+      "title": "requiring notice be provided to tenants during residential eviction proceedings regarding legal counsel.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Refer to Interim Study, MA, VV; 01/03/2024;  SJ 1",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB101",
+      "title": "relative to penalties for violations of manufactured housing park sales requirements.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 01/03/2024;  SJ 1",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB224",
+      "title": "relative to housing opportunity zones and inclusionary zoning.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Refer to Interim Study, MA, VV; 01/03/2024;  SJ 1",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB306",
+      "title": "relative to manufactured housing rulemaking authority.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 373)",
+      "evidence": "Signed by the Governor on 08/23/2024; Chapter 373",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
     {
@@ -593,8 +2014,38 @@
       "disposition": "vetoed",
       "stage": "vetoed (no override action recorded as of collection)",
       "evidence": "Vetoed by Governor 07/26/2024",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB33",
+      "title": "relative to the fee differential for non-member lot rent in a manufactured housing park.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 01/03/2024;  SJ 1",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB364",
+      "title": "relative to establishing a historic housing preservation tax credit.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Refer to Interim Study, MA, VV; 03/21/2024;  SJ 7",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB384",
+      "title": "relative to a municipal loan and grant program for rental housing and making an appropriation therefor.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Refer to Interim Study, MA, VV; 03/21/2024;  SJ 7",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2024,
@@ -603,7 +2054,47 @@
       "disposition": "enacted",
       "stage": "became law (Chapter 0290)",
       "evidence": "Signed by the Governor on 07/26/2024; Chapter 0290",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB408",
+      "title": "establishing a committee to study the effects of the housing crisis on the disability community.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 05/23/2024  HJ 14  P. 40",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB410",
+      "title": "making appropriations to the department of health and human services to support community and transitional housing through community mental health centers.",
+      "disposition": "killed_deadline",
+      "stage": "killed at the Senate's end-of-year deadline (Senate Rule 3-23)",
+      "evidence": "Inexpedient to Legislate, Senate Rule 3-23, Adjournment 10/10/2024;  SJ 18",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB413",
+      "title": "relative to civil actions for PFAS contamination and relative to the termination of tenancy at the expiration of the tenancy or lease term.",
+      "disposition": "died_between_chambers",
+      "stage": "Senate refused to accept the other chamber's changes; no conference",
+      "evidence": "Sen. Carson Moved Nonconcur with the House Amendment, MA, VV; 05/30/2024;  SJ 16",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 1
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB434",
+      "title": "establishing the extended stay housing program and exempting participating businesses from the tax on meals and rooms.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 03/07/2024;  SJ 6",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
     {
@@ -612,8 +2103,48 @@
       "title": "increasing the annual real estate transfer tax revenue contribution to the affordable housing fund.",
       "disposition": "died_on_table",
       "stage": "laid on the table in the House; never taken back up",
-      "evidence": "Lay SB454 on Table (Rep. Sweeney): Motion Adopted DV 180-176 05/02/2024 House Journal  12 P. 86",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence": "Lay SB454 on Table (Rep. Sweeney): MA DV 180-176 05/02/2024  HJ 12  P. 86",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB503",
+      "title": "relative to requiring a criminal background check when applying for a fish and game guide license and relative to zoning and planning regulations for municipal parking.",
+      "disposition": "died_between_chambers",
+      "stage": "Senate refused to accept the other chamber's changes; no conference",
+      "evidence": "Sen. Carson Moved Nonconcur with the House Amendment, MA, VV; 05/30/2024;  SJ 16",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 1
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB518",
+      "title": "relative to incentivizing landlords to accept housing choice vouchers.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Refer to Interim Study, MA, VV; 04/05/2024;  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB519",
+      "title": "relative to evictions based on the owner's intent to renovate the property.",
+      "disposition": "killed_deadline",
+      "stage": "killed at the Senate's end-of-year deadline (Senate Rule 3-23)",
+      "evidence": "Inexpedient to Legislate, Senate Rule 3-23, Adjournment 10/10/2024;  SJ 18",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB527",
+      "title": "relative to student housing.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 0260)",
+      "evidence": "Signed by the Governor on 07/19/2024; Chapter 0260",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
     {
@@ -622,9 +2153,19 @@
       "title": "relative to zoning procedures concerning residential housing.",
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
-      "evidence": "Inexpedient to Legislate: Motion Adopted Regular Calendar 188-173 05/02/2024 House Journal  12 P. 71",
-      "evidence_source": "archived_docket:legiscan_wayback",
+      "evidence": "Inexpedient to Legislate: MA RC 188-173 05/02/2024  HJ 12  P. 71",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB64",
+      "title": "establishing a study committee on resident-owned manufactured housing park disputes and oversight of resident-owned manufactured housing parks.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA VV 01/03/2024  HJ 1  P. 37",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2025,
