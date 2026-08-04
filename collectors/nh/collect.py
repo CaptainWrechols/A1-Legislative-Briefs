@@ -40,7 +40,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 import issue_paths as ip  # noqa: E402
 
 from . import gencourt_sql as db  # noqa: E402
-from . import hb2_sections, legiscan, openstates_backfill  # noqa: E402
+from . import hb2_sections, legiscan, openstates_backfill, openstates_bulk  # noqa: E402
 
 
 def now() -> str:
@@ -117,22 +117,34 @@ def discover(cfg: dict, sessions: list[dict], gaps: list[dict]) -> dict[tuple, d
     #    captured the voted bills).
     older_years = [s for s in sessions if s["year"] not in sql_years]
     if older_years:
-        if legiscan.available():
-            _legiscan_discover(older_years, terms, rel, add, gaps)
-        elif openstates_backfill.available():
-            _openstates_discover(older_years, terms, rel, add)
-        else:
-            gaps.append({
-                "gap": "older_session_discovery_incomplete",
-                "years": [s["year"] for s in older_years],
-                "detail": (
-                    "No LEGISCAN_API_KEY or OPENSTATES_API_KEY set. Older-session "
-                    "bills that reached a floor vote were found via SQL roll-call "
-                    "titles, but bills killed in committee (no recorded vote) are "
-                    "not captured. Set a key (LegiScan preferred) to complete "
-                    "these years."
-                ),
-            })
+        # Priority: local OpenStates bulk files (keyless, no rate limit) >
+        # LegiScan bulk API > OpenStates API > keyless-partial only.
+        bulk_years = [s for s in older_years if openstates_bulk.available(s["label"])]
+        remaining = [s for s in older_years if s not in bulk_years]
+        for s in bulk_years:
+            for b in openstates_bulk.discover_session(s["label"], terms, rel):
+                add(s["year"], b["bill_no"], "openstates_bulk", b["title"],
+                    b["found_by_terms"],
+                    {"abstract": b["abstract"], "openstates_url": b["openstates_url"],
+                     "os_sponsors": b["sponsors"], "subject": b.get("subject")})
+        if remaining:
+            if legiscan.available():
+                _legiscan_discover(remaining, terms, rel, add, gaps)
+            elif openstates_backfill.available():
+                _openstates_discover(remaining, terms, rel, add)
+            else:
+                gaps.append({
+                    "gap": "older_session_discovery_incomplete",
+                    "years": [s["year"] for s in remaining],
+                    "detail": (
+                        "No local OpenStates bulk files, LEGISCAN_API_KEY, or "
+                        "OPENSTATES_API_KEY for these years. Bills that reached a "
+                        "floor vote were still found via SQL roll-call titles, but "
+                        "committee-killed bills are not captured. Drop OpenStates "
+                        "bulk CSVs in sources/new-hampshire/_bulk/openstates/<year>/ "
+                        "(no rate limit) or set a key to complete them."
+                    ),
+                })
     return bills
 
 
