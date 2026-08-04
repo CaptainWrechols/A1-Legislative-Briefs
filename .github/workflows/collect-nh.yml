@@ -1,0 +1,73 @@
+name: Collect New Hampshire Bills
+
+# Runs the New Hampshire collector where the OPENSTATES_API_KEY GitHub secret
+# already lives, so no Cursor secret is needed. Votes come from the NH public
+# SQL database; older-year bills are backfilled from OpenStates (or, if present,
+# local bulk CSVs / a LegiScan key). Results are committed back to the branch so
+# the brief-writing agents can read them.
+
+on:
+  workflow_dispatch:
+    inputs:
+      issue_config:
+        description: "Path to the issue config YAML"
+        required: true
+        default: "config/issues/new-hampshire-water-example.yaml"
+      skip_ballots:
+        description: "Set true for roll-call summaries only (faster)"
+        required: false
+        default: "false"
+      commit_results:
+        description: "Commit collected data back to this branch"
+        required: false
+        default: "true"
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect NH bills + votes
+        env:
+          ISSUE_CONFIG: ${{ inputs.issue_config }}
+          # Instant/free OpenStates key (GitHub Actions secret). Optional keys
+          # for the other backfills are used automatically if you add them.
+          OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
+          LEGISCAN_API_KEY: ${{ secrets.LEGISCAN_API_KEY }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.skip_ballots }}" = "true" ]; then ARGS="$ARGS --skip-ballots"; fi
+          python -m collectors.nh.collect $ARGS
+
+      - name: Commit results
+        if: ${{ inputs.commit_results == 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sources/new-hampshire working/new-hampshire || true
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "NH collection: ${{ inputs.issue_config }} [skip ci]"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
+
+      - name: Upload collected data
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nh-collection
+          path: |
+            sources/new-hampshire/
+            working/new-hampshire/
+          if-no-files-found: warn
