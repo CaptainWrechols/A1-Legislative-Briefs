@@ -1,0 +1,6189 @@
+{
+  "collected_at": "2026-08-04T13:41:45.406236+00:00",
+  "issue": "nh-00-water-example",
+  "note": "NH discovery: SQL legislation (current biennium) + SQL roll-call titles (all years) + OpenStates backfill (older years, if key).",
+  "count": 148,
+  "bills": [
+    {
+      "session_year": 2020,
+      "bill_no": "HB1120",
+      "title": "establishing a committee to study the establishment of water testing requirements for residential rental property.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1120/",
+      "sponsors": [
+        {
+          "name": "Mary A. Eisner",
+          "primary": false
+        },
+        {
+          "name": "Charlotte I. DiLorenzo",
+          "primary": false
+        },
+        {
+          "name": "Sherry A. Frost",
+          "primary": false
+        },
+        {
+          "name": "Edith M. DesMarais",
+          "primary": false
+        },
+        {
+          "name": "Kathryn Stack",
+          "primary": false
+        },
+        {
+          "name": "Wendy E.N. Thomas",
+          "primary": true
+        },
+        {
+          "name": "David R. Coursin",
+          "primary": false
+        },
+        {
+          "name": "Wendy Chase",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1124",
+      "title": "relative to the definition of prime wetland.",
+      "found_by_terms": [
+        "water",
+        "wetland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1124/",
+      "sponsors": [
+        {
+          "name": "Judith T. Spang",
+          "primary": false
+        },
+        {
+          "name": "Chuck W. Grassie",
+          "primary": true
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Jaci L. Grote",
+          "primary": false
+        },
+        {
+          "name": "Matthew D. Towne",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1252",
+      "title": "relative to large groundwater withdrawals from replacement wells.",
+      "found_by_terms": [
+        "groundwater"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1252/",
+      "sponsors": [
+        {
+          "name": "Martha Fuller Clark",
+          "primary": false
+        },
+        {
+          "name": "Kenneth L. Weyler",
+          "primary": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "primary": false
+        },
+        {
+          "name": "Joseph A. Guthrie",
+          "primary": false
+        },
+        {
+          "name": "David A. Welch",
+          "primary": false
+        },
+        {
+          "name": "Dennis E. Green",
+          "primary": false
+        },
+        {
+          "name": "Peter F. Somssich",
+          "primary": false
+        },
+        {
+          "name": "Jeffrey C. Salloway",
+          "primary": false
+        },
+        {
+          "name": "Mark A. Pearson",
+          "primary": true
+        },
+        {
+          "name": "Jon Morgan",
+          "primary": false
+        },
+        {
+          "name": "Deborah L. Hobson",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1264",
+      "title": "(New Title) extending the commission on the seacoast cancer cluster investigation, setting the maximum contaminant levels for certain perfluorochemicals in drinking water, establishing a per and polyfluoroalkyl substances fund and programs and making an a",
+      "found_by_terms": [
+        "water",
+        "drinking water",
+        "groundwater",
+        "PFAS"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1264/",
+      "sponsors": [
+        {
+          "name": "Robert Renny Cushing",
+          "primary": false
+        },
+        {
+          "name": "Rebecca Susan McBeath",
+          "primary": false
+        },
+        {
+          "name": "Tamara N. Le",
+          "primary": false
+        },
+        {
+          "name": "Debra Altschiller",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Patricia J. Bushway",
+          "primary": false
+        },
+        {
+          "name": "David Meuse",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1274",
+      "title": "requiring bottled drinking water sold to the public meet the same maximum contaminant levels established for public drinking water.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1274/",
+      "sponsors": [
+        {
+          "name": "Martha Fuller Clark",
+          "primary": false
+        },
+        {
+          "name": "Robert Renny Cushing",
+          "primary": true
+        },
+        {
+          "name": "Dan Feltes",
+          "primary": false
+        },
+        {
+          "name": "Timothy Josephson",
+          "primary": false
+        },
+        {
+          "name": "Mark A. Pearson",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Patricia J. Bushway",
+          "primary": false
+        },
+        {
+          "name": "David Meuse",
+          "primary": false
+        },
+        {
+          "name": "Deborah L. Hobson",
+          "primary": false
+        },
+        {
+          "name": "Cassandra N. Levesque",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1347",
+      "title": "addressing impacts to other water users from new sources of water for community water systems.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1347/",
+      "sponsors": [
+        {
+          "name": "Martha Fuller Clark",
+          "primary": false
+        },
+        {
+          "name": "Kenneth L. Weyler",
+          "primary": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "primary": false
+        },
+        {
+          "name": "Joseph A. Guthrie",
+          "primary": false
+        },
+        {
+          "name": "David A. Welch",
+          "primary": false
+        },
+        {
+          "name": "Dennis E. Green",
+          "primary": false
+        },
+        {
+          "name": "Peter F. Somssich",
+          "primary": false
+        },
+        {
+          "name": "Jeffrey C. Salloway",
+          "primary": false
+        },
+        {
+          "name": "Mark A. Pearson",
+          "primary": true
+        },
+        {
+          "name": "Jon Morgan",
+          "primary": false
+        },
+        {
+          "name": "Deborah L. Hobson",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1380",
+      "title": "relative to the operation of personal water craft around the marshlands or flats of the Rye estuary and the New Castle back channel.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1380/",
+      "sponsors": [
+        {
+          "name": "Kate R. Murray",
+          "primary": true
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Patricia J. Bushway",
+          "primary": false
+        },
+        {
+          "name": "Jaci L. Grote",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1389",
+      "title": "relative to criminal penalties for not providing adequate food, water, and shelter for animals.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1389/",
+      "sponsors": [
+        {
+          "name": "Katherine D. Rogers",
+          "primary": true
+        },
+        {
+          "name": "Kate R. Murray",
+          "primary": false
+        },
+        {
+          "name": "Cam E. Kenney",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1446",
+      "title": "establishing a committee to study the labeling of products containing PFAS.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1446/",
+      "sponsors": [
+        {
+          "name": "Betty I. Gay",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": true
+        },
+        {
+          "name": "Deborah L. Hobson",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1456",
+      "title": "relative to a PFAs testing program for pregnant women.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1456/",
+      "sponsors": [
+        {
+          "name": "Kenneth L. Weyler",
+          "primary": true
+        },
+        {
+          "name": "Regina Birdsell",
+          "primary": false
+        },
+        {
+          "name": "Joseph A. Guthrie",
+          "primary": false
+        },
+        {
+          "name": "David A. Welch",
+          "primary": false
+        },
+        {
+          "name": "Dennis E. Green",
+          "primary": false
+        },
+        {
+          "name": "Mark A. Pearson",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1503",
+      "title": "establishing a committee to study and monitor air emissions of PFAS.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1503/",
+      "sponsors": [
+        {
+          "name": "Kathryn Stack",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1537",
+      "title": "relative to standards for per and polyfluoroalkyl substances (PFAS) in drinking water and ambient groundwater.",
+      "found_by_terms": [
+        "water",
+        "groundwater",
+        "drinking water",
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1537/",
+      "sponsors": [
+        {
+          "name": "Linda A. Massimilla",
+          "primary": false
+        },
+        {
+          "name": "Mary A. Eisner",
+          "primary": false
+        },
+        {
+          "name": "Betty I. Gay",
+          "primary": false
+        },
+        {
+          "name": "Jeffrey C. Salloway",
+          "primary": false
+        },
+        {
+          "name": "Peter Petrigno",
+          "primary": false
+        },
+        {
+          "name": "Bruce L. Cohen",
+          "primary": false
+        },
+        {
+          "name": "David Meuse",
+          "primary": false
+        },
+        {
+          "name": "Wendy Chase",
+          "primary": false
+        },
+        {
+          "name": "Jon Morgan",
+          "primary": false
+        },
+        {
+          "name": "Sue M. Mullen",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1609",
+      "title": "relative to seasonal platforms on public waters of the state.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1609/",
+      "sponsors": [
+        {
+          "name": "Jeb Bradley",
+          "primary": false
+        },
+        {
+          "name": "Karel A. Crawford",
+          "primary": false
+        },
+        {
+          "name": "William M. Marsh",
+          "primary": false
+        },
+        {
+          "name": "John T. MacDonald",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1661",
+      "title": "relative to the exemption from property taxes for water and air pollution control facilities.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1661/",
+      "sponsors": [
+        {
+          "name": "Robert Renny Cushing",
+          "primary": true
+        },
+        {
+          "name": "Mary Beth Walz",
+          "primary": false
+        },
+        {
+          "name": "Michael A. Edgar",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB542",
+      "title": "establishing a grant program to support municipalities in updating their wetlands regulations.",
+      "found_by_terms": [
+        "water",
+        "wetland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB542/"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB543",
+      "title": "relating to the protection of wetlands.",
+      "found_by_terms": [
+        "wetland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB543/"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB707",
+      "title": "relative to settlement money from actions pertaining to the contamination of groundwater or drinking water.",
+      "found_by_terms": [
+        "water",
+        "groundwater",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB707/"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HR12",
+      "title": "urging Congress to declare per-fluoroalkyl and polyfluoroalkyl substances (PFAs) a superfund chemical and provide sufficient programming and funding for education, treatment, and remediation of the effects of PFAS.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HR12/",
+      "sponsors": [
+        {
+          "name": "Timothy O. Horrigan",
+          "primary": false
+        },
+        {
+          "name": "Suzanne M. Vail",
+          "primary": true
+        },
+        {
+          "name": "Michael P. Pedersen",
+          "primary": false
+        },
+        {
+          "name": "Liz A. McConnell",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Kathryn Stack",
+          "primary": false
+        },
+        {
+          "name": "Wendy E.N. Thomas",
+          "primary": false
+        },
+        {
+          "name": "Bruce L. Cohen",
+          "primary": false
+        },
+        {
+          "name": "Sherry Dutzy",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB171",
+      "title": "appropriating money to remove lead from drinking water pipes in schools.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB171/"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB287",
+      "title": "(New Title) setting the maximum contaminant levels for certain perfluorochemicals in drinking water.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB287/",
+      "sponsors": [
+        {
+          "name": "Martha Fuller Clark",
+          "primary": false
+        },
+        {
+          "name": "Robert Renny Cushing",
+          "primary": false
+        },
+        {
+          "name": "Dennis J. Malloy",
+          "primary": false
+        },
+        {
+          "name": "Dan Feltes",
+          "primary": false
+        },
+        {
+          "name": "Tamara N. Le",
+          "primary": false
+        },
+        {
+          "name": "Kevin Cavanaugh",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": true
+        },
+        {
+          "name": "Patricia J. Bushway",
+          "primary": false
+        },
+        {
+          "name": "Shannon E Chandley",
+          "primary": false
+        },
+        {
+          "name": "Martha S. Hennessey",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB476",
+      "title": "relative to parking restrictions at public access to public waters.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB476/",
+      "sponsors": [
+        {
+          "name": "Jeanne Dietsch",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB491",
+      "title": "relative to shoreland water quality.",
+      "found_by_terms": [
+        "water",
+        "shoreland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB491/",
+      "sponsors": [
+        {
+          "name": "Martha Fuller Clark",
+          "primary": true
+        },
+        {
+          "name": "Judith T. Spang",
+          "primary": false
+        },
+        {
+          "name": "Suzanne J. Smith",
+          "primary": false
+        },
+        {
+          "name": "Amanda L. Gourgue",
+          "primary": false
+        },
+        {
+          "name": "Chuck W. Grassie",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB599",
+      "title": "relative to testing for lead in water in schools and child care facilities.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB599/",
+      "sponsors": [
+        {
+          "name": "Lou D'Allesandro",
+          "primary": false
+        },
+        {
+          "name": "Martha Fuller Clark",
+          "primary": false
+        },
+        {
+          "name": "Donna M. Soucy",
+          "primary": false
+        },
+        {
+          "name": "Mary Jane Wallner",
+          "primary": false
+        },
+        {
+          "name": "John R. Cloutier",
+          "primary": false
+        },
+        {
+          "name": "Erin T. Hennessey",
+          "primary": false
+        },
+        {
+          "name": "Dan Feltes",
+          "primary": false
+        },
+        {
+          "name": "Walter A. Stapleton",
+          "primary": false
+        },
+        {
+          "name": "Joelle Martin",
+          "primary": false
+        },
+        {
+          "name": "Jay Kahn",
+          "primary": false
+        },
+        {
+          "name": "Kevin Cavanaugh",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "primary": true
+        },
+        {
+          "name": "Martha S. Hennessey",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB623",
+      "title": "requiring insurance coverage for PFAS and PFC blood tests.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB623/",
+      "sponsors": [
+        {
+          "name": "Martha Fuller Clark",
+          "primary": false
+        },
+        {
+          "name": "David H Watters",
+          "primary": false
+        },
+        {
+          "name": "Donna M. Soucy",
+          "primary": false
+        },
+        {
+          "name": "Dan Feltes",
+          "primary": false
+        },
+        {
+          "name": "Kevin Cavanaugh",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Kathryn Stack",
+          "primary": false
+        },
+        {
+          "name": "Wendy E.N. Thomas",
+          "primary": false
+        },
+        {
+          "name": "Shannon E Chandley",
+          "primary": true
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "primary": false
+        },
+        {
+          "name": "Martha S. Hennessey",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB641",
+      "title": "establishing a state assistance to public drinking water systems program and fund.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB641/",
+      "sponsors": [
+        {
+          "name": "Chuck Morse",
+          "primary": true
+        },
+        {
+          "name": "Richard W. Hinch",
+          "primary": false
+        },
+        {
+          "name": "Kevin G. Maes",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Deborah L. Hobson",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB135",
+      "title": "requiring parties responsible for pollution of a drinking water supply to be financially responsible for certain consequences of that pollution.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB135/",
+      "sponsors": [
+        {
+          "name": "Ralph G. Boehm",
+          "primary": true
+        },
+        {
+          "name": "Jeanine M. Notter",
+          "primary": false
+        },
+        {
+          "name": "Richard W. Lascelles",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB158",
+      "title": "relative to the definition of prime wetland.",
+      "found_by_terms": [
+        "wetland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB158/",
+      "sponsors": [
+        {
+          "name": "Suzanne M. Vail",
+          "primary": false
+        },
+        {
+          "name": "Chuck W. Grassie",
+          "primary": true
+        },
+        {
+          "name": "Deb Stevens",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB184",
+      "title": "relative to the operation of personal water craft around the marshlands or flats of the Rye estuary and the New Castle back channel.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB184/",
+      "sponsors": [
+        {
+          "name": "Kate R. Murray",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB235",
+      "title": "addressing impacts to other water users from new sources of water for community water systems and relative to the PFAS fund and programs.",
+      "found_by_terms": [
+        "groundwater"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB235/",
+      "sponsors": [
+        {
+          "name": "Kenneth L. Weyler",
+          "primary": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "primary": false
+        },
+        {
+          "name": "Joseph A. Guthrie",
+          "primary": false
+        },
+        {
+          "name": "David A. Welch",
+          "primary": false
+        },
+        {
+          "name": "Dennis E. Green",
+          "primary": false
+        },
+        {
+          "name": "Jeffrey C. Salloway",
+          "primary": false
+        },
+        {
+          "name": "Mark A. Pearson",
+          "primary": true
+        },
+        {
+          "name": "Deborah L. Hobson",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB256",
+      "title": "adding members from Londonderry to the commission to investigate and analyze the environmental and public health impacts relating to releases of perfluorinated chemicals into the air, soil, and groundwater in Merrimack, Bedford, and Litchfield.",
+      "found_by_terms": [
+        "groundwater"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB256/",
+      "sponsors": [
+        {
+          "name": "Douglas W. Thomas",
+          "primary": false
+        },
+        {
+          "name": "Maureen C. Mooney",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": true
+        },
+        {
+          "name": "Sue M. Mullen",
+          "primary": false
+        },
+        {
+          "name": "Robert V. Healey",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB265",
+      "title": "requiring bottled drinking water sold to the public meet the same maximum contaminant levels established for public drinking water.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB265/",
+      "sponsors": [
+        {
+          "name": "Robert Renny Cushing",
+          "primary": true
+        },
+        {
+          "name": "Michael A. Edgar",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "David Meuse",
+          "primary": false
+        },
+        {
+          "name": "Deborah L. Hobson",
+          "primary": false
+        },
+        {
+          "name": "Cassandra N. Levesque",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB271",
+      "title": "relative to standards for per and polyfluoroalkyl substances (PFAS) in drinking water and ambient groundwater.",
+      "found_by_terms": [
+        "water",
+        "groundwater",
+        "drinking water",
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB271/",
+      "sponsors": [
+        {
+          "name": "Joyce Weston",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB335",
+      "title": "requiring bottled drinking water sold to the public to meet the same maximum contaminant levels established for public drinking water.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB335/",
+      "sponsors": [
+        {
+          "name": "Chuck W. Grassie",
+          "primary": true
+        },
+        {
+          "name": "Bruce L. Cohen",
+          "primary": false
+        },
+        {
+          "name": "Cassandra N. Levesque",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB397",
+      "title": "relative to permitting fees under the shoreland protection act.",
+      "found_by_terms": [
+        "shoreland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB397/",
+      "sponsors": [
+        {
+          "name": "Al P. Baldasaro",
+          "primary": false
+        },
+        {
+          "name": "Howard C. Pearl",
+          "primary": true
+        },
+        {
+          "name": "Bill Gannon",
+          "primary": false
+        },
+        {
+          "name": "Harold F. French",
+          "primary": false
+        },
+        {
+          "name": "Timothy P. Lang",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB412",
+      "title": "making an appropriation to the department of environmental services for the purpose of funding public water system projects.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB412/",
+      "sponsors": [
+        {
+          "name": "Jeb Bradley",
+          "primary": false
+        },
+        {
+          "name": "David H Watters",
+          "primary": false
+        },
+        {
+          "name": "Peter R. Leishman",
+          "primary": false
+        },
+        {
+          "name": "Thomas L. Buco",
+          "primary": true
+        },
+        {
+          "name": "William A. Hatch",
+          "primary": false
+        },
+        {
+          "name": "Karen C. Umberger",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB426",
+      "title": "relative to shoreland septic systems.",
+      "found_by_terms": [
+        "shoreland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB426/",
+      "sponsors": [
+        {
+          "name": "David H Watters",
+          "primary": false
+        },
+        {
+          "name": "Judith T. Spang",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB478",
+      "title": "relative to treatment of PFAS\u00a0contaminants in the\u00a0drinking water of the Merrimack Village Water District.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB478/",
+      "sponsors": [
+        {
+          "name": "Sharon M Carson",
+          "primary": false
+        },
+        {
+          "name": "Robert Renny Cushing",
+          "primary": false
+        },
+        {
+          "name": "Jeanine M. Notter",
+          "primary": false
+        },
+        {
+          "name": "Kimberly A. Rice",
+          "primary": false
+        },
+        {
+          "name": "Gary L. Daniels",
+          "primary": false
+        },
+        {
+          "name": "Maureen C. Mooney",
+          "primary": true
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "primary": false
+        },
+        {
+          "name": "Robert V. Healey",
+          "primary": false
+        },
+        {
+          "name": "Mary L. Mayville",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB534",
+      "title": "relative to municipal control of certain frozen water bodies.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB534/",
+      "sponsors": [
+        {
+          "name": "Mary Beth Walz",
+          "primary": true
+        },
+        {
+          "name": "Gary L. Woods",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB611",
+      "title": "abolishing fluoridation in water.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB611/",
+      "sponsors": [
+        {
+          "name": "Peter B. Schmidt",
+          "primary": false
+        },
+        {
+          "name": "Raymond J. Howard",
+          "primary": false
+        },
+        {
+          "name": "Max Abramson",
+          "primary": false
+        },
+        {
+          "name": "Michael Moffett",
+          "primary": false
+        },
+        {
+          "name": "David W. Binford",
+          "primary": false
+        },
+        {
+          "name": "Leah P. Cushman",
+          "primary": true
+        },
+        {
+          "name": "Jose E. Cambrils",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB99",
+      "title": "relative to seasonal platforms on public waters of the state.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/HB99/",
+      "sponsors": [
+        {
+          "name": "Jeb Bradley",
+          "primary": false
+        },
+        {
+          "name": "Karel A. Crawford",
+          "primary": false
+        },
+        {
+          "name": "William M. Marsh",
+          "primary": false
+        },
+        {
+          "name": "John T. MacDonald",
+          "primary": true
+        },
+        {
+          "name": "Brodie S. Deshaies",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB131",
+      "title": "adopting omnibus legislation relative to vehicles, municipal water maintenance certificates, safety certificates, nondrivers's picture I.D.s, decals, and private roads.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2021/SB131/",
+      "sponsors": [
+        {
+          "name": "David H Watters",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB102",
+      "title": "(Second New Title) establishing a commission to study worldwide combined reporting method for unitary businesses under the business profits tax, and relative to the treatment of water or sewerage disposal utilities under the business profits tax.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB102/",
+      "sponsors": [
+        {
+          "name": "Thomas C. Schamberg",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1167",
+      "title": "establishing a maximum contaminant level for perfluorinated chemicals in surface water.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB1167/",
+      "sponsors": [
+        {
+          "name": "Mel Myler",
+          "primary": false
+        },
+        {
+          "name": "Stephen L. Woodcock",
+          "primary": false
+        },
+        {
+          "name": "Bill Boyd",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1185",
+      "title": "relative to treatment of water contaminated with perfluorinated chemicals.",
+      "found_by_terms": [
+        "water",
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB1185/",
+      "sponsors": [
+        {
+          "name": "Maureen C. Mooney",
+          "primary": false
+        },
+        {
+          "name": "Joyce Weston",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": true
+        },
+        {
+          "name": "Bruce L. Cohen",
+          "primary": false
+        },
+        {
+          "name": "Jacqueline H. Chretien",
+          "primary": false
+        },
+        {
+          "name": "David Meuse",
+          "primary": false
+        },
+        {
+          "name": "Robert V. Healey",
+          "primary": false
+        },
+        {
+          "name": "Bill Boyd",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1227",
+      "title": "relative to the definition of prime wetland.",
+      "found_by_terms": [
+        "wetland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB1227/",
+      "sponsors": [
+        {
+          "name": "David H Watters",
+          "primary": false
+        },
+        {
+          "name": "Judith T. Spang",
+          "primary": false
+        },
+        {
+          "name": "Suzanne M. Vail",
+          "primary": false
+        },
+        {
+          "name": "Chuck W. Grassie",
+          "primary": true
+        },
+        {
+          "name": "David Meuse",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1293",
+      "title": "relative to the design of sewage or waste disposal systems for a person's own domicile, and relative to water well and sewage or waste disposal systems.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB1293/",
+      "sponsors": [
+        {
+          "name": "Mark E. McConkey",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1312",
+      "title": "relative to water pollution and waste disposal rulemaking.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB1312/",
+      "sponsors": [
+        {
+          "name": "Mark E. McConkey",
+          "primary": false
+        },
+        {
+          "name": "Carol M. McGuire",
+          "primary": false
+        },
+        {
+          "name": "Judy F. Aron",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB135",
+      "title": "requiring parties responsible for pollution of a drinking water supply to be financially responsible for certain consequences of that pollution.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB135/",
+      "sponsors": [
+        {
+          "name": "Ralph G. Boehm",
+          "primary": true
+        },
+        {
+          "name": "Jeanine M. Notter",
+          "primary": false
+        },
+        {
+          "name": "Richard W. Lascelles",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1418",
+      "title": "relative to permit by notification for certain homeowner shoreland projects.",
+      "found_by_terms": [
+        "shoreland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB1418/",
+      "sponsors": [
+        {
+          "name": "David C. Love",
+          "primary": false
+        },
+        {
+          "name": "Robert D. Harb",
+          "primary": false
+        },
+        {
+          "name": "Juliet Harvey-Bolia",
+          "primary": false
+        },
+        {
+          "name": "Lisa C.M. Post",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1421",
+      "title": "relative to lead in school drinking water.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB1421/",
+      "sponsors": [
+        {
+          "name": "David H Watters",
+          "primary": false
+        },
+        {
+          "name": "Bill G. Nelson",
+          "primary": false
+        },
+        {
+          "name": "William M. Marsh",
+          "primary": false
+        },
+        {
+          "name": "Jerry L. Knirk",
+          "primary": false
+        },
+        {
+          "name": "Chuck W. Grassie",
+          "primary": true
+        },
+        {
+          "name": "Diane M. Langley",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "David Meuse",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1440",
+      "title": "relative to surface water quality standards for perfluorinated chemicals.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB1440/",
+      "sponsors": [
+        {
+          "name": "Edith M. Tucker",
+          "primary": false
+        },
+        {
+          "name": "Chuck W. Grassie",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "David Meuse",
+          "primary": false
+        },
+        {
+          "name": "Mark Paige",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1452",
+      "title": "renaming the department of environmental services the department of environmental protection and assigning the department oversight of private drinking water wells.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB1452/",
+      "sponsors": [
+        {
+          "name": "Maureen C. Mooney",
+          "primary": false
+        },
+        {
+          "name": "Bill Boyd",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1546",
+      "title": "enabling the commissioner of the department of environmental services to adopt rules relative to airborne PFAS in certain circumstances.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB1546/",
+      "sponsors": [
+        {
+          "name": "Bill Boyd",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1589",
+      "title": "prohibiting the sale of products containing intentionally-added PFAS.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB1589/",
+      "sponsors": [
+        {
+          "name": "Bill Boyd",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1602",
+      "title": "relative to perfluorinated chemicals in drinking water.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB1602/",
+      "sponsors": [
+        {
+          "name": "David H Watters",
+          "primary": false
+        },
+        {
+          "name": "Suzanne M. Vail",
+          "primary": false
+        },
+        {
+          "name": "William M. Marsh",
+          "primary": false
+        },
+        {
+          "name": "Chuck W. Grassie",
+          "primary": true
+        },
+        {
+          "name": "Diane M. Langley",
+          "primary": false
+        },
+        {
+          "name": "Bruce L. Cohen",
+          "primary": false
+        },
+        {
+          "name": "David Meuse",
+          "primary": false
+        },
+        {
+          "name": "Bill Boyd",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB335",
+      "title": "requiring bottled drinking water sold to the public to meet the same maximum contaminant levels established for public drinking water.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB335/",
+      "sponsors": [
+        {
+          "name": "Chuck W. Grassie",
+          "primary": true
+        },
+        {
+          "name": "Bruce L. Cohen",
+          "primary": false
+        },
+        {
+          "name": "Cassandra N. Levesque",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB412",
+      "title": "making an appropriation to the department of environmental services for the purpose of funding public water system projects.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB412/",
+      "sponsors": [
+        {
+          "name": "Jeb Bradley",
+          "primary": false
+        },
+        {
+          "name": "David H Watters",
+          "primary": false
+        },
+        {
+          "name": "Peter R. Leishman",
+          "primary": false
+        },
+        {
+          "name": "Thomas L. Buco",
+          "primary": true
+        },
+        {
+          "name": "William A. Hatch",
+          "primary": false
+        },
+        {
+          "name": "Karen C. Umberger",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB426",
+      "title": "relative to shoreland septic systems.",
+      "found_by_terms": [
+        "shoreland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB426/",
+      "sponsors": [
+        {
+          "name": "David H Watters",
+          "primary": false
+        },
+        {
+          "name": "Judith T. Spang",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB478",
+      "title": "relative to treatment of PFAS contaminants in the drinking water of the Merrimack Village Water District.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB478/",
+      "sponsors": [
+        {
+          "name": "Sharon M Carson",
+          "primary": false
+        },
+        {
+          "name": "Jeanine M. Notter",
+          "primary": false
+        },
+        {
+          "name": "Kimberly A. Rice",
+          "primary": false
+        },
+        {
+          "name": "Gary L. Daniels",
+          "primary": false
+        },
+        {
+          "name": "Maureen C. Mooney",
+          "primary": true
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "primary": false
+        },
+        {
+          "name": "Robert V. Healey",
+          "primary": false
+        },
+        {
+          "name": "Mary L. Mayville",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB611",
+      "title": "abolishing fluoridation in water.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/HB611/",
+      "sponsors": [
+        {
+          "name": "Peter B. Schmidt",
+          "primary": false
+        },
+        {
+          "name": "Max Abramson",
+          "primary": false
+        },
+        {
+          "name": "Michael Moffett",
+          "primary": false
+        },
+        {
+          "name": "David W. Binford",
+          "primary": false
+        },
+        {
+          "name": "Leah P. Cushman",
+          "primary": true
+        },
+        {
+          "name": "Jose E. Cambrils",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB233",
+      "title": "relative to water bottle filling stations in schools.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/SB233/",
+      "sponsors": [
+        {
+          "name": "Marjorie A. Porter",
+          "primary": false
+        },
+        {
+          "name": "Mel Myler",
+          "primary": false
+        },
+        {
+          "name": "David J. Luneau",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": true
+        },
+        {
+          "name": "Suzanne M Prentiss",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB257",
+      "title": "enabling municipalities to incorporate sewage disposal systems as part of their stormwater utility.",
+      "found_by_terms": [
+        "stormwater"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/SB257/",
+      "sponsors": [
+        {
+          "name": "David H Watters",
+          "primary": true
+        },
+        {
+          "name": "John Reagan",
+          "primary": false
+        },
+        {
+          "name": "Judith T. Spang",
+          "primary": false
+        },
+        {
+          "name": "Kevin A. Avard",
+          "primary": false
+        },
+        {
+          "name": "Michael A. Edgar",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "primary": false
+        },
+        {
+          "name": "JD Bernardy",
+          "primary": false
+        },
+        {
+          "name": "Ariel Oxaal",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB305",
+      "title": "relative to the operation of personal water craft in marked channels from Hampton Falls to Hampton Harbor.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/SB305/",
+      "sponsors": [
+        {
+          "name": "Michael A. Edgar",
+          "primary": false
+        },
+        {
+          "name": "Kate R. Murray",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": true
+        },
+        {
+          "name": "Jaci L. Grote",
+          "primary": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB341",
+      "title": "relative to treatment of PFAS contaminants in the drinking water of the Merrimack Village Water District.",
+      "found_by_terms": [
+        "water",
+        "drinking water",
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/SB341/",
+      "sponsors": [
+        {
+          "name": "Jeanine M. Notter",
+          "primary": false
+        },
+        {
+          "name": "Gary L. Daniels",
+          "primary": true
+        },
+        {
+          "name": "Maureen C. Mooney",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Robert V. Healey",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB452",
+      "title": "relative to lead in drinking water in schools and licensed child care facilities.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/SB452/",
+      "sponsors": [
+        {
+          "name": "Lou D'Allesandro",
+          "primary": true
+        },
+        {
+          "name": "David H Watters",
+          "primary": false
+        },
+        {
+          "name": "Donna M. Soucy",
+          "primary": false
+        },
+        {
+          "name": "Kevin J. Cavanaugh",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "primary": false
+        },
+        {
+          "name": "Suzanne M Prentiss",
+          "primary": false
+        },
+        {
+          "name": "Rebecca G. Whitley",
+          "primary": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB455",
+      "title": "requiring the commissioner of the department of environmental services to adopt ambient groundwater quality standards for certain per and polyfluoroalkyl substances.",
+      "found_by_terms": [
+        "groundwater"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2022/SB455/",
+      "sponsors": [
+        {
+          "name": "David H Watters",
+          "primary": true
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Bill Boyd",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB236",
+      "title": "relative to condominium conversions under water and waste disposal laws and municipal ordinances.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/HB236/",
+      "sponsors": [
+        {
+          "name": "Barry Faulkner",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB242",
+      "title": "relative to banning PFAS in food packaging.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/HB242/",
+      "sponsors": [
+        {
+          "name": "Sharon M. Carson",
+          "primary": false
+        },
+        {
+          "name": "Nancy A. Murphy",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Wendy E. N Thomas",
+          "primary": false
+        },
+        {
+          "name": "Ron Dunn",
+          "primary": true
+        },
+        {
+          "name": "Kristine Perez",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB310",
+      "title": "requiring developers to secure hydrology analysis certifying adequate water capacity and potability when building new subdivisions.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/HB310/",
+      "sponsors": [
+        {
+          "name": "Kat McGhee",
+          "primary": true
+        },
+        {
+          "name": "Carry Spier",
+          "primary": false
+        },
+        {
+          "name": "Jessica Grill",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB398",
+      "title": "relative to notice of PFAS and other groundwater contamination prior to the sale of real property.",
+      "found_by_terms": [
+        "groundwater",
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/HB398/",
+      "sponsors": [
+        {
+          "name": "Nancy A. Murphy",
+          "primary": false
+        },
+        {
+          "name": "Wendy E. N Thomas",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB414",
+      "title": "relative to health insurance coverage for preventative PFAS care.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/HB414/",
+      "sponsors": [
+        {
+          "name": "Nancy A. Murphy",
+          "primary": false
+        },
+        {
+          "name": "Wendy E. N Thomas",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB442",
+      "title": "preventing state resources from being used to enforce lobstering regulations in federal waters and establishing a scuba diver recreational lobster license.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB466",
+      "title": "relative to water bottle filling stations in schools.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/HB466/",
+      "sponsors": [
+        {
+          "name": "Rick M. Ladd",
+          "primary": true
+        },
+        {
+          "name": "Glenn Cordelli",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB534",
+      "title": "relative to water assistance for natural disasters.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/HB534/",
+      "sponsors": [
+        {
+          "name": "Linda R. Gould",
+          "primary": false
+        },
+        {
+          "name": "Peter Petrigno",
+          "primary": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "primary": false
+        },
+        {
+          "name": "Mary A. Hakken-Phillips",
+          "primary": false
+        },
+        {
+          "name": "Bill Boyd",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB592",
+      "title": "relative to buffers around wetlands.",
+      "found_by_terms": [
+        "wetland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/HB592/",
+      "sponsors": [
+        {
+          "name": "James F. Horgan",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB123",
+      "title": "relative to the adoption of ambient groundwater quality standards by the department of environmental services.",
+      "found_by_terms": [
+        "groundwater"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/SB123/",
+      "sponsors": [
+        {
+          "name": "David H. Watters",
+          "primary": true
+        },
+        {
+          "name": "Jeanine M. Notter",
+          "primary": false
+        },
+        {
+          "name": "Kevin A. Avard",
+          "primary": false
+        },
+        {
+          "name": "James P. Gray",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Wendy E. N Thomas",
+          "primary": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "primary": false
+        },
+        {
+          "name": "Robert V. Healey",
+          "primary": false
+        },
+        {
+          "name": "Debra Altschiller",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB138",
+      "title": "making an appropriation to PFAS remediation fund grants.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/SB138/",
+      "sponsors": [
+        {
+          "name": "Sharon M. Carson",
+          "primary": false
+        },
+        {
+          "name": "Jeb Bradley",
+          "primary": false
+        },
+        {
+          "name": "David H. Watters",
+          "primary": false
+        },
+        {
+          "name": "Jeanine M. Notter",
+          "primary": false
+        },
+        {
+          "name": "Maureen C. Mooney",
+          "primary": false
+        },
+        {
+          "name": "Nancy A. Murphy",
+          "primary": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "primary": true
+        },
+        {
+          "name": "Jennifer M. Rhodes",
+          "primary": false
+        },
+        {
+          "name": "Bill Boyd",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB169",
+      "title": "making an appropriation to the department of environmental services to fund a water main interconnection project between Nashua and Litchfield.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/SB169/",
+      "sponsors": [
+        {
+          "name": "Sharon M. Carson",
+          "primary": true
+        },
+        {
+          "name": "Donna M. Soucy",
+          "primary": false
+        },
+        {
+          "name": "David C. Lundgren",
+          "primary": false
+        },
+        {
+          "name": "Douglas W. Thomas",
+          "primary": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "primary": false
+        },
+        {
+          "name": "Bill Boyd",
+          "primary": false
+        },
+        {
+          "name": "Ron Dunn",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB229",
+      "title": "relative to administration of certain wetlands permits by the department of environmental services.",
+      "found_by_terms": [
+        "wetland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/SB229/",
+      "sponsors": [
+        {
+          "name": "Jeb Bradley",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB60",
+      "title": "relative to water quality.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/SB60/",
+      "sponsors": [
+        {
+          "name": "David H. Watters",
+          "primary": false
+        },
+        {
+          "name": "Andrew Renzullo",
+          "primary": false
+        },
+        {
+          "name": "Kevin A. Avard",
+          "primary": false
+        },
+        {
+          "name": "James P. Gray",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB61",
+      "title": "relative to surface water setbacks for landfills.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2023/SB61/",
+      "sponsors": [
+        {
+          "name": "Sharon M. Carson",
+          "primary": false
+        },
+        {
+          "name": "David H. Watters",
+          "primary": false
+        },
+        {
+          "name": "Kevin A. Avard",
+          "primary": true
+        },
+        {
+          "name": "Ruth Ward",
+          "primary": false
+        },
+        {
+          "name": "Timothy Lang",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1089",
+      "title": "relative to the statute of limitations on civil actions involving PFAS.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1089/",
+      "sponsors": [
+        {
+          "name": "Suzanne M. Vail",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1103",
+      "title": "relative to revising the penalties of the shoreland protection act.",
+      "found_by_terms": [
+        "shoreland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1103/",
+      "sponsors": [
+        {
+          "name": "David H. Watters",
+          "primary": false
+        },
+        {
+          "name": "Karel A. Crawford",
+          "primary": false
+        },
+        {
+          "name": "Karen E. Ebel",
+          "primary": false
+        },
+        {
+          "name": "Linda L. Tanner",
+          "primary": false
+        },
+        {
+          "name": "Dan H. Wolf",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": true
+        },
+        {
+          "name": "John T. MacDonald",
+          "primary": false
+        },
+        {
+          "name": "Matthew Coker",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1113",
+      "title": "relative to shoreland septic systems.",
+      "found_by_terms": [
+        "water",
+        "shoreland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1113/",
+      "sponsors": [
+        {
+          "name": "David H. Watters",
+          "primary": false
+        },
+        {
+          "name": "Karen E. Ebel",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": true
+        },
+        {
+          "name": "David Rochefort",
+          "primary": false
+        },
+        {
+          "name": "Matthew Coker",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1114",
+      "title": "extending the commission to investigate and analyze the environmental and public health impacts relating to releases of perfluorinated chemicals in the air, soil, and groundwater in Merrimack, Bedford, Londonderry, Hudson and Litchfield.",
+      "found_by_terms": [
+        "groundwater"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1114/",
+      "sponsors": [
+        {
+          "name": "Sharon M. Carson",
+          "primary": false
+        },
+        {
+          "name": "Jeb Bradley",
+          "primary": false
+        },
+        {
+          "name": "Donna M. Soucy",
+          "primary": false
+        },
+        {
+          "name": "Karen E. Ebel",
+          "primary": false
+        },
+        {
+          "name": "Richard W. Lascelles",
+          "primary": false
+        },
+        {
+          "name": "Nancy A. Murphy",
+          "primary": true
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Wendy E. N Thomas",
+          "primary": false
+        },
+        {
+          "name": "David Meuse",
+          "primary": false
+        },
+        {
+          "name": "Shannon E. Chandley",
+          "primary": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "primary": false
+        },
+        {
+          "name": "Wayne D. MacDonald",
+          "primary": false
+        },
+        {
+          "name": "Catherine A. Rombeau",
+          "primary": false
+        },
+        {
+          "name": "Ron Dunn",
+          "primary": false
+        },
+        {
+          "name": "Kristine Perez",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1121",
+      "title": "relative to creating certain wetlands permit exemptions after a natural disaster or flooding event.",
+      "found_by_terms": [
+        "wetland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1121/",
+      "sponsors": [
+        {
+          "name": "David H. Watters",
+          "primary": false
+        },
+        {
+          "name": "John R. Cloutier",
+          "primary": false
+        },
+        {
+          "name": "Thomas L. Buco",
+          "primary": false
+        },
+        {
+          "name": "Kevin A. Avard",
+          "primary": false
+        },
+        {
+          "name": "Jason A. Janvrin",
+          "primary": false
+        },
+        {
+          "name": "Scott Wallace",
+          "primary": false
+        },
+        {
+          "name": "Ruth Ward",
+          "primary": false
+        },
+        {
+          "name": "Brian M. Sullivan",
+          "primary": false
+        },
+        {
+          "name": "Tony Lekas",
+          "primary": false
+        },
+        {
+          "name": "Judy F. Aron",
+          "primary": true
+        },
+        {
+          "name": "Juliet Harvey-Bolia",
+          "primary": false
+        },
+        {
+          "name": "Jim L. Creighton",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1139",
+      "title": "relative to location of conventional septic systems relative to the seasonal high water table.",
+      "found_by_terms": [
+        "water",
+        "wetland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1139/",
+      "sponsors": [
+        {
+          "name": "Mark E. McConkey",
+          "primary": true
+        },
+        {
+          "name": "David E. Milz",
+          "primary": false
+        },
+        {
+          "name": "Lino M. Avellani",
+          "primary": false
+        },
+        {
+          "name": "Scott Wallace",
+          "primary": false
+        },
+        {
+          "name": "Jonathan H. Smith",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1208",
+      "title": "relative to permitting requirements before timber harvesting operations in a wetland.",
+      "found_by_terms": [
+        "wetland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1208/",
+      "sponsors": [
+        {
+          "name": "Susan W. Almy",
+          "primary": false
+        },
+        {
+          "name": "Suzanne M. Vail",
+          "primary": false
+        },
+        {
+          "name": "Linda R. Gould",
+          "primary": false
+        },
+        {
+          "name": "Sherry Dutzy",
+          "primary": true
+        },
+        {
+          "name": "Mike Bordes",
+          "primary": false
+        },
+        {
+          "name": "Heather P Baldwin",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1229",
+      "title": "relative to the purchase and sale of any interest in real property abutting public waters.",
+      "found_by_terms": [
+        "water",
+        "shoreland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1229/",
+      "sponsors": [
+        {
+          "name": "David H. Watters",
+          "primary": false
+        },
+        {
+          "name": "Karel A. Crawford",
+          "primary": false
+        },
+        {
+          "name": "Dan H. Wolf",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": true
+        },
+        {
+          "name": "John T. MacDonald",
+          "primary": false
+        },
+        {
+          "name": "Matthew Coker",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1268",
+      "title": "relative to prohibiting the issuance of large groundwater withdrawal permits for the commercial sale of bottled or bulk water.",
+      "found_by_terms": [
+        "water",
+        "groundwater"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1268/",
+      "sponsors": [
+        {
+          "name": "Amanda C. Bouldin",
+          "primary": false
+        },
+        {
+          "name": "Ellen D. Read",
+          "primary": false
+        },
+        {
+          "name": "Tony Caplan",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1294",
+      "title": "establishing a committee to study ways to facilitate municipal compliance with Clean Water Act requirements.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1294/",
+      "sponsors": [
+        {
+          "name": "Leah P. Cushman",
+          "primary": false
+        },
+        {
+          "name": "Glenn Bailey",
+          "primary": false
+        },
+        {
+          "name": "Mike S Belcher",
+          "primary": false
+        },
+        {
+          "name": "Jason Gerhard",
+          "primary": false
+        },
+        {
+          "name": "Claudine R Burnham",
+          "primary": false
+        },
+        {
+          "name": "Michael E Granger",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1301",
+      "title": "relative to wake surfing on public bodies of water.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1301/",
+      "sponsors": [
+        {
+          "name": "Linda L. Tanner",
+          "primary": false
+        },
+        {
+          "name": "Suzanne M. Vail",
+          "primary": false
+        },
+        {
+          "name": "Will Darby",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1326",
+      "title": "relative to notification processes for large groundwater withdrawal applications.",
+      "found_by_terms": [
+        "water",
+        "groundwater"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1326/",
+      "sponsors": [
+        {
+          "name": "Bill M. Gannon",
+          "primary": false
+        },
+        {
+          "name": "JD Bernardy",
+          "primary": false
+        },
+        {
+          "name": "Susan M Porcelli",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1360",
+      "title": "relative to emergency authority on the public or coastal waters of the state.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1360/",
+      "sponsors": [
+        {
+          "name": "Karen E. Ebel",
+          "primary": false
+        },
+        {
+          "name": "Linda L. Tanner",
+          "primary": false
+        },
+        {
+          "name": "Dan H. Wolf",
+          "primary": true
+        },
+        {
+          "name": "Walter A. Stapleton",
+          "primary": false
+        },
+        {
+          "name": "Brian M. Sullivan",
+          "primary": false
+        },
+        {
+          "name": "Bill Boyd",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1415",
+      "title": "relative to PFAS facility liability.  ",
+      "found_by_terms": [
+        "PFAS",
+        "water",
+        "groundwater"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1415/",
+      "sponsors": [
+        {
+          "name": "David H. Watters",
+          "primary": false
+        },
+        {
+          "name": "Chris Muns",
+          "primary": false
+        },
+        {
+          "name": "Richard W. Lascelles",
+          "primary": false
+        },
+        {
+          "name": "Nancy A. Murphy",
+          "primary": true
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Wendy E. N Thomas",
+          "primary": false
+        },
+        {
+          "name": "David Meuse",
+          "primary": false
+        },
+        {
+          "name": "Shannon E. Chandley",
+          "primary": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "primary": false
+        },
+        {
+          "name": "Catherine A. Rombeau",
+          "primary": false
+        },
+        {
+          "name": "Debra Altschiller",
+          "primary": false
+        },
+        {
+          "name": "Ron Dunn",
+          "primary": false
+        },
+        {
+          "name": "Nicholas A Germana",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1483",
+      "title": "allowing subdivision regulations concerning water supply.",
+      "found_by_terms": [
+        "water",
+        "groundwater"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1483/",
+      "sponsors": [
+        {
+          "name": "Dan H. Wolf",
+          "primary": false
+        },
+        {
+          "name": "Kat McGhee",
+          "primary": true
+        },
+        {
+          "name": "Brian D Cole",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Mark Paige",
+          "primary": false
+        },
+        {
+          "name": "Ben Ming",
+          "primary": false
+        },
+        {
+          "name": "Bill Boyd",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1503",
+      "title": "relative to the definition of wetlands.",
+      "found_by_terms": [
+        "water",
+        "groundwater",
+        "wetland"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1503/",
+      "sponsors": [
+        {
+          "name": "Judy F. Aron",
+          "primary": false
+        },
+        {
+          "name": "Erica J. Layon",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1554",
+      "title": "relative to certified culvert maintainer program reporting and requiring the commissioner of the department of environmental services to regulate the cutting of native aquatic vegetation on submerged lands in public waters or certain public-owned water bodies and establishing rulemaking authority for such regulation.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1554/",
+      "sponsors": [
+        {
+          "name": "Mark E. McConkey",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1562",
+      "title": "relative to personal watercraft.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1562/",
+      "sponsors": [
+        {
+          "name": "David H. Watters",
+          "primary": false
+        },
+        {
+          "name": "Karel A. Crawford",
+          "primary": false
+        },
+        {
+          "name": "Dan H. Wolf",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": true
+        },
+        {
+          "name": "Matthew Coker",
+          "primary": false
+        },
+        {
+          "name": "Will Darby",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1613",
+      "title": "establishing a trust fund for money from soil and water environmental contamination court settlements.",
+      "found_by_terms": [
+        "water",
+        "groundwater",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1613/",
+      "sponsors": [
+        {
+          "name": "Nancy A. Murphy",
+          "primary": false
+        },
+        {
+          "name": "Wendy E. N Thomas",
+          "primary": false
+        },
+        {
+          "name": "Rebecca J. McWilliams",
+          "primary": false
+        },
+        {
+          "name": "David Meuse",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1649",
+      "title": "relative to prohibiting certain products with intentionally added PFAS.",
+      "found_by_terms": [
+        "PFAS",
+        "water",
+        "groundwater",
+        "drinking water"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1649/",
+      "sponsors": [
+        {
+          "name": "David H. Watters",
+          "primary": false
+        },
+        {
+          "name": "Karen E. Ebel",
+          "primary": true
+        },
+        {
+          "name": "Alexis H Simpson",
+          "primary": false
+        },
+        {
+          "name": "Kevin A. Avard",
+          "primary": false
+        },
+        {
+          "name": "Maureen C. Mooney",
+          "primary": false
+        },
+        {
+          "name": "Nancy A. Murphy",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Wendy E. N Thomas",
+          "primary": false
+        },
+        {
+          "name": "Shannon E. Chandley",
+          "primary": false
+        },
+        {
+          "name": "Suzanne M. Prentiss",
+          "primary": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "primary": false
+        },
+        {
+          "name": "Bill Boyd",
+          "primary": false
+        },
+        {
+          "name": "Ron Dunn",
+          "primary": false
+        },
+        {
+          "name": "Jared Sullivan",
+          "primary": false
+        },
+        {
+          "name": "Carry Spier",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1707",
+      "title": "relative to liability for the cost of PFAS blood testing.",
+      "found_by_terms": [
+        "water",
+        "groundwater",
+        "drinking water",
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB1707/",
+      "sponsors": [
+        {
+          "name": "Sharon M. Carson",
+          "primary": false
+        },
+        {
+          "name": "Nancy A. Murphy",
+          "primary": true
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Wendy E. N Thomas",
+          "primary": false
+        },
+        {
+          "name": "David Meuse",
+          "primary": false
+        },
+        {
+          "name": "Shannon E. Chandley",
+          "primary": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "primary": false
+        },
+        {
+          "name": "Catherine A. Rombeau",
+          "primary": false
+        },
+        {
+          "name": "Debra Altschiller",
+          "primary": false
+        },
+        {
+          "name": "Ron Dunn",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB242",
+      "title": "relative to banning PFAS in food packaging.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB242/",
+      "sponsors": [
+        {
+          "name": "Sharon M. Carson",
+          "primary": false
+        },
+        {
+          "name": "Nancy A. Murphy",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Wendy E. N Thomas",
+          "primary": false
+        },
+        {
+          "name": "Ron Dunn",
+          "primary": true
+        },
+        {
+          "name": "Kristine Perez",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB398",
+      "title": "relative to notice of PFAS contamination prior to the sale of real property.",
+      "found_by_terms": [
+        "water",
+        "groundwater",
+        "drinking water",
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB398/",
+      "sponsors": [
+        {
+          "name": "Nancy A. Murphy",
+          "primary": false
+        },
+        {
+          "name": "Wendy E. N Thomas",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB414",
+      "title": "relative to health insurance coverage for preventative PFAS care.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HB414/",
+      "sponsors": [
+        {
+          "name": "Nancy A. Murphy",
+          "primary": false
+        },
+        {
+          "name": "Wendy E. N Thomas",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HR28",
+      "title": "urging for the compensation for injuries from PFAS and for the closure and cleaning of sites affected by PFAS.",
+      "found_by_terms": [
+        "water",
+        "groundwater",
+        "drinking water",
+        "PFAS",
+        "stormwater"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/HR28/",
+      "sponsors": [
+        {
+          "name": "Andrew Renzullo",
+          "primary": false
+        },
+        {
+          "name": "Wendy E. N Thomas",
+          "primary": true
+        },
+        {
+          "name": "Maria Perez",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB393",
+      "title": "relative to making an appropriation to the department of environmental services to fund regional drinking water infrastructure.",
+      "found_by_terms": [
+        "water",
+        "groundwater",
+        "drinking water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/SB393/",
+      "sponsors": [
+        {
+          "name": "Sharon M. Carson",
+          "primary": false
+        },
+        {
+          "name": "Jeb Bradley",
+          "primary": false
+        },
+        {
+          "name": "David H. Watters",
+          "primary": false
+        },
+        {
+          "name": "Donna M. Soucy",
+          "primary": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "primary": false
+        },
+        {
+          "name": "Brian D Cole",
+          "primary": false
+        },
+        {
+          "name": "Daniel E. Innis",
+          "primary": false
+        },
+        {
+          "name": "Robert D. Harb",
+          "primary": false
+        },
+        {
+          "name": "Daryl Abbas",
+          "primary": true
+        },
+        {
+          "name": "Tanya Donnelly",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB413",
+      "title": "relative to civil actions for PFAS contamination.",
+      "found_by_terms": [
+        "PFAS",
+        "water",
+        "groundwater",
+        "drinking water"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/SB413/",
+      "sponsors": [
+        {
+          "name": "David H. Watters",
+          "primary": false
+        },
+        {
+          "name": "Maureen C. Mooney",
+          "primary": false
+        },
+        {
+          "name": "Shannon E. Chandley",
+          "primary": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "primary": true
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "primary": false
+        },
+        {
+          "name": "Bill Boyd",
+          "primary": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "primary": false
+        },
+        {
+          "name": "Debra Altschiller",
+          "primary": false
+        },
+        {
+          "name": "Kristin Noble",
+          "primary": false
+        },
+        {
+          "name": "Keith R. Murphy",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB492",
+      "title": "relative to wastewater engineering.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/SB492/",
+      "sponsors": [
+        {
+          "name": "Sharon M. Carson",
+          "primary": false
+        },
+        {
+          "name": "David H. Watters",
+          "primary": false
+        },
+        {
+          "name": "Thomas L. Buco",
+          "primary": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "primary": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "primary": true
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "primary": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB589",
+      "title": "relative to wastewater surcharges.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2024/SB589/",
+      "sponsors": [
+        {
+          "name": "Sharon M. Carson",
+          "primary": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB127",
+      "title": "(New Title) extending the closing date of the OHRV trails on the Connecticut Lakes headwaters working forest property.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0127",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "261",
+      "bill_type": 1,
+      "legislationID": 168,
+      "effective_date": "07/31/2025",
+      "sponsors": [
+        {
+          "name": "Mike Ouellet",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Sean Durkin",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Lori Korzen",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Richard Lascelles",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Rochefort",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "James Tierney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB199",
+      "title": "extending the statute of limitation on civil actions relative to damage caused by per-and polyfluoroalkyl substances (PFAS).",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0199",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 32,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Suzanne Vail",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Will Darby",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Ebel",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jaci Grote",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kat McGhee",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Meuse",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Peter Petrigno",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Wendy Thomas",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB203",
+      "title": "relative to coast guard approved personal flotation devices while on New Hampshire state waters.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  0203",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 256,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "John MacDonald",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Karel Crawford",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Will Darby",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB332",
+      "title": "allowing for the establishment of a village district to protect and remediate surface waters.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  0332",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 551,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Will Darby",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Ebel",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Rochefort",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Gregory Sargent",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Ruth Ward",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB416",
+      "title": "prohibiting the intentional disposal of yard waste into the surface waters of the state.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0416",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "187",
+      "bill_type": 1,
+      "legislationID": 188,
+      "effective_date": "01/01/2026",
+      "sponsors": [
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Richard Brown",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karel Crawford",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Ebel",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "John MacDonald",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB422",
+      "title": "increasing penalties for violations of the shoreland and water quality protection act.",
+      "found_by_terms": [
+        "water",
+        "shoreland"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  0422",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 189,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Richard Brown",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Ebel",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "John MacDonald",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB449",
+      "title": "requiring water districts to provide a water filtration system to residential customers in certain cases.  ",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0449",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 562,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Dan McGuire",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB568",
+      "title": "allowing subdivision regulations concerning water supply. ",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0568",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 55,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Kat McGhee",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kate Murray",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB582",
+      "title": "relative to safety requirements for operation of personal water crafts.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0582",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 758,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Will Darby",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB691",
+      "title": "prohibiting the addition of fluoridation chemicals to public water systems.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  0691",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 535,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Peter Schmidt",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Judy Aron",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HCR4",
+      "title": "relative to rejecting all offshore wind energy projects in the waters off the coast of New Hampshire and the Gulf of Maine.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HCR 0004",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 5,
+      "legislationID": 190,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Douglas Thomas",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "JD Bernardy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jose Cambrils",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Lisa Freeman",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Aboul Khan",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Matt Sabourin dit Choini\u00e8re",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Sheila Seidel",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HR10",
+      "title": "(New Title) recognizing the importance of clean air, clean water, and a healthy environment with regard to our fundamental rights.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HR  0010",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 4,
+      "legislationID": 662,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Nicholas Germana",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Tony Caplan",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Ebel",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "James Gruber",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Linda Haskins",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Timothy Horrigan",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Wendy Thomas",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB115",
+      "title": "making an appropriation for regional drinking water infrastructure.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0115",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 939,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Daryl Abbas",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Sharon Carson",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Debra DeSimone",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Fred Doucette",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jodi Nelson",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB116",
+      "title": "relative to the Pillsbury Lake Village District community water system, and making an appropriation therefor.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0116",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1015,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Alvin See",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB178",
+      "title": "relative to the department of health and human services laboratory services for testing of water supplies.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0178",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "245",
+      "bill_type": 2,
+      "legislationID": 928,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "James Gray",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB240",
+      "title": "making an appropriation to the department of environmental services for eligible water projects.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0240",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 377,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Denise Ricciardi",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Thomas Buco",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Pat Long",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tara Reardon",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Rochefort",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Ruth Ward",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB299",
+      "title": "relative to penalties for contractors violating water pollution and waste disposal regulations.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0299",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "94",
+      "bill_type": 2,
+      "legislationID": 1181,
+      "effective_date": "1/1/2026",
+      "sponsors": [
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB65",
+      "title": "relative to stormwater management for solar arrays.",
+      "found_by_terms": [
+        "water",
+        "stormwater"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0065",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "96",
+      "bill_type": 2,
+      "legislationID": 976,
+      "effective_date": "6/17/2025",
+      "sponsors": [
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1019",
+      "title": "relative to the composition of the state water well board.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1019",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "29",
+      "bill_type": 1,
+      "legislationID": 1540,
+      "effective_date": "04/22/2026",
+      "sponsors": [
+        {
+          "name": "Peter Petrigno",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Paul Dargie",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Allison Knab",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Megan Murray",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Wendy Thomas",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Veilleux",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1088",
+      "title": "transferring funding for the water well board from the general fund to a special nonlapsing fund. ",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1088",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "290",
+      "bill_type": 1,
+      "legislationID": 1740,
+      "effective_date": "07/10/2026",
+      "sponsors": [
+        {
+          "name": "Tanya Donnelly",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1089",
+      "title": "extending the authorization of the department of environmental services for the evaluation and mitigation of new community water system contamination risks.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1089",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "155",
+      "bill_type": 1,
+      "legislationID": 1736,
+      "effective_date": "08/18/2026",
+      "sponsors": [
+        {
+          "name": "Tanya Donnelly",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1120",
+      "title": "allowing subdivision regulations concerning water supply.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1120",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1788,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Kat McGhee",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kate Murray",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kristine Perez",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1258",
+      "title": "relative to per and polyfluoroalkyl substances (PFAS) and public health data.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1258",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1998,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Suzanne Vail",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jennifer Mandelbaum",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kat McGhee",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Meuse",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Wendy Thomas",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1275",
+      "title": "(Second New Title) relative to the effects of per- and polyfluoroalkyl substances on agriculture, exempting certain per- and polyfluoroalkyl products from use restrictions, and relative to the definition of \"drinking water standard\".",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1275",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "298",
+      "bill_type": 1,
+      "legislationID": 2052,
+      "effective_date": "07/10/2026",
+      "sponsors": [
+        {
+          "name": "Wendy Thomas",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1314",
+      "title": "enabling minors to apply for a freshwater fishing application without paying a fee.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1314",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2166,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Heath Howard",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Aidan Ankarberg",
+          "party": "I",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Matthew Coker",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Dylan Germana",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "James Spillane",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "James Thibault",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Alice Wade",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1389",
+      "title": "relative to PFAS facility liability.",
+      "found_by_terms": [
+        "PFAS"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1389",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2410,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tanya Donnelly",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Ron Dunn",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Ebel",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Nicholas Germana",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Richard Lascelles",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Meuse",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Chris Muns",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Wendy Thomas",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1425",
+      "title": "relative to the development of an online wetlands permit processing system.",
+      "found_by_terms": [
+        "wetland"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1425",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "132",
+      "bill_type": 1,
+      "legislationID": 1660,
+      "effective_date": "08/11/2026",
+      "sponsors": [
+        {
+          "name": "Tanya Donnelly",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1477",
+      "title": "relative to the permitting and regulation of anchored seasonal floating platforms on public waters.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  1477",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2127,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "John MacDonald",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Karel Crawford",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Hope Damon",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Will Darby",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Ebel",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Joseph Hamblen",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Walker",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1783",
+      "title": "relative to benefits issued to certain water-related infrastructure projects.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1783",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2385,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Chris Muns",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Efstathia Booras",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Erica de Vries",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Hegner",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Allan Howland",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Connie Lane",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Laurel Stavis",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB97",
+      "title": "making an appropriation to the department of environmental services for wastewater infrastructure projects.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  0097",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 138,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Thomas Buco",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB231",
+      "title": "relative to road frontage requirements and setbacks for wetlands.",
+      "found_by_terms": [
+        "wetland"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0231",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1153,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB27",
+      "title": "relative to dwellings over water.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0027",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "14",
+      "bill_type": 2,
+      "legislationID": 982,
+      "effective_date": "5/26/2026",
+      "sponsors": [
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Pat Long",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Mark McConkey",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB443",
+      "title": "relative to wastewater engineering.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0443",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "62",
+      "bill_type": 2,
+      "legislationID": 1434,
+      "effective_date": "7/7/2026",
+      "sponsors": [
+        {
+          "name": "Denise Ricciardi",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Thomas Buco",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Ron Dunn",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB493",
+      "title": "relative to cyanobacteria and other emerging environmental water quality issues.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0493",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1247,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Nicholas Germana",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Suzanne Prentiss",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Wendy Thomas",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB541",
+      "title": "(New Title) relative to capital appropriations for regional drinking water infrastructure.",
+      "found_by_terms": [
+        "water",
+        "drinking water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0541",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "194",
+      "bill_type": 2,
+      "legislationID": 1343,
+      "effective_date": "7/1/2026",
+      "sponsors": [
+        {
+          "name": "Daryl Abbas",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Sharon Carson",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Debra DeSimone",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tanya Donnelly",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Robert Harb",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jodi Nelson",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB589",
+      "title": "(New Title) relative to port electrification, microgrid development, and cybersecurity standards for energy and water systems.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0589",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "197",
+      "bill_type": 2,
+      "legislationID": 1237,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "John Cloutier",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kat McGhee",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB594",
+      "title": "eliminating the use of agitators in instances where temporary docks have been removed from bodies of water.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0594",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "127",
+      "bill_type": 2,
+      "legislationID": 1383,
+      "effective_date": "8/4/2026",
+      "sponsors": [
+        {
+          "name": "Regina Birdsell",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Katelyn Kuttab",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Bob Lynn",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Lilli Walsh",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB595",
+      "title": "(New Title) relative to rulemaking for transient non-community water systems.",
+      "found_by_terms": [
+        "water"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0595",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "139",
+      "bill_type": 2,
+      "legislationID": 1384,
+      "effective_date": "8/11/2026",
+      "sponsors": [
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    }
+  ]
+}
