@@ -1,0 +1,7062 @@
+{
+  "collected_at": "2026-08-04T15:05:05.271974+00:00",
+  "bills": [
+    {
+      "session_year": 2020,
+      "bill_no": "HB1160",
+      "title": "allowing municipalities to collect an occupancy fee from operators of local room rentals.",
+      "found_by_terms": [
+        " rent"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1247",
+      "title": "(Second New Title) relative to mortgage defaults and nonpayment of rent during the novel coronavirus disease (Covid-19) outbreak state of emergency.\r\n",
+      "found_by_terms": [
+        " rent",
+        "mortgage"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1391",
+      "title": "relative to prohibiting discrimination in housing against persons with pets.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1582",
+      "title": "(New Title) relative to free tuition at colleges and universities for children of veterans who are totally and permanently disabled; programs to aid veterans' access to employment, housing, health care, and college degrees; educational assistance for memb",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1629",
+      "title": "relative to training and procedures for zoning and planning boards.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB726",
+      "title": "(Second New Title) relative to programs to aid veterans' access to employment, housing, health care, and college degrees.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB15",
+      "title": "relative to including under the meals and rooms tax facilitators of Internet transactions of motor vehicle rentals and facilitators of Internet transactions of room occupancies.",
+      "found_by_terms": [
+        " rent"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB503",
+      "title": "(Second New Title) codifying the council on housing stability and relative to telehealth and medically assisted treatment for substance use disorder.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB586",
+      "title": "relative to training and procedures for zoning and planning boards and relative to financial investments and incentives for affordable housing development.",
+      "found_by_terms": [
+        "housing",
+        "affordable housing",
+        "zoning"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB610",
+      "title": "(New Title) requiring certain licensing and reporting functions be conducted through the Nationwide Multistate Licensing System and Registry, relative to background investigations of trust officers, to certain filing fees, assessments, and interest rates, and to the transmission of consumer complaints by the banking department, and establishing the New Hampshire housing and conservation planning program.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB126",
+      "title": "adopting omnibus legislation on landlord tenant proceedings.",
+      "found_by_terms": [
+        "landlord",
+        "tenant"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB152",
+      "title": "relative to affordable housing program funding.",
+      "found_by_terms": [
+        "housing",
+        "affordable housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB73",
+      "title": "establishing a green building standards initiative as part of the low or moderate income housing loan program and making an appropriation therefor; and establishing a commission to study green housing and utility source options.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB86",
+      "title": "adopting omnibus legislation relative to planning and zoning.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1291",
+      "title": "prohibiting discrimination against tenants holding certain vouchers for purposes of renting dwellings.",
+      "found_by_terms": [
+        "dwelling",
+        " rent",
+        "tenant"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1662",
+      "title": "(Second New Title) relative to the privacy obligations of the department of health and human services, an appropriation for housing expenses for homeless people and parameters thereof, electronic wage payments, and requiring online marketplaces to disclos",
+      "found_by_terms": [
+        "housing",
+        "homeless"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB400",
+      "title": "relative to training and procedures for zoning and planning boards and relative to financial investments and incentives for affordable housing development.",
+      "found_by_terms": [
+        "housing",
+        "affordable housing",
+        "zoning"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB415",
+      "title": "making an appropriation to the department of health and human services for the purpose of increasing rates paid to homeless shelters.",
+      "found_by_terms": [
+        "homeless",
+        "shelter"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB111",
+      "title": "establishing a committee to study electrical vehicle charging for residential renters.",
+      "found_by_terms": [
+        " rent"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB112",
+      "title": "relative to tenant's right to notification prior to the sale of a multifamily home.",
+      "found_by_terms": [
+        "multifamily",
+        "tenant"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB401",
+      "title": "relative to evictions based on the owner's intent to renovate the property.",
+      "found_by_terms": [
+        "eviction"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB469",
+      "title": "prohibiting discrimination against tenants holding certain vouchers for purposes of renting dwellings.",
+      "found_by_terms": [
+        "dwelling",
+        " rent",
+        "tenant"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB477",
+      "title": "to prohibit municipal inspections of owner-occupied units of multi-unit housing.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB567",
+      "title": "relative to notice of rent increases in certain residential rental property.",
+      "found_by_terms": [
+        " rent"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB95",
+      "title": "enabling municipalities to adopt rental practice regulations.",
+      "found_by_terms": [
+        " rent"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB145",
+      "title": "relative to New Hampshire housing champion designation for municipalities and making appropriations therefor.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB203",
+      "title": "relative to the composition and jurisdiction of the manufactured housing board.",
+      "found_by_terms": [
+        "housing",
+        "manufactured housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1199",
+      "title": "relative to services of the office of the child advocate for youth experiencing homelessness and making an appropriation therefor.",
+      "found_by_terms": [
+        "homelessness",
+        "homeless"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1291",
+      "title": "relative to accessory dwelling unit uses allowed by right.",
+      "found_by_terms": [
+        "dwelling",
+        "accessory dwelling"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1359",
+      "title": "relative to appeals of certain zoning decisions by abutters.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1396",
+      "title": "relative to prohibiting municipal inspections of owner-occupied units of multi-unit housing.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1470",
+      "title": "establishing a study committee on the feasibility and impact of a low-income housing tax credit.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1545",
+      "title": "relative to the disposal of state surplus property for affordable housing.",
+      "found_by_terms": [
+        "housing",
+        "affordable housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB318",
+      "title": "(New Title) converting the manufactured housing installations standards board and the board of examiners of nursing home administrators into advisory boards, and creating a new advisory board named the advisory board of massage therapists, reflexologists,",
+      "found_by_terms": [
+        "housing",
+        "manufactured housing"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB538",
+      "title": "relative to zoning procedures concerning residential housing.",
+      "found_by_terms": [
+        "housing",
+        "zoning"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "abstract": "",
+      "openstates_url": null
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "CACR1",
+      "title": "relating to the governor. Providing that there be a lieutenant governor who shall assume the duties of the governor if the governor is incapacitated.",
+      "found_by_terms": [
+        "tenant"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "CACR0001",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 3,
+      "legislationID": 143,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Michael Moffett",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB119",
+      "title": "allowing rental companies applying to register a rental fleet to choose New Hampshire as the base jurisdiction under the International Registration Plan (IRP).",
+      "found_by_terms": [
+        " rent"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0119",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 91,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "James Spillane",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Keith Ammon",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Lex Berezhny",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jose Cambrils",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Brian Cole",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Gregory Hill",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Michael Moffett",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Steven Smith",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB123",
+      "title": "enabling municipalities to tax standing wood and timber on land used for carbon sequestration.",
+      "found_by_terms": [
+        "land use"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  0123",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "164",
+      "bill_type": 1,
+      "legislationID": 106,
+      "effective_date": "07/01/2025",
+      "sponsors": [
+        {
+          "name": "Arnold Davis",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Brian Cole",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Sean Durkin",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Michael Murphy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Mike Ouellet",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Rochefort",
+          "party": "r",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "James Tierney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB168",
+      "title": "relative to including municipal public works facilities as eligible capital facilities for the assessment of impact fees.",
+      "found_by_terms": [
+        "impact fee"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0168",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "58",
+      "bill_type": 1,
+      "legislationID": 151,
+      "effective_date": "08/01/2025",
+      "sponsors": [
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tom Dolan",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Richard Lascelles",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Charles Melvin",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Daniel Veilleux",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB229",
+      "title": "repealing the alternative procedure for adoption of zoning ordinances.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0229",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 283,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Michael Vose",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Gregory Hill",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Donald McFarlane",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Dan McGuire",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Walter Spilsbury",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Len Turcotte",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jordan Ulery",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB309",
+      "title": "relative to making electronic rent payments optional.",
+      "found_by_terms": [
+        " rent"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0309",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "176",
+      "bill_type": 1,
+      "legislationID": 484,
+      "effective_date": "01/01/2026",
+      "sponsors": [
+        {
+          "name": "Maureen Mooney",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Julie Miles",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB351",
+      "title": "requiring landlords to give tenants of at-will tenancies at least 60-days notice to evict.",
+      "found_by_terms": [
+        "landlord",
+        "tenant"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0351",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 330,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Matthew Pitaro",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB399",
+      "title": "(New Title) establishing a commission to study the New Hampshire zoning enabling act and relative to the effective date of the C-PACER program.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0399",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "2",
+      "bill_type": 1,
+      "legislationID": 629,
+      "effective_date": "03/10/2025",
+      "sponsors": [
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Mark McConkey",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tara Reardon",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Alexis Simpson",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB425",
+      "title": "allowing tax-exempt entities to keep their tax-exempt status while renting facilities or property to entities that share their mission.",
+      "found_by_terms": [
+        " rent"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0425",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 309,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Mark Pearson",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jose Cambrils",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Glenn Cordelli",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Debra DeSimone",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "John Janigian",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Paul Terry",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB434",
+      "title": "requiring a policyholder's insurance company to provide a rental car for at least 7 days after determination that the vehicle is totaled or unsafe to operate when the policyholder is not at fault for the accident.",
+      "found_by_terms": [
+        " rent"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0434",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 569,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Stephen Pearson",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB437",
+      "title": "providing specific curative measures for undischarged mortgages.",
+      "found_by_terms": [
+        "mortgage"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0437",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "157",
+      "bill_type": 1,
+      "legislationID": 516,
+      "effective_date": "09/05/2025",
+      "sponsors": [
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Steven Bogert",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Mary Hakken-Phillips",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Katelyn Kuttab",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Maureen Mooney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jodi Nelson",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tara Reardon",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Robert Wherry",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB444",
+      "title": "relative to a tenant's right to notification prior to the sale of a multi-family home.",
+      "found_by_terms": [
+        "multi-family",
+        "tenant"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  0444",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 871,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Cassandra  Levesque",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Christine Seibert",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB457",
+      "title": "(Second New Title) relative to zoning restrictions on dwelling units.",
+      "found_by_terms": [
+        "dwelling",
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0457",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "188",
+      "bill_type": 1,
+      "legislationID": 886,
+      "effective_date": "09/13/2025",
+      "sponsors": [
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Harry Bean",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Ross Berry",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Hope Damon",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Samuel Farrington",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Alissandra Murray",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Adam Presa",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tara Reardon",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jonah Wheeler",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB471",
+      "title": "establishing a commission to study issues related to growth, traffic, and planning and land use for certain towns.",
+      "found_by_terms": [
+        "land use"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0471",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 721,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Ron Dunn",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Tom Mannion",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kristine Perez",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Julius Soti",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jeffrey Tenczar",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB490",
+      "title": "relative to indemnification for municipalities adopting policies to address homelessness.",
+      "found_by_terms": [
+        "homelessness",
+        "homeless"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0490",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 774,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Heath Howard",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Luz Bay",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Aboul Khan",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Amy Malone",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Alissandra Murray",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jodi Newell",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Marc Plamondon",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Christine Seibert",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Veilleux",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB530",
+      "title": "increasing the amount of revenue transfered from the real estate transfer tax to the affordable housing fund. ",
+      "found_by_terms": [
+        "housing",
+        "affordable housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0530",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 854,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Jessica LaMontagne",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Hope Damon",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB558",
+      "title": "creating a public county registry of the monthly rent charged by landlords for each owned unit and prohibiting landlords from using algorithms or software to determine rental rates.",
+      "found_by_terms": [
+        " rent",
+        "landlord"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0558",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 846,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Jodi Newell",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Christine Seibert",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kathy Staub",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Veilleux",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB628",
+      "title": "prohibiting landlords from discriminating against prospective tenants holding certain vouchers under the housing choice voucher program.",
+      "found_by_terms": [
+        "housing",
+        "landlord",
+        "tenant"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0628",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 636,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Timothy Horrigan",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Gaby Grossman",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Allan Howland",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Suzanne Vail",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB631",
+      "title": "(New Title) permitting residential building in commercial zoning.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  0631",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "201",
+      "bill_type": 1,
+      "legislationID": 690,
+      "effective_date": "07/01/2026",
+      "sponsors": [
+        {
+          "name": "Alissandra Murray",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Ross Berry",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jessica Grill",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Heath Howard",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jodi Newell",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kris Schultz",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Christine Seibert",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB633",
+      "title": "(New Title) creating a legislative study committee to investigate the implementation of housing investment trusts in New Hampshire.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0633",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "130",
+      "bill_type": 1,
+      "legislationID": 692,
+      "effective_date": "06/23/2025",
+      "sponsors": [
+        {
+          "name": "Gary Daniels",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB685",
+      "title": "permitting in all residentially zoned areas by right the construction of manufactured housing.",
+      "found_by_terms": [
+        "housing",
+        "manufactured housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0685",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 481,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Ross Berry",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Hope Damon",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Fred Doucette",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jessica Grill",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Heath Howard",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Alissandra Murray",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB71",
+      "title": "(Third New Title) prohibiting school facilities from being used to provide shelter for aliens; relative to department of health and human services contracts; and requiring the use of public notices before reassessment of property values for tax purposes.",
+      "found_by_terms": [
+        "shelter"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  0071",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "265",
+      "bill_type": 1,
+      "legislationID": 70,
+      "effective_date": "09/30/2025",
+      "sponsors": [
+        {
+          "name": "Juliet Harvey-Bolia",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Lisa Freeman",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Gregory Hill",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Katy Peternel",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Matt Sabourin dit Choini\u00e8re",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "James Thibault",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB731",
+      "title": "relative to supportive housing options for individuals with developmental disabilities.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0731",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "153",
+      "bill_type": 1,
+      "legislationID": 734,
+      "effective_date": "09/05/2025",
+      "sponsors": [
+        {
+          "name": "Jessica LaMontagne",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Lily Foss",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Heath Howard",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Kathy Staub",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB92",
+      "title": "(New Title) requiring recusal of members of zoning boards of adjustment and planning boards in certain circumstances.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0092",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "108",
+      "bill_type": 1,
+      "legislationID": 131,
+      "effective_date": "06/23/2025",
+      "sponsors": [
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Richard Lascelles",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "John MacDonald",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Lisa Mazur",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Sheila Seidel",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "John Sellers",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB113",
+      "title": "making appropriations to the department of health and human services for homeless services and homeless prevention.",
+      "found_by_terms": [
+        "homeless"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "SB  0113",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1017,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Regina Birdsell",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB114",
+      "title": "making appropriations to the department of health and human services to support community and transitional housing through community mental health centers.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0114",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1107,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jodi Newell",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Mark Pearson",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB166",
+      "title": "relative to notice required prior to sale of a manufactured housing unit located in a resident-owned community.",
+      "found_by_terms": [
+        "housing",
+        "manufactured housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0166",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "244",
+      "bill_type": 2,
+      "legislationID": 960,
+      "effective_date": "1/1/2026",
+      "sponsors": [
+        {
+          "name": "Tara Reardon",
+          "party": "D",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB173",
+      "title": "relative to residential property subject to housing covenants under the low income housing tax credit program.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0173",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "120",
+      "bill_type": 2,
+      "legislationID": 1109,
+      "effective_date": "7/1/2025",
+      "sponsors": [
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB179",
+      "title": "(New Title) relative to the state council on housing stability.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0179",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "121",
+      "bill_type": 2,
+      "legislationID": 1132,
+      "effective_date": "8/23/2025",
+      "sponsors": [
+        {
+          "name": "James Gray",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB279",
+      "title": "establishing the housing champion business loan program and making appropriations to the department of business and economic affairs and the business finance authority.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0279",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1083,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Pat Long",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Suzanne Prentiss",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tara Reardon",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Alexis Simpson",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Laurel Stavis",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB55",
+      "title": "providing temporary exemptions from the land use change tax for qualifying housing projects.",
+      "found_by_terms": [
+        "housing",
+        "land use"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0055",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 979,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jess Edwards",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB78",
+      "title": "relative to the zoning board of adjustments appeal period.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0078",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 311,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB81",
+      "title": "increasing the annual real estate transfer tax revenue contribution and making an appropriation to the affordable housing fund.",
+      "found_by_terms": [
+        "housing",
+        "affordable housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0081",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 977,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Ruth Ward",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB84",
+      "title": "relative to zoning procedures concerning residential housing.",
+      "found_by_terms": [
+        "housing",
+        "zoning"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "biennium_record_year": 2026,
+      "expanded_bill_no": "SB  0084",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1016,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB86",
+      "title": "relative to the housing finance authority's affordable housing guarantee program.",
+      "found_by_terms": [
+        "housing",
+        "affordable housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0086",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1040,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Pat Long",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Suzanne Prentiss",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tara Reardon",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Alexis Simpson",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Laurel Stavis",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1004",
+      "title": "exempting certain dwelling units from automatic sprinkler system requirements.",
+      "found_by_terms": [
+        "dwelling"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1004",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1486,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Matt Drew",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Brian Labrie",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1005",
+      "title": "repealing the commission to study the historical evolution of the New Hampshire zoning enabling act.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1005",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1487,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Len Turcotte",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "JD Bernardy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jose Cambrils",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Fracht",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Julie Gilman",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jodi Nelson",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Susan Porcelli",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Laurel Stavis",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1006",
+      "title": "relative to on-site parking requirements for accessory dwelling units.",
+      "found_by_terms": [
+        "dwelling",
+        "accessory dwelling"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1006",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1493,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Richard Brown",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Len Turcotte",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1007",
+      "title": "relative to manufactured housing.",
+      "found_by_terms": [
+        "housing",
+        "manufactured housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1007",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1495,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Len Turcotte",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Louise Andrus",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "JD Bernardy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Susan DeRoy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kristine Perez",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Susan Porcelli",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jennifer Rhodes",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Shane Sirois",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1008",
+      "title": "relative to modifying innovative land use controls, requirements, and appeals.",
+      "found_by_terms": [
+        "land use"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1008",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1499,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1010",
+      "title": "(New Title) relative to multi-family residential development on commercially zoned land.",
+      "found_by_terms": [
+        "multi-family",
+        "residential development"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  1010",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "319",
+      "bill_type": 1,
+      "legislationID": 1505,
+      "effective_date": "07/1/2026",
+      "sponsors": [
+        {
+          "name": "Katelyn Kuttab",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jennifer Mandelbaum",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jennifer Rhodes",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1011",
+      "title": "repealing zoning restrictions on dwelling units.",
+      "found_by_terms": [
+        "dwelling",
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1011",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1507,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Kristine Perez",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Louise Andrus",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Susan DeRoy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kat McGhee",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Sandra Panek",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Susan Porcelli",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Len Turcotte",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1012",
+      "title": "repealing accessory dwelling units and detached accessory dwelling units.",
+      "found_by_terms": [
+        "dwelling",
+        "accessory dwelling"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1012",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1517,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Len Turcotte",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Richard Brown",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Charles Foote",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Fracht",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Diane Kelley",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kristine Perez",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Paul Terry",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1016",
+      "title": "eliminating the requirement that municipalities allow for manufactured housing development opportunities.",
+      "found_by_terms": [
+        "housing",
+        "manufactured housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1016",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1528,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Len Turcotte",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Jose Cambrils",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Barbara Comtois",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Fracht",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Mark Pearson",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kristine Perez",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Susan Porcelli",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jennifer Rhodes",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1017",
+      "title": "relative to accessory dwelling units and workforce housing.",
+      "found_by_terms": [
+        "housing",
+        "workforce housing",
+        "dwelling",
+        "accessory dwelling"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1017",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1529,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1021",
+      "title": "amending the date to provide written notice to a municipality of a taxpayer's election to be assessed under the low-income housing tax credit program.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1021",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "207",
+      "bill_type": 1,
+      "legislationID": 1542,
+      "effective_date": "07/02/2026",
+      "sponsors": [
+        {
+          "name": "David Walker",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "John MacDonald",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1026",
+      "title": "relative to the definition of manufactured housing.",
+      "found_by_terms": [
+        "housing",
+        "manufactured housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1026",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1585,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Jennifer Rhodes",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Dennis Mannion",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Denis Murphy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Mark Proulx",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Terry Roy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Len Turcotte",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1042",
+      "title": "(Second New Title) relative to the cap on outstanding obligations for which the housing finance authority is allowed.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1042",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "320",
+      "bill_type": 1,
+      "legislationID": 2378,
+      "effective_date": "09/13/2026",
+      "sponsors": [
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Daryl Abbas",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1065",
+      "title": "relative to multi-family and mixed-use development in commercially zoned areas.",
+      "found_by_terms": [
+        "multi-family"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1065",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1504,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jennifer Mandelbaum",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1079",
+      "title": "allowing accessory dwelling units to be built within or attached to certain non-conforming structures.",
+      "found_by_terms": [
+        "dwelling",
+        "accessory dwelling"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1079",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "210",
+      "bill_type": 1,
+      "legislationID": 1800,
+      "effective_date": "07/02/2026",
+      "sponsors": [
+        {
+          "name": "Allan Howland",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1093",
+      "title": "(New Title) relative to public charter schools and governmental land use exemptions.",
+      "found_by_terms": [
+        "land use"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1093",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "118",
+      "bill_type": 1,
+      "legislationID": 1875,
+      "effective_date": "08/04/2026",
+      "sponsors": [
+        {
+          "name": "Tanya Donnelly",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Juliet Harvey-Bolia",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "John Janigian",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Dennis Mannion",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Maureen Mooney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1136",
+      "title": "relative to accessory dwelling units.",
+      "found_by_terms": [
+        "dwelling",
+        "accessory dwelling"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1136",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1489,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Len Turcotte",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Charles Foote",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Katelyn Kuttab",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jodi Nelson",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kristine Perez",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Shane Sirois",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Paul Terry",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1143",
+      "title": "relative to the remediation of mold in rental housing.",
+      "found_by_terms": [
+        "housing",
+        " rent",
+        "rental housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1143",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1658,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Seth King",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1145",
+      "title": "relative to affordable housing investment fees.",
+      "found_by_terms": [
+        "housing",
+        "affordable housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1145",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1533,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1171",
+      "title": "relative to eviction safeguards for tenants whose Social Security payments are disrupted.",
+      "found_by_terms": [
+        "tenant",
+        "eviction"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  1171",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1670,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Terri O'Rorke",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Tracy Bricchi",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Nicholas Germana",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "James Gruber",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Philip Jones",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Janet Lucas",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jodi Newell",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Wendy Thomas",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1181",
+      "title": "relative to public hearing notice requirements for zoning board of adjustment appeals.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1181",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1851,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Melissa Litchfield",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Glen Aldrich",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Brian Cole",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Lisa Mazur",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Sherri Reinfurt",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1195",
+      "title": "relative to municipal zoning requirements for child day care providers.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1195",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "217",
+      "bill_type": 1,
+      "legislationID": 1963,
+      "effective_date": "07/02/2026",
+      "sponsors": [
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Ross Berry",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Dylan Germana",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Mark McConkey",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Denis Murphy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jodi Nelson",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Katy Peternel",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tara Reardon",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Rochefort",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Mary Jane Wallner",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1196",
+      "title": "repealing the state housing champion designation and grant program.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  1196",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1506,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Matt Drew",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Mike Belcher",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Sayra DeVito",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tom Mannion",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kristin Noble",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Len Turcotte",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1218",
+      "title": "relative to the disclosure of rights and responsibilities during the sale of a mobile home in a mobile home park.",
+      "found_by_terms": [
+        "mobile home"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1218",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1919,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Efstathia Booras",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Maureen Mooney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1251",
+      "title": "relative to restricting municipal downzoning inconsistent with existing neighborhood density.",
+      "found_by_terms": [
+        "zoning",
+        "density"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1251",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1967,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Patrick Long",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Heath Howard",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1295",
+      "title": "relative to eligibility requirements for charitable and nonprofit housing projects.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1295",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2033,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Ron Dunn",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Aidan Ankarberg",
+          "party": "I",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Cyril Aures",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Susan DeRoy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Sandra Panek",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kristine Perez",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Clayton Wood",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1303",
+      "title": "authorizing municipalities to adopt zoning ordinances related to the protection, management, or replacement of tree canopy.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1303",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2085,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Suzanne Vail",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tony Caplan",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "John Cloutier",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Linda Haskins",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Allan Howland",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Peter Petrigno",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Carry Spier",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1336",
+      "title": "allowing exceptions to the cap on residential security deposits for applicants not meeting standard approval criteria.",
+      "found_by_terms": [
+        "security deposit"
+      ],
+      "sources": [
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  1336",
+      "general_status": "VETOED BY GOVERNOR",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2143,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Julie Miles",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Sheri Minor",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Alissandra Murray",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Sherri Reinfurt",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1349",
+      "title": "relative to exemptions from multi-family zoning requirements for small or low-density communities.",
+      "found_by_terms": [
+        "multi-family",
+        "zoning",
+        "density"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1349",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2356,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "David Meuse",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Jennifer Mandelbaum",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1371",
+      "title": "prohibiting application fees for residential rental agreements.",
+      "found_by_terms": [
+        " rent"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1371",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2221,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Janet Lucas",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Efstathia Booras",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Hegner",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Matthew Hicks",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1375",
+      "title": "prohibiting landlords from charging more than one application fee per tenant every 12 months.  ",
+      "found_by_terms": [
+        "landlord",
+        "tenant"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1375",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2246,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Jonah Wheeler",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1405",
+      "title": "relative to the housing finance authority's affordable housing guarantee program.",
+      "found_by_terms": [
+        "housing",
+        "affordable housing"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  1405",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2148,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Chris Muns",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Efstathia Booras",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Erica de Vries",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Hegner",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Allan Howland",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Connie Lane",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Laurel Stavis",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1450",
+      "title": "relative to the designation and control of shared facilities in rental properties.",
+      "found_by_terms": [
+        " rent"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1450",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2032,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Diane Kelley",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Glen Aldrich",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Glenn Bailey",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Susan DeRoy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Shane Sirois",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1497",
+      "title": "relative to replacing members of local land use boards for certain conduct. ",
+      "found_by_terms": [
+        "land use"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1497",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1633,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Deborah Aylward",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Matt Sabourin dit Choini\u00e8re",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1499",
+      "title": "(New Title) relative to additional grounds for eviction under the landlord and tenant statute, relative to the responsibility of local school districts to provide meals to students during school hours, and reimbursing schools for meals provided to students at no cost and making an appropriation therefor.",
+      "found_by_terms": [
+        "landlord",
+        "tenant",
+        "eviction"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  1499",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1652,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Harry Bean",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Calvin Beaulier",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Ross Berry",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Katelyn Kuttab",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1525",
+      "title": "relative to zoning restrictions concerning dwelling unit occupancy.",
+      "found_by_terms": [
+        "dwelling",
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1525",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1888,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Wayne Burton",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1540",
+      "title": "(Second New Title) relative to municipal health ordinances and accessory dwelling units and relative to on-premises licenses for licensed barbershops and salons.",
+      "found_by_terms": [
+        "dwelling",
+        "accessory dwelling"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1540",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1951,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "David Fracht",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Karen Ebel",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jaci Grote",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Allan Howland",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "John MacDonald",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Nancy Murphy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1553",
+      "title": "relative to pet-related fees and rent in residential tenancies.",
+      "found_by_terms": [
+        " rent"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1553",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2019,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Patrick Long",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Heath Howard",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1588",
+      "title": "(Second New Title) relative to the regulation of accessory parking for vehicles by local legislative bodies and multifamily housing within commercial districts by municipalities; establishing special assessment districts; and relative to expanding the housing infrastructure \u00a0municipal grant program and making an appropriation therefor.",
+      "found_by_terms": [
+        "housing",
+        "multifamily"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1588",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "329",
+      "bill_type": 1,
+      "legislationID": 2446,
+      "effective_date": "09/13/2026",
+      "sponsors": [
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1598",
+      "title": "(New Title) relative to notice and proceedings for tenants and landlords engaged in eviction processes.",
+      "found_by_terms": [
+        "landlord",
+        "tenant",
+        "eviction"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1598",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "308",
+      "bill_type": 1,
+      "legislationID": 2393,
+      "effective_date": "07/10/2026",
+      "sponsors": [
+        {
+          "name": "Dillon Dumont",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Calvin Beaulier",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Sharon Carson",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Brian Cole",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jordan Ulery",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1612",
+      "title": "relative to the use of price-fixing websites, algorithms, or other software by landlords.",
+      "found_by_terms": [
+        "landlord"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1612",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1814,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Karen Hegner",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jonah Wheeler",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1613",
+      "title": "directing the department of business and economic affairs to produce a report detailing methods to increase lending practices for housing developments that help persons with disabilities.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1613",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1816,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1619",
+      "title": "relative to the rights of property owners and limitations on municipal land use regulation, and repealing the workforce housing program.",
+      "found_by_terms": [
+        "housing",
+        "workforce housing",
+        "land use"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1619",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1794,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Julius Soti",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Cyril Aures",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tom Mannion",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Kristin Noble",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Yury Polozov",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Matt Sabourin dit Choini\u00e8re",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "John Sellers",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jeremy Slottje",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jordan Ulery",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Mark Warden",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1625",
+      "title": "relative to annual reporting on accessory dwelling unit construction and use.",
+      "found_by_terms": [
+        "dwelling",
+        "accessory dwelling"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1625",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2097,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jack Flanagan",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jodi Nelson",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Suzanne Prentiss",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Eric Turer",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jonah Wheeler",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1660",
+      "title": "relative to municipal credit enhancement agreements and tax increment financing for priority housing development.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1660",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2115,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Daniel Veilleux",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Paul Dargie",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Michael Edgar",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "James Gruber",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Stephanie Grund",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Mary Murphy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1661",
+      "title": "relative to expanding the housing finance authority's community heroes program and makes an appropriation therefor.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  1661",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2086,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Chris Muns",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Efstathia Booras",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Erica de Vries",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Hegner",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Allan Howland",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Connie Lane",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Laurel Stavis",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1662",
+      "title": "relative to providing loan guarantees for accessory dwelling unit financing.",
+      "found_by_terms": [
+        "dwelling",
+        "accessory dwelling"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1662",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2084,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Chris Muns",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Erica de Vries",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Hegner",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Allan Howland",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Connie Lane",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Laurel Stavis",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1681",
+      "title": "relative to the definition, inspection, and local approval of tiny houses and yurts as innovative housing structures.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1681",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "330",
+      "bill_type": 1,
+      "legislationID": 2322,
+      "effective_date": "09/13/2026",
+      "sponsors": [
+        {
+          "name": "George Grant",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Michael Aron",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Brian Cole",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Lisa Post",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Sherri Reinfurt",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Skip Rollins",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1690",
+      "title": "relative to impact fees.",
+      "found_by_terms": [
+        "impact fee"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1690",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1916,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Kristine Perez",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Louise Andrus",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Katelyn Kuttab",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Bryan Morse",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "John Sellers",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1707",
+      "title": "creating an additional property tax for certain unoccupied properties and creating a housing transfer tax exemption for certain low- and moderate-income home buyers.",
+      "found_by_terms": [
+        "housing",
+        "home buyer"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1707",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1818,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Heath Howard",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jonah Wheeler",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1709",
+      "title": "(Second New Title) prohibiting certain unlawfully present felons from occupying or renting real property, relative to pet vendor foster home and defining pet vendor foster facility, and providing procedures for the potential confiscation of livestock involved in cruelty to animal cases.",
+      "found_by_terms": [
+        " rent"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  1709",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1879,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Ross Berry",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Katelyn Kuttab",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kristine Perez",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Katy Peternel",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kimberly Rice",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1711",
+      "title": "relative to governmental land uses.",
+      "found_by_terms": [
+        "land use"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1711",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1954,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "David Fracht",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Deborah Aylward",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1713",
+      "title": "relative to zoning conformity and redevelopment standards.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1713",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2162,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Brian Cole",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Judy Aron",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Michael Aron",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Arnold Davis",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Julie Miles",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Lisa Post",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Dick Thackston",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1732",
+      "title": "relative to housing accessibility and voucher allocation in new multi-unit developments.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1732",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1906,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Timothy Horrigan",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Heath Howard",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1759",
+      "title": "relative to the disqualification of a member of a local land use board.",
+      "found_by_terms": [
+        "land use"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1759",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1949,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "David Fracht",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Deborah Aylward",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1764",
+      "title": "establishing community workforce housing targets, special assessment provisions, and a revolving loan fund for workforce housing development.",
+      "found_by_terms": [
+        "housing",
+        "workforce housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1764",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2271,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Erica de Vries",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1786",
+      "title": "relative to creating a state assessment on non-homestead luxury second homes to fund statewide housing development programs and address housing shortages and making appropriations therefor.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  1786",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2133,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Chris Muns",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Efstathia Booras",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Erica de Vries",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Hegner",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Allan Howland",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Connie Lane",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Laurel Stavis",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1802",
+      "title": "relative to training, testing, and certification of local land use board members and making an appropriations therefor.",
+      "found_by_terms": [
+        "land use"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1802",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1500,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Deborah Aylward",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "David Fracht",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jordan Ulery",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1814",
+      "title": "establishing a 10-year strategic housing and infrastructure plan.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  1814",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2076,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Chris Muns",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Efstathia Booras",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Erica de Vries",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Karen Hegner",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Allan Howland",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Connie Lane",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Laurel Stavis",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB459",
+      "title": "relative to acreage requirements and zoning regarding sewer infrastructure and single-family residential uses.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0459",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 893,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Ross Berry",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Michael Granger",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jessica Grill",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Patrick Long",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Mark McConkey",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Dan McGuire",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Alissandra Murray",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tara Reardon",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB465",
+      "title": "relative to the housing opportunity zone program.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0465",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 655,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Alice Wade",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Hope Damon",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Heath Howard",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Christal Lloyd",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Alissandra Murray",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Loren Selig",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB519",
+      "title": "making an appropriation to the department of health and human services to fund and support the Waypoint youth and young adult shelter.",
+      "found_by_terms": [
+        "shelter"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0519",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 398,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Mary Jane Wallner",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Alicia Gregg",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Pat Long",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Heather Raymond",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kimberly Rice",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Matthew Wilhelm",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB572",
+      "title": "(New Title) establishing the \"partners in housing\" program, an initiative under the housing champions fund to assist municipalities, counties, and developers in building workforce housing, and making an appropriation therefor.",
+      "found_by_terms": [
+        "housing",
+        "workforce housing"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HB  0572",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 101,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Laurel Stavis",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Efstathia Booras",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "John Cloutier",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Fracht",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Matthew Hicks",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Allan Howland",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB604",
+      "title": "relative to a loan forgiveness program for low-income homeowners to build new accessory dwelling units or renovate existing structures into accessory dwelling units.",
+      "found_by_terms": [
+        "dwelling",
+        "accessory dwelling"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0604",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 305,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Jodi Newell",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Hope Damon",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Nicholas Germana",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Alissandra Murray",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Terri O'Rorke",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Ellen Read",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Carry Spier",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kathy Staub",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB65",
+      "title": "directing landlords to offer tenants the option of reporting rental payments to consumer reporting agencies.",
+      "found_by_terms": [
+        " rent",
+        "landlord",
+        "tenant"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0065",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 51,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Loren Selig",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Efstathia Booras",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Allan Howland",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Christal Lloyd",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jennifer Mandelbaum",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Alissandra Murray",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HR25",
+      "title": "(New Title) recognizing the Kingdom of Bhutan as responsible for the oppression and forced eviction of more than 100,000 Bhutanese citizens during the late 1980s and early 1990s.",
+      "found_by_terms": [
+        "eviction"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HR  0025",
+      "general_status": "PASSED",
+      "chapter_no": null,
+      "bill_type": 4,
+      "legislationID": 1708,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Suraj Budathoki",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Aboul Khan",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Christine Seibert",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HR30",
+      "title": "finding that planning, zoning, and related regulations have been and should continue to be the responsibility of municipal government.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "HR  0030",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 4,
+      "legislationID": 1793,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Len Turcotte",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Louise Andrus",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jose Cambrils",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Susan DeRoy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Julie Gilman",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Diane Kelley",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Maggiore",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jennifer Mandelbaum",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Laurel Stavis",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB27",
+      "title": "relative to dwellings over water.",
+      "found_by_terms": [
+        "dwelling"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0027",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "14",
+      "bill_type": 2,
+      "legislationID": 982,
+      "effective_date": "5/26/2026",
+      "sponsors": [
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Pat Long",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Mark McConkey",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB419",
+      "title": "relative to the housing champion designation and program and the affordable housing fund, and making appropriations therefor. ",
+      "found_by_terms": [
+        "housing",
+        "affordable housing"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "SB  0419",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1448,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Chris Muns",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Alexis Simpson",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Laurel Stavis",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Laura Telerski",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB435",
+      "title": "relative to the zoning board of adjustment variance criteria.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0435",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1417,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Daryl Abbas",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB436",
+      "title": "relative to zoning board of adjustment membership criteria.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0436",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1419,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Daryl Abbas",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB439",
+      "title": "relative to municipal data center zoning.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "SB  0439",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1435,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Hope Damon",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB471",
+      "title": "relative to affordable housing investment fees.",
+      "found_by_terms": [
+        "housing",
+        "affordable housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0471",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1428,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Anita Burroughs",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB490",
+      "title": "establishing a task force to assess the development of housing at Great Bay community college and authorizing the college the right to use vacant property for the purpose of developing housing.  ",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0490",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "255",
+      "bill_type": 2,
+      "legislationID": 1244,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Patricia Cornell",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jennifer Mandelbaum",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Meuse",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Michael Moffett",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Suzanne Prentiss",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tara Reardon",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB508",
+      "title": "relative to the zoning board of adjustments appeal period.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation",
+        "sql:rollcall"
+      ],
+      "expanded_bill_no": "SB  0508",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1292,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Sharon Carson",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Ruth Ward",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB82",
+      "title": "relative to the housing opportunity project extension and homes for homeland heroes grant program.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0082",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 992,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Denise Ricciardi",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB84",
+      "title": "relative to zoning procedures concerning residential housing.",
+      "found_by_terms": [
+        "housing",
+        "zoning"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0084",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1016,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB90",
+      "title": "allowing high-density residential development on land zoned for commercial use.",
+      "found_by_terms": [
+        "residential development",
+        "density"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "SB  0090",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1099,
+      "effective_date": null,
+      "sponsors": [
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    }
+  ]
+}
