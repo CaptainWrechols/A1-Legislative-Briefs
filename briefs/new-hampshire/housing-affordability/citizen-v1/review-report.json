@@ -1,0 +1,48 @@
+{
+  "issue_id": "new-hampshire-01-housing-affordability",
+  "brief_version": "citizen-v1.0",
+  "reviewer": "citizen-reviewer v2.3 (automated pass)",
+  "reviewed_at": "2026-08-04",
+  "status": "READY FOR HUMAN REVIEW",
+  "checks": {
+    "A1_no_advice": "PASS",
+    "A2_grouped_by_record_status": "PASS",
+    "A4_no_command_verbs": "PASS",
+    "A5_constituent_proposals_covered": "N/A (no NH constituent dataset; organized around the record's recurring ideas per the issue mission)",
+    "A6_no_worksheet_apparatus": "PASS (one in-pass fix: mid-brief appendix pointer removed from HB2 callout)",
+    "B1_adult_prose": "PASS",
+    "B2_no_glossary": "PASS",
+    "B3_plain_bill_descriptions": "PASS",
+    "C1_two_pages_html_and_word": "PASS (2 pages headless Chrome; 2 pages LibreOffice)",
+    "C2_page1_essentials": "PASS (landscape, stat strip, HB2 callout, enacted-law map)",
+    "C3_detail_in_appendices": "PASS",
+    "D1_cited_bills_exist": "PASS (23/23 cited bills in evidence pack)",
+    "D2_no_invented_votes_or_parties": "PASS (all cited vote pairs match official roll calls or HB2 whole-bill votes; party splits match ballots)",
+    "D3_data_limits_stated": "PASS (Appendix F)",
+    "D4_inferred_committee_yeas_marked": "N/A",
+    "E1_no_advice_verbs": "PASS",
+    "E2_party_claims_have_cited_votes": "PASS",
+    "E3_people_signals_descriptive": "PASS",
+    "E4_recently_passed_neutral": "PASS",
+    "F1_html_and_css": "PASS",
+    "F2_appendices": "PASS (A-F + H + I; G absent by design, documented)",
+    "F3_package_md": "PASS",
+    "F3b_word_exports": "PASS",
+    "F4_phase2_tokens": "PASS",
+    "F5_phase2_modules_no_tables": "PASS",
+    "F6_no_phase2_text_copied": "PASS",
+    "F7_reviewer_material_in_appendix": "PASS"
+  },
+  "fixes_applied": [
+    "Removed mid-brief appendix pointer from the HB2 callout; re-exported HTML and Word; both renders remained 2 pages."
+  ],
+  "blocking_issues": [],
+  "upstream_verifications": {
+    "collection_completeness": "PASS_WITH_WARNINGS (sources/new-hampshire/housing-affordability/verification/completeness.md)",
+    "reality_map_fact_check": "PASS (working/new-hampshire/housing-affordability/fact-check-reality-map.py)"
+  },
+  "notes_for_humans": [
+    "2020-2024 coverage is roll-call-based plus HB2; older-year committee-killed bills absent (documented gap; the collect-nh GitHub Actions workflow with the repo OpenStates secret can backfill).",
+    "HB1336 (2026) veto override described as pending; re-check after the fall 2026 veto session."
+  ]
+}

@@ -6,7 +6,8 @@ version: citizen-v1.0
 organization: The Forum
 generated_by: citizen-brief-writer v2.3
 date: 2026-08-04
-status: DRAFT
+status: READY FOR HUMAN REVIEW
+reviewed_by: citizen-reviewer v2.3 (2026-08-04)
 ---
 
 # Housing Affordability in New Hampshire
@@ -27,7 +28,7 @@ New Hampshire's General Court took up 135 housing bills across the 2020–2026 s
 
 ## Also in the budget bill (HB2)
 
-Much of New Hampshire's housing law is made inside HB2, the omnibus policy bill that rides with each two-year budget. The last three trailers carried 22 core housing sections: $25 million for the Affordable Housing Fund in 2021 and again in 2023; the InvestNH and Housing Champion programs (2023, $5 million plus staff); Partners in Housing for workforce homes on public land (2025); $10 million in shelter funding in 2023 and $5 million a year of opioid-settlement shelter money in 2025. HB2 2023 also repealed the Board of Manufactured Housing, and HB2 2025 cut the Housing Appeals Board from three members to two serving at the Governor and Council's pleasure. Votes on HB2 are on the whole trailer — never on a single section. Appendix H has the section-by-section detail.
+Much of New Hampshire's housing law is made inside HB2, the omnibus policy bill that rides with each two-year budget. The last three trailers carried 22 core housing sections: $25 million for the Affordable Housing Fund in 2021 and again in 2023; the InvestNH and Housing Champion programs (2023, $5 million plus staff); Partners in Housing for workforce homes on public land (2025); $10 million in shelter funding in 2023 and $5 million a year of opioid-settlement shelter money in 2025. HB2 2023 also repealed the Board of Manufactured Housing, and HB2 2025 cut the Housing Appeals Board from three members to two serving at the Governor and Council's pleasure. Votes on HB2 are on the whole trailer — never on a single section.
 
 ## Where new law exists
 
