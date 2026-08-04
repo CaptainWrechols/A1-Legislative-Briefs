@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-08-04T16:04:21.370073+00:00",
+  "collected_at": "2026-08-04T18:19:55.985139+00:00",
   "issue": "new-hampshire-01-housing-affordability",
-  "note": "NH discovery: SQL legislation (current biennium) + SQL roll-call titles (all years) + OpenStates backfill (older years, if key). Supplemented with 2020-2024 bills identified in NHMA Final Legislative Bulletins, NH OPD legislation summaries, NH Housing's 2024 session summary, and NH Bulletin roundups (voice/division-vote bills the roll-call route cannot see); see discovery_source per bill.",
+  "note": "NH discovery: SQL legislation (current biennium) + SQL roll-call titles (all years) + OpenStates backfill (older years, if key).",
   "count": 172,
   "bills": [
     {
@@ -78,7 +78,9 @@
       "sources": [
         "supplement:openstates"
       ],
-      "discovery_source": "NHBR/Sulloway 2020 coverage: attempted repeal of the Housing Appeals Board"
+      "discovery_source": "NHBR/Sulloway 2020 coverage: attempted repeal of the Housing Appeals Board",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2020,
@@ -101,7 +103,9 @@
       "sources": [
         "supplement:openstates"
       ],
-      "discovery_source": "NHBR/Sulloway 2020 coverage: attempted repeal of the Housing Appeals Board"
+      "discovery_source": "NHBR/Sulloway 2020 coverage: attempted repeal of the Housing Appeals Board",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2021,
@@ -124,7 +128,9 @@
       "sources": [
         "supplement:legiscan"
       ],
-      "discovery_source": "NHMA Final Bulletin 2021: restoration of involuntarily merged lots (Chapter 136)"
+      "discovery_source": "NHMA Final Bulletin 2021: restoration of involuntarily merged lots (Chapter 136)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2021,
@@ -134,7 +140,9 @@
       "sources": [
         "supplement:index-only"
       ],
-      "discovery_source": "NHMA Final Bulletin 2021: committee on law enforcement response to homelessness (Chapter 39)"
+      "discovery_source": "NHMA Final Bulletin 2021: committee on law enforcement response to homelessness (Chapter 39)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2021,
@@ -144,7 +152,9 @@
       "sources": [
         "supplement:index-only"
       ],
-      "discovery_source": "NHMA Final Bulletin 2021: planning board deadline extension (Chapter 69)"
+      "discovery_source": "NHMA Final Bulletin 2021: planning board deadline extension (Chapter 69)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2021,
@@ -154,7 +164,9 @@
       "sources": [
         "supplement:openstates"
       ],
-      "discovery_source": "NHMA Final Bulletin 2021: recovery house fire code exemption (Chapter 26)"
+      "discovery_source": "NHMA Final Bulletin 2021: recovery house fire code exemption (Chapter 26)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2021,
@@ -205,7 +217,9 @@
       "sources": [
         "supplement:legiscan"
       ],
-      "discovery_source": "NHMA Final Bulletin 2021: Community Revitalization Tax Relief for Housing Development (Chapter 200)"
+      "discovery_source": "NHMA Final Bulletin 2021: Community Revitalization Tax Relief for Housing Development (Chapter 200)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2021,
@@ -269,7 +283,9 @@
       "sources": [
         "supplement:legiscan"
       ],
-      "discovery_source": "NHMA Final Bulletin 2022: local regulation of religious land use restricted (Chapter 291)"
+      "discovery_source": "NHMA Final Bulletin 2022: local regulation of religious land use restricted (Chapter 291)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2022,
@@ -294,7 +310,9 @@
       "sources": [
         "supplement:legiscan"
       ],
-      "discovery_source": "NHMA Final Bulletin 2022: land use statutes modified (Chapter 272)"
+      "discovery_source": "NHMA Final Bulletin 2022: land use statutes modified (Chapter 272)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2022,
@@ -318,7 +336,9 @@
       "sources": [
         "supplement:index-only"
       ],
-      "discovery_source": "NHMA Final Bulletin 2022: minimum size of recovery houses (Chapter 88)"
+      "discovery_source": "NHMA Final Bulletin 2022: minimum size of recovery houses (Chapter 88)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2022,
@@ -328,7 +348,9 @@
       "sources": [
         "supplement:index-only"
       ],
-      "discovery_source": "NHMA Final Bulletin 2022: committee to study property blight (Chapter 167)"
+      "discovery_source": "NHMA Final Bulletin 2022: committee to study property blight (Chapter 167)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2022,
@@ -394,7 +416,9 @@
       "sources": [
         "supplement:index-only"
       ],
-      "discovery_source": "NHMA Final Bulletin 2023: residential driveway authority (Chapter 187)"
+      "discovery_source": "NHMA Final Bulletin 2023: residential driveway authority (Chapter 187)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2023,
@@ -417,7 +441,9 @@
       "sources": [
         "supplement:legiscan"
       ],
-      "discovery_source": "NHMA Final Bulletin 2023: land use board authority over homeowners associations (Chapter 114)"
+      "discovery_source": "NHMA Final Bulletin 2023: land use board authority over homeowners associations (Chapter 114)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2023,
@@ -427,7 +453,9 @@
       "sources": [
         "supplement:index-only"
       ],
-      "discovery_source": "NH Bulletin 2023 coverage: statewide duplex/fourplex zoning bill"
+      "discovery_source": "NH Bulletin 2023 coverage: statewide duplex/fourplex zoning bill",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2023,
@@ -518,7 +546,9 @@
       "sources": [
         "supplement:index-only"
       ],
-      "discovery_source": "NH OPD 2023 legislation matrix: historic housing tax credit + housing appropriations (enacted via HB2)"
+      "discovery_source": "NH OPD 2023 legislation matrix: historic housing tax credit + housing appropriations (enacted via HB2)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2024,
@@ -528,7 +558,9 @@
       "sources": [
         "supplement:legiscan"
       ],
-      "discovery_source": "NHMA Final Bulletin 2024 / NH Bulletin: sprinkler exemption for 3-4 family homes (Chapter 324)"
+      "discovery_source": "NHMA Final Bulletin 2024 / NH Bulletin: sprinkler exemption for 3-4 family homes (Chapter 324)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2024,
@@ -552,7 +584,9 @@
       "sources": [
         "supplement:legiscan"
       ],
-      "discovery_source": "NHMA Final Bulletin 2024 / NH Bulletin: 60-day DOT residential driveway permits (Chapter 367)"
+      "discovery_source": "NHMA Final Bulletin 2024 / NH Bulletin: 60-day DOT residential driveway permits (Chapter 367)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2024,
@@ -589,7 +623,9 @@
       "sources": [
         "supplement:legiscan"
       ],
-      "discovery_source": "NHMA Final Bulletin 2024: manufactured home subdivision statutes rewrite (Chapter 23)"
+      "discovery_source": "NHMA Final Bulletin 2024: manufactured home subdivision statutes rewrite (Chapter 23)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2024,
@@ -612,7 +648,9 @@
       "sources": [
         "supplement:legiscan"
       ],
-      "discovery_source": "NHBR 2024 roundup: residential-units bill referred to interim study by Senate"
+      "discovery_source": "NHBR 2024 roundup: residential-units bill referred to interim study by Senate",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2024,
@@ -622,7 +660,9 @@
       "sources": [
         "supplement:legiscan"
       ],
-      "discovery_source": "NHMA Final Bulletin 2024 / NH Bulletin: housing omnibus - office conversions, parking limits, zoning process (Chapter 370)"
+      "discovery_source": "NHMA Final Bulletin 2024 / NH Bulletin: housing omnibus - office conversions, parking limits, zoning process (Chapter 370)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2024,
@@ -659,7 +699,9 @@
       "sources": [
         "supplement:legiscan"
       ],
-      "discovery_source": "NHMA Final Bulletin 2024: home-based childcare zoning (Chapter 271)"
+      "discovery_source": "NHMA Final Bulletin 2024: home-based childcare zoning (Chapter 271)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2024,
@@ -683,7 +725,9 @@
       "sources": [
         "supplement:legiscan"
       ],
-      "discovery_source": "NHMA Final Bulletin 2024: $2.5M to raise homeless shelter program rates (Chapter 290)"
+      "discovery_source": "NHMA Final Bulletin 2024: $2.5M to raise homeless shelter program rates (Chapter 290)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2024,
@@ -693,7 +737,9 @@
       "sources": [
         "supplement:legiscan"
       ],
-      "discovery_source": "NH Bulletin 2024: doubling transfer-tax revenue to the Affordable Housing Fund (failed)"
+      "discovery_source": "NH Bulletin 2024: doubling transfer-tax revenue to the Affordable Housing Fund (failed)",
+      "abstract": "",
+      "openstates_url": null
     },
     {
       "session_year": 2024,
