@@ -49,7 +49,23 @@ def md_to_body(md_path: Path) -> str:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--brief-dir", required=True)
+    parser.add_argument("--title", default="Growth, Water Scarcity, and Long-Term Supply in Nevada")
+    parser.add_argument("--kicker", default="citizen-v2.0 · Water in Nevada · The Nevada Forum · July 2026")
+    parser.add_argument("--dek", default="Long-form detail behind the two-page citizen brief. "
+                        "165 bills found for 2019–2025; 100 policy bills carry the headline numbers.")
+    parser.add_argument("--note", default="Committee Yea votes marked * are inferred (committee "
+                        "membership minus recorded Nay/Absent), because Nevada minutes usually "
+                        "list only No and Absent votes.")
+    parser.add_argument("--footline", default="The Nevada Forum · Citizen Brief citizen-v2.0 "
+                        "appendices · July 2026 · Sources: NELIS (leg.state.nv.us), LCB Subject "
+                        "Index of Bills, official committee minutes")
+    parser.add_argument("--descriptions", default=None,
+                        help="optional JSON mapping of appendix letter -> TOC description")
     args = parser.parse_args()
+    descriptions = dict(APPENDIX_DESCRIPTIONS)
+    if args.descriptions:
+        import json as _json
+        descriptions.update(_json.loads(args.descriptions))
     appendix_dir = Path(args.brief_dir) / "appendices"
     files = sorted(
         p for p in appendix_dir.glob("*.md") if p.name != "README.md" and p.name[0].isupper()
@@ -63,7 +79,7 @@ def main() -> None:
         title = p.read_text(encoding="utf-8").splitlines()[0].lstrip("# ").strip()
         toc_items.append(
             f'<li><a href="#{anchor}">{title}</a> '
-            f'<span class="toc-desc">— {APPENDIX_DESCRIPTIONS.get(letter, "")}</span></li>'
+            f'<span class="toc-desc">— {descriptions.get(letter, "")}</span></li>'
         )
         body = md_to_body(p)
         bodies.append(f'<div class="page-break"></div>\n<section id="{anchor}">\n{body}\n</section>')
@@ -73,7 +89,7 @@ def main() -> None:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Appendices — Growth, Water Scarcity, and Long-Term Supply in Nevada</title>
+<title>Appendices — {args.title}</title>
 <link rel="stylesheet" href="../citizen-brief-print.css">
 </head>
 <body>
@@ -81,9 +97,9 @@ def main() -> None:
 <header class="masthead">
   <div class="forum">The&nbsp;Forum</div>
   <hr class="navy-rule">
-  <div class="kicker"><span class="k-lead">Citizen Brief · Appendices</span> · citizen-v2.0 · Water in Nevada · The Nevada Forum · July 2026</div>
-  <h1 class="title">Growth, Water Scarcity, and Long-Term Supply in Nevada — Appendices</h1>
-  <p class="dek">Long-form detail behind the two-page citizen brief. 165 bills found for 2019–2025; 100 policy bills carry the headline numbers.</p>
+  <div class="kicker"><span class="k-lead">Citizen Brief · Appendices</span> · {args.kicker}</div>
+  <h1 class="title">{args.title} — Appendices</h1>
+  <p class="dek">{args.dek}</p>
 </header>
 
 <div class="toc">
@@ -91,12 +107,12 @@ def main() -> None:
   <ol>
     {chr(10).join(toc_items)}
   </ol>
-  <p class="note">Committee Yea votes marked * are inferred (committee membership minus recorded Nay/Absent), because Nevada minutes usually list only No and Absent votes.</p>
+  <p class="note">{args.note}</p>
 </div>
 
 {chr(10).join(bodies)}
 
-<p class="footline">The Nevada Forum · Citizen Brief citizen-v2.0 appendices · July 2026 · Sources: NELIS (leg.state.nv.us), LCB Subject Index of Bills, official committee minutes</p>
+<p class="footline">{args.footline}</p>
 </body>
 </html>
 """
