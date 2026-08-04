@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-04T15:50:13.113825+00:00",
+  "collected_at": "2026-08-04T16:08:17.329928+00:00",
   "note": "Official docket actions from the NH public SQL database (current biennium only; the docket table does not cover 2020-2024). Verbatim; nothing inferred.",
   "bills": [
     {
@@ -948,6 +948,98 @@
           "body": "H",
           "date": "2025-03-20",
           "description": "Inexpedient to Legislate: MA VV 03/20/2025  HJ 9  P. 55"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB577",
+      "action_count": 17,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-16",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Housing  HJ 3  P. 17"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-29",
+          "description": "Public Hearing: 02/04/2025 10:00 am LOB 305"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-05",
+          "description": "  Full Committee Work Session: 02/11/2025 10:00 am LOB 305"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-26",
+          "description": "  Executive Session: 02/11/2025 10:00 am LOB 305"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-26",
+          "description": " Committee Report: Ought to Pass with Amendment # 2025-0449h   02/18/2025 (Vote 18-0; CC)  HC 14  P. 10"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-06",
+          "description": "Amendment # 2025-0449h: AA VV 03/06/2025  HJ 7  P. 15"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-06",
+          "description": "Ought to Pass with Amendment 2025-0449h: MA VV 03/06/2025  HJ 7  P. 15"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-11",
+          "description": "  Introduced 03/06/2025 and Referred to Commerce;  SJ 7"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-18",
+          "description": " Hearing: 03/25/2025, Room 100, SH, 10:45 am;  SC 14"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-13",
+          "description": "Committee Report: Ought to Pass, 05/15/2025, Vote 5-1;  SC 21A"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Sen. Fenton Floor Amendment # 2025-2162s, AF, VV; 05/15/2025;  SJ 13"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Ought to Pass: MA, VV; OT3rdg; 05/15/2025;  SJ 13"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-27",
+          "description": "Enrolled Bill Amendment # 2025-2874e Adopted, VV, (In recess of 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-27",
+          "description": "Enrolled Bill Amendment # 2025-2874e: AA VV (in recess of) 06/26/2025  HJ 18  P. 57"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-02",
+          "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 59"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-02",
+          "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-22",
+          "description": "Signed by Governor Ayotte 07/15/2025; Chapter 197; eff. 07/01/2025  HJ 18"
         }
       ]
     },

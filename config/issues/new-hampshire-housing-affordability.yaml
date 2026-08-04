@@ -51,6 +51,9 @@ search_terms:
   - zoning
   - "land use"
   - "accessory dwelling"
+  # Plural acronym only: bare "ADU" is inside "adult"/"graduate", but "ADUs"
+  # is unambiguous in titles (catches 2025 HB577 "definition of ADUs").
+  - "ADUs"
   - "lot size"
   - density
   - infill
@@ -91,6 +94,7 @@ relevance_terms:
   - zoning
   - "land use"
   - "accessory dwelling"
+  - "ADUs"
   - density
   - infill
   - "inclusionary"

@@ -14,13 +14,13 @@
     "Context: not primarily housing"
   ],
   "counts": {
-    "total": 148,
+    "total": 149,
     "by_relevance": {
       "adjacent": 35,
-      "core": 100,
+      "core": 101,
       "context": 13
     },
-    "policy_set": 134
+    "policy_set": 135
   },
   "bills": [
     {
@@ -645,6 +645,18 @@
       "relevance": "core",
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2025:HB577",
+      "session_year": 2025,
+      "bill_no": "HB577",
+      "title": "relative to modifying the definition of ADUs.",
+      "plain_topic": "Broadened the definition of accessory dwelling units, including detached ADUs allowed by right.",
+      "theme": "Accessory dwelling units (ADUs)",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 197)",
       "roll_call_count": 0
     },
     {

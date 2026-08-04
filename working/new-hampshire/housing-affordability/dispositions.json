@@ -577,6 +577,17 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB577",
+      "title": "relative to modifying the definition of ADUs.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 197)",
+      "evidence": "Signed by Governor Ayotte 07/15/2025; Chapter 197",
+      "evidence_source": "sql_docket",
+      "chapter": "197",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB628",
       "title": "prohibiting landlords from discriminating against prospective tenants holding certain vouchers under the housing choice voucher program.",
       "disposition": "killed_floor",

@@ -90,6 +90,7 @@ E = {
     "2025:HB490": ("Would have shielded municipalities from liability when adopting policies addressing homelessness.", "T6", "adjacent"),
     "2025:HB530": ("Would have raised the real estate transfer tax share flowing to the Affordable Housing Fund.", "T3", "core"),
     "2025:HB558": ("Would have created a public county rent registry and banned algorithmic rent-setting software.", "T4", "core"),
+    "2025:HB577": ("Broadened the definition of accessory dwelling units, including detached ADUs allowed by right.", "T2", "core"),
     "2025:HB628": ("Would have barred landlords from rejecting tenants with housing choice vouchers (2025 retry).", "T5", "core"),
     "2025:HB631": ("Permitted residential building in commercial zoning.", "T1", "core"),
     "2025:HB633": ("Created a legislative study committee on housing investment trusts.", "T9", "core"),

@@ -1,8 +1,8 @@
 {
-  "collected_at": "2026-08-04T15:05:05.265224+00:00",
+  "collected_at": "2026-08-04T16:04:21.370073+00:00",
   "issue": "new-hampshire-01-housing-affordability",
   "note": "NH discovery: SQL legislation (current biennium) + SQL roll-call titles (all years) + OpenStates backfill (older years, if key).",
-  "count": 148,
+  "count": 149,
   "bills": [
     {
       "session_year": 2020,
@@ -1504,6 +1504,80 @@
         {
           "name": "Daniel Veilleux",
           "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ],
+      "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB577",
+      "title": "relative to modifying the definition of ADUs.",
+      "found_by_terms": [
+        "ADUs"
+      ],
+      "sources": [
+        "sql:legislation"
+      ],
+      "expanded_bill_no": "HB  0577",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "197",
+      "bill_type": 1,
+      "legislationID": 125,
+      "effective_date": "07/01/2025",
+      "sponsors": [
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Hope Damon",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jessica Grill",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Lisa Mazur",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Dan McGuire",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Alissandra Murray",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
           "body": "H",
           "prime": false
         }

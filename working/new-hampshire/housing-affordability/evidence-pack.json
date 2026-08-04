@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:58:53.005092+00:00",
+  "generated_at": "2026-08-04T16:08:36.589618+00:00",
   "issue": "new-hampshire-01-housing-affordability",
   "sessions": [
     2020,
@@ -11,9 +11,9 @@
     2026
   ],
   "inventory": {
-    "collected_total": 148,
-    "policy_set": 134,
-    "core": 99,
+    "collected_total": 149,
+    "policy_set": 135,
+    "core": 100,
     "adjacent": 35,
     "context_excluded": 13,
     "carryover_duplicates": 1,
@@ -23,12 +23,12 @@
       "2022": 4,
       "2023": 9,
       "2024": 8,
-      "2025": 28,
+      "2025": 29,
       "2026": 72
     },
     "by_disposition": {
       "killed": 91,
-      "enacted": 28,
+      "enacted": 29,
       "interim_study": 11,
       "vetoed": 3,
       "content_enacted_via_hb2": 1
@@ -75,9 +75,9 @@
     },
     {
       "theme": "Accessory dwelling units (ADUs)",
-      "bills": 10,
-      "enacted": 1,
-      "enactment_rate_pct": 10.0,
+      "bills": 11,
+      "enacted": 2,
+      "enactment_rate_pct": 18.2,
       "typical_stop": "killed",
       "stops": {
         "killed": 8,
@@ -85,6 +85,7 @@
       },
       "bill_keys": [
         "2024:HB1291",
+        "2025:HB577",
         "2026:HB1006",
         "2026:HB1012",
         "2026:HB1017",
@@ -355,13 +356,13 @@
     }
   ],
   "people_signals": {
-    "bills_with_sponsor_data": 113,
+    "bills_with_sponsor_data": 114,
     "sponsor_data_note": "Sponsors come from the SQL sponsors table (current biennium) and gc.nh.gov final-text pages (2020-2021). Sponsor names for most 2022-2024 bills are not in the collected record.",
     "frequent_primary_sponsors": [
       {
         "name": "Joe Alexander",
         "party": "R",
-        "bills": 6
+        "bills": 7
       },
       {
         "name": "Ellen Read",
@@ -425,6 +426,7 @@
       "2025:HB437",
       "2025:HB457",
       "2025:HB490",
+      "2025:HB577",
       "2025:HB631",
       "2025:HB633",
       "2025:HB685",
@@ -462,7 +464,7 @@
       "2026:SB436",
       "2026:SB490"
     ],
-    "cross_party_count": 41
+    "cross_party_count": 42
   },
   "hb2_crosswalk": {
     "cycles": [
@@ -4022,6 +4024,87 @@
         {
           "name": "Daniel Veilleux",
           "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2025:HB577",
+      "session_year": 2025,
+      "identifier": "HB577",
+      "title": "relative to modifying the definition of ADUs.",
+      "plain_topic": "Broadened the definition of accessory dwelling units, including detached ADUs allowed by right.",
+      "theme": "Accessory dwelling units (ADUs)",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 197)",
+      "found_by_terms": [
+        "ADUs"
+      ],
+      "sponsors": [
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Hope Damon",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jessica Grill",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Lisa Mazur",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Dan McGuire",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Alissandra Murray",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
           "body": "House",
           "prime": false,
           "source": "sql_sponsors"

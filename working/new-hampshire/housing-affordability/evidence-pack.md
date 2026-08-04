@@ -1,23 +1,23 @@
 # Evidence pack — Housing Affordability in New Hampshire
 
-*148 bills collected; 134 in the policy set (99 core / 35 adjacent); 13 context bills excluded from counts.*
+*149 bills collected; 135 in the policy set (100 core / 35 adjacent); 13 context bills excluded from counts.*
 
 ## Dispositions (policy set)
 
 - killed: 91
-- enacted: 28
+- enacted: 29
 - interim_study: 11
 - vetoed: 3
 - content_enacted_via_hb2: 1
 
 ## Bills by session (policy set)
 
-- 2020: 6, 2021: 7, 2022: 4, 2023: 9, 2024: 8, 2025: 28, 2026: 72
+- 2020: 6, 2021: 7, 2022: 4, 2023: 9, 2024: 8, 2025: 29, 2026: 72
 
 ## Themes
 
 - **Building more homes: zoning and land use** — 24 bills, 7 enacted (29.2%); stops: {'killed': 12, 'interim_study': 5}
-- **Accessory dwelling units (ADUs)** — 10 bills, 1 enacted (10.0%); stops: {'killed': 8, 'interim_study': 1}
+- **Accessory dwelling units (ADUs)** — 11 bills, 2 enacted (18.2%); stops: {'killed': 8, 'interim_study': 1}
 - **State housing money and programs** — 36 bills, 9 enacted (25.0%); stops: {'killed': 24, 'interim_study': 3}
 - **Renting: costs, fees, and rules** — 17 bills, 2 enacted (11.8%); stops: {'killed': 12, 'vetoed': 1, 'interim_study': 2}
 - **Eviction and tenant protections** — 12 bills, 2 enacted (16.7%); stops: {'vetoed': 1, 'killed': 9}
@@ -42,7 +42,7 @@
 
 ## People signals
 
-- Joe Alexander (R) — prime sponsor on 6 bills
+- Joe Alexander (R) — prime sponsor on 7 bills
 - Ellen Read (D) — prime sponsor on 6 bills
 - Len Turcotte (R) — prime sponsor on 6 bills
 - Keith Murphy (R) — prime sponsor on 5 bills
@@ -54,7 +54,7 @@
 - Bill Boyd (R) — prime sponsor on 2 bills
 - Ron Dunn (R) — prime sponsor on 2 bills
 - Jessica LaMontagne (D) — prime sponsor on 2 bills
-- Cross-party sponsor teams: 41 bills
+- Cross-party sponsor teams: 42 bills
 
 ## HB2 crosswalk
 
