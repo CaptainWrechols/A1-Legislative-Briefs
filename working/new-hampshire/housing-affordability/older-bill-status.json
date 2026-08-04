@@ -1,0 +1,726 @@
+{
+  "note": "Disposition evidence for 2020-2024 bills. chaptered_page=True means gc.nh.gov publishes a chaptered final law for the bill (became law). Deaths are staged from roll-call motions only; nothing is invented. Bills without a chaptered page and without a killing roll call have an unresolved final status.",
+  "bills": [
+    {
+      "session_year": 2020,
+      "bill_no": "HB1160",
+      "title": "allowing municipalities to collect an occupancy fee from operators of local room rentals.",
+      "url": "https://gc.nh.gov/legislation/2020/HB1160.html",
+      "chaptered_page": true,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2020-03-13",
+          "motion": "OTP",
+          "yeas": 174,
+          "nays": 113
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1247",
+      "title": "(Second New Title) relative to mortgage defaults and nonpayment of rent during the novel coronavirus disease (Covid-19) outbreak state of emergency.\r\n",
+      "url": "https://gc.nh.gov/legislation/2020/HB1247.html",
+      "chaptered_page": true,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2020-03-12",
+          "motion": "OTPA",
+          "yeas": 188,
+          "nays": 108
+        },
+        {
+          "body": "S",
+          "date": "2020-06-16",
+          "motion": "Ought to Pass w/Amendment",
+          "yeas": 14,
+          "nays": 10
+        },
+        {
+          "body": "H",
+          "date": "2020-07-01",
+          "motion": "Concur",
+          "yeas": 187,
+          "nays": 135
+        },
+        {
+          "body": "H",
+          "date": "2020-09-17",
+          "motion": "Veto Override",
+          "yeas": 187,
+          "nays": 148
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1391",
+      "title": "relative to prohibiting discrimination in housing against persons with pets.",
+      "url": "https://gc.nh.gov/legislation/2020/HB1391.html",
+      "chaptered_page": true,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2020-03-12",
+          "motion": "Table",
+          "yeas": 196,
+          "nays": 96
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1582",
+      "title": "(New Title) relative to free tuition at colleges and universities for children of veterans who are totally and permanently disabled; programs to aid veterans' access to employment, housing, health care, and college degrees; educational assistance for memb",
+      "url": "https://gc.nh.gov/legislation/2020/HB1582.html",
+      "chaptered_page": true,
+      "chapter": "34",
+      "roll_call_motions": [
+        {
+          "body": "S",
+          "date": "2020-06-16",
+          "motion": "Committee Amendment",
+          "yeas": 24,
+          "nays": 0
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1629",
+      "title": "relative to training and procedures for zoning and planning boards.",
+      "url": "https://gc.nh.gov/legislation/2020/HB1629.html",
+      "chaptered_page": true,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2020-03-05",
+          "motion": "OTPA",
+          "yeas": 276,
+          "nays": 60
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB726",
+      "title": "(Second New Title) relative to programs to aid veterans' access to employment, housing, health care, and college degrees.",
+      "url": "https://gc.nh.gov/legislation/2020/SB0726.html",
+      "chaptered_page": true,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "S",
+          "date": "2020-03-12",
+          "motion": "Ought to Pass w/Amendment",
+          "yeas": 24,
+          "nays": 0
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB15",
+      "title": "relative to including under the meals and rooms tax facilitators of Internet transactions of motor vehicle rentals and facilitators of Internet transactions of room occupancies.",
+      "url": "https://gc.nh.gov/legislation/2021/HB0015.html",
+      "chaptered_page": true,
+      "chapter": "160",
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2021-04-09",
+          "motion": "OTPA",
+          "yeas": 289,
+          "nays": 78
+        },
+        {
+          "body": "S",
+          "date": "2021-06-03",
+          "motion": "Ought to Pass",
+          "yeas": 16,
+          "nays": 7
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB503",
+      "title": "(Second New Title) codifying the council on housing stability and relative to telehealth and medically assisted treatment for substance use disorder.",
+      "url": "https://gc.nh.gov/legislation/2021/HB0503.html",
+      "chaptered_page": true,
+      "chapter": "4",
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2021-04-08",
+          "motion": "Reconsider",
+          "yeas": 142,
+          "nays": 214
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB586",
+      "title": "relative to training and procedures for zoning and planning boards and relative to financial investments and incentives for affordable housing development.",
+      "url": "https://gc.nh.gov/legislation/2021/HB0586.html",
+      "chaptered_page": true,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2021-02-26",
+          "motion": "Remove from Table",
+          "yeas": 164,
+          "nays": 175
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB610",
+      "title": "(New Title) requiring certain licensing and reporting functions be conducted through the Nationwide Multistate Licensing System and Registry, relative to background investigations of trust officers, to certain filing fees, assessments, and interest rates, and to the transmission of consumer complaints by the banking department, and establishing the New Hampshire housing and conservation planning program.",
+      "url": "https://gc.nh.gov/legislation/2021/HB0610.html",
+      "chaptered_page": true,
+      "chapter": "194",
+      "roll_call_motions": [
+        {
+          "body": "S",
+          "date": "2021-06-24",
+          "motion": "Conference Committee Report",
+          "yeas": 23,
+          "nays": 1
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB126",
+      "title": "adopting omnibus legislation on landlord tenant proceedings.",
+      "url": "https://gc.nh.gov/legislation/2021/SB0126.html",
+      "chaptered_page": true,
+      "chapter": "152",
+      "roll_call_motions": [
+        {
+          "body": "S",
+          "date": "2021-03-18",
+          "motion": "Committee Amendment 0733s",
+          "yeas": 24,
+          "nays": 0
+        },
+        {
+          "body": "S",
+          "date": "2021-03-18",
+          "motion": "Ought to Pass w/Amendment",
+          "yeas": 24,
+          "nays": 0
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB152",
+      "title": "relative to affordable housing program funding.",
+      "url": "https://gc.nh.gov/legislation/2021/SB0152.html",
+      "chaptered_page": true,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "S",
+          "date": "2021-03-04",
+          "motion": "Committee Amendment 0450s",
+          "yeas": 24,
+          "nays": 0
+        },
+        {
+          "body": "S",
+          "date": "2021-03-04",
+          "motion": "Ought to Pass w/Amendment",
+          "yeas": 24,
+          "nays": 0
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB73",
+      "title": "establishing a green building standards initiative as part of the low or moderate income housing loan program and making an appropriation therefor; and establishing a commission to study green housing and utility source options.",
+      "url": "https://gc.nh.gov/legislation/2021/SB0073.html",
+      "chaptered_page": true,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "S",
+          "date": "2021-03-11",
+          "motion": "Inexpedient to Legislate",
+          "yeas": 14,
+          "nays": 10
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB86",
+      "title": "adopting omnibus legislation relative to planning and zoning.",
+      "url": "https://gc.nh.gov/legislation/2021/SB0086.html",
+      "chaptered_page": true,
+      "chapter": "224",
+      "roll_call_motions": [
+        {
+          "body": "S",
+          "date": "2021-03-04",
+          "motion": "Committee Amendment 0420s",
+          "yeas": 24,
+          "nays": 0
+        },
+        {
+          "body": "S",
+          "date": "2021-03-04",
+          "motion": "OTPA Divide Question Part II",
+          "yeas": 14,
+          "nays": 10
+        },
+        {
+          "body": "S",
+          "date": "2021-03-04",
+          "motion": "OTPA Divide Part I & III",
+          "yeas": 23,
+          "nays": 1
+        },
+        {
+          "body": "H",
+          "date": "2021-06-04",
+          "motion": "Adopt Amendment 2021-0964h",
+          "yeas": 204,
+          "nays": 168
+        },
+        {
+          "body": "H",
+          "date": "2021-06-04",
+          "motion": "Adopt Amendment 2021-1404h",
+          "yeas": 168,
+          "nays": 207
+        },
+        {
+          "body": "H",
+          "date": "2021-06-04",
+          "motion": "OTPA",
+          "yeas": 208,
+          "nays": 167
+        },
+        {
+          "body": "H",
+          "date": "2021-06-04",
+          "motion": "Reconsider",
+          "yeas": 169,
+          "nays": 200
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1291",
+      "title": "prohibiting discrimination against tenants holding certain vouchers for purposes of renting dwellings.",
+      "url": "https://gc.nh.gov/legislation/2022/HB1291.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2022-03-16",
+          "motion": " ",
+          "yeas": 179,
+          "nays": 148
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1662",
+      "title": "(Second New Title) relative to the privacy obligations of the department of health and human services, an appropriation for housing expenses for homeless people and parameters thereof, electronic wage payments, and requiring online marketplaces to disclos",
+      "url": "https://gc.nh.gov/legislation/2022/HB1662.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "S",
+          "date": "2022-05-05",
+          "motion": "Floor Amendment",
+          "yeas": 24,
+          "nays": 0
+        },
+        {
+          "body": "S",
+          "date": "2022-05-05",
+          "motion": "Floor Amendment",
+          "yeas": 24,
+          "nays": 0
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB400",
+      "title": "relative to training and procedures for zoning and planning boards and relative to financial investments and incentives for affordable housing development.",
+      "url": "https://gc.nh.gov/legislation/2022/SB0400.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "S",
+          "date": "2022-03-17",
+          "motion": "Ought to Pass w/Amendment",
+          "yeas": 13,
+          "nays": 11
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB415",
+      "title": "making an appropriation to the department of health and human services for the purpose of increasing rates paid to homeless shelters.",
+      "url": "https://gc.nh.gov/legislation/2022/SB0415.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "S",
+          "date": "2022-03-31",
+          "motion": "Laid on Table",
+          "yeas": 13,
+          "nays": 11
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB111",
+      "title": "establishing a committee to study electrical vehicle charging for residential renters.",
+      "url": "https://gc.nh.gov/legislation/2023/HB0111.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2023-02-23",
+          "motion": "Reconsider",
+          "yeas": 170,
+          "nays": 177
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB112",
+      "title": "relative to tenant's right to notification prior to the sale of a multifamily home.",
+      "url": "https://gc.nh.gov/legislation/2023/HB0112.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2023-03-09",
+          "motion": "OTP",
+          "yeas": 175,
+          "nays": 199
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB401",
+      "title": "relative to evictions based on the owner's intent to renovate the property.",
+      "url": "https://gc.nh.gov/legislation/2023/HB0401.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2023-03-09",
+          "motion": "OTP",
+          "yeas": 154,
+          "nays": 213
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB469",
+      "title": "prohibiting discrimination against tenants holding certain vouchers for purposes of renting dwellings.",
+      "url": "https://gc.nh.gov/legislation/2023/HB0469.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2023-03-09",
+          "motion": "OTP",
+          "yeas": 165,
+          "nays": 206
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB477",
+      "title": "to prohibit municipal inspections of owner-occupied units of multi-unit housing.",
+      "url": "https://gc.nh.gov/legislation/2023/HB0477.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2023-03-09",
+          "motion": "ITL",
+          "yeas": 179,
+          "nays": 191
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB567",
+      "title": "relative to notice of rent increases in certain residential rental property.",
+      "url": "https://gc.nh.gov/legislation/2023/HB0567.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2023-03-09",
+          "motion": "OTP",
+          "yeas": 166,
+          "nays": 207
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB95",
+      "title": "enabling municipalities to adopt rental practice regulations.",
+      "url": "https://gc.nh.gov/legislation/2023/HB0095.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2023-02-02",
+          "motion": "Table",
+          "yeas": 180,
+          "nays": 186
+        },
+        {
+          "body": "H",
+          "date": "2023-02-02",
+          "motion": "ITL",
+          "yeas": 301,
+          "nays": 63
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB145",
+      "title": "relative to New Hampshire housing champion designation for municipalities and making appropriations therefor.",
+      "url": "https://gc.nh.gov/legislation/2023/SB0145.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "S",
+          "date": "2023-03-16",
+          "motion": "Ought to Pass",
+          "yeas": 21,
+          "nays": 3
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB203",
+      "title": "relative to the composition and jurisdiction of the manufactured housing board.",
+      "url": "https://gc.nh.gov/legislation/2023/SB0203.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "S",
+          "date": "2023-03-16",
+          "motion": "Laid on Table",
+          "yeas": 12,
+          "nays": 12
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1199",
+      "title": "relative to services of the office of the child advocate for youth experiencing homelessness and making an appropriation therefor.",
+      "url": "https://gc.nh.gov/legislation/2024/HB1199.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2024-04-11",
+          "motion": "ITL",
+          "yeas": 190,
+          "nays": 191
+        },
+        {
+          "body": "H",
+          "date": "2024-04-11",
+          "motion": "OTP",
+          "yeas": 191,
+          "nays": 192
+        },
+        {
+          "body": "H",
+          "date": "2024-04-11",
+          "motion": "Indefinitely Postpone",
+          "yeas": 192,
+          "nays": 190
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1291",
+      "title": "relative to accessory dwelling unit uses allowed by right.",
+      "url": "https://gc.nh.gov/legislation/2024/HB1291.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2024-03-28",
+          "motion": "Table",
+          "yeas": 87,
+          "nays": 277
+        },
+        {
+          "body": "H",
+          "date": "2024-03-28",
+          "motion": "OTPA",
+          "yeas": 220,
+          "nays": 143
+        },
+        {
+          "body": "S",
+          "date": "2024-05-22",
+          "motion": "Floor Amendment",
+          "yeas": 8,
+          "nays": 16
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1359",
+      "title": "relative to appeals of certain zoning decisions by abutters.",
+      "url": "https://gc.nh.gov/legislation/2024/HB1359.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2024-03-07",
+          "motion": "OTP",
+          "yeas": 265,
+          "nays": 88
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1396",
+      "title": "relative to prohibiting municipal inspections of owner-occupied units of multi-unit housing.",
+      "url": "https://gc.nh.gov/legislation/2024/HB1396.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2024-02-08",
+          "motion": "ITL",
+          "yeas": 195,
+          "nays": 182
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1470",
+      "title": "establishing a study committee on the feasibility and impact of a low-income housing tax credit.",
+      "url": "https://gc.nh.gov/legislation/2024/HB1470.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2024-03-21",
+          "motion": "Indefinitely Postpone",
+          "yeas": 164,
+          "nays": 162
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1545",
+      "title": "relative to the disposal of state surplus property for affordable housing.",
+      "url": "https://gc.nh.gov/legislation/2024/HB1545.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2024-03-28",
+          "motion": "Table",
+          "yeas": 190,
+          "nays": 185
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB318",
+      "title": "(New Title) converting the manufactured housing installations standards board and the board of examiners of nursing home administrators into advisory boards, and creating a new advisory board named the advisory board of massage therapists, reflexologists,",
+      "url": "https://gc.nh.gov/legislation/2024/SB0318.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "S",
+          "date": "2024-10-10",
+          "motion": "VETO MESSAGE - Roll Call Required",
+          "yeas": 0,
+          "nays": 23
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB538",
+      "title": "relative to zoning procedures concerning residential housing.",
+      "url": "https://gc.nh.gov/legislation/2024/SB0538.html",
+      "chaptered_page": false,
+      "chapter": null,
+      "roll_call_motions": [
+        {
+          "body": "H",
+          "date": "2024-05-02",
+          "motion": "ITL",
+          "yeas": 188,
+          "nays": 173
+        }
+      ]
+    }
+  ]
+}
