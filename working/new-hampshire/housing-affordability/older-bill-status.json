@@ -1,5 +1,5 @@
 {
-  "note": "Disposition evidence for 2020-2024 bills. chaptered_page=True means gc.nh.gov publishes a chaptered final law for the bill (became law). Deaths are staged from roll-call motions only; nothing is invented. Bills without a chaptered page and without a killing roll call have an unresolved final status.",
+  "note": "Disposition evidence for 2020-2024 bills. For 2020-2021, gc.nh.gov/legislation/{year}/{bill}.html serves the LATEST VERSION of every bill: a 'CHAPTER N' header means enacted law; 'FINAL VERSION' means passed both chambers (check roll calls/veto); 'AS INTRODUCED'/'AS AMENDED...' means it died mid-process. The archive stops after 2021; 2022-2024 dispositions live in older-bill-actions.json. Deaths are staged from roll-call motions and docket actions only; nothing is invented.",
   "bills": [
     {
       "session_year": 2020,
@@ -16,7 +16,63 @@
           "yeas": 174,
           "nays": 113
         }
-      ]
+      ],
+      "version_header": "AS INTRODUCED",
+      "sponsors_line": "Rep. Edgar, Rock. 21; Rep. Loughman, Rock. 21; Rep. Cushing, Rock. 21; Rep. Maggiore, Rock. 22; Rep. Cleaver, Hills. 35; Rep. Bushway, Rock. 21; Rep. Almy, Graf. 13; Rep. Somssich, Rock. 27; Rep. Cloutier, Sull. 10; Rep. Pantelakos, Rock. 25; Sen. Watters, Dist 4; Sen. Sherman, Dist 24; Sen. Fuller Clark, Dist 21",
+      "page_meaning": "latest bill version only (existence does not prove enactment)",
+      "docket_actions": [
+        {
+          "date": "Jun 16, 2020",
+          "actor": "Senate",
+          "description": "Introduced 06/16/2020, and Laid on Table, MA, VV; 06/16/2020;  SJ 8"
+        },
+        {
+          "date": "Mar 13, 2020",
+          "actor": "House",
+          "description": "Ought to Pass: MA RC 174-113 03/12/2020  HJ 8  P. 170"
+        },
+        {
+          "date": "Mar 04, 2020",
+          "actor": "House",
+          "description": "Majority Committee Report: Ought to Pass for 03/11/2020 (Vote 10-7; RC)  HC 10  P. 67"
+        },
+        {
+          "date": "Mar 04, 2020",
+          "actor": "House",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "date": "Feb 25, 2020",
+          "actor": "House",
+          "description": "Subcommittee Work Session: 03/03/2020 09:00 am LOB 301"
+        },
+        {
+          "date": "Feb 19, 2020",
+          "actor": "House",
+          "description": "==CONTINUED== Executive Session: 03/03/2020 10:00 am LOB 301"
+        },
+        {
+          "date": "Feb 05, 2020",
+          "actor": "House",
+          "description": "==RECESSED== Executive Session: 02/12/2020 10:30 am LOB 301"
+        },
+        {
+          "date": "Jan 28, 2020",
+          "actor": "House",
+          "description": "Subcommittee Work Session: 02/04/2020 02:00 pm LOB 104"
+        },
+        {
+          "date": "Jan 10, 2020",
+          "actor": "House",
+          "description": "Public Hearing: 01/22/2020 10:00 am LOB 301"
+        },
+        {
+          "date": "Dec 02, 2019",
+          "actor": "House",
+          "description": "Introduced 01/08/2020 and referred to Municipal and County Government  HJ 1  P. 11"
+        }
+      ],
+      "docket_snapshot": "https://web.archive.org/web/20210304224736id_/https://openstates.org/nh/bills/2020/HB1160/"
     },
     {
       "session_year": 2020,
@@ -54,7 +110,10 @@
           "yeas": 187,
           "nays": 148
         }
-      ]
+      ],
+      "version_header": "FINAL VERSION",
+      "sponsors_line": "Rep. Conley, Straf. 13; Rep. Griffith, Hills. 18; Rep. Telerski, Hills. 35; Rep. Schultz, Merr. 18; Rep. Chase, Straf. 18; Rep. Vincent, Straf. 17; Rep. Wazir, Merr. 17; Rep. Kenney, Straf. 6",
+      "page_meaning": "latest bill version only (existence does not prove enactment)"
     },
     {
       "session_year": 2020,
@@ -71,7 +130,10 @@
           "yeas": 196,
           "nays": 96
         }
-      ]
+      ],
+      "version_header": "AS INTRODUCED",
+      "sponsors_line": "Rep. Read, Rock. 17; Rep. Schultz, Merr. 18; Rep. Buchanan, Merr. 15",
+      "page_meaning": "latest bill version only (existence does not prove enactment)"
     },
     {
       "session_year": 2020,
@@ -88,7 +150,10 @@
           "yeas": 24,
           "nays": 0
         }
-      ]
+      ],
+      "version_header": "FINAL VERSION",
+      "sponsors_line": "Rep. Roy, Rock. 32; Rep. Aron, Sull. 7",
+      "page_meaning": "chaptered law"
     },
     {
       "session_year": 2020,
@@ -105,7 +170,88 @@
           "yeas": 276,
           "nays": 60
         }
-      ]
+      ],
+      "version_header": "AS AMENDED BY THE HOUSE",
+      "sponsors_line": "Rep. Griffith, Hills. 18; Rep. Alexander Jr., Hills. 6; Rep. Loughman, Rock. 21; Rep. Lucas, Sull. 2; Rep. Butler, Carr. 7; Rep. Hennessey, Graf. 1",
+      "page_meaning": "latest bill version only (existence does not prove enactment)",
+      "docket_actions": [
+        {
+          "date": "Jun 16, 2020",
+          "actor": "Senate",
+          "description": "Introduced 06/16/2020, and Laid on Table, MA, VV; 06/16/2020;  SJ 8"
+        },
+        {
+          "date": "Mar 05, 2020",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2020-0552h: MA RC 276-60 03/05/2020  HJ 6  P. 28"
+        },
+        {
+          "date": "Mar 05, 2020",
+          "actor": "House",
+          "description": "Amendment # 2020-0552h: AA DV 276-63 03/05/2020  HJ 6  P. 28"
+        },
+        {
+          "date": "Feb 20, 2020",
+          "actor": "House",
+          "description": "Special Order to regular place in next calendar (Rep. Ley): MA VV 02/20/2020"
+        },
+        {
+          "date": "Feb 13, 2020",
+          "actor": "House",
+          "description": "Majority Committee Report: Ought to Pass with Amendment # 2020-0552h  for 02/19/2020 (Vote 16-2; RC)  HC 7  P. 35"
+        },
+        {
+          "date": "Feb 13, 2020",
+          "actor": "House",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "date": "Feb 05, 2020",
+          "actor": "House",
+          "description": "Executive Session: 02/12/2020 10:30 am LOB 301"
+        },
+        {
+          "date": "Feb 05, 2020",
+          "actor": "House",
+          "description": "Subcommittee Work Session: 02/12/2020 10:00 am LOB 301"
+        },
+        {
+          "date": "Jan 29, 2020",
+          "actor": "House",
+          "description": "Subcommittee Work Session: 02/04/2020 02:00 pm LOB 301"
+        },
+        {
+          "date": "Jan 29, 2020",
+          "actor": "House",
+          "description": "Subcommittee Work Session: 02/05/2020 02:00 pm LOB 301"
+        },
+        {
+          "date": "Jan 29, 2020",
+          "actor": "House",
+          "description": "Full Committee Work Session: 02/05/2020 01:00 pm LOB 301"
+        },
+        {
+          "date": "Jan 22, 2020",
+          "actor": "House",
+          "description": "Subcommittee Work Session: 01/29/2020 03:00 pm LOB 301"
+        },
+        {
+          "date": "Jan 21, 2020",
+          "actor": "House",
+          "description": "Subcommittee Work Session: 01/22/2020 03:00 pm LOB 301"
+        },
+        {
+          "date": "Jan 10, 2020",
+          "actor": "House",
+          "description": "Public Hearing: 01/21/2020 09:30 am LOB 301-303"
+        },
+        {
+          "date": "Dec 09, 2019",
+          "actor": "House",
+          "description": "Introduced 01/08/2020 and referred to Municipal and County Government  HJ 1  P. 29"
+        }
+      ],
+      "docket_snapshot": "https://web.archive.org/web/20210421174816id_/https://openstates.org/nh/bills/2020/HB1629/"
     },
     {
       "session_year": 2020,
@@ -122,7 +268,73 @@
           "yeas": 24,
           "nays": 0
         }
-      ]
+      ],
+      "version_header": "AS AMENDED BY THE SENATE",
+      "sponsors_line": "Sen. Morgan, Dist 23; Sen. Sherman, Dist 24; Sen. Bradley, Dist 3; Sen. Birdsell, Dist 19; Sen. D'Allesandro, Dist 20; Sen. Rosenwald, Dist 13; Sen. Fuller Clark, Dist 21; Sen. Cavanaugh, Dist 16; Sen. Carson, Dist 14; Sen. Chandley, Dist 11; Sen. Morse, Dist 22; Sen. Soucy, Dist 18; Rep. Woodcock, Carr. 2; Rep. Allard, Merr. 21",
+      "page_meaning": "latest bill version only (existence does not prove enactment)",
+      "docket_actions": [
+        {
+          "date": "Sep 23, 2020",
+          "actor": "House",
+          "description": "Died on Table"
+        },
+        {
+          "date": "Jun 30, 2020",
+          "actor": "House",
+          "description": "Introduced and Laid on Table MA VV 06/30/2020  HJ 10  P. 6"
+        },
+        {
+          "date": "Mar 12, 2020",
+          "actor": "Senate",
+          "description": "Special Order to the end of Energy and Natural Resources, Without Objection, MA; 03/12/2020;  SJ 7"
+        },
+        {
+          "date": "Mar 12, 2020",
+          "actor": "Senate",
+          "description": "Sen. Morgan Offered Floor Amendment # 2020-1172s; 03/12/2020;  SJ 7"
+        },
+        {
+          "date": "Mar 12, 2020",
+          "actor": "Senate",
+          "description": "Sen. Morgan Withdraws Floor Amendment # 2020-1172s; 03/12/2020;  SJ 7"
+        },
+        {
+          "date": "Mar 12, 2020",
+          "actor": "Senate",
+          "description": "Sen. Morgan Floor Amendment # 2020-1209s, AA, VV; 03/12/2020;  SJ 7"
+        },
+        {
+          "date": "Mar 12, 2020",
+          "actor": "Senate",
+          "description": "Ought to Pass with Amendment 2020-1209s, RC 24Y-0N, MA; OT3rdg; 03/12/2020;  SJ 7"
+        },
+        {
+          "date": "Mar 12, 2020",
+          "actor": "Senate",
+          "description": "Committee Amendment # 2020-1042s, AA, VV; 03/12/2020;  SJ 7"
+        },
+        {
+          "date": "Mar 11, 2020",
+          "actor": "Senate",
+          "description": "Special Order to 03/12/2020, Without Objection, MA; 03/11/2020  SJ 6"
+        },
+        {
+          "date": "Mar 04, 2020",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2020-1042s, 03/11/2020;  SC 10"
+        },
+        {
+          "date": "Feb 05, 2020",
+          "actor": "Senate",
+          "description": "Hearing: 02/18/2020, Room 103, LOB, 09:30 am;  SC 6"
+        },
+        {
+          "date": "Jan 16, 2020",
+          "actor": "Senate",
+          "description": "Introduced 01/08/2020 and Referred to Education and Workforce Development;  SJ 2"
+        }
+      ],
+      "docket_snapshot": "https://web.archive.org/web/20201126062813id_/https://openstates.org/nh/bills/2020/SB726/"
     },
     {
       "session_year": 2021,
@@ -146,7 +358,10 @@
           "yeas": 16,
           "nays": 7
         }
-      ]
+      ],
+      "version_header": "FINAL VERSION",
+      "sponsors_line": "Rep. Packard, Rock. 5; Rep. Major, Rock. 14; Rep. Almy, Graf. 13; Rep. Abrami, Rock. 19",
+      "page_meaning": "chaptered law"
     },
     {
       "session_year": 2021,
@@ -154,7 +369,7 @@
       "title": "(Second New Title) codifying the council on housing stability and relative to telehealth and medically assisted treatment for substance use disorder.",
       "url": "https://gc.nh.gov/legislation/2021/HB0503.html",
       "chaptered_page": true,
-      "chapter": "4",
+      "chapter": null,
       "roll_call_motions": [
         {
           "body": "H",
@@ -163,7 +378,90 @@
           "yeas": 142,
           "nays": 214
         }
-      ]
+      ],
+      "version_header": "AS AMENDED BY THE HOUSE",
+      "sponsors_line": "Rep. Long, Hills. 10; Rep. Wilhelm, Hills. 42",
+      "page_meaning": "latest bill version only (existence does not prove enactment)",
+      "docket_actions": [
+        {
+          "date": "2021-10-27",
+          "actor": "Senate",
+          "description": "Committee Report: Ought to Pass with Amendment # 2021-2219s"
+        },
+        {
+          "date": "2021-10-21",
+          "actor": "Senate",
+          "description": "Hearing: 10/26/2021, Room 100, State House, 11:00 am, on proposed amendment # 2021-2204s; Senate Calendar  42"
+        },
+        {
+          "date": "2021-05-20",
+          "actor": "Senate",
+          "description": "Rereferred to Committee, Motion Adopted, Voice Vote; 05/20/2021; Senate Journal 16"
+        },
+        {
+          "date": "2021-05-13",
+          "actor": "Senate",
+          "description": "Committee Report: Rereferred to Committee, 05/20/2021; Vote 5-0; Consent Calendar; Senate Calendar  24"
+        },
+        {
+          "date": "2021-04-21",
+          "actor": "Senate",
+          "description": "Remote Hearing: 04/28/2021, 09:45 am; Links to join the hearing can be found in the Senate Calendar; Senate Calendar  21"
+        },
+        {
+          "date": "2021-04-13",
+          "actor": "Senate",
+          "description": "Introduced 04/08/2021 and Referred to Health and Human Services; Senate Journal 12"
+        },
+        {
+          "date": "2021-04-08",
+          "actor": "House",
+          "description": "Reconsider (Rep. Verville): Motion Failed Regular Calendar 142-214 04/08/2021 House Journal  6 P. 89"
+        },
+        {
+          "date": "2021-04-08",
+          "actor": "House",
+          "description": "Ought to Pass with Amendment 2021-0678h: Motion Adopted DV 210-115 04/08/2021 House Journal  6 P. 89"
+        },
+        {
+          "date": "2021-04-08",
+          "actor": "House",
+          "description": "Lay on Table (Rep. Sylvia): Motion Failed DV 140-213 04/08/2021 House Journal  6 P. 89"
+        },
+        {
+          "date": "2021-04-08",
+          "actor": "House",
+          "description": "Amendment # 2021-0678h: Amendment Adopted Voice Vote 04/08/2021 House Journal  6 P. 87"
+        },
+        {
+          "date": "2021-03-11",
+          "actor": "House",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "date": "2021-03-11",
+          "actor": "House",
+          "description": "Majority Committee Report: Ought to Pass with Amendment # 2021-0678h (Vote 19-2; Regular Calendar) House Calendar 18 P. 49"
+        },
+        {
+          "date": "2021-03-02",
+          "actor": "House",
+          "description": "Public Hearing: 03/02/2021 11:15 am Members of the public may attend using the following links:1. To join the webinar: https://www.zoom.us/j/99282187833 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened."
+        },
+        {
+          "date": "2021-01-11",
+          "actor": "House",
+          "description": "Introduced (in recess of) 01/06/2021 and referred to Health, Human Services and Elderly Affairs House Journal  2 P. 51"
+        }
+      ],
+      "docket_snapshot": "https://web.archive.org/web/20211221023418id_/https://legiscan.com/NH/bill/HB503/2021",
+      "resolution": "Retained into the second year of the biennium; passed in 2022 and became Chapter 251 of the Laws of 2022 (effective 2022-06-24), codifying the state Council on Housing Stability (plus telehealth provisions). The 2021 House roll call in this set (Reconsider 142-214, failed) preceded retention.",
+      "final_disposition": "enacted (Laws of 2022, Chapter 251)",
+      "citations": [
+        "https://www.nhha.org/wp-content/uploads/2023/01/NHHA-Legislative-Newsletter-August-1-2022_update.pdf",
+        "https://www.nhmunicipal.org/sites/default/files/uploads/legislative-bulletins/2022_nhma_legis_bltn_final_0.pdf"
+      ],
+      "resolution_source": "web_research"
     },
     {
       "session_year": 2021,
@@ -180,7 +478,10 @@
           "yeas": 164,
           "nays": 175
         }
-      ]
+      ],
+      "version_header": "AS INTRODUCED",
+      "sponsors_line": "Rep. Alexander Jr., Hills. 6; Rep. Lascelles, Hills. 20; Rep. Burroughs, Carr. 1; Rep. Umberger, Carr. 2; Rep. Griffith, Hills. 18; Sen. Hennessey, Dist 1; Sen. Perkins Kwoka, Dist 21",
+      "page_meaning": "latest bill version only (existence does not prove enactment)"
     },
     {
       "session_year": 2021,
@@ -197,7 +498,10 @@
           "yeas": 23,
           "nays": 1
         }
-      ]
+      ],
+      "version_header": "FINAL VERSION",
+      "sponsors_line": "Rep. Hunt, Ches. 11",
+      "page_meaning": "chaptered law"
     },
     {
       "session_year": 2021,
@@ -221,7 +525,10 @@
           "yeas": 24,
           "nays": 0
         }
-      ]
+      ],
+      "version_header": "FINAL VERSION",
+      "sponsors_line": "Sen. Perkins Kwoka, Dist 21",
+      "page_meaning": "chaptered law"
     },
     {
       "session_year": 2021,
@@ -245,7 +552,17 @@
           "yeas": 24,
           "nays": 0
         }
-      ]
+      ],
+      "version_header": "AS AMENDED BY THE SENATE",
+      "sponsors_line": "Sen. Gray, Dist 6",
+      "page_meaning": "latest bill version only (existence does not prove enactment)",
+      "resolution": "Passed the Senate 24-0 (SQL roll call, 2021-03-04). The House voted it Inexpedient to Legislate on 2021-06-03 (no roll call recorded) - killed in the House. Its $10M Affordable Housing Fund appropriation moved through the 2021 budget instead.",
+      "final_disposition": "killed in House (2021-06-03, ITL)",
+      "citations": [
+        "https://www.nhbr.com/support-solidifies-for-added-boost-to-new-hampshires-affordable-housing-fund/",
+        "https://www.citizenscount.org/keys-new-hampshire-legislature-website"
+      ],
+      "resolution_source": "web_research"
     },
     {
       "session_year": 2021,
@@ -262,7 +579,10 @@
           "yeas": 14,
           "nays": 10
         }
-      ]
+      ],
+      "version_header": "AS INTRODUCED",
+      "sponsors_line": "Sen. Soucy, Dist 18; Sen. Watters, Dist 4; Sen. Perkins Kwoka, Dist 21; Sen. Cavanaugh, Dist 16; Rep. McWilliams, Merr. 27",
+      "page_meaning": "latest bill version only (existence does not prove enactment)"
     },
     {
       "session_year": 2021,
@@ -321,7 +641,10 @@
           "yeas": 169,
           "nays": 200
         }
-      ]
+      ],
+      "version_header": "FINAL VERSION",
+      "sponsors_line": "Sen. Kahn, Dist 10",
+      "page_meaning": "chaptered law"
     },
     {
       "session_year": 2022,
