@@ -13,10 +13,23 @@ the four issues are chosen.
 
 ## Where HB2 sections come from
 
-The full bill text is fetched from `gc.nh.gov` via
-`collectors/nh/gencourt_web.fetch_version_text()` (see
-`docs/nh-data-sources.md` §3). In that inline HTML each operative section is
-marked by an anchor:
+`collectors/nh/hb2_fetch.py` pulls the full bill from **government sources**,
+trying in order:
+
+| Cycle | Source (verified) |
+|-------|-------------------|
+| Current biennium (e.g. 2025) | SQL `legislationtext` (Chaptered Final) |
+| 2021 | `https://gc.nh.gov/legislation/2021/HB0002.html` (Laws of 2021, Chapter 91) |
+| 2023 | LBA chapter-law PDF `gc.nh.gov/LBA/Budget/.../HB 2 Chapter Law.pdf` (Laws of 2023, Chapter 79), with a DHHS mirror as fallback |
+
+`collectors/nh/hb2_sections.py` then splits the text. Introduced HTML uses
+`<a name="Chapt{N}">` anchors; chaptered final text (HTML or PDF) uses
+`{chapter}:{N}` labels (e.g. `79:26`, `91:9`).
+
+Legacy note — the live `billinfo` postback path
+(`collectors/nh/gencourt_web.fetch_version_text()`) still works for the
+*current* biennium. In that inline HTML each operative section is marked by an
+anchor:
 
 ```html
 <a name="Chapt9"></a><span>9&nbsp;New Paragraph; Water Management and

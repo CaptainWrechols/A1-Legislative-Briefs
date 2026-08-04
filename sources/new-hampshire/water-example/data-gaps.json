@@ -1,15 +1,5 @@
 {
   "collected_at": "2026-08-04T13:41:56.820255+00:00",
-  "gaps": [
-    {
-      "gap": "hb2_text_unavailable_older_cycle",
-      "year": 2021,
-      "detail": "HB2 full text not in SQL/live site for this cycle."
-    },
-    {
-      "gap": "hb2_text_unavailable_older_cycle",
-      "year": 2023,
-      "detail": "HB2 full text not in SQL/live site for this cycle."
-    }
-  ]
+  "gaps": [],
+  "note": "HB2 2021/2023/2025 texts fetched from government sources; gaps list refreshed."
 }

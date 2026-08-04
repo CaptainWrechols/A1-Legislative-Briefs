@@ -18,7 +18,9 @@ Nevada / NELIS collectors. Full details and coverage are in
 | `openstates_bulk.py` | **Recommended older-year backfill.** Reads OpenStates *bulk CSV* files you download once (free instant account) and drop in a folder — no API calls, no rate limits, no review queue. Votes still come from SQL. |
 | `legiscan.py` | Older-year backfill via LegiScan bulk datasets (one ZIP/session, no rate limits). Needs `LEGISCAN_API_KEY` — note key issuance involves a manual review that can take a while. |
 | `openstates_backfill.py` | Older-year backfill via the OpenStates *API* (per-bill, rate-limited). Votes still come from SQL. Needs `OPENSTATES_API_KEY` (issued instantly). |
+| `hb2_fetch.py` | Fetch HB2 full text for every budget cycle from government sources (SQL / static HTML / LBA chapter PDFs). |
 | `hb2_sections.py` | Split the HB2 omnibus budget trailer into numbered sections and select the issue-relevant ones. |
+| `verify_completeness.py` | **Strict completeness fact-checker.** Fails the run if sessions, votes, bill fields, or HB2 sections/votes are missing. |
 | `fortiweb.py` | Solve the `gc.nh.gov` FortiWeb anti-bot challenge (used by the web fallback). |
 | `gencourt_web.py` | Bill detail + full text via ASP.NET postback (current biennium; fallback/cross-check — SQL is primary). |
 | `spike.py` | Original source-proving smoke test (writes samples under `sources/new-hampshire/_spike/`). |
@@ -28,9 +30,9 @@ Nevada / NELIS collectors. Full details and coverage are in
 ```bash
 pip install -r requirements.txt            # brings in pymssql
 
-# Collect one issue end to end (all years):
+# Collect one issue end to end (all years), then hard-gate on completeness:
 ISSUE_CONFIG=config/issues/new-hampshire-<slug>.yaml python3 -m collectors.nh.collect
-ISSUE_CONFIG=config/issues/new-hampshire-<slug>.yaml python3 -m collectors.nh.collect --skip-ballots
+ISSUE_CONFIG=config/issues/new-hampshire-<slug>.yaml python3 -m collectors.nh.verify_completeness --strict
 
 # Lower-level checks:
 python3 -m collectors.nh.gencourt_sql   # legislation years + HB2 vote counts

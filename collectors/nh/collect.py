@@ -40,7 +40,13 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 import issue_paths as ip  # noqa: E402
 
 from . import gencourt_sql as db  # noqa: E402
-from . import hb2_sections, legiscan, openstates_backfill, openstates_bulk  # noqa: E402
+from . import (  # noqa: E402
+    hb2_fetch,
+    hb2_sections,
+    legiscan,
+    openstates_backfill,
+    openstates_bulk,
+)
 
 
 def now() -> str:
@@ -131,7 +137,20 @@ def discover(cfg: dict, sessions: list[dict], gaps: list[dict]) -> dict[tuple, d
             if legiscan.available():
                 _legiscan_discover(remaining, terms, rel, add, gaps)
             elif openstates_backfill.available():
-                _openstates_discover(remaining, terms, rel, add)
+                try:
+                    _openstates_discover(remaining, terms, rel, add)
+                except openstates_backfill.RateLimitExhausted as exc:
+                    gaps.append({
+                        "gap": "openstates_rate_limit_exhausted",
+                        "years": [s["year"] for s in remaining],
+                        "detail": (
+                            f"{exc} Voted bills for these years were still "
+                            "captured via SQL roll-call titles. For complete "
+                            "older-year data without limits, use the OpenStates "
+                            "bulk-CSV route (sources/new-hampshire/_bulk/"
+                            "openstates/<year>/)."
+                        ),
+                    })
             else:
                 gaps.append({
                     "gap": "older_session_discovery_incomplete",
@@ -251,38 +270,61 @@ def enrich(bills: dict[tuple, dict], sessions: list[dict], *, ballots: bool) -> 
 
 
 def collect_hb2(cfg: dict, sessions: list[dict], gaps: list[dict]) -> None:
+    """Fetch HB2 text for every budget cycle from government sources and split
+    into sections. Uses ``hb2_fetch`` (SQL / static HTML / LBA chapter PDFs).
+    """
     omni = cfg.get("omnibus_bills") or []
     hb2 = next((o for o in omni if str(o.get("bill_no")).upper() == "HB2"), None)
     if not hb2:
         return
     rel = [str(t).lower() for t in (cfg.get("relevance_terms") or cfg.get("search_terms") or [])]
-    sql_years = set(db.legislation_years())
     cycles = [y for y in (hb2.get("cycles") or []) if any(s["year"] == y for s in sessions)]
+    cache_dir = ip.RAW / "hb2"
     for year in cycles:
         out_dir = ip.WORKING / "hb2" / str(year)
-        meta = {"bill_no": "HB2", "session_year": year,
-                "source": "gc.nh.gov legislationtext (SQL)"}
-        if year in sql_years:
-            lid = db.legislation_id("HB2", year)
-            version = db.full_bill_version(lid, "Introduced") if lid else None
-            if version and version.get("html_text"):
-                secs = hb2_sections.extract_sections(version["html_text"])
-                hb2_sections.write_outputs(secs, out_dir, meta)
-                relevant = hb2_sections.match_sections(secs, rel)
-                save(out_dir / "hb2-relevant.json",
-                     {"session_year": year, "matched_terms_source": "relevance_terms",
-                      "relevant_section_count": len(relevant), "sections": relevant})
-                continue
-        # Older cycle: SQL has votes but not text.
         summaries = db.rollcall_summaries("HB2", year)
-        save(out_dir / "hb2-votes-only.json",
-             {"session_year": year, "note": (
-                 "HB2 full text for this cycle is not in GenCourt (current "
-                 "biennium only). Section extraction needs the OpenStates "
-                 "version link or an archived PDF. Votes below are authoritative."),
-              "roll_call_count": len(summaries), "roll_calls": summaries})
-        gaps.append({"gap": "hb2_text_unavailable_older_cycle", "year": year,
-                     "detail": "HB2 full text not in SQL/live site for this cycle."})
+        try:
+            fetched = hb2_fetch.fetch_hb2_text(year, cache_dir=cache_dir)
+        except RuntimeError as exc:
+            save(out_dir / "hb2-votes-only.json",
+                 {"session_year": year, "note": str(exc),
+                  "roll_call_count": len(summaries), "roll_calls": summaries})
+            gaps.append({"gap": "hb2_text_unavailable", "year": year,
+                         "detail": str(exc)})
+            continue
+        secs = hb2_sections.extract_sections(
+            fetched["text"], chapter=fetched.get("chapter")
+        )
+        if len(secs) < 10:
+            gaps.append({
+                "gap": "hb2_section_extract_too_few",
+                "year": year,
+                "detail": (
+                    f"Fetched HB2 {year} from {fetched['url']} but only "
+                    f"extracted {len(secs)} sections (expected dozens+)."
+                ),
+            })
+        meta = {
+            "bill_no": "HB2",
+            "session_year": year,
+            "source": fetched["source"],
+            "source_url": fetched["url"],
+            "url": fetched["url"],
+            "version_label": fetched.get("version_label"),
+            "chapter": fetched.get("chapter"),
+            "roll_call_count": len(summaries),
+        }
+        hb2_sections.write_outputs(secs, out_dir, meta)
+        # Always keep the authoritative vote dump next to the sections.
+        save(out_dir / "hb2-votes.json",
+             {"session_year": year, "roll_call_count": len(summaries),
+              "roll_calls": summaries})
+        relevant = hb2_sections.match_sections(secs, rel)
+        save(out_dir / "hb2-relevant.json",
+             {"session_year": year, "matched_terms_source": "relevance_terms",
+              "relevant_section_count": len(relevant), "sections": relevant})
+        print(f"  HB2 {year}: {len(secs)} sections from {fetched['source']} "
+              f"({len(relevant)} issue-matched); {len(summaries)} roll calls")
 
 
 def main() -> None:
@@ -324,6 +366,14 @@ def main() -> None:
     print(f"Enriched {len(core)} bills; {voted} have recorded votes; "
           f"{len(gaps)} data gaps.")
     print(f"Outputs under sources/{ip.STATE}/{ip.ISSUE_SLUG}/ and working/.")
+
+    # Completeness fact-check (non-strict here; the Actions workflow re-runs
+    # with --strict so a FAIL blocks the job).
+    from . import verify_completeness
+    report = verify_completeness.verify(cfg)
+    verify_completeness.write_report(report)
+    print(f"Completeness: {report['verdict']} "
+          f"(see {ip.SOURCES / 'verification' / 'completeness.md'})")
 
 
 if __name__ == "__main__":
