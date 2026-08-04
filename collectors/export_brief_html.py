@@ -265,8 +265,9 @@ def main() -> None:
     ]
     companion = layout == "glossary"
     foot = typographize(footline.rstrip("."))
+    organization = meta.get("organization", "The Nevada Forum")
     if month_year:
-        foot += f" &middot; The Nevada Forum &middot; {month_year}"
+        foot += f" &middot; {organization} &middot; {month_year}"
     foot_html = f"<p class=\"footline\" style=\"margin-top: 1pt;\">{foot}</p>"
     for i, sec in enumerate(sections):
         tail = foot_html if companion and i == len(sections) - 1 else ""
