@@ -32,6 +32,18 @@ class NoApiKey(RuntimeError):
     pass
 
 
+class RateLimitExhausted(RuntimeError):
+    """The free-tier daily/throughput cap is spent; stop calling OpenStates."""
+
+
+# Budgets so a throttled free-tier key can never hang the job for hours.
+# All overridable via env.
+MAX_REQUESTS = int(os.environ.get("OPENSTATES_MAX_REQUESTS", "450"))   # stay < 500/day
+MAX_RETRY_WAIT = int(os.environ.get("OPENSTATES_MAX_RETRY_WAIT", "20"))  # cap one sleep
+PAGE_SLEEP = float(os.environ.get("OPENSTATES_PAGE_SLEEP", "2"))
+_requests_made = 0
+
+
 def _key() -> str:
     key = os.environ.get("OPENSTATES_API_KEY")
     if not key:
@@ -42,23 +54,40 @@ def _key() -> str:
     return key
 
 
-def _get(url: str, params: list, headers: dict, *, max_tries: int = 8) -> dict:
-    """GET with generous backoff -- OpenStates rate-limits aggressively."""
+def _get(url: str, params: list, headers: dict, *, max_tries: int = 4) -> dict:
+    """GET with bounded backoff.
+
+    Bails out with ``RateLimitExhausted`` when the request budget is spent or a
+    429 persists past the (capped) retries, instead of looping for hours -- the
+    free tier's 500/day cap otherwise turns every later call into a long sleep.
+    """
+    global _requests_made
+    if _requests_made >= MAX_REQUESTS:
+        raise RateLimitExhausted(
+            f"hit local request budget ({MAX_REQUESTS}); stopping OpenStates."
+        )
     last = None
     for i in range(max_tries):
-        r = requests.get(url, params=params, headers=headers, timeout=90)
+        _requests_made += 1
+        r = requests.get(url, params=params, headers=headers, timeout=60)
         if r.status_code == 429:
-            wait = int(r.headers.get("Retry-After") or min(120, 10 * (2 ** i)))
-            print(f"  OpenStates 429; sleeping {wait}s")
+            wait = min(MAX_RETRY_WAIT, int(r.headers.get("Retry-After") or 10 * (2 ** i)))
+            print(f"  OpenStates 429 (try {i + 1}/{max_tries}); sleeping {wait}s")
             time.sleep(wait)
             last = r
             continue
         if r.status_code in {500, 502, 503, 504}:
-            time.sleep(min(120, 10 * (2 ** i)))
+            time.sleep(min(MAX_RETRY_WAIT, 5 * (2 ** i)))
             last = r
             continue
         r.raise_for_status()
         return r.json()
+    # Exhausted retries -- treat a persistent 429 as the daily cap being spent.
+    if last is not None and getattr(last, "status_code", None) == 429:
+        raise RateLimitExhausted(
+            "OpenStates kept returning 429 -- the free-tier daily cap looks "
+            "spent. Use the bulk-CSV route, or a higher tier / different day."
+        )
     raise RuntimeError(f"OpenStates gave up after {max_tries} tries ({last})")
 
 
@@ -109,8 +138,8 @@ def search_session(term: str, session_identifier: str) -> list[dict]:
         if page >= pagination.get("max_page", page) or not data.get("results"):
             break
         page += 1
-        time.sleep(6)
-    time.sleep(6)
+        time.sleep(PAGE_SLEEP)
+    time.sleep(PAGE_SLEEP)
     return out
 
 

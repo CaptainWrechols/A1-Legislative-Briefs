@@ -131,7 +131,20 @@ def discover(cfg: dict, sessions: list[dict], gaps: list[dict]) -> dict[tuple, d
             if legiscan.available():
                 _legiscan_discover(remaining, terms, rel, add, gaps)
             elif openstates_backfill.available():
-                _openstates_discover(remaining, terms, rel, add)
+                try:
+                    _openstates_discover(remaining, terms, rel, add)
+                except openstates_backfill.RateLimitExhausted as exc:
+                    gaps.append({
+                        "gap": "openstates_rate_limit_exhausted",
+                        "years": [s["year"] for s in remaining],
+                        "detail": (
+                            f"{exc} Voted bills for these years were still "
+                            "captured via SQL roll-call titles. For complete "
+                            "older-year data without limits, use the OpenStates "
+                            "bulk-CSV route (sources/new-hampshire/_bulk/openstates/"
+                            "<year>/)."
+                        ),
+                    })
             else:
                 gaps.append({
                     "gap": "older_session_discovery_incomplete",

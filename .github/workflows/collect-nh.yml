@@ -21,10 +21,15 @@ on:
         description: "Commit collected data back to this branch"
         required: false
         default: "true"
+      use_openstates_api:
+        description: "Use the OpenStates API for older years (false = keyless: SQL + any bulk CSVs only)"
+        required: false
+        default: "true"
 
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     permissions:
       contents: write
     steps:
@@ -42,7 +47,9 @@ jobs:
           ISSUE_CONFIG: ${{ inputs.issue_config }}
           # Instant/free OpenStates key (GitHub Actions secret). Optional keys
           # for the other backfills are used automatically if you add them.
-          OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
+          # Passing the key only when use_openstates_api=true lets you force the
+          # keyless path (SQL + local bulk CSVs) when the free tier is throttled.
+          OPENSTATES_API_KEY: ${{ inputs.use_openstates_api == 'true' && secrets.OPENSTATES_API_KEY || '' }}
           LEGISCAN_API_KEY: ${{ secrets.LEGISCAN_API_KEY }}
         run: |
           ARGS=""
