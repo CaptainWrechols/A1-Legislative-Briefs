@@ -116,6 +116,12 @@ def main() -> None:
                 for s in p1["sponsors"]]
         elif d.get("sponsors_line"):
             rec["sponsors"] = parse_sponsor_line(d["sponsors_line"])
+        elif p1.get("os_sponsors"):
+            rec["sponsors"] = [
+                {"name": s.get("name"), "party": None, "body": None,
+                 "prime": str(s.get("primary")).lower() in ("true", "primary", "1"),
+                 "source": "openstates_bulk"}
+                for s in p1["os_sponsors"]]
         # roll calls with party splits
         v = votes.get(key, {})
         rcs = []
@@ -150,12 +156,12 @@ def main() -> None:
         "by_session": dict(sorted(Counter(b["session_year"] for b in policy).items())),
         "by_disposition": dict(Counter(b["disposition"] for b in policy).most_common()),
         "keyword_discovered_note": (
-            "Set discovered by keyword search plus a documented supplement, not "
-            "a proven complete universe. 2020-2024 coverage combines floor-roll-"
-            "call matches with bills identified in year-end official/civic "
-            "indexes (NHMA Final Legislative Bulletins, NH OPD legislation "
-            "summaries, NH Housing's session summary, NH Bulletin roundups); "
-            "see data_limits."),
+            "2020-2024 discovery is certified against the complete OpenStates "
+            "bulk universe (5,467 bills across the five sessions): keyword "
+            "search over every title, plus index-based and certification-sweep "
+            "supplements, with every excluded wide-net candidate reviewed and "
+            "categorized (see working/.../certification-report.json). "
+            "2025-2026 comes complete from the official state database."),
     }
 
     # --- theme buckets ---
@@ -250,19 +256,21 @@ def main() -> None:
 
     # --- data limits ---
     data_limits = [
-        "2020-2024 discovery is two-layered: (1) bills that received a floor "
-        "roll call (GenCourt keeps only the current biennium's bill list, and no "
-        "API key or bulk file was available for the OpenStates/LegiScan backfill "
-        "in this run); plus (2) a documented supplement of 23 bills identified "
-        "in year-end official/civic indexes (NHMA Final Legislative Bulletins "
-        "2021-2024, NH OPD legislation summaries, NH Housing's 2024 session "
-        "summary, NH Bulletin roundups) and resolved against archived official "
-        "dockets. Major enacted laws and prominent failures are covered; "
-        "low-profile 2020-2024 bills that died quietly by voice vote may still "
-        "be missing, so cross-year failure-rate comparisons remain unsafe. "
-        "2025-2026 coverage is complete from the official database.",
-        "Sponsor names are complete for 2025-2026 (SQL) and for 2020-2021 "
-        "(official final-text pages); they are absent for most 2022-2024 bills.",
+        "Bill discovery is certified complete for the issue vocabulary: "
+        "2020-2024 was collected from the OpenStates bulk CSVs, a full mirror "
+        "of the official docket (5,467 bills), and every bill in those five "
+        "sessions was additionally swept with a wide-net housing vocabulary; "
+        "all matches were either included or individually reviewed and "
+        "categorized as out of scope (certification-report.json). 2025-2026 "
+        "comes complete from the official state database. A housing bill could "
+        "be absent only if its title avoids the entire wide-net vocabulary.",
+        "Bills that span a biennium (e.g. filed 2023, decided 2024) appear "
+        "once per year in the annual files; first-year records are marked "
+        "carryover duplicates and counted once.",
+        "Sponsor names now exist for most bills (SQL for 2025-2026, official "
+        "final texts for 2020-2021, bulk files for 2022-2024); party labels "
+        "are only on the SQL and final-text layers, so cross-party counts "
+        "understate the true number.",
         "NH kills most bills by voice vote or on the consent calendar; a bill with "
         "no roll call is not necessarily uncontroversial.",
         "Committee votes appear only where a committee report recorded them "

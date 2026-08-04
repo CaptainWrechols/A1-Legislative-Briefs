@@ -3,15 +3,15 @@
 Internal analysis for the citizen brief. All claims fact-checked against
 evidence-pack.json by fact-check-reality-map.py.
 
-**Coverage caveat.** 2020-2024 coverage combines floor-roll-call discovery with a documented supplement of 23 bills identified in year-end official/civic indexes (NHMA Final Legislative Bulletins, NH OPD legislation summaries, NH Housing's 2024 session summary, NH Bulletin roundups), each resolved against archived official dockets. Major enacted laws and prominent failures are covered; low-profile 2020-2024 bills that died quietly by voice vote may still be missing, so cross-year failure-rate comparisons remain unsafe. 2025-2026 coverage is complete from the official database.
+**Coverage caveat.** Discovery is certified against the complete OpenStates bulk universe for 2020-2024 (5,467 bills; every title swept with a wide-net housing vocabulary and every candidate human-reviewed - see certification-report.json) and against the official state database for 2025-2026. Biennium-spanning bills are counted once, in their decision year. Party labels exist for 2020-2021 and 2025-2026 sponsors and for all roll-call ballots; 2022-2024 sponsor party labels are absent, so cross-party counts understate.
 
 ## Session snapshot (policy set)
 
-- **2020** — 8 bills in set (enacted: 1; vetoed: 1; killed: 6)
-- **2021** — 12 bills in set (enacted: 9; killed: 3)
-- **2022** — 8 bills in set (enacted: 4; killed: 4)
-- **2023** — 13 bills in set (enacted: 3; content enacted via hb2: 2; killed: 8)
-- **2024** — 16 bills in set (enacted: 7; vetoed: 1; interim study: 1; killed: 7)
+- **2020** — 39 bills in set (enacted: 1; vetoed: 1; interim study: 5; killed: 32)
+- **2021** — 22 bills in set (enacted: 9; killed: 13)
+- **2022** — 42 bills in set (enacted: 6; interim study: 6; killed: 30)
+- **2023** — 30 bills in set (enacted: 5; content enacted via hb2: 2; passed: 1; killed: 22)
+- **2024** — 55 bills in set (enacted: 14; vetoed: 1; interim study: 11; killed: 29)
 - **2025** — 29 bills in set (enacted: 13; killed: 16)
 - **2026** — 72 bills in set (enacted: 9; interim study: 11; vetoed: 1; killed: 51)
 
@@ -19,69 +19,69 @@ evidence-pack.json by fact-check-reality-map.py.
 
 | Theme | Bills | Became law | Basket | Certainty |
 |---|---|---|---|---|
-| Building more homes: zoning and land use | 35 | 16 | Often moved before | high |
-| Accessory dwelling units (ADUs) | 11 | 2 | Got support but didn't finish | high |
-| State housing money and programs | 39 | 11 | Mixed | high |
-| Renting: costs, fees, and rules | 17 | 2 | Rarely moved before | high |
-| Eviction and tenant protections | 12 | 2 | Rarely moved before | high |
-| Homelessness and housing stability | 13 | 6 | Mixed | medium |
-| Manufactured, tiny, and factory-built homes | 10 | 3 | Mixed | medium |
-| Land use boards, appeals, and the courts | 14 | 3 | Mixed | medium |
-| Housing studies, plans, and data | 7 | 3 | Often moved before | low |
+| Building more homes: zoning and land use | 56 | 18 | Often moved before | high |
+| Accessory dwelling units (ADUs) | 14 | 2 | Got support but didn't finish | high |
+| State housing money and programs | 56 | 12 | Mixed | high |
+| Renting: costs, fees, and rules | 42 | 4 | Rarely moved before | high |
+| Eviction and tenant protections | 29 | 4 | Rarely moved before | high |
+| Homelessness and housing stability | 20 | 6 | Mixed | medium |
+| Manufactured, tiny, and factory-built homes | 18 | 5 | Mixed | medium |
+| Land use boards, appeals, and the courts | 41 | 4 | Mixed | medium |
+| Housing studies, plans, and data | 13 | 4 | Often moved before | low |
 
 ### Building more homes: zoning and land use — *Often moved before*
 
-Supply-side zoning began passing in 2024, not 2025: HB1400 (2024) packaged office-to-housing tax incentives, parking-mandate limits, and faster local zoning amendments (conference report 205-149); HB631 (2025) and HB1010/HB1588 (2026) opened commercial land to homes; HB457 (2025) limited local dwelling-unit restrictions; the 2021 planning omnibus SB86 and the 2022 land-use omnibus HB1661 came earlier. Statewide density mandates still fail: 4-units-by-right (HB44 2023) was crushed 117-232, the duplex-enabling HB1399 (2024) passed the House 220-140 and went to Senate interim study, and the 2026 repeal attempts against the new laws all died.
+Supply-side zoning began passing in 2024 (HB1400's conversions/parking/fast-track package, 205-149 on the conference report) and accelerated in 2025-2026 (HB631, HB457, HB1010, HB1588). The certified record shows the long run-up: parking caps (HB1098 2022), single-family lot bills (HB132 2021/2022, HB1087 2022), workforce-housing zoning powers (HB1238 2022), and homes-in-commercial-zones (HB1053 2024) all died first. Statewide density mandates keep failing: HB341 (2021) and HB1177 (2022) died in committee/on the table, HB44 (2023) was crushed 117-232, and HB1399 (2024) passed the House 220-140 only to sit in Senate interim study. Development-approval vesting reform (HB1215 2024) died when its conference report was rejected 102-261.
 
-Examples: 2024:HB1400, 2025:HB631, 2026:HB1588, 2023:HB44, 2024:HB1399, 2026:SB90
+Examples: 2024:HB1400, 2025:HB631, 2022:HB1098, 2023:HB44, 2024:HB1399, 2024:HB1215
 
 ### Accessory dwelling units (ADUs) — *Got support but didn't finish*
 
-The sweeping version (two ADUs per lot by right, HB1291 2024) passed the House 220-143 and was killed in the Senate. Narrower wins followed: HB577 (2025) broadened the ADU definition including detached ADUs, and HB1079 (2026) allowed ADUs in non-conforming structures. ADU finance bills (HB604, HB1662) died.
+A steady escalation: an ADU property-tax exemption (HB1510 2020) and an ADU rules bill (HB189 2021) died; ADUs-by-right died on the table in 2023 (HB423); the two-ADU mandate passed the House 220-143 in 2024 (HB1291) and died in the Senate. What finally passed is narrower: HB577 (2025) broadened the definition to detached units and HB1079 (2026) opened non-conforming structures. Financing bills (HB604, HB1662) have not passed.
 
-Examples: 2024:HB1291, 2025:HB577, 2026:HB1079, 2026:HB604
+Examples: 2020:HB1510, 2023:HB423, 2024:HB1291, 2025:HB577, 2026:HB1079
 
 ### State housing money and programs — *Mixed*
 
-Standalone money bills usually die - often after unanimous Senate votes - while the same dollars move through HB2, the budget trailer: Affordable Housing Fund ($25M in 2021 and 2023), InvestNH ($10M), Housing Champion ($5M), Partners in Housing. SB454 (2024), doubling the transfer-tax stream to the fund, passed the Senate unanimously and was tabled by the House 180-176 (division vote); SB152 (2021) and SB231 (2023) saw their dollars ride HB2 instead. New taxes for housing (HB1786, HB1707) never reached a floor win.
+The pattern holds across seven years: standalone money bills die while the dollars ride HB2. Failed standalone: AHF appropriations (SB15 2020; SB152 2021, Senate 24-0), the workforce-housing density tax credit (SB475 2020), affordable-housing incentives (HB1632 2020, HB586 2021, SB400 2022), CDFA housing bills (HB1617 2022), the homeownership innovations fund (SB202 2023), transfer-tax increases (SB454 2024, tabled 180-176 by division; HB530/SB81 2025), rental-housing loan programs (SB384 2024), the historic housing credit (SB364 2024, interim study), and inclusionary-zoning/opportunity-zone expansion (SB224 2023-24, interim study). Enacted via HB2: $25M AHF (2021 and 2023), $10M InvestNH, Housing Champion, Partners in Housing.
 
-Examples: 2021:SB152, 2024:SB454, 2023:SB231, 2023:SB145, 2026:HB1786
+Examples: 2020:SB15, 2021:SB152, 2024:SB454, 2023:SB231, 2024:SB224, 2026:HB1042
 
 ### Renting: costs, fees, and rules — *Rarely moved before*
 
-Application-fee limits, rent registries, algorithm bans, pet-fee rules, mold remediation, and municipal rental regulation all died, most in the House. What passed is narrow: optional electronic rent payment (HB309 2025) and an EV-charging study for renters (HB111 2023).
+Forty-two bills, four laws - and the enacted ones are notice-and-disclosure, not price rules. Became law: application-fee disclosure with refunds of excess over documented costs (HB283 2024), shared-living rentals legalized (HB360 2021), optional electronic rent payment (HB309 2025), and the renters' EV-charging study (HB111 2023). Died, usually in the House: rent-increase notice three times (HB160 2021, HB1200 2022, HB567 2023), the rent registry twice (HB422 2023, HB558 2025), application-fee limits repeatedly (HB1408 2022, HB283's 2023 first-year version, HB1371/HB1375 2026), rent stabilization enabling (HB1362 2024), municipal rental regulation (HB95 2023, 301-63), and the price-fixing-software bans (HB1612 2026).
 
-Examples: 2023:HB95, 2025:HB558, 2026:HB1371, 2026:HB1612, 2025:HB309
+Examples: 2024:HB283, 2024:HB1362, 2023:HB422, 2022:HB1408, 2025:HB309
 
 ### Eviction and tenant protections — *Rarely moved before*
 
-Voucher-discrimination bans died three times (2022, 2023, 2025). Notice-before-sale died three times (2023, 2025, and the 2022 voucher companion). What passed is procedural: the landlord-tenant court omnibus (SB126 2021) and eviction notice/process updates (HB1598 2026). The 2020 COVID eviction pause was vetoed; the override failed.
+Two kinds of law passed: procedure (SB126 2021 landlord-tenant courts; HB1598 2026 eviction notices) and one substantive protection - HB261 (2024) lets tenants end a lease in domestic violence situations. The landlord-side push also repeats: ending tenancies at lease expiration was filed four times (HB227 2021-22, HB117 2023, HB1115 2024 interim study) and eviction-grounds expansion passed the House in 2026 (HB1499) before dying in conference. Tenant-side bills keep dying: voucher discrimination three times, renovation-eviction limits twice (HB401 2023, SB519 2024), eviction legal-counsel notice twice (HB379 2023-24), Section 8 tenant protections (HB1672 2024), and the COVID-era protections (HB1247 2020 vetoed; HB550 2021 died).
 
-Examples: 2022:HB1291, 2023:HB469, 2025:HB628, 2021:SB126, 2026:HB1598, 2020:HB1247
+Examples: 2024:HB261, 2021:SB126, 2022:HB227, 2024:SB519, 2020:HB1247
 
 ### Homelessness and housing stability — *Mixed*
 
-Shelter funding passed standalone exactly once: SB406 (2024) put $2.5M into shelter program rates. The other attempts died - SB415 (2022) tabled 13-11, SB113/SB114 (2025) at the Senate's own deadline, HB519 in the House - while the bigger dollars moved through HB2 ($10M in 2023; $5M/year opioid-fund shelter money in 2025). The Council on Housing Stability was codified (HB503, enacted 2022) and updated (SB179 2025); study committees and recovery-house rules (HB286/HB377 2021, SB223 2022) also passed.
+Shelter funding passed standalone once (SB406 2024, $2.5M for shelter rates); the larger sums ride HB2 ($10M in 2023, $5M/yr opioid-fund money in 2025). Died: SB415 (2022, tabled 13-11), SB410 (2024) and its 2025 retries SB113/SB114 at Senate deadlines, emergency housing assistance (HB512 2021), and municipal indemnification for homelessness policies (HB1544 2024, HB490 2025). The Council on Housing Stability was codified (HB503, 2022) and updated (SB179 2025); recovery-house rules passed in 2021-2022 (HB377, SB223).
 
-Examples: 2024:SB406, 2022:SB415, 2025:SB113, 2021:HB503, 2025:SB179
+Examples: 2024:SB406, 2024:SB410, 2022:SB415, 2021:HB503, 2021:HB512
 
 ### Manufactured, tiny, and factory-built homes — *Mixed*
 
-Two supply-side wins are law: HB1361 (2024) requires municipalities to provide realistic opportunities for manufactured housing, and HB1681 (2026) legalized tiny houses and yurts. Resident protections advanced narrowly (SB166 2025 sale notice). The structural losses stand: HB2 2023 (79:301) repealed the Board of Manufactured Housing while SB203 died between the chambers; SB318 (2024) was vetoed; by-right manufactured housing in all residential zones (HB685 2025) died in conference.
+More law here than anywhere on the resident-protection side: park-sale regulation (SB210 2022), sale notice in resident-owned communities (SB166 2025), realistic-opportunity siting requirements (HB1361 2024), rulemaking authority (SB306 2024), and - after tiny-house building-code bills died in 2020, 2021, and 2022 (SB482, HB588, HB1068) - tiny houses and yurts legalized in 2026 (HB1681). Still failing: park lot-rent fee bills (SB33 2023-24), park-sales penalties (SB101 2023-24), by-right manufactured housing (HB685 2025), and the Board of Manufactured Housing fight (SB203 2023 died; HB2 2023 repealed the board; SB318 2024 vetoed).
 
-Examples: 2024:HB1361, 2026:HB1681, 2025:SB166, 2023:SB203, 2025:HB685
+Examples: 2022:SB210, 2024:HB1361, 2026:HB1681, 2020:SB482, 2023:SB203
 
 ### Land use boards, appeals, and the courts — *Mixed*
 
-Conflict-of-interest recusal (HB92 2025), abutter-appeal rules (HB1359 2024), and a planning-board deadline extension (HB332 2021) became law; board training died repeatedly (2020 HB1629, 2021 HB586, 2022 SB400, 2026 HB1802). The Housing Appeals Board survived two 2020 repeal/replace attempts (SB721, SB735, both killed in the Senate) and was then restructured through HB2 2025, not a standalone bill.
+The Housing Appeals Board has been under siege since it opened: repeal-or-replace bills in 2020 (SB721, SB735, SB487), 2021 (HB288), and 2022 (HB1216, HB1254, HB1307) all died; a 2024 bill to merge it into the Board of Tax and Land Appeals (HB1651) died too - and then HB2 2025 restructured it anyway. Enacted: recusal rules (HB92 2025), abutter definitions (HB1359 2024), BTLA/HAB appointment changes (HB1456 2024), and the planning-board deadline extension (HB332 2021). The land-use court docket took three standalone tries (HB1389 2022, HB347 2023-24) and finally passed inside HB2 2023 (79:371). Board training died five times (2020, 2021, 2022, 2023, 2026).
 
-Examples: 2025:HB92, 2024:HB1359, 2020:SB735, 2020:HB1629, 2026:HB1802
+Examples: 2020:SB735, 2024:HB1651, 2024:HB1456, 2022:HB1389, 2023:HB636
 
 ### Housing studies, plans, and data — *Often moved before*
 
-Study vehicles pass more easily (zoning enabling act commission HB399 2025, housing investment trust study HB633 2025), and the Senate routed several 2026 housing bills to interim study. A 10-year strategic housing plan (HB1814) stayed on the House table.
+Study vehicles fare best: the zoning enabling act commission (HB399 2025), housing investment trust study (HB633 2025), disability-housing study (HB1168 2024), and landlord-tenant mediation study (HB235 2023) all passed, and the Senate adopted SR10 (2023) urging federal housing money. The barriers-to-development commissions (SB329 2022, SB47 2023) died between the chambers; the 10-year strategic housing plan (HB1814 2026) stayed on the table.
 
-Examples: 2025:HB399, 2025:HB633, 2026:HB1814
+Examples: 2025:HB399, 2024:HB1168, 2023:HB235, 2022:SB329, 2026:HB1814
 
 ## Topic reality cards
 
@@ -96,16 +96,16 @@ The turn started in 2024: HB1400, the housing omnibus, created tax incentives fo
 
 ### Expanding accessory dwelling units (ADUs)
 
-The big statewide mandate - two ADUs per lot by right (HB1291, 2024) - passed the House 220-143 (150 of 181 Democrats and 67 Republicans voting yes) and was killed in the Senate, which indefinitely postponed it after a rescue amendment failed 8-16. The next two years produced narrower wins: HB577 (2025) broadened the ADU definition including detached units and became law (Chapter 197); HB1079 (2026) let ADUs go into non-conforming structures (Chapter 210). A 2026 attempt to repeal the ADU statutes outright (HB1012) died, ADU loan guarantees (HB1662) and ADU parking relief (HB1006) also died, while ADU loan forgiveness (HB604) went to interim study.
+A steady escalation across the record: an ADU property-tax exemption (HB1510) died in 2020; an ADU rules bill (HB189) died in 2021; ADUs-by-right died on the table in 2023 (HB423); the two-ADU mandate (HB1291 2024) passed the House 220-143 - 150 Democrats and 67 Republicans in favor - and the Senate indefinitely postponed it after a rescue amendment failed 8-16. The narrower laws followed: HB577 (2025) broadened the ADU definition to include detached units (Chapter 197) and HB1079 (2026) opened non-conforming structures (Chapter 210). A 2026 repeal of the ADU statutes (HB1012) died. Financing has not passed: loan guarantees (HB1662 2026) died and loan forgiveness (HB604 2026) sits in interim study.
 
 - **Where similar ideas stopped:** The Senate floor for broad mandates; House committees for finance add-ons.
 - **Who carried them:** Cross-party House majorities; Senate Democrats offered the failed 2024 rescue amendment.
 - **Venue:** State legislature sets the statewide ADU floor (RSA 674); towns regulate above it.
 - **What a group would still need to learn:** Whether ADU production data (HB1625's failed reporting idea) emerges another way / Whether a Senate-palatable version of the two-ADU mandate exists
 
-### Streamlining local zoning procedures for housing
+### Streamlining zoning and mandating density
 
-Procedure streamlining splits by scope. The modest tool passed inside HB1400 (2024): towns may authorize their governing body to adopt zoning amendments faster. The broad rewrites keep failing: SB538 (2024) passed the Senate and was killed on the House floor 188-173; SB84 (2025) passed the Senate 13-10, was carried across the biennium, and ended in interim study; the House vehicles (HB1008, HB1713, 2026) died at home. Statewide unit mandates fare worst of all: HB44 (2023), allowing four homes by right on water-and-sewer lots, failed 117-232; HB1399 (2024), merely letting towns permit second units, passed the House 220-140 and was parked in Senate interim study.
+Two distinct threads. Process streamlining: the modest version passed inside HB1400 (2024, faster local zoning amendments); the broad rewrites keep failing - SB538 (2024) killed on the House floor 188-173, SB84 (2025-26) to interim study after passing the Senate 13-10, HB1008/HB1713 (2026) dead in the House; vesting reform (HB1215 2024) died when the House rejected its conference report 102-261. Density mandates: four consecutive escalations failed - HB341 (2021, in committee), HB1177 (2022, on the table), HB44 (2023, crushed 117-232 with Republicans opposed roughly eight to one and Democrats split), and HB1399 (2024, the gentlest version - merely letting towns permit second units - passed the House 220-140 and sits in Senate interim study). What has passed is targeted: HB457 (2025) limiting specific local dwelling-unit restrictions.
 
 - **Where similar ideas stopped:** The House floor and House Housing committee.
 - **Who carried them:** Senate Republicans (Sen. Keith Murphy prime-sponsored SB84) with split House votes.
@@ -114,7 +114,7 @@ Procedure streamlining splits by scope. The modest tool passed inside HB1400 (20
 
 ### Putting state money into the Affordable Housing Fund
 
-The dollars are real but they rarely arrive by standalone bill. SB152 (2021) passed the Senate 24-0 and the House killed it - while the 2021 budget trailer (91:376) carried $25 million for the fund. HB2 2023 (79:43) carried another $25 million, plus $10 million for InvestNH (79:41) - the appropriations SB231 (2023) had proposed. SB454 (2024), doubling the transfer-tax stream from $5M to $10M a year, passed the Senate unanimously and was tabled by the House 180-176 on a division vote. The 2025 retries (HB530, SB81) died at the Senate deadline; SB419 (2026) went to interim study 16-8; new dedicated taxes (HB1786 luxury second homes, HB1707 vacancy tax) died on or before the House floor.
+The dollars are real but they rarely arrive by standalone bill - a pattern now visible from 2020 forward. Failed standalone: SB15 (2020, AHF appropriation), SB152 (2021, Senate 24-0, House kill), SB454 (2024, doubling the transfer-tax stream, Senate unanimous, tabled by the House 180-176 on a division vote), HB530/SB81 (2025, Senate-deadline deaths), SB419 (2026, interim study 16-8). SB231's 2023 appropriations rode HB2 instead (79:39-43: $25M AHF + $10M InvestNH). Alternative funding designs also failed: the workforce-housing density credit (SB475 2020), the homeownership innovations fund (SB202 2023), municipal rental-housing loans (SB384 2024, interim study), the historic housing credit (SB364 2024, interim study), and new dedicated taxes (HB1786, HB1707, 2026).
 
 - **Where similar ideas stopped:** Standalone: the second chamber or the Senate deadline. Via HB2: none - it has passed every cycle.
 - **Who carried them:** Senate sponsors of both parties (SB152 was Sen. Gray, R); budget writers deliver the money.
@@ -132,7 +132,7 @@ The incentive-program family is the record's steadiest thread - and it lives in 
 
 ### Banning discrimination against tenants with housing vouchers
 
-Filed three times, dead three times, each earlier than the last: 2022's HB1291 was tabled on the House floor 179-148 after an 11-10 committee split; 2023's HB469 was killed by voice vote after the tabling pattern; 2025's HB628 died in the House. No version has ever passed either chamber.
+Filed three times as a ban, dead three times, each earlier than the last: 2022's HB1291 was tabled on the House floor 179-148 after an 11-10 committee split; 2023's HB469 was killed by voice vote; 2025's HB628 died in the House. The carrot version appeared in 2024 - SB518, incentives for landlords to accept vouchers - and went to interim study. No version has passed either chamber.
 
 - **Where similar ideas stopped:** The House floor.
 - **Who carried them:** House Democrats.
@@ -141,7 +141,7 @@ Filed three times, dead three times, each earlier than the last: 2022's HB1291 w
 
 ### Regulating rents, fees, and rental practices
 
-Nothing that touches the price of renting has passed. Municipal rental regulation authority (HB95 2023) was crushed 301-63. Rent-increase notice (HB567 2023) lost on the House floor. The rent registry + algorithm ban (HB558 2025), the application-fee ban (HB1371 2026), the one-fee-per-year cap (HB1375 2026), the price-fixing-software ban (HB1612 2026), pet-fee rules (HB1553 2026), and rental mold remediation (HB1143 2026) all died in the House. The exceptions run the other way or are narrow: HB309 (2025) made electronic rent payment optional, and HB1336 (2026) - loosening the security-deposit cap - passed both chambers and was vetoed.
+Price rules die; notice-and-disclosure rules can pass. What became law: HB283 (2024) makes landlords disclose application fees in writing and refund anything beyond documented costs to applicants who don't get the unit; HB360 (2021) legalized renting shared living quarters; HB309 (2025) made electronic rent payment optional. What keeps dying, almost always in the House: rent-increase notice (HB160 2021, HB1200 2022, HB567 2023), the public rent registry (HB422 2023, HB558 2025), application-fee limits and refunds before 2024 (HB1408 2022) and caps after (HB1371, HB1375, 2026), rent-stabilization enabling (HB1362 2024), municipal rental regulation (HB95 2023, crushed 301-63), and algorithmic price-fixing bans (HB558 2025, HB1612 2026). The one deposit bill to clear both chambers ran the other way - HB1336 (2026), loosening the deposit cap, was vetoed with the override pending this fall.
 
 - **Where similar ideas stopped:** The House, usually its Housing or Judiciary committees and the floor.
 - **Who carried them:** House Democrats on tenant-cost bills; Republicans on the deposit-cap exception.
@@ -150,7 +150,7 @@ Nothing that touches the price of renting has passed. Municipal rental regulatio
 
 ### Eviction rules and tenant stability
 
-Procedural updates pass; substantive protections do not. SB126 (2021), an omnibus rewrite of landlord-tenant proceedings, passed the Senate 24-0 and became law (Chapter 152); HB1598 (2026) updated eviction notice and court process (Chapter 308). But 60-day notice for at-will evictions (HB351 2025), renovation-eviction limits (HB401 2023, lost 154-213), notice before a building is sold (HB112 2023, HB444 2025), and Social Security disruption safeguards (HB1171 2026, killed 186-155) all died in the House. The landlord-side expansion of eviction grounds (HB1499 2026) passed the House 193-154 and died in conference. The 2020 COVID eviction/foreclosure pause (HB1247) passed both chambers and was vetoed; the override failed 187-148.
+Procedure passes; substantive protections mostly don't - with one exception. SB126 (2021) rewrote landlord-tenant proceedings (Senate 24-0) and HB1598 (2026) updated eviction notices and hearings; HB261 (2024) became the record's one substantive tenant protection, letting tenants end a lease in domestic violence situations. Everything else died: renovation-eviction limits twice (HB401 2023, lost 154-213; SB519 2024, Senate deadline), eviction legal-counsel notice twice (HB379, 2023 and 2024), Social Security disruption safeguards (HB1171 2026, killed 186-155), Section 8 protections (HB1672 2024), and the COVID protections (HB1247 2020, vetoed, override failed 187-148; HB550 2021). The landlord side keeps trying too: no-cause lease-expiration termination was filed in 2021-22 (HB227), 2023 (HB117), and 2024 (HB1115, interim study), and the eviction-grounds expansion (HB1499 2026) passed the House 193-154 before dying in conference.
 
 - **Where similar ideas stopped:** The House floor for tenant-side bills; conference for landlord-side.
 - **Who carried them:** Democrats on tenant-side bills; Republicans on HB1499.
@@ -159,7 +159,7 @@ Procedural updates pass; substantive protections do not. SB126 (2021), an omnibu
 
 ### Funding homeless shelters and services
 
-Standalone shelter funding has passed exactly once in this record: SB406 (2024) appropriated $2.5 million to raise the rates paid to shelter programs. Every other attempt died: SB415 (2022, shelter rates) was tabled 13-11 in the Senate; SB113 and SB114 (2025) passed unanimous or near-unanimous Senate votes and then died at the Senate's own end-of-year deadline; HB519 (Waypoint youth shelter) died in the House. The bigger dollars came through HB2: $8M for shelter rates plus $2M for cold-weather capacity in 2023, and $5M a year of opioid-settlement money for year-round emergency shelter in 2025. The Council on Housing Stability was codified by HB503 (enacted 2022) and updated by SB179 (2025).
+Standalone shelter funding has passed exactly once: SB406 (2024) appropriated $2.5 million to raise shelter program rates. The other attempts died - SB415 (2022) tabled 13-11; SB410 (2024) and its 2025 retries SB113/SB114 at the Senate's own deadlines after unanimous or near-unanimous votes; emergency housing assistance (HB512 2021) and the Waypoint youth shelter (HB519) in the House. The bigger dollars came through HB2: $8M shelter rates plus $2M cold-weather capacity in 2023, and $5M a year of opioid-settlement money in 2025. The Council on Housing Stability was codified by HB503 (Chapter 251 of 2022) and updated by SB179 (2025); municipal-indemnification bills for homelessness policies (HB1544 2024, HB490 2025) have not passed.
 
 - **Where similar ideas stopped:** Standalone: Senate Finance and the calendar. Via HB2: none.
 - **Who carried them:** Senate Democrats (SB415: Sen. Kahn) and bipartisan sponsors on councils.
@@ -168,12 +168,21 @@ Standalone shelter funding has passed exactly once in this record: SB406 (2024) 
 
 ### Manufactured homes, tiny homes, and their residents
 
-Three wins are law: HB1361 (2024) rewrote the manufactured-home subdivision statutes and requires municipalities that zone to provide realistic opportunities for manufactured housing; SB166 (2025) requires notice before a manufactured home in a resident-owned community is sold; HB1681 (2026) legalized tiny houses and yurts as innovative housing (House concurrence 242-102). The losses are structural: HB2 2023 (79:301) repealed the Board of Manufactured Housing - the dispute forum for park residents - while SB203, which would have restructured it, died between the chambers; SB318 (2024) on the installation-standards board was vetoed; by-right manufactured housing in all residential zones (HB685 2025) died in conference; and 2026 bills to weaken manufactured-housing requirements (HB1016) also died.
+Five laws, which makes this the strongest resident-protection thread in the record: park-sale regulation (SB210 2022), realistic-opportunity siting requirements (HB1361 2024), rulemaking authority (SB306 2024), sale notice in resident-owned communities (SB166 2025), and - after tiny-house building-code bills died in 2020, 2021, and 2022 (SB482, HB588, HB1068) - tiny houses and yurts as innovative housing (HB1681 2026, 242-102 on concurrence). The structural fights were lost: HB2 2023 (79:301) repealed the Board of Manufactured Housing while SB203 died between the chambers; SB318 (2024) was vetoed; by-right manufactured housing (HB685 2025) died in conference; park lot-rent fee bills (SB33) and park-sales penalties (SB101) died in 2024.
 
 - **Where similar ideas stopped:** Conference committees and the governor; the board repeal happened inside the budget trailer.
 - **Who carried them:** Mixed sponsors; resident-protection bills largely from Democrats, deregulation from Republicans.
 - **Venue:** State legislature (RSA 205-A); the board's functions now sit with the courts/OPLC.
 - **What a group would still need to learn:** Where park residents take disputes now that the board is gone / Whether by-right manufactured housing returns
+
+### The Housing Appeals Board fight
+
+The board - created in the 2019 budget to give housing developers a faster alternative to court appeals of local land-use decisions - has been attacked in almost every session since it opened: repeal or replacement bills in 2020 (SB721, SB735, SB487, all killed in the Senate), 2021 (HB288), and 2022 (HB1216, HB1254, HB1307) all died, as did a 2024 bill to merge it into the Board of Tax and Land Appeals (HB1651) and a 2024 authority rewrite (HB1602, interim study). What passed: HB1456 (2024) changed how members of both boards are appointed and removed - and then HB2 2025 (141:335-338) did what no standalone bill could, cutting the board to two members serving at the Governor and Council's pleasure and attaching it to the BTLA.
+
+- **Where similar ideas stopped:** Standalone bills die in both chambers; the decisive change rode the budget trailer.
+- **Who carried them:** Repeal attempts came from both parties' local-control wings; the 2025 restructure was a budget decision.
+- **Venue:** State legislature (RSA 679); the board itself hears municipal appeals.
+- **What a group would still need to learn:** How the two-member board with at-pleasure tenure rules changes appeal outcomes / Whether 2027 brings restoration or further curtailment
 
 ## People and process signals
 
@@ -186,7 +195,7 @@ Frequent primary sponsors (where sponsor data exists):
 - David Preece (D) — 5 bills — housing programs and planning
 - Chris Muns (D) — 5 bills — housing finance and homelessness
 
-Cross-party sponsorship: 42 bills. 42 policy bills had both major parties among named sponsors - housing supply bills especially; sponsor data is complete only for 2020-2021 and 2025-2026.
+Cross-party sponsorship: 42 bills. 42 policy bills had both major parties among named sponsors; party labels are missing for 2022-2024 sponsors, so the true count is higher.
 
 ### Chokepoints
 
@@ -216,6 +225,7 @@ Cross-party sponsorship: 42 bills. 42 policy bills had both major parties among 
 - 2022:SB400 — land-board training + affordable housing incentives; Senate 13-11, tabled in House
 - 2024:HB1399 — towns-may-permit-second-units bill; House 220-140, Senate interim study
 - 2024:SB454 — doubling transfer-tax money for the Affordable Housing Fund; Senate unanimous (voice), House tabled 180-176 by division vote
+- 2024:HB1215 — development approvals/vesting; conference report adopted by the Senate, rejected by the House 102-261
 
 ## Recent enactments watchlist
 
@@ -245,3 +255,4 @@ Recently done - groups may ask whether a gap remains or whether implementation n
 7. Three housing vetoes in six years, with one override pending. When a proposal passes both chambers on party-line votes, what does the record say happens next?
 8. The 2026 session killed 51 housing bills and sent 11 to interim study. Which of those studies are worth following into 2027?
 9. Several decisive housing votes (SB454's tabling, HB1291's Senate death) left no recorded roll call. How should groups weigh outcomes that lawmakers never had to put their names on?
+10. Rent-and-fee bills have now failed under Republican and Democratic House majorities alike, while the one fee law that passed (HB283 2024) was disclosure-and-refund rather than a cap. What does that distinction suggest about what moves in Concord?
