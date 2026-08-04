@@ -18,14 +18,22 @@ older sessions (the collector records a data gap rather than failing).
 
 from __future__ import annotations
 
+import hashlib
+import json
 import os
 import time
 from datetime import datetime, timezone
+from pathlib import Path
 
 import requests
 
 OPENSTATES_URL = "https://v3.openstates.org/bills"
 JURISDICTION = "New Hampshire"
+
+# Per-(term, session) search results are cached to disk so an interrupted or
+# crashed run resumes instead of re-spending the request budget.
+CACHE_DIR = Path(os.environ.get(
+    "OPENSTATES_CACHE_DIR", "sources/new-hampshire/_cache/openstates-api"))
 
 
 class NoApiKey(RuntimeError):
@@ -34,6 +42,10 @@ class NoApiKey(RuntimeError):
 
 class RateLimitExhausted(RuntimeError):
     """The free-tier daily/throughput cap is spent; stop calling OpenStates."""
+
+
+class OpenStatesUnavailable(RuntimeError):
+    """The API kept timing out / erroring; treat as a soft, recordable gap."""
 
 
 # Budgets so a throttled free-tier key can never hang the job for hours.
@@ -53,17 +65,33 @@ def _key() -> str:
     return key
 
 
-def _get(url: str, params: list, headers: dict, *, max_tries: int = 4) -> dict:
-    """GET with bounded backoff. Bails with RateLimitExhausted instead of looping."""
+def _get(url: str, params: list, headers: dict, *, max_tries: int = 5) -> dict:
+    """GET with bounded backoff. Bails with RateLimitExhausted instead of looping.
+
+    Network stalls (read timeouts, connection resets) are retried with backoff
+    -- v3.openstates.org is known to hang requests occasionally -- and raise
+    OpenStatesUnavailable when persistent, so callers can record a data gap
+    instead of crashing the whole collection run.
+    """
     global _requests_made
     if _requests_made >= MAX_REQUESTS:
         raise RateLimitExhausted(
             f"hit local request budget ({MAX_REQUESTS}); stopping OpenStates."
         )
     last = None
+    net_errors = 0
     for i in range(max_tries):
         _requests_made += 1
-        r = requests.get(url, params=params, headers=headers, timeout=60)
+        try:
+            r = requests.get(url, params=params, headers=headers, timeout=60)
+        except requests.RequestException as exc:
+            net_errors += 1
+            wait = min(MAX_RETRY_WAIT, 5 * (2 ** i))
+            print(f"  OpenStates network error (try {i + 1}/{max_tries}): "
+                  f"{type(exc).__name__}; sleeping {wait}s")
+            last = exc
+            time.sleep(wait)
+            continue
         if r.status_code == 429:
             wait = min(MAX_RETRY_WAIT, int(r.headers.get("Retry-After") or 10 * (2 ** i)))
             print(f"  OpenStates 429 (try {i + 1}/{max_tries}); sleeping {wait}s")
@@ -76,18 +104,34 @@ def _get(url: str, params: list, headers: dict, *, max_tries: int = 4) -> dict:
             continue
         r.raise_for_status()
         return r.json()
+    if isinstance(last, requests.RequestException) or net_errors == max_tries:
+        raise OpenStatesUnavailable(
+            f"OpenStates API unreachable after {max_tries} tries "
+            f"(last: {type(last).__name__ if last is not None else 'unknown'}). "
+            "The API may be down or throttling connections; re-run later or "
+            "use the bulk-CSV route."
+        )
     if last is not None and getattr(last, "status_code", None) == 429:
         raise RateLimitExhausted(
             "OpenStates kept returning 429 -- the free-tier daily cap looks "
             "spent. Use the bulk-CSV route, or a higher tier / different day."
         )
-    raise RuntimeError(f"OpenStates gave up after {max_tries} tries ({last})")
+    raise OpenStatesUnavailable(f"OpenStates gave up after {max_tries} tries ({last})")
+
+
+def _cache_path(term: str, session_identifier: str) -> Path:
+    slug = hashlib.sha1(f"{session_identifier}|{term}".encode()).hexdigest()[:16]
+    return CACHE_DIR / f"{session_identifier}-{slug}.json"
 
 
 def search_session(term: str, session_identifier: str) -> list[dict]:
     """All bills matching ``term`` in one NH session (paginated, with abstracts,
-    sponsors, sources). Returns lightweight bill dicts.
+    sponsors, sources). Returns lightweight bill dicts. Results are cached to
+    disk per (term, session) so interrupted runs resume without re-querying.
     """
+    cache = _cache_path(term, session_identifier)
+    if cache.exists():
+        return json.loads(cache.read_text(encoding="utf-8"))
     headers = {"X-API-KEY": _key()}
     out: list[dict] = []
     page = 1
@@ -133,6 +177,8 @@ def search_session(term: str, session_identifier: str) -> list[dict]:
         page += 1
         time.sleep(PAGE_SLEEP)
     time.sleep(PAGE_SLEEP)
+    cache.parent.mkdir(parents=True, exist_ok=True)
+    cache.write_text(json.dumps(out), encoding="utf-8")
     return out
 
 

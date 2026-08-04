@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-04T16:04:59.165267+00:00",
+  "collected_at": "2026-08-04T18:20:44.280137+00:00",
   "issue": "new-hampshire-01-housing-affordability",
   "issue_slug": "housing-affordability",
   "verdict": "PASS_WITH_WARNINGS",
@@ -8,7 +8,7 @@
     "fail": 0,
     "warn": 2,
     "pass": 17,
-    "bills": 149,
+    "bills": 172,
     "sessions_configured": [
       2020,
       2021,
@@ -19,11 +19,11 @@
       2026
     ],
     "bills_by_year": {
-      "2020": 6,
-      "2021": 8,
-      "2022": 4,
-      "2023": 9,
-      "2024": 8,
+      "2020": 8,
+      "2021": 13,
+      "2022": 8,
+      "2023": 13,
+      "2024": 16,
       "2025": 36,
       "2026": 78
     }
@@ -42,8 +42,7 @@
     "starter home",
     "homebuyer",
     "down payment",
-    "housing trust",
-    "housing appeals"
+    "housing trust"
   ],
   "checks": [
     {
@@ -64,12 +63,12 @@
     {
       "check": "sessions_covered",
       "status": "PASS",
-      "detail": "bills/year={2020: 6, 2021: 8, 2022: 4, 2023: 9, 2024: 8, 2025: 36, 2026: 78}; missing_unexplained=[]"
+      "detail": "bills/year={2020: 8, 2021: 13, 2022: 8, 2023: 13, 2024: 16, 2025: 36, 2026: 78}; missing_unexplained=[]"
     },
     {
       "check": "bill_fields_complete",
       "status": "PASS",
-      "detail": "0 incomplete of 149"
+      "detail": "0 incomplete of 172"
     },
     {
       "check": "votes_row_per_bill",
@@ -84,7 +83,7 @@
     {
       "check": "search_term_coverage",
       "status": "WARN",
-      "detail": "hits={'housing': 61, 'affordable housing': 11, 'workforce housing': 4, 'attainable housing': 0, 'dwelling': 17, 'apartment': 0, 'multi-family': 4, 'multifamily': 2, 'residential development': 2, ' rent': 19, 'rental housing': 1, 'landlord': 9, 'tenant': 13, 'eviction': 5, 'security deposit': 1, 'rent control': 0, 'missing middle': 0, 'zoning': 29, 'land use': 10, 'accessory dwelling': 10, 'ADUs': 1, 'lot size': 0, 'density': 3, 'infill': 0, 'housing production': 0, 'inclusionary': 0, 'impact fee': 2, 'manufactured housing': 7, 'mobile home': 1, 'modular': 0, 'tiny home': 0, 'starter home': 0, 'homebuyer': 0, 'home buyer': 1, 'down payment': 0, 'mortgage': 2, 'housing trust': 0, 'housing appeals': 0, 'homelessness': 2, 'homeless': 5, 'shelter': 3}; empty_search_terms=['attainable housing', 'apartment', 'rent control', 'missing middle', 'lot size', 'infill', 'housing production', 'inclusionary', 'modular', 'tiny home', 'starter home', 'homebuyer', 'down payment', 'housing trust', 'housing appeals']"
+      "detail": "hits={'housing': 66, 'affordable housing': 13, 'workforce housing': 5, 'attainable housing': 0, 'dwelling': 17, 'apartment': 0, 'multi-family': 4, 'multifamily': 2, 'residential development': 2, ' rent': 19, 'rental housing': 1, 'landlord': 10, 'tenant': 14, 'eviction': 6, 'security deposit': 1, 'rent control': 0, 'missing middle': 0, 'zoning': 32, 'land use': 11, 'accessory dwelling': 10, 'ADUs': 1, 'lot size': 0, 'density': 3, 'infill': 0, 'housing production': 0, 'inclusionary': 0, 'impact fee': 2, 'manufactured housing': 8, 'mobile home': 1, 'modular': 0, 'tiny home': 0, 'starter home': 0, 'homebuyer': 0, 'home buyer': 1, 'down payment': 0, 'mortgage': 2, 'housing trust': 0, 'housing appeals': 1, 'homelessness': 3, 'homeless': 6, 'shelter': 4}; empty_search_terms=['attainable housing', 'apartment', 'rent control', 'missing middle', 'lot size', 'infill', 'housing production', 'inclusionary', 'modular', 'tiny home', 'starter home', 'homebuyer', 'down payment', 'housing trust']"
     },
     {
       "check": "hb2_2021_sections",

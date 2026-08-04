@@ -151,6 +151,21 @@ def discover(cfg: dict, sessions: list[dict], gaps: list[dict]) -> dict[tuple, d
                             "openstates/<year>/)."
                         ),
                     })
+                except openstates_backfill.OpenStatesUnavailable as exc:
+                    # The API hangs/errors sometimes; never crash the whole
+                    # run over it. Partial results discovered before the
+                    # failure are kept (per-term searches are disk-cached, so
+                    # a re-run resumes where this one stopped).
+                    gaps.append({
+                        "gap": "openstates_api_unavailable",
+                        "years": [s["year"] for s in remaining],
+                        "detail": (
+                            f"{exc} Voted bills for these years were still "
+                            "captured via SQL roll-call titles; completed "
+                            "per-term searches are cached and a re-run "
+                            "resumes from the cache."
+                        ),
+                    })
             else:
                 gaps.append({
                     "gap": "older_session_discovery_incomplete",
@@ -164,6 +179,34 @@ def discover(cfg: dict, sessions: list[dict], gaps: list[dict]) -> dict[tuple, d
                         "(no rate limit) or set a key to complete them."
                     ),
                 })
+
+    # 4) Preserve manually supplemented bills across re-collections. Issue
+    #    curation may add older bills discovered through year-end official
+    #    indexes (sources like "supplement:..."); a fresh run must not drop
+    #    them just because no search term matches their title.
+    prior_path = ip.PASS1 / "bills.json"
+    if prior_path.exists():
+        prior = json.loads(prior_path.read_text(encoding="utf-8"))
+        kept = 0
+        for b in prior.get("bills", []):
+            if not any(str(s).startswith("supplement:") for s in (b.get("sources") or [])):
+                continue
+            key = (b["session_year"], b["bill_no"])
+            if key in bills:
+                for src in b["sources"]:
+                    if src not in bills[key]["sources"]:
+                        bills[key]["sources"].append(src)
+                if b.get("discovery_source"):
+                    bills[key].setdefault("discovery_source", b["discovery_source"])
+                continue
+            extra = {k: v for k, v in b.items()
+                     if k not in ("session_year", "bill_no", "title",
+                                  "sources", "found_by_terms")}
+            add(b["session_year"], b["bill_no"], b["sources"][0],
+                b.get("title"), b.get("found_by_terms") or [], extra)
+            kept += 1
+        if kept:
+            print(f"Preserved {kept} supplemented bills from the prior pass1.")
     return bills
 
 
@@ -233,6 +276,8 @@ def enrich(bills: dict[tuple, dict], sessions: list[dict], *, ballots: bool) -> 
             "found_by_terms": rec["found_by_terms"],
             "sources": rec["sources"],
         }
+        if rec.get("discovery_source"):
+            entry["discovery_source"] = rec["discovery_source"]
         if year in sql_years:
             lr = db.legislation_record(bill_no, year)
             if lr is None:
