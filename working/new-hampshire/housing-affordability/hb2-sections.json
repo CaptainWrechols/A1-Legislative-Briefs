@@ -1,0 +1,550 @@
+{
+  "issue": "new-hampshire-01-housing-affordability",
+  "note": "Hand-curated housing analysis of HB2, New Hampshire's omnibus budget policy trailer, for the 2021, 2023, and 2025 budget cycles. Candidates came from relevance-term matching over every extracted section (see working/.../hb2/{year}/); a human pass kept the housing sections and logged every exclusion. Roll-call votes are recorded on HB2 AS A WHOLE - a vote for or against the trailer is never a vote on one section, and must not be presented as one.",
+  "cycles": [
+    {
+      "session_year": 2021,
+      "bill_no": "HB2",
+      "chapter": 91,
+      "laws_citation": "Laws of 2021, Chapter 91",
+      "total_sections_extracted": 468,
+      "source": "gencourt:legislation_html",
+      "source_url": "https://gc.nh.gov/legislation/2021/HB0002.html",
+      "whole_bill_roll_call_count": 42,
+      "whole_bill_final_votes": [
+        {
+          "body": "Senate",
+          "date": "2021-06-24",
+          "motion": "Conference Committee Report",
+          "yeas": 14,
+          "nays": 10
+        },
+        {
+          "body": "House",
+          "date": "2021-06-24",
+          "motion": "Adopt Conference Committee Report",
+          "yeas": 198,
+          "nays": 181
+        }
+      ],
+      "relevant_sections": [
+        {
+          "cite": "91:23",
+          "heading": "Department of Health and Human Services; Bureau of Adult and Elderly Services; Congregate Housing and Services",
+          "category": "adjacent",
+          "plain_language": "Suspended the state's congregate housing and congregate services programs for older adults (Medicaid waiver services) for the 2022-2023 budget years - a service cut, not an expansion.",
+          "affected_rsas": [
+            "RSA 151-E",
+            "RSA 161-F:37"
+          ]
+        },
+        {
+          "cite": "91:117",
+          "heading": "New Section; Commission to Study Limiting the Business Tax Credit Carry Over",
+          "category": "adjacent",
+          "plain_language": "Created a study commission on business tax credit carry-overs that was told to examine letting companies put unused credit refunds into affordable housing development.",
+          "affected_rsas": [
+            "RSA 77-A"
+          ]
+        },
+        {
+          "cite": "91:195",
+          "heading": "New Subdivision; Department of Business and Economic Affairs; Office of Planning and Development",
+          "category": "adjacent",
+          "plain_language": "Created the Office of Planning and Development inside the Department of Business and Economic Affairs - the state office that helps cities and towns with land use planning and housing data.",
+          "affected_rsas": [
+            "RSA 12-O",
+            "RSA 12-O:54",
+            "RSA 36:45-36:53",
+            "RSA 36:47",
+            "RSA 673:3-a",
+            "RSA 78-A:25",
+            "RSA 9-A"
+          ]
+        },
+        {
+          "cite": "91:240",
+          "heading": "Electric Renewable Portfolio Standard; Renewable Energy Fund",
+          "category": "adjacent",
+          "plain_language": "Directed part of the state's renewable energy fund toward community solar projects that serve manufactured-housing communities and multi-family rental housing.",
+          "affected_rsas": [
+            "RSA 362-A:9",
+            "RSA 362-F:10",
+            "RSA 362-F:3",
+            "RSA 362-F:8",
+            "RSA 374-F:5"
+          ]
+        },
+        {
+          "cite": "91:376",
+          "heading": "Appropriation; Affordable Housing Fund",
+          "category": "core",
+          "plain_language": "Put $25 million into the state's Affordable Housing Fund (run by New Hampshire Housing) to finance or match funding for affordable housing projects.",
+          "affected_rsas": [
+            "RSA 204-C:57"
+          ]
+        },
+        {
+          "cite": "91:408",
+          "heading": "Appropriation; Department of Health and Human Services; Transitional Housing Beds",
+          "category": "core",
+          "plain_language": "Put $6 million into transitional housing beds - raising the rates paid for the beds and funding new ones for patients leaving New Hampshire Hospital and people with complex behavioral health needs.",
+          "affected_rsas": []
+        }
+      ],
+      "excluded_candidates": [
+        {
+          "cite": "91:5",
+          "reason": "State plant/property management reorganization; no housing content (matched ' rent' inside unrelated text)."
+        },
+        {
+          "cite": "91:8",
+          "reason": "Consolidation of HR/payroll functions; no housing content."
+        },
+        {
+          "cite": "91:19",
+          "reason": "Sale of the former Laconia State School property; the section text sets sale terms and does not address housing."
+        },
+        {
+          "cite": "91:60",
+          "reason": "Education trust fund mechanics; mentions the existing low/moderate-income homeowners property tax relief only in passing."
+        },
+        {
+          "cite": "91:76",
+          "reason": "Professional-licensing office reorganization; the Board of Manufactured Housing appears only in a list of boards being re-homed administratively."
+        },
+        {
+          "cite": "91:103",
+          "reason": "Rooms and meals tax rate cut; 'rent' here is hotel-room occupancy, not residential housing."
+        },
+        {
+          "cite": "91:114",
+          "reason": "Education trust fund reference change; same as 91:60."
+        },
+        {
+          "cite": "91:122",
+          "reason": "Wildlife damage/posting of land; 'dwelling' and 'tenant' appear in a hunting-law context."
+        },
+        {
+          "cite": "91:178",
+          "reason": "Speech-language pathology licensing; term match inside unrelated text."
+        },
+        {
+          "cite": "91:183",
+          "reason": "Hearing aid dealer registration; term match inside unrelated text."
+        },
+        {
+          "cite": "91:187",
+          "reason": "Creates the Department of Energy; 'land use' appears in an energy-siting context."
+        },
+        {
+          "cite": "91:199",
+          "reason": "Council on Resources and Development membership housekeeping."
+        },
+        {
+          "cite": "91:220",
+          "reason": "Energy efficiency board membership housekeeping."
+        },
+        {
+          "cite": "91:269",
+          "reason": "'Shared tenant services' is a telecommunications term, not residential tenancy."
+        },
+        {
+          "cite": "91:278",
+          "reason": "Utility energy-efficiency loan programs; tenants appear only as loan-program participants."
+        },
+        {
+          "cite": "91:302",
+          "reason": "Animal records database; term match inside unrelated text."
+        },
+        {
+          "cite": "91:303",
+          "reason": "Dog and cat transfer certificates; 'shelter' is animal shelter."
+        },
+        {
+          "cite": "91:369",
+          "reason": "National Guard scholarship reference removal; term match inside unrelated text."
+        },
+        {
+          "cite": "91:378",
+          "reason": "OHRV trail grants; term match inside unrelated text."
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB2",
+      "chapter": 79,
+      "laws_citation": "Laws of 2023, Chapter 79",
+      "total_sections_extracted": 612,
+      "source": "gencourt:lba_or_agency_pdf",
+      "source_url": "https://gc.nh.gov/LBA/Budget/operating_budgets/2024-2025/House_Finance/HB%202%20Chapter%20Law.pdf",
+      "whole_bill_roll_call_count": 17,
+      "whole_bill_final_votes": [
+        {
+          "body": "House",
+          "date": "2023-06-08",
+          "motion": "Concur (with Senate changes)",
+          "yeas": 326,
+          "nays": 53
+        }
+      ],
+      "relevant_sections": [
+        {
+          "cite": "79:39",
+          "heading": "New Subdivision; InvestNH Program",
+          "category": "core",
+          "plain_language": "Wrote the InvestNH fund and program into law - a standing fund that makes grants and loans to speed up municipal approvals and support housing construction. (InvestNH began in 2022 with federal money; this made it permanent in statute.)",
+          "affected_rsas": [
+            "RSA 12-O",
+            "RSA 12-O:70",
+            "RSA 541-A",
+            "RSA 674:58"
+          ]
+        },
+        {
+          "cite": "79:43",
+          "heading": "Appropriation; Affordable Housing Fund",
+          "category": "core",
+          "plain_language": "Put another $25 million into the Affordable Housing Fund, non-lapsing, for financing or matching funds for affordable housing.",
+          "affected_rsas": [
+            "RSA 204-C:57"
+          ]
+        },
+        {
+          "cite": "79:196",
+          "heading": "Congregate Housing; Appropriation",
+          "category": "adjacent",
+          "plain_language": "Restored $1.5 million for the congregate housing and congregate services programs for older adults that the 2021 budget had suspended.",
+          "affected_rsas": [
+            "RSA 151-E",
+            "RSA 161-F:37"
+          ]
+        },
+        {
+          "cite": "79:239",
+          "heading": "Appropriation; Department of Health and Human Services; Targeted Medicaid Rate Increases",
+          "category": "adjacent",
+          "plain_language": "Within a package of Medicaid rate increases, raised the housing reimbursement rates paid on behalf of people receiving community mental health services.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:301",
+          "heading": "Board of Manufactured Housing; Repeals",
+          "category": "core",
+          "plain_language": "Repealed the Board of Manufactured Housing (RSA 205-A:25-31) effective September 1, 2023 - the state board where manufactured-home park residents and park owners could resolve disputes without going to court. A separate bill to restructure the board (SB203) died between the chambers the same year.",
+          "affected_rsas": [
+            "RSA 205-A:25",
+            "RSA 205-A:26",
+            "RSA 205-A:27",
+            "RSA 205-A:28",
+            "RSA 205-A:29",
+            "RSA 205-A:29-a",
+            "RSA 205-A:30",
+            "RSA 205-A:31"
+          ]
+        },
+        {
+          "cite": "79:371",
+          "heading": "New Section; Superior Court; Land Use Review Docket",
+          "category": "core",
+          "plain_language": "Created a land use review docket in the superior court - a dedicated court track for appeals of local planning and zoning decisions, intended to speed up housing-related land disputes.",
+          "affected_rsas": [
+            "RSA 100-C",
+            "RSA 491",
+            "RSA 491-A:1",
+            "RSA 491:1",
+            "RSA 677",
+            "RSA 679"
+          ]
+        },
+        {
+          "cite": "79:462",
+          "heading": "New Subdivision; New Hampshire Housing Champion Designation and Grant Program",
+          "category": "core",
+          "plain_language": "Created the New Hampshire Housing Champion program: cities and towns that volunteer to adopt housing-friendly regulations, train land boards, and invest in water/sewer capacity earn a designation that unlocks state grants. This enacted the substance of SB145, which had passed the Senate 21-3 as a standalone bill.",
+          "affected_rsas": [
+            "RSA 12-O",
+            "RSA 12-O:71",
+            "RSA 12-O:72",
+            "RSA 12-O:73",
+            "RSA 12-O:75",
+            "RSA 162-K",
+            "RSA 541-A",
+            "RSA 673:3-a",
+            "RSA 674:16",
+            "RSA 674:21",
+            "RSA 674:35",
+            "RSA 674:43",
+            "RSA 674:58",
+            "RSA 79-E"
+          ]
+        },
+        {
+          "cite": "79:464",
+          "heading": "Positions Established",
+          "category": "core",
+          "plain_language": "Created the state staff positions to run the Housing Champion program.",
+          "affected_rsas": [
+            "RSA 12-O:71"
+          ]
+        },
+        {
+          "cite": "79:465",
+          "heading": "Application of Receipts; Dedicated Funds",
+          "category": "core",
+          "plain_language": "Set up the dedicated-fund accounting so Housing Champion money stays in its own fund.",
+          "affected_rsas": [
+            "RSA 12-O:74",
+            "RSA 6:12"
+          ]
+        },
+        {
+          "cite": "79:466",
+          "heading": "Appropriations; Housing Champion Designation and Grant Program Fund",
+          "category": "core",
+          "plain_language": "Funded the Housing Champion program: $5 million for the grant fund plus $250,000 for administration.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:545",
+          "heading": "Appropriation; Department of Health and Human Services; Transitional Housing Beds",
+          "category": "core",
+          "plain_language": "Extended the 2021 budget's $6 million transitional-housing-beds appropriation so it would not expire until mid-2025.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:564",
+          "heading": "Department of Health and Human Services; Homeless and Housing Shelter Programs; Appropriations",
+          "category": "core",
+          "plain_language": "Put $8 million into raising the rates the state pays homeless shelter programs, plus $2 million for shelter assistance including cold-weather shelter and hotel placements.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:579",
+          "heading": "Housing Finance Authority; Study on Graduated Public Assistance Mandated",
+          "category": "adjacent",
+          "plain_language": "Ordered New Hampshire Housing to study a graduated, proportional rental assistance voucher for people who do not qualify for existing programs, reporting by November 2023.",
+          "affected_rsas": []
+        }
+      ],
+      "excluded_candidates": [
+        {
+          "cite": "79:103",
+          "reason": "Telecom use of highway rights-of-way; 'zoning' appears in an infrastructure context."
+        },
+        {
+          "cite": "79:138",
+          "reason": "Education trust fund rewrite; homeowners property tax relief mentioned only in passing."
+        },
+        {
+          "cite": "79:348",
+          "reason": "Public works definition housekeeping."
+        },
+        {
+          "cite": "79:415",
+          "reason": "Medicaid doula coverage; term match inside unrelated text."
+        },
+        {
+          "cite": "79:505",
+          "reason": "OHRV trail grants; term match inside unrelated text."
+        },
+        {
+          "cite": "79:568",
+          "reason": "Long-term-care system of care; housing appears only as part of aging-services planning."
+        },
+        {
+          "cite": "79:583",
+          "reason": "Charitable gaming study commission; term match inside unrelated text."
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB2",
+      "chapter": 141,
+      "laws_citation": "Laws of 2025, Chapter 141",
+      "total_sections_extracted": 461,
+      "source": "sql:legislationtext",
+      "source_url": "sql://legislationtext/1188/CHAPTERED FINAL VERSION",
+      "whole_bill_roll_call_count": 45,
+      "whole_bill_final_votes": [
+        {
+          "body": "Senate",
+          "date": "2025-06-26",
+          "motion": "Conference Committee Report",
+          "yeas": 16,
+          "nays": 8
+        },
+        {
+          "body": "House",
+          "date": "2025-06-26",
+          "motion": "Adopt Conference Committee Report",
+          "yeas": 184,
+          "nays": 183
+        }
+      ],
+      "relevant_sections": [
+        {
+          "cite": "141:31",
+          "heading": "Department of Business and Economic Affairs; Division of Planning and Community Development Established",
+          "category": "adjacent",
+          "plain_language": "Reorganized the state planning office into a Division of Planning and Community Development that administers the state's planning, broadband, and housing programs.",
+          "affected_rsas": [
+            "RSA 12-O:53"
+          ]
+        },
+        {
+          "cite": "141:45",
+          "heading": "Department of Health and Human Services; State Grant in Aid",
+          "category": "core",
+          "plain_language": "Directed $5 million a year for two years from the opioid abatement trust fund to year-round emergency shelter for people with opioid use disorder, with services aimed at recovery and permanent housing.",
+          "affected_rsas": [
+            "RSA 126-A:83"
+          ]
+        },
+        {
+          "cite": "141:56",
+          "heading": "Congregate Housing; Appropriation",
+          "category": "adjacent",
+          "plain_language": "Funded congregate housing and congregate services for older adults at $350,000 a year for two years.",
+          "affected_rsas": [
+            "RSA 151-E",
+            "RSA 161-F:37"
+          ]
+        },
+        {
+          "cite": "141:212",
+          "heading": "New Section; Partners in Housing Program",
+          "category": "core",
+          "plain_language": "Created the Partners in Housing program: state funding for workforce housing built on city-, town-, or county-owned land that is transferred to developers, with at least 20 percent of units meeting workforce-housing rules.",
+          "affected_rsas": [
+            "RSA 12-O",
+            "RSA 28:8-c",
+            "RSA 541-A",
+            "RSA 674:1"
+          ]
+        },
+        {
+          "cite": "141:213",
+          "heading": "New Paragraphs; Power to Review Site Plans",
+          "category": "core",
+          "plain_language": "Let municipalities fast-track site plan review for residential projects on state-listed surplus properties, and let solely residential workforce-housing projects use the quicker 'minor site plan review' where a town has adopted it.",
+          "affected_rsas": [
+            "RSA 12-0:55",
+            "RSA 12-O:55",
+            "RSA 674:43",
+            "RSA 674:58",
+            "RSA 676:4"
+          ]
+        },
+        {
+          "cite": "141:214",
+          "heading": "Housing Champion Designation and Grant Program Fund; Compilation of Property",
+          "category": "core",
+          "plain_language": "Extended the Housing Champion fund's purpose to also pay for compiling the list of municipal and county property suitable for residential development.",
+          "affected_rsas": [
+            "RSA 12-O:72",
+            "RSA 12-O:72-a",
+            "RSA 12-O:73",
+            "RSA 12-O:74"
+          ]
+        },
+        {
+          "cite": "141:335",
+          "heading": "Board Established",
+          "category": "core",
+          "plain_language": "Shrank the Housing Appeals Board - the state board that hears appeals of local zoning and planning decisions - from 3 members to 2.",
+          "affected_rsas": [
+            "RSA 679:1"
+          ]
+        },
+        {
+          "cite": "141:336",
+          "heading": "New Section; Administrative Attachment",
+          "category": "core",
+          "plain_language": "Attached the Housing Appeals Board to the Board of Tax and Land Appeals for budget and administration, with shared staff.",
+          "affected_rsas": [
+            "RSA 21-G:10",
+            "RSA 679"
+          ]
+        },
+        {
+          "cite": "141:337",
+          "heading": "Appointment; Term; Chair",
+          "category": "core",
+          "plain_language": "Changed Housing Appeals Board members from fixed terms to serving 'at the pleasure of' the governor and Executive Council, who also pick the chair.",
+          "affected_rsas": [
+            "RSA 679:2"
+          ]
+        },
+        {
+          "cite": "141:338",
+          "heading": "New Section; Tie Vote; Resolution",
+          "category": "core",
+          "plain_language": "Set a tie-breaker rule for the now 2-member Housing Appeals Board: a member of the Board of Tax and Land Appeals casts the deciding vote.",
+          "affected_rsas": [
+            "RSA 679"
+          ]
+        },
+        {
+          "cite": "141:340",
+          "heading": "Board of Tax and Land Appeals; Quorum",
+          "category": "adjacent",
+          "plain_language": "Adjusted the Board of Tax and Land Appeals quorum rules to fit its new role backing up the Housing Appeals Board.",
+          "affected_rsas": [
+            "RSA 71-B:6"
+          ]
+        },
+        {
+          "cite": "141:355",
+          "heading": "Appropriations; Housing Champion Designation and Grant Program Fund; Lapse Extension",
+          "category": "core",
+          "plain_language": "Extended the 2023 Housing Champion appropriation ($5 million) so it would not lapse until mid-2026.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "141:418",
+          "heading": "Appropriation; Department of Health and Human Services; Supportive Housing Services",
+          "category": "core",
+          "plain_language": "Ordered the state to renew and fully implement a Medicaid benefit paying for supportive housing services, with progress reports to the legislature in 2025 and 2026.",
+          "affected_rsas": []
+        }
+      ],
+      "excluded_candidates": [
+        {
+          "cite": "141:129",
+          "reason": "State surplus distribution accounting; no housing content."
+        },
+        {
+          "cite": "141:180",
+          "reason": "Court fee schedule rewrite; landlord/tenant filings appear only in a list of court fee categories being restructured."
+        },
+        {
+          "cite": "141:181",
+          "reason": "Sununu Youth Services Center transfer; 'housing' is used as a verb ('property currently housing the SYSC')."
+        },
+        {
+          "cite": "141:189",
+          "reason": "OHRV trail grants; term match inside unrelated text."
+        },
+        {
+          "cite": "141:209",
+          "reason": "Select board authority to rent out town property; municipal property management, not residential housing policy."
+        },
+        {
+          "cite": "141:324",
+          "reason": "Office building (One Granite Place) appropriation; 'rent' is state office rent."
+        },
+        {
+          "cite": "141:357",
+          "reason": "Sale of the Sununu Youth Services Center; 'housing' is used as a verb."
+        },
+        {
+          "cite": "141:370",
+          "reason": "Court-related committee membership; term match inside unrelated text."
+        }
+      ]
+    }
+  ]
+}
