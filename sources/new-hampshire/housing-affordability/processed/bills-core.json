@@ -1,6 +1,57 @@
 {
-  "collected_at": "2026-08-04T18:19:55.988844+00:00",
+  "collected_at": "2026-08-04T19:41:47.759434+00:00",
   "bills": [
+    {
+      "session_year": 2020,
+      "bill_no": "HB1120",
+      "title": "establishing a committee to study the establishment of water testing requirements for residential rental property.",
+      "found_by_terms": [
+        "housing",
+        " rent",
+        "rental housing",
+        "landlord",
+        "tenant"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1120/",
+      "sponsors": [
+        {
+          "name": "Mary A. Eisner",
+          "primary": false
+        },
+        {
+          "name": "Charlotte I. DiLorenzo",
+          "primary": false
+        },
+        {
+          "name": "Sherry A. Frost",
+          "primary": false
+        },
+        {
+          "name": "Edith M. DesMarais",
+          "primary": false
+        },
+        {
+          "name": "Kathryn Stack",
+          "primary": false
+        },
+        {
+          "name": "Wendy E.N. Thomas",
+          "primary": true
+        },
+        {
+          "name": "David R. Coursin",
+          "primary": false
+        },
+        {
+          "name": "Wendy Chase",
+          "primary": false
+        }
+      ]
+    },
     {
       "session_year": 2020,
       "bill_no": "HB1160",
@@ -16,56 +67,827 @@
     },
     {
       "session_year": 2020,
+      "bill_no": "HB1187",
+      "title": "relative to animal shelter facilities.",
+      "found_by_terms": [
+        "housing",
+        "shelter"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1187/",
+      "sponsors": [
+        {
+          "name": "Linda A. Massimilla",
+          "primary": false
+        },
+        {
+          "name": "Erin T. Hennessey",
+          "primary": false
+        },
+        {
+          "name": "Timothy T. Egan",
+          "primary": false
+        },
+        {
+          "name": "Elaine H. French",
+          "primary": false
+        },
+        {
+          "name": "Dennis M. Ruprecht",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1207",
+      "title": "requiring landlords to notify prospective tenants of the use of pesticides or other toxins in the premises.",
+      "found_by_terms": [
+        "landlord",
+        "tenant"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1207/",
+      "sponsors": [
+        {
+          "name": "Timothy O. Horrigan",
+          "primary": false
+        },
+        {
+          "name": "Suzanne M. Vail",
+          "primary": true
+        },
+        {
+          "name": "Patricia S. Klee",
+          "primary": false
+        },
+        {
+          "name": "Casey M. Conley",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
       "bill_no": "HB1247",
       "title": "(Second New Title) relative to mortgage defaults and nonpayment of rent during the novel coronavirus disease (Covid-19) outbreak state of emergency.\r\n",
       "found_by_terms": [
         " rent",
-        "mortgage"
+        "mortgage",
+        "housing",
+        "rental housing",
+        "landlord",
+        "tenant",
+        "eviction",
+        "down payment"
       ],
       "sources": [
-        "sql:rollcall"
+        "sql:rollcall",
+        "openstates"
       ],
       "abstract": "",
-      "openstates_url": null
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1247/",
+      "sponsors": [
+        {
+          "name": "Kenneth S. Vincent",
+          "primary": false
+        },
+        {
+          "name": "Kristina M. Schultz",
+          "primary": false
+        },
+        {
+          "name": "Casey M. Conley",
+          "primary": true
+        },
+        {
+          "name": "Willis T. Griffith",
+          "primary": false
+        },
+        {
+          "name": "Laura D. Telerski",
+          "primary": false
+        },
+        {
+          "name": "Safiya Wazir",
+          "primary": false
+        },
+        {
+          "name": "Cam E. Kenney",
+          "primary": false
+        },
+        {
+          "name": "Wendy Chase",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1320",
+      "title": "establishing a renter's insurance notification requirement.",
+      "found_by_terms": [
+        " rent",
+        "landlord",
+        "tenant"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1320/",
+      "sponsors": [
+        {
+          "name": "Lou D'Allesandro",
+          "primary": false
+        },
+        {
+          "name": "Chuck Morse",
+          "primary": false
+        },
+        {
+          "name": "Michael A. Edgar",
+          "primary": false
+        },
+        {
+          "name": "Betty I. Gay",
+          "primary": false
+        },
+        {
+          "name": "John C. Janigian",
+          "primary": true
+        },
+        {
+          "name": "Daryl A. Abbas",
+          "primary": false
+        },
+        {
+          "name": "Edward DeClercq",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1342",
+      "title": "establishing a program for installation of heat pumps for low-income housing.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1342/",
+      "sponsors": [
+        {
+          "name": "Kat McGhee",
+          "primary": false
+        },
+        {
+          "name": "Nicole Klein-Knight",
+          "primary": false
+        },
+        {
+          "name": "Rebecca J. McWilliams",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1389",
+      "title": "relative to criminal penalties for not providing adequate food, water, and shelter for animals.",
+      "found_by_terms": [
+        "shelter"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1389/",
+      "sponsors": [
+        {
+          "name": "Katherine D. Rogers",
+          "primary": true
+        },
+        {
+          "name": "Kate R. Murray",
+          "primary": false
+        },
+        {
+          "name": "Cam E. Kenney",
+          "primary": false
+        }
+      ]
     },
     {
       "session_year": 2020,
       "bill_no": "HB1391",
       "title": "relative to prohibiting discrimination in housing against persons with pets.",
       "found_by_terms": [
+        "housing",
+        " rent",
+        "rental housing",
+        "landlord",
+        "tenant",
+        "security deposit"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1391/",
+      "sponsors": [
+        {
+          "name": "Ellen D. Read",
+          "primary": true
+        },
+        {
+          "name": "Kristina M. Schultz",
+          "primary": false
+        },
+        {
+          "name": "Ryan T. Buchanan",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB143",
+      "title": "relative to disqualification of members of local land use boards.",
+      "found_by_terms": [
+        "housing",
+        "zoning",
+        "land use",
+        "housing appeals"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB143/"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1439",
+      "title": "relative to notification of zoning determination announcements and to appeals to the zoning board of adjustment.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1439/",
+      "sponsors": [
+        {
+          "name": "Norman L. Major",
+          "primary": true
+        },
+        {
+          "name": "Debra L. DeSimone",
+          "primary": false
+        },
+        {
+          "name": "Peter E. Torosian",
+          "primary": false
+        },
+        {
+          "name": "Mark A. Pearson",
+          "primary": false
+        },
+        {
+          "name": "Robert D. Harb",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1450",
+      "title": "relative to the powers of the zoning board of adjustment.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1450/",
+      "sponsors": [
+        {
+          "name": "Scott Wallace",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1488",
+      "title": "prohibiting conditioning of employment or student enrollment on approved housing.",
+      "found_by_terms": [
         "housing"
       ],
       "sources": [
-        "sql:rollcall"
+        "openstates"
       ],
       "abstract": "",
-      "openstates_url": null
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1488/"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1510",
+      "title": "enabling municipalities to adopt a property tax exemption for qualifying accessory dwelling units.",
+      "found_by_terms": [
+        "dwelling",
+        "accessory dwelling"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1510/",
+      "sponsors": [
+        {
+          "name": "Edward A. Butler",
+          "primary": false
+        },
+        {
+          "name": "Anita D. Burroughs",
+          "primary": false
+        },
+        {
+          "name": "Harrison Kanzler",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1511",
+      "title": "relative to actions against tenants.",
+      "found_by_terms": [
+        "tenant"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1511/",
+      "sponsors": [
+        {
+          "name": "Harrison Kanzler",
+          "primary": true
+        }
+      ]
     },
     {
       "session_year": 2020,
       "bill_no": "HB1582",
       "title": "(New Title) relative to free tuition at colleges and universities for children of veterans who are totally and permanently disabled; programs to aid veterans' access to employment, housing, health care, and college degrees; educational assistance for memb",
       "found_by_terms": [
-        "housing"
+        "housing",
+        "affordable housing",
+        "workforce housing",
+        "attainable housing",
+        "impact fee",
+        "homelessness",
+        "homeless"
       ],
       "sources": [
-        "sql:rollcall"
+        "sql:rollcall",
+        "openstates"
       ],
       "abstract": "",
-      "openstates_url": null
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1582/",
+      "sponsors": [
+        {
+          "name": "Terry Roy",
+          "primary": true
+        },
+        {
+          "name": "Judy F. Aron",
+          "primary": false
+        }
+      ]
     },
     {
       "session_year": 2020,
       "bill_no": "HB1629",
       "title": "relative to training and procedures for zoning and planning boards.",
       "found_by_terms": [
+        "zoning",
+        "housing",
+        "affordable housing",
+        "workforce housing",
+        "dwelling",
+        "rental housing",
+        "land use",
+        "lot size",
+        "density",
+        "inclusionary",
+        "housing appeals"
+      ],
+      "sources": [
+        "sql:rollcall",
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1629/",
+      "sponsors": [
+        {
+          "name": "Edward A. Butler",
+          "primary": false
+        },
+        {
+          "name": "Erin T. Hennessey",
+          "primary": false
+        },
+        {
+          "name": "Willis T. Griffith",
+          "primary": true
+        },
+        {
+          "name": "Joe H. Alexander",
+          "primary": false
+        },
+        {
+          "name": "Tom J. Loughman",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1632",
+      "title": "relative to financial investments and incentives for affordable housing development.",
+      "found_by_terms": [
+        "housing",
+        "affordable housing",
+        "workforce housing",
+        "residential development",
+        "zoning",
+        "land use",
+        "housing production"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1632/",
+      "sponsors": [
+        {
+          "name": "Edward A. Butler",
+          "primary": false
+        },
+        {
+          "name": "Erin T. Hennessey",
+          "primary": false
+        },
+        {
+          "name": "Willis T. Griffith",
+          "primary": false
+        },
+        {
+          "name": "Joe H. Alexander",
+          "primary": true
+        },
+        {
+          "name": "Tom J. Loughman",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1709",
+      "title": "relative to building code and zoning requirements applicable to home-based child day care providers.",
+      "found_by_terms": [
         "zoning"
       ],
       "sources": [
-        "sql:rollcall"
+        "openstates"
       ],
       "abstract": "",
-      "openstates_url": null
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB1709/",
+      "sponsors": [
+        {
+          "name": "Samantha L. Fox",
+          "primary": false
+        },
+        {
+          "name": "Rebecca J. McWilliams",
+          "primary": true
+        },
+        {
+          "name": "Dennis F. Acton",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB274",
+      "title": "relative to including under the meals and rooms tax facilitators of Internet transactions of motor vehicle rentals and facilitators of Internet transactions of room occupancies.",
+      "found_by_terms": [
+        "housing",
+        "rental housing"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB274/"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB653",
+      "title": "relative to the payment of the meals and rooms tax for short-term rentals.",
+      "found_by_terms": [
+        "down payment"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/HB653/"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB15",
+      "title": "making an appropriation to the affordable housing fund.",
+      "found_by_terms": [
+        "housing",
+        "affordable housing"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB15/"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB256",
+      "title": "relative to emergency generators in certain senior housing.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB256/"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB460",
+      "title": "relative to enforcement of zoning violations.",
+      "found_by_terms": [
+        "zoning"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB460/",
+      "sponsors": [
+        {
+          "name": "Brian K. Chirichiello",
+          "primary": false
+        },
+        {
+          "name": "John T. O'Connor",
+          "primary": false
+        },
+        {
+          "name": "David E. Milz",
+          "primary": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "primary": true
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB475",
+      "title": "enabling municipalities to adopt a property tax credit for densely-built workforce housing.",
+      "found_by_terms": [
+        "housing",
+        "workforce housing",
+        "density"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB475/",
+      "sponsors": [
+        {
+          "name": "Jeb Bradley",
+          "primary": true
+        },
+        {
+          "name": "Norman L. Major",
+          "primary": false
+        },
+        {
+          "name": "Timothy Josephson",
+          "primary": false
+        },
+        {
+          "name": "Paul P. Dargie",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB487",
+      "title": "repealing the housing appeals board and establishing a commission to advance affordable housing in New Hampshire.",
+      "found_by_terms": [
+        "housing",
+        "affordable housing",
+        "housing appeals"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB487/",
+      "sponsors": [
+        {
+          "name": "Martha Fuller Clark",
+          "primary": true
+        },
+        {
+          "name": "Tamara N. Le",
+          "primary": false
+        },
+        {
+          "name": "Kate R. Murray",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Jim V. Maggiore",
+          "primary": false
+        },
+        {
+          "name": "Jaci L. Grote",
+          "primary": false
+        },
+        {
+          "name": "Jeanne Dietsch",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB536",
+      "title": "requiring an annual report of the housing appeals board.",
+      "found_by_terms": [
+        "housing",
+        "land use",
+        "housing appeals"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB536/",
+      "sponsors": [
+        {
+          "name": "Chuck Morse",
+          "primary": true
+        },
+        {
+          "name": "Regina Birdsell",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB605",
+      "title": "relative to interference with the enjoyment of a dwelling place.",
+      "found_by_terms": [
+        "dwelling"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB605/",
+      "sponsors": [
+        {
+          "name": "Steven D. Smith",
+          "primary": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "primary": false
+        },
+        {
+          "name": "Ruth Ward",
+          "primary": true
+        },
+        {
+          "name": "Keith Erf",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB633",
+      "title": "relative to recovery housing.",
+      "found_by_terms": [
+        "housing"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB633/",
+      "sponsors": [
+        {
+          "name": "Lou D'Allesandro",
+          "primary": true
+        },
+        {
+          "name": "Donna M. Soucy",
+          "primary": false
+        },
+        {
+          "name": "Peter R. Leishman",
+          "primary": false
+        },
+        {
+          "name": "Kevin Cavanaugh",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB638",
+      "title": "establishing the New Hampshire housing and conservation planning program.",
+      "found_by_terms": [
+        "housing",
+        "affordable housing",
+        "workforce housing",
+        "zoning",
+        "land use",
+        "density",
+        "inclusionary"
+      ],
+      "sources": [
+        "openstates"
+      ],
+      "abstract": "",
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB638/",
+      "sponsors": [
+        {
+          "name": "Martha Fuller Clark",
+          "primary": true
+        },
+        {
+          "name": "Judith T. Spang",
+          "primary": false
+        },
+        {
+          "name": "Jim V. Maggiore",
+          "primary": false
+        },
+        {
+          "name": "Jaci L. Grote",
+          "primary": false
+        },
+        {
+          "name": "Tom Dolan",
+          "primary": false
+        }
+      ]
     },
     {
       "session_year": 2020,
@@ -84,25 +906,131 @@
       "bill_no": "SB726",
       "title": "(Second New Title) relative to programs to aid veterans' access to employment, housing, health care, and college degrees.",
       "found_by_terms": [
-        "housing"
+        "housing",
+        "workforce housing",
+        "attainable housing",
+        "impact fee",
+        "homelessness",
+        "homeless"
       ],
       "sources": [
-        "sql:rollcall"
+        "sql:rollcall",
+        "openstates"
       ],
       "abstract": "",
-      "openstates_url": null
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB726/",
+      "sponsors": [
+        {
+          "name": "Lou D'Allesandro",
+          "primary": false
+        },
+        {
+          "name": "Chuck Morse",
+          "primary": false
+        },
+        {
+          "name": "Martha Fuller Clark",
+          "primary": false
+        },
+        {
+          "name": "Sharon M Carson",
+          "primary": false
+        },
+        {
+          "name": "Jeb Bradley",
+          "primary": false
+        },
+        {
+          "name": "Donna M. Soucy",
+          "primary": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "primary": false
+        },
+        {
+          "name": "Kevin Cavanaugh",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Stephen L. Woodcock",
+          "primary": false
+        },
+        {
+          "name": "James C. Allard",
+          "primary": false
+        },
+        {
+          "name": "Shannon E Chandley",
+          "primary": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "primary": false
+        },
+        {
+          "name": "Jon Morgan",
+          "primary": true
+        }
+      ]
     },
     {
       "session_year": 2020,
       "bill_no": "SB735",
       "title": "repealing the housing appeals board.",
-      "found_by_terms": [],
+      "found_by_terms": [
+        "housing",
+        "housing appeals"
+      ],
       "sources": [
+        "openstates",
         "supplement:openstates"
       ],
       "discovery_source": "NHBR/Sulloway 2020 coverage: attempted repeal of the Housing Appeals Board",
       "abstract": "",
-      "openstates_url": null
+      "openstates_url": "https://openstates.org/nh/bills/2020/SB735/",
+      "sponsors": [
+        {
+          "name": "John T. O'Connor",
+          "primary": false
+        },
+        {
+          "name": "David E. Milz",
+          "primary": false
+        },
+        {
+          "name": "Linda R. Gould",
+          "primary": false
+        },
+        {
+          "name": "Barbara J. Griffin",
+          "primary": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "primary": true
+        },
+        {
+          "name": "Jess C. Edwards",
+          "primary": false
+        },
+        {
+          "name": "Ruth Ward",
+          "primary": false
+        },
+        {
+          "name": "Tom Sherman",
+          "primary": false
+        },
+        {
+          "name": "Jeanne Dietsch",
+          "primary": false
+        }
+      ]
     },
     {
       "session_year": 2021,

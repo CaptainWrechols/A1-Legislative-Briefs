@@ -1,8 +1,8 @@
 {
-  "collected_at": "2026-08-04T18:20:30.356739+00:00",
+  "collected_at": "2026-08-04T19:42:59.791948+00:00",
   "gaps": [
     {
-      "gap": "older_session_discovery_incomplete",
+      "gap": "openstates_api_unavailable",
       "years": [
         2020,
         2021,
@@ -10,7 +10,7 @@
         2023,
         2024
       ],
-      "detail": "No local OpenStates bulk files, LEGISCAN_API_KEY, or OPENSTATES_API_KEY for these years. Bills that reached a floor vote were still found via SQL roll-call titles, but committee-killed bills are not captured. Drop OpenStates bulk CSVs in sources/new-hampshire/_bulk/openstates/<year>/ (no rate limit) or set a key to complete them."
+      "detail": "OpenStates gave up after 5 tries (<Response [502]>) Voted bills for these years were still captured via SQL roll-call titles; completed per-term searches are cached and a re-run resumes from the cache."
     }
   ]
 }

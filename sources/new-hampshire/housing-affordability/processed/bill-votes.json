@@ -1,7 +1,13 @@
 {
-  "collected_at": "2026-08-04T18:19:55.991934+00:00",
+  "collected_at": "2026-08-04T19:41:47.765290+00:00",
   "note": "Roll-call votes from the NH public SQL database (authoritative, 1999->current). Nothing inferred or invented.",
   "bills": [
+    {
+      "session_year": 2020,
+      "bill_no": "HB1120",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
     {
       "session_year": 2020,
       "bill_no": "HB1160",
@@ -4776,6 +4782,18 @@
           "CountyCode": "08"
         }
       ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1187",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1207",
+      "roll_calls": [],
+      "roll_call_count": 0
     },
     {
       "session_year": 2020,
@@ -19232,6 +19250,24 @@
     },
     {
       "session_year": 2020,
+      "bill_no": "HB1320",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1342",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1389",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
       "bill_no": "HB1391",
       "roll_calls": [
         {
@@ -24004,6 +24040,42 @@
           "CountyCode": "08"
         }
       ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB143",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1439",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1450",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1488",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1510",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1511",
+      "roll_calls": [],
+      "roll_call_count": 0
     },
     {
       "session_year": 2020,
@@ -29090,6 +29162,84 @@
           "CountyCode": "08"
         }
       ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1632",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1709",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB274",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB653",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB15",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB256",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB460",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB475",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB487",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB536",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB605",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB633",
+      "roll_calls": [],
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB638",
+      "roll_calls": [],
+      "roll_call_count": 0
     },
     {
       "session_year": 2020,
