@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-04T19:43:27.397792+00:00",
+  "collected_at": "2026-08-04T20:29:38.386116+00:00",
   "issue": "new-hampshire-01-housing-affordability",
   "issue_slug": "housing-affordability",
   "verdict": "PASS_WITH_WARNINGS",
@@ -8,7 +8,7 @@
     "fail": 0,
     "warn": 2,
     "pass": 17,
-    "bills": 197,
+    "bills": 293,
     "sessions_configured": [
       2020,
       2021,
@@ -19,24 +19,28 @@
       2026
     ],
     "bills_by_year": {
-      "2020": 33,
-      "2021": 13,
-      "2022": 8,
-      "2023": 13,
-      "2024": 16,
+      "2020": 37,
+      "2021": 24,
+      "2022": 36,
+      "2023": 33,
+      "2024": 49,
       "2025": 36,
       "2026": 78
     }
   },
   "empty_search_terms": [
+    "attainable housing",
     "apartment",
     "rent control",
     "missing middle",
+    "lot size",
     "infill",
+    "housing production",
     "modular",
     "tiny home",
     "starter home",
     "homebuyer",
+    "down payment",
     "housing trust"
   ],
   "checks": [
@@ -58,12 +62,12 @@
     {
       "check": "sessions_covered",
       "status": "PASS",
-      "detail": "bills/year={2020: 33, 2021: 13, 2022: 8, 2023: 13, 2024: 16, 2025: 36, 2026: 78}; missing_unexplained=[]"
+      "detail": "bills/year={2020: 37, 2021: 24, 2022: 36, 2023: 33, 2024: 49, 2025: 36, 2026: 78}; missing_unexplained=[]"
     },
     {
       "check": "bill_fields_complete",
       "status": "PASS",
-      "detail": "0 incomplete of 197"
+      "detail": "0 incomplete of 293"
     },
     {
       "check": "votes_row_per_bill",
@@ -78,7 +82,7 @@
     {
       "check": "search_term_coverage",
       "status": "WARN",
-      "detail": "hits={'housing': 82, 'affordable housing': 19, 'workforce housing': 11, 'attainable housing': 2, 'dwelling': 20, 'apartment': 0, 'multi-family': 4, 'multifamily': 2, 'residential development': 3, ' rent': 24, 'rental housing': 6, 'landlord': 15, 'tenant': 20, 'eviction': 7, 'security deposit': 2, 'rent control': 0, 'missing middle': 0, 'zoning': 39, 'land use': 16, 'accessory dwelling': 11, 'ADUs': 1, 'lot size': 1, 'density': 6, 'infill': 0, 'housing production': 1, 'inclusionary': 2, 'impact fee': 4, 'manufactured housing': 8, 'mobile home': 1, 'modular': 0, 'tiny home': 0, 'starter home': 0, 'homebuyer': 0, 'home buyer': 1, 'down payment': 2, 'mortgage': 2, 'housing trust': 0, 'housing appeals': 5, 'homelessness': 5, 'homeless': 8, 'shelter': 6}; empty_search_terms=['apartment', 'rent control', 'missing middle', 'infill', 'modular', 'tiny home', 'starter home', 'homebuyer', 'housing trust']"
+      "detail": "hits={'housing': 122, 'affordable housing': 18, 'workforce housing': 8, 'attainable housing': 0, 'dwelling': 22, 'apartment': 0, 'multi-family': 4, 'multifamily': 2, 'residential development': 3, ' rent': 51, 'rental housing': 3, 'landlord': 15, 'tenant': 28, 'eviction': 10, 'security deposit': 1, 'rent control': 0, 'missing middle': 0, 'zoning': 48, 'land use': 19, 'accessory dwelling': 13, 'ADUs': 1, 'lot size': 0, 'density': 4, 'infill': 0, 'housing production': 0, 'inclusionary': 2, 'impact fee': 2, 'manufactured housing': 17, 'mobile home': 1, 'modular': 0, 'tiny home': 0, 'starter home': 0, 'homebuyer': 0, 'home buyer': 1, 'down payment': 0, 'mortgage': 2, 'housing trust': 0, 'housing appeals': 10, 'homelessness': 4, 'homeless': 7, 'shelter': 7}; empty_search_terms=['attainable housing', 'apartment', 'rent control', 'missing middle', 'lot size', 'infill', 'housing production', 'modular', 'tiny home', 'starter home', 'homebuyer', 'down payment', 'housing trust']"
     },
     {
       "check": "hb2_2021_sections",
@@ -136,17 +140,5 @@
       "detail": "titles_with_advice_words=['2026:HR30']"
     }
   ],
-  "gaps_recorded": [
-    {
-      "gap": "openstates_api_unavailable",
-      "years": [
-        2020,
-        2021,
-        2022,
-        2023,
-        2024
-      ],
-      "detail": "OpenStates gave up after 5 tries (<Response [502]>) Voted bills for these years were still captured via SQL roll-call titles; completed per-term searches are cached and a re-run resumes from the cache."
-    }
-  ]
+  "gaps_recorded": []
 }

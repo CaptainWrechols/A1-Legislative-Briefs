@@ -49,6 +49,8 @@ def classify_current(actions: list[dict]) -> tuple[str, str, str]:
             return ("died_on_table", f"stayed on the {body} table (motion to remove failed)", d[:140])
         if re.search(r"(Refer|Referred|Rereferred).*Interim Study.*(MA|MF)?|Refer for Interim Study", d, re.I):
             return ("interim_study", f"sent to interim study by the {body}", d[:140])
+        if re.search(r"Conference Committee Report.*(Failed|: MF)", d, re.I):
+            return ("died_between_chambers", f"conference report rejected by the {body}", d[:140])
         if re.search(r"Conference Committee Report[:;] Not (Filed|Signed Off)", d, re.I):
             return ("died_between_chambers", "died in a committee of conference (no agreed report)", d[:140])
         if re.search(r"Pending Motion Committee of Conference", d, re.I):
@@ -61,6 +63,10 @@ def classify_current(actions: list[dict]) -> tuple[str, str, str]:
             return ("passed", f"adopted/passed by the {body} (last recorded action)", d[:140])
         if re.search(r"Death of all un-acted", d, re.I):
             return ("died_other", f"died un-acted upon in the {body}", d[:140])
+        if (re.search(r"Committee Report: Ought to Pass", d, re.I)
+                and "Minority" not in d and d is actions[-1]["description"]):
+            return ("died_other", f"committee recommended Ought to Pass but the "
+                    f"{body} never took a floor vote before the session ended", d[:140])
     last = actions[-1]["description"] if actions else ""
     if any(re.search(r"Committee Report: Inexpedient to Legislate", a["description"], re.I)
            for a in actions[-3:]):
@@ -110,6 +116,33 @@ def classify_older(os_: dict, rolls: list[dict]) -> tuple[str, str, str] | None:
     return None
 
 
+
+def _older_fallback(key, older_status, older_actions, rolls) -> dict:
+    """Previous evidence chain for 2020-2024 bills the bulk docket can't stage."""
+    os_ = older_status.get(key, {})
+    oa = older_actions.get(key, {})
+    rec: dict = {}
+    if os_.get("chapter"):
+        rec.update({"disposition": "enacted",
+                    "stage": f"became law (Laws of {key[0]}, Chapter {os_['chapter']})",
+                    "evidence": f"gc.nh.gov chaptered final text (CHAPTER {os_['chapter']})",
+                    "evidence_source": "gencourt_final_text"})
+        return rec
+    r = classify_older(os_, rolls) if os_ else None
+    if r:
+        rec.update({"disposition": r[0], "stage": r[1], "evidence": r[2],
+                    "evidence_source": "gencourt_version_header+rollcalls+archived_docket"})
+    elif oa.get("actions"):
+        acts = [{"body": {"House": "H", "Senate": "S"}.get(a.get("actor", ""), a.get("actor", "")),
+                 "description": a["description"]} for a in reversed(oa["actions"])]
+        disp, stage, ev = classify_current(acts)
+        rec.update({"disposition": disp, "stage": stage, "evidence": ev,
+                    "evidence_source": f"archived_docket:{oa.get('source', 'wayback')}"})
+    else:
+        rec.update({"disposition": "unresolved", "stage": "no terminal evidence",
+                    "evidence_source": "none"})
+    return rec
+
 def main() -> None:
     pass1 = json.loads((SRC / "pass1" / "bills.json").read_text())
     dockets = {(b["session_year"], b["bill_no"]): b
@@ -120,12 +153,39 @@ def main() -> None:
                     for b in json.loads((W / "older-bill-status.json").read_text())["bills"]}
     older_actions = {(b["session_year"], b["bill_no"]): b
                      for b in json.loads((W / "older-bill-actions.json").read_text())["bills"]}
+    bulk_dockets = {}
+    bd_path = W / "bulk-dockets.json"
+    if bd_path.exists():
+        for key, acts in json.loads(bd_path.read_text())["bills"].items():
+            y, b = key.split(":", 1)
+            bulk_dockets[(int(y), b)] = [
+                {"body": {"House": "H", "Senate": "S"}.get(
+                    (a.get("organization") or "").replace("New Hampshire ", ""),
+                    a.get("organization", "")),
+                 "date": a["date"], "description": a["description"]}
+                for a in acts]
 
     out = []
     for b in pass1["bills"]:
         key = (b["session_year"], b["bill_no"])
         rec = {"session_year": key[0], "bill_no": key[1], "title": b["title"]}
         rolls = votes.get(key, {}).get("roll_calls", [])
+        if (key[0] in (2021, 2023) and (key[0] + 1, key[1]) in
+                {(b["session_year"], b["bill_no"]) for b in pass1["bills"]}):
+            # First-year record of a biennium bill that continued into the
+            # second year under the same number; count it once (next year).
+            k2 = bulk_dockets.get(key) or []
+            terminal = any(re.search(
+                r"Inexpedient to Legislate.*(MA|Adopted)|Indefinitely Postpone.*(MA|Adopted)|"
+                r"=== BILL KILLED ===|Signed by", a["description"], re.I) for a in k2)
+            if not terminal:
+                rec.update({"disposition": "carryover_duplicate",
+                            "stage": f"same bill as {key[0]+1} {key[1]} (carried across "
+                                     f"the biennium); see the {key[0]+1} record",
+                            "evidence_source": "biennium carryover"})
+                rec["roll_call_count"] = len(rolls)
+                out.append(rec)
+                continue
         if key == (2025, "SB84"):
             rec.update({"disposition": "carryover_duplicate",
                         "stage": "same bill as 2026 SB84 (introduced 2025, carried over); "
@@ -137,6 +197,43 @@ def main() -> None:
                         "evidence": ev, "evidence_source": "sql_docket"})
             if b.get("chapter_no"):
                 rec["chapter"] = b["chapter_no"]
+        elif key[0] <= 2024 and (
+                (older_status.get(key, {}).get("resolution"))
+                or (older_actions.get(key, {}).get("resolution"))):
+            # Hand-researched resolutions carry nuance (HB2 tie-ins, cross-
+            # biennium fates) the raw docket lacks; they keep priority.
+            os_ = older_status.get(key, {})
+            oa = older_actions.get(key, {})
+            manual = os_.get("resolution") or oa.get("resolution")
+            if os_.get("chapter"):
+                rec.update({"disposition": "enacted",
+                            "stage": f"became law (Laws of {key[0]}, Chapter {os_['chapter']})",
+                            "evidence": f"gc.nh.gov chaptered final text (CHAPTER {os_['chapter']})",
+                            "evidence_source": "gencourt_final_text"})
+            else:
+                rec.update({"disposition": "resolved_manually", "stage": manual,
+                            "evidence_source": os_.get("resolution_source") or oa.get("resolution_source") or oa.get("source"),
+                            "citations": os_.get("citations") or oa.get("citations")})
+            if os_.get("version_header"):
+                rec["gencourt_version_header"] = os_["version_header"]
+            if os_.get("sponsors_line"):
+                rec["sponsors_line"] = os_["sponsors_line"]
+        elif key in bulk_dockets:
+            # Complete official docket mirrored in the bulk CSVs.
+            disp, stage, ev = classify_current(bulk_dockets[key])
+            if disp != "unresolved":
+                rec.update({"disposition": disp, "stage": stage, "evidence": ev,
+                            "evidence_source": "bulk_docket"})
+                os_ = older_status.get(key, {})
+                if os_.get("chapter") and disp != "enacted":
+                    # chaptered text always wins
+                    rec.update({"disposition": "enacted",
+                                "stage": f"became law (Laws of {key[0]}, Chapter {os_['chapter']})",
+                                "evidence_source": "gencourt_final_text"})
+                if os_.get("sponsors_line"):
+                    rec["sponsors_line"] = os_["sponsors_line"]
+            else:
+                rec.update(_older_fallback(key, older_status, older_actions, rolls))
         elif key in older_status:
             os_ = older_status[key]
             oa = older_actions.get(key, {})

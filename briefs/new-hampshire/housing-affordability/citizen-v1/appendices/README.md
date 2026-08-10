@@ -1,9 +1,11 @@
 # Appendices — Housing Affordability in New Hampshire (citizen-v1)
 
-Long-form detail behind the two-page citizen front brief. 172 bills are in
-the set for 2020–2026 (keyword discovery plus a documented supplement from
-year-end official indexes); 158 policy bills carry the headline numbers (13
-context bills and one biennium-carryover duplicate are kept for audit).
+Long-form detail behind the two-page citizen front brief. 328 bills are in
+the set for 2020–2026; 289 policy bills carry the headline numbers (26
+context bills and 13 biennium-carryover duplicates are kept for audit).
+2020–2024 discovery is certified against the complete OpenStates bulk
+universe (5,467 bills, every title swept and every candidate reviewed);
+2025–2026 comes complete from the official state database.
 
 | File | Contents |
 |---|---|

@@ -1,16 +1,4 @@
 {
-  "collected_at": "2026-08-04T19:42:59.791948+00:00",
-  "gaps": [
-    {
-      "gap": "openstates_api_unavailable",
-      "years": [
-        2020,
-        2021,
-        2022,
-        2023,
-        2024
-      ],
-      "detail": "OpenStates gave up after 5 tries (<Response [502]>) Voted bills for these years were still captured via SQL roll-call titles; completed per-term searches are cached and a re-run resumes from the cache."
-    }
-  ]
+  "collected_at": "2026-08-04T20:29:20.809274+00:00",
+  "gaps": []
 }

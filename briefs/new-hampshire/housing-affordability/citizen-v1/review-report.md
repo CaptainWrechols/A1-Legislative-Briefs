@@ -2,8 +2,10 @@
 
 **Status: READY FOR HUMAN REVIEW**
 
-Re-reviewed 2026-08-04 (citizen-v1.1: 2020–2024 supplement of 23 bills from
-year-end official indexes; headline numbers now 158 policy bills / 48 laws) by
+Re-reviewed 2026-08-04 (citizen-v1.2: 2020–2024 collection completed from the
+OpenStates bulk universe and certified — every one of the 5,467 bills in those
+five sessions swept and reviewed; headline numbers now 289 policy bills / 59
+laws) by
 citizen-reviewer v2.3 (automated pass; agent spec
 `agents/citizen-reviewer/AGENT.md`). Machine scans ran against
 `working/new-hampshire/housing-affordability/evidence-pack.json`; the reality
@@ -40,7 +42,7 @@ map behind the brief passed its own programmatic fact-check
 
 | ID | Result | Notes |
 |---|---|---|
-| D1 | PASS | All 27 bills cited in the front brief exist in Appendix A / the evidence pack (automated scan; zero missing). |
+| D1 | PASS | All 23 bills cited in the front brief exist in Appendix A / the evidence pack (automated scan; zero missing). |
 | D2 | PASS | Every vote pair cited in the brief matches a roll call in the official record or an HB2 whole-bill vote, except SB454's 180–176 tabling, which is a division-vote tally recorded in the official docket (House Journal 12, p. 86) and described as such in the brief. Party-split claims (SB86 2021, HB1291 2024, HB44 2023, HB1196 2026) match the ballot-level party tallies. |
 | D3 | PASS | Data limits stated in Appendix F, including the 2020–2024 roll-call-only coverage gap. |
 | D4 | N/A | No inferred committee Yeas are presented. |
@@ -78,14 +80,12 @@ None.
 
 ## Notes for human reviewers
 
-- 2020–2024 coverage combines roll-call discovery with a documented supplement
-  of 23 bills from year-end official indexes (NHMA, OPD, NH Housing, NH
-  Bulletin), each resolved against archived official dockets. Major enacted
-  laws and prominent failures are covered; low-profile older bills that died
-  quietly by voice vote may still be missing. Running the `collect-nh` GitHub
-  Actions workflow (which holds the repo's OpenStates secret) remains the way
-  to make the older years provably complete; headline framing scopes claims to
-  "in this record".
+- 2020–2024 coverage is certified against the complete OpenStates bulk
+  universe (see Appendix I's certification section and
+  `working/.../certification-report.json`); 2025–2026 comes complete from the
+  official state database. The remaining theoretical gap — a housing bill
+  whose title avoids the entire wide-net vocabulary — is documented in
+  Appendix F.
 - HB1336 (2026) is described as "override pending this fall" based on the
   docket showing a veto with no override action as of collection; re-check
   before any reprint after October 2026.

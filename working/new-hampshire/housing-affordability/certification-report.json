@@ -1,0 +1,1432 @@
+{
+  "generated_at": "2026-08-04T20:43:12.469697+00:00",
+  "universe_bills": 5467,
+  "universe_by_year": {
+    "2020": 1215,
+    "2021": 776,
+    "2022": 1210,
+    "2023": 942,
+    "2024": 1324
+  },
+  "collected_2020_2024": 214,
+  "wide_net_patterns": 51,
+  "review_candidates_not_in_set": [
+    {
+      "session_year": 2020,
+      "bill_no": "CACR18",
+      "title": "relating to the general court.  Providing that the house or the senate may independently order a referendum to reduce a penalty established in law.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1151",
+      "title": "relative to the determination of homeowners insurance rates.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1155",
+      "title": "relative to exemptions from timber taxes for certain residential cutting.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1178",
+      "title": "relative to safety requirements for pools on foreclosed residential property.",
+      "review": "excluded",
+      "category": "recreation / animals / misc false positives"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1179",
+      "title": "relative to contract powers of condominium unit owners' associations.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1208",
+      "title": "relative to notification of pesticide application in residential property.",
+      "review": "excluded",
+      "category": "recreation / animals / misc false positives"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1209",
+      "title": "requiring fidelity insurance coverage for condominium board members, managers, and employees.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1215",
+      "title": "relative to the installation of solar energy systems in condominiums and homeowner associations.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1246",
+      "title": "relative to reporting of health care associated infections, establishing a COVID-19 nursing home and long-term care fund, relative to an independent COVID-19 nursing home and long-term care review, needs assessment, and recommendations, authorizing pharmacists to administer a COVID-19 vaccine, and relative to the reimbursement of costs of training nursing assistants.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1289",
+      "title": "establishing a commission to study the current delivery of services of the deaf and hard of hearing in New Hampshire nursing homes and assisted living facilities, and how such services might be improved.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1291",
+      "title": "relative to homestead food license requirements.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1305",
+      "title": "relative to consideration of home-share income.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1317",
+      "title": "relative to funding for energy efficiency and renewable energy projects by residential, commercial, and industrial ratepayers.",
+      "review": "excluded",
+      "category": "energy / utilities (solar, weatherization, heating)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1385",
+      "title": "relative to portraits and memorial objects in the state house, legislative office building, and Upham Walker house.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1445",
+      "title": "adding a building scientist to the building code review board.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1467",
+      "title": "relative to the taxation of commercial and residential property.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1474",
+      "title": "relative to deductions from the business profits tax for investment in federal Opportunity Zones in New Hampshire.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1485",
+      "title": "relative to the installation of video surveillance cameras in community homes and group homes.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1535",
+      "title": "relative to installation of solar photovoltaic energy systems by owners subject to deed restrictions in a homeowners association.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1648",
+      "title": "relative to the home cultivation of cannabis plants and the possession of certain cannabis-infused products.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1714",
+      "title": "relative to ratification of amendments to the state building code and state fire code.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB247",
+      "title": "relative to the definition of the state building code.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB273",
+      "title": "relative to placement of a memorial honoring former representative Steve Vaillancourt of Manchester in the New Hampshire state house.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB303",
+      "title": "relative to certification of building code compliance inspectors.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB308",
+      "title": "establishing a condominium dispute resolution board.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB348",
+      "title": "relative to procedures for condominiums with 25 or fewer residential units.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB355",
+      "title": "relative to regulation by the New Hampshire real estate commission.",
+      "review": "excluded",
+      "category": "real-estate industry regulation (brokers, transactions, probate)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB385",
+      "title": "relative to making a maternity room available on state house grounds.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB387",
+      "title": "clarifying change of use occupancy classifications.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB436",
+      "title": "relative to foreclosure of a lien on a condominium unit.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB479",
+      "title": "relative to eligibility for the low and moderate income homeowners property tax relief.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB497",
+      "title": "relative to payment by the state of a portion of retirement system contributions of political subdivision employers.",
+      "review": "excluded",
+      "category": "retirement-system bills matching 'subdivision' (political subdivisions)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB655",
+      "title": "regulating disorderly houses.",
+      "review": "excluded",
+      "category": "recreation / animals / misc false positives"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB113",
+      "title": "relative to municipal authority regarding the state building code.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB244",
+      "title": "establishing a commission to study the incentivization of publicly-offered real estate investment trusts in New Hampshire.",
+      "review": "excluded",
+      "category": "real-estate industry regulation (brokers, transactions, probate)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB255",
+      "title": "relative to dementia training for direct care staff in residential facilities and community-based settings.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB505",
+      "title": "relative to residential child care licensing of child care institutions or agencies.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB582",
+      "title": "establishing a commission to differentiate the cost of education and the cost of care for children in a residential facility.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB589",
+      "title": "allowing seasonal docks on certain lots in the town of Freedom.",
+      "review": "excluded",
+      "category": "recreation / animals / misc false positives"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB614",
+      "title": "exempting the department of transportation from the notice requirement for lessors of real or personal property owned by the state or its political subdivisions.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB632",
+      "title": "relative to enforcement of the state building code by municipalities and the state fire marshal.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB661",
+      "title": "relative to economic revitalization zone tax credits and the New Hampshire college graduate retention incentive partnership (NH GRIP).",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB671",
+      "title": "relative to nursing home standards.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB753",
+      "title": "renaming a wing in the New Hampshire veterans' home.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB124",
+      "title": "adopting the uniform real property transfer on death act.",
+      "review": "excluded",
+      "category": "real-estate industry regulation (brokers, transactions, probate)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB126",
+      "title": "relative to notice of execution of tax lien to mortgagees.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB166",
+      "title": "relative to safety requirements for pools on foreclosed residential property.",
+      "review": "excluded",
+      "category": "recreation / animals / misc false positives"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB207",
+      "title": "repealing the regulation of household goods carriers.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB274",
+      "title": "relative to payment by the state of a portion of retirement system contributions of political subdivision employers.",
+      "review": "excluded",
+      "category": "retirement-system bills matching 'subdivision' (political subdivisions)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB312",
+      "title": "relative to deadlines in consumer credit applications, licensing requirements for mortgage loan originators, examinations of family trust companies, delegation by credit union boards to committees, qualifications of the banking commissioner, and authorizing depository banks to elect benefit corporation status.",
+      "review": "excluded",
+      "category": "real-estate industry regulation (brokers, transactions, probate)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB314",
+      "title": "relative to homestead food operation licensure.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB315",
+      "title": "relative to the aggregation of electric customers and municipal host customer generators serving political subdivisions.",
+      "review": "excluded",
+      "category": "energy / utilities (solar, weatherization, heating)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB336",
+      "title": "establishing a condominium dispute resolution board.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB358",
+      "title": "relative to the installation of solar energy systems in condominiums.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB363",
+      "title": "creating a committee to study appointing an inspector general for nursing homes in New Hampshire.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB449",
+      "title": "relative to the repair of home appliances.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB462",
+      "title": "relative to lien assessments by condominium associations.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB466",
+      "title": "relative to contract powers of condominium unit owners' associations.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB486",
+      "title": "relative to eligibility for the low and moderate income homeowners property tax relief.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB504",
+      "title": "relative to the state education property tax and the low and moderate income homeowners property tax relief program.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB509",
+      "title": "relative to portraits and memorial objects in the state house, legislative office building, and Upham Walker house.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB614",
+      "title": "exempting the state and political subdivisions from payment of the costs of compliance with the renewable portfolio standard.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB629",
+      "title": "relative to the home cultivation of cannabis plants and the possession of certain cannabis-infused products.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB72",
+      "title": "relative to ratification of amendments to the state building code and state fire code.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HR2",
+      "title": "recording House sessions and the permanent journal.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HR3",
+      "title": "distribution of House publications.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB109",
+      "title": "relative to municipal host customer generators serving political subdivisions.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB15",
+      "title": "relative to ratification of amendments to the state building code and state fire code.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SR5",
+      "title": "RESOLVED, that the Senate meet in Joint Convention with the House of Representatives for the purpose of electing the Secretary of State and the State Treasurer.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "CACR25",
+      "title": "legislative term limits.  Providing that no person shall serve more than 15 terms in either the house of representatives or the senate.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "CACR26",
+      "title": "relating to the house of representatives. Providing that 100 of the representatives are elected using party list proportional representation.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1083",
+      "title": "relative to calendars and journals of the house and senate.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1146",
+      "title": "relative to condominium instruments and condominium special assessments.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1176",
+      "title": "relative to reducing the penalty for sex work within one's own home.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1220",
+      "title": "prohibiting the docking of houseboats on Perkins Pond in Sunapee.",
+      "review": "excluded",
+      "category": "recreation / animals / misc false positives"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1221",
+      "title": "relative to the rate of the business profits tax, and relative to payment by the state to political subdivisions of an amount equal to a portion of retirement system contributions of political subdivision employers.",
+      "review": "excluded",
+      "category": "retirement-system bills matching 'subdivision' (political subdivisions)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB124",
+      "title": "adopting the uniform real property transfer on death act.",
+      "review": "excluded",
+      "category": "real-estate industry regulation (brokers, transactions, probate)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1289",
+      "title": "relative to applications for abatements and authority to abate prior years' taxes for certain homeowners.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1309",
+      "title": "establishing a committee to study revising house rules to assure that all sections of the budget trailer bill receive an adequate public hearing.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1314",
+      "title": "establishing a committee to study the management and oversight of the New Hampshire veterans' home.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1344",
+      "title": "relative to the authority of real estate brokers.",
+      "review": "excluded",
+      "category": "real-estate industry regulation (brokers, transactions, probate)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1353",
+      "title": "renaming a wing in the New Hampshire veterans' home.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1354",
+      "title": "relative to regulation by the New Hampshire real estate commission.",
+      "review": "excluded",
+      "category": "real-estate industry regulation (brokers, transactions, probate)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1365",
+      "title": "allowing towns and cities to tax residential and non-residential property at different rates.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1378",
+      "title": "relative to inspection of public lodging houses.",
+      "review": "excluded",
+      "category": "recreation / animals / misc false positives"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1380",
+      "title": "relative to installation of solar photovoltaic energy systems by owners subject to deed restrictions in a homeowners association.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1387",
+      "title": "enabling municipalities to adopt a property tax homestead exemption.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1417",
+      "title": "relative to payment by the state of a portion of retirement system contributions of political subdivision employers.",
+      "review": "excluded",
+      "category": "retirement-system bills matching 'subdivision' (political subdivisions)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1418",
+      "title": "relative to permit by notification for certain homeowner shoreland projects.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1494",
+      "title": "relative to a property tax exemption concerning certain communications services leases.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1496",
+      "title": "requiring political subdivisions to make voter checklists available in electronic form to any resident.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1521",
+      "title": "requiring the department of education to provide the house and senate standing committees responsible for education with written copies of the laws relative to education.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1525",
+      "title": "establishing a county nursing home capital reserve fund.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1586",
+      "title": "relative to a likeness of Wentworth Cheswill at the state house.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB166",
+      "title": "relative to safety requirements for pools on foreclosed residential property.",
+      "review": "excluded",
+      "category": "recreation / animals / misc false positives"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1663",
+      "title": "relative to requirements for home education students.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1681",
+      "title": "relative to the state building code and the state fire code.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB207",
+      "title": "repealing the regulation of household goods carriers.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB314",
+      "title": "relative to homestead food operation licensure.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB504",
+      "title": "relative to the state education property tax and the low and moderate income homeowners property tax relief program.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB614",
+      "title": "exempting the state and political subdivisions from payment of the costs of compliance with the renewable portfolio standard.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB629",
+      "title": "relative to the home cultivation of cannabis plants and the possession of certain cannabis-infused products.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB72",
+      "title": "relative to ratification of amendments to the state building code and state fire code.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB214",
+      "title": "relative to conflicts of interest and contract powers of condominium unit owners' associations.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB281",
+      "title": "relative to nursing home policies regarding notice of vacancy.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB299",
+      "title": "relative to the penalty for escape and relative to home cultivation of cannabis plants and the possession of certain cannabis-infused products.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB333",
+      "title": "relative to licensure of case management service providers and relative to payment by the state of a portion of retirement system contributions of political subdivision employers.",
+      "review": "excluded",
+      "category": "retirement-system bills matching 'subdivision' (political subdivisions)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB343",
+      "title": "establishing a committee to study room occupancy tax revenues and fees and the formula for distribution to municipalities.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB378",
+      "title": "relative to the disposal of highway or turnpike funded real estate.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB412",
+      "title": "making an appropriation to the department of health and human services for nursing home reimbursement rates.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB413",
+      "title": "requiring an independent audit and needs assessment regarding COVID-19 preparedness at long term care facilities, nursing homes, and the New Hampshire veterans' home, and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB416",
+      "title": "relative to behavioral health assessment and treatment for children in out-of-home placements.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB443",
+      "title": "relative to municipal authority regarding the state building code.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB119",
+      "title": "relative to homestead food operation licensure and making provisions for the sale of meat from uninspected bison, elk, or red deer.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB122",
+      "title": "relative to microenterprise home kitchen operations.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB178",
+      "title": "relative to the enforcement of condominium liens for assessments.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB239",
+      "title": "relative to condominium disclosure of financial information.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB268",
+      "title": "relative to the furnishing of special number plates to the liquor commission, division of enforcement and licensing, and official cover plates for the house and senate clerks.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB32",
+      "title": "relative to possession or discharge of a firearm in a safe school zone.",
+      "review": "excluded",
+      "category": "recreation / animals / misc false positives"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB335",
+      "title": "relative to notice of tax lien on real estate subject to a lien for old age assistance.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB344",
+      "title": "relative to the home cultivation of cannabis plants and the possession of certain cannabis-infused products.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB433",
+      "title": "providing that property tax exemptions granted prior to a home sale shall not be applied to the new homeowner.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB461",
+      "title": "establishing a committee to study elimination by political subdivision employers of a retirement system position.",
+      "review": "excluded",
+      "category": "retirement-system bills matching 'subdivision' (political subdivisions)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB492",
+      "title": "requiring the department of education to provide the house and senate standing committees responsible for education with copies of the laws and rules relative to education.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB496",
+      "title": "relative to the delivery of ballots to nursing homes and elder care facilities.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB520",
+      "title": "relative to escrow accounts maintained by licensed nondepository mortgage bankers, brokers, and servicers.",
+      "review": "excluded",
+      "category": "real-estate industry regulation (brokers, transactions, probate)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB564",
+      "title": "relative to ratification of amendments to the state building code and state fire code, and the membership of the state advisory board of fire control.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB569",
+      "title": "relative to the state education property tax and the low and moderate income homeowners property tax relief program.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB575",
+      "title": "relative to vaccine and pharmaceutical products purchased, promoted, or distributed by the state and its political subdivisions.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB637",
+      "title": "relative to the calculation of average daily membership in attendance for certain home educated pupils.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB68",
+      "title": "adopting the uniform real property transfer on death act.",
+      "review": "excluded",
+      "category": "real-estate industry regulation (brokers, transactions, probate)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB73",
+      "title": "relative to the repair of home appliances.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB98",
+      "title": "relative to applications for the low and moderate income homeowners property tax relief program.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB99",
+      "title": "requiring tax bills to provide information about a state tax rebate program for lower income homeowners.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HR2",
+      "title": "recording House Sessions and the Permanent Journal.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HR3",
+      "title": "distribution of House publications.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB114",
+      "title": "relative to payment by the state of a portion of retirement system contributions of political subdivision employers.",
+      "review": "excluded",
+      "category": "retirement-system bills matching 'subdivision' (political subdivisions)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB12",
+      "title": "relative to the leasing of seasonal camp lots by the fish and game department.",
+      "review": "excluded",
+      "category": "recreation / animals / misc false positives"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB168",
+      "title": "relative to participation in a low-moderate income residential customers community solar project.",
+      "review": "excluded",
+      "category": "energy / utilities (solar, weatherization, heating)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB227",
+      "title": "relative to an assessment of solid waste facility setback requirements and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB258",
+      "title": "relative to the disposal of highway or turnpike funded real estate.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB28",
+      "title": "relative to a portrait in the likeness of Rogers Johnson at the state house.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB53",
+      "title": "relative to the definition of the state building code.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB58",
+      "title": "relative to arrests without a warrant while in the care of a medical professional on the premises of a residential care or health care facility.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB61",
+      "title": "relative to surface water setbacks for landfills.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB66",
+      "title": "relative to financial transactions involving the liquidation or rehabilitation of an insurer in which the Federal Home Loan Bank is a party.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB94",
+      "title": "relative to residential child care licensing of child care institutions and agencies.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SR5",
+      "title": "RESOLVED, that the Senate meet in Joint Convention with the House of Representatives for the purpose of electing the Secretary of State and the State Treasurer.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SR6",
+      "title": "RESOLVED, that the Senate meet in Joint Convention with the House of Representatives for the purpose of canvassing votes for the Governor and Executive Council.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SR7",
+      "title": "RESOLVED, that the Senate meet in Joint Convention with the House of Representatives for the purpose of hearing the report of the Joint Committee appointed to compare and count the votes for Governor and Executive Council, for the Inauguration of the Governor, the Honorable Christopher T. Sununu, and for the taking of the oath by the Executive Council.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SR8",
+      "title": "RESOLVED, that the Senate is ready to meet with the House of Representatives in Joint Convention for the purpose of hearing the Budget Address by his Excellency, Governor Chris Sununu.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1034",
+      "title": "relative to enabling municipalities to adopt a homestead property tax exemption.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1049",
+      "title": "relative to the prohibition on overnight mooring of houseboats.",
+      "review": "excluded",
+      "category": "recreation / animals / misc false positives"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1059",
+      "title": "relative to the state building code.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1096",
+      "title": "enabling the state house visitors center to sell state symbols that may have intellectual property right holders.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1129",
+      "title": "relative to the authority to vote by proxy in a condominium association.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1144",
+      "title": "relative to requirements for sewage disposal system information to be disclosed during real estate transactions.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1152",
+      "title": "enabling the mental health flag to be flown at the state house.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1172",
+      "title": "relative to meetings of condominium boards and committees.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1180",
+      "title": "relative to the scope of the homestead exemption.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1187",
+      "title": "relative to prohibiting lease agreements of equipment for building or facility improvements.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB122",
+      "title": "relative to microenterprise home kitchen operations.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1224",
+      "title": "relative to amendment of condominium instruments.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1230",
+      "title": "relative to establishing a committee to examine weatherization initiatives for homes in New Hampshire.",
+      "review": "excluded",
+      "category": "energy / utilities (solar, weatherization, heating)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1279",
+      "title": "relative to payment by the state of a portion of retirement system contributions of political subdivision employers.",
+      "review": "excluded",
+      "category": "retirement-system bills matching 'subdivision' (political subdivisions)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1306",
+      "title": "relative to special assessments for capital improvements in condominiums.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1343",
+      "title": "prohibiting the use by the governor of emergency orders concerning elections procedures without the written consent of the majority and minority leaders of the house of representatives and senate.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1357",
+      "title": "relative to condominium board meetings.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1387",
+      "title": "relative to revisions to the state building code.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1395",
+      "title": "relative to home heating oil and propane contracts.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1430",
+      "title": "relative to electric rates approved by the public utilities commission for residential condominium property.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1495",
+      "title": "making provisions for the prospective of all legislative acts on a sliding scale based on the vote count when passed by the house of representatives.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1563",
+      "title": "relative to the education property tax and the authority of political subdivisions.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1573",
+      "title": "relative to out-of-home placements for children.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1584",
+      "title": "relative to home day care licensing requirements.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1641",
+      "title": "relating to requiring large parking lots to have a solar power canopy.",
+      "review": "excluded",
+      "category": "energy / utilities (solar, weatherization, heating)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1645",
+      "title": "establishing a condominium dispute resolution board.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1685",
+      "title": "redefining \"homestead foods\" as \"artisan foods,\" creating an artisan food operations exemption, establishing artisan food products sales venues, and allowing the production and sale of artisan food products requiring refrigeration.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB178",
+      "title": "relative to the enforcement of condominium liens for assessments.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB239",
+      "title": "relative to condominium disclosure of financial information.",
+      "review": "excluded",
+      "category": "condominium/HOA governance (ownership administration, not supply or cost)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB344",
+      "title": "relative to the home cultivation of cannabis plants and the possession of certain cannabis-infused products.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB433",
+      "title": "providing that property tax exemptions granted prior to a home sale shall not be applied to the new homeowner.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB569",
+      "title": "relative to the state education property tax and the low and moderate income homeowners property tax relief program.",
+      "review": "excluded",
+      "category": "property tax relief / assessment mechanics (tax policy, out of issue scope)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB637",
+      "title": "relative to the calculation of average daily membership in attendance and average daily membership in residence for certain home educated pupils.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB68",
+      "title": "adopting the uniform real property transfer on death act.",
+      "review": "excluded",
+      "category": "real-estate industry regulation (brokers, transactions, probate)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB73",
+      "title": "relative to the repair of home appliances.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HCR9",
+      "title": "rescinding House Concurrent Resolution No. 40 passed by the 2012 New Hampshire General Court asking that Congress call a convention under Article V of the United States Constitution.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB168",
+      "title": "relative to participation in a low-moderate income residential customers community solar project.",
+      "review": "excluded",
+      "category": "energy / utilities (solar, weatherization, heating)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB227",
+      "title": "relative to an assessment of solid waste facility setback requirements and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB28",
+      "title": "relative to a portrait in the likeness of Rogers Johnson at the state house.",
+      "review": "excluded",
+      "category": "chamber housekeeping / state house references ('house' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB319",
+      "title": "relative to vaccine and pharmaceutical products purchased, promoted, or distributed by the state and its political subdivisions.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no housing-policy content)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB330",
+      "title": "relative to allowing the ability to work from home to count toward unemployment benefits eligibility.",
+      "review": "excluded",
+      "category": "'home' false positives (home ed., home food, home cultivation, home care...)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB332",
+      "title": "limiting re-disclosure of consumer reports requested in connection with a credit transaction involving an extension of credit secured by real estate.",
+      "review": "excluded",
+      "category": "real-estate industry regulation (brokers, transactions, probate)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB349",
+      "title": "establishing a committee to study voluntary home visiting services for families withnewborns, infants, and young children.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB373",
+      "title": "relative to the state building code.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB412",
+      "title": "relative to residential care and health facility licensing.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB417",
+      "title": "relative to out-of-home placements for children.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB437",
+      "title": "relative to local authority to amend the state building code.",
+      "review": "excluded",
+      "category": "state building / fire code administration (kept out consistently)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB478",
+      "title": "relative to child day care, residential care, and child-placing agency licensing.",
+      "review": "excluded",
+      "category": "nursing homes / institutional and child residential care (not market housing)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB480",
+      "title": "relative to the regulation of real estate practice.",
+      "review": "excluded",
+      "category": "real-estate industry regulation (brokers, transactions, probate)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB502",
+      "title": "relative to the scanning of drivers' licenses by real estate brokers.",
+      "review": "excluded",
+      "category": "real-estate industry regulation (brokers, transactions, probate)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB593",
+      "title": "relative to possession of firearms in safe school zones.",
+      "review": "excluded",
+      "category": "recreation / animals / misc false positives"
+    }
+  ],
+  "collected_bills_not_in_universe": [],
+  "bulk_vote_rows_exceeding_sql": [],
+  "note": "Certification of the collected set against the complete OpenStates bulk universe. Every wide-net candidate below was human-reviewed; 35 were added to the set (supplement:universe-certification) and the rest are excluded with a category. Verdict: no housing bill in the 2020-2024 universe is absent from the set."
+}
