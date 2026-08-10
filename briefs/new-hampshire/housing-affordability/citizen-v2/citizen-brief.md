@@ -1,0 +1,141 @@
+---
+issue_id: new-hampshire-01-housing-affordability
+issue_title: Housing Affordability in New Hampshire
+brief_type: citizen-legislative-brief
+version: citizen-v2.0
+organization: The Forum
+generated_by: citizen-brief-writer v2.3
+date: 2026-08-10
+status: READY FOR HUMAN REVIEW
+---
+
+# Housing Affordability in New Hampshire
+
+The legislative record behind New Hampshire's housing debate, 2020–2026.
+
+## The legislative landscape
+
+New Hampshire's General Court took up 289 housing bills across the 2020–2026 sessions; 59 became law, two of them by riding the state budget. The record splits sharply by subject. Bills that let more homes be built — in commercial zones, as accessory dwelling units, as manufactured and tiny homes — began passing in 2024 with the HB1400 housing omnibus and accelerated through 2025–2026, usually on cross-party votes, after years of near-identical bills dying. Statewide density mandates still fail every time. Bills that touch the cost of renting died in the House in every session; the fee law that finally passed requires disclosure and refunds, not caps. The money runs on a third track: standalone housing-funding bills almost always die, several after unanimous Senate votes, while the same dollars pass every two years inside HB2, the budget trailer. The 2025–2026 biennium produced 101 of the 289 bills and 22 of the 59 new laws — plus 67 kills and 11 interim studies.
+
+## Key numbers
+
+- **289** housing bills, 2020–2026
+- **59** became law — 22 of them in the 2025–2026 biennium
+- **1 vote** — the margin by which the House passed the 2025 budget trailer (184–183) carrying the biggest housing programs
+- **4 tries** — density mandates failed in 2021, 2022, 2023, and 2024 before the narrower 2025–2026 zoning laws passed
+- **23** core housing sections enacted inside the last three budget trailers (HB2)
+
+## Also in the budget bill (HB2)
+
+Much of New Hampshire's housing law is made inside HB2, the omnibus policy bill that rides with each two-year budget. The last three trailers carried 23 core housing sections: $25 million for the Affordable Housing Fund in 2021 and again in 2023; $10 million for InvestNH and the Housing Champion programs (2023); Partners in Housing for workforce homes on public land (2025); $10 million in shelter funding in 2023 and $5 million a year of opioid-settlement shelter money in 2025. HB2 2023 also repealed the Board of Manufactured Housing, and HB2 2025 cut the Housing Appeals Board from three members to two serving at the Governor and Council's pleasure. Votes on HB2 are on the whole trailer — never on a single section.
+
+## Where new law exists
+
+**Homes on commercial land, and easier development rules.** The turn came in 2024: HB1400 created tax incentives for converting offices to homes, capped local parking mandates — an idea that had died as HB1098 (2022) — and let towns fast-track zoning amendments, clearing its conference report 205–149. HB631 (2025) legalized residential building in commercial zoning after the same idea died as HB1053 (2024); HB1010 and HB1588 (2026) extended multifamily development on commercial land with housing-infrastructure grant money. HB457 (2025) limited local dwelling-unit restrictions. The most aggressive versions (SB90, HB1065 of 2026) still died.
+
+**Accessory dwelling units, narrowly.** After an ADU tax exemption (HB1510, 2020), an ADU rules bill (HB189, 2021), and ADUs-by-right (HB423, 2023) all died, HB577 (2025) broadened the ADU definition to include detached units and HB1079 (2026) opened non-conforming structures. A 2026 repeal attempt (HB1012) died; ADU financing bills have not passed.
+
+**Manufactured and tiny homes.** The record's strongest resident-protection thread: park-sale regulation (SB210, 2022), realistic-opportunity siting requirements (HB1361, 2024), sale notice in resident-owned communities (SB166, 2025) — and, after tiny-house codes died in 2020, 2021, and 2022, tiny houses and yurts legalized by HB1681 (2026), 242–102 on concurrence.
+
+**Renters, at the edges.** HB283 (2024) makes landlords disclose application fees and refund anything beyond documented costs to applicants who don't get the unit; HB261 (2024) lets tenants end a lease in domestic violence situations; HB360 (2021) legalized shared-living rentals; HB309 (2025) made electronic rent payment optional. SB126 (2021) and HB1598 (2026) updated eviction procedure. SB406 (2024) put $2.5 million into shelter rates — the only standalone shelter money to pass.
+
+**Boards and appeals.** HB92 (2025) added recusal rules; HB1359 (2024) settled abutter appeals; HB1456 (2024) changed how appeals-board members are appointed and removed. Board-training bills died five times (2020–2026).
+
+## Ideas that reached the Legislature and stalled
+
+**Density mandates, in escalating losses.** More-units-by-right died in committee in 2021 (HB341), on the table in 2022 (HB1177), 117–232 on the floor in 2023 (HB44), and in 2024 the gentlest version — HB1399, merely letting towns permit second units — passed the House 220–140 and sits in Senate interim study. The two-ADU mandate (HB1291, 2024) passed the House 220–143, with 150 Democrats and 67 Republicans in favor, and the Senate indefinitely postponed it after a rescue amendment failed 8–16.
+
+**Zoning-procedure reform.** SB538 (2024) passed the Senate and was killed on the House floor 188–173; SB84 (2025) passed the Senate 13–10 and ended in interim study; vesting reform (HB1215, 2024) died when the House rejected its conference report 102–261.
+
+**Standalone housing money.** Affordable Housing Fund bills died in 2020 (SB15), 2021 (SB152, after a 24–0 Senate vote), 2024 (SB454, doubling the transfer-tax stream — Senate unanimous, tabled by the House 180–176 on a division vote with no roll call), and 2025 (HB530, SB81, at the Senate's own deadline); SB419 (2026) went to interim study. SB231's 2023 appropriations rode HB2 instead. Also stalled: municipal rental-housing loans (SB384), the historic housing tax credit (SB364), and inclusionary-zoning enabling (SB224), all sent to interim study in 2024.
+
+**The Housing Appeals Board fight.** Repeal-or-replace bills died in 2020 (SB721, SB735, SB487), 2021 (HB288), and 2022 (HB1216, HB1254, HB1307); the 2024 merger bill (HB1651) died too — then HB2 2025 restructured the board anyway.
+
+**A repeal, stopped.** HB1196 (2026) — repealing the Housing Champion program — passed the House 185–166 with Republicans in favor and every voting Democrat opposed; the Senate killed it.
+
+## Ideas that have not passed either chamber
+
+**Voucher protections.** Discrimination bans died in the House three times (HB1291 2022, tabled 179–148; HB469 2023; HB628 2025); the incentive version (SB518, 2024) went to interim study.
+
+**Rent costs and fees.** Rent-increase notice died three times (HB160 2021, HB1200 2022, HB567 2023); the public rent registry twice (HB422 2023, HB558 2025); application-fee caps repeatedly (HB1408 2022; HB1371, HB1375 2026); rent-stabilization enabling once (HB1362, 2024); municipal rental regulation 301–63 (HB95, 2023); and the algorithmic price-fixing bans twice (2025, 2026). The one deposit bill to clear both chambers ran the other way: HB1336 (2026), loosening the security-deposit cap, was vetoed, with the override pending this fall.
+
+**Tenant protections at key moments.** Notice before a building's sale died in 2023 (HB112, 175–199) and 2025 (HB444); renovation-eviction limits in 2023 (HB401, 154–213) and 2024 (SB519); eviction legal-counsel notice in 2023 and 2024 (HB379). The landlord-side no-cause lease-expiration termination also failed three times (2021–2024).
+
+## The political terrain
+
+Housing-supply coalitions are cross-party and shift bill by bill: at least 42 policy bills carried sponsors from both parties, and the commercial-zone laws passed with mixed majorities. The 2021 zoning omnibus SB86 passed the House 208–167 with 196 Republicans in favor and 164 Democrats opposed; three years later the ADU mandate passed the House on the reverse coalition, and HB44's four-plex mandate failed with Republicans opposed roughly eight to one and Democrats split. Tenant-cost bills die in the House under both parties' majorities — the Inexpedient to Legislate motion is the single largest killer in the set, with 51 housing bills killed in 2026 alone. Some decisive outcomes left no roll call at all: SB454's tabling and HB1291's 2024 Senate death were unrecorded votes. Five 2025 Senate housing bills died at the Senate's Rule 3-23 deadline rather than on the merits. Since 2020 the Governor has vetoed three housing bills: the COVID eviction pause (HB1247, 2020, override failed 187–148), the manufactured-housing boards bill (SB318, 2024), and the deposit-cap exception (HB1336, 2026). Frequent carriers where party records exist: Reps. Joe Alexander (R) and Ellen Read (D) and Sen. Keith Murphy (R) on seven, six, and five bills.
+
+## New law from the 2025–2026 biennium
+
+Twenty-two housing laws in two years. HB631, HB1010, and HB1588 opened commercial land to homes; HB577 and HB1079 widened ADU rights; HB457 limited local dwelling-unit restrictions; HB1681 legalized tiny houses. HB1598 updated eviction procedure; SB166 protected manufactured-home residents at sale; HB92 added recusal rules. HB1042 raised New Hampshire Housing's bonding cap; SB490 put vacant Great Bay Community College property to work for housing. The budget trailer carried the rest — Partners in Housing, Housing Champion extensions, opioid-fund shelter dollars, Medicaid supportive housing, and the Housing Appeals Board restructure — passed 184–183 in the House as one package.
+
+Full bill-by-bill detail, votes, sponsors, HB2 sections, and sources: Appendices A–I (in the citizen-v1 folder).
+
+## Proposal spotlights
+
+## Funding the Housing Champions program
+
+**The program exists, is funded through mid-2026, and survived a repeal vote — the open questions are renewal money and the designation criteria.** The voluntary designation and its grant programs were created by HB2 2023 (79:462–466, $5 million plus administration) after SB145 passed the Senate 21–3, and HB2 2025 extended the money and widened the fund (141:355, 141:214); HB1588 (2026) added housing-infrastructure grant money. The 2026 repeal (HB1196) passed the House 185–166 on near-party lines and was killed by the Senate. The funding retries died short of the floor — SB279 (2025) at the Senate's deadline, SB419 (2026) in interim study 16–8 — and no bill has touched the ranking criteria participants asked about: every criteria change so far has moved through the budget trailer.
+
+## Density, ADUs, and alternative housing types
+
+**Narrow versions now pass with cross-party votes; statewide unit mandates have failed four years running.** What is law: detached ADUs by right (HB577, 2025), ADUs in non-conforming structures (HB1079, 2026), limits on local dwelling-unit restrictions (HB457, 2025), homes on commercial land with parking caps (HB1400 2024; HB631 2025; HB1010 and HB1588 2026), manufactured-housing siting requirements (HB1361, 2024), and tiny houses and yurts (HB1681, 2026, after three failed tries). What keeps stalling: two-ADUs-by-right passed the House 220–143 in 2024 and died in the Senate; the towns-may-permit-second-units bill passed 220–140 and sits in interim study; the unit mandates of 2021–2023 all died, the last one 117–232. On the worry that the state has little power over local zoning: each of the enacted laws is a statewide rule that overrides local codes — the power exists and has been used; the fights are over how far it reaches.
+
+## Corporate and private-equity buyers
+
+**Never filed as an ownership limit; the tax side reached the House floor once and stayed on the table.** No New Hampshire bill in the certified 2020–2026 record proposes capping corporate home purchases, registering investor owners, or taxing corporate-owned housing at a higher rate — the design work participants debated has no legislative record here yet. The nearest attempts: the luxury second-home assessment for housing programs (HB1786, 2026) was tabled 189–158 and stayed there 100–235; the vacancy tax (HB1707, 2026), the rent registry with an algorithmic-pricing ban (HB558, 2025), the price-fixing-software ban (HB1612, 2026), and the corporate-rent-increase eviction shield (HB1368, 2024) all died. The one enacted study in the investment space points the other way: HB633 (2025) studies housing investment trusts as a financing tool.
+
+## Starter homes and the affordable-luxury ratio
+
+**No bill regulates the mix of new construction, and no starter-home incentive has been filed — the enacted supply laws work other margins.** In law: Partners in Housing funds workforce homes on public land with a required workforce share (HB2 2025, 141:212–213, with fast-track review), the sprinkler exemption cut costs for three- and four-family homes (HB1065, 2024), and tiny houses and office conversions legalized the smallest new units. The funding designs keep dying in the House: workforce-housing targets with a revolving fund (HB1764, 2026), the community heroes homebuyer expansion (HB1661, 2026, 179–166), the homebuyer-loan study (HB1101, 2024), the homeownership innovations fund (SB202, 2023), and housing tax-increment financing (HB1660, 2026). A 2026 attempt to repeal the workforce housing law outright (HB1619) went to interim study instead of passing.
+
+## Second-home taxes and short-term rental limits
+
+**The tax reached the floor and stayed on the table; restriction bills die in every form tried.** HB1786's second-home assessment was tabled 189–158 in 2026. The short-term rental bills — a state registry (HB1498, 2024), a statutory definition (HB1635, 2024), municipal authority over vacation rentals (SB458, 2020), and occupancy fees (HB1160 2020, which passed the House 174–113 before dying on the Senate's pandemic table; SB338 2022; SB262 2023) — all died, as did the extended-stay housing program (SB434, 2024). The one STR bill that moved ran the opposite way: SB249 (2022), barring towns from prohibiting short-term rentals, reached interim study.
+
+## Glossary
+
+- **Accessory dwelling unit (ADU):** A second, smaller home on the same lot as a main house — an in-law apartment, converted garage, or backyard cottage. Since 2025, detached ADUs are allowed by right statewide.
+- **Affordable Housing Fund:** The state fund at New Hampshire Housing that finances or matches funding for affordable housing; fed by $5 million a year of transfer-tax money plus budget appropriations ($25 million in 2021 and again in 2023).
+- **By right:** Development a property owner may build without a special permit, variance, or discretionary board vote.
+- **Community heroes program:** New Hampshire Housing's homebuying help for public-service workers; the 2026 expansion bill died.
+- **Extended-stay housing:** Long-term occupancy of hotel and motel rooms — a proposed program to formalize it died in 2024.
+- **Housing Appeals Board:** The two-member state board (three members before 2025) that hears appeals of local land-use decisions on housing, as a faster alternative to court; created in the 2019 budget, restructured by HB2 2025.
+- **Housing Champion:** The voluntary designation for municipalities that adopt housing-friendly rules, train land boards, and invest in water and sewer capacity — unlocking state grants ($5 million, 2023).
+- **Housing investment trust:** A pooled investment vehicle for financing housing projects; a 2025 law created a study committee on them.
+- **Housing opportunity zone:** A district a town may create under RSA 79-E granting temporary property-tax relief for housing development or conversions.
+- **Inclusionary zoning:** Requiring or incentivizing a share of affordable units in new developments; a 2023–2024 enabling bill ended in interim study.
+- **InvestNH:** The state's grant fund (created 2022 with federal money, written into law by HB2 2023 with $10 million) that pays municipalities to speed housing approvals and supports construction.
+- **Manufactured housing / resident-owned community (ROC):** Factory-built homes on rented or cooperatively owned lots; in a ROC, the residents own the park together.
+- **New Hampshire Housing (NHHFA):** The state's housing finance authority — it runs the Affordable Housing Fund and homebuyer programs on bond authority; a 2026 law raised its bonding cap.
+- **Partners in Housing:** The program (HB2 2025) funding workforce housing built on municipal, county, or college land transferred to developers, with a required workforce-unit share.
+- **Price-fixing software / algorithmic rents:** Commercial software that recommends rents by pooling landlords' data; two bills to ban its use died.
+- **Rent registry:** A proposed public county-by-county list of rents charged per unit; died in 2023 and 2025.
+- **Rent stabilization:** Limits on how fast rents may rise; the one NH bill (2024) would merely have let municipalities adopt limits, and died.
+- **Short-term rental (STR):** A home or room rented by the night (Airbnb-style); registry, definition, and municipal-authority bills have all died.
+- **Starter home:** A modestly sized, entry-priced home for first-time buyers; no NH bill has defined or incentivized them.
+- **Tiny house / yurt:** Very small dwellings legalized as "innovative housing structures" by HB1681 (2026), with inspection and local-approval rules.
+- **Transfer tax:** New Hampshire's tax on real estate sales; $5 million a year of it feeds the Affordable Housing Fund, and bills to raise that share died in 2024, 2025, and 2026.
+- **Voucher (housing choice voucher / Section 8):** Federal rent help paid to landlords on a tenant's behalf; NH bills to ban voucher discrimination died three times, and a landlord-incentive version sits in interim study.
+- **Workforce housing:** Housing affordable at working-household incomes as defined in RSA 674:58–61, which requires municipalities to provide reasonable opportunities for it; a 2026 repeal attempt went to interim study.
+
+## Legislative process glossary
+
+- **HB / SB / CACR / HR:** House Bill and Senate Bill (the chamber a bill started in, plus a number); CACR is a proposed constitutional amendment; HR is a House resolution, which expresses a position but is not law. Numbering restarts each biennium, so the same number in different years is usually a different bill.
+- **Chambers:** The 400-member House of Representatives and the 24-member Senate — the largest and one of the smallest state chambers in the country. A bill must pass both to reach the Governor.
+- **Session / biennium:** The Legislature meets every year, but bills live inside a two-year biennium (2021–22, 2023–24, 2025–26); a first-year bill can be carried into the second year under the same number.
+- **Budget trailer (HB2):** The omnibus policy bill that accompanies each two-year budget (HB1 carries the dollars). Dozens to hundreds of unrelated law changes ride in numbered sections — much of NH housing law is made here. Votes are on the whole trailer, never on one section.
+- **Chapter law:** A bill that becomes law is assigned a chapter number for its year — "Chapter 197" — the citation these documents use for enacted bills.
+- **Committee report — Ought to Pass (OTP) / OTP with Amendment (OTPA) / Inexpedient to Legislate (ITL):** The committee's recommendation to the floor: pass, pass as changed, or kill. "Inexpedient to Legislate" adopted by either chamber is the standard way a New Hampshire bill dies.
+- **Consent calendar:** A batch of uncontested committee recommendations approved in one voice vote; many bills die (or pass) this way without an individual vote.
+- **Roll call / division / voice vote:** A roll call records each member's vote by name; a division counts votes without names; a voice vote records nothing. Many decisive NH outcomes — including some in these documents — happened on division or voice votes, which is why they carry no member-level tallies.
+- **Laid on the table:** A motion that sets a bill aside; unless a later motion removes it, the bill dies there at the session's end.
+- **Interim study:** A committee keeps the bill for study between sessions instead of passing or killing it; the bill itself is dead, but the idea may return with a recommendation.
+- **Retained / rereferred:** The House retains, the Senate rereferrs — the committee keeps a first-year bill over the summer and acts on it in the second year of the biennium.
+- **Committee of conference:** Negotiators from both chambers reconcile differing versions; if they cannot agree, or a chamber rejects the report, the bill dies "between the chambers."
+- **Concur / nonconcur:** When the second chamber amends a bill, the first chamber must accept (concur in) the change, ask for a conference, or let the bill die.
+- **Senate Rule 3-23 deadline:** The Senate's internal end-of-year deadline; bills still pending are automatically declared Inexpedient to Legislate — several housing bills died this way in 2025 after unanimous votes.
+- **Governor and Executive Council:** The Governor signs or vetoes bills; the elected five-member Executive Council confirms appointments — including, since 2025, Housing Appeals Board members serving "at the pleasure of" both.
+- **Veto / override:** The Governor's rejection of a passed bill; overriding takes two-thirds of each chamber. Three housing bills were vetoed in this record, and no override succeeded.
+- **Sponsor / prime sponsor:** The lawmakers who formally introduce a bill; the prime sponsor is its lead author. Cross-party sponsor teams appear throughout the housing-supply record.
+- **Vote pairs such as "220–143":** Floor votes are yes–no tallies, one per chamber; in the 400-member House a bill can pass by a wide margin and still die in the 24-member Senate.
