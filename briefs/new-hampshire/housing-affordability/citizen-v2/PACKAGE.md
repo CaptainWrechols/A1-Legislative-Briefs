@@ -17,7 +17,7 @@ regenerates only the content.
 |---|---|
 | `NH1-Housing-Lege-Brief.docx` | **The deliverable.** 7 pages, LibreOffice-verified: brief → policy spotlights → glossary → legislative process glossary; real Word footer ("NH1 Housing Legislative Brief v1.0" + page number) |
 | `lege-brief.md` | Source markdown (edit this, then rebuild) |
-| `appendices/` | Appendices A–I (A bills · B themes · C votes · D sponsors · E paths · F limits · H HB2 sections · I sources & certification) as markdown, plus `appendices-print.html` (45 print pages) and `appendices.docx` |
+| `appendices/` | Appendices A–I (A bills · B themes · C votes · D sponsors · E paths · F limits · H HB2 sections · I sources & certification) as markdown, plus `appendices-print.html` (77 print pages) and `appendices.docx` |
 | `citizen-brief-print.css` | Print CSS used by the appendices HTML |
 
 The review record (review-report, completeness certification) remains in `../citizen-v1/`.
