@@ -1,0 +1,250 @@
+# New Hampshire issue config — Property Taxes and Revenue Needs
+# Built from config/issues/new-hampshire-housing-affordability.yaml (the
+# template issue) with search/relevance terms fitted to the property-tax /
+# state-revenue vocabulary (2026-08-11). Sessions 2020 -> current only.
+#
+# Select with: export ISSUE_CONFIG=config/issues/new-hampshire-property-taxes.yaml
+
+state: new-hampshire
+issue_id: new-hampshire-02-property-taxes
+issue_title: "Property Taxes and Revenue Needs in New Hampshire"
+issue_slug: property-taxes
+openstates_jurisdiction: New Hampshire
+
+# NH runs annual sessions inside two-year biennia; budget years (HB1 operating
+# budget + HB2 policy trailer) are 2021, 2023, 2025.
+sessions:
+  - {label: "2020", openstates_identifier: "2020", sql_session_year: 2020, biennium: "2019-2020", budget: false}
+  - {label: "2021", openstates_identifier: "2021", sql_session_year: 2021, biennium: "2021-2022", budget: true}
+  - {label: "2022", openstates_identifier: "2022", sql_session_year: 2022, biennium: "2021-2022", budget: false}
+  - {label: "2023", openstates_identifier: "2023", sql_session_year: 2023, biennium: "2023-2024", budget: true}
+  - {label: "2024", openstates_identifier: "2024", sql_session_year: 2024, biennium: "2023-2024", budget: false}
+  - {label: "2025", openstates_identifier: "2025", sql_session_year: 2025, biennium: "2025-2026", budget: true}
+  - {label: "2026", openstates_identifier: "2026", sql_session_year: 2026, biennium: "2025-2026", budget: false}
+
+# Full-text search terms used to discover bills (SQL LIKE '%term%' over titles;
+# OpenStates bulk titles+abstracts for 2020-2024). High recall; every hit is
+# kept for human review in curation.
+#
+# Substring-safety adjustments (SQL LIKE matches substrings):
+#   * bare "tax" is deliberately NOT a term - it would sweep 600+ bills a
+#     biennium (every excise, fee, and "taxidermy") and drown curation; the
+#     specific tax phrases below plus the certification wide net cover it.
+#   * "assessment" is NOT a term ("statewide assessment" is education testing,
+#     "assessment of damages" is tort law); "assessing" / "revaluation" /
+#     "equalization" carry the property-assessment vocabulary.
+#   * "rooms and meals" is omitted: the statutory phrase in titles is
+#     "meals and rooms" (RSA 78-A) - zero titles use the reversed order.
+#   * "homestead" also matches "homestead food operation" (cottage-food
+#     licensing); those are curated out as context.
+#   * "retirement system contributions" (not bare "retirement system", 70+
+#     bills of pension mechanics) catches the state-share downshift thread
+#     that towns pay through property taxes.
+search_terms:
+  - "property tax"
+  - "statewide education"
+  - "adequate education"
+  - "adequacy"
+  - "education trust fund"
+  - "school funding"
+  - "education funding"
+  - "school building aid"
+  - "interest and dividends"
+  - "business profits"
+  - "business enterprise tax"
+  - "meals and rooms"
+  - "homestead"
+  - "current use"
+  - "land use change tax"
+  - "timber tax"
+  - "excavation tax"
+  - "utility property"
+  - "assessing"
+  - "revaluation"
+  - "equalization"
+  - "abatement"
+  - "tax cap"
+  - "tax rate"
+  - "tax relief"
+  - "tax exemption"
+  - "tax credit"
+  - "tax deferral"
+  - "tax lien"
+  - "tax expenditure"
+  - "income tax"
+  - "sales tax"
+  - "excise"
+  - "taxation"
+  - "tax on"
+  - "revenue"
+  - "local option"
+  - "state aid"
+  - "payment in lieu of taxes"
+  - "communications services tax"
+  - "retirement system contributions"
+  - "cooperative school"
+  - "keno"
+  - "lottery"
+  - "gambling"
+
+# Words that mark a title/abstract as clearly on-topic (review flag only;
+# nothing is dropped). Also selects candidate HB2 sections
+# (hb2_sections.match_sections) - matches are recall-first and hand-pruned.
+# Kept identical to search_terms so no discovered bill is silently dropped by
+# the bulk-CSV relevance gate; "revenue" and "taxation" will over-match HB2
+# sections by design (the trailer is a revenue bill), and the HB2 hand review
+# prunes them with an audit trail.
+relevance_terms:
+  - "property tax"
+  - "statewide education"
+  - "adequate education"
+  - "adequacy"
+  - "education trust fund"
+  - "school funding"
+  - "education funding"
+  - "school building aid"
+  - "interest and dividends"
+  - "business profits"
+  - "business enterprise tax"
+  - "meals and rooms"
+  - "homestead"
+  - "current use"
+  - "land use change tax"
+  - "timber tax"
+  - "excavation tax"
+  - "utility property"
+  - "assessing"
+  - "revaluation"
+  - "equalization"
+  - "abatement"
+  - "tax cap"
+  - "tax rate"
+  - "tax relief"
+  - "tax exemption"
+  - "tax credit"
+  - "tax deferral"
+  - "tax lien"
+  - "tax expenditure"
+  - "income tax"
+  - "sales tax"
+  - "excise"
+  - "taxation"
+  - "tax on"
+  - "revenue"
+  - "local option"
+  - "state aid"
+  - "payment in lieu of taxes"
+  - "communications services tax"
+  - "retirement system contributions"
+  - "cooperative school"
+  - "keno"
+  - "lottery"
+  - "gambling"
+
+# HB2 is New Hampshire's omnibus budget policy trailer; it must be analysed
+# section-by-section (see docs/nh-hb2-section-workflow.md). Votes are recorded
+# on HB2 as a whole, never per section. For this issue HB2 is where the big
+# rate changes live: the 2021 trailer cut the BPT, BET, and meals-and-rooms
+# rates and began the interest-and-dividends phase-out; the 2023 trailer
+# accelerated the I&D repeal and rewrote education funding numbers.
+omnibus_bills:
+  - bill_no: HB2
+    role: "budget policy trailer (companion to HB1)"
+    cycles: [2021, 2023, 2025]
+    method: section-by-section
+    section_extractor: collectors/nh/hb2_sections.py
+    outputs:
+      sections_json: "working/new-hampshire/{issue}/hb2-sections.json"
+      sections_md: "working/new-hampshire/{issue}/hb2-sections.md"
+      relevant_json: "working/new-hampshire/{issue}/hb2-relevant.json"
+    # RSA chapters this issue is known to live in; used alongside
+    # relevance_terms when hand-reviewing HB2 section matches.
+    affected_rsa_chapters:
+      - "21-J"    # Department of Revenue Administration
+      - "72"      # Persons and property liable to taxation (exemptions, credits)
+      - "74"      # Annual inventory of polls and taxable property
+      - "75"      # Appraisal of taxable property
+      - "76"      # Apportionment, assessment, and abatement of taxes (incl. education tax)
+      - "77"      # Interest and dividends tax
+      - "77-A"    # Business profits tax
+      - "77-E"    # Business enterprise tax
+      - "78-A"    # Meals and rooms tax
+      - "79"      # Forest conservation and taxation (timber tax)
+      - "79-A"    # Current use taxation (incl. land use change tax)
+      - "83-F"    # Utility property tax
+      - "193-E"   # Adequate public education
+      - "198"     # School money (education trust fund, adequacy grants, SWEPT mechanics)
+
+# Phase 2 Community Conversation proposals (June-July 2026), from the
+# "NH1 - Phase 2 Constituent Proposals - Grid View for Legislators" packet
+# (Property Taxes and Revenue Needs grid, editable .docx revision of
+# 2026-08-11). These are the organizing spine of the proposal spotlights.
+constituent_proposals:
+  - id: restore-interest-dividends-tax
+    title: "Restore the interest and dividends tax"
+    frequency: "High: Appeared in both Nashua and Concord."
+    notes: >-
+      Concerns about political possibility since it involves raising taxes on
+      the wealthy.
+    outcome: >-
+      High: Broad agreement that NH tax base needs to be tied to a stable
+      revenue source. Broad support for dividends tax, with only a few
+      detractors.
+    match_terms: ["interest and dividends", "dividends tax"]
+  - id: diversify-tax-base
+    title: "Diversify the tax base / add new revenue sources"
+    frequency: "Very High: Nashua, Concord and online conversations"
+    notes: >-
+      Heavy resistance to broad-based sales or income tax. More openness to
+      increasing excise tax.
+    outcome: >-
+      Agreement that expanding the tax base should be a topic of discussion
+      but little consensus on what taxes should actually be implemented.
+    match_terms: ["income tax", "sales tax", "excise", "keno", "lottery", "gambling", "local option", "new revenue"]
+  - id: restore-business-taxes
+    title: "Stop cutting / restore state business taxes (BET, BPT, rooms & meals)"
+    frequency: "Very High: Nashua, Concord and online conversations."
+    notes: >-
+      Concerns about what raising business taxes will do for growth. On the
+      other side, participants argued that cutting business taxes have hurt
+      towns and forced the state to rely more heavily on property tax.
+    outcome: >-
+      High: Broad agreement that NH needs to stop "bleeding revenue."
+    match_terms: ["business profits", "business enterprise tax", "meals and rooms", "tax rate", "revenue sharing"]
+  - id: homestead-exemption
+    title: "Homestead exemption"
+    frequency: "High: Concord and online conversations."
+    notes: >-
+      Uncertainty about the impact on renters and how the tax change could
+      impact home prices.
+    outcome: >-
+      High: Some agreement paired with uncertainty. Most participants thought
+      that second home should be taxed higher but broad impacts are unclear.
+    match_terms: ["homestead", "second home", "owner-occupied", "primary residence", "tax exemption"]
+  - id: regionalization-consolidation
+    title: "Increase regionalization / consolidate services"
+    frequency: "Medium: Concord, multiple tables"
+    notes: >-
+      Concerns about not wanting to remove local control and that
+      consolidation could lead to degraded services.
+    outcome: >-
+      Mixed: Most participants agreed the consolidation could lead to saving
+      but some worried that trade offs would not be worth it.
+    match_terms: ["cooperative school", "consolidat", "regionaliz", "shared services", "county"]
+  - id: legislator-communication
+    title: "Improve communication and public education by legislators"
+    frequency: "Medium: Nashua, multiple tables"
+    notes: >-
+      Participants voiced concerns that politicians will not be open and
+      honest with the public.
+    outcome: >-
+      High: Adopted as a formal recommendation. Residents want open and honest
+      communication from politicians around the property tax debate.
+    match_terms: ["taxpayer information", "tax expenditure report", "transparency", "right-to-know", "public education"]
+
+# Relevant NH RSA chapters for background/context.
+rsa_chapters: ["21-J", "72", "74", "75", "76", "77", "77-A", "77-E", "78-A", "79", "79-A", "83-F", "193-E", "198"]
+
+agency_document_urls: []
+
+impact_lookback_years: 20
