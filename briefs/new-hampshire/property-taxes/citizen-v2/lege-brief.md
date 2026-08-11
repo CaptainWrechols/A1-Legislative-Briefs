@@ -110,7 +110,7 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 
 - **SB261 (2023):** rate and threshold changes; killed on the Senate floor 13–10.
 - **HB192 (2024):** rate and exemption changes; killed in the House.
-- **HB1492 (2024)** and **HB100 (2024):** adjustment and faster-repeal bills; both ended in interim study.
+- **HB1492 (2024) and HB100 (2024):** adjustment and faster-repeal bills; both ended in interim study.
 - **HB568 (2022), HB210 (2022), HB353 (2022):** exemption increases and credits; all killed in the House.
 
 ### Never filed
@@ -140,7 +140,7 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 - **HB1707 (2026):** the vacancy tax; killed in the House.
 - **HB1636 (2026):** a DRA study of revenue options; killed 284–76.
 - **HB491 (2026):** a study of education funding alternatives to property taxes; killed 195–157.
-- **HB722 (2020)** and **SB485 (2026):** marijuana and hemp taxation; interim study.
+- **HB722 (2020) and SB485 (2026):** marijuana and hemp taxation; interim study.
 - **SB168 (2025):** online gambling with proceeds partly reimbursing town exemptions; died at the Senate deadline.
 
 ## Stop cutting / restore state business taxes (BET, BPT, rooms & meals)
@@ -155,7 +155,7 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 
 ### Stopped early (the restorations)
 
-- **HB623 (2020)** and **HB10 (2021–22):** rate restorations; killed in the House.
+- **HB623 (2020) and HB10 (2021–22):** rate restorations; killed in the House.
 - **HB1422 (2024):** the omnibus rate bill (BPT, BET, CST, meals and rooms); interim study.
 - **HB255 and HB318 (2025):** raising the trust fund's business-tax shares; both killed — months before the trailer cut the shares instead.
 - **HB1478 (2022):** the surtax on large low-wage employers; killed 304–40.
@@ -177,10 +177,10 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 ### Stopped early
 
 - **HB1387 (2022):** the municipal homestead exemption option; killed on the House floor.
-- **HB1034 (2024)** and **HB1648 (2026):** the same design refiled; interim study both times.
+- **HB1034 (2024) and HB1648 (2026):** the same design refiled; interim study both times.
 - **HB1580 (2026):** taxing non-primary residences more; killed 284–55.
 - **HB1786 (2026):** the luxury second-home assessment; tabled 189–158, and the motion to take it back up failed 100–235.
-- **HB1365 (2022)** and **HB1467 (2020):** different rates for residential and other property; both killed.
+- **HB1365 (2022) and HB1467 (2020):** different rates for residential and other property; both killed.
 - **HB101, HB766, HB782 (2025):** elderly-homeowner exemptions — the broad-relief versions; all killed in the House.
 
 ## Increase regionalization / consolidate services
@@ -190,7 +190,7 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 ### Already law (mostly the other direction)
 
 - **HB152 (2021):** rewrote how cooperative school districts split costs among towns — the one clearly pro-cooperation law.
-- **HB530 (2023)** and **HB1374 (2026):** withdrawal-from-cooperative procedures; HB1374 passed the House 179–161 on its conference report.
+- **HB530 (2023) and HB1374 (2026):** withdrawal-from-cooperative procedures; HB1374 passed the House 179–161 on its conference report.
 - **HB1331 (2026):** let Derry absorb its cooperative school district as a town department, 193–157.
 
 ### Stopped early
@@ -239,7 +239,7 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 - **Equalization:** The state's annual adjustment making town assessments comparable, so shared taxes and aid formulas treat towns fairly; the equalization manual entered state rules in 2023.
 - **Exemption vs. credit:** An exemption reduces a property's taxable value; a credit reduces the tax bill itself (the veterans' credits are credits; the elderly exemption is an exemption).
 - **Fiscal capacity disparity aid:** Extra school aid (HB2 2025) for towns with low equalized property value per pupil — up to $1,250 per pupil.
-- **Homestead exemption (proposal):** Taxing owner-occupied primary homes on less than full value — a local option in every version filed here. Distinct from the existing **homestead right**, which protects home equity from creditors and has nothing to do with taxes.
+- **Homestead exemption (proposal):** Taxing owner-occupied primary homes on less than full value — a local option in every version filed here. Distinct from the existing homestead right, which protects home equity from creditors and has nothing to do with taxes.
 - **Interest and dividends (I&D) tax:** The 5 percent tax on investment income, phased down from 2023 and repealed January 1, 2025 through the budget trailers.
 - **Low and moderate income homeowners property tax relief:** The state's existing rebate of part of the statewide education property tax for lower-income homeowners; eligibility was widened in 2021 (HB486).
 - **Meals and rooms tax:** The 8.5 percent tax on restaurant meals, room rentals, and vehicle rentals (9 percent before October 2021); a share flows to every town through the municipal revenue fund created in the 2021 budget.

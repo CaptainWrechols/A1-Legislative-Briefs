@@ -62,6 +62,7 @@ python3 collectors/export_docx_lege_brief.py \
   --out briefs/new-hampshire/property-taxes/citizen-v2/NH1-Property-Taxes-Lege-Brief.docx \
   --footer "NH1 Property Taxes Legislative Brief v1.0"
 
+python3 working/new-hampshire/property-taxes/fix-footer-tabs.py   # keeps the page number on one line for this longer footer label
 python3 working/new-hampshire/property-taxes/build-appendices-nh.py
 python3 collectors/build_appendices_print.py --brief-dir briefs/new-hampshire/property-taxes/citizen-v2 [...flags in git history]
 python3 collectors/export_docx.py --brief-dir briefs/new-hampshire/property-taxes/citizen-v2
