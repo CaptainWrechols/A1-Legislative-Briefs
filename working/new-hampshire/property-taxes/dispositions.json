@@ -83,6 +83,16 @@
     },
     {
       "session_year": 2020,
+      "bill_no": "HB1160",
+      "title": "allowing municipalities to collect an occupancy fee from operators of local room rentals.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Introduced 06/16/2020, and Laid on Table, MA, VV; 06/16/2020;  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 1
+    },
+    {
+      "session_year": 2020,
       "bill_no": "HB1161",
       "title": "relative to electronic filings of meals and rooms tax returns and interest on payments of state taxes.",
       "disposition": "died_on_table",
@@ -173,6 +183,16 @@
     },
     {
       "session_year": 2020,
+      "bill_no": "HB1311",
+      "title": "relative to the semi-annual or quarterly collection of taxes in certain municipalities.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Introduced 06/16/2020, and Laid on Table, MA, VV; 06/16/2020;  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
       "bill_no": "HB1368",
       "title": "relative to filling vacancies for at-large members of school boards and budget committees of cooperative school districts.",
       "disposition": "died_on_table",
@@ -238,6 +258,16 @@
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
       "evidence": "Inexpedient to Legislate: MA VV 02/19/2020  HJ 4  P. 27",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1477",
+      "title": "establishing a committee to study the impact of taxes on tobacco use and their role in tobacco and nicotine cessation programs.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Introduced 06/16/2020, and Laid on Table, MA, VV; 06/16/2020;  SJ 8",
       "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
@@ -473,6 +503,16 @@
     },
     {
       "session_year": 2020,
+      "bill_no": "HB680",
+      "title": "relative to the definition of tobacco product for purposes of the tobacco tax and retail tobacco licensing.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 01/08/2020  HJ 1  P. 57",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
       "bill_no": "HB686",
       "title": "relative to calculating and funding the interim cost of an opportunity for an adequate education and extending the interest and dividends tax to capital gains.",
       "disposition": "killed_floor",
@@ -565,6 +605,16 @@
       "session_year": 2020,
       "bill_no": "SB483",
       "title": "relative to the property tax exemption for educational organizations.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Vacated from Committee and Laid on Table, MA, VV; 06/16/2020  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB484",
+      "title": "establishing a commission to study payments in lieu of taxes.",
       "disposition": "died_on_table",
       "stage": "laid on the table in the Senate; never taken back up",
       "evidence": "Vacated from Committee and Laid on Table, MA, VV; 06/16/2020  SJ 8",
@@ -683,6 +733,16 @@
     },
     {
       "session_year": 2020,
+      "bill_no": "SB663",
+      "title": "establishing a credit against business taxes for employer payments in the graduate retention incentive partnership program.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 02/06/2020;  SJ 3",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
       "bill_no": "SB757",
       "title": "relative to the local option for operation of sports book retail locations.",
       "disposition": "died_on_table",
@@ -698,6 +758,16 @@
       "disposition": "died_on_table",
       "stage": "laid on the table in the Senate; never taken back up",
       "evidence": "Vacated from Committee and Laid on Table, MA, VV; 06/16/2020  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB93",
+      "title": "relative to prepaid wireless telecommunications service and voice over Internet protocol communications under the communications service tax.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 01/08/2020  HJ 1  P. 53",
       "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
@@ -964,6 +1034,16 @@
     },
     {
       "session_year": 2021,
+      "bill_no": "HB383",
+      "title": "relative to the quarterly or semi-annual collection of taxes in certain municipalities.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 15)",
+      "evidence": "Signed by Governor Sununu 04/23/2021; Chapter 15",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2021,
       "bill_no": "HB400",
       "title": "relative to the collection of sales taxes of foreign jurisdictions by New Hampshire businesses.",
       "disposition": "carryover_duplicate",
@@ -1037,6 +1117,16 @@
       "disposition": "carryover_duplicate",
       "stage": "same bill as 2022 HB504 (carried across the biennium); see the 2022 record",
       "evidence_source": "biennium carryover",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB528",
+      "title": "relative to electronic filing of state tax returns.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/24/2021  HJ 3  P. 21",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
     {
@@ -1179,6 +1269,16 @@
     },
     {
       "session_year": 2021,
+      "bill_no": "SB13",
+      "title": "adopting omnibus legislation on state taxes and fees.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Sen. Giuda Moved Laid on Table, RC 24Y-0N, MA; 03/11/2021;  SJ 7",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 4
+    },
+    {
+      "session_year": 2021,
       "bill_no": "SB135",
       "title": "relative to the calculation of the cost of an opportunity for an adequate education",
       "disposition": "carryover_duplicate",
@@ -1207,6 +1307,16 @@
     },
     {
       "session_year": 2021,
+      "bill_no": "SB3",
+      "title": "clarifying the tax treatment of federal Paycheck Protection Program loans.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 74)",
+      "evidence": "Signed by the Governor on 06/10/2021; Chapter 0074",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 1
+    },
+    {
+      "session_year": 2021,
       "bill_no": "SB48",
       "title": "relative to the formula used to determine current use tax rates.",
       "disposition": "enacted",
@@ -1224,6 +1334,15 @@
       "evidence": "Signed by the Governor on 06/21/2021; Chapter 0088",
       "evidence_source": "bulk_docket",
       "roll_call_count": 5
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB53",
+      "title": "enabling municipalities to establish a community preservation and resilience program funded in part through a surcharge on real property.",
+      "disposition": "carryover_duplicate",
+      "stage": "same bill as 2022 SB53 (carried across the biennium); see the 2022 record",
+      "evidence_source": "biennium carryover",
+      "roll_call_count": 0
     },
     {
       "session_year": 2021,
@@ -1447,6 +1566,16 @@
     },
     {
       "session_year": 2022,
+      "bill_no": "HB1365",
+      "title": "allowing towns and cities to tax residential and non-residential property at different rates.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/15/2022  HJ 6",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
       "bill_no": "HB1366",
       "title": "relative to cooperative school board reapportionment.",
       "disposition": "interim_study",
@@ -1464,6 +1593,16 @@
       "evidence": "Inexpedient to Legislate: MA DV 309-31 03/10/2022  HJ 5",
       "evidence_source": "bulk_docket",
       "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1393",
+      "title": "relative to the adoption of school district budget caps.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 04/28/2022;  SJ 10",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 1
     },
     {
       "session_year": 2022,
@@ -1807,6 +1946,16 @@
     },
     {
       "session_year": 2022,
+      "bill_no": "SB251",
+      "title": "relative to the advisory board of a tax increment financing district.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 151)",
+      "evidence": "Signed by the Governor on 06/07/2022; Chapter 0151",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
       "bill_no": "SB252",
       "title": "relative to information on property tax bills.",
       "disposition": "killed_floor",
@@ -1822,6 +1971,16 @@
       "disposition": "enacted",
       "stage": "became law (Chapter 155)",
       "evidence": "Signed by the Governor on 06/07/2022; Chapter 0155",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB312",
+      "title": "relative to adjusted assessments of taxable property.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 163)",
+      "evidence": "Signed by the Governor on 06/07/2022; Chapter 0163",
       "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
@@ -1864,6 +2023,16 @@
       "evidence": "Sen. Carson Moved Nonconcur with the House Amendment, RC 14Y-10N, MA; 05/12/2022;  SJ 12",
       "evidence_source": "bulk_docket",
       "roll_call_count": 2
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB338",
+      "title": "enabling municipalities to adopt a municipal occupancy fee.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 02/16/2022;",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2022,
@@ -1988,6 +2157,16 @@
       "disposition": "carryover_duplicate",
       "stage": "same bill as 2024 HB15 (carried across the biennium); see the 2024 record",
       "evidence_source": "biennium carryover",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB174",
+      "title": "relative to the filing of notice of intent to cut timber.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 117)",
+      "evidence": "Signed by Governor Sununu 06/30/2023; Chapter 117",
+      "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
     {
@@ -2138,6 +2317,16 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "HB365",
+      "title": "relative to a statewide facility condition assessment for school buildings.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 5)",
+      "evidence": "Signed by Governor Sununu 04/26/2023; Chapter 5",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
       "bill_no": "HB377",
       "title": "relative to screening and intervention in public schools and public charter schools for dyslexia and related disorders, and establishing an addition to adequate education grants for certain pupils screened for dyslexia and related disorders.",
       "disposition": "enacted",
@@ -2153,6 +2342,16 @@
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
       "evidence": "Inexpedient to Legislate: MA DV 226-146 03/16/2023  HJ 9  P. 40",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB403",
+      "title": "relative to the authority of selectmen or assessors to abate taxes.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA DV 200-144 02/23/2023  HJ 7  P. 23",
       "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
@@ -2211,6 +2410,16 @@
       "disposition": "enacted",
       "stage": "became law (Chapter 35)",
       "evidence": "Signed by Governor Sununu 05/17/2023; Chapter 35",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB510",
+      "title": "relative to removing the exemption for premium cigars from the tobacco tax.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/23/2023  HJ 11  P. 47",
       "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
@@ -2282,6 +2491,16 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "HB576",
+      "title": "relative to administration of a commercial property assessed clean energy (C-PACE) program in a clean energy efficiency and clean energy district.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 91)",
+      "evidence": "Signed by Governor Sununu 06/20/2023; Chapter 91",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
       "bill_no": "HB577",
       "title": "relative to state aid for special education pupils.",
       "disposition": "carryover_duplicate",
@@ -2321,11 +2540,31 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "HB80",
+      "title": "relative to tax exempt status for county real property leased for agricultural uses.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/02/2023  HJ 4",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
       "bill_no": "HB98",
       "title": "relative to applications for the low and moderate income homeowners property tax relief program.",
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
       "evidence": "Inexpedient to Legislate: MA VV 02/02/2023  HJ 4",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB99",
+      "title": "requiring tax bills to provide information about a state tax rebate program for lower income homeowners.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/22/2023  HJ 6  P. 11",
       "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
@@ -2441,6 +2680,16 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "SB262",
+      "title": "allowing municipalities to collect an occupancy fee from operators of local room rentals.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 03/09/2023;  SJ 9",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2023,
       "bill_no": "SB266",
       "title": "relative to the statewide education improvement and assessment program.",
       "disposition": "enacted",
@@ -2488,6 +2737,16 @@
       "evidence": "Died, Session ended 10/10/2024  HJ 17",
       "evidence_source": "bulk_docket",
       "roll_call_count": 1
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "CACR18",
+      "title": "relating to the tax exempt status of churches. Providing that churches shall not be exempt from state taxes.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/22/2024  HJ 6  P. 19",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
     },
     {
       "session_year": 2024,
@@ -2651,6 +2910,16 @@
     },
     {
       "session_year": 2024,
+      "bill_no": "HB1254",
+      "title": "relative to an optional local public safety assessment on certain room occupancies.",
+      "disposition": "killed_floor",
+      "stage": "indefinitely postponed by the House",
+      "evidence": "Indefinitely Postpone (Rep. Sweeney): MA RC 195-171 03/14/2024  HJ 8  P. 101",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 1
+    },
+    {
+      "session_year": 2024,
       "bill_no": "HB1258",
       "title": "relative to a waiver from property taxes for disabled veterans.",
       "disposition": "killed_floor",
@@ -2756,6 +3025,16 @@
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
       "evidence": "Inexpedient to Legislate: MA VV 01/03/2024  HJ 1  P. 69",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1456",
+      "title": "relative to the appointment and removal of the members of the board of tax and land appeals and the housing appeals board.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 267)",
+      "evidence": "Signed by Governor Sununu 07/26/2024; Chapter 267",
       "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
@@ -2931,6 +3210,16 @@
     },
     {
       "session_year": 2024,
+      "bill_no": "HB1570",
+      "title": "requiring the department of education to conduct a facility assessment of public schools and public chartered schools.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Refer to Interim Study, MA, VV; 05/23/2024;  SJ 15",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
       "bill_no": "HB1583",
       "title": "relative to the per pupil cost of an opportunity for an adequate education.",
       "disposition": "interim_study",
@@ -2956,6 +3245,16 @@
       "disposition": "interim_study",
       "stage": "sent to interim study by the House",
       "evidence": "Refer for Interim Study: MA VV 03/28/2024  HJ 10  P. 132",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1651",
+      "title": "relative to combining the board of tax and land appeals and the housing appeals board.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/15/2024  HJ 5  P. 13",
       "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
@@ -3201,6 +3500,16 @@
     },
     {
       "session_year": 2024,
+      "bill_no": "SB433",
+      "title": "establishing a committee to study the marketing of e-cigarettes and e-liquid in this state, including the legality of available products, appropriate wholesale and retail compliance and tax collection system of the same.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 291)",
+      "evidence": "Signed by the Governor on 07/26/2024; Chapter 0291",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
       "bill_no": "SB434",
       "title": "establishing the extended stay housing program and exempting participating businesses from the tax on meals and rooms.",
       "disposition": "killed_floor",
@@ -3216,6 +3525,16 @@
       "disposition": "died_on_table",
       "stage": "laid on the table in the House; never taken back up",
       "evidence": "Lay SB454 on Table (Rep. Sweeney): MA DV 180-176 05/02/2024  HJ 12  P. 86",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB472",
+      "title": "relative to historic horse racing licensing, establishing operations of games of chance for the benefit of the host community, and relative to charitable gaming dates for municipalities and charitable organizations.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 28)",
+      "evidence": "Signed by the Governor on 05/20/2024; Chapter 0028",
       "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },
@@ -3251,6 +3570,16 @@
     },
     {
       "session_year": 2024,
+      "bill_no": "SB532",
+      "title": "requiring all municipalities and school governing bodies to post on their official townor school website within 30 days the amount of funds received by the state either byallocation or grant, allowing new vehicles purchased in the model year or before to beinspected in the second year after purchase, and allowing title exemption for certainmotor vehicles whose manufacturer's model year is 20 or more years old.",
+      "disposition": "died_between_chambers",
+      "stage": "Senate refused to accept the other chamber's changes; no conference",
+      "evidence": "Sen. Gray Moved Nonconcur with the House Amendment, MA, VV; 05/30/2024;  SJ 16",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
       "bill_no": "SB552",
       "title": "relative to lapse of funds from the education trust fund.",
       "disposition": "interim_study",
@@ -3276,6 +3605,16 @@
       "disposition": "enacted",
       "stage": "became law (Chapter 310)",
       "evidence": "Signed by the Governor on 07/26/2024; Chapter 0310",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB586",
+      "title": "relative to tax exempt status for the International Order of Odd Fellows.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Refer to Interim Study, MA, VV; 04/11/2024;  SJ 9",
       "evidence_source": "bulk_docket",
       "roll_call_count": 0
     },

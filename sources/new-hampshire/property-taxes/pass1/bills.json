@@ -2,7 +2,7 @@
   "collected_at": "2026-08-11T15:09:12.912973+00:00",
   "issue": "new-hampshire-02-property-taxes",
   "note": "NH discovery: SQL legislation (current biennium) + SQL roll-call titles (all years) + OpenStates backfill (older years, if key).",
-  "count": 496,
+  "count": 530,
   "bills": [
     {
       "session_year": 2020,
@@ -224,6 +224,109 @@
           "name": "Jack B. Flanagan",
           "party": null,
           "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1160",
+      "title": "allowing municipalities to collect an occupancy fee from operators of local room rentals.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Jim V. Maggiore",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Tom J. Loughman",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Patricia J. Bushway",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Tom Sherman",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Peter F. Somssich",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Skip J. Cleaver",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Michael A. Edgar",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Robert Renny Cushing",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Susan W. Almy",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "John R. Cloutier",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Laura C. Pantelakos",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "David H Watters",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Martha Fuller Clark",
+          "party": null,
+          "prime": false,
           "prime_inferred": false,
           "source": "openstates_bulk_sponsorships"
         }
@@ -527,6 +630,32 @@
     },
     {
       "session_year": 2020,
+      "bill_no": "HB1311",
+      "title": "relative to the semi-annual or quarterly collection of taxes in certain municipalities.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Julie D. Gilman",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Marjorie A. Porter",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
       "bill_no": "HB1368",
       "title": "relative to filling vacancies for at-large members of school boards and budget committees of cooperative school districts.",
       "found_by_terms": [
@@ -767,6 +896,25 @@
       "sponsors": [
         {
           "name": "Werner D. Horn",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1477",
+      "title": "establishing a committee to study the impact of taxes on tobacco use and their role in tobacco and nicotine cessation programs.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Timothy O. Horrigan",
           "party": null,
           "prime": true,
           "prime_inferred": false,
@@ -1309,6 +1457,16 @@
     },
     {
       "session_year": 2020,
+      "bill_no": "HB680",
+      "title": "relative to the definition of tobacco product for purposes of the tobacco tax and retail tobacco licensing.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)"
+    },
+    {
+      "session_year": 2020,
       "bill_no": "HB686",
       "title": "relative to calculating and funding the interim cost of an opportunity for an adequate education and extending the interest and dividends tax to capital gains.",
       "found_by_terms": [
@@ -1594,6 +1752,32 @@
         },
         {
           "name": "Martha Fuller Clark",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB484",
+      "title": "establishing a commission to study payments in lieu of taxes.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "James P. Gray",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Peter B. Schmidt",
           "party": null,
           "prime": false,
           "prime_inferred": false,
@@ -2236,6 +2420,67 @@
     },
     {
       "session_year": 2020,
+      "bill_no": "SB663",
+      "title": "establishing a credit against business taxes for employer payments in the graduate retention incentive partnership program.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Jay Kahn",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Martha S. Hennessey",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Dan Feltes",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "David B. Doherty",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Linda L. Tanner",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Donna M. Soucy",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "David H Watters",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2020,
       "bill_no": "SB757",
       "title": "relative to the local option for operation of sports book retail locations.",
       "found_by_terms": [
@@ -2326,6 +2571,16 @@
           "source": "openstates_bulk_sponsorships"
         }
       ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB93",
+      "title": "relative to prepaid wireless telecommunications service and voice over Internet protocol communications under the communications service tax.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)"
     },
     {
       "session_year": 2020,
@@ -3602,6 +3857,32 @@
     },
     {
       "session_year": 2021,
+      "bill_no": "HB383",
+      "title": "relative to the quarterly or semi-annual collection of taxes in certain municipalities.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Marjorie A. Porter",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Julie D. Gilman",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
       "bill_no": "HB400",
       "title": "relative to the collection of sales taxes of foreign jurisdictions by New Hampshire businesses.",
       "found_by_terms": [
@@ -3889,6 +4170,25 @@
           "party": null,
           "prime": false,
           "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB528",
+      "title": "relative to electronic filing of state tax returns.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Joe H. Alexander",
+          "party": null,
+          "prime": true,
+          "prime_inferred": true,
           "source": "openstates_bulk_sponsorships"
         }
       ]
@@ -4657,6 +4957,25 @@
     },
     {
       "session_year": 2021,
+      "bill_no": "SB13",
+      "title": "adopting omnibus legislation on state taxes and fees.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Chuck Morse",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
       "bill_no": "SB135",
       "title": "relative to the calculation of the cost of an opportunity for an adequate education",
       "found_by_terms": [
@@ -4943,6 +5262,25 @@
     },
     {
       "session_year": 2021,
+      "bill_no": "SB3",
+      "title": "clarifying the tax treatment of federal Paycheck Protection Program loans.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Jeb Bradley",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
       "bill_no": "SB48",
       "title": "relative to the formula used to determine current use tax rates.",
       "found_by_terms": [
@@ -5085,6 +5423,60 @@
         },
         {
           "name": "Susan Homola",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB53",
+      "title": "enabling municipalities to establish a community preservation and resilience program funded in part through a surcharge on real property.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "David H Watters",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Latha D. Mangipudi",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Thomas L. Southworth",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Tom Sherman",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Suzanne M Prentiss",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
           "party": null,
           "prime": false,
           "prime_inferred": false,
@@ -6271,6 +6663,25 @@
     },
     {
       "session_year": 2022,
+      "bill_no": "HB1365",
+      "title": "allowing towns and cities to tax residential and non-residential property at different rates.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Max Abramson",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
       "bill_no": "HB1366",
       "title": "relative to cooperative school board reapportionment.",
       "found_by_terms": [
@@ -6349,6 +6760,74 @@
         },
         {
           "name": "James A. Spillane",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1393",
+      "title": "relative to the adoption of school district budget caps.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Louise Andrus",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Diane Pauer",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Lisa C.M. Post",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Deborah L. Hobson",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Bill Gannon",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Norman J. Silber",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Gregory G. Hill",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Keith M. Ammon",
           "party": null,
           "prime": false,
           "prime_inferred": false,
@@ -8144,6 +8623,32 @@
     },
     {
       "session_year": 2022,
+      "bill_no": "SB251",
+      "title": "relative to the advisory board of a tax increment financing district.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "James P. Gray",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
       "bill_no": "SB252",
       "title": "relative to information on property tax bills.",
       "found_by_terms": [
@@ -8264,6 +8769,46 @@
         },
         {
           "name": "Donna M. Soucy",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB312",
+      "title": "relative to adjusted assessments of taxable property.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Tony Piemonte",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "James P. Gray",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Peter B. Schmidt",
           "party": null,
           "prime": false,
           "prime_inferred": false,
@@ -8609,6 +9154,81 @@
         },
         {
           "name": "Jeb Bradley",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB338",
+      "title": "enabling municipalities to adopt a municipal occupancy fee.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Rebecca G. Whitley",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Suzanne M Prentiss",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "David Meuse",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Jay Kahn",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Susan W. Almy",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "John R. Cloutier",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Mary Jane Wallner",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "David H Watters",
           "party": null,
           "prime": false,
           "prime_inferred": false,
@@ -9333,6 +9953,60 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "HB174",
+      "title": "relative to the filing of notice of intent to cut timber.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Howard Pearl",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Timothy Lang",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Diane Pauer",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Matthew J. Simon",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Juliet Harvey-Bolia",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Dan H. Wolf",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
       "bill_no": "HB177",
       "title": "relative to the definition of qualified structures under the community revitalization tax relief incentive.",
       "found_by_terms": [
@@ -9867,6 +10541,25 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "HB365",
+      "title": "relative to a statewide facility condition assessment for school buildings.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Rick M. Ladd",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
       "bill_no": "HB377",
       "title": "relative to screening and intervention in public schools and public charter schools for dyslexia and related disorders, and establishing an addition to adequate education grants for certain pupils screened for dyslexia and related disorders.",
       "found_by_terms": [
@@ -10021,6 +10714,32 @@
         },
         {
           "name": "Kevin A. Avard",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB403",
+      "title": "relative to the authority of selectmen or assessors to abate taxes.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Jonathan H. Smith",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Mark E. McConkey",
           "party": null,
           "prime": false,
           "prime_inferred": false,
@@ -10192,6 +10911,25 @@
           "name": "David H. Watters",
           "party": null,
           "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB510",
+      "title": "relative to removing the exemption for premium cigars from the tobacco tax.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Timothy O. Horrigan",
+          "party": null,
+          "prime": true,
           "prime_inferred": false,
           "source": "openstates_bulk_sponsorships"
         }
@@ -10397,6 +11135,60 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "HB576",
+      "title": "relative to administration of a commercial property assessed clean energy (C-PACE) program in a clean energy efficiency and clean energy district.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Will Darby",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Rebecca J. McWilliams",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "David John Preece",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Latha D. Mangipudi",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "David H. Watters",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
       "bill_no": "HB577",
       "title": "relative to state aid for special education pupils.",
       "found_by_terms": [
@@ -10541,6 +11333,53 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "HB80",
+      "title": "relative to tax exempt status for county real property leased for agricultural uses.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Judy F. Aron",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Walter A. Stapleton",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Joseph A. Guthrie",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "John M. Potucek",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Skip A. Rollins",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
       "bill_no": "HB98",
       "title": "relative to applications for the low and moderate income homeowners property tax relief program.",
       "found_by_terms": [
@@ -10557,6 +11396,67 @@
           "name": "Charles R. Melvin",
           "party": null,
           "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB99",
+      "title": "requiring tax bills to provide information about a state tax rebate program for lower income homeowners.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Heather P Baldwin",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Jennifer M. Rhodes",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Judy F. Aron",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Gerri D. Cannon",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Christine Seibert",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Sallie D. Fellows",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Dianne E. Schuett",
+          "party": null,
+          "prime": false,
           "prime_inferred": false,
           "source": "openstates_bulk_sponsorships"
         }
@@ -11252,6 +12152,60 @@
     },
     {
       "session_year": 2023,
+      "bill_no": "SB262",
+      "title": "allowing municipalities to collect an occupancy fee from operators of local room rentals.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Debra Altschiller",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Suzanne M. Prentiss",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Michael A. Edgar",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Chris Muns",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
       "bill_no": "SB266",
       "title": "relative to the statewide education improvement and assessment program.",
       "found_by_terms": [
@@ -11524,6 +12478,25 @@
           "name": "Sherman A. Packard",
           "party": null,
           "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "CACR18",
+      "title": "relating to the tax exempt status of churches. Providing that churches shall not be exempt from state taxes.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Catherine M. Sofikitis",
+          "party": null,
+          "prime": true,
           "prime_inferred": false,
           "source": "openstates_bulk_sponsorships"
         }
@@ -12216,6 +13189,88 @@
     },
     {
       "session_year": 2024,
+      "bill_no": "HB1254",
+      "title": "relative to an optional local public safety assessment on certain room occupancies.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "David Paige",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Suzanne M. Prentiss",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Laurel Stavis",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Stephen L. Woodcock",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Michael A. Edgar",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Thomas L. Buco",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Susan W. Almy",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "John R. Cloutier",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
       "bill_no": "HB1258",
       "title": "relative to a waiver from property taxes for disabled veterans.",
       "found_by_terms": [
@@ -12732,6 +13787,39 @@
       "sponsors": [
         {
           "name": "Michael D. Harrington",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1456",
+      "title": "relative to the appointment and removal of the members of the board of tax and land appeals and the housing appeals board.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Bob J. Lynn",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Gregory G. Hill",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Thomas C. Walsh",
           "party": null,
           "prime": true,
           "prime_inferred": false,
@@ -13459,6 +14547,25 @@
     },
     {
       "session_year": 2024,
+      "bill_no": "HB1570",
+      "title": "requiring the department of education to conduct a facility assessment of public schools and public chartered schools.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Rick M. Ladd",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
       "bill_no": "HB1583",
       "title": "relative to the per pupil cost of an opportunity for an adequate education.",
       "found_by_terms": [
@@ -13589,6 +14696,32 @@
           "name": "Walter Spilsbury",
           "party": null,
           "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1651",
+      "title": "relative to combining the board of tax and land appeals and the housing appeals board.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Dan McGuire",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Peter R. Leishman",
+          "party": null,
+          "prime": false,
           "prime_inferred": false,
           "source": "openstates_bulk_sponsorships"
         }
@@ -14774,6 +15907,46 @@
     },
     {
       "session_year": 2024,
+      "bill_no": "SB433",
+      "title": "establishing a committee to study the marketing of e-cigarettes and e-liquid in this state, including the legality of available products, appropriate wholesale and retail compliance and tax collection system of the same.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Howard Pearl",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Timothy Lang",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Michael I Moffett",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "John B. Hunt",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
       "bill_no": "SB434",
       "title": "establishing the extended stay housing program and exempting participating businesses from the tax on meals and rooms.",
       "found_by_terms": [
@@ -14915,6 +16088,46 @@
         },
         {
           "name": "Sharon M. Carson",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB472",
+      "title": "relative to historic horse racing licensing, establishing operations of games of chance for the benefit of the host community, and relative to charitable gaming dates for municipalities and charitable organizations.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Howard Pearl",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Timothy Lang",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Daniel E. Innis",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Michael I Moffett",
           "party": null,
           "prime": false,
           "prime_inferred": false,
@@ -15110,6 +16323,81 @@
     },
     {
       "session_year": 2024,
+      "bill_no": "SB532",
+      "title": "requiring all municipalities and school governing bodies to post on their official townor school website within 30 days the amount of funds received by the state either byallocation or grant, allowing new vehicles purchased in the model year or before to beinspected in the second year after purchase, and allowing title exemption for certainmotor vehicles whose manufacturer's model year is 20 or more years old.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Keith R. Murphy",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Timothy Lang",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Carrie L. Gendreau",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Daniel E. Innis",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Bill M. Gannon",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Ruth Ward",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Kevin A. Avard",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Sharon M. Carson",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
       "bill_no": "SB552",
       "title": "relative to lapse of funds from the education trust fund.",
       "found_by_terms": [
@@ -15248,6 +16536,46 @@
         },
         {
           "name": "Jason M. Osborne",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        }
+      ]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB586",
+      "title": "relative to tax exempt status for the International Order of Odd Fellows.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)",
+      "sponsors": [
+        {
+          "name": "Timothy Lang",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Carrie L. Gendreau",
+          "party": null,
+          "prime": true,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "David H. Watters",
+          "party": null,
+          "prime": false,
+          "prime_inferred": false,
+          "source": "openstates_bulk_sponsorships"
+        },
+        {
+          "name": "Sharon M. Carson",
           "party": null,
           "prime": false,
           "prime_inferred": false,

@@ -778,6 +778,58 @@
         "description": "Inexpedient to Legislate: MA VV 02/19/2020  HJ 4  P. 27"
       }
     ],
+    "2020:HB1477": [
+      {
+        "date": "2019-12-03",
+        "organization": "House",
+        "description": "Introduced 01/08/2020 and referred to Ways and Means  HJ 1  P. 23"
+      },
+      {
+        "date": "2020-01-10",
+        "organization": "House",
+        "description": "Public Hearing: 01/16/2020 10:00 am LOB 202"
+      },
+      {
+        "date": "2020-01-22",
+        "organization": "House",
+        "description": "==RECESSED== Executive Session: 02/04/2020 01:00 pm LOB 202"
+      },
+      {
+        "date": "2020-02-05",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 02/12/2020 01:30 pm LOB 202"
+      },
+      {
+        "date": "2020-02-12",
+        "organization": "House",
+        "description": "Full Committee Work Session: 02/18/2020 01:00 pm LOB 202"
+      },
+      {
+        "date": "2020-02-12",
+        "organization": "House",
+        "description": "Executive Session: 03/03/2020 01:00 pm LOB 202"
+      },
+      {
+        "date": "2020-03-04",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass with Amendment # 2020-0808h (NT)  for 03/11/2020 (Vote 12-8; RC)  HC 10  P. 77"
+      },
+      {
+        "date": "2020-03-13",
+        "organization": "House",
+        "description": "Amendment # 2020-0808h (NT): AA VV 03/12/2020  HJ 8  P. 212"
+      },
+      {
+        "date": "2020-03-13",
+        "organization": "House",
+        "description": "Ought to Pass with Amendment 2020-0808h (NT): MA DV 169-107 03/12/2020  HJ 8  P. 212"
+      },
+      {
+        "date": "2020-06-16",
+        "organization": "Senate",
+        "description": "Introduced 06/16/2020, and Laid on Table, MA, VV; 06/16/2020;  SJ 8"
+      }
+    ],
     "2020:HB184": [
       {
         "date": "2018-12-26",
@@ -848,6 +900,120 @@
         "date": "2020-01-08",
         "organization": "House",
         "description": "Inexpedient to Legislate: MA VV 01/08/2020  HJ 1  P. 45"
+      }
+    ],
+    "2020:SB93": [
+      {
+        "date": "2019-01-17",
+        "organization": "Senate",
+        "description": "Introduced 01/03/2019 and Referred to Ways and Means;  SJ 4"
+      },
+      {
+        "date": "2019-01-28",
+        "organization": "Senate",
+        "description": "Hearing: 02/06/2019, Room 100, SH, 09:00 am;  SC 9"
+      },
+      {
+        "date": "2019-03-06",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass with Amendment # 2019-0861s, 03/14/2019;  SC 13"
+      },
+      {
+        "date": "2019-03-14",
+        "organization": "Senate",
+        "description": "Committee Amendment # 2019-0861s, RC 14Y-10N, AA; 03/14/2019;  SJ 8"
+      },
+      {
+        "date": "2019-03-14",
+        "organization": "Senate",
+        "description": "Ought to Pass with Amendment 2019-0861s, RC 13Y-11N, MA; OT3rdg; 03/14/2019;  SJ 8"
+      },
+      {
+        "date": "2019-03-21",
+        "organization": "House",
+        "description": "Introduced 03/20/2019 and referred to Science, Technology and Energy  HJ 11  P. 69"
+      },
+      {
+        "date": "2019-03-28",
+        "organization": "House",
+        "description": "Public Hearing: 04/02/2019 01:30 pm LOB 304"
+      },
+      {
+        "date": "2019-04-24",
+        "organization": "House",
+        "description": "Executive Session: 04/30/2019 10:00 am LOB 304"
+      },
+      {
+        "date": "2019-04-30",
+        "organization": "House",
+        "description": "Retained in Committee"
+      },
+      {
+        "date": "2019-06-10",
+        "organization": "House",
+        "description": "Full Committee Work Session: 06/10/2019 11:00 am LOB 304"
+      },
+      {
+        "date": "2019-06-25",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 08/21/2019 10:00 am LOB 304"
+      },
+      {
+        "date": "2019-10-02",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 10/23/2019 10:00 am LOB 304"
+      },
+      {
+        "date": "2019-10-21",
+        "organization": "House",
+        "description": "Executive Session: 11/06/2019 01:00 pm LOB 304"
+      },
+      {
+        "date": "2019-10-23",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 11/06/2019 12:45 pm LOB 304"
+      },
+      {
+        "date": "2019-11-14",
+        "organization": "House",
+        "description": "Committee Report: Inexpedient to Legislate   (Vote 18-0; CC)  HC 50  P. 14"
+      },
+      {
+        "date": "2020-01-08",
+        "organization": "House",
+        "description": "Inexpedient to Legislate: MA VV 01/08/2020  HJ 1  P. 53"
+      }
+    ],
+    "2020:HB1311": [
+      {
+        "date": "2019-12-02",
+        "organization": "House",
+        "description": "Introduced 01/08/2020 and referred to Municipal and County Government  HJ 1  P. 17"
+      },
+      {
+        "date": "2020-02-05",
+        "organization": "House",
+        "description": "Public Hearing: 02/12/2020 02:00 pm LOB 301"
+      },
+      {
+        "date": "2020-02-12",
+        "organization": "House",
+        "description": "Executive Session: 02/18/2020 01:30 pm LOB 301"
+      },
+      {
+        "date": "2020-02-20",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass for 03/11/2020 (Vote 19-0; CC)  HC 10  P. 25"
+      },
+      {
+        "date": "2020-03-11",
+        "organization": "House",
+        "description": "Ought to Pass: MA VV 03/11/2020  HJ 7  P. 55"
+      },
+      {
+        "date": "2020-06-16",
+        "organization": "Senate",
+        "description": "Introduced 06/16/2020, and Laid on Table, MA, VV; 06/16/2020;  SJ 8"
       }
     ],
     "2020:HB1110": [
@@ -1822,6 +1988,28 @@
         "description": "Inexpedient to Legislate: MA VV 02/19/2020  HJ 4  P. 19"
       }
     ],
+    "2020:SB663": [
+      {
+        "date": "2020-01-14",
+        "organization": "Senate",
+        "description": "Introduced 01/08/2020 and Referred to Ways and Means;  SJ 2"
+      },
+      {
+        "date": "2020-01-22",
+        "organization": "Senate",
+        "description": "Hearing: 01/29/2020, Room 100, SH, 09:20 am;  SC 4"
+      },
+      {
+        "date": "2020-01-29",
+        "organization": "Senate",
+        "description": "Committee Report: Inexpedient to Legislate, 02/06/2020;  SC 5"
+      },
+      {
+        "date": "2020-02-06",
+        "organization": "Senate",
+        "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 02/06/2020;  SJ 3"
+      }
+    ],
     "2020:SB516": [
       {
         "date": "2020-01-08",
@@ -2283,6 +2471,58 @@
         "date": "2020-03-11",
         "organization": "House",
         "description": "Inexpedient to Legislate: MA VV 03/11/2020  HJ 7  P. 57"
+      }
+    ],
+    "2020:HB1160": [
+      {
+        "date": "2019-12-02",
+        "organization": "House",
+        "description": "Introduced 01/08/2020 and referred to Municipal and County Government  HJ 1  P. 11"
+      },
+      {
+        "date": "2020-01-10",
+        "organization": "House",
+        "description": "Public Hearing: 01/22/2020 10:00 am LOB 301"
+      },
+      {
+        "date": "2020-01-28",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 02/04/2020 02:00 pm LOB 104"
+      },
+      {
+        "date": "2020-02-05",
+        "organization": "House",
+        "description": "==RECESSED== Executive Session: 02/12/2020 10:30 am LOB 301"
+      },
+      {
+        "date": "2020-02-19",
+        "organization": "House",
+        "description": "==CONTINUED== Executive Session: 03/03/2020 10:00 am LOB 301"
+      },
+      {
+        "date": "2020-02-25",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 03/03/2020 09:00 am LOB 301"
+      },
+      {
+        "date": "2020-03-04",
+        "organization": "House",
+        "description": "Majority Committee Report: Ought to Pass for 03/11/2020 (Vote 10-7; RC)  HC 10  P. 67"
+      },
+      {
+        "date": "2020-03-04",
+        "organization": "House",
+        "description": "Minority Committee Report: Inexpedient to Legislate"
+      },
+      {
+        "date": "2020-03-13",
+        "organization": "House",
+        "description": "Ought to Pass: MA RC 174-113 03/12/2020  HJ 8  P. 170"
+      },
+      {
+        "date": "2020-06-16",
+        "organization": "Senate",
+        "description": "Introduced 06/16/2020, and Laid on Table, MA, VV; 06/16/2020;  SJ 8"
       }
     ],
     "2020:SB583": [
@@ -2908,6 +3148,148 @@
         "description": "Inexpedient to Legislate: MA VV 01/08/2020  HJ 1  P. 46"
       }
     ],
+    "2020:HB680": [
+      {
+        "date": "2019-01-16",
+        "organization": "House",
+        "description": "Introduced 01/03/2019 and referred to Commerce and Consumer Affairs  HJ 3  P. 25"
+      },
+      {
+        "date": "2019-01-30",
+        "organization": "House",
+        "description": "Public Hearing: 02/07/2019 01:45 pm LOB 302"
+      },
+      {
+        "date": "2019-02-06",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 02/13/2019 10:00 am LOB 302"
+      },
+      {
+        "date": "2019-02-07",
+        "organization": "House",
+        "description": "Executive Session: 02/13/2019 02:00 pm LOB 302"
+      },
+      {
+        "date": "2019-02-20",
+        "organization": "House",
+        "description": "Majority Committee Report: Ought to Pass with Amendment # 2019-0501h  for 02/27/2019 (Vote 12-8; RC)  HC 13  P. 16"
+      },
+      {
+        "date": "2019-02-20",
+        "organization": "House",
+        "description": "Minority Committee Report: Ought to Pass with Amendment # 2019-0477h (NT)"
+      },
+      {
+        "date": "2019-02-27",
+        "organization": "House",
+        "description": "Amendment # 2019-0501h: AA VV 02/27/2019  HJ 6  P. 28"
+      },
+      {
+        "date": "2019-02-27",
+        "organization": "House",
+        "description": "Amendment # 2019-0477h (NT): AF DV 143-211 02/27/2019  HJ 6  P. 28"
+      },
+      {
+        "date": "2019-02-27",
+        "organization": "House",
+        "description": "Ought to Pass with Amendment 2019-0501h: MA RC 203-153 02/27/2019  HJ 6  P. 28"
+      },
+      {
+        "date": "2019-02-27",
+        "organization": "House",
+        "description": "Referred to Ways and Means 02/27/2019  HJ 6  P. 33"
+      },
+      {
+        "date": "2019-03-06",
+        "organization": "House",
+        "description": "Public Hearing: 03/13/2019 01:00 pm LOB 202"
+      },
+      {
+        "date": "2019-03-13",
+        "organization": "House",
+        "description": "Full Committee Work Session: 03/18/2019 01:00 pm LOB 202"
+      },
+      {
+        "date": "2019-03-19",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 03/22/2019 10:30 am LOB 204"
+      },
+      {
+        "date": "2019-03-19",
+        "organization": "House",
+        "description": "==TIME CHANGE==  Subcommittee Work Session: 03/25/2019 11:00 am LOB 204"
+      },
+      {
+        "date": "2019-03-19",
+        "organization": "House",
+        "description": "==CANCELLED==  Subcommittee Work Session: 03/26/2019 01:00 pm LOB 203"
+      },
+      {
+        "date": "2019-03-19",
+        "organization": "House",
+        "description": "Executive Session: 03/27/2019 10:00 am LOB 202"
+      },
+      {
+        "date": "2019-03-20",
+        "organization": "House",
+        "description": "Full Committee Work Session: 03/26/2019 10:00 am LOB 202"
+      },
+      {
+        "date": "2019-03-27",
+        "organization": "House",
+        "description": "Retained in Committee"
+      },
+      {
+        "date": "2019-09-04",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 09/10/2019 01:00 pm LOB 202"
+      },
+      {
+        "date": "2019-09-11",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 09/26/2019 10:00 am LOB 202"
+      },
+      {
+        "date": "2019-10-02",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 10/01/2019 11:00 am LOB 202"
+      },
+      {
+        "date": "2019-10-02",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 10/15/2019 10:00 am LOB 202"
+      },
+      {
+        "date": "2019-10-02",
+        "organization": "House",
+        "description": "Executive Session: 11/12/2019 10:00 am LOB 202"
+      },
+      {
+        "date": "2019-10-15",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 10/23/2019 09:00 am LOB 202"
+      },
+      {
+        "date": "2019-10-16",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 10/30/2019 10:00 am LOB 203"
+      },
+      {
+        "date": "2019-10-22",
+        "organization": "House",
+        "description": "Full Committee Work Session: 11/05/2019 09:30 am LOB 202"
+      },
+      {
+        "date": "2019-11-14",
+        "organization": "House",
+        "description": "Committee Report: Inexpedient to Legislate   (Vote 18-0; CC)  HC 50  P. 16"
+      },
+      {
+        "date": "2020-01-08",
+        "organization": "House",
+        "description": "Inexpedient to Legislate: MA VV 01/08/2020  HJ 1  P. 57"
+      }
+    ],
     "2020:HB709": [
       {
         "date": "2019-01-18",
@@ -3087,6 +3469,23 @@
         "date": "2020-02-13",
         "organization": "Senate",
         "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 02/13/2020;  SJ 4"
+      }
+    ],
+    "2020:SB484": [
+      {
+        "date": "2020-01-08",
+        "organization": "Senate",
+        "description": "To Be  Introduced 01/08/2020 and Referred to Election Law and Municipal Affairs;  SJ 1"
+      },
+      {
+        "date": "2020-02-20",
+        "organization": "Senate",
+        "description": "Hearing: 03/04/2020, Room 102, LOB, 09:15 am;  SC 8"
+      },
+      {
+        "date": "2020-06-16",
+        "organization": "Senate",
+        "description": "Vacated from Committee and Laid on Table, MA, VV; 06/16/2020  SJ 8"
       }
     ],
     "2020:CACR17": [
@@ -4396,6 +4795,58 @@
         "description": "Part II Effective 10/09/2021"
       }
     ],
+    "2021:SB13": [
+      {
+        "date": "2021-01-26",
+        "organization": "Senate",
+        "description": "Introduced 01/06/2021 and Referred to Ways and Means;  SJ 3"
+      },
+      {
+        "date": "2021-01-27",
+        "organization": "Senate",
+        "description": "Remote Hearing: 02/01/2021, 09:00 am; Links to join the hearing can be found in the Senate Calendar;  SC 9"
+      },
+      {
+        "date": "2021-03-01",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass with Amendment # 2021-0552s, 03/11/2021;  SC 14"
+      },
+      {
+        "date": "2021-03-11",
+        "organization": "Senate",
+        "description": "Committee Amendment # 2021-0552s, RC 24Y-0N, AA; 03/11/2021;  SJ 7"
+      },
+      {
+        "date": "2021-03-11",
+        "organization": "Senate",
+        "description": "Sen. Rosenwald Moved to Divide the Question on Ought to Pass as Amended 2021-0552s, Part I; and then Parts II and IV; 03/11/2021;  SJ 7"
+      },
+      {
+        "date": "2021-03-11",
+        "organization": "Senate",
+        "description": "The Chair ruled the Question Divisible; 03/11/2021;  SJ 7"
+      },
+      {
+        "date": "2021-03-11",
+        "organization": "Senate",
+        "description": "Ought to Pass with Amendment 2021-0552s, Part I, RC 14Y-10N; MA; 03/11/2021;  SJ 7"
+      },
+      {
+        "date": "2021-03-11",
+        "organization": "Senate",
+        "description": "Ought to Pass with Amendment 2021-0552s, Parts II-IV, RC 24Y-0N; MA; 03/11/2021;  SJ 7"
+      },
+      {
+        "date": "2021-03-11",
+        "organization": "Senate",
+        "description": "Sen. Giuda Moved Laid on Table, RC 24Y-0N, MA; 03/11/2021;  SJ 7"
+      },
+      {
+        "date": "2021-03-11",
+        "organization": "Senate",
+        "description": "Pending Motion Refer to Finance Rule 4-5; 03/11/2021;  SJ 7"
+      }
+    ],
     "2021:HB281": [
       {
         "date": "2021-01-09",
@@ -4776,6 +5227,83 @@
         "description": "Minority Committee Report: Ought to Pass"
       }
     ],
+    "2021:SB3": [
+      {
+        "date": "2021-02-03",
+        "organization": "Senate",
+        "description": "Introduced 01/06/2021 and Referred to Ways and Means;  SJ 3"
+      },
+      {
+        "date": "2021-02-03",
+        "organization": "Senate",
+        "description": "Remote Hearing: 02/08/2021, 09:00 am; Links to join the hearing can be found in the Senate Calendar;  SC 10"
+      },
+      {
+        "date": "2021-03-08",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass, 03/18/2021;  SC 15"
+      },
+      {
+        "date": "2021-03-18",
+        "organization": "Senate",
+        "description": "Ought to Pass: RC 23Y-0N, MA; OT3rdg; 03/18/2021;  SJ 8"
+      },
+      {
+        "date": "2021-03-31",
+        "organization": "House",
+        "description": "Introduced (in recess of) 02/25/2021 and referred to Ways and Means  HJ 4  P. 50"
+      },
+      {
+        "date": "2021-04-14",
+        "organization": "House",
+        "description": "Public Hearing: 04/27/2021 10:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95145735422 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened."
+      },
+      {
+        "date": "2021-04-28",
+        "organization": "House",
+        "description": "Full Committee Work Session: 05/04/2021 11:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/92340576130 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened."
+      },
+      {
+        "date": "2021-05-05",
+        "organization": "House",
+        "description": "==RECESSED== Executive Session: 05/11/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/91063233087 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened."
+      },
+      {
+        "date": "2021-05-12",
+        "organization": "House",
+        "description": "Full Committee Work Session: 05/18/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96731823451 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened."
+      },
+      {
+        "date": "2021-05-19",
+        "organization": "House",
+        "description": "Executive Session: 05/25/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96012823030 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened."
+      },
+      {
+        "date": "2021-05-25",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass   (Vote 23-0; RC)  HC 26  P. 29"
+      },
+      {
+        "date": "2021-06-04",
+        "organization": "House",
+        "description": "Ought to Pass: MA VV 06/04/2021  HJ 9  P. 34"
+      },
+      {
+        "date": "2021-06-08",
+        "organization": "House",
+        "description": "Enrolled (in recess of) 06/04/2021  HJ 9  P. 52"
+      },
+      {
+        "date": "2021-06-08",
+        "organization": "Senate",
+        "description": "Enrolled Adopted, VV, (In recess 06/03/2021);  SJ 19"
+      },
+      {
+        "date": "2021-06-15",
+        "organization": "Senate",
+        "description": "Signed by the Governor on 06/10/2021; Chapter 0074; Effective 06/10/2021"
+      }
+    ],
     "2021:SB52": [
       {
         "date": "2021-01-19",
@@ -5031,6 +5559,33 @@
         "description": "Committee Report: Ought to Pass with Amendment # 2021-2216h   10/26/2021 (Vote 19-2; RC)"
       }
     ],
+    "2021:HB528": [
+      {
+        "date": "2021-01-12",
+        "organization": "House",
+        "description": "Introduced (in recess of) 01/06/2021 and referred to Ways and Means  HJ 2  P. 52"
+      },
+      {
+        "date": "2021-01-27",
+        "organization": "House",
+        "description": "Public Hearing: 02/04/2021 09:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/95843569442 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened."
+      },
+      {
+        "date": "2021-02-04",
+        "organization": "House",
+        "description": "Full Committee Work Session: 02/10/2021 09:00 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/99928276230 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened."
+      },
+      {
+        "date": "2021-02-17",
+        "organization": "House",
+        "description": "Committee Report: Inexpedient to Legislate   (Vote 23-0; CC)  HC 12"
+      },
+      {
+        "date": "2021-02-24",
+        "organization": "House",
+        "description": "Inexpedient to Legislate: MA VV 02/24/2021  HJ 3  P. 21"
+      }
+    ],
     "2021:SB82": [
       {
         "date": "2021-01-21",
@@ -5269,6 +5824,33 @@
         "date": "2021-12-16",
         "organization": "Senate",
         "description": "Committee Report: Inexpedient to Legislate; Vote 5-0; CC; 01/05/2022;  SC 49"
+      }
+    ],
+    "2021:SB53": [
+      {
+        "date": "2021-01-19",
+        "organization": "Senate",
+        "description": "Introduced 01/06/2021 and Referred to Election Law and Municipal Affairs;  SJ 3"
+      },
+      {
+        "date": "2021-01-21",
+        "organization": "Senate",
+        "description": "Remote Hearing: 01/28/2021, 09:15 am; Links to join the hearing can be found in the Senate Calendar;  SC 8"
+      },
+      {
+        "date": "2021-01-28",
+        "organization": "Senate",
+        "description": "Committee Report: Rereferred to Committee, 02/04/2021; Vote 5-0; CC;  SC 9"
+      },
+      {
+        "date": "2021-02-04",
+        "organization": "Senate",
+        "description": "Rereferred to Committee, RC 23Y-1N, MA; 02/04/2021;  SJ 3"
+      },
+      {
+        "date": "2021-12-16",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass with Amendment # 2021-2221s, 01/05/2022; Vote 5-0; CC;  SC 49"
       }
     ],
     "2021:HB504": [
@@ -6093,6 +6675,68 @@
         "date": "2021-11-18",
         "organization": "House",
         "description": "Committee Report: Ought to Pass with Amendment # 2021-2225h NT  11/09/2021 (Vote 20-0; RC)"
+      }
+    ],
+    "2021:HB383": [
+      {
+        "date": "2021-01-10",
+        "organization": "House",
+        "description": "Introduced (in recess of) 01/06/2021 and referred to Municipal and County Government  HJ 2  P. 45"
+      },
+      {
+        "date": "2021-01-27",
+        "organization": "House",
+        "description": "Public Hearing: 02/08/2021 11:30 am Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/96815613466 / Executive session on pending legislation may be held throughout the day (time permitting) from the time the committee is initially convened."
+      },
+      {
+        "date": "2021-02-02",
+        "organization": "House",
+        "description": "Executive Session: 02/09/2021 02:00 pm Members of the public may attend using the following link:To join the webinar: https://www.zoom.us/j/93215390740"
+      },
+      {
+        "date": "2021-02-18",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass   (Vote 19-0; CC)  HC 12  P. 10"
+      },
+      {
+        "date": "2021-02-24",
+        "organization": "House",
+        "description": "Ought to Pass: MA VV 02/24/2021  HJ 3  P. 14"
+      },
+      {
+        "date": "2021-03-04",
+        "organization": "Senate",
+        "description": "Introduced 03/04/2021 and Referred to Election Law and Municipal Affairs;  SJ 7"
+      },
+      {
+        "date": "2021-03-09",
+        "organization": "Senate",
+        "description": "Remote Hearing: 03/15/2021, 09:30 am; Links to join the hearing can be found in the Senate Calendar;  SC 15"
+      },
+      {
+        "date": "2021-03-17",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass, 03/25/2021; Vote 5-0; CC;  SC 16"
+      },
+      {
+        "date": "2021-03-25",
+        "organization": "Senate",
+        "description": "Ought to Pass: RC 24Y-0N, MA; OT3rdg; 03/25/2021;  SJ 9"
+      },
+      {
+        "date": "2021-04-12",
+        "organization": "House",
+        "description": "Enrolled (in recess of) 04/09/2021  HJ 7  P. 99"
+      },
+      {
+        "date": "2021-04-12",
+        "organization": "Senate",
+        "description": "Enrolled RC 24Y-0N, MA, (In recess of 04/08/2021);  SJ 12"
+      },
+      {
+        "date": "2021-04-26",
+        "organization": "House",
+        "description": "Signed by Governor Sununu 04/23/2021; Chapter 15; Eff: 04/01/2022"
       }
     ],
     "2021:SB99": [
@@ -7478,6 +8122,68 @@
         "date": "2022-02-16",
         "organization": "House",
         "description": "Inexpedient to Legislate: MA VV 02/16/2022  HJ 3"
+      }
+    ],
+    "2022:HB1393": [
+      {
+        "date": "2021-12-01",
+        "organization": "House",
+        "description": "Introduced 01/05/2022 and referred to Municipal and County Government"
+      },
+      {
+        "date": "2022-02-15",
+        "organization": "House",
+        "description": "Public Hearing: 02/15/2022 3:00 p.m. LOB301-303"
+      },
+      {
+        "date": "2022-02-15",
+        "organization": "House",
+        "description": "Executive Session: 03/01/2022 09:00 am LOB 301-303"
+      },
+      {
+        "date": "2022-03-01",
+        "organization": "House",
+        "description": "Executive Session: 03/01/2022 9:00 a.m. LOB301-303"
+      },
+      {
+        "date": "2022-03-10",
+        "organization": "House",
+        "description": "Majority Committee Report: Ought to Pass   (Vote 10-9; RC)"
+      },
+      {
+        "date": "2022-03-10",
+        "organization": "House",
+        "description": "Minority Committee Report: Inexpedient to Legislate"
+      },
+      {
+        "date": "2022-03-17",
+        "organization": "House",
+        "description": "Lay HB1393 on Table (Rep. Maggiore): MF RC 164-178 03/17/2022  HJ 8"
+      },
+      {
+        "date": "2022-03-17",
+        "organization": "House",
+        "description": "Ought to Pass: MA VV 03/17/2022  HJ 8"
+      },
+      {
+        "date": "2022-03-22",
+        "organization": "Senate",
+        "description": "Introduced 03/17/2022 and Referred to Election Law and Municipal Affairs;  SJ 6"
+      },
+      {
+        "date": "2022-04-06",
+        "organization": "Senate",
+        "description": "Hearing: 04/11/2022, Room 100, SH, 02:15 pm;  SC 15"
+      },
+      {
+        "date": "2022-04-19",
+        "organization": "Senate",
+        "description": "Committee Report: Inexpedient to Legislate, 04/28/2022;  SC 17"
+      },
+      {
+        "date": "2022-04-28",
+        "organization": "Senate",
+        "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 04/28/2022;  SJ 10"
       }
     ],
     "2022:HB10": [
@@ -9401,6 +10107,33 @@
         "description": "Interim Study Report: Recommended for Future Legislation (Vote 10-9)"
       }
     ],
+    "2022:HB1365": [
+      {
+        "date": "2021-11-20",
+        "organization": "House",
+        "description": "Introduced 01/05/2022 and referred to Municipal and County Government"
+      },
+      {
+        "date": "2022-02-15",
+        "organization": "House",
+        "description": "Public Hearing: 02/15/2022 2:00 p.m. LOB301-303"
+      },
+      {
+        "date": "2022-02-28",
+        "organization": "House",
+        "description": "Executive Session: 02/28/2022 9:00 a.m. LOB301-303"
+      },
+      {
+        "date": "2022-03-04",
+        "organization": "House",
+        "description": "Committee Report: Inexpedient to Legislate   (Vote 16-0; CC)"
+      },
+      {
+        "date": "2022-03-16",
+        "organization": "House",
+        "description": "Inexpedient to Legislate: MA VV 03/15/2022  HJ 6"
+      }
+    ],
     "2022:HB623": [
       {
         "date": "2021-01-14",
@@ -9667,6 +10400,43 @@
         "date": "2022-06-29",
         "organization": "House",
         "description": "Signed by Governor Sununu 06/24/2022; Chapter 267; I. Sec 10 eff 9/1/2023 II. Sec 1-9 eff 01/01/2023 III. Rem eff. 06/24/2022  HJ 14"
+      }
+    ],
+    "2022:SB338": [
+      {
+        "date": "2021-12-15",
+        "organization": "Senate",
+        "description": "To Be  Introduced 01/05/2022 and Referred to Ways and Means;  SJ 1"
+      },
+      {
+        "date": "2021-12-29",
+        "organization": "Senate",
+        "description": "Hearing: 01/19/2022, Room 100, SH, 09:30 am;  SC 1"
+      },
+      {
+        "date": "2022-01-26",
+        "organization": "Senate",
+        "description": "Committee Report: Inexpedient to Legislate, 02/03/2022;  SC 5"
+      },
+      {
+        "date": "2022-02-03",
+        "organization": "Senate",
+        "description": "Special Order to the Next Session, Without Objection, MA; 02/03/2022;  SJ 2"
+      },
+      {
+        "date": "2022-02-07",
+        "organization": "Senate",
+        "description": "Committee Report: Inexpedient to Legislate, 02/16/2022;  SC 7"
+      },
+      {
+        "date": "2022-02-16",
+        "organization": "Senate",
+        "description": "Special Order to after the Committee on Education, Without Objection, MA; 02/16/2022;  SJ 3"
+      },
+      {
+        "date": "2022-02-16",
+        "organization": "Senate",
+        "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 02/16/2022;"
       }
     ],
     "2022:HB1338": [
@@ -10211,6 +10981,73 @@
         "description": "Inexpedient to Legislate: MA VV 03/15/2022  HJ 6"
       }
     ],
+    "2022:SB251": [
+      {
+        "date": "2021-12-14",
+        "organization": "Senate",
+        "description": "To Be  Introduced 01/05/2022 and Referred to Election Law and Municipal Affairs;  SJ 1"
+      },
+      {
+        "date": "2022-02-01",
+        "organization": "Senate",
+        "description": "Hearing: 02/07/2022, Room 100, SH, 01:15 pm;  SC 6"
+      },
+      {
+        "date": "2022-03-09",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass with Amendment # 2022-1010s, 03/17/2022; Vote 5-0; CC;  SC 11"
+      },
+      {
+        "date": "2022-03-17",
+        "organization": "Senate",
+        "description": "Ought to Pass with Amendment 2022-1010s, MA, VV; OT3rdg; 03/17/2022;  SJ 5"
+      },
+      {
+        "date": "2022-03-17",
+        "organization": "Senate",
+        "description": "Committee Amendment # 2022-1010s, AA, VV; 03/17/2022;  SJ 5"
+      },
+      {
+        "date": "2022-03-23",
+        "organization": "House",
+        "description": "Introduced 03/17/2022 and referred to Municipal and County Government"
+      },
+      {
+        "date": "2022-03-29",
+        "organization": "House",
+        "description": "Public Hearing: 04/07/2022 01:00 pm LOB 301-303"
+      },
+      {
+        "date": "2022-04-06",
+        "organization": "House",
+        "description": "Executive Session: 04/18/2022 10:00 am LOB 301-303"
+      },
+      {
+        "date": "2022-04-26",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass   (Vote 19-0; CC)"
+      },
+      {
+        "date": "2022-05-04",
+        "organization": "House",
+        "description": "Ought to Pass: MA VV 05/04/2022  HJ 11"
+      },
+      {
+        "date": "2022-05-27",
+        "organization": "Senate",
+        "description": "Enrolled Adopted, VV, (In recess 05/26/2022);  SJ 13"
+      },
+      {
+        "date": "2022-05-27",
+        "organization": "House",
+        "description": "Enrolled (in recess of) 05/26/2022  HJ 14"
+      },
+      {
+        "date": "2022-06-08",
+        "organization": "Senate",
+        "description": "Signed by the Governor on 06/07/2022; Chapter 0151; Effective 08/06/2022"
+      }
+    ],
     "2022:HB1194": [
       {
         "date": "2021-11-17",
@@ -10449,6 +11286,68 @@
         "date": "2022-04-21",
         "organization": "Senate",
         "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 04/21/2022;  SJ 9"
+      }
+    ],
+    "2022:SB312": [
+      {
+        "date": "2021-12-14",
+        "organization": "Senate",
+        "description": "To Be  Introduced 01/05/2022 and Referred to Ways and Means;  SJ 1"
+      },
+      {
+        "date": "2021-12-29",
+        "organization": "Senate",
+        "description": "Hearing: 01/19/2022, Room 100, SH, 09:15 am;  SC 1"
+      },
+      {
+        "date": "2022-01-26",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass, 02/03/2022; Vote 5-0; CC;  SC 5"
+      },
+      {
+        "date": "2022-02-03",
+        "organization": "Senate",
+        "description": "Ought to Pass: MA, VV; OT3rdg; 02/03/2022;  SJ 2"
+      },
+      {
+        "date": "2022-03-23",
+        "organization": "House",
+        "description": "Introduced 03/17/2022 and referred to Municipal and County Government"
+      },
+      {
+        "date": "2022-03-29",
+        "organization": "House",
+        "description": "Public Hearing: 04/07/2022 02:00 pm LOB 301-303"
+      },
+      {
+        "date": "2022-04-06",
+        "organization": "House",
+        "description": "Executive Session: 04/18/2022 10:00 am LOB 301-303"
+      },
+      {
+        "date": "2022-04-26",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass   (Vote 19-0; CC)"
+      },
+      {
+        "date": "2022-05-04",
+        "organization": "House",
+        "description": "Ought to Pass: MA VV 05/04/2022  HJ 11"
+      },
+      {
+        "date": "2022-05-27",
+        "organization": "Senate",
+        "description": "Enrolled Adopted, VV, (In recess 05/26/2022);  SJ 13"
+      },
+      {
+        "date": "2022-05-27",
+        "organization": "House",
+        "description": "Enrolled (in recess of) 05/26/2022  HJ 14"
+      },
+      {
+        "date": "2022-06-08",
+        "organization": "Senate",
+        "description": "Signed by the Governor on 06/07/2022; Chapter 0163; Effective 08/06/2022"
       }
     ],
     "2022:HB1417": [
@@ -10869,6 +11768,43 @@
         "description": "Signed by Governor Sununu 06/17/2022; Chapter 185; eff. 06/17/2022  HJ 14"
       }
     ],
+    "2023:HB510": [
+      {
+        "date": "2023-01-11",
+        "organization": "House",
+        "description": "Introduced (in recess of) 01/05/2023 and referred to Ways and Means  HJ 3  P. 18"
+      },
+      {
+        "date": "2023-02-08",
+        "organization": "House",
+        "description": "Public Hearing: 02/15/2023 11:00 am LOB 202-204"
+      },
+      {
+        "date": "2023-02-09",
+        "organization": "House",
+        "description": "Public Hearing: 02/15/2023 01:15 pm LOB 202-204"
+      },
+      {
+        "date": "2023-03-01",
+        "organization": "House",
+        "description": "Executive Session: 03/08/2023 01:15 pm LOB 202-204"
+      },
+      {
+        "date": "2023-03-13",
+        "organization": "House",
+        "description": "Majority Committee Report: Inexpedient to Legislate HB510-FN 03/08/2023 (Vote 15-5; RC)  HC 16  P. 43"
+      },
+      {
+        "date": "2023-03-13",
+        "organization": "House",
+        "description": "Minority Committee Report: Ought to Pass"
+      },
+      {
+        "date": "2023-03-23",
+        "organization": "House",
+        "description": "Inexpedient to Legislate: MA VV 03/23/2023  HJ 11  P. 47"
+      }
+    ],
     "2023:HB649": [
       {
         "date": "2023-01-12",
@@ -11003,6 +11939,68 @@
         "date": "2023-06-01",
         "organization": "Senate",
         "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 06/01/2023;  SJ 16"
+      }
+    ],
+    "2023:HB365": [
+      {
+        "date": "2023-01-09",
+        "organization": "House",
+        "description": "Introduced (in recess of) 01/05/2023 and referred to Education  HJ 3  P. 13"
+      },
+      {
+        "date": "2023-01-11",
+        "organization": "House",
+        "description": "Public Hearing: 01/19/2023 11:30 am LOB 205-207"
+      },
+      {
+        "date": "2023-01-25",
+        "organization": "House",
+        "description": "Executive Session: 01/31/2023 09:45 am LOB 205-207"
+      },
+      {
+        "date": "2023-02-07",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass 01/31/2023  (Vote 20-0; CC)  HC 11  P. 4"
+      },
+      {
+        "date": "2023-02-14",
+        "organization": "House",
+        "description": "Ought to Pass: MA VV 02/14/2023  HJ 5"
+      },
+      {
+        "date": "2023-03-07",
+        "organization": "Senate",
+        "description": "Introduced 02/22/2023 and Referred to Education;  SJ 9"
+      },
+      {
+        "date": "2023-03-16",
+        "organization": "Senate",
+        "description": "Hearing: 03/21/2023, Room 101, LOB, 09:00 am;  SC 14"
+      },
+      {
+        "date": "2023-03-22",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass, 03/30/2023; Vote 5-0; CC;  SC 15"
+      },
+      {
+        "date": "2023-03-30",
+        "organization": "Senate",
+        "description": "Ought to Pass: MA, VV; OT3rdg; 03/30/2023;  SJ 12"
+      },
+      {
+        "date": "2023-04-21",
+        "organization": "Senate",
+        "description": "Enrolled Adopted, VV, (In recess 04/13/2023);  SJ 14"
+      },
+      {
+        "date": "2023-04-21",
+        "organization": "House",
+        "description": "Enrolled (in recess of) 04/06/2023"
+      },
+      {
+        "date": "2023-05-02",
+        "organization": "House",
+        "description": "Signed by Governor Sununu 04/26/2023; Chapter 5; Eff: 06/25/23"
       }
     ],
     "2023:HB197": [
@@ -11856,6 +12854,33 @@
         "description": "Inexpedient to Legislate: MA VV 02/22/2023  HJ 6  P. 14"
       }
     ],
+    "2023:HB99": [
+      {
+        "date": "2022-12-23",
+        "organization": "House",
+        "description": "Introduced 01/04/2023 and referred to Municipal and County Government"
+      },
+      {
+        "date": "2023-01-11",
+        "organization": "House",
+        "description": "Public Hearing: 01/18/2023 11:15 am LOB 301-303"
+      },
+      {
+        "date": "2023-02-15",
+        "organization": "House",
+        "description": "Executive Session: 02/09/2023 10:30 am LOB 301-303"
+      },
+      {
+        "date": "2023-02-15",
+        "organization": "House",
+        "description": "Committee Report: Inexpedient to Legislate HB99-FN-LOCAL 02/09/2023 (Vote 20-0; CC)  HC 12  P. 7"
+      },
+      {
+        "date": "2023-02-22",
+        "organization": "House",
+        "description": "Inexpedient to Legislate: MA VV 02/22/2023  HJ 6  P. 11"
+      }
+    ],
     "2023:HB546": [
       {
         "date": "2023-01-11",
@@ -11896,6 +12921,33 @@
         "date": "2023-11-16",
         "organization": "House",
         "description": "Minority Committee Report: Ought to Pass"
+      }
+    ],
+    "2023:HB80": [
+      {
+        "date": "2022-12-23",
+        "organization": "House",
+        "description": "Introduced 01/04/2023 and referred to Municipal and County Government"
+      },
+      {
+        "date": "2023-01-05",
+        "organization": "House",
+        "description": "Public Hearing: 01/11/2023 02:30 pm LOB 301-303"
+      },
+      {
+        "date": "2023-01-11",
+        "organization": "House",
+        "description": "Executive Session: 01/19/2023 10:30 am LOB 301-303"
+      },
+      {
+        "date": "2023-01-25",
+        "organization": "House",
+        "description": "Committee Report: Inexpedient to Legislate HB80 01/25/2023 (Vote 18-2; CC)  HC 9  P. 4"
+      },
+      {
+        "date": "2023-02-02",
+        "organization": "House",
+        "description": "Inexpedient to Legislate: MA VV 02/02/2023  HJ 4"
       }
     ],
     "2023:SB266": [
@@ -12563,6 +13615,108 @@
         "description": "Inexpedient to Legislate: MA RC 194-170 03/09/2023  HJ 8  P. 66"
       }
     ],
+    "2023:HB576": [
+      {
+        "date": "2023-01-11",
+        "organization": "House",
+        "description": "Introduced (in recess of) 01/05/2023 and referred to Science, Technology and Energy  HJ 3  P. 21"
+      },
+      {
+        "date": "2023-01-18",
+        "organization": "House",
+        "description": "Public Hearing: 01/24/2023 01:00 pm LOB 302-304"
+      },
+      {
+        "date": "2023-01-25",
+        "organization": "House",
+        "description": "Executive Session: 01/30/2023 04:00 pm LOB 302-304"
+      },
+      {
+        "date": "2023-02-14",
+        "organization": "House",
+        "description": "Amendment # 2023-0162h: AA VV 02/14/2023  HJ 5  P. 26"
+      },
+      {
+        "date": "2023-02-14",
+        "organization": "House",
+        "description": "Ought to Pass with Amendment 2023-0162h: MA VV 02/14/2023  HJ 5  P. 26"
+      },
+      {
+        "date": "2023-02-14",
+        "organization": "House",
+        "description": "Referred to Finance 02/14/2023  HJ 5"
+      },
+      {
+        "date": "2023-02-16",
+        "organization": "House",
+        "description": "Division Work Session: 02/21/2023 01:30 pm LOB 212"
+      },
+      {
+        "date": "2023-02-23",
+        "organization": "House",
+        "description": "Division Work Session: 03/03/2023 10:30 am LOB 212"
+      },
+      {
+        "date": "2023-03-16",
+        "organization": "House",
+        "description": "Executive Session: 03/20/2023 01:00 pm LOB 210-211"
+      },
+      {
+        "date": "2023-03-27",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass with Amendment # 2023-0692h   03/22/2023 (Vote 21-4; RC)"
+      },
+      {
+        "date": "2023-03-28",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass with Amendment # 2023-0162h (NT)  01/31/2023 (Vote 14-5; RC)  HC 11  P. 15"
+      },
+      {
+        "date": "2023-04-06",
+        "organization": "House",
+        "description": "Amendment # 2023-0692h: AA VV 04/06/2023  HJ 12  P. 209"
+      },
+      {
+        "date": "2023-04-06",
+        "organization": "House",
+        "description": "Ought to Pass with Amendment 2023-0692h: MA VV 04/06/2023  HJ 12  P. 210"
+      },
+      {
+        "date": "2023-04-11",
+        "organization": "Senate",
+        "description": "Introduced 03/30/2023 and Referred to Energy and Natural Resources;  SJ 13"
+      },
+      {
+        "date": "2023-04-19",
+        "organization": "Senate",
+        "description": "Hearing: 04/25/2023, Room 103, SH, 09:30 am;  SC 19"
+      },
+      {
+        "date": "2023-05-16",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass, 05/18/2023; Vote 5-0; CC;  SC 22A"
+      },
+      {
+        "date": "2023-05-18",
+        "organization": "Senate",
+        "description": "Ought to Pass: MA, VV; OT3rdg; 05/18/2023;  SJ 15"
+      },
+      {
+        "date": "2023-06-13",
+        "organization": "Senate",
+        "description": "Enrolled Adopted, VV, (In recess 06/08/2023);  SJ 19"
+      },
+      {
+        "date": "2023-06-13",
+        "organization": "House",
+        "description": "Enrolled (in recess of) 06/08/2023  HJ 15"
+      },
+      {
+        "date": "2023-06-21",
+        "organization": "House",
+        "description": "Signed by Governor Sununu 06/20/2023; Chapter 91; Eff:08/19/2023"
+      }
+    ],
     "2023:SB90": [
       {
         "date": "2023-01-18",
@@ -12999,6 +14153,38 @@
         "description": "Inexpedient to Legislate: MA VV 03/09/2023  HJ 8  P. 5"
       }
     ],
+    "2023:SB262": [
+      {
+        "date": "2023-01-24",
+        "organization": "Senate",
+        "description": "Introduced 01/19/2023 and Referred to Ways and Means;  SJ 5"
+      },
+      {
+        "date": "2023-01-24",
+        "organization": "Senate",
+        "description": "Hearing: 02/01/2023, Room 100, SH, 10:45 am;  SC 8"
+      },
+      {
+        "date": "2023-02-09",
+        "organization": "Senate",
+        "description": "Committee Report: Inexpedient to Legislate, 02/22/2023;  SC 11"
+      },
+      {
+        "date": "2023-02-22",
+        "organization": "Senate",
+        "description": "Special Order to 03/09/2023, Without Objection, MA; 02/22/2023  SJ 8"
+      },
+      {
+        "date": "2023-02-22",
+        "organization": "Senate",
+        "description": "Committee Report: Inexpedient to Legislate, 03/09/2023;  SC 12"
+      },
+      {
+        "date": "2023-03-09",
+        "organization": "Senate",
+        "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 03/09/2023;  SJ 9"
+      }
+    ],
     "2023:HB71": [
       {
         "date": "2022-12-23",
@@ -13224,6 +14410,38 @@
         "description": "Died on Table, Session ended 10/26/2023  HJ 18"
       }
     ],
+    "2023:HB403": [
+      {
+        "date": "2023-01-10",
+        "organization": "House",
+        "description": "Introduced (in recess of) 01/05/2023 and referred to Municipal and County Government  HJ 3  P. 14"
+      },
+      {
+        "date": "2023-01-18",
+        "organization": "House",
+        "description": "Public Hearing: 01/26/2023 01:30 pm LOB 301-303"
+      },
+      {
+        "date": "2023-02-15",
+        "organization": "House",
+        "description": "Executive Session: 02/09/2023 10:30 am LOB 301-303"
+      },
+      {
+        "date": "2023-02-15",
+        "organization": "House",
+        "description": "Majority Committee Report: Inexpedient to Legislate HB403 02/09/2023 (Vote 12-8; RC)  HC 12  P. 24"
+      },
+      {
+        "date": "2023-02-15",
+        "organization": "House",
+        "description": "Minority Committee Report: Ought to Pass with Amendment #  2023-0155h"
+      },
+      {
+        "date": "2023-02-23",
+        "organization": "House",
+        "description": "Inexpedient to Legislate: MA DV 200-144 02/23/2023  HJ 7  P. 23"
+      }
+    ],
     "2023:HB265": [
       {
         "date": "2023-01-09",
@@ -13254,6 +14472,78 @@
         "date": "2023-03-09",
         "organization": "House",
         "description": "Inexpedient to Legislate: MA VV 03/09/2023  HJ 8  P. 8"
+      }
+    ],
+    "2023:HB174": [
+      {
+        "date": "2023-01-03",
+        "organization": "House",
+        "description": "Introduced 01/04/2023 and referred to Resources, Recreation and Development"
+      },
+      {
+        "date": "2023-01-11",
+        "organization": "House",
+        "description": "Public Hearing: 01/18/2023 09:45 am LOB 305-307"
+      },
+      {
+        "date": "2023-02-16",
+        "organization": "House",
+        "description": "Executive Session: 03/08/2023 11:00 am LOB 305-307"
+      },
+      {
+        "date": "2023-02-16",
+        "organization": "House",
+        "description": "==CANCELLED== Full Committee Work Session: 03/01/2023 01:30 pm LOB 305-307"
+      },
+      {
+        "date": "2023-03-15",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass with Amendment # 2023-0761h   03/08/2023 (Vote 20-0; CC)  HC 16  P. 12"
+      },
+      {
+        "date": "2023-03-22",
+        "organization": "House",
+        "description": "Amendment # 2023-0761h: AA VV 03/22/2023  HJ 10  P. 23"
+      },
+      {
+        "date": "2023-03-22",
+        "organization": "House",
+        "description": "Ought to Pass with Amendment 2023-0761h: MA VV 03/22/2023  HJ 10  P. 23"
+      },
+      {
+        "date": "2023-03-24",
+        "organization": "Senate",
+        "description": "Introduced 03/23/2023 and Referred to Energy and Natural Resources;  SJ 12"
+      },
+      {
+        "date": "2023-04-19",
+        "organization": "Senate",
+        "description": "Hearing: 04/25/2023, Room 103, SH, 09:00 am;  SC 19"
+      },
+      {
+        "date": "2023-04-27",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass, 05/11/2023;  SC 21"
+      },
+      {
+        "date": "2023-05-11",
+        "organization": "Senate",
+        "description": "Ought to Pass: MA, VV; OT3rdg; 05/11/2023;  SJ 14"
+      },
+      {
+        "date": "2023-06-20",
+        "organization": "Senate",
+        "description": "Enrolled Adopted, VV, (In recess 06/15/2023);  SJ 20"
+      },
+      {
+        "date": "2023-06-20",
+        "organization": "House",
+        "description": "Enrolled (in recess of) 06/15/2023  HJ 16  P. 14"
+      },
+      {
+        "date": "2023-07-12",
+        "organization": "House",
+        "description": "Signed by Governor Sununu 06/30/2023; Chapter 117; Eff: 08/29/2023  HJ 17"
       }
     ],
     "2023:HB568": [
@@ -14773,6 +16063,78 @@
         "description": "Refer to Interim Study, MA, VV; 03/21/2024;  SJ 7"
       }
     ],
+    "2024:SB532": [
+      {
+        "date": "2023-12-14",
+        "organization": "Senate",
+        "description": "To Be  Introduced 01/03/2024 and Referred to Election Law and Municipal Affairs;  SJ 1"
+      },
+      {
+        "date": "2024-02-01",
+        "organization": "Senate",
+        "description": "Hearing: 02/06/2024, Room 103, LOB, 09:30 am;  SC 6"
+      },
+      {
+        "date": "2024-03-06",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass with Amendment #2024-0974s, 03/21/2024, Vote 4-0;  SC 11"
+      },
+      {
+        "date": "2024-03-21",
+        "organization": "Senate",
+        "description": "Committee Amendment # 2024-0974s, AA, VV; 03/21/2024;  SJ 7"
+      },
+      {
+        "date": "2024-03-21",
+        "organization": "Senate",
+        "description": "Ought to Pass with Amendment 2024-0974s, MA, VV; OT3rdg; 03/21/2024;  SJ 7"
+      },
+      {
+        "date": "2024-04-02",
+        "organization": "House",
+        "description": "Introduced (in recess of) 03/28/2024 and referred to Municipal and County Government  HJ 10  P. 228"
+      },
+      {
+        "date": "2024-04-10",
+        "organization": "House",
+        "description": "Public Hearing: 04/17/2024 11:30 am LOB 301-303"
+      },
+      {
+        "date": "2024-04-17",
+        "organization": "House",
+        "description": "Executive Session: 04/23/2024 11:00 am LOB 301-303"
+      },
+      {
+        "date": "2024-04-29",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass with Amendment # 2024-1569h   04/23/2024 (Vote 17-1; RC)"
+      },
+      {
+        "date": "2024-05-09",
+        "organization": "House",
+        "description": "FLAM # 2024-1802h  (Rep. L. Turcotte): AA VV 05/09/2024  HJ 13  P. 59"
+      },
+      {
+        "date": "2024-05-09",
+        "organization": "House",
+        "description": "Amendment # 2024-1569h: AA VV 05/09/2024  HJ 13  P. 59"
+      },
+      {
+        "date": "2024-05-09",
+        "organization": "House",
+        "description": "FLAM # 2024-1847h (NT) (Rep. Coker): AA DV 253-104 05/09/2024  HJ 13  P. 59"
+      },
+      {
+        "date": "2024-05-09",
+        "organization": "House",
+        "description": "Ought to Pass with Amendment 2024-1569h 2024-1802h  2024-1847h: MA VV 05/09/2024  HJ 13  P. 60"
+      },
+      {
+        "date": "2024-05-30",
+        "organization": "Senate",
+        "description": "Sen. Gray Moved Nonconcur with the House Amendment, MA, VV; 05/30/2024;  SJ 16"
+      }
+    ],
     "2024:HB1422": [
       {
         "date": "2023-12-06",
@@ -15405,6 +16767,103 @@
         "date": "2024-03-21",
         "organization": "House",
         "description": "Inexpedient to Legislate: MA VV 03/21/2024  HJ 9  P. 16"
+      }
+    ],
+    "2024:SB433": [
+      {
+        "date": "2023-12-12",
+        "organization": "Senate",
+        "description": "To Be  Introduced 01/03/2024 and Referred to Ways and Means;  SJ 1"
+      },
+      {
+        "date": "2024-01-10",
+        "organization": "Senate",
+        "description": "Hearing: 01/24/2024, Room 100, SH, 10:00 am;  SC 3"
+      },
+      {
+        "date": "2024-01-24",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass with Amendment # 2024-0258s, 02/08/2024, Vote 4-0;  SC 6"
+      },
+      {
+        "date": "2024-02-08",
+        "organization": "Senate",
+        "description": "Committee Amendment # 2024-0258s, AA, VV; 02/08/2024;  SJ 3"
+      },
+      {
+        "date": "2024-02-08",
+        "organization": "Senate",
+        "description": "Sen. D'Allesandro Floor Amendment # 2024-0570s, AA, VV; 02/08/2024;  SJ 3"
+      },
+      {
+        "date": "2024-02-08",
+        "organization": "Senate",
+        "description": "Ought to Pass with Amendments 2024-0258s and 2024-0570s, MA, VV; OT3rdg; 02/08/2024;  SJ 3"
+      },
+      {
+        "date": "2024-02-29",
+        "organization": "House",
+        "description": "Introduced (in recess of) 02/22/2024 and referred to Commerce and Consumer Affairs  HJ 6  P. 139"
+      },
+      {
+        "date": "2024-04-09",
+        "organization": "House",
+        "description": "Public Hearing: 04/30/2024 02:15 pm LOB 302-304"
+      },
+      {
+        "date": "2024-05-01",
+        "organization": "House",
+        "description": "Subcommittee Work Session: 05/08/2024 01:15 pm LOB 302-304"
+      },
+      {
+        "date": "2024-05-08",
+        "organization": "House",
+        "description": "Executive Session: 05/15/2024 10:00 am LOB 302-304"
+      },
+      {
+        "date": "2024-05-15",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass with Amendment # 2024-1711h (NT)  05/15/2024 (Vote 18-0; CC)  HC 20  P. 7"
+      },
+      {
+        "date": "2024-05-23",
+        "organization": "House",
+        "description": "Amendment # 2024-1711h (NT): AA VV 05/23/2024  HJ 14  P. 5"
+      },
+      {
+        "date": "2024-05-23",
+        "organization": "House",
+        "description": "Ought to Pass with Amendment 2024-1711h: MA VV 05/23/2024  HJ 14  P. 5"
+      },
+      {
+        "date": "2024-05-30",
+        "organization": "Senate",
+        "description": "Sen. Lang Moved to Concur with the House Amendment, MA, VV; 05/30/2024;  SJ 16"
+      },
+      {
+        "date": "2024-07-11",
+        "organization": "Senate",
+        "description": "Enrolled Adopted, VV, (In recess 06/13/2024);  SJ 18"
+      },
+      {
+        "date": "2024-07-15",
+        "organization": "House",
+        "description": "Enrolled (in recess of) 06/13/2024  HJ 16  P. 51"
+      },
+      {
+        "date": "2024-07-30",
+        "organization": "Senate",
+        "description": "Signed by the Governor on 07/26/2024; Chapter 0291"
+      },
+      {
+        "date": "2024-07-30",
+        "organization": "Senate",
+        "description": "I. Section 2 Effective 11/01/2024"
+      },
+      {
+        "date": "2024-07-30",
+        "organization": "Senate",
+        "description": "II. Remainder Effective 07/26/2024"
       }
     ],
     "2024:HB450": [
@@ -16444,6 +17903,88 @@
         "description": "House Refuses to Accede to Senate Request for CofC (Rep. Rhodes): MA DV 176-166 05/30/2024  HJ 15  P. 28"
       }
     ],
+    "2024:SB472": [
+      {
+        "date": "2023-12-12",
+        "organization": "Senate",
+        "description": "To Be  Introduced 01/03/2024 and Referred to Ways and Means;  SJ 1"
+      },
+      {
+        "date": "2023-12-28",
+        "organization": "Senate",
+        "description": "Hearing: 01/10/2024, Room 100, SH, 09:30 am;  SC 1"
+      },
+      {
+        "date": "2024-02-21",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass with Amendment # 2024-0824s, 03/07/2024, Vote 3-2;  SC 9"
+      },
+      {
+        "date": "2024-03-07",
+        "organization": "Senate",
+        "description": "Committee Amendment # 2024-0824s, AA, VV; 03/07/2024;  SJ 6"
+      },
+      {
+        "date": "2024-03-07",
+        "organization": "Senate",
+        "description": "Ought to Pass with Amendment 2024-0824s, MA, VV; Refer to Finance Rule 4-5; 03/07/2024;  SJ 6"
+      },
+      {
+        "date": "2024-03-13",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass, 03/21/2024, Vote 7-0;  SC 11"
+      },
+      {
+        "date": "2024-03-21",
+        "organization": "Senate",
+        "description": "Ought to Pass: MA, VV; OT3rdg; 03/21/2024;  SJ 7"
+      },
+      {
+        "date": "2024-04-02",
+        "organization": "House",
+        "description": "Introduced (in recess of) 03/28/2024 and referred to Ways and Means  HJ 10  P. 227"
+      },
+      {
+        "date": "2024-04-05",
+        "organization": "House",
+        "description": "Public Hearing: 04/09/2024 10:30 am LOB 202-204"
+      },
+      {
+        "date": "2024-04-17",
+        "organization": "House",
+        "description": "Executive Session: 04/23/2024 12:00 pm LOB 202-204"
+      },
+      {
+        "date": "2024-04-17",
+        "organization": "House",
+        "description": "Full Committee Work Session: 04/23/2024 11:00 am LOB 202-204"
+      },
+      {
+        "date": "2024-04-25",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass  04/23/2024 (Vote 19-0; CC)  HC 17  P. 13"
+      },
+      {
+        "date": "2024-05-02",
+        "organization": "House",
+        "description": "Ought to Pass: MA VV 05/02/2024  HJ 12  P. 21"
+      },
+      {
+        "date": "2024-05-16",
+        "organization": "House",
+        "description": "Enrolled (in recess of) 05/09/2024  HJ 13  P. 74"
+      },
+      {
+        "date": "2024-05-17",
+        "organization": "Senate",
+        "description": "Enrolled Adopted, VV, (In recess 05/16/2024);  SJ 14"
+      },
+      {
+        "date": "2024-05-21",
+        "organization": "Senate",
+        "description": "Signed by the Governor on 05/20/2024; Chapter 0028; Effective 05/20/2024"
+      }
+    ],
     "2024:CACR15": [
       {
         "date": "2023-12-01",
@@ -16717,6 +18258,78 @@
         "description": "Signed by Governor Sununu 07/19/2024; Chapter 210; eff. 04/01/2025"
       }
     ],
+    "2024:HB1456": [
+      {
+        "date": "2023-12-06",
+        "organization": "House",
+        "description": "Introduced 01/03/2024 and referred to Executive Departments and Administration  HJ 1  P. 21"
+      },
+      {
+        "date": "2024-02-06",
+        "organization": "House",
+        "description": "Public Hearing: 02/14/2024 01:30 pm LOB 306-308"
+      },
+      {
+        "date": "2024-03-06",
+        "organization": "House",
+        "description": "Executive Session: 03/13/2024 10:00 am LOB 306-308"
+      },
+      {
+        "date": "2024-03-15",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass  03/13/2024 (Vote 20-0; CC)  HC 12  P. 15"
+      },
+      {
+        "date": "2024-03-28",
+        "organization": "House",
+        "description": "Ought to Pass: MA VV 03/28/2024  HJ 10  P. 87"
+      },
+      {
+        "date": "2024-04-02",
+        "organization": "Senate",
+        "description": "Introduced 03/21/2024 and Referred to Executive Departments and Administration;  SJ 8"
+      },
+      {
+        "date": "2024-04-18",
+        "organization": "Senate",
+        "description": "==ROOM CHANGE== Hearing: 04/24/2024, Room 101, LOB, 09:00 am;  SC 16"
+      },
+      {
+        "date": "2024-04-25",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass with Amendment #2024-1643s, 05/02/2024, Vote 3-0;  SC 17"
+      },
+      {
+        "date": "2024-05-02",
+        "organization": "Senate",
+        "description": "Committee Amendment # 2024-1643s, AA, VV; 05/02/2024;  SJ 11"
+      },
+      {
+        "date": "2024-05-02",
+        "organization": "Senate",
+        "description": "Ought to Pass with Amendment 2024-1643s, MA, VV; OT3rdg; 05/02/2024;  SJ 11"
+      },
+      {
+        "date": "2024-05-30",
+        "organization": "House",
+        "description": "House Concurs with Senate Amendment 2024-1643s (Rep. C. McGuire): MA VV 05/30/2024  HJ 15  P. 16"
+      },
+      {
+        "date": "2024-07-11",
+        "organization": "Senate",
+        "description": "Enrolled Adopted, VV, (In recess 06/13/2024);  SJ 18"
+      },
+      {
+        "date": "2024-07-15",
+        "organization": "House",
+        "description": "Enrolled (in recess of) 06/13/2024  HJ 16  P. 51"
+      },
+      {
+        "date": "2024-07-30",
+        "organization": "House",
+        "description": "Signed by Governor Sununu 07/26/2024; Chapter 267; eff. 01/01/2025"
+      }
+    ],
     "2024:HB1318": [
       {
         "date": "2023-12-06",
@@ -16938,6 +18551,70 @@
         "date": "2024-07-22",
         "organization": "House",
         "description": "Signed by Governor Sununu 07/12/2024; Chapter 183; eff. 04/01/2025"
+      }
+    ],
+    "2024:CACR18": [
+      {
+        "date": "2023-12-01",
+        "organization": "House",
+        "description": "Introduced 01/03/2024 and referred to Ways and Means"
+      },
+      {
+        "date": "2024-01-05",
+        "organization": "House",
+        "description": "Public Hearing: 01/09/2024 10:30 am LOB 202-204"
+      },
+      {
+        "date": "2024-01-31",
+        "organization": "House",
+        "description": "Executive Session: 02/06/2024 01:00 pm LOB 202-204"
+      },
+      {
+        "date": "2024-01-31",
+        "organization": "House",
+        "description": "Full committee Work Session: 02/05/2024 10:00 am LOB 202-204"
+      },
+      {
+        "date": "2024-02-09",
+        "organization": "House",
+        "description": "Committee Report: Inexpedient to Legislate  02/06/2024 (Vote 20-0; CC)"
+      },
+      {
+        "date": "2024-03-20",
+        "organization": "House",
+        "description": "Inexpedient to Legislate: MA VV 02/22/2024  HJ 6  P. 19"
+      }
+    ],
+    "2024:SB586": [
+      {
+        "date": "2023-12-14",
+        "organization": "Senate",
+        "description": "To Be  Introduced 01/03/2024 and Referred to Ways and Means;  SJ 1"
+      },
+      {
+        "date": "2024-01-10",
+        "organization": "Senate",
+        "description": "Hearing: 01/24/2024, Room 100, SH, 09:30 am;  SC 3"
+      },
+      {
+        "date": "2024-03-27",
+        "organization": "Senate",
+        "description": "Committee Report: Referred to Interim Study, 04/05/2024, Vote 4-0;  SC 13"
+      },
+      {
+        "date": "2024-04-05",
+        "organization": "Senate",
+        "description": "Special Order to the Next Session, Without Objection, MA; 04/05/2024;  SJ 8"
+      },
+      {
+        "date": "2024-04-05",
+        "organization": "Senate",
+        "description": "Committee Report: Referred to Interim Study, 04/11/2024, Vote 4-0;  SC 14A"
+      },
+      {
+        "date": "2024-04-11",
+        "organization": "Senate",
+        "description": "Refer to Interim Study, MA, VV; 04/11/2024;  SJ 9"
       }
     ],
     "2024:HB1106": [
@@ -17733,6 +19410,48 @@
         "description": "Inexpedient to Legislate: MA RC 192-176 01/04/2024  HJ 2  P. 52"
       }
     ],
+    "2024:HB1254": [
+      {
+        "date": "2023-12-01",
+        "organization": "House",
+        "description": "Introduced 01/03/2024 and referred to Ways and Means"
+      },
+      {
+        "date": "2024-01-05",
+        "organization": "House",
+        "description": "Public Hearing: 01/09/2024 11:30 am LOB 202-204"
+      },
+      {
+        "date": "2024-01-31",
+        "organization": "House",
+        "description": "==CANCELLED== Executive Session: 02/06/2024 01:00 pm LOB 202-204"
+      },
+      {
+        "date": "2024-01-31",
+        "organization": "House",
+        "description": "Full committee Work Session: 02/05/2024 10:00 am LOB 202-204"
+      },
+      {
+        "date": "2024-02-07",
+        "organization": "House",
+        "description": "Executive Session: 02/14/2024 10:00 am LOB 202-204"
+      },
+      {
+        "date": "2024-02-21",
+        "organization": "House",
+        "description": "Committee Report: Without Recommendation  02/14/2024 (Vote 10-10; RC)  HC 9  P. 33"
+      },
+      {
+        "date": "2024-03-08",
+        "organization": "House",
+        "description": "Special Order to Regular Calendar of next Session day Without Objection  HJ 7"
+      },
+      {
+        "date": "2024-03-14",
+        "organization": "House",
+        "description": "Indefinitely Postpone (Rep. Sweeney): MA RC 195-171 03/14/2024  HJ 8  P. 101"
+      }
+    ],
     "2024:HB546": [
       {
         "date": "2023-01-11",
@@ -18167,6 +19886,33 @@
         "date": "2024-10-10",
         "organization": "House",
         "description": "Died on Table, Session ended 10/10/2024  HJ 17"
+      }
+    ],
+    "2024:HB1651": [
+      {
+        "date": "2023-12-15",
+        "organization": "House",
+        "description": "Introduced 01/03/2024 and referred to Judiciary  HJ 1  P. 28"
+      },
+      {
+        "date": "2024-01-09",
+        "organization": "House",
+        "description": "Public Hearing: 01/24/2024 09:45 am LOB 206-208"
+      },
+      {
+        "date": "2024-02-02",
+        "organization": "House",
+        "description": "Executive Session: 02/01/2024 03:45 pm LOB 206-208"
+      },
+      {
+        "date": "2024-02-06",
+        "organization": "House",
+        "description": "Committee Report: Inexpedient to Legislate  02/01/2024 (Vote 19-0; CC)  HC 6  P. 7"
+      },
+      {
+        "date": "2024-02-15",
+        "organization": "House",
+        "description": "Inexpedient to Legislate: MA VV 02/15/2024  HJ 5  P. 13"
       }
     ],
     "2024:HB1128": [
@@ -18717,6 +20463,118 @@
         "date": "2024-02-22",
         "organization": "House",
         "description": "Inexpedient to Legislate: MA VV 02/22/2024  HJ 6  P. 91"
+      }
+    ],
+    "2024:HB1570": [
+      {
+        "date": "2023-12-15",
+        "organization": "House",
+        "description": "Introduced 01/03/2024 and referred to Education  HJ 1  P. 25"
+      },
+      {
+        "date": "2024-01-05",
+        "organization": "House",
+        "description": "Public Hearing: 01/18/2024 10:45 am LOB 205-207"
+      },
+      {
+        "date": "2024-01-25",
+        "organization": "House",
+        "description": "==RECESSED== Executive Session: 01/30/2024 10:00 am LOB 205-207"
+      },
+      {
+        "date": "2024-01-25",
+        "organization": "House",
+        "description": "==CONTINUED== Executive Session: 01/31/2024 10:00 am LOB 205-207"
+      },
+      {
+        "date": "2024-02-01",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass with Amendment # 2024-0336h (NT)  01/30/2024 (Vote 20-0; CC)"
+      },
+      {
+        "date": "2024-02-08",
+        "organization": "House",
+        "description": "Amendment # 2024-0336h: AA VV 02/08/2024  HJ 4  P. 7"
+      },
+      {
+        "date": "2024-02-08",
+        "organization": "House",
+        "description": "Ought to Pass with Amendment 2024-0336h: MA VV 02/08/2024  HJ 4  P. 7"
+      },
+      {
+        "date": "2024-02-08",
+        "organization": "House",
+        "description": "Referred to Finance 02/08/2024  HJ 4  P. 7"
+      },
+      {
+        "date": "2024-02-21",
+        "organization": "House",
+        "description": "Division II Work Session: 03/05/2024 11:20 am LOB 209"
+      },
+      {
+        "date": "2024-03-07",
+        "organization": "House",
+        "description": "Division Work Session: 03/15/2024 01:00 pm LOB 209"
+      },
+      {
+        "date": "2024-03-21",
+        "organization": "House",
+        "description": "Executive Session: 03/26/2024 01:00 pm LOB 210-211"
+      },
+      {
+        "date": "2024-03-29",
+        "organization": "House",
+        "description": "Committee Report: Ought to Pass with Amendment # 2024-1037h   03/28/2024 (Vote 25-0; RC)  HC 14  P. 12"
+      },
+      {
+        "date": "2024-04-11",
+        "organization": "House",
+        "description": "Amendment # 2024-1037h: AA VV 04/11/2024  HJ 11  P. 46"
+      },
+      {
+        "date": "2024-04-11",
+        "organization": "House",
+        "description": "Ought to Pass with Amendment 2024-1037h: MA VV 04/11/2024  HJ 11  P. 46"
+      },
+      {
+        "date": "2024-04-16",
+        "organization": "Senate",
+        "description": "Introduced 04/11/2024 and Referred to Education;  SJ 10"
+      },
+      {
+        "date": "2024-04-18",
+        "organization": "Senate",
+        "description": "Hearing: 04/23/2024, Room 101, LOB, 09:15 am;  SC 16"
+      },
+      {
+        "date": "2024-05-07",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass, 05/16/2024, Vote 4-0;  SC 19"
+      },
+      {
+        "date": "2024-05-16",
+        "organization": "Senate",
+        "description": "Special Order to 05/16/2024, Without Objection, MA; 05/15/2024  SJ 12"
+      },
+      {
+        "date": "2024-05-16",
+        "organization": "Senate",
+        "description": "Ought to Pass: MA, VV; Refer to Finance Rule 4-5; 05/16/2024;  SJ 13"
+      },
+      {
+        "date": "2024-05-21",
+        "organization": "Senate",
+        "description": "Committee Report: Referred to Interim Study, 05/22/2024, Vote 7-0;  SC 20A"
+      },
+      {
+        "date": "2024-05-22",
+        "organization": "Senate",
+        "description": "Special Order to 05/23/2024, Without Objection, MA; 05/22/2024  SJ 14"
+      },
+      {
+        "date": "2024-05-23",
+        "organization": "Senate",
+        "description": "Refer to Interim Study, MA, VV; 05/23/2024;  SJ 15"
       }
     ],
     "2024:HB1279": [
