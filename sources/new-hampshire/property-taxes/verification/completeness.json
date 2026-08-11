@@ -1,0 +1,134 @@
+{
+  "collected_at": "2026-08-11T15:11:00.057146+00:00",
+  "issue": "new-hampshire-02-property-taxes",
+  "issue_slug": "property-taxes",
+  "verdict": "PASS_WITH_WARNINGS",
+  "counts": {
+    "checks": 19,
+    "fail": 0,
+    "warn": 1,
+    "pass": 18,
+    "bills": 496,
+    "sessions_configured": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "bills_by_year": {
+      "2020": 71,
+      "2021": 56,
+      "2022": 67,
+      "2023": 57,
+      "2024": 80,
+      "2025": 65,
+      "2026": 100
+    }
+  },
+  "empty_search_terms": [
+    "revaluation",
+    "tax deferral",
+    "excise"
+  ],
+  "checks": [
+    {
+      "check": "artifact_pass1",
+      "status": "PASS",
+      "detail": "sources/new-hampshire/property-taxes/pass1/bills.json"
+    },
+    {
+      "check": "artifact_bills_core",
+      "status": "PASS",
+      "detail": "sources/new-hampshire/property-taxes/processed/bills-core.json"
+    },
+    {
+      "check": "artifact_bill_votes",
+      "status": "PASS",
+      "detail": "sources/new-hampshire/property-taxes/processed/bill-votes.json"
+    },
+    {
+      "check": "sessions_covered",
+      "status": "PASS",
+      "detail": "bills/year={2020: 71, 2021: 56, 2022: 67, 2023: 57, 2024: 80, 2025: 65, 2026: 100}; missing_unexplained=[]"
+    },
+    {
+      "check": "bill_fields_complete",
+      "status": "PASS",
+      "detail": "0 incomplete of 496"
+    },
+    {
+      "check": "votes_row_per_bill",
+      "status": "PASS",
+      "detail": "missing_vote_rows=0 examples=[]"
+    },
+    {
+      "check": "vote_counts_are_integers",
+      "status": "PASS",
+      "detail": "all yea/nay integers or null"
+    },
+    {
+      "check": "search_term_coverage",
+      "status": "WARN",
+      "detail": "hits={'property tax': 94, 'statewide education': 13, 'adequate education': 38, 'adequacy': 6, 'education trust fund': 12, 'school funding': 6, 'education funding': 5, 'school building aid': 25, 'interest and dividends': 14, 'business profits': 32, 'business enterprise tax': 14, 'meals and rooms': 24, 'homestead': 18, 'current use': 8, 'land use change tax': 1, 'timber tax': 4, 'excavation tax': 1, 'utility property': 5, 'assessing': 5, 'revaluation': 0, 'equalization': 3, 'abatement': 12, 'tax cap': 17, 'tax rate': 16, 'tax relief': 18, 'tax exemption': 36, 'tax credit': 38, 'tax deferral': 0, 'tax lien': 3, 'tax expenditure': 2, 'income tax': 2, 'sales tax': 9, 'excise': 0, 'taxation': 23, 'tax on': 9, 'revenue': 67, 'local option': 5, 'state aid': 7, 'payment in lieu of taxes': 1, 'communications services tax': 5, 'retirement system contributions': 10, 'cooperative school': 19, 'keno': 8, 'lottery': 8, 'gambling': 4}; empty_search_terms=['revaluation', 'tax deferral', 'excise']"
+    },
+    {
+      "check": "hb2_2021_sections",
+      "status": "PASS",
+      "detail": "path=working/new-hampshire/property-taxes/hb2/2021/hb2-sections.json section_count=468 (min 10); source=gencourt:legislation_html"
+    },
+    {
+      "check": "hb2_2021_votes",
+      "status": "PASS",
+      "detail": "roll_call_count=42"
+    },
+    {
+      "check": "hb2_2021_relevant_index",
+      "status": "PASS",
+      "detail": "path=working/new-hampshire/property-taxes/hb2/2021/hb2-relevant.json relevant=78"
+    },
+    {
+      "check": "hb2_2023_sections",
+      "status": "PASS",
+      "detail": "path=working/new-hampshire/property-taxes/hb2/2023/hb2-sections.json section_count=612 (min 10); source=gencourt:lba_or_agency_pdf"
+    },
+    {
+      "check": "hb2_2023_votes",
+      "status": "PASS",
+      "detail": "roll_call_count=17"
+    },
+    {
+      "check": "hb2_2023_relevant_index",
+      "status": "PASS",
+      "detail": "path=working/new-hampshire/property-taxes/hb2/2023/hb2-relevant.json relevant=53"
+    },
+    {
+      "check": "hb2_2025_sections",
+      "status": "PASS",
+      "detail": "path=working/new-hampshire/property-taxes/hb2/2025/hb2-sections.json section_count=461 (min 10); source=sql:legislationtext"
+    },
+    {
+      "check": "hb2_2025_votes",
+      "status": "PASS",
+      "detail": "roll_call_count=45"
+    },
+    {
+      "check": "hb2_2025_relevant_index",
+      "status": "PASS",
+      "detail": "path=working/new-hampshire/property-taxes/hb2/2025/hb2-relevant.json relevant=71"
+    },
+    {
+      "check": "rollcall_discovery_not_dropped",
+      "status": "PASS",
+      "detail": "SQL rollcall-title hits missing from pass1: [] (total_missing=0)"
+    },
+    {
+      "check": "no_advice_language_in_titles",
+      "status": "PASS",
+      "detail": "titles_with_advice_words=[]"
+    }
+  ],
+  "gaps_recorded": []
+}
