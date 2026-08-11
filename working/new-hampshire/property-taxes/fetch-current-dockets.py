@@ -35,6 +35,16 @@ def main() -> None:
         if year not in sql_years:
             continue
         rows = db.docket_actions(bill_no, year)
+        if not rows:
+            # NH bills span a two-year biennium; a bill discovered via its
+            # first-year record may have its docket keyed to the second year
+            # (e.g. 2025 HB649's docket lives under 2026).
+            for other in sorted(sql_years):
+                if other == year:
+                    continue
+                rows = db.docket_actions(bill_no, other)
+                if rows:
+                    break
         out.append({
             "session_year": year,
             "bill_no": bill_no,

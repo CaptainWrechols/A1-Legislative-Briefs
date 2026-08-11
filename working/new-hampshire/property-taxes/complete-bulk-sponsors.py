@@ -58,9 +58,28 @@ def bulk_sponsors() -> dict[tuple[int, str], list[dict]]:
     return out
 
 
+def normalize_existing(sp: list[dict]) -> list[dict] | None:
+    """Normalize a discovery-time os_sponsors capture ({name, primary,
+    entity_type}) into the standard shape, with first-listed prime inference
+    when no flag is present."""
+    if not sp or "prime" in sp[0]:
+        return None  # already normalized (or SQL shape)
+    out = [{
+        "name": (s.get("name") or "").strip(),
+        "party": None,
+        "prime": str(s.get("primary")).strip().lower() in ("true", "primary", "1"),
+        "prime_inferred": False,
+        "source": "openstates_bulk_sponsorships",
+    } for s in sp]
+    if out and not any(s["prime"] for s in out):
+        out[0]["prime"] = True
+        out[0]["prime_inferred"] = True
+    return out
+
+
 def main() -> None:
     sponsors = bulk_sponsors()
-    changed = 0
+    attached = normalized = 0
     for name in ("pass1/bills.json", "processed/bills-core.json"):
         doc = json.loads((SRC / name).read_text())
         for b in doc["bills"]:
@@ -68,14 +87,19 @@ def main() -> None:
             if key[0] not in YEARS:
                 continue
             if b.get("sponsors"):
+                norm = normalize_existing(b["sponsors"])
+                if norm:
+                    b["sponsors"] = norm
+                    normalized += 1
                 continue
             sp = sponsors.get(key)
             if sp:
                 b["sponsors"] = sp
-                changed += 1
+                attached += 1
         (SRC / name).write_text(json.dumps(doc, indent=2, default=str), encoding="utf-8")
-    print(f"Attached bulk sponsor lists to {changed} bill records "
-          f"(pass1 + bills-core; first-listed prime inferred where unflagged).")
+    print(f"Attached bulk sponsor lists to {attached} bill records; normalized "
+          f"{normalized} discovery-time captures (first-listed prime inferred "
+          f"where unflagged). Counts cover pass1 + bills-core together.")
 
 
 if __name__ == "__main__":

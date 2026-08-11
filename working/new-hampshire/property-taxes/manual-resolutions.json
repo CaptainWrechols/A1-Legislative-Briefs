@@ -1,0 +1,13 @@
+{
+  "note": "Hand-researched resolutions for bills whose docket rows cannot be machine-staged (same-day docket rows lose their intra-day order in the bulk mirror). Each record cites its evidence.",
+  "bills": [
+    {
+      "session_year": 2021,
+      "bill_no": "SB128",
+      "disposition": "died_on_table",
+      "resolution": "passed its committee amendment 24-0, then was laid on the table in the Senate 24-0 with a Finance referral pending, and never taken back up (died at the biennium's end)",
+      "resolution_source": "bulk_docket (Senate Journal 7, 03/11/2021 rows: Committee Amendment RC 24Y-0N AA; Laid on Table RC 24Y-0N MA; Pending Motion Refer to Finance Rule 4-5; no later action in 2021 or 2022)",
+      "citations": ["SJ 7 03/11/2021", "working/new-hampshire/property-taxes/bulk-dockets.json 2021:SB128"]
+    }
+  ]
+}

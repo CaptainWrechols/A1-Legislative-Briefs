@@ -32,9 +32,13 @@ CH = {"H": "House", "S": "Senate"}
 def classify_current(actions: list[dict]) -> tuple[str, str, str]:
     """(disposition, stage, evidence) from the full docket, latest-first scan."""
     joined = " || ".join(a["description"] for a in actions)
-    m = re.search(r"Signed by (?:the )?Governor[^|]*?Chapter (\d+)", joined)
+    m = re.search(r"Signed by (?:the )?Governor[^|]*?Chapter 0*(\d+)", joined)
     if m:
         return ("enacted", f"became law (Chapter {m.group(1)})", m.group(0)[:120])
+    m = re.search(r"Law Without Signature[^|]*?Chapter 0*(\d+)", joined)
+    if m:
+        return ("enacted", f"became law without the Governor's signature (Chapter {m.group(1)})",
+                m.group(0)[:120])
     if re.search(r"Vetoed by Governor", joined, re.I):
         if re.search(r"Veto Override", joined, re.I):
             return ("vetoed", "vetoed; override attempted (see roll calls)", "veto + override rows")
@@ -62,6 +66,12 @@ def classify_current(actions: list[dict]) -> tuple[str, str, str]:
             return ("died_between_chambers", "died with the conference report pending at adjournment", d[:140])
         if re.search(r"Nonconcur.*(MA|Adopted)", d, re.I) and "Request" not in d:
             return ("died_between_chambers", f"{body} refused to accept the other chamber's changes; no conference", d[:140])
+        if re.search(r"Refuses to Accede.*(MA|Adopted)", d, re.I):
+            return ("died_between_chambers", f"{body} refused the other chamber's request for a conference committee", d[:140])
+        if re.search(r"Lacking Necessary Three-Fifths Vote", d, re.I):
+            return ("killed_floor", f"failed to reach the three-fifths vote a constitutional amendment needs in the {body}", d[:140])
+        if re.search(r"Died,?\s*Session ended", d, re.I):
+            return ("died_other", f"died in the {body} when the session ended", d[:140])
         if re.search(r"Reconsider.*ITL.*MF", d, re.I):
             return ("killed_floor", f"killed on the {body} floor (Inexpedient to Legislate; reconsideration failed)", d[:140])
         if re.search(r"Ought to Pass.*(MA|Adopted)", d, re.I) and actions[-1] is a:
@@ -74,10 +84,10 @@ def classify_current(actions: list[dict]) -> tuple[str, str, str]:
                     f"{body} never took a floor vote before the session ended", d[:140])
     last = actions[-1]["description"] if actions else ""
     if any(re.search(r"Committee Report: Inexpedient to Legislate", a["description"], re.I)
-           for a in actions[-3:]):
+           for a in actions):
         body = CH.get(actions[-1]["body"], actions[-1]["body"])
         return ("killed_committee",
-                f"{body} committee recommended Inexpedient to Legislate; no floor "
+                f"{body} committee recommended Inexpedient to Legislate; no final floor "
                 "action recorded in the docket",
                 next(a["description"] for a in actions
                      if "Committee Report: Inexpedient" in a["description"])[:140])
