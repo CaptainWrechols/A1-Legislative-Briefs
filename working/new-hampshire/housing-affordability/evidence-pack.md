@@ -46,18 +46,18 @@
 
 ## People signals
 
-- Joe Alexander (R) — prime sponsor on 7 bills
-- Ellen Read (D) — prime sponsor on 6 bills
-- Len Turcotte (R) — prime sponsor on 6 bills
+- Ellen Read (D) — prime sponsor on 18 bills
+- Rebecca Perkins Kwoka (D) — prime sponsor on 13 bills
+- Joe Alexander (R) — prime sponsor on 12 bills
+- Rebecca McWilliams (?) — prime sponsor on 7 bills
+- Len Turcotte (R) — prime sponsor on 7 bills
+- Josh Yokela (?) — prime sponsor on 6 bills
+- Casey Conley (?) — prime sponsor on 5 bills
+- Martha Fuller Clark (?) — prime sponsor on 5 bills
+- Eric Gallager (?) — prime sponsor on 5 bills
+- Bob Lynn (?) — prime sponsor on 5 bills
+- Daniel Innis (R) — prime sponsor on 5 bills
 - Keith Murphy (R) — prime sponsor on 5 bills
-- David Preece (D) — prime sponsor on 5 bills
-- Chris Muns (D) — prime sponsor on 5 bills
-- Rebecca Perkins Kwoka (D) — prime sponsor on 3 bills
-- David Fracht (D) — prime sponsor on 3 bills
-- Diane Pauer (R) — prime sponsor on 2 bills
-- Bill Boyd (R) — prime sponsor on 2 bills
-- Ron Dunn (R) — prime sponsor on 2 bills
-- Jessica LaMontagne (D) — prime sponsor on 2 bills
 - Cross-party sponsor teams: 42 bills
 
 ## HB2 crosswalk

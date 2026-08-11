@@ -112,7 +112,8 @@ def main() -> None:
             rec["sponsors"] = [
                 {"name": s.get("name"), "party": s.get("party"),
                  "body": {"H": "House", "S": "Senate"}.get(s.get("body"), s.get("body")),
-                 "prime": bool(s.get("prime")), "source": "sql_sponsors"}
+                 "prime": bool(s.get("prime")) or str(s.get("primary")).lower() in ("true", "primary"),
+                 "source": s.get("source") or "sql_sponsors"}
                 for s in p1["sponsors"]]
         elif d.get("sponsors_line"):
             rec["sponsors"] = parse_sponsor_line(d["sponsors_line"])
@@ -200,6 +201,10 @@ def main() -> None:
                 "outcome": b["stage"]})
 
     # --- people signals ---
+    def norm_name(n):
+        n = re.sub(r"\s+[A-Z]\.(?=\s)", "", n or "")
+        return re.sub(r"\s+", " ", n).strip()
+
     prime_counter = Counter()
     prime_party = {}
     cross_party = []
@@ -210,9 +215,10 @@ def main() -> None:
             with_sponsors += 1
         primes = [s for s in sp if s.get("prime")]
         for s in primes:
-            prime_counter[s["name"]] += 1
+            nm = norm_name(s["name"])
+            prime_counter[nm] += 1
             if s.get("party"):
-                prime_party[s["name"]] = s["party"]
+                prime_party[nm] = s["party"]
         parties = {s.get("party") for s in sp if s.get("party")}
         if {"R", "D"} <= parties:
             cross_party.append(b["bill_key"])

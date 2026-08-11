@@ -1,23 +1,23 @@
 # Appendix D — Sponsors and people
 
-Sponsors are complete for 2025–2026 (official database) and 2020–2021 (official final-text pages); the collected record has no sponsor names for most 2022–2024 bills. No judgment of any legislator is implied — these are counts of who filed what.
+Sponsors come from the official database (2025–2026), official final-text pages (2020–2021), and the OpenStates bulk sponsor files (2020–2024); where the bulk files carry no prime flag, the first-listed sponsor is treated as prime (New Hampshire lists the prime sponsor first). Party labels exist only on the 2020–2021 and 2025–2026 layers. No judgment of any legislator is implied — these are counts of who filed what.
 
 ## Frequent primary sponsors
 
 | Name | Party | Bills as prime sponsor |
 |---|---|---|
-| Joe Alexander | R | 7 |
-| Ellen Read | D | 6 |
-| Len Turcotte | R | 6 |
+| Ellen Read | D | 18 |
+| Rebecca Perkins Kwoka | D | 13 |
+| Joe Alexander | R | 12 |
+| Rebecca McWilliams | ? | 7 |
+| Len Turcotte | R | 7 |
+| Josh Yokela | ? | 6 |
+| Casey Conley | ? | 5 |
+| Martha Fuller Clark | ? | 5 |
+| Eric Gallager | ? | 5 |
+| Bob Lynn | ? | 5 |
+| Daniel Innis | R | 5 |
 | Keith Murphy | R | 5 |
-| David Preece | D | 5 |
-| Chris Muns | D | 5 |
-| Rebecca Perkins Kwoka | D | 3 |
-| David Fracht | D | 3 |
-| Diane Pauer | R | 2 |
-| Bill Boyd | R | 2 |
-| Ron Dunn | R | 2 |
-| Jessica LaMontagne | D | 2 |
 
 Cross-party sponsor teams appeared on **42** policy bills (both major parties among named sponsors).
 
@@ -27,147 +27,187 @@ Cross-party sponsor teams appeared on **42** policy bills (both major parties am
 
 | Year | Bill | Primary sponsor(s) | All sponsors |
 |---|---|---|---|
-| 2020 | HB1120 | — | Wendy Chase (?), David R. Coursin (?), Wendy E.N. Thomas (?), Kathryn Stack (?), Edith M. DesMarais (?), Sherry A. Frost (?), Charlotte I. DiLorenzo (?), Mary A. Eisner (?) |
-| 2020 | HB1160 | — | Jim V. Maggiore (?), Tom J. Loughman (?), Patricia J. Bushway (?), Tom Sherman (?), Peter F. Somssich (?), Skip J. Cleaver (?), Michael A. Edgar (?), Robert Renny Cushing (?), +5 more |
-| 2020 | HB1207 | — | Casey M. Conley (?), Patricia S. Klee (?), Suzanne M. Vail (?), Timothy O. Horrigan (?) |
-| 2020 | HB1247 | — | Wendy Chase (?), Cam E. Kenney (?), Safiya Wazir (?), Laura D. Telerski (?), Willis T. Griffith (?), Casey M. Conley (?), Kristina M. Schultz (?), Kenneth S. Vincent (?) |
-| 2020 | HB1320 | — | Edward DeClercq (?), Daryl A. Abbas (?), John C. Janigian (?), Betty I. Gay (?), Michael A. Edgar (?), Chuck Morse (?), Lou D'Allesandro (?) |
-| 2020 | HB1324 | — | Stephen L. Woodcock (?), Harrison Kanzler (?), Anita D. Burroughs (?), Edward A. Butler (?) |
-| 2020 | HB1342 | — | Rebecca J. McWilliams (?), Nicole Klein-Knight (?), Kat McGhee (?) |
-| 2020 | HB1391 | — | Ryan T. Buchanan (?), Kristina M. Schultz (?), Ellen D. Read (?) |
-| 2020 | HB1439 | — | Robert D. Harb (?), Mark A. Pearson (?), Peter E. Torosian (?), Debra L. DeSimone (?), Norman L. Major (?) |
-| 2020 | HB1450 | — | Scott Wallace (?) |
-| 2020 | HB1510 | — | Harrison Kanzler (?), Anita D. Burroughs (?), Edward A. Butler (?) |
-| 2020 | HB1511 | — | Harrison Kanzler (?) |
-| 2020 | HB1582 | — | Judy F. Aron (?), Terry Roy (?) |
-| 2020 | HB1629 | — | Tom J. Loughman (?), Joe H. Alexander (?), Willis T. Griffith (?), Erin T. Hennessey (?), Edward A. Butler (?) |
-| 2020 | HB1632 | — | Tom J. Loughman (?), Joe H. Alexander (?), Willis T. Griffith (?), Erin T. Hennessey (?), Edward A. Butler (?) |
-| 2020 | HB1709 | — | Dennis F. Acton (?), Rebecca J. McWilliams (?), Samantha L. Fox (?) |
-| 2020 | SB458 | — | Harold F. French (?), Jeb Bradley (?), Lou D'Allesandro (?) |
-| 2020 | SB460 | — | Tom Sherman (?), Regina Birdsell (?), David E. Milz (?), John T. O'Connor (?), Brian K. Chirichiello (?) |
-| 2020 | SB475 | — | Paul P. Dargie (?), Timothy Josephson (?), Norman L. Major (?), Jeb Bradley (?) |
-| 2020 | SB487 | — | Jeanne Dietsch (?), Jaci L. Grote (?), Jim V. Maggiore (?), Tom Sherman (?), Kate R. Murray (?), Tamara N. Le (?), Martha Fuller Clark (?) |
-| 2020 | SB536 | — | Regina Birdsell (?), Chuck Morse (?) |
-| 2020 | SB605 | — | Keith Erf (?), Ruth Ward (?), Regina Birdsell (?), Steven D. Smith (?) |
-| 2020 | SB633 | — | Kevin Cavanaugh (?), Peter R. Leishman (?), Donna M. Soucy (?), Lou D'Allesandro (?) |
-| 2020 | SB638 | — | Tom Dolan (?), Jaci L. Grote (?), Jim V. Maggiore (?), Judith T. Spang (?), Martha Fuller Clark (?) |
-| 2020 | SB69 | — | Michael A. Edgar (?), Robert Renny Cushing (?), Martha Fuller Clark (?) |
-| 2020 | SB721 | Dietsch | Dietsch (?), Fuller Clark (?), Mullen (?), Maggiore (?) |
-| 2020 | SB726 | — | Jon Morgan (?), Cindy Rosenwald (?), Shannon E Chandley (?), James C. Allard (?), Stephen L. Woodcock (?), Tom Sherman (?), Kevin Cavanaugh (?), Regina Birdsell (?), +6 more |
-| 2020 | SB735 | — | Jeanne Dietsch (?), Tom Sherman (?), Ruth Ward (?), Jess C. Edwards (?), Regina Birdsell (?), Barbara J. Griffin (?), Linda R. Gould (?), David E. Milz (?), +1 more |
-| 2021 | HB160 | — | Ivy C. Vann (?), Kristina M. Schultz (?), Casey M. Conley (?), Safiya Wazir (?), Cam E. Kenney (?), Wendy Chase (?) |
-| 2021 | HB189 | — | Ivy C. Vann (?), Casey M. Conley (?), Tony Caplan (?) |
-| 2021 | HB284 | McBeath | McBeath (?) |
-| 2021 | HB286 | — | Linda A. Massimilla (?), Donald J. Bouchard (?), Nicole Klein-Knight (?), Willis T. Griffith (?), Deb Stevens (?), Tony Labranche (?), Melbourne R. Moran (?), Ariel Oxaal (?) |
-| 2021 | HB288 | — | Linda R. Gould (?), Regina Birdsell (?), Terry Roy (?), Daryl A. Abbas (?), Niki Kelsey (?) |
-| 2021 | HB332 | Seaworth | Seaworth (?), Birdsell (?) |
-| 2021 | HB360 | — | Sherry A. Frost (?) |
-| 2021 | HB377 | Connors | Connors (?), Cornell (?), Goley (?), Snow (?), D'Allesandro (?) |
-| 2021 | HB392 | — | Gerald W.R. Ward (?), Peter F. Somssich (?), David Meuse (?), Joan L. Hamblet (?) |
-| 2021 | HB395 | — | Jeb Bradley (?), Karen C. Umberger (?), Jerry L. Knirk (?), Anita D. Burroughs (?), Stephen L. Woodcock (?) |
-| 2021 | HB512 | — | Casey M. Conley (?), Rebecca Perkins Kwoka (?) |
-| 2021 | HB550 | — | David H Watters (?), Walter A. Stapleton (?), Donovan W. Fenton (?), Kristina M. Schultz (?), Casey M. Conley (?), Andrew J. Bouldin (?), Matthew B. Wilhelm (?), Safiya Wazir (?), +3 more |
-| 2021 | HB586 | — | Karen C. Umberger (?), Richard W. Lascelles (?), Anita D. Burroughs (?), Willis T. Griffith (?), Joe H. Alexander (?), Erin Hennessey (?), Rebecca Perkins Kwoka (?) |
-| 2021 | HB610 | — | John B. Hunt (?) |
-| 2021 | SB102 | Perkins Kwoka | Perkins Kwoka (?) |
-| 2021 | SB126 | — | Rebecca Perkins Kwoka (?) |
-| 2021 | SB152 | — | James P. Gray (?) |
-| 2021 | SB73 | — | David H Watters (?), Donna M. Soucy (?), Kevin J. Cavanaugh (?), Rebecca J. McWilliams (?), Rebecca Perkins Kwoka (?) |
-| 2021 | SB86 | — | Jay Kahn (?) |
-| 2022 | HB1021 | — | Aidan Ankarberg (?), Kurt F. Wuelper (?), Linda R. Gould (?) |
-| 2022 | HB1087 | — | Josh S. Yokela (?), Rebecca J. McWilliams (?), Laurel Stavis (?), Lee Walker Oxenham (?) |
-| 2022 | HB1098 | — | Josh S. Yokela (?) |
-| 2022 | HB1107 | — | Cam E. Kenney (?), Ellen D. Read (?) |
-| 2022 | HB1172 | — | Eric B. Gallager (?) |
-| 2022 | HB1179 | — | Tom E. Lanzara (?), Josh S. Yokela (?) |
-| 2022 | HB1191 | — | Carol M. McGuire (?), John Reagan (?) |
-| 2022 | HB1200 | — | Maria Perez (?), Rebecca Perkins Kwoka (?), Cam E. Kenney (?), Rebecca J. McWilliams (?), Nicole Klein-Knight (?), Casey M. Conley (?), Ivy C. Vann (?), Efstathia C. Booras (?), +1 more |
-| 2022 | HB1216 | — | Bill Boyd (?), Jim V. Maggiore (?) |
-| 2022 | HB1219 | — | Eric B. Gallager (?) |
-| 2022 | HB1238 | — | Ross Berry (?), Richard Littlefield (?), Josh S. Yokela (?), Michael Vose (?) |
-| 2022 | HB1254 | — | Susan Homola (?), Diane Pauer (?), Kevin A. Avard (?), Keith M. Ammon (?) |
-| 2022 | HB1291 | — | Cindy Rosenwald (?), Wendy Chase (?), Cam E. Kenney (?), Gaby M. Grossman (?), Matthew B. Wilhelm (?), Timothy J. Smith (?), Timothy O. Horrigan (?), Marjorie K. Smith (?), +2 more |
-| 2022 | HB1307 | — | Barbara J. Griffin (?) |
-| 2022 | HB132 | — | Josh S. Yokela (?), Rebecca J. McWilliams (?) |
-| 2022 | HB1374 | — | Peter F. Somssich (?) |
-| 2022 | HB1389 | — | Bob J. Lynn (?), Jason M. Osborne (?) |
-| 2022 | HB1407 | — | Tony Caplan (?), Nicole Klein-Knight (?), Donald J. Bouchard (?), Ivy C. Vann (?) |
-| 2022 | HB1617 | — | Joshua Adjutant (?) |
-| 2022 | HB1661 | — | Bob J. Lynn (?), Jay Kahn (?), Glenn Cordelli (?), Karen C. Umberger (?), Rick M. Ladd (?), Ralph G. Boehm (?), John Reagan (?), David H Watters (?) |
-| 2022 | HB1662 | — | Mark A. Pearson (?), James P. Gray (?), Bob J. Giuda (?), Jeffrey C. Salloway (?), Jess C. Edwards (?), Timothy P. Lang (?), Bill G. Nelson (?), Charles E. McMahon (?) |
-| 2022 | HB473 | — | Everett P. McBride (?), Daryl A. Abbas (?), John C. Janigian (?), Betty I. Gay (?), Michael A. Edgar (?), Chuck Morse (?) |
-| 2022 | HB503 | — | Matthew B. Wilhelm (?), Patrick T. Long (?) |
-| 2022 | SB210 | — | Bill Gannon (?), James P. Gray (?), Bob J. Giuda (?), Kevin A. Avard (?), Regina Birdsell (?), Gary L. Daniels (?), John M. Potucek (?), Jason M. Osborne (?), +5 more |
-| 2022 | SB216 | — | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M Prentiss (?), Cindy Rosenwald (?), Manny Espitia (?), Casey M. Conley (?), Tom Sherman (?), Kevin J. Cavanaugh (?), +6 more |
-| 2022 | SB217 | — | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M Prentiss (?), Manny Espitia (?), Tom Sherman (?), Kevin J. Cavanaugh (?), Charlotte I. DiLorenzo (?), Ivy C. Vann (?), +1 more |
-| 2022 | SB245 | — | Tom Sherman (?), Joseph A. Guthrie (?), Latha D. Mangipudi (?), Donna M. Soucy (?), David H Watters (?) |
-| 2022 | SB249 | — | Suzanne M Prentiss (?), Kevin J. Cavanaugh (?), Harold F. French (?), Bill Gannon (?), Bob J. Giuda (?), John M. Potucek (?), Linda A. DiSilvestro (?), John B. Hunt (?), +4 more |
-| 2022 | SB329 | — | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M Prentiss (?), Cindy Rosenwald (?), Manny Espitia (?), Tom Sherman (?), Kevin J. Cavanaugh (?), Jay Kahn (?), +5 more |
-| 2022 | SB400 | — | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M Prentiss (?), Cindy Rosenwald (?), Joe H. Alexander (?), Tom Sherman (?), Kevin J. Cavanaugh (?), Jay Kahn (?), +9 more |
-| 2022 | SB415 | — | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M Prentiss (?), Cindy Rosenwald (?), Tom Sherman (?), Kevin J. Cavanaugh (?), Jay Kahn (?), Amanda C. Bouldin (?), +4 more |
-| 2023 | HB111 | — | Kristina M. Schultz (?) |
-| 2023 | HB112 | — | Eric B. Gallager (?), Maria Perez (?), Cassandra N. Levesque (?), Cam E. Kenney (?), Christine Seibert (?), Ellen D. Read (?), David John Preece (?) |
-| 2023 | HB184 | — | Robert J Wherry (?), Andrew Renzullo (?), Sharon M. Carson (?) |
-| 2023 | HB235 | — | Kathy Staub (?), Joan L. Hamblet (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Cindy Rosenwald (?), Kristina M. Schultz (?), Ellen D. Read (?), Charlotte I. DiLorenzo (?), +4 more |
-| 2023 | HB273 | — | Eric B. Gallager (?), Tony Caplan (?), Ellen D. Read (?) |
-| 2023 | HB355 | — | Eric B. Gallager (?) |
-| 2023 | HB401 | — | Allan Howland (?), Kathy Staub (?), Alissandra Murray (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Cam E. Kenney (?), Christine Seibert (?), Timothy O. Horrigan (?), +1 more |
-| 2023 | HB416 | — | Travis J Corcoran (?) |
-| 2023 | HB422 | — | Kathy Staub (?), Jodi K Newell (?), Eric B. Gallager (?), Daniel T. Veilleux (?), Cam E. Kenney (?), Christine Seibert (?), Ellen D. Read (?) |
-| 2023 | HB423 | — | Katelyn Kuttab (?), Eric B. Gallager (?), Ross Berry (?), Leah P. Cushman (?), Rebecca J. McWilliams (?), Christine Seibert (?), Ellen D. Read (?), Brandon Phinney (?), +2 more |
-| 2023 | HB469 | — | Allan Howland (?), Debra Altschiller (?), Donovan Fenton (?), Rebecca G. Whitley (?), Cindy Rosenwald (?), Cam E. Kenney (?), Jacqueline H. Chretien (?), Megan A. Murray (?), +3 more |
-| 2023 | HB477 | — | Ross Berry (?), Mark McLean (?) |
-| 2023 | HB567 | — | Allan Howland (?), Debra Altschiller (?), Rebecca G. Whitley (?), Cam E. Kenney (?), Christine Seibert (?), Timothy O. Horrigan (?), David H. Watters (?) |
-| 2023 | HB636 | — | Travis J Corcoran (?) |
-| 2023 | HB95 | — | Jodi K Newell (?), Eric B. Gallager (?), Cassandra N. Levesque (?), Kevin M. Pratt (?), Christine Seibert (?), Ellen D. Read (?), David John Preece (?) |
-| 2023 | SB145 | — | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Joe H. Alexander (?), Mary Jane Wallner (?), Donna M. Soucy (?), +2 more |
-| 2023 | SB202 | — | Donovan Fenton (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Denise Ricciardi (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Bill M. Gannon (?), +1 more |
-| 2023 | SB203 | — | Kevin A. Avard (?) |
-| 2023 | SB231 | — | Sherry L Gould (?), Timothy Lang (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Joe H. Alexander (?), +5 more |
-| 2023 | SB262 | — | Debra Altschiller (?), Donovan Fenton (?), Rebecca Perkins Kwoka (?), Suzanne M. Prentiss (?), Michael A. Edgar (?), Chris Muns (?) |
-| 2023 | SB47 | — | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Ellen D. Read (?), Charlotte I. DiLorenzo (?), David John Preece (?), Donna M. Soucy (?), +1 more |
-| 2023 | SR10 | — | Daryl Abbas (?), Howard Pearl (?), Debra Altschiller (?), Donovan Fenton (?), Carrie L. Gendreau (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Denise Ricciardi (?), +14 more |
-| 2024 | HB1086 | — | Lisa C.M. Post (?), Andrew Renzullo (?) |
-| 2024 | HB1168 | — | Kathy Staub (?), Heath Howard (?), Gaby M. Grossman (?), Heidi M. Hamer (?), Benjamin C. Baroody (?) |
-| 2024 | HB1199 | — | Patrick T. Long (?) |
-| 2024 | HB1281 | — | Hope Damon (?), Jonah O Wheeler (?), Alissandra Murray (?), Keith R. Murphy (?), Deborah Aylward (?), Diane Pauer (?), Matthew Santonastaso (?), Tony Lekas (?), +4 more |
-| 2024 | HB1291 | — | Hope Damon (?), Merryl Gibbs (?), Josh S. Yokela (?), Joe H. Alexander (?), Ellen D. Read (?), Charlotte I. DiLorenzo (?), Scott Wallace (?), Benjamin C. Baroody (?), +1 more |
-| 2024 | HB1359 | — | Rebecca Perkins Kwoka (?), Joe H. Alexander (?), Daniel E. Innis (?), Len P. Turcotte (?) |
-| 2024 | HB1361 | — | Hope Damon (?), Merryl Gibbs (?), Sheila C Seidel (?), Rebecca Perkins Kwoka (?), Josh S. Yokela (?), Joe H. Alexander (?), Ellen D. Read (?), Charlotte I. DiLorenzo (?), +3 more |
-| 2024 | HB1362 | — | Alissandra Murray (?), Eric B. Gallager (?), Cam E. Kenney (?), Ellen D. Read (?) |
-| 2024 | HB1368 | — | Eric B. Gallager (?) |
-| 2024 | HB1400 | — | Josh S. Yokela (?), Rebecca J. McWilliams (?) |
-| 2024 | HB1456 | — | Bob J. Lynn (?), Gregory G. Hill (?), Thomas C. Walsh (?) |
-| 2024 | HB1470 | — | Hope Damon (?), Matthew B. Wilhelm (?) |
-| 2024 | HB1498 | — | Rebecca J. McWilliams (?) |
-| 2024 | HB1544 | — | Marc W Plamondon (?), Luz Bay (?), Jonah O Wheeler (?), Jodi K Newell (?), Daniel T. Veilleux (?), Jim V. Maggiore (?), Christine Seibert (?), Chuck W. Grassie (?), +2 more |
-| 2024 | HB1545 | — | Jim V. Maggiore (?), John R. Cloutier (?) |
-| 2024 | HB1567 | — | David Paige (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Jaci L. Grote (?), Rebecca J. McWilliams (?), Nancy A. Murphy (?), Chuck W. Grassie (?), Benjamin C. Baroody (?), +2 more |
-| 2024 | HB1602 | — | Hope Damon (?), Josh S. Yokela (?), Joe H. Alexander (?), Ellen D. Read (?), Scott Wallace (?), Benjamin C. Baroody (?), Thomas C. Walsh (?) |
-| 2024 | HB1635 | — | David Paige (?), Rebecca J. McWilliams (?), Ellen D. Read (?) |
-| 2024 | HB1651 | — | Dan McGuire (?), Peter R. Leishman (?) |
-| 2024 | HB1672 | — | Erica J. Layon (?), Alicia D. Lekas (?) |
-| 2024 | HB261 | — | Kathy Staub (?), Jodi K Newell (?), Debra Altschiller (?), Daniel T. Veilleux (?), Rebecca Perkins Kwoka (?), Cassandra N. Levesque (?), Cam E. Kenney (?), Christine Seibert (?), +1 more |
-| 2024 | HB283 | — | Kathy Staub (?), Carry Spier (?), Jodi K Newell (?), Daniel T. Veilleux (?), Sherry Dutzy (?), Christine Seibert (?), Ellen D. Read (?) |
-| 2024 | HB347 | — | Bill Boyd (?), Ben Ming (?), Bob J. Lynn (?), Jim V. Maggiore (?), Joe H. Alexander (?), Jess Edwards (?), Benjamin C. Baroody (?), Jason M. Osborne (?), +2 more |
-| 2024 | HB379 | — | Kathy Staub (?), Jodi K Newell (?), Eric B. Gallager (?), Daniel T. Veilleux (?), Christine Seibert (?), Ellen D. Read (?) |
-| 2024 | SB101 | — | Kevin A. Avard (?), Sharon M. Carson (?) |
-| 2024 | SB224 | — | Donovan Fenton (?), Joan L. Hamblet (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Donna M. Soucy (?), David H. Watters (?) |
-| 2024 | SB306 | — | Kevin A. Avard (?) |
-| 2024 | SB318 | — | Daryl Abbas (?), Howard Pearl (?), Donovan Fenton (?), Rebecca Perkins Kwoka (?), Denise Ricciardi (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Bill M. Gannon (?), +3 more |
-| 2024 | SB33 | — | James P. Gray (?), Kevin A. Avard (?), John M. Potucek (?), Fred G. Doucette (?) |
-| 2024 | SB364 | — | David Paige (?), Donovan Fenton (?), Carrie L. Gendreau (?), Rebecca Perkins Kwoka (?), Shannon E. Chandley (?), Daniel E. Innis (?), Ruth Ward (?), Maureen C. Mooney (?), +3 more |
-| 2024 | SB384 | — | David Paige (?), Debra Altschiller (?), Donovan Fenton (?), Eric B. Gallager (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Shannon E. Chandley (?), Susan W. Almy (?), +2 more |
-| 2024 | SB406 | — | David Paige (?), Debra Altschiller (?), Donovan Fenton (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Shannon E. Chandley (?), +3 more |
-| 2024 | SB408 | — | Kathy Staub (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Denise Ricciardi (?), Heidi M. Hamer (?), Keith Michael Ammon (?), Sharon M. Carson (?) |
-| 2024 | SB410 | — | Angela Brennan (?), Debra Altschiller (?), Donovan Fenton (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Shannon E. Chandley (?), +3 more |
-| 2024 | SB434 | — | Keith R. Murphy (?), Kimberly L Abare (?), Daryl Abbas (?), Fred G. Doucette (?), David H. Watters (?) |
-| 2024 | SB454 | — | Debra Altschiller (?), Carrie L. Gendreau (?), Rebecca Perkins Kwoka (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Daniel E. Innis (?), Ruth Ward (?), Tracy Emerick (?), +4 more |
-| 2024 | SB518 | — | Debra Altschiller (?), Donovan Fenton (?), Rebecca Perkins Kwoka (?), Suzanne M. Prentiss (?), Joe H. Alexander (?), David H. Watters (?), Lou D'Allesandro (?) |
-| 2024 | SB519 | — | Donovan Fenton (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Patricia Cornell (?), Mary Heath (?), Jeffrey P. Goley (?), +3 more |
-| 2024 | SB527 | — | Rebecca Perkins Kwoka (?), Suzanne M. Prentiss (?) |
-| 2024 | SB538 | — | David Paige (?), Debra Altschiller (?), Donovan Fenton (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Shannon E. Chandley (?), +5 more |
-| 2024 | SB64 | — | Lilli M Walsh (?), Howard Pearl (?), Suzanne M. Prentiss (?), Deb L. Hobson (?), Fred R. Plett (?), Bill M. Gannon (?), Ruth Ward (?), Donna M. Soucy (?), +4 more |
+| 2020 | HB1120 | Wendy E.N. Thomas | Wendy Chase (?), David R. Coursin (?), Wendy E.N. Thomas (?), Kathryn Stack (?), Edith M. DesMarais (?), Sherry A. Frost (?), Charlotte I. DiLorenzo (?), Mary A. Eisner (?) |
+| 2020 | HB1160 | Michael A. Edgar | Jim V. Maggiore (?), Tom J. Loughman (?), Patricia J. Bushway (?), Tom Sherman (?), Peter F. Somssich (?), Skip J. Cleaver (?), Michael A. Edgar (?), Robert Renny Cushing (?), +5 more |
+| 2020 | HB1207 | Suzanne M. Vail | Casey M. Conley (?), Patricia S. Klee (?), Suzanne M. Vail (?), Timothy O. Horrigan (?) |
+| 2020 | HB1247 | Casey M. Conley | Wendy Chase (?), Cam E. Kenney (?), Safiya Wazir (?), Laura D. Telerski (?), Willis T. Griffith (?), Casey M. Conley (?), Kristina M. Schultz (?), Kenneth S. Vincent (?) |
+| 2020 | HB1276 | Josh S. Yokela | Josh S. Yokela (?), Peter E. Torosian (?) |
+| 2020 | HB1320 | John C. Janigian | Edward DeClercq (?), Daryl A. Abbas (?), John C. Janigian (?), Betty I. Gay (?), Michael A. Edgar (?), Chuck Morse (?), Lou D'Allesandro (?) |
+| 2020 | HB1324 | Anita D. Burroughs | Stephen L. Woodcock (?), Harrison Kanzler (?), Anita D. Burroughs (?), Edward A. Butler (?) |
+| 2020 | HB1342 | Rebecca J. McWilliams | Rebecca J. McWilliams (?), Nicole Klein-Knight (?), Kat McGhee (?) |
+| 2020 | HB1391 | Ellen D. Read | Ryan T. Buchanan (?), Kristina M. Schultz (?), Ellen D. Read (?) |
+| 2020 | HB1439 | Norman L. Major | Robert D. Harb (?), Mark A. Pearson (?), Peter E. Torosian (?), Debra L. DeSimone (?), Norman L. Major (?) |
+| 2020 | HB1450 | Scott Wallace | Scott Wallace (?) |
+| 2020 | HB1510 | Harrison Kanzler | Harrison Kanzler (?), Anita D. Burroughs (?), Edward A. Butler (?) |
+| 2020 | HB1511 | Harrison Kanzler | Harrison Kanzler (?) |
+| 2020 | HB1582 | Terry Roy | Judy F. Aron (?), Terry Roy (?) |
+| 2020 | HB1588 | Kermit R. Williams | Kermit R. Williams (?) |
+| 2020 | HB1629 | Willis T. Griffith | Tom J. Loughman (?), Joe H. Alexander (?), Willis T. Griffith (?), Erin T. Hennessey (?), Edward A. Butler (?) |
+| 2020 | HB1632 | Joe H. Alexander | Tom J. Loughman (?), Joe H. Alexander (?), Willis T. Griffith (?), Erin T. Hennessey (?), Edward A. Butler (?) |
+| 2020 | HB1709 | Rebecca J. McWilliams | Dennis F. Acton (?), Rebecca J. McWilliams (?), Samantha L. Fox (?) |
+| 2020 | SB458 | Jeb Bradley | Harold F. French (?), Jeb Bradley (?), Lou D'Allesandro (?) |
+| 2020 | SB460 | Regina Birdsell | Tom Sherman (?), Regina Birdsell (?), David E. Milz (?), John T. O'Connor (?), Brian K. Chirichiello (?) |
+| 2020 | SB475 | Jeb Bradley | Paul P. Dargie (?), Timothy Josephson (?), Norman L. Major (?), Jeb Bradley (?) |
+| 2020 | SB482 | Martha Fuller Clark | Tom Sherman (?), Jay Kahn (?), Dave Testerman (?), Martha Fuller Clark (?) |
+| 2020 | SB487 | Martha Fuller Clark | Jeanne Dietsch (?), Jaci L. Grote (?), Jim V. Maggiore (?), Tom Sherman (?), Kate R. Murray (?), Tamara N. Le (?), Martha Fuller Clark (?) |
+| 2020 | SB536 | Chuck Morse | Regina Birdsell (?), Chuck Morse (?) |
+| 2020 | SB562 | Jay Kahn | Shannon E Chandley (?), Tom Sherman (?), Jay Kahn (?), Martha Fuller Clark (?) |
+| 2020 | SB605 | Ruth Ward | Keith Erf (?), Ruth Ward (?), Regina Birdsell (?), Steven D. Smith (?) |
+| 2020 | SB633 | Lou D'Allesandro | Kevin Cavanaugh (?), Peter R. Leishman (?), Donna M. Soucy (?), Lou D'Allesandro (?) |
+| 2020 | SB638 | Martha Fuller Clark | Tom Dolan (?), Jaci L. Grote (?), Jim V. Maggiore (?), Judith T. Spang (?), Martha Fuller Clark (?) |
+| 2020 | SB69 | Martha Fuller Clark | Michael A. Edgar (?), Robert Renny Cushing (?), Martha Fuller Clark (?) |
+| 2020 | SB710 | Martha Fuller Clark | Martha Fuller Clark (?) |
+| 2020 | SB721 | Jeanne Dietsch | Sue M. Mullen (?), Jeanne Dietsch (?), Jim V. Maggiore (?), Martha Fuller Clark (?) |
+| 2020 | SB726 | Jon Morgan | Jon Morgan (?), Cindy Rosenwald (?), Shannon E Chandley (?), James C. Allard (?), Stephen L. Woodcock (?), Tom Sherman (?), Kevin Cavanaugh (?), Regina Birdsell (?), +6 more |
+| 2020 | SB735 | Regina Birdsell | Jeanne Dietsch (?), Tom Sherman (?), Ruth Ward (?), Jess C. Edwards (?), Regina Birdsell (?), Barbara J. Griffin (?), Linda R. Gould (?), David E. Milz (?), +1 more |
+| 2021 | HB160 | Casey M. Conley | Ivy C. Vann (?), Kristina M. Schultz (?), Casey M. Conley (?), Safiya Wazir (?), Cam E. Kenney (?), Wendy Chase (?) |
+| 2021 | HB189 | Ivy C. Vann | Ivy C. Vann (?), Casey M. Conley (?), Tony Caplan (?) |
+| 2021 | HB284 | Rebecca Susan McBeath | Rebecca Susan McBeath (?) |
+| 2021 | HB286 | Nicole Klein-Knight | Linda A. Massimilla (?), Donald J. Bouchard (?), Nicole Klein-Knight (?), Willis T. Griffith (?), Deb Stevens (?), Tony Labranche (?), Melbourne R. Moran (?), Ariel Oxaal (?) |
+| 2021 | HB288 | Daryl A. Abbas | Linda R. Gould (?), Regina Birdsell (?), Terry Roy (?), Daryl A. Abbas (?), Niki Kelsey (?) |
+| 2021 | HB332 | Brian Seaworth | Regina Birdsell (?), Brian Seaworth (?) |
+| 2021 | HB341 | Ivy C. Vann | Ivy C. Vann (?), Casey M. Conley (?), Rebecca J. McWilliams (?), Tony Caplan (?) |
+| 2021 | HB360 | Sherry A. Frost | Sherry A. Frost (?) |
+| 2021 | HB377 | Erika F. Connors | Lou D'Allesandro (?), Jeffrey P. Goley (?), Patricia Cornell (?), Kendall A. Snow (?), Erika F. Connors (?) |
+| 2021 | HB392 | Peter F. Somssich | Gerald W.R. Ward (?), Peter F. Somssich (?), David Meuse (?), Joan L. Hamblet (?) |
+| 2021 | HB395 | Anita D. Burroughs | Jeb Bradley (?), Karen C. Umberger (?), Jerry L. Knirk (?), Anita D. Burroughs (?), Stephen L. Woodcock (?) |
+| 2021 | HB512 | Casey M. Conley | Casey M. Conley (?), Rebecca Perkins Kwoka (?) |
+| 2021 | HB550 | Casey M. Conley | David H Watters (?), Walter A. Stapleton (?), Donovan W. Fenton (?), Kristina M. Schultz (?), Casey M. Conley (?), Andrew J. Bouldin (?), Matthew B. Wilhelm (?), Safiya Wazir (?), +3 more |
+| 2021 | HB586 | Joe H. Alexander | Karen C. Umberger (?), Richard W. Lascelles (?), Anita D. Burroughs (?), Willis T. Griffith (?), Joe H. Alexander (?), Erin Hennessey (?), Rebecca Perkins Kwoka (?) |
+| 2021 | HB588 | Dave Testerman | Dave Testerman (?), Jim V. Maggiore (?), James L. Mason (?) |
+| 2021 | HB610 | John B. Hunt | John B. Hunt (?) |
+| 2021 | HB616 | Benjamin C. Baroody | Benjamin C. Baroody (?) |
+| 2021 | SB102 | Rebecca Perkins Kwoka | Rebecca Perkins Kwoka (?) |
+| 2021 | SB126 | Rebecca Perkins Kwoka | Rebecca Perkins Kwoka (?) |
+| 2021 | SB152 | James P. Gray | James P. Gray (?) |
+| 2021 | SB73 | Donna M. Soucy | David H Watters (?), Donna M. Soucy (?), Kevin J. Cavanaugh (?), Rebecca J. McWilliams (?), Rebecca Perkins Kwoka (?) |
+| 2021 | SB86 | Jay Kahn | Jay Kahn (?) |
+| 2022 | HB1021 | Kurt F. Wuelper | Aidan Ankarberg (?), Kurt F. Wuelper (?), Linda R. Gould (?) |
+| 2022 | HB1068 | Dave Testerman | Jim V. Maggiore (?), Dave Testerman (?) |
+| 2022 | HB1087 | Josh S. Yokela | Josh S. Yokela (?), Rebecca J. McWilliams (?), Laurel Stavis (?), Lee Walker Oxenham (?) |
+| 2022 | HB1098 | Josh S. Yokela | Josh S. Yokela (?) |
+| 2022 | HB1107 | Ellen D. Read | Cam E. Kenney (?), Ellen D. Read (?) |
+| 2022 | HB1133 | Joshua Adjutant | Cam E. Kenney (?), Matthew B. Wilhelm (?), Kristina M. Schultz (?), Chuck W. Grassie (?), Sherry A. Frost (?), Joshua Adjutant (?), Latha D. Mangipudi (?) |
+| 2022 | HB1136 | Josh S. Yokela | Josh S. Yokela (?) |
+| 2022 | HB1172 | Eric B. Gallager | Eric B. Gallager (?) |
+| 2022 | HB1177 | Ivy C. Vann | Eric B. Gallager (?), Tony Caplan (?), Rebecca J. McWilliams (?), Laurel Stavis (?), Casey M. Conley (?), Ellen D. Read (?), Ivy C. Vann (?), Latha D. Mangipudi (?), +3 more |
+| 2022 | HB1179 | Josh S. Yokela | Tom E. Lanzara (?), Josh S. Yokela (?) |
+| 2022 | HB1191 | Carol M. McGuire | Carol M. McGuire (?), John Reagan (?) |
+| 2022 | HB1200 | Casey M. Conley | Maria Perez (?), Rebecca Perkins Kwoka (?), Cam E. Kenney (?), Rebecca J. McWilliams (?), Nicole Klein-Knight (?), Casey M. Conley (?), Ivy C. Vann (?), Efstathia C. Booras (?), +1 more |
+| 2022 | HB1216 | Bill Boyd | Bill Boyd (?), Jim V. Maggiore (?) |
+| 2022 | HB1219 | Eric B. Gallager | Eric B. Gallager (?) |
+| 2022 | HB1238 | Michael Vose | Ross Berry (?), Richard Littlefield (?), Josh S. Yokela (?), Michael Vose (?) |
+| 2022 | HB1254 | Susan Homola | Susan Homola (?), Diane Pauer (?), Kevin A. Avard (?), Keith M. Ammon (?) |
+| 2022 | HB1291 | Cam E. Kenney | Cindy Rosenwald (?), Wendy Chase (?), Cam E. Kenney (?), Gaby M. Grossman (?), Matthew B. Wilhelm (?), Timothy J. Smith (?), Timothy O. Horrigan (?), Marjorie K. Smith (?), +2 more |
+| 2022 | HB1307 | Barbara J. Griffin | Barbara J. Griffin (?) |
+| 2022 | HB132 | Josh S. Yokela | Josh S. Yokela (?), Rebecca J. McWilliams (?) |
+| 2022 | HB1374 | Peter F. Somssich | Peter F. Somssich (?) |
+| 2022 | HB1389 | Bob J. Lynn | Bob J. Lynn (?), Jason M. Osborne (?) |
+| 2022 | HB1407 | Nicole Klein-Knight | Tony Caplan (?), Nicole Klein-Knight (?), Donald J. Bouchard (?), Ivy C. Vann (?) |
+| 2022 | HB1408 | Nicole Klein-Knight | Safiya Wazir (?), Nicole Klein-Knight (?), Donald J. Bouchard (?), Chuck W. Grassie (?), Joshua Adjutant (?), Ivy C. Vann (?), Suzanne M. Vail (?) |
+| 2022 | HB1617 | Joshua Adjutant | Joshua Adjutant (?) |
+| 2022 | HB1661 | Rick M. Ladd | Bob J. Lynn (?), Jay Kahn (?), Glenn Cordelli (?), Karen C. Umberger (?), Rick M. Ladd (?), Ralph G. Boehm (?), John Reagan (?), David H Watters (?) |
+| 2022 | HB1662 | Jess C. Edwards | Mark A. Pearson (?), James P. Gray (?), Bob J. Giuda (?), Jeffrey C. Salloway (?), Jess C. Edwards (?), Timothy P. Lang (?), Bill G. Nelson (?), Charles E. McMahon (?) |
+| 2022 | HB227 | Bob J. Lynn | Bob J. Lynn (?) |
+| 2022 | HB473 | John C. Janigian | Everett P. McBride (?), Daryl A. Abbas (?), John C. Janigian (?), Betty I. Gay (?), Michael A. Edgar (?), Chuck Morse (?) |
+| 2022 | HB503 | Patrick T. Long | Matthew B. Wilhelm (?), Patrick T. Long (?) |
+| 2022 | SB210 | Jeb Bradley | Bill Gannon (?), James P. Gray (?), Bob J. Giuda (?), Kevin A. Avard (?), Regina Birdsell (?), Gary L. Daniels (?), John M. Potucek (?), Jason M. Osborne (?), +5 more |
+| 2022 | SB216 | Rebecca Perkins Kwoka | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M Prentiss (?), Cindy Rosenwald (?), Manny Espitia (?), Casey M. Conley (?), Tom Sherman (?), Kevin J. Cavanaugh (?), +6 more |
+| 2022 | SB217 | Rebecca Perkins Kwoka | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M Prentiss (?), Manny Espitia (?), Tom Sherman (?), Kevin J. Cavanaugh (?), Charlotte I. DiLorenzo (?), Ivy C. Vann (?), +1 more |
+| 2022 | SB223 | Lou D'Allesandro | Jeffrey P. Goley (?), Donna M. Soucy (?), David H Watters (?), Lou D'Allesandro (?) |
+| 2022 | SB244 | Kevin J. Cavanaugh | Kevin J. Cavanaugh (?) |
+| 2022 | SB245 | Tom Sherman | Tom Sherman (?), Joseph A. Guthrie (?), Latha D. Mangipudi (?), Donna M. Soucy (?), David H Watters (?) |
+| 2022 | SB249 | Harold F. French | Suzanne M Prentiss (?), Kevin J. Cavanaugh (?), Harold F. French (?), Bill Gannon (?), Bob J. Giuda (?), John M. Potucek (?), Linda A. DiSilvestro (?), John B. Hunt (?), +4 more |
+| 2022 | SB329 | Rebecca Perkins Kwoka | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M Prentiss (?), Cindy Rosenwald (?), Manny Espitia (?), Tom Sherman (?), Kevin J. Cavanaugh (?), Jay Kahn (?), +5 more |
+| 2022 | SB334 | Suzanne M Prentiss | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M Prentiss (?), Laurel Stavis (?), Tom Sherman (?), Walter A. Stapleton (?), John R. Cloutier (?), Donna M. Soucy (?), +2 more |
+| 2022 | SB338 | Suzanne M Prentiss | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M Prentiss (?), David Meuse (?), Jay Kahn (?), Susan W. Almy (?), John R. Cloutier (?), Mary Jane Wallner (?), +1 more |
+| 2022 | SB359 | Rebecca Perkins Kwoka | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Cindy Rosenwald (?), Charlotte I. DiLorenzo (?), Ivy C. Vann (?), Marjorie A. Porter (?) |
+| 2022 | SB400 | Jeb Bradley | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M Prentiss (?), Cindy Rosenwald (?), Joe H. Alexander (?), Tom Sherman (?), Kevin J. Cavanaugh (?), Jay Kahn (?), +9 more |
+| 2022 | SB415 | Jay Kahn | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M Prentiss (?), Cindy Rosenwald (?), Tom Sherman (?), Kevin J. Cavanaugh (?), Jay Kahn (?), Amanda C. Bouldin (?), +4 more |
+| 2023 | HB111 | Kristina M. Schultz | Kristina M. Schultz (?) |
+| 2023 | HB112 | Ellen D. Read | Eric B. Gallager (?), Maria Perez (?), Cassandra N. Levesque (?), Cam E. Kenney (?), Christine Seibert (?), Ellen D. Read (?), David John Preece (?) |
+| 2023 | HB117 | Bob J. Lynn | Bob J. Lynn (?) |
+| 2023 | HB184 | Andrew Renzullo | Robert J Wherry (?), Andrew Renzullo (?), Sharon M. Carson (?) |
+| 2023 | HB235 | Charlotte I. DiLorenzo | Kathy Staub (?), Joan L. Hamblet (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Cindy Rosenwald (?), Kristina M. Schultz (?), Ellen D. Read (?), Charlotte I. DiLorenzo (?), +4 more |
+| 2023 | HB236 | Barry Faulkner | Barry Faulkner (?) |
+| 2023 | HB273 | Eric B. Gallager | Eric B. Gallager (?), Tony Caplan (?), Ellen D. Read (?) |
+| 2023 | HB296 | Thomas C. Walsh | Gregory G. Hill (?), Thomas C. Walsh (?), Steven D. Smith (?), Carol M. McGuire (?) |
+| 2023 | HB310 | Kat McGhee | Jessica Grill (?), Carry Spier (?), Kat McGhee (?) |
+| 2023 | HB340 | Jodi K Newell | Jodi K Newell (?), Tony Caplan (?), Maria Perez (?), Peter Petrigno (?), Ellen D. Read (?) |
+| 2023 | HB355 | Eric B. Gallager | Eric B. Gallager (?) |
+| 2023 | HB401 | Cam E. Kenney | Allan Howland (?), Kathy Staub (?), Alissandra Murray (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Cam E. Kenney (?), Christine Seibert (?), Timothy O. Horrigan (?), +1 more |
+| 2023 | HB416 | Travis J Corcoran | Travis J Corcoran (?) |
+| 2023 | HB42 | Laurel Stavis | Eric B. Gallager (?), Laurel Stavis (?), Latha D. Mangipudi (?) |
+| 2023 | HB422 | Ellen D. Read | Kathy Staub (?), Jodi K Newell (?), Eric B. Gallager (?), Daniel T. Veilleux (?), Cam E. Kenney (?), Christine Seibert (?), Ellen D. Read (?) |
+| 2023 | HB423 | Ellen D. Read | Katelyn Kuttab (?), Eric B. Gallager (?), Ross Berry (?), Leah P. Cushman (?), Rebecca J. McWilliams (?), Christine Seibert (?), Ellen D. Read (?), Brandon Phinney (?), +2 more |
+| 2023 | HB44 | Rebecca J. McWilliams | Josh S. Yokela (?), Rebecca J. McWilliams (?), Julie D. Gilman (?), David John Preece (?) |
+| 2023 | HB469 | Cam E. Kenney | Allan Howland (?), Debra Altschiller (?), Donovan Fenton (?), Rebecca G. Whitley (?), Cindy Rosenwald (?), Cam E. Kenney (?), Jacqueline H. Chretien (?), Megan A. Murray (?), +3 more |
+| 2023 | HB477 | Ross Berry | Ross Berry (?), Mark McLean (?) |
+| 2023 | HB567 | Cam E. Kenney | Allan Howland (?), Debra Altschiller (?), Rebecca G. Whitley (?), Cam E. Kenney (?), Christine Seibert (?), Timothy O. Horrigan (?), David H. Watters (?) |
+| 2023 | HB636 | Travis J Corcoran | Travis J Corcoran (?) |
+| 2023 | HB95 | Ellen D. Read | Jodi K Newell (?), Eric B. Gallager (?), Cassandra N. Levesque (?), Kevin M. Pratt (?), Christine Seibert (?), Ellen D. Read (?), David John Preece (?) |
+| 2023 | SB145 | Rebecca Perkins Kwoka | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Joe H. Alexander (?), Mary Jane Wallner (?), Donna M. Soucy (?), +2 more |
+| 2023 | SB202 | Denise Ricciardi | Donovan Fenton (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Denise Ricciardi (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Bill M. Gannon (?), +1 more |
+| 2023 | SB203 | Kevin A. Avard | Kevin A. Avard (?) |
+| 2023 | SB231 | Daniel E. Innis | Sherry L Gould (?), Timothy Lang (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Joe H. Alexander (?), +5 more |
+| 2023 | SB262 | Debra Altschiller | Debra Altschiller (?), Donovan Fenton (?), Rebecca Perkins Kwoka (?), Suzanne M. Prentiss (?), Michael A. Edgar (?), Chris Muns (?) |
+| 2023 | SB47 | Rebecca Perkins Kwoka | Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Ellen D. Read (?), Charlotte I. DiLorenzo (?), David John Preece (?), Donna M. Soucy (?), +1 more |
+| 2023 | SB78 | Daniel E. Innis | Daniel E. Innis (?) |
+| 2023 | SR10 | Sharon M. Carson | Daryl Abbas (?), Howard Pearl (?), Debra Altschiller (?), Donovan Fenton (?), Carrie L. Gendreau (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Denise Ricciardi (?), +14 more |
+| 2024 | CACR16 | James R. Qualey | Karen A Reid (?), Steven T Bogert (?), James R. Qualey (?), Chris True (?), John M. Potucek (?), Linda R. Gould (?) |
+| 2024 | HB1053 | Alissandra Murray | Alissandra Murray (?) |
+| 2024 | HB1065 | Hope Damon | Hope Damon (?), Josh S. Yokela (?), Joe H. Alexander (?), Ellen D. Read (?), Mark E. McConkey (?) |
+| 2024 | HB1086 | Andrew Renzullo | Lisa C.M. Post (?), Andrew Renzullo (?) |
+| 2024 | HB1101 | Ellen D. Read | Hope Damon (?), Loren Selig (?), Merryl Gibbs (?), Connie Boyles Lane (?), Ellen D. Read (?), Amanda C. Bouldin (?), Linda C. Harriott-Gathright (?), Efstathia C. Booras (?) |
+| 2024 | HB1115 | Bob J. Lynn | Bob J. Lynn (?) |
+| 2024 | HB1140 | Mark E. McConkey | Mark E. McConkey (?) |
+| 2024 | HB1168 | Kathy Staub | Kathy Staub (?), Heath Howard (?), Gaby M. Grossman (?), Heidi M. Hamer (?), Benjamin C. Baroody (?) |
+| 2024 | HB1199 | Patrick T. Long | Patrick T. Long (?) |
+| 2024 | HB1202 | Joe H. Alexander | Hope Damon (?), Keith R. Murphy (?), Sheila C Seidel (?), Josh S. Yokela (?), Fred R. Plett (?), Joe H. Alexander (?), Ellen D. Read (?), Benjamin C. Baroody (?), +1 more |
+| 2024 | HB1215 | Scott Wallace | Hope Damon (?), Josh S. Yokela (?), Joe H. Alexander (?), Scott Wallace (?) |
+| 2024 | HB1281 | Diane Pauer | Hope Damon (?), Jonah O Wheeler (?), Alissandra Murray (?), Keith R. Murphy (?), Deborah Aylward (?), Diane Pauer (?), Matthew Santonastaso (?), Tony Lekas (?), +4 more |
+| 2024 | HB1284 | Jordan G. Ulery | Jordan G. Ulery (?) |
+| 2024 | HB1291 | Ellen D. Read | Hope Damon (?), Merryl Gibbs (?), Josh S. Yokela (?), Joe H. Alexander (?), Ellen D. Read (?), Charlotte I. DiLorenzo (?), Scott Wallace (?), Benjamin C. Baroody (?), +1 more |
+| 2024 | HB1359 | Len P. Turcotte | Rebecca Perkins Kwoka (?), Joe H. Alexander (?), Daniel E. Innis (?), Len P. Turcotte (?) |
+| 2024 | HB1361 | Joe H. Alexander | Hope Damon (?), Merryl Gibbs (?), Sheila C Seidel (?), Rebecca Perkins Kwoka (?), Josh S. Yokela (?), Joe H. Alexander (?), Ellen D. Read (?), Charlotte I. DiLorenzo (?), +3 more |
+| 2024 | HB1362 | Ellen D. Read | Alissandra Murray (?), Eric B. Gallager (?), Cam E. Kenney (?), Ellen D. Read (?) |
+| 2024 | HB1368 | Eric B. Gallager | Eric B. Gallager (?) |
+| 2024 | HB1399 | Rebecca J. McWilliams | Josh S. Yokela (?), Rebecca J. McWilliams (?), Ellen D. Read (?) |
+| 2024 | HB1400 | Rebecca J. McWilliams | Josh S. Yokela (?), Rebecca J. McWilliams (?) |
+| 2024 | HB1456 | Thomas C. Walsh | Bob J. Lynn (?), Gregory G. Hill (?), Thomas C. Walsh (?) |
+| 2024 | HB1470 | Matthew B. Wilhelm | Hope Damon (?), Matthew B. Wilhelm (?) |
+| 2024 | HB1483 | Kat McGhee | Bill Boyd (?), Ben Ming (?), Mark Paige (?), Rosemarie Rung (?), Brian D Cole (?), Kat McGhee (?), Dan H. Wolf (?) |
+| 2024 | HB1498 | Rebecca J. McWilliams | Rebecca J. McWilliams (?) |
+| 2024 | HB1521 | Kelley L Potenza | Nicholas A Germana (?), Kelley L Potenza (?), Lisa R Mazur (?), Barbara Comtois (?) |
+| 2024 | HB1544 | Chuck W. Grassie | Marc W Plamondon (?), Luz Bay (?), Jonah O Wheeler (?), Jodi K Newell (?), Daniel T. Veilleux (?), Jim V. Maggiore (?), Christine Seibert (?), Chuck W. Grassie (?), +2 more |
+| 2024 | HB1545 | John R. Cloutier | Jim V. Maggiore (?), John R. Cloutier (?) |
+| 2024 | HB1567 | Chuck W. Grassie | David Paige (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Jaci L. Grote (?), Rebecca J. McWilliams (?), Nancy A. Murphy (?), Chuck W. Grassie (?), Benjamin C. Baroody (?), +2 more |
+| 2024 | HB1602 | Joe H. Alexander | Hope Damon (?), Josh S. Yokela (?), Joe H. Alexander (?), Ellen D. Read (?), Scott Wallace (?), Benjamin C. Baroody (?), Thomas C. Walsh (?) |
+| 2024 | HB1635 | Rebecca J. McWilliams | David Paige (?), Rebecca J. McWilliams (?), Ellen D. Read (?) |
+| 2024 | HB1651 | Dan McGuire | Dan McGuire (?), Peter R. Leishman (?) |
+| 2024 | HB1672 | Alicia D. Lekas | Erica J. Layon (?), Alicia D. Lekas (?) |
+| 2024 | HB261 | Ellen D. Read | Kathy Staub (?), Jodi K Newell (?), Debra Altschiller (?), Daniel T. Veilleux (?), Rebecca Perkins Kwoka (?), Cassandra N. Levesque (?), Cam E. Kenney (?), Christine Seibert (?), +1 more |
+| 2024 | HB283 | Ellen D. Read | Kathy Staub (?), Carry Spier (?), Jodi K Newell (?), Daniel T. Veilleux (?), Sherry Dutzy (?), Christine Seibert (?), Ellen D. Read (?) |
+| 2024 | HB347 | Bob J. Lynn | Bill Boyd (?), Ben Ming (?), Bob J. Lynn (?), Jim V. Maggiore (?), Joe H. Alexander (?), Jess Edwards (?), Benjamin C. Baroody (?), Jason M. Osborne (?), +2 more |
+| 2024 | HB379 | Ellen D. Read | Kathy Staub (?), Jodi K Newell (?), Eric B. Gallager (?), Daniel T. Veilleux (?), Christine Seibert (?), Ellen D. Read (?) |
+| 2024 | SB101 | Kevin A. Avard | Kevin A. Avard (?), Sharon M. Carson (?) |
+| 2024 | SB224 | Rebecca Perkins Kwoka | Donovan Fenton (?), Joan L. Hamblet (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Donna M. Soucy (?), David H. Watters (?) |
+| 2024 | SB306 | Kevin A. Avard | Kevin A. Avard (?) |
+| 2024 | SB318 | Howard Pearl | Daryl Abbas (?), Howard Pearl (?), Donovan Fenton (?), Rebecca Perkins Kwoka (?), Denise Ricciardi (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Bill M. Gannon (?), +3 more |
+| 2024 | SB33 | James P. Gray | James P. Gray (?), Kevin A. Avard (?), John M. Potucek (?), Fred G. Doucette (?) |
+| 2024 | SB364 | Daniel E. Innis | David Paige (?), Donovan Fenton (?), Carrie L. Gendreau (?), Rebecca Perkins Kwoka (?), Shannon E. Chandley (?), Daniel E. Innis (?), Ruth Ward (?), Maureen C. Mooney (?), +3 more |
+| 2024 | SB384 | Donovan Fenton | David Paige (?), Debra Altschiller (?), Donovan Fenton (?), Eric B. Gallager (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Shannon E. Chandley (?), Susan W. Almy (?), +2 more |
+| 2024 | SB406 | Donovan Fenton | David Paige (?), Debra Altschiller (?), Donovan Fenton (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Shannon E. Chandley (?), +3 more |
+| 2024 | SB408 | Denise Ricciardi | Kathy Staub (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Denise Ricciardi (?), Heidi M. Hamer (?), Keith Michael Ammon (?), Sharon M. Carson (?) |
+| 2024 | SB410 | Rebecca G. Whitley | Angela Brennan (?), Debra Altschiller (?), Donovan Fenton (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Shannon E. Chandley (?), +3 more |
+| 2024 | SB413 | Denise Ricciardi | Keith R. Murphy (?), Kristin Noble (?), Debra Altschiller (?), Donovan Fenton (?), Bill Boyd (?), Rebecca Perkins Kwoka (?), Denise Ricciardi (?), Shannon E. Chandley (?), +2 more |
+| 2024 | SB434 | Daryl Abbas | Keith R. Murphy (?), Kimberly L Abare (?), Daryl Abbas (?), Fred G. Doucette (?), David H. Watters (?) |
+| 2024 | SB454 | Daniel E. Innis | Debra Altschiller (?), Carrie L. Gendreau (?), Rebecca Perkins Kwoka (?), Cindy Rosenwald (?), Shannon E. Chandley (?), Daniel E. Innis (?), Ruth Ward (?), Tracy Emerick (?), +4 more |
+| 2024 | SB518 | Donovan Fenton | Debra Altschiller (?), Donovan Fenton (?), Rebecca Perkins Kwoka (?), Suzanne M. Prentiss (?), Joe H. Alexander (?), David H. Watters (?), Lou D'Allesandro (?) |
+| 2024 | SB519 | Lou D'Allesandro | Donovan Fenton (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Patricia Cornell (?), Mary Heath (?), Jeffrey P. Goley (?), +3 more |
+| 2024 | SB527 | Suzanne M. Prentiss | Rebecca Perkins Kwoka (?), Suzanne M. Prentiss (?) |
+| 2024 | SB538 | Rebecca Perkins Kwoka | David Paige (?), Debra Altschiller (?), Donovan Fenton (?), Rebecca Perkins Kwoka (?), Rebecca G. Whitley (?), Suzanne M. Prentiss (?), Cindy Rosenwald (?), Shannon E. Chandley (?), +5 more |
+| 2024 | SB64 | Bill M. Gannon | Lilli M Walsh (?), Howard Pearl (?), Suzanne M. Prentiss (?), Deb L. Hobson (?), Fred R. Plett (?), Bill M. Gannon (?), Ruth Ward (?), Donna M. Soucy (?), +4 more |
 | 2025 | HB168 | Diane Pauer | Diane Pauer (R), Kevin Avard (R), Tom Dolan (R), Richard Lascelles (R), Jim Maggiore (D), Charles Melvin (R), Denise Ricciardi (R), Daniel Veilleux (D), +1 more |
 | 2025 | HB229 | Michael Vose | Michael Vose (R), Gregory Hill (R), Timothy Lang (R), Donald McFarlane (R), Dan McGuire (R), Diane Pauer (R), Walter Spilsbury (R), Len Turcotte (R), +1 more |
 | 2025 | HB309 | Maureen Mooney | Maureen Mooney (R), Bill Boyd (R), Daniel Innis (R), Julie Miles (R) |

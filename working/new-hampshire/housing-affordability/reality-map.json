@@ -757,45 +757,45 @@
   "people_and_process": {
     "frequent_primary_sponsors": [
       {
-        "name": "Joe Alexander",
-        "party": "R",
-        "bills": 7,
-        "note": "House zoning/supply and ADU bills (incl. HB577)"
-      },
-      {
         "name": "Ellen Read",
         "party": "D",
-        "bills": 6,
-        "note": "tenant-protection and rental-cost bills"
+        "bills": 18,
+        "note": "tenant-protection, rental-cost, and ADU bills across the record"
+      },
+      {
+        "name": "Rebecca Perkins Kwoka",
+        "party": "D",
+        "bills": 13,
+        "note": "Senate housing-supply and funding bills (SB145, SB84 family)"
+      },
+      {
+        "name": "Joe Alexander",
+        "party": "R",
+        "bills": 12,
+        "note": "House zoning/supply and ADU bills (HB577, HB1361, HB1400 family)"
+      },
+      {
+        "name": "Rebecca McWilliams",
+        "party": null,
+        "bills": 7,
+        "note": "density and unit-mandate bills (HB44 family); party not in the bulk sponsor layer"
       },
       {
         "name": "Len Turcotte",
         "party": "R",
+        "bills": 7,
+        "note": "local-control and abutter bills"
+      },
+      {
+        "name": "Josh Yokela",
+        "party": null,
         "bills": 6,
-        "note": "local-control and repeal bills"
-      },
-      {
-        "name": "Keith Murphy",
-        "party": "R",
-        "bills": 5,
-        "note": "Senate zoning-procedure bills incl. SB84"
-      },
-      {
-        "name": "David Preece",
-        "party": "D",
-        "bills": 5,
-        "note": "housing programs and planning"
-      },
-      {
-        "name": "Chris Muns",
-        "party": "D",
-        "bills": 5,
-        "note": "housing finance and homelessness"
+        "note": "supply deregulation bills; party not in the bulk sponsor layer"
       }
     ],
     "cross_party_sponsorship": {
       "count": 42,
-      "note": "42 policy bills had both major parties among named sponsors; party labels are missing for 2022-2024 sponsors, so the true count is higher."
+      "note": "42 policy bills had both major parties among named sponsors; party labels are missing for the 2022-2024 bulk sponsor layer, so the true count is higher. Sponsor names are now recorded for 282 of 289 policy bills."
     },
     "chokepoints": [
       {

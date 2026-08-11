@@ -17,9 +17,9 @@ regenerates only the content.
 |---|---|
 | `NH1-Housing-Lege-Brief.docx` | **The deliverable.** 7 pages, LibreOffice-verified: brief → policy spotlights → glossary → legislative process glossary; real Word footer ("NH1 Housing Legislative Brief v1.0" + page number) |
 | `lege-brief.md` | Source markdown (edit this, then rebuild) |
-| `appendices/` | Appendices A–I (A bills · B themes · C votes · D sponsors · E paths · F limits · H HB2 sections · I sources & certification) as markdown, plus `appendices-print.html` (77 print pages) and `appendices.docx` |
-| `appendices/NH1-Housing-Master-Appendix.docx` | **Master Appendix** — all appendices in one Word document (title page + A–I, 86 pages) |
-| `appendices/NH1-Housing-Master-Appendix.pdf` | **Master Appendix (PDF)** — same content in the Phase 2 print styling with a table of contents (77 pages) |
+| `appendices/` | Appendices A–I (A bills · B themes · C votes · D sponsors · E paths · F limits · **G bill-by-bill grid: year, bill, subject, prime sponsor, House vote, Senate vote, Governor** · H HB2 sections · I sources & certification) as markdown, plus `appendices-print.html` and `appendices.docx` |
+| `appendices/NH1-Housing-Master-Appendix.docx` | **Master Appendix** — all appendices in one Word document (title page + A–I incl. the bill grid) |
+| `appendices/NH1-Housing-Master-Appendix.pdf` | **Master Appendix (PDF)** — same content in the Phase 2 print styling with a table of contents (114 pages) |
 | `citizen-brief-print.css` | Print CSS used by the appendices HTML |
 
 The review record (review-report, completeness certification) remains in `../citizen-v1/`.

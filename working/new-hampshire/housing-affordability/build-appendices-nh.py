@@ -13,6 +13,7 @@ Run from repo root:
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 
 W = Path("working/new-hampshire/housing-affordability")
@@ -125,10 +126,13 @@ write("C-votes-and-support.md", L)
 
 # ---------- D ----------
 L = ["# Appendix D — Sponsors and people", "",
-     "Sponsors are complete for 2025–2026 (official database) and 2020–2021 "
-     "(official final-text pages); the collected record has no sponsor names "
-     "for most 2022–2024 bills. No judgment of any legislator is implied — "
-     "these are counts of who filed what.", "",
+     "Sponsors come from the official database (2025–2026), official "
+     "final-text pages (2020–2021), and the OpenStates bulk sponsor files "
+     "(2020–2024); where the bulk files carry no prime flag, the first-listed "
+     "sponsor is treated as prime (New Hampshire lists the prime sponsor "
+     "first). Party labels exist only on the 2020–2021 and 2025–2026 layers. "
+     "No judgment of any legislator is implied — these are counts of who "
+     "filed what.", "",
      "## Frequent primary sponsors", "",
      "| Name | Party | Bills as prime sponsor |", "|---|---|---|"]
 for s in pack["people_signals"]["frequent_primary_sponsors"]:
@@ -168,6 +172,147 @@ L += ["", "The full machine-readable record — bills, votes, ballots, dockets, 
       "`sources/new-hampshire/housing-affordability/` and "
       "`working/new-hampshire/housing-affordability/`."]
 write("F-data-limits.md", L)
+
+# ---------- G ----------
+def origin_chamber(bill_no):
+    return "House" if bill_no.startswith(("HB", "HR", "CACR", "HCR")) else "Senate"
+
+
+def motion_rank(motion, yeas, nays):
+    m = (motion or "").lower()
+    carried = (yeas or 0) > (nays or 0)
+    if "veto override" in m:
+        return 6
+    if any(k in m for k in ("concur", "cofc", "conference")):
+        return 5 if carried else 4
+    if any(k in m for k in ("inexpedient", "itl", "indefinitely", "postpone")) or m.strip() == "table":
+        # a kill motion that carried is the decision; one that failed is a survival
+        return 5 if carried else 2
+    if "ought to pass" in m or m.startswith("otp"):
+        return 3  # decisive either way (passage or defeat)
+    if "remove from table" in m:
+        return 2
+    return 1  # amendments, divides, procedural
+
+
+def decisive_roll(b, chamber):
+    rcs = [r for r in b["roll_calls"] if r["body"] == chamber]
+    if not rcs:
+        return None
+    best = max(enumerate(rcs), key=lambda ir: (motion_rank(ir[1]["motion"], ir[1]["yeas"], ir[1]["nays"]), ir[0]))
+    r = best[1]
+    return r, f"{r['motion']} {r['yeas']}\u2013{r['nays']}"
+
+
+BILL_INDEX = {(b["session_year"], b["identifier"]): b for b in bills}
+
+
+def death_suffix(stage):
+    if "interim study" in stage:
+        return "sent to interim study (voice)"
+    if "table" in stage:
+        return "tabled (voice/division)"
+    if "indefinitely postponed" in stage:
+        return "indefinitely postponed (voice)"
+    if "deadline" in stage:
+        return "died at the Senate deadline"
+    if "committee recommended" in stage:
+        return "died in committee"
+    return "killed (voice/division)"
+
+
+def chamber_votes(b):
+    disp, stage = b["disposition"], b["stage"]
+    origin = origin_chamber(b["identifier"])
+    single_chamber = b["identifier"].startswith(("HR", "SR", "HCR"))
+    dm = re.search(r"(?:killed on the|died in the|died on the|tabled in the|laid on the table in the|"
+                   r"indefinitely postponed by the|sent to interim study by the|stayed on the|"
+                   r"recommended by the)\s+(House|Senate)", stage)
+    if not dm:
+        dm = re.search(r"(House|Senate)(?:'s)? (?:floor|table|committee recommended|deadline)", stage)
+    named = dm.group(1) if dm else ("House" if "House" in stage else ("Senate" if "Senate" in stage else None))
+
+    def fill(ch):
+        other = "Senate" if ch == "House" else "House"
+        got = decisive_roll(b, ch)
+        if got:
+            r, txt = got
+            # a non-decisive roll in the chamber that killed the bill gets an
+            # honest suffix so an amendment tally is not mistaken for the death
+            if named == ch and disp == "killed":
+                rank = motion_rank(r["motion"], r["yeas"], r["nays"])
+                if rank < 3 or ("deadline" in stage and "override" not in (r["motion"] or "").lower()):
+                    return f"{txt}; {death_suffix(stage)}"
+            return txt
+        if single_chamber and ch != origin:
+            return "n/a"
+        if disp == "carryover_duplicate":
+            return "see later-year row"
+        # carryover continuation: origin-chamber vote may sit on the prior-year row
+        prev = BILL_INDEX.get((b["session_year"] - 1, b["identifier"]))
+        if prev and ch == origin:
+            got_prev = decisive_roll(prev, ch)
+            if got_prev:
+                return f"{got_prev[1]} ({b['session_year'] - 1})"
+        if disp in ("enacted", "passed", "vetoed"):
+            return "passed (voice/consent)"
+        if disp == "content_enacted_via_hb2":
+            return "passed (voice/consent)" if ch == origin else "\u2014"
+        if named == ch:
+            return death_suffix(stage)
+        if named == other and ch == origin:
+            # died in the second chamber, so the origin chamber had passed it
+            return "passed (voice/consent)"
+        if "conference" in stage or "between" in disp:
+            return "passed (voice/consent)"
+        if ch == origin:
+            return "no floor roll call"
+        return "\u2014"
+
+    return fill("House"), fill("Senate")
+
+
+def governor_cell(b):
+    disp, stage = b["disposition"], b["stage"]
+    if disp == "enacted":
+        m = re.search(r"Chapter (\d+)", stage)
+        return f"Signed \u2014 Ch. {m.group(1)}" if m else "Signed"
+    if disp == "vetoed":
+        if "override failed" in stage:
+            return "VETOED \u2014 override failed"
+        for r in b["roll_calls"]:
+            if "Veto Override" in (r["motion"] or ""):
+                total = r["yeas"] + r["nays"]
+                if total and r["yeas"] < 2 * total / 3:
+                    return "VETOED \u2014 override failed"
+                return f"VETOED \u2014 override {r['yeas']}\u2013{r['nays']}"
+        return "VETOED \u2014 override pending (as of Aug 2026)"
+    if disp == "content_enacted_via_hb2":
+        return "content signed via HB2"
+    if disp == "passed":
+        return "n/a (resolution)"
+    return "\u2014"
+
+
+L = ["# Appendix G \u2014 Bill-by-bill grid: sponsors, chamber votes, governor", "",
+     "One row per bill: year, number, subject, prime sponsor, each chamber's "
+     "decisive floor vote, and the Governor's action. New Hampshire decides "
+     "most bills by voice or division vote, which record no tallies \u2014 those "
+     "cells say so rather than invent numbers ('\u2014' means the bill never "
+     "reached that chamber). Every recorded roll call, with party splits, is "
+     "in Appendix C; where each bill ended is in Appendix E. Prime sponsors "
+     "for 2022\u20132024 come from the OpenStates sponsor files; where those files "
+     "carry no prime flag, the first-listed sponsor is shown (New Hampshire "
+     "lists the prime sponsor first).", "",
+     "| Year | Bill | Title/subject | Prime sponsor | House vote | Senate vote | Governor |",
+     "|---|---|---|---|---|---|---|"]
+for b in bills:
+    primes_list = [s["name"] for s in (b.get("sponsors") or []) if s.get("prime")]
+    prime = primes_list[0] + (" et al." if len(primes_list) > 1 else "") if primes_list else "\u2014"
+    hv, sv = chamber_votes(b)
+    L.append(f"| {b['session_year']} | {b['identifier']} | {esc(b['plain_topic'][:110])} "
+             f"| {esc(prime)} | {esc(hv)} | {esc(sv)} | {esc(governor_cell(b))} |")
+write("G-bill-grid.md", L)
 
 # ---------- H ----------
 L = ["# Appendix H — Inside the budget trailer (HB2)", "",

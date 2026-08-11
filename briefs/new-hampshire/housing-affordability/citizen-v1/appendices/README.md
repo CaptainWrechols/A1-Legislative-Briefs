@@ -15,11 +15,11 @@ universe (5,467 bills, every title swept and every candidate reviewed);
 | `D-sponsors-and-people.md` | Frequent primary sponsors; per-bill sponsor lists (where recorded) |
 | `E-bill-path-details.md` | Where each policy bill ended, from official dockets |
 | `F-data-limits.md` | What this record can and cannot say |
+| `G-bill-grid.md` | Bill-by-bill grid: year, number, subject, prime sponsor, House vote, Senate vote, Governor's action |
 | `H-hb2-budget-trailer.md` | Housing sections inside HB2 (2021, 2023, 2025) with whole-bill votes |
 | `I-sources-and-review-notes.md` | Claim-to-source map, collection notes, review status |
 
-There is no Appendix G (introduced-vs-final text comparison): the NH record
-collected for this issue does not include version diffs.
+(The Nevada packets use Appendix G for introduced-vs-final text comparisons; the NH record has no version diffs, so G here is the bill-by-bill vote grid.)
 
 Print/Word versions: `appendices-print.html` (browser Print → Save as PDF)
 and `appendices.docx`.
