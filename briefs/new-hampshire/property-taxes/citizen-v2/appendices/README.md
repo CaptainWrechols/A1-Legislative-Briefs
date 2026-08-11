@@ -1,7 +1,7 @@
 # Appendices — NH1 Property Taxes Legislative Brief
 
-Long-form detail behind the NH1 Property Taxes Legislative Brief. 530 bills
-are in the set for 2020–2026; 445 policy bills carry the headline numbers (50
+Long-form detail behind the NH1 Property Taxes Legislative Brief. 561 bills
+are in the set for 2020–2026; 476 policy bills carry the headline numbers (50
 context bills and 36 biennium-carryover duplicates are kept for audit).
 2020–2024 discovery is certified against the complete OpenStates bulk
 universe (5,467 bills, every title swept and every candidate reviewed);

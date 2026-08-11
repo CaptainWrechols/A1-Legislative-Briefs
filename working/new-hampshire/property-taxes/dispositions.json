@@ -3661,6 +3661,17 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB138",
+      "title": "relative to tax impact notation on warrant articles with multi-year tax impacts.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 144)",
+      "evidence": "Signed by Governor Ayotte 07/01/2025; Chapter 144",
+      "evidence_source": "sql_docket",
+      "chapter": "144",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB147",
       "title": "relative to clarifying tax exemptions for properties used by religious, educational, and charitable organizations.",
       "disposition": "died_on_table",
@@ -3724,6 +3735,17 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB268",
+      "title": "relative to hearings before the board of tax and land appeals.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 76)",
+      "evidence": "Signed by Governor Ayotte 06/10/2025; Chapter 76",
+      "evidence_source": "sql_docket",
+      "chapter": "76",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB279",
       "title": "establishing a committee to study recipe and process approval for homestead foods.\u00a0\u00a0",
       "disposition": "enacted",
@@ -3751,6 +3773,26 @@
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
       "evidence": "Inexpedient to Legislate: MA VV 02/20/2025  HJ 6  P. 5",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB284",
+      "title": "requiring tax impact statements on municipal warrant articles. ",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 05/08/2025;  SJ 12",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 1
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB290",
+      "title": "increasing the taxes on cigarettes and electronic cigarettes and establishing a committee to study taxes on tobacco and other nicotine products.",
+      "disposition": "killed_floor",
+      "stage": "indefinitely postponed by the House",
+      "evidence": "Indefinitely Postpone (Rep. Sweeney): MA VV 03/20/2025  HJ 9  P. 93",
       "evidence_source": "sql_docket",
       "roll_call_count": 0
     },
@@ -3820,6 +3862,26 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB421",
+      "title": "relative to notice of tax exempt-status filing procedures by town officials or offices.",
+      "disposition": "died_between_chambers",
+      "stage": "died in a committee of conference (no agreed report)",
+      "evidence": "Conference Committee Report: Not Filed  HJ 17",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB425",
+      "title": "allowing tax-exempt entities to keep their tax-exempt status while renting facilities or property to entities that share their mission.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "evidence": "Lay HB425 on Table (Rep. Sweeney): MA DV 351-15 03/06/2025  HJ 7  P. 73",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB426",
       "title": "relative to property tax exemptions for charitable organizations for the prior tax year.",
       "disposition": "enacted",
@@ -3836,6 +3898,16 @@
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
       "evidence": "Inexpedient to Legislate: MA VV 02/20/2025  HJ 6  P. 10",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB450",
+      "title": "relative to commercial property assessed clean energy and resiliency (C-PACER)",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/26/2025  HJ 10  P. 43",
       "evidence_source": "sql_docket",
       "roll_call_count": 0
     },
@@ -3858,6 +3930,16 @@
       "evidence": "Signed by Governor Ayotte 08/01/2025; Chapter 279",
       "evidence_source": "sql_docket",
       "chapter": "279",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB495",
+      "title": "requiring cities and towns to provide a breakdown of tax changes and information on bills sent to residents.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/26/2025  HJ 10  P. 43",
+      "evidence_source": "sql_docket",
       "roll_call_count": 0
     },
     {
@@ -3944,6 +4026,16 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB544",
+      "title": "relative to an optional local public safety assessment on certain room occupancies.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/20/2025  HJ 9  P. 18",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB550",
       "title": "modifying the base cost of an adequate education.",
       "disposition": "killed_floor",
@@ -4016,6 +4108,16 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB625",
+      "title": "relative to enabling municipalities to levy payments against non-profits at a percentage of their assessed property values.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/06/2025  HJ 7  P. 19",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB642",
       "title": "allowing the sale of dehydrated meat without a homestead food license.",
       "disposition": "killed_floor",
@@ -4057,6 +4159,16 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB688",
+      "title": "authorizing municipalities to tax charitable gaming facilities based on their enterprise value.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/13/2025  HJ 8  P. 16",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB689",
       "title": "enabling municipalities to adopt a volunteer incentive property tax credit.",
       "disposition": "killed_floor",
@@ -4094,6 +4206,16 @@
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
       "evidence": "Inexpedient to Legislate: MA VV 03/06/2025  HJ 7  P. 17",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB765",
+      "title": "consolidating school administrative units and making school superintendents jobs an elected position.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/26/2025  HJ 10  P. 17",
       "evidence_source": "sql_docket",
       "roll_call_count": 0
     },
@@ -4147,6 +4269,17 @@
       "evidence": "Lay HR17 on Table (Rep. Janigian): MA VV 03/06/2025  HJ 7  P. 2",
       "evidence_source": "sql_docket",
       "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB105",
+      "title": "enabling towns to adopt budget caps.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 131)",
+      "evidence": "Signed by the Governor on 06/24/2025; Chapter 0131",
+      "evidence_source": "sql_docket",
+      "chapter": "131",
+      "roll_call_count": 2
     },
     {
       "session_year": 2025,
@@ -4211,6 +4344,16 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "SB225",
+      "title": "requiring public notice before re-assessment of property values for local tax purposes.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 05/08/2025  HJ 14  P. 13",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
       "bill_no": "SB275",
       "title": "providing property tax relief for some child care agencies.",
       "disposition": "killed_floor",
@@ -4252,6 +4395,17 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "SB4",
+      "title": "relative to commercial property assessed clean energy and resiliency (C-PACER).",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 1)",
+      "evidence": "Signed by the Governor on 02/27/2025; Chapter 0001",
+      "evidence_source": "sql_docket",
+      "chapter": "1",
+      "roll_call_count": 1
+    },
+    {
+      "session_year": 2025,
       "bill_no": "SB46",
       "title": "enabling municipalities to allow land impacted by new construction or reconstruction to be eligible for current use valuation only after a no cut, vegetated buffer is established and maintained. ",
       "disposition": "killed_floor",
@@ -4290,6 +4444,26 @@
       "evidence_source": "sql_docket",
       "chapter": "16",
       "roll_call_count": 2
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "CACR10",
+      "title": "(New Title) the adoption of tax laws.",
+      "disposition": "killed_floor",
+      "stage": "failed to reach the three-fifths vote a constitutional amendment needs in the House",
+      "evidence": "Ought to Pass: MF RC 194-158 Lacking Necessary Three-Fifths Vote 03/05/2026  HJ 6  P. 81",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 2
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "CACR12",
+      "title": "(New Title) the adoption of tax laws.",
+      "disposition": "killed_floor",
+      "stage": "failed to reach the three-fifths vote a constitutional amendment needs in the House",
+      "evidence": "Ought to Pass with Amendment 2026-1134h: MF RC 193-148 Lacking Necessary Three-Fifths Vote 05/14/2026  HJ 13  P. 63",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 4
     },
     {
       "session_year": 2026,
@@ -4456,6 +4630,26 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB1288",
+      "title": "relative to enabling school administrative units to adopt budget caps.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA DV 175-164 03/12/2026  HJ 8  P. 85",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1293",
+      "title": "taxing certain properties owned by charitable or non-profit organizations.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA VV 02/19/2026  HJ 5  P. 37",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB1296",
       "title": "relative to the conditions for, and procedures for the adoption of, the elderly tax exemption.",
       "disposition": "killed_floor",
@@ -4509,6 +4703,16 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB1380",
+      "title": "requiring the assessment of real property and land be based on replacement or cost-based value.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/19/2026  HJ 5  P. 28",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB1383",
       "title": "relative to methods for overriding local tax caps.",
       "disposition": "killed_committee",
@@ -4554,6 +4758,16 @@
       "disposition": "died_on_table",
       "stage": "laid on the table in the House; never taken back up",
       "evidence": "Lay HB1409 on Table (Rep. Cole): MA VV 02/12/2026  HJ 4  P. 32",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1417",
+      "title": "enabling municipalities, cities, and towns to adopt a land value tax system and making an appropriation therefor.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/19/2026  HJ 5  P. 29",
       "evidence_source": "sql_docket",
       "roll_call_count": 0
     },
@@ -4723,6 +4937,36 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB1581",
+      "title": "(New Title) allowing municipalities to adopt a requirement that property owners be given notice when the assessed value of their property changes by certain amounts.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Refer to Interim Study, MA, VV; 04/16/2026;  SJ 9",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1583",
+      "title": "permitting municipalities to establish special assessment districts for infrastructure improvements.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/05/2026  HJ 6  P. 30",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1596",
+      "title": "relative to the collection of certain health care program premiums; funding for the university system of New Hampshire; and raising the tobacco tax.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA RC 200-157 02/12/2026  HJ 4  P. 33",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 1
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB1597",
       "title": "relative to business profits tax expense deductions.",
       "disposition": "died_on_table",
@@ -4788,6 +5032,26 @@
       "disposition": "interim_study",
       "stage": "sent to interim study by the House",
       "evidence": "Refer for Interim Study: MA VV 03/11/2026  HJ 7  P. 58",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1649",
+      "title": "prohibiting certain tax dollars from being donated to non-profit organizations.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 02/19/2026  HJ 5  P. 29",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1654",
+      "title": "requiring a property owner to pay all taxes or charges on their property prior to being issued certain building or occupancy permits.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA VV 03/11/2026  HJ 7  P. 51",
       "evidence_source": "sql_docket",
       "roll_call_count": 0
     },
@@ -4934,6 +5198,16 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB1804",
+      "title": "consolidating school administrative units, making chief school administrator jobs an elected position, and defining education roles.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Majority Committee Report: Refer for Interim Study  03/02/2026 (Vote 10-8; RC)  HC 10  P. 85",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB1807",
       "title": "relative to information on tax rates and tax impact information on warrant articles.",
       "disposition": "enacted",
@@ -4950,6 +5224,16 @@
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
       "evidence": "Inexpedient to Legislate: MA VV 02/19/2026  HJ 5  P. 8",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1818",
+      "title": "(New Title) requiring the department of education to use its 10-year school facilities plans to plan and project out building consolidation projects.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Sen. Gray Moved Laid on Table, MA, VV; 05/07/2026;  SJ 11",
       "evidence_source": "sql_docket",
       "roll_call_count": 0
     },
@@ -5075,6 +5359,16 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB635",
+      "title": "relative to taxing non-profit entities who settle illegal immigrants as for-profit entities.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "evidence": "Refer for Interim Study: MA VV 01/07/2026  HJ 1  P. 80",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB651",
       "title": "modifying the base cost and differential aid costs of an adequate education.",
       "disposition": "killed_floor",
@@ -5176,6 +5470,17 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "SB489",
+      "title": "(New Title) altering the appointment process for the board of tax and land appeals.",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 64)",
+      "evidence": "Signed by the Governor on 05/08/2026; Chapter 64",
+      "evidence_source": "sql_docket",
+      "chapter": "64",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2026,
       "bill_no": "SB491",
       "title": "(New Title) enabling students to utilize education freedom account funds to pay for certain career and technical education funding and removing references to \"curriculum frameworks\" as they relate to the substantive educational content of an adequate education.",
       "disposition": "enacted",
@@ -5235,6 +5540,16 @@
       "evidence_source": "sql_docket",
       "chapter": "141",
       "roll_call_count": 0
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB634",
+      "title": "enabling municipalities to adopt a municipal occupancy fee.",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate, RC 15Y-9N, MA === BILL KILLED ===; 01/29/2026;  SJ 2",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 1
     },
     {
       "session_year": 2026,

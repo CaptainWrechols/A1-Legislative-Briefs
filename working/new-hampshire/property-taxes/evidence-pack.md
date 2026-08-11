@@ -1,32 +1,32 @@
 # Evidence pack — Property Taxes and Revenue Needs in New Hampshire
 
-*530 bills collected; 445 in the policy set (209 core / 236 adjacent); 50 context bills excluded from counts.*
+*561 bills collected; 476 in the policy set (229 core / 247 adjacent); 50 context bills excluded from counts.*
 
 ## Dispositions (policy set)
 
-- killed: 285
-- enacted: 96
-- interim_study: 58
+- killed: 306
+- enacted: 101
+- interim_study: 63
 - vetoed: 4
 - passed: 2
 
 ## Bills by session (policy set)
 
-- 2020: 73, 2021: 40, 2022: 66, 2023: 42, 2024: 80, 2025: 52, 2026: 92
+- 2020: 73, 2021: 40, 2022: 66, 2023: 42, 2024: 80, 2025: 67, 2026: 108
 
 ## Themes
 
-- **Property tax relief: exemptions, credits, and deferrals** — 75 bills, 16 enacted (21.3%); stops: {'killed': 53, 'interim_study': 5, 'vetoed': 1}
-- **Assessment, abatement, and property tax administration** — 35 bills, 17 enacted (48.6%); stops: {'killed': 15, 'interim_study': 3}
+- **Property tax relief: exemptions, credits, and deferrals** — 80 bills, 16 enacted (20.0%); stops: {'killed': 56, 'interim_study': 7, 'vetoed': 1}
+- **Assessment, abatement, and property tax administration** — 45 bills, 20 enacted (44.4%); stops: {'killed': 21, 'interim_study': 4}
 - **The statewide education property tax and school funding** — 96 bills, 12 enacted (12.5%); stops: {'killed': 64, 'vetoed': 2, 'interim_study': 17, 'passed': 1}
 - **State business taxes: BPT and BET** — 56 bills, 9 enacted (16.1%); stops: {'killed': 36, 'interim_study': 10, 'vetoed': 1}
 - **The interest and dividends tax** — 10 bills, 0 enacted (0.0%); stops: {'interim_study': 3, 'killed': 7}
-- **Meals and rooms, gaming, and other existing revenue streams** — 58 bills, 13 enacted (22.4%); stops: {'killed': 39, 'interim_study': 6}
-- **New or broad-based taxes and constitutional tax limits** — 21 bills, 1 enacted (4.8%); stops: {'killed': 17, 'interim_study': 2, 'passed': 1}
-- **Municipal revenue, state aid, and state budget mechanics** — 36 bills, 7 enacted (19.4%); stops: {'killed': 28, 'interim_study': 1}
+- **Meals and rooms, gaming, and other existing revenue streams** — 60 bills, 13 enacted (21.7%); stops: {'killed': 41, 'interim_study': 6}
+- **New or broad-based taxes and constitutional tax limits** — 23 bills, 1 enacted (4.3%); stops: {'killed': 19, 'interim_study': 2, 'passed': 1}
+- **Municipal revenue, state aid, and state budget mechanics** — 43 bills, 8 enacted (18.6%); stops: {'killed': 34, 'interim_study': 1}
 - **Current use, timber, utility, and other property-tax bases** — 24 bills, 10 enacted (41.7%); stops: {'killed': 12, 'interim_study': 2}
-- **School district and municipal consolidation or cooperation** — 15 bills, 5 enacted (33.3%); stops: {'interim_study': 7, 'killed': 3}
-- **Tax caps and local budget limits** — 19 bills, 6 enacted (31.6%); stops: {'killed': 11, 'interim_study': 2}
+- **School district and municipal consolidation or cooperation** — 18 bills, 5 enacted (27.8%); stops: {'interim_study': 8, 'killed': 5}
+- **Tax caps and local budget limits** — 21 bills, 7 enacted (33.3%); stops: {'killed': 11, 'interim_study': 3}
 
 ## High-support non-enactments
 
@@ -55,8 +55,11 @@
 - 2024:HB1656: Would have changed special-education adequacy grant amounts; interim study. — House 349-26 (OTPA) → sent to interim study by the Senate
 - 2024:HB546: Would have changed the school building aid program; interim study. — House 182-178 (OTP) → sent to interim study by the Senate
 - 2024:SB504: Would have changed current use land rules; died between the chambers. — Senate 14-10 (Ought to Pass w/Amendment) → House refused the other chamber's request for a conference committee
+- 2025:HB284: Would have required tax impact statements on municipal warrant articles; passed the House, killed on the Senate floor. — House 198-160 (OTPA) → killed on the Senate floor (Inexpedient to Legislate)
 - 2025:HB675: Would have raised the statewide education property tax and required towns to remit the excess to the state. — House 190-185 (OTPA) → killed on the House floor (Inexpedient to Legislate; reconsideration failed)
 - 2025:SB20: Would have restored a state share of local employers' retirement system contributions; died at the Senate's deadline. — Senate 23-0 (Ought to Pass) → killed at the Senate's end-of-year deadline (Senate Rule 3-23)
+- 2026:CACR10: Constitutional amendment on the adoption of tax laws; won a House majority 194-158 but fell short of three-fifths. — House 194-158 (OTPA) → failed to reach the three-fifths vote a constitutional amendment needs in the House
+- 2026:CACR12: Constitutional amendment on the adoption of tax laws; its amended version won a House majority 193-148 but fell short of three-fifths. — Senate 16-8 (Ought to Pass) → failed to reach the three-fifths vote a constitutional amendment needs in the House
 - 2026:HB1121: Would have defined the cost of an adequate education. — House 187-152 (OTPA) → laid on the table in the Senate; never taken back up
 - 2026:HB366: Would have changed the priority of school building aid applications. — House 196-151 (Adopt Amendment) → killed on the Senate floor (Inexpedient to Legislate)
 - 2026:SB513: Would have required an owner's project manager on school building aid projects; died between the chambers. — Senate 16-8 (Ought to Pass) → Senate refused to accept the other chamber's changes; no conference
@@ -64,19 +67,19 @@
 
 ## People signals
 
-- Timothy Lang (R) — prime sponsor on 21 bills
+- Timothy Lang (R) — prime sponsor on 22 bills
+- Rick Ladd (R) — prime sponsor on 13 bills
+- Diane Pauer (R) — prime sponsor on 13 bills
 - Thomas Schamberg (D) — prime sponsor on 12 bills
-- Rick Ladd (R) — prime sponsor on 12 bills
-- Diane Pauer (R) — prime sponsor on 12 bills
 - David Luneau (D) — prime sponsor on 10 bills
 - John Janigian (R) — prime sponsor on 10 bills
 - Sallie Fellows (D) — prime sponsor on 9 bills
 - Jay Kahn (?) — prime sponsor on 8 bills
 - Glenn Cordelli (R) — prime sponsor on 8 bills
 - Michael Cahill (D) — prime sponsor on 7 bills
-- Cindy Rosenwald (D) — prime sponsor on 6 bills
-- Michael Harrington (R) — prime sponsor on 6 bills
-- Cross-party sponsor teams: 40 bills
+- Kevin Avard (R) — prime sponsor on 7 bills
+- Joe Sweeney (R) — prime sponsor on 7 bills
+- Cross-party sponsor teams: 46 bills
 
 ## HB2 crosswalk
 

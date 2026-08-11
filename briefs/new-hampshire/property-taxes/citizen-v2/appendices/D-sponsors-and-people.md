@@ -6,20 +6,20 @@ Sponsors come from the official database (2025–2026, with party labels) and th
 
 | Name | Party | Bills as prime sponsor |
 |---|---|---|
-| Timothy Lang | R | 21 |
+| Timothy Lang | R | 22 |
+| Rick Ladd | R | 13 |
+| Diane Pauer | R | 13 |
 | Thomas Schamberg | D | 12 |
-| Rick Ladd | R | 12 |
-| Diane Pauer | R | 12 |
 | David Luneau | D | 10 |
 | John Janigian | R | 10 |
 | Sallie Fellows | D | 9 |
 | Jay Kahn | ? | 8 |
 | Glenn Cordelli | R | 8 |
 | Michael Cahill | D | 7 |
-| Cindy Rosenwald | D | 6 |
-| Michael Harrington | R | 6 |
+| Kevin Avard | R | 7 |
+| Joe Sweeney | R | 7 |
 
-Cross-party sponsor teams appeared on **40** policy bills (both major parties among named sponsors; party labels exist only for 2025–2026, so this understates).
+Cross-party sponsor teams appeared on **46** policy bills (both major parties among named sponsors; party labels exist only for 2025–2026, so this understates).
 
 <!-- pdf-page-break -->
 
@@ -309,54 +309,71 @@ Cross-party sponsor teams appeared on **40** policy bills (both major parties am
 | 2025 | HB123 | Arnold Davis | Arnold Davis (R), Brian Cole (R), Sean Durkin (R), Michael Murphy (R), Mike Ouellet (R), Howard Pearl (r), David Rochefort (r), James Tierney (R) |
 | 2025 | HB135 | Michael Harrington | Michael Harrington (R), Michael Granger (R) |
 | 2025 | HB137 | Glenn Cordelli | Glenn Cordelli (R), Mark McConkey (R), Kenneth Weyler (R) |
+| 2025 | HB138 | Diane Pauer | Diane Pauer (R), Jose Cambrils (R), Tony Caplan (D), David Fracht (D), Bill Gannon (R), Maureen Mooney (R), David Preece (D), Vanessa Sheehan (R), +3 more |
 | 2025 | HB147 | Maureen Mooney | Maureen Mooney (R), Daryl Abbas (R), Kevin Avard (R), Glenn Cordelli (R), Brian Labrie (R), Bob Lynn (R), Julie Miles (R), Mark Pearson (R), +2 more |
 | 2025 | HB200 | Diane Pauer | Diane Pauer (R), Kevin Avard (R), Glenn Bailey (R), Lex Berezhny (R), Scott Bryer (R), Claudine Burnham (R), Keith Murphy (R), Rich Nalevanko (R), +3 more |
 | 2025 | HB237 | Mike Belcher | Mike Belcher (R), Paul Terry (R), Len Turcotte (R) |
 | 2025 | HB255 | Thomas Schamberg | Thomas Schamberg (D) |
+| 2025 | HB268 | Bob Lynn | Bob Lynn (R) |
 | 2025 | HB282 | Douglas Trottier | Douglas Trottier (R), Mike Bordes (R), Fred Doucette (R), Stephen Pearson (R), Suzanne Prentiss (D), Mark Proulx (R), Cindy Rosenwald (D), Timothy Soucy (D) |
 | 2025 | HB283 | Dan McGuire | Dan McGuire (R) |
+| 2025 | HB284 | JD Bernardy | JD Bernardy (R), Pam Brown (R), Bill Gannon (R), Susan Porcelli (R), Kenneth Weyler (R) |
+| 2025 | HB290 | Jerry Stringham | Jerry Stringham (D) |
 | 2025 | HB318 | Thomas Schamberg | Thomas Schamberg (D) |
 | 2025 | HB374 | Diane Pauer | Diane Pauer (R), Kevin Avard (R), Scott Bryer (R), Jess Edwards (R), Jim Kofalt (R), Richard Lascelles (R), Tim Mannion (R), Tom Mannion (R), +5 more |
 | 2025 | HB394 | Walter Spilsbury | Walter Spilsbury (R) |
+| 2025 | HB421 | Mark Pearson | Mark Pearson (R), Bill Boyd (R), Jose Cambrils (R), Glenn Cordelli (R), Debra DeSimone (R), Bill Gannon (R), John Janigian (R), Wayne MacDonald (R), +2 more |
+| 2025 | HB425 | Mark Pearson | Mark Pearson (R), Bill Boyd (R), Jose Cambrils (R), Glenn Cordelli (R), Debra DeSimone (R), Bill Gannon (R), John Janigian (R), Paul Terry (R) |
 | 2025 | HB426 | John MacDonald | John MacDonald (R), Karel Crawford (R), Bob Lynn (R), Jim Maggiore (D), Katy Peternel (R), Rosemarie Rung (D) |
 | 2025 | HB447 | James Creighton | James Creighton (R), Judy Aron (R), Kevin Avard (R), Donovan Fenton (D), Larry Gagne (R), Nicholas Germana (D), Daniel Innis (R), Allison Knab (D), +6 more |
+| 2025 | HB450 | Sherman Packard | Sherman Packard (R), John Hunt (R), David Rochefort (R), Alexis Simpson (D), Michael Vose (R), Kenneth Weyler (R) |
 | 2025 | HB483 | David Luneau | David Luneau (D), Patricia Cornell (D), Hope Damon (D), Sallie Fellows (D), Stephen Woodcock (D) |
+| 2025 | HB495 | Ross Berry | Ross Berry (R), Joe Alexander (R), Samuel Farrington (R), Jason Osborne (R), Joe Sweeney (R) |
 | 2025 | HB502 | Thomas Schamberg | Thomas Schamberg (D), Thomas Oppel (D) |
 | 2025 | HB503 | Thomas Schamberg | Thomas Schamberg (D) |
 | 2025 | HB515 | Michael Cahill | Michael Cahill (D) |
 | 2025 | HB527 | Sallie Fellows | Sallie Fellows (D) |
 | 2025 | HB530 | Jessica LaMontagne | Jessica LaMontagne (D), Hope Damon (D), Ellen Read (D) |
 | 2025 | HB531 | Dick Ames | Dick Ames (D) |
+| 2025 | HB544 | David Paige | David Paige (D), Thomas Buco (D), Mark McConkey (R), Rebecca Perkins Kwoka (D), Jonathan Smith (R), Charlie St. Clair (D), Stephen Woodcock (D) |
 | 2025 | HB550 | David Luneau | David Luneau (D) |
 | 2025 | HB588 | Sallie Fellows | Sallie Fellows (D), Terry Spahr (D), Jerry Stringham (D) |
 | 2025 | HB591 | Brian Cole | Brian Cole (R), Joe Alexander (R), Keith Ammon (R), Lorie Ball (R), Mike Ouellet (R) |
 | 2025 | HB596 | David Paige | David Paige (D), Susan Almy (D), Rebecca Perkins Kwoka (D), David Rochefort (R) |
 | 2025 | HB603 | Heath Howard | Heath Howard (D), Hope Damon (D), Nicholas Germana (D), Alissandra Murray (D), Suzanne Prentiss (D), Loren Selig (D), David Watters (D), Jonah Wheeler (D) |
+| 2025 | HB625 | Bill Bolton | Bill Bolton (D), Thomas Schamberg (D) |
 | 2025 | HB669 | Marjorie Smith | Marjorie Smith (D), John Cloutier (D), Dale Girard (R), Jonah Wheeler (D) |
 | 2025 | HB675 | Joe Sweeney | Joe Sweeney (R), Jason Osborne (R) |
+| 2025 | HB688 | Bill Ohm | Bill Ohm (R), Susan Almy (D), John Cloutier (D), Sanjeev Manohar (D) |
 | 2025 | HB689 | Wayne Hemingway | Wayne Hemingway (R), Judy Aron (R), Michael Aron (R), John Cloutier (D), Hope Damon (D), Dale Girard (R) |
 | 2025 | HB696 | Michael Vose | Michael Vose (R), John Janigian (R), Timothy Lang (R), John MacDonald (R), Donald McFarlane (R), Carol McGuire (R), Jordan Ulery (R), David Watters (D) |
 | 2025 | HB737 | Bill Boyd | Bill Boyd (R), Joseph Barton (R), David Paige (D), David Rochefort (R), Thomas Schamberg (D), Walter Spilsbury (R), Jerry Stringham (D), Len Turcotte (R) |
 | 2025 | HB746 | David Love | David Love (R), Ricky Devoid (R), Dan McGuire (R), Brian Nadeau (R), Kristin Noble (R) |
+| 2025 | HB765 | Dan McGuire | Dan McGuire (R), Riché Colcombe (R), Glenn Cordelli (R), Bob Lynn (R), Keith Murphy (R), Victoria Sullivan (R), James Tierney (R), Ruth Ward (R), +1 more |
 | 2025 | HB766 | Charles McMahon | Charles McMahon (R), Katelyn Kuttab (R), Bob Lynn (R), Daniel Popovici-Muller (R), Julius Soti (R), Kenneth Weyler (R) |
 | 2025 | HB769 | Linda Gould | Linda Gould (R) |
 | 2025 | HB782 | Sanjeev Manohar | Sanjeev Manohar (D) |
 | 2025 | HB99 | Michael Moffett | Michael Moffett (R), Jess Edwards (R), Linda Massimilla (d), Howard Pearl (r), Terry Roy (R), Sheila Seidel (R) |
 | 2025 | HR17 | John Janigian | John Janigian (R) |
+| 2025 | SB105 | Keith Murphy | Keith Murphy (R), James Gray (R), Daniel Innis (R), Diane Pauer (R) |
 | 2025 | SB168 | Timothy Lang | Timothy Lang (R), Daniel Innis (R), Keith Murphy (R), Howard Pearl (r) |
 | 2025 | SB173 | Keith Murphy | Keith Murphy (R), Joe Alexander (R), Tim McGough (R), Jason Osborne (R), Howard Pearl (r), Rebecca Perkins Kwoka (D) |
 | 2025 | SB20 | Cindy Rosenwald | Cindy Rosenwald (D), Debra Altschiller (D), Michael Edgar (D), Donovan Fenton (D), Pat Long (D), David Nagel (D), Rebecca Perkins Kwoka (D), Suzanne Prentiss (D), +5 more |
 | 2025 | SB209 | Daryl Abbas | Daryl Abbas (R), Fred Doucette (R), John Janigian (R), Dennis Mannion (R) |
 | 2025 | SB217 | Victoria Sullivan | Victoria Sullivan (R), Ralph Boehm (R), Jeanine Notter (R), Howard Pearl (r), Kimberly Rice (R), Joe Sweeney (R), Ruth Ward (R), David Watters (D) |
 | 2025 | SB224 | Bill Gannon | Bill Gannon (R), Daryl Abbas (R), Debra Altschiller (D), Kevin Avard (R), Donovan Fenton (D), Timothy Lang (R), Melissa Litchfield (R), Pat Long (D), +9 more |
+| 2025 | SB225 | Kevin Avard | Kevin Avard (R), Gregory Hill (R), Timothy Lang (R), Bill Ohm (R), Kimberly Rice (R) |
 | 2025 | SB275 | David Watters | David Watters (D), Debra Altschiller (D), Kevin Avard (R), Daniel Innis (R), Pat Long (D), Rebecca Perkins Kwoka (D), Cindy Rosenwald (D), Laurel Stavis (D) |
 | 2025 | SB276 | Ruth Ward | Ruth Ward (R), Daniel Innis (R), Tim McGough (R), Rebecca Perkins Kwoka (D), David Watters (D) |
 | 2025 | SB277 | Timothy Lang | Timothy Lang (R), Michael Moffett (R), Howard Pearl (r), David Watters (D) |
 | 2025 | SB291 | Daryl Abbas | Daryl Abbas (R), Kevin Avard (R), Fred Doucette (R), Bill Gannon (R), Daniel Innis (R), John Janigian (R), Mark Pearson (R), David Rochefort (R), +1 more |
+| 2025 | SB4 | Daniel Innis | Daniel Innis (R), Tara Reardon (D) |
 | 2025 | SB46 | Ruth Ward | Ruth Ward (R) |
 | 2025 | SB55 | Timothy Lang | Timothy Lang (R), Joe Alexander (R), Jess Edwards (R), Bill Gannon (R), Daniel Innis (R), Tim McGough (R), Keith Murphy (R), Howard Pearl (r), +2 more |
 | 2025 | SB81 | Daniel Innis | Daniel Innis (R), Debra Altschiller (D), Kevin Avard (R), Tim McGough (R), David Paige (D), Howard Pearl (r), Rebecca Perkins Kwoka (D), Cindy Rosenwald (D), +3 more |
 | 2025 | SB83 | Timothy Lang | Timothy Lang (R), Kevin Avard (R), Bill Gannon (R), Michael Moffett (R), Howard Pearl (r) |
+| 2026 | CACR10 | Donald McFarlane | Donald McFarlane (R), Sayra DeVito (R), Samuel Farrington (R), Jim Kofalt (R), Timothy Lang (R), Tom Mannion (R), Jonathan Morton (R), Jeanine Notter (R), +3 more |
+| 2026 | CACR12 | Timothy Lang | Timothy Lang (R), Daryl Abbas (R), Kevin Avard (R), Regina Birdsell (R), Bill Gannon (R), James Gray (R), Daniel Innis (R), Mark McConkey (R), +6 more |
 | 2026 | CACR18 | Jordan Ulery | Jordan Ulery (R), Joe Alexander (R), Cyril Aures (R), Kevin Avard (R), Scott Bryer (R), Jose Cambrils (R), Brian Cole (R), Steven Kesselring (R) |
 | 2026 | HB1002 | Len Turcotte | Len Turcotte (R), Richard Brown (R), Susan DeRoy (R), Michael Harrington (R), Dan McGuire (R), John Sellers (R), Vanessa Sheehan (R), Shane Sirois (R), +2 more |
 | 2026 | HB1021 | David Walker | David Walker (R), John MacDonald (R), Jim Maggiore (D) |
@@ -372,16 +389,20 @@ Cross-party sponsor teams appeared on **40** policy bills (both major parties am
 | 2026 | HB1227 | James Gruber | James Gruber (D), Donovan Fenton (D), Eric Turer (D) |
 | 2026 | HB1230 | Jordan Ulery | Jordan Ulery (R) |
 | 2026 | HB1278 | Eric Turer | Eric Turer (D), James Gruber (D) |
+| 2026 | HB1288 | Michael Vose | Michael Vose (R), Liz Barbour (R), Margaret Drye (R), Gregory Hill (R), Timothy Lang (R), Diane Pauer (R), Victoria Sullivan (R) |
+| 2026 | HB1293 | Bill Bolton | Bill Bolton (D), Thomas Schamberg (D) |
 | 2026 | HB1296 | Eileen Kelly | Eileen Kelly (D), Susan Almy (D), Dick Ames (D), Tony Caplan (D), John Cloutier (D), Hope Damon (D), Mary Hakken-Phillips (D), Daniel Popovici-Muller (R), +1 more |
 | 2026 | HB1300 | Aidan Ankarberg | Aidan Ankarberg (I), Daniel Innis (R) |
 | 2026 | HB1324 | Kimberly Rice | Kimberly Rice (R), Sherman Packard (R), Victoria Sullivan (R) |
 | 2026 | HB1331 | Erica Layon | Erica Layon (R), David Love (R), John Potucek (R), Richard Tripp (R) |
 | 2026 | HB1374 | Mary Murphy | Mary Murphy (R), Pam Brown (R), Riché Colcombe (R), Mary Ford (R), Dan McGuire (R), Raymond Peeples (R), Susan Porcelli (R), Ruth Ward (R) |
+| 2026 | HB1380 | Kelley Potenza | Kelley Potenza (R), Claudine Burnham (R), Susan DeRoy (R), Jaci Grote (D), Jason Osborne (R), Jonah Wheeler (D) |
 | 2026 | HB1383 | Eric Turer | Eric Turer (D), James Gruber (D) |
 | 2026 | HB1385 | Jay Markell | Jay Markell (R), Bob Lynn (R), Wayne MacDonald (R), Jodi Nelson (R), Lilli Walsh (R) |
 | 2026 | HB1399 | Hope Damon | Hope Damon (D), Debra Altschiller (D), Michael Cahill (D), Tony Caplan (D), Dale Girard (R), Eileen Kelly (D), David Luneau (D), Loren Selig (D) |
 | 2026 | HB1400 | Jonathan Smith | Jonathan Smith (R), Lino Avellani (R), John MacDonald (R), Mark McConkey (R), Katy Peternel (R), James Spillane (R), Len Turcotte (R) |
 | 2026 | HB1409 | Dick Ames | Dick Ames (D), Susan Almy (D), Patricia Cornell (D), Hope Damon (D), Donovan Fenton (D), Mary Hakken-Phillips (D), David Luneau (D), Kate Murray (D), +3 more |
+| 2026 | HB1417 | Joe Sweeney | Joe Sweeney (R) |
 | 2026 | HB1420 | Kristine Perez | Kristine Perez (R), Louise Andrus (R), Aidan Ankarberg (I), Susan DeRoy (R), Katelyn Kuttab (R), Sandra Panek (R), Daniel Popovici-Muller (R), Matt Sabourin dit Choinière (R) |
 | 2026 | HB1433 | Katelyn Kuttab | Katelyn Kuttab (R), Regina Birdsell (R), Margaret Drye (R), John Janigian (R), Maureen Mooney (R), Mary Murphy (R), Bill Ohm (R), David Paige (D), +6 more |
 | 2026 | HB1434 | Len Turcotte | Len Turcotte (R), Bill Boyd (R), David Fracht (D), Julie Gilman (D), Katelyn Kuttab (R), Jim Maggiore (D), Jodi Nelson (R), Susan Porcelli (R), +2 more |
@@ -398,6 +419,9 @@ Cross-party sponsor teams appeared on **40** policy bills (both major parties am
 | 2026 | HB1565 | James Spillane | James Spillane (R), Keith Ammon (R), Cyril Aures (R), Brian Cole (R), Jim Kofalt (R), Donald McFarlane (R), Jonathan Morton (R), Keith Murphy (R), +3 more |
 | 2026 | HB1579 | Sallie Fellows | Sallie Fellows (D), Susan Almy (D), Dick Ames (D), Scott Bryer (R), Mary Ford (R), Jerry Stringham (D), Alice Wade (D) |
 | 2026 | HB1580 | Jonah Wheeler | Jonah Wheeler (D), Matthew Coker (R), Peter Leishman (D), Kelley Potenza (R), Marjorie Smith (D) |
+| 2026 | HB1581 | Robert Wherry | Robert Wherry (R), Mary Ford (R), Donald McFarlane (R), Linda McGrath (R), Mary Murphy (R), Diane Pauer (R) |
+| 2026 | HB1583 | Joe Sweeney | Joe Sweeney (R) |
+| 2026 | HB1596 | Jerry Stringham | Jerry Stringham (D), Wayne Burton (D), Terry Spahr (D) |
 | 2026 | HB1597 | John Janigian | John Janigian (R), Daryl Abbas (R), Scott Bryer (R), James Gray (R), Bill Ohm (R), Jordan Ulery (R) |
 | 2026 | HB1629 | Aidan Ankarberg | Aidan Ankarberg (I), Tom Mannion (R) |
 | 2026 | HB1636 | Thomas Oppel | Thomas Oppel (D) |
@@ -405,6 +429,8 @@ Cross-party sponsor teams appeared on **40** policy bills (both major parties am
 | 2026 | HB1646 | Joe Sweeney | Joe Sweeney (R) |
 | 2026 | HB1647 | Keith Ammon | Keith Ammon (R), Calvin Beaulier (R), Peter Bixby (D), Daniel Innis (R), James Spillane (R) |
 | 2026 | HB1648 | David Luneau | David Luneau (D), Dick Ames (D), Thomas Oppel (D), David Paige (D) |
+| 2026 | HB1649 | Lorie Ball | Lorie Ball (R), Cindy Bennett (R), Travis Corcoran (R), Lisa Freeman (R), Henry Giasson (R), Dennis Mannion (R), Kristine Perez (R), Lilli Walsh (R) |
+| 2026 | HB1654 | Wayne Hemingway | Wayne Hemingway (R), Dale Girard (R) |
 | 2026 | HB1659 | Ron Dunn | Ron Dunn (R), Kristine Perez (R), John Suiter (R) |
 | 2026 | HB1668 | Jason Osborne | Jason Osborne (R), Keith Ammon (R), Mike Drago (R), Brian Labrie (R), Jeanine Notter (R), Joe Sweeney (R) |
 | 2026 | HB1674 | Ellen Read | Ellen Read (D), Heath Howard (D), Jonah Wheeler (D) |
@@ -418,7 +444,9 @@ Cross-party sponsor teams appeared on **40** policy bills (both major parties am
 | 2026 | HB1799 | Dick Ames | Dick Ames (D), Susan Almy (D), Debra Altschiller (D), Patricia Cornell (D), Hope Damon (D), Donovan Fenton (D), David Luneau (D), Thomas Oppel (D), +2 more |
 | 2026 | HB1800 | Walter Spilsbury | Walter Spilsbury (R), Dan McGuire (R), Raymond Peeples (R), Marjorie Smith (D) |
 | 2026 | HB1803 | Sallie Fellows | Sallie Fellows (D), Patricia Cornell (D), Hope Damon (D), Donovan Fenton (D), Mary Hakken-Phillips (D), David Luneau (D), Megan Murray (D), Kate Murray (D) |
+| 2026 | HB1804 | Dan McGuire | Dan McGuire (R), Margaret Drye (R), Jim Kofalt (R), Erica Layon (R), Keith Murphy (R), Jason Osborne (R), Sherman Packard (R), Diane Pauer (R), +3 more |
 | 2026 | HB1807 | Katy Peternel | Katy Peternel (R), Kevin Avard (R), JD Bernardy (R), Ross Berry (R), Riché Colcombe (R), Sayra DeVito (R), Mike Drago (R), Timothy Lang (R), +3 more |
+| 2026 | HB1818 | Rick Ladd | Rick Ladd (R) |
 | 2026 | HB1823 | Hope Damon | Hope Damon (D), Tracy Bricchi (D), Eleana  Colby (D), Sallie Fellows (D), Dale Girard (R), David Luneau (D), Raymond Peeples (R) |
 | 2026 | HB1826 | Rick Ladd | Rick Ladd (R) |
 | 2026 | HB1831 | Suzanne Chretien | Suzanne Chretien (D), Patricia Cornell (D), Hope Damon (D), Erin Kerwin (D), Pat Long (D) |
@@ -429,6 +457,7 @@ Cross-party sponsor teams appeared on **40** policy bills (both major parties am
 | 2026 | HB491 | Walter Spilsbury | Walter Spilsbury (R) |
 | 2026 | HB563 | Rick Ladd | Rick Ladd (R), Glenn Cordelli (R), Patricia Cornell (D), Margaret Drye (R), Peter Leishman (D), Steven Smith (R), Walter Spilsbury (R), Ruth Ward (R) |
 | 2026 | HB585 | John Janigian | John Janigian (R), Daryl Abbas (R), Mark Pearson (R), Kenneth Weyler (R) |
+| 2026 | HB635 | Travis Corcoran | Travis Corcoran (R) |
 | 2026 | HB651 | David Luneau | David Luneau (D) |
 | 2026 | HB660 | Bill Ohm | Bill Ohm (R), Susan Almy (D), Sanjeev Manohar (D) |
 | 2026 | HB728 | Fred Doucette | Fred Doucette (R) |
@@ -438,11 +467,13 @@ Cross-party sponsor teams appeared on **40** policy bills (both major parties am
 | 2026 | SB220 | Daryl Abbas | Daryl Abbas (R) |
 | 2026 | SB404 | James Gray | James Gray (R) |
 | 2026 | SB485 | Timothy Lang | Timothy Lang (R), Regina Birdsell (R), John Hunt (R), Daniel Innis (R), Keith Murphy (R), Howard Pearl (r), David Watters (D) |
+| 2026 | SB489 | Kevin Avard | Kevin Avard (R), Liz Barbour (R), Shane Sirois (R) |
 | 2026 | SB513 | Daryl Abbas | Daryl Abbas (R), Kevin Avard (R), Tanya Donnelly (R), Daniel Innis (R), John Janigian (R), Pat Long (D), Dennis Mannion (R), Mark McConkey (R), +4 more |
 | 2026 | SB514 | Keith Murphy | Keith Murphy (R), Kevin Avard (R), Sharon Carson (R), Daniel Innis (R), Tim McGough (R), Victoria Sullivan (R) |
 | 2026 | SB582 | Debra Altschiller | Debra Altschiller (D), Peggy Balboni (D), Donovan Fenton (D), Pat Long (D), Zoe Manos (D), Rebecca Perkins Kwoka (D), Suzanne Prentiss (D), Cindy Rosenwald (D), +1 more |
 | 2026 | SB583 | Timothy Lang | Timothy Lang (R), Kevin Avard (R), Sharon Carson (R), Jess Edwards (R), Bill Gannon (R), Daniel Innis (R), Pat Long (D), Mark McConkey (R), +7 more |
 | 2026 | SB600 | James Gray | James Gray (R), Cindy Rosenwald (D) |
+| 2026 | SB634 | Suzanne Prentiss | Suzanne Prentiss (D), Debra Altschiller (D), Donovan Fenton (D), Pat Long (D), Rebecca Perkins Kwoka (D), Cindy Rosenwald (D), David Watters (D) |
 | 2026 | SB635 | Denise Ricciardi | Denise Ricciardi (R), Daryl Abbas (R), Kevin Avard (R), Katelyn Kuttab (R), Brian Labrie (R), Tim McGough (R), Julie Miles (R), Mary Murphy (R), +3 more |
 | 2026 | SB636 | Donovan Fenton | Donovan Fenton (D), Debra Altschiller (D), Anita Burroughs (D), Pat Long (D), Rebecca Perkins Kwoka (D), Suzanne Prentiss (D), Cindy Rosenwald (D), David Watters (D) |
 | 2026 | SB637 | Rebecca Perkins Kwoka | Rebecca Perkins Kwoka (D), Debra Altschiller (D), Peter Bixby (D), Donovan Fenton (D), Nicholas Germana (D), Linda Haskins (D), Daniel Innis (R), Pat Long (D), +4 more |

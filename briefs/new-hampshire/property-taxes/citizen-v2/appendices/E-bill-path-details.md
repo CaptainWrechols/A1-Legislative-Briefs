@@ -309,54 +309,71 @@ The end of each policy bill's path, from official dockets (the state database fo
 | 2025 | HB123 | became law (Chapter 164) |
 | 2025 | HB135 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB137 | killed on the House floor (Inexpedient to Legislate) |
+| 2025 | HB138 | became law (Chapter 144) |
 | 2025 | HB147 | laid on the table in the House; never taken back up |
 | 2025 | HB200 | became law (Chapter 170) |
 | 2025 | HB237 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB255 | killed on the House floor (Inexpedient to Legislate) |
+| 2025 | HB268 | became law (Chapter 76) |
 | 2025 | HB282 | became law (Chapter 142) |
 | 2025 | HB283 | killed on the House floor (Inexpedient to Legislate) |
+| 2025 | HB284 | killed on the Senate floor (Inexpedient to Legislate) |
+| 2025 | HB290 | indefinitely postponed by the House |
 | 2025 | HB318 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB374 | became law (Chapter 183) |
 | 2025 | HB394 | became law (Chapter 128) |
+| 2025 | HB421 | died in a committee of conference (no agreed report) |
+| 2025 | HB425 | laid on the table in the House; never taken back up |
 | 2025 | HB426 | became law (Chapter 30) |
 | 2025 | HB447 | killed on the House floor (Inexpedient to Legislate) |
+| 2025 | HB450 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB483 | laid on the table in the House; never taken back up |
+| 2025 | HB495 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB502 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB503 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB515 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB527 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB530 | laid on the table in the House; never taken back up |
 | 2025 | HB531 | killed on the House floor (Inexpedient to Legislate) |
+| 2025 | HB544 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB550 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB588 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB591 | became law (Chapter 198) |
 | 2025 | HB596 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB603 | killed on the House floor (Inexpedient to Legislate) |
+| 2025 | HB625 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB669 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB675 | killed on the House floor (Inexpedient to Legislate; reconsideration failed) |
+| 2025 | HB688 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB689 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB696 | became law (Chapter 206) |
 | 2025 | HB737 | became law (Chapter 288) |
 | 2025 | HB746 | killed on the House floor (Inexpedient to Legislate) |
+| 2025 | HB765 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB766 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB769 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB782 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | HB99 | became law (Chapter 15) |
 | 2025 | HR17 | laid on the table in the House; never taken back up |
+| 2025 | SB105 | became law (Chapter 131) |
 | 2025 | SB168 | killed at the Senate's end-of-year deadline (Senate Rule 3-23) |
 | 2025 | SB173 | became law (Chapter 120) |
 | 2025 | SB20 | killed at the Senate's end-of-year deadline (Senate Rule 3-23) |
 | 2025 | SB209 | Senate refused to accept the other chamber's changes; no conference |
 | 2025 | SB217 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | SB224 | killed on the Senate floor (Inexpedient to Legislate) |
+| 2025 | SB225 | killed on the House floor (Inexpedient to Legislate) |
 | 2025 | SB275 | killed on the Senate floor (Inexpedient to Legislate) |
 | 2025 | SB276 | killed at the Senate's end-of-year deadline (Senate Rule 3-23) |
 | 2025 | SB277 | killed at the Senate's end-of-year deadline (Senate Rule 3-23) |
 | 2025 | SB291 | became law (Chapter 303) |
+| 2025 | SB4 | became law (Chapter 1) |
 | 2025 | SB46 | killed on the Senate floor (Inexpedient to Legislate) |
 | 2025 | SB55 | killed on the Senate floor (Inexpedient to Legislate) |
 | 2025 | SB81 | killed at the Senate's end-of-year deadline (Senate Rule 3-23) |
 | 2025 | SB83 | became law (Chapter 16) |
+| 2026 | CACR10 | failed to reach the three-fifths vote a constitutional amendment needs in the House |
+| 2026 | CACR12 | failed to reach the three-fifths vote a constitutional amendment needs in the House |
 | 2026 | CACR18 | failed to reach the three-fifths vote a constitutional amendment needs in the House |
 | 2026 | HB1002 | laid on the table in the House; never taken back up |
 | 2026 | HB1021 | became law (Chapter 207) |
@@ -372,16 +389,20 @@ The end of each policy bill's path, from official dockets (the state database fo
 | 2026 | HB1227 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1230 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1278 | killed on the House floor (Inexpedient to Legislate) |
+| 2026 | HB1288 | sent to interim study by the House |
+| 2026 | HB1293 | sent to interim study by the House |
 | 2026 | HB1296 | killed on the Senate floor (Inexpedient to Legislate) |
 | 2026 | HB1300 | became law (Chapter 324) |
 | 2026 | HB1324 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1331 | became law (Chapter 165) |
 | 2026 | HB1374 | became law (Chapter 303) |
+| 2026 | HB1380 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1383 | House committee recommended Inexpedient to Legislate; no final floor action recorded in the docket |
 | 2026 | HB1385 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1399 | House committee recommended Inexpedient to Legislate; no final floor action recorded in the docket |
 | 2026 | HB1400 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1409 | laid on the table in the House; never taken back up |
+| 2026 | HB1417 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1420 | sent to interim study by the House |
 | 2026 | HB1433 | became law (Chapter 227) |
 | 2026 | HB1434 | House committee recommended Inexpedient to Legislate; no final floor action recorded in the docket |
@@ -398,6 +419,9 @@ The end of each policy bill's path, from official dockets (the state database fo
 | 2026 | HB1565 | vetoed (no override action recorded as of collection) |
 | 2026 | HB1579 | sent to interim study by the House |
 | 2026 | HB1580 | killed on the House floor (Inexpedient to Legislate) |
+| 2026 | HB1581 | sent to interim study by the Senate |
+| 2026 | HB1583 | killed on the House floor (Inexpedient to Legislate) |
+| 2026 | HB1596 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1597 | laid on the table in the Senate; never taken back up |
 | 2026 | HB1629 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1636 | killed on the House floor (Inexpedient to Legislate) |
@@ -405,6 +429,8 @@ The end of each policy bill's path, from official dockets (the state database fo
 | 2026 | HB1646 | sent to interim study by the House |
 | 2026 | HB1647 | sent to interim study by the House |
 | 2026 | HB1648 | sent to interim study by the House |
+| 2026 | HB1649 | killed on the House floor (Inexpedient to Legislate) |
+| 2026 | HB1654 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1659 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1668 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1674 | killed on the House floor (Inexpedient to Legislate) |
@@ -418,7 +444,9 @@ The end of each policy bill's path, from official dockets (the state database fo
 | 2026 | HB1799 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1800 | sent to interim study by the House |
 | 2026 | HB1803 | killed on the House floor (Inexpedient to Legislate) |
+| 2026 | HB1804 | sent to interim study by the House |
 | 2026 | HB1807 | became law (Chapter 312) |
+| 2026 | HB1818 | laid on the table in the Senate; never taken back up |
 | 2026 | HB1823 | House committee recommended Inexpedient to Legislate; no final floor action recorded in the docket |
 | 2026 | HB1826 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB1831 | laid on the table in the House; never taken back up |
@@ -429,6 +457,7 @@ The end of each policy bill's path, from official dockets (the state database fo
 | 2026 | HB491 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB563 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB585 | killed on the House floor (Inexpedient to Legislate) |
+| 2026 | HB635 | sent to interim study by the House |
 | 2026 | HB651 | killed on the House floor (Inexpedient to Legislate) |
 | 2026 | HB660 | sent to interim study by the House |
 | 2026 | HB728 | killed on the House floor (Inexpedient to Legislate) |
@@ -438,11 +467,13 @@ The end of each policy bill's path, from official dockets (the state database fo
 | 2026 | SB220 | killed on the Senate floor (Inexpedient to Legislate) |
 | 2026 | SB404 | laid on the table in the Senate; never taken back up |
 | 2026 | SB485 | sent to interim study by the Senate |
+| 2026 | SB489 | became law (Chapter 64) |
 | 2026 | SB513 | Senate refused to accept the other chamber's changes; no conference |
 | 2026 | SB514 | sent to interim study by the Senate |
 | 2026 | SB582 | killed on the Senate floor (Inexpedient to Legislate) |
 | 2026 | SB583 | laid on the table in the Senate; never taken back up |
 | 2026 | SB600 | became law (Chapter 141) |
+| 2026 | SB634 | killed on the Senate floor (Inexpedient to Legislate) |
 | 2026 | SB635 | laid on the table in the Senate; never taken back up |
 | 2026 | SB636 | killed on the Senate floor (Inexpedient to Legislate) |
 | 2026 | SB637 | sent to interim study by the Senate |

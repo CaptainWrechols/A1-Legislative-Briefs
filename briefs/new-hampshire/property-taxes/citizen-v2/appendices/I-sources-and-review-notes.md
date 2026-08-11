@@ -18,7 +18,7 @@ citizen-facing brief.
 
 | Brief claim | Source |
 |---|---|
-| 445 tax/revenue bills; 96 became law; 285 killed; 27 laws in 2025–2026 | S5 counts over S1/S4 (discovery, dockets) — `evidence-pack.json` inventory |
+| 476 tax/revenue bills; 101 became law; 306 killed; 32 laws in 2025–2026 | S5 counts over S1/S4 (discovery, dockets) — `evidence-pack.json` inventory |
 | 35 core tax/revenue sections in the last three trailers; rate figures (BPT 7.7→7.6→7.5, BET 0.675→0.55, M&R 9→8.5, I&D phase-out and 1/1/2025 repeal, 41%→39% trust-fund shares, $100M SWEPT cut, VLT 31% state take) | S2/S3 HB2 texts — curated in `hb2-sections.json`; Appendix H |
 | HB2 2025 passed the House 184–183; HB2 2021 House 198–181, Senate 14–10; HB2 2023 House concur 326–53 | S1 roll calls (`hb2/{year}/hb2-votes.json`) |
 | HB242 (2021) House 198–149, Senate 13–9, override failed 165–182 | S1 roll calls |
@@ -33,13 +33,13 @@ citizen-facing brief.
 | HB1807 (2026) House 185–150, Chapter 312; SB600 Chapter 141; HB1300, HB1331 (193–157), HB1374 (CofC 179–161) chapters | S1 roll calls + dockets |
 | SB83 (2025) Chapter 16 (2026); exemption-reimbursement fund + VLT funding | S1 docket + `legislationtext`; HB2 2025 141:26 for the VLT authorization |
 | Homestead-exemption tries: HB1387 (2022) killed, HB1034 (2024) interim study, HB1648 (2026) interim study | S4/S1 dockets |
-| Never-filed claims (I&D restoration; consolidation incentives) | S5 `certification-report.json` — full-universe sweep, 2020–2024, plus complete 2025–2026 SQL discovery |
+| Never-filed claims (I&D restoration; consolidation incentives) | S5 `certification-report.json` (2020–2024 bulk sweep) and `certification-current.json` (2025–2026: the identical wide net over all 2,234 titles in the official SQL legislation table, every candidate human-reviewed) |
 | Vetoes (HB242 2021; SB63 2023; HB1102, HB1565 2026) | S1/S4 dockets ("Vetoed by Governor") |
 | 27 laws of 2025–2026 listed in "Already law" | S1 dockets ("Signed by Governor ... Chapter N") |
 | Sponsor counts and 40 cross-party bills | S1 sponsors (2025–2026) + S4 bulk sponsorships (2020–2024) — `evidence-pack.json` people signals |
 | Federal overlap statements (SALT deduction, IDEA/Title I, Wayfair, federal corporate tax, wire/horseracing law) | Descriptive statements of federal law; the NH bills cited (HCR10 2024, HB1097 2022, HB114/HB265 2020, HB1668 2026, SB484 2020) are in the pack |
 
-## Completeness certification (2020–2024)
+## Completeness certification (2020–2024 and 2025–2026)
 
 The five OpenStates bulk session archives are complete mirrors of the official
 docket: 5,467 bills. `working/.../certify-universe.py` verified that (1) every
@@ -54,6 +54,13 @@ assessments, right-to-know exemptions, and similar) recorded in
 `working/.../certification-report.json` and summarized in
 `certification-report.md`. A 2020–2024 tax or revenue bill could be absent
 from this record only if its title avoids that entire vocabulary.
+
+The same net was then applied to the complete current biennium
+(`certify-current-biennium.py`): all 2,234 bills in the official SQL
+legislation table for 2025–2026 were swept, 31 real misses were added
+(`supplement:universe-certification-current` — including two missed laws in
+the transparency and budget-cap threads, HB138 and SB105) and 86 candidates
+were excluded with per-bill categories (`certification-current.json` / `.md`).
 
 ## Collection notes
 
@@ -74,9 +81,10 @@ from this record only if its title avoids that entire vocabulary.
   (170–185), and the brief labels it as such.
 - Every reality-map claim was verified programmatically against the evidence
   pack (`fact-check-reality-map.py`; run passes). The brief was scanned
-  programmatically (`scan-lege-brief.py`): no advice language, all 85 cited
-  bills exist in the pack, every vote pair matches the official record (one
-  documented division-vote exception).
+  programmatically (`scan-lege-brief.py`): no advice language, all 99 cited
+  bills exist in the pack, every vote pair matches the official record (two
+  documented docket-tally exceptions: HB675's 170–185 division vote and
+  HB765's 18–0 recorded committee vote, both labeled as such).
 - The strict completeness checker verdict was PASS_WITH_WARNINGS (three
   search terms with no NH hits: `revaluation`, `tax deferral`, `excise` —
   kept for future sessions and documented).

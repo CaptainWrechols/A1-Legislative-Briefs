@@ -10,7 +10,7 @@
     2025,
     2026
   ],
-  "coverage_caveat": "Discovery is certified against the complete OpenStates bulk universe for 2020-2024 (5,467 bills; every title swept with a wide-net tax/revenue vocabulary and every candidate human-reviewed - see certification-report.json) and against the official state database for 2025-2026. Biennium-spanning bills are counted once, in their decision year. Party labels exist for 2025-2026 sponsors and for roll-call ballots; 2020-2024 sponsor party labels are absent, so cross-party counts understate.",
+  "coverage_caveat": "Discovery is certified against the complete OpenStates bulk universe for 2020-2024 (5,467 bills; every title swept with a wide-net tax/revenue vocabulary and every candidate human-reviewed - see certification-report.json) and against the official state database for 2025-2026 (the identical wide net swept all 2,234 current-biennium titles; see certification-current.json). Biennium-spanning bills are counted once, in their decision year. Party labels exist for 2025-2026 sponsors and for roll-call ballots; 2020-2024 sponsor party labels are absent, so cross-party counts understate.",
   "session_snapshot": {
     "2020": {
       "in_set": 73,
@@ -45,22 +45,22 @@
       "passed": 1
     },
     "2025": {
-      "in_set": 52,
-      "killed": 39,
-      "enacted": 13
+      "in_set": 67,
+      "killed": 50,
+      "enacted": 17
     },
     "2026": {
-      "in_set": 92,
-      "killed": 58,
-      "enacted": 14,
-      "interim_study": 18,
+      "in_set": 108,
+      "killed": 68,
+      "enacted": 15,
+      "interim_study": 23,
       "vetoed": 2
     }
   },
   "theme_scorecards": [
     {
       "theme": "Property tax relief: exemptions, credits, and deferrals",
-      "bills": 75,
+      "bills": 80,
       "enacted": 16,
       "basket": "unfinished",
       "certainty": "high",
@@ -76,11 +76,11 @@
     },
     {
       "theme": "Assessment, abatement, and property tax administration",
-      "bills": 35,
-      "enacted": 17,
+      "bills": 45,
+      "enacted": 20,
       "basket": "mixed",
       "certainty": "high",
-      "note": "Administration moves quietly and often: the equalization-rate study (HB411 2021), the assessing certification board (HB1552 2022), the equalization manual in rules (HB285 2023), abatement rules (HB202 2024), abatement interest (SB317 2022), and LIHTC assessment (SB173 2025) all became law. Transparency bills aimed at taxpayers rather than assessors fare worse: more information on tax bills (SB252 2022) and public notice of tax impacts (SB217 2025) were killed - until HB1807 (2026) put tax-impact information on warrant articles.",
+      "note": "Administration moves quietly and often: the equalization-rate study (HB411 2021), the assessing certification board (HB1552 2022), the equalization manual in rules (HB285 2023), abatement rules (HB202 2024), abatement interest (SB317 2022), and LIHTC assessment (SB173 2025) all became law. Transparency bills aimed at taxpayers rather than assessors fare worse: more information on tax bills (SB252 2022), tax-change breakdowns (HB495 2025), revaluation notice (SB225 2025), and public notice of tax impacts (SB217 2025) were killed, and HB284 (2025) passed the House 198-160 before dying in the Senate - until HB138 (2025) put multi-year tax-impact notation on warrant articles and HB1807 (2026) extended it. Structural rewrites of assessment itself (cost-based value, HB1380 2026; the land value tax, HB1417 2026) died on the House floor.",
       "example_bills": [
         "2020:HB1311",
         "2020:HB1421",
@@ -140,7 +140,7 @@
     },
     {
       "theme": "Meals and rooms, gaming, and other existing revenue streams",
-      "bills": 58,
+      "bills": 60,
       "enacted": 13,
       "basket": "mixed",
       "certainty": "high",
@@ -156,11 +156,11 @@
     },
     {
       "theme": "New or broad-based taxes and constitutional tax limits",
-      "bills": 21,
+      "bills": 23,
       "enacted": 1,
       "basket": "rarely_moved",
       "certainty": "high",
-      "note": "Nothing on this front passed in seven years, in either direction. New-tax bills died fast (the electronics tax HB1492 2020, killed 320-11; the vacancy tax HB1707 2026; the luxury second-home assessment HB1786 2026, tabled 189-158). So did every constitutional ban: the income-tax ban (CACR1 2021) won a majority 202-171 but fell short of three-fifths, as did the sales-tax ban (CACR2 2021) and the two-thirds-for-new-taxes amendment (CACR15 2024, failed 183-185). Even studying revenue options was killed on the floor twice in 2026 (HB1636, 284-76; HB491, 195-157).",
+      "note": "Nothing on this front passed in seven years, in either direction. New-tax bills died fast (the electronics tax HB1492 2020, killed 320-11; the vacancy tax HB1707 2026; the luxury second-home assessment HB1786 2026, tabled 189-158). So did every constitutional ban: the income-tax ban (CACR1 2021) won a majority 202-171 but fell short of three-fifths, as did the sales-tax ban (CACR2 2021) the two-thirds-for-new-taxes amendment (CACR15 2024, failed 183-185), and the 2026 tax-law-adoption amendments (CACR10, 194-158; CACR12, 193-148 after passing the Senate 16-8 - majorities, not three-fifths). Even studying revenue options was killed on the floor twice in 2026 (HB1636, 284-76; HB491, 195-157).",
       "example_bills": [
         "2020:CACR17",
         "2020:HB114",
@@ -172,11 +172,11 @@
     },
     {
       "theme": "Municipal revenue, state aid, and state budget mechanics",
-      "bills": 36,
-      "enacted": 7,
+      "bills": 43,
+      "enacted": 8,
       "basket": "unfinished",
       "certainty": "high",
-      "note": "The one big win rode a trailer: HB2 2021 created the meals-and-rooms municipal revenue fund after SB99 (2021) passed the Senate 24-0 and died on the table. The retirement-contribution state share - towns' most-filed ask - failed in every form except HB1221's one-time 7.5 percent payment (2022): HB1417 (2022) passed both chambers' floors and died at the Senate deadline, SB114 (2023) passed 23-0 then sat on the table, SB20 (2025) passed 23-0 and died at the deadline, and HB197 (2026) was killed 172-159. Local-option revenue died every time (occupancy fees 2020, 2022, 2023, 2024), and revenue sharing went from suspended (every budget) to repealed outright (HB2 2025).",
+      "note": "The one big win rode a trailer: HB2 2021 created the meals-and-rooms municipal revenue fund after SB99 (2021) passed the Senate 24-0 and died on the table. The retirement-contribution state share - towns' most-filed ask - failed in every form except HB1221's one-time 7.5 percent payment (2022): HB1417 (2022) passed both chambers' floors and died at the Senate deadline, SB114 (2023) passed 23-0 then sat on the table, SB20 (2025) passed 23-0 and died at the deadline, and HB197 (2026) was killed 172-159. Local-option revenue died every time (occupancy fees and room assessments in 2020, 2022, 2023, 2024, 2025, and 2026; the gaming-facility enterprise-value tax HB688 2025), and revenue sharing went from suspended (every budget) to repealed outright (HB2 2025).",
       "example_bills": [
         "2020:HB1160",
         "2020:HB352",
@@ -204,11 +204,11 @@
     },
     {
       "theme": "School district and municipal consolidation or cooperation",
-      "bills": 15,
+      "bills": 18,
       "enacted": 5,
       "basket": "often_moved",
       "certainty": "medium",
-      "note": "The legislature is active here - but in the opposite direction from the constituent proposal. What passed makes it easier to leave or absorb districts: withdrawal procedure laws (HB530 2023, HB1374 2026), Derry's absorption of its cooperative district (HB1331 2026), and cost-apportionment rules (HB152 2021). No bill in the certified record proposes state incentives for consolidating services or regionalizing; the closest activity is unilateral-withdrawal expansion (HB1644 2026, interim study).",
+      "note": "The legislature is active here - but in the opposite direction from the constituent proposal. What passed makes it easier to leave or absorb districts: withdrawal procedure laws (HB530 2023, HB1374 2026), Derry's absorption of its cooperative district (HB1331 2026), and cost-apportionment rules (HB152 2021). No bill in the certified record proposes state incentives for consolidating services or regionalizing. Consolidation MANDATES were filed and failed: consolidating school administrative units died in 2025 (HB765, unanimous ITL committee report) and sits in interim study in 2026 (HB1804), and the school-building consolidation planning bill (HB1818 2026) died on the Senate table. The other active thread is unilateral-withdrawal expansion (HB1644 2026, interim study).",
       "example_bills": [
         "2021:HB152",
         "2022:HB1366",
@@ -220,11 +220,11 @@
     },
     {
       "theme": "Tax caps and local budget limits",
-      "bills": 19,
-      "enacted": 6,
+      "bills": 21,
+      "enacted": 7,
       "basket": "often_moved",
       "certainty": "high",
-      "note": "A live, moving front: tax-cap laws passed in 2021 (SB52), 2024 (HB1105, SB383), 2025 (HB200, HB374), and 2026 (HB1300, which puts school-district tax cap questions on the 2026 and 2028 state ballots). Override-procedure fights cut both ways, and loosening bills (HB1278, HB1528, HB1383, all 2026) died while the cap-tightening side kept winning.",
+      "note": "A live, moving front: tax-cap and budget-cap laws passed in 2021 (SB52), 2024 (HB1105, SB383), 2025 (HB200, HB374, and SB105 - town budget caps), and 2026 (HB1300, which puts school-district tax cap questions on the 2026 and 2028 state ballots). Override-procedure fights cut both ways, and loosening bills (HB1278, HB1528, HB1383, all 2026) died while the cap-tightening side kept winning.",
       "example_bills": [
         "2021:CACR9",
         "2021:SB52",
@@ -274,7 +274,7 @@
       "tried": "Yes, repeatedly - and killed every time; the one new revenue source that passed is gambling machines inside the 2025 budget trailer.",
       "where_it_died": "The House floor, overwhelmingly; even study bills die there.",
       "venue": "House Ways and Means; budget trailers for what actually passes.",
-      "narrative": "New-tax bills lose big: the electronics tax to fund education (HB1492 2020) was killed 320-11, the e-cigarette tax (HB1699 2020) passed one House vote 172-142 and died on the table, marijuana taxation went to interim study (HB722 2020), hemp taxation likewise (SB485 2026), and the vacancy tax (HB1707 2026) died. Even studying revenue options was killed on the floor in 2026 - HB1636 (a DRA revenue-options study) 284-76 and HB491 (alternative education funding) 195-157. The constitutional bans meant to lock the door also failed: the income-tax ban (CACR1 2021) drew a 202-171 majority but fell short of three-fifths, the sales-tax ban (CACR2 2021) fell the same way at 201-170, and CACR15 (2024, two-thirds for new taxes) failed 183-185. What actually diversified revenue was gambling: video lottery terminals arrived inside HB2 2025 (31 percent state take), while online-gambling bills (SB104 2023; SB168 2025) died in the Senate.",
+      "narrative": "New-tax bills lose big: the electronics tax to fund education (HB1492 2020) was killed 320-11, the e-cigarette tax (HB1699 2020) passed one House vote 172-142 and died on the table, marijuana taxation went to interim study (HB722 2020), hemp taxation likewise (SB485 2026), and the vacancy tax (HB1707 2026) died. Even studying revenue options was killed on the floor in 2026 - HB1636 (a DRA revenue-options study) 284-76 and HB491 (alternative education funding) 195-157. The constitutional bans meant to lock the door also failed: the income-tax ban (CACR1 2021) drew a 202-171 majority but fell short of three-fifths, the sales-tax ban (CACR2 2021) fell the same way at 201-170, CACR15 (2024, two-thirds for new taxes) failed 183-185, and the 2026 tax-law-adoption amendments repeated the pattern (CACR10 at 194-158; CACR12 at 193-148 after passing the Senate 16-8). Both tobacco-tax raises also died (HB290 2025; HB1596 2026, killed 200-157). What actually diversified revenue was gambling: video lottery terminals arrived inside HB2 2025 (31 percent state take), while online-gambling bills (SB104 2023; SB168 2025) died in the Senate.",
       "claims": [
         {
           "bill_key": "2020:HB1492",
@@ -365,6 +365,40 @@
         {
           "bill_key": "2025:SB168",
           "disposition": "killed"
+        },
+        {
+          "bill_key": "2025:HB290",
+          "disposition": "killed"
+        },
+        {
+          "bill_key": "2026:HB1596",
+          "disposition": "killed",
+          "vote": {
+            "body": "House",
+            "motion_contains": "ITL",
+            "yeas": 200,
+            "nays": 157
+          }
+        },
+        {
+          "bill_key": "2026:CACR10",
+          "disposition": "killed",
+          "vote": {
+            "body": "House",
+            "motion_contains": "OTPA",
+            "yeas": 194,
+            "nays": 158
+          }
+        },
+        {
+          "bill_key": "2026:CACR12",
+          "disposition": "killed",
+          "vote": {
+            "body": "House",
+            "motion_contains": "OTPA",
+            "yeas": 193,
+            "nays": 148
+          }
         }
       ]
     },
@@ -483,6 +517,14 @@
           "disposition": "killed"
         },
         {
+          "bill_key": "2026:HB1417",
+          "disposition": "killed"
+        },
+        {
+          "bill_key": "2026:HB1380",
+          "disposition": "killed"
+        },
+        {
           "bill_key": "2025:SB83",
           "disposition": "enacted"
         }
@@ -491,10 +533,10 @@
     {
       "id": "regionalization-consolidation",
       "proposal": "Increase regionalization / consolidate services",
-      "tried": "Not as proposed. No bill offers incentives to consolidate; the active legislation runs the other way - making it easier to leave cooperative districts.",
-      "where_it_died": "Never filed (certified against the full 2020-2024 universe and the 2025-2026 database).",
-      "venue": "House Education (cooperative school district statutes, RSA 195).",
-      "narrative": "The certified record contains no bill offering state incentives for towns or districts to consolidate services. The cooperative-district legislation that moves is about separation and control: withdrawal procedures passed in 2023 (HB530) and again in 2026 (HB1374, House 179-161 on the conference report); Derry absorbed its cooperative school district by charter amendment (HB1331 2026, House 193-157); unilateral withdrawal went to interim study (HB1644 2026); and dissolution-of-cooperatives went to interim study in 2022 (HB1679). The one clearly pro-cooperation law is HB152 (2021), which rewrote how cooperative districts apportion costs among member towns - a fairness fix, not an incentive.",
+      "tried": "Consolidation mandates for school administrative units, yes - both failed; consolidation INCENTIVES, never. Most of the active legislation runs the other way, easing exits from cooperative districts.",
+      "where_it_died": "The mandates died in House Education (HB765 2025, after a unanimous 18-0 ITL committee report; HB1804 2026, interim study); the incentives version was never filed (certified against the full 2020-2024 universe and the 2025-2026 database).",
+      "venue": "House Education (cooperative school district and school administrative unit statutes).",
+      "narrative": "The certified record contains no bill offering state incentives for towns or districts to consolidate services. Mandatory consolidation was tried at the school-administrative-unit level and failed: HB765 (2025) drew a unanimous Inexpedient to Legislate committee report and died on a voice vote, its refile HB1804 (2026) sits in interim study, and the school-building consolidation planning bill (HB1818 2026) died on the Senate table. The cooperative-district legislation that moves is about separation and control: withdrawal procedures passed in 2023 (HB530) and again in 2026 (HB1374, House 179-161 on the conference report); Derry absorbed its cooperative school district by charter amendment (HB1331 2026, House 193-157); unilateral withdrawal went to interim study (HB1644 2026); and dissolution-of-cooperatives went to interim study in 2022 (HB1679). The one clearly pro-cooperation law is HB152 (2021), which rewrote how cooperative districts apportion costs among member towns - a fairness fix, not an incentive.",
       "claims": [
         {
           "bill_key": "2021:HB152",
@@ -531,16 +573,28 @@
         {
           "bill_key": "2022:HB1679",
           "disposition": "interim_study"
+        },
+        {
+          "bill_key": "2025:HB765",
+          "disposition": "killed"
+        },
+        {
+          "bill_key": "2026:HB1804",
+          "disposition": "interim_study"
+        },
+        {
+          "bill_key": "2026:HB1818",
+          "disposition": "killed"
         }
       ]
     },
     {
       "id": "legislator-communication",
       "proposal": "Improve communication and public education by legislators",
-      "tried": "Yes, in the tax-transparency form - and 2026 finally produced a law.",
-      "where_it_died": "Both chambers' floors, until 2026.",
+      "tried": "Yes, in the tax-transparency form - and the 2025-2026 biennium finally produced laws.",
+      "where_it_died": "Both chambers' floors, until 2025.",
       "venue": "House and Senate Municipal and County Government; Ways and Means for tax-bill content.",
-      "narrative": "Bills making tax information easier for residents to see kept dying: more information on property tax bills (SB252 2022, killed on the Senate floor 13-10), rebate-program notices on tax bills (HB99 2023), public notice of historic tax rates and project tax impacts (SB217 2025), relief-program awareness (HB782 2025), and the education-funding transparency data system (SB583 2026, tabled). The 2026 session broke the pattern: HB1807 - tax rate and tax impact information on warrant articles - passed the House 185-150 and became law (Chapter 312), and SB600 now requires quarterly public reports on the general and education trust funds (Chapter 141). The pie-charts-and-QR-codes tax bill (HB1516 2026) reached interim study; the municipal funds-received posting bill (SB532 2024) died between the chambers.",
+      "narrative": "Bills making tax information easier for residents to see kept dying: more information on property tax bills (SB252 2022, killed on the Senate floor 13-10), rebate-program notices on tax bills (HB99 2023), tax-change breakdowns mailed with bills (HB495 2025), revaluation notice (SB225 2025), public notice of historic tax rates and project tax impacts (SB217 2025), relief-program awareness (HB782 2025), and the education-funding transparency data system (SB583 2026, tabled); HB284 (2025) - tax impact statements on warrant articles - passed the House 198-160 and was killed on the Senate floor. Its twin broke through the same year: HB138 (2025) put multi-year tax-impact notation on warrant articles into law (Chapter 144), HB1807 (2026) extended it - tax rate and tax impact information on warrant articles, House 185-150, Chapter 312 - and SB600 now requires quarterly public reports on the general and education trust funds (Chapter 141). The pie-charts-and-QR-codes tax bill (HB1516 2026) and value-change notice (HB1581 2026) reached interim study; the municipal funds-received posting bill (SB532 2024) died between the chambers.",
       "claims": [
         {
           "bill_key": "2022:SB252",
@@ -589,6 +643,32 @@
         {
           "bill_key": "2024:SB532",
           "disposition": "killed"
+        },
+        {
+          "bill_key": "2025:HB138",
+          "disposition": "enacted"
+        },
+        {
+          "bill_key": "2025:HB284",
+          "disposition": "killed",
+          "vote": {
+            "body": "House",
+            "motion_contains": "OTPA",
+            "yeas": 198,
+            "nays": 160
+          }
+        },
+        {
+          "bill_key": "2025:HB495",
+          "disposition": "killed"
+        },
+        {
+          "bill_key": "2025:SB225",
+          "disposition": "killed"
+        },
+        {
+          "bill_key": "2026:HB1581",
+          "disposition": "interim_study"
         }
       ]
     },
@@ -654,7 +734,7 @@
       "tried": "Every session; one one-time payment passed, the permanent version never has.",
       "where_it_died": "The Senate table and the Senate's end-of-year deadline, after unanimous or near-unanimous Senate support; the House floor in 2026.",
       "venue": "Senate Finance / House Finance.",
-      "narrative": "Restoring the state share of local employers' retirement contributions is the most-refiled municipal-relief idea in the record: HB497 (2020) died, HB1417 (2022) passed the House 186-159 and the Senate 22-2 before dying at the Senate deadline, SB114 (2023) passed 23-0 and sat on the table, SB20 (2025) passed 23-0 and died at the deadline, and HB197 (2026) was killed 172-159. The one enacted version is HB1221 (2022): a one-time payment equal to 7.5 percent of municipal contributions, attached to a BPT cut. The wider aid picture matches: SB99 (2021, bigger meals-and-rooms share) passed the Senate 24-0 and died on the table months before HB2 2021 rewrote the distribution; SB315 (2022, using those distributions to cut tax rates) died at the deadline; every local-option occupancy fee died (2020, 2022, 2023, 2024); and revenue sharing was repealed outright by HB2 2025 after fifteen years of suspensions.",
+      "narrative": "Restoring the state share of local employers' retirement contributions is the most-refiled municipal-relief idea in the record: HB497 (2020) died, HB1417 (2022) passed the House 186-159 and the Senate 22-2 before dying at the Senate deadline, SB114 (2023) passed 23-0 and sat on the table, SB20 (2025) passed 23-0 and died at the deadline, and HB197 (2026) was killed 172-159. The one enacted version is HB1221 (2022): a one-time payment equal to 7.5 percent of municipal contributions, attached to a BPT cut. The wider aid picture matches: SB99 (2021, bigger meals-and-rooms share) passed the Senate 24-0 and died on the table months before HB2 2021 rewrote the distribution; SB315 (2022, using those distributions to cut tax rates) died at the deadline; the local-option occupancy fee or room assessment died in every one of its six filings (2020, 2022, 2023, 2024, 2025, 2026 - the last killed 15-9 on the Senate floor); and revenue sharing was repealed outright by HB2 2025 after fifteen years of suspensions.",
       "claims": [
         {
           "bill_key": "2020:HB497",
@@ -727,6 +807,20 @@
             "yeas": 195,
             "nays": 171
           }
+        },
+        {
+          "bill_key": "2025:HB544",
+          "disposition": "killed"
+        },
+        {
+          "bill_key": "2026:SB634",
+          "disposition": "killed",
+          "vote": {
+            "body": "Senate",
+            "motion_contains": "Inexpedient",
+            "yeas": 15,
+            "nays": 9
+          }
         }
       ]
     }
@@ -738,6 +832,31 @@
         "bill_key": "2025:SB83",
         "what": "Elderly/disabled/blind/deaf exemption reimbursement fund + video lottery terminals",
         "citation": "became law (Chapter 16)"
+      },
+      {
+        "bill_key": "2025:HB138",
+        "what": "Multi-year tax-impact notation on warrant articles",
+        "citation": "became law (Chapter 144)"
+      },
+      {
+        "bill_key": "2025:SB105",
+        "what": "Town budget caps enabled",
+        "citation": "became law (Chapter 131)"
+      },
+      {
+        "bill_key": "2025:SB4",
+        "what": "C-PACER commercial property assessment districts",
+        "citation": "became law (Chapter 1)"
+      },
+      {
+        "bill_key": "2025:HB268",
+        "what": "Board of tax and land appeals hearings",
+        "citation": "became law (Chapter 76)"
+      },
+      {
+        "bill_key": "2026:SB489",
+        "what": "Board of tax and land appeals appointment process",
+        "citation": "became law (Chapter 64)"
       },
       {
         "bill_key": "2025:HB696",
@@ -953,6 +1072,12 @@
       "outcome": "House refused the other chamber's request for a conference committee"
     },
     {
+      "bill_key": "2025:HB284",
+      "plain_topic": "Would have required tax impact statements on municipal warrant articles; passed the House, killed on the Senate floor.",
+      "vote": "House 198-160 (OTPA)",
+      "outcome": "killed on the Senate floor (Inexpedient to Legislate)"
+    },
+    {
       "bill_key": "2025:HB675",
       "plain_topic": "Would have raised the statewide education property tax and required towns to remit the excess to the state.",
       "vote": "House 190-185 (OTPA)",
@@ -963,6 +1088,18 @@
       "plain_topic": "Would have restored a state share of local employers' retirement system contributions; died at the Senate's deadline.",
       "vote": "Senate 23-0 (Ought to Pass)",
       "outcome": "killed at the Senate's end-of-year deadline (Senate Rule 3-23)"
+    },
+    {
+      "bill_key": "2026:CACR10",
+      "plain_topic": "Constitutional amendment on the adoption of tax laws; won a House majority 194-158 but fell short of three-fifths.",
+      "vote": "House 194-158 (OTPA)",
+      "outcome": "failed to reach the three-fifths vote a constitutional amendment needs in the House"
+    },
+    {
+      "bill_key": "2026:CACR12",
+      "plain_topic": "Constitutional amendment on the adoption of tax laws; its amended version won a House majority 193-148 but fell short of three-fifths.",
+      "vote": "Senate 16-8 (Ought to Pass)",
+      "outcome": "failed to reach the three-fifths vote a constitutional amendment needs in the House"
     },
     {
       "bill_key": "2026:HB1121",
@@ -994,21 +1131,21 @@
       {
         "name": "Timothy Lang",
         "party": "R",
-        "bills": 21
-      },
-      {
-        "name": "Thomas Schamberg",
-        "party": "D",
-        "bills": 12
+        "bills": 22
       },
       {
         "name": "Rick Ladd",
         "party": "R",
-        "bills": 12
+        "bills": 13
       },
       {
         "name": "Diane Pauer",
         "party": "R",
+        "bills": 13
+      },
+      {
+        "name": "Thomas Schamberg",
+        "party": "D",
         "bills": 12
       },
       {
@@ -1042,18 +1179,18 @@
         "bills": 7
       },
       {
-        "name": "Cindy Rosenwald",
-        "party": "D",
-        "bills": 6
+        "name": "Kevin Avard",
+        "party": "R",
+        "bills": 7
       },
       {
-        "name": "Michael Harrington",
+        "name": "Joe Sweeney",
         "party": "R",
-        "bills": 6
+        "bills": 7
       }
     ],
     "cross_party_sponsorship": {
-      "count": 40,
+      "count": 46,
       "note": "Bills whose sponsor list includes both major parties. Party labels exist only for 2025-2026 sponsors, so this understates the true number."
     },
     "chokepoints": [

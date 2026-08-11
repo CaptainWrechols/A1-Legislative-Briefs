@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T15:52:04.873436+00:00",
+  "generated_at": "2026-08-11T17:04:34.303721+00:00",
   "issue": "new-hampshire-02-property-taxes",
   "sessions": [
     2020,
@@ -11,10 +11,10 @@
     2026
   ],
   "inventory": {
-    "collected_total": 530,
-    "policy_set": 445,
-    "core": 209,
-    "adjacent": 236,
+    "collected_total": 561,
+    "policy_set": 476,
+    "core": 229,
+    "adjacent": 247,
     "context_excluded": 50,
     "carryover_duplicates": 36,
     "by_session": {
@@ -23,13 +23,13 @@
       "2022": 66,
       "2023": 42,
       "2024": 80,
-      "2025": 52,
-      "2026": 92
+      "2025": 67,
+      "2026": 108
     },
     "by_disposition": {
-      "killed": 285,
-      "enacted": 96,
-      "interim_study": 58,
+      "killed": 306,
+      "enacted": 101,
+      "interim_study": 63,
       "vetoed": 4,
       "passed": 2
     },
@@ -38,13 +38,13 @@
   "themes": [
     {
       "theme": "Property tax relief: exemptions, credits, and deferrals",
-      "bills": 75,
+      "bills": 80,
       "enacted": 16,
-      "enactment_rate_pct": 21.3,
+      "enactment_rate_pct": 20.0,
       "typical_stop": "killed",
       "stops": {
-        "killed": 53,
-        "interim_study": 5,
+        "killed": 56,
+        "interim_study": 7,
         "vetoed": 1
       },
       "bill_keys": [
@@ -101,8 +101,11 @@
         "2024:SB586",
         "2025:HB101",
         "2025:HB147",
+        "2025:HB421",
+        "2025:HB425",
         "2025:HB426",
         "2025:HB447",
+        "2025:HB625",
         "2025:HB689",
         "2025:HB766",
         "2025:HB782",
@@ -113,6 +116,7 @@
         "2025:SB83",
         "2026:HB1002",
         "2026:HB1103",
+        "2026:HB1293",
         "2026:HB1296",
         "2026:HB1324",
         "2026:HB1400",
@@ -122,18 +126,19 @@
         "2026:HB1659",
         "2026:HB1674",
         "2026:HB1756",
-        "2026:HB585"
+        "2026:HB585",
+        "2026:HB635"
       ]
     },
     {
       "theme": "Assessment, abatement, and property tax administration",
-      "bills": 35,
-      "enacted": 17,
-      "enactment_rate_pct": 48.6,
+      "bills": 45,
+      "enacted": 20,
+      "enactment_rate_pct": 44.4,
       "typical_stop": "killed",
       "stops": {
-        "killed": 15,
-        "interim_study": 3
+        "killed": 21,
+        "interim_study": 4
       },
       "bill_keys": [
         "2020:HB1311",
@@ -163,13 +168,23 @@
         "2024:HB1456",
         "2024:HB1651",
         "2024:HB202",
+        "2025:HB138",
+        "2025:HB268",
+        "2025:HB284",
+        "2025:HB495",
         "2025:HB746",
         "2025:SB173",
         "2025:SB217",
+        "2025:SB225",
         "2026:HB1021",
+        "2026:HB1380",
+        "2026:HB1417",
         "2026:HB1516",
+        "2026:HB1581",
+        "2026:HB1654",
         "2026:HB1807",
         "2026:SB220",
+        "2026:SB489",
         "2026:SB652"
       ]
     },
@@ -379,12 +394,12 @@
     },
     {
       "theme": "Meals and rooms, gaming, and other existing revenue streams",
-      "bills": 58,
+      "bills": 60,
       "enacted": 13,
-      "enactment_rate_pct": 22.4,
+      "enactment_rate_pct": 21.7,
       "typical_stop": "killed",
       "stops": {
-        "killed": 39,
+        "killed": 41,
         "interim_study": 6
       },
       "bill_keys": [
@@ -427,6 +442,7 @@
         "2024:SB454",
         "2024:SB472",
         "2024:SB585",
+        "2025:HB290",
         "2025:HB530",
         "2025:HB531",
         "2025:HB588",
@@ -443,6 +459,7 @@
         "2026:HB1434",
         "2026:HB1480",
         "2026:HB1559",
+        "2026:HB1596",
         "2026:HB417",
         "2026:HB660",
         "2026:HB728"
@@ -450,12 +467,12 @@
     },
     {
       "theme": "New or broad-based taxes and constitutional tax limits",
-      "bills": 21,
+      "bills": 23,
       "enacted": 1,
-      "enactment_rate_pct": 4.8,
+      "enactment_rate_pct": 4.3,
       "typical_stop": "killed",
       "stops": {
-        "killed": 17,
+        "killed": 19,
         "interim_study": 2,
         "passed": 1
       },
@@ -475,6 +492,8 @@
         "2024:CACR15",
         "2024:HB145",
         "2025:HB135",
+        "2026:CACR10",
+        "2026:CACR12",
         "2026:CACR18",
         "2026:HB1230",
         "2026:HB1636",
@@ -485,12 +504,12 @@
     },
     {
       "theme": "Municipal revenue, state aid, and state budget mechanics",
-      "bills": 36,
-      "enacted": 7,
-      "enactment_rate_pct": 19.4,
+      "bills": 43,
+      "enacted": 8,
+      "enactment_rate_pct": 18.6,
       "typical_stop": "killed",
       "stops": {
-        "killed": 28,
+        "killed": 34,
         "interim_study": 1
       },
       "bill_keys": [
@@ -525,11 +544,18 @@
         "2024:HB1279",
         "2024:SB311",
         "2024:SB532",
+        "2025:HB450",
+        "2025:HB544",
+        "2025:HB688",
         "2025:HR17",
         "2025:SB20",
+        "2025:SB4",
         "2026:HB1474",
+        "2026:HB1583",
+        "2026:HB1649",
         "2026:HB197",
-        "2026:SB600"
+        "2026:SB600",
+        "2026:SB634"
       ]
     },
     {
@@ -571,13 +597,13 @@
     },
     {
       "theme": "School district and municipal consolidation or cooperation",
-      "bills": 15,
+      "bills": 18,
       "enacted": 5,
-      "enactment_rate_pct": 33.3,
+      "enactment_rate_pct": 27.8,
       "typical_stop": "interim_study",
       "stops": {
-        "interim_study": 7,
-        "killed": 3
+        "interim_study": 8,
+        "killed": 5
       },
       "bill_keys": [
         "2021:HB152",
@@ -592,20 +618,23 @@
         "2024:HB1493",
         "2024:HB1642",
         "2025:HB394",
+        "2025:HB765",
         "2026:HB1331",
         "2026:HB1374",
-        "2026:HB1644"
+        "2026:HB1644",
+        "2026:HB1804",
+        "2026:HB1818"
       ]
     },
     {
       "theme": "Tax caps and local budget limits",
-      "bills": 19,
-      "enacted": 6,
-      "enactment_rate_pct": 31.6,
+      "bills": 21,
+      "enacted": 7,
+      "enactment_rate_pct": 33.3,
       "typical_stop": "killed",
       "stops": {
         "killed": 11,
-        "interim_study": 2
+        "interim_study": 3
       },
       "bill_keys": [
         "2021:CACR9",
@@ -618,8 +647,10 @@
         "2024:SB383",
         "2025:HB200",
         "2025:HB374",
+        "2025:SB105",
         "2026:HB1227",
         "2026:HB1278",
+        "2026:HB1288",
         "2026:HB1300",
         "2026:HB1383",
         "2026:HB1505",
@@ -782,6 +813,12 @@
       "outcome": "House refused the other chamber's request for a conference committee"
     },
     {
+      "bill_key": "2025:HB284",
+      "plain_topic": "Would have required tax impact statements on municipal warrant articles; passed the House, killed on the Senate floor.",
+      "vote": "House 198-160 (OTPA)",
+      "outcome": "killed on the Senate floor (Inexpedient to Legislate)"
+    },
+    {
       "bill_key": "2025:HB675",
       "plain_topic": "Would have raised the statewide education property tax and required towns to remit the excess to the state.",
       "vote": "House 190-185 (OTPA)",
@@ -792,6 +829,18 @@
       "plain_topic": "Would have restored a state share of local employers' retirement system contributions; died at the Senate's deadline.",
       "vote": "Senate 23-0 (Ought to Pass)",
       "outcome": "killed at the Senate's end-of-year deadline (Senate Rule 3-23)"
+    },
+    {
+      "bill_key": "2026:CACR10",
+      "plain_topic": "Constitutional amendment on the adoption of tax laws; won a House majority 194-158 but fell short of three-fifths.",
+      "vote": "House 194-158 (OTPA)",
+      "outcome": "failed to reach the three-fifths vote a constitutional amendment needs in the House"
+    },
+    {
+      "bill_key": "2026:CACR12",
+      "plain_topic": "Constitutional amendment on the adoption of tax laws; its amended version won a House majority 193-148 but fell short of three-fifths.",
+      "vote": "Senate 16-8 (Ought to Pass)",
+      "outcome": "failed to reach the three-fifths vote a constitutional amendment needs in the House"
     },
     {
       "bill_key": "2026:HB1121",
@@ -819,27 +868,27 @@
     }
   ],
   "people_signals": {
-    "bills_with_sponsor_data": 422,
+    "bills_with_sponsor_data": 453,
     "sponsor_data_note": "Sponsors come from the SQL sponsors table (2025-2026, with party) and the OpenStates bulk sponsorship files (2020-2024, no party labels; first-listed treated as prime where the file carries no flag). Cross-party counts therefore understate the true number.",
     "frequent_primary_sponsors": [
       {
         "name": "Timothy Lang",
         "party": "R",
-        "bills": 21
-      },
-      {
-        "name": "Thomas Schamberg",
-        "party": "D",
-        "bills": 12
+        "bills": 22
       },
       {
         "name": "Rick Ladd",
         "party": "R",
-        "bills": 12
+        "bills": 13
       },
       {
         "name": "Diane Pauer",
         "party": "R",
+        "bills": 13
+      },
+      {
+        "name": "Thomas Schamberg",
+        "party": "D",
         "bills": 12
       },
       {
@@ -873,23 +922,27 @@
         "bills": 7
       },
       {
-        "name": "Cindy Rosenwald",
-        "party": "D",
-        "bills": 6
+        "name": "Kevin Avard",
+        "party": "R",
+        "bills": 7
       },
       {
-        "name": "Michael Harrington",
+        "name": "Joe Sweeney",
         "party": "R",
-        "bills": 6
+        "bills": 7
       }
     ],
     "cross_party_sponsored_bills": [
+      "2025:HB138",
       "2025:HB147",
       "2025:HB282",
       "2025:HB426",
       "2025:HB447",
+      "2025:HB450",
+      "2025:HB544",
       "2025:HB596",
       "2025:HB669",
+      "2025:HB688",
       "2025:HB689",
       "2025:HB696",
       "2025:HB737",
@@ -899,11 +952,13 @@
       "2025:SB275",
       "2025:SB276",
       "2025:SB277",
+      "2025:SB4",
       "2025:SB55",
       "2025:SB81",
       "2026:HB1021",
       "2026:HB1103",
       "2026:HB1296",
+      "2026:HB1380",
       "2026:HB1399",
       "2026:HB1433",
       "2026:HB1434",
@@ -925,7 +980,7 @@
       "2026:SB635",
       "2026:SB637"
     ],
-    "cross_party_count": 40
+    "cross_party_count": 46
   },
   "hb2_crosswalk": {
     "cycles": [
@@ -22795,6 +22850,99 @@
       "best_floor_yes_pct": null
     },
     {
+      "bill_key": "2025:HB138",
+      "session_year": 2025,
+      "identifier": "HB138",
+      "title": "relative to tax impact notation on warrant articles with multi-year tax impacts.",
+      "plain_topic": "Required tax impact notation on warrant articles with multi-year tax impacts (became law).",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 144)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jose Cambrils",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Tony Caplan",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "David Fracht",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Maureen Mooney",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Vanessa Sheehan",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Walter Spilsbury",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Daniel Veilleux",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2025:HB147",
       "session_year": 2025,
       "identifier": "HB147",
@@ -24001,6 +24149,29 @@
       "best_floor_yes_pct": null
     },
     {
+      "bill_key": "2025:HB268",
+      "session_year": 2025,
+      "identifier": "HB268",
+      "title": "relative to hearings before the board of tax and land appeals.",
+      "plain_topic": "Adjusted hearings before the board of tax and land appeals (became law).",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 76)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Bob Lynn",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2025:HB279",
       "session_year": 2025,
       "identifier": "HB279",
@@ -24271,6 +24442,99 @@
         {
           "name": "Dan McGuire",
           "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2025:HB284",
+      "session_year": 2025,
+      "identifier": "HB284",
+      "title": "requiring tax impact statements on municipal warrant articles. ",
+      "plain_topic": "Would have required tax impact statements on municipal warrant articles; passed the House, killed on the Senate floor.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "JD Bernardy",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Pam Brown",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Susan Porcelli",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Kenneth Weyler",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [
+        {
+          "body": "House",
+          "date": "2025-03-27",
+          "motion": "OTPA",
+          "yeas": 198,
+          "nays": 160,
+          "yes_pct": 55.3,
+          "party_split": {
+            "D": {
+              "nay": 157,
+              "yea": 2
+            },
+            "R": {
+              "yea": 196,
+              "nay": 3
+            }
+          }
+        }
+      ],
+      "best_floor_yes_pct": 55.3
+    },
+    {
+      "bill_key": "2025:HB290",
+      "session_year": 2025,
+      "identifier": "HB290",
+      "title": "increasing the taxes on cigarettes and electronic cigarettes and establishing a committee to study taxes on tobacco and other nicotine products.",
+      "plain_topic": "Would have raised cigarette and e-cigarette taxes and studied tobacco and nicotine taxation.",
+      "theme": "Meals and rooms, gaming, and other existing revenue streams",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "indefinitely postponed by the House",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Jerry Stringham",
+          "party": "D",
           "body": "House",
           "prime": true,
           "source": "sql_sponsors"
@@ -24626,6 +24890,164 @@
       "best_floor_yes_pct": null
     },
     {
+      "bill_key": "2025:HB421",
+      "session_year": 2025,
+      "identifier": "HB421",
+      "title": "relative to notice of tax exempt-status filing procedures by town officials or offices.",
+      "plain_topic": "Would have changed notice of tax-exempt-status filing procedures; died in a conference committee.",
+      "theme": "Property tax relief: exemptions, credits, and deferrals",
+      "relevance": "adjacent",
+      "disposition": "killed",
+      "stage": "died in a committee of conference (no agreed report)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Mark Pearson",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jose Cambrils",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Glenn Cordelli",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Debra DeSimone",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "John Janigian",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Wayne MacDonald",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Maureen Mooney",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Paul Terry",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2025:HB425",
+      "session_year": 2025,
+      "identifier": "HB425",
+      "title": "allowing tax-exempt entities to keep their tax-exempt status while renting facilities or property to entities that share their mission.",
+      "plain_topic": "Would have let tax-exempt entities keep their status while renting facilities to mission-aligned entities.",
+      "theme": "Property tax relief: exemptions, credits, and deferrals",
+      "relevance": "adjacent",
+      "disposition": "killed",
+      "stage": "laid on the table in the House; never taken back up",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Mark Pearson",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jose Cambrils",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Glenn Cordelli",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Debra DeSimone",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "John Janigian",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Paul Terry",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2025:HB426",
       "session_year": 2025,
       "identifier": "HB426",
@@ -24804,6 +25226,64 @@
       "best_floor_yes_pct": null
     },
     {
+      "bill_key": "2025:HB450",
+      "session_year": 2025,
+      "identifier": "HB450",
+      "title": "relative to commercial property assessed clean energy and resiliency (C-PACER)",
+      "plain_topic": "Would have adjusted the commercial property assessed clean energy and resiliency (C-PACER) program.",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "adjacent",
+      "disposition": "killed",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Sherman Packard",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "John Hunt",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "David Rochefort",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Alexis Simpson",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Michael Vose",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Kenneth Weyler",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2025:HB483",
       "session_year": 2025,
       "identifier": "HB483",
@@ -24879,6 +25359,57 @@
         },
         {
           "name": "Kristine Perez",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2025:HB495",
+      "session_year": 2025,
+      "identifier": "HB495",
+      "title": "requiring cities and towns to provide a breakdown of tax changes and information on bills sent to residents.",
+      "plain_topic": "Would have required cities and towns to send residents a breakdown of tax changes with their bills.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Ross Berry",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Samuel Farrington",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Joe Sweeney",
           "party": "R",
           "body": "House",
           "prime": false,
@@ -25228,6 +25759,71 @@
           "party": "D",
           "body": "House",
           "prime": true,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2025:HB544",
+      "session_year": 2025,
+      "identifier": "HB544",
+      "title": "relative to an optional local public safety assessment on certain room occupancies.",
+      "plain_topic": "Would have created an optional local public-safety assessment on room occupancies (2025 retry).",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Thomas Buco",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Mark McConkey",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jonathan Smith",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Charlie St. Clair",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Stephen Woodcock",
+          "party": "D",
+          "body": "House",
+          "prime": false,
           "source": "sql_sponsors"
         }
       ],
@@ -25612,6 +26208,36 @@
       "best_floor_yes_pct": 59.7
     },
     {
+      "bill_key": "2025:HB625",
+      "session_year": 2025,
+      "identifier": "HB625",
+      "title": "relative to enabling municipalities to levy payments against non-profits at a percentage of their assessed property values.",
+      "plain_topic": "Would have let municipalities levy payments against non-profits at a share of their assessed property value.",
+      "theme": "Property tax relief: exemptions, credits, and deferrals",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Bill Bolton",
+          "party": "D",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Thomas Schamberg",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2025:HB642",
       "session_year": 2025,
       "identifier": "HB642",
@@ -25894,6 +26520,50 @@
       "best_floor_yes_pct": 50.7
     },
     {
+      "bill_key": "2025:HB688",
+      "session_year": 2025,
+      "identifier": "HB688",
+      "title": "authorizing municipalities to tax charitable gaming facilities based on their enterprise value.",
+      "plain_topic": "Would have let municipalities tax charitable gaming facilities on their enterprise value.",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Bill Ohm",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Susan Almy",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "John Cloutier",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Sanjeev Manohar",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2025:HB689",
       "session_year": 2025,
       "identifier": "HB689",
@@ -26159,6 +26829,85 @@
       "best_floor_yes_pct": null
     },
     {
+      "bill_key": "2025:HB765",
+      "session_year": 2025,
+      "identifier": "HB765",
+      "title": "consolidating school administrative units and making school superintendents jobs an elected position.",
+      "plain_topic": "Would have consolidated school administrative units and made superintendents elected.",
+      "theme": "School district and municipal consolidation or cooperation",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Dan McGuire",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Rich\u00e9 Colcombe",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Glenn Cordelli",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Bob Lynn",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "James Tierney",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Ruth Ward",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Kenneth Weyler",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2025:HB766",
       "session_year": 2025,
       "identifier": "HB766",
@@ -26358,6 +27107,85 @@
       ],
       "roll_calls": [],
       "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2025:SB105",
+      "session_year": 2025,
+      "identifier": "SB105",
+      "title": "enabling towns to adopt budget caps.",
+      "plain_topic": "Enabled towns to adopt budget caps (became law).",
+      "theme": "Tax caps and local budget limits",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 131)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "Senate",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "James Gray",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [
+        {
+          "body": "House",
+          "date": "2025-05-08",
+          "motion": "OTPA",
+          "yeas": 193,
+          "nays": 168,
+          "yes_pct": 53.5,
+          "party_split": {
+            "D": {
+              "nay": 159,
+              "yea": 1
+            },
+            "R": {
+              "yea": 192,
+              "nay": 9
+            }
+          }
+        },
+        {
+          "body": "Senate",
+          "date": "2025-05-15",
+          "motion": "Concur",
+          "yeas": 15,
+          "nays": 8,
+          "yes_pct": 65.2,
+          "party_split": {
+            "D": {
+              "nay": 8
+            },
+            "R": {
+              "yea": 15
+            }
+          }
+        }
+      ],
+      "best_floor_yes_pct": 65.2
     },
     {
       "bill_key": "2025:SB168",
@@ -26851,6 +27679,57 @@
       "best_floor_yes_pct": null
     },
     {
+      "bill_key": "2025:SB225",
+      "session_year": 2025,
+      "identifier": "SB225",
+      "title": "requiring public notice before re-assessment of property values for local tax purposes.",
+      "plain_topic": "Would have required public notice before local property re-assessments; killed in the House.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "Senate",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Gregory Hill",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Bill Ohm",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Kimberly Rice",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2025:SB275",
       "session_year": 2025,
       "identifier": "SB275",
@@ -27124,6 +28003,53 @@
       ],
       "roll_calls": [],
       "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2025:SB4",
+      "session_year": 2025,
+      "identifier": "SB4",
+      "title": "relative to commercial property assessed clean energy and resiliency (C-PACER).",
+      "plain_topic": "Enabled commercial property assessed clean energy and resiliency (C-PACER) financing districts (became law).",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 1)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "Senate",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Tara Reardon",
+          "party": "D",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [
+        {
+          "body": "Senate",
+          "date": "2025-01-30",
+          "motion": "Ought to Pass",
+          "yeas": 23,
+          "nays": 0,
+          "yes_pct": 100.0,
+          "party_split": {
+            "D": {
+              "yea": 8
+            },
+            "R": {
+              "yea": 15
+            }
+          }
+        }
+      ],
+      "best_floor_yes_pct": 100.0
     },
     {
       "bill_key": "2025:SB46",
@@ -27420,6 +28346,318 @@
         }
       ],
       "best_floor_yes_pct": 33.3
+    },
+    {
+      "bill_key": "2026:CACR10",
+      "session_year": 2026,
+      "identifier": "CACR10",
+      "title": "(New Title) the adoption of tax laws.",
+      "plain_topic": "Constitutional amendment on the adoption of tax laws; won a House majority 194-158 but fell short of three-fifths.",
+      "theme": "New or broad-based taxes and constitutional tax limits",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "failed to reach the three-fifths vote a constitutional amendment needs in the House",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Donald McFarlane",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Sayra DeVito",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Samuel Farrington",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jim Kofalt",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Tom Mannion",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jonathan Morton",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jeanine Notter",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "John Sellers",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "James Spillane",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [
+        {
+          "body": "House",
+          "date": "2026-03-05",
+          "motion": "Adopt Floor Amendment",
+          "yeas": 193,
+          "nays": 158,
+          "yes_pct": 55.0,
+          "party_split": {
+            "D": {
+              "nay": 158,
+              "yea": 2
+            },
+            "R": {
+              "yea": 191
+            }
+          }
+        },
+        {
+          "body": "House",
+          "date": "2026-03-05",
+          "motion": "OTPA",
+          "yeas": 194,
+          "nays": 158,
+          "yes_pct": 55.1,
+          "party_split": {
+            "D": {
+              "nay": 158,
+              "yea": 3
+            },
+            "R": {
+              "yea": 191
+            }
+          }
+        }
+      ],
+      "best_floor_yes_pct": 55.1
+    },
+    {
+      "bill_key": "2026:CACR12",
+      "session_year": 2026,
+      "identifier": "CACR12",
+      "title": "(New Title) the adoption of tax laws.",
+      "plain_topic": "Constitutional amendment on the adoption of tax laws; its amended version won a House majority 193-148 but fell short of three-fifths.",
+      "theme": "New or broad-based taxes and constitutional tax limits",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "failed to reach the three-fifths vote a constitutional amendment needs in the House",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "Senate",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Daryl Abbas",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "James Gray",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Mark McConkey",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Denise Ricciardi",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "David Rochefort",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [
+        {
+          "body": "Senate",
+          "date": "2026-02-19",
+          "motion": "Ought to Pass",
+          "yeas": 16,
+          "nays": 8,
+          "yes_pct": 66.7,
+          "party_split": {
+            "D": {
+              "nay": 8
+            },
+            "R": {
+              "yea": 16
+            }
+          }
+        },
+        {
+          "body": "House",
+          "date": "2026-05-14",
+          "motion": "Adopt Amendment",
+          "yeas": 192,
+          "nays": 148,
+          "yes_pct": 56.5,
+          "party_split": {
+            "D": {
+              "nay": 148,
+              "yea": 3
+            },
+            "R": {
+              "yea": 189
+            }
+          }
+        },
+        {
+          "body": "House",
+          "date": "2026-05-14",
+          "motion": "Adopt Floor Amendment",
+          "yeas": 17,
+          "nays": 322,
+          "yes_pct": 5.0,
+          "party_split": {
+            "D": {
+              "nay": 134,
+              "yea": 16
+            },
+            "R": {
+              "nay": 188,
+              "yea": 1
+            }
+          }
+        },
+        {
+          "body": "House",
+          "date": "2026-05-14",
+          "motion": "OTPA",
+          "yeas": 193,
+          "nays": 148,
+          "yes_pct": 56.6,
+          "party_split": {
+            "D": {
+              "nay": 147,
+              "yea": 4
+            },
+            "R": {
+              "yea": 189,
+              "nay": 1
+            }
+          }
+        }
+      ],
+      "best_floor_yes_pct": 66.7
     },
     {
       "bill_key": "2026:CACR18",
@@ -28278,6 +29516,101 @@
       "best_floor_yes_pct": null
     },
     {
+      "bill_key": "2026:HB1288",
+      "session_year": 2026,
+      "identifier": "HB1288",
+      "title": "relative to enabling school administrative units to adopt budget caps.",
+      "plain_topic": "Would have let school administrative units adopt budget caps; interim study.",
+      "theme": "Tax caps and local budget limits",
+      "relevance": "core",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Michael Vose",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Liz Barbour",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Margaret Drye",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Gregory Hill",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2026:HB1293",
+      "session_year": 2026,
+      "identifier": "HB1293",
+      "title": "taxing certain properties owned by charitable or non-profit organizations.",
+      "plain_topic": "Would have taxed certain properties owned by charitable or non-profit organizations; interim study.",
+      "theme": "Property tax relief: exemptions, credits, and deferrals",
+      "relevance": "core",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Bill Bolton",
+          "party": "D",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Thomas Schamberg",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2026:HB1296",
       "session_year": 2026,
       "identifier": "HB1296",
@@ -28694,6 +30027,64 @@
       "best_floor_yes_pct": 63.6
     },
     {
+      "bill_key": "2026:HB1380",
+      "session_year": 2026,
+      "identifier": "HB1380",
+      "title": "requiring the assessment of real property and land be based on replacement or cost-based value.",
+      "plain_topic": "Would have based property assessments on replacement or cost-based value.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Kelley Potenza",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Claudine Burnham",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Susan DeRoy",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jaci Grote",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jonah Wheeler",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2026:HB1383",
       "session_year": 2026,
       "identifier": "HB1383",
@@ -29011,6 +30402,29 @@
           "party": "D",
           "body": "House",
           "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2026:HB1417",
+      "session_year": 2026,
+      "identifier": "HB1417",
+      "title": "enabling municipalities, cities, and towns to adopt a land value tax system and making an appropriation therefor.",
+      "plain_topic": "Would have let municipalities adopt a land value tax system.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "House",
+          "prime": true,
           "source": "sql_sponsors"
         }
       ],
@@ -30241,6 +31655,143 @@
       "best_floor_yes_pct": 83.8
     },
     {
+      "bill_key": "2026:HB1581",
+      "session_year": 2026,
+      "identifier": "HB1581",
+      "title": "(New Title) allowing municipalities to adopt a requirement that property owners be given notice when the assessed value of their property changes by certain amounts.",
+      "plain_topic": "Would have let municipalities require notice when a property's assessed value changes by set amounts; interim study.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Robert Wherry",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Mary Ford",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Donald McFarlane",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Linda McGrath",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Mary Murphy",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2026:HB1583",
+      "session_year": 2026,
+      "identifier": "HB1583",
+      "title": "permitting municipalities to establish special assessment districts for infrastructure improvements.",
+      "plain_topic": "Would have let municipalities create special assessment districts for infrastructure improvements.",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "adjacent",
+      "disposition": "killed",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2026:HB1596",
+      "session_year": 2026,
+      "identifier": "HB1596",
+      "title": "relative to the collection of certain health care program premiums; funding for the university system of New Hampshire; and raising the tobacco tax.",
+      "plain_topic": "Would have raised the tobacco tax, with health-premium and university funding provisions.",
+      "theme": "Meals and rooms, gaming, and other existing revenue streams",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Jerry Stringham",
+          "party": "D",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Wayne Burton",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Terry Spahr",
+          "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [
+        {
+          "body": "House",
+          "date": "2026-02-12",
+          "motion": "ITL",
+          "yeas": 200,
+          "nays": 157,
+          "yes_pct": 56.0,
+          "party_split": {
+            "D": {
+              "nay": 155,
+              "yea": 4
+            },
+            "R": {
+              "yea": 196,
+              "nay": 2
+            }
+          }
+        }
+      ],
+      "best_floor_yes_pct": 56.0
+    },
+    {
       "bill_key": "2026:HB1597",
       "session_year": 2026,
       "identifier": "HB1597",
@@ -30545,6 +32096,108 @@
         {
           "name": "David Paige",
           "party": "D",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2026:HB1649",
+      "session_year": 2026,
+      "identifier": "HB1649",
+      "title": "prohibiting certain tax dollars from being donated to non-profit organizations.",
+      "plain_topic": "Would have barred donating certain tax dollars to non-profit organizations.",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "adjacent",
+      "disposition": "killed",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Lorie Ball",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Cindy Bennett",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Travis Corcoran",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Lisa Freeman",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Henry Giasson",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Dennis Mannion",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Kristine Perez",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Lilli Walsh",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2026:HB1654",
+      "session_year": 2026,
+      "identifier": "HB1654",
+      "title": "requiring a property owner to pay all taxes or charges on their property prior to being issued certain building or occupancy permits.",
+      "plain_topic": "Would have required all property taxes to be paid before building or occupancy permits issue.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "adjacent",
+      "disposition": "killed",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Wayne Hemingway",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Dale Girard",
+          "party": "R",
           "body": "House",
           "prime": false,
           "source": "sql_sponsors"
@@ -31423,6 +33076,99 @@
       "best_floor_yes_pct": 54.9
     },
     {
+      "bill_key": "2026:HB1804",
+      "session_year": 2026,
+      "identifier": "HB1804",
+      "title": "consolidating school administrative units, making chief school administrator jobs an elected position, and defining education roles.",
+      "plain_topic": "Would have consolidated school administrative units with elected chief administrators; interim study.",
+      "theme": "School district and municipal consolidation or cooperation",
+      "relevance": "core",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Dan McGuire",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Margaret Drye",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jim Kofalt",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Erica Layon",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Sherman Packard",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Katy Peternel",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Ruth Ward",
+          "party": "R",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2026:HB1807",
       "session_year": 2026,
       "identifier": "HB1807",
@@ -31599,6 +33345,29 @@
           "party": "R",
           "body": "House",
           "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2026:HB1818",
+      "session_year": 2026,
+      "identifier": "HB1818",
+      "title": "(New Title) requiring the department of education to use its 10-year school facilities plans to plan and project out building consolidation projects.",
+      "plain_topic": "Would have directed the education department to plan school-building consolidation projects; died on the Senate table.",
+      "theme": "School district and municipal consolidation or cooperation",
+      "relevance": "adjacent",
+      "disposition": "killed",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Rick Ladd",
+          "party": "R",
+          "body": "House",
+          "prime": true,
           "source": "sql_sponsors"
         }
       ],
@@ -32531,6 +34300,29 @@
       "best_floor_yes_pct": 65.2
     },
     {
+      "bill_key": "2026:HB635",
+      "session_year": 2026,
+      "identifier": "HB635",
+      "title": "relative to taxing non-profit entities who settle illegal immigrants as for-profit entities.",
+      "plain_topic": "Would have taxed non-profits that settle undocumented immigrants as for-profit entities; interim study.",
+      "theme": "Property tax relief: exemptions, credits, and deferrals",
+      "relevance": "adjacent",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Travis Corcoran",
+          "party": "R",
+          "body": "House",
+          "prime": true,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
       "bill_key": "2026:HB651",
       "session_year": 2026,
       "identifier": "HB651",
@@ -33031,6 +34823,43 @@
           "name": "David Watters",
           "party": "D",
           "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [],
+      "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2026:SB489",
+      "session_year": 2026,
+      "identifier": "SB489",
+      "title": "(New Title) altering the appointment process for the board of tax and land appeals.",
+      "plain_topic": "Changed the appointment process for the board of tax and land appeals (became law).",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 64)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "Senate",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Liz Barbour",
+          "party": "R",
+          "body": "House",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Shane Sirois",
+          "party": "R",
+          "body": "House",
           "prime": false,
           "source": "sql_sponsors"
         }
@@ -33544,6 +35373,89 @@
       ],
       "roll_calls": [],
       "best_floor_yes_pct": null
+    },
+    {
+      "bill_key": "2026:SB634",
+      "session_year": 2026,
+      "identifier": "SB634",
+      "title": "enabling municipalities to adopt a municipal occupancy fee.",
+      "plain_topic": "Would have let municipalities adopt a municipal occupancy fee (2026 retry); killed on the Senate floor.",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "core",
+      "disposition": "killed",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "found_by_terms": [],
+      "sponsors": [
+        {
+          "name": "Suzanne Prentiss",
+          "party": "D",
+          "body": "Senate",
+          "prime": true,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Pat Long",
+          "party": "D",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "party": "D",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "Senate",
+          "prime": false,
+          "source": "sql_sponsors"
+        }
+      ],
+      "roll_calls": [
+        {
+          "body": "Senate",
+          "date": "2026-01-29",
+          "motion": "Inexpedient to Legislate",
+          "yeas": 15,
+          "nays": 9,
+          "yes_pct": 62.5,
+          "party_split": {
+            "D": {
+              "nay": 8
+            },
+            "R": {
+              "yea": 15,
+              "nay": 1
+            }
+          }
+        }
+      ],
+      "best_floor_yes_pct": 62.5
     },
     {
       "bill_key": "2026:SB635",

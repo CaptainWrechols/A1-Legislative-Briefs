@@ -373,25 +373,33 @@ One row per bill found by the property-tax and revenue search, 2020–2026. 'Tie
 | 2025 | HB123 | Defined pre-sequestration timber tax revenue and paused carbon-sequestration deals (became law). | Current use, timber, utility, and other property-tax bases | Became law | adjacent |
 | 2025 | HB135 | Would have addressed collection of other states' sales taxes by New Hampshire businesses. | New or broad-based taxes and constitutional tax limits | Did not pass | adjacent |
 | 2025 | HB137 | Would have let municipalities keep excess statewide education property tax money for local school and municipal purposes. | The statewide education property tax and school funding | Did not pass | core |
+| 2025 | HB138 | Required tax impact notation on warrant articles with multi-year tax impacts (became law). | Assessment, abatement, and property tax administration | Became law | core |
 | 2025 | HB147 | Would have clarified the property tax exemptions for religious, educational, and charitable organizations. | Property tax relief: exemptions, credits, and deferrals | Did not pass | core |
 | 2025 | HB150 | Homestead food operations and commercial kitchens (became law); matched by 'homestead' but not a tax bill. | — | Became law | context |
 | 2025 | HB2 | The 2025 omnibus budget trailer itself; its tax and revenue sections are analyzed section-by-section in the HB2 analysis and excluded from bill counts to avoid double-counting. | — | Became law | context |
 | 2025 | HB200 | Changed the procedure for overriding a local tax cap (became law). | Tax caps and local budget limits | Became law | core |
 | 2025 | HB237 | Would have restricted special-education aid to students receiving special education services. | The statewide education property tax and school funding | Did not pass | adjacent |
 | 2025 | HB255 | Would have raised the share of business profits tax revenue deposited in the education trust fund. | State business taxes: BPT and BET | Did not pass | core |
+| 2025 | HB268 | Adjusted hearings before the board of tax and land appeals (became law). | Assessment, abatement, and property tax administration | Became law | adjacent |
 | 2025 | HB279 | Homestead food recipe study (became law); matched by 'homestead' but not a tax bill. | — | Became law | context |
 | 2025 | HB282 | First-responder benefits bill that also adjusted education adequacy grant determination (became law). | The statewide education property tax and school funding | Became law | adjacent |
 | 2025 | HB283 | Would have changed the list of subjects in an adequate education. | The statewide education property tax and school funding | Did not pass | adjacent |
+| 2025 | HB284 | Would have required tax impact statements on municipal warrant articles; passed the House, killed on the Senate floor. | Assessment, abatement, and property tax administration | Did not pass | core |
+| 2025 | HB290 | Would have raised cigarette and e-cigarette taxes and studied tobacco and nicotine taxation. | Meals and rooms, gaming, and other existing revenue streams | Did not pass | core |
 | 2025 | HB304 | Homestead kitchen labeling (became law); matched by 'homestead' but not a tax bill. | — | Became law | context |
 | 2025 | HB307 | Homestead food production areas (became law); matched by 'homestead' but not a tax bill. | — | Became law | context |
 | 2025 | HB318 | Would have raised the share of business enterprise tax revenue deposited in the education trust fund. | State business taxes: BPT and BET | Did not pass | core |
 | 2025 | HB374 | Rewrote local tax cap and budget laws (became law). | Tax caps and local budget limits | Became law | core |
 | 2025 | HB394 | Defined cooperative school district budget committee powers and board members' roles (became law). | School district and municipal consolidation or cooperation | Became law | adjacent |
 | 2025 | HB412 | Cooperative school board vacancy elections; governance housekeeping. | — | Did not pass | context |
+| 2025 | HB421 | Would have changed notice of tax-exempt-status filing procedures; died in a conference committee. | Property tax relief: exemptions, credits, and deferrals | Did not pass | adjacent |
+| 2025 | HB425 | Would have let tax-exempt entities keep their status while renting facilities to mission-aligned entities. | Property tax relief: exemptions, credits, and deferrals | Did not pass | adjacent |
 | 2025 | HB426 | Let charitable organizations claim property tax exemptions for the prior tax year (became law). | Property tax relief: exemptions, credits, and deferrals | Became law | adjacent |
 | 2025 | HB447 | Would have changed property tax exemptions for disabled veterans. | Property tax relief: exemptions, credits, and deferrals | Did not pass | core |
+| 2025 | HB450 | Would have adjusted the commercial property assessed clean energy and resiliency (C-PACER) program. | Municipal revenue, state aid, and state budget mechanics | Did not pass | adjacent |
 | 2025 | HB483 | Would have redefined scholarship organizations for the education tax credit. | State business taxes: BPT and BET | Did not pass | adjacent |
 | 2025 | HB485 | Lottery winner anonymity (became law); gaming administration. | — | Became law | context |
+| 2025 | HB495 | Would have required cities and towns to send residents a breakdown of tax changes with their bills. | Assessment, abatement, and property tax administration | Did not pass | core |
 | 2025 | HB502 | Would have required complete corporate reporting for unitary businesses and changed statewide education property tax revenue handling. | State business taxes: BPT and BET | Did not pass | core |
 | 2025 | HB503 | Would have changed how tax revenues are allocated to the education trust fund. | The statewide education property tax and school funding | Did not pass | core |
 | 2025 | HB505 | Homestead freeze-dried foods (became law); matched by 'homestead' but not a tax bill. | — | Became law | context |
@@ -400,6 +408,7 @@ One row per bill found by the property-tax and revenue search, 2020–2026. 'Tie
 | 2025 | HB527 | Would have replaced the statewide education property tax with a local revenue contribution. | The statewide education property tax and school funding | Did not pass | core |
 | 2025 | HB530 | Would have raised the real estate transfer tax share flowing to the affordable housing fund. | Meals and rooms, gaming, and other existing revenue streams | Did not pass | adjacent |
 | 2025 | HB531 | Would have capped charitable gaming revenue distributed to any one charity. | Meals and rooms, gaming, and other existing revenue streams | Did not pass | adjacent |
+| 2025 | HB544 | Would have created an optional local public-safety assessment on room occupancies (2025 retry). | Municipal revenue, state aid, and state budget mechanics | Did not pass | core |
 | 2025 | HB550 | Would have modified the base cost of an adequate education. | The statewide education property tax and school funding | Did not pass | core |
 | 2025 | HB560 | Medical records and DUI omnibus; matched by search terms but not a tax bill. | — | Did not pass | context |
 | 2025 | HB588 | Would have changed the distribution of historic horse racing pari-mutuel revenue. | Meals and rooms, gaming, and other existing revenue streams | Did not pass | adjacent |
@@ -407,33 +416,41 @@ One row per bill found by the property-tax and revenue search, 2020–2026. 'Tie
 | 2025 | HB596 | Would have set reporting requirements for meals and rooms tax collectors. | Meals and rooms, gaming, and other existing revenue streams | Did not pass | adjacent |
 | 2025 | HB603 | Would have raised the adequacy grant for special education pupils. | The statewide education property tax and school funding | Did not pass | adjacent |
 | 2025 | HB617 | Homestead right (creditor protection) rewrite (became law); matched by 'homestead' but not a tax bill. | — | Became law | context |
+| 2025 | HB625 | Would have let municipalities levy payments against non-profits at a share of their assessed property value. | Property tax relief: exemptions, credits, and deferrals | Did not pass | core |
 | 2025 | HB642 | Homestead dehydrated meat sales; matched by 'homestead' but not a tax bill. | — | Did not pass | context |
 | 2025 | HB649 | Vehicle inspection repeal (became law); matched by 'abatement' (air pollution fund) but not a tax bill. | — | Became law | context |
 | 2025 | HB669 | Would have sent all statewide education property tax revenue to the education trust fund with one equalized statewide rate. | The statewide education property tax and school funding | Did not pass | core |
 | 2025 | HB675 | Would have raised the statewide education property tax and required towns to remit the excess to the state. | The statewide education property tax and school funding | Did not pass | core |
+| 2025 | HB688 | Would have let municipalities tax charitable gaming facilities on their enterprise value. | Municipal revenue, state aid, and state budget mechanics | Did not pass | core |
 | 2025 | HB689 | Would have let municipalities adopt a volunteer-incentive property tax credit. | Property tax relief: exemptions, credits, and deferrals | Did not pass | core |
 | 2025 | HB696 | Set how utility property taxes and statewide education property taxes apply to electric generating facilities (became law). | Current use, timber, utility, and other property-tax bases | Became law | core |
 | 2025 | HB737 | Created local options for games of chance, statewide keno, and new charitable gaming fees (became law). | Meals and rooms, gaming, and other existing revenue streams | Became law | adjacent |
 | 2025 | HB746 | Would have awarded attorney's fees for successful local assessment appeals. | Assessment, abatement, and property tax administration | Did not pass | adjacent |
+| 2025 | HB765 | Would have consolidated school administrative units and made superintendents elected. | School district and municipal consolidation or cooperation | Did not pass | core |
 | 2025 | HB766 | Would have let municipalities exempt certain elderly residents from the local education property tax. | Property tax relief: exemptions, credits, and deferrals | Did not pass | core |
 | 2025 | HB769 | Would have changed the base adequacy cost per pupil and the statewide education property tax rate. | The statewide education property tax and school funding | Did not pass | core |
 | 2025 | HB782 | Would have expanded elderly and disabled property tax exemptions and required public awareness of relief programs. | Property tax relief: exemptions, credits, and deferrals | Did not pass | core |
 | 2025 | HB99 | Created a property tax waiver for disabled veterans (became law). | Property tax relief: exemptions, credits, and deferrals | Became law | core |
 | 2025 | HR17 | House resolution affirming revenue estimates for fiscal 2025-2027. | Municipal revenue, state aid, and state budget mechanics | Did not pass | adjacent |
+| 2025 | SB105 | Enabled towns to adopt budget caps (became law). | Tax caps and local budget limits | Became law | core |
 | 2025 | SB168 | Would have legalized online gambling with proceeds to the education trust fund, general fund, and municipal exemption reimbursements; died at the Senate's deadline. | Meals and rooms, gaming, and other existing revenue streams | Did not pass | adjacent |
 | 2025 | SB173 | Adjusted assessment of residential property under low income housing tax credit covenants (became law). | Assessment, abatement, and property tax administration | Became law | adjacent |
 | 2025 | SB20 | Would have restored a state share of local employers' retirement system contributions; died at the Senate's deadline. | Municipal revenue, state aid, and state budget mechanics | Did not pass | core |
 | 2025 | SB209 | School building aid project-manager requirements with a lawsuit-financing rider; died between the chambers. | The statewide education property tax and school funding | Did not pass | adjacent |
 | 2025 | SB217 | Would have required public notice of historic tax rates and the tax impact of proposed projects. | Assessment, abatement, and property tax administration | Did not pass | core |
 | 2025 | SB224 | Would have raised the maximum optional veterans' tax credit. | Property tax relief: exemptions, credits, and deferrals | Did not pass | core |
+| 2025 | SB225 | Would have required public notice before local property re-assessments; killed in the House. | Assessment, abatement, and property tax administration | Did not pass | core |
 | 2025 | SB275 | Would have provided property tax relief for some child care agencies. | Property tax relief: exemptions, credits, and deferrals | Did not pass | adjacent |
 | 2025 | SB276 | Would have raised the research and development tax credit; died at the Senate's deadline. | State business taxes: BPT and BET | Did not pass | adjacent |
 | 2025 | SB277 | Would have set utility property tax and SWEPT treatment of electric generating facilities; died at the deadline (enacted via HB696). | Current use, timber, utility, and other property-tax bases | Did not pass | core |
 | 2025 | SB291 | Clarified the religious-use property tax exemption (became law). | Property tax relief: exemptions, credits, and deferrals | Became law | core |
+| 2025 | SB4 | Enabled commercial property assessed clean energy and resiliency (C-PACER) financing districts (became law). | Municipal revenue, state aid, and state budget mechanics | Became law | adjacent |
 | 2025 | SB46 | Would have conditioned current use eligibility near new construction on vegetated buffers. | Current use, timber, utility, and other property-tax bases | Did not pass | adjacent |
 | 2025 | SB55 | Would have exempted qualifying housing projects from the land use change tax. | Current use, timber, utility, and other property-tax bases | Did not pass | adjacent |
 | 2025 | SB81 | Would have raised the transfer-tax contribution to the affordable housing fund; died at the Senate's deadline. | Meals and rooms, gaming, and other existing revenue streams | Did not pass | adjacent |
 | 2025 | SB83 | Created a state fund reimbursing towns for elderly, disabled, blind, and deaf property tax exemptions - funded by newly authorized video lottery terminals (became law). | Property tax relief: exemptions, credits, and deferrals | Became law | core |
+| 2026 | CACR10 | Constitutional amendment on the adoption of tax laws; won a House majority 194-158 but fell short of three-fifths. | New or broad-based taxes and constitutional tax limits | Did not pass | core |
+| 2026 | CACR12 | Constitutional amendment on the adoption of tax laws; its amended version won a House majority 193-148 but fell short of three-fifths. | New or broad-based taxes and constitutional tax limits | Did not pass | core |
 | 2026 | CACR18 | Constitutional amendment capping how fast state tax rates may rise each year. | New or broad-based taxes and constitutional tax limits | Did not pass | core |
 | 2026 | HB1002 | Would have repealed the solar energy systems property tax exemption. | Property tax relief: exemptions, credits, and deferrals | Did not pass | adjacent |
 | 2026 | HB1021 | Moved the notice date for electing low income housing tax credit assessment (became law). | Assessment, abatement, and property tax administration | Became law | adjacent |
@@ -450,16 +467,20 @@ One row per bill found by the property-tax and revenue search, 2020–2026. 'Tie
 | 2026 | HB1227 | Would have changed how the local tax cap is calculated. | Tax caps and local budget limits | Did not pass | core |
 | 2026 | HB1230 | Would have restricted increases in state tax rates and debts. | New or broad-based taxes and constitutional tax limits | Did not pass | core |
 | 2026 | HB1278 | Would have given municipalities a grace period to adopt simple-majority tax cap overrides. | Tax caps and local budget limits | Did not pass | core |
+| 2026 | HB1288 | Would have let school administrative units adopt budget caps; interim study. | Tax caps and local budget limits | Interim study | core |
+| 2026 | HB1293 | Would have taxed certain properties owned by charitable or non-profit organizations; interim study. | Property tax relief: exemptions, credits, and deferrals | Interim study | core |
 | 2026 | HB1296 | Would have changed the conditions and adoption procedures for the elderly property tax exemption. | Property tax relief: exemptions, credits, and deferrals | Did not pass | core |
 | 2026 | HB1300 | Put school district tax cap questions on the 2026 and 2028 general election ballots, with administrative expense limits (became law). | Tax caps and local budget limits | Became law | core |
 | 2026 | HB1324 | Would have exempted Masonic lodges from property taxation. | Property tax relief: exemptions, credits, and deferrals | Did not pass | adjacent |
 | 2026 | HB1331 | Let the Derry town council absorb the Derry Cooperative School District as a town department by charter amendment (became law). | School district and municipal consolidation or cooperation | Became law | core |
 | 2026 | HB1374 | Rewrote the procedures for withdrawing from a cooperative school district and closing schools (became law). | School district and municipal consolidation or cooperation | Became law | core |
+| 2026 | HB1380 | Would have based property assessments on replacement or cost-based value. | Assessment, abatement, and property tax administration | Did not pass | core |
 | 2026 | HB1383 | Would have changed the methods for overriding local tax caps. | Tax caps and local budget limits | Did not pass | core |
 | 2026 | HB1385 | Would have barred negative property tax rates in certain municipalities - the statewide education property tax donor-town mechanics. | The statewide education property tax and school funding | Did not pass | core |
 | 2026 | HB1399 | Would have paid Claremont school renovation costs from the rainy day fund. | The statewide education property tax and school funding | Did not pass | adjacent |
 | 2026 | HB1400 | Would have created an opt-out mechanism for property tax exemptions and credits. | Property tax relief: exemptions, credits, and deferrals | Did not pass | adjacent |
 | 2026 | HB1409 | Would have changed where video lottery terminal revenue is deposited. | Meals and rooms, gaming, and other existing revenue streams | Did not pass | adjacent |
+| 2026 | HB1417 | Would have let municipalities adopt a land value tax system. | Assessment, abatement, and property tax administration | Did not pass | core |
 | 2026 | HB1420 | Would have created a temporary local newspaper advertisement tax credit; interim study. | State business taxes: BPT and BET | Interim study | adjacent |
 | 2026 | HB1433 | Created a child care tax credit for qualifying businesses (became law). | State business taxes: BPT and BET | Became law | adjacent |
 | 2026 | HB1434 | Would have let municipalities vote on allowing keno sales. | Meals and rooms, gaming, and other existing revenue streams | Did not pass | adjacent |
@@ -476,6 +497,9 @@ One row per bill found by the property-tax and revenue search, 2020–2026. 'Tie
 | 2026 | HB1565 | Child-protection bill carrying a school building aid project-manager rider; vetoed. | The statewide education property tax and school funding | Vetoed | adjacent |
 | 2026 | HB1579 | Would have created a committee to study ways of raising revenue for additional education spending; interim study. | The statewide education property tax and school funding | Interim study | core |
 | 2026 | HB1580 | Would have changed the taxation of non-primary residences. | Property tax relief: exemptions, credits, and deferrals | Did not pass | core |
+| 2026 | HB1581 | Would have let municipalities require notice when a property's assessed value changes by set amounts; interim study. | Assessment, abatement, and property tax administration | Interim study | core |
+| 2026 | HB1583 | Would have let municipalities create special assessment districts for infrastructure improvements. | Municipal revenue, state aid, and state budget mechanics | Did not pass | adjacent |
+| 2026 | HB1596 | Would have raised the tobacco tax, with health-premium and university funding provisions. | Meals and rooms, gaming, and other existing revenue streams | Did not pass | core |
 | 2026 | HB1597 | Would have changed business profits tax expense deductions. | State business taxes: BPT and BET | Did not pass | adjacent |
 | 2026 | HB1629 | Would have repealed the business enterprise tax. | State business taxes: BPT and BET | Did not pass | core |
 | 2026 | HB1636 | Would have directed the Department of Revenue Administration to study options for generating state revenue. | New or broad-based taxes and constitutional tax limits | Did not pass | core |
@@ -483,6 +507,8 @@ One row per bill found by the property-tax and revenue search, 2020–2026. 'Tie
 | 2026 | HB1646 | Would have created an off-site infrastructure improvement business tax credit; interim study. | State business taxes: BPT and BET | Interim study | adjacent |
 | 2026 | HB1647 | Would have changed the taxation of farms and farm structures; interim study. | Current use, timber, utility, and other property-tax bases | Interim study | adjacent |
 | 2026 | HB1648 | Would have created property tax exemptions for qualifying residences; interim study. | Property tax relief: exemptions, credits, and deferrals | Interim study | core |
+| 2026 | HB1649 | Would have barred donating certain tax dollars to non-profit organizations. | Municipal revenue, state aid, and state budget mechanics | Did not pass | adjacent |
+| 2026 | HB1654 | Would have required all property taxes to be paid before building or occupancy permits issue. | Assessment, abatement, and property tax administration | Did not pass | adjacent |
 | 2026 | HB1659 | Would have expanded local property tax exemptions for 100-percent disabled veterans. | Property tax relief: exemptions, credits, and deferrals | Did not pass | core |
 | 2026 | HB1668 | Would have changed how the Internal Revenue Code applies to the business profits tax. | State business taxes: BPT and BET | Did not pass | adjacent |
 | 2026 | HB1674 | Would have created a property tax exemption for certain lower-income property owners. | Property tax relief: exemptions, credits, and deferrals | Did not pass | core |
@@ -497,8 +523,10 @@ One row per bill found by the property-tax and revenue search, 2020–2026. 'Tie
 | 2026 | HB1799 | Would have required full state funding of an adequate education opportunity. | The statewide education property tax and school funding | Did not pass | core |
 | 2026 | HB1800 | Would have changed statewide education property taxes; interim study. | The statewide education property tax and school funding | Interim study | core |
 | 2026 | HB1803 | Would have barred holding an education tax credit scholarship and an education freedom account in the same year. | State business taxes: BPT and BET | Did not pass | adjacent |
+| 2026 | HB1804 | Would have consolidated school administrative units with elected chief administrators; interim study. | School district and municipal consolidation or cooperation | Interim study | core |
 | 2026 | HB1807 | Required tax rate and tax impact information on warrant articles (became law). | Assessment, abatement, and property tax administration | Became law | core |
 | 2026 | HB1812 | Mental health access adequacy evaluation; matched by 'adequacy' but not a tax bill. | — | Did not pass | context |
+| 2026 | HB1818 | Would have directed the education department to plan school-building consolidation projects; died on the Senate table. | School district and municipal consolidation or cooperation | Did not pass | adjacent |
 | 2026 | HB1823 | Would have required schools and districts to publish independent audits and financial reports. | The statewide education property tax and school funding | Did not pass | adjacent |
 | 2026 | HB1826 | Would have changed the cost of an opportunity for an adequate education. | The statewide education property tax and school funding | Did not pass | core |
 | 2026 | HB1831 | Would have repealed the education trust fund targeted aid cap. | The statewide education property tax and school funding | Did not pass | core |
@@ -511,6 +539,7 @@ One row per bill found by the property-tax and revenue search, 2020–2026. 'Tie
 | 2026 | HB585 | Would have changed the property tax exemption for religious organizations. | Property tax relief: exemptions, credits, and deferrals | Did not pass | core |
 | 2026 | HB590 | Cooperative school board election rules; governance housekeeping. | — | Did not pass | context |
 | 2026 | HB609 | Firearms authority omnibus; matched by 'taxation' in a list but not a tax bill. | — | Did not pass | context |
+| 2026 | HB635 | Would have taxed non-profits that settle undocumented immigrants as for-profit entities; interim study. | Property tax relief: exemptions, credits, and deferrals | Interim study | adjacent |
 | 2026 | HB651 | Would have modified the base cost and differential aid of an adequate education. | The statewide education property tax and school funding | Did not pass | core |
 | 2026 | HB660 | Would have required historic horse racing facilities to share machine revenue with host communities; interim study. | Meals and rooms, gaming, and other existing revenue streams | Interim study | adjacent |
 | 2026 | HB728 | Would have authorized video lottery terminals and repealed historic horse racing licensing. | Meals and rooms, gaming, and other existing revenue streams | Did not pass | adjacent |
@@ -521,12 +550,14 @@ One row per bill found by the property-tax and revenue search, 2020–2026. 'Tie
 | 2026 | SB404 | Would have changed economic revitalization zone tax credits. | State business taxes: BPT and BET | Did not pass | adjacent |
 | 2026 | SB418 | Homestead food licensing preemption (became law); matched by 'homestead' but not a tax bill. | — | Became law | context |
 | 2026 | SB485 | Would have regulated and taxed hemp-based products; interim study. | New or broad-based taxes and constitutional tax limits | Interim study | adjacent |
+| 2026 | SB489 | Changed the appointment process for the board of tax and land appeals (became law). | Assessment, abatement, and property tax administration | Became law | adjacent |
 | 2026 | SB491 | Education freedom account career-and-technical spending (became law); EFA mechanics, not tax policy. | — | Became law | context |
 | 2026 | SB513 | Would have required an owner's project manager on school building aid projects; died between the chambers. | The statewide education property tax and school funding | Did not pass | adjacent |
 | 2026 | SB514 | Would have protected municipal tax-cap ballot questions from alteration; interim study. | Tax caps and local budget limits | Interim study | core |
 | 2026 | SB582 | Would have modified the base cost of an adequate education. | The statewide education property tax and school funding | Did not pass | core |
 | 2026 | SB583 | Would have created an education funding transparency data and reporting system. | The statewide education property tax and school funding | Did not pass | adjacent |
 | 2026 | SB600 | Required quarterly reports to the fiscal committee on the general and education trust funds (became law). | Municipal revenue, state aid, and state budget mechanics | Became law | adjacent |
+| 2026 | SB634 | Would have let municipalities adopt a municipal occupancy fee (2026 retry); killed on the Senate floor. | Municipal revenue, state aid, and state budget mechanics | Did not pass | core |
 | 2026 | SB635 | Would have created a health reimbursement arrangement tax credit with DRA system money. | State business taxes: BPT and BET | Did not pass | adjacent |
 | 2026 | SB636 | Would have created small-business tax credits for documented tariff costs. | State business taxes: BPT and BET | Did not pass | adjacent |
 | 2026 | SB637 | Would have created tax credits for purchases from New Hampshire farms; interim study. | State business taxes: BPT and BET | Interim study | adjacent |

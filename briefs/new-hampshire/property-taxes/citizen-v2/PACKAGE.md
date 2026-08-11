@@ -16,11 +16,11 @@ regenerates only the content.
 
 | File | What it is |
 |---|---|
-| `NH1-Property-Taxes-Lege-Brief.docx` | **The deliverable.** 8 pages, LibreOffice-verified: brief → policy spotlights (six NH1 grid proposals) → glossary → legislative process glossary; real Word footer ("NH1 Property Taxes Legislative Brief v1.0" + page number) |
+| `NH1-Property-Taxes-Lege-Brief.docx` | **The deliverable.** 9 pages, LibreOffice-verified: brief → policy spotlights (six NH1 grid proposals) → glossary → legislative process glossary; real Word footer ("NH1 Property Taxes Legislative Brief v1.0" + page number) |
 | `lege-brief.md` | Source markdown (edit this, then rebuild) |
-| `appendices/` | Appendices A–I (A bills · B themes · C votes · D sponsors · E paths · F limits · G bill-by-bill grid · H HB2 sections · I sources & certification) as markdown, plus `appendices-print.html` and `appendices.docx` (213 pp) |
-| `appendices/NH1-Property-Taxes-Master-Appendix.docx` | **Master Appendix** — all appendices in one Word document (title page + A–I; 212 pp in LibreOffice) |
-| `appendices/NH1-Property-Taxes-Master-Appendix.pdf` | **Master Appendix (PDF)** — same content in the Phase 2 print styling with a table of contents (171 pages) |
+| `appendices/` | Appendices A–I (A bills · B themes · C votes · D sponsors · E paths · F limits · G bill-by-bill grid · H HB2 sections · I sources & certification) as markdown, plus `appendices-print.html` and `appendices.docx` (226 pp) |
+| `appendices/NH1-Property-Taxes-Master-Appendix.docx` | **Master Appendix** — all appendices in one Word document (title page + A–I; 226 pp in LibreOffice) |
+| `appendices/NH1-Property-Taxes-Master-Appendix.pdf` | **Master Appendix (PDF)** — same content in the Phase 2 print styling with a table of contents (183 pages) |
 | `citizen-brief-print.css` | Print CSS used by the appendices HTML |
 
 ## Document architecture (matches NV1 v1.6 exactly)
@@ -45,14 +45,15 @@ regenerates only the content.
 
 ## Content provenance
 
-- Record: the certified 445-bill policy set (see `appendices/I-sources-and-review-notes.md`,
+- Record: the certified 476-bill policy set (see `appendices/I-sources-and-review-notes.md`,
   including the full-universe completeness certification).
 - Proposals: `config/issues/new-hampshire-property-taxes.yaml` →
   `constituent_proposals` (encoded from the grid .docx).
 - Automated checks on this document (`working/new-hampshire/property-taxes/scan-lege-brief.py`):
-  no advice language; all 85 cited bills exist in the evidence pack; every
-  vote pair matches the official record (HB675's 170–185 reconsideration is a
-  division-vote tally from the official docket, labeled as such).
+  no advice language; all 99 cited bills exist in the evidence pack; every
+  vote pair matches the official record (two documented docket-tally
+  exceptions, labeled as such in the brief: HB675's 170–185 division-vote
+  reconsideration and HB765's 18–0 recorded committee vote).
 
 ## Rebuild
 

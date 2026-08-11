@@ -15,13 +15,13 @@ The legislative record behind Granite Staters' property-tax and revenue proposal
 
 ## What this brief covers
 
-New Hampshire's General Court took up 445 property-tax and revenue bills across the 2020–2026 sessions, and 96 became law. The record has a clear shape: relief for specific groups — veterans, the elderly, charities — passes regularly; every attempt to restore a state tax that was cut, or to add a new one, dies in the House; and the changes that actually moved money — the business tax cuts, the interest-and-dividends repeal, the school funding formulas, the end of revenue sharing — were made inside HB2, the budget trailer, on votes cast only on the whole bill.
+New Hampshire's General Court took up 476 property-tax and revenue bills across the 2020–2026 sessions, and 101 became law. The record has a clear shape: relief for specific groups — veterans, the elderly, charities — passes regularly; every attempt to restore a state tax that was cut, or to add a new one, dies in the House; and the changes that actually moved money — the business tax cuts, the interest-and-dividends repeal, the school funding formulas, the end of revenue sharing — were made inside HB2, the budget trailer, on votes cast only on the whole bill.
 
 <!--stats-->
-- **445** tax and revenue bills, 2020–2026
-- **96** became law
+- **476** tax and revenue bills, 2020–2026
+- **101** became law
 - **35** core tax and revenue sections enacted inside the last three budget trailers (HB2)
-- **2 of 6** citizen proposals never filed as a bill
+- **1 of 6** citizen proposals never filed as a bill
 
 ## Also in the budget bill (HB2)
 
@@ -37,7 +37,7 @@ The biggest tax votes of this period were never taken on tax bills. The 2021 tra
 
 ### Passed both chambers, then died between them
 
-**The retirement-contribution state share — HB1417 (2022).** The closest call in the record: passed the House 186–159 and won the Senate 22–2 — then the Senate tabled it 14–10 and it died at the end-of-year deadline. **Local games of chance — HB1223 (2024)** died in a conference committee that never agreed; **current use reform — SB504 (2024)** died when the House refused a conference after the Senate passed it 14–10. **Municipal transparency — SB532 (2024)** (posting state funds received) and **the school-building-aid project-manager bills — SB209 (2025) and SB513 (2026)** all passed both chambers in different forms and died when the chambers refused each other's changes, as did **SB643 (2026)**, the tax-cap compliance bill.
+**The retirement-contribution state share — HB1417 (2022).** The closest call in the record: passed the House 186–159 and won the Senate 22–2 — then the Senate tabled it 14–10 and it died at the end-of-year deadline. **Local games of chance — HB1223 (2024)** died in a conference committee that never agreed; **current use reform — SB504 (2024)** died when the House refused a conference after the Senate passed it 14–10. **Municipal transparency — SB532 (2024)** (posting state funds received) and **the school-building-aid project-manager bills — SB209 (2025) and SB513 (2026)** all passed both chambers in different forms and died when the chambers refused each other's changes, as did **SB643 (2026)**, the tax-cap compliance bill, and **HB421 (2025)**, the exempt-status notice bill, which died in a conference committee that never agreed.
 
 ## Proven support: cleared a chamber or a committee
 
@@ -49,9 +49,9 @@ The biggest tax votes of this period were never taken on tax bills. The 2021 tra
 
 **Raising the statewide education property tax with the excess going to the state — HB675 (2025).** Passed one House vote 190–185, was sent back to committee, and was killed in January 2026, the reconsideration failing 170–185 on a division vote.
 
-**The constitutional tax bans.** The income-tax ban (CACR1, 2021) won a House majority 202–171 and the sales-tax ban (CACR2, 2021) won 201–170 — both short of the three-fifths a constitutional amendment needs. CACR15 (2024), requiring a two-thirds vote for new taxes, failed 183–185.
+**The constitutional tax bans.** The income-tax ban (CACR1, 2021) won a House majority 202–171 and the sales-tax ban (CACR2, 2021) won 201–170 — both short of the three-fifths a constitutional amendment needs. CACR15 (2024), requiring a two-thirds vote for new taxes, failed 183–185; the 2026 tax-law-adoption amendments repeated the pattern — CACR10 at 194–158, and CACR12 at 193–148 after passing the Senate 16–8.
 
-**The e-cigarette tax — HB1699 (2020)** passed the House 172–142 and died on the table. **The local occupancy fee — HB1160 (2020)** passed the House 174–113 and died on the Senate table; refilings died in 2022, 2023, and 2024. **Online gambling — SB104 (2023)** cleared the Senate 13–11 and was indefinitely postponed by the House.
+**The e-cigarette tax — HB1699 (2020)** passed the House 172–142 and died on the table. **The local occupancy fee — HB1160 (2020)** passed the House 174–113 and died on the Senate table; refilings died in 2022, 2023, 2024, 2025, and 2026 — the last (SB634) killed 15–9 on the Senate floor. **Tax-impact statements on warrant articles — HB284 (2025)** passed the House 198–160 and was killed on the Senate floor; its twin HB138 became law the same year. **Online gambling — SB104 (2023)** cleared the Senate 13–11 and was indefinitely postponed by the House.
 
 ## Already law — and the openings around it
 
@@ -59,7 +59,7 @@ The biggest tax votes of this period were never taken on tax bills. The 2021 tra
 
 ### New laws from the 2025–2026 biennium
 
-Twenty-seven tax and revenue laws in two years. Relief for specific groups kept passing: the disabled-veterans waiver (HB99), higher optional veterans' and surviving-spouse credits (HB1494), prior-year charitable exemptions (HB426), the religious-use exemption clarified (SB291), and one-time exemption filing (HB1756). SB83 built something new: a state fund that reimburses towns for the elderly, disabled, blind, and deaf exemptions — financed by the video lottery terminals the budget trailer legalized. Tax caps advanced every year: override procedures (HB200), a full cap-law rewrite (HB374), and school-district cap questions placed on the 2026 and 2028 state ballots (HB1300). Transparency finally scored: HB1807 puts tax-rate and tax-impact information on warrant articles, and SB600 requires quarterly public reports on the general and education trust funds. HB696 settled how utility property taxes and the statewide education property tax apply to power plants, and gaming kept spreading — statewide keno and local games of chance (HB737), longer keno hours (HB591).
+Thirty-two tax and revenue laws in two years. Relief for specific groups kept passing: the disabled-veterans waiver (HB99), higher optional veterans' and surviving-spouse credits (HB1494), prior-year charitable exemptions (HB426), the religious-use exemption clarified (SB291), and one-time exemption filing (HB1756). SB83 built something new: a state fund that reimburses towns for the elderly, disabled, blind, and deaf exemptions — financed by the video lottery terminals the budget trailer legalized. Tax caps advanced every year: town budget caps (SB105), override procedures (HB200), a full cap-law rewrite (HB374), and school-district cap questions placed on the 2026 and 2028 state ballots (HB1300). Transparency finally scored: HB138 (2025) put multi-year tax-impact notation on warrant articles, HB1807 (2026) extended it to tax-rate and tax-impact information generally, and SB600 requires quarterly public reports on the general and education trust funds. HB696 settled how utility property taxes and the statewide education property tax apply to power plants, and gaming kept spreading — statewide keno and local games of chance (HB737), longer keno hours (HB591).
 
 ### Where lawmakers appear willing to go further
 
@@ -67,23 +67,23 @@ The exemption-reimbursement design of SB83 is the opening to watch: it is the fi
 
 ## Little traction yet: never filed or stopped early
 
-*Two of the six citizen proposals have never been filed; the rest of the untraveled ground stops early, almost always in the House.*
+*One of the six citizen proposals has never been filed in any form; the rest of the untraveled ground stops early, almost always in the House.*
 
 **Restoring the interest and dividends tax. Never filed.** The tax ended January 1, 2025 — the repeal was enacted inside two budget trailers, never as a standalone law — and no bill since has proposed bringing it back. While it lived, the adjustment bills died in both chambers: SB261 (2023) 13–10 on the Senate floor, HB192 (2024) in the House, HB1492 (2024) in interim study.
 
-**Consolidation incentives. Never filed.** No bill proposes state incentives for towns or districts to regionalize services. The active legislation runs the other way: easier withdrawal from cooperative school districts (HB530 2023; HB1374 2026), Derry absorbing its district (HB1331, 2026), unilateral-withdrawal study (HB1644, 2026).
+**Consolidation incentives. Never filed — and the mandates failed.** No bill proposes state incentives for towns or districts to regionalize services. Mandatory consolidation of school administrative units was filed and failed twice: HB765 (2025) died on a unanimous 18–0 Inexpedient to Legislate committee report, its refile HB1804 (2026) sits in interim study, and the school-building consolidation planning bill (HB1818, 2026) died on the Senate table. The rest of the active legislation runs the other way: easier withdrawal from cooperative school districts (HB530 2023; HB1374 2026), Derry absorbing its district (HB1331, 2026), unilateral-withdrawal study (HB1644, 2026).
 
-**New broad-based revenue.** Every new-tax bill died fast: the electronics tax 320–11 (HB1492, 2020), the vacancy tax (HB1707, 2026), the luxury second-home assessment tabled 189–158 with the rescue motion failing 100–235 (HB1786, 2026). Even studying revenue options was killed on the floor twice in 2026 — the Department of Revenue Administration study 284–76 (HB1636) and the education-funding alternatives study 195–157 (HB491). Marijuana taxation (HB722, 2020) and hemp taxation (SB485, 2026) sit in interim study.
+**New broad-based revenue.** Every new-tax bill died fast: the electronics tax 320–11 (HB1492, 2020), the vacancy tax (HB1707, 2026), the luxury second-home assessment tabled 189–158 with the rescue motion failing 100–235 (HB1786, 2026). Even studying revenue options was killed on the floor twice in 2026 — the Department of Revenue Administration study 284–76 (HB1636) and the education-funding alternatives study 195–157 (HB491). Marijuana taxation (HB722, 2020) and hemp taxation (SB485, 2026) sit in interim study, and both tobacco-tax raises died in the House (HB290, 2025; HB1596, 2026, killed 200–157).
 
 **Restoring the business taxes.** Rate-restoration bills died in 2020 (HB623), 2021–22 (HB10), and 2024 (HB1422, interim study); the bills raising the education trust fund's business-tax share (HB255, HB318, 2025) died months before the trailer cut that share; the low-wage-employer surcharge was crushed 304–40 (HB1478, 2022). The meals-and-rooms rate-raise (HB1480, 2026) died too — as did the full-repeal bills (HB1546, HB1629, 2026). The settled zone is lower rates: not zero, and not restoration.
 
-**The homestead exemption.** The enabling bill — letting towns tax owner-occupied homes on less than full value — was killed in 2022 (HB1387) and sent to interim study in 2024 (HB1034) and again in 2026 (HB1648). Taxing non-primary residences more was killed 284–55 (HB1580, 2026); the split-rate design died in 2020 (HB1467) and 2022 (HB1365).
+**The homestead exemption.** The enabling bill — letting towns tax owner-occupied homes on less than full value — was killed in 2022 (HB1387) and sent to interim study in 2024 (HB1034) and again in 2026 (HB1648). Taxing non-primary residences more was killed 284–55 (HB1580, 2026); the split-rate design died in 2020 (HB1467) and 2022 (HB1365), and the deeper structural alternatives — the municipal land value tax (HB1417, 2026) and cost-based assessment (HB1380, 2026) — died on the House floor.
 
 ## Where there is movement — and where there is none
 
-**Moving:** group-specific relief (a veterans, elderly, or charity law nearly every session, and SB83's reimbursement fund in 2025); tax caps (four laws in the 2025–2026 biennium); gaming revenue (a new expansion every biennium since 2021); tax transparency (two 2026 laws after five years of dead bills); and the school-aid formulas (rebuilt toward property-poor towns in 2022, 2023, and 2025 — always through the budget). **Not moving:** anything that raises or restores a state tax (dead in every session, under both parties' majorities); new revenue sources other than gambling (dead on the floor, usually by wide margins); the homestead exemption (three tries, no floor win); broad relief for ordinary homeowners (the elderly-homeowner and lower-income exemption bills all died in 2025–2026); and municipal aid as a standing obligation — revenue sharing went from suspended to repealed, and the retirement-contribution share failed in every permanent form despite three unanimous Senate votes.
+**Moving:** group-specific relief (a veterans, elderly, or charity law nearly every session, and SB83's reimbursement fund in 2025); tax caps (four laws in the 2025–2026 biennium); gaming revenue (a new expansion every biennium since 2021); tax transparency (laws in both 2025 and 2026 after five years of dead bills); and the school-aid formulas (rebuilt toward property-poor towns in 2022, 2023, and 2025 — always through the budget). **Not moving:** anything that raises or restores a state tax (dead in every session, under both parties' majorities); new revenue sources other than gambling (dead on the floor, usually by wide margins); the homestead exemption (three tries, no floor win); broad relief for ordinary homeowners (the elderly-homeowner and lower-income exemption bills all died in 2025–2026); and municipal aid as a standing obligation — revenue sharing went from suspended to repealed, and the retirement-contribution share failed in every permanent form despite three unanimous Senate votes.
 
-**Where bills stop, and who sponsors them.** The House floor's Inexpedient to Legislate motion is the record's great filter — 285 of the 445 policy bills ended killed, most of them there — and the Senate's table and Rule 3-23 deadline quietly ended municipal-aid bills that had passed 23–0 or 24–0. Some decisive outcomes left no roll call at all: SB63's passage before its veto, most committee kills, and dozens of consent-calendar deaths. Constitutional amendments face the extra three-fifths wall: majorities of 202–171 and 201–170 still failed. Party labels exist only for 2025–2026 sponsors in this record, where cross-party sponsor teams appear on 40 policy bills; the most frequent prime sponsors where records exist are in Appendix D.
+**Where bills stop, and who sponsors them.** The House floor's Inexpedient to Legislate motion is the record's great filter — 306 of the 476 policy bills ended killed, most of them there — and the Senate's table and Rule 3-23 deadline quietly ended municipal-aid bills that had passed 23–0 or 24–0. Some decisive outcomes left no roll call at all: SB63's passage before its veto, most committee kills, and dozens of consent-calendar deaths. Constitutional amendments face the extra three-fifths wall: majorities of 202–171 and 201–170 still failed. Party labels exist only for 2025–2026 sponsors in this record, where cross-party sponsor teams appear on 40 policy bills; the most frequent prime sponsors where records exist are in Appendix D.
 
 ## Federal overlap: what Washington already covers
 
@@ -133,6 +133,7 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 - **SB104 (2023):** online gambling for community-college scholarships; passed the Senate 13–11, indefinitely postponed by the House.
 - **HB1699 (2020):** the e-cigarette tax; passed the House 172–142, died on the Senate table.
 - **CACR1 and CACR2 (2021):** the income-tax and sales-tax bans; majorities of 202–171 and 201–170, short of three-fifths.
+- **CACR10 and CACR12 (2026):** the tax-law-adoption amendments; 194–158 and 193–148 in the House (CACR12 had passed the Senate 16–8), also short of three-fifths.
 
 ### Stopped early
 
@@ -142,6 +143,7 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 - **HB491 (2026):** a study of education funding alternatives to property taxes; killed 195–157.
 - **HB722 (2020) and SB485 (2026):** marijuana and hemp taxation; interim study.
 - **SB168 (2025):** online gambling with proceeds partly reimbursing town exemptions; died at the Senate deadline.
+- **HB290 (2025) and HB1596 (2026):** the cigarette and tobacco tax raises; killed in the House, the second 200–157.
 
 ## Stop cutting / restore state business taxes (BET, BPT, rooms & meals)
 
@@ -181,11 +183,12 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 - **HB1580 (2026):** taxing non-primary residences more; killed 284–55.
 - **HB1786 (2026):** the luxury second-home assessment; tabled 189–158, and the motion to take it back up failed 100–235.
 - **HB1365 (2022) and HB1467 (2020):** different rates for residential and other property; both killed.
+- **HB1417 and HB1380 (2026):** the municipal land value tax and cost-based assessment — the structural alternatives; both killed.
 - **HB101, HB766, HB782 (2025):** elderly-homeowner exemptions — the broad-relief versions; all killed in the House.
 
 ## Increase regionalization / consolidate services
 
-*Never filed as proposed: no bill offers incentives to consolidate. The legislature's energy flows the opposite way — toward easier separation from cooperative school districts.*
+*Incentives to consolidate have never been filed; mandatory consolidation of school administrative units was filed twice and failed. Most of the legislature's energy flows the opposite way — toward easier separation from cooperative school districts.*
 
 ### Already law (mostly the other direction)
 
@@ -195,30 +198,38 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 
 ### Stopped early
 
+- **HB765 (2025):** consolidating school administrative units with elected superintendents; a unanimous 18–0 Inexpedient to Legislate committee report, killed by voice vote.
+- **HB1804 (2026):** the same consolidation refiled; interim study.
+- **HB1818 (2026):** school-building consolidation planning through the education department's 10-year facilities plans; died on the Senate table.
 - **HB1644 (2026):** unilateral town withdrawal from cooperatives; interim study.
 - **HB1679 (2022):** dissolution and repeal of cooperative districts; interim study.
 
 ### Never filed
 
-- State incentives for consolidating municipal or school services, shared-service grants, or a regionalization study — the certified record contains none.
+- State incentives for consolidating municipal or school services, shared-service grants, or a regionalization study — the certified record contains none. (Consolidation mandates were filed — see above — but nothing pays or rewards towns for combining services.)
 
 ## Improve communication and public education by legislators
 
-*The one proposal already adopted as a formal recommendation by participants — and the one where 2026 finally produced laws after five years of dead transparency bills.*
+*The one proposal already adopted as a formal recommendation by participants — and the one where the 2025–2026 biennium finally produced laws after five years of dead transparency bills.*
 
 ### Already law
 
+- **HB138 (2025):** multi-year tax-impact notation required on warrant articles (Chapter 144) — the thread's first win.
 - **HB1807 (2026):** tax rate and tax impact information required on warrant articles; passed the House 185–150 (Chapter 312).
 - **SB600 (2026):** quarterly public reports to the fiscal committee on the general and education trust funds (Chapter 141).
 - **HB1514 (2026):** school monitoring and financial reports sent to school boards and authorities.
 
 ### Stopped early
 
+- **HB284 (2025):** tax impact statements on warrant articles — HB138's twin; passed the House 198–160 and was killed on the Senate floor.
+- **HB495 (2025):** a breakdown of tax changes mailed with residents' bills; killed in the House.
+- **SB225 (2025):** public notice before local property re-assessments; killed in the House.
 - **SB252 (2022):** more information on property tax bills; killed on the Senate floor 13–10.
 - **HB99 (2023):** rebate-program information printed on tax bills; killed in the House.
 - **SB217 (2025):** public notice of historic tax rates and project tax impacts; killed in the House.
 - **HB782 (2025):** relief-program public awareness (with exemption expansions); killed.
 - **HB1516 (2026):** charts and QR codes on tax bills showing where the money goes; interim study.
+- **HB1581 (2026):** notice to owners when assessed values change by set amounts; interim study.
 - **SB583 (2026):** an education-funding transparency data system; died on the Senate table.
 - **SB532 (2024):** requiring towns and school boards to post state funds received; died between the chambers.
 
@@ -248,7 +259,7 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 - **Revenue sharing (RSA 31-A):** The general-fund aid statute for cities and towns — suspended in every budget since 2010, repealed outright by HB2 2025.
 - **School building aid:** State grants toward school construction; funded at $30 million in 2021, with the program's rules fought over in every session since.
 - **SWEPT (statewide education property tax):** The $363 million property tax the state requires towns to raise and keep for their schools — counted as state aid, collected locally. Every structural change to it died in 2023–2026.
-- **Tax cap:** A charter or ballot limit on how fast a town, city, or school district budget may grow; cap laws passed in 2021, 2024, 2025, and 2026.
+- **Tax cap:** A charter or ballot limit on how fast a town, city, or school district budget may grow; cap and budget-cap laws passed in 2021, 2024, 2025 (three, including SB105's town budget caps), and 2026.
 - **Video lottery terminals (VLTs):** Slot-style machines legalized by HB2 2025 at charitable gaming facilities — 31 percent of machine revenue goes to the state, and SB83 routes state money to reimburse town exemptions.
 
 ## Legislative process glossary

@@ -130,14 +130,24 @@ Every floor roll call recorded for policy bills in the set, from the official Ge
 | 2025 | HB282 | Senate | 2025-06-26 | Floor Amendment | 24 | 0 | 100.0 | R 16–0, D 8–0 |
 | 2025 | HB282 | Senate | 2025-06-26 | Suspension of all Rules Necessary | 24 | 0 | 100.0 | R 16–0, D 8–0 |
 | 2025 | HB282 | House | 2025-06-26 | Concur | 322 | 41 | 88.7 | R 160–41, D 162–0 |
+| 2025 | HB284 | House | 2025-03-27 | OTPA | 198 | 160 | 55.3 | R 196–3, D 2–157 |
 | 2025 | HB374 | House | 2025-03-27 | OTPA | 195 | 159 | 55.1 | R 194–3, D 1–156 |
 | 2025 | HB502 | House | 2025-02-20 | ITL | 209 | 163 | 56.2 | R 205–0, D 4–163 |
 | 2025 | HB503 | House | 2025-03-06 | ITL | 345 | 27 | 92.7 | R 207–0, D 138–27 |
 | 2025 | HB675 | House | 2025-03-13 | OTPA | 190 | 185 | 50.7 | R 190–15, D 0–169, I 0–1 |
+| 2025 | SB105 | House | 2025-05-08 | OTPA | 193 | 168 | 53.5 | R 192–9, D 1–159 |
+| 2025 | SB105 | Senate | 2025-05-15 | Concur | 15 | 8 | 65.2 | R 15–0, D 0–8 |
 | 2025 | SB20 | Senate | 2025-01-30 | Ought to Pass | 23 | 0 | 100.0 | R 15–0, D 8–0 |
 | 2025 | SB275 | Senate | 2025-03-27 | Inexpedient to Legislate | 16 | 8 | 66.7 | R 16–0, D 0–8 |
+| 2025 | SB4 | Senate | 2025-01-30 | Ought to Pass | 23 | 0 | 100.0 | R 15–0, D 8–0 |
 | 2025 | SB83 | Senate | 2025-03-27 | Floor Amendment | 8 | 16 | 33.3 | R 0–16, D 8–0 |
 | 2025 | SB83 | Senate | 2025-03-27 | Floor Amendment | 8 | 16 | 33.3 | R 0–16, D 8–0 |
+| 2026 | CACR10 | House | 2026-03-05 | Adopt Floor Amendment | 193 | 158 | 55.0 | R 191–0, D 2–158 |
+| 2026 | CACR10 | House | 2026-03-05 | OTPA | 194 | 158 | 55.1 | R 191–0, D 3–158 |
+| 2026 | CACR12 | Senate | 2026-02-19 | Ought to Pass | 16 | 8 | 66.7 | R 16–0, D 0–8 |
+| 2026 | CACR12 | House | 2026-05-14 | Adopt Amendment | 192 | 148 | 56.5 | R 189–0, D 3–148 |
+| 2026 | CACR12 | House | 2026-05-14 | Adopt Floor Amendment | 17 | 322 | 5.0 | R 1–188, D 16–134 |
+| 2026 | CACR12 | House | 2026-05-14 | OTPA | 193 | 148 | 56.6 | R 189–1, D 4–147 |
 | 2026 | HB1002 | House | 2026-02-12 | Table | 187 | 157 | 54.4 | R 30–157, D 157–0 |
 | 2026 | HB1121 | House | 2026-03-11 | Adopt Amendment | 149 | 187 | 44.3 | R 0–187, D 149–0 |
 | 2026 | HB1121 | House | 2026-03-11 | OTPA | 187 | 152 | 55.2 | R 187–0, D 0–152 |
@@ -154,6 +164,7 @@ Every floor roll call recorded for policy bills in the set, from the official Ge
 | 2026 | HB155 | House | 2026-06-04 | Adopt CofC Report | 195 | 157 | 55.4 | R 193–0, D 2–156, I 0–1 |
 | 2026 | HB1565 | House | 2026-03-11 | Reconsider | 18 | 311 | 5.5 | R 0–182, D 18–129 |
 | 2026 | HB1580 | House | 2026-02-12 | ITL | 284 | 55 | 83.8 | R 184–2, D 100–53 |
+| 2026 | HB1596 | House | 2026-02-12 | ITL | 200 | 157 | 56.0 | R 196–2, D 4–155 |
 | 2026 | HB1636 | House | 2026-02-12 | ITL | 284 | 76 | 78.9 | R 200–0, D 84–76 |
 | 2026 | HB1708 | House | 2026-03-12 | Special Order | 156 | 195 | 44.4 | R 1–190, D 155–5 |
 | 2026 | HB1786 | House | 2026-02-19 | Table | 189 | 158 | 54.5 | R 187–0, D 2–158 |
@@ -172,6 +183,7 @@ Every floor roll call recorded for policy bills in the set, from the official Ge
 | 2026 | HB651 | House | 2026-01-07 | ITL | 190 | 155 | 55.1 | R 190–1, D 0–154 |
 | 2026 | SB513 | Senate | 2026-02-19 | Ought to Pass | 16 | 8 | 66.7 | R 16–0, D 0–8 |
 | 2026 | SB582 | Senate | 2026-02-05 | Inexpedient to Legislate | 16 | 8 | 66.7 | R 16–0, D 0–8 |
+| 2026 | SB634 | Senate | 2026-01-29 | Inexpedient to Legislate | 15 | 9 | 62.5 | R 15–1, D 0–8 |
 | 2026 | SB636 | Senate | 2026-01-29 | Inexpedient to Legislate | 16 | 8 | 66.7 | R 16–0, D 0–8 |
 | 2026 | SB643 | Senate | 2026-03-05 | Ought to Pass w/Amendment | 16 | 8 | 66.7 | R 16–0, D 0–8 |
 | 2026 | SB643 | House | 2026-05-14 | OTPA | 164 | 150 | 52.2 | R 164–5, D 0–145 |
@@ -209,8 +221,11 @@ Bills that won a floor majority somewhere and still did not become law.
 | 2024 HB1656 | Would have changed special-education adequacy grant amounts; interim study. | House 349-26 (OTPA) | sent to interim study by the Senate |
 | 2024 HB546 | Would have changed the school building aid program; interim study. | House 182-178 (OTP) | sent to interim study by the Senate |
 | 2024 SB504 | Would have changed current use land rules; died between the chambers. | Senate 14-10 (Ought to Pass w/Amendment) | House refused the other chamber's request for a conference committee |
+| 2025 HB284 | Would have required tax impact statements on municipal warrant articles; passed the House, killed on the Senate floor. | House 198-160 (OTPA) | killed on the Senate floor (Inexpedient to Legislate) |
 | 2025 HB675 | Would have raised the statewide education property tax and required towns to remit the excess to the state. | House 190-185 (OTPA) | killed on the House floor (Inexpedient to Legislate; reconsideration failed) |
 | 2025 SB20 | Would have restored a state share of local employers' retirement system contributions; died at the Senate's deadline. | Senate 23-0 (Ought to Pass) | killed at the Senate's end-of-year deadline (Senate Rule 3-23) |
+| 2026 CACR10 | Constitutional amendment on the adoption of tax laws; won a House majority 194-158 but fell short of three-fifths. | House 194-158 (OTPA) | failed to reach the three-fifths vote a constitutional amendment needs in the House |
+| 2026 CACR12 | Constitutional amendment on the adoption of tax laws; its amended version won a House majority 193-148 but fell short of three-fifths. | Senate 16-8 (Ought to Pass) | failed to reach the three-fifths vote a constitutional amendment needs in the House |
 | 2026 HB1121 | Would have defined the cost of an adequate education. | House 187-152 (OTPA) | laid on the table in the Senate; never taken back up |
 | 2026 HB366 | Would have changed the priority of school building aid applications. | House 196-151 (Adopt Amendment) | killed on the Senate floor (Inexpedient to Legislate) |
 | 2026 SB513 | Would have required an owner's project manager on school building aid projects; died between the chambers. | Senate 16-8 (Ought to Pass) | Senate refused to accept the other chamber's changes; no conference |

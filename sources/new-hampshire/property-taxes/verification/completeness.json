@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-11T15:27:24.518374+00:00",
+  "collected_at": "2026-08-11T17:08:38.331290+00:00",
   "issue": "new-hampshire-02-property-taxes",
   "issue_slug": "property-taxes",
   "verdict": "PASS_WITH_WARNINGS",
@@ -8,7 +8,7 @@
     "fail": 0,
     "warn": 1,
     "pass": 18,
-    "bills": 530,
+    "bills": 561,
     "sessions_configured": [
       2020,
       2021,
@@ -24,8 +24,8 @@
       "2022": 72,
       "2023": 65,
       "2024": 89,
-      "2025": 65,
-      "2026": 100
+      "2025": 80,
+      "2026": 116
     }
   },
   "empty_search_terms": [
@@ -52,12 +52,12 @@
     {
       "check": "sessions_covered",
       "status": "PASS",
-      "detail": "bills/year={2020: 78, 2021: 61, 2022: 72, 2023: 65, 2024: 89, 2025: 65, 2026: 100}; missing_unexplained=[]"
+      "detail": "bills/year={2020: 78, 2021: 61, 2022: 72, 2023: 65, 2024: 89, 2025: 80, 2026: 116}; missing_unexplained=[]"
     },
     {
       "check": "bill_fields_complete",
       "status": "PASS",
-      "detail": "0 incomplete of 530"
+      "detail": "0 incomplete of 561"
     },
     {
       "check": "votes_row_per_bill",

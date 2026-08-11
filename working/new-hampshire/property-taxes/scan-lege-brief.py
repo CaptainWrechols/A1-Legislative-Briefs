@@ -71,6 +71,7 @@ if missing:
 # docket (never invented; each carries its docket citation here).
 DIVISION_WHITELIST = {
     (170, 185): "2025 HB675 reconsideration: 'Reconsider ITL (Rep. Weber): MF DV 170-185 01/08/2026 HJ 2' (division vote in the official docket)",
+    (18, 0): "2025 HB765 committee report: 'Committee Report: Inexpedient to Legislate 03/17/2025 (Vote 18-0; CC) HC 17' (recorded committee vote in the official docket, labeled as such in the brief)",
 }
 hb2_votes = set()
 for cyc in hb2["cycles"]:

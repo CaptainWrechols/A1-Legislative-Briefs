@@ -16,13 +16,13 @@
     "Context: not primarily a property-tax or revenue bill"
   ],
   "counts": {
-    "total": 530,
+    "total": 561,
     "by_relevance": {
-      "adjacent": 248,
-      "core": 232,
+      "adjacent": 259,
+      "core": 252,
       "context": 50
     },
-    "policy_set": 445
+    "policy_set": 476
   },
   "bills": [
     {
@@ -4454,6 +4454,18 @@
       "roll_call_count": 0
     },
     {
+      "bill_key": "2025:HB138",
+      "session_year": 2025,
+      "bill_no": "HB138",
+      "title": "relative to tax impact notation on warrant articles with multi-year tax impacts.",
+      "plain_topic": "Required tax impact notation on warrant articles with multi-year tax impacts (became law).",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 144)",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2025:HB147",
       "session_year": 2025,
       "bill_no": "HB147",
@@ -4526,6 +4538,18 @@
       "roll_call_count": 0
     },
     {
+      "bill_key": "2025:HB268",
+      "session_year": 2025,
+      "bill_no": "HB268",
+      "title": "relative to hearings before the board of tax and land appeals.",
+      "plain_topic": "Adjusted hearings before the board of tax and land appeals (became law).",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 76)",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2025:HB279",
       "session_year": 2025,
       "bill_no": "HB279",
@@ -4559,6 +4583,30 @@
       "relevance": "adjacent",
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2025:HB284",
+      "session_year": 2025,
+      "bill_no": "HB284",
+      "title": "requiring tax impact statements on municipal warrant articles. ",
+      "plain_topic": "Would have required tax impact statements on municipal warrant articles; passed the House, killed on the Senate floor.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "roll_call_count": 1
+    },
+    {
+      "bill_key": "2025:HB290",
+      "session_year": 2025,
+      "bill_no": "HB290",
+      "title": "increasing the taxes on cigarettes and electronic cigarettes and establishing a committee to study taxes on tobacco and other nicotine products.",
+      "plain_topic": "Would have raised cigarette and e-cigarette taxes and studied tobacco and nicotine taxation.",
+      "theme": "Meals and rooms, gaming, and other existing revenue streams",
+      "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "indefinitely postponed by the House",
       "roll_call_count": 0
     },
     {
@@ -4634,6 +4682,30 @@
       "roll_call_count": 0
     },
     {
+      "bill_key": "2025:HB421",
+      "session_year": 2025,
+      "bill_no": "HB421",
+      "title": "relative to notice of tax exempt-status filing procedures by town officials or offices.",
+      "plain_topic": "Would have changed notice of tax-exempt-status filing procedures; died in a conference committee.",
+      "theme": "Property tax relief: exemptions, credits, and deferrals",
+      "relevance": "adjacent",
+      "disposition": "died_between_chambers",
+      "stage": "died in a committee of conference (no agreed report)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2025:HB425",
+      "session_year": 2025,
+      "bill_no": "HB425",
+      "title": "allowing tax-exempt entities to keep their tax-exempt status while renting facilities or property to entities that share their mission.",
+      "plain_topic": "Would have let tax-exempt entities keep their status while renting facilities to mission-aligned entities.",
+      "theme": "Property tax relief: exemptions, credits, and deferrals",
+      "relevance": "adjacent",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the House; never taken back up",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2025:HB426",
       "session_year": 2025,
       "bill_no": "HB426",
@@ -4653,6 +4725,18 @@
       "plain_topic": "Would have changed property tax exemptions for disabled veterans.",
       "theme": "Property tax relief: exemptions, credits, and deferrals",
       "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2025:HB450",
+      "session_year": 2025,
+      "bill_no": "HB450",
+      "title": "relative to commercial property assessed clean energy and resiliency (C-PACER)",
+      "plain_topic": "Would have adjusted the commercial property assessed clean energy and resiliency (C-PACER) program.",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "adjacent",
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
       "roll_call_count": 0
@@ -4679,6 +4763,18 @@
       "relevance": "context",
       "disposition": "enacted",
       "stage": "became law (Chapter 279)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2025:HB495",
+      "session_year": 2025,
+      "bill_no": "HB495",
+      "title": "requiring cities and towns to provide a breakdown of tax changes and information on bills sent to residents.",
+      "plain_topic": "Would have required cities and towns to send residents a breakdown of tax changes with their bills.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
       "roll_call_count": 0
     },
     {
@@ -4778,6 +4874,18 @@
       "roll_call_count": 0
     },
     {
+      "bill_key": "2025:HB544",
+      "session_year": 2025,
+      "bill_no": "HB544",
+      "title": "relative to an optional local public safety assessment on certain room occupancies.",
+      "plain_topic": "Would have created an optional local public-safety assessment on room occupancies (2025 retry).",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2025:HB550",
       "session_year": 2025,
       "bill_no": "HB550",
@@ -4862,6 +4970,18 @@
       "roll_call_count": 1
     },
     {
+      "bill_key": "2025:HB625",
+      "session_year": 2025,
+      "bill_no": "HB625",
+      "title": "relative to enabling municipalities to levy payments against non-profits at a percentage of their assessed property values.",
+      "plain_topic": "Would have let municipalities levy payments against non-profits at a share of their assessed property value.",
+      "theme": "Property tax relief: exemptions, credits, and deferrals",
+      "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2025:HB642",
       "session_year": 2025,
       "bill_no": "HB642",
@@ -4910,6 +5030,18 @@
       "roll_call_count": 1
     },
     {
+      "bill_key": "2025:HB688",
+      "session_year": 2025,
+      "bill_no": "HB688",
+      "title": "authorizing municipalities to tax charitable gaming facilities based on their enterprise value.",
+      "plain_topic": "Would have let municipalities tax charitable gaming facilities on their enterprise value.",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2025:HB689",
       "session_year": 2025,
       "bill_no": "HB689",
@@ -4953,6 +5085,18 @@
       "plain_topic": "Would have awarded attorney's fees for successful local assessment appeals.",
       "theme": "Assessment, abatement, and property tax administration",
       "relevance": "adjacent",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2025:HB765",
+      "session_year": 2025,
+      "bill_no": "HB765",
+      "title": "consolidating school administrative units and making school superintendents jobs an elected position.",
+      "plain_topic": "Would have consolidated school administrative units and made superintendents elected.",
+      "theme": "School district and municipal consolidation or cooperation",
+      "relevance": "core",
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
       "roll_call_count": 0
@@ -5016,6 +5160,18 @@
       "disposition": "died_on_table",
       "stage": "laid on the table in the House; never taken back up",
       "roll_call_count": 0
+    },
+    {
+      "bill_key": "2025:SB105",
+      "session_year": 2025,
+      "bill_no": "SB105",
+      "title": "enabling towns to adopt budget caps.",
+      "plain_topic": "Enabled towns to adopt budget caps (became law).",
+      "theme": "Tax caps and local budget limits",
+      "relevance": "core",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 131)",
+      "roll_call_count": 2
     },
     {
       "bill_key": "2025:SB168",
@@ -5090,6 +5246,18 @@
       "roll_call_count": 0
     },
     {
+      "bill_key": "2025:SB225",
+      "session_year": 2025,
+      "bill_no": "SB225",
+      "title": "requiring public notice before re-assessment of property values for local tax purposes.",
+      "plain_topic": "Would have required public notice before local property re-assessments; killed in the House.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2025:SB275",
       "session_year": 2025,
       "bill_no": "SB275",
@@ -5138,6 +5306,18 @@
       "roll_call_count": 0
     },
     {
+      "bill_key": "2025:SB4",
+      "session_year": 2025,
+      "bill_no": "SB4",
+      "title": "relative to commercial property assessed clean energy and resiliency (C-PACER).",
+      "plain_topic": "Enabled commercial property assessed clean energy and resiliency (C-PACER) financing districts (became law).",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 1)",
+      "roll_call_count": 1
+    },
+    {
       "bill_key": "2025:SB46",
       "session_year": 2025,
       "bill_no": "SB46",
@@ -5184,6 +5364,30 @@
       "disposition": "enacted",
       "stage": "became law (Chapter 16)",
       "roll_call_count": 2
+    },
+    {
+      "bill_key": "2026:CACR10",
+      "session_year": 2026,
+      "bill_no": "CACR10",
+      "title": "(New Title) the adoption of tax laws.",
+      "plain_topic": "Constitutional amendment on the adoption of tax laws; won a House majority 194-158 but fell short of three-fifths.",
+      "theme": "New or broad-based taxes and constitutional tax limits",
+      "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "failed to reach the three-fifths vote a constitutional amendment needs in the House",
+      "roll_call_count": 2
+    },
+    {
+      "bill_key": "2026:CACR12",
+      "session_year": 2026,
+      "bill_no": "CACR12",
+      "title": "(New Title) the adoption of tax laws.",
+      "plain_topic": "Constitutional amendment on the adoption of tax laws; its amended version won a House majority 193-148 but fell short of three-fifths.",
+      "theme": "New or broad-based taxes and constitutional tax limits",
+      "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "failed to reach the three-fifths vote a constitutional amendment needs in the House",
+      "roll_call_count": 4
     },
     {
       "bill_key": "2026:CACR18",
@@ -5378,6 +5582,30 @@
       "roll_call_count": 0
     },
     {
+      "bill_key": "2026:HB1288",
+      "session_year": 2026,
+      "bill_no": "HB1288",
+      "title": "relative to enabling school administrative units to adopt budget caps.",
+      "plain_topic": "Would have let school administrative units adopt budget caps; interim study.",
+      "theme": "Tax caps and local budget limits",
+      "relevance": "core",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2026:HB1293",
+      "session_year": 2026,
+      "bill_no": "HB1293",
+      "title": "taxing certain properties owned by charitable or non-profit organizations.",
+      "plain_topic": "Would have taxed certain properties owned by charitable or non-profit organizations; interim study.",
+      "theme": "Property tax relief: exemptions, credits, and deferrals",
+      "relevance": "core",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2026:HB1296",
       "session_year": 2026,
       "bill_no": "HB1296",
@@ -5438,6 +5666,18 @@
       "roll_call_count": 2
     },
     {
+      "bill_key": "2026:HB1380",
+      "session_year": 2026,
+      "bill_no": "HB1380",
+      "title": "requiring the assessment of real property and land be based on replacement or cost-based value.",
+      "plain_topic": "Would have based property assessments on replacement or cost-based value.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2026:HB1383",
       "session_year": 2026,
       "bill_no": "HB1383",
@@ -5495,6 +5735,18 @@
       "relevance": "adjacent",
       "disposition": "died_on_table",
       "stage": "laid on the table in the House; never taken back up",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2026:HB1417",
+      "session_year": 2026,
+      "bill_no": "HB1417",
+      "title": "enabling municipalities, cities, and towns to adopt a land value tax system and making an appropriation therefor.",
+      "plain_topic": "Would have let municipalities adopt a land value tax system.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
       "roll_call_count": 0
     },
     {
@@ -5690,6 +5942,42 @@
       "roll_call_count": 1
     },
     {
+      "bill_key": "2026:HB1581",
+      "session_year": 2026,
+      "bill_no": "HB1581",
+      "title": "(New Title) allowing municipalities to adopt a requirement that property owners be given notice when the assessed value of their property changes by certain amounts.",
+      "plain_topic": "Would have let municipalities require notice when a property's assessed value changes by set amounts; interim study.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "core",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2026:HB1583",
+      "session_year": 2026,
+      "bill_no": "HB1583",
+      "title": "permitting municipalities to establish special assessment districts for infrastructure improvements.",
+      "plain_topic": "Would have let municipalities create special assessment districts for infrastructure improvements.",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "adjacent",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2026:HB1596",
+      "session_year": 2026,
+      "bill_no": "HB1596",
+      "title": "relative to the collection of certain health care program premiums; funding for the university system of New Hampshire; and raising the tobacco tax.",
+      "plain_topic": "Would have raised the tobacco tax, with health-premium and university funding provisions.",
+      "theme": "Meals and rooms, gaming, and other existing revenue streams",
+      "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 1
+    },
+    {
       "bill_key": "2026:HB1597",
       "session_year": 2026,
       "bill_no": "HB1597",
@@ -5771,6 +6059,30 @@
       "relevance": "core",
       "disposition": "interim_study",
       "stage": "sent to interim study by the House",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2026:HB1649",
+      "session_year": 2026,
+      "bill_no": "HB1649",
+      "title": "prohibiting certain tax dollars from being donated to non-profit organizations.",
+      "plain_topic": "Would have barred donating certain tax dollars to non-profit organizations.",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "adjacent",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2026:HB1654",
+      "session_year": 2026,
+      "bill_no": "HB1654",
+      "title": "requiring a property owner to pay all taxes or charges on their property prior to being issued certain building or occupancy permits.",
+      "plain_topic": "Would have required all property taxes to be paid before building or occupancy permits issue.",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "adjacent",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
       "roll_call_count": 0
     },
     {
@@ -5942,6 +6254,18 @@
       "roll_call_count": 1
     },
     {
+      "bill_key": "2026:HB1804",
+      "session_year": 2026,
+      "bill_no": "HB1804",
+      "title": "consolidating school administrative units, making chief school administrator jobs an elected position, and defining education roles.",
+      "plain_topic": "Would have consolidated school administrative units with elected chief administrators; interim study.",
+      "theme": "School district and municipal consolidation or cooperation",
+      "relevance": "core",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2026:HB1807",
       "session_year": 2026,
       "bill_no": "HB1807",
@@ -5963,6 +6287,18 @@
       "relevance": "context",
       "disposition": "killed_floor",
       "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "roll_call_count": 0
+    },
+    {
+      "bill_key": "2026:HB1818",
+      "session_year": 2026,
+      "bill_no": "HB1818",
+      "title": "(New Title) requiring the department of education to use its 10-year school facilities plans to plan and project out building consolidation projects.",
+      "plain_topic": "Would have directed the education department to plan school-building consolidation projects; died on the Senate table.",
+      "theme": "School district and municipal consolidation or cooperation",
+      "relevance": "adjacent",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
       "roll_call_count": 0
     },
     {
@@ -6110,6 +6446,18 @@
       "roll_call_count": 4
     },
     {
+      "bill_key": "2026:HB635",
+      "session_year": 2026,
+      "bill_no": "HB635",
+      "title": "relative to taxing non-profit entities who settle illegal immigrants as for-profit entities.",
+      "plain_topic": "Would have taxed non-profits that settle undocumented immigrants as for-profit entities; interim study.",
+      "theme": "Property tax relief: exemptions, credits, and deferrals",
+      "relevance": "adjacent",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the House",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2026:HB651",
       "session_year": 2026,
       "bill_no": "HB651",
@@ -6230,6 +6578,18 @@
       "roll_call_count": 0
     },
     {
+      "bill_key": "2026:SB489",
+      "session_year": 2026,
+      "bill_no": "SB489",
+      "title": "(New Title) altering the appointment process for the board of tax and land appeals.",
+      "plain_topic": "Changed the appointment process for the board of tax and land appeals (became law).",
+      "theme": "Assessment, abatement, and property tax administration",
+      "relevance": "adjacent",
+      "disposition": "enacted",
+      "stage": "became law (Chapter 64)",
+      "roll_call_count": 0
+    },
+    {
       "bill_key": "2026:SB491",
       "session_year": 2026,
       "bill_no": "SB491",
@@ -6300,6 +6660,18 @@
       "disposition": "enacted",
       "stage": "became law (Chapter 141)",
       "roll_call_count": 0
+    },
+    {
+      "bill_key": "2026:SB634",
+      "session_year": 2026,
+      "bill_no": "SB634",
+      "title": "enabling municipalities to adopt a municipal occupancy fee.",
+      "plain_topic": "Would have let municipalities adopt a municipal occupancy fee (2026 retry); killed on the Senate floor.",
+      "theme": "Municipal revenue, state aid, and state budget mechanics",
+      "relevance": "core",
+      "disposition": "killed_floor",
+      "stage": "killed on the Senate floor (Inexpedient to Legislate)",
+      "roll_call_count": 1
     },
     {
       "bill_key": "2026:SB635",

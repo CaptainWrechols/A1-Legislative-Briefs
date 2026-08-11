@@ -16766,6 +16766,91 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB138",
+      "title": "relative to tax impact notation on warrant articles with multi-year tax impacts.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  0138",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "144",
+      "bill_type": 1,
+      "legislationID": 285,
+      "effective_date": "08/30/2025",
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Jose Cambrils",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Tony Caplan",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Fracht",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Maureen Mooney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Preece",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Vanessa Sheehan",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Walter Spilsbury",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Daniel Veilleux",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB147",
       "title": "relative to clarifying tax exemptions for properties used by religious, educational, and charitable organizations.",
       "found_by_terms": [
@@ -17099,6 +17184,31 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB268",
+      "title": "relative to hearings before the board of tax and land appeals.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  0268",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "76",
+      "bill_type": 1,
+      "legislationID": 359,
+      "effective_date": "06/10/2025",
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Bob Lynn",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB279",
       "title": "establishing a committee to study recipe and process approval for homestead foods.\u00a0\u00a0",
       "found_by_terms": [
@@ -17259,6 +17369,80 @@
         }
       ],
       "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB284",
+      "title": "requiring tax impact statements on municipal warrant articles. ",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  0284",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 646,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "JD Bernardy",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Pam Brown",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Susan Porcelli",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kenneth Weyler",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB290",
+      "title": "increasing the taxes on cigarettes and electronic cigarettes and establishing a committee to study taxes on tobacco and other nicotine products.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  0290",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 649,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Jerry Stringham",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        }
+      ]
     },
     {
       "session_year": 2025,
@@ -17571,6 +17755,152 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB421",
+      "title": "relative to notice of tax exempt-status filing procedures by town officials or offices.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  0421",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 307,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Mark Pearson",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jose Cambrils",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Glenn Cordelli",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Debra DeSimone",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "John Janigian",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Wayne MacDonald",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Maureen Mooney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Paul Terry",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB425",
+      "title": "allowing tax-exempt entities to keep their tax-exempt status while renting facilities or property to entities that share their mission.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  0425",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 309,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Mark Pearson",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jose Cambrils",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Glenn Cordelli",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Debra DeSimone",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "John Janigian",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Paul Terry",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB426",
       "title": "relative to property tax exemptions for charitable organizations for the prior tax year.",
       "found_by_terms": [
@@ -17733,6 +18063,61 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB450",
+      "title": "relative to commercial property assessed clean energy and resiliency (C-PACER)",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  0450",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 875,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Sherman Packard",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "John Hunt",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "David Rochefort",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Alexis Simpson",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Michael Vose",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kenneth Weyler",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB483",
       "title": "relative to the definition of a scholarship organization for purposes of the education tax credit.",
       "found_by_terms": [
@@ -17812,6 +18197,55 @@
         }
       ],
       "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB495",
+      "title": "requiring cities and towns to provide a breakdown of tax changes and information on bills sent to residents.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  0495",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 825,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Ross Berry",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Samuel Farrington",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ]
     },
     {
       "session_year": 2025,
@@ -18075,6 +18509,67 @@
         }
       ],
       "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB544",
+      "title": "relative to an optional local public safety assessment on certain room occupancies.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  0544",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 379,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "David Paige",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Thomas Buco",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Mark McConkey",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jonathan Smith",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Charlie St. Clair",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Stephen Woodcock",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ]
     },
     {
       "session_year": 2025,
@@ -18418,6 +18913,37 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB625",
+      "title": "relative to enabling municipalities to levy payments against non-profits at a percentage of their assessed property values.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  0625",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 622,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Bill Bolton",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Thomas Schamberg",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB642",
       "title": "allowing the sale of dehydrated meat without a homestead food license.",
       "found_by_terms": [
@@ -18629,6 +19155,49 @@
         }
       ],
       "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB688",
+      "title": "authorizing municipalities to tax charitable gaming facilities based on their enterprise value.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  0688",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 399,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Bill Ohm",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Susan Almy",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "John Cloutier",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Sanjeev Manohar",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ]
     },
     {
       "session_year": 2025,
@@ -18878,6 +19447,79 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB765",
+      "title": "consolidating school administrative units and making school superintendents jobs an elected position.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  0765",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1167,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Dan McGuire",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Rich\u00e9 Colcombe",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Glenn Cordelli",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Bob Lynn",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "James Tierney",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Ruth Ward",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Kenneth Weyler",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB766",
       "title": "enabling municipalities to adopt an exemption from the local education property tax for certain elderly residents.",
       "found_by_terms": [
@@ -19071,6 +19713,49 @@
         }
       ],
       "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB105",
+      "title": "enabling towns to adopt budget caps.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "SB  0105",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "131",
+      "bill_type": 2,
+      "legislationID": 1144,
+      "effective_date": "8/23/2025",
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "James Gray",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ]
     },
     {
       "session_year": 2025,
@@ -19509,6 +20194,55 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "SB225",
+      "title": "requiring public notice before re-assessment of property values for local tax purposes.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "SB  0225",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 341,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Gregory Hill",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Bill Ohm",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kimberly Rice",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "SB275",
       "title": "providing property tax relief for some child care agencies.",
       "found_by_terms": [
@@ -19747,6 +20481,37 @@
         }
       ],
       "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB4",
+      "title": "relative to commercial property assessed clean energy and resiliency (C-PACER).",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "SB  0004",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "1",
+      "bill_type": 2,
+      "legislationID": 991,
+      "effective_date": "1/1/2026",
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Tara Reardon",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ]
     },
     {
       "session_year": 2025,
@@ -19992,6 +20757,194 @@
         }
       ],
       "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "CACR10",
+      "title": "(New Title) the adoption of tax laws.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "CACR0010",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 3,
+      "legislationID": 1732,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Donald McFarlane",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Sayra DeVito",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Samuel Farrington",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Kofalt",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tom Mannion",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jonathan Morton",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jeanine Notter",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "John Sellers",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "James Spillane",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "CACR12",
+      "title": "(New Title) the adoption of tax laws.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "CACR0012",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 13,
+      "legislationID": 1308,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Daryl Abbas",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Regina Birdsell",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "James Gray",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Mark McConkey",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Tim McGough",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "r",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Denise Ricciardi",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Rochefort",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        }
+      ]
     },
     {
       "session_year": 2026,
@@ -20745,6 +21698,98 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB1288",
+      "title": "relative to enabling school administrative units to adopt budget caps.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  1288",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2022,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Michael Vose",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Liz Barbour",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Margaret Drye",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Gregory Hill",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1293",
+      "title": "taxing certain properties owned by charitable or non-profit organizations.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  1293",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2013,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Bill Bolton",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Thomas Schamberg",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB1296",
       "title": "relative to the conditions for, and procedures for the adoption of, the elderly tax exemption.",
       "found_by_terms": [
@@ -21002,6 +22047,61 @@
         }
       ],
       "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1380",
+      "title": "requiring the assessment of real property and land be based on replacement or cost-based value.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  1380",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2130,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Kelley Potenza",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Claudine Burnham",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Susan DeRoy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jaci Grote",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jonah Wheeler",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ]
     },
     {
       "session_year": 2026,
@@ -21303,6 +22403,31 @@
         }
       ],
       "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1417",
+      "title": "enabling municipalities, cities, and towns to adopt a land value tax system and making an appropriation therefor.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  1417",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2398,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        }
+      ]
     },
     {
       "session_year": 2026,
@@ -22363,6 +23488,123 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB1581",
+      "title": "(New Title) allowing municipalities to adopt a requirement that property owners be given notice when the assessed value of their property changes by certain amounts.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  1581",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2437,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Robert Wherry",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Mary Ford",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Donald McFarlane",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Linda McGrath",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Mary Murphy",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1583",
+      "title": "permitting municipalities to establish special assessment districts for infrastructure improvements.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  1583",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2447,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Joe Sweeney",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1596",
+      "title": "relative to the collection of certain health care program premiums; funding for the university system of New Hampshire; and raising the tobacco tax.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  1596",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2154,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Jerry Stringham",
+          "party": "D",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Wayne Burton",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Terry Spahr",
+          "party": "D",
+          "body": "H",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB1597",
       "title": "relative to business profits tax expense deductions.",
       "found_by_terms": [
@@ -22646,6 +23888,104 @@
         }
       ],
       "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1649",
+      "title": "prohibiting certain tax dollars from being donated to non-profit organizations.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  1649",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2384,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Lorie Ball",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Cindy Bennett",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Travis Corcoran",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Lisa Freeman",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Henry Giasson",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Dennis Mannion",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Kristine Perez",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Lilli Walsh",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1654",
+      "title": "requiring a property owner to pay all taxes or charges on their property prior to being issued certain building or occupancy permits.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  1654",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2432,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Wayne Hemingway",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Dale Girard",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ]
     },
     {
       "session_year": 2026,
@@ -23385,6 +24725,91 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB1804",
+      "title": "consolidating school administrative units, making chief school administrator jobs an elected position, and defining education roles.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  1804",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 2464,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Dan McGuire",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        },
+        {
+          "name": "Margaret Drye",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Jim Kofalt",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Erica Layon",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Sherman Packard",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Katy Peternel",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Ruth Ward",
+          "party": "R",
+          "body": "S",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB1807",
       "title": "relative to information on tax rates and tax impact information on warrant articles.",
       "found_by_terms": [
@@ -23518,6 +24943,31 @@
         }
       ],
       "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1818",
+      "title": "(New Title) requiring the department of education to use its 10-year school facilities plans to plan and project out building consolidation projects.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  1818",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 1697,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Rick Ladd",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        }
+      ]
     },
     {
       "session_year": 2026,
@@ -24207,6 +25657,31 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB635",
+      "title": "relative to taxing non-profit entities who settle illegal immigrants as for-profit entities.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "HB  0635",
+      "general_status": "HOUSE",
+      "chapter_no": null,
+      "bill_type": 1,
+      "legislationID": 682,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Travis Corcoran",
+          "party": "R",
+          "body": "H",
+          "prime": true
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB651",
       "title": "modifying the base cost and differential aid costs of an adequate education.",
       "found_by_terms": [
@@ -24674,6 +26149,43 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "SB489",
+      "title": "(New Title) altering the appointment process for the board of tax and land appeals.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "SB  0489",
+      "general_status": "SIGNED BY GOVERNOR",
+      "chapter_no": "64",
+      "bill_type": 2,
+      "legislationID": 1243,
+      "effective_date": "5/8/2026",
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Kevin Avard",
+          "party": "R",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Liz Barbour",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        },
+        {
+          "name": "Shane Sirois",
+          "party": "R",
+          "body": "H",
+          "prime": false
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "SB491",
       "title": "(New Title) enabling students to utilize education freedom account funds to pay for certain career and technical education funding and removing references to \"curriculum frameworks\" as they relate to the substantive educational content of an adequate education.",
       "found_by_terms": [
@@ -25106,6 +26618,67 @@
         }
       ],
       "text_available_in_sql": true
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB634",
+      "title": "enabling municipalities to adopt a municipal occupancy fee.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "current-biennium certification sweep over the complete SQL legislation table (wide-net title match, human-reviewed)",
+      "expanded_bill_no": "SB  0634",
+      "general_status": "SENATE",
+      "chapter_no": null,
+      "bill_type": 2,
+      "legislationID": 1394,
+      "effective_date": null,
+      "text_available_in_sql": true,
+      "sponsors": [
+        {
+          "name": "Suzanne Prentiss",
+          "party": "D",
+          "body": "S",
+          "prime": true
+        },
+        {
+          "name": "Debra Altschiller",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Donovan Fenton",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Pat Long",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "Cindy Rosenwald",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        },
+        {
+          "name": "David Watters",
+          "party": "D",
+          "body": "S",
+          "prime": false
+        }
+      ]
     },
     {
       "session_year": 2026,

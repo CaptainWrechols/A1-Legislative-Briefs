@@ -373,25 +373,33 @@ One row per bill: year, number, subject, prime sponsor, each chamber's decisive 
 | 2025 | HB123 | Defined pre-sequestration timber tax revenue and paused carbon-sequestration deals (became law). | Arnold Davis | OTPA 197–158 | passed (voice/consent) | Signed — Ch. 164 |
 | 2025 | HB135 | Would have addressed collection of other states' sales taxes by New Hampshire businesses. | Michael Harrington | killed (voice/division) | — | — |
 | 2025 | HB137 | Would have let municipalities keep excess statewide education property tax money for local school and municipa | Glenn Cordelli | killed (voice/division) | — | — |
+| 2025 | HB138 | Required tax impact notation on warrant articles with multi-year tax impacts (became law). | Diane Pauer | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 144 |
 | 2025 | HB147 | Would have clarified the property tax exemptions for religious, educational, and charitable organizations. | Maureen Mooney | tabled (voice/division) | — | — |
 | 2025 | HB150 | Homestead food operations and commercial kitchens (became law); matched by 'homestead' but not a tax bill. | Barbara Comtois | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 18 |
 | 2025 | HB2 | The 2025 omnibus budget trailer itself; its tax and revenue sections are analyzed section-by-section in the HB | Kenneth Weyler | Adopt CofC Report 184–183 | Conference Committee Report 16–8 | Signed — Ch. 141 |
 | 2025 | HB200 | Changed the procedure for overriding a local tax cap (became law). | Diane Pauer | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 170 |
 | 2025 | HB237 | Would have restricted special-education aid to students receiving special education services. | Mike Belcher | killed (voice/division) | — | — |
 | 2025 | HB255 | Would have raised the share of business profits tax revenue deposited in the education trust fund. | Thomas Schamberg | killed (voice/division) | — | — |
+| 2025 | HB268 | Adjusted hearings before the board of tax and land appeals (became law). | Bob Lynn | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 76 |
 | 2025 | HB279 | Homestead food recipe study (became law); matched by 'homestead' but not a tax bill. | Peter Bixby | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 44 |
 | 2025 | HB282 | First-responder benefits bill that also adjusted education adequacy grant determination (became law). | Douglas Trottier | Concur 322–41 | Laid on Table 14–9 | Signed — Ch. 142 |
 | 2025 | HB283 | Would have changed the list of subjects in an adequate education. | Dan McGuire | killed (voice/division) | — | — |
+| 2025 | HB284 | Would have required tax impact statements on municipal warrant articles; passed the House, killed on the Senat | JD Bernardy | OTPA 198–160 | killed (voice/division) | — |
+| 2025 | HB290 | Would have raised cigarette and e-cigarette taxes and studied tobacco and nicotine taxation. | Jerry Stringham | indefinitely postponed (voice) | — | — |
 | 2025 | HB304 | Homestead kitchen labeling (became law); matched by 'homestead' but not a tax bill. | Peter Bixby | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 28 |
 | 2025 | HB307 | Homestead food production areas (became law); matched by 'homestead' but not a tax bill. | Peter Bixby | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 46 |
 | 2025 | HB318 | Would have raised the share of business enterprise tax revenue deposited in the education trust fund. | Thomas Schamberg | killed (voice/division) | — | — |
 | 2025 | HB374 | Rewrote local tax cap and budget laws (became law). | Diane Pauer | OTPA 195–159 | passed (voice/consent) | Signed — Ch. 183 |
 | 2025 | HB394 | Defined cooperative school district budget committee powers and board members' roles (became law). | Walter Spilsbury | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 128 |
 | 2025 | HB412 | Cooperative school board vacancy elections; governance housekeeping. | Walter Spilsbury | killed (voice/division) | — | — |
+| 2025 | HB421 | Would have changed notice of tax-exempt-status filing procedures; died in a conference committee. | Mark Pearson | passed (voice/consent) | passed (voice/consent) | — |
+| 2025 | HB425 | Would have let tax-exempt entities keep their status while renting facilities to mission-aligned entities. | Mark Pearson | tabled (voice/division) | — | — |
 | 2025 | HB426 | Let charitable organizations claim property tax exemptions for the prior tax year (became law). | John MacDonald | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 30 |
 | 2025 | HB447 | Would have changed property tax exemptions for disabled veterans. | James Creighton | killed (voice/division) | — | — |
+| 2025 | HB450 | Would have adjusted the commercial property assessed clean energy and resiliency (C-PACER) program. | Sherman Packard | killed (voice/division) | — | — |
 | 2025 | HB483 | Would have redefined scholarship organizations for the education tax credit. | David Luneau | tabled (voice/division) | — | — |
 | 2025 | HB485 | Lottery winner anonymity (became law); gaming administration. | Ron Dunn | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 279 |
+| 2025 | HB495 | Would have required cities and towns to send residents a breakdown of tax changes with their bills. | Ross Berry | killed (voice/division) | — | — |
 | 2025 | HB502 | Would have required complete corporate reporting for unitary businesses and changed statewide education proper | Thomas Schamberg | ITL 209–163 | — | — |
 | 2025 | HB503 | Would have changed how tax revenues are allocated to the education trust fund. | Thomas Schamberg | ITL 345–27 | — | — |
 | 2025 | HB505 | Homestead freeze-dried foods (became law); matched by 'homestead' but not a tax bill. | Thomas Schamberg | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 193 |
@@ -400,6 +408,7 @@ One row per bill: year, number, subject, prime sponsor, each chamber's decisive 
 | 2025 | HB527 | Would have replaced the statewide education property tax with a local revenue contribution. | Sallie Fellows | killed (voice/division) | — | — |
 | 2025 | HB530 | Would have raised the real estate transfer tax share flowing to the affordable housing fund. | Jessica LaMontagne | tabled (voice/division) | — | — |
 | 2025 | HB531 | Would have capped charitable gaming revenue distributed to any one charity. | Dick Ames | killed (voice/division) | — | — |
+| 2025 | HB544 | Would have created an optional local public-safety assessment on room occupancies (2025 retry). | David Paige | killed (voice/division) | — | — |
 | 2025 | HB550 | Would have modified the base cost of an adequate education. | David Luneau | killed (voice/division) | — | — |
 | 2025 | HB560 | Medical records and DUI omnibus; matched by search terms but not a tax bill. | Melissa Litchfield | passed (voice/consent) | passed (voice/consent) | — |
 | 2025 | HB588 | Would have changed the distribution of historic horse racing pari-mutuel revenue. | Sallie Fellows | killed (voice/division) | — | — |
@@ -407,33 +416,41 @@ One row per bill: year, number, subject, prime sponsor, each chamber's decisive 
 | 2025 | HB596 | Would have set reporting requirements for meals and rooms tax collectors. | David Paige | killed (voice/division) | — | — |
 | 2025 | HB603 | Would have raised the adequacy grant for special education pupils. | Heath Howard | killed (voice/division) | — | — |
 | 2025 | HB617 | Homestead right (creditor protection) rewrite (became law); matched by 'homestead' but not a tax bill. | Melissa Litchfield | OTPA 216–146 | passed (voice/consent) | Signed — Ch. 282 |
+| 2025 | HB625 | Would have let municipalities levy payments against non-profits at a share of their assessed property value. | Bill Bolton | killed (voice/division) | — | — |
 | 2025 | HB642 | Homestead dehydrated meat sales; matched by 'homestead' but not a tax bill. | Judy Aron | killed (voice/division) | — | — |
 | 2025 | HB649 | Vehicle inspection repeal (became law); matched by 'abatement' (air pollution fund) but not a tax bill. | Michael Granger | OTP 212–143 | Rereferred 19–3; passed (voice/consent) | Signed — Ch. 69 |
 | 2025 | HB669 | Would have sent all statewide education property tax revenue to the education trust fund with one equalized st | Marjorie Smith | killed (voice/division) | — | — |
 | 2025 | HB675 | Would have raised the statewide education property tax and required towns to remit the excess to the state. | Joe Sweeney | OTPA 190–185 | — | — |
+| 2025 | HB688 | Would have let municipalities tax charitable gaming facilities on their enterprise value. | Bill Ohm | killed (voice/division) | — | — |
 | 2025 | HB689 | Would have let municipalities adopt a volunteer-incentive property tax credit. | Wayne Hemingway | killed (voice/division) | — | — |
 | 2025 | HB696 | Set how utility property taxes and statewide education property taxes apply to electric generating facilities  | Michael Vose | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 206 |
 | 2025 | HB737 | Created local options for games of chance, statewide keno, and new charitable gaming fees (became law). | Bill Boyd | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 288 |
 | 2025 | HB746 | Would have awarded attorney's fees for successful local assessment appeals. | David Love | killed (voice/division) | — | — |
+| 2025 | HB765 | Would have consolidated school administrative units and made superintendents elected. | Dan McGuire | killed (voice/division) | — | — |
 | 2025 | HB766 | Would have let municipalities exempt certain elderly residents from the local education property tax. | Charles McMahon | killed (voice/division) | — | — |
 | 2025 | HB769 | Would have changed the base adequacy cost per pupil and the statewide education property tax rate. | Linda Gould | killed (voice/division) | — | — |
 | 2025 | HB782 | Would have expanded elderly and disabled property tax exemptions and required public awareness of relief progr | Sanjeev Manohar | killed (voice/division) | — | — |
 | 2025 | HB99 | Created a property tax waiver for disabled veterans (became law). | Michael Moffett | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 15 |
 | 2025 | HR17 | House resolution affirming revenue estimates for fiscal 2025-2027. | John Janigian | tabled (voice/division) | n/a | — |
+| 2025 | SB105 | Enabled towns to adopt budget caps (became law). | Keith Murphy | OTPA 193–168 | Concur 15–8 | Signed — Ch. 131 |
 | 2025 | SB168 | Would have legalized online gambling with proceeds to the education trust fund, general fund, and municipal ex | Timothy Lang | — | died at the Senate deadline | — |
 | 2025 | SB173 | Adjusted assessment of residential property under low income housing tax credit covenants (became law). | Keith Murphy | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 120 |
 | 2025 | SB20 | Would have restored a state share of local employers' retirement system contributions; died at the Senate's de | Cindy Rosenwald | — | Ought to Pass 23–0; died at the Senate deadline | — |
 | 2025 | SB209 | School building aid project-manager requirements with a lawsuit-financing rider; died between the chambers. | Daryl Abbas | passed (voice/consent) | killed (voice/division) | — |
 | 2025 | SB217 | Would have required public notice of historic tax rates and the tax impact of proposed projects. | Victoria Sullivan | killed (voice/division) | passed (voice/consent) | — |
 | 2025 | SB224 | Would have raised the maximum optional veterans' tax credit. | Bill Gannon | — | killed (voice/division) | — |
+| 2025 | SB225 | Would have required public notice before local property re-assessments; killed in the House. | Kevin Avard | killed (voice/division) | passed (voice/consent) | — |
 | 2025 | SB275 | Would have provided property tax relief for some child care agencies. | David Watters | — | Inexpedient to Legislate 16–8 | — |
 | 2025 | SB276 | Would have raised the research and development tax credit; died at the Senate's deadline. | Ruth Ward | — | died at the Senate deadline | — |
 | 2025 | SB277 | Would have set utility property tax and SWEPT treatment of electric generating facilities; died at the deadlin | Timothy Lang | — | died at the Senate deadline | — |
 | 2025 | SB291 | Clarified the religious-use property tax exemption (became law). | Daryl Abbas | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 303 |
+| 2025 | SB4 | Enabled commercial property assessed clean energy and resiliency (C-PACER) financing districts (became law). | Daniel Innis | passed (voice/consent) | Ought to Pass 23–0 | Signed — Ch. 1 |
 | 2025 | SB46 | Would have conditioned current use eligibility near new construction on vegetated buffers. | Ruth Ward | — | killed (voice/division) | — |
 | 2025 | SB55 | Would have exempted qualifying housing projects from the land use change tax. | Timothy Lang | — | killed (voice/division) | — |
 | 2025 | SB81 | Would have raised the transfer-tax contribution to the affordable housing fund; died at the Senate's deadline. | Daniel Innis | — | died at the Senate deadline | — |
 | 2025 | SB83 | Created a state fund reimbursing towns for elderly, disabled, blind, and deaf property tax exemptions - funded | Timothy Lang | passed (voice/consent) | Floor Amendment 8–16; passed (voice/consent) | Signed — Ch. 16 |
+| 2026 | CACR10 | Constitutional amendment on the adoption of tax laws; won a House majority 194-158 but fell short of three-fif | Donald McFarlane | OTPA 194–158 | — | — |
+| 2026 | CACR12 | Constitutional amendment on the adoption of tax laws; its amended version won a House majority 193-148 but fel | Timothy Lang | OTPA 193–148 | Ought to Pass 16–8 | — |
 | 2026 | CACR18 | Constitutional amendment capping how fast state tax rates may rise each year. | Jordan Ulery | killed (voice/division) | — | — |
 | 2026 | HB1002 | Would have repealed the solar energy systems property tax exemption. | Len Turcotte | Table 187–157 | — | — |
 | 2026 | HB1021 | Moved the notice date for electing low income housing tax credit assessment (became law). | David Walker | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 207 |
@@ -450,16 +467,20 @@ One row per bill: year, number, subject, prime sponsor, each chamber's decisive 
 | 2026 | HB1227 | Would have changed how the local tax cap is calculated. | James Gruber | ITL 176–151 | — | — |
 | 2026 | HB1230 | Would have restricted increases in state tax rates and debts. | Jordan Ulery | killed (voice/division) | — | — |
 | 2026 | HB1278 | Would have given municipalities a grace period to adopt simple-majority tax cap overrides. | Eric Turer | killed (voice/division) | — | — |
+| 2026 | HB1288 | Would have let school administrative units adopt budget caps; interim study. | Michael Vose | sent to interim study (voice) | — | — |
+| 2026 | HB1293 | Would have taxed certain properties owned by charitable or non-profit organizations; interim study. | Bill Bolton | sent to interim study (voice) | — | — |
 | 2026 | HB1296 | Would have changed the conditions and adoption procedures for the elderly property tax exemption. | Eileen Kelly | passed (voice/consent) | killed (voice/division) | — |
 | 2026 | HB1300 | Put school district tax cap questions on the 2026 and 2028 general election ballots, with administrative expen | Aidan Ankarberg | Adopt CofC Report 183–170 | Conference Committee Report 15–8 | Signed — Ch. 324 |
 | 2026 | HB1324 | Would have exempted Masonic lodges from property taxation. | Kimberly Rice | killed (voice/division) | — | — |
 | 2026 | HB1331 | Let the Derry town council absorb the Derry Cooperative School District as a town department by charter amendm | Erica Layon | OTPA 193–157 | passed (voice/consent) | Signed — Ch. 165 |
 | 2026 | HB1374 | Rewrote the procedures for withdrawing from a cooperative school district and closing schools (became law). | Mary Murphy | Adopt CofC Report 179–161 | Ought to Pass w/Amendment 14–8 | Signed — Ch. 303 |
+| 2026 | HB1380 | Would have based property assessments on replacement or cost-based value. | Kelley Potenza | killed (voice/division) | — | — |
 | 2026 | HB1383 | Would have changed the methods for overriding local tax caps. | Eric Turer | died in committee | — | — |
 | 2026 | HB1385 | Would have barred negative property tax rates in certain municipalities - the statewide education property tax | Jay Markell | killed (voice/division) | — | — |
 | 2026 | HB1399 | Would have paid Claremont school renovation costs from the rainy day fund. | Hope Damon | died in committee | — | — |
 | 2026 | HB1400 | Would have created an opt-out mechanism for property tax exemptions and credits. | Jonathan Smith | killed (voice/division) | — | — |
 | 2026 | HB1409 | Would have changed where video lottery terminal revenue is deposited. | Dick Ames | tabled (voice/division) | — | — |
+| 2026 | HB1417 | Would have let municipalities adopt a land value tax system. | Joe Sweeney | killed (voice/division) | — | — |
 | 2026 | HB1420 | Would have created a temporary local newspaper advertisement tax credit; interim study. | Kristine Perez | sent to interim study (voice) | — | — |
 | 2026 | HB1433 | Created a child care tax credit for qualifying businesses (became law). | Katelyn Kuttab | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 227 |
 | 2026 | HB1434 | Would have let municipalities vote on allowing keno sales. | Len Turcotte | died in committee | — | — |
@@ -476,6 +497,9 @@ One row per bill: year, number, subject, prime sponsor, each chamber's decisive 
 | 2026 | HB1565 | Child-protection bill carrying a school building aid project-manager rider; vetoed. | James Spillane | Reconsider 18–311; passed (voice/consent) | passed (voice/consent) | VETOED — no override recorded (as of Aug 2026) |
 | 2026 | HB1579 | Would have created a committee to study ways of raising revenue for additional education spending; interim stu | Sallie Fellows | sent to interim study (voice) | — | — |
 | 2026 | HB1580 | Would have changed the taxation of non-primary residences. | Jonah Wheeler | ITL 284–55 | — | — |
+| 2026 | HB1581 | Would have let municipalities require notice when a property's assessed value changes by set amounts; interim  | Robert Wherry | passed (voice/consent) | sent to interim study (voice) | — |
+| 2026 | HB1583 | Would have let municipalities create special assessment districts for infrastructure improvements. | Joe Sweeney | killed (voice/division) | — | — |
+| 2026 | HB1596 | Would have raised the tobacco tax, with health-premium and university funding provisions. | Jerry Stringham | ITL 200–157 | — | — |
 | 2026 | HB1597 | Would have changed business profits tax expense deductions. | John Janigian | passed (voice/consent) | tabled (voice/division) | — |
 | 2026 | HB1629 | Would have repealed the business enterprise tax. | Aidan Ankarberg | killed (voice/division) | — | — |
 | 2026 | HB1636 | Would have directed the Department of Revenue Administration to study options for generating state revenue. | Thomas Oppel | ITL 284–76 | — | — |
@@ -483,6 +507,8 @@ One row per bill: year, number, subject, prime sponsor, each chamber's decisive 
 | 2026 | HB1646 | Would have created an off-site infrastructure improvement business tax credit; interim study. | Joe Sweeney | sent to interim study (voice) | — | — |
 | 2026 | HB1647 | Would have changed the taxation of farms and farm structures; interim study. | Keith Ammon | sent to interim study (voice) | — | — |
 | 2026 | HB1648 | Would have created property tax exemptions for qualifying residences; interim study. | David Luneau | sent to interim study (voice) | — | — |
+| 2026 | HB1649 | Would have barred donating certain tax dollars to non-profit organizations. | Lorie Ball | killed (voice/division) | — | — |
+| 2026 | HB1654 | Would have required all property taxes to be paid before building or occupancy permits issue. | Wayne Hemingway | killed (voice/division) | — | — |
 | 2026 | HB1659 | Would have expanded local property tax exemptions for 100-percent disabled veterans. | Ron Dunn | killed (voice/division) | — | — |
 | 2026 | HB1668 | Would have changed how the Internal Revenue Code applies to the business profits tax. | Jason Osborne | killed (voice/division) | — | — |
 | 2026 | HB1674 | Would have created a property tax exemption for certain lower-income property owners. | Ellen Read | killed (voice/division) | — | — |
@@ -497,8 +523,10 @@ One row per bill: year, number, subject, prime sponsor, each chamber's decisive 
 | 2026 | HB1799 | Would have required full state funding of an adequate education opportunity. | Dick Ames | ITL 185–159 | — | — |
 | 2026 | HB1800 | Would have changed statewide education property taxes; interim study. | Walter Spilsbury | sent to interim study (voice) | — | — |
 | 2026 | HB1803 | Would have barred holding an education tax credit scholarship and an education freedom account in the same yea | Sallie Fellows | ITL 191–157 | — | — |
+| 2026 | HB1804 | Would have consolidated school administrative units with elected chief administrators; interim study. | Dan McGuire | sent to interim study (voice) | — | — |
 | 2026 | HB1807 | Required tax rate and tax impact information on warrant articles (became law). | Katy Peternel | OTPA 185–150 | passed (voice/consent) | Signed — Ch. 312 |
 | 2026 | HB1812 | Mental health access adequacy evaluation; matched by 'adequacy' but not a tax bill. | Alicia Gregg | killed (voice/division) | — | — |
+| 2026 | HB1818 | Would have directed the education department to plan school-building consolidation projects; died on the Senat | Rick Ladd | passed (voice/consent) | tabled (voice/division) | — |
 | 2026 | HB1823 | Would have required schools and districts to publish independent audits and financial reports. | Hope Damon | died in committee | — | — |
 | 2026 | HB1826 | Would have changed the cost of an opportunity for an adequate education. | Rick Ladd | ITL 192–157 | — | — |
 | 2026 | HB1831 | Would have repealed the education trust fund targeted aid cap. | Suzanne Chretien | Table 187–158 | — | — |
@@ -511,6 +539,7 @@ One row per bill: year, number, subject, prime sponsor, each chamber's decisive 
 | 2026 | HB585 | Would have changed the property tax exemption for religious organizations. | John Janigian | killed (voice/division) | — | — |
 | 2026 | HB590 | Cooperative school board election rules; governance housekeeping. | Louise Andrus | passed (voice/consent) | killed (voice/division) | — |
 | 2026 | HB609 | Firearms authority omnibus; matched by 'taxation' in a list but not a tax bill. | Samuel Farrington | Table 182–160 | Conference Committee Report 15–8 | — |
+| 2026 | HB635 | Would have taxed non-profits that settle undocumented immigrants as for-profit entities; interim study. | Travis Corcoran | sent to interim study (voice) | — | — |
 | 2026 | HB651 | Would have modified the base cost and differential aid of an adequate education. | David Luneau | ITL 190–155 | — | — |
 | 2026 | HB660 | Would have required historic horse racing facilities to share machine revenue with host communities; interim s | Bill Ohm | sent to interim study (voice) | — | — |
 | 2026 | HB728 | Would have authorized video lottery terminals and repealed historic horse racing licensing. | Fred Doucette | killed (voice/division) | — | — |
@@ -521,12 +550,14 @@ One row per bill: year, number, subject, prime sponsor, each chamber's decisive 
 | 2026 | SB404 | Would have changed economic revitalization zone tax credits. | James Gray | — | tabled (voice/division) | — |
 | 2026 | SB418 | Homestead food licensing preemption (became law); matched by 'homestead' but not a tax bill. | Victoria Sullivan | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 246 |
 | 2026 | SB485 | Would have regulated and taxed hemp-based products; interim study. | Timothy Lang | — | sent to interim study (voice) | — |
+| 2026 | SB489 | Changed the appointment process for the board of tax and land appeals (became law). | Kevin Avard | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 64 |
 | 2026 | SB491 | Education freedom account career-and-technical spending (became law); EFA mechanics, not tax policy. | David Watters | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 256 |
 | 2026 | SB513 | Would have required an owner's project manager on school building aid projects; died between the chambers. | Daryl Abbas | passed (voice/consent) | Ought to Pass 16–8 | — |
 | 2026 | SB514 | Would have protected municipal tax-cap ballot questions from alteration; interim study. | Keith Murphy | — | sent to interim study (voice) | — |
 | 2026 | SB582 | Would have modified the base cost of an adequate education. | Debra Altschiller | — | Inexpedient to Legislate 16–8 | — |
 | 2026 | SB583 | Would have created an education funding transparency data and reporting system. | Timothy Lang | — | tabled (voice/division) | — |
 | 2026 | SB600 | Required quarterly reports to the fiscal committee on the general and education trust funds (became law). | James Gray | passed (voice/consent) | passed (voice/consent) | Signed — Ch. 141 |
+| 2026 | SB634 | Would have let municipalities adopt a municipal occupancy fee (2026 retry); killed on the Senate floor. | Suzanne Prentiss | — | Inexpedient to Legislate 15–9 | — |
 | 2026 | SB635 | Would have created a health reimbursement arrangement tax credit with DRA system money. | Denise Ricciardi | — | tabled (voice/division) | — |
 | 2026 | SB636 | Would have created small-business tax credits for documented tariff costs. | Donovan Fenton | — | Inexpedient to Legislate 16–8 | — |
 | 2026 | SB637 | Would have created tax credits for purchases from New Hampshire farms; interim study. | Rebecca Perkins Kwoka | — | sent to interim study (voice) | — |
