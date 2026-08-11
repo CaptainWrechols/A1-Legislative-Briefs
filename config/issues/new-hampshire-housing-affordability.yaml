@@ -131,9 +131,31 @@ omnibus_bills:
 
 # Phase 2 Community Conversation proposals (June-July 2026), from the
 # "NH1 - Phase 2 Constituent Proposals - Grid View for Legislators" packet
-# (Housing Affordability and Ownership grid + its Legislator Feedback page).
-# These are the organizing spine of the proposal spotlights.
+# (Housing Affordability and Ownership grid, editable .docx revision of
+# 2026-08-11). These are the organizing spine of the proposal spotlights.
 constituent_proposals:
+  - id: density-adus-alternative-housing
+    title: "Increase housing density and use ADUs / creative & alternative housing types"
+    frequency: "Very High: Nashua, Concord and online conversations"
+    starred: true   # grid marks issues the legislature has addressed recently
+    notes: >-
+      Concerns that a lot of decisions have to do with local zoning and the
+      state legislature has little power. Concerns that ADUs can still be very
+      pricey.
+    outcome: >-
+      Strong agreement that NH needs to build more but major concerns about
+      local resistance.
+    match_terms: ["accessory dwelling", "ADU", "density", "residential units", "tiny house", "yurt", "commercial zon", "multi-family", "parking"]
+  - id: downsizing-homes
+    title: "Increasing the supply of smaller, downsizing-appropriate homes"
+    frequency: "High: Nashua, Concord and online conversations"
+    notes: >-
+      Participants extensively discussed older homeowners have nowhere to
+      downsize to and the difficulty of maintaining a larger home.
+    outcome: >-
+      Strong agreement in all sessions that creative housing solutions would
+      create opportunity for seniors, freeing up their homes.
+    match_terms: ["accessory dwelling", "tiny house", "congregate", "conversion", "smaller home", "cottage"]
   - id: housing-champions-funding
     title: "Fund the Housing Champions program and review eligibility criteria"
     frequency: "Medium: Nashua and Concord"
@@ -141,43 +163,30 @@ constituent_proposals:
       Participants considered the program a positive for solving the problem,
       with concerns about funding. One table suggested applicants should rank
       higher for high-density housing.
-    consensus: "Medium: participants felt the program has bi-partisan appeal."
+    outcome: >-
+      Medium: participants felt the program has bi-partisan appeal and is a
+      "carrot & stick" solution.
     match_terms: ["housing champion", "InvestNH", "housing infrastructure", "partners in housing"]
-  - id: density-adus-alternative-housing
-    title: "Increase density and use ADUs / creative & alternative housing types"
-    frequency: "Very High: Nashua, Concord and online conversations"
-    tradeoffs: >-
-      Concerns that a lot of decisions have to do with local zoning and the
-      state legislature has little power. Concerns that ADUs can still be very
-      pricey.
-    consensus: >-
-      Strong agreement that NH needs to build more but major concerns about
-      local resistance.
-    match_terms: ["accessory dwelling", "ADU", "density", "residential units", "tiny house", "yurt", "commercial zon", "multi-family", "parking"]
   - id: corporate-buyers
     title: "Regulate corporations / private equity buying up housing; require them to pay more in taxes"
-    frequency: "High: appears multiple times in Nashua and online conversations"
-    tradeoffs: >-
+    frequency: "High: Nashua and online conversations"
+    notes: >-
       Concerns about feasibility and legislative appetite. Others noted that it
       could be challenging to design a policy without loopholes.
-    consensus: >-
-      High: strong agreement that private equity is an issue in New Hampshire
-      but some divergence on what the most effective solution is.
+    outcome: >-
+      Agreement that corporate ownership impacts housing costs but some
+      divergence on what the most effective solution is.
     match_terms: ["corporate", "private equity", "investor", "vacancy", "second home", "price-fixing", "algorithm", "registry"]
   - id: starter-homes
     title: "Reverse the affordable / luxury ratio and build entry-level \"starter\" homes"
-    frequency: "Medium: 2 tables in Nashua"
-    tradeoffs: >-
-      Some participants raised concerns about how you legislate this given the
-      market is prioritizing more expensive housing.
-    consensus: >-
-      High: after tables where the issue was discussed, there was universal
-      agreement that NH needed to build more housing aimed at new home buyers.
+    frequency: "Medium: Nashua and online"
+    notes: >-
+      Each session had discussion around the lack of starter homes and market
+      incentives to build more luxury homes.
+    outcome: >-
+      There was agreement that NH needed to build more housing aimed at new
+      home buyers but no broad consensus on how to solve the problem.
     match_terms: ["starter home", "workforce housing", "homebuyer", "home buyer", "homeownership", "first-time"]
-  - id: second-homes-strs
-    title: "Increase property taxes on second homes / restrict Airbnbs and vacation homes"
-    source_note: "Listed under 'Other constituent HOUSING proposals' on the Legislator Feedback page."
-    match_terms: ["second home", "short-term rental", "vacation", "occupancy fee", "unoccupied", "extended stay"]
 
 # Relevant NH RSA chapters for background/context.
 rsa_chapters: ["204-C", "205-A", "540", "540-A", "674", "676", "679", "79-E"]
