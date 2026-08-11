@@ -1,62 +1,66 @@
-# Package — Housing Affordability in New Hampshire (citizen-v2.0)
+# Package — NH1 Housing Legislative Brief v1.0
 
-Design Packager v2.3 · 2026-08-10 · The Forum
+The Forum · 2026-08-11 · **the template for all New Hampshire lege briefs**
 
-citizen-v2.0 is the combined legislative brief prepared for working-group and
-legislator distribution, matching the **Nevada citizen-v4.0 format** (the
-"Lege Brief" layout): the citizen brief, the proposal spotlights, the topic
-glossary, and the legislative process glossary in one document. The brief
-body carries the certified v1.2 record (289 policy bills, 59 laws; see
-`../citizen-v1/review-report.md` and the completeness certification in
-`../citizen-v1/appendices/I-sources-and-review-notes.md`). The spotlights
-cover the five housing proposals from the **NH1 Phase 2 constituent proposal
-grid** (June–July 2026 Community Conversations), now also encoded in
-`config/issues/new-hampshire-housing-affordability.yaml` under
-`constituent_proposals`. `citizen-v1/` is untouched for side-by-side
-comparison and still holds Appendices A–I.
+This folder holds the combined New Hampshire housing legislative brief in the
+**finalized, working-group-approved format** — cloned from
+`templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx`, the actual document
+used with the Nevada water working group. Format (fonts, sizes, colors,
+section architecture, stat-card table, square-bullet spotlights, two-column
+glossaries, footer) is identical by construction: the exporter reuses the
+approved file's styles, numbering, theme, and section-break structure and
+regenerates only the content.
 
 ## What's in this folder
 
 | File | What it is |
 |---|---|
-| `citizen-brief.md` | Source markdown of the combined document |
-| `citizen-brief.docx` | Word version — the primary deliverable (5 pages, LibreOffice-verified) |
-| `citizen-brief.html` | Print-ready HTML companion (5 pages, Chrome-verified) |
-| `proposal-spotlights.md` / `.docx` / `.html` | Standalone policy spotlights: each grid proposal as bulleted bill lists grouped by viability (already law / survived a repeal / proven support / stopped early / never filed), single column at 1.15 line spacing, editable Word footer (3 pages — five proposals vs. Nevada's four) |
+| `NH1-Housing-Lege-Brief.docx` | **The deliverable.** 7 pages, LibreOffice-verified: brief → policy spotlights → glossary → legislative process glossary; real Word footer ("NH1 Housing Legislative Brief v1.0" + page number) |
+| `lege-brief.md` | Source markdown (edit this, then rebuild) |
 
-## v2.0 format notes (mirroring NV v4.0)
+Appendices A–I and the review record remain in `../citizen-v1/`.
 
-- **One combined document**: brief → proposal spotlights → glossary →
-  legislative process glossary, single column throughout.
-- **Real Word footer** ("NH1 Housing Legislative Brief v2.0" plus an automatic
-  page number) — an actual footer object, editable via Insert → Footer.
-- No "THE FORUM" masthead block, per the internal team's format.
-- Type: 18pt title, 12.5pt section headers, nothing below 10pt.
-- The glossaries are New Hampshire-specific: the topic glossary defines only
-  terms the brief and spotlights actually use; the process glossary covers NH
-  practice (Inexpedient to Legislate, consent calendar, tabling, interim
-  study, Rule 3-23, HB2 budget trailer, division vs. roll-call votes,
-  Governor and Executive Council).
-- "Never filed" statements rest on the certified complete 2020–2024 universe
-  (see `working/.../certification-report.json`).
-- Glossary entries state legal requirements ("a bill must pass both
-  chambers") — descriptive uses of "must", not advice, matching the NV v4
-  glossary convention.
+## Document architecture (matches NV1 v1.6 exactly)
+
+1. Title + dek
+2. WHAT THIS BRIEF COVERS + 4-cell stat-card table
+3. ALSO IN THE BUDGET BILL (HB2) — NH-specific content section, same modules
+4. CLOSEST TO LAW: BILLS THAT PASSED BOTH CHAMBERS (vetoed / died between chambers)
+5. PROVEN SUPPORT: CLEARED A CHAMBER OR A COMMITTEE
+6. ALREADY LAW — AND THE OPENINGS AROUND IT (new laws / willing to go further)
+7. LITTLE TRACTION YET: NEVER FILED OR STOPPED EARLY
+8. WHERE THERE IS MOVEMENT — AND WHERE THERE IS NONE
+9. FEDERAL OVERLAP: WHAT WASHINGTON ALREADY COVERS
+10. Policy Spotlights — the five proposals from the NH1 Phase 2 constituent
+    grid (editable .docx revision), each with viability-grouped bullet lists
+11. GLOSSARY (two-column, NH-specific terms only)
+12. LEGISLATIVE PROCESS GLOSSARY (two-column; reusable verbatim for every NH brief)
+
+## Content provenance
+
+- Record: the certified 289-bill policy set (see `../citizen-v1/appendices/I-sources-and-review-notes.md`,
+  including the full-universe completeness certification).
+- Proposals: `config/issues/new-hampshire-housing-affordability.yaml` →
+  `constituent_proposals` (encoded from the grid .docx).
+- Automated checks re-run on this document: no advice language; all 54 cited
+  bills exist in the evidence pack; every vote pair matches the official
+  record (SB454's 180–176 tabling is a division-vote tally from the docket;
+  SB203's 19–0 is its recorded House committee vote).
 
 ## Rebuild
 
 ```bash
-python collectors/export_docx_brief.py --brief-dir briefs/new-hampshire/housing-affordability/citizen-v2 \
-  --no-masthead --footer "NH1 Housing Legislative Brief v2.0"
-python collectors/export_brief_html.py --brief-dir briefs/new-hampshire/housing-affordability/citizen-v2 \
-  --no-masthead --footer "NH1 Housing Legislative Brief v2.0"
+python collectors/export_docx_lege_brief.py \
+  --source briefs/new-hampshire/housing-affordability/citizen-v2/lege-brief.md \
+  --out briefs/new-hampshire/housing-affordability/citizen-v2/NH1-Housing-Lege-Brief.docx \
+  --footer "NH1 Housing Legislative Brief v1.0"
 ```
 
-## Rebuild the policy spotlights
+## Reusing this as the template for other NH briefs
 
-```bash
-python collectors/export_docx_brief.py --brief-dir briefs/new-hampshire/housing-affordability/citizen-v2 \
-  --file proposal-spotlights --layout prose --no-masthead --footer "NH1 Housing Policy Spotlights v2.0"
-python collectors/export_brief_html.py --brief-dir briefs/new-hampshire/housing-affordability/citizen-v2 \
-  --file proposal-spotlights --layout prose --no-masthead --footer "NH1 Housing Policy Spotlights v2.0"
-```
+1. Copy `lege-brief.md` for the new issue; keep the section architecture and
+   the LEGISLATIVE PROCESS GLOSSARY verbatim; replace the topic content,
+   spotlights, and topic glossary.
+2. Rebuild with the exporter, setting `--footer "NH1 <Issue> Legislative Brief v1.0"`.
+3. The format authority is `templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx`;
+   never restyle by hand — change the template file if the format itself changes.
