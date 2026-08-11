@@ -1,0 +1,1482 @@
+{
+  "issue": "new-hampshire-02-property-taxes",
+  "note": "Hand-curated tax-and-revenue analysis of HB2, New Hampshire's omnibus budget policy trailer, for the 2021, 2023, and 2025 budget cycles. Candidates came from relevance-term matching over every extracted section (see working/.../hb2/{year}/); a human pass kept the tax/revenue sections, added three rate sections the matcher missed (flagged hand_added), and logged every exclusion. Roll-call votes are recorded on HB2 AS A WHOLE - a vote for or against the trailer is never a vote on one section, and must not be presented as one.",
+  "cycles": [
+    {
+      "session_year": 2021,
+      "bill_no": "HB2",
+      "chapter": 91,
+      "laws_citation": "Laws of 2021, Chapter 91",
+      "total_sections_extracted": 468,
+      "source": "gencourt:legislation_html",
+      "source_url": "https://gc.nh.gov/legislation/2021/HB0002.html",
+      "whole_bill_roll_call_count": 42,
+      "whole_bill_final_votes": [
+        {
+          "body": "Senate",
+          "date": "2021-06-24",
+          "motion": "Conference Committee Report",
+          "yeas": 14,
+          "nays": 10
+        },
+        {
+          "body": "House",
+          "date": "2021-06-24",
+          "motion": "Adopt Conference Committee Report",
+          "yeas": 198,
+          "nays": 181
+        }
+      ],
+      "relevant_sections": [
+        {
+          "cite": "91:26",
+          "heading": "County Reimbursement of Funds; Limitations on Payments",
+          "category": "adjacent",
+          "plain_language": "Capped how fast county payments to the state for long-term care can grow (2 percent a year for the biennium) - the reimbursement stream counties raise through county property taxes.",
+          "affected_rsas": [
+            "RSA 167:18-a",
+            "RSA 169-B",
+            "RSA 541-A"
+          ]
+        },
+        {
+          "cite": "91:48",
+          "heading": "Revenue Sharing; Suspension",
+          "category": "core",
+          "plain_language": "Suspended revenue sharing with cities and towns (RSA 31-A) for another biennium - the general-fund aid stream that had been suspended in every budget since 2010.",
+          "affected_rsas": [
+            "RSA 31-A"
+          ]
+        },
+        {
+          "cite": "91:51",
+          "heading": "Certain Differential Aid Calculations; Fiscal Year 2022",
+          "category": "adjacent",
+          "plain_language": "Let districts use their higher pre-pandemic or pandemic-year enrollment count for fiscal 2022 aid, so pandemic enrollment drops would not cut adequacy grants.",
+          "affected_rsas": [
+            "RSA 198:38",
+            "RSA 198:40-a",
+            "RSA 198:40-e"
+          ]
+        },
+        {
+          "cite": "91:55",
+          "heading": "Transfer; Education Trust Fund",
+          "category": "adjacent",
+          "plain_language": "Moved $35 million of education trust fund surplus into a restricted account to fund additional school relief aid in fiscal years 2022 and 2023.",
+          "affected_rsas": [
+            "RSA 198:40-e"
+          ]
+        },
+        {
+          "cite": "91:60",
+          "heading": "Education Trust Fund Created and Invested",
+          "category": "adjacent",
+          "plain_language": "Rewrote what the education trust fund may pay for - adequacy grants, the low and moderate income homeowners' property tax relief program, and the new education freedom accounts among them.",
+          "affected_rsas": [
+            "RSA 186-C:18",
+            "RSA 188-E:9",
+            "RSA 198:15-b",
+            "RSA 198:39",
+            "RSA 198:42",
+            "RSA 198:56-198:61",
+            "RSA 284:21-j",
+            "RSA 284:44",
+            "RSA 284:47",
+            "RSA 287-I",
+            "RSA 31-A:4",
+            "RSA 77-A:20-a",
+            "RSA 77-E:14",
+            "RSA 78-A:26",
+            "RSA 78-B:13",
+            "RSA 78:24",
+            "RSA 83-F:7"
+          ]
+        },
+        {
+          "cite": "91:61",
+          "heading": "Transfer; Education Trust Fund",
+          "category": "adjacent",
+          "plain_language": "Transferred $1 million a year from the education trust fund to the public school infrastructure fund in each year of the biennium.",
+          "affected_rsas": [
+            "RSA 198:15-y:"
+          ]
+        },
+        {
+          "cite": "91:69",
+          "heading": "Distribution of Meals and Rooms Tax; Division of Travel and Tourism Development",
+          "category": "adjacent",
+          "plain_language": "Suspended the earmark that sends a slice of meals and rooms revenue to the state's travel and tourism division for the biennium.",
+          "affected_rsas": [
+            "RSA 12-O:11-b"
+          ]
+        },
+        {
+          "cite": "91:74",
+          "heading": "State Aid Grants; Department of Environmental Services",
+          "category": "adjacent",
+          "plain_language": "Froze new state aid grants for local water, wastewater, and landfill infrastructure projects for the biennium (existing commitments kept) - deferring a municipal aid stream.",
+          "affected_rsas": [
+            "RSA 149-M",
+            "RSA 486",
+            "RSA 486-A"
+          ]
+        },
+        {
+          "cite": "91:87",
+          "heading": "Revenue Stabilization Account; Cap",
+          "category": "adjacent",
+          "plain_language": "Raised the cap on the rainy day fund (revenue stabilization reserve) to 10 percent of general fund revenue, letting the state bank more surplus.",
+          "affected_rsas": [
+            "RSA 7:6-e",
+            "RSA 9:13-e"
+          ]
+        },
+        {
+          "cite": "91:89",
+          "heading": "Rate",
+          "category": "core",
+          "plain_language": "Began phasing out the interest and dividends tax: the 5 percent rate drops to 4 percent in 2023, 3 percent in 2024, 2 percent in 2025, and 1 percent in 2026 - the schedule the full repeal rides on.",
+          "affected_rsas": [
+            "RSA 77:1"
+          ],
+          "hand_added": true
+        },
+        {
+          "cite": "91:99",
+          "heading": "Repeals; Interest and Dividends Taxation; 2027",
+          "category": "core",
+          "plain_language": "Repealed the interest and dividends tax (RSA 77) outright, effective January 1, 2027 - the end point of the phase-out schedule. (The 2023 trailer later moved this date up to 2025.)",
+          "affected_rsas": [
+            "RSA 195-H:10",
+            "RSA 195-K:4",
+            "RSA 21-J:45",
+            "RSA 261:52-a",
+            "RSA 391:3",
+            "RSA 77",
+            "RSA 77-A:4",
+            "RSA 77-A:4-c"
+          ]
+        },
+        {
+          "cite": "91:103",
+          "heading": "Imposition of Tax",
+          "category": "core",
+          "plain_language": "Cut the meals and rooms tax rate from 9 percent to 8.5 percent, effective October 2021 - the tax's first rate cut; its revenue feeds the general fund, the education trust fund, and the towns' share.",
+          "affected_rsas": [
+            "RSA 78-A:6"
+          ],
+          "hand_added": true
+        },
+        {
+          "cite": "91:106",
+          "heading": "Business Enterprise Tax; Returns",
+          "category": "adjacent",
+          "plain_language": "Raised the business enterprise tax filing thresholds to $250,000 of receipts or tax base, dropping the smallest businesses out of the filing pool.",
+          "affected_rsas": [
+            "RSA 21-J:39",
+            "RSA 77-E:1",
+            "RSA 77-E:5"
+          ]
+        },
+        {
+          "cite": "91:109",
+          "heading": "Business Enterprise Tax; Rate Reduced",
+          "category": "core",
+          "plain_language": "Cut the business enterprise tax rate from 0.675 percent to 0.55 percent for tax periods ending on or after December 31, 2022, and repealed the earlier revenue-trigger contingencies.",
+          "affected_rsas": [
+            "RSA 21-I:8",
+            "RSA 77-E:2"
+          ]
+        },
+        {
+          "cite": "91:110",
+          "heading": "Business Profits Tax; Rate Reduced; Contingency Deleted",
+          "category": "core",
+          "plain_language": "Cut the business profits tax rate from 7.7 percent to 7.6 percent for tax periods ending on or after December 31, 2022, deleting the contingency that could have raised it back to 7.9 percent.",
+          "affected_rsas": [
+            "RSA 21-I:8",
+            "RSA 77-A:2"
+          ]
+        },
+        {
+          "cite": "91:112",
+          "heading": "Meals and Rooms Tax; Disposition of Revenue; Fund Established",
+          "category": "core",
+          "plain_language": "Rewrote how meals and rooms tax money is shared: created the dedicated meals and rooms municipal revenue fund, with the towns' share (after administration and the education trust fund's cut) distributed to every city and town by population - the change that pushed the local share toward the statutory 30 percent.",
+          "affected_rsas": [
+            "RSA 198:15-a",
+            "RSA 198:39",
+            "RSA 78-A:26",
+            "RSA 78-A:6"
+          ]
+        },
+        {
+          "cite": "91:115",
+          "heading": "Business Profits Tax; Credit Carry-forward Limited; Payments Due With Returns and Estimates",
+          "category": "adjacent",
+          "plain_language": "Limited how much overpaid business profits tax can be carried forward as a credit (to 500 percent of the current year's tax), with the rest refunded.",
+          "affected_rsas": [
+            "RSA 21-J:28-a",
+            "RSA 77-A:6",
+            "RSA 77-A:7"
+          ]
+        },
+        {
+          "cite": "91:116",
+          "heading": "Business Enterprise Tax; Credit Carry-forward Limited; Payments Due With Returns",
+          "category": "adjacent",
+          "plain_language": "Applied the same 500 percent carry-forward limit and refund rule to business enterprise tax overpayments.",
+          "affected_rsas": [
+            "RSA 21-J:28-a",
+            "RSA 77-E:5",
+            "RSA 77-E:6"
+          ]
+        },
+        {
+          "cite": "91:117",
+          "heading": "New Section; Commission to Study Limiting the Business Tax Credit Carry Over",
+          "category": "adjacent",
+          "plain_language": "Created a commission to study limiting the business tax credit carry-over - including whether unused credit refunds could be redirected to other uses.",
+          "affected_rsas": [
+            "RSA 77-A"
+          ]
+        },
+        {
+          "cite": "91:295",
+          "heading": "Tax Expenditure Report; Weighted Apportionment Factors Removed",
+          "category": "adjacent",
+          "plain_language": "Updated the annual tax expenditure report statute - the report that tells lawmakers what each tax credit and exemption costs in forgone revenue.",
+          "affected_rsas": [
+            "RSA 162-L:10",
+            "RSA 162-N:6",
+            "RSA 188-E:9-a",
+            "RSA 71-C:2",
+            "RSA 77-A:1",
+            "RSA 77-A:3",
+            "RSA 77-A:5",
+            "RSA 77-E:1",
+            "RSA 77-E:3-c",
+            "RSA 77-G:4"
+          ]
+        },
+        {
+          "cite": "91:313",
+          "heading": "School Building Aid; Annual Grant for Leased Space",
+          "category": "adjacent",
+          "plain_language": "Extended annual school building aid lease grants to more kinds of district lease arrangements.",
+          "affected_rsas": [
+            "RSA 194-B:3-a",
+            "RSA 195-A:1",
+            "RSA 195:1",
+            "RSA 198:15-hh"
+          ]
+        },
+        {
+          "cite": "91:315",
+          "heading": "New Paragraph; Kindergarten Adequate Education Grants",
+          "category": "adjacent",
+          "plain_language": "Made full-day kindergarten adequacy grants a standing charge on the education trust fund every year, ending the keno-revenue-dependent formula.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 198:48-b"
+          ]
+        },
+        {
+          "cite": "91:316",
+          "heading": "Appropriation; Department of Education",
+          "category": "adjacent",
+          "plain_language": "Appropriated $1.9 million to top up fiscal 2021 kindergarten and adequacy grant payments.",
+          "affected_rsas": [
+            "RSA 198:48-b"
+          ]
+        },
+        {
+          "cite": "91:320",
+          "heading": "Appropriation; Department of Education",
+          "category": "core",
+          "plain_language": "Appropriated $30 million from the education trust fund for school building aid on new projects - construction costs that otherwise land on local property taxes.",
+          "affected_rsas": [
+            "RSA 198:15-a"
+          ]
+        },
+        {
+          "cite": "91:322",
+          "heading": "Education Tax Revenue; Fiscal Year 2023",
+          "category": "core",
+          "plain_language": "Cut the statewide education property tax (SWEPT) for fiscal year 2023: the commissioner sets the rate to raise $263 million instead of the usual $363 million target - a one-year, $100 million property-tax reduction.",
+          "affected_rsas": [
+            "RSA 76:3",
+            "RSA 76:8",
+            "RSA 82",
+            "RSA 83-F"
+          ]
+        },
+        {
+          "cite": "91:323",
+          "heading": "Supplemental Education Payment; Fiscal Year 2023",
+          "category": "core",
+          "plain_language": "Guaranteed that no municipality's total education grant would fall because of the SWEPT cut: the state makes up any decrease with a supplemental payment.",
+          "affected_rsas": [
+            "RSA 198:41",
+            "RSA 198:42"
+          ]
+        },
+        {
+          "cite": "91:332",
+          "heading": "American Rescue Plan Act; Unanticipated Revenue",
+          "category": "adjacent",
+          "plain_language": "Let municipalities accept and spend federal American Rescue Plan money as 'unanticipated revenue' without a town-meeting vote.",
+          "affected_rsas": [
+            "RSA 31:95-b"
+          ]
+        },
+        {
+          "cite": "91:431",
+          "heading": "New Chapter; Education Freedom Accounts",
+          "category": "adjacent",
+          "plain_language": "Created the education freedom account (EFA) program - per-pupil adequacy money following students out of public schools, paid from the education trust fund; the fund's biggest new draw.",
+          "affected_rsas": [
+            "RSA 193-A:5",
+            "RSA 193-C:6",
+            "RSA 193:1",
+            "RSA 194-F",
+            "RSA 194-F:2",
+            "RSA 194-F:4",
+            "RSA 194:60",
+            "RSA 198:39",
+            "RSA 198:40-a",
+            "RSA 198:41",
+            "RSA 198:42",
+            "RSA 77:G",
+            "RSA by"
+          ]
+        },
+        {
+          "cite": "91:469",
+          "heading": "New Section; Business Enterprise Tax; Granite State Paid Family Leave Plan Tax Credit",
+          "category": "adjacent",
+          "plain_language": "Created a business enterprise tax credit worth 50 percent of premiums an employer pays into the new Granite State paid family leave plan.",
+          "affected_rsas": [
+            "RSA 21-I:100",
+            "RSA 77-E"
+          ]
+        }
+      ],
+      "excluded_candidates": [
+        {
+          "cite": "91:4",
+          "reason": "Graphic services revolving fund; agency internal-services accounting ('revenue' false positive)."
+        },
+        {
+          "cite": "91:9",
+          "reason": "State employee health plan cost sharing; personnel policy."
+        },
+        {
+          "cite": "91:16",
+          "reason": "Retirement system medical benefit contingency; pension administration."
+        },
+        {
+          "cite": "91:29",
+          "reason": "Granite Advantage health care trust fund sources; Medicaid financing, not state tax structure."
+        },
+        {
+          "cite": "91:34",
+          "reason": "DHHS program eligibility guardrail; 'revenues' appears in budget-process boilerplate."
+        },
+        {
+          "cite": "91:35",
+          "reason": "Federal-match reporting rule for DHHS; budget process mechanics."
+        },
+        {
+          "cite": "91:49",
+          "reason": "Liquor commission merchant-card processing operations."
+        },
+        {
+          "cite": "91:58",
+          "reason": "Federal ARPA maintenance-of-equity compliance mechanics for school aid."
+        },
+        {
+          "cite": "91:59",
+          "reason": "$3 million education-department IT appropriation (student data system); departmental IT, though charged to the education trust fund."
+        },
+        {
+          "cite": "91:62",
+          "reason": "Public school infrastructure fund statute restatement; companion detail to the kept transfer (91:61)."
+        },
+        {
+          "cite": "91:81",
+          "reason": "Office of professional licensure fee-setting authority; occupational licensing."
+        },
+        {
+          "cite": "91:90",
+          "reason": "Conforming cross-reference deletion for the I&D repeal; the substantive change is in 91:89 and 91:99."
+        },
+        {
+          "cite": "91:91",
+          "reason": "Conforming cross-reference deletion for the I&D repeal (financial disclosure forms)."
+        },
+        {
+          "cite": "91:92",
+          "reason": "Conforming cross-reference deletion for the I&D repeal (late-filing penalties)."
+        },
+        {
+          "cite": "91:93",
+          "reason": "Conforming cross-reference deletion for the I&D repeal (understatement penalties)."
+        },
+        {
+          "cite": "91:94",
+          "reason": "Conforming cross-reference deletion for the I&D repeal (electronic filing)."
+        },
+        {
+          "cite": "91:95",
+          "reason": "Conforming cross-reference deletion for the I&D repeal (tax expenditure report list)."
+        },
+        {
+          "cite": "91:96",
+          "reason": "Conforming change removing individuals' I&D credit from the education tax credit statute in 2027."
+        },
+        {
+          "cite": "91:97",
+          "reason": "Conforming change to scholarship-organization rules for the same credit."
+        },
+        {
+          "cite": "91:98",
+          "reason": "Electric rate reduction bonds; utility financing ('taxation' in bond-exemption boilerplate)."
+        },
+        {
+          "cite": "91:100",
+          "reason": "Final-return mechanics for the repealed I&D tax; companion detail to 91:99."
+        },
+        {
+          "cite": "91:113",
+          "reason": "Treasury accounting subparagraph for the new meals-and-rooms municipal fund; companion detail to 91:112."
+        },
+        {
+          "cite": "91:114",
+          "reason": "Cross-reference correction in the education trust fund statute; companion detail to 91:112."
+        },
+        {
+          "cite": "91:118",
+          "reason": "Sunset repeal of the business tax credit carry-over study commission; companion to 91:117."
+        },
+        {
+          "cite": "91:162",
+          "reason": "College tuition savings plan commission; program governance."
+        },
+        {
+          "cite": "91:178",
+          "reason": "Speech-language pathology licensing; term match inside unrelated text."
+        },
+        {
+          "cite": "91:187",
+          "reason": "Creates the Department of Energy; agency reorganization."
+        },
+        {
+          "cite": "91:192",
+          "reason": "Executive branch department list housekeeping."
+        },
+        {
+          "cite": "91:195",
+          "reason": "Office of Planning and Development creation; agency reorganization (its housing role is covered in the housing packet)."
+        },
+        {
+          "cite": "91:243",
+          "reason": "Public utilities commission assessments on utilities; utility regulation funding."
+        },
+        {
+          "cite": "91:245",
+          "reason": "Utility recovery of assessment costs; utility regulation."
+        },
+        {
+          "cite": "91:252",
+          "reason": "Utility investigation expense rules; utility regulation."
+        },
+        {
+          "cite": "91:253",
+          "reason": "Utility penalty provisions; utility regulation."
+        },
+        {
+          "cite": "91:263",
+          "reason": "Utility oversight duties; utility regulation."
+        },
+        {
+          "cite": "91:270",
+          "reason": "Telecommunications regulation; term match inside unrelated text."
+        },
+        {
+          "cite": "91:281",
+          "reason": "Electric restructuring principles; energy policy."
+        },
+        {
+          "cite": "91:311",
+          "reason": "Dual and concurrent enrollment program; higher-education programming."
+        },
+        {
+          "cite": "91:318",
+          "reason": "School planning committee vacancy rules; local governance housekeeping."
+        },
+        {
+          "cite": "91:331",
+          "reason": "DHHS closed-loop referral system limit; health IT policy."
+        },
+        {
+          "cite": "91:366",
+          "reason": "National guard enlistment incentive program; military benefits."
+        },
+        {
+          "cite": "91:369",
+          "reason": "National guard scholarship reference removal; military benefits."
+        },
+        {
+          "cite": "91:410",
+          "reason": "DHHS loan repayment program lapse extension ('restricted revenue' accounting)."
+        },
+        {
+          "cite": "91:412",
+          "reason": "Medicaid services appropriation lapse extension; accounting."
+        },
+        {
+          "cite": "91:416",
+          "reason": "Nursing facility payment lapse extension; accounting."
+        },
+        {
+          "cite": "91:428",
+          "reason": "Lottery commission headquarters mortgage payoff; facilities financing, not revenue structure."
+        },
+        {
+          "cite": "91:435",
+          "reason": "Woodsville fire district audit requirement; single-district accountability rider."
+        },
+        {
+          "cite": "91:438",
+          "reason": "COVID-19 micro enterprise relief fund; pandemic grant program."
+        },
+        {
+          "cite": "91:440",
+          "reason": "Live venue purpose statement; 'tax bases' appears in findings prose only."
+        },
+        {
+          "cite": "91:441",
+          "reason": "Council on the arts policy declaration."
+        },
+        {
+          "cite": "91:457",
+          "reason": "Broadband matching grant initiative; infrastructure program."
+        },
+        {
+          "cite": "91:464",
+          "reason": "Granite State paid family leave plan itself; the tax piece (its BET credit) is kept as 91:469."
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB2",
+      "chapter": 79,
+      "laws_citation": "Laws of 2023, Chapter 79",
+      "total_sections_extracted": 612,
+      "source": "gencourt:lba_or_agency_pdf",
+      "source_url": "https://gc.nh.gov/LBA/Budget/operating_budgets/2024-2025/House_Finance/HB%202%20Chapter%20Law.pdf",
+      "whole_bill_roll_call_count": 17,
+      "whole_bill_final_votes": [
+        {
+          "body": "House",
+          "date": "2023-06-08",
+          "motion": "Concur (with Senate changes)",
+          "yeas": 326,
+          "nays": 53
+        }
+      ],
+      "relevant_sections": [
+        {
+          "cite": "79:67",
+          "heading": "Board of Tax and Land Appeals",
+          "category": "adjacent",
+          "plain_language": "Restated the Board of Tax and Land Appeals as a 3-member body of tax-law experts - the state board that hears property tax abatement appeals.",
+          "affected_rsas": [
+            "RSA 71-B:1"
+          ]
+        },
+        {
+          "cite": "79:83",
+          "heading": "Appropriation; Public School Infrastructure Fund",
+          "category": "core",
+          "plain_language": "Put $10 million from the education trust fund into the public school infrastructure fund for school construction and safety projects.",
+          "affected_rsas": [
+            "RSA 198:15-y"
+          ]
+        },
+        {
+          "cite": "79:85",
+          "heading": "Taxation of Incomes; Rate",
+          "category": "core",
+          "plain_language": "Rewrote the interest and dividends tax schedule to end at 3 percent in 2024: the previous 2 percent (2025) and 1 percent (2026) steps were deleted so the tax stops a full two years early.",
+          "affected_rsas": [
+            "RSA 77:1"
+          ]
+        },
+        {
+          "cite": "79:86",
+          "heading": "Returns for Interest and Dividends Taxes; 2027",
+          "category": "core",
+          "plain_language": "Moved the final interest-and-dividends return filing rules from 2027 to 2025 to match the accelerated repeal.",
+          "affected_rsas": [
+            "RSA 541-A",
+            "RSA 77"
+          ]
+        },
+        {
+          "cite": "79:88",
+          "heading": "Amend Effective Date; Amend Repeal of Interest and Dividends Tax from 2027 to 2025",
+          "category": "core",
+          "plain_language": "Changed the repeal's effective date: the interest and dividends tax now ends January 1, 2025 instead of 2027.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:109",
+          "heading": "Revenue Sharing; Suspension",
+          "category": "core",
+          "plain_language": "Suspended revenue sharing with cities and towns (RSA 31-A) for the 2024-2025 biennium - again.",
+          "affected_rsas": [
+            "RSA 31-A"
+          ]
+        },
+        {
+          "cite": "79:137",
+          "heading": "Education Trust Fund Appropriations Reductions; Education Freedom Accounts",
+          "category": "adjacent",
+          "plain_language": "Reduced the education trust fund appropriation earmarked for education freedom accounts by $10 million in each year of the biennium, an accounting true-up to actual enrollment.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:138",
+          "heading": "Education Trust Fund Created and Invested",
+          "category": "adjacent",
+          "plain_language": "Re-enacted the education trust fund statute, restating everything the fund may pay for - adequacy grants, homeowners' property tax relief, EFAs, court-ordered placements, and school building aid among them.",
+          "affected_rsas": [
+            "RSA 186-C:18",
+            "RSA 186-C:19-b",
+            "RSA 188-E:9",
+            "RSA 193-C",
+            "RSA 194-B:11",
+            "RSA 194-F",
+            "RSA 194-F:10",
+            "RSA 198:15-b",
+            "RSA 198:15-hh",
+            "RSA 198:39",
+            "RSA 198:42",
+            "RSA 198:48-c",
+            "RSA 198:56-",
+            "RSA 284:21-j",
+            "RSA 284:44",
+            "RSA 284:47",
+            "RSA 287-I",
+            "RSA 31-A:4",
+            "RSA 77-A:20-a",
+            "RSA 77-E:14",
+            "RSA 77-G",
+            "RSA 78-A:26",
+            "RSA 78-B:13",
+            "RSA 78:24",
+            "RSA 83-F:7"
+          ]
+        },
+        {
+          "cite": "79:141",
+          "heading": "Special Education; State Aid",
+          "category": "adjacent",
+          "plain_language": "Changed special education state aid so districts are reimbursed for costs above 3.5 times the state average per-pupil cost - catastrophic costs that otherwise hit local budgets.",
+          "affected_rsas": [
+            "RSA 186-C:18",
+            "RSA 186-C:19-b"
+          ]
+        },
+        {
+          "cite": "79:143",
+          "heading": "Liability for Children with Disabilities in Certain Court Ordered Placements",
+          "category": "adjacent",
+          "plain_language": "Shifted liability for certain court-ordered placements of children with disabilities, defining when the state rather than the school district pays.",
+          "affected_rsas": [
+            "RSA 169-B",
+            "RSA 169-B:13",
+            "RSA 169-B:40",
+            "RSA 186-",
+            "RSA 186-C:10",
+            "RSA 541-A"
+          ]
+        },
+        {
+          "cite": "79:144",
+          "heading": "Appropriation; Court Ordered Placements",
+          "category": "adjacent",
+          "plain_language": "Appropriated $9.2 million from the education trust fund for court-ordered placement costs.",
+          "affected_rsas": [
+            "RSA 186-C:19-b",
+            "RSA 198:39"
+          ]
+        },
+        {
+          "cite": "79:147",
+          "heading": "Department of Education; Appropriation; CTE Renovation Projects; Sugar River Valley Regional Technical Center",
+          "category": "adjacent",
+          "plain_language": "Appropriated $12.5 million from the education trust fund for the Sugar River Valley career and technical education renovation project.",
+          "affected_rsas": [
+            "RSA 198:39"
+          ]
+        },
+        {
+          "cite": "79:148",
+          "heading": "Appropriation",
+          "category": "adjacent",
+          "plain_language": "Appropriated $7.6 million from the education trust fund for the Winnisquam regional CTE renovation project.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:150",
+          "heading": "Cost of an Opportunity for an Adequate Education",
+          "category": "core",
+          "plain_language": "Rewrote the cost of an adequate education: base per-pupil aid rises to $4,100 with larger add-ons for free-and-reduced-lunch, special education, and English learners - the state share that offsets local school property taxes.",
+          "affected_rsas": [
+            "RSA 193-C:3",
+            "RSA 193-C:6",
+            "RSA 193-E:2-a",
+            "RSA 198:40-a",
+            "RSA 198:40-d"
+          ]
+        },
+        {
+          "cite": "79:153",
+          "heading": "Extraordinary Need Grants; 2023",
+          "category": "core",
+          "plain_language": "Rewrote extraordinary need grants for 2023 - extra aid scaled to a town's equalized property value per pupil, targeting the towns with the weakest tax bases.",
+          "affected_rsas": [
+            "RSA 1",
+            "RSA 198:40-a",
+            "RSA 198:40-f",
+            "RSA 198:42",
+            "RSA 82"
+          ]
+        },
+        {
+          "cite": "79:154",
+          "heading": "Extraordinary Need Grants; 2025",
+          "category": "core",
+          "plain_language": "Set the 2025-and-after version of extraordinary need grants, extending the property-poor-town aid formula.",
+          "affected_rsas": [
+            "RSA 198:40-a",
+            "RSA 198:40-f"
+          ]
+        },
+        {
+          "cite": "79:156",
+          "heading": "Determination of Education Grants",
+          "category": "core",
+          "plain_language": "Rewrote how each municipality's total education grant is determined, including hold-harmless rules so no town's grant falls below prior levels while the new formula phases in.",
+          "affected_rsas": [
+            "RSA 198:40-a",
+            "RSA 198:40-e",
+            "RSA 198:40-f",
+            "RSA 198:41",
+            "RSA 198:42",
+            "RSA 76:8"
+          ]
+        },
+        {
+          "cite": "79:191",
+          "heading": "Business Profits Tax; Distribution to Education Trust Fund",
+          "category": "core",
+          "plain_language": "Fixed the education trust fund's share of the business profits tax at 41 percent of revenue - replacing the old 'increase attributable to' formula with a straight statutory split.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 77-A:2",
+            "RSA 77-A:20-a"
+          ]
+        },
+        {
+          "cite": "79:192",
+          "heading": "Business Enterprise Tax; Distribution to Education Trust Fund",
+          "category": "core",
+          "plain_language": "Fixed the education trust fund's share of the business enterprise tax at 41 percent of revenue, the same straight split.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 77-E:14",
+            "RSA 77-E:2"
+          ]
+        },
+        {
+          "cite": "79:248",
+          "heading": "Tax on Meals and Rooms; Population Figures",
+          "category": "adjacent",
+          "plain_language": "Updated the population-estimate process that determines each town's share of the meals and rooms tax distribution.",
+          "affected_rsas": [
+            "RSA 78-A:25"
+          ]
+        },
+        {
+          "cite": "79:264",
+          "heading": "Appropriation; Department of Education; Kindergarten Adequate Education Grants",
+          "category": "adjacent",
+          "plain_language": "Appropriated $315,700 from the education trust fund for new full-day kindergarten adequacy grants.",
+          "affected_rsas": [
+            "RSA 198:48-b"
+          ]
+        },
+        {
+          "cite": "79:266",
+          "heading": "Assessing Certification Board; Rulemaking and Implementation",
+          "category": "adjacent",
+          "plain_language": "Converted the assessing certification board into an advisory board inside the office of professional licensure - the body that certifies the assessors who set property values (companion sections 79:267-269 carry the details).",
+          "affected_rsas": [
+            "RSA 310-C"
+          ]
+        },
+        {
+          "cite": "79:349",
+          "heading": "Revenue Information Management System Account",
+          "category": "adjacent",
+          "plain_language": "Extended the Department of Revenue Administration's revenue information management system account - the tax-collection IT system funded from the extra revenue it captures.",
+          "affected_rsas": [
+            "RSA 21-J:1-b"
+          ]
+        },
+        {
+          "cite": "79:512",
+          "heading": "Department of Environmental Services; Appropriation",
+          "category": "adjacent",
+          "plain_language": "Appropriated $15 million in each of fiscal 2026 and 2027 for payments to communities for wastewater projects - state aid the 2025 trailer would later repeal before it was paid.",
+          "affected_rsas": [
+            "RSA 486"
+          ]
+        },
+        {
+          "cite": "79:583",
+          "heading": "New Section; Study Commission Established",
+          "category": "adjacent",
+          "plain_language": "Created a study commission on the recent charitable gaming law changes, including the newly authorized historic horse racing machines - the fastest-growing state gaming revenue stream.",
+          "affected_rsas": [
+            "RSA 284"
+          ]
+        }
+      ],
+      "excluded_candidates": [
+        {
+          "cite": "79:12",
+          "reason": "Corrections unclassified positions; personnel."
+        },
+        {
+          "cite": "79:99",
+          "reason": "Oversize vehicle permit fee revolving fund; transportation fees."
+        },
+        {
+          "cite": "79:102",
+          "reason": "Prime wetlands hearing exemption for DOT projects; environmental permitting."
+        },
+        {
+          "cite": "79:105",
+          "reason": "Aeronautics credit-card convenience fee; transportation fees."
+        },
+        {
+          "cite": "79:119",
+          "reason": "Public utilities commission assessment mechanics; utility regulation."
+        },
+        {
+          "cite": "79:122",
+          "reason": "Small-utility exemption from PUC assessment; utility regulation."
+        },
+        {
+          "cite": "79:142",
+          "reason": "Special education rulemaking subparagraph; companion detail to the kept aid changes (79:141)."
+        },
+        {
+          "cite": "79:158",
+          "reason": "Third-grade reading data repeal; education testing ('assessment' false positive)."
+        },
+        {
+          "cite": "79:159",
+          "reason": "Federal ARPA maintenance-of-equity mechanics; companion to the 2021 provision, excluded on the same ground."
+        },
+        {
+          "cite": "79:202",
+          "reason": "Medicaid appropriation lapse extension; accounting."
+        },
+        {
+          "cite": "79:267",
+          "reason": "Assessing certification advisory board membership details; companion to kept 79:266."
+        },
+        {
+          "cite": "79:268",
+          "reason": "Assessing certification rulemaking transfer; companion to kept 79:266."
+        },
+        {
+          "cite": "79:269",
+          "reason": "Assessing certification statute repeals; companion to kept 79:266."
+        },
+        {
+          "cite": "79:276",
+          "reason": "Auctioneer license revenue disposition; occupational licensing."
+        },
+        {
+          "cite": "79:338",
+          "reason": "Professional bondsmen fees; occupational licensing."
+        },
+        {
+          "cite": "79:375",
+          "reason": "National guard enlistment incentive fund; military benefits."
+        },
+        {
+          "cite": "79:402",
+          "reason": "Granite Advantage program evaluation commission; health policy."
+        },
+        {
+          "cite": "79:404",
+          "reason": "High risk pool funding mechanics; health insurance."
+        },
+        {
+          "cite": "79:405",
+          "reason": "Granite Advantage 'remainder amount' definition; health financing."
+        },
+        {
+          "cite": "79:408",
+          "reason": "Alcohol fund transfer repeals; health financing."
+        },
+        {
+          "cite": "79:432",
+          "reason": "Cyanobacteria mitigation purpose statement; environmental program."
+        },
+        {
+          "cite": "79:456",
+          "reason": "State officer compensation review; personnel ('assessing' in consultant boilerplate)."
+        },
+        {
+          "cite": "79:462",
+          "reason": "Housing Champion program; housing policy, covered in the housing-affordability packet."
+        },
+        {
+          "cite": "79:471",
+          "reason": "Liquor profits share to the alcohol treatment fund; spending allocation within health policy."
+        },
+        {
+          "cite": "79:474",
+          "reason": "Electric vehicle findings prose."
+        },
+        {
+          "cite": "79:475",
+          "reason": "Electric vehicle registration surcharge; highway fund revenue (transportation), excluded consistently with the toll/road-fee category."
+        },
+        {
+          "cite": "79:584",
+          "reason": "Charitable gaming study appropriation; companion dollar detail to kept 79:583."
+        },
+        {
+          "cite": "79:606",
+          "reason": "Career and technical education transportation grant program; education programming."
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB2",
+      "chapter": 141,
+      "laws_citation": "Laws of 2025, Chapter 141",
+      "total_sections_extracted": 461,
+      "source": "sql:legislationtext",
+      "source_url": "sql://legislationtext/1188/CHAPTERED FINAL VERSION",
+      "whole_bill_roll_call_count": 45,
+      "whole_bill_final_votes": [
+        {
+          "body": "Senate",
+          "date": "2025-06-26",
+          "motion": "Conference Committee Report",
+          "yeas": 16,
+          "nays": 8
+        },
+        {
+          "body": "House",
+          "date": "2025-06-26",
+          "motion": "Adopt Conference Committee Report",
+          "yeas": 184,
+          "nays": 183
+        }
+      ],
+      "relevant_sections": [
+        {
+          "cite": "141:26",
+          "heading": "New Chapter; Video Lottery Terminals",
+          "category": "core",
+          "plain_language": "Legalized video lottery terminals (slot-machine-style VLTs) at licensed charitable gaming facilities: the state collects 31 percent of gross machine revenue, split 75 percent to the general fund and 25 percent to the lottery's special fund - the budget's biggest new revenue source.",
+          "affected_rsas": [
+            "RSA 284:21-j",
+            "RSA 284:22-b",
+            "RSA 287-D",
+            "RSA 287-D:11",
+            "RSA 287-D:12",
+            "RSA 287-D:22",
+            "RSA 541-A",
+            "RSA by"
+          ]
+        },
+        {
+          "cite": "141:79",
+          "heading": "Education; School Money; Education Trust Fund Created and Invested",
+          "category": "adjacent",
+          "plain_language": "Amended the education trust fund's purpose list, including how court-ordered placement costs are paid.",
+          "affected_rsas": [
+            "RSA 186-C:19-b",
+            "RSA 193:27",
+            "RSA 198:15-hh",
+            "RSA 198:15-y",
+            "RSA 198:39"
+          ]
+        },
+        {
+          "cite": "141:80",
+          "heading": "Education; School Money; Education Trust Fund Created and Invested",
+          "category": "core",
+          "plain_language": "Capped the education trust fund's balance: any surplus over $20 million at the close of a biennium is swept into the general fund.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 21-I:8"
+          ]
+        },
+        {
+          "cite": "141:83",
+          "heading": "Determination of Education Grants",
+          "category": "adjacent",
+          "plain_language": "Moved the final determination of education grants to October 1 and guaranteed each municipality at least 95 percent of its estimated grant.",
+          "affected_rsas": [
+            "RSA 198:41",
+            "RSA 198:42"
+          ]
+        },
+        {
+          "cite": "141:111",
+          "heading": "Repeal",
+          "category": "core",
+          "plain_language": "Repealed RSA 31-A, revenue sharing with cities and towns, outright - the municipal aid statute suspended in every budget since 2010 is now off the books entirely.",
+          "affected_rsas": [
+            "RSA 31-A"
+          ]
+        },
+        {
+          "cite": "141:112",
+          "heading": "Repeal",
+          "category": "core",
+          "plain_language": "Repealed the 2023 budget's $30 million in wastewater state aid payments to communities before the money went out.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "141:132",
+          "heading": "Business Profits Tax; Distribution of Funds",
+          "category": "core",
+          "plain_language": "Cut the education trust fund's share of the business profits tax from 41 percent to 39 percent, keeping more business tax revenue in the general fund.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 77-A:2",
+            "RSA 77-A:20-a"
+          ]
+        },
+        {
+          "cite": "141:133",
+          "heading": "Business Enterprise Tax; Distribution of Funds",
+          "category": "core",
+          "plain_language": "Cut the education trust fund's share of the business enterprise tax from 41 percent to 39 percent.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 77-E:14",
+            "RSA 77-E:2"
+          ]
+        },
+        {
+          "cite": "141:134",
+          "heading": "Tobacco Tax; Distribution of Funds",
+          "category": "core",
+          "plain_language": "Rewrote the tobacco tax split: 39 percent of tobacco revenue to the education trust fund, the rest to the general fund.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 78:2",
+            "RSA 78:24"
+          ]
+        },
+        {
+          "cite": "141:135",
+          "heading": "Tax on Transfer of Real Property; Distribution of Funds",
+          "category": "core",
+          "plain_language": "Rewrote the real estate transfer tax split: 39 percent to the education trust fund, the rest to the general fund.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 78-B:1",
+            "RSA 78-B:13"
+          ]
+        },
+        {
+          "cite": "141:139",
+          "heading": "New Paragraph; Revenue Stabilization Reserve Account",
+          "category": "adjacent",
+          "plain_language": "Authorized drawing down the rainy day fund to cover a fiscal 2025 general-fund deficit, if the audit finds one.",
+          "affected_rsas": [
+            "RSA 21-I:8",
+            "RSA 9:13-e"
+          ]
+        },
+        {
+          "cite": "141:187",
+          "heading": "New Paragraph; Taxation; Business Profits Tax; Credits",
+          "category": "adjacent",
+          "plain_language": "Created a 'granite patron of the arts' business profits tax credit for half of donations to the new state arts fund.",
+          "affected_rsas": [
+            "RSA 541-A",
+            "RSA 77-A:5"
+          ]
+        },
+        {
+          "cite": "141:188",
+          "heading": "New Section; Business Enterprise Tax; Granite Patron of the Arts Credit",
+          "category": "adjacent",
+          "plain_language": "Let unused granite patron of the arts credits apply against the business enterprise tax.",
+          "affected_rsas": [
+            "RSA 77-A:5",
+            "RSA 77-E"
+          ]
+        },
+        {
+          "cite": "141:223",
+          "heading": "Education; Adequate Education; Education Trust Fund; Annual Adjustment",
+          "category": "core",
+          "plain_language": "Delayed the annual 2 percent inflation adjustment of per-pupil adequacy aid to July 2026 - a pause in the automatic growth of state school aid.",
+          "affected_rsas": [
+            "RSA 194-B:11",
+            "RSA 198:40-a",
+            "RSA 198:40-d",
+            "RSA 198:40-f"
+          ]
+        },
+        {
+          "cite": "141:224",
+          "heading": "Education; Adequate Education; Education Trust Fund; Extraordinary Need Grants",
+          "category": "core",
+          "plain_language": "Re-enacted the extraordinary need grant formula - the extra aid tied to a town's equalized property value per pupil.",
+          "affected_rsas": [
+            "RSA 198:40-a",
+            "RSA 198:40-f"
+          ]
+        },
+        {
+          "cite": "141:225",
+          "heading": "New Section; Education; Adequate Education; Education Trust Fund; Fiscal Capacity Disparity Aid",
+          "category": "core",
+          "plain_language": "Created fiscal capacity disparity aid: up to $1,250 extra per pupil for municipalities with less than $1 million of equalized property value per pupil, phasing out by $1.6 million - aid aimed squarely at property-poor towns.",
+          "affected_rsas": [
+            "RSA 198",
+            "RSA 198:40-a"
+          ]
+        },
+        {
+          "cite": "141:226",
+          "heading": "Education; Adequate Education; Education Trust Fund; Determination of Education Grants",
+          "category": "core",
+          "plain_language": "Rewrote how each municipality's education grant is computed to fold in the new fiscal capacity disparity aid.",
+          "affected_rsas": [
+            "RSA 198:40-a",
+            "RSA 198:40-f",
+            "RSA 198:40-g",
+            "RSA 198:41",
+            "RSA 76:8"
+          ]
+        },
+        {
+          "cite": "141:276",
+          "heading": "Education; Special Education; State Aid",
+          "category": "adjacent",
+          "plain_language": "Restructured special education state aid administration and reimbursement - the catastrophic-cost aid that shields local budgets.",
+          "affected_rsas": [
+            "RSA 186-C:18",
+            "RSA 186-C:19-b"
+          ]
+        },
+        {
+          "cite": "141:278",
+          "heading": "Education; Special Education; State Aid",
+          "category": "adjacent",
+          "plain_language": "Rewrote the funding rule for statewide special education programs.",
+          "affected_rsas": [
+            "RSA 186-C:18",
+            "RSA 198:39"
+          ]
+        },
+        {
+          "cite": "141:320",
+          "heading": "Dedicated Funds; Amendments, Lapses, and Other Uses",
+          "category": "adjacent",
+          "plain_language": "Ordered the governor to raise general fund revenues or cut appropriations by a combined $16 million per year for the biennium, on top of the budget's line items.",
+          "affected_rsas": [
+            "RSA 541-A",
+            "RSA 6:12"
+          ]
+        },
+        {
+          "cite": "141:328",
+          "heading": "Contingent Appropriation",
+          "category": "adjacent",
+          "plain_language": "Made an extra appropriation contingent on fiscal 2026 revenues beating the plan - surplus-triggered spending rather than committed dollars.",
+          "affected_rsas": [
+            "RSA 21-I:8"
+          ]
+        },
+        {
+          "cite": "141:340",
+          "heading": "Board of Tax and Land Appeals; Quorum",
+          "category": "adjacent",
+          "plain_language": "Adjusted the Board of Tax and Land Appeals quorum rules - the board that hears property tax appeals, now also backstopping the housing appeals board.",
+          "affected_rsas": [
+            "RSA 71-B:6"
+          ]
+        },
+        {
+          "cite": "141:351",
+          "heading": "Duties",
+          "category": "adjacent",
+          "plain_language": "Charged a study committee with weighing a state film office and an accompanying tax credit - a potential new tax expenditure.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "141:358",
+          "heading": "Tax Amnesty",
+          "category": "core",
+          "plain_language": "Created a tax amnesty program: back taxes paid during the amnesty window owe no penalties and only half the usual interest - a one-time revenue catch-up.",
+          "affected_rsas": [
+            "RSA 21-J:28"
+          ]
+        },
+        {
+          "cite": "141:359",
+          "heading": "Appropriation",
+          "category": "adjacent",
+          "plain_language": "Appropriated $50,000 to the Department of Revenue Administration to run the tax amnesty program.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "141:379",
+          "heading": "Department of Environmental Services; Appropriation",
+          "category": "adjacent",
+          "plain_language": "Appropriated $2.5 million in each of fiscal 2026 and 2027 for payments to communities - the much smaller replacement for the repealed $30 million wastewater aid.",
+          "affected_rsas": [
+            "RSA 486"
+          ]
+        },
+        {
+          "cite": "141:389",
+          "heading": "Legislative Declaration of Authority Regarding Public Education",
+          "category": "core",
+          "plain_language": "Declared the legislature's position on the Claremont school-funding rulings - asserting that defining and funding an adequate education is the legislature's prerogative, while the statewide education property tax and adequacy formula remain under active court challenge.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "141:399",
+          "heading": "Appropriation; Department of Education",
+          "category": "adjacent",
+          "plain_language": "Appropriated $400,000 a year from the education trust fund for adult high school education programs.",
+          "affected_rsas": [
+            "RSA 186:61",
+            "RSA 198:39"
+          ]
+        },
+        {
+          "cite": "141:401",
+          "heading": "Education; District Taxes; Reports Required; Cities and School Districts",
+          "category": "adjacent",
+          "plain_language": "Made the education and revenue departments jointly maintain school accounting standards - the books behind local school tax rates.",
+          "affected_rsas": [
+            "RSA 198:4-d"
+          ]
+        },
+        {
+          "cite": "141:403",
+          "heading": "Appropriation; Department of Education",
+          "category": "adjacent",
+          "plain_language": "Appropriated $1.5 million a year from the education trust fund for statewide student learning platforms.",
+          "affected_rsas": [
+            "RSA 198:39"
+          ]
+        },
+        {
+          "cite": "141:404",
+          "heading": "Operation of Keno Games",
+          "category": "adjacent",
+          "plain_language": "Removed the 11 a.m.-to-1 a.m. window on keno games, letting licensees run keno all business hours - keno revenue funds kindergarten aid.",
+          "affected_rsas": [
+            "RSA 284:47"
+          ]
+        },
+        {
+          "cite": "141:405",
+          "heading": "New Section; Pari-Mutuel Pools, and Distribution of Tax Theron; Advanced Deposit Account Wagering",
+          "category": "adjacent",
+          "plain_language": "Authorized advance deposit account wagering on horse racing, with the tax on wagers flowing partly to the education trust fund.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 284"
+          ]
+        }
+      ],
+      "excluded_candidates": [
+        {
+          "cite": "141:2",
+          "reason": "Fish and game conservation programs; wildlife policy."
+        },
+        {
+          "cite": "141:19",
+          "reason": "Voluntary gambling self-exclusion database; companion consumer-protection detail to the VLT authorization (141:26)."
+        },
+        {
+          "cite": "141:20",
+          "reason": "Lottery and gaming commission rename/structure; companion to 141:26."
+        },
+        {
+          "cite": "141:21",
+          "reason": "High-stakes tournament definitions; companion gaming-regulation detail."
+        },
+        {
+          "cite": "141:23",
+          "reason": "High-stakes tournament authorization; companion gaming-regulation detail."
+        },
+        {
+          "cite": "141:25",
+          "reason": "Games of chance prize rules; companion gaming-regulation detail."
+        },
+        {
+          "cite": "141:27",
+          "reason": "Opioid abatement fund enforcement overtime; public-safety spending."
+        },
+        {
+          "cite": "141:45",
+          "reason": "Opioid-fund shelter appropriation; homelessness services (covered in the housing packet)."
+        },
+        {
+          "cite": "141:51",
+          "reason": "Medicaid appropriation lapse extension; accounting."
+        },
+        {
+          "cite": "141:82",
+          "reason": "Virtual charter school payment timing; education finance mechanics specific to one school."
+        },
+        {
+          "cite": "141:116",
+          "reason": "Dam easement acceptance for $1; property management."
+        },
+        {
+          "cite": "141:171",
+          "reason": "Dam registration fees; program fees."
+        },
+        {
+          "cite": "141:173",
+          "reason": "Automotive oil fee increase for the hazardous waste cleanup fund; environmental program fee."
+        },
+        {
+          "cite": "141:181",
+          "reason": "Sununu Youth Services Center possession; state property management ('revenue' false positive)."
+        },
+        {
+          "cite": "141:186",
+          "reason": "Granite patron of the arts fund creation; companion detail to the kept tax credits (141:187-188)."
+        },
+        {
+          "cite": "141:240",
+          "reason": "Vanity plate fee to driver training fund; transportation fees."
+        },
+        {
+          "cite": "141:244",
+          "reason": "Motor vehicle air pollution abatement definitions; transportation."
+        },
+        {
+          "cite": "141:253",
+          "reason": "Vehicle inspection statute repeals; transportation."
+        },
+        {
+          "cite": "141:262",
+          "reason": "Perinatal health insurance coverage; health policy."
+        },
+        {
+          "cite": "141:266",
+          "reason": "Ten-year transportation plan funding; transportation."
+        },
+        {
+          "cite": "141:267",
+          "reason": "Fish and game gifts and raffles; wildlife funding."
+        },
+        {
+          "cite": "141:269",
+          "reason": "Pheasant license revenues; wildlife funding."
+        },
+        {
+          "cite": "141:270",
+          "reason": "Fish food sales account transfer; wildlife funding."
+        },
+        {
+          "cite": "141:271",
+          "reason": "Fish food account repeals; wildlife funding."
+        },
+        {
+          "cite": "141:293",
+          "reason": "Opioid abatement commission membership; health governance."
+        },
+        {
+          "cite": "141:294",
+          "reason": "Opioid abatement commission duties; health governance."
+        },
+        {
+          "cite": "141:296",
+          "reason": "Liquor profits to the renamed addiction fund; health financing."
+        },
+        {
+          "cite": "141:297",
+          "reason": "Addiction fund rename; health financing."
+        },
+        {
+          "cite": "141:299",
+          "reason": "Governor's addiction commission rename; health governance."
+        },
+        {
+          "cite": "141:300",
+          "reason": "Council for responsible gambling repeal; gaming governance housekeeping."
+        },
+        {
+          "cite": "141:302",
+          "reason": "Education freedom account rollover mechanics; education-choice program detail."
+        },
+        {
+          "cite": "141:305",
+          "reason": "Granite Advantage trust fund restatement; health financing."
+        },
+        {
+          "cite": "141:322",
+          "reason": "DEI prohibition in public schools; education policy ('assessment' false positive)."
+        },
+        {
+          "cite": "141:325",
+          "reason": "State payment and procurement card fund; treasury operations."
+        },
+        {
+          "cite": "141:333",
+          "reason": "Reduction-in-force notice rules; personnel."
+        },
+        {
+          "cite": "141:357",
+          "reason": "Sale of the Sununu Youth Services Center; state property management."
+        },
+        {
+          "cite": "141:384",
+          "reason": "License plate inventory fund; transportation operations."
+        },
+        {
+          "cite": "141:398",
+          "reason": "Adult education program restatement; companion detail to the kept appropriation (141:399)."
+        },
+        {
+          "cite": "141:442",
+          "reason": "Retirement system earnable compensation definition; pension policy."
+        }
+      ]
+    }
+  ]
+}
