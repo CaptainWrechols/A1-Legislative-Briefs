@@ -1677,6 +1677,16 @@
     },
     {
       "session_year": 2020,
+      "bill_no": "SB256",
+      "title": "relative to emergency generators in certain senior housing.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)"
+    },
+    {
+      "session_year": 2020,
       "bill_no": "SB424",
       "title": "relative to the property tax exemption for solar energy systems.",
       "found_by_terms": [
@@ -1790,6 +1800,16 @@
           "entity_type": "person"
         }
       ]
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB429",
+      "title": "establishing a committee to study the feasibility of building regional plastic to oil conversion plants throughout the state.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)"
     },
     {
       "session_year": 2020,
@@ -3755,6 +3775,16 @@
           "entity_type": "person"
         }
       ]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB109",
+      "title": "relative to municipal host customer generators serving political subdivisions.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification"
+      ],
+      "discovery_source": "universe certification sweep over the OpenStates bulk CSVs (wide-net title match, human-reviewed)"
     },
     {
       "session_year": 2021,
@@ -14724,6 +14754,16 @@
         }
       ],
       "text_available_in_sql": true
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB228",
+      "title": "relative to the limitations on community customer generators.",
+      "found_by_terms": [],
+      "sources": [
+        "supplement:universe-certification-current"
+      ],
+      "discovery_source": "universe certification sweep over the SQL legislation table (wide-net title match, human-reviewed)"
     },
     {
       "session_year": 2025,

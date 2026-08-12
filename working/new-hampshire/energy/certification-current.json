@@ -1,0 +1,100 @@
+{
+  "generated_at": "2026-08-12T18:33:26.715581+00:00",
+  "universe_bills_2025_2026": 2234,
+  "wide_net": "identical to certify-universe.py (2020-2024)",
+  "added_to_set": 1,
+  "review_candidates_not_in_set": [
+    {
+      "session_year": 2026,
+      "bill_no": "HB488",
+      "title": "(Second New Title) relative to limiting conflicts of interest and concentrations of power for municipal\r\nboard and committee members.",
+      "review": "excluded",
+      "category": "government-powers and legal-powers bills ('power' false positives)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1532",
+      "title": "relative to the maximum temperature for vape heating coils and other required safety measures.",
+      "review": "excluded",
+      "category": "vaping-device regulation ('heating' false positive)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "CACR20",
+      "title": "relating to the power of the supreme and superior courts. \r\nProviding that such power is repealed.  ",
+      "review": "excluded",
+      "category": "government-powers and legal-powers bills ('power' false positives)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1018",
+      "title": "prohibiting the use of certain second generation anticoagulant rodenticides.",
+      "review": "excluded",
+      "category": "'generation(s)' false positives (demographic and chemistry uses)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB588",
+      "title": "relative to the distribution of revenues generated from historic horse racing pari-mutuel pools.",
+      "review": "excluded",
+      "category": "'generated/generating revenue' false positives (gambling-revenue and right-to-know bills)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB660",
+      "title": "requiring historic horse racing facilities to compensate their host communities with a percentage of the revenue generated from their historic horse racing machines. ",
+      "review": "excluded",
+      "category": "'generated/generating revenue' false positives (gambling-revenue and right-to-know bills)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB630",
+      "title": "relative to local authorities' power to declare a reasonable and safe speed limit.",
+      "review": "excluded",
+      "category": "government-powers and legal-powers bills ('power' false positives)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB143",
+      "title": "(Second New Title) criminalizing and creating a private right of action for the facilitation, encouragement, offer, solicitation, or recommendation of certain acts or actions through a responsive generative communication to a child.",
+      "review": "excluded",
+      "category": "AI-chatbot child-protection bills ('generative' false positive)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1636",
+      "title": "directing the department of revenue administration to study options for generating state revenue.",
+      "review": "excluded",
+      "category": "'generated/generating revenue' false positives (gambling-revenue and right-to-know bills)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB468",
+      "title": "relative to enabling alternative treatment centers to operate a greenhouse cultivation location. ",
+      "review": "excluded",
+      "category": "cannabis-cultivation regulation ('greenhouse' false positive)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB400",
+      "title": "requiring a public body's collective bargaining negotiations to be deemed public meetings and requiring that arguments made and information generated during the meetings be made available to the public under the right-to-know law.",
+      "review": "excluded",
+      "category": "'generated/generating revenue' false positives (gambling-revenue and right-to-know bills)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB263",
+      "title": "(New Title) criminalizing and creating a private right of action for the facilitation, encouragement, offer, solicitation, or recommendation of certain acts or actions through a responsive generative communication to a child, and relative to the termination of tenancy at the expiration of the tenancy or lease term.",
+      "review": "excluded",
+      "category": "AI-chatbot child-protection bills ('generative' false positive)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1687",
+      "title": "removing the power of courts within the judicial branch family division to issue criminal determinations, judgments, and penalties. ",
+      "review": "excluded",
+      "category": "government-powers and legal-powers bills ('power' false positives)"
+    }
+  ],
+  "note": "Certification of the collected set against the complete official SQL legislation table for 2025-2026. Every wide-net candidate was human-reviewed; the real misses were added to the set (supplement:universe-certification-current) and the rest are excluded with a category. Verdict: no energy bill in the 2025-2026 universe is absent from the set."
+}

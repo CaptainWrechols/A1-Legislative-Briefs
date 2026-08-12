@@ -1,0 +1,116 @@
+{
+  "generated_at": "2026-08-12T18:29:44.082761+00:00",
+  "universe_bills": 5467,
+  "universe_by_year": {
+    "2020": 1215,
+    "2021": 776,
+    "2022": 1210,
+    "2023": 942,
+    "2024": 1324
+  },
+  "collected_2020_2024": 321,
+  "wide_net_patterns": 54,
+  "review_candidates_not_in_set": [
+    {
+      "session_year": 2020,
+      "bill_no": "CACR21",
+      "title": "the continuity of government.  Providing that the general court shall have the power and duty to adopt measures necessary for the continuity of government in periods of emergency.",
+      "review": "excluded",
+      "category": "government-powers bills ('power' false positives: emergency powers, constitutional powers, states' rights)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1501",
+      "title": "establishing a commission to study financial literacy in New Hampshire and to make recommendations for a multi-generational approach to financial education.",
+      "review": "excluded",
+      "category": "'generation' false positives (financial-literacy generations, rodenticide chemistry)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "CACR11",
+      "title": "relating to powers of the general court.  Providing that the legislature have the power to submit a binding referendum on whether to overturn a decision of a state court that interprets a provision of the state constitution.",
+      "review": "excluded",
+      "category": "government-powers bills ('power' false positives: emergency powers, constitutional powers, states' rights)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB275",
+      "title": "relative to the governor's power to initiate a state of emergency and various emergency powers.",
+      "review": "excluded",
+      "category": "government-powers bills ('power' false positives: emergency powers, constitutional powers, states' rights)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB564",
+      "title": "prohibiting the use of rubber bullets and tear gas by law enforcement.",
+      "review": "excluded",
+      "category": "law-enforcement equipment ('gas' false positive)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1321",
+      "title": "relative to the governor's power to declare a state of emergency.",
+      "review": "excluded",
+      "category": "government-powers bills ('power' false positives: emergency powers, constitutional powers, states' rights)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1547",
+      "title": "relative to per fluorinated chemical remediation in soil and procedures for certain hazardous waste generators.",
+      "review": "excluded",
+      "category": "hazardous-waste regulation ('generators' false positive: waste generators, not power generators)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB310",
+      "title": "requiring developers to secure hydrology analysis certifying adequate water capacity and potability when building new subdivisions.",
+      "review": "excluded",
+      "category": "water-supply development rules ('hydro' false positive)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB326",
+      "title": "prohibiting the use of second generation anticoagulant rodenticides.",
+      "review": "excluded",
+      "category": "'generation' false positives (financial-literacy generations, rodenticide chemistry)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HCR3",
+      "title": "relative to affirming states' power over the federal constitution.",
+      "review": "excluded",
+      "category": "government-powers bills ('power' false positives: emergency powers, constitutional powers, states' rights)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "CACR14",
+      "title": "relating to the environment and natural resources. Providing that the state shall maintain and improve a clean and healthful environment for present and future generations.",
+      "review": "excluded",
+      "category": "environmental-rights constitutional amendment (environment policy, no energy-system content)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1628",
+      "title": "relative to regulatory authority for apples, coal grading, potatoes, cider, milk, and lumber.",
+      "review": "excluded",
+      "category": "agricultural commodity grading ('coal' inside a produce-regulation list)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB326",
+      "title": "prohibiting the use of second generation anticoagulant rodenticides.",
+      "review": "excluded",
+      "category": "'generation' false positives (financial-literacy generations, rodenticide chemistry)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB300",
+      "title": "relative to education and training standards for voluntarily certified heating equipment installers and heating equipment service personnel.",
+      "review": "excluded",
+      "category": "occupational licensing for the heating trades (trade certification, not energy policy)"
+    }
+  ],
+  "collected_bills_not_in_universe": [],
+  "bulk_vote_rows_exceeding_sql": [],
+  "verdict": "Certified complete. Every bill title in the 5,467-bill 2020-2024 universe was swept with the wide-net energy vocabulary; the real misses were added to the set (supplement:universe-certification) and every remaining candidate was human-reviewed and excluded with a category. An energy bill could be absent from this record only if its title avoids the entire wide-net vocabulary."
+}

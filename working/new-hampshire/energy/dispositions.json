@@ -568,6 +568,16 @@
     },
     {
       "session_year": 2020,
+      "bill_no": "SB256",
+      "title": "relative to emergency generators in certain senior housing.",
+      "disposition": "interim_study",
+      "stage": "sent to interim study by the Senate",
+      "evidence": "Refer to Interim Study, MA, VV; 01/08/2020;  SJ 1",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
       "bill_no": "SB424",
       "title": "relative to the property tax exemption for solar energy systems.",
       "disposition": "died_on_table",
@@ -580,6 +590,16 @@
       "session_year": 2020,
       "bill_no": "SB427",
       "title": "establishing the New Hampshire youth climate and conservation council.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Placed on Laid on Table Consent List and Laid on Table, MA, VV; 06/16/2020;  SJ 8",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 0
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB429",
+      "title": "establishing a committee to study the feasibility of building regional plastic to oil conversion plants throughout the state.",
       "disposition": "died_on_table",
       "stage": "laid on the table in the Senate; never taken back up",
       "evidence": "Placed on Laid on Table Consent List and Laid on Table, MA, VV; 06/16/2020;  SJ 8",
@@ -1100,6 +1120,16 @@
       "evidence": "Signed by the Governor on 08/11/2021; Chapter 0212",
       "evidence_source": "bulk_docket",
       "roll_call_count": 0
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB109",
+      "title": "relative to municipal host customer generators serving political subdivisions.",
+      "disposition": "died_on_table",
+      "stage": "laid on the table in the Senate; never taken back up",
+      "evidence": "Sen. Bradley Moved Laid on Table, RC 24Y-0N, MA; 04/01/2021;  SJ 10",
+      "evidence_source": "bulk_docket",
+      "roll_call_count": 3
     },
     {
       "session_year": 2021,
@@ -3687,6 +3717,16 @@
       "evidence_source": "sql_docket",
       "chapter": "294",
       "roll_call_count": 0
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB228",
+      "title": "relative to the limitations on community customer generators.",
+      "disposition": "killed_floor",
+      "stage": "killed on the House floor (Inexpedient to Legislate)",
+      "evidence": "Inexpedient to Legislate: MA RC 190-151 05/01/2025  HJ 13  P. 13",
+      "evidence_source": "sql_docket",
+      "roll_call_count": 1
     },
     {
       "session_year": 2025,

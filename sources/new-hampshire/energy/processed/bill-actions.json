@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-12T18:11:46.575583+00:00",
+  "collected_at": "2026-08-12T18:32:55.230288+00:00",
   "note": "Official docket actions from the NH public SQL database (current biennium only; the docket table does not cover 2020-2024). Verbatim; nothing inferred.",
   "bills": [
     {
@@ -3328,6 +3328,88 @@
           "body": "S",
           "date": "2025-08-04",
           "description": "Signed by the Governor on 08/01/2025; Chapter 0294; Effective 09/30/2025"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB228",
+      "action_count": 15,
+      "actions": [
+        {
+          "body": "S",
+          "date": "2025-01-23",
+          "description": "  Introduced 01/09/2025 and Referred to Energy and Natural Resources;  SJ 3"
+        },
+        {
+          "body": "S",
+          "date": "2025-02-05",
+          "description": " Hearing: 02/11/2025, Room 103, SH, 09:40 am;  SC 9"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-07",
+          "description": "Committee Report: Ought to Pass with Amendment # 2025-0718s, 03/13/2025; Vote 5-0; CC;  SC 12"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-13",
+          "description": "Committee Amendment # 2025-0718s, AA, VV; 03/13/2025;  SJ 7"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-13",
+          "description": "Ought to Pass with Amendment #2025-0718s, MA, VV; Refer to Finance Rule 4-5; 03/13/2025;  SJ 7"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-19",
+          "description": "Committee Report: Ought to Pass, 03/27/2025; Vote 6-0; CC;  SC 14"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-27",
+          "description": "Ought to Pass: MA, VV; OT3rdg; 03/27/2025;  SJ 9"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-28",
+          "description": "  Introduced (in recess of) 03/27/2025 and referred to Science, Technology and Energy  HJ 11  P. 113"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-31",
+          "description": "==CANCELLED== Public Hearing: 04/14/2025 01:00 pm LOB 302-304"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-02",
+          "description": "Public Hearing: 04/14/2025 02:00 pm LOB 302-304"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-02",
+          "description": "  Full Committee Work Session: 04/21/2025 10:00 am LOB 302-304"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-02",
+          "description": "Executive Session: 04/21/2025 01:00 pm LOB 302-304"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-23",
+          "description": "Majority Committee Report: Inexpedient to Legislate  04/21/2025 (Vote 10-8; RC)  HC 22  P. 15"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-23",
+          "description": "Minority Committee Report: Ought to Pass"
+        },
+        {
+          "body": "H",
+          "date": "2025-05-01",
+          "description": "Inexpedient to Legislate: MA RC 190-151 05/01/2025  HJ 13  P. 13"
         }
       ]
     },

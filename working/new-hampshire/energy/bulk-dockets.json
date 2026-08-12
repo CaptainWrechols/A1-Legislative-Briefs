@@ -481,6 +481,28 @@
         "description": "Introduced 06/16/2020, and Laid on Table, MA, VV; 06/16/2020;  SJ 8"
       }
     ],
+    "2020:SB429": [
+      {
+        "date": "2020-01-08",
+        "organization": "Senate",
+        "description": "To Be  Introduced 01/08/2020 and Referred to Energy and Natural Resources;  SJ 1"
+      },
+      {
+        "date": "2020-02-20",
+        "organization": "Senate",
+        "description": "Hearing: 03/03/2020, Room 103, SH, 09:30 am;  SC 8"
+      },
+      {
+        "date": "2020-03-12",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass with Amendment # 2020-1201s  SC 11"
+      },
+      {
+        "date": "2020-06-16",
+        "organization": "Senate",
+        "description": "Placed on Laid on Table Consent List and Laid on Table, MA, VV; 06/16/2020;  SJ 8"
+      }
+    ],
     "2020:SB626": [
       {
         "date": "2020-01-14",
@@ -950,6 +972,38 @@
         "date": "2020-03-05",
         "organization": "House",
         "description": "Inexpedient to Legislate: MA RC 201-130 03/05/2020  HJ 6  P. 33"
+      }
+    ],
+    "2020:SB256": [
+      {
+        "date": "2019-01-25",
+        "organization": "Senate",
+        "description": "Introduced 01/03/2019 and Referred to Executive Departments and Administration;  SJ 4"
+      },
+      {
+        "date": "2019-01-30",
+        "organization": "Senate",
+        "description": "Hearing: 02/06/2019, Room 101, LOB, 09:45 am;  SC 9"
+      },
+      {
+        "date": "2019-03-06",
+        "organization": "Senate",
+        "description": "Committee Report: Rereferred to Committee, 03/14/2019; Vote 5-0; CC;  SC 13"
+      },
+      {
+        "date": "2019-03-14",
+        "organization": "Senate",
+        "description": "Rereferred to Committee, MA, VV; 03/14/2019;  SJ 8"
+      },
+      {
+        "date": "2019-12-19",
+        "organization": "Senate",
+        "description": "Committee Report: Referred to Interim Study, 01/08/2020; Vote 5-0; CC;  SC 47"
+      },
+      {
+        "date": "2020-01-08",
+        "organization": "Senate",
+        "description": "Refer to Interim Study, MA, VV; 01/08/2020;  SJ 1"
       }
     ],
     "2020:HB704": [
@@ -4317,6 +4371,53 @@
         "date": "2021-03-23",
         "organization": "House",
         "description": "Minority Committee Report: Ought to Pass"
+      }
+    ],
+    "2021:SB109": [
+      {
+        "date": "2021-01-29",
+        "organization": "Senate",
+        "description": "Introduced 01/06/2021 and Referred to Energy and Natural Resources;  SJ 3"
+      },
+      {
+        "date": "2021-03-09",
+        "organization": "Senate",
+        "description": "Remote Hearing: 03/15/2021, 01:00 pm; Links to join the hearing can be found in the Senate Calendar;  SC 15"
+      },
+      {
+        "date": "2021-03-23",
+        "organization": "Senate",
+        "description": "Committee Report: Ought to Pass with Amendment # 2021-0970s, 04/01/2021; Vote 5-0; CC;  SC 17"
+      },
+      {
+        "date": "2021-04-01",
+        "organization": "Senate",
+        "description": "Sen. Avard Moved to Remove SB 109 from the Consent Calendar; 04/01/2021;  SJ 10"
+      },
+      {
+        "date": "2021-04-01",
+        "organization": "Senate",
+        "description": "Committee Amendment # 2021-0970s, RC 24Y-0N, AA; 04/01/2021;  SJ 10"
+      },
+      {
+        "date": "2021-04-01",
+        "organization": "Senate",
+        "description": "Ought to Pass with Amendment 2021-0970s, RC 24Y-0N, MA; OT3rdg; 04/01/2021;  SJ 10"
+      },
+      {
+        "date": "2021-04-01",
+        "organization": "Senate",
+        "description": "The Chair rescinded OT3rdg, 04/01/2021;  SJ 10"
+      },
+      {
+        "date": "2021-04-01",
+        "organization": "Senate",
+        "description": "Sen. Bradley Moved Laid on Table, RC 24Y-0N, MA; 04/01/2021;  SJ 10"
+      },
+      {
+        "date": "2021-04-01",
+        "organization": "Senate",
+        "description": "Pending Motion OT3rdg; 04/01/2021;  SJ 10"
       }
     ],
     "2021:HB376": [
