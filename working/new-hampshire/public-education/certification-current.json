@@ -1,0 +1,548 @@
+{
+  "generated_at": "2026-08-12T16:07:06.340993+00:00",
+  "universe_bills_2025_2026": 2234,
+  "wide_net": "identical to certify-universe.py (2020-2024)",
+  "added_to_set": 49,
+  "review_candidates_not_in_set": [
+    {
+      "session_year": 2025,
+      "bill_no": "SB129",
+      "title": "relative to establishing an uncompensated health care fund to be administered by the department of insurance and assessed by a surcharge on commercial insurers, reinsurers, and trusts overseeing self-insured plans. ",
+      "review": "excluded",
+      "category": "health and disability-access bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB244",
+      "title": "(New Title) relative to expanding access to primary health care services, increasing the size of the health care workforce, and making appropriations therefor.",
+      "review": "excluded",
+      "category": "health and disability-access bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1214",
+      "title": "relative to public libraries.",
+      "review": "excluded",
+      "category": "public-library administration and records (RSA 201-D/202-A; the school-materials thread is in the set)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB443",
+      "title": "relative to terms of appointed members on the higher education commission.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1764",
+      "title": "establishing community workforce housing targets, special assessment provisions, and a revolving loan fund for workforce housing development.",
+      "review": "excluded",
+      "category": "housing and land-use bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HR41",
+      "title": "instructing the house of representatives to investigate whether grounds exist to impeach Executive Councilor Karen Liot Hill.",
+      "review": "excluded",
+      "category": "election and legislative-administration bills ('enrolled'/'college'/'instructing' false positives)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1781",
+      "title": "relative to child support obligations during postsecondary education.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1380",
+      "title": "requiring the assessment of real property and land be based on replacement or cost-based value.",
+      "review": "excluded",
+      "category": "property-tax assessment, exemption, and state-revenue bills (covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1021",
+      "title": "amending the date to provide written notice to a municipality of a taxpayer's election to be assessed under the low-income housing tax credit program.",
+      "review": "excluded",
+      "category": "property-tax assessment, exemption, and state-revenue bills (covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB136",
+      "title": "establishing an uncompensated care assessment, fund, and committee within the department of insurance.",
+      "review": "excluded",
+      "category": "health and disability-access bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1619",
+      "title": "relative to the rights of property owners and limitations on municipal land use regulation, and repealing the workforce housing program.",
+      "review": "excluded",
+      "category": "housing and land-use bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HR7",
+      "title": "instructing the house of representatives to investigate whether grounds exist to impeach Judge David Ruoff.",
+      "review": "excluded",
+      "category": "election and legislative-administration bills ('enrolled'/'college'/'instructing' false positives)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB141",
+      "title": "(New Title) extending the time to petition for a new trial in certain cases and relative to adding library cards and membership status to the list of confidential library user records.",
+      "review": "excluded",
+      "category": "public-library administration and records (RSA 201-D/202-A; the school-materials thread is in the set)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB147",
+      "title": "relative to clarifying tax exemptions for properties used by religious, educational, and charitable organizations.",
+      "review": "excluded",
+      "category": "property-tax assessment, exemption, and state-revenue bills (covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1017",
+      "title": "relative to accessory dwelling units and workforce housing.",
+      "review": "excluded",
+      "category": "housing and land-use bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB508",
+      "title": "relative to decreasing assessment rates for entities providing VoIP and IP-enabled services, as well as certain local exchange carriers and their affiliates.",
+      "review": "excluded",
+      "category": "telecommunications regulatory assessments (utility regulation, not schools)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB4",
+      "title": "relative to commercial property assessed clean energy and resiliency (C-PACER).",
+      "review": "excluded",
+      "category": "property-tax assessment, exemption, and state-revenue bills (covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB604",
+      "title": "making an appropriation to the university system of New Hampshire.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB605",
+      "title": "relative to special assessment requests from pooled risk management programs.",
+      "review": "excluded",
+      "category": "property-tax assessment, exemption, and state-revenue bills (covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB259",
+      "title": "creating an exception to physical attendance and quorum requirements under the right-to-know law for individuals with disabilities.",
+      "review": "excluded",
+      "category": "health and disability-access bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB85",
+      "title": "relative to chartered bank lending limits.",
+      "review": "excluded",
+      "category": "financial-services regulation ('chartered'/'assessments' false positives)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB406",
+      "title": "making an appropriation to the city of Nashua for the purpose of purchasing the former Daniel Webster College property. ",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1632",
+      "title": "relative to the lethality assessment program screening tool.",
+      "review": "excluded",
+      "category": "health and disability-access bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB293",
+      "title": "preventing minors from accessing obscenity on certain electronic devices with internet access.",
+      "review": "excluded",
+      "category": "consumer device-filter law (retail regulation; the school-materials bills are in the set)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1756",
+      "title": "allowing organizations to file for property tax exemptions once and receive those exemptions unless and until a town assessor finds the organization ineligible for an exemption.",
+      "review": "excluded",
+      "category": "property-tax assessment, exemption, and state-revenue bills (covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1126",
+      "title": "repealing the certification requirement to perform residential mold assessments. ",
+      "review": "excluded",
+      "category": "health and disability-access bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB746",
+      "title": "relative to an award of attorney's fees upon a successful appeal of a local property tax assessment.",
+      "review": "excluded",
+      "category": "property-tax assessment, exemption, and state-revenue bills (covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB544",
+      "title": "relative to an optional local public safety assessment on certain room occupancies.",
+      "review": "excluded",
+      "category": "property-tax assessment, exemption, and state-revenue bills (covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB40",
+      "title": "relative to safe boater education certificates.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades and professions)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HR19",
+      "title": "encouraging state colleges and universities to invite more conservative speakers to campus for the purpose of increasing diversity of viewpoints. ",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB190",
+      "title": "relative to the state health assessment and state health improvement plan advisory council and the commission on the interdisciplinary primary care workforce.",
+      "review": "excluded",
+      "category": "health and disability-access bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB490",
+      "title": "establishing a task force to assess the development of housing at Great Bay community college and authorizing the college the right to use vacant property for the purpose of developing housing.  ",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1173",
+      "title": "relative to post-secondary education opportunities for inmates.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1732",
+      "title": "relative to housing accessibility and voucher allocation in new multi-unit developments.",
+      "review": "excluded",
+      "category": "housing and land-use bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB450",
+      "title": "relative to commercial property assessed clean energy and resiliency (C-PACER)",
+      "review": "excluded",
+      "category": "property-tax assessment, exemption, and state-revenue bills (covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB645",
+      "title": "relative to income eligibility for the New Hampshire child care scholarship program and reallocating certain revenue to fund the program.",
+      "review": "excluded",
+      "category": "child-care and day-care bills (early-care regulation and subsidies, not K-12)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB331",
+      "title": "relative to the secretary of state's procedures for enrolled bills.",
+      "review": "excluded",
+      "category": "election and legislative-administration bills ('enrolled'/'college'/'instructing' false positives)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB659",
+      "title": "establishing the New Hampshire college graduate retention incentive program.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB273",
+      "title": "relative to a parent's access to their minor child's library records.",
+      "review": "excluded",
+      "category": "public-library administration and records (RSA 201-D/202-A; the school-materials thread is in the set)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB628",
+      "title": "prohibiting landlords from discriminating against prospective tenants holding certain vouchers under the housing choice voucher program.",
+      "review": "excluded",
+      "category": "housing and land-use bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB493",
+      "title": "requiring education on child abuse and neglect for certain healthcare providers as a condition for licensure.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades and professions)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB243",
+      "title": "relative to the child care scholarship program.",
+      "review": "excluded",
+      "category": "child-care and day-care bills (early-care regulation and subsidies, not K-12)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB31",
+      "title": "establishing an apprentice guide license.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades and professions)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB11",
+      "title": "relative to the allocation of electoral college votes.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1032",
+      "title": "creating an exception to physical attendance and quorum requirements under the right-to-know law for individuals with disabilities and individuals caring for a household member with disabilities.",
+      "review": "excluded",
+      "category": "health and disability-access bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1739",
+      "title": "relative to energy infrastructure, economic development, and workforce training for large-scale data facilities.",
+      "review": "excluded",
+      "category": "energy and environmental program bills (term matches inside unrelated text)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1723",
+      "title": "requiring utilities and electric grid operators to assess and report the vulnerability of high-voltage transformers to geomagnetic and electromagnetic disturbances, and to recommend mitigation measures to protect the state electric infrastructure.",
+      "review": "excluded",
+      "category": "energy and environmental program bills (term matches inside unrelated text)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB168",
+      "title": "relative to including municipal public works facilities as eligible capital facilities for the assessment of impact fees.",
+      "review": "excluded",
+      "category": "housing and land-use bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB572",
+      "title": "(New Title) establishing the \"partners in housing\" program, an initiative under the housing champions fund to assist municipalities, counties, and developers in building workforce housing, and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "housing and land-use bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB625",
+      "title": "relative to enabling municipalities to levy payments against non-profits at a percentage of their assessed property values.",
+      "review": "excluded",
+      "category": "property-tax assessment, exemption, and state-revenue bills (covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB59",
+      "title": "establishing a recruitment incentive program within the community college system for public safety communicators and dispatchers and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB376",
+      "title": "specifying that library user information exempted from disclosure in the right-to-know law includes information regarding library cards and library membership status.",
+      "review": "excluded",
+      "category": "public-library administration and records (RSA 201-D/202-A; the school-materials thread is in the set)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1033",
+      "title": "establishing a commission to study the legislative bill enrollment process.",
+      "review": "excluded",
+      "category": "election and legislative-administration bills ('enrolled'/'college'/'instructing' false positives)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB666",
+      "title": "relative to adding restitution payment for violations of the confidentiality of the library use records and adding library cards and membership status to the list of confidential matters.",
+      "review": "excluded",
+      "category": "public-library administration and records (RSA 201-D/202-A; the school-materials thread is in the set)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB56",
+      "title": "(New Title) relative to consolidating the New Hampshire health and education facilities authority within the business finance authority and establishing a surplus land revitalization program.",
+      "review": "excluded",
+      "category": "bond-authority consolidation (facilities financing, not school policy)"
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB225",
+      "title": "requiring public notice before re-assessment of property values for local tax purposes.",
+      "review": "excluded",
+      "category": "property-tax assessment, exemption, and state-revenue bills (covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1561",
+      "title": "(New Title) prohibiting nationals of the People's Republic of China from enrollment in masters and doctorate degree programs, participation in research, and full time employment at public institutions of higher education.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1742",
+      "title": "(New Title) relative to customer-generators inadvertently enrolled in a municipal or county aggregation program.",
+      "review": "excluded",
+      "category": "energy and environmental program bills (term matches inside unrelated text)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1566",
+      "title": "(New Title) directing the department of health and human services to seek clarification from the Administration for Children and Families regarding the use of TANF reserve funds and repealing the requirement that the department of health and human services' biennial budget request include  funding for certain child care workforce programs.",
+      "review": "excluded",
+      "category": "child-care and day-care bills (early-care regulation and subsidies, not K-12)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1194",
+      "title": "(New Title) relative to credits for assessments paid by insurers and relative to the application of criminal gambling statutes. ",
+      "review": "excluded",
+      "category": "financial-services regulation ('chartered'/'assessments' false positives)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB497",
+      "title": "(Second New Title) removing a reference to procurement through the department of administrative services for certain capital appropriations to the community college system of New Hampshire, changing the name of a capital project, and changing a reference regarding spaces assigned for use for members of the legislature.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1809",
+      "title": "(New Title) establishing a medical psilocybin advisory board to assess the advantages and disadvantages of the use of psilocybin for therapeutic purposes.",
+      "review": "excluded",
+      "category": "health and disability-access bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1588",
+      "title": "(Second New Title) relative to the regulation of accessory parking for vehicles by local legislative bodies and multifamily housing within commercial districts by municipalities; establishing special assessment districts; and relative to expanding the housing infrastructure \u00a0municipal grant program and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "housing and land-use bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1207",
+      "title": "relative to certain laws applicable to state chartered banks, credit unions, trust companies, and other consumer credit entities subject to the authority of the banking department.",
+      "review": "excluded",
+      "category": "financial-services regulation ('chartered'/'assessments' false positives)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1440",
+      "title": "relative to properties enrolled in carbon sequestration programs.",
+      "review": "excluded",
+      "category": "energy and environmental program bills (term matches inside unrelated text)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1786",
+      "title": "relative to creating a state assessment on non-homestead luxury second homes to fund statewide housing development programs and address housing shortages and making appropriations therefor.",
+      "review": "excluded",
+      "category": "housing and land-use bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1720",
+      "title": "relative to notice to child day care providers of child care scholarships.",
+      "review": "excluded",
+      "category": "child-care and day-care bills (early-care regulation and subsidies, not K-12)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1793",
+      "title": "(New Title) prohibiting public colleges and universities from regulating the possession or carrying of certain weapons on campus and establishing a committee to study the feasibility of allowing guns on campuses of public institutions of higher education.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1583",
+      "title": "permitting municipalities to establish special assessment districts for infrastructure improvements.",
+      "review": "excluded",
+      "category": "property-tax assessment, exemption, and state-revenue bills (covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1394",
+      "title": "enabling the municipal officers to place a proposed charter amendment on the ballot that changes the form of government of the municipality.",
+      "review": "excluded",
+      "category": "election and legislative-administration bills ('enrolled'/'college'/'instructing' false positives)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1701",
+      "title": "reestablishing the New Hampshire college graduate retention incentive partnership program and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1741",
+      "title": "relative to the enrollment and use of distributed energy resource aggregations by electric utilities.",
+      "review": "excluded",
+      "category": "energy and environmental program bills (term matches inside unrelated text)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1596",
+      "title": "relative to the collection of certain health care program premiums; funding for the university system of New Hampshire; and raising the tobacco tax.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1721",
+      "title": "relative to limiting new system enrollment and adjusting compliance payments under the renewable portfolio standard program.",
+      "review": "excluded",
+      "category": "energy and environmental program bills (term matches inside unrelated text)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB457",
+      "title": "(New Title) relative to the licensing of physicians who graduated from medical schools outside of the United States or Canada.\r\n",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1515",
+      "title": "(New Title) repealing the requirement that the department of health and human services' biennial budget request include funding for certain child care workforce programs.",
+      "review": "excluded",
+      "category": "child-care and day-care bills (early-care regulation and subsidies, not K-12)"
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1581",
+      "title": "(New Title) allowing municipalities to adopt a requirement that property owners be given notice when the assessed value of their property changes by certain amounts.",
+      "review": "excluded",
+      "category": "property-tax assessment, exemption, and state-revenue bills (covered by the property-taxes packet)"
+    }
+  ],
+  "note": "Certification of the collected set against the complete official SQL legislation table for 2025-2026. Every wide-net candidate was human-reviewed; the real misses were added to the set (supplement:universe-certification-current) and the rest are excluded with a category. Verdict: no K-12 public-education bill in the 2025-2026 universe is absent from the set."
+}

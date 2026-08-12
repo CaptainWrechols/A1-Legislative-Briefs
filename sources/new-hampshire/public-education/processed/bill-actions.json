@@ -365,6 +365,38 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB116",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-06",
+          "description": "  Introduced 01/08/2025 and referred to Education Policy and Administration  HJ 2  P. 6"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-08",
+          "description": "Public Hearing: 01/15/2025 02:15 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-15",
+          "description": "Executive Session: 01/22/2025 02:00 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-29",
+          "description": " Committee Report: Inexpedient to Legislate  01/22/2025 (Vote 17-0; CC)  HC 10  P. 2"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-06",
+          "description": "Inexpedient to Legislate: MA VV 02/06/2025  HJ 4  P. 4"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB120",
       "action_count": 12,
       "actions": [
@@ -688,6 +720,212 @@
           "body": "H",
           "date": "2025-08-11",
           "description": "Signed by Governor Ayotte 08/01/2025; Chapter 270; eff.01/01/2026"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB178",
+      "action_count": 12,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-06",
+          "description": "  Introduced 01/08/2025 and referred to Children and Family Law  HJ 2  P. 9"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-08",
+          "description": "Public Hearing: 01/21/2025 01:30 pm LOB 206-208"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-27",
+          "description": " Committee Report: Ought to Pass  01/21/2025 (Vote 15-0; CC)  HC 10  P. 2"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-29",
+          "description": "  Executive Session: 01/21/2025 01:30 pm LOB 206-208"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-06",
+          "description": "Ought to Pass: MA VV 02/06/2025  HJ 4  P. 4"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-11",
+          "description": "  Introduced 03/06/2025 and Referred to Children and Family Law;  SJ 7"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-10",
+          "description": " Hearing: 04/24/2025, Room 103, SH, 09:30 am;  SC 17"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-28",
+          "description": "Committee Report: Ought to Pass, 05/08/2025; Vote 3-0; CC;  SC 20"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-08",
+          "description": "Ought to Pass: MA, VV; OT3rdg; 05/08/2025;  SJ 12"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-16",
+          "description": "Enrolled Adopted, VV, (In recess 06/12/2025);  SJ 17"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-16",
+          "description": "Enrolled (in recess of) 06/12/2025  HJ 17  P. 24"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-25",
+          "description": "Signed by Governor Ayotte 06/23/2025; Chapter 117; eff. 08/23/2025"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB184",
+      "action_count": 11,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-06",
+          "description": "  Introduced 01/08/2025 and referred to Education Policy and Administration  HJ 2  P. 9"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-08",
+          "description": "Public Hearing: 01/15/2025 03:00 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-15",
+          "description": "==RECESSED== Executive Session: 01/22/2025 02:00 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-12",
+          "description": "==CONTINUED== Executive Session: 02/19/2025 09:30 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-26",
+          "description": " Committee Report: Ought to Pass with Amendment # 2025-0394h   02/19/2025 (Vote 17-0; CC)  HC 14  P. 5"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-06",
+          "description": "Amendment # 2025-0394h: AA VV 03/06/2025  HJ 7  P. 5"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-06",
+          "description": "Ought to Pass with Amendment 2025-0394h: MA VV 03/06/2025  HJ 7  P. 5"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-12",
+          "description": "  Introduced 03/06/2025 and Referred to Education;  SJ 7"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-18",
+          "description": " Hearing: 03/25/2025, Room 101, LOB, 09:00 am;  SC 14"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-10",
+          "description": "Committee Report: Inexpedient to Legislate; Vote 5-0; CC; 04/17/2025; SC 17"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-17",
+          "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 04/17/2025;  SJ 10"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB193",
+      "action_count": 14,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-07",
+          "description": "  Introduced 01/08/2025 and referred to Education Policy and Administration  HJ 2  P. 9"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-10",
+          "description": "Vacated and Referred to Education Funding  (Rep. Cordelli): MA VV (in recess of) 01/09/2025  HJ 3  P. 10"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-15",
+          "description": "Public Hearing: 01/21/2025 01:30 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-29",
+          "description": "Executive Session: 02/04/2025 09:45 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-05",
+          "description": " Committee Report: Ought to Pass with Amendment # 2025-0200h   02/04/2025 (Vote 18-0; CC)  HC 11  P. 4"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-13",
+          "description": "Amendment # 2025-0200h: AA VV 02/13/2025  HJ 5  P. 6"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-13",
+          "description": "Ought to Pass with Amendment 2025-0200h: MA VV 02/13/2025  HJ 5  P. 6"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-12",
+          "description": "  Introduced 03/06/2025 and Referred to Education;  SJ 7"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-18",
+          "description": " Hearing: 03/25/2025, Room 101, LOB, 09:15 am;  SC 14"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-10",
+          "description": "Committee Report: Ought to Pass, 04/17/2025; Vote 5-0; CC; SC 17"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-17",
+          "description": "Ought to Pass: MA, VV; OT3rdg; 04/17/2025;  SJ 10"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-29",
+          "description": "Enrolled Adopted, VV, (In recess 04/17/2025);  SJ 11"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-30",
+          "description": "Enrolled (in recess of) 04/10/2025  HJ 12  P. 163"
+        },
+        {
+          "body": "H",
+          "date": "2025-05-08",
+          "description": "Signed by Governor Ayotte 05/08/2025; Chapter 10; eff. 05/08/2025"
         }
       ]
     },
@@ -1353,6 +1591,113 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB324",
+      "action_count": 20,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-08",
+          "description": "  Introduced 01/08/2025 and referred to Education Policy and Administration  HJ 2  P. 15"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "Public Hearing: 03/05/2025 02:45 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-06",
+          "description": "Executive Session: 03/10/2025 01:00 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-14",
+          "description": "Majority Committee Report: Ought to Pass  03/10/2025 (Vote 9-8; RC)  HC 17  P. 50"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-14",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-26",
+          "description": "FLAM # 2025-1361h  (Rep. Gregg): AF DV 151-185 03/26/2025  HJ 10  P. 120"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-26",
+          "description": "FLAM # 2025-1377h  (Rep. N. Germana): AF DV 153-186 03/26/2025  HJ 10  P. 120"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-27",
+          "description": "Ought to Pass: MA RC 183-148 03/26/2025  HJ 10  P. 120"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-28",
+          "description": "  Introduced 03/27/2025 and Referred to Education;  SJ 10"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-03",
+          "description": " Hearing: 04/10/2025, Room 101, LOB, 09:30 am;  SC 16"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-08",
+          "description": "Committee Report: Ought to Pass, 05/15/2025; Vote 3-1; CC;  SC 21"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "HB 324 was Removed from the Consent Calendar; 05/15/2025;  SJ 13"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Sen. Perkins Kwoka Floor Amendment # 2025-2190s, RC 8Y-15N, AF; 05/15/2025;  SJ 13"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Ought to Pass: RC 15Y-8N, MA; OT3rdg; 05/15/2025;  SJ 13"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-27",
+          "description": "Enrolled Bill Amendment # 2025-2728e Adopted, VV, (In recess of 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-27",
+          "description": "Enrolled Bill Amendment # 2025-2728e: AA VV (in recess of) 06/26/2025  HJ 18  P. 56"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-03",
+          "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-07",
+          "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 59"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-17",
+          "description": "Vetoed by Governor Ayotte 07/15/2025  HJ 19  P. 15"
+        },
+        {
+          "body": "H",
+          "date": "2025-12-17",
+          "description": "Veto Sustained 12/17/2025: RC 183-167 Lacking Necessary Two-Thirds Vote  HJ 19"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB329",
       "action_count": 6,
       "actions": [
@@ -1564,6 +1909,98 @@
           "body": "H",
           "date": "2025-12-17",
           "description": "Veto Sustained 12/17/2025: RC 177-174 Lacking Necessary Two-Thirds Vote  HJ 19"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB361",
+      "action_count": 17,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-08",
+          "description": "  Introduced 01/08/2025 and referred to Education Policy and Administration  HJ 2  P. 16"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-12",
+          "description": "Public Hearing: 02/19/2025 01:45 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "Executive Session: 03/05/2025 09:30 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-10",
+          "description": "Majority Committee Report: Ought to Pass  03/05/2025 (Vote 9-8; RC)  HC 17  P. 50"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-10",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-27",
+          "description": "Ought to Pass: MA RC 203-164 03/27/2025  HJ 11  P. 6"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-28",
+          "description": "  Introduced 03/27/2025 and Referred to Education;  SJ 10"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-24",
+          "description": " Hearing: 04/29/2025, Room 101, LOB, 10:00 am;  SC 19"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-08",
+          "description": "Committee Report: Ought to Pass, 05/15/2025; Vote 3-1; CC;  SC 21"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "HB 361 was Removed from the Consent Calendar; 05/15/2025;  SJ 13"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Special Order to 06/05/2025, Without Objection, MA; 05/15/2025  SJ 13"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Committee Report: Ought to Pass, 06/05/2025, Vote 3-1;  SC 24"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-05",
+          "description": "Without Objection, the Clerk is authorized to make technical and administrative corrections which are necessary to reflect the intent of the Senate, MA; 06/05/2025;  SJ 15"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-05",
+          "description": "Ought to Pass: RC 16Y-7N, MA; OT3rdg; 06/05/2025;  SJ 15"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-02",
+          "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 59"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-02",
+          "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-22",
+          "description": "Signed by Governor Ayotte 07/15/2025; Chapter 180; eff.09/13/2025  HJ 18"
         }
       ]
     },
@@ -1836,6 +2273,38 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB407",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-10",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Municipal and County Government  HJ 3  P. 8"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-22",
+          "description": "Public Hearing: 01/30/2025 11:10 am LOB 301-303"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-05",
+          "description": "Executive Session: 02/10/2025 02:00 pm LOB 301-303"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-12",
+          "description": " Committee Report: Inexpedient to Legislate  02/10/2025 (Vote 18-0; CC)  HC 12  P. 9"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "Inexpedient to Legislate: MA VV 02/20/2025  HJ 6  P. 10"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB412",
       "action_count": 6,
       "actions": [
@@ -1868,6 +2337,38 @@
           "body": "H",
           "date": "2025-03-26",
           "description": "Inexpedient to Legislate: MA VV 03/26/2025  HJ 10  P. 21"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB415",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-10",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Education Policy and Administration  HJ 3  P. 8"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-15",
+          "description": "Public Hearing: 01/22/2025 01:30 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-05",
+          "description": "Executive Session: 02/12/2025 09:30 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-12",
+          "description": " Committee Report: Inexpedient to Legislate  02/12/2025 (Vote 17-0; CC)  HC 12  P. 5"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "Inexpedient to Legislate: MA VV 02/20/2025  HJ 6  P. 5"
         }
       ]
     },
@@ -2437,6 +2938,43 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB502",
+      "action_count": 6,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-14",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Ways and Means  HJ 3  P. 13"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-22",
+          "description": "Public Hearing: 01/28/2025 11:15 am LOB 202-204"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-29",
+          "description": "Executive Session: 02/04/2025 01:30 pm LOB 202-204"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-07",
+          "description": "Majority Committee Report: Inexpedient to Legislate  02/04/2025 (Vote 11-9; RC)  HC 12  P. 13"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-07",
+          "description": "Minority Committee Report: Ought to Pass"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "Inexpedient to Legislate: MA RC 209-163 02/20/2025  HJ 6  P. 22"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB503",
       "action_count": 7,
       "actions": [
@@ -2847,6 +3385,88 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB532",
+      "action_count": 15,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-14",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Education Policy and Administration  HJ 3  P. 14"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-22",
+          "description": "Public Hearing: 01/29/2025 02:15 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-12",
+          "description": "Executive Session: 02/19/2025 09:30 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-26",
+          "description": " Committee Report: Ought to Pass with Amendment # 2025-0480h   02/19/2025 (Vote 17-0; CC)  HC 14  P. 5"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-06",
+          "description": "Amendment # 2025-0480h: AA VV 03/06/2025  HJ 7  P. 6"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-06",
+          "description": "Ought to Pass with Amendment 2025-0480h: MA VV 03/06/2025  HJ 7  P. 6"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-12",
+          "description": "  Introduced 03/06/2025 and Referred to Education;  SJ 7"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-30",
+          "description": " Hearing: 05/06/2025, Room 101, LOB, 10:30 am;  SC 20"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Committee Report: Ought to Pass with Amendment # 2025-2156s, 05/22/2025; Vote 5-0; CC;  SC 22"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-22",
+          "description": "Committee Amendment # 2025-2156s, AA, VV; 05/22/2025;  SJ 14"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-22",
+          "description": "Ought to Pass with Amendment #2025-2156s, MA, VV; OT3rdg; 05/22/2025;  SJ 14"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-12",
+          "description": "House Concurs with Senate Amendment 2025-2156s (Rep. Cordelli): MA VV 06/12/2025  HJ 17  P. 6"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-08",
+          "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 60"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-08",
+          "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-22",
+          "description": "Signed by Governor Ayotte 07/15/2025; Chapter 195; eff.09/13/2025  HJ 18"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB549",
       "action_count": 7,
       "actions": [
@@ -2926,6 +3546,195 @@
           "body": "H",
           "date": "2025-03-13",
           "description": "Inexpedient to Legislate: MA VV 03/13/2025  HJ 8  P. 10"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB555",
+      "action_count": 6,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-14",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Education Policy and Administration  HJ 3  P. 15"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-27",
+          "description": "Public Hearing: 03/03/2025 03:30 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-06",
+          "description": "==CANCELLED== Public Hearing on non-germane Amendment # 2025-0707h: 03/10/2025 10:30 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-06",
+          "description": "Executive Session: 03/10/2025 01:00 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-14",
+          "description": " Committee Report: Inexpedient to Legislate  03/10/2025 (Vote 17-0; CC)  HC 17  P. 11"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-26",
+          "description": "Inexpedient to Legislate: MA VV 03/26/2025  HJ 10  P. 16"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB557",
+      "action_count": 29,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-14",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Municipal and County Government  HJ 3  P. 15"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-21",
+          "description": "Vacated and Referred to Education Policy and Administration  (Rep. Pauer): MA VV (in recess of) 01/09/2025  HJ 3"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-29",
+          "description": "Public Hearing: 02/05/2025 11:15 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-06",
+          "description": "Executive Session: 03/12/2025 10:00 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-19",
+          "description": "Majority Committee Report: Ought to Pass with Amendment # 2025-1031h   03/17/2025 (Vote 10-8; RC)  HC 17  P. 52"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-19",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-27",
+          "description": "Amendment # 2025-1031h: AA VV 03/27/2025  HJ 11  P. 12"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-27",
+          "description": "Ought to Pass with Amendment 2025-1031h: MA DV 202-166 03/27/2025  HJ 11  P. 12"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-28",
+          "description": "  Introduced 03/27/2025 and Referred to Education Finance;  SJ 10"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-09",
+          "description": "==CANCELLED== Hearing: 04/25/2025, Room 100, SH, 09:00 am;  SC 17"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-09",
+          "description": " Hearing: 04/17/2025, Room 103, SH, 01:00 pm;  SC 17"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-02",
+          "description": "Committee Report: Ought to Pass with Amendment # 2025-1878s, 05/15/2025, Vote 4-2;  SC 21"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Committee Amendment # 2025-1878s, AA, VV; 05/15/2025;  SJ 13"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Ought to Pass with Amendment #2025-1878s, RC 15Y-8N, MA; OT3rdg; 05/15/2025;  SJ 13"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-02",
+          "description": "House Non-Concurs with Senate Amendment 2025-1878s and Requests CofC (Rep. Osborne): MA VV 05/22/2025  HJ 15  P. 52"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-03",
+          "description": "Speaker Appoints: Reps. Cordelli, Noble, Drye, Freeman 05/22/2025  HJ 15  P. 52"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-11",
+          "description": "Sen. Murphy Accedes to House Request for Committee of Conference, MA, VV; (In recess 06/05/2025);  SJ 16"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-11",
+          "description": "President Appoints: Senators Murphy, Ward, Altschiller; (In Recess 06/05/2025);  SJ 16"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-16",
+          "description": "Conference Committee Meeting: 06/16/2025 09:30 am LOB 205-207"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-16",
+          "description": "Conferee Change; Senator Innis Replaces Senator Altschiller;  SJ 17"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-18",
+          "description": "Conference Committee Report Filed, # 2025-2767c; 06/26/2025"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-25",
+          "description": "Removed from Consent (Reps. Damon, Selig, Oppel, W. Thomas, Balboni, Ames, Weinstein, Burton, Luneau, Bricchi) 06/25/2025  HJ 18  P. 18"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-26",
+          "description": "Conference Committee Report # 2025-2767c, Adopted, VV; 06/26/2025;  SJ 17"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-26",
+          "description": "Conference Committee Report 2025-2767c: Adopted, DV 196-156 06/26/2025  HJ 18  P. 47"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-11",
+          "description": "Enrolled Bill Amendment # 2025-2929e Adopted, VV, (In recess of 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-14",
+          "description": "Enrolled Bill Amendment # 2025-2929e: AA VV (in recess of) 06/26/2025  HJ 18  P. 62"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-18",
+          "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-18",
+          "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 64"
+        },
+        {
+          "body": "H",
+          "date": "2025-08-11",
+          "description": "Signed by Governor Ayotte 08/01/2025; Chapter 281; eff. I. Sec 1 & 2 eff as provided in Sec 3 II. Rem eff 08/01/2025"
         }
       ]
     },
@@ -3171,6 +3980,118 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB650",
+      "action_count": 21,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-21",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Ways and Means  HJ 3  P. 21"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-29",
+          "description": "Public Hearing: 02/05/2025 10:00 am LOB 203"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-10",
+          "description": "  Executive Session: 02/05/2025 10:00 am LOB 203"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-10",
+          "description": " Committee Report: Ought to Pass  02/05/2025 (Vote 16-0; CC)  HC 12  P. 9"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "Ought to Pass: MA VV 02/20/2025  HJ 6  P. 10"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "Referred to Finance 02/20/2025"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-27",
+          "description": "  Division I Work Session: 03/05/2025 01:00 pm LOB 212"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-14",
+          "description": "Executive Session: 03/17/2025 01:15 pm LOB 210-211"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-31",
+          "description": " Committee Report: Ought to Pass  03/28/2025 (Vote 25-0; CC)  HC 19  P. 11"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-10",
+          "description": "Ought to Pass: MA VV 04/10/2025  HJ 12  P. 4"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-11",
+          "description": "  Introduced 03/27/2025 and Referred to Finance;  SJ 10"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-17",
+          "description": " Hearing: 04/22/2025, Room 103, SH, 12:55 pm;  SC 19"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-20",
+          "description": "Committee Report: Ought to Pass with Amendment # 2025-2232s, 05/22/2025; Vote 7-0; CC;  SC 22A"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-22",
+          "description": "Committee Amendment # 2025-2232s, AA, VV; 05/22/2025;  SJ 14"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-22",
+          "description": "Ought to Pass with Amendment #2025-2232s, MA, VV; OT3rdg; 05/22/2025;  SJ 14"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-12",
+          "description": "House Concurs with Senate Amendment 2025-2232s (Rep. Janigian): MA VV 06/12/2025  HJ 17  P. 19"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-08",
+          "description": "Enrolled Bill Amendment # 2025-2911e Adopted, VV, (In recess of 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-08",
+          "description": "Enrolled Bill Amendment # 2025-2911e: AA VV (in recess of) 06/26/2025  HJ 18  P. 60"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-14",
+          "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-14",
+          "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 63"
+        },
+        {
+          "body": "H",
+          "date": "2025-08-11",
+          "description": "Signed by Governor Ayotte 08/01/2025; Chapter 283; eff. 09/30/2025"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB653",
       "action_count": 16,
       "actions": [
@@ -3285,6 +4206,123 @@
           "body": "H",
           "date": "2025-03-06",
           "description": "Inexpedient to Legislate: MA VV 03/06/2025  HJ 7  P. 7"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB667",
+      "action_count": 22,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-21",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Education Policy and Administration  HJ 3  P. 22"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-29",
+          "description": "Public Hearing: 02/05/2025 10:00 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "Executive Session: 03/03/2025 01:00 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-05",
+          "description": "Majority Committee Report: Ought to Pass with Amendment # 2025-0615h (NT)  03/03/2025 (Vote 10-8; RC)"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-05",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-13",
+          "description": "Amendment # 2025-0615h (NT): AA VV 03/13/2025  HJ 8  P. 68"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-13",
+          "description": "Lay HB 667 on Table (Rep. N. Germana): MF DV 180-188 03/13/2025  HJ 8  P. 68"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-13",
+          "description": "Ought to Pass with Amendment 2025-0615h: MA DV 189-180 03/13/2025  HJ 8  P. 68"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-13",
+          "description": "Referred to Finance 03/13/2025  HJ 8  P. 68"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-13",
+          "description": "Referral Waived by Committee Chair per House Rule 47(f) 03/13/2025  HJ 8  P. 72"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-19",
+          "description": "  Introduced 03/13/2025 and Referred to Education;  SJ 8"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-01",
+          "description": "==ROOM CHANGE== Hearing: 04/02/2025, Room 100, SH, 01:00 pm;  SC 16"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-24",
+          "description": "Committee Report: Ought to Pass with Amendment # 2025-1737s, 05/01/2025, Vote 3-1;  SC 19"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-01",
+          "description": "Ought to Pass with Amendment #2025-1737s, MA, VV; Refer to Finance Rule 4-5; 05/01/2025;  SJ 11"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-01",
+          "description": "Committee Amendment # 2025-1737s, AA, VV; 05/01/2025;  SJ 11"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-20",
+          "description": "Committee Report: Ought to Pass, 05/22/2025; Vote 5-2; CC;  SC 22A"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-22",
+          "description": "Ought to Pass: MA, VV; OT3rdg; 05/22/2025;  SJ 14"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-12",
+          "description": "House Concurs with Senate Amendment 2025-1737s (Rep. Cordelli): MA VV 06/12/2025  HJ 17  P. 6"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-08",
+          "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 60"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-08",
+          "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-17",
+          "description": "Vetoed by Governor Ayotte 07/15/2025  HJ 19  P. 28"
+        },
+        {
+          "body": "H",
+          "date": "2025-12-17",
+          "description": "Veto Sustained 12/17/2025: RC 159-190 Lacking Necessary Two-Thirds Vote  HJ 19"
         }
       ]
     },
@@ -3486,6 +4524,133 @@
           "body": "H",
           "date": "2026-01-08",
           "description": "Reconsider ITL (Rep. Weber): MF DV 170-185 01/08/2026  HJ 2  P. 29"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB677",
+      "action_count": 24,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-21",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Education Policy and Administration  HJ 3  P. 22"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-22",
+          "description": "Public Hearing: 01/29/2025 01:30 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-29",
+          "description": "Executive Session: 02/03/2025 01:00 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-06",
+          "description": " Committee Report: Ought to Pass  02/03/2025 (Vote 18-0; CC)  HC 11  P. 4"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-13",
+          "description": "Ought to Pass: MA VV 02/13/2025  HJ 5  P. 7"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-13",
+          "description": "Referred to Finance 02/13/2025  HJ 5  P. 7"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-14",
+          "description": "  Division II Work Session: 02/24/2025 01:00 pm LOB 209"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-14",
+          "description": "Executive Session: 03/17/2025 01:15 pm LOB 210-211"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-31",
+          "description": " Committee Report: Ought to Pass with Amendment # 2025-0589h (NT)  03/28/2025 (Vote 25-0; CC)  HC 19  P. 12"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-10",
+          "description": "Amendment # 2025-0589h (NT): AA VV 04/10/2025  HJ 12  P. 5"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-10",
+          "description": "Ought to Pass with Amendment 2025-0589h: MA VV 04/10/2025  HJ 12  P. 5"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-11",
+          "description": "  Introduced 03/27/2025 and Referred to Education;  SJ 10"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-15",
+          "description": " Hearing: 04/22/2025, Room 101, LOB, 09:45 am;  SC 18"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-08",
+          "description": "Committee Report: Ought to Pass with Amendment # 2025-1968s, 05/15/2025; Vote 4-0; CC;  SC 21"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "HB 677 was Removed from the Consent Calendar; 05/15/2025;  SJ 13"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Special Order to 05/22/2025, Without Objection, MA; 05/15/2025  SJ 13"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Committee Report: Ought to Pass with Amendment # 2025-1968s, 05/22/2025, Vote 4-0;  SC 22"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-22",
+          "description": "Committee Amendment # 2025-1968s, AA, VV; 05/22/2025;  SJ 14"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-22",
+          "description": "Sen. Birdsell Floor Amendment # 2025-2287s, AA, VV; 05/22/2025;  SJ 14"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-22",
+          "description": "Ought to Pass with Amendments #2025-1968s and #2025-2287s, MA, VV; OT3rdg; 05/22/2025;  SJ 14"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-12",
+          "description": "House Concurs with Senate Amendment 2025-1968s and 2025-2287s (Reps. Cordelli, Weyler): MA VV 06/12/2025  HJ 17  P. 6"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-08",
+          "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 60"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-08",
+          "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-22",
+          "description": "Signed by Governor Ayotte 07/15/2025; Chapter 204; eff.07/01/2025  HJ 18"
         }
       ]
     },
@@ -3913,6 +5078,228 @@
           "body": "H",
           "date": "2025-03-13",
           "description": "Inexpedient to Legislate: MA RC 202-173 03/13/2025  HJ 8  P. 58"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB71",
+      "action_count": 43,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2024-12-23",
+          "description": "  Introduced 01/08/2025 and referred to Education Policy and Administration  HJ 2  P. 4"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-15",
+          "description": "Public Hearing: 01/22/2025 09:30 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-22",
+          "description": "Executive Session: 01/27/2025 01:30 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-30",
+          "description": "Majority Committee Report: Ought to Pass  01/27/2025 (Vote 10-7; RC)  HC 10  P. 7"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-30",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-06",
+          "description": "Ought to Pass: MA RC 211-146 02/06/2025  HJ 4  P. 12"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-06",
+          "description": "Referred to Finance 02/06/2025  HJ 4  P. 15"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-12",
+          "description": "  Division III Work Session: 02/14/2025 10:00 am LOB 210-211"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-14",
+          "description": "  Division III Work Session: 02/18/2025 01:00 pm LOB 210-211"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-03",
+          "description": "  Division III Work Session: 03/05/2025 01:00 pm LOB 210-211"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-14",
+          "description": "  Public Hearing on non-germane Amendment # 2025-0555h: 03/17/2025 01:00 pm LOB 210-211"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-14",
+          "description": "Executive Session: 03/17/2025 01:15 pm LOB 210-211"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-03",
+          "description": "Majority Committee Report: Ought to Pass with Amendment # 2025-0555h (NT)  04/02/2025 (Vote 14-11; RC)  HC 19  P. 15"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-03",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-10",
+          "description": "Amendment # 2025-0555h (NT): AA VV 04/10/2025  HJ 12  P. 28"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-10",
+          "description": "Ought to Pass with Amendment 2025-0555h: MA RC 209-162 04/10/2025  HJ 12  P. 29"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-11",
+          "description": "  Introduced 03/27/2025 and Referred to Judiciary;  SJ 10"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-23",
+          "description": " Hearing: 04/29/2025, Room 100, SH, 01:30 pm;  SC 19"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-08",
+          "description": "Committee Report: Ought to Pass, 05/15/2025, Vote 3-2;  SC 21"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Ought to Pass: RC 15Y-8N, MA; Refer to Finance Rule 4-5; 05/15/2025;  SJ 13"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-20",
+          "description": "Committee Report: Ought to Pass, 05/22/2025, Vote 5-2;  SC 22A"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-22",
+          "description": "Special Order to 06/05/2026, Without Objection, MA; 05/22/2025  SJ 14"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-22",
+          "description": "Committee Report: Ought to Pass, 06/05/2025, Vote 5-2;  SC 24"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-05",
+          "description": "Without Objection, the Clerk is authorized to make technical and administrative corrections which are necessary to reflect the intent of the Senate, MA; 06/05/2025;  SJ 15"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-05",
+          "description": "Sen. Avard Floor Amendment # 2025-2494s, AA, VV; 06/05/2025;  SJ 15"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-05",
+          "description": "Sen. Avard Floor Amendment # 2025-2495s, AA, VV; 06/05/2025;  SJ 15"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-05",
+          "description": "Ought to Pass with Amendments #2025-2494s, and #2025-2495s, RC 16Y-7N, MA; OT3rdg; 06/05/2025;  SJ 15"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-10",
+          "description": "House Non-Concurs with Senate Amendment  2025-2494s and 2025-2495s and Requests CofC (Rep. Kofalt): MA VV 06/05/2025  HJ 16  P. 168"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-10",
+          "description": "Speaker Appoints: Reps. Cordelli, Noble, Freeman, Terry 06/05/2025  HJ 16  P. 168"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-11",
+          "description": "Sen. Gannon Accedes to House Request for Committee of Conference, MA, VV; (In recess 06/05/2025);  SJ 16"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-11",
+          "description": "President Appoints: Senators Gannon, Avard, Reardon; (In Recess 06/05/2025);  SJ 16"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-12",
+          "description": "Conferee Change; Senator Lang Replaces Senator Avard;  SJ 17"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-16",
+          "description": "Conference Committee Meeting: 06/16/2025 11:00 am LOB 205-207"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-19",
+          "description": "Conferee Change; Senator Birdsell Replaces Senator Reardon;  SJ 17"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-19",
+          "description": "Conference Committee Report Filed, # 2025-2772c; 06/26/2025"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-25",
+          "description": "Removed from Consent (Reps. Cornell, Selig, Weinstein, Kluger, Balboni, M. Hall, Damon, Luneau, M. Murray, Burton) 06/25/2025  HJ 18  P. 17"
+        },
+        {
+          "body": "S",
+          "date": "2025-06-26",
+          "description": "Conference Committee Report # 2025-2772c; RC 16Y-8N, Adopted; 06/26/2025;  SJ 17"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-26",
+          "description": "Conference Committee Report 2025-2272c: Adopted, DV 204-163 06/26/2025  HJ 18  P. 23"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-15",
+          "description": "Enrolled Bill Amendment # 2025-2917e Adopted, VV, (In recess of 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-15",
+          "description": "Enrolled Bill Amendment # 2025-2917e: AA VV (in recess of) 06/26/2025  HJ 18  P. 63"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-18",
+          "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-18",
+          "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 64"
+        },
+        {
+          "body": "H",
+          "date": "2025-08-11",
+          "description": "Signed by Governor Ayotte 08/01/2025; Chapter 265; eff. I.Sec 4 & 5 eff 07/01/2025 II. Rem eff 09/30/2025"
         }
       ]
     },
@@ -4937,6 +6324,118 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB763",
+      "action_count": 21,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-23",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Education Policy and Administration  HJ 3  P. 26"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "Public Hearing: 03/03/2025 11:00 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "Executive Session: 03/03/2025 01:00 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-05",
+          "description": " Committee Report: Ought to Pass with Amendment # 2025-0743h   03/05/2025 (Vote 17-0; CC)"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-13",
+          "description": "Amendment # 2025-0743h: AA VV 03/13/2025  HJ 8  P. 11"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-13",
+          "description": "Ought to Pass with Amendment 2025-0743h: MA VV 03/13/2025  HJ 8  P. 11"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-19",
+          "description": "  Introduced 03/13/2025 and Referred to Education;  SJ 8"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-26",
+          "description": "==RECESSED== Hearing: 04/01/2025, Room 101, LOB, 10:00 am;  SC 15"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-03",
+          "description": " Hearing: 04/08/2025, Room 101, LOB, 09:45 am;  SC 16"
+        },
+        {
+          "body": "S",
+          "date": "2025-04-21",
+          "description": "Committee Report: Ought to Pass with Amendment # 2025-1622s, 05/01/2025; Vote 4-0; CC;  SC 19"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-01",
+          "description": "Ought to Pass with Amendment #2025-1622s, MA, VV; Refer to Finance Rule 4-5; 05/01/2025;  SJ 11"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-01",
+          "description": "Committee Amendment # 2025-1622s, AA, VV; 05/01/2025;  SJ 11"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-12",
+          "description": "Committee Report: Ought to Pass with Amendment # 2025-2076s, 05/15/2025; Vote 8-0; CC;  SC 21A"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Committee Amendment # 2025-2076s, AA, VV; 05/15/2025;  SJ 13"
+        },
+        {
+          "body": "S",
+          "date": "2025-05-15",
+          "description": "Ought to Pass with Amendment #2025-2076s, MA, VV; OT3rdg; 05/15/2025;  SJ 13"
+        },
+        {
+          "body": "H",
+          "date": "2025-06-12",
+          "description": "House Concurs with Senate Amendment 2025-1622s and 2025-2076s (Rep. Cordelli): MA VV 06/12/2025  HJ 17  P. 7"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-07",
+          "description": "Enrolled Bill Amendment # 2025-2907e Adopted, VV, (In recess of 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-07",
+          "description": "Enrolled Bill Amendment # 2025-2907e: AA VV (in recess of) 06/26/2025  HJ 18  P. 59"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-08",
+          "description": "Enrolled (in recess of) 06/26/2025  HJ 18  P. 60"
+        },
+        {
+          "body": "S",
+          "date": "2025-07-08",
+          "description": "Enrolled Adopted, VV, (In recess 06/26/2025);  SJ 18"
+        },
+        {
+          "body": "H",
+          "date": "2025-07-22",
+          "description": "Signed by Governor Ayotte 07/15/2025; Chapter 209; eff.07/01/2025  HJ 18"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB765",
       "action_count": 5,
       "actions": [
@@ -4964,6 +6463,38 @@
           "body": "H",
           "date": "2025-03-26",
           "description": "Inexpedient to Legislate: MA VV 03/26/2025  HJ 10  P. 17"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB766",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-23",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Municipal and County Government  HJ 3  P. 26"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-29",
+          "description": "Public Hearing: 02/04/2025 10:00 am LOB 307"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-12",
+          "description": "Executive Session: 02/18/2025 01:00 pm LOB 201"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-25",
+          "description": " Committee Report: Inexpedient to Legislate  02/18/2025 (Vote 17-1; CC)  HC 14  P. 12"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-06",
+          "description": "Inexpedient to Legislate: MA VV 03/06/2025  HJ 7  P. 19"
         }
       ]
     },
@@ -6001,6 +7532,33 @@
           "body": "S",
           "date": "2025-03-13",
           "description": "Inexpedient to Legislate, RC 16Y-8N, MA === BILL KILLED ===; 03/13/2025;  SJ 7"
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SB205",
+      "action_count": 4,
+      "actions": [
+        {
+          "body": "S",
+          "date": "2025-01-23",
+          "description": "  Introduced 01/09/2025 and Referred to Education;  SJ 3"
+        },
+        {
+          "body": "S",
+          "date": "2025-02-05",
+          "description": " Hearing: 02/11/2025, Room 101, LOB, 09:45 am;  SC 9"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-07",
+          "description": "Committee Report: Inexpedient to Legislate, 03/13/2025, Vote 3-2;  SC 12"
+        },
+        {
+          "body": "S",
+          "date": "2025-03-13",
+          "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 03/13/2025;  SJ 7"
         }
       ]
     },
@@ -8029,6 +9587,48 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "CACR24",
+      "action_count": 7,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-01",
+          "description": "  Introduced 01/07/2026 and referred to Education Policy and Administration  HJ 1  P. 41"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-11",
+          "description": "Public Hearing: 02/20/2026 01:00 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-27",
+          "description": "Executive Session: 03/02/2026 09:30 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-04",
+          "description": "Majority Committee Report: Ought to Pass with Amendment # 2026-0941h   03/02/2026 (Vote 10-8; RC)  HC 10  P. 35"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-04",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-11",
+          "description": "Amendment # 2026-0941h: AA DV 184-149 03/11/2026  HJ 7  P. 110"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-11",
+          "description": "Ought to Pass with Amendment 2026-0941h: MF RC 181-156 Lacking Necessary Three-Fifths Vote 03/11/2026  HJ 7  P. 112"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "CACR28",
       "action_count": 5,
       "actions": [
@@ -9224,6 +10824,73 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB1202",
+      "action_count": 12,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-01",
+          "description": "  Introduced 01/07/2026 and referred to Education Funding  HJ 1  P. 10"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-13",
+          "description": "  Public Hearing: 01/22/2026 11:00 am GP 158"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-29",
+          "description": "  Executive Session: 01/22/2026 11:00 am GP 158"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-29",
+          "description": " Committee Report: Ought to Pass  01/27/2026 (Vote 16-0; CC)  HC 5  P. 4"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-05",
+          "description": "Ought to Pass: MA VV 02/05/2026  HJ 3  P. 7"
+        },
+        {
+          "body": "S",
+          "date": "2026-02-09",
+          "description": "  Introduced 02/05/2026 and Referred to Education;  SJ 4"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-16",
+          "description": " Hearing: 03/10/2026, Room Map Room, SL, 10:00 am;  SC 9"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-17",
+          "description": "Ought to Pass: MA, VV; OT3rdg; 03/26/2026;  SJ 7"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-18",
+          "description": "Committee Report: Ought to Pass, 03/26/2026; Vote 5-0; CC;  SC 11"
+        },
+        {
+          "body": "S",
+          "date": "2026-04-08",
+          "description": "Enrolled Adopted, VV, (In recess 03/26/2026);  SJ 8"
+        },
+        {
+          "body": "H",
+          "date": "2026-04-08",
+          "description": "Enrolled (in recess of) 03/26/2026  HJ 9  P. 56"
+        },
+        {
+          "body": "H",
+          "date": "2026-04-22",
+          "description": "Signed by Governor Ayotte 04/22/2026; Chapter 31; eff. 06/21/2026"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB1209",
       "action_count": 5,
       "actions": [
@@ -9375,6 +11042,38 @@
           "body": "H",
           "date": "2026-02-25",
           "description": "Minority Committee Report: Ought to Pass with Amendment # 2026-0768h"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1220",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-01",
+          "description": "  Introduced 01/07/2026 and referred to Municipal and County Government  HJ 1  P. 11"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-28",
+          "description": "Public Hearing: 02/03/2026 11:10 am GP 154"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-11",
+          "description": "Executive Session: 02/17/2026 09:00 am GP 154"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-24",
+          "description": " Committee Report: Inexpedient to Legislate  02/17/2026 (Vote 17-0; CC)  HC 9  P. 21"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-05",
+          "description": "Inexpedient to Legislate: MA VV 03/05/2026  HJ 6  P. 27"
         }
       ]
     },
@@ -10050,6 +11749,88 @@
           "body": "H",
           "date": "2026-03-12",
           "description": "Refer for Interim Study: MA DV 175-164 03/12/2026  HJ 8  P. 85"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB129",
+      "action_count": 15,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-06",
+          "description": "  Introduced 01/08/2025 and referred to Education Policy and Administration  HJ 2  P. 7"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-22",
+          "description": "Public Hearing: 01/27/2025 10:00 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-22",
+          "description": "Executive Session: 01/27/2025 01:30 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-30",
+          "description": "Majority Committee Report: Ought to Pass  01/27/2025 (Vote 10-7; RC)  HC 10  P. 7"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-30",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-06",
+          "description": "Ought to Pass: MA DV 203-155 02/06/2025  HJ 4  P. 15"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-06",
+          "description": "Referred to Finance 02/06/2025  HJ 4  P. 15"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-12",
+          "description": "  Division II Work Session: 02/19/2025 10:30 am LOB 209"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-14",
+          "description": "Executive Session: 03/17/2025 01:15 pm LOB 210-211"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-19",
+          "description": "  Division II Work Session: 03/21/2025 01:00 pm LOB 209"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-28",
+          "description": "Retained in Committee"
+        },
+        {
+          "body": "H",
+          "date": "2025-09-09",
+          "description": "  Division II Work Session: 10/16/2025 10:00 am GP 230"
+        },
+        {
+          "body": "H",
+          "date": "2025-10-14",
+          "description": "Executive Session: 10/30/2025 10:00 am GP 230"
+        },
+        {
+          "body": "H",
+          "date": "2025-11-05",
+          "description": " Committee Report: Inexpedient to Legislate  10/30/2025 (Vote 25-0; CC)  HC 51  P. 10"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-07",
+          "description": "Inexpedient to Legislate: MA VV 01/07/2026  HJ 1  P. 70"
         }
       ]
     },
@@ -11333,6 +13114,38 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB1412",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-04",
+          "description": "  Introduced 01/07/2026 and referred to Education Policy and Administration  HJ 1  P. 19"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-21",
+          "description": "Public Hearing: 01/28/2026 01:00 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-25",
+          "description": "  Executive Session: 02/18/2026 01:00 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-25",
+          "description": " Committee Report: Inexpedient to Legislate  02/18/2026 (Vote 14-2; CC)  HC 9  P. 11"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-05",
+          "description": "Inexpedient to Legislate: MA VV 03/05/2026  HJ 6  P. 12"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB1427",
       "action_count": 6,
       "actions": [
@@ -11442,6 +13255,83 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB1449",
+      "action_count": 14,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-04",
+          "description": "  Introduced 01/07/2026 and referred to Health, Human Services and Elderly Affairs  HJ 1  P. 22"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-17",
+          "description": "==CANCELLED== Public Hearing: 02/23/2026 10:00 am GP 158"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-18",
+          "description": "Public Hearing: 02/25/2026 10:30 am GP 158"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-27",
+          "description": "Executive Session: 03/04/2026 09:00 am GP 158"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-04",
+          "description": "Majority Committee Report: Ought to Pass with Amendment # 2026-0989h   03/04/2026 (Vote 10-8; RC)  HC 10  P. 50"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-04",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-11",
+          "description": "Amendment # 2026-0989h: AA VV 03/11/2026  HJ 7  P. 190"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-11",
+          "description": "Ought to Pass with Amendment 2026-0989h: MA RC 172-154 03/11/2026  HJ 7  P. 190"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-17",
+          "description": "  Introduced 03/12/2026 and Referred to Health and Human Services;  SJ 7"
+        },
+        {
+          "body": "S",
+          "date": "2026-04-10",
+          "description": " Hearing: 04/02/2026, Room 103, SH, 02:00 pm;  SC 12"
+        },
+        {
+          "body": "S",
+          "date": "2026-04-10",
+          "description": "Committee Report: Ought to Pass with Amendment # 2026-1426s, 04/16/2026; Vote 4-0; CC;  SC 14A"
+        },
+        {
+          "body": "S",
+          "date": "2026-04-14",
+          "description": "Committee Amendment # 2026-1426s, AA, VV; 04/16/2026;  SJ 9"
+        },
+        {
+          "body": "S",
+          "date": "2026-04-14",
+          "description": "Ought to Pass with Amendment # 2026-1426s, MA, VV; OT3rdg; 04/16/2026;  SJ 9"
+        },
+        {
+          "body": "H",
+          "date": "2026-05-21",
+          "description": "House Non-Concurs with Senate Amendment 2026-1426s (Rep. W. MacDonald): MA VV 05/21/2026  HJ 14  P. 11"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB1452",
       "action_count": 5,
       "actions": [
@@ -11501,6 +13391,38 @@
           "body": "H",
           "date": "2026-03-05",
           "description": "Inexpedient to Legislate: MA VV 03/05/2026  HJ 6  P. 12"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1456",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-04",
+          "description": "  Introduced 01/07/2026 and referred to Judiciary  HJ 1  P. 21"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-12",
+          "description": "Public Hearing: 02/25/2026 10:30 am GP 230"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-02",
+          "description": "  Executive Session: 02/25/2026 10:30 am GP 230"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-02",
+          "description": "Majority Committee Report: Inexpedient to Legislate  02/25/2026 (Vote 9-8; RC)  HC 10  P. 101"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-02",
+          "description": "Minority Committee Report: Ought to Pass"
         }
       ]
     },
@@ -11759,6 +13681,38 @@
           "body": "H",
           "date": "2026-04-22",
           "description": "Signed by Governor Ayotte 04/22/2026; Chapter 38; eff. 04/22/2026"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1507",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-10",
+          "description": "  Introduced 01/07/2026 and referred to Education Policy and Administration  HJ 1  P. 23"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-08",
+          "description": "Public Hearing: 01/14/2026 11:20 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-14",
+          "description": "Executive Session: 01/22/2026 10:00 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-28",
+          "description": " Committee Report: Inexpedient to Legislate  01/22/2026 (Vote 16-2; CC)  HC 5  P. 5"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-05",
+          "description": "Inexpedient to Legislate: MA VV 02/05/2026  HJ 3  P. 9"
         }
       ]
     },
@@ -12762,6 +14716,38 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB1579",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-10",
+          "description": "  Introduced 01/07/2026 and referred to Education Funding  HJ 1  P. 26"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-21",
+          "description": "  Public Hearing: 01/29/2026 02:30 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-11",
+          "description": "Executive Session: 02/17/2026 10:00 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-25",
+          "description": " Committee Report: Refer for Interim Study  02/18/2026 (Vote 18-0; CC)  HC 9  P. 9"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-05",
+          "description": "Refer for Interim Study: MA VV 03/05/2026  HJ 6  P. 10"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB1586",
       "action_count": 5,
       "actions": [
@@ -12840,6 +14826,68 @@
         {
           "body": "S",
           "date": "2026-05-07",
+          "description": "Refer to Interim Study, MA, VV; 05/07/2026;  SJ 11"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1604",
+      "action_count": 11,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-10",
+          "description": "  Introduced 01/07/2026 and referred to Election Law  HJ 1  P. 27"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-29",
+          "description": "Public Hearing: 02/03/2026 11:00 am GP 158"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-11",
+          "description": "==RECESSED== Executive Session: 02/10/2026 11:00 am GP 158"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-17",
+          "description": "==CONTINUED== Executive Session: 02/17/2026 01:40 pm GP 158"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-04",
+          "description": " Committee Report: Ought to Pass with Amendment # 2026-0676h   02/17/2026 (Vote 15-0; RC)  HC 10  P. 44"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-11",
+          "description": "Amendment # 2026-0676h: AA VV 03/11/2026  HJ 7  P. 162"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-11",
+          "description": "Ought to Pass with Amendment 2026-0676h: MA VV 03/11/2026  HJ 7  P. 162"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-17",
+          "description": "  Introduced 03/12/2026 and Referred to Election Law and Municipal Affairs;  SJ 7"
+        },
+        {
+          "body": "S",
+          "date": "2026-04-08",
+          "description": " Hearing: 04/14/2026, Room 122-123, SH, 09:15 am;  SC 14"
+        },
+        {
+          "body": "S",
+          "date": "2026-04-22",
+          "description": "Committee Report: Referred to Interim Study, 05/07/2026; Vote 5-0; CC;  SC 17"
+        },
+        {
+          "body": "S",
+          "date": "2026-05-05",
           "description": "Refer to Interim Study, MA, VV; 05/07/2026;  SJ 11"
         }
       ]
@@ -13002,6 +15050,100 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB1635",
+      "action_count": 10,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-10",
+          "description": "  Introduced 01/07/2026 and referred to Education Policy and Administration  HJ 1  P. 29"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-14",
+          "description": "Public Hearing: 01/21/2026 10:20 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-14",
+          "description": "Executive Session: 01/22/2026 10:00 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-04",
+          "description": "Majority Committee Report: Ought to Pass  01/29/2026 (Vote 10-8; RC)  HC 9  P. 38"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-04",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-05",
+          "description": "Ought to Pass: MA RC 183-167 03/05/2026  HJ 6  P. 85"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-06",
+          "description": "  Introduced 03/05/2026 and Referred to Education;  SJ 6"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-17",
+          "description": "  Hearing: 03/24/2026, Map Room, SL, 09:55 am;  SC 12"
+        },
+        {
+          "body": "S",
+          "date": "2026-04-09",
+          "description": "Committee Report: Inexpedient to Legislate; Vote 5-0; CC; 04/16/2026; SC 14"
+        },
+        {
+          "body": "S",
+          "date": "2026-04-10",
+          "description": "Inexpedient to Legislate, MA, VV === BILL KILLED ===; 04/16/2026;  SJ 9"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1640",
+      "action_count": 6,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-10",
+          "description": "  Introduced 01/07/2026 and referred to Education Policy and Administration  HJ 1  P. 29"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-08",
+          "description": "Public Hearing: 01/14/2026 10:10 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-24",
+          "description": "  Executive Session: 02/18/2026 10:10 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-24",
+          "description": "Majority Committee Report: Inexpedient to Legislate  02/18/2026 (Vote 9-7; RC)  HC 9  P. 38"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-24",
+          "description": "Minority Committee Report: Ought to Pass"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-05",
+          "description": "Lay HB1640 on Table (Rep. Noble): MA DV 176-153 03/05/2026  HJ 6  P. 105"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB1644",
       "action_count": 5,
       "actions": [
@@ -13029,6 +15171,38 @@
           "body": "H",
           "date": "2026-03-11",
           "description": "Refer for Interim Study: MA VV 03/11/2026  HJ 7  P. 20"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1645",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-10",
+          "description": "  Introduced 01/07/2026 and referred to Education Policy and Administration  HJ 1  P. 29"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-08",
+          "description": "Public Hearing: 01/12/2026 11:20 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-25",
+          "description": "  Executive Session: 02/18/2026 11:20 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-25",
+          "description": " Committee Report: Inexpedient to Legislate  02/18/2026 (Vote 16-0; CC)  HC 9  P. 11"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-05",
+          "description": "Inexpedient to Legislate: MA VV 03/05/2026  HJ 6  P. 12"
         }
       ]
     },
@@ -13093,6 +15267,70 @@
           "body": "H",
           "date": "2026-02-19",
           "description": "Refer for Interim Study: MA VV 02/19/2026  HJ 5  P. 27"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1672",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-12",
+          "description": "  Introduced 01/07/2026 and referred to Education Funding  HJ 1  P. 31"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-13",
+          "description": "==ROOM CHANGE== Public Hearing: 01/27/2026 09:30 am GP 234"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-29",
+          "description": "  Executive Session: 01/27/2026 09:30 am GP 234"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-29",
+          "description": " Committee Report: Inexpedient to Legislate  01/27/2026 (Vote 16-0; CC)  HC 5  P. 4"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-05",
+          "description": "Inexpedient to Legislate: MA VV 02/05/2026  HJ 3  P. 8"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1688",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-12",
+          "description": "  Introduced 01/07/2026 and referred to Education Policy and Administration  HJ 1  P. 31"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-03",
+          "description": "Public Hearing: 02/09/2026 01:30 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-25",
+          "description": "  Executive Session: 02/18/2026 01:30 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-25",
+          "description": " Committee Report: Inexpedient to Legislate  02/18/2026 (Vote 16-0; CC)  HC 9  P. 11"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-05",
+          "description": "Inexpedient to Legislate: MA VV 03/05/2026  HJ 6  P. 12"
         }
       ]
     },
@@ -13172,6 +15410,38 @@
           "body": "H",
           "date": "2026-06-24",
           "description": "Special Order to next order of business (Rep. Malone): MF RC 156-195 03/12/2026  HJ 8  P. 58"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1712",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-12",
+          "description": "  Introduced 01/07/2026 and referred to Education Policy and Administration  HJ 1  P. 32"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-18",
+          "description": "  Public Hearing: 02/24/2026 10:15 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-27",
+          "description": "Executive Session: 03/02/2026 09:30 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-04",
+          "description": " Committee Report: Inexpedient to Legislate  03/02/2026 (Vote 16-1; CC)  HC 10  P. 13"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-11",
+          "description": "Inexpedient to Legislate: MA VV 03/11/2026  HJ 7  P. 20"
         }
       ]
     },
@@ -13410,6 +15680,38 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB1731",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-17",
+          "description": "  Introduced 01/07/2026 and referred to Education Policy and Administration  HJ 1  P. 33"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-08",
+          "description": "Public Hearing: 01/12/2026 11:30 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-04",
+          "description": "  Executive Session: 01/12/2026 11:30 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-04",
+          "description": " Committee Report: Inexpedient to Legislate  01/29/2026 (Vote 16-0; CC)  HC 6  P. 4"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-12",
+          "description": "Inexpedient to Legislate: MA VV 02/12/2026  HJ 4  P. 3"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB1758",
       "action_count": 15,
       "actions": [
@@ -13487,6 +15789,98 @@
           "body": "H",
           "date": "2026-06-24",
           "description": "Signed by Governor Ayotte 06/19/2026; Chapter 180; eff. 08/18/2026"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1774",
+      "action_count": 17,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-17",
+          "description": "  Introduced 01/07/2026 and referred to Education Policy and Administration  HJ 1  P. 35"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-21",
+          "description": "Public Hearing: 01/28/2026 11:15 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-27",
+          "description": "Executive Session: 03/02/2026 09:30 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-04",
+          "description": " Committee Report: Ought to Pass with Amendment # 2026-0915h (NT)  03/02/2026 (Vote 17-1; CC)  HC 10  P. 13"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-11",
+          "description": "Amendment # 2026-0915h: AA VV 03/11/2026  HJ 7  P. 20"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-11",
+          "description": "Ought to Pass with Amendment 2026-0915h: MA VV 03/11/2026  HJ 7  P. 20"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-17",
+          "description": "  Introduced 03/12/2026 and Referred to Education;  SJ 7"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-24",
+          "description": " Hearing: 03/31/2026, Room Map Room, SL, 09:15 am;  SC 12"
+        },
+        {
+          "body": "S",
+          "date": "2026-04-30",
+          "description": "Committee Report: Ought to Pass with Amendment # 2026-1728s, 05/07/2026; Vote 5-0; CC;  SC 17"
+        },
+        {
+          "body": "S",
+          "date": "2026-05-05",
+          "description": "Committee Amendment # 2026-1728s, AA, VV; 05/07/2026;  SJ 11"
+        },
+        {
+          "body": "S",
+          "date": "2026-05-05",
+          "description": "Ought to Pass with Amendment # 2026-1728s, MA, VV; Refer to Finance Rule 4-5; 05/07/2026;  SJ 11"
+        },
+        {
+          "body": "S",
+          "date": "2026-05-12",
+          "description": "Committee Report: Ought to Pass, 05/14/2026; Vote 7-0; CC;  SC 18A"
+        },
+        {
+          "body": "S",
+          "date": "2026-05-13",
+          "description": "Ought to Pass: MA, VV; OT3rdg; 05/14/2026;  SJ 12"
+        },
+        {
+          "body": "H",
+          "date": "2026-05-21",
+          "description": "House Concurs with Senate Amendment 2026-1728s (Rep. Noble): MA VV 05/21/2026  HJ 14  P. 8"
+        },
+        {
+          "body": "S",
+          "date": "2026-06-23",
+          "description": "Enrolled Adopted, VV, (In recess 06/04/2026);  SJ 14"
+        },
+        {
+          "body": "H",
+          "date": "2026-06-23",
+          "description": "Enrolled (in recess of) 06/04/2026  HJ 15"
+        },
+        {
+          "body": "H",
+          "date": "2026-07-10",
+          "description": "Signed by Governor Ayotte 07/02/2026; Chapter 242; eff. 7/1/2026"
         }
       ]
     },
@@ -14123,6 +16517,88 @@
           "body": "H",
           "date": "2026-02-19",
           "description": "Inexpedient to Legislate: MA VV 02/19/2026  HJ 5  P. 8"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1815",
+      "action_count": 15,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-18",
+          "description": "  Introduced 01/07/2026 and referred to Education Funding  HJ 1  P. 37"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-05",
+          "description": "Public Hearing: 02/13/2026 01:00 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-11",
+          "description": "Executive Session: 02/18/2026 10:00 am GP 234"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-24",
+          "description": "Majority Committee Report: Ought to Pass  02/18/2026 (Vote 10-7; RC)  HC 9  P. 34"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-24",
+          "description": "Minority Committee Report: Inexpedient to Legislate"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-05",
+          "description": "Ought to Pass: MA RC 188-162 03/05/2026  HJ 6  P. 60"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-05",
+          "description": "Reconsider OTP (Rep. Osborne): MF VV 03/05/2026  HJ 6  P. 63"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-06",
+          "description": "  Introduced 03/05/2026 and Referred to Education Finance;  SJ 6"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-06",
+          "description": "  Hearing: 03/13/2026, Room 103, SH, 09:15 am;  SC 9A"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-13",
+          "description": "Committee Report: Ought to Pass, 03/26/2026, Vote 3-2;  SC 11"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-26",
+          "description": "Without Objection, Sen. Birdsell Moved the Question, MA; 03/26/2026;  SJ 7"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-26",
+          "description": "Ought to Pass: RC 16Y-8N, MA; OT3rdg; Read a Third Time, and Final Passage in the early session, MA, VV; 03/26/2026;  SJ 7"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-26",
+          "description": "Enrolled 03/26/2026  HJ 9  P. 17"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-26",
+          "description": "Enrolled, Without Objection, MA; 03/26/2026;  SJ 7"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-30",
+          "description": "Signed by Governor Ayotte 03/27/2026; Chapter 19; eff.05/26/2026"
         }
       ]
     },
@@ -14793,6 +17269,38 @@
           "body": "S",
           "date": "2026-05-07",
           "description": "Pending Motion OT3rdg; 05/07/2026;  SJ 11"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB1829",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-18",
+          "description": "  Introduced 01/07/2026 and referred to Education Policy and Administration  HJ 1  P. 38"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-28",
+          "description": "  Public Hearing: 02/02/2026 10:40 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-17",
+          "description": "  Executive Session: 02/09/2026 10:40 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-17",
+          "description": " Committee Report: Inexpedient to Legislate  02/09/2026 (Vote 15-0; CC)  HC 9  P. 12"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-05",
+          "description": "Inexpedient to Legislate: MA VV 03/05/2026  HJ 6  P. 13"
         }
       ]
     },
@@ -16067,6 +18575,73 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB491",
+      "action_count": 12,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-14",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Education Funding  HJ 3  P. 13"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-29",
+          "description": "Public Hearing: 02/07/2025 02:30 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-27",
+          "description": "==CANCELLED== Executive Session: 03/11/2025 10:30 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-05",
+          "description": "Executive Session: 03/12/2025 10:30 am LOB 201"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-12",
+          "description": "Retained in Committee"
+        },
+        {
+          "body": "H",
+          "date": "2025-08-27",
+          "description": "   Subcommittee Work Session: 09/16/2025 10:00 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2025-09-17",
+          "description": "   Subcommittee Work Session: 09/30/2025 10:00 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2025-10-15",
+          "description": " ==RESCHEDULED== Executive Session: 11/04/2025 02:00 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2025-10-28",
+          "description": "  Executive Session: 11/13/2025 02:00 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2025-11-20",
+          "description": "Majority Committee Report: Inexpedient to Legislate  11/13/2025 (Vote 10-8; RC)  HC 51  P. 24"
+        },
+        {
+          "body": "H",
+          "date": "2025-11-20",
+          "description": "Minority Committee Report: Ought to Pass"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-07",
+          "description": "Inexpedient to Legislate: MA RC 195-157 01/07/2026  HJ 1  P. 109"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB510",
       "action_count": 25,
       "actions": [
@@ -17141,6 +19716,83 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB716",
+      "action_count": 14,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-22",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Education Funding  HJ 3  P. 24"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-22",
+          "description": "Public Hearing: 01/28/2025 03:00 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-29",
+          "description": "Executive Session: 02/04/2025 09:45 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-05",
+          "description": " Committee Report: Ought to Pass with Amendment # 2025-0168h   02/04/2025 (Vote 18-0; RC)  HC 12  P. 16"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "Amendment # 2025-0168h: AA VV 02/20/2025  HJ 6  P. 40"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "Ought to Pass with Amendment 2025-0168h: MA VV 02/20/2025  HJ 6  P. 40"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "Referred to Finance 02/20/2025  HJ 6  P. 41"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-25",
+          "description": "  Division II Work Session: 03/07/2025 09:00 am LOB 209"
+        },
+        {
+          "body": "H",
+          "date": "2025-03-14",
+          "description": "Executive Session: 03/17/2025 01:15 pm LOB 210-211"
+        },
+        {
+          "body": "H",
+          "date": "2025-04-03",
+          "description": "Retained in Committee"
+        },
+        {
+          "body": "H",
+          "date": "2025-09-09",
+          "description": "  Division II Work Session: 10/16/2025 10:00 am GP 230"
+        },
+        {
+          "body": "H",
+          "date": "2025-10-14",
+          "description": "Executive Session: 10/30/2025 10:00 am GP 230"
+        },
+        {
+          "body": "H",
+          "date": "2025-11-05",
+          "description": " Committee Report: Inexpedient to Legislate  10/30/2025 (Vote 25-0; CC)  HC 51  P. 11"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-07",
+          "description": "Inexpedient to Legislate: MA VV 01/07/2026  HJ 1  P. 72"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB729",
       "action_count": 11,
       "actions": [
@@ -17193,6 +19845,63 @@
           "body": "H",
           "date": "2025-11-20",
           "description": " Committee Report: Refer for Interim Study  11/18/2025 (Vote 18-0; CC)  HC 51  P. 7"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-07",
+          "description": "Refer for Interim Study: MA VV 01/07/2026  HJ 1  P. 49"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HB734",
+      "action_count": 10,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-22",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Education Funding  HJ 3  P. 25"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-22",
+          "description": "Public Hearing: 01/30/2025 02:45 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "  Full Committee Work Session: 02/25/2025 10:00 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-26",
+          "description": "Retained in Committee"
+        },
+        {
+          "body": "H",
+          "date": "2025-08-27",
+          "description": "   Subcommittee Work Session: 09/16/2025 10:00 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2025-09-17",
+          "description": "   Subcommittee Work Session: 09/30/2025 10:00 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2025-10-15",
+          "description": " ==RESCHEDULED== Executive Session: 11/04/2025 02:00 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2025-10-28",
+          "description": "  Executive Session: 11/13/2025 02:00 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2025-11-20",
+          "description": " Committee Report: Refer for Interim Study  11/13/2025 (Vote 18-0; CC)  HC 51  P. 7"
         },
         {
           "body": "H",
@@ -17651,6 +20360,68 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "HB772",
+      "action_count": 11,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-01-23",
+          "description": "  Introduced (in recess of) 01/09/2025 and referred to Education Funding  HJ 3  P. 27"
+        },
+        {
+          "body": "H",
+          "date": "2025-01-29",
+          "description": "Public Hearing: 02/04/2025 02:15 pm LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-05",
+          "description": "  Full Committee Work Session: 02/12/2025 10:00 am LOB 210-211"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-20",
+          "description": "  Full Committee Work Session: 02/25/2025 10:00 am LOB 205-207"
+        },
+        {
+          "body": "H",
+          "date": "2025-02-26",
+          "description": "Retained in Committee"
+        },
+        {
+          "body": "H",
+          "date": "2025-08-27",
+          "description": "   Subcommittee Work Session: 09/16/2025 10:00 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2025-09-17",
+          "description": "   Subcommittee Work Session: 09/30/2025 10:00 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2025-10-15",
+          "description": " ==RESCHEDULED== Executive Session: 11/04/2025 02:00 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2025-10-28",
+          "description": "  Executive Session: 11/13/2025 02:00 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2025-11-21",
+          "description": " Committee Report: Refer for Interim Study  11/13/2025 (Vote 17-0; CC)  HC 51  P. 8"
+        },
+        {
+          "body": "H",
+          "date": "2026-01-07",
+          "description": "Refer for Interim Study: MA VV 01/07/2026  HJ 1  P. 49"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "HB773",
       "action_count": 16,
       "actions": [
@@ -17816,6 +20587,70 @@
         {
           "body": "H",
           "date": "2026-02-10",
+          "description": "Minority Committee Report: Ought to Pass"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HR28",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-01",
+          "description": "  Introduced 01/07/2026 and referred to Judiciary  HJ 1  P. 39"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-05",
+          "description": "Public Hearing: 02/09/2026 02:30 pm GP 158"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-05",
+          "description": "Executive Session: 02/13/2026 10:00 am GP 158"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-26",
+          "description": " Committee Report: Inexpedient to Legislate  02/13/2026 (Vote 18-0; CC)  HC 9  P. 20"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-05",
+          "description": "Inexpedient to Legislate: MA VV 03/05/2026  HJ 6  P. 25"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "HR40",
+      "action_count": 5,
+      "actions": [
+        {
+          "body": "H",
+          "date": "2025-12-04",
+          "description": "  Introduced 01/07/2026 and referred to Education Funding  HJ 1  P. 40"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-05",
+          "description": "Public Hearing: 02/13/2026 01:45 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-11",
+          "description": "Executive Session: 02/18/2026 10:00 am GP 234"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-27",
+          "description": "Majority Committee Report: Inexpedient to Legislate  02/18/2026 (Vote 10-7; RC)  HC 10  P. 82"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-27",
           "description": "Minority Committee Report: Ought to Pass"
         }
       ]
@@ -18992,6 +21827,63 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "SB433",
+      "action_count": 10,
+      "actions": [
+        {
+          "body": "S",
+          "date": "2025-11-21",
+          "description": "  Introduced 01/07/2026 and Referred to Education;  SJ 1"
+        },
+        {
+          "body": "S",
+          "date": "2026-01-20",
+          "description": " Hearing: 01/27/2026, Room Map Room, SL, 09:15 am;  SC 3"
+        },
+        {
+          "body": "S",
+          "date": "2026-02-05",
+          "description": "Committee Report: Ought to Pass, 02/19/2026; Vote 5-0; CC;  SC 6"
+        },
+        {
+          "body": "S",
+          "date": "2026-02-09",
+          "description": "Ought to Pass: MA, VV; OT3rdg; 02/19/2026;  SJ 4"
+        },
+        {
+          "body": "H",
+          "date": "2026-02-26",
+          "description": "  Introduced (in recess of) 02/19/2026 and referred to Education Policy and Administration  HJ 5  P. 124"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-25",
+          "description": "==CANCELLED== Public Hearing: 04/01/2026 10:00 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-04-01",
+          "description": "Public Hearing: 04/08/2026 10:00 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-04-29",
+          "description": "Executive Session: 05/04/2026 10:30 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-05-06",
+          "description": " Committee Report: Inexpedient to Legislate  05/04/2026 (Vote 15-2; CC)  HC 19  P. 12"
+        },
+        {
+          "body": "H",
+          "date": "2026-05-14",
+          "description": "Inexpedient to Legislate: MA VV 05/14/2026  HJ 13  P. 16"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "SB434",
       "action_count": 18,
       "actions": [
@@ -19084,6 +21976,33 @@
           "body": "S",
           "date": "2026-07-09",
           "description": "Vetoed by Governor 07/02/2026"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB463",
+      "action_count": 4,
+      "actions": [
+        {
+          "body": "S",
+          "date": "2025-11-21",
+          "description": "  Introduced 01/07/2026 and Referred to Judiciary;  SJ 1"
+        },
+        {
+          "body": "S",
+          "date": "2026-01-13",
+          "description": "  Hearing: 01/20/2026, Room 100, SH, 01:55 pm;  SC 2"
+        },
+        {
+          "body": "S",
+          "date": "2026-01-28",
+          "description": "Committee Report: Inexpedient to Legislate, 02/05/2026, Vote 3-2;  SC 4"
+        },
+        {
+          "body": "S",
+          "date": "2026-02-05",
+          "description": "Inexpedient to Legislate, RC 16Y-8N, MA === BILL KILLED ===; 02/05/2026;  SJ 3"
         }
       ]
     },
@@ -20005,6 +22924,118 @@
     },
     {
       "session_year": 2026,
+      "bill_no": "SB580",
+      "action_count": 21,
+      "actions": [
+        {
+          "body": "S",
+          "date": "2025-11-25",
+          "description": "  Introduced 01/07/2026 and Referred to Education;  SJ 1"
+        },
+        {
+          "body": "S",
+          "date": "2026-01-20",
+          "description": " Hearing: 01/27/2026, Room Map Room, SL, 09:45 am;  SC 3"
+        },
+        {
+          "body": "S",
+          "date": "2026-02-03",
+          "description": "Committee Report: Ought to Pass with Amendment # 2026-0510s, 02/19/2026, Vote 3-2;  SC 6"
+        },
+        {
+          "body": "S",
+          "date": "2026-02-19",
+          "description": "Committee Amendment # 2026-0510s, AA, VV; 02/19/2026;  SJ 4"
+        },
+        {
+          "body": "S",
+          "date": "2026-02-19",
+          "description": "Special Order to the end of the Calendar, Without Objection, MA; 02/19/2026;"
+        },
+        {
+          "body": "S",
+          "date": "2026-02-19",
+          "description": "Special Order to the Next Session, Without Objection, MA; 02/19/2026;  SJ 4"
+        },
+        {
+          "body": "S",
+          "date": "2026-02-19",
+          "description": "Committee Report: Ought to Pass with Amendment # 2026-0510s, 03/05/2026, Vote 3-2;  SC 8"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-05",
+          "description": "Sen. Prentiss Floor Amendment # 2026-0852s, AF, VV; 03/05/2026;  SJ 5"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-05",
+          "description": "Sen. Perkins Kwoka Moved to divide the Question on Ought to Pass with Amendment with the first vote on Sections 5; 6; and the Effective Date and the second vote on the Remainder of the Bill and the Effective Date; 03/05/2026;  SJ 5"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-05",
+          "description": "The Chair ruled the Question Divisible; 03/05/2026;  SJ 5"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-05",
+          "description": "Ought to Pass with Amendment Sections 5; 6; and the Effective Date; MF; VV, 03/05/2026;  SJ 5"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-05",
+          "description": "Sen. Lang Moved to Reconsider the vote on: Ought to Pass with Amendment Sections 5; 6; and the Effective Date, MA, VV; 03/05/2026;  SJ 5"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-05",
+          "description": "Ought to Pass with Amendment Sections 5; 6; and the Effective Date; MA; VV, 03/05/2026;  SJ 5"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-05",
+          "description": "Ought to Pass with Amendment on the Remainder of the Bill and the Effective Date; MA; VV; OT3rdg, 03/05/2026;  SJ 5"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-16",
+          "description": "  Introduced (in recess of) 03/12/2026 and referred to Education Policy and Administration  HJ 8  P. 114"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-23",
+          "description": "Vacated and Referred to Education Funding (Rep. Kofalt): MA VV (in recess of) 03/12/2026  HJ 8  P. 115"
+        },
+        {
+          "body": "H",
+          "date": "2026-03-25",
+          "description": "  Public Hearing: 03/31/2026 11:30 am GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-04-01",
+          "description": "   Full Committee Work Session: 04/07/2026 01:30 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-04-15",
+          "description": "  Executive Session: 04/14/2026 01:30 pm GP 232"
+        },
+        {
+          "body": "H",
+          "date": "2026-04-15",
+          "description": " Committee Report: Inexpedient to Legislate  04/14/2026 (Vote 17-0; CC)"
+        },
+        {
+          "body": "H",
+          "date": "2026-04-23",
+          "description": "Inexpedient to Legislate: MA VV 04/23/2026  HJ 11  P. 7"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
       "bill_no": "SB581",
       "action_count": 4,
       "actions": [
@@ -20391,6 +23422,43 @@
           "body": "S",
           "date": "2026-03-12",
           "description": "Refer to Interim Study, MA, VV; 03/12/2026;  SJ 6"
+        }
+      ]
+    },
+    {
+      "session_year": 2026,
+      "bill_no": "SB659",
+      "action_count": 6,
+      "actions": [
+        {
+          "body": "S",
+          "date": "2026-02-04",
+          "description": "  Introduced 01/29/2026 and Referred to Education Finance;  SJ 3"
+        },
+        {
+          "body": "S",
+          "date": "2026-02-09",
+          "description": "==CANCELLED== Hearing: 02/12/2026, Room 103, SH, 09:45 am;  SC 6"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-06",
+          "description": "  Hearing: 03/13/2026, Room 103, SH, 09:00 am;  SC 9A"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-13",
+          "description": "Committee Report: Ought to Pass, 03/26/2026, Vote 3-2;  SC 11"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-26",
+          "description": "Sen. Murphy Moved Laid on Table, MA, VV; 03/26/2026;  SJ 7"
+        },
+        {
+          "body": "S",
+          "date": "2026-03-26",
+          "description": "Pending Motion Ought to Pass; 03/26/2026;  SJ 7"
         }
       ]
     }

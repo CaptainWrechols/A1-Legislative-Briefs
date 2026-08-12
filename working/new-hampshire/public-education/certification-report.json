@@ -1,0 +1,1095 @@
+{
+  "generated_at": "2026-08-12T15:58:43.448952+00:00",
+  "universe_bills": 5467,
+  "universe_by_year": {
+    "2020": 1215,
+    "2021": 776,
+    "2022": 1210,
+    "2023": 942,
+    "2024": 1324
+  },
+  "collected_2020_2024": 699,
+  "wide_net_patterns": 61,
+  "review_candidates_not_in_set": [
+    {
+      "session_year": 2020,
+      "bill_no": "CACR13",
+      "title": "relating to compensation of the legislature.  Providing that members shall receive mileage for attendance on veto days and when voting on a budget following a continuing resolution.",
+      "review": "excluded",
+      "category": "pension and legislative-administration bills ('workforce'/'college' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1110",
+      "title": "relative to the application of the tax on meals and rooms to certain Dartmouth College property.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1135",
+      "title": "naming a portion of route 49 in honor of Specialist Marc P. Decoteau; designating a portion of state route 125 as Officer Stephen Arkell Memorial Highway; declaring June 6 as D-Day Remembrance Day; proclaiming August 31 as Overdose Awareness Day; naming certain courtrooms in the tenth circuit district court and relative to circuit court, district and family division cases in Rockingham county; and relative to Holocaust and genocide studies legislation and establishing a commission to study genocide education.",
+      "review": "excluded",
+      "category": "road namings and plate decals (transportation designations)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1145",
+      "title": "authorizing Franklin Pierce University to issue decals for multi-use plates.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1149",
+      "title": "relative to child obscenity.",
+      "review": "excluded",
+      "category": "criminal obscenity law (no school nexus in the bill; the school-materials bills are in the set)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1235",
+      "title": "establishing a committee to study ensuring workforce maintenance through enhancement of the retirement system, and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "adult workforce-development and job-training programs (labor policy, not K-12 career pathways)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1246",
+      "title": "relative to reporting of health care associated infections, establishing a COVID-19 nursing home and long-term care fund, relative to an independent COVID-19 nursing home and long-term care review, needs assessment, and recommendations, authorizing pharmacists to administer a COVID-19 vaccine, and relative to the reimbursement of costs of training nursing assistants.",
+      "review": "excluded",
+      "category": "health and environmental study-and-assessment bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1249",
+      "title": "relative to the commission on the interdisciplinary primary care workforce; relative to multicounty grand juries; and allowing remote notarization of paper estate planning documents during the COVID-19 state of emergency.",
+      "review": "excluded",
+      "category": "adult workforce-development and job-training programs (labor policy, not K-12 career pathways)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1322",
+      "title": "prohibiting university system funds from being spent to oppose the formation of unions and collective bargaining units.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1452",
+      "title": "relative to employees of public libraries.",
+      "review": "excluded",
+      "category": "public-library administration (RSA 202-A and public-library staffing/records; the school-materials thread is in the set)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1487",
+      "title": "relative to freedom of speech and association on college campuses.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1499",
+      "title": "relative to public college and university policies for qualified service year alumni.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1505",
+      "title": "relative to compensation of college athletes.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1522",
+      "title": "requiring colleges and universities to establish a memorandum of understanding governing issues related to sexual assault.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1538",
+      "title": "creating a commission to develop and implement environmental education, outreach, and training programs and initiatives for qualified health care professionals relative to environmental toxins and health.",
+      "review": "excluded",
+      "category": "health and environmental study-and-assessment bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1552",
+      "title": "requiring learner's permits for certain persons seeking drivers' licenses.",
+      "review": "excluded",
+      "category": "driver, motorcycle, and boater training (motor-vehicle law, not K-12 schooling)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1555",
+      "title": "establishing a committee to study increasing wages, educational opportunities, and the corresponding impact on recidivism among prisoners incarcerated in a state correctional facility who work at or under the supervision of such facility",
+      "review": "excluded",
+      "category": "adult workforce-development and job-training programs (labor policy, not K-12 career pathways)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1615",
+      "title": "requiring criminal background checks for persons brought into a library to interact with minors in library-sponsored events.",
+      "review": "excluded",
+      "category": "public-library administration (RSA 202-A and public-library staffing/records; the school-materials thread is in the set)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1713",
+      "title": "relative to continuing education requirements for child day care workers.",
+      "review": "excluded",
+      "category": "child-care and day-care bills (early-care regulation and subsidies, not K-12)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB490",
+      "title": "establishing a commission to study the role of clinical diagnosis and the limitations of serological diagnostic tests in determining the presence or absence of Lyme and other tick-borne diseases and available treatment protocols, and appropriate methods for educating physicians and the public about the inconclusive nature of prevailing test methods and available treatment alternatives.",
+      "review": "excluded",
+      "category": "health and environmental study-and-assessment bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB541",
+      "title": "relative to allocating electoral college electors based on the national popular vote.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB705",
+      "title": "relative to sexual assault, sexual misconduct in institutions of higher education,  and the rights of victims of crime.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HR12",
+      "title": "urging Congress to declare per-fluoroalkyl and polyfluoroalkyl substances (PFAs) a superfund chemical and provide sufficient programming and funding for education, treatment, and remediation of the effects of PFAS.",
+      "review": "excluded",
+      "category": "environmental and energy program bills (term matches inside unrelated text)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB108",
+      "title": "relative to eligibility for the governor's scholarship program.",
+      "review": "excluded",
+      "category": "municipal and state scholarship funds for postsecondary study"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB138",
+      "title": "relative to the degree granting authority of Signum University.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB269",
+      "title": "making an appropriation to the department of natural and cultural resources to perform an ecological integrity assessment.",
+      "review": "excluded",
+      "category": "health and environmental study-and-assessment bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB423",
+      "title": "relative to the election of charter commission members.",
+      "review": "excluded",
+      "category": "election and civic-administration bills ('charter'/'college'/'school ballot' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB455",
+      "title": "prohibiting higher education institutions from discriminating on the basis of military, law enforcement, or veterans status.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB475",
+      "title": "enabling municipalities to adopt a property tax credit for densely-built workforce housing.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB483",
+      "title": "relative to the property tax exemption for educational organizations.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB510",
+      "title": "crediting excess funds in the investor education fund to the FRM victim's fund.",
+      "review": "excluded",
+      "category": "financial-services and insurance bills ('scholarship'/'education'/'enrolled' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB565",
+      "title": "adding the chancellor of the university system of New Hampshire to the department of business and economic affairs council of partner agencies.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB567",
+      "title": "relative to the commission on interdisciplinary primary care workforce.",
+      "review": "excluded",
+      "category": "adult workforce-development and job-training programs (labor policy, not K-12 career pathways)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB569",
+      "title": "relative to the borrowing authority of the university system of New Hampshire.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB63",
+      "title": "relative to sharing of insurer rebates with enrollees.",
+      "review": "excluded",
+      "category": "financial-services and insurance bills ('scholarship'/'education'/'enrolled' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB661",
+      "title": "relative to economic revitalization zone tax credits and the New Hampshire college graduate retention incentive partnership (NH GRIP).",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB663",
+      "title": "establishing a credit against business taxes for employer payments in the graduate retention incentive partnership program.",
+      "review": "excluded",
+      "category": "adult workforce-development and job-training programs (labor policy, not K-12 career pathways)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB679",
+      "title": "requiring institutions of higher education to adopt policies on sexual misconduct.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB722",
+      "title": "relative to the payment and education of bail commissioners, relative to criteria for determining an offender's indigence, and establishing a committee to study providing remote access to a bail commissioner's services.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades, not K-12)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB726",
+      "title": "relative to programs to aid veterans' access to employment, housing, health care, and college degrees.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB737",
+      "title": "requiring a penalty assessment on violation-level offenses.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB746",
+      "title": "relative to the charter for Brewster Academy.",
+      "review": "excluded",
+      "category": "private academy corporate-charter housekeeping (a private boarding school's legislative charter)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB761",
+      "title": "relative to accountability of the community college system of New Hampshire.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB157",
+      "title": "relative to the state health improvement plan and the state health assessment and state health improvement plan advisory council.",
+      "review": "excluded",
+      "category": "health and environmental study-and-assessment bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB175",
+      "title": "relative to reciprocal driver education.",
+      "review": "excluded",
+      "category": "driver, motorcycle, and boater training (motor-vehicle law, not K-12 schooling)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB234",
+      "title": "relative to freedom of speech and association on college campuses.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB255",
+      "title": "relative to limited liability for institutions of higher education and businesses.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB300",
+      "title": "relative to driver education.",
+      "review": "excluded",
+      "category": "driver, motorcycle, and boater training (motor-vehicle law, not K-12 schooling)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB462",
+      "title": "relative to lien assessments by condominium associations.",
+      "review": "excluded",
+      "category": "condominium association assessments and instruments (private association fees)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB501",
+      "title": "establishing a minimum pay rate for adjunct faculty of the university system of New Hampshire and community college system of New Hampshire.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB513",
+      "title": "relative to the degree granting authority of Signum university and relative to the authority of the higher education commission.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB610",
+      "title": "requiring certain licensing and reporting functions be conducted through the Nationwide Multistate Licensing System and Registry, relative to background investigations of trust officers, to certain filing fees, assessments, and interest rates, and to the transmission of consumer complaints by the banking department, requiring employers to provide certain workplace accommodations for employees, establishing the New Hampshire housing and conservation planning program, and relative to the collaborative care model service delivery method.",
+      "review": "excluded",
+      "category": "housing and tenant-voucher bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB144",
+      "title": "relative to child care scholarships.",
+      "review": "excluded",
+      "category": "child-care and day-care bills (early-care regulation and subsidies, not K-12)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB19",
+      "title": "relative to the degree granting authority of Signum university.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB24",
+      "title": "relative to the Brewster Academy charter.",
+      "review": "excluded",
+      "category": "private academy corporate-charter housekeeping (a private boarding school's legislative charter)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB44",
+      "title": "establishing the New Hampshire workforce pathway program.",
+      "review": "excluded",
+      "category": "adult workforce-development and job-training programs (labor policy, not K-12 career pathways)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB52",
+      "title": "relative to municipal charter provisions for tax caps.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB96",
+      "title": "relative to establishing a body-worn and in-car camera fund and making an appropriation therefor; amending juvenile delinquency proceedings and transfers to superior court; and establishing committees to study the role and scope of authority of school resource officers and the collection of race and ethnicity data on state identification cards.",
+      "review": "excluded",
+      "category": "law-enforcement training and equipment bills ('education' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1146",
+      "title": "relative to condominium instruments and condominium special assessments.",
+      "review": "excluded",
+      "category": "condominium association assessments and instruments (private association fees)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1208",
+      "title": "relative to driver education.",
+      "review": "excluded",
+      "category": "driver, motorcycle, and boater training (motor-vehicle law, not K-12 schooling)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1218",
+      "title": "relative to the merger of Granite State college with the university of New Hampshire.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1233",
+      "title": "prohibiting higher education institutions receiving state funds from requiring face masks and COVID-19 vaccinations for attendance.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1238",
+      "title": "relative to zoning powers and the supply of workforce housing.",
+      "review": "excluded",
+      "category": "housing and tenant-voucher bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1242",
+      "title": "relative to filing deadlines for candidates seeking election to charter commissions and relative to the dates of such elections.",
+      "review": "excluded",
+      "category": "election and civic-administration bills ('charter'/'college'/'school ballot' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1291",
+      "title": "prohibiting discrimination against tenants holding certain vouchers for purposes of renting dwellings.",
+      "review": "excluded",
+      "category": "housing and tenant-voucher bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1313",
+      "title": "relative to rights to freedom from discrimination in higher education.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1332",
+      "title": "excepting public universities and colleges from requirements under medical freedom in immunizations.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1342",
+      "title": "relative to municipal charter provisions for tax caps.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1462",
+      "title": "relative to motorcycle learner's permits.",
+      "review": "excluded",
+      "category": "driver, motorcycle, and boater training (motor-vehicle law, not K-12 schooling)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1529",
+      "title": "requiring prospective employees and volunteers of public libraries to obtain a background check prior to commencing employment or volunteer service.",
+      "review": "excluded",
+      "category": "public-library administration (RSA 202-A and public-library staffing/records; the school-materials thread is in the set)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1530",
+      "title": "establishing curricular transfer pathways between the community college system of New Hampshire and the university system of New Hampshire.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1552",
+      "title": "establishing a board for the certification of assessing persons.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1563",
+      "title": "requiring state employees to be enrolled in the deferred compensation plan.",
+      "review": "excluded",
+      "category": "financial-services and insurance bills ('scholarship'/'education'/'enrolled' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1615",
+      "title": "relative to driver education and the driver training fund.",
+      "review": "excluded",
+      "category": "driver, motorcycle, and boater training (motor-vehicle law, not K-12 schooling)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1628",
+      "title": "directing the department of energy to generate a report on the microgrid project currently in progress at the university of New Hampshire in collaboration with the regional utilities.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB234",
+      "title": "relative to freedom of speech and association on college campuses.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB255",
+      "title": "relative to limited liability for institutions of higher education and businesses.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB410",
+      "title": "establishing a commission to study the assessing of power generation and utility transmission",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB144",
+      "title": "relative to child care scholarships.",
+      "review": "excluded",
+      "category": "child-care and day-care bills (early-care regulation and subsidies, not K-12)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB280",
+      "title": "relative to meetings of the state health assessment and health improvement plan advisory council and the therapeutic cannabis medical oversight board.",
+      "review": "excluded",
+      "category": "health and environmental study-and-assessment bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB312",
+      "title": "relative to adjusted assessments of taxable property.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB360",
+      "title": "relative to national guard educational benefits.",
+      "review": "excluded",
+      "category": "military and veterans' education benefits (service-member benefits, largely postsecondary)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB370",
+      "title": "allowing the university system and community college system to be municipal host electric customer generators.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB384",
+      "title": "requiring notice of the hands-free law at the point of sale for cell phones.",
+      "review": "excluded",
+      "category": "motor-vehicle cell-phone law (point-of-sale notice, not school technology)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB413",
+      "title": "requiring an independent audit and needs assessment regarding COVID-19 preparedness at long term care facilities, nursing homes, and the New Hampshire veterans' home, and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "military and veterans' education benefits (service-member benefits, largely postsecondary)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB416",
+      "title": "relative to behavioral health assessment and treatment for children in out-of-home placements.",
+      "review": "excluded",
+      "category": "health and environmental study-and-assessment bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB428",
+      "title": "establishing a scholarship fund for certain small businesses applying for loans from the capital access program administered by the New Hampshire business finance authority.",
+      "review": "excluded",
+      "category": "financial-services and insurance bills ('scholarship'/'education'/'enrolled' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB44",
+      "title": "establishing the New Hampshire workforce pathway program.",
+      "review": "excluded",
+      "category": "adult workforce-development and job-training programs (labor policy, not K-12 career pathways)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB168",
+      "title": "relative to surety indemnification for career schools.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades, not K-12)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB178",
+      "title": "relative to the enforcement of condominium liens for assessments.",
+      "review": "excluded",
+      "category": "condominium association assessments and instruments (private association fees)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB183",
+      "title": "relative to employment of retired firefighters at the fire academy.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades, not K-12)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB293",
+      "title": "allowing a town to appropriate funds to create a town scholarship fund.",
+      "review": "excluded",
+      "category": "municipal and state scholarship funds for postsecondary study"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB302",
+      "title": "relative to including education in the United States Constitution, the Bill of Rights, and the New Hampshire constitution for New Hampshire law enforcement.",
+      "review": "excluded",
+      "category": "law-enforcement training and equipment bills ('education' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB376",
+      "title": "establishing a committee to study the current education, training, and requirements for personnel employed as emergency dispatchers and 911 telecommunicators for police, fire, and emergency medical organizations.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades, not K-12)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB403",
+      "title": "relative to the authority of selectmen or assessors to abate taxes.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB469",
+      "title": "prohibiting discrimination against tenants holding certain vouchers for purposes of renting dwellings.",
+      "review": "excluded",
+      "category": "housing and tenant-voucher bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB516",
+      "title": "relative to freedom of speech and association at public institutions of higher education.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB55",
+      "title": "relative to driver education.",
+      "review": "excluded",
+      "category": "driver, motorcycle, and boater training (motor-vehicle law, not K-12 schooling)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB576",
+      "title": "relative to administration of a commercial property assessed clean energy (C-PACE) program in a clean energy efficiency and clean energy district.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB636",
+      "title": "relative to required education for zoning board of adjustment members.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades, not K-12)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB72",
+      "title": "relative to the tenure of public librarians.",
+      "review": "excluded",
+      "category": "public-library administration (RSA 202-A and public-library staffing/records; the school-materials thread is in the set)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB104",
+      "title": "to regulate online gambling and direct net proceeds to a community college education scholarship fund.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB143",
+      "title": "establishing a scholarship fund for certain small businesses applying for loans from the capital access program administered by the New Hampshire business finance authority.",
+      "review": "excluded",
+      "category": "financial-services and insurance bills ('scholarship'/'education'/'enrolled' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB148",
+      "title": "relative to the requirements for a plumbing apprentice.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades, not K-12)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB152",
+      "title": "relative to New Hampshire workforce training programs.",
+      "review": "excluded",
+      "category": "adult workforce-development and job-training programs (labor policy, not K-12 career pathways)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB225",
+      "title": "establishing the commission to study the assessing of power generation.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB227",
+      "title": "relative to an assessment of solid waste facility setback requirements and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB231",
+      "title": "establishing a historic housing tax credit and making appropriations for workforce housing and affordable housing.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB237",
+      "title": "relative to the child care scholarship program and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "child-care and day-care bills (early-care regulation and subsidies, not K-12)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB241",
+      "title": "relative to graduated public assistance programs.",
+      "review": "excluded",
+      "category": "adult workforce-development and job-training programs (labor policy, not K-12 career pathways)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB43",
+      "title": "relative to a needs assessment for juvenile minors who are residents of New Hampshire.",
+      "review": "excluded",
+      "category": "health and environmental study-and-assessment bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB45",
+      "title": "relative to national guard educational benefits.",
+      "review": "excluded",
+      "category": "military and veterans' education benefits (service-member benefits, largely postsecondary)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1036",
+      "title": "relative to assessment of cost effectiveness of the systems benefit charge.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1112",
+      "title": "relative to establishing a continuing education requirement regarding human trafficking for individuals licensed by the office of professional licensure and certification.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades, not K-12)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1170",
+      "title": "requiring public benefit and community impact assessments from the department of environmental services.",
+      "review": "excluded",
+      "category": "other (reviewed individually; no K-12 public-education content)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1174",
+      "title": "relative to plumbing apprentices.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades, not K-12)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1191",
+      "title": "relative to the establishment of an exemption to the meals and rooms tax for participants in the restaurant voucher program.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1202",
+      "title": "relative to the issuance of permits for the alteration of driveways exiting onto public ways and relative to the definition of disability or special needs under the child care scholarship program.",
+      "review": "excluded",
+      "category": "child-care and day-care bills (early-care regulation and subsidies, not K-12)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1220",
+      "title": "abolishing the collection of racial and educational data for use in a marital application worksheet and relative to the expectation of privacy.",
+      "review": "excluded",
+      "category": "election and civic-administration bills ('charter'/'college'/'school ballot' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1254",
+      "title": "relative to an optional local public safety assessment on certain room occupancies.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1305",
+      "title": "relative to freedom of speech and association at public institutions of higher education.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1306",
+      "title": "relative to special assessments for capital improvements in condominiums.",
+      "review": "excluded",
+      "category": "condominium association assessments and instruments (private association fees)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1308",
+      "title": "relative to parent access to children's library records.",
+      "review": "excluded",
+      "category": "public-library administration (RSA 202-A and public-library staffing/records; the school-materials thread is in the set)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1309",
+      "title": "relative to the secretary of state's procedures for enrolled bills.",
+      "review": "excluded",
+      "category": "election and civic-administration bills ('charter'/'college'/'school ballot' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1342",
+      "title": "relative to the licensing of electronic literary materials by libraries.",
+      "review": "excluded",
+      "category": "public-library administration (RSA 202-A and public-library staffing/records; the school-materials thread is in the set)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1373",
+      "title": "relative to the establishment of library collection development policies.",
+      "review": "excluded",
+      "category": "public-library administration (RSA 202-A and public-library staffing/records; the school-materials thread is in the set)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1436",
+      "title": "relative to requiring institutions of higher education to maintain certain statistical information on their website.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1450",
+      "title": "requiring the university system of New Hampshire and the community college system of New Hampshire to further work toward implementing comprehensive higher education alignment strategies and findings identified in the governor\u2019s public higher education task force report.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1453",
+      "title": "relative to degree granting authority of certain institutions of higher education.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1470",
+      "title": "establishing a committee to study the feasibility and impact of tax credits and other incentives to increase the availability of low-income housing and workforce housing.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1489",
+      "title": "relative to town and school ballot recount appeals.",
+      "review": "excluded",
+      "category": "election and civic-administration bills ('charter'/'college'/'school ballot' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1526",
+      "title": "relative to a conditional veterinary license for graduates of non-AVMA-accredited colleges of veterinary medicine.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1542",
+      "title": "relative to possession and presentation of safe boater education certificates.",
+      "review": "excluded",
+      "category": "driver, motorcycle, and boater training (motor-vehicle law, not K-12 schooling)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB155",
+      "title": "relative to the higher education commission.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1609",
+      "title": "relative to the commission on the primary care workforce and the state office of rural health.",
+      "review": "excluded",
+      "category": "adult workforce-development and job-training programs (labor policy, not K-12 career pathways)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1611",
+      "title": "relative to establishing a child care workforce fund.",
+      "review": "excluded",
+      "category": "child-care and day-care bills (early-care regulation and subsidies, not K-12)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1612",
+      "title": "relative to requiring the department of health and human services to conduct surveys and assess concentrations of certain radioactive materials.",
+      "review": "excluded",
+      "category": "health and environmental study-and-assessment bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB178",
+      "title": "relative to the enforcement of condominium liens for assessments.",
+      "review": "excluded",
+      "category": "condominium association assessments and instruments (private association fees)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB183",
+      "title": "relative to employment of retired firefighters at the fire academy.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades, not K-12)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB458",
+      "title": "reestablishing the commission to study the assessing of power generation.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB55",
+      "title": "relative to driver education.",
+      "review": "excluded",
+      "category": "driver, motorcycle, and boater training (motor-vehicle law, not K-12 schooling)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB148",
+      "title": "relative to the requirements for a plumbing apprentice.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades, not K-12)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB227",
+      "title": "relative to an assessment of solid waste facility setback requirements and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "property-tax assessment, abatement, and tax bills ('assessment'/'exemption' false positives; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB300",
+      "title": "relative to education and training standards for voluntarily certified heating equipment installers and heating equipment service personnel.",
+      "review": "excluded",
+      "category": "occupational licensing and professional continuing-education requirements (adult trades, not K-12)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB403",
+      "title": "relative to the health care workforce.",
+      "review": "excluded",
+      "category": "adult workforce-development and job-training programs (labor policy, not K-12 career pathways)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB404",
+      "title": "relative to expanding child care professionals' eligibility for the child care scholarship program.",
+      "review": "excluded",
+      "category": "child-care and day-care bills (early-care regulation and subsidies, not K-12)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB473",
+      "title": "governing unclaimed horse racing ticket and voucher money.",
+      "review": "excluded",
+      "category": "gambling-revenue bills (the community-college scholarship rider is postsecondary; covered by the property-taxes packet)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB475",
+      "title": "relative to design of a climate-controlled storage facility for the New Hampshire state library.",
+      "review": "excluded",
+      "category": "public-library administration (RSA 202-A and public-library staffing/records; the school-materials thread is in the set)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB518",
+      "title": "relative to incentivizing landlords to accept housing choice vouchers.",
+      "review": "excluded",
+      "category": "housing and tenant-voucher bills (covered by the housing-affordability issue packet)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB528",
+      "title": "relative to trustees of the university system.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB554",
+      "title": "relative to Medicaid provider enrollment licensure verification.",
+      "review": "excluded",
+      "category": "health and environmental study-and-assessment bills ('assessment'/'education' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB596",
+      "title": "relative to the definition of disability or special needs under the child care scholarship program.",
+      "review": "excluded",
+      "category": "child-care and day-care bills (early-care regulation and subsidies, not K-12)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB602",
+      "title": "making an appropriation to the university system of New Hampshire and the community college system of New Hampshire for marketing of hospitality management programs.",
+      "review": "excluded",
+      "category": "higher education (university/community-college system, campus policy, degrees - out of K-12 scope)"
+    }
+  ],
+  "collected_bills_not_in_universe": [],
+  "bulk_vote_rows_exceeding_sql": [
+    {
+      "bill": "2022:HB1670",
+      "sql_roll_calls": 0,
+      "bulk_votes": 1
+    }
+  ],
+  "note": "Certification of the collected set against the complete OpenStates bulk universe. Every wide-net candidate below was human-reviewed; 138 were added to the set (supplement:universe-certification) and the rest are excluded with a category. The one bulk-vote/SQL mismatch (2022 HB1670) is a division vote - 'Lay HB1670 on Table: MA DV 188-163' in the official docket - which the SQL roll-call table does not carry by design. Verdict: no K-12 public-education bill in the 2020-2024 universe is absent from the set."
+}
