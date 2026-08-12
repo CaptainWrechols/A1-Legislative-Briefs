@@ -1,0 +1,343 @@
+# New Hampshire issue config — Public Education
+# Built from config/issues/new-hampshire-property-taxes.yaml (the newest NH
+# issue) with search/relevance terms fitted to the K-12 public-education
+# vocabulary (2026-08-12). Sessions 2020 -> current only.
+#
+# Select with: export ISSUE_CONFIG=config/issues/new-hampshire-public-education.yaml
+
+state: new-hampshire
+issue_id: new-hampshire-03-public-education
+issue_title: "Public Education in New Hampshire"
+issue_slug: public-education
+openstates_jurisdiction: New Hampshire
+
+# NH runs annual sessions inside two-year biennia; budget years (HB1 operating
+# budget + HB2 policy trailer) are 2021, 2023, 2025.
+sessions:
+  - {label: "2020", openstates_identifier: "2020", sql_session_year: 2020, biennium: "2019-2020", budget: false}
+  - {label: "2021", openstates_identifier: "2021", sql_session_year: 2021, biennium: "2021-2022", budget: true}
+  - {label: "2022", openstates_identifier: "2022", sql_session_year: 2022, biennium: "2021-2022", budget: false}
+  - {label: "2023", openstates_identifier: "2023", sql_session_year: 2023, biennium: "2023-2024", budget: true}
+  - {label: "2024", openstates_identifier: "2024", sql_session_year: 2024, biennium: "2023-2024", budget: false}
+  - {label: "2025", openstates_identifier: "2025", sql_session_year: 2025, biennium: "2025-2026", budget: true}
+  - {label: "2026", openstates_identifier: "2026", sql_session_year: 2026, biennium: "2025-2026", budget: false}
+
+# Full-text search terms used to discover bills (SQL LIKE '%term%' over titles;
+# OpenStates bulk titles+abstracts for 2020-2024). High recall; every hit is
+# kept for human review in curation.
+#
+# Volume calibration (working/new-hampshire/public-education/calibrate-terms.py,
+# run over the 2020-2024 bulk CSVs AND the 2025-2026 SQL legislation table
+# before this list was frozen):
+#   * bare "education" sweeps 479 bills and bare "school" 533 — together the
+#     union with the other traps is 1,275 bills; neither is a term here. The
+#     compound phrases below carry the vocabulary (union ~850 bills), and the
+#     universe certifications re-sweep with the bare words under human review
+#     so nothing real is lost.
+#
+# Substring-safety adjustments (SQL LIKE matches substrings):
+#   * "assessment" is NOT a term — in THIS packet "statewide assessment" is
+#     education testing (RSA 193-C), but bare "assessment" (61 hits) is
+#     dominated by property-tax assessment and assessment of damages. This is
+#     the reverse of the property-taxes packet, which excluded "assessment"
+#     because it meant testing there; "statewide assessment" carries the
+#     testing thread here.
+#   * "school" is inside "schooling" and "preschool"; bare "school" is a trap
+#     (533 hits) — the compound school phrases below carry it.
+#   * "board" alone is a trap (223 hits — licensing boards, bank board);
+#     "school board" and "state board of education" carry it.
+#   * "suspension" is a trap (drivers'-license suspensions); pupil-discipline
+#     bills carry "pupil"/"school" vocabulary instead.
+#   * "scholarship" alone is half child-care scholarship bills; "scholarship
+#     organization" + "education tax credit" carry the K-12 tax-credit
+#     scholarship thread.
+#   * "parental rights" alone is family-custody law ("parental rights and
+#     responsibilities"); "parental bill of rights" / "parents' bill of
+#     rights" carry the education thread (HB1431 2022, SB272 2023).
+#   * "kindergarten" subsumes "pre-kindergarten"; "learning" subsumes
+#     "remote learning"/"extended learning"; "instruction" subsumes
+#     "instructional"; "freedom account" also catches the "educational
+#     freedom accounts" spelling that "education freedom" misses.
+#   * "recess" (legislative recess), "academy" (police academy), "college" /
+#     "university" (higher ed, out of K-12 scope) omitted.
+search_terms:
+  - "school district"
+  - "public school"
+  - "chartered public school"
+  - "charter school"
+  - "education freedom"
+  - "freedom account"
+  - "education savings"
+  - "scholarship organization"
+  - "education tax credit"
+  - "special education"
+  - "adequate education"
+  - "adequacy"
+  - "statewide education"
+  - "education trust fund"
+  - "school funding"
+  - "education funding"
+  - "school building aid"
+  - "cooperative school"
+  - "school administrative unit"
+  - "per pupil"
+  - "state aid"
+  - "teacher"
+  - "educator"
+  - "pupil"
+  - "student"
+  - "kindergarten"
+  - "curriculum"
+  - "school board"
+  - "school building"
+  - "tuition"
+  - "school meal"
+  - "school lunch"
+  - "school breakfast"
+  - "IEP"
+  - "career and technical"
+  - "school attendance"
+  - "open enrollment"
+  - "home education"
+  - "nonpublic school"
+  - "superintendent"
+  - "school nurse"
+  - "paraprofessional"
+  - "school year"
+  - "school employee"
+  - "school personnel"
+  - "school property"
+  - "school safety"
+  - "school bus"
+  - "school calendar"
+  - "school health"
+  - "literacy"
+  - "graduation"
+  - "competency"
+  - "proficiency"
+  - "civics"
+  - "dyslexia"
+  - "statewide assessment"
+  - "education program"
+  - "educational institution"
+  - "department of education"
+  - "state board of education"
+  - "classroom"
+  - "instruction"
+  - "teaching"
+  - "learning"
+  - "academic"
+  - "minimum standards"
+  - "school approval"
+  - "divisive concepts"
+  - "parental bill of rights"
+  - "parents' bill of rights"
+  - "bullying"
+  - "early childhood"
+  - "vocational"
+  - "apprenticeship"
+  - "workforce development"
+
+# Words that mark a title/abstract as clearly on-topic (review flag only;
+# nothing is dropped). Also selects candidate HB2 sections
+# (hb2_sections.match_sections) - matches are recall-first and hand-pruned.
+# Kept identical to search_terms so no discovered bill is silently dropped by
+# the bulk-CSV relevance gate; "student", "learning", and "instruction" will
+# over-match HB2 sections by design, and the HB2 hand review prunes them with
+# an audit trail.
+relevance_terms:
+  - "school district"
+  - "public school"
+  - "chartered public school"
+  - "charter school"
+  - "education freedom"
+  - "freedom account"
+  - "education savings"
+  - "scholarship organization"
+  - "education tax credit"
+  - "special education"
+  - "adequate education"
+  - "adequacy"
+  - "statewide education"
+  - "education trust fund"
+  - "school funding"
+  - "education funding"
+  - "school building aid"
+  - "cooperative school"
+  - "school administrative unit"
+  - "per pupil"
+  - "state aid"
+  - "teacher"
+  - "educator"
+  - "pupil"
+  - "student"
+  - "kindergarten"
+  - "curriculum"
+  - "school board"
+  - "school building"
+  - "tuition"
+  - "school meal"
+  - "school lunch"
+  - "school breakfast"
+  - "IEP"
+  - "career and technical"
+  - "school attendance"
+  - "open enrollment"
+  - "home education"
+  - "nonpublic school"
+  - "superintendent"
+  - "school nurse"
+  - "paraprofessional"
+  - "school year"
+  - "school employee"
+  - "school personnel"
+  - "school property"
+  - "school safety"
+  - "school bus"
+  - "school calendar"
+  - "school health"
+  - "literacy"
+  - "graduation"
+  - "competency"
+  - "proficiency"
+  - "civics"
+  - "dyslexia"
+  - "statewide assessment"
+  - "education program"
+  - "educational institution"
+  - "department of education"
+  - "state board of education"
+  - "classroom"
+  - "instruction"
+  - "teaching"
+  - "learning"
+  - "academic"
+  - "minimum standards"
+  - "school approval"
+  - "divisive concepts"
+  - "parental bill of rights"
+  - "parents' bill of rights"
+  - "bullying"
+  - "early childhood"
+  - "vocational"
+  - "apprenticeship"
+  - "workforce development"
+
+# HB2 is New Hampshire's omnibus budget policy trailer; it must be analysed
+# section-by-section (see docs/nh-hb2-section-workflow.md). Votes are recorded
+# on HB2 as a whole, never per section. For this issue HB2 carries both the
+# money AND the policy: the 2021 trailer created education freedom accounts;
+# the 2023 trailer rewrote the adequacy formula numbers; the 2025 trailer
+# removed the EFA income cap, added the anti-DEI education provisions, and
+# rewrote special-education rate mechanics.
+omnibus_bills:
+  - bill_no: HB2
+    role: "budget policy trailer (companion to HB1)"
+    cycles: [2021, 2023, 2025]
+    method: section-by-section
+    section_extractor: collectors/nh/hb2_sections.py
+    outputs:
+      sections_json: "working/new-hampshire/{issue}/hb2-sections.json"
+      sections_md: "working/new-hampshire/{issue}/hb2-sections.md"
+      relevant_json: "working/new-hampshire/{issue}/hb2-relevant.json"
+    # RSA chapters this issue is known to live in; used alongside
+    # relevance_terms when hand-reviewing HB2 section matches.
+    affected_rsa_chapters:
+      - "21-N"    # Department of Education
+      - "186"     # State Board of Education
+      - "186-C"   # Special Education
+      - "188-E"   # Regional Career and Technical Education
+      - "189"     # School Boards, Superintendents, Teachers, and Truant Officers
+      - "190"     # Council for Teacher Education
+      - "193"     # Pupils (attendance, safety, discipline)
+      - "193-A"   # Home Education
+      - "193-C"   # Statewide Education Improvement and Assessment Program
+      - "193-E"   # Adequate Public Education
+      - "194"     # School Districts
+      - "194-B"   # Chartered Public Schools
+      - "194-F"   # Education Freedom Accounts
+      - "195"     # Cooperative School Districts
+      - "198"     # School Money (education trust fund, adequacy grants, SWEPT)
+
+# Phase 2 Community Conversation proposals (June-July 2026), from the
+# "NH1 - Phase 2 Constituent Proposals - Grid View for Legislators" packet
+# (K-12 Public Education Outcomes grid, editable revision of 2026-08-12).
+# These are the organizing spine of the proposal spotlights. The grid marks
+# three proposals (legislature_addressed: true) with its star ("issues that
+# have been addressed by the legislature in recent years").
+constituent_proposals:
+  - id: increase-state-funding-swept
+    title: "Increase state funding / SWEPT / distribution of funds to high-need districts"
+    legislature_addressed: true
+    frequency: "Very High: Nashua, Concord, and online conversations."
+    notes: >-
+      Education funding and its impact on property taxes dominated education
+      discussions. There was much discussion about where the money comes from
+      and whether schools need to adjust spending.
+    outcome: >-
+      There was no broad agreement on how to move forward.
+    match_terms: ["adequate education", "adequacy", "statewide education", "education trust fund", "school funding", "education funding", "swept", "extraordinary need", "fiscal capacity", "school building aid", "state aid", "per pupil"]
+  - id: diversify-revenue-sources
+    title: "Diversify state revenue sources (income tax, business taxes, interest & dividends and other revenue)"
+    legislature_addressed: false
+    frequency: "High: Nashua, Concord, and online conversations."
+    notes: >-
+      Increasing revenue to offset property taxes had broader appeal. Concerns
+      were raised whether schools need to adjust spending.
+    outcome: >-
+      High agreement that it is an issue but no consensus on how to solve.
+    match_terms: ["income tax", "sales tax", "interest and dividends", "business profits", "business enterprise", "education trust fund", "revenue"]
+  - id: better-measures-student-success
+    title: "Identify better measures of student success"
+    legislature_addressed: true
+    frequency: "High: Nashua and Concord"
+    notes: >-
+      A recurring non-funding proposal was to change how outcomes are
+      measured, shifting from standardized test scores toward a different
+      metric.
+    outcome: >-
+      There was broad agreement that current tests are inadequate.
+      Participants did not have time to discuss proposed solutions.
+    match_terms: ["statewide assessment", "competency", "proficiency", "accountability", "performance", "graduation", "credential", "193-C"]
+  - id: special-education-cost-commission
+    title: "Create a commission to study special education costs"
+    legislature_addressed: true
+    frequency: "High: Nashua, Concord, and online conversations."
+    notes: >-
+      Participants in all sessions recognized that increases in special
+      education costs are impacting property taxes.
+    outcome: >-
+      There was agreement that understanding what is driving the increased
+      cost is important before proposing solutions.
+    match_terms: ["special education", "186-C", "IEP", "catastrophic aid", "individualized education"]
+  - id: career-pathways-business-partnerships
+    title: "Offer more career pathways and opportunities to partner with businesses"
+    legislature_addressed: false
+    frequency: "Medium: Appeared in both Nashua and Concord."
+    notes: >-
+      Participants discussed the importance of critical thinking and
+      preparing students for all types of careers, not just college.
+    outcome: >-
+      A broad agreement that not every student has to go to college and k-12
+      schools need to serve a variety of career paths. Participants did not
+      have time to discuss proposed solutions.
+    match_terms: ["career and technical", "vocational", "apprenticeship", "workforce development", "career pathways", "extended learning", "work-based", "internship"]
+  - id: technology-in-schools
+    title: "Review the use of technology in school"
+    legislature_addressed: false
+    frequency: "Medium: Appeared in both Nashua and Concord."
+    notes: >-
+      Participants shared concerns about the use of screen time, especially
+      in the earlier grades.
+    outcome: >-
+      The use of screen time and access to technology was discussed in both
+      community conversations. Participants did not have time to discuss
+      proposed solutions.
+    match_terms: ["technology", "computer science", "internet", "screen", "cell phone", "personal electronic", "device", "media literacy", "artificial intelligence"]
+
+# Relevant NH RSA chapters for background/context.
+rsa_chapters: ["21-N", "186", "186-C", "188-E", "189", "190", "193", "193-A", "193-C", "193-E", "194", "194-B", "194-F", "195", "198"]
+
+agency_document_urls: []
+
+impact_lookback_years: 20

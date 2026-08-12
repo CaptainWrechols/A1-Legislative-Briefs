@@ -1,0 +1,1468 @@
+{
+  "issue": "new-hampshire-03-public-education",
+  "note": "Hand-curated K-12 education analysis of HB2, New Hampshire's omnibus budget policy trailer, for the 2021, 2023, and 2025 budget cycles. Candidates came from relevance-term matching over every extracted section (see working/.../hb2/{year}/); a human pass kept the education sections, added three sections the matcher missed (flagged hand_added), and logged every exclusion. Roll-call votes are recorded on HB2 AS A WHOLE - a vote for or against the trailer is never a vote on one section, and must not be presented as one.",
+  "cycles": [
+    {
+      "session_year": 2021,
+      "bill_no": "HB2",
+      "chapter": 91,
+      "laws_citation": "Laws of 2021, Chapter 91",
+      "total_sections_extracted": 468,
+      "source": "gencourt:legislation_html",
+      "source_url": "https://gc.nh.gov/legislation/2021/HB0002.html",
+      "whole_bill_roll_call_count": 42,
+      "whole_bill_final_votes": [
+        {
+          "body": "Senate",
+          "date": "2021-06-24",
+          "motion": "Conference Committee Report",
+          "yeas": 14,
+          "nays": 10
+        },
+        {
+          "body": "House",
+          "date": "2021-06-24",
+          "motion": "Adopt Conference Committee Report",
+          "yeas": 198,
+          "nays": 181
+        }
+      ],
+      "relevant_sections": [
+        {
+          "cite": "91:50",
+          "heading": "Department of Education; Acceptance of Gifts",
+          "category": "adjacent",
+          "plain_language": "Let the department of education accept private gifts and grants for department purposes with Governor and Council approval for the biennium.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "91:51",
+          "heading": "Certain Differential Aid Calculations; Fiscal Year 2022",
+          "category": "core",
+          "plain_language": "Let districts use their higher pre-pandemic or pandemic-year enrollment count for fiscal 2022 aid, so pandemic enrollment drops would not cut adequacy grants.",
+          "affected_rsas": [
+            "RSA 198:38",
+            "RSA 198:40-a",
+            "RSA 198:40-e"
+          ]
+        },
+        {
+          "cite": "91:52",
+          "heading": "Conditional Differential Aid Calculation For Pupils Eligible for a Free or Reduced Price Meal; Fiscal Year 2023",
+          "category": "core",
+          "plain_language": "Kept free-and-reduced-meal counts (and the aid tied to them) from collapsing in fiscal 2023 if pandemic conditions continued - a conditional hold-harmless for differentiated aid.",
+          "affected_rsas": [
+            "RSA 198:38",
+            "RSA 198:40-a",
+            "RSA 198:40-e",
+            "RSA 198:41",
+            "RSA 4:45"
+          ]
+        },
+        {
+          "cite": "91:53",
+          "heading": "New Section; Relief Funding",
+          "category": "core",
+          "plain_language": "Created relief funding (RSA 198:40-e): an extra $600 per free-and-reduced-price-meal pupil in districts where at least 48 percent of pupils qualify, layered onto adequacy aid for the poorest districts.",
+          "affected_rsas": [
+            "RSA 198"
+          ]
+        },
+        {
+          "cite": "91:54",
+          "heading": "Additional Aid to Education",
+          "category": "adjacent",
+          "plain_language": "Let a school district call a special meeting to decide how to budget any adjustment in its education aid.",
+          "affected_rsas": [
+            "RSA 197:3-a"
+          ]
+        },
+        {
+          "cite": "91:55",
+          "heading": "Transfer; Education Trust Fund",
+          "category": "core",
+          "plain_language": "Moved $35 million of education trust fund surplus into a restricted account to pay the new relief funding in fiscal years 2022 and 2023.",
+          "affected_rsas": [
+            "RSA 198:40-e"
+          ]
+        },
+        {
+          "cite": "91:58",
+          "heading": "Department of Education; State Maintenance of Equity; Biennium Ending June 30, 2023",
+          "category": "adjacent",
+          "plain_language": "Directed the education department to certify compliance with the federal ARPA 'maintenance of equity' rule protecting high-poverty districts' shares of state aid.",
+          "affected_rsas": [
+            "RSA 198:41"
+          ]
+        },
+        {
+          "cite": "91:59",
+          "heading": "Appropriation; Department of Education",
+          "category": "adjacent",
+          "plain_language": "Appropriated $3 million from the education trust fund for a statewide student data collection and reporting system - the state's education-data infrastructure.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "91:60",
+          "heading": "Education Trust Fund Created and Invested",
+          "category": "adjacent",
+          "plain_language": "Rewrote what the education trust fund may pay for - adequacy grants, the homeowners' property tax relief program, and the new education freedom accounts among them.",
+          "affected_rsas": [
+            "RSA 186-C:18",
+            "RSA 188-E:9",
+            "RSA 198:15-b",
+            "RSA 198:39",
+            "RSA 198:42",
+            "RSA 198:56-198:61",
+            "RSA 284:21-j",
+            "RSA 284:44",
+            "RSA 284:47",
+            "RSA 287-I",
+            "RSA 31-A:4",
+            "RSA 77-A:20-a",
+            "RSA 77-E:14",
+            "RSA 78-A:26",
+            "RSA 78-B:13",
+            "RSA 78:24",
+            "RSA 83-F:7"
+          ]
+        },
+        {
+          "cite": "91:61",
+          "heading": "Transfer; Education Trust Fund",
+          "category": "adjacent",
+          "plain_language": "Transferred $1 million a year from the education trust fund to the public school infrastructure fund in each year of the biennium.",
+          "affected_rsas": [
+            "RSA 198:15-y:"
+          ]
+        },
+        {
+          "cite": "91:62",
+          "heading": "Public School Infrastructure Fund",
+          "category": "adjacent",
+          "plain_language": "Rewrote the public school infrastructure fund statute (RSA 198:15-y) - the school security and infrastructure account funded by state surpluses.",
+          "affected_rsas": [
+            "RSA 198:15-y",
+            "RSA 21-I:8"
+          ]
+        },
+        {
+          "cite": "91:63",
+          "heading": "Repeal",
+          "category": "adjacent",
+          "plain_language": "Repealed the scheduled sunset of the public school infrastructure fund, making the fund permanent.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "91:96",
+          "heading": "Education Tax Credit Scholarship Organizations; 2027",
+          "category": "adjacent",
+          "plain_language": "Conforming change to the education tax credit scholarship statute for the interest-and-dividends repeal: individuals' I&D-tax credits for scholarship-organization donations end with the tax in 2027 (later 2025).",
+          "affected_rsas": [
+            "RSA 77",
+            "RSA 77-A",
+            "RSA 77-A:5",
+            "RSA 77-E",
+            "RSA 77-G:3",
+            "RSA 77-G:4"
+          ]
+        },
+        {
+          "cite": "91:97",
+          "heading": "Education Tax Credit Scholarship Organizations; 2027",
+          "category": "adjacent",
+          "plain_language": "Companion conforming change to the scholarship-organization award rules for the same repeal.",
+          "affected_rsas": [
+            "RSA 77-G:5"
+          ]
+        },
+        {
+          "cite": "91:112",
+          "heading": "Meals and Rooms Tax; Disposition of Revenue; Fund Established",
+          "category": "adjacent",
+          "plain_language": "Rewrote the meals and rooms tax distribution, fixing the education trust fund's share of that revenue while creating the municipal revenue fund (the tax mechanics live in the property-taxes packet).",
+          "affected_rsas": [
+            "RSA 198:15-a",
+            "RSA 198:39",
+            "RSA 78-A:26",
+            "RSA 78-A:6"
+          ]
+        },
+        {
+          "cite": "91:297",
+          "heading": "New Subdivision; State Commission on Human Rights; Right to Freedom From Discrimination in Public Workplaces and Education",
+          "category": "core",
+          "plain_language": "The companion civil-rights half of the teaching ban: a new 'right to freedom from discrimination in public workplaces and education' under the human rights commission (RSA 354-A:29 and following), giving the banned-concepts rule an enforcement path including teacher-license discipline.",
+          "affected_rsas": [
+            "RSA 275-E",
+            "RSA 354-A",
+            "RSA 491",
+            "RSA 98-E"
+          ]
+        },
+        {
+          "cite": "91:298",
+          "heading": "New Section; Prohibition on Teaching Discrimination",
+          "category": "core",
+          "plain_language": "The 'divisive concepts' teaching ban as enacted: no public school pupil shall be taught or compelled to express belief in a list of concepts about the superiority or inferiority of any group (new RSA 193:40) - the classroom-content restriction later struck down in part by a federal court and repealed in the 2025 trailer's DEI rewrite's shadow.",
+          "affected_rsas": [
+            "RSA 189:39",
+            "RSA 193",
+            "RSA 354-A:34"
+          ]
+        },
+        {
+          "cite": "91:311",
+          "heading": "Community College System of New Hampshire; Dual and Concurrent Enrollment Program",
+          "category": "core",
+          "plain_language": "Rewrote the dual and concurrent enrollment program (RSA 188-E:25-29): high school students earn community-college credit in STEM and career courses with the state paying tuition - the main high-school-to-career bridge program.",
+          "affected_rsas": [
+            "RSA 188-E:25"
+          ]
+        },
+        {
+          "cite": "91:313",
+          "heading": "School Building Aid; Annual Grant for Leased Space",
+          "category": "adjacent",
+          "plain_language": "Extended annual school building aid lease grants to more kinds of district lease arrangements, including space leased from other districts and municipalities.",
+          "affected_rsas": [
+            "RSA 194-B:3-a",
+            "RSA 195-A:1",
+            "RSA 195:1",
+            "RSA 198:15-hh"
+          ]
+        },
+        {
+          "cite": "91:314",
+          "heading": "New Paragraph; Ten Year Plan for Grant Projects",
+          "category": "adjacent",
+          "plain_language": "Required the department of education to maintain a 10-year school facilities plan ranking potential school building aid projects.",
+          "affected_rsas": [
+            "RSA 198:15-a",
+            "RSA 198:15-c",
+            "RSA 541-A"
+          ]
+        },
+        {
+          "cite": "91:315",
+          "heading": "New Paragraph; Kindergarten Adequate Education Grants",
+          "category": "core",
+          "plain_language": "Made full-day kindergarten adequacy grants a standing charge on the education trust fund every year, ending the keno-revenue-dependent formula.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 198:48-b"
+          ]
+        },
+        {
+          "cite": "91:316",
+          "heading": "Appropriation; Department of Education",
+          "category": "adjacent",
+          "plain_language": "Appropriated $1.9 million to top up fiscal 2021 kindergarten and adequacy grant payments.",
+          "affected_rsas": [
+            "RSA 198:48-b"
+          ]
+        },
+        {
+          "cite": "91:318",
+          "heading": "School Planning Committees; Vacancies",
+          "category": "adjacent",
+          "plain_language": "Rewrote how vacancies on cooperative and area school planning committees and school boards are filled - district governance mechanics.",
+          "affected_rsas": [
+            "RSA 671:33"
+          ]
+        },
+        {
+          "cite": "91:320",
+          "heading": "Appropriation; Department of Education",
+          "category": "core",
+          "plain_language": "Appropriated $30 million from the education trust fund for school building aid on new projects - the first new-project money after a decade-long moratorium era.",
+          "affected_rsas": [
+            "RSA 198:15-a"
+          ]
+        },
+        {
+          "cite": "91:322",
+          "heading": "Education Tax Revenue; Fiscal Year 2023",
+          "category": "core",
+          "plain_language": "Cut the statewide education property tax (SWEPT) for fiscal year 2023: the rate is set to raise $263 million instead of the usual $363 million target - a one-year, $100 million cut in the local school tax the state counts as its aid.",
+          "affected_rsas": [
+            "RSA 76:3",
+            "RSA 76:8",
+            "RSA 82",
+            "RSA 83-F"
+          ],
+          "hand_added": true
+        },
+        {
+          "cite": "91:323",
+          "heading": "Supplemental Education Payment; Fiscal Year 2023",
+          "category": "core",
+          "plain_language": "Guaranteed no municipality's total education grant would fall because of the SWEPT cut: the state makes up any decrease with a supplemental payment.",
+          "affected_rsas": [
+            "RSA 198:41",
+            "RSA 198:42"
+          ]
+        },
+        {
+          "cite": "91:398",
+          "heading": "System of Care for Children's Mental Health; Duties of the Commissioner of the Department of Education; Reference Change",
+          "category": "adjacent",
+          "plain_language": "Folded the department of education into the children's mental health system of care plan - schools as a delivery point for children's behavioral health.",
+          "affected_rsas": [
+            "RSA 135-F:5"
+          ]
+        },
+        {
+          "cite": "91:425",
+          "heading": "Medicaid to Schools Program; Fiscal Committee Approval of Supplemental Funding",
+          "category": "adjacent",
+          "plain_language": "Let the Medicaid-to-schools program accept extra federal money mid-biennium with fiscal committee approval - the funding stream for school-based health services.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "91:431",
+          "heading": "New Chapter; Education Freedom Accounts",
+          "category": "core",
+          "plain_language": "Created the education freedom account (EFA) program (new RSA 194-F): state adequacy money follows a student out of public school to private, religious, or home education expenses, paid from the education trust fund through a scholarship organization - the biggest school-choice change of the period.",
+          "affected_rsas": [
+            "RSA 193-A:5",
+            "RSA 193-C:6",
+            "RSA 193:1",
+            "RSA 194-F",
+            "RSA 194-F:2",
+            "RSA 194-F:4",
+            "RSA 194:60",
+            "RSA 198:39",
+            "RSA 198:40-a",
+            "RSA 198:41",
+            "RSA 198:42",
+            "RSA 77:G",
+            "RSA by"
+          ]
+        },
+        {
+          "cite": "91:432",
+          "heading": "Duty of Parent; Compulsory Attendance by Pupil",
+          "category": "core",
+          "plain_language": "Amended the compulsory-attendance statute so participation in the EFA program satisfies a child's school-attendance duty - the conforming change that makes the program legal schooling.",
+          "affected_rsas": [
+            "RSA 193:1",
+            "RSA 194-F",
+            "RSA 21-N:11"
+          ]
+        }
+      ],
+      "excluded_candidates": [
+        {
+          "cite": "91:45",
+          "reason": "Controlled drug prescription health and safety program; health regulation ('school' appears in exemption text)."
+        },
+        {
+          "cite": "91:67",
+          "reason": "Film and digital media bureau repeal; economic-development housekeeping."
+        },
+        {
+          "cite": "91:74",
+          "reason": "Water and wastewater state aid grant freeze; municipal infrastructure (property-taxes packet)."
+        },
+        {
+          "cite": "91:99",
+          "reason": "Interest and dividends tax repeal; state tax structure (analyzed in the property-taxes packet; the education angle is the trust-fund plumbing kept above)."
+        },
+        {
+          "cite": "91:109",
+          "reason": "Business enterprise tax rate cut; state tax structure (property-taxes packet)."
+        },
+        {
+          "cite": "91:110",
+          "reason": "Business profits tax rate cut; state tax structure (property-taxes packet)."
+        },
+        {
+          "cite": "91:114",
+          "reason": "Cross-reference correction in the education trust fund statute; companion detail to 91:112."
+        },
+        {
+          "cite": "91:126",
+          "reason": "Adult parole board; corrections."
+        },
+        {
+          "cite": "91:162",
+          "reason": "College tuition savings plan commission; higher-education program governance."
+        },
+        {
+          "cite": "91:163",
+          "reason": "Governor's scholarship program and fund; postsecondary scholarships."
+        },
+        {
+          "cite": "91:178",
+          "reason": "Speech-language pathology licensing compact; occupational licensing ('school' in practice-setting lists)."
+        },
+        {
+          "cite": "91:179",
+          "reason": "Speech-language pathology initial licensure; occupational licensing."
+        },
+        {
+          "cite": "91:192",
+          "reason": "Executive branch organization list; agency housekeeping."
+        },
+        {
+          "cite": "91:199",
+          "reason": "Council on resources and development membership; land-use governance."
+        },
+        {
+          "cite": "91:201",
+          "reason": "Offshore wind commission cross-reference; energy policy."
+        },
+        {
+          "cite": "91:263",
+          "reason": "Utility regulation duties; energy policy."
+        },
+        {
+          "cite": "91:281",
+          "reason": "Electric restructuring principles; energy policy."
+        },
+        {
+          "cite": "91:295",
+          "reason": "Tax expenditure report mechanics; tax administration (property-taxes packet)."
+        },
+        {
+          "cite": "91:330",
+          "reason": "Sununu youth services center closure committee; juvenile justice facilities."
+        },
+        {
+          "cite": "91:331",
+          "reason": "DHHS closed-loop referral system limit; health IT policy ('school' in referral-network lists)."
+        },
+        {
+          "cite": "91:369",
+          "reason": "National guard scholarship fund reference removal; military benefits."
+        },
+        {
+          "cite": "91:385",
+          "reason": "Department of safety appropriation; public safety."
+        },
+        {
+          "cite": "91:395",
+          "reason": "State mental health plan child-welfare reporting; health-system planning."
+        },
+        {
+          "cite": "91:420",
+          "reason": "Graduate medical education payments; Medicaid hospital funding, not schools."
+        },
+        {
+          "cite": "91:464",
+          "reason": "Granite State paid family leave plan; employment benefits."
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB2",
+      "chapter": 79,
+      "laws_citation": "Laws of 2023, Chapter 79",
+      "total_sections_extracted": 612,
+      "source": "gencourt:lba_or_agency_pdf",
+      "source_url": "https://gc.nh.gov/LBA/Budget/operating_budgets/2024-2025/House_Finance/HB%202%20Chapter%20Law.pdf",
+      "whole_bill_roll_call_count": 17,
+      "whole_bill_final_votes": [
+        {
+          "body": "House",
+          "date": "2023-06-08",
+          "motion": "Concur (with Senate changes)",
+          "yeas": 326,
+          "nays": 53
+        }
+      ],
+      "relevant_sections": [
+        {
+          "cite": "79:3",
+          "heading": "Career and Technical Education; Dual and Concurrent Enrollment Program",
+          "category": "core",
+          "plain_language": "Extended the dual and concurrent enrollment program to career and technical education center students in grades 10 through 12.",
+          "affected_rsas": [
+            "RSA 188-"
+          ]
+        },
+        {
+          "cite": "79:4",
+          "heading": "Regional Career and Technical Education; Dual and Concurrent Enrollment Program",
+          "category": "core",
+          "plain_language": "Doubled the funded dual/concurrent enrollment courses per student (from 2 to 4 in each of grades 10, 11, and 12).",
+          "affected_rsas": [
+            "RSA 188-E:27"
+          ]
+        },
+        {
+          "cite": "79:45",
+          "heading": "Repeals; Advanced Manufacturing Education",
+          "category": "adjacent",
+          "plain_language": "Repealed the advanced manufacturing education advisory council and partnership statutes (RSA 188-E:21-24) - a CTE-adjacent program taken off the books.",
+          "affected_rsas": [
+            "RSA 188-E:21",
+            "RSA 188-E:22",
+            "RSA 188-E:23",
+            "RSA 188-E:23-a"
+          ],
+          "hand_added": true
+        },
+        {
+          "cite": "79:62",
+          "heading": "New Section; Department of Education; The Commission on New Hampshire Civics; Commission Established",
+          "category": "core",
+          "plain_language": "Created the commission on New Hampshire civics inside the department of education - the body charged with building the state's civics-education program.",
+          "affected_rsas": [
+            "RSA 14:49",
+            "RSA 21-N"
+          ]
+        },
+        {
+          "cite": "79:63",
+          "heading": "Department of Education; Commission on New Hampshire Civics",
+          "category": "adjacent",
+          "plain_language": "Appropriated $1 million to the civics commission, including a New Hampshire civics textbook project.",
+          "affected_rsas": [
+            "RSA 21-N:8-c"
+          ]
+        },
+        {
+          "cite": "79:65",
+          "heading": "New Section; Department of Education; Higher Education; Recruitment of Educators",
+          "category": "core",
+          "plain_language": "Created an educator recruitment program: stipends and grants for academic residencies and alternative certification pathways, aimed at the teacher shortage.",
+          "affected_rsas": [
+            "RSA 21-N"
+          ]
+        },
+        {
+          "cite": "79:66",
+          "heading": "Department of Education; ARPA and ESSER Funds",
+          "category": "adjacent",
+          "plain_language": "Let discretionary federal ARPA/ESSER money fund the educator recruitment stipends.",
+          "affected_rsas": [
+            "RSA 14:30-a",
+            "RSA 21-"
+          ]
+        },
+        {
+          "cite": "79:79",
+          "heading": "New Section; Department of Education",
+          "category": "adjacent",
+          "plain_language": "Created a computer science and STEM administrator position in the department of education.",
+          "affected_rsas": [
+            "RSA 200-O",
+            "RSA 21-N"
+          ]
+        },
+        {
+          "cite": "79:80",
+          "heading": "New Chapter; Computer Science Educator Program",
+          "category": "core",
+          "plain_language": "Created the computer science educator program (new RSA 200-O): tuition-reimbursement incentives for teachers earning computer science credentials - the trailer's main classroom-technology investment.",
+          "affected_rsas": [
+            "RSA 21-N:13",
+            "RSA 541-A",
+            "RSA by"
+          ]
+        },
+        {
+          "cite": "79:81",
+          "heading": "Appropriations; Department of Education; Computer Science Professional Development",
+          "category": "adjacent",
+          "plain_language": "Appropriated $500,000 for computer science professional development credentials for certified educators.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:83",
+          "heading": "Appropriation; Public School Infrastructure Fund",
+          "category": "adjacent",
+          "plain_language": "Put $10 million from the education trust fund into the public school infrastructure fund for school construction and safety projects.",
+          "affected_rsas": [
+            "RSA 198:15-y"
+          ]
+        },
+        {
+          "cite": "79:137",
+          "heading": "Education Trust Fund Appropriations Reductions; Education Freedom Accounts",
+          "category": "adjacent",
+          "plain_language": "Reduced the education trust fund appropriation earmarked for education freedom accounts by $10 million in each year of the biennium, an accounting true-up to actual enrollment.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:138",
+          "heading": "Education Trust Fund Created and Invested",
+          "category": "adjacent",
+          "plain_language": "Re-enacted the education trust fund statute, restating everything the fund may pay for - adequacy grants, homeowners' property tax relief, EFAs, court-ordered placements, and school building aid among them.",
+          "affected_rsas": [
+            "RSA 186-C:18",
+            "RSA 186-C:19-b",
+            "RSA 188-E:9",
+            "RSA 193-C",
+            "RSA 194-B:11",
+            "RSA 194-F",
+            "RSA 194-F:10",
+            "RSA 198:15-b",
+            "RSA 198:15-hh",
+            "RSA 198:39",
+            "RSA 198:42",
+            "RSA 198:48-c",
+            "RSA 198:56-",
+            "RSA 284:21-j",
+            "RSA 284:44",
+            "RSA 284:47",
+            "RSA 287-I",
+            "RSA 31-A:4",
+            "RSA 77-A:20-a",
+            "RSA 77-E:14",
+            "RSA 77-G",
+            "RSA 78-A:26",
+            "RSA 78-B:13",
+            "RSA 78:24",
+            "RSA 83-F:7"
+          ]
+        },
+        {
+          "cite": "79:139",
+          "heading": "New Paragraph; Education of Children Placed in Homes for Children, Health Care Facilities, or State Institutions; Episode of Treatment",
+          "category": "adjacent",
+          "plain_language": "Defined 'episode of treatment' placements for children placed by DHHS in facilities - the definition the special-education payment sections hang on.",
+          "affected_rsas": [
+            "RSA 193:27"
+          ],
+          "hand_added": true
+        },
+        {
+          "cite": "79:141",
+          "heading": "Special Education; State Aid",
+          "category": "core",
+          "plain_language": "Changed special education state aid so districts are reimbursed for costs above 3.5 times the state average per-pupil cost - the 'catastrophic aid' threshold that decides when the state steps in.",
+          "affected_rsas": [
+            "RSA 186-C:18",
+            "RSA 186-C:19-b"
+          ]
+        },
+        {
+          "cite": "79:142",
+          "heading": "New Paragraph; Special Education; State Aid; Rulemaking by State Board of Education",
+          "category": "adjacent",
+          "plain_language": "Gave the state board of education rulemaking authority for paying episode-of-treatment costs.",
+          "affected_rsas": [
+            "RSA 186-C:18",
+            "RSA 193:27"
+          ]
+        },
+        {
+          "cite": "79:143",
+          "heading": "Liability for Children with Disabilities in Certain Court Ordered Placements",
+          "category": "core",
+          "plain_language": "Shifted liability for certain court-ordered placements of children with disabilities, defining when the state rather than the school district pays.",
+          "affected_rsas": [
+            "RSA 169-B",
+            "RSA 169-B:13",
+            "RSA 169-B:40",
+            "RSA 186-",
+            "RSA 186-C:10",
+            "RSA 541-A"
+          ]
+        },
+        {
+          "cite": "79:144",
+          "heading": "Appropriation; Court Ordered Placements",
+          "category": "adjacent",
+          "plain_language": "Appropriated $9.2 million from the education trust fund for court-ordered placement costs.",
+          "affected_rsas": [
+            "RSA 186-C:19-b",
+            "RSA 198:39"
+          ]
+        },
+        {
+          "cite": "79:146",
+          "heading": "Education; Funding for Renovation and Expansion; CTE",
+          "category": "adjacent",
+          "plain_language": "Rewrote the career and technical education renovation-funding statute the CTE center projects run through.",
+          "affected_rsas": [
+            "RSA 188-E:10",
+            "RSA 194:23",
+            "RSA 541-A",
+            "RSA 9:3-a"
+          ]
+        },
+        {
+          "cite": "79:147",
+          "heading": "Department of Education; Appropriation; CTE Renovation Projects; Sugar River Valley Regional Technical Center",
+          "category": "adjacent",
+          "plain_language": "Appropriated $12.5 million from the education trust fund for the Sugar River Valley career and technical education renovation project.",
+          "affected_rsas": [
+            "RSA 198:39"
+          ]
+        },
+        {
+          "cite": "79:148",
+          "heading": "Appropriation",
+          "category": "adjacent",
+          "plain_language": "Appropriated $7.6 million from the education trust fund for the Winnisquam regional CTE renovation project.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:150",
+          "heading": "Cost of an Opportunity for an Adequate Education",
+          "category": "core",
+          "plain_language": "Rewrote the cost of an adequate education (RSA 198:40-a): base per-pupil aid rises to $4,100 with larger add-ons for free-and-reduced-lunch pupils, special education, and English learners - the formula rewrite the whole 2023 education budget turned on.",
+          "affected_rsas": [
+            "RSA 193-C:3",
+            "RSA 193-C:6",
+            "RSA 193-E:2-a",
+            "RSA 198:40-a",
+            "RSA 198:40-d"
+          ]
+        },
+        {
+          "cite": "79:151",
+          "heading": "Annual Adjustment; Relief Funding",
+          "category": "core",
+          "plain_language": "Re-enacted the annual adjustment: adequacy aid amounts rise 2 percent automatically every year starting July 2024.",
+          "affected_rsas": [
+            "RSA 194-B:11",
+            "RSA 198:40-a",
+            "RSA 198:40-d",
+            "RSA 198:40-f"
+          ]
+        },
+        {
+          "cite": "79:153",
+          "heading": "Extraordinary Need Grants; 2023",
+          "category": "core",
+          "plain_language": "Rewrote extraordinary need grants for 2023 - extra aid scaled to a town's equalized property value per pupil, targeting the towns with the weakest tax bases.",
+          "affected_rsas": [
+            "RSA 1",
+            "RSA 198:40-a",
+            "RSA 198:40-f",
+            "RSA 198:42",
+            "RSA 82"
+          ]
+        },
+        {
+          "cite": "79:154",
+          "heading": "Extraordinary Need Grants; 2025",
+          "category": "core",
+          "plain_language": "Set the 2025-and-after version of extraordinary need grants, extending the property-poor-town aid formula.",
+          "affected_rsas": [
+            "RSA 198:40-a",
+            "RSA 198:40-f"
+          ]
+        },
+        {
+          "cite": "79:156",
+          "heading": "Determination of Education Grants",
+          "category": "core",
+          "plain_language": "Rewrote how each municipality's total education grant is determined, including hold-harmless rules so no town's grant falls below prior levels while the new formula phases in.",
+          "affected_rsas": [
+            "RSA 198:40-a",
+            "RSA 198:40-e",
+            "RSA 198:40-f",
+            "RSA 198:41",
+            "RSA 198:42",
+            "RSA 76:8"
+          ]
+        },
+        {
+          "cite": "79:157",
+          "heading": "Chartered Public Schools; Funding",
+          "category": "core",
+          "plain_language": "Raised chartered public school per-pupil funding: adequacy amounts plus an additional grant, with the amount indexed going forward - the charter funding statute's biggest rewrite of the period.",
+          "affected_rsas": [
+            "RSA 194-B:11",
+            "RSA 194-B:3-a",
+            "RSA 198:40-a",
+            "RSA 198:40-d"
+          ]
+        },
+        {
+          "cite": "79:158",
+          "heading": "Repeal; Third Grade Reading Accountability",
+          "category": "core",
+          "plain_language": "Repealed the third-grade reading accountability data requirement from the statewide assessment statute (RSA 193-C) - a piece of the testing regime removed.",
+          "affected_rsas": [
+            "RSA 193-C:3"
+          ]
+        },
+        {
+          "cite": "79:159",
+          "heading": "State Maintenance of Equity",
+          "category": "adjacent",
+          "plain_language": "Amended the 2021 maintenance-of-equity provision so any such aid distributes as an education grant to districts and charter schools.",
+          "affected_rsas": [
+            "RSA 194-B:11",
+            "RSA 198:41"
+          ]
+        },
+        {
+          "cite": "79:191",
+          "heading": "Business Profits Tax; Distribution to Education Trust Fund",
+          "category": "core",
+          "plain_language": "Fixed the education trust fund's share of the business profits tax at 41 percent of revenue - replacing the old 'increase attributable to' formula with a straight statutory split.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 77-A:2",
+            "RSA 77-A:20-a"
+          ]
+        },
+        {
+          "cite": "79:192",
+          "heading": "Business Enterprise Tax; Distribution to Education Trust Fund",
+          "category": "core",
+          "plain_language": "Fixed the education trust fund's share of the business enterprise tax at 41 percent of revenue, the same straight split.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 77-E:14",
+            "RSA 77-E:2"
+          ]
+        },
+        {
+          "cite": "79:201",
+          "heading": "Medicaid to Schools Program; Fiscal Committee Approval of Supplemental Funding",
+          "category": "adjacent",
+          "plain_language": "Extended the Medicaid-to-schools supplemental-funding authority through the 2025 biennium.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:264",
+          "heading": "Appropriation; Department of Education; Kindergarten Adequate Education Grants",
+          "category": "adjacent",
+          "plain_language": "Appropriated $315,700 from the education trust fund for new full-day kindergarten adequacy grants.",
+          "affected_rsas": [
+            "RSA 198:48-b"
+          ]
+        },
+        {
+          "cite": "79:383",
+          "heading": "The sum of $150,000 is hereby appropriated for the fiscal year ending June 30, 2023, to the department of education for the purpose of contracting with the National Student Clearinghouse Student Tracker Program for each public school district in New Hampshire",
+          "category": "adjacent",
+          "plain_language": "Appropriated $150,000 to contract with the National Student Clearinghouse to track every district's graduates into college and careers - an outcomes-measurement investment.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:385",
+          "heading": "New Paragraph; Math Learning Communities Program in Public Secondary Schools; Structure",
+          "category": "adjacent",
+          "plain_language": "Required annual reporting on the math learning communities program partnering community colleges with high schools.",
+          "affected_rsas": [
+            "RSA 193-I:2"
+          ]
+        },
+        {
+          "cite": "79:386",
+          "heading": "Appropriation; Community College System of New Hampshire",
+          "category": "adjacent",
+          "plain_language": "Appropriated $200,000 a year to continue the math learning communities program.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:439",
+          "heading": "Duties",
+          "category": "adjacent",
+          "plain_language": "Charged a study committee with examining how expanded free-and-reduced-price-meal eligibility (SNAP categorical eligibility, Medicaid data) changes the pupil counts that drive state education aid.",
+          "affected_rsas": [
+            "RSA 189:11-a"
+          ]
+        },
+        {
+          "cite": "79:468",
+          "heading": "New Subdivision; Commission to Study Hospitality and Tourism Education in New Hampshire",
+          "category": "adjacent",
+          "plain_language": "Created a commission to study hospitality and tourism education - the industry-pathways study that also arrived as a standalone bill (SB37).",
+          "affected_rsas": [
+            "RSA 187-A"
+          ]
+        },
+        {
+          "cite": "79:601",
+          "heading": "Appropriation; Department of Education; Adult Education",
+          "category": "adjacent",
+          "plain_language": "Appropriated $500,000 for grants to adult education programs - the second-chance diploma track.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:605",
+          "heading": "Career and Technical Education Incentive Grant",
+          "category": "core",
+          "plain_language": "Created the career and technical education incentive grant to pay transportation costs that keep sending-district students out of regional CTE centers.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:606",
+          "heading": "Career and Technical Education Incentive Grant; Appropriation",
+          "category": "adjacent",
+          "plain_language": "Appropriated $4 million for the CTE transportation incentive grant program.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:609",
+          "heading": "Findings; Children's Mental Health",
+          "category": "adjacent",
+          "plain_language": "Findings on children's mental health: schools named as the daily front line of the behavioral-health crisis.",
+          "affected_rsas": [
+            "RSA 135-F"
+          ]
+        },
+        {
+          "cite": "79:610",
+          "heading": "Appropriation; Department of Education; Children's Mental Health; MTSS-B Framework",
+          "category": "adjacent",
+          "plain_language": "Appropriated $900,000 for the multi-tiered system of supports for behavior (MTSS-B) framework in schools.",
+          "affected_rsas": [
+            "RSA 135-F:5"
+          ]
+        }
+      ],
+      "excluded_candidates": [
+        {
+          "cite": "79:7",
+          "reason": "Retirement system 'employee' definition; pension mechanics."
+        },
+        {
+          "cite": "79:12",
+          "reason": "Corrections unclassified positions; personnel."
+        },
+        {
+          "cite": "79:68",
+          "reason": "Retirement benefits commission; pension policy."
+        },
+        {
+          "cite": "79:73",
+          "reason": "Pulp and paper industry stabilization grants; economic development."
+        },
+        {
+          "cite": "79:199",
+          "reason": "Graduate medical education payments; Medicaid hospital funding."
+        },
+        {
+          "cite": "79:243",
+          "reason": "Business and economic affairs bureaus; agency organization."
+        },
+        {
+          "cite": "79:244",
+          "reason": "Workforce development bureau; adult workforce programs."
+        },
+        {
+          "cite": "79:245",
+          "reason": "Workforce development director; adult workforce programs."
+        },
+        {
+          "cite": "79:273",
+          "reason": "Auctioneer rulemaking; occupational licensing."
+        },
+        {
+          "cite": "79:293",
+          "reason": "Electrician licensing; occupational licensing."
+        },
+        {
+          "cite": "79:327",
+          "reason": "Real estate appraiser examinations; occupational licensing."
+        },
+        {
+          "cite": "79:377",
+          "reason": "Military postsecondary educational assistance; veterans' higher-education benefits."
+        },
+        {
+          "cite": "79:429",
+          "reason": "DHHS feasibility study appropriation; health facilities."
+        },
+        {
+          "cite": "79:444",
+          "reason": "Family resource centers; family-services funding."
+        },
+        {
+          "cite": "79:459",
+          "reason": "Retirement system reduction age; pension policy."
+        },
+        {
+          "cite": "79:512",
+          "reason": "Wastewater state aid appropriation; municipal infrastructure (property-taxes packet)."
+        },
+        {
+          "cite": "79:534",
+          "reason": "DHHS organizational section; health administration."
+        },
+        {
+          "cite": "79:552",
+          "reason": "Home visiting program; maternal-child health."
+        },
+        {
+          "cite": "79:557",
+          "reason": "Licensed nursing assistant reimbursement; health workforce."
+        },
+        {
+          "cite": "79:588",
+          "reason": "Foster care college tuition waiver; higher-education benefit."
+        },
+        {
+          "cite": "79:589",
+          "reason": "First-responder career development; public-safety workforce."
+        },
+        {
+          "cite": "79:598",
+          "reason": "Early childhood mental health consultation pilot; pre-K health services."
+        },
+        {
+          "cite": "79:599",
+          "reason": "Appropriation for the same pilot; pre-K health services."
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB2",
+      "chapter": 141,
+      "laws_citation": "Laws of 2025, Chapter 141",
+      "total_sections_extracted": 461,
+      "source": "sql:legislationtext",
+      "source_url": "sql://legislationtext/1188/CHAPTERED FINAL VERSION",
+      "whole_bill_roll_call_count": 45,
+      "whole_bill_final_votes": [
+        {
+          "body": "Senate",
+          "date": "2025-06-26",
+          "motion": "Conference Committee Report",
+          "yeas": 16,
+          "nays": 8
+        },
+        {
+          "body": "House",
+          "date": "2025-06-26",
+          "motion": "Adopt Conference Committee Report",
+          "yeas": 184,
+          "nays": 183
+        }
+      ],
+      "relevant_sections": [
+        {
+          "cite": "141:16",
+          "heading": "Education Freedom Accounts; Contingency",
+          "category": "core",
+          "plain_language": "Made the education freedom account expansion's effective date contingent on program participation certification - the mechanics attached to 2025's removal of the EFA income cap (2025, 75) that opened the program to every family.",
+          "affected_rsas": [
+            "RSA 194-F:3"
+          ]
+        },
+        {
+          "cite": "141:17",
+          "heading": "Education; Education Freedom Accounts; Application for an Education Freedom Account",
+          "category": "adjacent",
+          "plain_language": "Let an EFA student leave the program and re-enroll in public school on notice to the scholarship organization - exit mechanics for the expanded program.",
+          "affected_rsas": [
+            "RSA 194-F:3"
+          ]
+        },
+        {
+          "cite": "141:79",
+          "heading": "Education; School Money; Education Trust Fund Created and Invested",
+          "category": "adjacent",
+          "plain_language": "Amended the education trust fund's purpose list, including how court-ordered placement costs are paid.",
+          "affected_rsas": [
+            "RSA 186-C:19-b",
+            "RSA 193:27",
+            "RSA 198:15-hh",
+            "RSA 198:15-y",
+            "RSA 198:39"
+          ]
+        },
+        {
+          "cite": "141:80",
+          "heading": "Education; School Money; Education Trust Fund Created and Invested",
+          "category": "core",
+          "plain_language": "Capped the education trust fund's balance: any surplus over $20 million at the close of a biennium is swept into the general fund - money that once stayed dedicated to schools.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 21-I:8"
+          ]
+        },
+        {
+          "cite": "141:81",
+          "heading": "Chartered Public Schools; Funding",
+          "category": "adjacent",
+          "plain_language": "Rewrote the chartered public school tuition payment schedule (30/40/30 percent installments on enrollment counts).",
+          "affected_rsas": [
+            "RSA 189:1-d",
+            "RSA 194-B:11"
+          ]
+        },
+        {
+          "cite": "141:82",
+          "heading": "New Subparagraph; Chartered Public Schools; Funding",
+          "category": "adjacent",
+          "plain_language": "Set special payment rules for the Virtual Learning Academy Charter School based on estimated full-time enrollment.",
+          "affected_rsas": [
+            "RSA 194-B:11"
+          ]
+        },
+        {
+          "cite": "141:83",
+          "heading": "Determination of Education Grants",
+          "category": "adjacent",
+          "plain_language": "Moved the final determination of education grants to October 1 and guaranteed each municipality at least 95 percent of its estimated grant.",
+          "affected_rsas": [
+            "RSA 198:41",
+            "RSA 198:42"
+          ]
+        },
+        {
+          "cite": "141:132",
+          "heading": "Business Profits Tax; Distribution of Funds",
+          "category": "core",
+          "plain_language": "Cut the education trust fund's share of the business profits tax from 41 percent to 39 percent, keeping more business tax revenue in the general fund.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 77-A:2",
+            "RSA 77-A:20-a"
+          ]
+        },
+        {
+          "cite": "141:133",
+          "heading": "Business Enterprise Tax; Distribution of Funds",
+          "category": "core",
+          "plain_language": "Cut the education trust fund's share of the business enterprise tax from 41 percent to 39 percent.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 77-E:14",
+            "RSA 77-E:2"
+          ]
+        },
+        {
+          "cite": "141:134",
+          "heading": "Tobacco Tax; Distribution of Funds",
+          "category": "adjacent",
+          "plain_language": "Rewrote the tobacco tax split: 39 percent of tobacco revenue to the education trust fund, the rest to the general fund.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 78:2",
+            "RSA 78:24"
+          ]
+        },
+        {
+          "cite": "141:135",
+          "heading": "Tax on Transfer of Real Property; Distribution of Funds",
+          "category": "adjacent",
+          "plain_language": "Rewrote the real estate transfer tax split: 39 percent to the education trust fund, the rest to the general fund.",
+          "affected_rsas": [
+            "RSA 198:39",
+            "RSA 78-B:1",
+            "RSA 78-B:13"
+          ]
+        },
+        {
+          "cite": "141:223",
+          "heading": "Education; Adequate Education; Education Trust Fund; Annual Adjustment",
+          "category": "core",
+          "plain_language": "Delayed the annual 2 percent inflation adjustment of per-pupil adequacy aid to July 2026 - a pause in the automatic growth of state school aid.",
+          "affected_rsas": [
+            "RSA 194-B:11",
+            "RSA 198:40-a",
+            "RSA 198:40-d",
+            "RSA 198:40-f"
+          ]
+        },
+        {
+          "cite": "141:224",
+          "heading": "Education; Adequate Education; Education Trust Fund; Extraordinary Need Grants",
+          "category": "core",
+          "plain_language": "Re-enacted the extraordinary need grant formula - the extra aid tied to a town's equalized property value per pupil.",
+          "affected_rsas": [
+            "RSA 198:40-a",
+            "RSA 198:40-f"
+          ]
+        },
+        {
+          "cite": "141:225",
+          "heading": "New Section; Education; Adequate Education; Education Trust Fund; Fiscal Capacity Disparity Aid",
+          "category": "core",
+          "plain_language": "Created fiscal capacity disparity aid: up to $1,250 extra per pupil for municipalities with less than $1 million of equalized property value per pupil, phasing out by $1.6 million - aid aimed squarely at property-poor towns.",
+          "affected_rsas": [
+            "RSA 198",
+            "RSA 198:40-a"
+          ]
+        },
+        {
+          "cite": "141:226",
+          "heading": "Education; Adequate Education; Education Trust Fund; Determination of Education Grants",
+          "category": "core",
+          "plain_language": "Rewrote how each municipality's education grant is computed to fold in the new fiscal capacity disparity aid.",
+          "affected_rsas": [
+            "RSA 198:40-a",
+            "RSA 198:40-f",
+            "RSA 198:40-g",
+            "RSA 198:41",
+            "RSA 76:8"
+          ]
+        },
+        {
+          "cite": "141:228",
+          "heading": "Instruction in National and State History, Government, and Civics",
+          "category": "core",
+          "plain_language": "Rewrote the required civics instruction statute (RSA 189:11): the locally developed civics competency assessment and the naturalization-test requirement for graduation - the testing piece of the civics program.",
+          "affected_rsas": [
+            "RSA 189:11"
+          ]
+        },
+        {
+          "cite": "141:229",
+          "heading": "Appropriations; Department of Education; Computer Science Professional Development",
+          "category": "adjacent",
+          "plain_language": "Extended the 2023 computer science professional-development appropriations' availability.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "141:274",
+          "heading": "Public School Infrastructure Fund",
+          "category": "adjacent",
+          "plain_language": "Let the public school infrastructure commission approve fund expenditures without fiscal committee sign-off.",
+          "affected_rsas": [
+            "RSA 198:15-y"
+          ]
+        },
+        {
+          "cite": "141:275",
+          "heading": "Education; Special Education; Program Approval, Monitoring, and Corrective Action",
+          "category": "core",
+          "plain_language": "Ordered an independent, nationally recognized audit of the state's special education program approval and monitoring system - the oversight response to exploding special-education costs.",
+          "affected_rsas": [
+            "RSA 186-C:3-b",
+            "RSA 186-C:5"
+          ]
+        },
+        {
+          "cite": "141:276",
+          "heading": "Education; Special Education; State Aid",
+          "category": "core",
+          "plain_language": "Restructured special education state aid administration and reimbursement - the catastrophic-cost aid that shields local budgets.",
+          "affected_rsas": [
+            "RSA 186-C:18",
+            "RSA 186-C:19-b"
+          ]
+        },
+        {
+          "cite": "141:278",
+          "heading": "Education; Special Education; State Aid",
+          "category": "core",
+          "plain_language": "Rewrote the funding rule for statewide special education programs.",
+          "affected_rsas": [
+            "RSA 186-C:18",
+            "RSA 198:39"
+          ]
+        },
+        {
+          "cite": "141:302",
+          "heading": "Education; Education Freedom Accounts; Program",
+          "category": "adjacent",
+          "plain_language": "Let unused EFA funds roll over quarter-to-quarter and year-to-year until withdrawal or graduation.",
+          "affected_rsas": [
+            "RSA 194-F:2",
+            "RSA 198:39"
+          ]
+        },
+        {
+          "cite": "141:307",
+          "heading": "New Paragraph; Medicaid to Schools Program; Termination",
+          "category": "adjacent",
+          "plain_language": "Added a statewide termination trigger to the Medicaid-to-schools program if federal or state policy conflicts with parental control of children's medical services.",
+          "affected_rsas": [
+            "RSA 186-C:25"
+          ]
+        },
+        {
+          "cite": "141:321",
+          "heading": "New Subdivision; Prohibition on Diversity, Equity, and Inclusion",
+          "category": "core",
+          "plain_language": "The statewide companion: the same DEI prohibition applied to every state agency and political subdivision (new RSA 21-I:112 and following), which reaches school districts as public employers.",
+          "affected_rsas": [
+            "RSA 21-I",
+            "RSA 354-A:1"
+          ]
+        },
+        {
+          "cite": "141:322",
+          "heading": "New Subdivision; Prohibition on Diversity, Equity, and Inclusion in Public Schools",
+          "category": "core",
+          "plain_language": "Prohibited diversity, equity, and inclusion programs in public schools (new RSA 186:71 and following): no DEI offices, officers, trainings, or DEI-based hiring or contracting in schools, with enforcement through the department of education - the 2025 trailer's biggest education-policy section.",
+          "affected_rsas": [
+            "RSA 186",
+            "RSA 186:71",
+            "RSA 354-A:1"
+          ]
+        },
+        {
+          "cite": "141:389",
+          "heading": "Legislative Declaration of Authority Regarding Public Education",
+          "category": "core",
+          "plain_language": "Declared the legislature's position on the Claremont school-funding rulings - asserting that defining and funding an adequate education is the legislature's prerogative - while the ConVal litigation over adequacy amounts and the SWEPT remains in the courts.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "141:398",
+          "heading": "Education; Adult Education; Establishment of Adult High School Education Program",
+          "category": "adjacent",
+          "plain_language": "Restated the adult education program statute as the adult high school education program for residents 16 and older.",
+          "affected_rsas": [
+            "RSA 186:61",
+            "RSA 198:40-a"
+          ]
+        },
+        {
+          "cite": "141:399",
+          "heading": "Appropriation; Department of Education",
+          "category": "adjacent",
+          "plain_language": "Appropriated $400,000 a year from the education trust fund for adult high school education programs.",
+          "affected_rsas": [
+            "RSA 186:61",
+            "RSA 198:39"
+          ]
+        },
+        {
+          "cite": "141:400",
+          "heading": "Education; Student and Teacher Information Protection and Privacy; Student Privacy",
+          "category": "adjacent",
+          "plain_language": "Narrowed the student-privacy statute's protected 'workforce information' definition (RSA 189:68) - part of the student-data layer.",
+          "affected_rsas": [
+            "RSA 189:68"
+          ]
+        },
+        {
+          "cite": "141:401",
+          "heading": "Education; District Taxes; Reports Required; Cities and School Districts",
+          "category": "adjacent",
+          "plain_language": "Made the education and revenue departments jointly maintain school accounting standards - the books behind local school budgets and tax rates.",
+          "affected_rsas": [
+            "RSA 198:4-d"
+          ]
+        },
+        {
+          "cite": "141:403",
+          "heading": "Appropriation; Department of Education",
+          "category": "adjacent",
+          "plain_language": "Appropriated $1.5 million a year from the education trust fund for statewide student learning platforms - the state's classroom-technology line.",
+          "affected_rsas": [
+            "RSA 198:39"
+          ]
+        },
+        {
+          "cite": "141:455",
+          "heading": "New Paragraph; Cell Phone Use Policy",
+          "category": "core",
+          "plain_language": "Required every school board and charter school to adopt a policy governing student cell phones and other personal electronic devices in school - the statewide 'bell-to-bell' phone-policy mandate, with exceptions for IEPs, 504 plans, and medical needs.",
+          "affected_rsas": [
+            "RSA 189:1-a"
+          ]
+        }
+      ],
+      "excluded_candidates": [
+        {
+          "cite": "141:35",
+          "reason": "Workforce innovation fund; adult workforce development."
+        },
+        {
+          "cite": "141:49",
+          "reason": "Graduate medical education payments; Medicaid hospital funding."
+        },
+        {
+          "cite": "141:91",
+          "reason": "Workers' compensation hearings; labor law."
+        },
+        {
+          "cite": "141:112",
+          "reason": "Wastewater aid repeal; municipal infrastructure (property-taxes packet)."
+        },
+        {
+          "cite": "141:153",
+          "reason": "Esthetician qualifications; occupational licensing ('student' in apprentice text)."
+        },
+        {
+          "cite": "141:155",
+          "reason": "Cosmetology school operating rules; occupational licensing."
+        },
+        {
+          "cite": "141:158",
+          "reason": "Pesticide registration; agriculture regulation."
+        },
+        {
+          "cite": "141:196",
+          "reason": "Child advocate educational outreach; oversight-office communications, not school instruction."
+        },
+        {
+          "cite": "141:234",
+          "reason": "Motor vehicle title fees; transportation."
+        },
+        {
+          "cite": "141:259",
+          "reason": "Maternal depression screening coverage; health insurance."
+        },
+        {
+          "cite": "141:262",
+          "reason": "Women's health care sections; health policy."
+        },
+        {
+          "cite": "141:279",
+          "reason": "Excellence in higher education endowment trust fund; postsecondary."
+        },
+        {
+          "cite": "141:280",
+          "reason": "Companion higher-education trust fund section; postsecondary."
+        },
+        {
+          "cite": "141:293",
+          "reason": "Opioid abatement commission; health governance."
+        },
+        {
+          "cite": "141:299",
+          "reason": "Alcohol and drug abuse commission rename; health governance."
+        },
+        {
+          "cite": "141:328",
+          "reason": "Surplus-triggered contingent appropriation; general budget mechanics (property-taxes packet)."
+        },
+        {
+          "cite": "141:379",
+          "reason": "Department of environmental services appropriation; municipal infrastructure."
+        },
+        {
+          "cite": "141:402",
+          "reason": "Deputy education commissioner's IT-supervision duties; department housekeeping."
+        },
+        {
+          "cite": "141:405",
+          "reason": "Advance deposit account wagering; gambling revenue (property-taxes packet)."
+        },
+        {
+          "cite": "141:408",
+          "reason": "First-responder career development program; public-safety workforce."
+        },
+        {
+          "cite": "141:410",
+          "reason": "Home and community-based behavioral health services; health programs."
+        },
+        {
+          "cite": "141:420",
+          "reason": "Long-term managed care study committee; health policy."
+        },
+        {
+          "cite": "141:424",
+          "reason": "Public-private health care initiative; health policy."
+        },
+        {
+          "cite": "141:425",
+          "reason": "Rural residency training appropriation; health workforce."
+        },
+        {
+          "cite": "141:431",
+          "reason": "DHHS organizational section; health administration."
+        },
+        {
+          "cite": "141:442",
+          "reason": "Retirement earnable compensation definition; pension policy."
+        },
+        {
+          "cite": "141:453",
+          "reason": "Department of education building maintenance appropriation; agency facilities housekeeping."
+        }
+      ]
+    }
+  ]
+}
