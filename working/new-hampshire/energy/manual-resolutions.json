@@ -28,6 +28,17 @@
     },
     {
       "session_year": 2025,
+      "bill_no": "HB723",
+      "disposition": "carryover_duplicate",
+      "resolution": "same bill as 2026 HB723 (one biennium bill; the SQL legislation table keys it to both session years with identical dockets); counted once, in the 2026 decision year - Signed by Governor Ayotte 04/22/2026, Chapter 28",
+      "resolution_source": "sql_docket (both year-keys carry the identical 26-action docket ending 'Signed by Governor Ayotte 04/22/2026; Chapter 28; eff. 06/21/2026')",
+      "citations": [
+        "Chapter 28, Laws of 2026",
+        "sources/new-hampshire/energy/processed/bill-actions.json 2025:HB723 and 2026:HB723 (identical dockets)"
+      ]
+    },
+    {
+      "session_year": 2025,
       "bill_no": "HB342",
       "disposition": "died_between_chambers",
       "resolution": "passed both chambers in different forms, then the House refused to accept the Senate amendment (non-concur, no conference requested) and the bill died between the chambers",
