@@ -474,6 +474,7 @@ OVERRIDES = {
     "2026:HB1775": "Addressed utility ownership of natural gas and nuclear power generation facilities (became law).",
     "2026:HB1205": "Prohibited state and county lands from joining timber carbon-sequestration projects (became law).",
     "2026:HB1028": "Would have changed the definition of a renewable generation facility; killed in committee.",
+    "2026:HB219": "Would have changed the minimum electric renewable portfolio standards; interim study.",
     "2026:CACR30": "Would have made public utilities commissioners elected rather than appointed; killed on the House floor.",
 }
 

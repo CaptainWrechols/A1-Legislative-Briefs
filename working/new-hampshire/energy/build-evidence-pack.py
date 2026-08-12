@@ -179,7 +179,7 @@ def main() -> None:
 
     # --- people signals ---
     def norm_name(n):
-        n = re.sub(r"\s+[A-Z]\.(?=\s)", "", n or "")
+        n = re.sub(r"\s+[A-Z]\.?(?=\s)", "", n or "")
         return re.sub(r"\s+", " ", n).strip()
 
     prime_counter = Counter()
@@ -195,8 +195,8 @@ def main() -> None:
             nm = norm_name(s["name"])
             prime_counter[nm] += 1
             if s.get("party"):
-                prime_party[nm] = s["party"]
-        parties = {s.get("party") for s in sp if s.get("party")}
+                prime_party[nm] = s["party"].upper()
+        parties = {(s.get("party") or "").upper() for s in sp if s.get("party")}
         if {"R", "D"} <= parties:
             cross_party.append(b["bill_key"])
     people = {
@@ -309,7 +309,7 @@ def main() -> None:
     md += ["## HB2 crosswalk", ""]
     for c in hb2_summary:
         md += [f"- HB2 {c['session_year']} ({c['laws_citation']}): "
-               f"{c['core_sections']} core + {c['adjacent_sections']} adjacent tax/revenue sections"]
+               f"{c['core_sections']} core + {c['adjacent_sections']} adjacent energy sections"]
     for t in hb2_tieins:
         md += [f"- Tie-in {t['bill_key']} ↔ HB2 {t['hb2']}: {t['note']}"]
     md += ["", "## Data limits", ""]

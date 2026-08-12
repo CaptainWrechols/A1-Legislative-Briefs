@@ -47,29 +47,29 @@
 - 2023:HB251: Would have changed the cost of compliance with disclosure of electric renewable portfolio standards. — House 186-169 (OTPA) → House committee recommended Inexpedient to Legislate; no final floor action recorded in the docket
 - 2023:SB79: Would have expanded customer-generator participation in net energy metering; vetoed. — House 194-179 (OTP) → vetoed (no override action recorded as of collection)
 - 2026:HB1542: Would have created a committee to study New Hampshire's electric renewable portfolio standard and the renewable energy fund. — House 189-157 (OTPA) → House committee recommended Inexpedient to Legislate; no final floor action recorded in the docket
-- 2026:HB219: Would have changed changes to the minimum electric renewable portfolio standards; interim study. — House 175-152 (OTPA) → sent to interim study by the Senate
+- 2026:HB219: Would have changed the minimum electric renewable portfolio standards; interim study. — House 175-152 (OTPA) → sent to interim study by the Senate
 
 ## People signals
 
 - Michael Harrington (R) — prime sponsor on 33 bills
+- David Watters (D) — prime sponsor on 33 bills
 - Michael Vose (R) — prime sponsor on 22 bills
 - Kevin Avard (R) — prime sponsor on 20 bills
-- David Watters (D) — prime sponsor on 19 bills
 - Rebecca McWilliams (?) — prime sponsor on 17 bills
 - Kat McGhee (D) — prime sponsor on 15 bills
-- David H Watters (?) — prime sponsor on 14 bills
 - Timothy Lang (R) — prime sponsor on 11 bills
-- Howard Pearl (r) — prime sponsor on 8 bills
-- Thomas Cormen (D) — prime sponsor on 8 bills
+- Thomas Cormen (D) — prime sponsor on 9 bills
+- Howard Pearl (R) — prime sponsor on 8 bills
 - Martha Fuller Clark (?) — prime sponsor on 7 bills
 - Wendy Thomas (D) — prime sponsor on 7 bills
-- Cross-party sponsor teams: 40 bills
+- Jeb Bradley (?) — prime sponsor on 6 bills
+- Cross-party sponsor teams: 41 bills
 
 ## HB2 crosswalk
 
-- HB2 2021 (Laws of 2021, Chapter 91): 17 core + 80 adjacent tax/revenue sections
-- HB2 2023 (Laws of 2023, Chapter 79): 8 core + 12 adjacent tax/revenue sections
-- HB2 2025 (Laws of 2025, Chapter 141): 3 core + 1 adjacent tax/revenue sections
+- HB2 2021 (Laws of 2021, Chapter 91): 17 core + 80 adjacent energy sections
+- HB2 2023 (Laws of 2023, Chapter 79): 8 core + 12 adjacent energy sections
+- HB2 2025 (Laws of 2025, Chapter 141): 3 core + 1 adjacent energy sections
 - Tie-in 2020:SB668 ↔ HB2 91:285: The standalone offshore wind commission bill (SB668, 2020) died on the table in the COVID session - the offshore wind machinery moved through the 2021 trailer instead (91:201, 91:285-286) and was reorganized again by HB682 (2025).
 - Tie-in 2023:SB113 ↔ HB2 79:110: The system benefits charge fight ran on both tracks in 2023: SB113 (Chapter 79:110's companion policy) required legislative approval for SBC increases as a standalone law while the trailer carried the implementation mechanics.
 - Tie-in 2022:SB447 ↔ HB2 79:475: The standalone electric vehicle and infrastructure fund (SB447, 2022) died on the table; the 2023 trailer created the EV registration surcharge (79:475) instead - the money flowed to roads, not charging.

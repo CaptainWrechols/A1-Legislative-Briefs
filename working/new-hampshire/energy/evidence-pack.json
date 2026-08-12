@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:50:48.923754+00:00",
+  "generated_at": "2026-08-12T18:51:51.691497+00:00",
   "issue": "new-hampshire-03-energy",
   "sessions": [
     2020,
@@ -673,7 +673,7 @@
     },
     {
       "bill_key": "2026:HB219",
-      "plain_topic": "Would have changed changes to the minimum electric renewable portfolio standards; interim study.",
+      "plain_topic": "Would have changed the minimum electric renewable portfolio standards; interim study.",
       "vote": "House 175-152 (OTPA)",
       "outcome": "sent to interim study by the Senate"
     }
@@ -688,6 +688,11 @@
         "bills": 33
       },
       {
+        "name": "David Watters",
+        "party": "D",
+        "bills": 33
+      },
+      {
         "name": "Michael Vose",
         "party": "R",
         "bills": 22
@@ -696,11 +701,6 @@
         "name": "Kevin Avard",
         "party": "R",
         "bills": 20
-      },
-      {
-        "name": "David Watters",
-        "party": "D",
-        "bills": 19
       },
       {
         "name": "Rebecca McWilliams",
@@ -713,23 +713,18 @@
         "bills": 15
       },
       {
-        "name": "David H Watters",
-        "party": null,
-        "bills": 14
-      },
-      {
         "name": "Timothy Lang",
         "party": "R",
         "bills": 11
       },
       {
-        "name": "Howard Pearl",
-        "party": "r",
-        "bills": 8
-      },
-      {
         "name": "Thomas Cormen",
         "party": "D",
+        "bills": 9
+      },
+      {
+        "name": "Howard Pearl",
+        "party": "R",
         "bills": 8
       },
       {
@@ -741,6 +736,11 @@
         "name": "Wendy Thomas",
         "party": "D",
         "bills": 7
+      },
+      {
+        "name": "Jeb Bradley",
+        "party": null,
+        "bills": 6
       }
     ],
     "cross_party_sponsored_bills": [
@@ -748,6 +748,7 @@
       "2025:HB342",
       "2025:HB450",
       "2025:HB541",
+      "2025:HB658",
       "2025:HB672",
       "2025:HB696",
       "2025:HB710",
@@ -785,7 +786,7 @@
       "2026:SB599",
       "2026:SB628"
     ],
-    "cross_party_count": 40
+    "cross_party_count": 41
   },
   "hb2_crosswalk": {
     "cycles": [
@@ -25175,7 +25176,7 @@
       "session_year": 2026,
       "identifier": "HB219",
       "title": "(New Title) relative to changes to the minimum electric renewable portfolio standards.",
-      "plain_topic": "Would have changed changes to the minimum electric renewable portfolio standards; interim study.",
+      "plain_topic": "Would have changed the minimum electric renewable portfolio standards; interim study.",
       "theme": "Renewable generation and the RPS: solar, wind, hydro, biomass",
       "relevance": "core",
       "disposition": "interim_study",
