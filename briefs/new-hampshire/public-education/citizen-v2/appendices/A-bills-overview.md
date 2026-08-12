@@ -1,0 +1,1055 @@
+# Appendix A — Every bill in the set
+
+One row per bill found by the public-education search, 2020–2026. 'Tier' marks how central the bill is: core (K-12 education policy), adjacent (touches the issue), or context (found by the keywords but not a K-12 education bill; kept for audit and excluded from headline counts). Results come from official dockets and chaptered texts; Appendix E has each bill's path.
+
+| Year | Bill | Plain topic | Theme | Result | Tier |
+|---|---|---|---|---|---|
+| 2020 | HB1105 | Would have changed warrant-article rules for official-ballot town and school district meetings. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2020 | HB1118 | Would have studied air quality in school buildings. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2020 | HB1127 | Would have set school lunch payment policies protecting children with meal debt. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2020 | HB1136 | Would have changed school superintendents' duties on criminal history checks. | Teachers and school staff: certification, pay, and background checks | Did not pass | core |
+| 2020 | HB1148 | Would have addressed display of the national motto in schools. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2020 | HB1159 | Cyberbullying and doxxing of public servants; criminal law matched by 'bullying'. | — | Interim study | context |
+| 2020 | HB1163 | Would have required school documents and software to offer a non-binary student identifier. | Students: discipline, safety, health, meals, and wellbeing | Interim study | adjacent |
+| 2020 | HB1182 | Omnibus motor-vehicle law whose education piece appropriated money for the Hudson career and technical education center (became law). | Career and technical education and workforce pathways | Became law | adjacent |
+| 2020 | HB1185 | Would have studied New Hampshire's existing apprenticeship programs. | Career and technical education and workforce pathways | Did not pass | adjacent |
+| 2020 | HB1206 | Would have changed the membership of the state board of education. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2020 | HB1216 | Impaired-driver education program; motor-vehicle law, not schooling. | — | Did not pass | context |
+| 2020 | HB1219 | Would have studied reducing local health-care costs for educators. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2020 | HB1231 | Would have studied ways to inform parents about non-core topics discussed in school. | Parental rights, transparency, and school information | Did not pass | adjacent |
+| 2020 | HB1232 | Would have shifted the burden of proof in special education hearings; interim study. | Special education: services, costs, and rights | Interim study | core |
+| 2020 | HB1243 | Degree-granting authority of educational institutions; higher-education regulation. | — | Did not pass | context |
+| 2020 | HB1251 | Would have restricted school sports participation to student-athletes' sex at birth. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2020 | HB1268 | Student-loan forgiveness study; postsecondary debt policy. | — | Did not pass | context |
+| 2020 | HB1282 | Would have eased changing a pupil's school or assignment for manifest educational hardship; interim study. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Interim study | core |
+| 2020 | HB1285 | Would have addressed possession of firearms on school property. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2020 | HB1306 | Would have addressed recitation of the Lord's Prayer in public elementary schools. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2020 | HB1321 | Would have studied the reporting criteria of chartered public schools. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2020 | HB1323 | Would have changed the statewide assessment report. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2020 | HB1327 | Would have changed the authority of the department of education. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2020 | HB1328 | Would have eased changing a pupil's school or assignment for manifest educational hardship. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2020 | HB1329 | Would have set school records retention and disposition rules. | Parental rights, transparency, and school information | Did not pass | adjacent |
+| 2020 | HB1334 | Would have addressed religious activities of teachers and students in public schools. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2020 | HB1335 | Would have created private rights of action over pupil safety violations. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2020 | HB1336 | Would have required disclosure of high school student assessment information. | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2020 | HB1337 | Would have let parents opt children out of armed assailant drills. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2020 | HB1344 | Would have reimbursed transportation costs for students attending career and technical education centers; interim study. | Career and technical education and workforce pathways | Interim study | core |
+| 2020 | HB1368 | Would have changed how at-large school board and budget committee vacancies are filled in cooperative districts. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2020 | HB1369 | Would have required acceptance of high school course credits from certain schools and education agencies. | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2020 | HB1373 | Styrofoam-use study covering schools, hospitals, and government buildings; environmental procurement. | — | Did not pass | context |
+| 2020 | HB1412 | Would have required secondary schools to grant educational credit for certain completed courses. | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2020 | HB1423 | Would have changed reporting on education tax credit scholarships. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2020 | HB1425 | Would have directed a state advisory to schools on PFAS and polystyrene food containers. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2020 | HB1432 | Would have changed competency assessments. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2020 | HB1435 | Would have repealed the powers of the state board of education. | School governance: boards, districts, budgets, and consolidation | Did not pass | core |
+| 2020 | HB1454 | Would have changed the state board's alternative learning credit rules; vetoed. | Testing, accountability, and measures of student success | Vetoed | core |
+| 2020 | HB1459 | Would have regulated non-academic surveys given to public and charter school students. | Parental rights, transparency, and school information | Did not pass | core |
+| 2020 | HB1463 | Would have allowed operation of mixed-use school buses. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2020 | HB1469 | Would have addressed hazing at educational institutions; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | adjacent |
+| 2020 | HB1470 | Would have let schools produce and sell small amounts of maple syrup for educational purposes. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2020 | HB1473 | Would have required every school to have a special education parent advisory council. | Special education: services, costs, and rights | Did not pass | core |
+| 2020 | HB1488 | Employment and enrollment housing conditions; housing policy. | — | Did not pass | context |
+| 2020 | HB1492 | Would have created a tax on retail electronics sales to fund education; killed 320-11. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | adjacent |
+| 2020 | HB1500 | Student loan bill of rights; postsecondary debt policy. | — | Did not pass | context |
+| 2020 | HB1501 | Would have studied financial literacy education across generations. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2020 | HB1509 | Emergency threat protection orders at postsecondary institutions; higher education. | — | Interim study | context |
+| 2020 | HB1512 | Would have reduced school food waste and addressed child hunger; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | adjacent |
+| 2020 | HB1520 | Health-professionals program law whose education piece set state board rulemaking on criminal history checks (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2020 | HB1527 | Would have required radon testing in all public schools. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2020 | HB1549 | Would have created an office of school counseling and psychology with a coordinator position. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2020 | HB1558 | Omnibus student-discipline law: behavioral needs support, kindergarten funding, school violence data, head-injury policies, and abuse-prevention education (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | core |
+| 2020 | HB1576 | Targeted workforce development program; adult labor policy. | — | Interim study | context |
+| 2020 | HB1582 | Veterans' tuition and access law; higher-education benefits. | — | Became law | context |
+| 2020 | HB1635 | Would have required climate education in grade and secondary schools; interim study. | Curriculum, instruction, and classroom content | Interim study | adjacent |
+| 2020 | HB1636 | Would have addressed special education services for children in charter schools. | Special education: services, costs, and rights | Did not pass | core |
+| 2020 | HB1652 | Ski-ticket meals tax for scholarships; tax bill with a postsecondary scholarship rider. | — | Did not pass | context |
+| 2020 | HB1681 | Would have studied school meal programs in public and publicly funded schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2020 | HB1682 | Would have required schools to maintain food allergy plans; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | adjacent |
+| 2020 | HB1686 | Would have changed the Medicaid to schools program. | Special education: services, costs, and rights | Did not pass | adjacent |
+| 2020 | HB1687 | Would have required audio and video surveillance on special education buses. | Special education: services, costs, and rights | Did not pass | adjacent |
+| 2020 | HB1691 | Would have changed kindergarten adequate education grants. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2020 | HB1698 | Would have guaranteed students with disabilities equal access to co-curricular activities. | Special education: services, costs, and rights | Did not pass | core |
+| 2020 | HB1715 | Would have changed teacher renomination rules. | Teachers and school staff: certification, pay, and background checks | Did not pass | core |
+| 2020 | HB176 | Would have funded school building aid grants with an appropriation. | School buildings, facilities, and transportation | Did not pass | core |
+| 2020 | HB184 | Would have counted kindergarteners fully in enrollment and ended keno-dependent kindergarten funding. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2020 | HB251 | Would have studied criminal records check policies for nonpublic schools receiving public funds. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2020 | HB327 | Would have funded the math learning communities program partnering community colleges with high schools. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2020 | HB352 | Wastewater state aid appropriation; municipal infrastructure. | — | Did not pass | context |
+| 2020 | HB383 | Would have prohibited unlawful discrimination in public and nonpublic schools; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | core |
+| 2020 | HB414 | Would have required notifying parents of bullying incidents. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2020 | HB447 | Would have changed school calendar day requirements. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2020 | HB551 | Would have created a school funding commission with an appropriation. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2020 | HB626 | Would have changed penalties for overtaking a stopped school bus. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2020 | HB677 | Would have rewritten student discipline law around behavioral needs, with an appropriation. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2020 | HB678 | Would have required full state funding of the cost of an adequate education. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2020 | HB686 | Would have rewritten interim adequacy funding and extended the interest and dividends tax to capital gains. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2020 | HB709 | Would have changed the formula for determining adequate education funding. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2020 | HB716 | Would have covered transportation costs of certain pupils with an appropriation; interim study. | School buildings, facilities, and transportation | Interim study | core |
+| 2020 | HB721 | Would have addressed special education in towns with no public schools. | Special education: services, costs, and rights | Did not pass | core |
+| 2020 | HB723 | Would have required criminal history checks for teaching certification applicants; interim study. | Teachers and school staff: certification, pay, and background checks | Interim study | core |
+| 2020 | SB171 | Would have appropriated money to remove lead from school drinking water pipes. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2020 | SB302 | Would have changed suspension and expulsion rules for pupils. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2020 | SB421 | National guard education assistance and foster-care tuition waivers; higher-education benefits. | — | Did not pass | context |
+| 2020 | SB435 | Would have appropriated money for the Hudson career and technical education center. | Career and technical education and workforce pathways | Did not pass | core |
+| 2020 | SB454 | Would have changed the dyslexia screening date. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2020 | SB467 | Teaching-hospital procedures; health regulation matched by 'teaching'. | — | Did not pass | context |
+| 2020 | SB480 | Would have restricted school sports participation to student-athletes' sex at birth (Senate version). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2020 | SB481 | Would have let chartered public schools use unused school district facilities. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2020 | SB514 | Would have changed the state board's alternative learning credit rules. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2020 | SB515 | Would have required a discrimination prevention policy in schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2020 | SB529 | Higher-education scholarship and student debt relief programs; postsecondary. | — | Did not pass | context |
+| 2020 | SB533 | Would have studied the benefits of extended school recess. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2020 | SB534 | Would have set state board rulemaking on criminal history checks. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2020 | SB535 | Would have authorized school districts to adopt community service programs. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2020 | SB553 | Would have changed school employee and volunteer criminal history checks. | Teachers and school staff: certification, pay, and background checks | Did not pass | core |
+| 2020 | SB556 | Would have addressed violence in schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2020 | SB557 | Would have changed the advisory council on career and technical education. | Career and technical education and workforce pathways | Did not pass | adjacent |
+| 2020 | SB558 | Extended the reporting date of the commission to study school funding (became law). | School funding: adequacy, SWEPT, and the education trust fund | Became law | adjacent |
+| 2020 | SB573 | Would have addressed criminal threats to school safety. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2020 | SB582 | Would have created a commission separating the cost of education from the cost of care for children in residential facilities. | Special education: services, costs, and rights | Did not pass | adjacent |
+| 2020 | SB583 | Would have added climate and environmental science to the adequate education criteria. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2020 | SB584 | Would have required policies for students with head injuries. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2020 | SB585 | Would have changed requirements for the one-year certificate of eligibility to teach. | Teachers and school staff: certification, pay, and background checks | Did not pass | core |
+| 2020 | SB599 | Would have required testing for lead in water in schools and child care facilities. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2020 | SB622 | Insurance claim review standards; matched by 'minimum standards'. | — | Did not pass | context |
+| 2020 | SB624 | Would have created a school marshals program (armed staff volunteers). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2020 | SB625 | Would have changed kindergarten funding. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2020 | SB65 | Would have set the start date of the school year. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2020 | SB665 | Would have built a children's system of care and student wellness framework. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2020 | SB675 | Would have changed school board authority over year-end fund balances. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2020 | SB684 | Extended the Medicaid to schools program for school-based health services (became law). | Special education: services, costs, and rights | Became law | adjacent |
+| 2020 | SB711 | Would have required child sexual abuse prevention education and training. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2020 | SB727 | Would have advanced Holocaust and genocide education, with a study commission. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2020 | SB733 | Would have set penalties for schools failing to file department of education reports. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2020 | SB747 | Would have let the education department spend federal funds to expand charter schools. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2020 | SB760 | Would have required criminal background checks for school bus drivers. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2020 | SJR1 | Would have prohibited implementing certain state board of education rules. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2021 | CACR3 | Constitutional amendment allowing tax money to fund religious educational institutions. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2021 | HB110 | Would have changed the distribution of adequate education grants. | School funding: adequacy, SWEPT, and the education trust fund | See next-year record | core |
+| 2021 | HB136 | Would have required school documents and software to offer a non-binary student identifier. | Students: discipline, safety, health, meals, and wellbeing | See next-year record | adjacent |
+| 2021 | HB140 | Created private rights of action over pupil safety violations (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | core |
+| 2021 | HB152 | Rewrote how cooperative school districts apportion costs among member towns (became law). | School governance: boards, districts, budgets, and consolidation | Became law | core |
+| 2021 | HB182 | Required approval of coursework completed at other approved schools (became law). | Testing, accountability, and measures of student success | Became law | adjacent |
+| 2021 | HB194 | Governed release of student assessment information and data (became law). | Testing, accountability, and measures of student success | Became law | adjacent |
+| 2021 | HB198 | Would have created an exception to the opportunity for public education without discrimination. | Students: discipline, safety, health, meals, and wellbeing | See next-year record | adjacent |
+| 2021 | HB20 | The original standalone education freedom account bill; the program passed inside the 2021 budget trailer instead. | School choice: EFAs, charter schools, tuitioning, and open enrollment | See next-year record | core |
+| 2021 | HB202 | Would have set school lunch payment policies protecting children with meal debt. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2021 | HB203 | Would have studied school meal programs in public and publicly funded schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2021 | HB214 | Would have changed school building aid grants. | School buildings, facilities, and transportation | See next-year record | core |
+| 2021 | HB215 | Would have let school districts contract with independent and private schools. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2021 | HB242 | Would have rewritten the content of an adequate education; vetoed, override failed 165-182. | Curriculum, instruction, and classroom content | Vetoed | core |
+| 2021 | HB257 | Would have prohibited political advocacy in public schools. | Curriculum, instruction, and classroom content | See next-year record | adjacent |
+| 2021 | HB261 | Addressed apprenticeship programs in trade and industry (became law). | Career and technical education and workforce pathways | Became law | adjacent |
+| 2021 | HB267 | Would have set construction standards for schools. | School buildings, facilities, and transportation | See next-year record | adjacent |
+| 2021 | HB276 | Would have required menstrual hygiene products in schools. | Students: discipline, safety, health, meals, and wellbeing | See next-year record | adjacent |
+| 2021 | HB278 | Let chartered public schools use unused district facilities (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2021 | HB282 | Governed private schools approved as tuition programs (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2021 | HB304 | Created a study committee on funding tuition and transportation for career and technical education (became law). | Career and technical education and workforce pathways | Became law | core |
+| 2021 | HB319 | University civics naturalization test requirement; higher education. | — | See next-year record | context |
+| 2021 | HB320 | Required a civics competency assessment for high school graduation (became law). | Testing, accountability, and measures of student success | Became law | core |
+| 2021 | HB321 | Required annual district reports on gifted and talented students (became law). | Testing, accountability, and measures of student success | Became law | adjacent |
+| 2021 | HB323 | Would have changed the statewide student assessment report. | Testing, accountability, and measures of student success | See next-year record | core |
+| 2021 | HB339 | Would have studied air quality in school buildings. | School buildings, facilities, and transportation | See next-year record | adjacent |
+| 2021 | HB349 | Would have changed certification requirements for school nurses. | Teachers and school staff: certification, pay, and background checks | See next-year record | adjacent |
+| 2021 | HB362 | Student voting domicile; election law. | — | See next-year record | context |
+| 2021 | HB388 | Eased changing a pupil's school or assignment for manifest educational hardship (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2021 | HB401 | Changed superintendents' duties on criminal history checks (became law). | Teachers and school staff: certification, pay, and background checks | Became law | core |
+| 2021 | HB409 | Changed how school board and district office vacancies are filled (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2021 | HB422 | Would have changed the required U.S. and New Hampshire government and civics course. | Curriculum, instruction, and classroom content | See next-year record | core |
+| 2021 | HB429 | College student voting; election law. | — | Did not pass | context |
+| 2021 | HB432 | Expanded the list of offenses that prevent employment in a school (became law). | Teachers and school staff: certification, pay, and background checks | Became law | core |
+| 2021 | HB441 | Would have required the Universal Declaration of Human Rights displayed in public schools. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2021 | HB442 | Set penalties for schools failing to file department of education reports (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2021 | HB455 | Would have let parents enroll a child in the public school of their choice (open enrollment). | School choice: EFAs, charter schools, tuitioning, and open enrollment | See next-year record | core |
+| 2021 | HB458 | Would have required menstrual products for students in need. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2021 | HB464 | Extended and adjusted the commission to study school funding (became law). | School funding: adequacy, SWEPT, and the education trust fund | Became law | adjacent |
+| 2021 | HB497 | School district retirement-system opt-out for chief administrators; pension mechanics. | — | Did not pass | context |
+| 2021 | HB500 | Reduced school food waste and addressed child hunger (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2021 | HB504 | Would have changed the statewide education property tax and homeowner relief program. | School funding: adequacy, SWEPT, and the education trust fund | See next-year record | core |
+| 2021 | HB521 | Would have changed the chartered public school annual grant for leased space. | School choice: EFAs, charter schools, tuitioning, and open enrollment | See next-year record | core |
+| 2021 | HB544 | The standalone divisive concepts bill; the teaching ban passed inside the 2021 budget trailer instead. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2021 | HB569 | Vocational training in drug courts; criminal-justice programming. | — | Did not pass | context |
+| 2021 | HB575 | Cosmetology apprenticeship licensure; occupational licensing. | — | Did not pass | context |
+| 2021 | HB581 | Shifted the burden of proof to school districts in special education hearings (became law). | Special education: services, costs, and rights | Became law | core |
+| 2021 | HB594 | Would have changed the school building aid program. | School buildings, facilities, and transportation | See next-year record | core |
+| 2021 | HB607 | Would have created local education savings accounts for students. | School choice: EFAs, charter schools, tuitioning, and open enrollment | See next-year record | core |
+| 2021 | HB608 | Would have changed the formula for determining adequate education funding. | School funding: adequacy, SWEPT, and the education trust fund | See next-year record | core |
+| 2021 | HB609 | Created the innovation schools program letting schools seek regulatory flexibility (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2021 | HB612 | Would have changed the penalty for overtaking a stopped school bus. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2021 | HB613 | Would have changed state special education aid and pooled-risk cost recovery. | Special education: services, costs, and rights | See next-year record | core |
+| 2021 | HB623 | Would have changed education funding. | School funding: adequacy, SWEPT, and the education trust fund | See next-year record | core |
+| 2021 | HB67 | Would have changed warrant-article rules for official-ballot town and school district meetings. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2021 | HB69 | Authorized schools to display the national and state mottos (became law). | Curriculum, instruction, and classroom content | Became law | adjacent |
+| 2021 | HB71 | Governed school district emergency special meetings (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2021 | HB96 | Would have created an office of school counseling and psychology with a coordinator position. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2021 | HCR3 | Would have declared the Claremont school-funding mandates non-binding on the legislature. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2021 | SB108 | Would have governed school resource officers. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2021 | SB130 | The Senate's standalone education freedom account bill; the program passed inside the 2021 budget trailer instead. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2021 | SB135 | Would have changed the calculation of the cost of an adequate education. | School funding: adequacy, SWEPT, and the education trust fund | See next-year record | core |
+| 2021 | SB145 | Would have made a temporary change in the school funding formula. | School funding: adequacy, SWEPT, and the education trust fund | See next-year record | core |
+| 2021 | SB147 | Omnibus law on student aid, the central registry, pupil transportation, and special education costs (became law). | Special education: services, costs, and rights | Became law | adjacent |
+| 2021 | SB148 | Omnibus law on vocational and career education, environmental education, and sports-injury emergency plans (became law). | Career and technical education and workforce pathways | Became law | adjacent |
+| 2021 | SB158 | Would have changed the formula for funding an adequate education. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2021 | SB20 | Extended one-year certificates of eligibility to teach (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2021 | SB50 | Would have changed teacher renomination after experienced-educator certification. | Teachers and school staff: certification, pay, and background checks | Did not pass | core |
+| 2021 | SB75 | Would have added school district data to the state COVID-19 dashboard. | Students: discipline, safety, health, meals, and wellbeing | See next-year record | adjacent |
+| 2021 | SB81 | Would have adopted omnibus chartered public school legislation. | School choice: EFAs, charter schools, tuitioning, and open enrollment | See next-year record | core |
+| 2021 | SB82 | Would have funded kindergarten adequate education grants with an appropriation. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2021 | SR3 | Organizational Senate resolution on counting district returns; matched by 'instruction'. | — | Adopted (resolution) | context |
+| 2021 | SR7 | Organizational Senate resolution on counting the Governor and Council vote; matched by 'instruction'. | — | Adopted (resolution) | context |
+| 2022 | HB1015 | Would have set school district policies for objectionable material. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2022 | HB1035 | Widened exemptions from school vaccine mandates (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2022 | HB1047 | Would have changed the chartered public school joint legislative oversight committee. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2022 | HB1051 | Would have changed state board rules for alternative, extended learning, and work-based credit. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2022 | HB1058 | Would have set a minimum time for public school students to eat lunch. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2022 | HB1060 | Environmental educators' decal plates; specialty plates. | — | Did not pass | context |
+| 2022 | HB1072 | Would have criminalized denying an elected school district official access to district facilities or documents. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2022 | HB1074 | Required notice to chartered public schools of special education services meetings (became law). | Special education: services, costs, and rights | Became law | core |
+| 2022 | HB1090 | Would have changed the 2021 teaching-on-discrimination (divisive concepts) law. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2022 | HB110 | Would have changed the distribution of adequate education grants. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2022 | HB1113 | Would have barred the education department and state board from limiting schools' instructional options such as remote learning. | Technology in schools: devices, data privacy, and online learning | Did not pass | core |
+| 2022 | HB1114 | Would have regulated education service providers under the EFA program. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB1115 | Would have required records of educational attainment under the EFA program. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB1120 | Would have regulated education service providers under the EFA program (second version). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB1125 | Rewrote school emergency plan requirements (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2022 | HB1131 | Would have made school facial-covering policies advisory only; vetoed. | Students: discipline, safety, health, meals, and wellbeing | Vetoed | core |
+| 2022 | HB1132 | Streamlined applications for charter conversion schools (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2022 | HB1135 | Required a performance audit of the education freedom account program (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2022 | HB1137 | Would have redefined school boards' duty to provide an education; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | core |
+| 2022 | HB1141 | Would have addressed special education services for children in chartered public schools. | Special education: services, costs, and rights | Did not pass | core |
+| 2022 | HB1144 | Would have required public schools to teach labor history. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2022 | HB1152 | Would have required verification of eligible students under the EFA program. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB1164 | Revised the agriculture in the classroom committee (became law). | Curriculum, instruction, and classroom content | Became law | adjacent |
+| 2022 | HB1169 | Would have guaranteed public comment during school board meetings. | Parental rights, transparency, and school information | Did not pass | core |
+| 2022 | HB1190 | Would have limited state board rulemaking to federal-compliance minimums. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2022 | HB1193 | Would have regulated chartered public school fees and enrollment policies. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2022 | HB1195 | Would have guaranteed public comment periods at school district and state board meetings; died between the chambers. | Parental rights, transparency, and school information | Did not pass | core |
+| 2022 | HB1196 | Would have changed school financial reports of public academies. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2022 | HB1198 | Would have constrained education department rules on school culture and climate. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2022 | HB1202 | Allowed contract carriers to transport pupils to school activities (became law). | School buildings, facilities, and transportation | Became law | adjacent |
+| 2022 | HB1212 | Would have regulated charges for chartered public school transportation. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2022 | HB1222 | Would have prohibited coercion or interference in grading and assessment in public schools. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2022 | HB1223 | Would have set meeting-attendance requirements for elected school board and budget committee members; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | adjacent |
+| 2022 | HB1229 | Would have studied school meal programs in public and publicly funded schools; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | adjacent |
+| 2022 | HB1234 | Required criminal background checks for teaching credential applicants (became law). | Teachers and school staff: certification, pay, and background checks | Became law | core |
+| 2022 | HB1236 | Changed the legislative oversight committee for the education improvement and assessment program (became law). | Testing, accountability, and measures of student success | Became law | adjacent |
+| 2022 | HB1241 | Would have barred districts from mandating COVID-19 vaccination for attendance; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | adjacent |
+| 2022 | HB1243 | Would have addressed alternative transportation of public school students. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2022 | HB1244 | Required parental consent for medical and dental treatment of children in schools (became law). | Parental rights, transparency, and school information | Became law | core |
+| 2022 | HB1255 | Would have restricted teachers' advocacy of certain doctrines ('teachers' loyalty'). | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2022 | HB1256 | Military-affairs omnibus with a regenerative-manufacturing workforce appropriation (became law). | — | Became law | context |
+| 2022 | HB1259 | Would have changed election and resignation rules for school board and budget committee members. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2022 | HB1261 | Would have prohibited Native American mascots in public schools and colleges. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2022 | HB1263 | Added health, PE, wellness, and personal finance literacy to prescribed studies (became law). | Curriculum, instruction, and classroom content | Became law | core |
+| 2022 | HB1276 | Would have allowed cost-per-student information in district budgets and warrant articles. | Parental rights, transparency, and school information | Did not pass | adjacent |
+| 2022 | HB1283 | Would have addressed tax liability of education freedom account payments. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2022 | HB1295 | Would have required reports on classroom-recording and observer policies; interim study. | Parental rights, transparency, and school information | Interim study | adjacent |
+| 2022 | HB1298 | Would have changed eligibility for the education tax credit. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2022 | HB1311 | Barred people charged with or convicted of certain assault or drug crimes from school employment (became law). | Teachers and school staff: certification, pay, and background checks | Became law | core |
+| 2022 | HB1329 | Would have expanded alternative programs for credit toward high school graduation. | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2022 | HB1336 | Would have changed state board rulemaking on educator ethics-code violations. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2022 | HB1343 | Paraprofessional legal services; occupational licensing matched by 'paraprofessional'. | — | Became law | context |
+| 2022 | HB1355 | Would have required scholarship organizations to refer suspected EFA fraud to the attorney general. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB136 | Would have required school documents and software to offer a non-binary student identifier. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2022 | HB1366 | Would have addressed cooperative school board reapportionment; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | adjacent |
+| 2022 | HB1367 | Required civics instruction in schools (became law). | Curriculum, instruction, and classroom content | Became law | core |
+| 2022 | HB1371 | Would have addressed district policies on student face masks. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2022 | HB1372 | Would have changed teacher certification requirements. | Teachers and school staff: certification, pay, and background checks | Did not pass | core |
+| 2022 | HB1373 | Would have defined the student's best interest for a change of school or assignment; interim study. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Interim study | core |
+| 2022 | HB1376 | Would have addressed EFA participation by students with disabilities. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB1381 | Allowed student members on school boards (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2022 | HB1393 | Would have enabled school district budget caps. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2022 | HB1398 | Created a study committee on centralized criminal history checks in education (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2022 | HB1399 | Would have changed school district withdrawal from cooperative districts; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | core |
+| 2022 | HB1402 | Would have included charter schools in district bond issuance votes. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2022 | HB1421 | Set lead limits and testing for school drinking water (became law). | School buildings, facilities, and transportation | Became law | adjacent |
+| 2022 | HB1428 | Would have addressed provision of special education services by chartered public schools. | Special education: services, costs, and rights | Did not pass | core |
+| 2022 | HB1431 | The parental bill of rights; passed both chambers in different forms and died between them. | Parental rights, transparency, and school information | Did not pass | core |
+| 2022 | HB1434 | Would have required school curriculum materials to be available to parents; interim study. | Parental rights, transparency, and school information | Interim study | core |
+| 2022 | HB1453 | Would have addressed transportation to chartered public schools. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2022 | HB1499 | Would have made charter schools eligible for state school building aid; interim study. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Interim study | adjacent |
+| 2022 | HB1513 | Redefined 'child with a disability' for special education purposes (became law). | Special education: services, costs, and rights | Became law | core |
+| 2022 | HB1516 | Would have changed the source of funds for education freedom accounts. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB1521 | Would have required the education department to give legislators written copies of education laws; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | adjacent |
+| 2022 | HB1533 | Would have changed the health education curriculum. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2022 | HB1561 | Would have set school nutrition standards. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2022 | HB1564 | Would have required school districts to provide breakfast. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2022 | HB1574 | University out-of-state tuition and voting; higher education. | — | Did not pass | context |
+| 2022 | HB1575 | University-system tuition waivers; higher education (became law). | — | Became law | context |
+| 2022 | HB1576 | Would have repealed the 2021 discrimination-in-education (divisive concepts) law. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2022 | HB1588 | Would have addressed students at schools mandating masks without an emergency order. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2022 | HB1594 | Helped students with disabilities register to vote (became law). | Special education: services, costs, and rights | Became law | adjacent |
+| 2022 | HB1603 | Would have defined school information as governmental records under the right-to-know law. | Parental rights, transparency, and school information | Did not pass | core |
+| 2022 | HB1605 | Would have required SAUs to keep 5-year enrollment projections. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2022 | HB1607 | Would have prohibited unlawful discrimination in public and nonpublic schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2022 | HB1624 | Guaranteed students with disabilities access to co-curricular activities, with an appropriation (became law). | Special education: services, costs, and rights | Became law | core |
+| 2022 | HB1626 | Changed the unique pupil identification system (became law). | Technology in schools: devices, data privacy, and online learning | Became law | adjacent |
+| 2022 | HB1627 | Created an EFA program administrator in the education department (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2022 | HB1630 | Would have required a half-year high school philosophy course; interim study. | Curriculum, instruction, and classroom content | Interim study | adjacent |
+| 2022 | HB1632 | Would have required civil rights education in public schools. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2022 | HB1633 | Would have addressed COVID-19 vaccination requirements for school attendance. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2022 | HB1637 | Would have surveyed parents choosing education freedom accounts. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2022 | HB1638 | Would have changed grievance procedures under the divisive-concepts discrimination law. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2022 | HB1639 | The youth risk behavior survey opt-in bill; passed both chambers in different forms and died between them. | Parental rights, transparency, and school information | Did not pass | core |
+| 2022 | HB1646 | Would have changed representation on cooperative school district boards. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2022 | HB1648 | College peer support groups; higher education. | — | Did not pass | context |
+| 2022 | HB1649 | Would have extended unique pupil identification to EFA students. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2022 | HB1653 | Protected military families' education and enrollment options (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2022 | HB1655 | Would have added natural-immunity content to the health and wellness curriculum. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2022 | HB1657 | Would have created a farm-to-school reimbursement program. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2022 | HB1660 | Would have funded school lunches through a meals-for-students fund. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2022 | HB1661 | Omnibus law whose education pieces created regional CTE agreements and the first extraordinary need grant (became law). | School funding: adequacy, SWEPT, and the education trust fund | Became law | core |
+| 2022 | HB1663 | Changed requirements for home education students (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2022 | HB1664 | Would have required background checks at publicly funded non-public schools and providers; interim study. | Teachers and school staff: certification, pay, and background checks | Interim study | adjacent |
+| 2022 | HB1669 | Would have moved EFA administration to the education department. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB1670 | Would have governed EFA funds after a student leaves the program; tabled on a 188-163 division vote. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB1671 | Rewrote the content of an adequate education (became law). | Curriculum, instruction, and classroom content | Became law | core |
+| 2022 | HB1672 | Would have addressed misuse of education freedom account funds. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB1676 | Would have made incentive grants for districts improving assessment scores; interim study. | Testing, accountability, and measures of student success | Interim study | core |
+| 2022 | HB1678 | Would have changed administration of the EFA program. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB1679 | Would have provided for dissolution and repeal of cooperative school districts; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | core |
+| 2022 | HB1680 | Would have created a foundation opportunity budget program for funding public education; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2022 | HB1683 | Would have repealed the education freedom account program. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB1684 | Would have limited EFA funding to budgeted amounts. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB1685 | Would have created a school facility planning and development program. | School buildings, facilities, and transportation | Did not pass | core |
+| 2022 | HB198 | Would have created an exception to the opportunity for public education without discrimination. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2022 | HB20 | The standalone EFA bill's second-year record; the program had passed in the 2021 trailer. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB214 | Would have required a public school facility condition assessment and changed building aid grants; interim study. | School buildings, facilities, and transportation | Interim study | core |
+| 2022 | HB257 | Would have prohibited political advocacy in public schools. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2022 | HB267 | Would have set construction standards for schools. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2022 | HB276 | Would have required menstrual hygiene products in schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2022 | HB319 | University civics test; higher education; vetoed. | — | Vetoed | context |
+| 2022 | HB323 | Would have changed the statewide student assessment report. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2022 | HB339 | Would have studied air quality in school buildings. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2022 | HB349 | Would have changed certification requirements for school nurses. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2022 | HB362 | Student voting domicile; election law. | — | Did not pass | context |
+| 2022 | HB422 | Would have changed the required government and civics course. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2022 | HB455 | Would have let parents enroll a child in the public school of their choice (open enrollment). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB504 | Would have changed the statewide education property tax and homeowner relief program; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2022 | HB521 | Would have changed the chartered public school annual grant for leased space. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB594 | Would have changed the school building aid program. | School buildings, facilities, and transportation | Did not pass | core |
+| 2022 | HB607 | Would have created local education savings accounts for students. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | HB608 | Would have changed the formula for determining adequate education funding. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2022 | HB613 | Would have changed state special education aid and pooled-risk cost recovery. | Special education: services, costs, and rights | Did not pass | core |
+| 2022 | HB623 | Would have changed education funding; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2022 | SB135 | Would have changed the calculation of the cost of an adequate education. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2022 | SB145 | Would have made a temporary change in the school funding formula. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2022 | SB231 | Would have let students attending out-of-state schools attend in New Hampshire; interim study. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Interim study | adjacent |
+| 2022 | SB232 | Would have changed permissible uses of school district contingency funds. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2022 | SB233 | Required water bottle filling stations in schools (became law). | School buildings, facilities, and transportation | Became law | adjacent |
+| 2022 | SB234 | Put the National Suicide Prevention Lifeline on student ID cards (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2022 | SB235 | Would have preserved schools' authority to offer multiple instruction options including remote learning. | Technology in schools: devices, data privacy, and online learning | Did not pass | core |
+| 2022 | SB236 | Created a study committee on teacher shortages and recruitment incentives (became law). | Teachers and school staff: certification, pay, and background checks | Became law | core |
+| 2022 | SB237 | Would have changed participation rules in the EFA program. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | SB238 | Governed special education services in chartered public schools (became law). | Special education: services, costs, and rights | Became law | core |
+| 2022 | SB263 | Would have created a youth environmental education and conservation council. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2022 | SB276 | Regenerative-manufacturing workforce reporting; adult workforce program (became law). | — | Became law | context |
+| 2022 | SB298 | Would have repealed the 2021 discrimination-in-education (divisive concepts) law (Senate version). | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2022 | SB304 | Would have amended the divisive-concepts discrimination law. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2022 | SB307 | Boater education certificates; recreational licensing (became law). | — | Became law | context |
+| 2022 | SB326 | Would have planned an office of early childhood. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2022 | SB350 | Set state board rulemaking on educator applicant checks and licensing standards (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2022 | SB351 | Would have required performance and financial reporting by publicly funded private and religious schools. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | SB352 | Required substitute teacher criminal history checks (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2022 | SB353 | Restructured the education professional standards board (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2022 | SB381 | Created the office of the advocate for special education (became law). | Special education: services, costs, and rights | Became law | core |
+| 2022 | SB386 | Changed state adequacy grant determination and charter tuition amounts (became law). | School funding: adequacy, SWEPT, and the education trust fund | Became law | core |
+| 2022 | SB392 | Insanity and competency restoration; criminal law matched by 'competency'. | — | Did not pass | context |
+| 2022 | SB394 | Extended special education eligibility and funding to age 22 (became law). | Special education: services, costs, and rights | Became law | core |
+| 2022 | SB410 | Guaranteed public comment periods at school district and state board meetings (became law). | Parental rights, transparency, and school information | Became law | core |
+| 2022 | SB417 | Would have piloted electric school buses. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2022 | SB420 | Created extraordinary need grants and raised special-education adequacy aid (became law). | School funding: adequacy, SWEPT, and the education trust fund | Became law | core |
+| 2022 | SB421 | Extended dual and concurrent enrollment to CTE center students (became law). | Career and technical education and workforce pathways | Became law | core |
+| 2022 | SB426 | Would have changed fiscal 2023 adequate education grants. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2022 | SB432 | Would have repealed the education freedom account program (Senate version). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2022 | SB452 | Would have addressed lead in school and child-care drinking water. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2022 | SB453 | Would have funded statewide pre-kindergarten; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | adjacent |
+| 2022 | SB75 | Would have added school district data to the state COVID-19 dashboard; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | adjacent |
+| 2022 | SB81 | Would have adopted omnibus chartered public school legislation. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | CACR7 | Constitutional amendment allowing tax money to fund religious educational institutions (2023 retry). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | HB10 | The parental bill of rights refiled; died on the table. | Parental rights, transparency, and school information | Did not pass | core |
+| 2023 | HB102 | Would have required high school instruction on the nature and history of communism. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2023 | HB103 | Would have set school board member qualifications. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2023 | HB104 | Would have regulated multi-stall bathrooms and locker rooms in schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2023 | HB125 | Youth employment hours during the school year; labor law. | — | Did not pass | context |
+| 2023 | HB129 | Would have required menstrual hygiene products in schools (2023 retry). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2023 | HB131 | Would have required reports on classroom-recording and observer policies. | Parental rights, transparency, and school information | Did not pass | adjacent |
+| 2023 | HB147 | Would have changed the advisory committee on the education of students with disabilities. | Special education: services, costs, and rights | See next-year record | adjacent |
+| 2023 | HB155 | Reorganized the division of educator support and higher education (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2023 | HB170 | Required teaching cursive handwriting and multiplication tables (became law). | Curriculum, instruction, and classroom content | Became law | core |
+| 2023 | HB181 | Would have studied school meal programs in public and publicly funded schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2023 | HB204 | Would have regulated non-academic surveys in schools. | Parental rights, transparency, and school information | Did not pass | core |
+| 2023 | HB207 | Let school districts accept unanticipated funds (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2023 | HB241 | School-employee collective bargaining meetings; labor relations. | — | Did not pass | context |
+| 2023 | HB267 | Would have changed criminal records checks in school employment. | Teachers and school staff: certification, pay, and background checks | See next-year record | core |
+| 2023 | HB272 | Would have increased chartered public school per-pupil funding. | School choice: EFAs, charter schools, tuitioning, and open enrollment | See next-year record | core |
+| 2023 | HB275 | Governed schools approved for district tuition programs (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2023 | HB295 | Would have required school board meetings recorded and broadcast live. | Parental rights, transparency, and school information | Did not pass | adjacent |
+| 2023 | HB309 | Would have required civil rights education in public schools (2023 retry). | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2023 | HB32 | Would have addressed firearms in safe school zones. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2023 | HB331 | Would have raised the EFA program's income threshold; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | HB332 | Would have changed school building aid for eligible projects. | School buildings, facilities, and transportation | See next-year record | core |
+| 2023 | HB334 | Would have changed the determination and cost of a state adequate education. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2023 | HB349 | Created a special-purpose school district for Bridgewater, Hebron, and Groton (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2023 | HB35 | Would have put the National Eating Disorders Hotline on student IDs; vetoed. | Students: discipline, safety, health, meals, and wellbeing | Vetoed | adjacent |
+| 2023 | HB352 | Would have excused absences for a student's mental or behavioral health. | Students: discipline, safety, health, meals, and wellbeing | See next-year record | adjacent |
+| 2023 | HB354 | Would have made charter schools eligible for state school building aid. | School choice: EFAs, charter schools, tuitioning, and open enrollment | See next-year record | adjacent |
+| 2023 | HB364 | Funded transportation for students attending CTE centers (became law). | Career and technical education and workforce pathways | Became law | core |
+| 2023 | HB365 | Required a statewide facility condition assessment of school buildings (became law). | School buildings, facilities, and transportation | Became law | core |
+| 2023 | HB367 | Widened student eligibility in the EFA program (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2023 | HB371 | Would have created a commission to evaluate and recommend standards for public schools. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2023 | HB377 | Required dyslexia screening and intervention with an adequacy-grant add-on (became law). | Curriculum, instruction, and classroom content | Became law | core |
+| 2023 | HB380 | Would have regulated non-academic surveys given to public and charter school students. | Parental rights, transparency, and school information | Did not pass | core |
+| 2023 | HB382 | Would have allowed release time for religious instruction as elective credit. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2023 | HB394 | Would have changed the organization of cooperative school boards. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2023 | HB399 | Would have allowed a testing exception for high school graduation. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2023 | HB405 | Out-of-state college student voting; election law. | — | Did not pass | context |
+| 2023 | HB419 | Would have funded the math learning communities program. | Curriculum, instruction, and classroom content | See next-year record | adjacent |
+| 2023 | HB420 | Would have funded and expanded the dual and concurrent enrollment program. | Career and technical education and workforce pathways | See next-year record | core |
+| 2023 | HB424 | Would have set school lunch payment policies (2023 retry). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2023 | HB427 | Would have guaranteed public comment during school board meetings. | Parental rights, transparency, and school information | Did not pass | core |
+| 2023 | HB429 | Would have required breakfast and lunch offered in all public and charter schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2023 | HB430 | Would have changed applications for the EFA program. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | HB432 | Would have changed participation rules in the EFA program. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | HB435 | Would have changed relief-aid calculations in adequacy grants. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2023 | HB437 | Would have created a reading assessment and intervention program. | Curriculum, instruction, and classroom content | See next-year record | core |
+| 2023 | HB439 | Would have addressed the duty to provide an education and private-school contracts. | School choice: EFAs, charter schools, tuitioning, and open enrollment | See next-year record | core |
+| 2023 | HB440 | Would have changed the permitted uses of the education trust fund. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2023 | HB441 | Would have eliminated residency requirements for public school attendance. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | HB446 | Governed EFA participation by students with disabilities (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2023 | HB45 | Student loan forgiveness study; postsecondary debt policy. | — | Did not pass | context |
+| 2023 | HB451 | Would have changed the state board's discrimination prohibition. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2023 | HB452 | Set education department procedures for school building aid applications (became law). | School buildings, facilities, and transportation | Became law | core |
+| 2023 | HB464 | Would have changed eligible students in the EFA program. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | HB466 | Required water bottle filling stations in schools (became law). | School buildings, facilities, and transportation | Became law | adjacent |
+| 2023 | HB468 | Would have funded an attorney to recodify the education laws. | School governance: boards, districts, budgets, and consolidation | See next-year record | adjacent |
+| 2023 | HB487 | Would have created a farm-to-school reimbursement program (2023 retry). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2023 | HB492 | Required the education department to give legislators the education laws and rules (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2023 | HB501 | Aligned the ages for special education services (became law). | Special education: services, costs, and rights | Became law | core |
+| 2023 | HB505 | Would have required comprehensive mental health education in schools. | Curriculum, instruction, and classroom content | See next-year record | adjacent |
+| 2023 | HB51 | Would have required warrant articles for towns' and districts' lobbying agents. | Parental rights, transparency, and school information | Did not pass | adjacent |
+| 2023 | HB514 | Would have addressed dissemination of obscene material by schools. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2023 | HB515 | Would have changed education freedom accounts; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | HB521 | Would have governed education department payment for episode-of-treatment placements. | Special education: services, costs, and rights | See next-year record | core |
+| 2023 | HB528 | Would have funded school lunches through a meals-for-students fund (2023 retry). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2023 | HB529 | Would have created aid grants based on free-and-reduced meals and fiscal capacity disparity. | School funding: adequacy, SWEPT, and the education trust fund | See next-year record | core |
+| 2023 | HB530 | Rewrote withdrawal from cooperative school districts (became law). | School governance: boards, districts, budgets, and consolidation | Became law | core |
+| 2023 | HB533 | Would have addressed public school human rights complaints. | Students: discipline, safety, health, meals, and wellbeing | See next-year record | adjacent |
+| 2023 | HB536 | Restructured charter oversight and charter use of unused district facilities (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2023 | HB538 | Would have created a local education freedom account program. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | HB539 | Would have regulated vaccination clinics at schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2023 | HB540 | Would have raised adequacy grant amounts for special education pupils. | School funding: adequacy, SWEPT, and the education trust fund | See next-year record | core |
+| 2023 | HB541 | Would have funded school building aid grants. | School buildings, facilities, and transportation | See next-year record | core |
+| 2023 | HB542 | Would have created an academic research and performance data analyst in the education department. | Testing, accountability, and measures of student success | See next-year record | adjacent |
+| 2023 | HB546 | Would have changed the school building aid program. | School buildings, facilities, and transportation | See next-year record | core |
+| 2023 | HB550 | Created a study committee on chartered public school dissolution (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | adjacent |
+| 2023 | HB552 | Would have made incentive grants for districts improving assessment scores; died on the table. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2023 | HB553 | Would have opened school district personnel salary information. | Parental rights, transparency, and school information | See next-year record | adjacent |
+| 2023 | HB561 | Would have studied workforce and school accommodations for long COVID. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2023 | HB563 | Would have changed adoption of school administrative unit budgets. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2023 | HB566 | Would have created a fund for child care workers and early childhood educators. | Students: discipline, safety, health, meals, and wellbeing | See next-year record | adjacent |
+| 2023 | HB568 | Would have assessed all state adequacy and local education costs through the state education warrant. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2023 | HB569 | Would have changed the statewide education property tax and homeowner relief program. | School funding: adequacy, SWEPT, and the education trust fund | See next-year record | core |
+| 2023 | HB572 | Would have widened eligibility for free school meals. | Students: discipline, safety, health, meals, and wellbeing | See next-year record | core |
+| 2023 | HB573 | Would have limited EFA funding to budgeted amounts; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | HB577 | Would have changed state aid for special education pupils. | Special education: services, costs, and rights | See next-year record | core |
+| 2023 | HB578 | Would have created a reporting administrator in the education department. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2023 | HB601 | Would have joined Medicaid direct certification for free and reduced school meals. | Students: discipline, safety, health, meals, and wellbeing | See next-year record | core |
+| 2023 | HB603 | Would have regulated education service providers under the EFA program; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | HB61 | Would have amended the divisive-concepts teaching and discrimination law; died on the table. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2023 | HB619 | Omnibus bill on gender procedures for minors including sex and gender in public schools. | Students: discipline, safety, health, meals, and wellbeing | See next-year record | adjacent |
+| 2023 | HB620 | Would have created a department of early childhood education with a pre-K pilot. | Students: discipline, safety, health, meals, and wellbeing | See next-year record | adjacent |
+| 2023 | HB621 | Would have governed EFA funds after a student leaves (2023 version); died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | HB623 | Would have created a teacher candidate loan forgiveness program. | Teachers and school staff: certification, pay, and background checks | See next-year record | core |
+| 2023 | HB625 | Would have changed average daily membership calculations for districts. | School funding: adequacy, SWEPT, and the education trust fund | See next-year record | adjacent |
+| 2023 | HB626 | Would have moved EFA administration to the education department (2023 retry). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | HB627 | Would have required local education improvement plans addressing disparities. | Testing, accountability, and measures of student success | See next-year record | core |
+| 2023 | HB628 | Would have required background checks at publicly funded non-public schools and providers. | Teachers and school staff: certification, pay, and background checks | See next-year record | adjacent |
+| 2023 | HB629 | Would have established a student bill of rights; died on the table. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2023 | HB632 | Would have changed the cooperative school district budget committee. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2023 | HB634 | Would have let religious instruction satisfy elective curriculum requirements (second version). | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2023 | HB637 | Would have changed enrollment counting for certain home educated pupils. | School choice: EFAs, charter schools, tuitioning, and open enrollment | See next-year record | adjacent |
+| 2023 | HB638 | Would have changed extraordinary need grants to schools. | School funding: adequacy, SWEPT, and the education trust fund | See next-year record | core |
+| 2023 | HB640 | Vocational rehabilitation cost recovery (became law). | Career and technical education and workforce pathways | Became law | adjacent |
+| 2023 | HB649 | Would have repealed collection of the statewide education property tax. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2023 | HB651 | Would have let districts contract with transportation network companies for school transportation. | School buildings, facilities, and transportation | See next-year record | adjacent |
+| 2023 | HB654 | Extended the one-year certificate of teaching eligibility (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2023 | HB71 | Repealed a report on chartered public school funding (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | adjacent |
+| 2023 | SB109 | Coordinated school safety planning with law enforcement (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | core |
+| 2023 | SB135 | Created alternative dispute resolution for special education conflicts (became law). | Special education: services, costs, and rights | Became law | core |
+| 2023 | SB136 | Barred employing revoked or suspended educators (became law). | Teachers and school staff: certification, pay, and background checks | Became law | core |
+| 2023 | SB140 | Would have created an educator recruitment program; died on the table. | Teachers and school staff: certification, pay, and background checks | Did not pass | core |
+| 2023 | SB141 | Would have changed administration of the EFA program (Senate version). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2023 | SB151 | Would have required mental health education. | Curriculum, instruction, and classroom content | See next-year record | adjacent |
+| 2023 | SB154 | Foster-guardianship tuition waivers; higher-education benefit. | — | Did not pass | context |
+| 2023 | SB155 | Would have changed adoption of school administrative unit budgets (Senate version). | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2023 | SB179 | Eliminated seclusion as punishment on children in schools and treatment facilities (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | core |
+| 2023 | SB194 | Wine tasting in educational settings; hospitality-program licensing. | — | See next-year record | context |
+| 2023 | SB213 | Limited educational institutions' demands for students' social media credentials (became law). | Technology in schools: devices, data privacy, and online learning | Became law | adjacent |
+| 2023 | SB214 | Would have created a department of early childhood education with a pre-K pilot (Senate version). | Students: discipline, safety, health, meals, and wellbeing | See next-year record | adjacent |
+| 2023 | SB216 | Changed the civics education requirements (became law). | Curriculum, instruction, and classroom content | Became law | core |
+| 2023 | SB217 | Would have created a rural and underserved-area educator incentive program. | Teachers and school staff: certification, pay, and background checks | See next-year record | core |
+| 2023 | SB218 | Would have created an early educator professional development grant. | Teachers and school staff: certification, pay, and background checks | See next-year record | adjacent |
+| 2023 | SB219 | Would have set a salary floor for public school teachers. | Teachers and school staff: certification, pay, and background checks | See next-year record | core |
+| 2023 | SB25 | Would have repealed a chartered public school payment report. | School choice: EFAs, charter schools, tuitioning, and open enrollment | See next-year record | adjacent |
+| 2023 | SB266 | Would have changed the statewide education improvement and assessment program. | Testing, accountability, and measures of student success | See next-year record | core |
+| 2023 | SB272 | Would have established a parents' bill of rights in education. | Parental rights, transparency, and school information | Did not pass | core |
+| 2023 | SB37 | Would have studied hospitality and tourism education. | Career and technical education and workforce pathways | Did not pass | adjacent |
+| 2023 | SB39 | Required criminal history checks for school transportation monitors (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2023 | SB77 | Changed school placement rules for students (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2023 | SB86 | Health care workforce development; adult workforce policy. | — | Did not pass | context |
+| 2023 | SB93 | Would have addressed IEPs of chartered public school students. | Special education: services, costs, and rights | See next-year record | core |
+| 2023 | SR3 | Organizational Senate resolution on counting district returns; matched by 'instruction'. | — | Adopted (resolution) | context |
+| 2024 | CACR17 | Constitutional amendment making parents' right to direct their children's upbringing and education fundamental. | Parental rights, transparency, and school information | Did not pass | core |
+| 2024 | CACR25 | Constitutional amendment giving parents and children the right to control their health, education, and welfare. | Parental rights, transparency, and school information | Did not pass | core |
+| 2024 | HB1008 | Let the education commissioner extend school expenditure report deadlines (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2024 | HB1009 | Changed submission of annual town reports to the education commissioner (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2024 | HB1014 | Expanded government and civics instruction, including election law and voting information (became law). | Curriculum, instruction, and classroom content | Became law | core |
+| 2024 | HB1015 | Set literacy skill development requirements for elementary grades (became law). | Curriculum, instruction, and classroom content | Became law | core |
+| 2024 | HB1019 | Continued the interstate compact on educational opportunity for military children (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2024 | HB1020 | Competency restoration study; criminal law matched by 'competency'. | — | Became law | context |
+| 2024 | HB1048 | Continued the commission on Holocaust and genocide education (became law). | Curriculum, instruction, and classroom content | Became law | adjacent |
+| 2024 | HB1058 | Would have changed school employee and volunteer criminal history checks. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2024 | HB1066 | Repealed the FAFSA-filing graduation requirement (became law). | Testing, accountability, and measures of student success | Became law | adjacent |
+| 2024 | HB1068 | Would have required blood lead level testing for children entering day care and public schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2024 | HB1071 | Would have created a right to repair certain educational technology. | Technology in schools: devices, data privacy, and online learning | Did not pass | core |
+| 2024 | HB1079 | Created the rural and underserved area educator incentive program (became law). | Teachers and school staff: certification, pay, and background checks | Became law | core |
+| 2024 | HB1084 | Would have set qualifications for the commissioner of education. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2024 | HB1087 | Would have studied information and media literacy instruction in public schools. | Technology in schools: devices, data privacy, and online learning | Did not pass | core |
+| 2024 | HB1088 | Let schools maintain a supply of epinephrine auto-injectors (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2024 | HB1093 | Would have prohibited mandatory mask policies in schools; vetoed. | Students: discipline, safety, health, meals, and wellbeing | Vetoed | adjacent |
+| 2024 | HB1099 | Would have made school district elections partisan. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2024 | HB1101 | Home-loan and student-loan consolidation study; housing and debt policy. | — | Did not pass | context |
+| 2024 | HB1107 | Reworked public school curriculum frameworks (became law). | Curriculum, instruction, and classroom content | Became law | core |
+| 2024 | HB1108 | College student-loan crisis study; higher education. | — | Did not pass | context |
+| 2024 | HB1109 | Required eating-disorder and crisis helplines on student ID cards (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2024 | HB1128 | Would have redefined scholarship organizations under the education tax credit. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2024 | HB1153 | Would have restructured mandatory and elective public school curricula. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2024 | HB1160 | Narrowed school assessments to statewide academic areas (became law). | Testing, accountability, and measures of student success | Became law | core |
+| 2024 | HB1161 | Allowed public school infrastructure fund money for energy-efficient school buses (became law). | School buildings, facilities, and transportation | Became law | adjacent |
+| 2024 | HB1162 | Would have amended the divisive-concepts teaching and discrimination law (2024 version). | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2024 | HB1163 | Required legislative oversight review of public school minimum standards (became law). | School governance: boards, districts, budgets, and consolidation | Became law | core |
+| 2024 | HB1164 | Changed criminal records checks for teacher credentialing applicants (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2024 | HB1165 | Set education department procedures for school facilities (became law). | School buildings, facilities, and transportation | Became law | adjacent |
+| 2024 | HB1166 | Would have added an exception to the required civics competency assessment. | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2024 | HB1167 | Continued the math learning communities program (became law). | Curriculum, instruction, and classroom content | Became law | adjacent |
+| 2024 | HB1176 | Would have studied special education funding and other funding sources; interim study. | Special education: services, costs, and rights | Interim study | core |
+| 2024 | HB1185 | Would have changed sexual education instruction; interim study. | Curriculum, instruction, and classroom content | Interim study | adjacent |
+| 2024 | HB1195 | Let districts approve different apportionment methods for SAU costs (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2024 | HB1205 | Restricted women's school sports to students who are biologically female (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | core |
+| 2024 | HB1206 | Would have prohibited 'educator indoctrination'. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2024 | HB1212 | Would have widened eligibility for free school meals; died on the table. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2024 | HB1216 | Would have addressed cross-district bullying and cyberbullying; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | adjacent |
+| 2024 | HB1235 | Allowed high school students to serve as school board members (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2024 | HB1247 | Would have required Selective Service information at school military recruiting locations. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2024 | HB1265 | Set penalties for missing school expenditure reports and required expense reporting (became law). | Parental rights, transparency, and school information | Became law | core |
+| 2024 | HB1269 | Would have regulated the use of child restraints in schools; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | core |
+| 2024 | HB1287 | Would have defined 'evidence-based' within public education. | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2024 | HB1288 | Higher-education disciplinary due process; postsecondary. | — | Interim study | context |
+| 2024 | HB1298 | Would have redefined part-time teachers; died between the chambers. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2024 | HB1299 | Firefighter-educator retirement membership; pension mechanics. | — | Did not pass | context |
+| 2024 | HB1311 | The Students' Freedom to Read bill - school library collection and reconsideration policies; passed the House 194-180 and died between the chambers. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2024 | HB1312 | Required parental notification of student health matters and certain curricula (became law). | Parental rights, transparency, and school information | Became law | core |
+| 2024 | HB1353 | Would have let the education commissioner issue subpoenas; died on the table. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2024 | HB1356 | Would have regulated school employees' use of children's names and pronouns. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2024 | HB1378 | Would have created private rights of action for school or library employees who refuse to censor materials; withdrawn after introduction. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2024 | HB1382 | Reimbursed witness fees for unrepresented armed-forces parents who prevail in special education hearings (became law). | Special education: services, costs, and rights | Became law | adjacent |
+| 2024 | HB1383 | Would have changed cooperative school board district elections; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | adjacent |
+| 2024 | HB1397 | Would have required information on student placement by course-competency achievement. | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2024 | HB1402 | Would have let a high school proficiency exam waive mandatory attendance; interim study. | Testing, accountability, and measures of student success | Interim study | core |
+| 2024 | HB1418 | Would have allowed EFA funds for school uniforms. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2024 | HB1419 | Would have prohibited obscene or harmful sexual materials in schools. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2024 | HB1437 | Would have changed the membership of the state board of education. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2024 | HB1443 | Would have changed special education dispute resolution; interim study. | Special education: services, costs, and rights | Interim study | core |
+| 2024 | HB1452 | Would have set credentials for superintendents and school business officers; died on the table. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2024 | HB1458 | Would have let parents remove children from the English Language Learner program; interim study. | Parental rights, transparency, and school information | Interim study | adjacent |
+| 2024 | HB1469 | Set retention rules for individualized education program records (became law). | Special education: services, costs, and rights | Became law | adjacent |
+| 2024 | HB147 | Changed the advisory committee on the education of students with disabilities (became law). | Special education: services, costs, and rights | Became law | adjacent |
+| 2024 | HB1471 | Would have declared the total solar eclipse a school holiday. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2024 | HB1473 | Would have addressed social-emotional learning in public schools. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2024 | HB1476 | Would have governed charter school memorandums of understanding; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2024 | HB1478 | Would have barred simultaneous school board and select board membership. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2024 | HB1480 | Created alternative dispute resolution within IEP processes (became law). | Special education: services, costs, and rights | Became law | core |
+| 2024 | HB1481 | Would have changed appointments to at-large cooperative school board vacancies; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | adjacent |
+| 2024 | HB1493 | Would have changed cooperative school district budget committees' powers; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | adjacent |
+| 2024 | HB1496 | Would have defined the state's duty to protect children in public schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2024 | HB1509 | Would have ring-fenced special education money and required fund-balance reporting; interim study. | Special education: services, costs, and rights | Interim study | core |
+| 2024 | HB1511 | Rewrote liability for children with disabilities in court-ordered placements and episodes of treatment (became law). | Special education: services, costs, and rights | Became law | core |
+| 2024 | HB1512 | Would have limited EFA funding to budgeted amounts (2024 retry). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | HB1514 | Would have addressed excess funds paid to municipalities for school districts; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | adjacent |
+| 2024 | HB1516 | Would have allowed enrollment by children of school district employees; interim study. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Interim study | adjacent |
+| 2024 | HB1517 | Would have tied the statewide education property tax to games-of-chance revenue. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2024 | HB1524 | Would have let special education parents observe classrooms; interim study. | Special education: services, costs, and rights | Interim study | adjacent |
+| 2024 | HB1534 | Community-service tuition credits for state colleges; higher education; interim study. | — | Interim study | context |
+| 2024 | HB1552 | Defined superintendents' duties and responsibilities (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2024 | HB1553 | Would have piloted 'spelling to communicate' services for students with autism or apraxia. | Special education: services, costs, and rights | Did not pass | adjacent |
+| 2024 | HB1555 | Would have required special meetings for education funding changes; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | adjacent |
+| 2024 | HB1560 | Would have addressed unassigned money in the education trust fund; died on the table. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2024 | HB1561 | Would have changed student eligibility qualifications in the EFA program. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | HB1563 | Would have addressed the education property tax and political subdivisions' authority; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2024 | HB1570 | Would have required a facility assessment of public and charter schools; interim study. | School buildings, facilities, and transportation | Interim study | core |
+| 2024 | HB1579 | Governed voluntary merging of school administrative units (became law). | School governance: boards, districts, budgets, and consolidation | Became law | core |
+| 2024 | HB1583 | Would have changed the per-pupil cost of an adequate education; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2024 | HB1586 | Would have created a foundation opportunity budget program (2024 retry); interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2024 | HB1587 | Would have required video surveillance on special education buses. | Special education: services, costs, and rights | Did not pass | adjacent |
+| 2024 | HB1588 | Clarified court jurisdiction over persons receiving special education (became law). | Special education: services, costs, and rights | Became law | adjacent |
+| 2024 | HB1592 | Would have addressed EFA funds used in religious schools; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | HB1594 | Would have required annual eligibility review in the EFA program. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | HB1605 | Would have changed alternative education programs granting graduation credit. | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2024 | HB1608 | Would have provided an induction program for new teachers; interim study. | Teachers and school staff: certification, pay, and background checks | Interim study | core |
+| 2024 | HB1610 | Would have required standardized assessment data for EFA participants. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | HB1616 | Would have required parental consent for Medicaid-to-schools participation; died between the chambers. | Parental rights, transparency, and school information | Did not pass | adjacent |
+| 2024 | HB1625 | Would have changed school health services; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | adjacent |
+| 2024 | HB1634 | Would have made the EFA program universally eligible. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | HB1639 | Governed education of children with disabilities at state youth facilities (became law). | Special education: services, costs, and rights | Became law | adjacent |
+| 2024 | HB1642 | Would have changed cooperative board representation on budget committees; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | adjacent |
+| 2024 | HB1643 | Would have required curriculum and instructional materials posted on district web pages. | Parental rights, transparency, and school information | Did not pass | core |
+| 2024 | HB1646 | Would have changed chartered public school law; interim study. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Interim study | adjacent |
+| 2024 | HB1650 | Would have changed approval of alternative credit programs for graduation. | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2024 | HB1652 | Would have created a local education freedom account program (2024 retry). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | HB1654 | Would have required review of EFA service providers. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | HB1655 | Authorized rules on background-check fee collection (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2024 | HB1656 | Would have raised adequacy grants for special education pupils; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2024 | HB1657 | Would have prohibited hazing at educational institutions; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | adjacent |
+| 2024 | HB1665 | Would have changed EFA eligibility, phase-out grants, and administration costs; died between the chambers. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | HB1670 | Would have moved all special education costs into state education grants; interim study. | Special education: services, costs, and rights | Interim study | core |
+| 2024 | HB1671 | Would have changed the divisive-concepts complaint process and created educator counterclaims. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2024 | HB1675 | Would have adjusted adequacy grants based on pupil proficiency. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2024 | HB1677 | Would have tied EFA participation to school proficiency scores. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | HB1678 | Created a farm-to-school local food incentive pilot (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2024 | HB1682 | Would have changed the civics test graduation requirement; interim study. | Testing, accountability, and measures of student success | Interim study | adjacent |
+| 2024 | HB1686 | Would have remitted excess SWEPT revenue to the education trust fund and barred negative tax rates; died on the table. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2024 | HB1690 | Higher-education hiring and admissions; postsecondary. | — | Did not pass | context |
+| 2024 | HB1691 | Would have redefined an adequate public education; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2024 | HB1692 | Would have changed public high school graduation requirements. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2024 | HB1695 | Would have governed release of student personally identifiable information; died between the chambers. | Technology in schools: devices, data privacy, and online learning | Did not pass | core |
+| 2024 | HB185 | Family-law shared parenting bill whose school piece required posting state funds received (became law). | Parental rights, transparency, and school information | Became law | adjacent |
+| 2024 | HB267 | Would have changed criminal records checks in school employment; died on the table. | Teachers and school staff: certification, pay, and background checks | Did not pass | core |
+| 2024 | HB272 | Would have increased chartered public school per-pupil funding. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | HB332 | Would have changed school building aid for eligible projects. | School buildings, facilities, and transportation | Did not pass | core |
+| 2024 | HB352 | Would have excused absences for a student's mental or behavioral health. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2024 | HB354 | Made charter schools eligible for state school building aid (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2024 | HB419 | Would have funded the math learning communities program. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2024 | HB420 | Would have funded and expanded the dual and concurrent enrollment program. | Career and technical education and workforce pathways | Did not pass | core |
+| 2024 | HB437 | Would have created a reading assessment and intervention program; died on the table. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2024 | HB439 | Would have addressed the duty to provide an education and private-school contracts; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | HB468 | Would have created a commission to recodify the education laws; died between the chambers. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2024 | HB505 | Would have required comprehensive mental health education; died on the table. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2024 | HB521 | Would have governed education department payment for episode-of-treatment placements. | Special education: services, costs, and rights | Did not pass | core |
+| 2024 | HB529 | Would have created aid grants based on free-and-reduced meals and fiscal capacity disparity. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2024 | HB533 | Would have addressed public school human rights complaints. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2024 | HB540 | Would have raised adequacy grant amounts for special education pupils. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2024 | HB541 | Would have funded school building aid grants. | School buildings, facilities, and transportation | Did not pass | core |
+| 2024 | HB542 | Would have created an academic research and performance data analyst position. | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2024 | HB546 | Would have changed the school building aid program; interim study. | School buildings, facilities, and transportation | Interim study | core |
+| 2024 | HB553 | Would have opened school district personnel salary information; died on the table. | Parental rights, transparency, and school information | Did not pass | adjacent |
+| 2024 | HB566 | Would have created a fund for child care workers and early childhood educators. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2024 | HB569 | Would have changed the statewide education property tax and homeowner relief program; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2024 | HB572 | Would have widened eligibility for free school meals; died at the Senate deadline. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2024 | HB577 | Would have changed state aid for special education pupils; died on the table. | Special education: services, costs, and rights | Did not pass | core |
+| 2024 | HB601 | Would have joined Medicaid direct certification for free and reduced school meals (2024 retry). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2024 | HB619 | Prohibited gender transition procedures for minors, with sex-and-gender-in-schools provisions (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2024 | HB620 | Would have created a division of early learning with a pre-K pilot. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2024 | HB623 | Would have created a teacher candidate loan forgiveness program; interim study. | Teachers and school staff: certification, pay, and background checks | Interim study | core |
+| 2024 | HB625 | Would have changed average daily membership calculations for districts. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | adjacent |
+| 2024 | HB627 | Would have required local education improvement plans addressing disparities. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2024 | HB628 | Would have required background checks at publicly funded non-public schools and providers (2024 retry). | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2024 | HB637 | Changed enrollment counting for certain home educated pupils (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | adjacent |
+| 2024 | HB638 | Would have changed extraordinary need grants to schools. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2024 | HB651 | Would have let districts use transportation network companies; died on the table. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2024 | HCR10 | Urged Congress to fully fund federal special education aid to reduce property taxes (adopted by the House). | Special education: services, costs, and rights | Adopted (resolution) | core |
+| 2024 | HR30 | Would have urged robust climate education in schools. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2024 | SB151 | Would have required mental health education (2024 retry). | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2024 | SB194 | Wine tasting in educational settings; hospitality-program licensing. | — | Did not pass | context |
+| 2024 | SB214 | Would have created a department of early childhood education; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | adjacent |
+| 2024 | SB217 | Would have created a rural and underserved-area educator incentive program (2024 version). | Teachers and school staff: certification, pay, and background checks | Did not pass | core |
+| 2024 | SB218 | Would have created an early educator professional development grant; died on the table. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2024 | SB219 | Would have required mandatory school expense reporting by districts. | Parental rights, transparency, and school information | Did not pass | adjacent |
+| 2024 | SB25 | Would have repealed a chartered public school payment report. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2024 | SB266 | Consolidated school assessment and accountability program administration in the department (became law). | Testing, accountability, and measures of student success | Became law | core |
+| 2024 | SB314 | Pre-trial competency evaluations; criminal law. | — | Became law | context |
+| 2024 | SB334 | Business finance authority student-loan bonds; higher-education finance. | — | Became law | context |
+| 2024 | SB338 | Restructured the education professional standards board (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2024 | SB339 | Would have repealed the FAFSA graduation requirement (Senate version). | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2024 | SB340 | Strengthened parent-district special education communication and the special education advocate (became law). | Special education: services, costs, and rights | Became law | core |
+| 2024 | SB341 | Would have required school employees to answer parents' questions truthfully (mandatory disclosure). | Parental rights, transparency, and school information | Did not pass | core |
+| 2024 | SB342 | Would have funded school building aid; died at the Senate deadline. | School buildings, facilities, and transportation | Did not pass | core |
+| 2024 | SB343 | Would have expanded school-based health services; died at the Senate deadline. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2024 | SB361 | Paraprofessional legal services (became law); occupational licensing matched by 'paraprofessional'. | — | Became law | context |
+| 2024 | SB368 | Teacher retirement allowances; pension mechanics; interim study. | — | Interim study | context |
+| 2024 | SB372 | Plumbing apprenticeships; occupational licensing (became law). | — | Became law | context |
+| 2024 | SB374 | Would have licensed part-time teachers. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2024 | SB375 | Would have restricted student athletics by biological sex; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | core |
+| 2024 | SB376 | Created a corrections education and vocational planning group (became law). | Career and technical education and workforce pathways | Became law | adjacent |
+| 2024 | SB378 | Created the performance-based school accountability system task force (became law). | Testing, accountability, and measures of student success | Became law | core |
+| 2024 | SB396 | Funded the culinary arts program at the Palmer Regional CTE Center (became law). | Career and technical education and workforce pathways | Became law | adjacent |
+| 2024 | SB427 | Alternative driver education; motor-vehicle training; interim study. | — | Interim study | context |
+| 2024 | SB441 | Created an advisory group on CTE construction and renovation funding (became law). | Career and technical education and workforce pathways | Became law | core |
+| 2024 | SB442 | Would have changed EFA eligibility and administration costs (Senate version). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | SB443 | Defined 'school transportation vehicle' (became law). | School buildings, facilities, and transportation | Became law | adjacent |
+| 2024 | SB444 | Would have required public posting of state board agendas and materials; interim study. | Parental rights, transparency, and school information | Interim study | adjacent |
+| 2024 | SB508 | County corrections superintendent duties; corrections. | — | Became law | context |
+| 2024 | SB517 | University student employment status; higher education. | — | Did not pass | context |
+| 2024 | SB521 | Set educational credentials for master teacher (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2024 | SB522 | Would have created an early childhood education scholarship account; died at the Senate deadline. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2024 | SB523 | Would have regulated public school materials; passed the Senate 14-10 and died in the House on a 187-193 division vote. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2024 | SB524 | Would have restricted women's sports by biological sex (Senate version); interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | core |
+| 2024 | SB525 | Would have changed administration of the EFA program (2024 Senate version). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2024 | SB526 | Would have required a school facility condition assessment and temperature-control building aid. | School buildings, facilities, and transportation | Did not pass | core |
+| 2024 | SB527 | Student housing law; housing policy (became law). | — | Became law | context |
+| 2024 | SB529 | Would have redefined 'teacher'. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2024 | SB532 | Would have required posting state funds received by towns and school boards; died between the chambers. | Parental rights, transparency, and school information | Did not pass | adjacent |
+| 2024 | SB552 | Would have changed lapse rules for the education trust fund; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2024 | SB565 | Would have barred hairstyle discrimination in education (CROWN act); died at the Senate deadline. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2024 | SB593 | Would have addressed firearms in safe school zones (2024 version). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2024 | SB93 | Would have addressed IEPs of chartered public school students. | Special education: services, costs, and rights | Did not pass | core |
+| 2025 | HB10 | Established the parental bill of rights in education (became law). | Parental rights, transparency, and school information | Became law | core |
+| 2025 | HB108 | Addressed bullying and cyberbullying across multiple school districts (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | core |
+| 2025 | HB115 | Would have made the EFA program universally eligible; vetoed - the income-cap removal passed as SB295 instead. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Vetoed | core |
+| 2025 | HB116 | Would have changed reporting requirements for public academies. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2025 | HB120 | Moved veterans' educational support services to military affairs (became law). | — | Became law | context |
+| 2025 | HB137 | Would have allocated excess SWEPT funds for local school and municipal purposes. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2025 | HB139 | Would have governed official holiday designations by municipalities and schools. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2025 | HB143 | Required school districts to provide meals during school hours with reimbursement, plus no-trespass order rules (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | core |
+| 2025 | HB178 | Let foster parents represent foster children with disabilities in special education decisions (became law). | Special education: services, costs, and rights | Became law | adjacent |
+| 2025 | HB184 | Would have studied changing school start times. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2025 | HB193 | Raised the per-course credit cap in the dual and concurrent enrollment program (became law). | Career and technical education and workforce pathways | Became law | adjacent |
+| 2025 | HB208 | Would have changed certification requirements for school nurses. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2025 | HB231 | Barred school staff from transporting students to medical appointments without parental consent (became law). | Parental rights, transparency, and school information | Became law | core |
+| 2025 | HB235 | Added responsibility to parents to the educator code of ethics (became law). | Teachers and school staff: certification, pay, and background checks | Became law | core |
+| 2025 | HB237 | Would have barred spending special education aid on students not receiving services. | Special education: services, costs, and rights | Did not pass | core |
+| 2025 | HB255 | Would have raised the education trust fund's business profits tax share. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2025 | HB282 | First-responder benefits law that also adjusted education adequacy grant determination (became law). | School funding: adequacy, SWEPT, and the education trust fund | Became law | adjacent |
+| 2025 | HB283 | Would have changed the list of subjects comprising an adequate education. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2025 | HB286 | Would have studied one school superintendent per county. | School governance: boards, districts, budgets, and consolidation | Did not pass | core |
+| 2025 | HB318 | Would have raised the education trust fund's business enterprise tax share. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2025 | HB319 | Would have required district transportation for kindergarten pupils; vetoed. | School buildings, facilities, and transportation | Vetoed | core |
+| 2025 | HB324 | Would have prohibited obscene or harmful sexual materials in schools; vetoed, override failed. | Curriculum, instruction, and classroom content | Vetoed | core |
+| 2025 | HB329 | Would have required district policies on air quality and temperature in schools. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2025 | HB354 | Created alternate certification pathways for career and technical education instructors (became law). | Career and technical education and workforce pathways | Became law | core |
+| 2025 | HB356 | Would have enabled partisan school district elections; vetoed. | School governance: boards, districts, budgets, and consolidation | Vetoed | adjacent |
+| 2025 | HB361 | Prohibited mandatory mask policies in schools (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2025 | HB379 | Youth employment hours; labor law. | — | Did not pass | context |
+| 2025 | HB384 | Would have prohibited bullying in schools (rewrite of the bullying statute). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2025 | HB388 | Would have required public school-board reports on special education. | Special education: services, costs, and rights | Did not pass | core |
+| 2025 | HB394 | Rewrote cooperative district budget committees' powers and board representation (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2025 | HB398 | Would have added disability impacts to required Holocaust and genocide studies. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2025 | HB402 | Would have addressed tax liability of EFA payments; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2025 | HB407 | Would have set a minimum turnout threshold for ballot-adopted town and school budgets. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2025 | HB412 | Would have changed elections and vacancy appointments for cooperative school boards. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2025 | HB415 | Would have removed the requirement that schools provide menstrual products. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2025 | HB431 | Would have created a commission to review draft minimum standards and academic standards rules. | School governance: boards, districts, budgets, and consolidation | Did not pass | core |
+| 2025 | HB440 | Changed educator licensing (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2025 | HB446 | Would have required parental notice for non-academic surveys; vetoed. | Parental rights, transparency, and school information | Vetoed | core |
+| 2025 | HB483 | Would have redefined scholarship organizations under the education tax credit; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2025 | HB484 | Governed reallocation of career and technical education classroom space (became law). | Career and technical education and workforce pathways | Became law | adjacent |
+| 2025 | HB494 | Continued the math learning communities program (became law). | Curriculum, instruction, and classroom content | Became law | adjacent |
+| 2025 | HB50 | Would have required intent for divisive-concepts teaching violations. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2025 | HB502 | Would have required unitary combined reporting with SWEPT revenue provisions. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | adjacent |
+| 2025 | HB503 | Would have changed how tax revenues are allocated to the education trust fund. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2025 | HB506 | Omnibus law requiring schools to engage school resource officers, with firearms and license provisions (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2025 | HB515 | Would have repealed charter schools' eligibility for state school building aid. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2025 | HB520 | Let education department hearing officers issue subpoenas (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2025 | HB527 | Would have replaced the statewide education property tax with a local revenue contribution. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2025 | HB532 | Created ADR and IEP team meeting facilitation for special education (became law). | Special education: services, costs, and rights | Became law | core |
+| 2025 | HB549 | Would have barred EFA funds in religious schools. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2025 | HB550 | Would have modified the base cost of an adequate education. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2025 | HB555 | Would have made Holocaust and genocide study part of an adequate public education. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2025 | HB557 | Required default-budget and estimated-tax information on school budget ballots (became law). | Parental rights, transparency, and school information | Became law | core |
+| 2025 | HB562 | Would have changed how vacant municipal and school board positions are filled. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2025 | HB571 | Added Constitution Day to required patriotic exercises (became law). | Curriculum, instruction, and classroom content | Became law | adjacent |
+| 2025 | HB583 | Would have joined Medicaid direct certification for free and reduced meals; died on the table. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2025 | HB603 | Would have increased the special-education adequacy grant. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2025 | HB646 | Would have required an online application for the free and reduced price meal program. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2025 | HB650 | State-fund cleanup law that kept the K-12 robotics education fund (became law). | Technology in schools: devices, data privacy, and online learning | Became law | adjacent |
+| 2025 | HB653 | Would have piloted alternatives to restraint and seclusion; died at the Senate deadline. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2025 | HB662 | Would have required abortion-procedure discussion and videos in health education. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2025 | HB667 | Would have required gestational-development videos in health education; vetoed. | Curriculum, instruction, and classroom content | Vetoed | core |
+| 2025 | HB669 | Would have deposited all SWEPT revenue in the education trust fund at an equalized statewide rate. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2025 | HB673 | Would have changed school bullying and discrimination plans. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2025 | HB675 | Would have raised SWEPT and required excess remitted to the state; passed one House vote 190-185, killed in January 2026 with reconsideration failing 170-185 on a division vote. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2025 | HB677 | Allowed epinephrine possession and use at camps and schools (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2025 | HB68 | Would have made best-interest placements within the same district mandatory. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2025 | HB684 | Student IDs and ballots; election law. | — | Did not pass | context |
+| 2025 | HB695 | Would have addressed school districts and medically related grants. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2025 | HB696 | Settled utility property tax and SWEPT treatment of power plants (became law). | School funding: adequacy, SWEPT, and the education trust fund | Became law | adjacent |
+| 2025 | HB699 | Updated special education definitions (became law). | Special education: services, costs, and rights | Became law | adjacent |
+| 2025 | HB703 | Would have barred denying meals to students with unpaid balances, with an appropriation. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2025 | HB71 | Law prohibiting school facilities from sheltering undocumented immigrants, with DHHS and reassessment riders (became law). | School buildings, facilities, and transportation | Became law | adjacent |
+| 2025 | HB717 | Would have changed catastrophic aid for special education. | Special education: services, costs, and rights | Did not pass | core |
+| 2025 | HB718 | Required the state board to report unfunded costs of rules exceeding minimum standards (became law). | School governance: boards, districts, budgets, and consolidation | Became law | core |
+| 2025 | HB719 | Would have repealed charter schools' use of unused district facilities. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2025 | HB722 | Excessive-tuition causes of action; higher education. | — | Did not pass | context |
+| 2025 | HB730 | Would have required adoption education in health classes. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2025 | HB738 | Would have required background checks at publicly funded non-public schools and providers (2025 retry). | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2025 | HB739 | Would have addressed excess funds paid to municipalities for school districts (2025 retry). | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | adjacent |
+| 2025 | HB740 | Would have made the education department keep charter school student records. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2025 | HB741 | Would have allowed parents to send children to any school district (open enrollment); carried into 2026. | School choice: EFAs, charter schools, tuitioning, and open enrollment | See next-year record | core |
+| 2025 | HB747 | Would have created enrichment scholarships for gifted students. | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2025 | HB749 | Would have required instruction on communism in public high schools (2025 version). | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2025 | HB750 | Would have made incentive grants for districts improving assessment scores (2025 retry). | Testing, accountability, and measures of student success | Did not pass | core |
+| 2025 | HB752 | Set procedures for closing a charter school (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | adjacent |
+| 2025 | HB753 | Created expedited due process hearings for special education rights (became law). | Special education: services, costs, and rights | Became law | core |
+| 2025 | HB754 | Created automatic discovery in special education due process hearings (became law). | Special education: services, costs, and rights | Became law | adjacent |
+| 2025 | HB756 | Would have required blood lead testing for children entering daycare and public schools (2025 retry). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2025 | HB76 | Required tracking of special education complaints (became law). | Special education: services, costs, and rights | Became law | core |
+| 2025 | HB763 | Required school emergency plans for sports-related injuries (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2025 | HB765 | Would have consolidated school administrative units with elected superintendents; unanimous 18-0 ITL committee report, killed by voice vote. | School governance: boards, districts, budgets, and consolidation | Did not pass | core |
+| 2025 | HB766 | Would have let municipalities exempt certain elderly residents from the local education property tax. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | adjacent |
+| 2025 | HB768 | Let public schools contract with any approved nonpublic school (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2025 | HB769 | Would have changed the base per-pupil adequacy cost and the SWEPT rate. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2025 | HB770 | Community-service tuition credits; higher education. | — | Did not pass | context |
+| 2025 | HB771 | Funded open enrollment schools (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2025 | HB781 | Would have required cell phone-free education policies; vetoed - the mandate passed inside the 2025 trailer instead. | Technology in schools: devices, data privacy, and online learning | Vetoed | core |
+| 2025 | HB85 | Student respiratory therapist licensure; occupational licensing. | — | Became law | context |
+| 2025 | HB90 | Redefined part-time teachers (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2025 | HB93 | Would have let districts appoint a school district treasurer. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2025 | HCR6 | Would have called for removing the SAU 67 superintendent. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2025 | HR9 | Urged the education department to emphasize STEM education (adopted by the House). | Curriculum, instruction, and classroom content | Adopted (resolution) | adjacent |
+| 2025 | SB100 | Would have rewritten the divisive-concepts teaching prohibition; passed both chambers in different forms and died between them. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2025 | SB102 | Put type 1 diabetes information on the education department website (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2025 | SB117 | Would have funded the statewide online tutoring program; died at the Senate deadline. | Technology in schools: devices, data privacy, and online learning | Did not pass | core |
+| 2025 | SB168 | Online gambling with education trust fund proceeds; gambling revenue. | — | Did not pass | context |
+| 2025 | SB195 | Restructured the advisory council on career and technical education (became law). | Career and technical education and workforce pathways | Became law | adjacent |
+| 2025 | SB203 | Would have changed administration of the EFA program (2025 version). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2025 | SB205 | Would have required schools to offer free or reduced-cost breakfast and lunch to income-eligible children. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2025 | SB206 | The Senate's cell phone-free education mandate; passed both chambers in different forms and died between them - the trailer carried the policy instead. | Technology in schools: devices, data privacy, and online learning | Did not pass | core |
+| 2025 | SB207 | Would have moved EFA administration to the education department (2025 retry). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2025 | SB209 | Would have required owner's project managers on school building aid projects; passed both chambers in different forms and died between them. | School buildings, facilities, and transportation | Did not pass | core |
+| 2025 | SB210 | Would have combined bullying prevention with open enrollment; passed both chambers in different forms and died between them. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2025 | SB211 | Would have restricted student athletics by biological sex (2025 version). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2025 | SB24 | Wine tasting in educational settings; hospitality-program licensing (became law). | — | Became law | context |
+| 2025 | SB277 | Would have settled utility property tax and SWEPT treatment of power plants; died at the Senate deadline (HB696 passed instead). | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | adjacent |
+| 2025 | SB292 | Rewrote aid to school districts for special education costs (became law). | Special education: services, costs, and rights | Became law | core |
+| 2025 | SB293 | Would have used Medicaid enrollment for school lunch eligibility. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2025 | SB294 | Would have addressed lab fees for career and technical education courses; died on the table. | Career and technical education and workforce pathways | Did not pass | adjacent |
+| 2025 | SB295 | Removed the education freedom account income cap - universal eligibility (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2025 | SB296 | Would have raised the share of scholarships to free-and-reduced-meal students; died at the Senate deadline. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2025 | SB303 | Would have required a report on the U.S. Department of Education's dissolution effects; died at the Senate deadline. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2025 | SB33 | The Senate school-materials regulation bill; carried into 2026. | Curriculum, instruction, and classroom content | See next-year record | core |
+| 2025 | SB34 | Would have required parental consent for Medicaid-to-schools participation; carried into 2026. | Parental rights, transparency, and school information | See next-year record | core |
+| 2025 | SB48 | Competency to stand trial; criminal law. | — | Did not pass | context |
+| 2025 | SB57 | Created the SAU-reduction study committee and the special education cost commission (became law). | School governance: boards, districts, budgets, and consolidation | Became law | core |
+| 2025 | SB69 | School-board gifts law with early-childhood and library-records riders; passed both chambers in different forms and died between them. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2025 | SB72 | The Senate parental bill of rights; passed both chambers in different forms and died between them - HB10 became the law. | Parental rights, transparency, and school information | Did not pass | core |
+| 2025 | SB96 | Would have required school employee disclosure to parents with enforcement rights; passed both chambers in different forms and died between them. | Parental rights, transparency, and school information | Did not pass | core |
+| 2025 | SB97 | Allowed intra-district public school transfers (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2025 | SB98 | Extended donations to regional CTE center programs (became law). | Career and technical education and workforce pathways | Became law | adjacent |
+| 2025 | SB99 | Rewrote regional career and technical education agreements (became law). | Career and technical education and workforce pathways | Became law | core |
+| 2025 | SR3 | Organizational Senate resolution on counting district returns; matched by 'instruction'. | — | Adopted (resolution) | context |
+| 2026 | CACR24 | Constitutional amendment making parents' right to direct their children's education fundamental. | Parental rights, transparency, and school information | Did not pass | core |
+| 2026 | CACR28 | Constitutional amendment letting towns and religious societies elect and contract with teachers. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2026 | HB1034 | Would have addressed possession of firearms on school property (2026 version). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2026 | HB1050 | Would have created a right to provide educational instruction in zoned and non-zoned areas; interim study. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Interim study | adjacent |
+| 2026 | HB1051 | Expanded school bus driver criminal history checks (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2026 | HB1055 | Would have given the state board rulemaking authority over student cell phone use. | Technology in schools: devices, data privacy, and online learning | Did not pass | core |
+| 2026 | HB1069 | Would have let municipal and school elections fall on the state primary day. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2026 | HB1077 | Would have added domestic violence prevention to required wellness instruction. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2026 | HB1093 | Extended governmental land-use exemptions to public charter schools (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | adjacent |
+| 2026 | HB1099 | Created a study committee on the cost of educating students in residential facilities (became law). | Special education: services, costs, and rights | Became law | core |
+| 2026 | HB1104 | Would have changed the priority of school building aid applications. | School buildings, facilities, and transportation | Did not pass | core |
+| 2026 | HB112 | University civics naturalization test; higher education; died on the table. | — | Did not pass | context |
+| 2026 | HB1121 | Would have defined the cost of an adequate education; died on the table. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HB1122 | Would have required hunting, wildlife management, and firearms instruction in high schools. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2026 | HB1125 | Would have enabled partisan school district elections (2026 retry). | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2026 | HB1129 | Would have let superintendents allow limited personal laptop and tablet use under cell phone policies. | Technology in schools: devices, data privacy, and online learning | Did not pass | core |
+| 2026 | HB1132 | Would have prohibited certain flags and banners in public schools; interim study. | Curriculum, instruction, and classroom content | Interim study | core |
+| 2026 | HB1155 | Would have repealed the home education advisory council; interim study. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Interim study | adjacent |
+| 2026 | HB1182 | Would have renamed the one-year certificate of eligibility as emergency authorization. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2026 | HB1183 | Would have changed the mathematics requirement for high school graduation. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2026 | HB1184 | Would have governed no-trespass orders on school property; vetoed, no override recorded as of collection. | Students: discipline, safety, health, meals, and wellbeing | Vetoed | adjacent |
+| 2026 | HB1202 | Set dual and concurrent enrollment course requirements at community colleges (became law). | Career and technical education and workforce pathways | Became law | core |
+| 2026 | HB1209 | Would have addressed child safety at school bus stops. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2026 | HB121 | Would have set school district financial requirements and probation processes; died on the table. | School governance: boards, districts, budgets, and consolidation | Did not pass | core |
+| 2026 | HB1212 | Would have created a commission to review minimum-standards and academic-standards rules (2026 retry). | School governance: boards, districts, budgets, and consolidation | Did not pass | core |
+| 2026 | HB1220 | Would have let municipal governing bodies review and approve school budgets. | School governance: boards, districts, budgets, and consolidation | Did not pass | core |
+| 2026 | HB1221 | Would have directed the special education cost commission to consider centralized service locations. | Special education: services, costs, and rights | Did not pass | core |
+| 2026 | HB1234 | Made certain school district offices incompatible for election purposes (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2026 | HB1256 | Ended state librarian scholarships for graduate library students (became law). | — | Became law | context |
+| 2026 | HB1264 | Would have strengthened the EFA oversight committee; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB1267 | Would have barred questioning students without a parent present; vetoed, no override recorded as of collection. | Parental rights, transparency, and school information | Vetoed | core |
+| 2026 | HB1268 | Restructured home education program administration, with pharmacy riders (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2026 | HB1270 | Clarified the definition of part-time teacher (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2026 | HB1272 | Would have printed candidates' party affiliations on town and school ballots. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2026 | HB1280 | Would have created a commission to study public school open enrollment. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB1288 | Would have enabled school administrative units to adopt budget caps; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | adjacent |
+| 2026 | HB129 | Would have defined 'evidence-based' within public education (2026 retry). | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2026 | HB1300 | Put school district tax cap questions on the 2026 and 2028 state ballots, with central-office expense limits (became law). | School governance: boards, districts, budgets, and consolidation | Became law | core |
+| 2026 | HB1307 | Would have created a commission on a statewide comprehensive civics curriculum. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2026 | HB1308 | Raised the penalty for passing a stopped school bus (became law). | School buildings, facilities, and transportation | Became law | adjacent |
+| 2026 | HB131 | Rewrote bullying and cyberbullying prevention law (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | core |
+| 2026 | HB1319 | Would have enabled local fiscal accountability committees for towns and schools; interim study. | Parental rights, transparency, and school information | Interim study | adjacent |
+| 2026 | HB1331 | Let Derry incorporate its cooperative school district as a town department (became law). | School governance: boards, districts, budgets, and consolidation | Became law | core |
+| 2026 | HB1334 | Would have removed the EFA scholarship organization's authority over certain expenses. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB1341 | Would have investigated the education department's actions on SAU 6. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2026 | HB1345 | Would have required school flag-display rules and student color guards. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2026 | HB1356 | Gender-procedures statute-of-limitations bill with school-adjacent provisions; died between the chambers. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2026 | HB1358 | Would have studied transitioning all public schools to charter schools; vetoed, no override recorded as of collection. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Vetoed | core |
+| 2026 | HB1370 | Would have repealed the gifted-and-talented reporting requirement. | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2026 | HB1373 | Set background-check disqualifications for educator credentials (became law). | Teachers and school staff: certification, pay, and background checks | Became law | adjacent |
+| 2026 | HB1374 | Rewrote cooperative school district withdrawal and school discontinuance procedures (became law). | School governance: boards, districts, budgets, and consolidation | Became law | core |
+| 2026 | HB1386 | Would have let citizens vote to require a school district financial audit. | Parental rights, transparency, and school information | Did not pass | adjacent |
+| 2026 | HB1399 | Would have funded a Claremont school district renovation from the rainy day fund. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2026 | HB1401 | Would have amended the scholarship organization definition for EFAs; interim study. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Interim study | adjacent |
+| 2026 | HB1402 | Would have set credentials for superintendents; died on the table. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2026 | HB1403 | Would have set credentials for school business administrators; died on the table. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2026 | HB1412 | Would have governed flag displays in schools under the federal flag code. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2026 | HB1427 | Would have limited school district and municipal bond issuance. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2026 | HB1448 | Prohibited World Economic Forum materials in state curriculum (became law). | Curriculum, instruction, and classroom content | Became law | core |
+| 2026 | HB1449 | Would have limited when vaccine clinics may operate at schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2026 | HB1452 | Parent-taught driver education; motor-vehicle training. | — | Did not pass | context |
+| 2026 | HB1453 | Would have changed student school board member rules. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2026 | HB1456 | Would have repealed the 2025 trailer's legislative declaration of authority over public education. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HB1490 | Would have required scholarship organizations to notify parents about home-education termination notices. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2026 | HB1493 | Would have required gestational-development videos in health education (2026 retry). | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2026 | HB1499 | Eviction bill carrying the school-meals responsibility provisions; died between the chambers. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2026 | HB1503 | Funded a database of public school maps for emergency use (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2026 | HB1507 | Would have required a minimum daily recess time. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2026 | HB1511 | Agriculture-in-the-classroom membership law (became law). | Curriculum, instruction, and classroom content | Became law | adjacent |
+| 2026 | HB1512 | Would have let municipalities vote to block residents from EFA vouchers. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB1513 | Would have required EFA reporting and transparency reports. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB1514 | Required school monitoring and financial reports sent to school boards and authorities (became law). | Parental rights, transparency, and school information | Became law | core |
+| 2026 | HB1521 | Would have clarified the definition of home education. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2026 | HB1524 | Would have required a high school logic and critical thinking course. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2026 | HB1537 | Allowed high-resolution cameras to catch school bus stop-light violators (became law). | School buildings, facilities, and transportation | Became law | adjacent |
+| 2026 | HB1548 | Would have required publishing special-education cost data across school types; interim study. | Special education: services, costs, and rights | Interim study | core |
+| 2026 | HB1557 | Would have modified the state average per-pupil expenditure for special education. | Special education: services, costs, and rights | Did not pass | core |
+| 2026 | HB1563 | Rewrote the special education aid formula and its administration (became law). | Special education: services, costs, and rights | Became law | core |
+| 2026 | HB1565 | DCYF false-report penalty bill carrying school building aid project-manager provisions; vetoed, no override recorded as of collection. | School buildings, facilities, and transportation | Vetoed | core |
+| 2026 | HB1571 | Would have required review of statewide academic standards and curricula; died on the table. | Testing, accountability, and measures of student success | Did not pass | core |
+| 2026 | HB1573 | Permitted excused absences for certain activities and mandated hardship reassignments (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2026 | HB1578 | Would have added EFA definitions and reporting requirements; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB1579 | Would have studied methods to raise revenue for additional education spending; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2026 | HB1586 | Would have let the commissioner withhold funds from schools out of special-education compliance. | Special education: services, costs, and rights | Did not pass | core |
+| 2026 | HB1601 | Voter education program; election administration; interim study. | — | Interim study | context |
+| 2026 | HB1604 | Would have required schools and town halls as polling places on request; interim study. | School buildings, facilities, and transportation | Interim study | adjacent |
+| 2026 | HB1610 | Would have let districts retain year-end unassigned funds; vetoed, no override recorded as of collection. | School governance: boards, districts, budgets, and consolidation | Vetoed | core |
+| 2026 | HB1623 | Would have required uniform charter-school billing for special education services. | Special education: services, costs, and rights | Did not pass | adjacent |
+| 2026 | HB1628 | Would have required excused absences and credit policies for released-time religious instruction. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2026 | HB1635 | Would have modified suicide prevention education policy requirements. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2026 | HB1640 | Would have addressed consent for school billing (Medicaid to schools); died on the table. | Parental rights, transparency, and school information | Did not pass | adjacent |
+| 2026 | HB1644 | Would have permitted unilateral town withdrawal from cooperative districts; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | core |
+| 2026 | HB1645 | Would have defined rules for innovation schools. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2026 | HB1669 | Would have established a teacher bill of rights; interim study. | Teachers and school staff: certification, pay, and background checks | Interim study | core |
+| 2026 | HB1671 | Medicaid vaccine-exemption discrimination; health policy; interim study. | — | Interim study | context |
+| 2026 | HB1672 | Would have required line-item expenses in the school budget process. | Parental rights, transparency, and school information | Did not pass | adjacent |
+| 2026 | HB1688 | Would have expanded permitted restraint and redefined seclusion in schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2026 | HB1700 | Would have added a non-voting student member to the state board of education. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2026 | HB1708 | Would have changed statewide education property taxes and other tax revenues. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HB1712 | Would have changed charter conversion school law. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2026 | HB1714 | Would have issued state bonds to fund public school expenses. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HB1716 | Would have required academic accountability for education freedom accounts. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB1724 | Electric utility cost transparency; energy regulation. | — | Did not pass | context |
+| 2026 | HB1727 | Allowed student data sharing for the Summer EBT meals program (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | core |
+| 2026 | HB1731 | Would have created an educational opportunities information system. | Technology in schools: devices, data privacy, and online learning | Did not pass | adjacent |
+| 2026 | HB1758 | Changed school bus drivers' certificates (became law). | School buildings, facilities, and transportation | Became law | adjacent |
+| 2026 | HB1774 | Aligned scholarship granting organizations with federal workforce Pell grants (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2026 | HB1776 | Higher-education foreign-grant reporting; postsecondary; interim study. | — | Interim study | context |
+| 2026 | HB1778 | Would have prohibited 'personal identity ideology' in public school instruction and policies. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2026 | HB1787 | Would have modified the statewide education property tax; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2026 | HB1791 | Postsecondary grants for individuals with developmental disabilities; higher education. | — | Did not pass | context |
+| 2026 | HB1792 | Would have rewritten the divisive-concepts teaching prohibition (2026 version). | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2026 | HB1795 | Required criminal history checks for teaching license renewals (became law). | Teachers and school staff: certification, pay, and background checks | Became law | core |
+| 2026 | HB1799 | Would have required full state funding of an adequate education (2026 version). | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HB1800 | Would have changed statewide education property taxes; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2026 | HB1803 | Would have barred holding an education tax credit scholarship and EFA funds in the same year. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2026 | HB1804 | Would have consolidated school administrative units with elected chief administrators; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | core |
+| 2026 | HB1806 | Would have changed the revoked and suspended educator license list. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2026 | HB1808 | Would have funded an academic research and performance data analyst; died on the table. | Testing, accountability, and measures of student success | Did not pass | adjacent |
+| 2026 | HB1812 | Would have required third-party evaluation of mental health access adequacy. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2026 | HB1815 | Rewrote education financing - the biennium's main standalone school funding law (became law). | School funding: adequacy, SWEPT, and the education trust fund | Became law | core |
+| 2026 | HB1816 | Created education department intervention powers for districts in financial emergency (became law). | School governance: boards, districts, budgets, and consolidation | Became law | core |
+| 2026 | HB1817 | Guaranteed access to curricular courses and cocurricular programs across districts (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2026 | HB1818 | Would have used the 10-year facilities plans to project school building consolidation; died on the Senate table. | School governance: boards, districts, budgets, and consolidation | Did not pass | core |
+| 2026 | HB1819 | Would have required review of EFA service providers (2026 retry). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB1820 | Would have moved EFA administration to the education department; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB1823 | Would have required independent audits posted publicly by every school and SAU. | Parental rights, transparency, and school information | Did not pass | core |
+| 2026 | HB1824 | Would have addressed school district financial distress; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | adjacent |
+| 2026 | HB1826 | Would have changed the cost of an opportunity for an adequate education. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HB1827 | Required confidential criminal history checks on all prospective educational personnel (became law). | Teachers and school staff: certification, pay, and background checks | Became law | core |
+| 2026 | HB1828 | Would have audited teacher preparation programs; died on the table. | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2026 | HB1829 | Would have modified the definition of persistently dangerous schools. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2026 | HB1830 | Would have required firearm safety education in all public schools. | Curriculum, instruction, and classroom content | Did not pass | adjacent |
+| 2026 | HB1831 | Would have repealed the education trust fund targeted aid cap; died on the table. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HB1832 | Would have prioritized military families in EFA guidelines; interim study. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Interim study | adjacent |
+| 2026 | HB1834 | Would have addressed the EFA enrollment cap; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB1835 | Would have changed the formula for distributing aid to school districts. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HB208 | Would have changed certification requirements for school nurses (2026 record). | Teachers and school staff: certification, pay, and background checks | Did not pass | adjacent |
+| 2026 | HB222 | Repealed the charter-district special education MOU requirement (became law). | Special education: services, costs, and rights | Became law | core |
+| 2026 | HB266 | Energy-department law carrying a parental-bill-of-rights recording exemption (became law). | Parental rights, transparency, and school information | Became law | adjacent |
+| 2026 | HB292 | Would have created a revolving loan fund for school districts. | School buildings, facilities, and transportation | Did not pass | adjacent |
+| 2026 | HB295 | Would have made school building aid funds nonlapsing. | School buildings, facilities, and transportation | Did not pass | core |
+| 2026 | HB312 | College athlete name-image-likeness; higher education; interim study. | — | Interim study | context |
+| 2026 | HB360 | Would have prohibited schools from performing surgical procedures or prescribing drugs; died between the chambers. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2026 | HB362 | Would have required passing scores on professional education assessments for candidates. | Teachers and school staff: certification, pay, and background checks | Did not pass | core |
+| 2026 | HB366 | Would have changed the priority of school building aid applications (second version). | School buildings, facilities, and transportation | Did not pass | core |
+| 2026 | HB431 | Would have created a commission to study special education costs - the grid proposal's direct vehicle; the commission passed inside SB57 (2025) instead. | Special education: services, costs, and rights | Did not pass | core |
+| 2026 | HB463 | Recount board composition; election administration. | — | Did not pass | context |
+| 2026 | HB480 | Competency restoration; criminal law (became law). | — | Became law | context |
+| 2026 | HB491 | Would have studied alternative education funding to reduce property-tax reliance; killed 195-157. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HB510 | Higher-education due process; postsecondary. | — | Did not pass | context |
+| 2026 | HB563 | Would have changed adequacy costs, extraordinary need grants, and fiscal capacity disparity aid. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HB564 | Changed adoption of school administrative unit budgets (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2026 | HB590 | Would have changed cooperative school district board elections. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2026 | HB651 | Would have modified the base cost and differential aid of an adequate education. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HB656 | Let local school districts accept federal grants directly (became law). | School governance: boards, districts, budgets, and consolidation | Became law | adjacent |
+| 2026 | HB665 | Would have widened eligibility for free school meals (2026 version). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2026 | HB671 | Would have created a kindergarten literacy readiness program. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2026 | HB675 | Would have capped central office administrative expenses with reporting. | School governance: boards, districts, budgets, and consolidation | Did not pass | core |
+| 2026 | HB676 | Would have restructured the EFA parent and provider advisory commission with satisfaction surveys. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | adjacent |
+| 2026 | HB68 | Would have made best-interest placements within the same district mandatory (2026 record). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB709 | Would have let parents enroll children in any district where they pay property taxes. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB716 | Would have funded the dual and concurrent enrollment program. | Career and technical education and workforce pathways | Did not pass | core |
+| 2026 | HB729 | Would have funded an attorney to recodify education laws; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | adjacent |
+| 2026 | HB734 | Would have changed the statewide education property tax and homeowner relief; interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2026 | HB741 | Would have allowed parents to send children to any school district; interim study. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Interim study | core |
+| 2026 | HB742 | Would have drawn catastrophic special education aid from the education trust fund; interim study. | Special education: services, costs, and rights | Interim study | core |
+| 2026 | HB748 | Would have established a local EFA program; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB751 | Substance-use licensure bill carrying open-enrollment provisions; died between the chambers. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | HB772 | Would have created a foundation opportunity budget program (2026 retry); interim study. | School funding: adequacy, SWEPT, and the education trust fund | Interim study | core |
+| 2026 | HB773 | Would have changed aid to school districts for special education costs. | Special education: services, costs, and rights | Did not pass | core |
+| 2026 | HCR11 | Would have declared the Claremont directives non-binding; died on the table. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HR23 | Digital literacy for older Americans; adult services. | — | Did not pass | context |
+| 2026 | HR28 | Would have requested an opinion of the justices on the state's constitutional education obligations. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HR40 | Would have urged the legislature to adequately fund public education. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | HR43 | Would have recognized Manchester school district community partners. | School governance: boards, districts, budgets, and consolidation | Did not pass | adjacent |
+| 2026 | SB101 | Would have authorized statewide open enrollment; died on the table. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | SB204 | Would have required districts to provide meals during school hours with reimbursement (2026 version). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2026 | SB208 | Would have required school boards and public libraries to adopt curation policies. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2026 | SB211 | Would have restricted student athletics by biological sex (2026 record). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2026 | SB223 | Barred student IDs as ballot identification (became law); election law rider on school IDs. | — | Became law | context |
+| 2026 | SB33 | The Senate school-materials regulation bill; passed both chambers in different forms and died between them. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2026 | SB34 | Would have required parental consent for Medicaid-to-schools participation; died between the chambers. | Parental rights, transparency, and school information | Did not pass | core |
+| 2026 | SB39 | Alternative driver education; motor-vehicle training; interim study. | — | Interim study | context |
+| 2026 | SB403 | Would have required the school year to start after Labor Day; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | adjacent |
+| 2026 | SB407 | University tuition appropriation; higher education; interim study. | — | Interim study | context |
+| 2026 | SB429 | Placed trauma kits in public schools with a parental-rights recording provision (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2026 | SB430 | Required mandatory school-employee disclosure to parents (became law). | Parental rights, transparency, and school information | Became law | core |
+| 2026 | SB431 | Would have changed violations of the divisive-concepts teaching prohibition; died on the table. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2026 | SB432 | Would have allowed sunscreen in schools with skin-cancer prevention education. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2026 | SB433 | Would have established the seizure safe schools act. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2026 | SB434 | Would have regulated public school materials; vetoed, no override recorded as of collection. | Curriculum, instruction, and classroom content | Vetoed | core |
+| 2026 | SB463 | Would have addressed firearms in safe school zones (2026 record). | Students: discipline, safety, health, meals, and wellbeing | Did not pass | adjacent |
+| 2026 | SB491 | Let EFA funds pay for career and technical education and removed 'curriculum frameworks' references (became law). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Became law | core |
+| 2026 | SB507 | Created a study committee on school violence against staff and discipline obstacles (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | core |
+| 2026 | SB513 | Would have required owner's project managers for school building aid projects; passed both chambers in different forms and died between them. | School buildings, facilities, and transportation | Did not pass | core |
+| 2026 | SB517 | Would have required districts to provide meals during school hours; died on the table. | Students: discipline, safety, health, meals, and wellbeing | Did not pass | core |
+| 2026 | SB531 | Required student meal-debt reporting, with a Coos County cosmetology study (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2026 | SB532 | Would have strengthened the EFA oversight committee (Senate version). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | SB533 | Would have required competitive bids for EFA program administration every three years. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | SB574 | Created a commission to study the efficiency and structure of school administrative units (became law). | School governance: boards, districts, budgets, and consolidation | Became law | core |
+| 2026 | SB575 | Created a school bullying study committee with certification-records and SAU provisions (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | core |
+| 2026 | SB576 | Would have added EFA definitions and reporting requirements (Senate version). | School choice: EFAs, charter schools, tuitioning, and open enrollment | Did not pass | core |
+| 2026 | SB577 | Prohibited certain color additives in school meals (became law). | Students: discipline, safety, health, meals, and wellbeing | Became law | adjacent |
+| 2026 | SB578 | Would have addressed play-based curriculum and recess limits; passed both chambers in different forms and died between them. | Curriculum, instruction, and classroom content | Did not pass | core |
+| 2026 | SB579 | Would have extended intra-district transfers to schools within SAUs; interim study. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Interim study | adjacent |
+| 2026 | SB580 | Would have created a school cooperative purchasing program. | School governance: boards, districts, budgets, and consolidation | Did not pass | core |
+| 2026 | SB581 | Would have removed EFA priority guidelines and the enrollment cap; interim study. | School choice: EFAs, charter schools, tuitioning, and open enrollment | Interim study | core |
+| 2026 | SB582 | Would have modified the base cost of an adequate education (Senate version). | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
+| 2026 | SB583 | Would have created an education funding transparency data system; died on the Senate table. | Parental rights, transparency, and school information | Did not pass | core |
+| 2026 | SB584 | Would have increased funding for students receiving special education services. | Special education: services, costs, and rights | Did not pass | core |
+| 2026 | SB586 | Required independent audits of charter schools, SAUs, and unaudited districts (became law). | Parental rights, transparency, and school information | Became law | core |
+| 2026 | SB588 | Would have required all served municipalities to vote on school closures; interim study. | School governance: boards, districts, budgets, and consolidation | Interim study | adjacent |
+| 2026 | SB600 | Required quarterly reports on the general and education trust funds (became law). | School funding: adequacy, SWEPT, and the education trust fund | Became law | adjacent |
+| 2026 | SB658 | Would have created a safe and resilient schools advisory council; interim study. | Students: discipline, safety, health, meals, and wellbeing | Interim study | adjacent |
+| 2026 | SB659 | Would have rewritten education financing (Senate version); died on the Senate table. | School funding: adequacy, SWEPT, and the education trust fund | Did not pass | core |
