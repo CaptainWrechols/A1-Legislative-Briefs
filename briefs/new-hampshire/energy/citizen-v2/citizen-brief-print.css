@@ -1,0 +1,325 @@
+/*
+ * Citizen brief print CSS — The Nevada Forum
+ * Visual tokens mirrored from the Phase 2 Issue Brief sample:
+ *   templates/phase-2-samples/NV1-Issue-Brief-4-Growth-and-Water-Scarcity-v1.5.pdf
+ * (colors / fonts / spacing / module shapes only — no Phase 2 text is reused).
+ * Retired website palette (purple #8659B5, gold, cream #F2F0ED, Bebas Neue,
+ * Libre Baskerville) is intentionally absent.
+ */
+
+:root {
+  --navy: #1A2D4F;          /* titles, big numbers, table header row, top rule */
+  --navy-2: #2E4A78;        /* card headings, source labels */
+  --terracotta: #C0392B;    /* ALL-CAPS section headers, kicker lead, accents */
+  --terracotta-tint: #E8D5D3; /* soft pink tint under terracotta accent bars */
+  --body: #444444;          /* primary body gray */
+  --muted: #666666;         /* captions, explainers, secondary gray */
+  --card-border: #CCCCCC;   /* thin gray card borders */
+  --table-rule: #C8CDD6;    /* light blue-gray table rules */
+  --row-alt: #F4F5F7;       /* alternating table row */
+  --white: #FFFFFF;
+}
+
+@page { size: letter; margin: 0.6in; }
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body { background: var(--white); }
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 9pt;
+  line-height: 1.3;
+  color: var(--body);
+}
+
+strong { color: var(--body); }
+p { margin: 0 0 3pt; }
+p:last-child { margin-bottom: 0; }
+
+/* ---------- Module 1: eyebrow header ---------- */
+
+.masthead { margin-bottom: 5pt; }
+.masthead .forum {
+  font-size: 9pt;
+  font-weight: bold;
+  color: var(--navy);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+.masthead .navy-rule {
+  border: none;
+  border-top: 2.5pt solid var(--navy);
+  margin: 2pt 0 5pt;
+}
+.kicker {
+  font-size: 9pt;
+  font-weight: bold;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 4pt;
+}
+.kicker .k-lead { color: var(--terracotta); }
+h1.title {
+  font-size: 18pt;
+  font-weight: bold;
+  color: var(--navy);
+  line-height: 1.15;
+  margin-bottom: 3pt;
+}
+.dek { font-size: 8.5pt; color: var(--body); }
+
+/* ---------- Module 2: terracotta section headers ---------- */
+
+h2.sec {
+  font-size: 10.5pt;
+  font-weight: bold;
+  color: var(--terracotta);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin: 5.5pt 0 3pt;
+  break-after: avoid;
+}
+section:first-of-type h2.sec { margin-top: 6pt; }
+
+/* ---------- shared list styling ---------- */
+
+ul.plain { list-style: none; margin: 0 0 5pt; }
+ul.plain li { position: relative; padding-left: 12pt; margin-bottom: 1.5pt; }
+ul.plain li::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 4.5pt;
+  width: 4.5pt; height: 4.5pt;
+  background: var(--terracotta);
+}
+
+/* ---------- inline explainers (in-section, never endnotes) ---------- */
+
+.explainer { font-size: 8.5pt; color: var(--muted); }
+.explainer-block {
+  font-size: 8.5pt;
+  color: var(--muted);
+  border-left: 2pt solid var(--terracotta);
+  padding-left: 6pt;
+  margin-top: 2pt;
+}
+
+/* ---------- Module 4: navy-bar stat strip ---------- */
+
+.stat-strip { display: flex; gap: 8pt; }
+.stat-card {
+  flex: 1 1 0;
+  border: 1px solid var(--card-border);
+  border-top: 4pt solid var(--navy);
+  padding: 3.5pt 6pt 4pt;
+  break-inside: avoid;
+}
+.stat-num {
+  font-size: 22pt;
+  font-weight: bold;
+  color: var(--navy);
+  line-height: 1.05;
+  margin-bottom: 1pt;
+  white-space: nowrap;
+}
+.stat-num.compact { font-size: 15.5pt; padding-top: 5.5pt; }
+.stat-cap { font-size: 7.5pt; color: var(--muted); line-height: 1.3; }
+
+/* ---------- process line (bill-path primer) ---------- */
+
+.process {
+  font-size: 10pt;
+  font-weight: bold;
+  color: var(--navy);
+  margin: 1pt 0 4pt;
+}
+.process .arrow { color: var(--terracotta); padding: 0 2pt; }
+
+/* ---------- Module 5: navy-header comparison table ---------- */
+
+table.cmp {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 8pt;
+  line-height: 1.28;
+  margin-bottom: 4pt;
+}
+table.cmp thead { display: table-header-group; }
+table.cmp th {
+  background: var(--navy);
+  color: var(--white);
+  font-weight: bold;
+  text-align: left;
+  font-size: 8pt;
+  padding: 4pt 6pt;
+  border: 1px solid var(--navy);
+}
+table.cmp td {
+  padding: 3pt 5pt;
+  border: 1px solid var(--table-rule);
+  vertical-align: top;
+}
+table.cmp tbody tr:nth-child(even) { background: var(--row-alt); }
+table.cmp tr { break-inside: avoid; }
+td.basket-name { font-weight: bold; color: var(--navy-2); }
+
+/* bill examples inside table cells */
+.ex { margin-bottom: 2pt; }
+.ex:last-child { margin-bottom: 0; }
+.ex-label {
+  display: block;
+  font-size: 7.5pt;
+  font-weight: bold;
+  color: var(--navy-2);
+  letter-spacing: 0.03em;
+  margin-top: 0.5pt;
+}
+
+/* ---------- Module 3: quote-style history example cards ---------- */
+
+.quote-row { display: flex; gap: 8pt; }
+.quote-card {
+  flex: 1 1 0;
+  border: 1px solid var(--card-border);
+  border-top: 2.5pt solid var(--terracotta);
+  box-shadow: inset 0 3pt 0 var(--terracotta-tint);
+  padding: 4.5pt 6pt 4pt;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  break-inside: avoid;
+}
+.quote-card .q {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 8pt;
+  line-height: 1.35;
+  color: var(--body);
+  margin-bottom: 5pt;
+}
+.quote-card .src {
+  font-size: 6.5pt;
+  font-weight: bold;
+  color: var(--navy-2);
+  line-height: 1.3;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+/* ---------- Module 6: numbered question grid ---------- */
+
+.q-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8pt;
+}
+.q-card {
+  border: 1px solid var(--card-border);
+  padding: 8pt 9pt;
+  display: flex;
+  gap: 8pt;
+  align-items: flex-start;
+  break-inside: avoid;
+}
+.q-num {
+  font-size: 14pt;
+  font-weight: bold;
+  color: var(--terracotta);
+  line-height: 1;
+}
+.q-card p { font-size: 8.5pt; margin: 0; }
+
+/* ---------- Module 7: info card pairs ---------- */
+
+.info-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8pt;
+}
+.info-card {
+  border: 1px solid var(--card-border);
+  padding: 8pt 9pt;
+  break-inside: avoid;
+}
+.info-card h3 { font-size: 9pt; font-weight: bold; color: var(--navy-2); margin-bottom: 3pt; }
+.info-card p { font-size: 8.5pt; color: var(--muted); margin: 0; }
+
+/* ---------- page discipline ---------- */
+
+.page-break { break-after: page; }
+section { margin-bottom: 0; }
+
+.footline {
+  margin-top: 14pt;
+  padding-top: 6pt;
+  border-top: 0.75pt solid var(--table-rule);
+  font-size: 7.5pt;
+  color: var(--muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* ---------- appendices-specific ---------- */
+
+.toc {
+  border: 1px solid var(--card-border);
+  border-top: 4pt solid var(--navy);
+  padding: 10pt 12pt;
+  margin-bottom: 6pt;
+}
+.toc-title {
+  font-size: 10.5pt;
+  font-weight: bold;
+  color: var(--terracotta);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-bottom: 6pt;
+}
+.toc ol { list-style: none; }
+.toc li { margin-bottom: 3pt; font-size: 9pt; }
+.toc a { color: var(--navy-2); text-decoration: none; font-weight: bold; }
+.toc .toc-desc { color: var(--muted); font-weight: normal; }
+
+h2.appendix-title {
+  font-size: 15pt;
+  font-weight: bold;
+  color: var(--navy);
+  line-height: 1.2;
+  margin: 0 0 7pt;
+  break-after: avoid;
+}
+.appendix-kicker {
+  font-size: 8.5pt;
+  font-weight: bold;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--terracotta);
+  margin-bottom: 4pt;
+}
+h3.sub {
+  font-size: 9.5pt;
+  font-weight: bold;
+  color: var(--terracotta);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 13pt 0 6pt;
+  break-after: avoid;
+}
+table.cmp td em { color: var(--muted); }
+code {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 8pt;
+  color: var(--navy-2);
+}
+ol.num { margin: 0 0 5pt 14pt; }
+ol.num li { margin-bottom: 3pt; }
+.note { font-size: 8.5pt; color: var(--muted); font-style: italic; }
+
+@media screen {
+  body {
+    max-width: 8.5in;
+    margin: 0 auto;
+    padding: 0.6in;
+  }
+}
