@@ -1,0 +1,289 @@
+# New Hampshire issue config — Energy Cost, Sourcing, and Reliability
+# Built from config/issues/new-hampshire-public-education.yaml (the newest NH
+# issue) with search/relevance terms fitted to the energy vocabulary
+# (2026-08-12). Sessions 2020 -> current only.
+#
+# Select with: export ISSUE_CONFIG=config/issues/new-hampshire-energy.yaml
+
+state: new-hampshire
+issue_id: new-hampshire-04-energy
+issue_title: "Energy Cost, Sourcing, and Reliability in New Hampshire"
+issue_slug: energy
+openstates_jurisdiction: New Hampshire
+
+# NH runs annual sessions inside two-year biennia; budget years (HB1 operating
+# budget + HB2 policy trailer) are 2021, 2023, 2025.
+sessions:
+  - {label: "2020", openstates_identifier: "2020", sql_session_year: 2020, biennium: "2019-2020", budget: false}
+  - {label: "2021", openstates_identifier: "2021", sql_session_year: 2021, biennium: "2021-2022", budget: true}
+  - {label: "2022", openstates_identifier: "2022", sql_session_year: 2022, biennium: "2021-2022", budget: false}
+  - {label: "2023", openstates_identifier: "2023", sql_session_year: 2023, biennium: "2023-2024", budget: true}
+  - {label: "2024", openstates_identifier: "2024", sql_session_year: 2024, biennium: "2023-2024", budget: false}
+  - {label: "2025", openstates_identifier: "2025", sql_session_year: 2025, biennium: "2025-2026", budget: true}
+  - {label: "2026", openstates_identifier: "2026", sql_session_year: 2026, biennium: "2025-2026", budget: false}
+
+# Full-text search terms used to discover bills (SQL LIKE '%term%' over titles;
+# OpenStates bulk titles+abstracts for 2020-2024). High recall; every hit is
+# kept for human review in curation.
+#
+# Volume calibration (working/new-hampshire/energy/calibrate-terms.py, run over
+# the 2020-2024 bulk CSVs AND the 2025-2026 SQL legislation table before this
+# list was frozen):
+#   * Unlike the education packet (where bare "school"/"education" swept 1,275
+#     bills), the bare high-value words ARE affordable here: "energy" sweeps
+#     176 bills, "electric" 140, "utility" 46, "utilities" 37. They also
+#     subsume most compound phrases ("renewable energy", "energy efficiency",
+#     "energy storage", "department of energy", "electricity", "electrical",
+#     "electric vehicle", "electric grid", "net energy metering" via "energy").
+#   * The frozen 46-term list unions to 453 bills (318 in the 2020-2024 bulk
+#     mirror + 135 in the 2025-2026 SQL table) — half the education load.
+#
+# Substring-safety adjustments (SQL LIKE matches substrings) — every trap
+# below was measured and its uncovered hits hand-inspected:
+#   * "power" is a trap (50 hits; powers and duties, power of attorney,
+#     emergency powers, powerboats). The real energy bills it hides are
+#     rescued by "power line" (HB1331 2022), "power generation" (the
+#     assessing-power-generation study bills SB225/HB458 and successors),
+#     and "biopower" (the Burgess BioPower bills SB271 2022 / HB142 2023).
+#   * "rate" is a trap (182 hits; minimum hourly rate, tax rates, Medicaid
+#     reimbursement). Its only uncovered energy bills are rescued by
+#     "pole attachment" (SB595 2024) and "time-of-use" (HB674 2025).
+#   * "wind" is a trap (windows, windshields, Windsor); every real wind bill
+#     carries "offshore wind" or "renewable"/"energy" vocabulary — verified,
+#     zero uncovered wind-energy bills.
+#   * "oil" is a trap (soil, toilet); "heating oil" and "oil discharge"
+#     rescue the fuel-side bills (HB1395 2024, HB658 2025, HB1620 2026).
+#   * "gas" is a trap (tear gas); "natural gas" and "greenhouse gas" (RGGI
+#     cap-and-trade, climate action plan bills) carry the real thread.
+#   * "meter" is a trap (cemetery, perimeter); "smart meter" and the
+#     metering compounds carry it (HB1743 2026 smart-meter radiation).
+#   * "fuel" alone is cheap (12 hits) but "heating fuel", "fuel assistance",
+#     "fossil fuel", and "low carbon fuel" carry every real hit without the
+#     noise; "ethanol" rescues the fuel-blend retail bill (HB454 2026).
+#   * "solar" (22) and "grid" (15, subsumes "microgrid") are safe — verified.
+#   * "carbon" (19), "emission" (19), and "climate" (22) are kept: they carry
+#     carbon pricing, section-177 vehicle-emissions, TCI, and climate-plan
+#     bills; their forestry/school-climate noise is pruned in curation with
+#     recorded exclusion categories.
+#   * "coal" is omitted — its only hits are coal grading, coal-tar sealants,
+#     "rolling coal", and the Coalition Against Sexual and Domestic Violence;
+#     NH has no coal legislation in either universe (re-checked word-bounded
+#     in both certifications).
+#   * "community power" and "geothermal" score zero in both universes (NH
+#     community-power bills say "aggregation of electric customers"); kept as
+#     search terms anyway — they are free, and they document the vocabulary.
+#   * "peak demand", "kilowatt", "megawatt", "hydropower", "energy code",
+#     "boiler", "furnace", "kerosene" score zero and are omitted.
+search_terms:
+  - "energy"
+  - "electric"
+  - "utility"
+  - "utilities"
+  - "renewable"
+  - "net metering"
+  - "net energy metering"
+  - "transmission"
+  - "default service"
+  - "community power"
+  - "aggregation"
+  - "smart meter"
+  - "time-of-use"
+  - "public utilities commission"
+  - "ratepayer"
+  - "weatherization"
+  - "system benefits charge"
+  - "offshore wind"
+  - "hydroelectric"
+  - "geothermal"
+  - "biomass"
+  - "nuclear"
+  - "natural gas"
+  - "propane"
+  - "heating fuel"
+  - "fuel assistance"
+  - "site evaluation committee"
+  - "solar"
+  - "grid"
+  - "thermal"
+  - "pipeline"
+  - "biodiesel"
+  - "decommissioning"
+  - "power line"
+  - "power generation"
+  - "biopower"
+  - "pole attachment"
+  - "greenhouse gas"
+  - "heating oil"
+  - "oil discharge"
+  - "fossil fuel"
+  - "low carbon fuel"
+  - "ethanol"
+  - "carbon"
+  - "emission"
+  - "climate"
+
+# Words that mark a title/abstract as clearly on-topic (review flag only;
+# nothing is dropped). Also selects candidate HB2 sections
+# (hb2_sections.match_sections) - matches are recall-first and hand-pruned.
+# Kept identical to search_terms so no discovered bill is silently dropped by
+# the bulk-CSV relevance gate; "energy", "electric", "carbon", and "climate"
+# will over-match HB2 sections by design, and the HB2 hand review prunes them
+# with an audit trail.
+relevance_terms:
+  - "energy"
+  - "electric"
+  - "utility"
+  - "utilities"
+  - "renewable"
+  - "net metering"
+  - "net energy metering"
+  - "transmission"
+  - "default service"
+  - "community power"
+  - "aggregation"
+  - "smart meter"
+  - "time-of-use"
+  - "public utilities commission"
+  - "ratepayer"
+  - "weatherization"
+  - "system benefits charge"
+  - "offshore wind"
+  - "hydroelectric"
+  - "geothermal"
+  - "biomass"
+  - "nuclear"
+  - "natural gas"
+  - "propane"
+  - "heating fuel"
+  - "fuel assistance"
+  - "site evaluation committee"
+  - "solar"
+  - "grid"
+  - "thermal"
+  - "pipeline"
+  - "biodiesel"
+  - "decommissioning"
+  - "power line"
+  - "power generation"
+  - "biopower"
+  - "pole attachment"
+  - "greenhouse gas"
+  - "heating oil"
+  - "oil discharge"
+  - "fossil fuel"
+  - "low carbon fuel"
+  - "ethanol"
+  - "carbon"
+  - "emission"
+  - "climate"
+
+# HB2 is New Hampshire's omnibus budget policy trailer; it must be analysed
+# section-by-section (see docs/nh-hb2-section-workflow.md). Votes are recorded
+# on HB2 as a whole, never per section. For this issue HB2 carries major
+# structural policy: the 2021 trailer created the Department of Energy
+# (91:187), authorized electric rate reduction bonds (91:98), rewrote PUC
+# assessments (91:243-263), amended restructuring principles (91:281), and
+# set offshore-wind study direction (91:201); the 2023 trailer reworked PUC
+# assessment mechanics (79:119/122) and EV-registration fees (79:474-475);
+# the 2025 trailer carried the energy and aggregation sections the education
+# packet excluded. The property-taxes and public-education HB2 analyses both
+# EXCLUDED these sections with documented reasons — their EXCLUDED dicts are
+# the candidate map this issue re-curates as core.
+omnibus_bills:
+  - bill_no: HB2
+    role: "budget policy trailer (companion to HB1)"
+    cycles: [2021, 2023, 2025]
+    method: section-by-section
+    section_extractor: collectors/nh/hb2_sections.py
+    outputs:
+      sections_json: "working/new-hampshire/{issue}/hb2-sections.json"
+      sections_md: "working/new-hampshire/{issue}/hb2-sections.md"
+      relevant_json: "working/new-hampshire/{issue}/hb2-relevant.json"
+    # RSA chapters this issue is known to live in; used alongside
+    # relevance_terms when hand-reviewing HB2 section matches. Every chapter
+    # below was verified against the GenCourt RSA index before freezing.
+    affected_rsa_chapters:
+      - "12-P"    # Department of Energy
+      - "38"      # Municipal Electric, Gas, or Water Systems
+      - "53-E"    # Aggregation of Electric Customers by Municipalities and Counties (community power)
+      - "125-O"   # Multiple Pollutant Reduction Program (RGGI, 125-O:19 et seq.)
+      - "162-H"   # Energy Facility Evaluation, Siting, Construction and Operation (site evaluation committee)
+      - "362"     # Definition of Terms; Utilities Exempted
+      - "362-A"   # Limited Electrical Energy Producers Act (net energy metering)
+      - "362-F"   # Electric Renewable Portfolio Standard
+      - "363"     # The Public Utilities Commission
+      - "369-B"   # Electric Rate Reduction Financing and Commission Action (rate reduction bonds)
+      - "374"     # General Regulations (public utilities)
+      - "374-F"   # Electric Utility Restructuring
+      - "374-G"   # Electric Utility Investment in Distributed Energy Resources
+      - "378"     # Rates and Charges
+
+# Phase 2 Community Conversation proposals (June-July 2026), from the
+# "NH1 - Phase 2 Constituent Proposals - Grid View for Legislators" packet
+# (Energy Cost, Sourcing, and Reliability grid, editable revision of
+# 2026-08-12). These are the organizing spine of the proposal spotlights.
+# This grid section carries no star markers (legislature_addressed) —
+# unlike the education grid, no proposal here is flagged as already
+# addressed by the legislature.
+constituent_proposals:
+  - id: expand-renewable-energy
+    title: "Prioritize / expand renewable energy (solar, wind, geothermal, diversified sources)"
+    legislature_addressed: false
+    frequency: "Very High: Appeared in Nashua, Concord and online conversations."
+    notes: >-
+      Very limited pushback, but some concerns around cost of a renewable
+      build-out.
+    outcome: >-
+      High: Participants agreed that renewables offer cheaper and greener
+      power for NH.
+    match_terms: ["renewable", "renewable energy", "renewable portfolio", "solar", "offshore wind", "wind energy", "geothermal", "hydroelectric", "biomass", "nuclear", "clean energy", "net metering", "net energy metering", "362-F"]
+  - id: fund-nh-saves-weatherization
+    title: "Fund / strengthen NH Saves weatherization & efficiency programs (including on-bill financing)"
+    legislature_addressed: false
+    frequency: "Very High: Appeared in Nashua, Concord and online conversations."
+    notes: >-
+      The program has a limited scope and has faced some political
+      opposition. One participant argues that their tax dollars should not
+      pay to improve someone else's home.
+    outcome: >-
+      High: Most participants agree that the program is effective and should
+      be funded.
+    match_terms: ["energy efficiency", "weatherization", "system benefits charge", "NHSaves", "NH Saves", "on-bill", "energy conservation", "fuel assistance", "greenhouse gas"]
+  - id: eversource-puc-accountability
+    title: "Greater transparency / accountability for Eversource; better regulation of the PUC"
+    legislature_addressed: false
+    frequency: "Medium-low: Was brought up in Nashua."
+    notes: >-
+      Concerns about political viability with one participant noted
+      resistance from conservatives to further regulation.
+    outcome: >-
+      Broad agreement that the PUC needs more transparency, but some
+      divergence on how heavily to regulate.
+    match_terms: ["public utilities commission", "Eversource", "ratepayer", "electric rate", "default service", "consumer advocate", "electric distribution", "utility", "363", "374-F"]
+  - id: local-renewables-grid-infrastructure
+    title: "Incentivize renewables for cities, towns, and individuals and strengthen supporting grid infrastructure"
+    legislature_addressed: false
+    frequency: "Medium: Nashua, multiple tables"
+    notes: >-
+      Transmission is a limiting factor and the infrastructure is slow and
+      expensive to build
+    outcome: >-
+      High: Adopted as a final recommendation when tied to improving
+      transmission infrastructure
+    match_terms: ["community power", "aggregation", "net metering", "net energy metering", "transmission", "grid", "microgrid", "distributed energy", "energy storage", "power line", "pole attachment", "53-E", "374-G"]
+  - id: time-of-use-rates
+    title: "Adopt time-of-use / variable-price electricity rates"
+    legislature_addressed: false
+    frequency: "Medium-low: Was brought up in Concord."
+    notes: >-
+      Concerns about political viability. Roll-out of smart meters is slow
+    outcome: >-
+      High: Endorsed in Concord as a mechanism to keep cost down
+    match_terms: ["time-of-use", "smart meter", "peak demand", "electric rate", "rate design", "non-wire alternatives", "multi-year rate", "advanced metering"]
+
+# Relevant NH RSA chapters for background/context.
+rsa_chapters: ["12-P", "38", "53-E", "125-O", "162-H", "362", "362-A", "362-F", "363", "369-B", "374", "374-F", "374-G", "378"]
+
+agency_document_urls: []
+
+impact_lookback_years: 20

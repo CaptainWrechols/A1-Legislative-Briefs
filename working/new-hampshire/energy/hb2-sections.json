@@ -1,0 +1,1438 @@
+{
+  "issue": "new-hampshire-04-energy",
+  "note": "Hand-curated energy analysis of HB2, New Hampshire's omnibus budget policy trailer, for the 2021, 2023, and 2025 budget cycles. Candidates came from relevance-term matching over every extracted section (see working/.../hb2/{year}/); a human pass kept the energy sections, added one section the matcher missed (flagged hand_added), and logged every exclusion. This analysis REVERSES the sibling packets' curation: the energy and utility sections they excluded with documented reasons are the core here, and their education/tax sections are excluded. Roll-call votes are recorded on HB2 AS A WHOLE - a vote for or against the trailer is never a vote on one section, and must not be presented as one.",
+  "cycles": [
+    {
+      "session_year": 2021,
+      "bill_no": "HB2",
+      "chapter": 91,
+      "laws_citation": "Laws of 2021, Chapter 91",
+      "total_sections_extracted": 468,
+      "source": "gencourt:legislation_html",
+      "source_url": "https://gc.nh.gov/legislation/2021/HB0002.html",
+      "whole_bill_roll_call_count": 42,
+      "whole_bill_final_votes": [
+        {
+          "body": "Senate",
+          "date": "2021-06-24",
+          "motion": "Conference Committee Report",
+          "yeas": 14,
+          "nays": 10
+        },
+        {
+          "body": "House",
+          "date": "2021-06-24",
+          "motion": "Adopt Conference Committee Report",
+          "yeas": 198,
+          "nays": 181
+        }
+      ],
+      "relevant_sections": [
+        {
+          "cite": "91:11",
+          "heading": "Department of Administrative Services; Funding and Staffing Resource Limitations",
+          "category": "adjacent",
+          "plain_language": "Let the Department of Administrative Services suspend, for the biennium, its executive-order obligations to identify energy-efficiency projects in state facilities and to track state buildings' and vehicles' energy use, fossil-fuel consumption, and greenhouse-gas emissions.",
+          "affected_rsas": [
+            "RSA 21-I:12",
+            "RSA 21-I:14",
+            "RSA 21-I:26",
+            "RSA 21-I:44-a",
+            "RSA 21-I:44-b",
+            "RSA 21-I:7-c",
+            "RSA 21-I:78",
+            "RSA 21-I:80",
+            "RSA 21-I:81",
+            "RSA 21-I:82"
+          ]
+        },
+        {
+          "cite": "91:98",
+          "heading": "Issuance of Electric Rate Reduction Bonds; 2027",
+          "category": "core",
+          "plain_language": "Extended electric rate reduction bond authority to 2027 (RSA 369-B:5): the securitization tool that let utilities refinance stranded costs - the statute later used for storm-cost and divestiture financing that ratepayers repay on their bills.",
+          "affected_rsas": [
+            "RSA 369-B:5",
+            "RSA 77"
+          ]
+        },
+        {
+          "cite": "91:187",
+          "heading": "New Chapter; Department of Energy",
+          "category": "core",
+          "plain_language": "Created the Department of Energy (new RSA 12-P): a cabinet agency absorbing most Public Utilities Commission staff and functions plus the old Office of Strategic Initiatives' energy programs - the biggest restructuring of New Hampshire energy regulation since electric restructuring, moving policy, ratepayer advocacy support, and program administration out of the utility tribunal.",
+          "affected_rsas": [
+            "RSA 12-P:11",
+            "RSA 374-F:10",
+            "RSA 541-A",
+            "RSA 94:1-a",
+            "RSA by"
+          ]
+        },
+        {
+          "cite": "91:188",
+          "heading": "Department of Energy; Interim Commissioner",
+          "category": "adjacent",
+          "plain_language": "Let the Governor appoint an interim energy commissioner ahead of the department's full stand-up.",
+          "affected_rsas": [
+            "RSA 12-P:4"
+          ]
+        },
+        {
+          "cite": "91:189",
+          "heading": "Repeals",
+          "category": "adjacent",
+          "plain_language": "The companion repeals: struck the Office of Strategic Initiatives' energy-planning statutes (including its offshore wind industry office) whose functions moved into the new department.",
+          "affected_rsas": [
+            "RSA 12-O:51",
+            "RSA 4-C",
+            "RSA 4-E"
+          ]
+        },
+        {
+          "cite": "91:192",
+          "heading": "Organization of the Executive Branch",
+          "category": "adjacent",
+          "plain_language": "Added the Department of Energy to the executive-branch organization statute.",
+          "affected_rsas": [
+            "RSA 21-G:6-b"
+          ]
+        },
+        {
+          "cite": "91:193",
+          "heading": "Department of Energy; Unclassified Positions Established",
+          "category": "adjacent",
+          "plain_language": "Established the department's unclassified leadership positions (commissioner, deputy, division directors).",
+          "affected_rsas": [
+            "RSA 14:14-c",
+            "RSA 94:1-a",
+            "RSA 94:1-d"
+          ]
+        },
+        {
+          "cite": "91:194",
+          "heading": "Public Utilities Commission; Unclassified Positions Established",
+          "category": "adjacent",
+          "plain_language": "Re-established the slimmed-down Public Utilities Commission's unclassified positions after the staff transfer.",
+          "affected_rsas": [
+            "RSA 14:14-c",
+            "RSA 94:1-a",
+            "RSA 94:1-d"
+          ]
+        },
+        {
+          "cite": "91:200",
+          "heading": "Name Change; Department of Energy",
+          "category": "adjacent",
+          "plain_language": "Renamed statutory references from the old offices to the Department of Energy.",
+          "affected_rsas": [
+            "RSA 9-E:5"
+          ]
+        },
+        {
+          "cite": "91:201",
+          "heading": "Reference Changed: State Energy Strategy; Offshore Wind Commission",
+          "category": "adjacent",
+          "plain_language": "Moved the 10-year state energy strategy and the offshore wind commission references from the Office of Strategic Initiatives to the new department.",
+          "affected_rsas": [
+            "RSA 374-F:10"
+          ]
+        },
+        {
+          "cite": "91:202",
+          "heading": "Reference Changed; State Energy Policy; Least Cost Energy Planning",
+          "category": "adjacent",
+          "plain_language": "Moved the least-cost energy planning policy reference to the new department.",
+          "affected_rsas": [
+            "RSA 378:38"
+          ]
+        },
+        {
+          "cite": "91:204",
+          "heading": "Public Utilities Commission; Commission; Term",
+          "category": "core",
+          "plain_language": "Rewrote the Public Utilities Commission itself: three full-time commissioners on staggered six-year terms, nominated through a screening process - the leaner adjudicative tribunal left after the department split.",
+          "affected_rsas": [
+            "RSA 21-G:10",
+            "RSA 21-G:9",
+            "RSA 363:1"
+          ]
+        },
+        {
+          "cite": "91:205",
+          "heading": "Repeal",
+          "category": "adjacent",
+          "plain_language": "Repealed the old PUC organizational provisions superseded by the rewrite.",
+          "affected_rsas": [
+            "RSA 363:4-a"
+          ]
+        },
+        {
+          "cite": "91:206",
+          "heading": "Public Utilities Commission; Prohibition on Future Employment",
+          "category": "core",
+          "plain_language": "Barred PUC commissioners from taking employment with any utility the commission regulates for one year after leaving office - a revolving-door restriction on the state's utility regulators.",
+          "affected_rsas": [
+            "RSA 363:12-b"
+          ]
+        },
+        {
+          "cite": "91:207",
+          "heading": "Public Utilities Commission; Quorum",
+          "category": "adjacent",
+          "plain_language": "Set the two-commissioner quorum rule for the restructured commission.",
+          "affected_rsas": [
+            "RSA 363:16"
+          ]
+        },
+        {
+          "cite": "91:208",
+          "heading": "Public Utilities Commission; Request for Full Commission",
+          "category": "adjacent",
+          "plain_language": "Let parties request that the full commission hear a case.",
+          "affected_rsas": [
+            "RSA 363:17"
+          ]
+        },
+        {
+          "cite": "91:209",
+          "heading": "Repeal",
+          "category": "adjacent",
+          "plain_language": "Repealed superseded PUC hearing-officer provisions.",
+          "affected_rsas": [
+            "RSA 363:18-a",
+            "RSA 363:22-a"
+          ]
+        },
+        {
+          "cite": "91:210",
+          "heading": "Public Utilities Commission; Staff",
+          "category": "adjacent",
+          "plain_language": "Authorized the restructured commission's own staff (general counsel and hearings personnel).",
+          "affected_rsas": [
+            "RSA 363-A",
+            "RSA 363:27"
+          ]
+        },
+        {
+          "cite": "91:211",
+          "heading": "Office of the Consumer Advocate; Attachment to Department of Energy",
+          "category": "core",
+          "plain_language": "Kept the Office of the Consumer Advocate - the ratepayers' lawyer in utility cases - independent, administratively attached to the new Department of Energy rather than the commission.",
+          "affected_rsas": [
+            "RSA 21-G:10",
+            "RSA 363:28"
+          ]
+        },
+        {
+          "cite": "91:212",
+          "heading": "Office of the Consumer Advocate; Attachment to Department of Energy",
+          "category": "adjacent",
+          "plain_language": "Companion attachment and staffing provisions for the consumer advocate's office.",
+          "affected_rsas": [
+            "RSA 363:28"
+          ]
+        },
+        {
+          "cite": "91:213",
+          "heading": "Repeal",
+          "category": "adjacent",
+          "plain_language": "Repealed superseded PUC staffing statutes.",
+          "affected_rsas": [
+            "RSA 363:30",
+            "RSA 363:36"
+          ]
+        },
+        {
+          "cite": "91:214",
+          "heading": "Public Utilities Commission; Complaints",
+          "category": "adjacent",
+          "plain_language": "Split complaint-handling between the new department and the commission.",
+          "affected_rsas": [
+            "RSA 363:39"
+          ]
+        },
+        {
+          "cite": "91:215",
+          "heading": "Electric Vehicle Charging Stations Infrastructure Commission; Membership",
+          "category": "adjacent",
+          "plain_language": "Reconstituted the electric vehicle charging stations infrastructure commission's membership around the new department.",
+          "affected_rsas": [
+            "RSA 4-G:1"
+          ]
+        },
+        {
+          "cite": "91:216",
+          "heading": "Electric Vehicle Charging Stations Infrastructure Commission; Duties",
+          "category": "adjacent",
+          "plain_language": "Rewrote that commission's duties: planning the build-out of EV charging infrastructure along state corridors.",
+          "affected_rsas": [
+            "RSA 4-G:1"
+          ]
+        },
+        {
+          "cite": "91:217",
+          "heading": "Maintenance of Funds Collected Pursuant to Electric Utility Restructuring Orders",
+          "category": "adjacent",
+          "plain_language": "Moved custody of funds collected under electric utility restructuring orders (rate-settlement money) to the new department's oversight.",
+          "affected_rsas": [
+            "RSA 374-F:4",
+            "RSA 6:12-b"
+          ]
+        },
+        {
+          "cite": "91:218",
+          "heading": "Energy Efficiency and Clean Energy Districts",
+          "category": "adjacent",
+          "plain_language": "Moved the commercial property assessed clean energy (C-PACE) districts' technical standards from the PUC to the department - the financing tool for building-efficiency retrofits.",
+          "affected_rsas": [
+            "RSA 53-F:6"
+          ]
+        },
+        {
+          "cite": "91:220",
+          "heading": "Energy Efficiency and Sustainable Energy Board; Membership",
+          "category": "adjacent",
+          "plain_language": "Reconstituted the Energy Efficiency and Sustainable Energy (EESE) board - the standing stakeholder board on efficiency and clean-energy policy - around the new department.",
+          "affected_rsas": [
+            "RSA 125-O:5-a",
+            "RSA 21-G:10"
+          ]
+        },
+        {
+          "cite": "91:221",
+          "heading": "State Building Code Review Board; Membership",
+          "category": "adjacent",
+          "plain_language": "Put the new department on the state building code review board, where the energy code lives.",
+          "affected_rsas": [
+            "RSA 155-A:10"
+          ]
+        },
+        {
+          "cite": "91:222",
+          "heading": "Nuclear Decommissioning Financing Committee; Membership",
+          "category": "adjacent",
+          "plain_language": "Reconstituted the nuclear decommissioning financing committee (the body assuring Seabrook's decommissioning money) with the new department.",
+          "affected_rsas": [
+            "RSA 162-F:15"
+          ]
+        },
+        {
+          "cite": "91:223",
+          "heading": "Conduct of Studies Concerning Changes in Laws and Regulations with a View to Atomic Development",
+          "category": "adjacent",
+          "plain_language": "Moved the atomic-development law-and-regulation study duty to the department.",
+          "affected_rsas": [
+            "RSA 162-B:3"
+          ]
+        },
+        {
+          "cite": "91:224",
+          "heading": "New Hampshire Building Code; Energy Code Compliance Form",
+          "category": "adjacent",
+          "plain_language": "Moved the simplified residential energy code compliance form's rulemaking to the building code review board with department input.",
+          "affected_rsas": [
+            "RSA 155-A:1",
+            "RSA 155-A:10-a",
+            "RSA 674:51"
+          ]
+        },
+        {
+          "cite": "91:225",
+          "heading": "Organization of Nuclear Decommissioning Financing Committees",
+          "category": "adjacent",
+          "plain_language": "Conforming reorganization of the nuclear decommissioning financing committee.",
+          "affected_rsas": [
+            "RSA 162-F:17"
+          ]
+        },
+        {
+          "cite": "91:226",
+          "heading": "Decommissioning of Nuclear Electric Generating Facilities; Report; Public Hearing",
+          "category": "adjacent",
+          "plain_language": "Conforming change to decommissioning reports and public hearings for nuclear generating facilities.",
+          "affected_rsas": [
+            "RSA 162-F:21"
+          ]
+        },
+        {
+          "cite": "91:227",
+          "heading": "Site Evaluation Committee; Membership; Administrative Attachment",
+          "category": "core",
+          "plain_language": "Restructured the Site Evaluation Committee - the body that approves or rejects large energy facilities like transmission lines and wind plants - shrinking it and attaching it administratively to the new department.",
+          "affected_rsas": [
+            "RSA 162-H:3",
+            "RSA 21-G:10"
+          ]
+        },
+        {
+          "cite": "91:228",
+          "heading": "Committee Established",
+          "category": "core",
+          "plain_language": "Created a study committee on further revisions to the Site Evaluation Committee - the opening move in the siting-reform fight that continued all period.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "91:229",
+          "heading": "Minimum Energy Efficiency Standards for Certain Products; Definitions",
+          "category": "adjacent",
+          "plain_language": "Moved the minimum energy efficiency standards for products (appliance standards) to the department.",
+          "affected_rsas": [
+            "RSA 339-G:1"
+          ]
+        },
+        {
+          "cite": "91:230",
+          "heading": "Reference Change; Minimum Energy Efficiency Standards for Certain Products; Department",
+          "category": "adjacent",
+          "plain_language": "Companion reference change for the appliance efficiency standards.",
+          "affected_rsas": [
+            "RSA provisions"
+          ]
+        },
+        {
+          "cite": "91:231",
+          "heading": "Gas Companies; When Public Utilities",
+          "category": "adjacent",
+          "plain_language": "Conforming change to when gas companies (including pipeline operators) are regulated as public utilities.",
+          "affected_rsas": [
+            "RSA 362:4-b"
+          ]
+        },
+        {
+          "cite": "91:232",
+          "heading": "New Paragraph; Limited Electrical Energy Producers Act; Definitions",
+          "category": "adjacent",
+          "plain_language": "Added a department definition to the Limited Electrical Energy Producers Act - the net-metering statute's framework.",
+          "affected_rsas": [
+            "RSA 362-A:1-a"
+          ]
+        },
+        {
+          "cite": "91:233",
+          "heading": "Reference Change; Net Energy Metering; Department of Energy",
+          "category": "adjacent",
+          "plain_language": "Conforming reference change moving net energy metering administration to the department.",
+          "affected_rsas": [
+            "RSA provisions"
+          ]
+        },
+        {
+          "cite": "91:234",
+          "heading": "Net Energy Metering",
+          "category": "core",
+          "plain_language": "Rewrote the group-host net metering rules (RSA 362-A:9, XIV): how a customer-generator hosts a group of customers and how hosts register and report - the mechanics that community solar projects run on.",
+          "affected_rsas": [
+            "RSA 362-A:9",
+            "RSA 362-F:2"
+          ]
+        },
+        {
+          "cite": "91:235",
+          "heading": "Repeal",
+          "category": "adjacent",
+          "plain_language": "Repealed a superseded net-metering provision.",
+          "affected_rsas": [
+            "RSA 362-F:2"
+          ]
+        },
+        {
+          "cite": "91:236",
+          "heading": "Electric Renewable Energy Classes; Reference Changed",
+          "category": "adjacent",
+          "plain_language": "Conforming reference changes to the electric renewable energy classes.",
+          "affected_rsas": [
+            "RSA 362-F:11",
+            "RSA 362-F:12",
+            "RSA 362-F:4"
+          ]
+        },
+        {
+          "cite": "91:237",
+          "heading": "Electric Renewable Energy Classes; Reference Change",
+          "category": "adjacent",
+          "plain_language": "Conforming reference change to the renewable energy classes.",
+          "affected_rsas": [
+            "RSA 362-F",
+            "RSA 362-F:3",
+            "RSA 362-F:4"
+          ]
+        },
+        {
+          "cite": "91:238",
+          "heading": "Renewable Energy Certificates",
+          "category": "adjacent",
+          "plain_language": "Moved renewable energy certificate administration to the department.",
+          "affected_rsas": [
+            "RSA 362-F:13",
+            "RSA 362-F:6"
+          ]
+        },
+        {
+          "cite": "91:239",
+          "heading": "Electric Renewable Portfolio Standard; Information Collection; Reference Change",
+          "category": "adjacent",
+          "plain_language": "Moved renewable portfolio standard information collection to the department.",
+          "affected_rsas": [
+            "RSA 362-F:10",
+            "RSA 362-F:8"
+          ]
+        },
+        {
+          "cite": "91:240",
+          "heading": "Electric Renewable Portfolio Standard; Renewable Energy Fund",
+          "category": "core",
+          "plain_language": "Rewrote the renewable energy fund statute (RSA 362-F:10): the alternative-compliance-payment money that funds rebates and low-income solar programs is continually appropriated to the new department.",
+          "affected_rsas": [
+            "RSA 362-A:9",
+            "RSA 362-F:10",
+            "RSA 362-F:3",
+            "RSA 362-F:8",
+            "RSA 374-F:5"
+          ]
+        },
+        {
+          "cite": "91:241",
+          "heading": "References Change; Electric Renewable Portfolio Standards; Department of Energy",
+          "category": "adjacent",
+          "plain_language": "Conforming reference changes across the renewable portfolio standard.",
+          "affected_rsas": [
+            "RSA provisions"
+          ]
+        },
+        {
+          "cite": "91:242",
+          "heading": "Expenses of the Public Utilities Commission Against Certain Utilities",
+          "category": "core",
+          "plain_language": "Rewrote how the state charges utilities for their own regulation: the expenses of the commission and the new department are assessed against the utilities they regulate.",
+          "affected_rsas": [
+            "RSA 362",
+            "RSA 363-A:1",
+            "RSA 365:37",
+            "RSA 365:38",
+            "RSA 374-F:7"
+          ]
+        },
+        {
+          "cite": "91:243",
+          "heading": "Expenses of Public Utilities Commission Against Certain Utilities; Assessment",
+          "category": "core",
+          "plain_language": "The assessment formula itself: each public utility is assessed its share of regulatory costs based on gross revenue from New Hampshire customers - the funding backbone for both agencies, which flows into rates.",
+          "affected_rsas": [
+            "RSA 363-A:2"
+          ]
+        },
+        {
+          "cite": "91:244",
+          "heading": "Expenses of Public Utilities Commission Against Certain Utilities; Certification of Assessment; Collection",
+          "category": "adjacent",
+          "plain_language": "Certification and collection mechanics for the utility assessment.",
+          "affected_rsas": [
+            "RSA 363-A:1",
+            "RSA 363-A:2",
+            "RSA 363-A:3",
+            "RSA 363-A:4"
+          ]
+        },
+        {
+          "cite": "91:245",
+          "heading": "Public Utility Recovery of Assessment Costs",
+          "category": "adjacent",
+          "plain_language": "Let utilities recover the assessment costs in rates (default service and delivery charges) - the section that passes regulatory costs to ratepayers.",
+          "affected_rsas": [
+            "RSA 363-A:2",
+            "RSA 363-A:6"
+          ]
+        },
+        {
+          "cite": "91:246",
+          "heading": "Complaints to and Proceedings Before the Department of Energy and the Commission",
+          "category": "adjacent",
+          "plain_language": "Conforming split of complaint and proceeding jurisdiction between the department and the commission.",
+          "affected_rsas": [
+            "RSA 365"
+          ]
+        },
+        {
+          "cite": "91:247",
+          "heading": "Complaint Against Public Utilities",
+          "category": "adjacent",
+          "plain_language": "Rewrote who may complain against a public utility and where the complaint goes.",
+          "affected_rsas": [
+            "RSA 365:1"
+          ]
+        },
+        {
+          "cite": "91:248",
+          "heading": "Complaints to the Department of Energy and Proceedings Before the Commission",
+          "category": "adjacent",
+          "plain_language": "Routed customer complaints to the department, with adjudication before the commission.",
+          "affected_rsas": [
+            "RSA 365:2",
+            "RSA 365:3",
+            "RSA 365:6",
+            "RSA 365:7"
+          ]
+        },
+        {
+          "cite": "91:249",
+          "heading": "Proceedings Before the Public Utilities Commission",
+          "category": "adjacent",
+          "plain_language": "Conforming change to commission proceeding rules.",
+          "affected_rsas": [
+            "RSA 365:8"
+          ]
+        },
+        {
+          "cite": "91:250",
+          "heading": "Proceedings Before the Public Utilities Commission",
+          "category": "adjacent",
+          "plain_language": "Conforming change to commission proceeding rules.",
+          "affected_rsas": [
+            "RSA 365:8",
+            "RSA 541-A:29",
+            "RSA 541-A:29-a"
+          ]
+        },
+        {
+          "cite": "91:251",
+          "heading": "Repeal",
+          "category": "adjacent",
+          "plain_language": "Repealed a superseded proceedings provision.",
+          "affected_rsas": [
+            "RSA 365:8-a",
+            "RSA 374-F:4"
+          ]
+        },
+        {
+          "cite": "91:252",
+          "heading": "Complaints to Department of Energy and Public Utilities Commission; Expense of Investigations; Rate Proceeding",
+          "category": "adjacent",
+          "plain_language": "Assigned investigation expenses of department and commission proceedings to the utilities investigated (rate-case expense mechanics).",
+          "affected_rsas": [
+            "RSA 365:37",
+            "RSA 38"
+          ]
+        },
+        {
+          "cite": "91:253",
+          "heading": "Complaints to Department of Energy and Public Utilities Commission; Penalty Against Utility",
+          "category": "adjacent",
+          "plain_language": "Conforming change to the civil-penalty statute for utilities, enforceable through the new department.",
+          "affected_rsas": [
+            "RSA 365:41"
+          ]
+        },
+        {
+          "cite": "91:254",
+          "heading": "Affiliates of Public Utilities; Department of Energy",
+          "category": "adjacent",
+          "plain_language": "Moved public-utility affiliate oversight to the department.",
+          "affected_rsas": [
+            "RSA 366:2",
+            "RSA 366:3",
+            "RSA 366:5",
+            "RSA 374"
+          ]
+        },
+        {
+          "cite": "91:255",
+          "heading": "References Change; Service Equipment of Public Utilities; Department of Energy",
+          "category": "adjacent",
+          "plain_language": "Conforming reference changes for utility service-equipment regulation.",
+          "affected_rsas": [
+            "RSA provisions"
+          ]
+        },
+        {
+          "cite": "91:256",
+          "heading": "Service Equipment of Public Utilities; Units of Service",
+          "category": "adjacent",
+          "plain_language": "Conforming change to units-of-service rules for utility equipment.",
+          "affected_rsas": [
+            "RSA 370:1"
+          ]
+        },
+        {
+          "cite": "91:257",
+          "heading": "Service Equipment of Public Utilities; Department of Energy",
+          "category": "adjacent",
+          "plain_language": "Conforming change assigning service-equipment oversight to the department.",
+          "affected_rsas": [
+            "RSA 370:3"
+          ]
+        },
+        {
+          "cite": "91:258",
+          "heading": "Rights in Public Waters and Lands; License by Notification of New Attachments on Existing Utility Poles",
+          "category": "adjacent",
+          "plain_language": "Streamlined licenses for new attachments on existing utility poles and conduits over public waters and lands (license by notification).",
+          "affected_rsas": [
+            "RSA 371:17-a"
+          ]
+        },
+        {
+          "cite": "91:259",
+          "heading": "Rights in Public Waters and Lands; Hearing; Order",
+          "category": "adjacent",
+          "plain_language": "Companion hearing-and-order rules for those public-waters utility licenses.",
+          "affected_rsas": [
+            "RSA 371:17-a",
+            "RSA 371:17-b",
+            "RSA 371:20"
+          ]
+        },
+        {
+          "cite": "91:260",
+          "heading": "References Changed; Proceedings to Acquire Property or Rights; Rights in Public Waters and Lands; Department of Energy",
+          "category": "adjacent",
+          "plain_language": "Conforming reference changes for utility property-rights proceedings.",
+          "affected_rsas": [
+            "RSA provisions"
+          ]
+        },
+        {
+          "cite": "91:261",
+          "heading": "Extent of Power",
+          "category": "adjacent",
+          "plain_language": "Conforming change to the extent of regulatory power over utilities.",
+          "affected_rsas": [
+            "RSA 374:3"
+          ]
+        },
+        {
+          "cite": "91:262",
+          "heading": "Supervisory Power of Department of Energy and Public Utilities Commission",
+          "category": "adjacent",
+          "plain_language": "Split supervisory power over utilities between the department and the commission.",
+          "affected_rsas": [
+            "RSA 374:3-b"
+          ]
+        },
+        {
+          "cite": "91:263",
+          "heading": "Duties",
+          "category": "adjacent",
+          "plain_language": "Rewrote the general duties statute for utility oversight between the two agencies.",
+          "affected_rsas": [
+            "RSA 374:4",
+            "RSA 374:4-374:5-a"
+          ]
+        },
+        {
+          "cite": "91:264",
+          "heading": "Investigation of Other Utilities; Orders; Violation",
+          "category": "adjacent",
+          "plain_language": "Moved investigation of non-jurisdictional utilities and violation orders to the department.",
+          "affected_rsas": [
+            "RSA 370:2",
+            "RSA 374:7-374:7-a"
+          ]
+        },
+        {
+          "cite": "91:265",
+          "heading": "Public Utilities; Reports; Filing",
+          "category": "adjacent",
+          "plain_language": "Utility reports now filed with the department.",
+          "affected_rsas": [
+            "RSA 374:15"
+          ]
+        },
+        {
+          "cite": "91:266",
+          "heading": "Public Utilities; Reports",
+          "category": "adjacent",
+          "plain_language": "Companion utility reporting change.",
+          "affected_rsas": [
+            "RSA 374:17-374:19"
+          ]
+        },
+        {
+          "cite": "91:267",
+          "heading": "Service Territories; Department of Energy Jurisdiction",
+          "category": "adjacent",
+          "plain_language": "Moved utility service-territory jurisdiction to the department.",
+          "affected_rsas": [
+            "RSA 374:22-e"
+          ]
+        },
+        {
+          "cite": "91:271",
+          "heading": "Pole Attachments",
+          "category": "adjacent",
+          "plain_language": "Moved pole attachment regulation (the rates and terms for wires on utility poles) to the commission with department participation.",
+          "affected_rsas": [
+            "RSA 301:57",
+            "RSA 374:34-a",
+            "RSA 541-A"
+          ]
+        },
+        {
+          "cite": "91:272",
+          "heading": "Repeals",
+          "category": "adjacent",
+          "plain_language": "Repealed superseded utility-regulation provisions.",
+          "affected_rsas": [
+            "RSA 374:35",
+            "RSA 374:36"
+          ]
+        },
+        {
+          "cite": "91:273",
+          "heading": "Investigation of Accidents",
+          "category": "adjacent",
+          "plain_language": "Moved utility accident investigation to the department.",
+          "affected_rsas": [
+            "RSA 374:37-374:40",
+            "RSA 374:39"
+          ]
+        },
+        {
+          "cite": "91:274",
+          "heading": "New Paragraph; Definitions",
+          "category": "adjacent",
+          "plain_language": "Added the department to the underground utility damage prevention (Dig Safe) law's definitions.",
+          "affected_rsas": [
+            "RSA 374:48"
+          ]
+        },
+        {
+          "cite": "91:275",
+          "heading": "Rulemaking",
+          "category": "adjacent",
+          "plain_language": "Moved Dig Safe rulemaking from the commission to the department - the excavation-safety rules protecting buried gas and electric lines.",
+          "affected_rsas": [
+            "RSA 374:50",
+            "RSA 541-A"
+          ],
+          "hand_added": true
+        },
+        {
+          "cite": "91:276",
+          "heading": "Civil Penalty",
+          "category": "adjacent",
+          "plain_language": "Conforming change to Dig Safe civil penalties.",
+          "affected_rsas": [
+            "RSA 374:51",
+            "RSA 374:53",
+            "RSA 374:54",
+            "RSA 374:55"
+          ]
+        },
+        {
+          "cite": "91:278",
+          "heading": "Renewable Energy and Energy Efficiency Project Loan Programs",
+          "category": "adjacent",
+          "plain_language": "Moved the renewable energy and energy efficiency project loan programs (business finance authority lending) to the department.",
+          "affected_rsas": [
+            "RSA 374-G",
+            "RSA 374:61",
+            "RSA 477:4-h"
+          ]
+        },
+        {
+          "cite": "91:279",
+          "heading": "Electric Utility Restructuring; Purpose",
+          "category": "adjacent",
+          "plain_language": "Conforming change to the electric utility restructuring purpose statute.",
+          "affected_rsas": [
+            "RSA 374-F:1"
+          ]
+        },
+        {
+          "cite": "91:280",
+          "heading": "New Paragraph; Definitions",
+          "category": "adjacent",
+          "plain_language": "Added a department definition to the restructuring chapter.",
+          "affected_rsas": [
+            "RSA 374-F:2"
+          ]
+        },
+        {
+          "cite": "91:281",
+          "heading": "Restructuring Policy Principles; Implementation",
+          "category": "core",
+          "plain_language": "Amended the electric utility restructuring policy principles (RSA 374-F:3) and their implementation - the ground rules of New Hampshire's competitive electricity market, including how energy efficiency programs and the system benefits charge are administered.",
+          "affected_rsas": [
+            "RSA 362-A",
+            "RSA 362-F",
+            "RSA 362-F:10",
+            "RSA 362-F:2",
+            "RSA 362-F:6",
+            "RSA 363-A",
+            "RSA 365:37",
+            "RSA 365:38",
+            "RSA 374-F",
+            "RSA 374-F:3",
+            "RSA 374-F:4",
+            "RSA 378:37",
+            "RSA 38:36",
+            "RSA 541-A"
+          ]
+        },
+        {
+          "cite": "91:282",
+          "heading": "Electric Utility Restructuring; Ratepayer Protection",
+          "category": "core",
+          "plain_language": "Rewrote the restructuring chapter's ratepayer-protection provisions - who watches that restructuring savings reach customers.",
+          "affected_rsas": [
+            "RSA 374-F:4-b",
+            "RSA 541-A:29",
+            "RSA 541-A:29-a"
+          ]
+        },
+        {
+          "cite": "91:283",
+          "heading": "Oversight Committee; Report",
+          "category": "adjacent",
+          "plain_language": "Conforming change to the restructuring oversight committee's reporting.",
+          "affected_rsas": [
+            "RSA 374-F:5"
+          ]
+        },
+        {
+          "cite": "91:284",
+          "heading": "Competitive Electricity Supplier Requirements; Participation in Regional Activities",
+          "category": "adjacent",
+          "plain_language": "Moved competitive electricity supplier registration and regional-activities participation to the department.",
+          "affected_rsas": [
+            "RSA 362:2",
+            "RSA 374-F:4-b",
+            "RSA 374-F:7",
+            "RSA 53-E",
+            "RSA 541-A",
+            "RSA 541-A:29",
+            "RSA 541-A:29-a"
+          ]
+        },
+        {
+          "cite": "91:285",
+          "heading": "Offshore Wind and Port Development; Commission Established; Membership",
+          "category": "core",
+          "plain_language": "Moved the offshore wind and port development commission under the new department's leadership - the state's standing body on Gulf of Maine offshore wind.",
+          "affected_rsas": [
+            "RSA 374-F:10"
+          ]
+        },
+        {
+          "cite": "91:286",
+          "heading": "Reference Changed; Office of Offshore Wind Industry Development",
+          "category": "adjacent",
+          "plain_language": "Renamed the office of offshore wind industry development under the department.",
+          "affected_rsas": [
+            "RSA 374-F:10"
+          ]
+        },
+        {
+          "cite": "91:287",
+          "heading": "Definitions Amend RSA 374-H:1, I to read as follows: I",
+          "category": "adjacent",
+          "plain_language": "Conforming definitions change for the multi-use energy data chapter (RSA 374-H).",
+          "affected_rsas": [
+            "RSA 374-H:1"
+          ]
+        },
+        {
+          "cite": "91:288",
+          "heading": "Investigation of Energy Storage",
+          "category": "core",
+          "plain_language": "Turned the energy storage docket into a department investigation: how storage projects get paid for avoided transmission and distribution costs - the grid-modernization question behind peak-demand costs.",
+          "affected_rsas": [
+            "RSA 374-F",
+            "RSA 374-G",
+            "RSA 374-H:2"
+          ]
+        },
+        {
+          "cite": "91:289",
+          "heading": "Fixing of Rates by Commission; Energy Policy Act Standards",
+          "category": "adjacent",
+          "plain_language": "Conforming change to rate-fixing procedures and federal Energy Policy Act standards review.",
+          "affected_rsas": [
+            "RSA 378:7"
+          ]
+        },
+        {
+          "cite": "91:290",
+          "heading": "Contracts for Advertising",
+          "category": "adjacent",
+          "plain_language": "Conforming change to utility advertising-contract rules (RSA 378:24).",
+          "affected_rsas": [
+            "RSA 378:24"
+          ]
+        },
+        {
+          "cite": "91:291",
+          "heading": "Filing; Inspection; Temporary Rates",
+          "category": "adjacent",
+          "plain_language": "Conforming change to rate filing, inspection, and temporary-rate procedures.",
+          "affected_rsas": [
+            "RSA 378:26"
+          ]
+        },
+        {
+          "cite": "91:292",
+          "heading": "Multi-use Data Energy Platform",
+          "category": "core",
+          "plain_language": "Rewrote the multi-use energy data platform statute (RSA 378:50-52): the shared platform giving customers and competitive suppliers access to electric and gas usage data - the infrastructure that time-of-use rates and smart-meter programs depend on.",
+          "affected_rsas": [
+            "RSA 363:28",
+            "RSA 363:37",
+            "RSA 363:38",
+            "RSA 374:62",
+            "RSA 378:50-378:52",
+            "RSA 541-A"
+          ]
+        },
+        {
+          "cite": "91:293",
+          "heading": "Regional Greenhouse Gas Initiative; Energy Efficiency Fund and Use of Auction Proceeds",
+          "category": "core",
+          "plain_language": "Moved the Regional Greenhouse Gas Initiative energy efficiency fund to the department and re-enacted how RGGI auction proceeds are used - most consumer proceeds rebated on electric bills, with a set-aside funding low-income energy efficiency programs.",
+          "affected_rsas": [
+            "RSA 125-O:23"
+          ]
+        },
+        {
+          "cite": "91:451",
+          "heading": "Department of Energy; Position Transferred",
+          "category": "adjacent",
+          "plain_language": "Transferred a business-systems position into the Department of Energy.",
+          "affected_rsas": []
+        }
+      ],
+      "excluded_candidates": [
+        {
+          "cite": "91:5",
+          "reason": "Division of plant and property reorganization; state facilities management ('energy' in building-management text)."
+        },
+        {
+          "cite": "91:45",
+          "reason": "Controlled drug prescription health program; 'transmission' of prescription data."
+        },
+        {
+          "cite": "91:60",
+          "reason": "Education trust fund statute; school finance ('utility' false positive; kept by the education and property-taxes packets)."
+        },
+        {
+          "cite": "91:62",
+          "reason": "Public school infrastructure fund; school facilities ('energy' in building-systems text; education packet's section)."
+        },
+        {
+          "cite": "91:76",
+          "reason": "Office of professional licensure reorganization; occupational licensing ('electric' in electrologists)."
+        },
+        {
+          "cite": "91:130",
+          "reason": "Workers' compensation hearings; 'transmission' of records."
+        },
+        {
+          "cite": "91:178",
+          "reason": "Speech-language pathology licensing; 'utility' false positive."
+        },
+        {
+          "cite": "91:190",
+          "reason": "Publications revolving fund renumbering; agency accounting (Office of Strategic Initiatives reorganization residue, no energy content)."
+        },
+        {
+          "cite": "91:191",
+          "reason": "Municipal and regional training fund renumbering; agency accounting (same reorganization residue)."
+        },
+        {
+          "cite": "91:195",
+          "reason": "Office of Planning and Development creation; land-use and development planning (its housing role is covered in the housing packet)."
+        },
+        {
+          "cite": "91:219",
+          "reason": "Enhanced 911 commission membership; telecommunications governance (conforming swap from the same reorganization)."
+        },
+        {
+          "cite": "91:268",
+          "reason": "Telephone utility service territories; telecommunications regulation (moved in the same reorganization; not energy)."
+        },
+        {
+          "cite": "91:269",
+          "reason": "Shared tenant telephone services; telecommunications regulation."
+        },
+        {
+          "cite": "91:270",
+          "reason": "Competitive telecommunications provider regulation and affordable telephone service; telecommunications."
+        },
+        {
+          "cite": "91:277",
+          "reason": "Telephone number conservation and area code policy; telecommunications."
+        },
+        {
+          "cite": "91:457",
+          "reason": "Broadband matching grant initiative; telecommunications infrastructure ('utility' pole text)."
+        },
+        {
+          "cite": "91:466",
+          "reason": "Family and medical leave insurance purchasing pool; insurance ('transmission' false positive)."
+        }
+      ]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB2",
+      "chapter": 79,
+      "laws_citation": "Laws of 2023, Chapter 79",
+      "total_sections_extracted": 612,
+      "source": "gencourt:lba_or_agency_pdf",
+      "source_url": "https://gc.nh.gov/LBA/Budget/operating_budgets/2024-2025/House_Finance/HB%202%20Chapter%20Law.pdf",
+      "whole_bill_roll_call_count": 17,
+      "whole_bill_final_votes": [
+        {
+          "body": "House",
+          "date": "2023-06-08",
+          "motion": "Concur (with Senate changes)",
+          "yeas": 326,
+          "nays": 53
+        }
+      ],
+      "relevant_sections": [
+        {
+          "cite": "79:110",
+          "heading": "Electric Utility Restructuring; Implementation",
+          "category": "core",
+          "plain_language": "Amended electric utility restructuring implementation (RSA 374-F:4): how the system benefits charge's energy efficiency component is set and reviewed - the ratepayer charge that funds the NHSaves efficiency programs.",
+          "affected_rsas": [
+            "RSA 374-F:4"
+          ]
+        },
+        {
+          "cite": "79:111",
+          "heading": "Disclosure of Electric Service Energy Sources and Environmental Characteristics",
+          "category": "adjacent",
+          "plain_language": "Conforming change to the disclosure rules for electric service energy sources and environmental characteristics.",
+          "affected_rsas": [
+            "RSA 362-F",
+            "RSA 378:49"
+          ]
+        },
+        {
+          "cite": "79:112",
+          "heading": "Electric Renewable Portfolio Standard; Renewable Energy Fund",
+          "category": "core",
+          "plain_language": "Amended the renewable energy fund statute (RSA 362-F:10) - the alternative-compliance-payment fund behind solar rebates and low-income clean-energy grants.",
+          "affected_rsas": [
+            "RSA 362-F:10"
+          ]
+        },
+        {
+          "cite": "79:113",
+          "heading": "Information Collection",
+          "category": "adjacent",
+          "plain_language": "Conforming change to renewable portfolio standard information collection.",
+          "affected_rsas": [
+            "RSA 362-F:8"
+          ]
+        },
+        {
+          "cite": "79:114",
+          "heading": "Phase-In for Existing Supply Contract Load",
+          "category": "adjacent",
+          "plain_language": "Phase-in rules for existing electricity supply contract load under the renewable portfolio standard.",
+          "affected_rsas": [
+            "RSA 362-F:14",
+            "RSA 362-F:3"
+          ]
+        },
+        {
+          "cite": "79:115",
+          "heading": "Duties of Commissioner; Department of Energy",
+          "category": "adjacent",
+          "plain_language": "Conforming change to the energy commissioner's duties.",
+          "affected_rsas": [
+            "RSA 12-P:5",
+            "RSA 363-A"
+          ]
+        },
+        {
+          "cite": "79:116",
+          "heading": "Public Utilities Commission; Office of the Consumer Advocate",
+          "category": "adjacent",
+          "plain_language": "Moved Office of the Consumer Advocate budget provisions within the PUC statute.",
+          "affected_rsas": [
+            "RSA 363:28"
+          ]
+        },
+        {
+          "cite": "79:117",
+          "heading": "New Paragraph; Public Utilities Commission; Office of the Consumer Advocate",
+          "category": "adjacent",
+          "plain_language": "Companion consumer-advocate budget provision.",
+          "affected_rsas": [
+            "RSA 363-A",
+            "RSA 363:28"
+          ]
+        },
+        {
+          "cite": "79:118",
+          "heading": "Office of the Consumer Advocate; Transfer Authority",
+          "category": "adjacent",
+          "plain_language": "Gave the Office of the Consumer Advocate authority to transfer funds between expenditure classes - budget flexibility for the ratepayers' advocate.",
+          "affected_rsas": [
+            "RSA 9:17-a"
+          ]
+        },
+        {
+          "cite": "79:119",
+          "heading": "Public Utilities; Assessment",
+          "category": "core",
+          "plain_language": "Rewrote the public utilities assessment (RSA 363-A): how the costs of the Department of Energy and PUC are assessed against regulated utilities - the mechanics of who pays for utility regulation.",
+          "affected_rsas": [
+            "RSA 363-A:2"
+          ]
+        },
+        {
+          "cite": "79:120",
+          "heading": "Public Utilities; Certification of Assessment",
+          "category": "adjacent",
+          "plain_language": "Certification mechanics for the utility assessment.",
+          "affected_rsas": [
+            "RSA 363-A:1",
+            "RSA 363-A:2",
+            "RSA 363-A:3"
+          ]
+        },
+        {
+          "cite": "79:121",
+          "heading": "Expenses of Public Utilities Commission; Collections",
+          "category": "adjacent",
+          "plain_language": "Collection mechanics for the assessment.",
+          "affected_rsas": [
+            "RSA 363-A:4"
+          ]
+        },
+        {
+          "cite": "79:122",
+          "heading": "Expenses of Public Utilities Commission; Exemption from Assessment",
+          "category": "adjacent",
+          "plain_language": "Exempted the smallest utilities (under $150,000 of annual revenue) from the regulatory assessment.",
+          "affected_rsas": [
+            "RSA 363-A:2",
+            "RSA 363-A:5"
+          ]
+        },
+        {
+          "cite": "79:123",
+          "heading": "Appropriation; Department of Energy; Establishment of the Regional Energy Advocacy Fund",
+          "category": "core",
+          "plain_language": "Created the Regional Energy Advocacy Fund with a $250,000 appropriation: money for the state to advocate in regional (ISO-New England and federal) energy proceedings, where wholesale prices are actually set.",
+          "affected_rsas": [
+            "RSA 374-F:8"
+          ]
+        },
+        {
+          "cite": "79:125",
+          "heading": "Department of Energy; Commissioner; Deputy Commissioner; Directors; General Counsel",
+          "category": "adjacent",
+          "plain_language": "Restated the Department of Energy's leadership structure (commissioner, deputy, directors, general counsel).",
+          "affected_rsas": [
+            "RSA 12-P:4",
+            "RSA 94:1-a"
+          ]
+        },
+        {
+          "cite": "79:474",
+          "heading": "Legislative Findings",
+          "category": "adjacent",
+          "plain_language": "Legislative findings on electric vehicles: EVs pay no gas tax, so the trailer's registration-fee sections frame road funding as the issue.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:475",
+          "heading": "New Section; Vehicle Registration Fee to be Collected",
+          "category": "core",
+          "plain_language": "Created the electric vehicle registration surcharge (RSA 261:141-b): $100 a year for battery-electrics and $50 for plug-in hybrids in lieu of gas taxes - the state's first EV-specific charge.",
+          "affected_rsas": [
+            "RSA 236:132",
+            "RSA 261"
+          ]
+        },
+        {
+          "cite": "79:517",
+          "heading": "Appropriation; Support of Regional Fisheries Alongside Offshore Wind Energy Development",
+          "category": "core",
+          "plain_language": "Appropriated $10,000 for New Hampshire's share of the 11-state regional fisheries effort alongside offshore wind development - the state's seat at the table as Gulf of Maine wind advances.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:518",
+          "heading": "Appropriation; Business Network for Offshore Wind Membership",
+          "category": "core",
+          "plain_language": "Appropriated $30,000 for three years of state membership in the Business Network for Offshore Wind - the supply-chain and industry-development side of offshore wind.",
+          "affected_rsas": []
+        },
+        {
+          "cite": "79:581",
+          "heading": "Department of Energy; Study on Graduated Public Assistance Mandated",
+          "category": "core",
+          "plain_language": "Ordered the Department of Energy to study a graduated, proportional low-income home energy assistance program for households that earn too much for existing fuel assistance - the benefits-cliff study on heating help.",
+          "affected_rsas": []
+        }
+      ],
+      "excluded_candidates": [
+        {
+          "cite": "79:138",
+          "reason": "Education trust fund restatement; school finance ('utility' false positive; the education packet's section)."
+        },
+        {
+          "cite": "79:248",
+          "reason": "Meals and rooms tax population estimates; tax administration ('energy' false positive in office-of-planning text)."
+        },
+        {
+          "cite": "79:291",
+          "reason": "Electricians; definitions - occupational licensing for the electrical trades (consistent with the siblings' electrician-licensing exclusions)."
+        },
+        {
+          "cite": "79:292",
+          "reason": "Electricians; inspectors - occupational licensing."
+        },
+        {
+          "cite": "79:293",
+          "reason": "Electricians; licensing requirements - occupational licensing."
+        },
+        {
+          "cite": "79:294",
+          "reason": "Electrician licensing repeals - occupational licensing."
+        },
+        {
+          "cite": "79:302",
+          "reason": "Mechanical licensing board (fire control, gas fitters); occupational licensing for the heating trades ('propane' in trade definitions)."
+        },
+        {
+          "cite": "79:346",
+          "reason": "Budget trailer transmission to the legislature; budget-process boilerplate ('transmission' false positive)."
+        },
+        {
+          "cite": "79:353",
+          "reason": "Food waste disposal rules; solid-waste policy ('generating' food waste)."
+        },
+        {
+          "cite": "79:462",
+          "reason": "Housing Champion designation program; housing policy ('electric' in infrastructure-grant text; covered by the housing packet)."
+        },
+        {
+          "cite": "79:514",
+          "reason": "Drinking water transmission main appropriation (Nashua-Litchfield); water infrastructure ('transmission'/'ratepayer' false positives)."
+        }
+      ]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "HB2",
+      "chapter": 141,
+      "laws_citation": "Laws of 2025, Chapter 141",
+      "total_sections_extracted": 461,
+      "source": "sql:legislationtext",
+      "source_url": "sql://legislationtext/1188/CHAPTERED FINAL VERSION",
+      "whole_bill_roll_call_count": 45,
+      "whole_bill_final_votes": [
+        {
+          "body": "Senate",
+          "date": "2025-06-26",
+          "motion": "Conference Committee Report",
+          "yeas": 16,
+          "nays": 8
+        },
+        {
+          "body": "House",
+          "date": "2025-06-26",
+          "motion": "Adopt Conference Committee Report",
+          "yeas": 184,
+          "nays": 183
+        }
+      ],
+      "relevant_sections": [
+        {
+          "cite": "141:118",
+          "heading": "Department of Environmental Services; Air Resources Council",
+          "category": "adjacent",
+          "plain_language": "Updated the Air Resources Council's industry seats - the 'steam power' seat becomes an 'electric generating industry' seat - the air-permitting council that hears power-plant permit appeals.",
+          "affected_rsas": [
+            "RSA 21-O:11"
+          ]
+        },
+        {
+          "cite": "141:140",
+          "heading": "Department of Energy; Transfer of Funds",
+          "category": "core",
+          "plain_language": "Swept every uncommitted dollar of the renewable energy fund into the general fund on July 1, 2025 - a one-time raid on the fund that pays solar rebates and low-income clean-energy grants.",
+          "affected_rsas": [
+            "RSA 362-F:10"
+          ]
+        },
+        {
+          "cite": "141:141",
+          "heading": "Electric Renewable Portfolio Standard; Renewable Energy Fund",
+          "category": "core",
+          "plain_language": "Rewrote the renewable energy fund statute so that money in the fund at the start of each budget period is diverted to the general fund before programs are funded - the ongoing version of the sweep.",
+          "affected_rsas": [
+            "RSA 362-F:10"
+          ]
+        },
+        {
+          "cite": "141:142",
+          "heading": "2027 Prospective Change; Electric Renewable Portfolio Standard; Renewable Energy Fund",
+          "category": "core",
+          "plain_language": "The 2027 prospective restatement of the same renewable energy fund diversion - locking the general-fund-first rule into the statute going forward.",
+          "affected_rsas": [
+            "RSA 362-F:10"
+          ]
+        }
+      ],
+      "excluded_candidates": [
+        {
+          "cite": "141:95",
+          "reason": "Workers' compensation hearings; 'transmission' of records."
+        },
+        {
+          "cite": "141:145",
+          "reason": "Electricians; inspectors - occupational licensing for the electrical trades."
+        },
+        {
+          "cite": "141:169",
+          "reason": "Weights and measures device licensing fees; consumer-protection metrology (fuel-dispenser fees, not energy policy)."
+        },
+        {
+          "cite": "141:171",
+          "reason": "Dam registration fees; water-management program fees (hydro dams pay them, but the section is fee mechanics)."
+        },
+        {
+          "cite": "141:176",
+          "reason": "Solid waste management fund; waste policy ('energy' false positive)."
+        },
+        {
+          "cite": "141:234",
+          "reason": "Motor vehicle title and registration fees; transportation ('utility' vehicle class text)."
+        },
+        {
+          "cite": "141:253",
+          "reason": "Vehicle inspection statute repeals (including the emissions-inspection program); transportation program administration, consistent with the siblings' exclusion."
+        },
+        {
+          "cite": "141:254",
+          "reason": "Companion directive to the department of environmental services on the inspection repeal; transportation."
+        },
+        {
+          "cite": "141:255",
+          "reason": "Contingency clause for the inspection repeal; transportation."
+        },
+        {
+          "cite": "141:299",
+          "reason": "Alcohol and drug abuse commission; health governance ('transmission' false positive)."
+        },
+        {
+          "cite": "141:378",
+          "reason": "Drinking water and groundwater trust fund appropriation; water infrastructure ('utility'/'ratepayer' false positives)."
+        },
+        {
+          "cite": "141:389",
+          "reason": "Legislative declaration on public-education funding authority; education policy ('energy' false positive in text; the education packet's core section)."
+        }
+      ]
+    }
+  ]
+}
