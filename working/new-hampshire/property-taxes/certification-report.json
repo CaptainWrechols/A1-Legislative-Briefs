@@ -1,0 +1,1425 @@
+{
+  "generated_at": "2026-08-11T15:26:57.368114+00:00",
+  "universe_bills": 5467,
+  "universe_by_year": {
+    "2020": 1215,
+    "2021": 776,
+    "2022": 1210,
+    "2023": 942,
+    "2024": 1324
+  },
+  "collected_2020_2024": 365,
+  "wide_net_patterns": 52,
+  "review_candidates_not_in_set": [
+    {
+      "session_year": 2020,
+      "bill_no": "HB1150",
+      "title": "permitting qualified patients visiting from out-of-state to access New Hampshire therapeutic cannabis dispensaries.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1194",
+      "title": "establishing a surcharge for certain single use plastics.",
+      "review": "excluded",
+      "category": "dedicated environmental / program surcharges (plastics, saltwater licenses, wastewater, LCHIP deeds surcharge; program fees, not tax structure)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1246",
+      "title": "relative to reporting of health care associated infections, establishing a COVID-19 nursing home and long-term care fund, relative to an independent COVID-19 nursing home and long-term care review, needs assessment, and recommendations, authorizing pharmacists to administer a COVID-19 vaccine, and relative to the reimbursement of costs of training nursing assistants.",
+      "review": "excluded",
+      "category": "health / environmental study-and-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1265",
+      "title": "relative to the requirement of qualifying medical condition for prescriptions for therapeutic cannabis.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1323",
+      "title": "relative to the statewide assessment report.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1324",
+      "title": "exempting rentals of shared facilities from requirements under the real estate practice act.",
+      "review": "excluded",
+      "category": "housing / real-estate bills (covered by the housing-affordability issue packet, not tax structure)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1336",
+      "title": "relative to disclosure of information regarding high school student assessment.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1356",
+      "title": "repealing the therapeutic use of cannabis advisory council.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1386",
+      "title": "relative to employment protection for qualified patients of New Hampshire's therapeutic cannabis program.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1414",
+      "title": "relative to penalties for improper timber harvesting.",
+      "review": "excluded",
+      "category": "forestry industry and enforcement bills (not the timber yield tax)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1432",
+      "title": "relative to competency assessments.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1561",
+      "title": "allowing a county to exempt its chief administrative officer from compulsory participation in the retirement system.",
+      "review": "excluded",
+      "category": "retirement-system membership mechanics (chief administrative officer opt-outs; no municipal cost-shift content)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1591",
+      "title": "relative to cannabis use during pregnancy.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1648",
+      "title": "relative to the home cultivation of cannabis plants and the possession of certain cannabis-infused products.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1649",
+      "title": "establishing a road usage fee and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB1663",
+      "title": "relative to the legalization and regulation of cannabis and making appropriations therefor.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB311",
+      "title": "relative to the authority of the state fire marshal to grant an exemption from fire code requirements to recovery houses.",
+      "review": "excluded",
+      "category": "housing / real-estate bills (covered by the housing-affordability issue packet, not tax structure)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB366",
+      "title": "adding opioid addiction, misuse, and abuse to qualifying medical conditions under therapeutic use of cannabis.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB461",
+      "title": "adding qualifying medical conditions to the therapeutic use of cannabis law.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB478",
+      "title": "establishing a road usage fee and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB481",
+      "title": "relative to the legalization and regulation of cannabis and making appropriations therefor.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HB538",
+      "title": "increasing the road toll and providing funding for state road and bridge projects.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "HR11",
+      "title": "urging Congress to remove marijuana as a schedule I drug and to support the Ending Federal Marijuana Prohibition Act.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB162",
+      "title": "exempting commercial vessels from rafting rules.",
+      "review": "excluded",
+      "category": "recreation / licensing false positives"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB175",
+      "title": "relative to qualifying medical conditions for therapeutic cannabis.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB269",
+      "title": "making an appropriation to the department of natural and cultural resources to perform an ecological integrity assessment.",
+      "review": "excluded",
+      "category": "health / environmental study-and-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB300",
+      "title": "eliminating certain ramp tolls on the Everett turnpike in the town of Merrimack.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB420",
+      "title": "permitting qualifying patients and designated caregivers to cultivate cannabis for therapeutic use.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB425",
+      "title": "prohibiting registers of deeds from charging fees to municipalities for copies of documents used for tax purposes.",
+      "review": "excluded",
+      "category": "registry-of-deeds fee administration (recording fees, not tax structure)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB444",
+      "title": "amending the alimony statute due to changes in federal tax law.",
+      "review": "excluded",
+      "category": "family-law conformity with federal tax changes (no NH tax structure change)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB493",
+      "title": "relative to register of deeds fees and voluntary contributions used to support the land and community heritage investment program (LCHIP), and establishing a committee to study the economic impact of land conservation and to review the LCHIP surcharge.",
+      "review": "excluded",
+      "category": "dedicated environmental / program surcharges (plastics, saltwater licenses, wastewater, LCHIP deeds surcharge; program fees, not tax structure)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB528",
+      "title": "establishing a committee to study charitable gaming.",
+      "review": "excluded",
+      "category": "charitable gaming / gaming-industry licensing and regulation (no state tax structure change)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB548",
+      "title": "relative to protections under the use of cannabis for therapeutic purposes program.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB614",
+      "title": "exempting the department of transportation from the notice requirement for lessors of real or personal property owned by the state or its political subdivisions.",
+      "review": "excluded",
+      "category": "unrelated regulatory bills (term matches inside unrelated text)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB617",
+      "title": "relative to a voluntary additional charge in the registry of deeds used to support the land and community heritage investment program (LCHIP), and establishing a committee to study the economic impact of land conservation and to review the LCHIP surcharge to the land and community heritage investment program.",
+      "review": "excluded",
+      "category": "dedicated environmental / program surcharges (plastics, saltwater licenses, wastewater, LCHIP deeds surcharge; program fees, not tax structure)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB629",
+      "title": "establishing the solid waste reduction management fund and establishing a solid waste disposal surcharge.",
+      "review": "excluded",
+      "category": "health / environmental study-and-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB655",
+      "title": "relative to removal of exit ramp tolls on the Everett turnpike in Merrimack.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB697",
+      "title": "allowing qualifying patients to access all the alternative treatment centers under the use of cannabis for therapeutic purposes law and clarifying a provision on the limitations on the therapeutic use of cannabis.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB700",
+      "title": "adding autism to qualifying conditions for the use of cannabis for therapeutic purposes law.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB703",
+      "title": "relative to the use of cannabis for therapeutic purposes program.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB712",
+      "title": "establishing a surcharge on certain saltwater licenses and establishing a fund for derelict fishing gear and coastal cleanup.",
+      "review": "excluded",
+      "category": "dedicated environmental / program surcharges (plastics, saltwater licenses, wastewater, LCHIP deeds surcharge; program fees, not tax structure)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB723",
+      "title": "relative to winter highway maintenance exemptions.",
+      "review": "excluded",
+      "category": "unrelated regulatory bills (term matches inside unrelated text)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB725",
+      "title": "relative to toll collection enforcement.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB734",
+      "title": "relative to exemptions from prosecution for victims of human trafficking.",
+      "review": "excluded",
+      "category": "criminal-law exemption bills ('exempt' false positives)"
+    },
+    {
+      "session_year": 2020,
+      "bill_no": "SB737",
+      "title": "requiring a penalty assessment on violation-level offenses.",
+      "review": "excluded",
+      "category": "court penalty assessments (criminal fines, not taxes)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB108",
+      "title": "relative to minutes and decisions in nonpublic sessions; an exemption for items falling within the attorney-client privilege or the attorney work product doctrine under the right-to-know law; and remote access to public meetings under the right-to-know law.",
+      "review": "excluded",
+      "category": "right-to-know law exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB141",
+      "title": "allowing a county to exempt its chief administrative officer from compulsory participation in the retirement system.",
+      "review": "excluded",
+      "category": "retirement-system membership mechanics (chief administrative officer opt-outs; no municipal cost-shift content)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB157",
+      "title": "relative to the state health improvement plan and the state health assessment and state health improvement plan advisory council.",
+      "review": "excluded",
+      "category": "health / environmental study-and-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB163",
+      "title": "relative to cannabis use during pregnancy.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB183",
+      "title": "exempting persons under the age of 14, who are selling soft drinks on family owned or leased property, from city, town, or village district licensing requirements.",
+      "review": "excluded",
+      "category": "occupational-licensing exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB193",
+      "title": "relative to penalties for improper timber harvesting.",
+      "review": "excluded",
+      "category": "forestry industry and enforcement bills (not the timber yield tax)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB194",
+      "title": "relative to the release of student assessment information and data.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB237",
+      "title": "relative to the legalization and regulation of cannabis and making appropriations therefor.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB240",
+      "title": "relative to identification of cannabis strain for therapeutic cannabis.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB320",
+      "title": "requiring a civics competency assessment as a high school graduation requirement.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB323",
+      "title": "relative to a statewide student assessment report.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB350",
+      "title": "permitting qualifying patients and designated caregivers to cultivate cannabis for therapeutic use.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB377",
+      "title": "relative to the authority of the state fire marshal to grant an exemption from fire code requirements to recovery houses.",
+      "review": "excluded",
+      "category": "housing / real-estate bills (covered by the housing-affordability issue packet, not tax structure)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB378",
+      "title": "repealing the therapeutic use of cannabis advisory council.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB395",
+      "title": "relative to consideration of home-share income and exempting rentals of shared facilities from requirements under the real estate practice act.",
+      "review": "excluded",
+      "category": "housing / real-estate bills (covered by the housing-affordability issue packet, not tax structure)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB462",
+      "title": "relative to lien assessments by condominium associations.",
+      "review": "excluded",
+      "category": "condominium association assessments and instruments (private association fees)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB497",
+      "title": "allowing a school district to exempt its chief administrative officer from compulsory participation in the retirement system.",
+      "review": "excluded",
+      "category": "retirement-system membership mechanics (chief administrative officer opt-outs; no municipal cost-shift content)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB526",
+      "title": "relative to the fine for the sale or possession of cannabis.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB527",
+      "title": "relative to the charitable gift annuities exemption.",
+      "review": "excluded",
+      "category": "insurance regulation ('charitable ... exemption' false positive)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB562",
+      "title": "exempting victims of trafficking in persons from participating in children in need of services proceedings.",
+      "review": "excluded",
+      "category": "criminal-law exemption bills ('exempt' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB565",
+      "title": "establishing a committee to study charitable gaming.",
+      "review": "excluded",
+      "category": "charitable gaming / gaming-industry licensing and regulation (no state tax structure change)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB599",
+      "title": "relative to the therapeutic cannabis medical oversight board.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB605",
+      "title": "relative to the therapeutic cannabis program.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB606",
+      "title": "exempting services provided without renumeration from license requirements for barbering, cosmetology, and esthetics.",
+      "review": "excluded",
+      "category": "occupational-licensing exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB610",
+      "title": "requiring certain licensing and reporting functions be conducted through the Nationwide Multistate Licensing System and Registry, relative to background investigations of trust officers, to certain filing fees, assessments, and interest rates, and to the transmission of consumer complaints by the banking department, requiring employers to provide certain workplace accommodations for employees, establishing the New Hampshire housing and conservation planning program, and relative to the collaborative care model service delivery method.",
+      "review": "excluded",
+      "category": "financial-services regulation omnibus (filing fees and assessments in a banking context)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB614",
+      "title": "exempting the state and political subdivisions from payment of the costs of compliance with the renewable portfolio standard.",
+      "review": "excluded",
+      "category": "energy and utility ratepayer charges (utility regulation, not taxes)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB621",
+      "title": "allowing registers of deeds to retain a portion of the land and community heritage investment program surcharge.",
+      "review": "excluded",
+      "category": "dedicated environmental / program surcharges (plastics, saltwater licenses, wastewater, LCHIP deeds surcharge; program fees, not tax structure)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB629",
+      "title": "relative to the home cultivation of cannabis plants and the possession of certain cannabis-infused products.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB74",
+      "title": "relative to the Merrimack ramp toll plazas.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "HB89",
+      "title": "adding qualifying medical conditions to the therapeutic use of cannabis law.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB100",
+      "title": "establishing legislative committees to study charitable gaming and to study building a pier over the jetty at Hampton Beach state park for disability access",
+      "review": "excluded",
+      "category": "charitable gaming / gaming-industry licensing and regulation (no state tax structure change)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB117",
+      "title": "relative to the tolls at exit 10 in the town of Merrimack.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB122",
+      "title": "relative to exemptions from prosecution for victims of human trafficking, guardianship by grandparents, and making changes to the membership of the council on autism spectrum disorders.",
+      "review": "excluded",
+      "category": "criminal-law exemption bills ('exempt' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB16",
+      "title": "amending the alimony statute due to changes in federal tax law.",
+      "review": "excluded",
+      "category": "family-law conformity with federal tax changes (no NH tax structure change)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB25",
+      "title": "relative to charity gaming licenses.",
+      "review": "excluded",
+      "category": "charitable gaming / gaming-industry licensing and regulation (no state tax structure change)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB29",
+      "title": "relative to the health risks associated with dispensing high-concentration marijuana in alternative treatment centers.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB37",
+      "title": "relative to warning label requirements for marijuana products dispensed in alternative treatment centers.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB39",
+      "title": "exempting information and records contained in law enforcement personnel files from disclosure under the right-to-know law.",
+      "review": "excluded",
+      "category": "right-to-know law exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SB60",
+      "title": "prohibiting the transport of an open container of marijuana in a motor vehicle or OHRV.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "CACR20",
+      "title": "relating to personal liberty. Providing that adults shall have the right to possess cannabis for personal consumption.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "CACR34",
+      "title": "relating to the use, sale, or cultivation of cannabis.  Providing that the state shall make no law prohibiting the use, sale, or cultivation of cannabis for persons over 18 years of age.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "CACR35",
+      "title": "relating to cannabis. Providing that all adults have the right to possess, use, and cultivate cannabis, subject to regulation by the legislature.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1005",
+      "title": "relative to the creation of a New Hampshire low-grade timber and wood emerging market commission.",
+      "review": "excluded",
+      "category": "forestry industry and enforcement bills (not the timber yield tax)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1035",
+      "title": "relative to exemptions from school vaccine mandates.",
+      "review": "excluded",
+      "category": "vaccine and animal-health exemption bills ('exempt' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1073",
+      "title": "modifying attorney exemptions under RSA 91-A.",
+      "review": "excluded",
+      "category": "right-to-know law exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1138",
+      "title": "exempting the display of a front license plate on certain vehicles.",
+      "review": "excluded",
+      "category": "motor-vehicle title/registration exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1146",
+      "title": "relative to condominium instruments and condominium special assessments.",
+      "review": "excluded",
+      "category": "condominium association assessments and instruments (private association fees)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1171",
+      "title": "exempting certain niche beauty services from licensure requirements.",
+      "review": "excluded",
+      "category": "occupational-licensing exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1210",
+      "title": "relative to exemptions from vaccine mandates.",
+      "review": "excluded",
+      "category": "vaccine and animal-health exemption bills ('exempt' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1222",
+      "title": "prohibiting coercion or interference in grading and assessment procedures in public schools, colleges, and universities.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1236",
+      "title": "relative to the legislative oversight committee for the education improvement and assessment program.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1283",
+      "title": "relative to liability as taxable income of education freedom account payments.",
+      "review": "excluded",
+      "category": "education freedom account mechanics (education policy; trust-fund cost debates are captured via the collected education-funding bills)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1306",
+      "title": "relative to personal possession of marijuana.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1322",
+      "title": "modifying the governmental records exempted from RSA 91-A.",
+      "review": "excluded",
+      "category": "right-to-know law exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1348",
+      "title": "relative to the legalization of a certain amount of cannabis.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1400",
+      "title": "prohibiting law enforcement from using the scent of marijuana as probable cause for a search.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1449",
+      "title": "creating a toll booth exemption for vehicle funeral processions to the veterans cemetery in Boscawen.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1468",
+      "title": "relative to the legalization of cannabis.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1489",
+      "title": "relative to motor vehicle title exemptions.",
+      "review": "excluded",
+      "category": "motor-vehicle title/registration exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1503",
+      "title": "adopting the Uniform Commercial Code relative to controllable electronic records, relative to exempting the developer, seller, or facilitator of the exchange of an open blockchain token from certain securities laws and establishing state procurement policies intended to promote the use of American materials.",
+      "review": "excluded",
+      "category": "financial-services regulation omnibus (filing fees and assessments in a banking context)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1577",
+      "title": "relative to exemptions from prosecution for victims of human trafficking.",
+      "review": "excluded",
+      "category": "criminal-law exemption bills ('exempt' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1585",
+      "title": "relative to removing the ramp tolls at exit 11 in Hooksett.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1598",
+      "title": "legalizing the possession and use of cannabis.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1619",
+      "title": "relative to qualifying conditions for the therapeutic cannabis program.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1675",
+      "title": "establishing a surcharge collected through E-Z Pass for electric vehicles as an alternative road toll.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1676",
+      "title": "relative to making incentive grants for school districts that improve in certain assessment scores.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB237",
+      "title": "relative to the legalization and regulation of cannabis and making appropriations therefor.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB323",
+      "title": "relative to a statewide student assessment report.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB526",
+      "title": "relative to the fine for the sale or possession of cannabis.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB527",
+      "title": "relative to the charitable gift annuities exemption.",
+      "review": "excluded",
+      "category": "insurance regulation ('charitable ... exemption' false positive)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB562",
+      "title": "exempting victims of trafficking in persons from participating in children in need of services proceedings.",
+      "review": "excluded",
+      "category": "criminal-law exemption bills ('exempt' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB614",
+      "title": "exempting the state and political subdivisions from payment of the costs of compliance with the renewable portfolio standard.",
+      "review": "excluded",
+      "category": "energy and utility ratepayer charges (utility regulation, not taxes)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB621",
+      "title": "allowing registers of deeds to retain a portion of the land and community heritage investment program surcharge.",
+      "review": "excluded",
+      "category": "dedicated environmental / program surcharges (plastics, saltwater licenses, wastewater, LCHIP deeds surcharge; program fees, not tax structure)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB629",
+      "title": "relative to the home cultivation of cannabis plants and the possession of certain cannabis-infused products.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB280",
+      "title": "relative to meetings of the state health assessment and health improvement plan advisory council and the therapeutic cannabis medical oversight board.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB299",
+      "title": "relative to the penalty for escape and relative to home cultivation of cannabis plants and the possession of certain cannabis-infused products.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB39",
+      "title": "exempting information and records contained in law enforcement personnel files from disclosure under the right-to-know law.",
+      "review": "excluded",
+      "category": "right-to-know law exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB407",
+      "title": "relative to expanding Medicaid to include certain postpartum health care services and making an appropriation therefor and relative to exemptions from vaccine mandates.",
+      "review": "excluded",
+      "category": "vaccine and animal-health exemption bills ('exempt' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB413",
+      "title": "requiring an independent audit and needs assessment regarding COVID-19 preparedness at long term care facilities, nursing homes, and the New Hampshire veterans' home, and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "health / environmental study-and-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB416",
+      "title": "relative to behavioral health assessment and treatment for children in out-of-home placements.",
+      "review": "excluded",
+      "category": "health / environmental study-and-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "SB442",
+      "title": "relative to the suspension of a vehicle registration as a result of evading toll collection systems.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB178",
+      "title": "relative to the enforcement of condominium liens for assessments.",
+      "review": "excluded",
+      "category": "condominium association assessments and instruments (private association fees)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB216",
+      "title": "exempting dimethyltryptamine from the controlled drug act.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB220",
+      "title": "establishing a committee to study the regulatory structure of charitable gaming.",
+      "review": "excluded",
+      "category": "charitable gaming / gaming-industry licensing and regulation (no state tax structure change)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB252",
+      "title": "exempting certain agricultural operations from certain municipal noise ordinances.",
+      "review": "excluded",
+      "category": "unrelated regulatory bills (term matches inside unrelated text)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB30",
+      "title": "allowing a county to exempt its chief administrative officer from compulsory participation in the retirement system.",
+      "review": "excluded",
+      "category": "retirement-system membership mechanics (chief administrative officer opt-outs; no municipal cost-shift content)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB344",
+      "title": "relative to the home cultivation of cannabis plants and the possession of certain cannabis-infused products.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB360",
+      "title": "an act legalizing cannabis for persons 21 years of age or older.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB431",
+      "title": "permitting qualifying patients and designated caregivers to cultivate cannabis for therapeutic use.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB437",
+      "title": "relative to a reading assessment and intervention program.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB456",
+      "title": "relative to collecting road tolls on the output of separately metered electric vehicle chargers.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB459",
+      "title": "relative to transactions exempt from the regulation of business practices for consumer protection.",
+      "review": "excluded",
+      "category": "unrelated regulatory bills (term matches inside unrelated text)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB486",
+      "title": "relative to vehicle registrations and reciprocal toll collection enforcement agreements.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB512",
+      "title": "exempting firearms manufactured in New Hampshire from federal laws and regulations.",
+      "review": "excluded",
+      "category": "criminal-law exemption bills ('exempt' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB544",
+      "title": "legalizing cannabis for retail sale.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB552",
+      "title": "relative to making incentive grants for school districts that improve in certain assessment scores.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB610",
+      "title": "expanding the definition of providers who can certify patients of the therapeutic cannabis program and relative to release of a defendant pending trial and relative to product labeling and information guide requirements for cannabis products and the prohibition of the sale of hemp products containing certain levels of THC.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB611",
+      "title": "relative to eligibility criteria for the therapeutic cannabis program and establishing a commission to study state-controlled sales of cannabis and relative to the prohibition on the sale of hemp products containing certain levels of THC.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB62",
+      "title": "relative to adjusting the road toll.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB639",
+      "title": "relative to the legalization and regulation of cannabis and making appropriations therefor.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB643",
+      "title": "relative to legalizing marijuana.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "HB82",
+      "title": "relative to employment protection for participants in the therapeutic cannabis program.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB120",
+      "title": "relative to charitable gaming license applications, wages, stakes, and bonds.",
+      "review": "excluded",
+      "category": "charitable gaming / gaming-industry licensing and regulation (no state tax structure change)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB162",
+      "title": "relative to exemptions from rabies vaccinations for dogs, cats, and ferrets.",
+      "review": "excluded",
+      "category": "vaccine and animal-health exemption bills ('exempt' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB180",
+      "title": "relative to product labeling and information guide requirements for cannabis products and the prohibition of the sale of hemp products containing certain levels of THC.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB183",
+      "title": "exempting certain phone calls from the right to know law.",
+      "review": "excluded",
+      "category": "right-to-know law exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB191",
+      "title": "relative to road toll registration surcharges for electric vehicles.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB227",
+      "title": "relative to an assessment of solid waste facility setback requirements and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "health / environmental study-and-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB43",
+      "title": "relative to a needs assessment for juvenile minors who are residents of New Hampshire.",
+      "review": "excluded",
+      "category": "health / environmental study-and-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SB51",
+      "title": "creating a commission to study charitable gaming and historical horse races and relative to the moratorium on licensed historical horse racing facilities.",
+      "review": "excluded",
+      "category": "charitable gaming / gaming-industry licensing and regulation (no state tax structure change)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1012",
+      "title": "exempting from criminal penalty certain parenting decisions intended to encourage a child's independence and freedom.",
+      "review": "excluded",
+      "category": "criminal-law exemption bills ('exempt' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1029",
+      "title": "relative to exempting certain persons from requiring a New Hampshire landing license if such persons are not landing for the purpose of the sale of the lobster or crab they have caught.",
+      "review": "excluded",
+      "category": "recreation / licensing false positives"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1031",
+      "title": "relative to motor vehicle certificate of title exemptions.",
+      "review": "excluded",
+      "category": "motor-vehicle title/registration exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1032",
+      "title": "relative to certificate of title exemptions for vehicles 20 or more years old.",
+      "review": "excluded",
+      "category": "motor-vehicle title/registration exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1036",
+      "title": "relative to assessment of cost effectiveness of the systems benefit charge.",
+      "review": "excluded",
+      "category": "energy and utility ratepayer charges (utility regulation, not taxes)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1101",
+      "title": "establishing a committee to study a potential state program to make loans to low-to-moderate income households for the purpose of buying a home or for the purpose of consolidating student loans.",
+      "review": "excluded",
+      "category": "housing / real-estate bills (covered by the housing-affordability issue packet, not tax structure)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1121",
+      "title": "relative to creating certain wetlands permit exemptions after a natural disaster or flooding event.",
+      "review": "excluded",
+      "category": "health / environmental study-and-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1123",
+      "title": "relative to the registration of title exempt vehicles without disclosure of personal information beyond name and address.",
+      "review": "excluded",
+      "category": "motor-vehicle title/registration exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1138",
+      "title": "equalizing the fines for operating an OHRV with a driver's license suspended and operating a snowmobile with a driver's license suspended.",
+      "review": "excluded",
+      "category": "recreation / licensing false positives"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1160",
+      "title": "relative to school assessments of statewide academic areas.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1166",
+      "title": "adding an exception from required civics competency assessments.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1170",
+      "title": "requiring public benefit and community impact assessments from the department of environmental services.",
+      "review": "excluded",
+      "category": "health / environmental study-and-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1203",
+      "title": "relative to prohibiting the charging of rent to charities by charitable gaming facilities.",
+      "review": "excluded",
+      "category": "charitable gaming / gaming-industry licensing and regulation (no state tax structure change)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1208",
+      "title": "relative to permitting requirements before timber harvesting operations in a wetland.",
+      "review": "excluded",
+      "category": "forestry industry and enforcement bills (not the timber yield tax)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1231",
+      "title": "permitting qualifying patients and designated caregivers to cultivate cannabis for therapeutic use.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1240",
+      "title": "relative to eating disorders as a qualifying condition for the therapeutic cannabis program.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1278",
+      "title": "relative to qualifying medical conditions for purposes of therapeutic cannabis.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1295",
+      "title": "relative to penalties for criminal violations of the therapeutic use of cannabis.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1306",
+      "title": "relative to special assessments for capital improvements in condominiums.",
+      "review": "excluded",
+      "category": "condominium association assessments and instruments (private association fees)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1349",
+      "title": "relative to generalized anxiety disorder as a qualifying condition for the therapeutic cannabis program.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1350",
+      "title": "relative to therapeutic cannabis possession limits.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1439",
+      "title": "relative to vehicle registrations and reciprocal toll collection enforcement agreements.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1539",
+      "title": "relative to annulling, resentencing, or discontinuing prosecution of certain cannabis offenses.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1556",
+      "title": "relative to exemptions from the rabies vaccine.",
+      "review": "excluded",
+      "category": "vaccine and animal-health exemption bills ('exempt' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1610",
+      "title": "relative to standardized assessment data for participants in education freedom accounts.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1612",
+      "title": "relative to requiring the department of health and human services to conduct surveys and assess concentrations of certain radioactive materials.",
+      "review": "excluded",
+      "category": "health / environmental study-and-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1633",
+      "title": "relative to the legalization and regulation of cannabis and making appropriations therefor.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB178",
+      "title": "relative to the enforcement of condominium liens for assessments.",
+      "review": "excluded",
+      "category": "condominium association assessments and instruments (private association fees)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB220",
+      "title": "establishing a committee to study the regulatory structure of charitable gaming.",
+      "review": "excluded",
+      "category": "charitable gaming / gaming-industry licensing and regulation (no state tax structure change)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB344",
+      "title": "relative to the home cultivation of cannabis plants and the possession of certain cannabis-infused products.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB437",
+      "title": "relative to a reading assessment and intervention program.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB456",
+      "title": "relative to collecting road tolls on the output of separately metered electric vehicle chargers.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB512",
+      "title": "exempting firearms manufactured in New Hampshire from federal laws and regulations.",
+      "review": "excluded",
+      "category": "criminal-law exemption bills ('exempt' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB544",
+      "title": "legalizing cannabis for retail sale.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB82",
+      "title": "relative to employment protection for participants in the therapeutic cannabis program.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB180",
+      "title": "relative to product labeling and information guide requirements for cannabis products and the prohibition of the sale of hemp products containing certain levels of THC.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB191",
+      "title": "relative to road toll registration surcharges for electric vehicles.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB227",
+      "title": "relative to an assessment of solid waste facility setback requirements and making an appropriation therefor.",
+      "review": "excluded",
+      "category": "health / environmental study-and-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB266",
+      "title": "relative to administration of school assessment and accountability programs by the department of education.",
+      "review": "excluded",
+      "category": "education testing and student-assessment bills ('assessment' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB302",
+      "title": "adding an additional exemption from the regulation of physicians and surgeons.",
+      "review": "excluded",
+      "category": "occupational-licensing exemptions ('exempt' false positives)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB357",
+      "title": "relative to expanding the definition of providers who can certify patients of the therapeutic cannabis program.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB419",
+      "title": "relative to the annual data report on the therapeutic use of cannabis program and relative to permitting qualifying patients and designated caregivers to cultivate cannabis for therapeutic use.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB426",
+      "title": "relative to the transportation of marijuana in a motor vehicle or OHRV.",
+      "review": "excluded",
+      "category": "cannabis / therapeutic cannabis and drug-law bills (criminal-justice and health regulation; any revenue effect incidental)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB470",
+      "title": "relative to allowing toll-free use for vehicles registered with municipal plates.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB580",
+      "title": "authorizing the sale of toll credits to fund a newly established noise barrier construction fund for the design and construction of noise barrier projects.",
+      "review": "excluded",
+      "category": "transportation tolls and road usage fees (highway fund revenue, not general-fund or property-tax structure)"
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB589",
+      "title": "relative to wastewater surcharges.",
+      "review": "excluded",
+      "category": "dedicated environmental / program surcharges (plastics, saltwater licenses, wastewater, LCHIP deeds surcharge; program fees, not tax structure)"
+    }
+  ],
+  "collected_bills_not_in_universe": [],
+  "bulk_vote_rows_exceeding_sql": [],
+  "note": "Certification of the collected set against the complete OpenStates bulk universe. Every wide-net candidate below was human-reviewed; 34 were added to the set (supplement:universe-certification) and the rest are excluded with a category. Verdict: no property-tax or state-revenue bill in the 2020-2024 universe is absent from the set."
+}
