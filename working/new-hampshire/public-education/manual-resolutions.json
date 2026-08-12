@@ -1,0 +1,61 @@
+{
+  "note": "Hand-researched resolutions for bills whose docket rows cannot be machine-staged (organizational Senate resolutions adopted on introduction; House non-concurrence rows the classifier's Nonconcur pattern misses because the docket spells it 'Non-Concurs'; and one deadline-consideration division vote). Each record cites its evidence.",
+  "bills": [
+    {
+      "session_year": 2021,
+      "bill_no": "SR3",
+      "disposition": "passed",
+      "resolution": "adopted by the Senate on introduction by voice vote (organizational session resolution on counting district returns)",
+      "resolution_source": "sql_docket (Introduced and Adopted, VV; 12/02/2020; SJ 1)",
+      "citations": ["SJ 1 12/02/2020", "working/new-hampshire/public-education/bulk-dockets.json 2021:SR3"]
+    },
+    {
+      "session_year": 2021,
+      "bill_no": "SR7",
+      "disposition": "passed",
+      "resolution": "adopted by the Senate on introduction, roll call 24-0 (organizational session resolution on counting the Governor and Executive Council vote)",
+      "resolution_source": "bulk_docket (Introduced and Adopted, RC 24Y-0N; 01/06/2021; SJ 2)",
+      "citations": ["SJ 2 01/06/2021", "working/new-hampshire/public-education/bulk-dockets.json 2021:SR7"]
+    },
+    {
+      "session_year": 2022,
+      "bill_no": "HB1195",
+      "disposition": "died_between_chambers",
+      "resolution": "passed both chambers in different forms, then the House refused to accept the Senate amendment (non-concur, no conference requested) and the bill died between the chambers",
+      "resolution_source": "bulk_docket (Senate OTPA 2022-1835s MA VV 05/05/2022 SJ 11; House Non-Concurs with Senate Amendment (Rep. Gordon): MA VV 05/12/2022 HJ 13; no later action)",
+      "citations": ["HJ 13 05/12/2022", "SJ 11 05/05/2022", "working/new-hampshire/public-education/bulk-dockets.json 2022:HB1195"]
+    },
+    {
+      "session_year": 2023,
+      "bill_no": "SR3",
+      "disposition": "passed",
+      "resolution": "adopted by the Senate on introduction by voice vote (organizational session resolution on counting district returns)",
+      "resolution_source": "bulk_docket (Introduced and Adopted, VV; 12/07/2022; SJ 1)",
+      "citations": ["SJ 1 12/07/2022", "working/new-hampshire/public-education/bulk-dockets.json 2023:SR3"]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "HB1311",
+      "disposition": "died_between_chambers",
+      "resolution": "passed both chambers in different forms, then the House refused to accept Senate amendment 2024-1945s (non-concur, no conference requested) and the bill died between the chambers",
+      "resolution_source": "bulk_docket (Senate OTPA 2024-1945s MA VV 05/22/2024 SJ 14; House Non-Concurs with Senate Amendment 2024-1945s (Rep. Ladd): MA VV 05/30/2024 HJ 15; no later action)",
+      "citations": ["HJ 15 05/30/2024", "SJ 14 05/22/2024", "working/new-hampshire/public-education/bulk-dockets.json 2024:HB1311"]
+    },
+    {
+      "session_year": 2024,
+      "bill_no": "SB523",
+      "disposition": "killed_floor",
+      "resolution": "passed the Senate 14-10, then died in the House when the motion to consider it failed on a 187-193 division vote, lacking the necessary two-thirds after the deadline",
+      "resolution_source": "bulk_docket (Senate OTPA RC 14Y-10N MA 04/05/2024 SJ 8; House 'Shall House Consider: MF DV 187-193 lacking necessary two-thirds vote' 04/11/2024 HJ 11)",
+      "citations": ["HJ 11 04/11/2024", "SJ 8 04/05/2024", "working/new-hampshire/public-education/bulk-dockets.json 2024:SB523"]
+    },
+    {
+      "session_year": 2025,
+      "bill_no": "SR3",
+      "disposition": "passed",
+      "resolution": "adopted by the Senate on introduction by voice vote (organizational session resolution on counting district returns)",
+      "resolution_source": "sql_docket (Introduced and Adopted, VV; 12/04/2024; SJ 1)",
+      "citations": ["SJ 1 12/04/2024", "sources/new-hampshire/public-education/processed/bill-actions.json 2025:SR3"]
+    }
+  ]
+}
