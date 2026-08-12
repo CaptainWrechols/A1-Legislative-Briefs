@@ -16,7 +16,7 @@ regenerates only the content.
 
 | File | What it is |
 |---|---|
-| `NH1-Property-Taxes-Lege-Brief.docx` | **The deliverable.** 9 pages, LibreOffice-verified: brief → policy spotlights (six NH1 grid proposals) → glossary → legislative process glossary; real Word footer ("NH1 Property Taxes Legislative Brief v1.0" + page number) |
+| `NH1-Property-Taxes-Lege-Brief.docx` | **The deliverable.** 8 pages, LibreOffice-verified: brief → policy spotlights (six NH1 grid proposals) → glossary (own page) → legislative process glossary (own page); template separator rules incl. the navy rule above Policy Spotlights; real Word footer ("NH1 Property Taxes Legislative Brief v1.0" + page number) |
 | `lege-brief.md` | Source markdown (edit this, then rebuild) |
 | `appendices/` | Appendices A–I (A bills · B themes · C votes · D sponsors · E paths · F limits · G bill-by-bill grid · H HB2 sections · I sources & certification) as markdown, plus `appendices-print.html` and `appendices.docx` (226 pp) |
 | `appendices/NH1-Property-Taxes-Master-Appendix.docx` | **Master Appendix** — all appendices in one Word document (title page + A–I; 226 pp in LibreOffice) |
@@ -50,7 +50,7 @@ regenerates only the content.
 - Proposals: `config/issues/new-hampshire-property-taxes.yaml` →
   `constituent_proposals` (encoded from the grid .docx).
 - Automated checks on this document (`working/new-hampshire/property-taxes/scan-lege-brief.py`):
-  no advice language; all 99 cited bills exist in the evidence pack; every
+  no advice language; all 98 cited bills exist in the evidence pack; every
   vote pair matches the official record (two documented docket-tally
   exceptions, labeled as such in the brief: HB675's 170–185 division-vote
   reconsideration and HB765's 18–0 recorded committee vote).
@@ -61,7 +61,12 @@ regenerates only the content.
 python3 collectors/export_docx_lege_brief.py \
   --source briefs/new-hampshire/property-taxes/citizen-v2/lege-brief.md \
   --out briefs/new-hampshire/property-taxes/citizen-v2/NH1-Property-Taxes-Lege-Brief.docx \
-  --footer "NH1 Property Taxes Legislative Brief v1.0"
+  --footer "NH1 Property Taxes Legislative Brief v1.0" --polish-breaks
+# --polish-breaks (documented per-issue knob in the exporter; default off):
+#   template separator rules (navy double rule above Policy Spotlights, gray
+#   rules over the appendix pointer and closing the spotlights), template-
+#   faithful glossary section structure, each glossary on its own single
+#   page, keep-with-next headings and widow control
 
 python3 working/new-hampshire/property-taxes/fix-footer-tabs.py   # keeps the page number on one line for this longer footer label
 python3 working/new-hampshire/property-taxes/build-appendices-nh.py

@@ -103,8 +103,7 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 
 ### How the tax ended (all inside HB2)
 
-- **HB2 2021 (91:89, 91:99):** the phase-out schedule — 4 percent in 2023, 3 percent in 2024 — and repeal set for 2027.
-- **HB2 2023 (79:85–88):** repeal accelerated two years, to January 1, 2025. Votes were on each whole trailer; the 2021 trailer passed the House 198–181.
+- **HB2 2021 (91:89, 91:99) and HB2 2023 (79:85–88):** the phase-out schedule — 4 percent in 2023, 3 percent in 2024, repeal in 2027 — then the repeal pulled up to January 1, 2025. Votes were on each whole trailer; the 2021 trailer passed the House 198–181.
 
 ### Stopped early (while the tax lived)
 
@@ -123,17 +122,16 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 
 ### Already law
 
-- **Video lottery terminals (HB2 2025, 141:26):** slot-style machines at charitable gaming facilities, with a 31 percent state take — the biggest new revenue source of the period.
+- **Video lottery terminals (HB2 2025, 141:26):** slot-style machines at charitable gaming facilities — a 31 percent state take, the period's biggest new revenue source.
 - **HB737 (2025):** statewide keno and local games of chance options.
 - **SB472 (2024):** historic horse racing revenue sharing with host communities.
 - **HB354 (2021):** the local option for sports betting locations.
 
 ### Proven support (cleared a chamber)
 
-- **SB104 (2023):** online gambling for community-college scholarships; passed the Senate 13–11, indefinitely postponed by the House.
+- **SB104 (2023):** online gambling for community-college scholarships; Senate 13–11, postponed by the House.
 - **HB1699 (2020):** the e-cigarette tax; passed the House 172–142, died on the Senate table.
-- **CACR1 and CACR2 (2021):** the income-tax and sales-tax bans; majorities of 202–171 and 201–170, short of three-fifths.
-- **CACR10 and CACR12 (2026):** the tax-law-adoption amendments; 194–158 and 193–148 in the House (CACR12 had passed the Senate 16–8), also short of three-fifths.
+- **CACR1 and CACR2 (2021); CACR10 and CACR12 (2026):** the income/sales-tax bans and the tax-law-adoption amendments — House majorities of 202–171, 201–170, 194–158, and 193–148, every one short of three-fifths.
 
 ### Stopped early
 
@@ -151,15 +149,15 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 
 ### Already law (the cuts)
 
-- **HB2 2021 (91:109–110, 91:103):** BPT 7.7 to 7.6 percent, BET 0.675 to 0.55 percent, meals and rooms 9 to 8.5 percent.
-- **HB1221 (2022):** BPT to 7.5 percent, passed the House 177–141 — paired with a one-time payment to towns worth 7.5 percent of their retirement contributions.
+- **HB2 2021 (91:109–110, 91:103):** BPT 7.7 to 7.6, BET 0.675 to 0.55, meals and rooms 9 to 8.5 percent.
+- **HB1221 (2022):** BPT to 7.5 percent, passed the House 177–141 — paired with the one-time 7.5 percent municipal retirement payment.
 - **HB2 2025 (141:132–133):** the education trust fund's share of both business taxes cut from 41 to 39 percent.
 
 ### Stopped early (the restorations)
 
 - **HB623 (2020) and HB10 (2021–22):** rate restorations; killed in the House.
 - **HB1422 (2024):** the omnibus rate bill (BPT, BET, CST, meals and rooms); interim study.
-- **HB255 and HB318 (2025):** raising the trust fund's business-tax shares; both killed — months before the trailer cut the shares instead.
+- **HB255 and HB318 (2025):** raising the trust fund's business-tax shares; killed — months before the trailer cut them instead.
 - **HB1478 (2022):** the surtax on large low-wage employers; killed 304–40.
 - **HB1480 (2026):** raising the meals and rooms rate back; killed.
 
@@ -173,7 +171,7 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 
 ### Already law (the adjacent ground)
 
-- **SB83 (2025):** a state fund reimbursing towns for the elderly, disabled, blind, and deaf exemptions, financed by video lottery terminal revenue — the state paying for property-tax relief instead of shifting it onto other local taxpayers.
+- **SB83 (2025):** a state fund reimbursing towns for the elderly, disabled, blind, and deaf exemptions, financed by video lottery terminal revenue.
 - **HB1494 (2026), HB99 (2025), HB1154 (2024), HB1667 (2022), HB130 (2020):** the veterans' credit and exemption thread — group-specific relief passes nearly every session.
 
 ### Stopped early
@@ -181,10 +179,10 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 - **HB1387 (2022):** the municipal homestead exemption option; killed on the House floor.
 - **HB1034 (2024) and HB1648 (2026):** the same design refiled; interim study both times.
 - **HB1580 (2026):** taxing non-primary residences more; killed 284–55.
-- **HB1786 (2026):** the luxury second-home assessment; tabled 189–158, and the motion to take it back up failed 100–235.
+- **HB1786 (2026):** the luxury second-home assessment; tabled 189–158, the rescue motion failing 100–235.
 - **HB1365 (2022) and HB1467 (2020):** different rates for residential and other property; both killed.
-- **HB1417 and HB1380 (2026):** the municipal land value tax and cost-based assessment — the structural alternatives; both killed.
-- **HB101, HB766, HB782 (2025):** elderly-homeowner exemptions — the broad-relief versions; all killed in the House.
+- **HB1417 and HB1380 (2026):** the land value tax and cost-based assessment; both killed.
+- **HB101, HB766, HB782 (2025):** the broad elderly-homeowner exemptions; all killed in the House.
 
 ## Increase regionalization / consolidate services
 
@@ -192,21 +190,21 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 
 ### Already law (mostly the other direction)
 
-- **HB152 (2021):** rewrote how cooperative school districts split costs among towns — the one clearly pro-cooperation law.
-- **HB530 (2023) and HB1374 (2026):** withdrawal-from-cooperative procedures; HB1374 passed the House 179–161 on its conference report.
+- **HB152 (2021):** rewrote how cooperative districts split costs — the one clearly pro-cooperation law.
+- **HB530 (2023) and HB1374 (2026):** withdrawal-from-cooperative procedures; HB1374 passed the House 179–161.
 - **HB1331 (2026):** let Derry absorb its cooperative school district as a town department, 193–157.
 
 ### Stopped early
 
-- **HB765 (2025):** consolidating school administrative units with elected superintendents; a unanimous 18–0 Inexpedient to Legislate committee report, killed by voice vote.
+- **HB765 (2025):** consolidating school administrative units; a unanimous 18–0 Inexpedient to Legislate committee report, killed by voice vote.
 - **HB1804 (2026):** the same consolidation refiled; interim study.
-- **HB1818 (2026):** school-building consolidation planning through the education department's 10-year facilities plans; died on the Senate table.
+- **HB1818 (2026):** school-building consolidation planning through the state's 10-year facilities plans; died on the Senate table.
 - **HB1644 (2026):** unilateral town withdrawal from cooperatives; interim study.
 - **HB1679 (2022):** dissolution and repeal of cooperative districts; interim study.
 
 ### Never filed
 
-- State incentives for consolidating municipal or school services, shared-service grants, or a regionalization study — the certified record contains none. (Consolidation mandates were filed — see above — but nothing pays or rewards towns for combining services.)
+- State incentives for consolidating services, shared-service grants, or a regionalization study — the certified record contains none; the mandates above reorganize, but nothing pays towns to combine services.
 
 ## Improve communication and public education by legislators
 
@@ -214,14 +212,14 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 
 ### Already law
 
-- **HB138 (2025):** multi-year tax-impact notation required on warrant articles (Chapter 144) — the thread's first win.
-- **HB1807 (2026):** tax rate and tax impact information required on warrant articles; passed the House 185–150 (Chapter 312).
-- **SB600 (2026):** quarterly public reports to the fiscal committee on the general and education trust funds (Chapter 141).
-- **HB1514 (2026):** school monitoring and financial reports sent to school boards and authorities.
+- **HB138 (2025):** multi-year tax-impact notation on warrant articles (Chapter 144) — the thread's first win.
+- **HB1807 (2026):** tax rate and tax impact information on warrant articles; House 185–150 (Chapter 312).
+- **SB600 (2026):** quarterly public reports on the general and education trust funds (Chapter 141).
+- **HB1514 (2026):** school monitoring and financial reports to school boards and authorities.
 
 ### Stopped early
 
-- **HB284 (2025):** tax impact statements on warrant articles — HB138's twin; passed the House 198–160 and was killed on the Senate floor.
+- **HB284 (2025):** tax impact statements — HB138's twin; passed the House 198–160, killed on the Senate floor.
 - **HB495 (2025):** a breakdown of tax changes mailed with residents' bills; killed in the House.
 - **SB225 (2025):** public notice before local property re-assessments; killed in the House.
 - **SB252 (2022):** more information on property tax bills; killed on the Senate floor 13–10.
@@ -235,31 +233,25 @@ A focused, bill-by-bill look at how far each proposal from the Community Convers
 
 ## Glossary
 
-- **Abatement:** The process for correcting an individual property tax bill — homeowners apply to the town, then may appeal to the Board of Tax and Land Appeals or court. A 2024 law (HB202) rewrote the rules; a 2022 law (SB317) cut the interest the state pays back.
-- **Adequate education / adequacy grants:** The state's per-pupil school aid, built on a base amount ($4,100 since the 2023 budget) plus add-ons for poverty, special education, and English learners.
-- **BET (business enterprise tax):** A 0.55 percent tax on wages, interest, and dividends businesses pay out — cut from 0.675 percent in the 2021 budget. A 2026 repeal bill died.
-- **BPT (business profits tax):** The state's main business tax, 7.5 percent of profits — cut from 7.7 in 2021 and again in 2022. The state's largest tax source.
-- **Board of Tax and Land Appeals (BTLA):** The state board that hears property tax abatement appeals as an alternative to court.
-- **Claremont / ConVal:** The school-funding court cases. Claremont (1990s) made the state responsible for funding an adequate education; ConVal (ongoing) challenges whether current amounts and the SWEPT meet that duty.
-- **Communications services tax:** The 7 percent tax on phone and communications service; repeal bills have reached interim study four times (2022–2026).
+- **Adequate education / adequacy grants:** The state's per-pupil school aid — a base amount ($4,100 since the 2023 budget) plus add-ons for poverty, special education, and English learners.
+- **BET (business enterprise tax):** A 0.55 percent tax on wages, interest, and dividends businesses pay out — cut from 0.675 percent in 2021. A 2026 repeal bill died.
+- **BPT (business profits tax):** The state's main business tax and largest tax source, 7.5 percent of profits — cut from 7.7 in 2021 and again in 2022.
+- **Claremont / ConVal:** The school-funding court cases: Claremont (1990s) made the state responsible for funding an adequate education; ConVal (ongoing) challenges whether current amounts and the SWEPT meet that duty.
 - **Cooperative school district:** A district formed by several towns sharing schools and apportioning costs; withdrawal procedures were rewritten in 2023 and 2026.
-- **Current use:** Farm, forest, and open land taxed on its productive value rather than market value (RSA 79-A); leaving current use triggers the land use change tax.
-- **Donor town / excess SWEPT:** A town whose statewide education property tax collections exceed its state-computed school cost; whether it keeps the excess (current law) or remits it is the recurring fight (HB1686 2024, HB675 2025).
+- **Current use:** Farm, forest, and open land taxed on its productive value rather than market value; leaving current use triggers the land use change tax.
+- **Donor town / excess SWEPT:** A town whose statewide education property tax collections exceed its state-computed school cost; whether it keeps the excess (current law) or remits it is the recurring fight.
 - **Education freedom accounts (EFAs):** State adequacy money following students out of public schools, paid from the education trust fund since the 2021 budget.
 - **Education trust fund:** The dedicated fund that pays adequacy grants and homeowner relief — fed by fixed shares of the business taxes (39 percent since 2025), tobacco, transfer tax, lottery, and SWEPT.
-- **Equalization:** The state's annual adjustment making town assessments comparable, so shared taxes and aid formulas treat towns fairly; the equalization manual entered state rules in 2023.
-- **Exemption vs. credit:** An exemption reduces a property's taxable value; a credit reduces the tax bill itself (the veterans' credits are credits; the elderly exemption is an exemption).
+- **Exemption vs. credit:** An exemption reduces a property's taxable value; a credit reduces the tax bill itself (veterans' credits are credits; the elderly exemption is an exemption).
 - **Fiscal capacity disparity aid:** Extra school aid (HB2 2025) for towns with low equalized property value per pupil — up to $1,250 per pupil.
 - **Homestead exemption (proposal):** Taxing owner-occupied primary homes on less than full value — a local option in every version filed here. Distinct from the existing homestead right, which protects home equity from creditors and has nothing to do with taxes.
 - **Interest and dividends (I&D) tax:** The 5 percent tax on investment income, phased down from 2023 and repealed January 1, 2025 through the budget trailers.
-- **Low and moderate income homeowners property tax relief:** The state's existing rebate of part of the statewide education property tax for lower-income homeowners; eligibility was widened in 2021 (HB486).
-- **Meals and rooms tax:** The 8.5 percent tax on restaurant meals, room rentals, and vehicle rentals (9 percent before October 2021); a share flows to every town through the municipal revenue fund created in the 2021 budget.
-- **PILOT (payment in lieu of taxes):** Negotiated payments from tax-exempt property owners; renewable-energy PILOT agreements were enabled in 2021 (HB64).
-- **Rainy day fund (revenue stabilization reserve):** The state's savings account; its cap rose to 10 percent of general fund revenue in 2021.
+- **Low and moderate income homeowners property tax relief:** The state's existing rebate of part of the SWEPT for lower-income homeowners; eligibility was widened in 2021.
+- **Meals and rooms tax:** The 8.5 percent tax on meals, room rentals, and vehicle rentals (9 percent before October 2021); a share flows to every town through the municipal revenue fund created in the 2021 budget.
+- **PILOT (payment in lieu of taxes):** Negotiated payments from tax-exempt property owners; renewable-energy PILOT agreements were enabled in 2021.
 - **Revenue sharing (RSA 31-A):** The general-fund aid statute for cities and towns — suspended in every budget since 2010, repealed outright by HB2 2025.
-- **School building aid:** State grants toward school construction; funded at $30 million in 2021, with the program's rules fought over in every session since.
 - **SWEPT (statewide education property tax):** The $363 million property tax the state requires towns to raise and keep for their schools — counted as state aid, collected locally. Every structural change to it died in 2023–2026.
-- **Tax cap:** A charter or ballot limit on how fast a town, city, or school district budget may grow; cap and budget-cap laws passed in 2021, 2024, 2025 (three, including SB105's town budget caps), and 2026.
+- **Tax cap:** A charter or ballot limit on how fast a town, city, or school district budget may grow; cap and budget-cap laws passed in 2021, 2024, 2025, and 2026.
 - **Video lottery terminals (VLTs):** Slot-style machines legalized by HB2 2025 at charitable gaming facilities — 31 percent of machine revenue goes to the state, and SB83 routes state money to reimburse town exemptions.
 
 ## Legislative process glossary
