@@ -81,7 +81,7 @@ were excluded with per-bill categories (`certification-current.json` / `.md`).
   (170–185), and the brief labels it as such.
 - Every reality-map claim was verified programmatically against the evidence
   pack (`fact-check-reality-map.py`; run passes). The brief was scanned
-  programmatically (`scan-lege-brief.py`): no advice language, all 99 cited
+  programmatically (`scan-lege-brief.py`): no advice language, all 98 cited
   bills exist in the pack, every vote pair matches the official record (two
   documented docket-tally exceptions: HB675's 170–185 division vote and
   HB765's 18–0 recorded committee vote, both labeled as such).

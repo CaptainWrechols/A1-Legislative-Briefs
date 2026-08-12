@@ -30,6 +30,24 @@ Usage:
   python collectors/export_docx_lege_brief.py \
       --source briefs/.../lege-brief.md --out briefs/.../NH1-Housing-Lege-Brief.docx \
       --footer "NH1 Housing Legislative Brief v1.0"
+
+Optional --polish-breaks (per-issue knob; default off keeps the original
+output byte-for-byte for existing briefs). When set, the export reproduces
+the template's separator rules and cleans up pagination:
+
+  * the navy double rule above the second title block and the gray rule over
+    the appendix pointer / after the last spotlight (template paras 44-46, 85,
+    159-160), which the original emission dropped;
+  * the template-faithful glossary section structure (the sectPr fragments
+    ride inside the header and last-entry paragraphs, as in the template,
+    instead of standalone empty paragraphs - this also stops the last
+    glossary entry from starting a page by itself);
+  * each glossary starts on its own page (pageBreakBefore on the first
+    glossary header; the template's own nextPage section break already
+    isolates the second);
+  * keep-with-next on titles, deks, section headers, and intros plus widow
+    control on body text, so no heading or stray line is orphaned across a
+    page break.
 """
 
 from __future__ import annotations
@@ -90,6 +108,26 @@ P_GLOSS = ('<w:pPr><w:numPr><w:ilvl w:val="0"/><w:numId w:val="2"/></w:numPr>'
            '<w:spacing w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>'
            '<w:ind w:left="720" w:hanging="360"/>'
            f'<w:rPr>{FONT}<w:sz w:val="10"/><w:szCs w:val="10"/></w:rPr></w:pPr>')
+
+# Separator rules transcribed from the NV1 v1.6 template (paras 44-46, 85,
+# 159-160): the navy double rule above the second title block and the thin
+# gray rules over the appendix pointer and closing the spotlights/glossaries.
+RULE_NAVY_P = ('<w:p><w:pPr><w:pBdr><w:bottom w:color="1a2d4f" w:space="2" '
+               'w:sz="20" w:val="single"/></w:pBdr>'
+               f'{spacing(after=120, line=276)}<w:rPr/></w:pPr></w:p>')
+RULE_GRAY_P = ('<w:p><w:pPr><w:pBdr><w:top w:color="c8cdd6" w:space="4" '
+               'w:sz="6" w:val="single"/></w:pBdr>'
+               f'{spacing(before=40, after=0, line=276)}<w:rPr/></w:pPr></w:p>')
+GRAY_BDR = ('<w:pBdr><w:top w:color="c8cdd6" w:space="4" w:sz="6" '
+            'w:val="single"/></w:pBdr>')
+
+
+def keepnext(ppr: str) -> str:
+    return ppr.replace('<w:pPr>', '<w:pPr><w:keepNext/>', 1)
+
+
+def widow(ppr: str) -> str:
+    return ppr.replace('<w:pPr>', '<w:pPr><w:widowControl/>', 1)
 
 LEAD_RE = re.compile(r'^\*\*(.+?)\*\*\s*(.*)$', re.S)
 
@@ -188,7 +226,12 @@ def main():
     ap.add_argument('--source', required=True)
     ap.add_argument('--out', required=True)
     ap.add_argument('--footer', required=True)
+    ap.add_argument('--polish-breaks', action='store_true',
+                    help='template separator rules + clean pagination '
+                         '(own-page glossaries, keep-with-next headings); '
+                         'default off preserves the original output exactly')
     args = ap.parse_args()
+    polish = args.polish_breaks
 
     md = Path(args.source).read_text(encoding='utf-8')
     blocks = parse_source(md)
@@ -210,12 +253,21 @@ def main():
         if kind == 'title':
             titles_seen += 1
             if titles_seen == 1:
-                out.append(para(P_TITLE, run(payload, sz=36, color='1a2d4f', bold=True)))
+                ppr = keepnext(P_TITLE) if polish else P_TITLE
+                out.append(para(ppr, run(payload, sz=36, color='1a2d4f', bold=True)))
             else:
                 mode = 'spotlights'
-                out.append(para(P_EMPTY, ''))
-                out.append(para(P_EMPTY, ''))
-                out.append(para(P_TITLE2, run(payload, sz=36, color='1a2d4f', bold=True)))
+                if polish:
+                    # the template's navy double rule above the second title
+                    # (paras 45-46), which the plain empties dropped
+                    out.append(RULE_NAVY_P)
+                    out.append(RULE_NAVY_P)
+                    out.append(para(keepnext(P_TITLE2),
+                                    run(payload, sz=36, color='1a2d4f', bold=True)))
+                else:
+                    out.append(para(P_EMPTY, ''))
+                    out.append(para(P_EMPTY, ''))
+                    out.append(para(P_TITLE2, run(payload, sz=36, color='1a2d4f', bold=True)))
             pending_dek = True
         elif kind == 'h2':
             low = payload.lower()
@@ -224,15 +276,21 @@ def main():
                 cur_gloss = (payload.upper(), [])
                 glossary_bufs.append(cur_gloss)
             elif mode == 'spotlights':
-                out.append(para(P_H2S, run(payload.upper(), sz=25, color='c0392b', bold=True)))
+                ppr = keepnext(P_H2S) if polish else P_H2S
+                out.append(para(ppr, run(payload.upper(), sz=25, color='c0392b', bold=True)))
             else:
-                out.append(para(P_H2, run(payload.upper(), sz=25, color='c0392b', bold=True)))
+                ppr = keepnext(P_H2) if polish else P_H2
+                out.append(para(ppr, run(payload.upper(), sz=25, color='c0392b', bold=True)))
         elif kind == 'h3':
-            out.append(para(P_H3S if mode == 'spotlights' else P_H3,
-                            run(payload, sz=24, color='2e4a78', bold=True)))
+            ppr = P_H3S if mode == 'spotlights' else P_H3
+            if polish:
+                ppr = keepnext(ppr)
+            out.append(para(ppr, run(payload, sz=24, color='2e4a78', bold=True)))
         elif kind == 'intro':
-            out.append(para(P_INTROS if mode == 'spotlights' else P_INTRO,
-                            run(payload, sz=20, color='666666', italic=True)))
+            ppr = P_INTROS if mode == 'spotlights' else P_INTRO
+            if polish:
+                ppr = keepnext(ppr)
+            out.append(para(ppr, run(payload, sz=20, color='666666', italic=True)))
         elif kind == 'stats':
             out.append(build_stat_table(tpl_doc, payload))
             out.append(para(P_EMPTY.replace('w:after="120"', 'w:after="40"'), ''))
@@ -245,34 +303,70 @@ def main():
                         run(lead, sz=20, color='1a2d4f', bold=True)
                         + run(' ' + rest, sz=20, color='444444'))
                 else:
+                    ppr = widow(P_SPOT) if polish else P_SPOT
                     out.append(para(
-                        P_SPOT,
+                        ppr,
                         run('\u25aa  ', sz=20, color='c0392b')
                         + run(lead + (' ' if rest else ''), sz=20, color='1a2d4f', bold=True)
                         + run(rest, sz=20, color='444444')))
         elif kind == 'para':
             if pending_dek:
-                out.append(para(P_DEK2 if mode == 'spotlights' else P_DEK,
-                                run(payload, sz=20, color='444444')))
+                ppr = P_DEK2 if mode == 'spotlights' else P_DEK
+                if polish:
+                    ppr = keepnext(ppr)
+                out.append(para(ppr, run(payload, sz=20, color='444444')))
                 pending_dek = False
             elif payload.startswith('Full '):
-                out.append(para(P_POINTER, run(payload, sz=20, color='666666')))
+                # the template's appendix pointer carries a thin gray top rule
+                ppr = (P_POINTER.replace('<w:pPr>', f'<w:pPr>{GRAY_BDR}', 1)
+                       if polish else P_POINTER)
+                out.append(para(ppr, run(payload, sz=20, color='666666')))
             else:
-                out.append(para(P_BODY, body_runs(payload)))
+                ppr = widow(P_BODY) if polish else P_BODY
+                out.append(para(ppr, body_runs(payload)))
 
-    # glossaries with the template's exact section-break structure:
-    # [sectPr1 1col] HDR entries[:-1] [sectPr2 2col] last [sectPr3 1col]
-    # HDR2 entries[:-1] [sectPr4 2col] last [sectPr5 final]
     assert len(glossary_bufs) == 2, "expected two glossary sections"
-    out.append(f'<w:p><w:pPr>{sectprs[0]}</w:pPr></w:p>')
-    for gi, (hdr, entries) in enumerate(glossary_bufs):
-        out.append(para(P_H2S, run(hdr, sz=25, color='c0392b', bold=True)))
-        for e in entries[:-1]:
-            out.append(para(P_GLOSS, e))
-        out.append(f'<w:p><w:pPr>{sectprs[1 + gi * 2]}</w:pPr></w:p>')
-        out.append(para(P_GLOSS, entries[-1]))
-        if gi == 0:
-            out.append(f'<w:p><w:pPr>{sectprs[2]}</w:pPr></w:p>')
+    if polish:
+        # Template-faithful glossary structure (paras 85, 110, 138, 139,
+        # 158-160 of NV1 v1.6): the sectPr fragments ride INSIDE the header
+        # and last-entry paragraphs, so no stray empty-paragraph section
+        # breaks strand a lone entry on its own page. The first glossary
+        # header additionally gets pageBreakBefore so each glossary starts
+        # its own page (the template's nextPage sectPr already isolates the
+        # second glossary).
+        out.append(RULE_GRAY_P)  # gray rule closing the spotlights (para 85)
+
+        def hdr_ppr(sect, page_break):
+            return ('<w:pPr><w:keepNext/>'
+                    + ('<w:pageBreakBefore/>' if page_break else '')
+                    + spacing(before=100, after=40, line=276)
+                    + f'<w:rPr/>{sect}</w:pPr>')
+
+        def gloss_last_ppr(sect):
+            return P_GLOSS.replace('</w:pPr>', f'{sect}</w:pPr>', 1)
+
+        for gi, (hdr, entries) in enumerate(glossary_bufs):
+            out.append(f'<w:p>{hdr_ppr(sectprs[gi * 2], gi == 0)}'
+                       f'{run(hdr, sz=25, color="c0392b", bold=True)}</w:p>')
+            for e in entries[:-1]:
+                out.append(para(P_GLOSS, e))
+            out.append(f'<w:p>{gloss_last_ppr(sectprs[1 + gi * 2])}{entries[-1]}</w:p>')
+        # NOTE: the template's two closing gray rules (paras 159-160) are
+        # deliberately omitted: on a full glossary page the trailing 1-column
+        # rule paragraphs spill onto a blank extra page.
+    else:
+        # original emission: standalone section-break paragraphs
+        # [sectPr1 1col] HDR entries[:-1] [sectPr2 2col] last [sectPr3 1col]
+        # HDR2 entries[:-1] [sectPr4 2col] last [sectPr5 final]
+        out.append(f'<w:p><w:pPr>{sectprs[0]}</w:pPr></w:p>')
+        for gi, (hdr, entries) in enumerate(glossary_bufs):
+            out.append(para(P_H2S, run(hdr, sz=25, color='c0392b', bold=True)))
+            for e in entries[:-1]:
+                out.append(para(P_GLOSS, e))
+            out.append(f'<w:p><w:pPr>{sectprs[1 + gi * 2]}</w:pPr></w:p>')
+            out.append(para(P_GLOSS, entries[-1]))
+            if gi == 0:
+                out.append(f'<w:p><w:pPr>{sectprs[2]}</w:pPr></w:p>')
     doc = header_xml + ''.join(out) + sectprs[4] + '</w:body></w:document>'
 
     new_footer = re.sub(r'(<w:t xml:space="preserve">)NV1[^<]*(</w:t>)',
