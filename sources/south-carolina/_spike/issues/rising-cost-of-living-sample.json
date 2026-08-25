@@ -1,0 +1,110 @@
+{
+  "issue_slug": "rising-cost-of-living",
+  "session": 126,
+  "searches": [
+    {
+      "term": "electric rate",
+      "total_matches": 4,
+      "hits": [
+        {
+          "session": 126,
+          "bill_no": "S446",
+          "summary": "Electric Rate Stabilization Act",
+          "found_by_term": "electric rate"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3928",
+          "summary": "Electric Rate Stabilization Act",
+          "found_by_term": "electric rate"
+        },
+        {
+          "session": 126,
+          "bill_no": "H5215",
+          "summary": "Data Center Utility Costs",
+          "found_by_term": "electric rate"
+        }
+      ]
+    },
+    {
+      "term": "property tax",
+      "total_matches": 84,
+      "hits": [
+        {
+          "session": 126,
+          "bill_no": "H3803",
+          "summary": "Property Tax Millage Increase",
+          "found_by_term": "property tax"
+        },
+        {
+          "session": 126,
+          "bill_no": "H5006",
+          "summary": "Taxes",
+          "found_by_term": "property tax"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3332",
+          "summary": "Statewide millage",
+          "found_by_term": "property tax"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3951",
+          "summary": "Tenant Protection Act of 2025",
+          "found_by_term": "property tax"
+        },
+        {
+          "session": 126,
+          "bill_no": "H5011",
+          "summary": "Tenant Protection Act of 2026",
+          "found_by_term": "property tax"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3469",
+          "summary": "Accessory Dwelling Unit Affordable Housing Incentive Act",
+          "found_by_term": "property tax"
+        },
+        {
+          "session": 126,
+          "bill_no": "S256",
+          "summary": "Commercial Property Assessed Clean Energy Programs (C-PACE)",
+          "found_by_term": "property tax"
+        },
+        {
+          "session": 126,
+          "bill_no": "S768",
+          "summary": "Homestead exemption",
+          "found_by_term": "property tax"
+        },
+        {
+          "session": 126,
+          "bill_no": "S815",
+          "summary": "Constitutional amendment",
+          "found_by_term": "property tax"
+        },
+        {
+          "session": 126,
+          "bill_no": "S1028",
+          "summary": "Referendum Timing",
+          "found_by_term": "property tax"
+        }
+      ]
+    }
+  ],
+  "bill_page": {
+    "session": 126,
+    "bill_no": "S446",
+    "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/446.htm",
+    "summary": "Electric Rate Stabilization Act",
+    "sponsors_raw": "Senators Young, Elliott and Zell",
+    "act_no": "",
+    "actions": []
+  },
+  "vote_history": {
+    "bill_no": "S446",
+    "roll_call_count": 0,
+    "roll_calls": []
+  }
+}

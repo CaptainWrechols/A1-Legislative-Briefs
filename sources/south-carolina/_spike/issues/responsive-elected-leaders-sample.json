@@ -1,0 +1,80 @@
+{
+  "issue_slug": "responsive-elected-leaders",
+  "session": 126,
+  "searches": [
+    {
+      "term": "term limits",
+      "total_matches": 9,
+      "hits": [
+        {
+          "session": 126,
+          "bill_no": "H3102",
+          "summary": "Term limits for U.S. Supreme Court",
+          "found_by_term": "term limits"
+        },
+        {
+          "session": 126,
+          "bill_no": "H4649",
+          "summary": "Social Work Interstate Compact",
+          "found_by_term": "term limits"
+        },
+        {
+          "session": 126,
+          "bill_no": "S160",
+          "summary": "Dietitian Licensure Compact",
+          "found_by_term": "term limits"
+        },
+        {
+          "session": 126,
+          "bill_no": "S590",
+          "summary": "Term Limits Constitutional Amendment",
+          "found_by_term": "term limits"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3633",
+          "summary": "Social Workers Compact",
+          "found_by_term": "term limits"
+        },
+        {
+          "session": 126,
+          "bill_no": "H5210",
+          "summary": "Interstate Massage Compact",
+          "found_by_term": "term limits"
+        },
+        {
+          "session": 126,
+          "bill_no": "H5360",
+          "summary": "Term limits for members of General Assembly",
+          "found_by_term": "term limits"
+        }
+      ]
+    },
+    {
+      "term": "ranked choice",
+      "total_matches": 1,
+      "hits": [
+        {
+          "session": 126,
+          "bill_no": "H3386",
+          "summary": "Ranked Choice Voting Ban",
+          "found_by_term": "ranked choice"
+        }
+      ]
+    }
+  ],
+  "bill_page": {
+    "session": 126,
+    "bill_no": "H3102",
+    "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3102.htm",
+    "summary": "Term limits for U.S. Supreme Court",
+    "sponsors_raw": "Reps. King and McDaniel",
+    "act_no": "",
+    "actions": []
+  },
+  "vote_history": {
+    "bill_no": "H3102",
+    "roll_call_count": 0,
+    "roll_calls": []
+  }
+}

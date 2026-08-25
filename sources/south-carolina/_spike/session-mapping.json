@@ -1,0 +1,53 @@
+{
+  "note": "scstatehouse session number -> years, checked live against billsearch.php; openstates_identifier is the year span",
+  "sessions": [
+    {
+      "number": 123,
+      "label": "123rd (2019-2020)",
+      "years": [
+        2019,
+        2020
+      ],
+      "openstates_identifier": "2019-2020",
+      "scstatehouse_path": "sess123_2019-2020",
+      "live_dropdown_years": "2019-2020",
+      "match": true
+    },
+    {
+      "number": 124,
+      "label": "124th (2021-2022)",
+      "years": [
+        2021,
+        2022
+      ],
+      "openstates_identifier": "2021-2022",
+      "scstatehouse_path": "sess124_2021-2022",
+      "live_dropdown_years": "2021-2022",
+      "match": true
+    },
+    {
+      "number": 125,
+      "label": "125th (2023-2024)",
+      "years": [
+        2023,
+        2024
+      ],
+      "openstates_identifier": "2023-2024",
+      "scstatehouse_path": "sess125_2023-2024",
+      "live_dropdown_years": "2023-2024",
+      "match": true
+    },
+    {
+      "number": 126,
+      "label": "126th (2025-2026)",
+      "years": [
+        2025,
+        2026
+      ],
+      "openstates_identifier": "2025-2026",
+      "scstatehouse_path": "sess126_2025-2026",
+      "live_dropdown_years": "2025-2026",
+      "match": true
+    }
+  ]
+}
