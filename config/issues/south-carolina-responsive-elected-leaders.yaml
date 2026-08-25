@@ -1,0 +1,182 @@
+state: south-carolina
+issue_id: south-carolina-02-responsive-elected-leaders
+issue_title: "Responsive Elected Leaders in South Carolina"
+issue_slug: responsive-elected-leaders
+openstates_jurisdiction: South Carolina
+
+# Theme (Phase 2): elected leaders not responsive to constituents;
+# accountability, money in politics, representation.
+
+sessions:
+  - label: "123rd (2019-2020)"
+    number: 123
+    openstates_identifier: "2019-2020"
+    scstatehouse_path: "sess123_2019-2020"
+    years: [2019, 2020]
+    note: "included because 2020 is its second year"
+  - label: "124th (2021-2022)"
+    number: 124
+    openstates_identifier: "2021-2022"
+    scstatehouse_path: "sess124_2021-2022"
+    years: [2021, 2022]
+  - label: "125th (2023-2024)"
+    number: 125
+    openstates_identifier: "2023-2024"
+    scstatehouse_path: "sess125_2023-2024"
+    years: [2023, 2024]
+  - label: "126th (2025-2026)"
+    number: 126
+    openstates_identifier: "2025-2026"
+    scstatehouse_path: "sess126_2025-2026"
+    years: [2025, 2026]
+
+# Pass 1 rule: keep ALL hits; relevance_terms are a review flag only.
+# NOTE: scstatehouse full-text search is EXACT-PHRASE with no stemming
+# ("term limit" returns 0 hits; "term limits" returns 9) — keep both forms.
+search_terms:
+  - "term limit"
+  - "term limits"
+  - ethics
+  - transparency
+  - accountability
+  - "campaign finance"
+  - "election law"
+  - PAC
+  - lobbyist
+  - redistricting
+  - reapportionment
+  - gerrymandering
+  - "ranked choice"
+  - "instant runoff"
+  - "conflict of interest"
+  - disclosure
+  - "financial disclosure"
+  - "ethics commission"
+  - "freedom of information"
+  - FOIA
+  - "public records"
+  - "public meeting"
+  - civics
+  - "voter education"
+  - election
+  - ballot
+  - referendum
+  - recall
+
+relevance_terms:
+  - "term limit"
+  - ethics
+  - "campaign finance"
+  - PAC
+  - lobbyist
+  - redistricting
+  - gerrymandering
+  - "ranked choice"
+  - disclosure
+  - "conflict of interest"
+  - civics
+  - "voter education"
+
+# Phase 2 Community Conversations (Jun-Aug 2026), RAG constituent-voice dataset
+# "SC1 - Phase 2 Constituent Proposals - Grid View for Legislators v2".
+# FORUM PROCESS INPUT [P-xxx], not verified facts — label as such in briefs.
+constituent_proposals:
+  - id: term-limits
+    title: "Term limits / rotation rules for elected officials"
+    detail: >-
+      Impose term limits or rotation rules so incumbents cannot hold the same
+      office indefinitely.
+    consensus: >-
+      Very high frequency (all 4 events). Mixed consensus.
+    tradeoffs: >-
+      Loss of experience vs. entrenched incumbency.
+    match_terms: ["term limit", "term limits", "consecutive terms", "rotation"]
+  - id: campaign-finance-reform
+    title: "Limits on money in politics / campaign finance reform"
+    detail: >-
+      Limit the influence of money in politics through campaign finance
+      reform, including limits on PACs.
+    consensus: >-
+      Very high frequency. High consensus; PAC limits specifically noted.
+    tradeoffs: >-
+      Constitutional limits on regulating political spending were noted as a
+      constraint on what the state can do.
+    match_terms: ["campaign finance", "campaign contribution", "PAC", "political action committee", "dark money"]
+  - id: ranked-choice-voting
+    title: "Ranked choice voting"
+    detail: >-
+      Adopt ranked choice (instant runoff) voting for elections.
+    consensus: >-
+      Very high frequency. Partial consensus; voter-confusion concerns were
+      raised.
+    tradeoffs: >-
+      Voter confusion and implementation complexity.
+    match_terms: ["ranked choice", "instant runoff", "runoff election"]
+  - id: independent-redistricting
+    title: "Independent/nonpartisan redistricting commission"
+    detail: >-
+      Move redistricting from the legislature to an independent or
+      nonpartisan commission.
+    consensus: >-
+      High frequency (3 events). High consensus where discussed.
+    tradeoffs: >-
+      Legislators drawing their own districts is the status quo the proposal
+      targets; the tradeoff debate centered on who appoints the commission.
+    match_terms: ["redistricting", "reapportionment", "gerrymander", "commission", "district lines"]
+  - id: financial-disclosure
+    title: "Better financial-disclosure and conflict-of-interest tracking (incl. PACs)"
+    detail: >-
+      Strengthen financial-disclosure requirements and conflict-of-interest
+      tracking for officials, including PAC ties.
+    consensus: >-
+      High frequency. High consensus.
+    tradeoffs: >-
+      Few tradeoffs raised; enforcement capacity is the practical question.
+    match_terms: ["financial disclosure", "statement of economic interests", "conflict of interest", "ethics commission", "disclosure"]
+  - id: voter-civics-education
+    title: "Better voter education / civics and neutral civic information tools"
+    detail: >-
+      Improve voter education and civics instruction, and provide neutral
+      civic information tools for voters.
+    consensus: >-
+      Medium frequency. High consensus.
+    tradeoffs: >-
+      Who curates "neutral" information was the open question.
+    match_terms: ["civics", "voter education", "voter guide", "civic education"]
+
+omnibus_bills:
+  - role: "General Appropriations Act — Part IB policy provisos"
+    method: proviso-by-proviso
+    section_extractor: collectors/sc/proviso_sections.py
+    fetcher: collectors/sc/proviso_fetch.py
+    outputs:
+      sections_json: "working/south-carolina/{issue}/proviso-sections.json"
+      sections_md: "working/south-carolina/{issue}/proviso-sections.md"
+      relevant_json: "working/south-carolina/{issue}/proviso-relevant.json"
+    cycles:
+      - {fiscal_year: "2020-2021", year: 2020, bill_no: H5201, session: 123, enacted: false,
+         note: "COVID: H.5201 died in committee; FY ran on continuing resolution H.3411 + CARES acts. No enacted Part IB."}
+      - {fiscal_year: "2021-2022", year: 2021, bill_no: H4100, session: 124, enacted: true}
+      - {fiscal_year: "2022-2023", year: 2022, bill_no: H5150, session: 124, enacted: true}
+      - {fiscal_year: "2023-2024", year: 2023, bill_no: H4300, session: 125, enacted: true}
+      - {fiscal_year: "2024-2025", year: 2024, bill_no: H5100, session: 125, enacted: true}
+      - {fiscal_year: "2025-2026", year: 2025, bill_no: H4025, session: 126, enacted: true}
+      - {fiscal_year: "2026-2027", year: 2026, bill_no: H5126, session: 126, enacted: true}
+
+# Starting points only — VERIFY in the issue chat before citing.
+sc_code_sections:
+  - "8-13 (Ethics, Government Accountability, and Campaign Reform Act)"
+  - "2-17 (lobbyists and lobbying)"
+  - "Title 7 (elections; 7-13 conduct of elections)"
+  - "30-4 (Freedom of Information Act)"
+  - "2-1 (General Assembly, incl. reapportionment sections)"
+
+agency_document_urls:
+  - url: "https://ethics.sc.gov/"
+    title: "South Carolina State Ethics Commission"
+    source_key: "S1"
+  - url: "https://scvotes.gov/"
+    title: "South Carolina Election Commission"
+    source_key: "S2"
+
+impact_lookback_years: 20

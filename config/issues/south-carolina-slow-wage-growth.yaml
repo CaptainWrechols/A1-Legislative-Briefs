@@ -1,0 +1,158 @@
+state: south-carolina
+issue_id: south-carolina-04-slow-wage-growth
+issue_title: "Slow Wage Growth in South Carolina"
+issue_slug: slow-wage-growth
+openstates_jurisdiction: South Carolina
+
+# Theme (Phase 2): wages not keeping pace with cost of living; workforce
+# pathways.
+
+sessions:
+  - label: "123rd (2019-2020)"
+    number: 123
+    openstates_identifier: "2019-2020"
+    scstatehouse_path: "sess123_2019-2020"
+    years: [2019, 2020]
+    note: "included because 2020 is its second year"
+  - label: "124th (2021-2022)"
+    number: 124
+    openstates_identifier: "2021-2022"
+    scstatehouse_path: "sess124_2021-2022"
+    years: [2021, 2022]
+  - label: "125th (2023-2024)"
+    number: 125
+    openstates_identifier: "2023-2024"
+    scstatehouse_path: "sess125_2023-2024"
+    years: [2023, 2024]
+  - label: "126th (2025-2026)"
+    number: 126
+    openstates_identifier: "2025-2026"
+    scstatehouse_path: "sess126_2025-2026"
+    years: [2025, 2026]
+
+# Pass 1 rule: keep ALL hits; relevance_terms are a review flag only.
+search_terms:
+  - wage
+  - wages
+  - salary
+  - pay
+  - "minimum wage"
+  - "living wage"
+  - "youth wage"
+  - "training wage"
+  - income
+  - worker
+  - labor
+  - workforce
+  - apprenticeship
+  - "career pathway"
+  - "technical college"
+  - "workforce development"
+  - "ready to work"
+  - "tip credit"
+  - overtime
+  - "wage theft"
+  - employer
+  - "tax credit"
+  - incentive
+  - unemployment
+  - "right to work"
+  - "collective bargaining"
+
+relevance_terms:
+  - wage
+  - "minimum wage"
+  - "living wage"
+  - salary
+  - pay
+  - apprenticeship
+  - workforce
+  - employer
+  - incentive
+  - labor
+
+# Phase 2 Community Conversations (Jun-Aug 2026), RAG constituent-voice dataset
+# "SC1 - Phase 2 Constituent Proposals - Grid View for Legislators v2".
+# FORUM PROCESS INPUT [P-xxx], not verified facts — label as such in briefs.
+constituent_proposals:
+  - id: age-bracketed-minimum-wage
+    title: "Age-bracketed minimum wage with a separate youth wage"
+    detail: >-
+      Set a minimum wage that is bracketed by age: a higher wage for adult
+      workers (18+) and a separate, lower youth wage for teen workers.
+    consensus: >-
+      High frequency (3 events). High consensus for a higher wage for adults
+      versus teen workers.
+    tradeoffs: >-
+      Where to draw the age line and whether a youth wage displaces adult
+      workers.
+    match_terms: ["youth wage", "training wage", "minimum wage", "age", "teen"]
+  - id: workforce-development
+    title: "Apprenticeships, career pathways, and technical training"
+    detail: >-
+      Expand apprenticeships, career pathways, and technical-college training
+      so workers can move into higher-paying jobs.
+    consensus: >-
+      Medium frequency (Greenville, Columbia). High consensus.
+    tradeoffs: >-
+      Few tradeoffs raised; funding and employer participation are the
+      practical questions.
+    match_terms: ["apprentice", "career pathway", "technical college", "workforce development", "job training"]
+  - id: raise-minimum-wage
+    title: "Raise the minimum wage / livable wage"
+    detail: >-
+      Raise the state minimum wage toward a livable wage.
+    consensus: >-
+      High frequency (3 events). Mixed consensus; small-business concerns.
+    tradeoffs: >-
+      Small-business cost concerns were the main counterpoint.
+    match_terms: ["minimum wage", "living wage", "livable wage", "base wage"]
+  - id: employer-living-wage-incentives
+    title: "Government incentives/bonuses for employers paying a living wage"
+    detail: >-
+      Offer government incentives or bonuses to employers who pay a living
+      wage.
+    consensus: >-
+      Medium frequency. Mixed; the funding mechanism was disputed.
+    tradeoffs: >-
+      How to fund the incentives was disputed.
+    match_terms: ["incentive", "tax credit", "living wage", "employer", "bonus"]
+
+omnibus_bills:
+  - role: "General Appropriations Act — Part IB policy provisos"
+    method: proviso-by-proviso
+    section_extractor: collectors/sc/proviso_sections.py
+    fetcher: collectors/sc/proviso_fetch.py
+    outputs:
+      sections_json: "working/south-carolina/{issue}/proviso-sections.json"
+      sections_md: "working/south-carolina/{issue}/proviso-sections.md"
+      relevant_json: "working/south-carolina/{issue}/proviso-relevant.json"
+    cycles:
+      - {fiscal_year: "2020-2021", year: 2020, bill_no: H5201, session: 123, enacted: false,
+         note: "COVID: H.5201 died in committee; FY ran on continuing resolution H.3411 + CARES acts. No enacted Part IB."}
+      - {fiscal_year: "2021-2022", year: 2021, bill_no: H4100, session: 124, enacted: true}
+      - {fiscal_year: "2022-2023", year: 2022, bill_no: H5150, session: 124, enacted: true}
+      - {fiscal_year: "2023-2024", year: 2023, bill_no: H4300, session: 125, enacted: true}
+      - {fiscal_year: "2024-2025", year: 2024, bill_no: H5100, session: 125, enacted: true}
+      - {fiscal_year: "2025-2026", year: 2025, bill_no: H4025, session: 126, enacted: true}
+      - {fiscal_year: "2026-2027", year: 2026, bill_no: H5126, session: 126, enacted: true}
+
+# Starting points only — VERIFY in the issue chat before citing.
+sc_code_sections:
+  - "41-1 (general labor provisions; 41-1-110 preempts local minimum wages)"
+  - "41-10 (payment of wages)"
+  - "12-6-3360 (jobs tax credit)"
+  - "12-6-3477 (apprenticeship tax credit)"
+  - "59-53 (technical colleges)"
+  - "41-7 (right to work)"
+  - "41-27 through 41-35 (unemployment compensation)"
+
+agency_document_urls:
+  - url: "https://dew.sc.gov/"
+    title: "SC Department of Employment and Workforce"
+    source_key: "S1"
+  - url: "https://www.apprenticeshipcarolina.com/"
+    title: "Apprenticeship Carolina (SC Technical College System)"
+    source_key: "S2"
+
+impact_lookback_years: 20

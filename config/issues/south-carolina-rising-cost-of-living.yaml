@@ -1,0 +1,160 @@
+state: south-carolina
+issue_id: south-carolina-03-rising-cost-of-living
+issue_title: "Rising Cost of Living in South Carolina"
+issue_slug: rising-cost-of-living
+openstates_jurisdiction: South Carolina
+
+# Theme (Phase 2): housing, utilities, and taxes squeezing households.
+
+sessions:
+  - label: "123rd (2019-2020)"
+    number: 123
+    openstates_identifier: "2019-2020"
+    scstatehouse_path: "sess123_2019-2020"
+    years: [2019, 2020]
+    note: "included because 2020 is its second year"
+  - label: "124th (2021-2022)"
+    number: 124
+    openstates_identifier: "2021-2022"
+    scstatehouse_path: "sess124_2021-2022"
+    years: [2021, 2022]
+  - label: "125th (2023-2024)"
+    number: 125
+    openstates_identifier: "2023-2024"
+    scstatehouse_path: "sess125_2023-2024"
+    years: [2023, 2024]
+  - label: "126th (2025-2026)"
+    number: 126
+    openstates_identifier: "2025-2026"
+    scstatehouse_path: "sess126_2025-2026"
+    years: [2025, 2026]
+
+# Pass 1 rule: keep ALL hits; relevance_terms are a review flag only.
+search_terms:
+  - "cost of living"
+  - affordability
+  - housing
+  - rent
+  - utility
+  - "electric rate"
+  - "utility rate"
+  - "Public Service Commission"
+  - PSC
+  - monopoly
+  - "energy market"
+  - Dominion
+  - "property tax"
+  - "vehicle tax"
+  - "sales tax"
+  - "tax relief"
+  - insurance
+  - "homeowners insurance"
+  - grocery
+  - inflation
+  - childcare
+  - "child care"
+  - "health care cost"
+  - prescription
+  - "financial literacy"
+  - budgeting
+
+relevance_terms:
+  - "cost of living"
+  - affordability
+  - housing
+  - rent
+  - utility
+  - "electric rate"
+  - PSC
+  - "property tax"
+  - "vehicle tax"
+  - insurance
+  - inflation
+
+# Phase 2 Community Conversations (Jun-Aug 2026), RAG constituent-voice dataset
+# "SC1 - Phase 2 Constituent Proposals - Grid View for Legislators v2".
+# FORUM PROCESS INPUT [P-xxx], not verified facts — label as such in briefs.
+constituent_proposals:
+  - id: utility-transparency
+    title: "Greater transparency into utility rates and legislator/utility financial ties"
+    detail: >-
+      Open up how utility rates are set and disclose financial ties between
+      legislators and utilities.
+    consensus: >-
+      Medium frequency (2 events). High consensus when discussed.
+    tradeoffs: >-
+      Few tradeoffs raised; the question is scope of disclosure.
+    match_terms: ["utility rate", "electric rate", "rate increase", "Public Service Commission", "ratepayer", "disclosure"]
+  - id: utility-competition
+    title: "Open the utility market / end monopoly / lower competition barriers"
+    detail: >-
+      Allow competition in the utility market by ending monopoly service
+      territories or lowering barriers to entry.
+    consensus: >-
+      Medium frequency. Mixed consensus; infrastructure feasibility concerns.
+    tradeoffs: >-
+      Whether the grid and service infrastructure can support competition.
+    match_terms: ["monopoly", "competition", "energy market", "deregulat", "retail choice"]
+  - id: financial-education
+    title: "Personal budgeting and financial education"
+    detail: >-
+      Teach personal budgeting and financial skills so households can manage
+      rising costs.
+    consensus: >-
+      Low frequency (Columbia). Mixed; implementation unclear.
+    tradeoffs: >-
+      Education does not lower prices; implementation was unclear.
+    match_terms: ["financial literacy", "financial education", "personal finance", "budgeting"]
+  - id: reduce-property-vehicle-taxes
+    title: "Reduce or eliminate property and vehicle taxes"
+    detail: >-
+      Reduce or eliminate property taxes and vehicle taxes to lower household
+      costs. (Listed in the legislator feedback grid; lighter Phase 2
+      frequency, included for legislative search.)
+    consensus: >-
+      From the legislator feedback grid rather than high Phase 2 frequency;
+      include in matching so related bills are surfaced.
+    tradeoffs: >-
+      Replacing the revenue (schools and local government are funded by
+      property taxes) is the core tradeoff.
+    match_terms: ["property tax", "vehicle tax", "personal property tax", "millage", "tax relief", "homestead exemption"]
+
+omnibus_bills:
+  - role: "General Appropriations Act — Part IB policy provisos"
+    method: proviso-by-proviso
+    section_extractor: collectors/sc/proviso_sections.py
+    fetcher: collectors/sc/proviso_fetch.py
+    outputs:
+      sections_json: "working/south-carolina/{issue}/proviso-sections.json"
+      sections_md: "working/south-carolina/{issue}/proviso-sections.md"
+      relevant_json: "working/south-carolina/{issue}/proviso-relevant.json"
+    cycles:
+      - {fiscal_year: "2020-2021", year: 2020, bill_no: H5201, session: 123, enacted: false,
+         note: "COVID: H.5201 died in committee; FY ran on continuing resolution H.3411 + CARES acts. No enacted Part IB."}
+      - {fiscal_year: "2021-2022", year: 2021, bill_no: H4100, session: 124, enacted: true}
+      - {fiscal_year: "2022-2023", year: 2022, bill_no: H5150, session: 124, enacted: true}
+      - {fiscal_year: "2023-2024", year: 2023, bill_no: H4300, session: 125, enacted: true}
+      - {fiscal_year: "2024-2025", year: 2024, bill_no: H5100, session: 125, enacted: true}
+      - {fiscal_year: "2025-2026", year: 2025, bill_no: H4025, session: 126, enacted: true}
+      - {fiscal_year: "2026-2027", year: 2026, bill_no: H5126, session: 126, enacted: true}
+
+# Starting points only — VERIFY in the issue chat before citing.
+sc_code_sections:
+  - "58-3 (Public Service Commission)"
+  - "58-27 (electric utilities and electric cooperatives)"
+  - "58-31 (SC Public Service Authority — Santee Cooper)"
+  - "12-37 (property tax) and 12-43 (assessment)"
+  - "12-36 (sales tax)"
+  - "27-40 (Residential Landlord and Tenant Act)"
+  - "Title 38 (insurance)"
+  - "6-1-320 (local millage rate cap)"
+
+agency_document_urls:
+  - url: "https://psc.sc.gov/"
+    title: "South Carolina Public Service Commission"
+    source_key: "S1"
+  - url: "https://ors.sc.gov/"
+    title: "South Carolina Office of Regulatory Staff"
+    source_key: "S2"
+
+impact_lookback_years: 20
