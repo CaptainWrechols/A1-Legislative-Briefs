@@ -53,24 +53,36 @@ history baskets only ("Often moved before" / "Got support but didn't finish" /
 
 ## Per-issue steps
 
+**The data is already collected on the foundation branch.** The full state
+universe (every bill, vote, ratification, and latest-version text for the
+123rd–126th sessions) lives under `sources/south-carolina/_universe/`
+(certified: `verification/universe-certification.md`), and each issue's
+artifact set is prebuilt:
+
+- `sources/south-carolina/{slug}/pass1/bills.json` — keep-all discovery
+  (server full-text search + local full-text/title scans over the universe)
+- `sources/south-carolina/{slug}/processed/bills-core.json` — full records
+  (actions, sponsors, governor actions, version URLs)
+- `sources/south-carolina/{slug}/processed/bill-votes.json` — every floor
+  roll call per discovered bill, counts verbatim
+- `sources/south-carolina/{slug}/data-gaps.json` — explicit gaps
+- `working/south-carolina/{slug}/provisos/{year}/` — Part IB matches per
+  enacted cycle (full proviso sets shared at `_universe/part1b/{year}/`)
+
+So an issue chat:
+
 1. `export ISSUE_CONFIG=config/issues/south-carolina-{slug}.yaml`
-2. **Pass 1 discovery** — every `search_terms` entry against every session
-   (123rd–126th) via `collectors.sc.scstatehouse.fulltext_search`; keep all
-   hits; cross-check against OpenStates bulk CSVs if downloaded
-   (`collectors.sc.openstates_bulk`). Record gaps in `data-gaps.json`.
-   Remember: the site search is exact-phrase — the configs carry
-   singular/plural variants where needed.
-3. **Pass 2 detail on known bills only** — bill page + vote history per
-   discovered bill; ballot PDFs (+ roster party join) only for votes the
-   brief will cite.
-4. **Provisos** — run the proviso workflow for every enacted cycle
-   (2021→2026), namespaced per year
-   (see [`sc-appropriations-proviso-workflow.md`](sc-appropriations-proviso-workflow.md));
-   hand-prune `proviso-relevant.json` (the foundation spike ships high-recall
-   matches for FY 2025-26 as a starting point).
-5. **Gate** — `python3 -m collectors.sc.verify_completeness --strict` must not
-   FAIL before brief writing.
-6. Curate → map → write → package → review per the canonical pipeline.
+2. **Gate first** — `python3 -m collectors.sc.verify_completeness --strict`.
+3. **Curate** — prune `pass1/bills.json` by `relevance_flag` + hand review
+   (nothing was dropped upstream); prune `proviso-relevant.json` per cycle.
+4. **On-demand fetches only** — ballot PDFs (+ roster party join) for votes
+   the brief will cite (`ballot_pdf_key` is recorded per roll call); earlier
+   bill versions via the recorded `versions[].url` when amendment history
+   matters; re-run `collect_issue` only if terms change.
+5. Curate → map → write → package → review per the canonical pipeline.
+
+Committee votes: South Carolina publishes committee *outcomes* in bill
+histories, never tally tables — briefs must not imply counted committee votes.
 
 ## Page-1 budget callout (required)
 

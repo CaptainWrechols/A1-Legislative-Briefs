@@ -90,6 +90,50 @@ Registry: `collectors/sc/__init__.py` (`BUDGET_CYCLES`). Full workflow:
 (The FY 2019-20 act, H 4000, also has an enacted `tap1b.htm`, but it predates
 the 2020 scope; treat as optional context.)
 
+## The universe sweep (full data layer, collected 2026-08-25)
+
+`collectors/sc/universe.py` swept the complete number space of all four
+sessions — **15,817 instruments** — plus every chamber roll call and every
+ratification. Certified **PASS** by cross-checking four independent official
+surfaces against each other (`sources/south-carolina/_universe/verification/`):
+
+| Session | Bills/resolutions | Floor roll calls | Ratifications | With full text |
+|---|---|---|---|---|
+| 123rd | 3,897 | 1,683 | 188 | 3,897 (100%) |
+| 124th | 3,898 | 2,485 | 272 | 3,898 (100%) |
+| 125th | 3,976 | 2,382 | 253 | 3,976 (100%) |
+| 126th | 4,046 | 2,329 | 276 | 4,044 (+2 "Reserved" placeholder numbers, never filed) |
+
+Why enumeration is provably complete: SC assigns numbers densely per chamber
+desk (Senate from 1, House from 3001); every instrument has a static page; the
+sweep stops only after 100 consecutive misses past the last hit and records
+interior unused numbers. Cross-checks all pass: every roll call's bill and
+every ratified act joins to an enumerated bill; every ratified bill carries
+governor-action evidence on its own page.
+
+Data layout under `sources/south-carolina/_universe/{session}/`:
+`bills.jsonl.gz` (full records **including latest-version full text**),
+`bills-index.json` (browsable, no text), `rollcalls.json` (all floor roll
+calls, verbatim counts + ballot-PDF keys), `ratifications.json`,
+`unused-numbers.json`.
+
+Per-issue artifacts are then built locally from the universe by
+`collectors/sc/collect_issue.py` (Pass 1 discovery via server full-text search
++ local full-text/title scans, bills-core, bill-votes, data-gaps, and Part IB
+provisos for every enacted cycle).
+
+### What the state does NOT publish (documented, never invented)
+
+- **Committee vote tallies.** Committee pages publish membership and meeting
+  videos; bill histories record committee *outcomes* verbatim ("Committee
+  report: Favorable with amendment"). No tally tables exist to collect.
+- **Roll calls for voice votes.** Zero roll calls on a reading is a real
+  answer, not a gap.
+- Earlier-draft texts are one recorded GET away (`versions[].url` per bill);
+  the latest-version full text is stored for every bill.
+- Per-member ballots are PDFs keyed by `ballot_pdf_key` per roll call,
+  fetched on demand; party joins from the member roster.
+
 ## Traps discovered while proving the routes
 
 1. **Exact-phrase search, no stemming.** `query.php` finds only the literal
@@ -110,6 +154,24 @@ the 2020 scope; treat as optional context.)
    invent counts.
 6. **robots.txt** disallows only images/dashboard/sys paths — legislation,
    votes, and budget paths are permitted. Keep `SC_FETCH_DELAY` ≥ 1s anyway.
+7. **Ratified bills carry an asterisk in search results** (`S*401`, not
+   `S 401`). A parser that only accepts the spaced form silently drops
+   *passed* legislation from discovery — the worst possible bias. Found when
+   a page said "Documents 1 - 100" but only 66 blocks parsed.
+8. **Chamber vote lists zero-pad Senate bills** (`S 0001`); bill pages use the
+   unpadded form (`S1`). Normalize before joining.
+9. **`numrows` above 100 is not honored** by query.php (a 500-row request
+   returned ~221 rows while paging by 500 — which would skip documents).
+   Paginate at `numrows=100` exactly, and walk the full *document* count:
+   result totals are per document (bill **version**), not per bill, so a page
+   can add zero new bills without being the end.
+10. **Broad-term searches are slow server-side** (~26-60s per page for terms
+   like "transportation"). The local full-text scan over the universe JSONL
+   covers the same ground instantly on latest-version text; the server search
+   is kept for earlier-version coverage and as the independent cross-check.
+11. **Two history formats.** Older bill pages use a fixed-width `<pre>` block
+   (Body column sometimes blank, wrapped continuation lines); newer pages use
+   an HTML table. Parse both; never regex a flattened blob (rows merge).
 
 ## Blockers / manual steps
 
