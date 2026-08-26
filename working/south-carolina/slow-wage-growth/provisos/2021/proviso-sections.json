@@ -1,0 +1,12 @@
+{
+ "fiscal_year": "2021-2022",
+ "year": 2021,
+ "bill_no": "H4100",
+ "version": "ta",
+ "version_label": "Ratified / enacted (as passed by the General Assembly)",
+ "enacted": true,
+ "source_url": "https://www.scstatehouse.gov/sess124_2021-2022/appropriations2021/tap1b.htm",
+ "proviso_count": 1194,
+ "full_sections_at": "sources/south-carolina/_universe/part1b/2021/proviso-sections.json",
+ "note": "Full proviso set stored once, shared across issues; this issue's matched subset is proviso-relevant.json."
+}

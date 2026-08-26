@@ -1,0 +1,12 @@
+{
+ "fiscal_year": "2022-2023",
+ "year": 2022,
+ "bill_no": "H5150",
+ "version": "ta",
+ "version_label": "Ratified / enacted (as passed by the General Assembly)",
+ "enacted": true,
+ "source_url": "https://www.scstatehouse.gov/sess124_2021-2022/appropriations2022/tap1b.htm",
+ "proviso_count": 1214,
+ "full_sections_at": "sources/south-carolina/_universe/part1b/2022/proviso-sections.json",
+ "note": "Full proviso set stored once, shared across issues; this issue's matched subset is proviso-relevant.json."
+}
