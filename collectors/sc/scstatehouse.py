@@ -159,19 +159,26 @@ def fetch_bill_page(session_number: int, bill_number: int | str) -> dict | None:
 # Full-text discovery search (Pass 1). POST /query.php.
 # ---------------------------------------------------------------------------
 
+# Result headers: "Session 123 - (2019-2020) - S 594" for plain bills, but
+# "S*401" (asterisk, no space) for ratified/act versions — both must match or
+# passed legislation silently vanishes from discovery.
 _RESULT_RE = re.compile(
-    r"Session\s+(\d{3})\s*-\s*\(\d{4}-\d{4}\)\s*-\s*([HS])\s*(\d+)", re.I
+    r"Session\s+(\d{3})\s*-\s*\(\d{4}-\d{4}\)\s*-\s*([HS])[\s*]*(\d+)", re.I
 )
 # Singular for one hit ("1 match found."), plural otherwise.
 _MATCHES_RE = re.compile(r"([\d,]+)\s+match(?:es)? found", re.I)
 
 
 def fulltext_search(term: str, session_number: int, *, category: str = "LEGISLATION",
-                    numrows: int = 100, max_pages: int = 50) -> dict | None:
+                    numrows: int = 100, max_pages: int = 200) -> dict | None:
     """Search full bill text for ``term`` in one session; return every hit.
 
     Pass 1 rule: keep ALL hits (relevance_terms are a review flag only).
-    Results are paginated with ``result_pos``; this walks every page.
+
+    The result count is per *document* (each bill VERSION is a document), so
+    unique bills < total documents. Pagination therefore walks the entire
+    document count (``result_pos`` pages until page*numrows >= total) — never
+    stopping early just because a page added no new bills.
     """
     hits: list[dict] = []
     total: int | None = None
@@ -192,15 +199,16 @@ def fulltext_search(term: str, session_number: int, *, category: str = "LEGISLAT
         if total is None:
             m = _MATCHES_RE.search(_plain(raw))
             total = int(m.group(1).replace(",", "")) if m else 0
-        page_hits = 0
         # Each result block: "Session 126 - (2025-2026) - H 3226" then
         # "Summary: ..." then a snippet.
         blocks = re.split(r"(?=Session\s+\d{3}\s+-\s+\()", _plain(raw))
+        page_docs = 0
         for block in blocks:
             m = _RESULT_RE.match(block.strip())
             if not m:
                 continue
-            bill_no = f"{m.group(2).upper()}{m.group(3)}"
+            page_docs += 1
+            bill_no = f"{m.group(2).upper()}{int(m.group(3))}"
             if bill_no in seen:
                 continue
             seen.add(bill_no)
@@ -211,8 +219,7 @@ def fulltext_search(term: str, session_number: int, *, category: str = "LEGISLAT
                 "summary": sm.group(1).strip()[:300] if sm else "",
                 "found_by_term": term,
             })
-            page_hits += 1
-        if page_hits == 0 or len(hits) >= (total or 0):
+        if (page + 1) * numrows >= (total or 0) or page_docs == 0:
             break
     return {"term": term, "session": session_number,
             "total_matches": total or 0, "hits": hits}

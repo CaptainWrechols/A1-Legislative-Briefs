@@ -18,6 +18,8 @@ the budget-proviso workflow is in
 | Module | Purpose |
 |--------|---------|
 | `__init__.py` | Canonical registries: the 123rd–126th sessions (numbers, OpenStates ids, site paths) and every General Appropriations cycle 2020→2026 (bill numbers, enacted flags). |
+| `universe.py` | **Full-universe sweep** (run once, resumable): every instrument in every session by dense number enumeration — identity, sponsors, complete action history incl. governor action, latest-version full text — plus all chamber roll calls and ratifications, with a four-surface cross-check certification. |
+| `collect_issue.py` | Build one issue's complete artifact set (pass1/bills-core/bill-votes/data-gaps + Part IB provisos for every enacted cycle) from the universe + server-side full-text search (cached). |
 | `scstatehouse.py` | Fetchers for scstatehouse.gov: static bill pages, full-text discovery search (`query.php`), vote-history tables (counts verbatim), roll-call ballot PDFs (per-member), member roster (the party source). Soft-fail + throttled. |
 | `proviso_fetch.py` | Fetch Part IB full text for a budget cycle (enacted `ta` version first, earlier versions as fallback), with on-disk caching. |
 | `proviso_sections.py` | Split Part IB into individual provisos (number, agency, caption, text, SC-Code cites), match them to issue terms, write the working outputs. |
@@ -34,9 +36,17 @@ pip install -r requirements.txt
 python3 -m collectors.sc.scstatehouse       # 6-request self-check
 python3 -m collectors.sc.spike              # full smoke test (~25 requests)
 
-# Completeness (foundation mode passes pre-collection):
+# The data layer (already collected on this branch; resumable if re-run):
+python3 -m collectors.sc.universe           # full sweep, hours
+python3 -m collectors.sc.universe --certify-only
+
+# Per-issue artifacts from the universe (search results are disk-cached):
 ISSUE_CONFIG=config/issues/south-carolina-<slug>.yaml \
-    python3 -m collectors.sc.verify_completeness --foundation --strict
+    python3 -m collectors.sc.collect_issue
+
+# Completeness gates:
+ISSUE_CONFIG=config/issues/south-carolina-<slug>.yaml \
+    python3 -m collectors.sc.verify_completeness --strict          # full gate
 ```
 
 Issue configs: `config/issues/south-carolina-{growth-infrastructure-roads,
