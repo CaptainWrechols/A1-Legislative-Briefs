@@ -1,0 +1,149 @@
+{
+ "issue": "south-carolina-04-slow-wage-growth",
+ "generated_by": "reality-mapper v2.2",
+ "source": "working/south-carolina/slow-wage-growth/evidence-pack.json",
+ "baskets": {
+  "often_moved": "Often moved before",
+  "unfinished": "Got support but didn't finish",
+  "rarely_moved": "Rarely moved before"
+ },
+ "session_snapshot": [
+  {"session": 123, "label": "123rd (2019-2020)", "policy_bills": 24, "enacted": 0, "core": 14, "core_enacted": 0,
+   "stop_note": "Mostly first committee; H3576, H3759, S419 each passed one chamber and died in the other's committee when COVID cut the session"},
+  {"session": 124, "label": "124th (2021-2022)", "policy_bills": 33, "enacted": 5, "core": 16, "core_enacted": 3,
+   "stop_note": "First committee dominates; H3244 died in conference; H3348 passed the House 106-0 and died in Senate Finance"},
+  {"session": 125, "label": "125th (2023-2024)", "policy_bills": 26, "enacted": 7, "core": 13, "core_enacted": 4,
+   "stop_note": "First committee; Senate-passed S546 and S859 died in House committees"},
+  {"session": 126, "label": "126th (2025-2026)", "policy_bills": 23, "enacted": 1, "core": 11, "core_enacted": 1,
+   "stop_note": "First committee; H3368 failed on the Senate floor 16-27, the record's only losing floor vote"}
+ ],
+ "theme_scorecards": [
+  {"theme": "Creating a state minimum wage", "bills": 24, "enacted": 0, "basket": "rarely_moved", "certainty": "high",
+   "typical_stop": "first committee, no recorded vote at any stage (House LCI, House Ways and Means, Senate LCI, Senate Judiciary)",
+   "typical_floor_yes_pct": null,
+   "examples": ["123:H3114", "124:S159", "125:S216", "126:H3735"]},
+  {"theme": "Wage floors for specific groups", "bills": 11, "enacted": 2, "basket": "often_moved", "certainty": "medium",
+   "typical_stop": "general inmate-wage bills die in first committee; the two targeted floors passed near-unanimously",
+   "typical_floor_yes_pct": 0.98,
+   "examples": ["124:S533", "125:S1001", "124:H3244", "126:H5357"]},
+  {"theme": "Apprenticeships and hiring tax credits", "bills": 7, "enacted": 2, "basket": "mixed", "certainty": "medium",
+   "typical_stop": "second chamber's money committee, or first committee for stand-alone versions",
+   "typical_floor_yes_pct": 1.0,
+   "examples": ["125:S557", "125:H3605", "124:H3348", "125:S859"]},
+  {"theme": "Career training, technical colleges, and workforce programs", "bills": 22, "enacted": 5, "basket": "often_moved", "certainty": "high",
+   "typical_stop": "second chamber's committee late in the session, when they stop at all",
+   "typical_floor_yes_pct": 0.97,
+   "examples": ["124:H3144", "125:H3726", "123:H3759", "125:S546"]},
+  {"theme": "Employer incentives tied to pay", "bills": 11, "enacted": 2, "basket": "mixed", "certainty": "medium",
+   "typical_stop": "House Ways and Means / Senate Finance without a vote for stand-alone bills; enacted when riding tax packages",
+   "typical_floor_yes_pct": 0.96,
+   "examples": ["126:H4603", "124:S398", "124:S901", "125:H4087"]},
+  {"theme": "Equal pay for equal work", "bills": 11, "enacted": 0, "basket": "rarely_moved", "certainty": "high",
+   "typical_stop": "first committee, no recorded vote",
+   "typical_floor_yes_pct": null,
+   "examples": ["123:H3139", "124:S514", "126:H3512"]},
+  {"theme": "Take-home pay: overtime rules and taxes", "bills": 6, "enacted": 0, "basket": "unfinished", "certainty": "medium",
+   "typical_stop": "first committee; the one that advanced passed the House 121-0 and lost on the Senate floor 16-27",
+   "typical_floor_yes_pct": null,
+   "examples": ["126:H3368", "125:H4811", "126:H4751"]},
+  {"theme": "Other pay and job-rules bills", "bills": 14, "enacted": 2, "basket": "mixed", "certainty": "medium",
+   "typical_stop": "first committee for worker-benefit mandates; tax-exemption and consumer-rule designs became law",
+   "typical_floor_yes_pct": 1.0,
+   "examples": ["124:H3247", "125:S700", "124:H3469", "123:S549"]}
+ ],
+ "people_signals": {
+  "note": "Descriptive only; party labels intentionally absent (roster/ballot join not fetched).",
+  "minimum_wage_carriers": ["Cobb-Hunter", "Scott", "Garvin", "Hart", "Jackson"],
+  "workforce_law_carriers": ["G.M. Smith", "Davis", "Lucas"],
+  "committee_choke_points": [
+   "House Labor, Commerce and Industry (minimum wage, skills-based hiring, paid sick leave)",
+   "House Ways and Means (wage boards, livable-wage credit, overtime exemptions, incentive bills)",
+   "Senate Labor, Commerce and Industry (SC Minimum Wage Act family, S398)",
+   "Senate Education (House-passed education-workforce bills)",
+   "Senate Finance (House-passed revenue bills: H3348, H3135, H4252)"
+  ]
+ },
+ "high_support_non_enactments_top": [
+  {"bill_key": "126:H3368", "note": "House 121-0, then Senate floor 16-27 - the record's only losing floor vote"},
+  {"bill_key": "124:H3244", "note": "House 106-9 and Senate 44-0; died in conference; content enacted next year via S533"},
+  {"bill_key": "124:H3348", "note": "House 106-0; died in Senate Finance"},
+  {"bill_key": "123:H3576", "note": "House 105-0; favorable Senate committee report; died on the Senate calendar; enacted two years later as H3144"},
+  {"bill_key": "125:S859", "note": "Senate 42-0; died in House LCI"},
+  {"bill_key": "123:H3759", "note": "House 100-3; died in Senate Education when COVID ended the session"},
+  {"bill_key": "123:S419", "note": "Senate 40-4 after a long floor fight; died in House Education and Public Works when COVID ended the session"},
+  {"bill_key": "125:S546", "note": "Senate 42-0; died in House LCI"},
+  {"bill_key": "126:S279", "note": "Senate 41-0; died in House Judiciary"}
+ ],
+ "proposal_reality_cards": [
+  {"proposal_id": "age-bracketed-minimum-wage",
+   "citizens_proposed": "A higher minimum wage for adults (18+) with a separate, lower youth wage for teens.",
+   "lawmakers_tried": "Nothing in this record. No 2019-2026 bill proposes a youth wage, training wage, or age bracket; 'youth wage' and 'training wage' return zero full-text hits. There is no state minimum wage to bracket, and Section 41-1-110 preempts local minimums.",
+   "where_similar_stopped": "The parent idea (any state minimum wage) stops in first committee every time - 24 bills, zero votes.",
+   "adjacent_carriers": [],
+   "levers_venue": "State legislature; federal FLSA already allows a $4.25 youth training wage for the first 90 days, which a state bracket would interact with.",
+   "nearest_record": "124:S533 (Act 209 of 2022) enacted the opposite direction: it banned subminimum wages for workers with disabilities.",
+   "open_questions": [
+    "Would a youth bracket attach to a new state minimum (never had a hearing) or stand alone?",
+    "Where would the age line sit, and does a lower teen wage displace adult workers?",
+    "How does an age tier square with the enacted policy direction of S533, which removed a subminimum tier?"
+   ],
+   "basket": "rarely_moved", "coverage": "none"},
+  {"proposal_id": "workforce-development",
+   "citizens_proposed": "Expand apprenticeships, career pathways, and technical-college training so workers can move into higher-paying jobs.",
+   "lawmakers_tried": "The most active and most successful lane: SC WINS scholarships (124:H3144, Act 204 of 2022), workforce coordinating council (124:H4766, Act 194 of 2022), Earn and Learn (125:H3605, Act 13 of 2023), Statewide Education and Workforce Development Act (125:H3726, Act 67 of 2023), bigger apprentice tax credit (125:S557, Act 188 of 2024), STEM Opportunity Act (126:H3863, Act 142 of 2026) - all near-unanimous.",
+   "where_similar_stopped": "The second chamber's committee late in the session: H3576 on the 2019-20 Senate calendar; H3759/S419 when COVID ended 2020; H4060 in Senate Education; S546/S279 and S859 in House committees.",
+   "adjacent_carriers": ["G.M. Smith", "Davis", "Lucas"],
+   "levers_venue": "State legislature plus the budget: apprenticeship lead-agency role, WINS lottery funding ($17M-$93.7M/yr), and workforce-needs funding all live in one-year budget provisos, not permanent statute.",
+   "open_questions": [
+    "Is the remaining gap funding scale, employer take-up, or completion outcomes?",
+    "Which pieces should move from one-year provisos to permanent law?"
+   ],
+   "basket": "often_moved", "coverage": "substantial"},
+  {"proposal_id": "raise-minimum-wage",
+   "citizens_proposed": "Raise the state minimum wage toward a livable wage (mixed consensus; small-business cost concerns).",
+   "lawmakers_tried": "24 bills across all four sessions: fixed floors of $10-$17/hr, phased schedules with inflation adjustment, two advisory-referendum resolutions (124:S633, 125:S28), a constitutional amendment (123:S147), and a wage-board mechanism (126:H3735).",
+   "where_similar_stopped": "First committee, every time, with no recorded vote at any stage in eight years.",
+   "adjacent_carriers": ["Cobb-Hunter", "Scott", "Garvin", "Hart", "Jackson"],
+   "levers_venue": "State legislature only: the federal $7.25 floor applies, and Section 41-1-110 blocks cities and counties from setting their own minimums.",
+   "open_questions": [
+    "What would earn the first committee hearing after 24 tries?",
+    "Is the advisory-referendum route a different path or the same chokepoint?",
+    "Does the small-business concern connect this proposal to the incentive design in [P-employer-living-wage-incentives]?"
+   ],
+   "basket": "rarely_moved", "coverage": "substantial_attempts_zero_movement"},
+  {"proposal_id": "employer-living-wage-incentives",
+   "citizens_proposed": "State incentives or bonuses for employers who pay a living wage (funding mechanism disputed).",
+   "lawmakers_tried": "The exact design exists: 126:H4603, the Small Business Livable Wage Tax Credit Act (prefiled December 2025, introduced January 2026, led by Rep. Jones), died in House Ways and Means without a vote when the session ended. 126:H4245 (credits for hiring people leaving public assistance, also led by Rep. Jones) sits the same way; 124:S398 (wage obligations on subsidy recipients) died in Senate LCI.",
+   "where_similar_stopped": "Stand-alone bills stop in the money committees without votes; wage-linked incentives pass when riding tax packages - 124:S901 (Act 237 of 2022) and 125:H4087 (Act 222 of 2024) updated job development credits near-unanimously, and 125:S557 grew the apprentice credit.",
+   "adjacent_carriers": ["Jones (H4603, H4245)", "G.M. Smith (H4087)"],
+   "levers_venue": "State tax code; the disputed funding question is in practice a House Ways and Means / Senate Finance question.",
+   "open_questions": [
+    "How is 'livable wage' defined and updated, and is the credit refundable?",
+    "Does the design ride a committee tax package (the route that passes) or stand alone (the route that has not had a vote)?",
+    "What take-up would small employers actually see?"
+   ],
+   "basket": "mixed", "coverage": "thin"}
+ ],
+ "recent_enactments_watchlist": [
+  {"bill_key": "126:H3863", "note": "STEM Opportunity Act (Act 142 of 2026, 103-0 and 43-0). Recently done - groups may ask whether a gap remains or a repeat is needed."},
+  {"item": "FY 2026-27 provisos", "note": "Apprenticeship lead agency (117.155), critical workforce needs (25.4), WINS lottery funding $24.7M (3.8), IDD workforce pilot (25.7), 2% state-employee raise (117.138)."}
+ ],
+ "deliberation_prompts": [
+  "If minimum-wage bills have stopped in the same first committees 24 times without a hearing, what would need to change for hearing number one?",
+  "Is a committee death a 'no' on the idea, or a 'no' on the vehicle? The Employment First bills died twice before S533 passed unanimously.",
+  "When a design keeps passing one chamber unanimously and dying in the other's committee (skills-based hiring, DEW restructuring), what does the second chamber need to see?",
+  "The one recorded floor defeat (H3368, overtime tax exemption, 16-27 in the Senate) followed a 121-0 House vote. What made the chambers read the same idea so differently?",
+  "Workforce-pathway laws pass almost unanimously. Does that mean the lane is open for more, or that the easy pieces are done?",
+  "Much of the apprenticeship and scholarship machinery lives in one-year budget provisos. Should any of it be permanent law, and who decides that?",
+  "A livable-wage tax credit exists as a filed bill that never got a vote. Is the obstacle the design, the definition of 'livable,' or the fiscal note?",
+  "No youth or training wage has ever been filed. Is that because no member has championed it, or because the parent policy has no traction?"
+ ],
+ "certainty": {
+  "minimum_wage_never_voted": "high",
+  "equal_pay_never_voted": "high",
+  "workforce_pathways_often_enacted": "high",
+  "second_chamber_committee_chokepoint": "medium-high",
+  "incentives_pass_only_in_tax_packages": "medium",
+  "single_example_patterns": "insufficient (wage boards, H3244 conference death)"
+ }
+}
