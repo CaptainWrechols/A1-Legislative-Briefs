@@ -1,0 +1,129 @@
+{
+  "certified_at": "2026-08-25T22:12:46.337016+00:00",
+  "verdict": "PASS",
+  "totals": {
+    "bills": 15817,
+    "roll_calls": 8879,
+    "ratifications": 989,
+    "bills_with_text": 15817,
+    "bills_with_gov_action": 984
+  },
+  "per_session": {
+    "123": {
+      "bills": 3897,
+      "roll_calls": 1683,
+      "ratifications": 188,
+      "bills_with_text": 3897,
+      "bills_with_governor_action": 188
+    },
+    "124": {
+      "bills": 3898,
+      "roll_calls": 2485,
+      "ratifications": 272,
+      "bills_with_text": 3898,
+      "bills_with_governor_action": 271
+    },
+    "125": {
+      "bills": 3976,
+      "roll_calls": 2382,
+      "ratifications": 253,
+      "bills_with_text": 3976,
+      "bills_with_governor_action": 250
+    },
+    "126": {
+      "bills": 4046,
+      "roll_calls": 2329,
+      "ratifications": 276,
+      "bills_with_text": 4046,
+      "bills_with_governor_action": 275
+    }
+  },
+  "checks": [
+    {
+      "check": "123_rollcalls_join_bills",
+      "status": "PASS",
+      "detail": "1683 roll calls; bills cited but not in enumeration: [] (n=0)"
+    },
+    {
+      "check": "123_ratifications_join_bills",
+      "status": "PASS",
+      "detail": "188 ratifications; missing from enumeration: [] (n=0)"
+    },
+    {
+      "check": "123_ratified_bills_have_page_evidence",
+      "status": "PASS",
+      "detail": "ratified bills lacking act header AND governor action in history: [] (n=0)"
+    },
+    {
+      "check": "123_full_text_coverage",
+      "status": "PASS",
+      "detail": "3897/3897 bills with inline latest-version text; reserved placeholders: [] (n=0); unexplained empty: [] (n=0)"
+    },
+    {
+      "check": "124_rollcalls_join_bills",
+      "status": "PASS",
+      "detail": "2485 roll calls; bills cited but not in enumeration: [] (n=0)"
+    },
+    {
+      "check": "124_ratifications_join_bills",
+      "status": "PASS",
+      "detail": "272 ratifications; missing from enumeration: [] (n=0)"
+    },
+    {
+      "check": "124_ratified_bills_have_page_evidence",
+      "status": "PASS",
+      "detail": "ratified bills lacking act header AND governor action in history: [] (n=0)"
+    },
+    {
+      "check": "124_full_text_coverage",
+      "status": "PASS",
+      "detail": "3898/3898 bills with inline latest-version text; reserved placeholders: [] (n=0); unexplained empty: [] (n=0)"
+    },
+    {
+      "check": "125_rollcalls_join_bills",
+      "status": "PASS",
+      "detail": "2382 roll calls; bills cited but not in enumeration: [] (n=0)"
+    },
+    {
+      "check": "125_ratifications_join_bills",
+      "status": "PASS",
+      "detail": "253 ratifications; missing from enumeration: [] (n=0)"
+    },
+    {
+      "check": "125_ratified_bills_have_page_evidence",
+      "status": "PASS",
+      "detail": "ratified bills lacking act header AND governor action in history: [] (n=0)"
+    },
+    {
+      "check": "125_full_text_coverage",
+      "status": "PASS",
+      "detail": "3976/3976 bills with inline latest-version text; reserved placeholders: [] (n=0); unexplained empty: [] (n=0)"
+    },
+    {
+      "check": "126_rollcalls_join_bills",
+      "status": "PASS",
+      "detail": "2329 roll calls; bills cited but not in enumeration: [] (n=0)"
+    },
+    {
+      "check": "126_ratifications_join_bills",
+      "status": "PASS",
+      "detail": "276 ratifications; missing from enumeration: [] (n=0)"
+    },
+    {
+      "check": "126_ratified_bills_have_page_evidence",
+      "status": "PASS",
+      "detail": "ratified bills lacking act header AND governor action in history: [] (n=0)"
+    },
+    {
+      "check": "126_full_text_coverage",
+      "status": "PASS",
+      "detail": "4044/4046 bills with inline latest-version text; reserved placeholders: ['H3246', 'H3294'] (n=2); unexplained empty: [] (n=0)"
+    }
+  ],
+  "known_limits": [
+    "Committee vote TALLIES are not published by the State of South Carolina; committee outcomes are captured verbatim from bill histories ('Committee report: Favorable', etc.). Never invent tallies.",
+    "Bill pages carry the full text of the LATEST version inline (captured); earlier-draft texts are recorded as dated URLs per bill and fetched on demand.",
+    "Per-member ballot PDFs are recorded by ballot_pdf_key per roll call and fetched on demand; party joins from the member roster.",
+    "Voice votes leave no roll call — absence of a roll call on a reading is normal, not a gap."
+  ]
+}

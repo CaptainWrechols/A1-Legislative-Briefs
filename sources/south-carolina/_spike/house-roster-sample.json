@@ -1,0 +1,40 @@
+{
+  "note": "party source for ballots \u2014 official roll-call PDFs list names only",
+  "member_count": 124,
+  "parties": {
+    "D": 35,
+    "R": 89
+  },
+  "sample": [
+    {
+      "code": "0011363635",
+      "name": "Terry Alexander",
+      "party": "D",
+      "chamber": "H"
+    },
+    {
+      "code": "0021590907",
+      "name": "Carl L. Anderson",
+      "party": "D",
+      "chamber": "H"
+    },
+    {
+      "code": "0066477265",
+      "name": "Lucas Atkinson",
+      "party": "R",
+      "chamber": "H"
+    },
+    {
+      "code": "0088636353",
+      "name": "William H. Bailey",
+      "party": "R",
+      "chamber": "H"
+    },
+    {
+      "code": "0102272715",
+      "name": "Nathan Ballentine",
+      "party": "R",
+      "chamber": "H"
+    }
+  ]
+}

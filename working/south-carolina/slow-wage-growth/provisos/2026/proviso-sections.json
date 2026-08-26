@@ -1,0 +1,12 @@
+{
+ "fiscal_year": "2026-2027",
+ "year": 2026,
+ "bill_no": "H5126",
+ "version": "ta",
+ "version_label": "Ratified / enacted (as passed by the General Assembly)",
+ "enacted": true,
+ "source_url": "https://www.scstatehouse.gov/sess126_2025-2026/appropriations2026/tap1b.htm",
+ "proviso_count": 1394,
+ "full_sections_at": "sources/south-carolina/_universe/part1b/2026/proviso-sections.json",
+ "note": "Full proviso set stored once, shared across issues; this issue's matched subset is proviso-relevant.json."
+}

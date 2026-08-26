@@ -1,0 +1,208 @@
+state: south-carolina
+issue_id: south-carolina-01-growth-infrastructure-roads
+issue_title: "Growth, Infrastructure, and Roads in South Carolina"
+issue_slug: growth-infrastructure-roads
+openstates_jurisdiction: South Carolina
+
+# Theme (Phase 2): rapid growth, roads, infrastructure, natural resources;
+# home rule vs. state authority is a recurring frame.
+
+sessions:
+  - label: "123rd (2019-2020)"
+    number: 123
+    openstates_identifier: "2019-2020"
+    scstatehouse_path: "sess123_2019-2020"
+    years: [2019, 2020]
+    note: "included because 2020 is its second year"
+  - label: "124th (2021-2022)"
+    number: 124
+    openstates_identifier: "2021-2022"
+    scstatehouse_path: "sess124_2021-2022"
+    years: [2021, 2022]
+  - label: "125th (2023-2024)"
+    number: 125
+    openstates_identifier: "2023-2024"
+    scstatehouse_path: "sess125_2023-2024"
+    years: [2023, 2024]
+  - label: "126th (2025-2026)"
+    number: 126
+    openstates_identifier: "2025-2026"
+    scstatehouse_path: "sess126_2025-2026"
+    years: [2025, 2026]
+
+# Pass 1 rule: keep ALL hits; relevance_terms are a review flag only.
+search_terms:
+  - infrastructure
+  - road
+  - roads
+  - highway
+  - bridge
+  - SCDOT
+  - "South Carolina Department of Transportation"
+  - transportation
+  - traffic
+  - congestion
+  - "impact fee"
+  - "impact fees"
+  - proffer
+  - developer
+  - growth
+  - "penny tax"
+  - "local option sales tax"
+  - toll
+  - "parking fee"
+  - transit
+  - "public transit"
+  - rail
+  - multimodal
+  - "comprehensive plan"
+  - "master plan"
+  - "land use"
+  - zoning
+  - "home rule"
+  - maintenance
+  - pavement
+  - contractor
+  - bidding
+  - "gas tax"
+  - sewer
+  - water
+  - broadband
+
+relevance_terms:
+  - infrastructure
+  - road
+  - highway
+  - SCDOT
+  - transportation
+  - bridge
+  - traffic
+  - "impact fee"
+  - proffer
+  - developer
+  - transit
+  - rail
+  - toll
+  - "comprehensive plan"
+  - "home rule"
+  - maintenance
+  - contractor
+
+# Phase 2 Community Conversations (Jun-Aug 2026), RAG constituent-voice dataset
+# "SC1 - Phase 2 Constituent Proposals - Grid View for Legislators v2".
+# FORUM PROCESS INPUT [P-xxx], not verified facts — label as such in briefs.
+constituent_proposals:
+  - id: local-funding-tools
+    title: "New/expanded local funding tools (penny sales tax, impact fees, tolls, parking fees)"
+    detail: >-
+      Give local governments new or expanded funding tools for infrastructure:
+      penny sales taxes, impact fees, tolls, and parking fees.
+    consensus: >-
+      High frequency (raised in Columbia, Florence, and Charleston). High
+      consensus; transparency on how the funds are used is the key condition
+      participants attached.
+    tradeoffs: >-
+      Transparency on use of funds is the key tradeoff participants named.
+    match_terms: ["penny tax", "local option", "sales tax", "toll", "parking fee", "impact fee"]
+  - id: developer-pays-growth
+    title: "Make developers pay for growth (impact fees / proffers)"
+    detail: >-
+      Require developers to pay for the infrastructure their projects create
+      demand for, through impact fees or proffers.
+    consensus: >-
+      Very high frequency (raised at all events). High consensus.
+    tradeoffs: >-
+      Pass-through to consumers (higher home prices) is the main concern.
+    match_terms: ["impact fee", "proffer", "developer", "growth"]
+  - id: multimodal-transport
+    title: "Public transit, rail, and multimodal options beyond roads"
+    detail: >-
+      Invest in public transit, rail, and multimodal transportation rather
+      than roads alone.
+    consensus: >-
+      High frequency (3 events). High consensus in cities; rural relevance
+      was questioned.
+    tradeoffs: >-
+      Whether transit and rail investments serve rural South Carolina was the
+      main open question.
+    match_terms: ["transit", "rail", "multimodal", "public transportation"]
+  - id: state-master-planning
+    title: "State comprehensive/regional planning instead of fragmented county plans"
+    detail: >-
+      Move toward state-level comprehensive or regional planning for growth
+      and infrastructure, in place of fragmented county-by-county plans.
+    consensus: >-
+      Very high frequency (all 4 events). Mixed consensus — the home-rule
+      tension (local control vs. state authority) runs through it.
+    tradeoffs: >-
+      Home-rule tension: state planning trades away local control.
+    match_terms: ["comprehensive plan", "master plan", "regional", "home rule", "county plan"]
+  - id: fix-roads-first
+    title: "Maintain existing roads before building new capacity"
+    detail: >-
+      Prioritize maintaining and repairing existing roads before spending on
+      expansion.
+    consensus: >-
+      Medium frequency. Mixed consensus.
+    tradeoffs: >-
+      Maintenance vs. expansion is the core tradeoff.
+    match_terms: ["maintenance", "pavement", "repair", "resurfacing"]
+  - id: no-new-taxes
+    title: "Oppose new taxes or fees for infrastructure"
+    detail: >-
+      Fund infrastructure without any new taxes or fees.
+    consensus: >-
+      Medium frequency. Low consensus; a sharp split among participants.
+    tradeoffs: >-
+      Directly conflicts with the local-funding-tools and developer-pays
+      proposals; participants split sharply.
+    match_terms: ["tax increase", "new tax", "fee increase", "tax relief"]
+  - id: contractor-accountability
+    title: "Improve the bidding process and hold contractors accountable"
+    detail: >-
+      Improve how road and infrastructure contracts are bid and hold
+      contractors accountable for results.
+    consensus: >-
+      Medium frequency. High consensus; seen as a low-cost fix.
+    tradeoffs: >-
+      Seen as low-cost; few tradeoffs were raised.
+    match_terms: ["contractor", "bidding", "procurement", "accountability"]
+
+omnibus_bills:
+  - role: "General Appropriations Act — Part IB policy provisos"
+    method: proviso-by-proviso
+    section_extractor: collectors/sc/proviso_sections.py
+    fetcher: collectors/sc/proviso_fetch.py
+    outputs:
+      sections_json: "working/south-carolina/{issue}/proviso-sections.json"
+      sections_md: "working/south-carolina/{issue}/proviso-sections.md"
+      relevant_json: "working/south-carolina/{issue}/proviso-relevant.json"
+    cycles:
+      - {fiscal_year: "2020-2021", year: 2020, bill_no: H5201, session: 123, enacted: false,
+         note: "COVID: H.5201 died in committee; FY ran on continuing resolution H.3411 + CARES acts. No enacted Part IB."}
+      - {fiscal_year: "2021-2022", year: 2021, bill_no: H4100, session: 124, enacted: true}
+      - {fiscal_year: "2022-2023", year: 2022, bill_no: H5150, session: 124, enacted: true}
+      - {fiscal_year: "2023-2024", year: 2023, bill_no: H4300, session: 125, enacted: true}
+      - {fiscal_year: "2024-2025", year: 2024, bill_no: H5100, session: 125, enacted: true}
+      - {fiscal_year: "2025-2026", year: 2025, bill_no: H4025, session: 126, enacted: true}
+      - {fiscal_year: "2026-2027", year: 2026, bill_no: H5126, session: 126, enacted: true}
+
+# Starting points only — VERIFY in the issue chat before citing.
+sc_code_sections:
+  - "Title 57 (Highways, Bridges and Ferries — SCDOT)"
+  - "12-28 (motor fuels user fee — the 'gas tax', raised by Act 40 of 2017)"
+  - "6-1-910 et seq. (SC Development Impact Fee Act)"
+  - "4-10 (local option sales taxes, incl. transportation tax)"
+  - "4-37 (optional methods for financing transportation facilities)"
+  - "6-29 (local government comprehensive planning enabling act)"
+  - "11-35 (SC Consolidated Procurement Code — bidding)"
+
+agency_document_urls:
+  - url: "https://www.scdot.org/"
+    title: "South Carolina Department of Transportation"
+    source_key: "S1"
+  - url: "https://dot.sc.gov/projects/10-year-plan"
+    title: "SCDOT 10-Year Plan (road/bridge program)"
+    source_key: "S2"
+
+impact_lookback_years: 20

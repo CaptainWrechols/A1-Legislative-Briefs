@@ -1,0 +1,125 @@
+{
+  "collected_at": "2026-08-26T01:01:42.930724+00:00",
+  "issue": "south-carolina-03-rising-cost-of-living",
+  "issue_slug": "rising-cost-of-living",
+  "mode": "full",
+  "verdict": "PASS_WITH_WARNINGS",
+  "counts": {
+    "checks": 22,
+    "fail": 0,
+    "warn": 1,
+    "pass": 21
+  },
+  "checks": [
+    {
+      "check": "config_sessions",
+      "status": "PASS",
+      "detail": "4 sessions; need the 123rd-126th with OpenStates ids and scstatehouse paths"
+    },
+    {
+      "check": "config_search_terms",
+      "status": "PASS",
+      "detail": "26 search terms"
+    },
+    {
+      "check": "config_relevance_terms",
+      "status": "PASS",
+      "detail": "11 relevance terms"
+    },
+    {
+      "check": "config_constituent_proposals",
+      "status": "PASS",
+      "detail": "4 proposals; incomplete=[]"
+    },
+    {
+      "check": "config_omnibus_cycles",
+      "status": "PASS",
+      "detail": "method=proviso-by-proviso; 7 appropriations cycles"
+    },
+    {
+      "check": "proviso_sections_present",
+      "status": "PASS",
+      "detail": "working/south-carolina/rising-cost-of-living/proviso-sections.json: proviso_count=1394 (min 100); cycle=2026-2027 version=ta"
+    },
+    {
+      "check": "proviso_relevant_present",
+      "status": "PASS",
+      "detail": "working/south-carolina/rising-cost-of-living/proviso-relevant.json: relevant=564"
+    },
+    {
+      "check": "proviso_cycle_2021",
+      "status": "PASS",
+      "detail": "FY 2021-2022 (H4100): covered"
+    },
+    {
+      "check": "proviso_cycle_2022",
+      "status": "PASS",
+      "detail": "FY 2022-2023 (H5150): covered"
+    },
+    {
+      "check": "proviso_cycle_2023",
+      "status": "PASS",
+      "detail": "FY 2023-2024 (H4300): covered"
+    },
+    {
+      "check": "proviso_cycle_2024",
+      "status": "PASS",
+      "detail": "FY 2024-2025 (H5100): covered"
+    },
+    {
+      "check": "proviso_cycle_2025",
+      "status": "PASS",
+      "detail": "FY 2025-2026 (H4025): covered"
+    },
+    {
+      "check": "proviso_cycle_2026",
+      "status": "PASS",
+      "detail": "FY 2026-2027 (H5126): covered"
+    },
+    {
+      "check": "artifact_pass1",
+      "status": "PASS",
+      "detail": "sources/south-carolina/rising-cost-of-living/pass1/bills.json"
+    },
+    {
+      "check": "artifact_bills_core",
+      "status": "PASS",
+      "detail": "sources/south-carolina/rising-cost-of-living/processed/bills-core.json"
+    },
+    {
+      "check": "artifact_bill_votes",
+      "status": "PASS",
+      "detail": "sources/south-carolina/rising-cost-of-living/processed/bill-votes.json"
+    },
+    {
+      "check": "sessions_covered",
+      "status": "PASS",
+      "detail": "bills/session={123: 1572, 124: 1713, 125: 1740, 126: 1789}; missing_unexplained=[]"
+    },
+    {
+      "check": "bill_fields_complete",
+      "status": "PASS",
+      "detail": "0 incomplete of 6814"
+    },
+    {
+      "check": "votes_row_per_bill",
+      "status": "PASS",
+      "detail": "missing_vote_rows=0 examples=[]"
+    },
+    {
+      "check": "vote_counts_are_integers",
+      "status": "PASS",
+      "detail": "all yea/nay integers or null"
+    },
+    {
+      "check": "search_term_coverage",
+      "status": "PASS",
+      "detail": "empty_search_terms=[]"
+    },
+    {
+      "check": "no_advice_language_in_titles",
+      "status": "WARN",
+      "detail": "titles_with_advice_words=['123:H3012', '123:H3019', '123:H3554', '123:H3575', '123:H3619']"
+    }
+  ]
+}

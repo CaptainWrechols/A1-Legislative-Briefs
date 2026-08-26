@@ -1,0 +1,50 @@
+{
+  "collected_at": "2026-08-25T19:36:22.736907+00:00",
+  "issue": "south-carolina-02-responsive-elected-leaders",
+  "issue_slug": "responsive-elected-leaders",
+  "mode": "foundation",
+  "verdict": "PASS",
+  "counts": {
+    "checks": 7,
+    "fail": 0,
+    "warn": 0,
+    "pass": 7
+  },
+  "checks": [
+    {
+      "check": "config_sessions",
+      "status": "PASS",
+      "detail": "4 sessions; need the 123rd-126th with OpenStates ids and scstatehouse paths"
+    },
+    {
+      "check": "config_search_terms",
+      "status": "PASS",
+      "detail": "28 search terms"
+    },
+    {
+      "check": "config_relevance_terms",
+      "status": "PASS",
+      "detail": "12 relevance terms"
+    },
+    {
+      "check": "config_constituent_proposals",
+      "status": "PASS",
+      "detail": "6 proposals; incomplete=[]"
+    },
+    {
+      "check": "config_omnibus_cycles",
+      "status": "PASS",
+      "detail": "method=proviso-by-proviso; 7 appropriations cycles"
+    },
+    {
+      "check": "proviso_sections_present",
+      "status": "PASS",
+      "detail": "working/south-carolina/responsive-elected-leaders/proviso-sections.json: proviso_count=1354 (min 100); cycle=2025-2026 version=ta"
+    },
+    {
+      "check": "proviso_relevant_present",
+      "status": "PASS",
+      "detail": "working/south-carolina/responsive-elected-leaders/proviso-relevant.json: relevant=231"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "issue_slug": "slow-wage-growth",
+  "session": 126,
+  "searches": [
+    {
+      "term": "minimum wage",
+      "total_matches": 14,
+      "hits": [
+        {
+          "session": 126,
+          "bill_no": "H3226",
+          "summary": "Minimum wage",
+          "found_by_term": "minimum wage"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3809",
+          "summary": "Minimum wage",
+          "found_by_term": "minimum wage"
+        },
+        {
+          "session": 126,
+          "bill_no": "H5357",
+          "summary": "Inmate minimum wage",
+          "found_by_term": "minimum wage"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3583",
+          "summary": "Public school support staff compensation",
+          "found_by_term": "minimum wage"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3735",
+          "summary": "Wage boards",
+          "found_by_term": "minimum wage"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3559",
+          "summary": "Inmate wages",
+          "found_by_term": "minimum wage"
+        },
+        {
+          "session": 126,
+          "bill_no": "S770",
+          "summary": "Childcare Assistance Program",
+          "found_by_term": "minimum wage"
+        },
+        {
+          "session": 126,
+          "bill_no": "S1118",
+          "summary": "Headquarters Relocation and Growth Fund",
+          "found_by_term": "minimum wage"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3605",
+          "summary": "Alimony",
+          "found_by_term": "minimum wage"
+        },
+        {
+          "session": 126,
+          "bill_no": "H4603",
+          "summary": "Small Business Livable Wage Tax Credit Act",
+          "found_by_term": "minimum wage"
+        }
+      ]
+    },
+    {
+      "term": "apprenticeship",
+      "total_matches": 13,
+      "hits": [
+        {
+          "session": 126,
+          "bill_no": "H3479",
+          "summary": "Skills-Based Hiring Act",
+          "found_by_term": "apprenticeship"
+        },
+        {
+          "session": 126,
+          "bill_no": "H5665",
+          "summary": "Funeral director and embalmer apprentices",
+          "found_by_term": "apprenticeship"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3160",
+          "summary": "Uniform Antidiscrimination Act",
+          "found_by_term": "apprenticeship"
+        },
+        {
+          "session": 126,
+          "bill_no": "H4752",
+          "summary": "Barbers",
+          "found_by_term": "apprenticeship"
+        },
+        {
+          "session": 126,
+          "bill_no": "S584",
+          "summary": "The CROWN Act",
+          "found_by_term": "apprenticeship"
+        },
+        {
+          "session": 126,
+          "bill_no": "S44",
+          "summary": "Physician assistants",
+          "found_by_term": "apprenticeship"
+        },
+        {
+          "session": 126,
+          "bill_no": "S825",
+          "summary": "Family Protection Act",
+          "found_by_term": "apprenticeship"
+        },
+        {
+          "session": 126,
+          "bill_no": "S936",
+          "summary": "Nuclear Lifecycle Innovation Campus",
+          "found_by_term": "apprenticeship"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3225",
+          "summary": "South Carolina Service Year Act",
+          "found_by_term": "apprenticeship"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3579",
+          "summary": "Physician assistants",
+          "found_by_term": "apprenticeship"
+        }
+      ]
+    }
+  ],
+  "bill_page": {
+    "session": 126,
+    "bill_no": "H3226",
+    "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3226.htm",
+    "summary": "Minimum wage",
+    "sponsors_raw": "Reps. Garvin and Cobb-Hunter",
+    "act_no": "",
+    "actions": []
+  },
+  "vote_history": {
+    "bill_no": "H3226",
+    "roll_call_count": 0,
+    "roll_calls": []
+  }
+}

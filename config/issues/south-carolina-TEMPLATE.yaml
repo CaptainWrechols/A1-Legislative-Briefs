@@ -1,0 +1,116 @@
+# South Carolina issue-config TEMPLATE
+# ---------------------------------------------------------------------------
+# Copy this file to config/issues/south-carolina-<issue-slug>.yaml and fill in
+# the issue-specific fields (marked TODO). One file per citizen issue.
+#
+# This mirrors the Nevada/NH issue configs but targets the South Carolina data
+# routes proven in docs/sc-data-sources.md:
+#   * discovery:      scstatehouse.gov full-text search (collectors/sc/scstatehouse.py)
+#                     + OpenStates bulk CSV cross-check (collectors/sc/openstates_bulk.py)
+#   * bill detail:    static scstatehouse.gov bill pages (all sessions back to 2020)
+#   * votes:          scstatehouse.gov vote-history tables (counts) + roll-call
+#                     PDFs (per-member ballots); party from the member roster
+#   * omnibus budget: General Appropriations Act Part IB, PROVISO-BY-PROVISO
+#                     (docs/sc-appropriations-proviso-workflow.md)
+#
+# Select it with: export ISSUE_CONFIG=config/issues/south-carolina-<slug>.yaml
+# ---------------------------------------------------------------------------
+
+state: south-carolina
+issue_id: south-carolina-XX-TODO       # e.g. south-carolina-01-growth-infrastructure-roads
+issue_title: "TODO: full issue title in South Carolina"
+issue_slug: TODO-slug                  # drives working/south-carolina/<slug>
+openstates_jurisdiction: South Carolina
+
+# SC runs TWO-YEAR sessions (a numbered General Assembly); bill numbers persist
+# across both years. "Back to 2020" = the 123rd (2019-2020) onward, because
+# 2020 is the second year of the 123rd. OpenStates identifies each session by
+# its year span; scstatehouse.gov by its number (and a path segment).
+sessions:
+  - label: "123rd (2019-2020)"
+    number: 123
+    openstates_identifier: "2019-2020"
+    scstatehouse_path: "sess123_2019-2020"
+    years: [2019, 2020]
+    note: "included because 2020 is its second year"
+  - label: "124th (2021-2022)"
+    number: 124
+    openstates_identifier: "2021-2022"
+    scstatehouse_path: "sess124_2021-2022"
+    years: [2021, 2022]
+  - label: "125th (2023-2024)"
+    number: 125
+    openstates_identifier: "2023-2024"
+    scstatehouse_path: "sess125_2023-2024"
+    years: [2023, 2024]
+  - label: "126th (2025-2026)"
+    number: 126
+    openstates_identifier: "2025-2026"
+    scstatehouse_path: "sess126_2025-2026"
+    years: [2025, 2026]
+
+# Full-text search terms used to discover bills (scstatehouse query.php +
+# OpenStates). Pass 1 rule: keep ALL hits; nothing is dropped by relevance.
+# NOTE: the scstatehouse search is EXACT-PHRASE with no stemming — include
+# singular AND plural forms of multiword phrases ("term limit"/"term limits").
+# relevance_terms/match_terms are matched locally as substrings, so the
+# singular form alone is enough there.
+search_terms:
+  - "TODO term 1"
+  - "TODO term 2"
+
+# Words that mark a title/summary as clearly on-topic. REVIEW FLAG ONLY —
+# nothing is dropped. Also used to select relevant budget provisos.
+relevance_terms:
+  - "todo term 1"
+
+# Phase 2 Community Conversation proposals (June-Aug 2026) from the RAG
+# constituent-voice dataset ("SC1 - Phase 2 Constituent Proposals - Grid View
+# for Legislators v2"). These cross-reference citizen voice to legislative
+# history — they are FORUM PROCESS INPUT [P-xxx], not verified facts, and must
+# be labeled as such in briefs.
+constituent_proposals:
+  - id: TODO-proposal-slug
+    title: "TODO proposal title"
+    detail: >-
+      TODO what constituents proposed, in their framing.
+    consensus: >-
+      TODO frequency across events + where consensus stood.
+    tradeoffs: >-
+      TODO tradeoffs participants raised.
+    match_terms: ["todo", "terms", "that link bills to this proposal"]
+
+# Omnibus budget: South Carolina's General Appropriations Act is ANNUAL
+# (unlike NH's biennial HB1/HB2). Policy rides in Part IB "temporary
+# provisions" (provisos) — handle PROVISO-BY-PROVISO, never as one bill.
+# Votes are recorded on the whole appropriations bill, never per proviso.
+omnibus_bills:
+  - role: "General Appropriations Act — Part IB policy provisos"
+    method: proviso-by-proviso
+    section_extractor: collectors/sc/proviso_sections.py
+    fetcher: collectors/sc/proviso_fetch.py
+    outputs:
+      sections_json: "working/south-carolina/{issue}/proviso-sections.json"
+      sections_md: "working/south-carolina/{issue}/proviso-sections.md"
+      relevant_json: "working/south-carolina/{issue}/proviso-relevant.json"
+    # One cycle per fiscal year in scope. Cycle facts (bill numbers, session,
+    # enacted flag) are canonical in collectors/sc/__init__.py BUDGET_CYCLES.
+    cycles:
+      - {fiscal_year: "2020-2021", year: 2020, bill_no: H5201, session: 123, enacted: false,
+         note: "COVID: H.5201 died in committee; FY ran on continuing resolution H.3411 + CARES acts. No enacted Part IB."}
+      - {fiscal_year: "2021-2022", year: 2021, bill_no: H4100, session: 124, enacted: true}
+      - {fiscal_year: "2022-2023", year: 2022, bill_no: H5150, session: 124, enacted: true}
+      - {fiscal_year: "2023-2024", year: 2023, bill_no: H4300, session: 125, enacted: true}
+      - {fiscal_year: "2024-2025", year: 2024, bill_no: H5100, session: 125, enacted: true}
+      - {fiscal_year: "2025-2026", year: 2025, bill_no: H4025, session: 126, enacted: true}
+      - {fiscal_year: "2026-2027", year: 2026, bill_no: H5126, session: 126, enacted: true}
+
+# SC Code of Laws chapters/sections this issue is known to live in — starting
+# points for background reading and proviso matching; VERIFY in the issue chat.
+# Browse at https://www.scstatehouse.gov/code/statmast.php
+sc_code_sections: []                   # e.g. ["57 (Highways)", "12-28 (motor fuel user fee)"]
+
+# Optional agency/background document URLs (source_key is cited in the brief).
+agency_document_urls: []
+
+impact_lookback_years: 20

@@ -1,0 +1,14 @@
+{
+ "gaps": [
+  {
+   "gap": "openstates_bulk_not_downloaded",
+   "sessions": [
+    123,
+    124,
+    125,
+    126
+   ],
+   "detail": "Optional external cross-check mirror (OpenStates bulk CSVs) not on disk; completeness is certified from official surfaces (enumeration + chamber vote lists + ratification sheets + full-text search joins). To add the mirror: download session CSVs from open.pluralpolicy.com/data/session-csv into sources/south-carolina/_bulk/openstates/."
+  }
+ ]
+}

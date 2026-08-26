@@ -1,0 +1,74 @@
+{
+  "issue_slug": "growth-infrastructure-roads",
+  "session": 126,
+  "searches": [
+    {
+      "term": "impact fee",
+      "total_matches": 9,
+      "hits": [
+        {
+          "session": 126,
+          "bill_no": "H3165",
+          "summary": "Development impact fee",
+          "found_by_term": "impact fee"
+        },
+        {
+          "session": 126,
+          "bill_no": "H4008",
+          "summary": "Impact fee",
+          "found_by_term": "impact fee"
+        },
+        {
+          "session": 126,
+          "bill_no": "H3467",
+          "summary": "School district surplus land",
+          "found_by_term": "impact fee"
+        },
+        {
+          "session": 126,
+          "bill_no": "H5172",
+          "summary": "State Underground Petroleum Environmental Response Bank Act",
+          "found_by_term": "impact fee"
+        },
+        {
+          "session": 126,
+          "bill_no": "H5088",
+          "summary": "Impact fees",
+          "found_by_term": "impact fee"
+        },
+        {
+          "session": 126,
+          "bill_no": "H4672",
+          "summary": "Impact fees",
+          "found_by_term": "impact fee"
+        }
+      ]
+    },
+    {
+      "term": "SCDOT",
+      "total_matches": 4,
+      "hits": [
+        {
+          "session": 126,
+          "bill_no": "S380",
+          "summary": "Department of Transportation - JR to Approve Regulation Document No. 5358",
+          "found_by_term": "SCDOT"
+        }
+      ]
+    }
+  ],
+  "bill_page": {
+    "session": 126,
+    "bill_no": "H3165",
+    "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3165.htm",
+    "summary": "Development impact fee",
+    "sponsors_raw": "Rep. Wooten",
+    "act_no": "",
+    "actions": []
+  },
+  "vote_history": {
+    "bill_no": "H3165",
+    "roll_call_count": 0,
+    "roll_calls": []
+  }
+}

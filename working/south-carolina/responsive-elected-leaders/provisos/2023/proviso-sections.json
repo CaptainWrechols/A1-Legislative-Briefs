@@ -1,0 +1,12 @@
+{
+ "fiscal_year": "2023-2024",
+ "year": 2023,
+ "bill_no": "H4300",
+ "version": "ta",
+ "version_label": "Ratified / enacted (as passed by the General Assembly)",
+ "enacted": true,
+ "source_url": "https://www.scstatehouse.gov/sess125_2023-2024/appropriations2023/tap1b.htm",
+ "proviso_count": 1251,
+ "full_sections_at": "sources/south-carolina/_universe/part1b/2023/proviso-sections.json",
+ "note": "Full proviso set stored once, shared across issues; this issue's matched subset is proviso-relevant.json."
+}
