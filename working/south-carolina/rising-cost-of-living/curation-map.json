@@ -1,0 +1,4227 @@
+{
+ "issue": "south-carolina-03-rising-cost-of-living",
+ "note": "Hand curation of the keep-all Pass 1 discovery (nothing was dropped upstream). Tiers: core = the issue's headline set (utility rates/oversight/transparency, Santee Cooper, major energy-rate bills, electricity-market competition, personal-finance education, and property/vehicle taxes \u2014 the four constituent proposals' lanes); adjacent = household cost-of-living bills outside the four proposals (utility billing protections, income/sales tax relief, housing and rent, home/property insurance); context = kept for audit only, excluded from headline counts. Headline and ambiguous bills verified against latest-version full text in _universe/. Two financial-education bills added from a hand universe full-text scan (see per-bill source field). All other Pass 1 hits are excluded under the rules below.",
+ "themes": [
+  "How electric and gas rates are watched and set",
+  "Santee Cooper, the state-owned utility",
+  "Big energy bills that set the rate rules",
+  "Opening the electricity market to competition",
+  "Utility bills, fees, and shutoffs",
+  "Money skills in school",
+  "Property taxes on homes",
+  "Taxes on vehicles and boats",
+  "Income and sales tax relief",
+  "Housing costs and rent",
+  "Home and property insurance costs",
+  "Related context"
+ ],
+ "counts": {
+  "total_pass1": 6814,
+  "kept": 256,
+  "by_relevance": {
+   "adjacent": 119,
+   "core": 121,
+   "context": 16
+  },
+  "by_theme": {
+   "Housing costs and rent": 45,
+   "Property taxes on homes": 67,
+   "Home and property insurance costs": 10,
+   "Related context": 16,
+   "Money skills in school": 9,
+   "Opening the electricity market to competition": 7,
+   "How electric and gas rates are watched and set": 22,
+   "Big energy bills that set the rate rules": 21,
+   "Santee Cooper, the state-owned utility": 11,
+   "Income and sales tax relief": 16,
+   "Taxes on vehicles and boats": 13,
+   "Utility bills, fees, and shutoffs": 19
+  },
+  "excluded": 6560
+ },
+ "exclusion_rules": [
+  "Instrument is an honorary/ceremonial resolution (House, Senate, or Concurrent Resolution) \u2014 congratulations, memorials, and awareness days that only mention housing, insurance, utility, or tax language.",
+  "False-positive term hits: 'rent' inside 'parental/parent' (parental-rights and family-law bills), 'utility' in utility-terrain-vehicle and utility-trailer bills, 'rate' in magistrate-court and tuition-rate bills, 'PSC' matches inside unrelated words.",
+  "Health, dental, vision, and life insurance mandates and insurance-industry housekeeping (producer licensing, guaranty associations, captive insurers, regulation-approval JRs) \u2014 insurance regulation unrelated to household property/utility costs.",
+  "Auto-insurance coverage-rule bills (proof of insurance, arbitration, glass repair, commercial fleets) \u2014 kept only where the bill was framed as premium/cost relief.",
+  "Sales-tax exemptions for narrow industries or products unrelated to household staples (aircraft parts, farm equipment, industrial inputs), local accommodations-tax housekeeping, and capital-project sales tax procedure bills without a household cost angle.",
+  "Property-tax bills about narrow non-household classes (agricultural rollback, aircraft, watercraft dealers' inventory, nonprofit institutional campuses) unless they set precedent for household relief.",
+  "Water/sewer system ownership and service-area bills (county acquisitions, special purpose districts) \u2014 utility-adjacent but not about household electric/gas rates.",
+  "Landlord-tenant procedure bills without a cost dimension (ejectment process, bedbug disclosure) and vacation-rental licensing.",
+  "Economic-development incentive bills (job development credits, opportunity zones, headquarters funds) \u2014 they surfaced on 'tax relief' terms but belong to the wage-growth issue set.",
+  "Unemployment insurance, workers compensation, retirement-system, and state-employee benefit bills \u2014 matched 'insurance'/'rate' terms but are not household cost-of-living measures (state-employee paid leave kept once as context)."
+ ],
+ "bills": [
+  {
+   "bill_key": "123:H3091",
+   "session": 123,
+   "bill_no": "H3091",
+   "title": "SC Inclusionary Housing Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Inclusionary Housing Act: would let local governments adopt inclusionary housing (affordable-unit) strategies.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3091.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3122",
+   "session": 123,
+   "bill_no": "H3122",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted the entire home from property tax for owners 80 and older.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3122.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3126",
+   "session": 123,
+   "bill_no": "H3126",
+   "title": "SC Flood Insurance Committee Study Committee",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have created a study committee on flood insurance.",
+   "theme": "Home and property insurance costs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3126.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3145",
+   "session": 123,
+   "bill_no": "H3145",
+   "title": "Electric coops, audits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Required regular audits of electric cooperatives (became law).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3145.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3199",
+   "session": 123,
+   "bill_no": "H3199",
+   "title": "Financial literacy program instruction",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have added college-loan topics \u2014 loan terms, monthly payments, repayment options, credit \u2014 to the state's required high school financial literacy program.",
+   "theme": "Money skills in school",
+   "relevance": "core",
+   "found_by_terms": [
+    "insurance",
+    "financial literacy"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3199.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3207",
+   "session": 123,
+   "bill_no": "H3207",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted the entire home from property tax for owners 70 and older under an income limit.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3207.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3332",
+   "session": 123,
+   "bill_no": "H3332",
+   "title": "Homestead exemptions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised the senior/disabled homestead exemption above the first $50,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3332.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3344",
+   "session": 123,
+   "bill_no": "H3344",
+   "title": "Electric services",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let businesses take electric service from a supplier other than the one assigned to their territory.",
+   "theme": "Opening the electricity market to competition",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3344.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3460",
+   "session": 123,
+   "bill_no": "H3460",
+   "title": "SC Gentrification Trust Fund created",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created an SC Gentrification Trust Fund to help long-time residents stay in appreciating neighborhoods.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "financial literacy"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3460.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3619",
+   "session": 123,
+   "bill_no": "H3619",
+   "title": "Urge lending institutions to implement a 90 day moratorium for foreclosures and late fees for customers who are federal government employees currently unpaid due to shutdown",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Urged lenders to pause foreclosures and late fees for federal workers during the 2019 government shutdown.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3619.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3626",
+   "session": 123,
+   "bill_no": "H3626",
+   "title": "Property tax",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Constitutional amendment on how real property is valued for taxes, removing the 15%-over-five-years cap on value increases.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3626.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3630",
+   "session": 123,
+   "bill_no": "H3630",
+   "title": "Property tax penalty schedule",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Delayed property-tax late penalties three months for people affected by the 2019 federal government shutdown.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3630.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3641",
+   "session": 123,
+   "bill_no": "H3641",
+   "title": "Public Service Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have revised who sits on the Public Service Commission and required training for commissioners.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3641.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3642",
+   "session": 123,
+   "bill_no": "H3642",
+   "title": "Utility Oversight Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have replaced the legislative panel that screens utility regulators with a new Utility Oversight Committee.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3642.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3659",
+   "session": 123,
+   "bill_no": "H3659",
+   "title": "SC Energy Freedom Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Energy Freedom Act: opened solar-contract terms to review, listed rights every electric customer has, and reworked rooftop-solar billing after the V.C. Summer collapse.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "utility",
+    "Public Service Commission",
+    "rent",
+    "utility rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3659.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3687",
+   "session": 123,
+   "bill_no": "H3687",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended the senior/disabled homestead exemption to the home's full value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3687.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3736",
+   "session": 123,
+   "bill_no": "H3736",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted the entire home from property tax for owners 65 and older.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3736.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3748",
+   "session": 123,
+   "bill_no": "H3748",
+   "title": "Electrical utilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set new rooftop-solar (net metering) rates and procedures.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3748.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3751",
+   "session": 123,
+   "bill_no": "H3751",
+   "title": "Rate reduction and stabilization fund",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have replaced the entire Santee Cooper board and created a Rate Reduction and Stabilization Fund for its customers.",
+   "theme": "Santee Cooper, the state-owned utility",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "rent",
+    "electric rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3751.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3966",
+   "session": 123,
+   "bill_no": "H3966",
+   "title": "Airlines, crediting property taxes",
+   "instrument_type": "General Bill",
+   "plain_topic": "Airline property tax proceeds redirected to the State Aviation Fund (industry, not household, taxation).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3966.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H3998",
+   "session": 123,
+   "bill_no": "H3998",
+   "title": "Workforce and Senior Affordable Housing Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Workforce and Senior Affordable Housing Act: created a state housing tax credit matching the federal credit, to finance affordable housing construction.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent",
+    "insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3998.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4149",
+   "session": 123,
+   "bill_no": "H4149",
+   "title": "Graduation requirements",
+   "instrument_type": "General Bill",
+   "plain_topic": "House version of the half-credit personal finance graduation requirement with an end-of-course exam.",
+   "theme": "Money skills in school",
+   "relevance": "core",
+   "found_by_terms": [],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4149.htm",
+   "source": "universe_hand_scan (matched 'personal finance' in full text; no Pass 1 term hit)"
+  },
+  {
+   "bill_key": "123:H4153",
+   "session": 123,
+   "bill_no": "H4153",
+   "title": "Property tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required counties to consult affected schools and towns, and report annually, before cutting fee-in-lieu property tax deals with companies.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4153.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4194",
+   "session": 123,
+   "bill_no": "H4194",
+   "title": "Public Service Commission Commissioners",
+   "instrument_type": "General Bill",
+   "plain_topic": "Rules for reimbursing Public Service Commission members' outside activities.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4194.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4206",
+   "session": 123,
+   "bill_no": "H4206",
+   "title": "Public Service Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let the Public Service Commission approve low-interest bonds to refinance storm or abandoned-project costs, lowering what customers pay.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4206.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4260",
+   "session": 123,
+   "bill_no": "H4260",
+   "title": "SC Ratepayer Protection Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Ratepayer Protection Act of 2019: whistleblower protections for utility employees, tighter conflict-of-interest rules for utility regulators, and a ban on utilities giving campaign contributions or anything of value to the legislators' committee that screens utility regulators.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4260.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4287",
+   "session": 123,
+   "bill_no": "H4287",
+   "title": "Public Service Authority (Santee Cooper)",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Set up the process for taking bids to sell some or all of Santee Cooper \u2014 and for reform proposals instead of a sale \u2014 after the V.C. Summer nuclear project failed.",
+   "theme": "Santee Cooper, the state-owned utility",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "electric rate",
+    "Public Service Commission",
+    "insurance",
+    "inflation",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4287.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4334",
+   "session": 123,
+   "bill_no": "H4334",
+   "title": "SC Income Tax Act for Individuals, Trusts, and Estates",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have replaced the income tax schedule with a flat-tax overhaul for individuals, trusts, and estates.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "inflation",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4334.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4482",
+   "session": 123,
+   "bill_no": "H4482",
+   "title": "Housing Attainability Protection",
+   "instrument_type": "General Bill",
+   "plain_topic": "Housing Attainability Protection: would require a housing-cost impact analysis before local ordinances or state rules that raise housing costs.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "affordability",
+    "housing",
+    "rent",
+    "utility",
+    "insurance",
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4482.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4531",
+   "session": 123,
+   "bill_no": "H4531",
+   "title": "Public Service Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have made the seven Public Service Commission seats publicly elected statewide starting in 2022.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4531.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4532",
+   "session": 123,
+   "bill_no": "H4532",
+   "title": "Sales tax rate",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have broadened the sales tax to services while revising the rate.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "utility",
+    "Public Service Commission",
+    "sales tax",
+    "insurance",
+    "prescription",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4532.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4564",
+   "session": 123,
+   "bill_no": "H4564",
+   "title": "Property tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted disabled veterans' passenger vehicles from property tax.",
+   "theme": "Taxes on vehicles and boats",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4564.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4733",
+   "session": 123,
+   "bill_no": "H4733",
+   "title": "Nonrenewal of homeowners insurance",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have restricted insurers from refusing to renew homeowners insurance in certain cases.",
+   "theme": "Home and property insurance costs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "insurance",
+    "homeowners insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4733.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4738",
+   "session": 123,
+   "bill_no": "H4738",
+   "title": "Public Utilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have banned utilities (and their payment processors) from charging an extra fee just to pay your utility bill.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4738.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4776",
+   "session": 123,
+   "bill_no": "H4776",
+   "title": "Public Service Commission Members",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended the ban on former utility regulators going to work for utilities from one year to three.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4776.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4782",
+   "session": 123,
+   "bill_no": "H4782",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted value added by countywide reassessment for certain residents.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4782.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4809",
+   "session": 123,
+   "bill_no": "H4809",
+   "title": "Public Service Commission Members",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended the ban on former utility regulators going to work for utilities from one year to four.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4809.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4810",
+   "session": 123,
+   "bill_no": "H4810",
+   "title": "SC Commercial-Property Assessed Clean Energy Act (C-PACE)",
+   "instrument_type": "General Bill",
+   "plain_topic": "Commercial Property Assessed Clean Energy (C-PACE) financing for energy improvements.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "property tax",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4810.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4818",
+   "session": 123,
+   "bill_no": "H4818",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted the entire home from property tax for owners 70 and older.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4818.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4940",
+   "session": 123,
+   "bill_no": "H4940",
+   "title": "Electricity Market Reform Measures Study Committee",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Created the Electricity Market Reform Measures Study Committee \u2014 an official study, with an independent expert consultant, of electricity-market reforms and their potential public benefits.",
+   "theme": "Opening the electricity market to competition",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Dominion",
+    "rent",
+    "electric rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4940.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H4994",
+   "session": 123,
+   "bill_no": "H4994",
+   "title": "Homestead exemptions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised the senior/disabled homestead exemption above the first $50,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4994.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H5057",
+   "session": 123,
+   "bill_no": "H5057",
+   "title": "Public utilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred utilities from moving an unpaid balance from one account onto another person's account.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/5057.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H5111",
+   "session": 123,
+   "bill_no": "H5111",
+   "title": "Property tax on boats, motors or watercraft",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have stopped counties from billing boat property tax twice within twelve months during the switch to registration-time collection.",
+   "theme": "Taxes on vehicles and boats",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/5111.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H5232",
+   "session": 123,
+   "bill_no": "H5232",
+   "title": "Utilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred utilities from recovering non-allowed expenses from ratepayers, with penalties for trying.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/5232.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:H5335",
+   "session": 123,
+   "bill_no": "H5335",
+   "title": "Public Service Authority",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have authorized selling Santee Cooper's assets or bringing in outside management, with a special legislative committee to oversee it.",
+   "theme": "Santee Cooper, the state-owned utility",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "utility",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/5335.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S110",
+   "session": 123,
+   "bill_no": "S110",
+   "title": "Public Service Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let the Public Service Commission approve low-interest bonds to refinance storm or abandoned-project costs, lowering what customers pay.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/110.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S1129",
+   "session": 123,
+   "bill_no": "S1129",
+   "title": "Regulatory Staff Office",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have tightened qualifications and term limits for the Santee Cooper board and revised the Office of Regulatory Staff's role.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "utility",
+    "Public Service Commission",
+    "rent",
+    "electric rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/1129.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S1163",
+   "session": 123,
+   "bill_no": "S1163",
+   "title": "Public Service Authority",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have removed the Santee Cooper board and put an interim board and new oversight structure in place.",
+   "theme": "Santee Cooper, the state-owned utility",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "utility",
+    "Public Service Commission",
+    "inflation",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/1163.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S1188",
+   "session": 123,
+   "bill_no": "S1188",
+   "title": "Property insurance",
+   "instrument_type": "General Bill",
+   "plain_topic": "Property insurance market bill (coastal availability).",
+   "theme": "Home and property insurance costs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/1188.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S137",
+   "session": 123,
+   "bill_no": "S137",
+   "title": "Electric utilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have tied electric utilities' revenue to performance targets, with penalties, instead of guaranteed returns.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "utility",
+    "Public Service Commission",
+    "rent",
+    "electric rate",
+    "utility rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/137.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S15",
+   "session": 123,
+   "bill_no": "S15",
+   "title": "Graduation requirements",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required a half-credit personal finance course, with an end-of-year test, to graduate high school starting 2020-21.",
+   "theme": "Money skills in school",
+   "relevance": "core",
+   "found_by_terms": [
+    "financial literacy",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/15.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S171",
+   "session": 123,
+   "bill_no": "S171",
+   "title": "Municipal Tax Relief Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Municipal Tax Relief Act (2019 version): would have let municipalities levy up to a 1% sales tax, by referendum, for municipal tax relief.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "property tax",
+    "vehicle tax",
+    "sales tax",
+    "tax relief",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/171.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S332",
+   "session": 123,
+   "bill_no": "S332",
+   "title": "Electrical utility customers",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Clean Energy Access Act: customer rights and competitive procurement rules for electric utilities' power purchases.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "utility",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/332.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S334",
+   "session": 123,
+   "bill_no": "S334",
+   "title": "Public utilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred a utility from billing customers for its legal fees in cases the utility lost for breaking the law.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/334.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S565",
+   "session": 123,
+   "bill_no": "S565",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted the entire home from property tax for owners 70 and older.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/565.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S569",
+   "session": 123,
+   "bill_no": "S569",
+   "title": "Healthy Rental Housing Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Healthy Rental Housing Act: remedies for tenants in rental homes with serious mold problems.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent",
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/569.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S585",
+   "session": 123,
+   "bill_no": "S585",
+   "title": "Workforce and Senior Affordable Housing Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Senate version of the state housing tax credit.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "insurance",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/585.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S620",
+   "session": 123,
+   "bill_no": "S620",
+   "title": "Electric utilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required every electric provider to file a long-range power plan (integrated resource plan) at least every three years.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "utility",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/620.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S657",
+   "session": 123,
+   "bill_no": "S657",
+   "title": "Electrical utilities",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have kept rooftop-solar billing credits available first-come, first-served while the legislature worked on the Energy Freedom Act.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/657.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S658",
+   "session": 123,
+   "bill_no": "S658",
+   "title": "Property tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted vehicles leased by churches from property tax.",
+   "theme": "Taxes on vehicles and boats",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/658.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S678",
+   "session": 123,
+   "bill_no": "S678",
+   "title": "Santee Cooper",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have directed the governor to run a competitive bidding process to sell Santee Cooper.",
+   "theme": "Santee Cooper, the state-owned utility",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "electric rate",
+    "insurance",
+    "inflation",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/678.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S757",
+   "session": 123,
+   "bill_no": "S757",
+   "title": "Housing Attainability Protection",
+   "instrument_type": "General Bill",
+   "plain_topic": "Housing Attainability Protection (Senate version): housing-cost impact analyses for local ordinances and state rules.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "affordability",
+    "housing",
+    "rent",
+    "utility",
+    "insurance",
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/757.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S76",
+   "session": 123,
+   "bill_no": "S76",
+   "title": "Energy efficient manufactured homes incentive program; extend the program for five years",
+   "instrument_type": "General Bill",
+   "plain_topic": "Extended the energy-efficient manufactured homes incentive program five years (became law).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "housing",
+    "sales tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/76.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S882",
+   "session": 123,
+   "bill_no": "S882",
+   "title": "SC Private Flood Insurance Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Private Flood Insurance Act: opened the state market to private flood insurance as an alternative to the federal program.",
+   "theme": "Home and property insurance costs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "insurance",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/882.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S904",
+   "session": 123,
+   "bill_no": "S904",
+   "title": "Public utility services",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred gas and electric utilities from sharing customer information with third parties without consent.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/904.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S907",
+   "session": 123,
+   "bill_no": "S907",
+   "title": "Natural Gas Rate Stabilization Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have reworked the Natural Gas Rate Stabilization Act \u2014 the mechanism that lets gas utilities adjust rates yearly outside full rate cases.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/907.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S910",
+   "session": 123,
+   "bill_no": "S910",
+   "title": "Homestead exemptions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised the senior/disabled homestead exemption from $50,000 to $75,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/910.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S947",
+   "session": 123,
+   "bill_no": "S947",
+   "title": "Public Service Commission Members",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended the ban on former utility regulators going to work for utilities from one year to four.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/947.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S951",
+   "session": 123,
+   "bill_no": "S951",
+   "title": "Public utilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have made utilities, not homeowners, pay for repairs to the service line between the meter and the home.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/951.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S996",
+   "session": 123,
+   "bill_no": "S996",
+   "title": "Public Utilities Review Committee",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Made the legislative screening panel reopen and extend the application window for four Public Service Commission seats.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/996.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S998",
+   "session": 123,
+   "bill_no": "S998",
+   "title": "Electricity Market Reform Measures Study Committee",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Senate version of the electricity-market-reform study committee.",
+   "theme": "Opening the electricity market to competition",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "utility",
+    "Public Service Commission",
+    "Dominion",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/998.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3022",
+   "session": 124,
+   "bill_no": "H3022",
+   "title": "Financial literacy program instruction",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile: add more required topics to the high school financial literacy program.",
+   "theme": "Money skills in school",
+   "relevance": "core",
+   "found_by_terms": [
+    "insurance",
+    "financial literacy"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3022.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3108",
+   "session": 124,
+   "bill_no": "H3108",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised the senior/disabled homestead exemption above the first $50,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3108.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3116",
+   "session": 124,
+   "bill_no": "H3116",
+   "title": "Graduation requirements",
+   "instrument_type": "General Bill",
+   "plain_topic": "House companion: personal finance coursework as a high school graduation requirement.",
+   "theme": "Money skills in school",
+   "relevance": "core",
+   "found_by_terms": [],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3116.htm",
+   "source": "universe_hand_scan (matched 'personal finance' in full text; no Pass 1 term hit)"
+  },
+  {
+   "bill_key": "124:H3194",
+   "session": 124,
+   "bill_no": "H3194",
+   "title": "Santee Cooper",
+   "instrument_type": "General Bill",
+   "plain_topic": "The 2021 Santee Cooper reform law: a rebuilt board, new qualifications, and \u2014 for the first time \u2014 Public Service Commission review of Santee Cooper's rates.",
+   "theme": "Santee Cooper, the state-owned utility",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "utility",
+    "Public Service Commission",
+    "insurance",
+    "rent",
+    "electric rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3194.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3280",
+   "session": 124,
+   "bill_no": "H3280",
+   "title": "Electric service, restriction of interruptions for service for nonpayment",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have restricted electric utilities from shutting off service for nonpayment in dangerous conditions.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3280.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3311",
+   "session": 124,
+   "bill_no": "H3311",
+   "title": "Public utilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have banned utilities (and their payment processors) from charging an extra fee just to pay your utility bill.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3311.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3354",
+   "session": 124,
+   "bill_no": "H3354",
+   "title": "Property tax, exemptions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Exempted small rooftop solar systems (20 kilowatts or less) from property tax.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "housing",
+    "property tax",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3354.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3373",
+   "session": 124,
+   "bill_no": "H3373",
+   "title": "SC Housing Court",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a housing court inside each county's magistrates court.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3373.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3385",
+   "session": 124,
+   "bill_no": "H3385",
+   "title": "Property tax payment",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred county treasurers from refusing your car-tax payment (blocking registration) because you owe tax on something else.",
+   "theme": "Taxes on vehicles and boats",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3385.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3386",
+   "session": 124,
+   "bill_no": "H3386",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted the entire home from property tax for owners 80 and older.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3386.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3389",
+   "session": 124,
+   "bill_no": "H3389",
+   "title": "Property tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required counties to consult affected schools and towns, and report annually, before cutting fee-in-lieu property tax deals with companies.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3389.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3393",
+   "session": 124,
+   "bill_no": "H3393",
+   "title": "SC Income Tax Act for individuals, trusts and estates",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have phased in a flat 4.85% income tax over five years.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "inflation",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3393.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3452",
+   "session": 124,
+   "bill_no": "H3452",
+   "title": "Homestead exemptions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised the senior/disabled homestead exemption above the first $50,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3452.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3458",
+   "session": 124,
+   "bill_no": "H3458",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted value added by countywide reassessment for certain residents.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3458.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3482",
+   "session": 124,
+   "bill_no": "H3482",
+   "title": "Property tax, installment payments",
+   "instrument_type": "General Bill",
+   "plain_topic": "Let counties offer alternative installment schedules for paying property tax.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3482.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3671",
+   "session": 124,
+   "bill_no": "H3671",
+   "title": "Property tax",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Constitutional amendment on how real property is valued for taxes, removing the 15%-over-five-years cap on value increases.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3671.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3674",
+   "session": 124,
+   "bill_no": "H3674",
+   "title": "Property tax millage increase",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let local governments override the annual property-tax millage cap by simple majority instead of a supermajority \u2014 easing tax increases, not cutting them.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "property tax",
+    "sales tax",
+    "tax relief",
+    "insurance",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3674.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3683",
+   "session": 124,
+   "bill_no": "H3683",
+   "title": "SC Rate Payer Protection Act of 2021",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the 2019 Ratepayer Protection Act: whistleblower protections plus conflict-of-interest, gift, and campaign-contribution bans around utility regulators.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3683.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3770",
+   "session": 124,
+   "bill_no": "H3770",
+   "title": "Emergency Rental Assistance Program",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Stood up South Carolina's share of the federal Emergency Rental Assistance Program during COVID.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent",
+    "utility",
+    "Public Service Commission",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3770.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3921",
+   "session": 124,
+   "bill_no": "H3921",
+   "title": "Utilities - Transportation Network Companies (Uber, Lyft, etc.)",
+   "instrument_type": "General Bill",
+   "plain_topic": "Regulation of transportation network companies under the utilities title (rideshare rules, not household utilities).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3921.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3938",
+   "session": 124,
+   "bill_no": "H3938",
+   "title": "SC Inclusionary Housing Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Inclusionary Housing Act: would authorize voluntary local inclusionary housing strategies.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3938.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H3996",
+   "session": 124,
+   "bill_no": "H3996",
+   "title": "Credit reporting for low income housing",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let assisted-housing tenants have on-time rent payments reported to credit bureaus.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3996.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H4149",
+   "session": 124,
+   "bill_no": "H4149",
+   "title": "Public Utilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Whistleblower protections for utility employees who report wrongdoing to the state's utility watchdog.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4149.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H4160",
+   "session": 124,
+   "bill_no": "H4160",
+   "title": "Utilities - Delinquent, late, and unpaid balances.",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred utilities from moving an unpaid balance from one account onto another person's account.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4160.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H4164",
+   "session": 124,
+   "bill_no": "H4164",
+   "title": "Utility Surcharge Exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted customers 65 and older from utility payment surcharges.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4164.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H4197",
+   "session": 124,
+   "bill_no": "H4197",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended the senior/disabled homestead exemption to the home's full value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4197.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H4222",
+   "session": 124,
+   "bill_no": "H4222",
+   "title": "Additional homestead tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have added a homestead exemption for value increases caused by countywide reassessment.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4222.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H4511",
+   "session": 124,
+   "bill_no": "H4511",
+   "title": "Property Tax Exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted two vehicles owned by permanently disabled former law enforcement officers or firefighters.",
+   "theme": "Taxes on vehicles and boats",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4511.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H4547",
+   "session": 124,
+   "bill_no": "H4547",
+   "title": "Local Govt's regulating vacation homes/short-term residential rentals",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have limited how local governments regulate short-term vacation rentals.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4547.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H4582",
+   "session": 124,
+   "bill_no": "H4582",
+   "title": "Life skills instruction in high school",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have added everyday life skills to the required high school financial literacy program.",
+   "theme": "Money skills in school",
+   "relevance": "core",
+   "found_by_terms": [
+    "housing",
+    "insurance",
+    "grocery",
+    "childcare",
+    "financial literacy",
+    "budgeting",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4582.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H4880",
+   "session": 124,
+   "bill_no": "H4880",
+   "title": "Tax rates",
+   "instrument_type": "General Bill",
+   "plain_topic": "House version of the 2022 income tax cut (top rate to 6%).",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4880.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H5075",
+   "session": 124,
+   "bill_no": "H5075",
+   "title": "Housing tax credit",
+   "instrument_type": "General Bill",
+   "plain_topic": "Tightened and capped the state housing tax credit after uptake far exceeded estimates.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent",
+    "insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/5075.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H5162",
+   "session": 124,
+   "bill_no": "H5162",
+   "title": "Utilities - Rates",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Extreme Weather and Energy Transition Ratepayer Protection Act: low-interest 'ratepayer protection bonds' to cut the storm and plant-closure costs rolled into electric rates.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "monopoly",
+    "insurance",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/5162.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:H5176",
+   "session": 124,
+   "bill_no": "H5176",
+   "title": "Rent Control",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Rent Control Act: notice requirements and restrictions on raising residential rent.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/5176.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S1018",
+   "session": 124,
+   "bill_no": "S1018",
+   "title": "Property tax, exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted a vehicle owned by a service member stationed out of state.",
+   "theme": "Taxes on vehicles and boats",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/1018.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S1027",
+   "session": 124,
+   "bill_no": "S1027",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended the homestead exemption to taxpayers who are deaf.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/1027.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S1087",
+   "session": 124,
+   "bill_no": "S1087",
+   "title": "Comprehensive tax cut act of 2022",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Comprehensive Tax Cut Act of 2022: collapsed income tax brackets and set the top rate to fall from 7% to 6% as revenue allows; also exempted all military retirement pay.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "property tax",
+    "tax relief",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/1087.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S1120",
+   "session": 124,
+   "bill_no": "S1120",
+   "title": "Housing tax credit",
+   "instrument_type": "General Bill",
+   "plain_topic": "Senate version of the housing tax credit revisions.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent",
+    "insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/1120.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S12",
+   "session": 124,
+   "bill_no": "S12",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted the entire home from property tax for owners 70 and older who had owned it long enough.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/12.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S132",
+   "session": 124,
+   "bill_no": "S132",
+   "title": "Public Service Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let the Public Service Commission approve low-interest bonds to refinance storm or abandoned-project costs, lowering what customers pay.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/132.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S16",
+   "session": 124,
+   "bill_no": "S16",
+   "title": "Graduation requirements",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required basic personal finance coursework for high school graduation in place of the economics requirement.",
+   "theme": "Money skills in school",
+   "relevance": "core",
+   "found_by_terms": [
+    "insurance",
+    "financial literacy",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/16.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S233",
+   "session": 124,
+   "bill_no": "S233",
+   "title": "Property tax; local government service fees",
+   "instrument_type": "General Bill",
+   "plain_topic": "Extended the homestead exemption to qualifying surviving spouses and heirs' property, and required local 'service fees' to actually benefit the people who pay them.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/233.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S244",
+   "session": 124,
+   "bill_no": "S244",
+   "title": "Natural Gas Rate Stabilization Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have reworked the Natural Gas Rate Stabilization Act \u2014 the mechanism that lets gas utilities adjust rates yearly outside full rate cases.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/244.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S247",
+   "session": 124,
+   "bill_no": "S247",
+   "title": "Public utility services",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred gas and electric utilities from sharing customer information with third parties without consent.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/247.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S301",
+   "session": 124,
+   "bill_no": "S301",
+   "title": "Public Utilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred a utility from billing customers for its legal fees in cases the utility lost for breaking the law.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/301.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S344",
+   "session": 124,
+   "bill_no": "S344",
+   "title": "Ratepayer Protection Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have made the Public Service Commission pause utility rate-increase requests during a declared state of emergency.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/344.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S37",
+   "session": 124,
+   "bill_no": "S37",
+   "title": "Property tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted vehicles leased by churches from property tax.",
+   "theme": "Taxes on vehicles and boats",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/37.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S405",
+   "session": 124,
+   "bill_no": "S405",
+   "title": "Graduation requirements",
+   "instrument_type": "General Bill",
+   "plain_topic": "Companion graduation-requirements bill filed while S16 was pending.",
+   "theme": "Money skills in school",
+   "relevance": "core",
+   "found_by_terms": [
+    "financial literacy"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/405.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S439",
+   "session": 124,
+   "bill_no": "S439",
+   "title": "Public Service Authority",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have forced Santee Cooper to sell all its power plants by 2025 and hand its transmission lines to a regional grid operator.",
+   "theme": "Santee Cooper, the state-owned utility",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/439.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S464",
+   "session": 124,
+   "bill_no": "S464",
+   "title": "Public Service Authority",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set board term limits and qualifications for Santee Cooper and revised oversight of the authority.",
+   "theme": "Santee Cooper, the state-owned utility",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "utility",
+    "Public Service Commission",
+    "insurance",
+    "rent",
+    "electric rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/464.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S751",
+   "session": 124,
+   "bill_no": "S751",
+   "title": "Net energy metering",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have adjusted solar-choice metering rules on who pays for rooftop-solar cost shifts.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/751.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "124:S925",
+   "session": 124,
+   "bill_no": "S925",
+   "title": "SC Tax Policy Modernization Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Tax Policy Modernization Act: a broad rewrite of income, sales, and property tax law.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "sales tax",
+    "inflation",
+    "rent",
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/925.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3085",
+   "session": 125,
+   "bill_no": "H3085",
+   "title": "Property Tax Payment",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred county treasurers from refusing your car-tax payment (blocking registration) because you owe tax on something else.",
+   "theme": "Taxes on vehicles and boats",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3085.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3086",
+   "session": 125,
+   "bill_no": "H3086",
+   "title": "Property Tax Exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted the entire home from property tax for owners 80 and older.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3086.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3110",
+   "session": 125,
+   "bill_no": "H3110",
+   "title": "Sales Tax Exemption Holiday",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have expanded the August sales tax holiday.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "sales tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3110.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3116",
+   "session": 125,
+   "bill_no": "H3116",
+   "title": "Disabled Veterans Property Tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Let totally disabled veterans (and qualifying surviving spouses) get their property tax exemption in the year the disability occurs instead of waiting.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3116.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3127",
+   "session": 125,
+   "bill_no": "H3127",
+   "title": "Homestead Exemption Increase",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have doubled the senior/disabled homestead exemption from $50,000 to $100,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3127.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3156",
+   "session": 125,
+   "bill_no": "H3156",
+   "title": "Restrictions on Electric Service Interruption for Nonpayment",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have restricted electric utilities from shutting off service for nonpayment in dangerous conditions.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3156.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3157",
+   "session": 125,
+   "bill_no": "H3157",
+   "title": "Prohibit Public Utility from Collecting Additional Service Fee from Consumer's Payment",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have banned public utilities from collecting an extra service fee on customer payments.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3157.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3253",
+   "session": 125,
+   "bill_no": "H3253",
+   "title": "Short-term rentals",
+   "instrument_type": "General Bill",
+   "plain_topic": "Short-term rental regulation.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3253.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3264",
+   "session": 125,
+   "bill_no": "H3264",
+   "title": "Rent Control",
+   "instrument_type": "General Bill",
+   "plain_topic": "Rent control: notice requirements and restrictions on raising residential rent.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3264.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3423",
+   "session": 125,
+   "bill_no": "H3423",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised the senior/disabled homestead exemption above the first $50,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3423.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3449",
+   "session": 125,
+   "bill_no": "H3449",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required five years of state residency, instead of one, to claim the homestead exemption.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3449.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3511",
+   "session": 125,
+   "bill_no": "H3511",
+   "title": "Property tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required counties to consult affected schools and towns, and report annually, before cutting fee-in-lieu property tax deals with companies.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3511.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3614",
+   "session": 125,
+   "bill_no": "H3614",
+   "title": "Rate Payer Protection Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Rate Payer Protection Act of 2023: whistleblower protections for utility employees who report waste or wrongdoing.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3614.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3778",
+   "session": 125,
+   "bill_no": "H3778",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted the entire home from property tax for owners 70 and older.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3778.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3806",
+   "session": 125,
+   "bill_no": "H3806",
+   "title": "Property tax millage increase",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let local governments override the annual property-tax millage cap by simple majority instead of a supermajority \u2014 easing tax increases, not cutting them.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "property tax",
+    "sales tax",
+    "tax relief",
+    "insurance",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3806.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3809",
+   "session": 125,
+   "bill_no": "H3809",
+   "title": "Constitutional amendment, property tax",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Constitutional amendment on property valuation: define fair market value, remove the 15% cap, and end point-of-sale revaluation.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3809.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3927",
+   "session": 125,
+   "bill_no": "H3927",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised the senior/disabled homestead exemption above the first $50,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3927.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3937",
+   "session": 125,
+   "bill_no": "H3937",
+   "title": "Commercial Property Assessed Clean Energy Programs",
+   "instrument_type": "General Bill",
+   "plain_topic": "Commercial Property Assessed Clean Energy and Resilience financing.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "property tax",
+    "insurance",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3937.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H3977",
+   "session": 125,
+   "bill_no": "H3977",
+   "title": "Property and casualty insurance",
+   "instrument_type": "General Bill",
+   "plain_topic": "Let insurers deliver policies electronically by posting them online, with notice and free paper copies on request.",
+   "theme": "Home and property insurance costs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3977.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H4015",
+   "session": 125,
+   "bill_no": "H4015",
+   "title": "Rental housing",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have made landlords disclose all fees to prospective tenants up front.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4015.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H4158",
+   "session": 125,
+   "bill_no": "H4158",
+   "title": "Domestic violence in rental properties",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let domestic-violence survivors end a lease early and required landlords to change locks.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4158.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H4213",
+   "session": 125,
+   "bill_no": "H4213",
+   "title": "Development of Workforce Housing",
+   "instrument_type": "General Bill",
+   "plain_topic": "House companion to the workforce-housing accommodations-tax bill.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4213.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H4544",
+   "session": 125,
+   "bill_no": "H4544",
+   "title": "Religious Institutions Affordable Housing Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Religious Institutions Affordable Housing Act: churches could build affordable housing on their land without losing their property tax exemption.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent",
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4544.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H4639",
+   "session": 125,
+   "bill_no": "H4639",
+   "title": "Housing discrimination",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred housing discrimination based on source of income (such as vouchers).",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4639.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H4832",
+   "session": 125,
+   "bill_no": "H4832",
+   "title": "Paid Family Leave Insurance",
+   "instrument_type": "General Bill",
+   "plain_topic": "Paid Family Leave Insurance for state employees (became law; employee benefit, not household utility/tax).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "insurance",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4832.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H4910",
+   "session": 125,
+   "bill_no": "H4910",
+   "title": "Property tax reassessment delay",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have delayed every county's scheduled property reassessment until 2026.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4910.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H4987",
+   "session": 125,
+   "bill_no": "H4987",
+   "title": "Protected tenants",
+   "instrument_type": "General Bill",
+   "plain_topic": "Protected-tenants bill: lease-termination rights for survivors of domestic violence.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent",
+    "insurance",
+    "childcare"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4987.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H5014",
+   "session": 125,
+   "bill_no": "H5014",
+   "title": "Lexington County School District Property Tax Relief Act extension",
+   "instrument_type": "General Bill",
+   "plain_topic": "Earlier version of the Lexington County property-tax-relief extension.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax",
+    "sales tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5014.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H5066",
+   "session": 125,
+   "bill_no": "H5066",
+   "title": "Fair Access to Insurance Requirements",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created an affordable state liquor-liability insurance option for bars and restaurants required to carry it.",
+   "theme": "Home and property insurance costs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "insurance",
+    "prescription",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5066.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H5090",
+   "session": 125,
+   "bill_no": "H5090",
+   "title": "Payment of Utility Bill at Drive-Through Window",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required utilities with drive-through windows to take bill payments there.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5090.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H5118",
+   "session": 125,
+   "bill_no": "H5118",
+   "title": "Electrical Utilities, Electricity Regulation, and Economic Development",
+   "instrument_type": "General Bill",
+   "plain_topic": "The big 2024 energy bill: faster power-plant approvals (including a Santee Cooper/Dominion gas plant), changes to rate proceedings, and economic-development provisions.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "Dominion",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5118.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H5264",
+   "session": 125,
+   "bill_no": "H5264",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set the homestead exemption at the greater of $50,000 or a share of the home's value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5264.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H5307",
+   "session": 125,
+   "bill_no": "H5307",
+   "title": "Food desert tax credit",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a tax credit for grocery stores that open in food deserts.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "sales tax",
+    "grocery"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5307.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:H5372",
+   "session": 125,
+   "bill_no": "H5372",
+   "title": "Accessory Dwelling Unit Affordable Housing Incentive Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Accessory Dwelling Unit Affordable Housing Incentive Act: property tax incentives for backyard apartments used as affordable housing.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent",
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5372.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S1110",
+   "session": 125,
+   "bill_no": "S1110",
+   "title": "Retirement Income Tax Deduction",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised the retirement-income deduction from state income tax.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "inflation"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/1110.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S1143",
+   "session": 125,
+   "bill_no": "S1143",
+   "title": "Homestead Exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have defined owner-occupant for the legal-residence rate and revised the homestead exemption.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/1143.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S12",
+   "session": 125,
+   "bill_no": "S12",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted the entire home from property tax for owners 70 and older who had owned it long enough.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/12.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S152",
+   "session": 125,
+   "bill_no": "S152",
+   "title": "Natural Gas Rate Stabilization Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have reworked the Natural Gas Rate Stabilization Act \u2014 the mechanism that lets gas utilities adjust rates yearly outside full rate cases.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/152.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S156",
+   "session": 125,
+   "bill_no": "S156",
+   "title": "Public utility services",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred gas and electric utilities from sharing customer information with third parties without consent.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/156.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S218",
+   "session": 125,
+   "bill_no": "S218",
+   "title": "Ratepayer Protection Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have made the Public Service Commission pause utility rate-increase requests during a declared state of emergency.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/218.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S284",
+   "session": 125,
+   "bill_no": "S284",
+   "title": "Development of Workforce Housing",
+   "instrument_type": "General Bill",
+   "plain_topic": "Let local governments spend tourism (accommodations) tax money on workforce housing, with a sunset.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "affordability",
+    "housing",
+    "rent",
+    "utility",
+    "insurance",
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/284.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S38",
+   "session": 125,
+   "bill_no": "S38",
+   "title": "Property Taxes on Boats, Boat Motors, and Watercraft",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have taxed boats in the county where they are actually kept rather than the owner's home county.",
+   "theme": "Taxes on vehicles and boats",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/38.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S433",
+   "session": 125,
+   "bill_no": "S433",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended the homestead exemption to taxpayers who are deaf.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/433.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S732",
+   "session": 125,
+   "bill_no": "S732",
+   "title": "State Board of Education - JR to Approve Regulation Document No. 5130",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Joint resolution to approve the State Board of Education regulation (Document 5130) adding a required half-credit in financial literacy to the high school diploma.",
+   "theme": "Money skills in school",
+   "relevance": "core",
+   "found_by_terms": [
+    "financial literacy"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/732.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S739",
+   "session": 125,
+   "bill_no": "S739",
+   "title": "SC Housing Tax Credit",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "One-time authorization to rescue stalled affordable-housing projects with remaining housing tax credits and up to $25 million from the Housing Trust Fund.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/739.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S749",
+   "session": 125,
+   "bill_no": "S749",
+   "title": "PSC Elections",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have let the General Assembly go ahead with Public Service Commission screening and elections during 2023-24 despite a redistricting-litigation hold.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "Public Service Commission",
+    "PSC"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/749.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S779",
+   "session": 125,
+   "bill_no": "S779",
+   "title": "Energy Independence and Risk Reduction Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Energy Independence and Risk Reduction Act: would have shrunk the Public Service Commission from seven to five statewide seats and required the commission to publish reasons for its decisions on a deadline.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "utility",
+    "Public Service Commission",
+    "Dominion",
+    "insurance",
+    "grocery",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/779.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S891",
+   "session": 125,
+   "bill_no": "S891",
+   "title": "Inclusionary Housing Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Inclusionary Housing Act: would authorize voluntary local inclusionary housing strategies.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/891.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S909",
+   "session": 125,
+   "bill_no": "S909",
+   "title": "Energy Reform",
+   "instrument_type": "General Bill",
+   "plain_topic": "Energy Reform: would have shrunk the Public Service Commission from seven to five members and set new rules for how the commission issues orders and decisions.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "Dominion",
+    "grocery",
+    "rent",
+    "electric rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/909.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S943",
+   "session": 125,
+   "bill_no": "S943",
+   "title": "Property Tax Exemptions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted up to two vehicles held in trust for a disabled veteran.",
+   "theme": "Taxes on vehicles and boats",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/943.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3229",
+   "session": 126,
+   "bill_no": "H3229",
+   "title": "Rental agreements",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would bar landlords from requiring a credit score on a rental application.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3229.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3232",
+   "session": 126,
+   "bill_no": "H3232",
+   "title": "Residential rental property",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Healthy Rental Housing Act: remedies for tenants in rental homes with serious mold problems.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent",
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3232.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3238",
+   "session": 126,
+   "bill_no": "H3238",
+   "title": "Renter assistance",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require public housing authorities to house residents displaced by redevelopment.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3238.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3259",
+   "session": 126,
+   "bill_no": "H3259",
+   "title": "First responder automobile insurance premiums",
+   "instrument_type": "General Bill",
+   "plain_topic": "Auto insurance premium reductions for first responders (became law).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3259.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3309",
+   "session": 126,
+   "bill_no": "H3309",
+   "title": "Electrical Utilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Energy Security Act of 2025: cleared the way for new power plants (including the Canadys gas plant), let customers speak as public witnesses at the Public Service Commission, and set schedules for rate cases.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "rent",
+    "utility",
+    "electric rate",
+    "Public Service Commission",
+    "PSC",
+    "Dominion",
+    "utility rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3309.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3336",
+   "session": 126,
+   "bill_no": "H3336",
+   "title": "Housing discrimination",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would bar housing discrimination based on disability or source of income (such as vouchers).",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3336.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3346",
+   "session": 126,
+   "bill_no": "H3346",
+   "title": "South Carolina Rent Control Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Rent Control Act: notice requirements and restrictions on raising residential rent.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3346.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3358",
+   "session": 126,
+   "bill_no": "H3358",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt the first $10,000 of business personal property and simplify filing.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3358.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3374",
+   "session": 126,
+   "bill_no": "H3374",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require five years of state residency, instead of one, to claim the homestead exemption.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3374.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3378",
+   "session": 126,
+   "bill_no": "H3378",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would eliminate property taxes entirely \u2014 every kind of property \u2014 with dollar-for-dollar state reimbursement to local governments.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3378.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3380",
+   "session": 126,
+   "bill_no": "H3380",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would set the homestead exemption at the greater of $50,000 or a share of the home's value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3380.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3410",
+   "session": 126,
+   "bill_no": "H3410",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt two vehicles owned by permanently disabled former law enforcement officers, EMTs, or firefighters.",
+   "theme": "Taxes on vehicles and boats",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3410.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3419",
+   "session": 126,
+   "bill_no": "H3419",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise the senior/disabled homestead exemption above the first $50,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3419.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3424",
+   "session": 126,
+   "bill_no": "H3424",
+   "title": "Property tax relief for seniors",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Property Tax Relief for Seniors Act: homestead exemption up to $1 million of home value, funded by an additional sales tax.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3424.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3427",
+   "session": 126,
+   "bill_no": "H3427",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise the senior/disabled homestead exemption above the first $50,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3427.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3458",
+   "session": 126,
+   "bill_no": "H3458",
+   "title": "Religious Institutions Affordable Housing Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Religious Institutions Affordable Housing Act: churches could build affordable housing on their land without losing their property tax exemption.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent",
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3458.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3462",
+   "session": 126,
+   "bill_no": "H3462",
+   "title": "Rental housing",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would make landlords disclose all fees to prospective tenants up front.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3462.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3465",
+   "session": 126,
+   "bill_no": "H3465",
+   "title": "Food desert tax credit",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would create a tax credit for grocery stores that open in food deserts.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "sales tax",
+    "grocery"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3465.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3469",
+   "session": 126,
+   "bill_no": "H3469",
+   "title": "Accessory Dwelling Unit Affordable Housing Incentive Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Accessory Dwelling Unit Affordable Housing Incentive Act: property tax incentives for backyard apartments used as affordable housing.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent",
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3469.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3496",
+   "session": 126,
+   "bill_no": "H3496",
+   "title": "Property Tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require counties to consult affected schools and towns, and report annually, before cutting fee-in-lieu property tax deals with companies.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3496.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3511",
+   "session": 126,
+   "bill_no": "H3511",
+   "title": "Homestead Exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise the senior/disabled homestead exemption above the first $50,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3511.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3546",
+   "session": 126,
+   "bill_no": "H3546",
+   "title": "Utilities - Delinquent, Late, and Unpaid Balances",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would bar utilities from moving an unpaid balance from one account onto another person's account.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3546.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3569",
+   "session": 126,
+   "bill_no": "H3569",
+   "title": "Domestic violence in rental properties",
+   "instrument_type": "General Bill",
+   "plain_topic": "Let domestic-violence survivors end a lease early with protections against liability for abuse-related damage.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3569.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3737",
+   "session": 126,
+   "bill_no": "H3737",
+   "title": "South Carolina Affordable Housing Tax-Exempt REIT Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would create a tax-exempt real estate investment trust to grow the supply of affordable housing statewide.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "affordability",
+    "housing",
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3737.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3738",
+   "session": 126,
+   "bill_no": "H3738",
+   "title": "South Carolina Housing Development Revenue Enhancement Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would let housing authorities use tax-increment financing to fund housing development.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "property tax",
+    "sales tax",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3738.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3742",
+   "session": 126,
+   "bill_no": "H3742",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise the senior/disabled homestead exemption above the first $50,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3742.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3750",
+   "session": 126,
+   "bill_no": "H3750",
+   "title": "Equitable Development and Affordable Housing Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Equitable Development and Affordable Housing Act: would designate certain land for affordable-housing development.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3750.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3803",
+   "session": 126,
+   "bill_no": "H3803",
+   "title": "Property Tax Millage Increase",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would let local governments override the annual property-tax millage cap by simple majority instead of a supermajority \u2014 easing tax increases, not cutting them.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "property tax",
+    "sales tax",
+    "tax relief",
+    "insurance",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3803.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3812",
+   "session": 126,
+   "bill_no": "H3812",
+   "title": "Commercial Property Assessed Clean Energy Programs (C-PACE)",
+   "instrument_type": "General Bill",
+   "plain_topic": "Commercial Property Assessed Clean Energy (C-PACE) financing.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "property tax",
+    "insurance",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3812.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3841",
+   "session": 126,
+   "bill_no": "H3841",
+   "title": "Property tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Kept a home's 4% owner-occupied assessment rate and exemptions in place after the owner dies, while the estate is settled.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3841.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3861",
+   "session": 126,
+   "bill_no": "H3861",
+   "title": "Short-term rentals",
+   "instrument_type": "General Bill",
+   "plain_topic": "Short-term rental regulation.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3861.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3911",
+   "session": 126,
+   "bill_no": "H3911",
+   "title": "Capital Use Sales Tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would add workforce housing to what county capital-project sales taxes can fund.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "sales tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3911.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3928",
+   "session": 126,
+   "bill_no": "H3928",
+   "title": "Electric Rate Stabilization Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Electric Rate Stabilization Act: yearly rate reviews instead of big multi-year rate cases, promoted as smoothing rate increases.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "electric rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3928.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3933",
+   "session": 126,
+   "bill_no": "H3933",
+   "title": "Public Service Districts",
+   "instrument_type": "General Bill",
+   "plain_topic": "Public service district board restructuring (became law; local special districts).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3933.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H3970",
+   "session": 126,
+   "bill_no": "H3970",
+   "title": "University Housing Development and Incentive Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would create incentives for building affordable housing for public university students.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "affordability",
+    "housing",
+    "rent",
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3970.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4007",
+   "session": 126,
+   "bill_no": "H4007",
+   "title": "Public Service Authority Construction Authorization",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have authorized Santee Cooper construction of new generation capacity.",
+   "theme": "Santee Cooper, the state-owned utility",
+   "relevance": "core",
+   "found_by_terms": [
+    "Dominion"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4007.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4060",
+   "session": 126,
+   "bill_no": "H4060",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt 42.75% of business personal property value, matching the manufacturing exemption.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4060.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4138",
+   "session": 126,
+   "bill_no": "H4138",
+   "title": "Property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt one vehicle owned by the legal guardian of a minor or dependent child.",
+   "theme": "Taxes on vehicles and boats",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4138.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4187",
+   "session": 126,
+   "bill_no": "H4187",
+   "title": "Lexington County School District Property Tax Relief Act extension",
+   "instrument_type": "General Bill",
+   "plain_topic": "Extended Lexington County's local sales-tax-for-property-tax-relief arrangement.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax",
+    "sales tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4187.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4216",
+   "session": 126,
+   "bill_no": "H4216",
+   "title": "Income tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "The 2026 income tax restructuring: cuts the top rate to 5.21%, taxes lower income at 1.99%, changes the starting point to federal adjusted gross income, and schedules further cuts when revenue grows.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "tax relief",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4216.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4390",
+   "session": 126,
+   "bill_no": "H4390",
+   "title": "Zoning",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require community impact assessments before certain zoning decisions.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "affordability",
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4390.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4394",
+   "session": 126,
+   "bill_no": "H4394",
+   "title": "Childcare",
+   "instrument_type": "General Bill",
+   "plain_topic": "Workforce-development childcare stipends for unemployed parents (childcare as a household cost).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "childcare",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4394.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4402",
+   "session": 126,
+   "bill_no": "H4402",
+   "title": "PSC Elections",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Companion measure letting the General Assembly conduct Public Service Commission screening and elections in 2025.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "Public Service Commission",
+    "PSC"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4402.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4458",
+   "session": 126,
+   "bill_no": "H4458",
+   "title": "Income tax rates",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would cut the top income tax rate to 5%.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4458.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4583",
+   "session": 126,
+   "bill_no": "H4583",
+   "title": "The South Carolina Data Center Responsibility Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Data Center Responsibility Act: rules so data centers pay their own way on power and water.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "utility rate",
+    "insurance",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4583.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4599",
+   "session": 126,
+   "bill_no": "H4599",
+   "title": "Homestead Exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise the senior/disabled homestead exemption above the first $50,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4599.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4606",
+   "session": 126,
+   "bill_no": "H4606",
+   "title": "Veteran Housing Stability & Security Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Veteran Housing Stability and Security Act: veteran housing priority zones and a landlord risk-mitigation fund.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4606.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4608",
+   "session": 126,
+   "bill_no": "H4608",
+   "title": "Property Tax Classification",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would extend the 4% owner-occupied rate to a second dwelling on the same property occupied by immediate family.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4608.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4690",
+   "session": 126,
+   "bill_no": "H4690",
+   "title": "Homestead Exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise the senior/disabled homestead exemption above the first $50,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4690.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4693",
+   "session": 126,
+   "bill_no": "H4693",
+   "title": "Housing tax credit",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would add an alternative housing tax credit for preserving existing low-income housing.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4693.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4817",
+   "session": 126,
+   "bill_no": "H4817",
+   "title": "Insurance Rate Reduction and Policy Holder Protection Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Insurance Rate Reduction and Policyholder Protection Act: a broad auto/liability insurance overhaul promoted as reducing rates.",
+   "theme": "Home and property insurance costs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "affordability",
+    "housing",
+    "sales tax",
+    "insurance",
+    "rent",
+    "homeowners insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4817.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4970",
+   "session": 126,
+   "bill_no": "H4970",
+   "title": "Renters Fairness Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Renters Fairness Act: three months to relocate before eviction after certain convictions.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4970.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H5014",
+   "session": 126,
+   "bill_no": "H5014",
+   "title": "Motor Vehicle Property Tax Exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt one personal vehicle from property tax \u2014 fully at 70 and older, half at 65 \u2014 the broadest vehicle-tax relief bill in this record.",
+   "theme": "Taxes on vehicles and boats",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5014.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H5063",
+   "session": 126,
+   "bill_no": "H5063",
+   "title": "Property insurance and structural inspections",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require periodic structural inspections of coastal multi-story buildings as a condition of insurance renewal.",
+   "theme": "Home and property insurance costs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5063.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H5215",
+   "session": 126,
+   "bill_no": "H5215",
+   "title": "Data Center Utility Costs",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would wall off data centers' power costs so they cannot be recovered from households and other customer classes.",
+   "theme": "Utility bills, fees, and shutoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "electric rate",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5215.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H5282",
+   "session": 126,
+   "bill_no": "H5282",
+   "title": "Utility Billing Accountability and Consumer Protection Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Utility Billing Accountability and Consumer Protection Act: utilities could not change billing or payment practices without Public Service Commission approval, with quarterly reports and an independent audit.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "housing",
+    "rent",
+    "utility",
+    "Public Service Commission",
+    "utility rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5282.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H5283",
+   "session": 126,
+   "bill_no": "H5283",
+   "title": "SC Utility Citizens Council",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would create a South Carolina Utility Citizens Council \u2014 an independent citizen advisory body to the Public Service Commission, funded by the regulated utilities.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "utility",
+    "utility rate",
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5283.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H5439",
+   "session": 126,
+   "bill_no": "H5439",
+   "title": "Electricity Retail Choice",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Electric Retail Choice Act: would let households and small businesses choose their electricity supplier, with Public Service Commission permits and consumer disclosures.",
+   "theme": "Opening the electricity market to competition",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5439.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H5440",
+   "session": 126,
+   "bill_no": "H5440",
+   "title": "Electric Retail Customer Choice and Third-Party Electric Suppliers",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would let eligible customers buy some or all of their electricity from third-party suppliers over the incumbent utility's wires.",
+   "theme": "Opening the electricity market to competition",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "electric rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5440.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H5477",
+   "session": 126,
+   "bill_no": "H5477",
+   "title": "Working Family Child Tax Credit",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Working Family Child Tax Credit: a state income tax credit for families with qualifying children.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "tax relief",
+    "inflation"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5477.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H5484",
+   "session": 126,
+   "bill_no": "H5484",
+   "title": "Energy Affordability Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Energy Affordability Act: demand-side pilot programs, public comment on energy-infrastructure permits, and landowner notice before eminent domain.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "affordability",
+    "utility",
+    "Public Service Commission",
+    "sales tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5484.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H5503",
+   "session": 126,
+   "bill_no": "H5503",
+   "title": "Liquor Liability Insurance",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would repeal the $1 million liquor-liability insurance mandate that bars and restaurants say is driving them out of business.",
+   "theme": "Home and property insurance costs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5503.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H5525",
+   "session": 126,
+   "bill_no": "H5525",
+   "title": "SC Electric Cooperative Consumer Protection & Wholesale Market Access Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Electric Cooperative Consumer Protection and Wholesale Market Access Act: Public Service Commission oversight of the co-ops' wholesale power contracts and rates.",
+   "theme": "Opening the electricity market to competition",
+   "relevance": "core",
+   "found_by_terms": [
+    "Public Service Commission",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5525.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S12",
+   "session": 126,
+   "bill_no": "S12",
+   "title": "Santee Cooper Joint Project Authorization",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would let Santee Cooper jointly own power plants and transmission lines with private utilities \u2014 the vehicle discussed for restarting the V.C. Summer nuclear site.",
+   "theme": "Santee Cooper, the state-owned utility",
+   "relevance": "core",
+   "found_by_terms": [
+    "Dominion"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/12.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S151",
+   "session": 126,
+   "bill_no": "S151",
+   "title": "Small Business Property Tax Relief",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt the first $30,000 of a small business's real property from property taxes.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/151.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S207",
+   "session": 126,
+   "bill_no": "S207",
+   "title": "Retirement Income Tax Deduction",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise the retirement-income deduction from state income tax.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "inflation"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/207.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S223",
+   "session": 126,
+   "bill_no": "S223",
+   "title": "Homestead Exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise the senior/disabled homestead exemption above the first $50,000 of home value.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/223.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S271",
+   "session": 126,
+   "bill_no": "S271",
+   "title": "PSC Elections",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Let the General Assembly conduct Public Service Commission screening and elections in 2025; commissioners had been serving on expired terms.",
+   "theme": "How electric and gas rates are watched and set",
+   "relevance": "core",
+   "found_by_terms": [
+    "Public Service Commission",
+    "PSC"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/271.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S273",
+   "session": 126,
+   "bill_no": "S273",
+   "title": "Food Desert Tax Credit",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would create a tax credit for grocery stores that open in food deserts.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "sales tax",
+    "grocery"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/273.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S298",
+   "session": 126,
+   "bill_no": "S298",
+   "title": "Capital Use Sales Tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would add workforce housing to what county capital-project sales taxes can fund.",
+   "theme": "Housing costs and rent",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "housing",
+    "sales tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/298.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S397",
+   "session": 126,
+   "bill_no": "S397",
+   "title": "Liquor liability insurance",
+   "instrument_type": "General Bill",
+   "plain_topic": "Liquor-liability insurance relief for bars and restaurants.",
+   "theme": "Home and property insurance costs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/397.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S439",
+   "session": 126,
+   "bill_no": "S439",
+   "title": "Manufacturing property tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Raised the state reimbursement cap for the manufacturing property tax exemption (business property, paid for from state funds).",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/439.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S442",
+   "session": 126,
+   "bill_no": "S442",
+   "title": "Short Term Rentals",
+   "instrument_type": "General Bill",
+   "plain_topic": "Short-term rental regulation.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "rent",
+    "sales tax",
+    "insurance"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/442.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S446",
+   "session": 126,
+   "bill_no": "S446",
+   "title": "Electric Rate Stabilization Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Electric Rate Stabilization Act (Senate version): yearly rate reviews instead of big multi-year rate cases.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "electric rate",
+    "Public Service Commission",
+    "utility rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/446.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S51",
+   "session": 126,
+   "bill_no": "S51",
+   "title": "Public Service Authority RFP for V.C. Summer",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Told Santee Cooper to seek proposals from companies interested in finishing the abandoned V.C. Summer nuclear reactors.",
+   "theme": "Santee Cooper, the state-owned utility",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Dominion",
+    "rent",
+    "utility rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/51.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S742",
+   "session": 126,
+   "bill_no": "S742",
+   "title": "Sales Tax on Baby Supplies",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt baby formula, baby food, and baby clothes from sales tax.",
+   "theme": "Income and sales tax relief",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "sales tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/742.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S768",
+   "session": 126,
+   "bill_no": "S768",
+   "title": "Homestead exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise the homestead exemption to $100,000 and lower the qualifying age from 65 to 60.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/768.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S770",
+   "session": 126,
+   "bill_no": "S770",
+   "title": "Childcare Assistance Program",
+   "instrument_type": "General Bill",
+   "plain_topic": "Work requirements for federally funded childcare assistance.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "housing",
+    "childcare",
+    "child care",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/770.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S784",
+   "session": 126,
+   "bill_no": "S784",
+   "title": "Energy",
+   "instrument_type": "General Bill",
+   "plain_topic": "Senate companion to the Energy Affordability Act: demand-side pilots and public-comment requirements for energy projects.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "sales tax"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/784.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S866",
+   "session": 126,
+   "bill_no": "S866",
+   "title": "Municipal Tax Relief Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Municipal Tax Relief Act: certain cities can ask voters for up to a 1% local sales tax to cut property taxes on owner-occupied homes.",
+   "theme": "Property taxes on homes",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "property tax",
+    "sales tax",
+    "tax relief",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/866.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S878",
+   "session": 126,
+   "bill_no": "S878",
+   "title": "Third-Party Electric Supplier",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would set up a framework for third-party electric suppliers to serve eligible customers.",
+   "theme": "Opening the electricity market to competition",
+   "relevance": "core",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission",
+    "electric rate"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/878.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S890",
+   "session": 126,
+   "bill_no": "S890",
+   "title": "Small Business Property Tax Relief",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt the first $30,000 of a small business's real property from property taxes.",
+   "theme": "Property taxes on homes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "property tax",
+    "tax relief"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/890.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S93",
+   "session": 126,
+   "bill_no": "S93",
+   "title": "Natural Gas Rate Stabilization Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would rework the Natural Gas Rate Stabilization Act \u2014 the mechanism that lets gas utilities adjust rates yearly outside full rate cases.",
+   "theme": "Big energy bills that set the rate rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "utility",
+    "Public Service Commission"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/93.htm",
+   "source": "pass1"
+  }
+ ]
+}

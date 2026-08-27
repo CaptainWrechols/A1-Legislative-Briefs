@@ -1,0 +1,356 @@
+{
+ "issue": "south-carolina-03-rising-cost-of-living",
+ "note": "Hand-curated cost-of-living provisos (utility oversight, personal-finance education, tax relief, housing) from Part IB of each enacted appropriations act (term-matched candidate sets in provisos/{year}/). Budget provisos are one-year rules enacted inside the annual budget bill; votes attach to the whole appropriations bill (or a named amendment), never to one proviso. FY 2020-21 had no enacted Part IB (COVID continuing resolution) \u2014 stated explicitly per the workflow's none-found rule. Financial-education provisos: none found in any cycle except FY 2022-23 proviso 1.101 (the graduation-requirement order) \u2014 an explicit none-found for the other six cycles.",
+ "cycles": [
+  {
+   "fiscal_year": "2020-2021",
+   "bill_no": "H5201",
+   "enacted": false,
+   "provisos": [],
+   "note": "No enacted Part IB this cycle: H5201 died in committee during COVID; the state ran on continuing resolution H3411 plus CARES acts."
+  },
+  {
+   "fiscal_year": "2021-2022",
+   "bill_no": "H4100",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "73.9",
+     "caption": "ORS: Natural Gas Rate Stabilization Act Study",
+     "display_caption": "ORS: Natural Gas Rate Stabilization Act Study",
+     "why_relevant": "Ordered the state utility watchdog to study whether the Natural Gas Rate Stabilization Act \u2014 the mechanism letting gas utilities adjust rates yearly outside full rate cases \u2014 actually serves ratepayers, reporting by December 31, 2021.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "73.5",
+     "caption": "ORS: Energy Efficient Manufactured Homes",
+     "display_caption": "ORS: Energy Efficient Manufactured Homes",
+     "why_relevant": "Kept the energy-efficient manufactured homes purchase incentive running for another year.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.172",
+     "caption": "GP: Funds Transferred to Santee Cooper",
+     "display_caption": "GP: Funds Transferred to Santee Cooper",
+     "why_relevant": "Distributed the money held from the Santee Cooper sale-evaluation process (Act 95 of 2019): $2 million to the Office of Regulatory Staff, $1 million to the Public Service Commission, the balance to Santee Cooper, all for reform work.",
+     "verbatim_figure": "$2,000,000 to ORS; $1,000,000 to the PSC; balance to Santee Cooper"
+    },
+    {
+     "proviso": "117.186",
+     "caption": "GP: Homestead Exemption Fund",
+     "display_caption": "GP: Homestead Exemption Fund",
+     "why_relevant": "Suspends subsection (C) of the Homestead Exemption Fund statute (Section 11-11-156) for the year \u2014 a recurring budget-side adjustment to how the school-operating property-tax relief fund's rules run.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.37",
+     "caption": "GP: Personal Property Tax Relief Fund",
+     "display_caption": "GP: Personal Property Tax Relief Fund",
+     "why_relevant": "Backstops counties that swapped vehicle/personal property taxes for a local sales tax: if the 2% sales tax falls short, the state Trust Fund for Tax Relief covers the gap.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.9",
+     "caption": "SR: Tax Relief Reserve Fund",
+     "display_caption": "SR: Tax Relief Reserve Fund",
+     "why_relevant": "Creates a reserve fund, separate from the General Fund, that may only be used to provide tax relief to businesses and individuals as provided by law.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "42.1",
+     "caption": "HFDA: Federal Rental Assistance Administrative Fee Carry Forward",
+     "display_caption": "HFDA: Federal Rental Assistance Administrative Fee Carry Forward",
+     "why_relevant": "Lets the state housing authority carry forward federal rental-assistance administrative fees to keep running assistance programs.",
+     "verbatim_figure": null
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2022-2023",
+   "bill_no": "H5150",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "1.101",
+     "caption": "SDE: Graduation Requirements",
+     "display_caption": "SDE: Graduation Requirements",
+     "why_relevant": "Ordered the State Board of Education to write a required half-credit in personal finance into the high school graduation regulation \u2014 the route by which the citizens' financial-education idea actually became policy after the S16 bill died in conference. One-time proviso; the regulation (Document 5130) took effect May 26, 2023.",
+     "verbatim_figure": "Half-credit personal finance graduation requirement ordered into regulation"
+    },
+    {
+     "proviso": "72.2",
+     "caption": "PSC: Santee Cooper Funds Held by Public Service Commission",
+     "display_caption": "PSC: Santee Cooper Funds Held by Public Service Commission",
+     "why_relevant": "Keeps the money transferred for reforming Santee Cooper available to the Public Service Commission, including hiring outside experts.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "42.6",
+     "caption": "HFDA: SC Housing Statewide Assessment",
+     "display_caption": "HFDA: SC Housing Statewide Assessment",
+     "why_relevant": "Paid for the comprehensive statewide housing needs assessment ($100,000, Darla Moore School of Business) \u2014 the state's housing-cost evidence base.",
+     "verbatim_figure": "$100,000 statewide housing needs assessment"
+    },
+    {
+     "proviso": "117.158",
+     "caption": "GP: Homestead Exemption Fund",
+     "display_caption": "GP: Homestead Exemption Fund",
+     "why_relevant": "Suspends subsection (C) of the Homestead Exemption Fund statute (Section 11-11-156) for the year \u2014 a recurring budget-side adjustment to how the school-operating property-tax relief fund's rules run.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.37",
+     "caption": "GP: Personal Property Tax Relief Fund",
+     "display_caption": "GP: Personal Property Tax Relief Fund",
+     "why_relevant": "Backstops counties that swapped vehicle/personal property taxes for a local sales tax: if the 2% sales tax falls short, the state Trust Fund for Tax Relief covers the gap.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.9",
+     "caption": "SR: Tax Relief Reserve Fund",
+     "display_caption": "SR: Tax Relief Reserve Fund",
+     "why_relevant": "Creates a reserve fund, separate from the General Fund, that may only be used to provide tax relief to businesses and individuals as provided by law.",
+     "verbatim_figure": null
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2023-2024",
+   "bill_no": "H4300",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "72.4",
+     "caption": "PSC: Santee Cooper Billing",
+     "display_caption": "PSC: Santee Cooper Billing",
+     "why_relevant": "Lets the Public Service Commission bill Santee Cooper for the cost of overseeing it under the 2021 reform law (Act 90) \u2014 the oversight regime's funding lives here, in the budget.",
+     "verbatim_figure": "First appearance of the PSC-bills-Santee-Cooper oversight funding"
+    },
+    {
+     "proviso": "72.2",
+     "caption": "PSC: Santee Cooper Funds Held by Public Service Commission",
+     "display_caption": "PSC: Santee Cooper Funds Held by Public Service Commission",
+     "why_relevant": "Keeps the money transferred for reforming Santee Cooper available to the Public Service Commission, including hiring outside experts.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "109.16",
+     "caption": "DOR: Manufacturing Property Tax Reduction",
+     "display_caption": "DOR: Manufacturing Property Tax Reduction",
+     "why_relevant": "Denies utilities (including solar farms) the manufacturing property tax reduction percentage for the year \u2014 keeping utility property fully on local tax rolls.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "42.6",
+     "caption": "HFDA: SC Housing Statewide Assessment",
+     "display_caption": "HFDA: SC Housing Statewide Assessment",
+     "why_relevant": "Paid for the comprehensive statewide housing needs assessment ($100,000, Darla Moore School of Business) \u2014 the state's housing-cost evidence base.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.151",
+     "caption": "GP: Homestead Exemption Fund",
+     "display_caption": "GP: Homestead Exemption Fund",
+     "why_relevant": "Suspends subsection (C) of the Homestead Exemption Fund statute (Section 11-11-156) for the year \u2014 a recurring budget-side adjustment to how the school-operating property-tax relief fund's rules run.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.37",
+     "caption": "GP: Personal Property Tax Relief Fund",
+     "display_caption": "GP: Personal Property Tax Relief Fund",
+     "why_relevant": "Backstops counties that swapped vehicle/personal property taxes for a local sales tax: if the 2% sales tax falls short, the state Trust Fund for Tax Relief covers the gap.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.9",
+     "caption": "SR: Tax Relief Reserve Fund",
+     "display_caption": "SR: Tax Relief Reserve Fund",
+     "why_relevant": "Creates a reserve fund, separate from the General Fund, that may only be used to provide tax relief to businesses and individuals as provided by law.",
+     "verbatim_figure": null
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2024-2025",
+   "bill_no": "H5100",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "72.3",
+     "caption": "PSC: Santee Cooper Billing",
+     "display_caption": "PSC: Santee Cooper Billing",
+     "why_relevant": "Lets the Public Service Commission bill Santee Cooper for the cost of overseeing it under the 2021 reform law (Act 90) \u2014 the oversight regime's funding lives here, in the budget.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "73.9",
+     "caption": "ORS: Energy Office",
+     "display_caption": "ORS: Energy Office",
+     "why_relevant": "Authorizes the state Energy Office to administer federal Infrastructure Investment and Jobs Act and Inflation Reduction Act programs (including household energy money) and carry the funds forward.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "109.16",
+     "caption": "DOR: Manufacturing Property Tax Reduction",
+     "display_caption": "DOR: Manufacturing Property Tax Reduction",
+     "why_relevant": "Denies utilities (including solar farms) the manufacturing property tax reduction percentage for the year \u2014 keeping utility property fully on local tax rolls.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.22",
+     "caption": "SR: Homestead Exemption Fund",
+     "display_caption": "SR: Homestead Exemption Fund",
+     "why_relevant": "Moved $600 million of accumulated Homestead Exemption Fund balance into the budget as nonrecurring revenue, suspending the fund's use restrictions for the year.",
+     "verbatim_figure": "$600,000,000 of fund balance used as nonrecurring revenue"
+    },
+    {
+     "proviso": "117.149",
+     "caption": "GP: Homestead Exemption Fund",
+     "display_caption": "GP: Homestead Exemption Fund",
+     "why_relevant": "Suspends subsection (C) of the Homestead Exemption Fund statute (Section 11-11-156) for the year \u2014 a recurring budget-side adjustment to how the school-operating property-tax relief fund's rules run.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.37",
+     "caption": "GP: Personal Property Tax Relief Fund",
+     "display_caption": "GP: Personal Property Tax Relief Fund",
+     "why_relevant": "Backstops counties that swapped vehicle/personal property taxes for a local sales tax: if the 2% sales tax falls short, the state Trust Fund for Tax Relief covers the gap.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.9",
+     "caption": "SR: Tax Relief Reserve Fund",
+     "display_caption": "SR: Tax Relief Reserve Fund",
+     "why_relevant": "Creates a reserve fund, separate from the General Fund, that may only be used to provide tax relief to businesses and individuals as provided by law.",
+     "verbatim_figure": null
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2025-2026",
+   "bill_no": "H4025",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "117.208",
+     "caption": "GP: Tax Rate",
+     "display_caption": "GP: Tax Rate",
+     "why_relevant": "Suspends the income tax law's phase-in trigger subsections (Section 12-6-510(B)(2) and (3)) for the year, so the rate table applies as written instead of waiting on revenue triggers \u2014 the budget's lever for accelerating the income tax cut.",
+     "verbatim_figure": "Puts the tax-cut law's 6% top income tax rate into effect for the year"
+    },
+    {
+     "proviso": "72.3",
+     "caption": "PSC: Santee Cooper Billing",
+     "display_caption": "PSC: Santee Cooper Billing",
+     "why_relevant": "Lets the Public Service Commission bill Santee Cooper for the cost of overseeing it under the 2021 reform law (Act 90) \u2014 the oversight regime's funding lives here, in the budget.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "73.7",
+     "caption": "ORS: Energy Office",
+     "display_caption": "ORS: Energy Office",
+     "why_relevant": "Authorizes the state Energy Office to administer federal Infrastructure Investment and Jobs Act and Inflation Reduction Act programs (including household energy money) and carry the funds forward.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "109.14",
+     "caption": "DOR: Manufacturing Property Tax Reduction",
+     "display_caption": "DOR: Manufacturing Property Tax Reduction",
+     "why_relevant": "Denies utilities (including solar farms) the manufacturing property tax reduction percentage for the year \u2014 keeping utility property fully on local tax rolls.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.147",
+     "caption": "GP: Homestead Exemption Fund",
+     "display_caption": "GP: Homestead Exemption Fund",
+     "why_relevant": "Suspends subsection (C) of the Homestead Exemption Fund statute (Section 11-11-156) for the year \u2014 a recurring budget-side adjustment to how the school-operating property-tax relief fund's rules run.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.37",
+     "caption": "GP: Personal Property Tax Relief Fund",
+     "display_caption": "GP: Personal Property Tax Relief Fund",
+     "why_relevant": "Backstops counties that swapped vehicle/personal property taxes for a local sales tax: if the 2% sales tax falls short, the state Trust Fund for Tax Relief covers the gap.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.9",
+     "caption": "SR: Tax Relief Reserve Fund",
+     "display_caption": "SR: Tax Relief Reserve Fund",
+     "why_relevant": "Creates a reserve fund, separate from the General Fund, that may only be used to provide tax relief to businesses and individuals as provided by law.",
+     "verbatim_figure": null
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2026-2027",
+   "bill_no": "H5126",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "117.220",
+     "caption": "GP: Homestead Exemption",
+     "display_caption": "GP: Homestead Exemption",
+     "why_relevant": "An extra $25,000 homestead exemption for seniors and disabled homeowners who already qualify under Section 12-37-250, on top of the standing $50,000 \u2014 with the state reimbursing local governments. A one-year property-tax cut that exists only in the budget.",
+     "verbatim_figure": "Extra $25,000 homestead exemption for qualifying seniors/disabled homeowners, state-reimbursed"
+    },
+    {
+     "proviso": "117.191",
+     "caption": "GP: Tax Rate",
+     "display_caption": "GP: Tax Rate",
+     "why_relevant": "Suspends the income tax law's phase-in trigger subsections (Section 12-6-510(B)(2) and (3)) for the year, so the rate table applies as written instead of waiting on revenue triggers \u2014 the budget's lever for accelerating the income tax cut.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.222",
+     "caption": "GP: Property Tax Bill Payments - Third-Party Authorization",
+     "display_caption": "GP: Property Tax Bill Payments - Third-Party Authorization",
+     "why_relevant": "Lets anyone pay someone else's property tax bill without proof of authorization (no ownership rights conferred).",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "42.7",
+     "caption": "HFDA: Workforce Housing",
+     "display_caption": "HFDA: Workforce Housing",
+     "why_relevant": "Funds the 'Made it Home!' program at the state housing authority: new construction of affordable single-family homes with down-payment assistance.",
+     "verbatim_figure": "'Made it Home!' affordable single-family construction program"
+    },
+    {
+     "proviso": "72.3",
+     "caption": "PSC: Santee Cooper Billing",
+     "display_caption": "PSC: Santee Cooper Billing",
+     "why_relevant": "Lets the Public Service Commission bill Santee Cooper for the cost of overseeing it under the 2021 reform law (Act 90) \u2014 the oversight regime's funding lives here, in the budget.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "109.14",
+     "caption": "DOR: Manufacturing Property Tax Reduction",
+     "display_caption": "DOR: Manufacturing Property Tax Reduction",
+     "why_relevant": "Denies utilities (including solar farms) the manufacturing property tax reduction percentage for the year \u2014 keeping utility property fully on local tax rolls.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.144",
+     "caption": "GP: Homestead Exemption Fund",
+     "display_caption": "GP: Homestead Exemption Fund",
+     "why_relevant": "Suspends subsection (C) of the Homestead Exemption Fund statute (Section 11-11-156) for the year \u2014 a recurring budget-side adjustment to how the school-operating property-tax relief fund's rules run.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.37",
+     "caption": "GP: Personal Property Tax Relief Fund",
+     "display_caption": "GP: Personal Property Tax Relief Fund",
+     "why_relevant": "Backstops counties that swapped vehicle/personal property taxes for a local sales tax: if the 2% sales tax falls short, the state Trust Fund for Tax Relief covers the gap.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.9",
+     "caption": "SR: Tax Relief Reserve Fund",
+     "display_caption": "SR: Tax Relief Reserve Fund",
+     "why_relevant": "Creates a reserve fund, separate from the General Fund, that may only be used to provide tax relief to businesses and individuals as provided by law.",
+     "verbatim_figure": null
+    }
+   ]
+  }
+ ]
+}
