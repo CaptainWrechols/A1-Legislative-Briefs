@@ -15,4 +15,7 @@ Terms explained inline in the front brief (audit aid for the reviewer).
 | first committee | throughout | used with plain outcome phrasing ("never came out of its first committee") |
 | vote pairs (e.g. 105–1 and 40–0) | throughout | yes–no floor tallies, one per chamber; self-evident from context |
 
-No glossary appendix; all explainers are in-section per the product rules.
+All front-brief explainers are in-section per the product rules. Per the
+combined citizen-v4 format, the document also ends with a Glossary and a
+Legislative process glossary; those supplement the inline explainers above
+(nothing on pages 1–2 depends on them).

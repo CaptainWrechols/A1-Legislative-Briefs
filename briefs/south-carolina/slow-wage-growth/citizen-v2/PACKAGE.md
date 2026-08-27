@@ -1,20 +1,27 @@
 # Package — Slow Wage Growth in South Carolina (citizen-v2.0)
 
-Design Packager v2.1 · 2026-08-26 · The Forum
+Design Packager v2.1 · 2026-08-27 · The Forum
 
 The first South Carolina citizen brief, produced on the SC foundation
 (certified 123rd–126th universe + prebuilt issue artifacts). Follows the
-NV/NH citizen-brief product: two-page Phase 2 front brief + long appendices,
-with the SC-specific page-1 **"Also in the state budget (provisos)"**
-callout required by `docs/sc-issue-chat-workflow.md`.
+NV/NH combined citizen-brief product (the NV citizen-v4 format): the
+two-page Phase 2 front brief, the proposal spotlights, the glossary, and
+the legislative process glossary in **one document**, plus a standalone
+spotlights companion and long appendices — with the SC-specific page-1
+**"Also in the state budget (provisos)"** callout required by
+`docs/sc-issue-chat-workflow.md`.
 
 ## What's in this folder
 
 | File | What it is |
 |---|---|
-| `citizen-brief.md` | Source markdown of the front brief |
-| `citizen-brief.html` | Print-ready Phase 2 HTML — **2 letter pages** (Chrome print-to-PDF verified) |
-| `citizen-brief.docx` | Word version — **2 pages** (LibreOffice-verified), direct-formatted for cross-app fidelity |
+| `SC1-Slow-Wage-Growth-Lege-Brief.docx` | **THE DELIVERABLE** — the finalized, working-group-approved lege-brief format, cloned from `templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx` (same format as NH1-Energy/Housing/Property-Taxes/Public-Education-Lege-Brief): brief → policy spotlights → glossary (own page) → legislative process glossary (own page), stat-card table, square-bullet spotlights, two-column glossaries, real Word footer ("SC1 Slow Wage Growth Legislative Brief v1.0" + page number). 7 pages, LibreOffice-verified |
+| `SC1-Slow-Wage-Growth-Lege-Brief.pdf` | PDF export of the deliverable (LibreOffice) |
+| `lege-brief.md` | Source markdown of the deliverable (edit this, then rebuild) |
+| `citizen-brief.md` | Earlier combined-format source (front brief → spotlights → glossaries), kept for provenance |
+| `citizen-brief.html` | Print-ready Phase 2 HTML — **4 letter pages**, front brief on pages 1–2 (Chrome print-to-PDF verified) |
+| `citizen-brief.docx` | Word version — **4 pages**, front brief on pages 1–2 (LibreOffice-verified), direct-formatted for cross-app fidelity |
+| `proposal-spotlights.md` / `.html` / `.docx` | Standalone policy spotlights: each Phase 2 proposal as bulleted bill lists grouped by viability (already law / proven support / stopped early / never filed), single column — **2 pages** in both renders |
 | `citizen-brief-print.css` | Phase 2 print tokens (white page, navy `#1A2D4F`, terracotta `#C0392B`, Arial) |
 | `appendices/A…I-*.md` | Nine appendices (see `appendices/README.md`) |
 | `appendices/appendices-print.html` | Combined print HTML with TOC — 44 letter pages |
@@ -33,17 +40,34 @@ navy-header comparison style with repeating headers across page breaks.
 
 ## Page discipline
 
-- Front brief: page 1 carries the landscape, key numbers, the proviso
-  callout, and the two strongest history baskets; page 2 carries the
-  rarely-moved basket, political terrain, and the latest-session section.
-- Verified ≤2 pages in **both** renders (HTML→PDF via headless Chrome;
-  DOCX→PDF via LibreOffice). No content was cut to fit.
+- Front brief (pages 1–2 of the combined document): page 1 carries the
+  landscape, key numbers, the proviso callout, and the two strongest
+  history baskets; page 2 carries the rarely-moved basket, political
+  terrain, and the latest-session section. The companion sections —
+  proposal spotlights, glossary, legislative process glossary — follow on
+  pages 3–4, matching the NV citizen-v4 combined format.
+- Front-brief-on-two-pages and 4-page totals verified in **both** renders
+  (HTML→PDF via headless Chrome; DOCX→PDF via LibreOffice). No content was
+  cut to fit.
 
 ## Rebuild
 
 ```bash
-# HTML front brief (Phase 2 shell)
+# THE DELIVERABLE — lege-brief docx from the approved NV1 v1.6 template
+python3 collectors/export_docx_lege_brief.py \
+  --source briefs/south-carolina/slow-wage-growth/citizen-v2/lege-brief.md \
+  --out briefs/south-carolina/slow-wage-growth/citizen-v2/SC1-Slow-Wage-Growth-Lege-Brief.docx \
+  --footer "SC1 Slow Wage Growth Legislative Brief v1.0" --polish-breaks
+# PDF: soffice --headless --convert-to pdf SC1-Slow-Wage-Growth-Lege-Brief.docx
+
+# HTML combined document (Phase 2 shell)
 python3 collectors/export_brief_html.py --brief-dir briefs/south-carolina/slow-wage-growth/citizen-v2
+
+# Standalone policy spotlights (prose layout, HTML + Word)
+python3 collectors/export_brief_html.py --brief-dir briefs/south-carolina/slow-wage-growth/citizen-v2 \
+  --file proposal-spotlights --layout prose --footer "SC1 Slow Wage Growth Policy Spotlights v2.0"
+python3 collectors/export_docx_brief.py --brief-dir briefs/south-carolina/slow-wage-growth/citizen-v2 \
+  --file proposal-spotlights --layout prose --footer "SC1 Slow Wage Growth Policy Spotlights v2.0"
 
 # Combined appendices print HTML (TOC descriptions + SC data note)
 python3 collectors/build_appendices_print.py --brief-dir briefs/south-carolina/slow-wage-growth/citizen-v2 \

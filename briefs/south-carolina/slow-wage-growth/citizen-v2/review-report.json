@@ -2,9 +2,13 @@
  "issue_id": "south-carolina-04-slow-wage-growth",
  "brief_dir": "briefs/south-carolina/slow-wage-growth/citizen-v2",
  "reviewer": "citizen-reviewer v2.3",
- "date": "2026-08-26",
+ "date": "2026-08-27",
  "verdict": "READY FOR HUMAN REVIEW",
- "reviewers_for_pr": ["Ryan Echols", "Jodi Stephens", "Ashley Lovell"],
+ "reviewers_for_pr": [
+  "Ryan Echols",
+  "Jodi Stephens",
+  "Ashley Lovell"
+ ],
  "checks": {
   "A1_no_advice_framing": "pass",
   "A2_grouped_by_record_status": "pass",
@@ -40,8 +44,8 @@
   "SC_completeness_gate": "pass_with_warnings_disclosed"
  },
  "measurements": {
-  "html_pages": 2,
-  "docx_pages": 2,
+  "html_pages": 4,
+  "docx_pages": 4,
   "appendices_print_pages": 44,
   "appendices_docx_pages": 41,
   "flesch_kincaid_grade": 12.2,
@@ -50,16 +54,22 @@
   "core_set": 54,
   "pass1_total": 5744,
   "cited_bill_numbers_verified": 21,
-  "cited_vote_pairs_verified": true
+  "cited_vote_pairs_verified": true,
+  "front_brief_pages_html": 2,
+  "front_brief_pages_docx": 2,
+  "spotlights_html_pages": 2,
+  "spotlights_docx_pages": 2
  },
  "fixes_logged": [
   "Appendix F advice-verb rephrase ('readers should treat' removed)",
   "Five long sentences split in front brief; facts unchanged; pages re-verified 2/2",
-  "Pre-review corrections: H4603 lead sponsor (Rep. Jones) and year (2026); floor-vote support claim replaced with exact worst margin 84-12; proviso citations moved to FY 2026-27 numbering"
+  "Pre-review corrections: H4603 lead sponsor (Rep. Jones) and year (2026); floor-vote support claim replaced with exact worst margin 84-12; proviso citations moved to FY 2026-27 numbering",
+  "2026-08-27: local-preemption correction (fixed-floor bills keep the ban on higher local minimums) propagated to curation map, evidence pack, Appendix A, and spotlights; new sections scanned and vote pairs re-verified"
  ],
  "flags_for_humans": [
   "Reading level 12.2 vs ~grade 5-8 aspiration (consistent with all shipped NV/NH briefs)",
   "126th session treated as concluded as of 2026-08-26 collection date",
   "Party-blind by design; ballot_pdf_key recorded per roll call if party splits are wanted later"
- ]
+ ],
+ "format_note": "Combined document per NV citizen-v4 pattern: front brief (pages 1-2) + proposal spotlights + glossary + legislative process glossary, plus standalone proposal-spotlights companion."
 }

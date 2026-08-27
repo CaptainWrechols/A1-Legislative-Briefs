@@ -1,6 +1,9 @@
 # Review report — Slow Wage Growth in South Carolina (citizen-v2.0)
 
-Citizen Reviewer v2.3 · 2026-08-26
+Citizen Reviewer v2.3 · 2026-08-26 · re-reviewed 2026-08-27 after the
+package was completed to the combined format (NV citizen-v4 pattern):
+proposal spotlights, glossary, and legislative process glossary added to
+the brief, plus the standalone `proposal-spotlights` companion.
 
 **Verdict: READY FOR HUMAN REVIEW**
 
@@ -13,7 +16,7 @@ Reviewers for the PR: Ryan Echols, Jodi Stephens, Ashley Lovell.
 | A1 | Reports the record without telling readers what to pick | PASS | History verbs throughout; no directives |
 | A2 | Proposals grouped by record status | PASS | "Often moved before" / "Got support but didn't finish" / "Rarely moved before" (incl. never-filed) |
 | A4 | No pursue/adapt/avoid commands | PASS | Advice-word scan of brief + appendices: zero hits |
-| A5 | Every constituent proposal covered | PASS | All four [P-…] labels appear once each in the front brief; deep dive in Appendix H |
+| A5 | Every constituent proposal covered | PASS | All four [P-…] labels appear in the front brief and again in the spotlight sections; bill-by-bill viability groups in the standalone spotlights; deep dive in Appendix H |
 | A6 | No worksheet apparatus / meta-commentary / source keys in front brief | PASS | Sources, caveats, and review notes live in Appendices F and I |
 
 ## B. Reading level & explainers
@@ -21,15 +24,15 @@ Reviewers for the PR: Ryan Echols, Jodi Stephens, Ashley Lovell.
 | ID | Check | Result | Notes |
 |---|---|---|---|
 | B1 | Plain professional prose | PASS | Flesch–Kincaid ≈ 12.2 after the reviewer's sentence-splitting pass — the lowest of any shipped Forum brief (NH housing 13.1, NV healthcare 13.9–15.5). The ~grade 5–8 aspiration is not met by any brief in this product line; flagged for the human reviewers rather than fixed by cutting facts |
-| B2 | No glossary; terms handled inline | PASS | Inline explainers logged in `working/.../explainer-log.md` (proviso, WINS, job development credits, etc.) |
+| B2 | Inline explainers in the front brief; glossaries per the combined product | PASS | Inline explainers retained on pages 1–2 and logged in `working/.../explainer-log.md`; the Glossary and Legislative process glossary end-sections follow the NV citizen-v4 combined format (they supplement, not replace, the inline explainers) |
 | B3 | Bill descriptions understandable without legal training | PASS | Plain topics carried from the curation map |
 
 ## C. Length & layout
 
 | ID | Check | Result | Notes |
 |---|---|---|---|
-| C1 | ≤2 letter pages in HTML **and** Word | PASS | HTML→PDF (Chrome): 2 pages; DOCX→PDF (LibreOffice): 2 pages |
-| C2 | Page 1 carries the essential map | PASS | Landscape, key numbers, proviso callout, and the two strongest baskets on page 1 (render inspected) |
+| C1 | Front brief ≤2 letter pages in HTML **and** Word | PASS | The front brief occupies pages 1–2 in both renders; the combined document (front brief + spotlights + glossaries, per the NV citizen-v4 format) totals 4 pages in both (Chrome HTML→PDF and LibreOffice DOCX→PDF). Standalone spotlights: 2 pages in both |
+| C2 | Page 1 carries the essential map | PASS | Landscape, key numbers, proviso callout, and the two strongest baskets on page 1 (render inspected after the additions) |
 | C3 | Detail in appendices | PASS | 9 appendices; 44-page print HTML |
 
 ## D. Evidence integrity
@@ -87,6 +90,15 @@ Reviewers for the PR: Ryan Echols, Jodi Stephens, Ashley Lovell.
    2026 (prefiled December 2025); "96% or better" floor-vote claim replaced
    with the exact worst margin (84–12); proviso citations moved from
    FY 2025-26 to FY 2026-27 numbering.
+4. 2026-08-27 completion pass: local-preemption correction. The fixed-floor
+   minimum-wage bills (H3114, H3467, H3341, H3480, H5187) amend §6-1-130 so
+   that local governments *may not exceed* the new state floor — the
+   curation-map plain topics had said the opposite ("let local governments
+   go higher"). Verified against full bill text; corrected in the curation
+   map, evidence pack, Appendix A, and both spotlight texts. All vote pairs
+   in the new spotlight/glossary sections re-verified programmatically
+   against `bill-votes.json` (zero unmatched); advice-language and
+   party-label scans re-run clean on all citizen-facing files.
 
 ## Items for the human reviewers
 
