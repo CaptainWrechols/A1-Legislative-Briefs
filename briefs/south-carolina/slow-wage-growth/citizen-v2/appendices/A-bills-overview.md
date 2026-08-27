@@ -6,24 +6,24 @@ One row per bill in the curated set (133 bills, hand-reviewed from 5,744 keyword
 
 | Session | Bill | What it tried (plain words) | Tier | Result | Where it stopped or finished |
 |---|---|---|---|---|---|
-| 2019-20 | H3114 | Would have set a state minimum wage of $10.10 an hour (or the federal rate if higher) and let local governments go higher. | Core | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
+| 2019-20 | H3114 | Would have set a state minimum wage of $10.10 an hour (or the federal rate if higher); local governments still could not go higher. | Core | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
 | 2019-20 | H3217 | Would have phased in a state minimum wage of $10.10 an hour over three years, with automatic yearly adjustments. | Core | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
 | 2019-20 | H3395 | Would have phased in a state minimum wage of $12 an hour over three years, with automatic yearly adjustments. | Core | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
-| 2019-20 | H3467 | Would have set a state minimum wage of $13 an hour (or the federal rate if higher) and let local governments go higher. | Core | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
+| 2019-20 | H3467 | Would have set a state minimum wage of $13 an hour (or the federal rate if higher); local governments still could not go higher. | Core | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
 | 2019-20 | H4154 | Would have set a state minimum wage of $17 an hour starting January 2020. | Core | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
 | 2019-20 | S147 | Proposed a state constitutional amendment creating a mandatory minimum wage, enforceable in court. | Core | Did not pass | Died in its first committee (Senate Judiciary) |
 | 2019-20 | S149 | The SC Minimum Wage Act: a state minimum wage adjusted for inflation each year by the state workforce agency. | Core | Did not pass | Died in its first committee (Senate Labor, Commerce and Industry) |
 | 2021-22 | H3018 | Would have phased in a state minimum wage of $10.10 an hour over three years, with automatic yearly adjustments. | Core | Did not pass | Died in its first committee (House Ways and Means) |
 | 2021-22 | H3184 | Would have phased in a state minimum wage of $15 an hour over three years, with automatic yearly adjustments. | Core | Did not pass | Died in its first committee (House Ways and Means) |
-| 2021-22 | H3341 | Would have set a state minimum wage of $15 an hour (or the federal rate if higher) and let local governments go higher. | Core | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
-| 2021-22 | H3480 | Would have set a state minimum wage of $13 an hour (or the federal rate if higher) and let local governments go higher. | Core | Did not pass | Died in its first committee (House Ways and Means) |
+| 2021-22 | H3341 | Would have set a state minimum wage of $15 an hour (or the federal rate if higher); local governments still could not go higher. | Core | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
+| 2021-22 | H3480 | Would have set a state minimum wage of $13 an hour (or the federal rate if higher); local governments still could not go higher. | Core | Did not pass | Died in its first committee (House Ways and Means) |
 | 2021-22 | H3675 | Would have set a state minimum wage of $17 an hour starting January 2022. | Core | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
 | 2021-22 | S159 | The SC Minimum Wage Act: a state minimum wage adjusted for inflation each year by the state workforce agency. | Core | Did not pass | Died in its first committee (Senate Labor, Commerce and Industry) |
 | 2021-22 | S343 | The SC Minimum Wage Act: a state minimum wage adjusted for inflation each year by the state workforce agency. | Core | Did not pass | Died in its first committee (Senate Labor, Commerce and Industry) |
 | 2021-22 | S633 | Would have put an advisory question on the 2022 ballot asking voters whether to raise the minimum wage. | Core | Did not pass | Died in its first committee (Senate Judiciary) |
 | 2021-22 | S634 | The SC Minimum Wage Act: a state minimum wage with anti-retaliation protections for workers. | Core | Did not pass | Died in its first committee (Senate Labor, Commerce and Industry) |
 | 2023-24 | H3805 | Would have set a state minimum wage of $17 an hour starting January 2025. | Core | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
-| 2023-24 | H5187 | Would have set a state minimum wage of $10 an hour (or the federal rate if higher). | Core | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
+| 2023-24 | H5187 | Would have set a state minimum wage of $10 an hour (or the federal rate if higher); local governments still could not go higher. | Core | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
 | 2023-24 | S216 | The SC Minimum Wage Act: a state minimum wage adjusted for inflation each year by the state workforce agency. | Core | Did not pass | Died in its first committee (Senate Labor, Commerce and Industry) |
 | 2023-24 | S28 | Would have put an advisory question on the 2024 ballot asking voters whether to raise the minimum wage. | Core | Did not pass | Died in its first committee (Senate Labor, Commerce and Industry) |
 | 2023-24 | S291 | The SC Minimum Wage Act: a state minimum wage with anti-retaliation protections for workers. | Core | Did not pass | Died in its first committee (Senate Labor, Commerce and Industry) |
