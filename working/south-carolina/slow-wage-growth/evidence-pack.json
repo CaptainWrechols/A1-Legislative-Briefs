@@ -1,0 +1,6099 @@
+{
+ "generated_at": "2026-08-26T14:56:46.406473+00:00",
+ "issue": "south-carolina-04-slow-wage-growth",
+ "sessions": [
+  {
+   "session": 123,
+   "label": "123rd (2019-2020)",
+   "bills_in_policy_set": 24,
+   "enacted": 0,
+   "core": 14,
+   "core_enacted": 0
+  },
+  {
+   "session": 124,
+   "label": "124th (2021-2022)",
+   "bills_in_policy_set": 33,
+   "enacted": 5,
+   "core": 16,
+   "core_enacted": 3
+  },
+  {
+   "session": 125,
+   "label": "125th (2023-2024)",
+   "bills_in_policy_set": 26,
+   "enacted": 7,
+   "core": 13,
+   "core_enacted": 4
+  },
+  {
+   "session": 126,
+   "label": "126th (2025-2026)",
+   "bills_in_policy_set": 23,
+   "enacted": 1,
+   "core": 11,
+   "core_enacted": 1
+  }
+ ],
+ "inventory": {
+  "pass1_total": 5744,
+  "curated_total": 133,
+  "by_relevance": {
+   "context": 27,
+   "core": 54,
+   "adjacent": 52
+  },
+  "policy_set": 106,
+  "core_set": 54,
+  "dispositions_core": {
+   "Did not pass": 46,
+   "Enacted": 8
+  },
+  "dispositions_policy": {
+   "Did not pass": 93,
+   "Enacted": 13
+  },
+  "note": "Keyword-discovered, hand-curated set. Headline numbers use the core set; adjacent bills appear in appendices; context bills are audit-only."
+ },
+ "themes": [
+  {
+   "theme": "Creating a state minimum wage",
+   "bills": 24,
+   "enacted": 0,
+   "bill_keys": [
+    "123:H3114",
+    "123:H3217",
+    "123:H3395",
+    "123:H3467",
+    "123:H4154",
+    "123:S147",
+    "123:S149",
+    "124:H3018",
+    "124:H3184",
+    "124:H3341",
+    "124:H3480",
+    "124:H3675",
+    "124:S159",
+    "124:S343",
+    "124:S633",
+    "124:S634",
+    "125:H3805",
+    "125:H5187",
+    "125:S216",
+    "125:S28",
+    "125:S291",
+    "126:H3226",
+    "126:H3735",
+    "126:H3809"
+   ]
+  },
+  {
+   "theme": "Wage floors for specific groups",
+   "bills": 11,
+   "enacted": 2,
+   "bill_keys": [
+    "123:H3686",
+    "123:H4768",
+    "123:H5061",
+    "124:H3244",
+    "124:H4050",
+    "124:H4154",
+    "124:S533",
+    "125:H3575",
+    "125:S1001",
+    "126:H3559",
+    "126:H5357"
+   ]
+  },
+  {
+   "theme": "Apprenticeships and hiring tax credits",
+   "bills": 7,
+   "enacted": 2,
+   "bill_keys": [
+    "124:H3348",
+    "125:H3605",
+    "125:H4600",
+    "125:S557",
+    "125:S859",
+    "126:H3479",
+    "126:S272"
+   ]
+  },
+  {
+   "theme": "Career training, technical colleges, and workforce programs",
+   "bills": 22,
+   "enacted": 5,
+   "bill_keys": [
+    "123:H3576",
+    "123:H3757",
+    "123:H3759",
+    "123:H4022",
+    "123:H4414",
+    "123:S419",
+    "123:S650",
+    "124:H3144",
+    "124:H3470",
+    "124:H3611",
+    "124:H4766",
+    "125:H3326",
+    "125:H3726",
+    "125:H3783",
+    "125:H4060",
+    "125:S461",
+    "125:S546",
+    "126:H3197",
+    "126:H3225",
+    "126:H3863",
+    "126:H4984",
+    "126:S279"
+   ]
+  },
+  {
+   "theme": "Employer incentives tied to pay",
+   "bills": 11,
+   "enacted": 2,
+   "bill_keys": [
+    "124:H3774",
+    "124:H4252",
+    "124:S398",
+    "124:S489",
+    "124:S901",
+    "125:H4087",
+    "126:H4174",
+    "126:H4245",
+    "126:H4603",
+    "126:H5471",
+    "126:S1118"
+   ]
+  },
+  {
+   "theme": "Equal pay for equal work",
+   "bills": 11,
+   "enacted": 0,
+   "bill_keys": [
+    "123:H3139",
+    "123:H3615",
+    "123:S372",
+    "124:H3183",
+    "124:H3188",
+    "124:H3922",
+    "124:S514",
+    "125:H3148",
+    "125:H3428",
+    "125:H4212",
+    "126:H3512"
+   ]
+  },
+  {
+   "theme": "Take-home pay: overtime rules and taxes",
+   "bills": 6,
+   "enacted": 0,
+   "bill_keys": [
+    "125:H3450",
+    "125:H4811",
+    "126:H3298",
+    "126:H3368",
+    "126:H3793",
+    "126:H4751"
+   ]
+  },
+  {
+   "theme": "Other pay and job-rules bills",
+   "bills": 14,
+   "enacted": 2,
+   "bill_keys": [
+    "123:H3135",
+    "123:H3389",
+    "123:S179",
+    "123:S549",
+    "124:H3045",
+    "124:H3247",
+    "124:H3469",
+    "124:H4140",
+    "124:S217",
+    "124:S986",
+    "125:H3351",
+    "125:S25",
+    "125:S700",
+    "126:H3583"
+   ]
+  },
+  {
+   "theme": "Related context",
+   "bills": 27,
+   "enacted": 4,
+   "bill_keys": [
+    "123:H3105",
+    "123:H3786",
+    "123:H4755",
+    "123:S1271",
+    "123:S228",
+    "124:H3345",
+    "124:H3612",
+    "124:H5158",
+    "124:S1090",
+    "124:S1091",
+    "124:S1247",
+    "124:S16",
+    "124:S347",
+    "124:S421",
+    "124:S922",
+    "125:H3992",
+    "125:H4439",
+    "125:H4702",
+    "125:H5105",
+    "125:S151",
+    "125:S217",
+    "126:H3201",
+    "126:H3734",
+    "126:H4394",
+    "126:H4744",
+    "126:H4745",
+    "126:S770"
+   ]
+  }
+ ],
+ "high_support_non_enactments": [
+  {
+   "bill_key": "123:H3135",
+   "title": "Workforce Enhancement and Military Recognition Act",
+   "plain_topic": "Workforce Enhancement and Military Recognition Act (earlier version): military retirement pay tax exemption.",
+   "stage": "Passed the House; died in Senate Finance Committee",
+   "chamber": "House",
+   "yeas": 106,
+   "nays": 0,
+   "motion": "(Workforce Enhancement and Military Recognition Act) Passage of Bill",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "123:H3576",
+   "title": "SC Workforce Industry Needs Scholarship (SC WINS), established",
+   "plain_topic": "Would have created the SC Workforce Industry Needs Scholarship (SC WINS) for technical college students in high-demand fields.",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "chamber": "House",
+   "yeas": 105,
+   "nays": 0,
+   "motion": "(SC Workforce Industry Needs Scholarship (SC WINS), established) Passage of Bill",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "124:H3244",
+   "title": "Employment First Initiative Act",
+   "plain_topic": "The Employment First Initiative Act (House version); its content ultimately became law through S533.",
+   "stage": "Passed both chambers; died in conference",
+   "chamber": "Senate",
+   "yeas": 44,
+   "nays": 0,
+   "motion": "(Employment First Initiative Act) 2nd Reading",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "124:H3348",
+   "title": "Tax credits",
+   "plain_topic": "Would have created tax credits for employers who hire formerly incarcerated people or veterans into apprenticeship programs.",
+   "stage": "Passed the House; died in Senate Finance Committee",
+   "chamber": "House",
+   "yeas": 106,
+   "nays": 0,
+   "motion": "(Tax credits) Passage of Bill",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "124:S16",
+   "title": "Graduation requirements",
+   "plain_topic": "High school graduation requirements (career-readiness related).",
+   "stage": "Passed both chambers; died in conference",
+   "chamber": "House",
+   "yeas": 109,
+   "nays": 0,
+   "motion": "(Graduation requirements) Passage of Bill",
+   "relevance": "context"
+  },
+  {
+   "bill_key": "125:H5105",
+   "title": "Technical college credits",
+   "plain_topic": "Technical college credit transfer.",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "chamber": "House",
+   "yeas": 105,
+   "nays": 0,
+   "motion": "(Technical college credits) Passage of Bill",
+   "relevance": "context"
+  },
+  {
+   "bill_key": "125:S546",
+   "title": "DEW Restructuring",
+   "plain_topic": "Would have restructured the Department of Employment and Workforce.",
+   "stage": "Passed the Senate; died in House Labor, Commerce and Industry Committee",
+   "chamber": "Senate",
+   "yeas": 42,
+   "nays": 0,
+   "motion": "(DEW Restructuring) 2nd Reading",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "125:S859",
+   "title": "Skills Based Hiring",
+   "plain_topic": "The State Employment Skills-Based Hiring Act: state jobs open to skills and experience, not just degrees.",
+   "stage": "Passed the Senate; died in House Labor, Commerce and Industry Committee",
+   "chamber": "Senate",
+   "yeas": 42,
+   "nays": 0,
+   "motion": "(Skills Based Hiring) 2nd Reading",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "126:H3368",
+   "title": "Income tax on overtime pay",
+   "plain_topic": "Would exempt overtime pay from state income tax; passed the House, then failed on the Senate floor.",
+   "stage": "Passed the House; failed on the Senate floor",
+   "chamber": "House",
+   "yeas": 121,
+   "nays": 0,
+   "motion": "(Income tax on overtime pay) Passage of Bill",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "126:S279",
+   "title": "DEW Restructuring",
+   "plain_topic": "Would restructure the Department of Employment and Workforce.",
+   "stage": "Passed the Senate; died in House Judiciary Committee",
+   "chamber": "Senate",
+   "yeas": 41,
+   "nays": 0,
+   "motion": "(DEW Restructuring) 2nd Reading",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "124:H3612",
+   "title": "SC Computer Science Education Initiative Act",
+   "plain_topic": "Computer science education initiative (career pathways in K-12).",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "chamber": "House",
+   "yeas": 116,
+   "nays": 1,
+   "motion": "(SC Computer Science Education Initiative Act) Passage of Bill",
+   "relevance": "context"
+  },
+  {
+   "bill_key": "125:H4060",
+   "title": "Education and workforce readiness",
+   "plain_topic": "Education and workforce readiness: would have aligned K-12 with workforce preparation.",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "chamber": "House",
+   "yeas": 108,
+   "nays": 2,
+   "motion": "(Education and workforce readiness) Passage of Bill",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "126:H3201",
+   "title": "Computer Science Education Initiative Act",
+   "plain_topic": "Computer science education initiative (career pathways in K-12).",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "chamber": "House",
+   "yeas": 105,
+   "nays": 2,
+   "motion": "(Computer Science Education Initiative Act) Passage of Bill",
+   "relevance": "context"
+  },
+  {
+   "bill_key": "124:H4252",
+   "title": "Redline Enterprise Zone Act",
+   "plain_topic": "The Redline Enterprise Zone Act: targeted hiring and investment incentives for historically redlined areas.",
+   "stage": "Passed the House; died in Senate Finance Committee",
+   "chamber": "House",
+   "yeas": 103,
+   "nays": 2,
+   "motion": "(Redline Enterprise Zone Act) Passage of Bill",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "123:H3759",
+   "title": "SC Career Opportunity and Access for All",
+   "plain_topic": "SC Career Opportunity and Access for All: a statewide plan tying education to career pathways and workforce needs.",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "chamber": "House",
+   "yeas": 100,
+   "nays": 3,
+   "motion": "(SC Career Opportunity and Access for All) Passage of Bill",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "125:H4702",
+   "title": "Computer Science Education Initiative Act",
+   "plain_topic": "Computer science education initiative (career pathways in K-12).",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "chamber": "House",
+   "yeas": 101,
+   "nays": 5,
+   "motion": "(Computer Science Education Initiative Act) Passage of Bill",
+   "relevance": "context"
+  },
+  {
+   "bill_key": "123:H3757",
+   "title": "Workforce and Education Data Oversight Committee",
+   "plain_topic": "Would have created a Workforce and Education Data Oversight Committee to track education-to-job results.",
+   "stage": "Passed the House; died in Senate Labor, Commerce and Industry Committee",
+   "chamber": "House",
+   "yeas": 92,
+   "nays": 8,
+   "motion": "(Workforce and Education Data Oversight Committee) Passage of Bill",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "123:S419",
+   "title": "SC Career Opportunity and Access for All Act",
+   "plain_topic": "SC Career Opportunity and Access for All Act (Senate version): education-to-workforce overhaul with career pathways.",
+   "stage": "Passed the Senate; died in House Education and Public Works Committee",
+   "chamber": "Senate",
+   "yeas": 41,
+   "nays": 4,
+   "motion": "(SC Career Opportunity and Access for All Act) 2nd Reading",
+   "relevance": "core"
+  }
+ ],
+ "people_signals": {
+  "note": "Sponsors parsed from the official sponsor line; the first-listed member is treated as lead. Party labels intentionally absent (no roster join fetched).",
+  "frequent_lead_sponsors": [
+   {
+    "name": "Cobb-Hunter",
+    "bills_led": 6,
+    "bill_keys": [
+     "123:H3114",
+     "123:H3139",
+     "124:H3188",
+     "124:H3341",
+     "125:H3428",
+     "126:H3735"
+    ]
+   },
+   {
+    "name": "G.M. Smith",
+    "bills_led": 6,
+    "bill_keys": [
+     "123:H3135",
+     "124:H3247",
+     "125:H3605",
+     "125:H3726",
+     "125:H4060",
+     "125:H4087"
+    ]
+   },
+   {
+    "name": "Garvin",
+    "bills_led": 5,
+    "bill_keys": [
+     "123:H3217",
+     "124:H3018",
+     "126:H3225",
+     "126:H3226",
+     "126:H3479"
+    ]
+   },
+   {
+    "name": "R. Williams",
+    "bills_led": 5,
+    "bill_keys": [
+     "123:H3686",
+     "123:H5061",
+     "124:H4050",
+     "124:H4140",
+     "124:H4154"
+    ]
+   },
+   {
+    "name": "Scott",
+    "bills_led": 5,
+    "bill_keys": [
+     "123:S147",
+     "123:S149",
+     "124:S159",
+     "124:S634",
+     "125:S291"
+    ]
+   },
+   {
+    "name": "Brawley",
+    "bills_led": 4,
+    "bill_keys": [
+     "123:H3395",
+     "123:H3615",
+     "124:H3183",
+     "124:H3184"
+    ]
+   },
+   {
+    "name": "Hart",
+    "bills_led": 4,
+    "bill_keys": [
+     "123:H4154",
+     "124:H3675",
+     "125:H3805",
+     "126:H3809"
+    ]
+   },
+   {
+    "name": "B. Newton",
+    "bills_led": 4,
+    "bill_keys": [
+     "123:H4414",
+     "124:H3470",
+     "125:H3326",
+     "126:H4174"
+    ]
+   },
+   {
+    "name": "Jackson",
+    "bills_led": 4,
+    "bill_keys": [
+     "123:S549",
+     "124:S633",
+     "125:S25",
+     "125:S28"
+    ]
+   },
+   {
+    "name": "Davis",
+    "bills_led": 4,
+    "bill_keys": [
+     "125:S700",
+     "125:S859",
+     "126:H3863",
+     "126:S272"
+    ]
+   },
+   {
+    "name": "King",
+    "bills_led": 3,
+    "bill_keys": [
+     "123:H3389",
+     "124:H3045",
+     "125:H3351"
+    ]
+   },
+   {
+    "name": "Lucas",
+    "bills_led": 3,
+    "bill_keys": [
+     "123:H3757",
+     "123:H3759",
+     "124:H3611"
+    ]
+   },
+   {
+    "name": "McElveen",
+    "bills_led": 3,
+    "bill_keys": [
+     "123:S179",
+     "124:S217",
+     "124:S986"
+    ]
+   },
+   {
+    "name": "Shealy",
+    "bills_led": 3,
+    "bill_keys": [
+     "123:S372",
+     "124:S514",
+     "124:S533"
+    ]
+   },
+   {
+    "name": "Stavrinakis",
+    "bills_led": 3,
+    "bill_keys": [
+     "124:H3922",
+     "125:H3148",
+     "126:H3512"
+    ]
+   },
+   {
+    "name": "Williams",
+    "bills_led": 3,
+    "bill_keys": [
+     "125:H5187",
+     "126:H3559",
+     "126:H3583"
+    ]
+   }
+  ]
+ },
+ "proposal_crosswalk": [
+  {
+   "matched_bills": [],
+   "near_miss_bills": [
+    "124:S533"
+   ],
+   "coverage": "none",
+   "note": "No bill in the 2019-2026 record proposes a youth wage, training wage, or any age-bracketed minimum wage; the search terms 'youth wage' and 'training wage' return zero hits in all bill text. The nearest action runs the other way: S533 (2022) banned subminimum wages for workers with disabilities.",
+   "proposal_id": "age-bracketed-minimum-wage",
+   "proposal_title": "Age-bracketed minimum wage with a separate youth wage"
+  },
+  {
+   "matched_bills": [
+    "123:H3576",
+    "124:H3144",
+    "123:H3759",
+    "123:S419",
+    "125:H3726",
+    "125:H3605",
+    "125:S557",
+    "124:H4766",
+    "123:H4022",
+    "123:S650",
+    "123:H3757",
+    "124:H3611",
+    "125:H4060",
+    "125:S461",
+    "126:H3197",
+    "126:H3863",
+    "126:H4984",
+    "126:H3225",
+    "125:S859",
+    "126:H3479",
+    "126:S272",
+    "124:H3348",
+    "125:H4600"
+   ],
+   "near_miss_bills": [
+    "123:H4414",
+    "124:H3470",
+    "125:H3326"
+   ],
+   "coverage": "substantial",
+   "note": "The most active and most successful lane in this record: SC WINS scholarships, the Earn and Learn Act, a bigger apprenticeship tax credit, and the Statewide Education and Workforce Development Act all became law between 2021 and 2025.",
+   "proposal_id": "workforce-development",
+   "proposal_title": "Apprenticeships, career pathways, and technical training"
+  },
+  {
+   "matched_bills": [
+    "123:H3114",
+    "123:H3217",
+    "123:H3395",
+    "123:H3467",
+    "123:H4154",
+    "123:S147",
+    "123:S149",
+    "124:H3018",
+    "124:H3184",
+    "124:H3341",
+    "124:H3480",
+    "124:H3675",
+    "124:S159",
+    "124:S343",
+    "124:S633",
+    "124:S634",
+    "125:H3805",
+    "125:H5187",
+    "125:S216",
+    "125:S28",
+    "125:S291",
+    "126:H3226",
+    "126:H3735",
+    "126:H3809"
+   ],
+   "near_miss_bills": [
+    "124:S533",
+    "125:S1001"
+   ],
+   "coverage": "substantial_attempts_zero_movement",
+   "note": "Filed every session (24 bills, $10-$17 an hour, plus two advisory-referendum resolutions and a constitutional amendment) and never received a recorded vote at any stage; every one died in its first committee. The only wage floors that became law were for specific groups (disability subminimum ban 2022; inmate private-industry floor 2024).",
+   "proposal_id": "raise-minimum-wage",
+   "proposal_title": "Raise the minimum wage / livable wage"
+  },
+  {
+   "matched_bills": [
+    "126:H4603",
+    "124:S398",
+    "126:H4245"
+   ],
+   "near_miss_bills": [
+    "125:S557",
+    "125:H4087",
+    "124:S901",
+    "126:H4174",
+    "126:H5471",
+    "126:S1118",
+    "124:H4252"
+   ],
+   "coverage": "thin",
+   "note": "A direct precedent exists: H4603 (2026), the Small Business Livable Wage Tax Credit Act, sits in House Ways and Means without a vote. The adjacent machinery is well established: the state already runs wage-linked employer incentives (job development credits, apprenticeship credit), and those pass routinely inside larger tax bills.",
+   "proposal_id": "employer-living-wage-incentives",
+   "proposal_title": "Government incentives/bonuses for employers paying a living wage"
+  }
+ ],
+ "proviso_crosswalk": {
+  "note": "Hand-curated wage/workforce provisos from Part IB of each enacted appropriations act (term-matched candidate sets in provisos/{year}/). Budget provisos are one-year rules enacted inside the annual budget bill; votes attach to the whole appropriations bill (or a named amendment), never to one proviso. FY 2020-21 had no enacted Part IB (COVID continuing resolution) \u2014 stated explicitly per the workflow's none-found rule.",
+  "cycles": [
+   {
+    "fiscal_year": "2020-2021",
+    "bill_no": "H5201",
+    "enacted": false,
+    "picked": [],
+    "gap_note": "No enacted Part IB this cycle: H5201 died in committee during COVID; the state ran on continuing resolution H3411 plus CARES acts."
+   },
+   {
+    "fiscal_year": "2021-2022",
+    "bill_no": "H4100",
+    "enacted": true,
+    "picked": [
+     "TEC: Critical Statewide Workforce Needs",
+     "SDE-EIA: Career Cluster Industry Partnerships",
+     "SDE-EIA: Career and Technology Education",
+     "LEA lottery funding (SC WINS line)",
+     "GP: Employee Compensation"
+    ]
+   },
+   {
+    "fiscal_year": "2022-2023",
+    "bill_no": "H5150",
+    "enacted": true,
+    "picked": [
+     "TEC: Critical Statewide Workforce Needs",
+     "SDE-EIA: Career Cluster Industry Partnerships",
+     "SDE-EIA: Career and Technology Education",
+     "LEA lottery funding (SC WINS line)",
+     "GP: Employee Compensation"
+    ]
+   },
+   {
+    "fiscal_year": "2023-2024",
+    "bill_no": "H4300",
+    "enacted": true,
+    "picked": [
+     "GP: Lead Apprenticeship Agency",
+     "TEC: Critical Statewide Workforce Needs",
+     "SDE-EIA: Career Cluster Industry Partnerships",
+     "SDE-EIA: Career and Technology Education",
+     "LEA lottery funding (SC WINS line)",
+     "GP: Employee Compensation"
+    ]
+   },
+   {
+    "fiscal_year": "2024-2025",
+    "bill_no": "H5100",
+    "enacted": true,
+    "picked": [
+     "GP: Lead Apprenticeship Agency",
+     "TEC: Critical Statewide Workforce Needs",
+     "TEC: IDD Workforce Pilot",
+     "SDE: SC Future Makers and Tallo",
+     "SDE-EIA: Career Cluster Industry Partnerships",
+     "SDE-EIA: Career and Technology Education",
+     "LEA lottery funding (SC WINS line)",
+     "GP: Employee Compensation"
+    ]
+   },
+   {
+    "fiscal_year": "2025-2026",
+    "bill_no": "H4025",
+    "enacted": true,
+    "picked": [
+     "GP: Lead Apprenticeship Agency",
+     "TEC: Critical Statewide Workforce Needs",
+     "TEC: SC Workforce Competitiveness Initiative",
+     "TEC: IDD Workforce Pilot",
+     "TEC: Denmark Technical College",
+     "TEC: Dual Enrollment Courses",
+     "SDE: SC Future Makers and Tallo",
+     "SDE-EIA: Career Cluster Industry Partnerships",
+     "SDE-EIA: Career and Technology Education",
+     "LEA lottery funding (SC WINS line)",
+     "GP: Employee Compensation"
+    ]
+   },
+   {
+    "fiscal_year": "2026-2027",
+    "bill_no": "H5126",
+    "enacted": true,
+    "picked": [
+     "GP: Lead Apprenticeship Agency",
+     "TEC: Critical Statewide Workforce Needs",
+     "TEC: SC Workforce Competitiveness Initiative",
+     "TEC: IDD Workforce Pilot",
+     "TEC: Denmark Technical College",
+     "TEC: Dual Enrollment Courses",
+     "SDE: SC Future Makers and Tallo",
+     "SDE-EIA: Career Cluster Industry Partnerships",
+     "SDE-EIA: Career and Technology Education",
+     "LEA lottery funding (SC WINS line)",
+     "GP: Employee Compensation"
+    ]
+   }
+  ]
+ },
+ "data_limits": [
+  "The set is keyword-discovered from official full-text search plus a title/summary scan of the certified universe; it is a curated selection, not a proven-complete universe of wage-related bills.",
+  "South Carolina publishes committee outcomes in bill histories but never committee vote tallies; no committee vote counts exist anywhere in this record and none may be implied.",
+  "Party labels are not attached to sponsors or floor votes in this pack: the roster/ballot join was not fetched for this brief, so the brief makes no party claims.",
+  "Floor roll-call counts are verbatim from the chamber vote-history tables; motions labeled 'to lay on the table' or 'to adopt amendment' are procedural, and only passage/reading votes are used as support signals.",
+  "For non-enacted 126th-session (2025-2026) bills, disposition is 'did not pass' as of the collection date (2026-08-26), after the regular session's final regular calendar.",
+  "FY 2020-21 has no enacted Part IB proviso set (COVID continuing resolution), so budget-proviso coverage runs FY 2021-22 through FY 2026-27.",
+  "The four Phase 2 constituent proposals are Forum process input from Community Conversations (labels [P-...]), not verified facts."
+ ],
+ "bills": [
+  {
+   "bill_key": "123:H3105",
+   "session": 123,
+   "bill_no": "H3105",
+   "title": "Technical College Enterprise Campus Authorities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Technical college enterprise campus authorities (governance).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3105.htm",
+   "sponsors": [
+    "West",
+    "Thayer"
+   ],
+   "sponsors_raw": "Reps. West and Thayer",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Education and Public Works)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H3114",
+   "session": 123,
+   "bill_no": "H3114",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $10.10 an hour (or the federal rate if higher) and let local governments go higher.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3114.htm",
+   "sponsors": [
+    "Cobb-Hunter",
+    "Clyburn",
+    "S. Williams",
+    "Thigpen",
+    "Matthews",
+    "Henderson-Myers"
+   ],
+   "sponsors_raw": "Reps. Cobb-Hunter, Clyburn, S. Williams, Thigpen, Matthews and Henderson-Myers",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H3135",
+   "session": 123,
+   "bill_no": "H3135",
+   "title": "Workforce Enhancement and Military Recognition Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Workforce Enhancement and Military Recognition Act (earlier version): military retirement pay tax exemption.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "workforce",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3135.htm",
+   "sponsors": [
+    "G.M. Smith",
+    "Erickson",
+    "Yow",
+    "Funderburk",
+    "Huggins",
+    "Wheeler",
+    "Clemmons",
+    "Anderson",
+    "Henderson-Myers"
+   ],
+   "sponsors_raw": "Reps. G.M. Smith, Erickson, Yow, Funderburk, Huggins, Wheeler, Clemmons, Anderson and Henderson-Myers",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed the House; died in Senate Finance Committee",
+   "roll_call_count": 1,
+   "passage_votes": [
+    {
+     "chamber": "House",
+     "motion": "(Workforce Enhancement and Military Recognition Act) Passage of Bill",
+     "yeas": 106,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "01/31/2019 11:08 am",
+     "ballot_pdf_key": 15566
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 106,
+    "nays": 0,
+    "motion": "(Workforce Enhancement and Military Recognition Act) Passage of Bill",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "123:H3139",
+   "session": 123,
+   "bill_no": "H3139",
+   "title": "SC Equal Pay for Equal Work Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Equal Pay for Equal Work Act: equal pay regardless of sex or race, with enforcement.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "worker",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3139.htm",
+   "sponsors": [
+    "Cobb-Hunter",
+    "Brawley",
+    "Clyburn",
+    "S. Williams",
+    "Henegan",
+    "Moore"
+   ],
+   "sponsors_raw": "Reps. Cobb-Hunter, Brawley, Clyburn, S. Williams, Henegan and Moore",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H3217",
+   "session": 123,
+   "bill_no": "H3217",
+   "title": "Minimum wage schedule",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have phased in a state minimum wage of $10.10 an hour over three years, with automatic yearly adjustments.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3217.htm",
+   "sponsors": [
+    "Garvin"
+   ],
+   "sponsors_raw": "Rep. Garvin",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H3389",
+   "session": 123,
+   "bill_no": "H3389",
+   "title": "Felons reentering workforce, Study Committee created",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have created a study committee on people with felony records reentering the workforce.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "workforce"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3389.htm",
+   "sponsors": [
+    "King",
+    "S. Williams",
+    "Brawley",
+    "Henegan"
+   ],
+   "sponsors_raw": "Reps. King, S. Williams, Brawley and Henegan",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H3395",
+   "session": 123,
+   "bill_no": "H3395",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have phased in a state minimum wage of $12 an hour over three years, with automatic yearly adjustments.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3395.htm",
+   "sponsors": [
+    "Brawley",
+    "Thigpen",
+    "Cobb-Hunter",
+    "Henegan",
+    "Loftis",
+    "Clemmons",
+    "Henderson-Myers",
+    "Dillard",
+    "Rose",
+    "Rivers"
+   ],
+   "sponsors_raw": "Reps. Brawley, Thigpen, Cobb-Hunter, Henegan, Loftis, Clemmons, Henderson-Myers, Dillard, Rose and Rivers",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H3467",
+   "session": 123,
+   "bill_no": "H3467",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $13 an hour (or the federal rate if higher) and let local governments go higher.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3467.htm",
+   "sponsors": [
+    "Robinson"
+   ],
+   "sponsors_raw": "Rep. Robinson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H3576",
+   "session": 123,
+   "bill_no": "H3576",
+   "title": "SC Workforce Industry Needs Scholarship (SC WINS), established",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created the SC Workforce Industry Needs Scholarship (SC WINS) for technical college students in high-demand fields.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "income",
+    "workforce",
+    "technical college",
+    "workforce development"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3576.htm",
+   "sponsors": [
+    "White",
+    "Cobb-Hunter",
+    "Garvin",
+    "Rose",
+    "Loftis",
+    "Gilliard",
+    "Moore",
+    "Clemmons",
+    "Jefferson"
+   ],
+   "sponsors_raw": "Reps. White, Cobb-Hunter, Garvin, Rose, Loftis, Gilliard, Moore, Clemmons and Jefferson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "roll_call_count": 1,
+   "passage_votes": [
+    {
+     "chamber": "House",
+     "motion": "(SC Workforce Industry Needs Scholarship (SC WINS), established) Passage of Bill",
+     "yeas": 105,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "01/31/2019 11:38 am",
+     "ballot_pdf_key": 15570
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 105,
+    "nays": 0,
+    "motion": "(SC Workforce Industry Needs Scholarship (SC WINS), established) Passage of Bill",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "123:H3615",
+   "session": 123,
+   "bill_no": "H3615",
+   "title": "Act to Establish Pay Equity",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Act to Establish Pay Equity: equal pay rules and pay-history protections.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3615.htm",
+   "sponsors": [
+    "Brawley",
+    "Rose",
+    "Henderson-Myers",
+    "Garvin",
+    "King",
+    "McDaniel",
+    "Henegan",
+    "Clary",
+    "Rivers",
+    "Gilliard",
+    "Jefferson",
+    "Norrell",
+    "Rutherford",
+    "Pendarvis",
+    "Cogswell",
+    "Bernstein",
+    "Howard",
+    "Matthews",
+    "Cobb-Hunter",
+    "Wheeler",
+    "Parks",
+    "Thigpen",
+    "Dillard",
+    "Bales",
+    "Govan",
+    "Hyde",
+    "Robinson"
+   ],
+   "sponsors_raw": "Reps. Brawley, Rose, Henderson-Myers, Garvin, King, McDaniel, Henegan, Clary, Rivers, Gilliard, Jefferson, Norrell, Rutherford, Pendarvis, Cogswell, Bernstein, Howard, Matthews, Cobb-Hunter, Wheeler, Parks, Thigpen, Dillard, Bales, Govan, Hyde and Robinson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H3686",
+   "session": 123,
+   "bill_no": "H3686",
+   "title": "Inmate employment in prison industry programs",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have changed inmate employment rules in prison industry programs.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3686.htm",
+   "sponsors": [
+    "R. Williams"
+   ],
+   "sponsors_raw": "Rep. R. Williams",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H3757",
+   "session": 123,
+   "bill_no": "H3757",
+   "title": "Workforce and Education Data Oversight Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a Workforce and Education Data Oversight Committee to track education-to-job results.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "technical college",
+    "workforce development",
+    "unemployment",
+    "worker",
+    "employer",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3757.htm",
+   "sponsors": [
+    "Lucas",
+    "Collins",
+    "Calhoon"
+   ],
+   "sponsors_raw": "Reps. Lucas, Collins and Calhoon",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed the House; died in Senate Labor, Commerce and Industry Committee",
+   "roll_call_count": 1,
+   "passage_votes": [
+    {
+     "chamber": "House",
+     "motion": "(Workforce and Education Data Oversight Committee) Passage of Bill",
+     "yeas": 92,
+     "nays": 8,
+     "result": "Passed",
+     "datetime": "05/02/2019 11:53 am",
+     "ballot_pdf_key": 16622
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 92,
+    "nays": 8,
+    "motion": "(Workforce and Education Data Oversight Committee) Passage of Bill",
+    "yes_pct": 0.92
+   }
+  },
+  {
+   "bill_key": "123:H3759",
+   "session": 123,
+   "bill_no": "H3759",
+   "title": "SC Career Opportunity and Access for All",
+   "instrument_type": "General Bill",
+   "plain_topic": "SC Career Opportunity and Access for All: a statewide plan tying education to career pathways and workforce needs.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "salary",
+    "pay",
+    "income",
+    "labor",
+    "workforce",
+    "career pathway",
+    "technical college",
+    "workforce development",
+    "tax credit",
+    "incentive",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3759.htm",
+   "sponsors": [
+    "Lucas",
+    "Allison",
+    "Felder",
+    "Pope",
+    "Simrill",
+    "Rutherford",
+    "Whitmire",
+    "G.M. Smith",
+    "McCoy",
+    "Hiott",
+    "Sandifer",
+    "Clary",
+    "G.R. Smith",
+    "Murphy",
+    "Taylor",
+    "Govan",
+    "W. Newton",
+    "Funderburk",
+    "Elliott",
+    "B. Newton",
+    "Weeks",
+    "Hewitt",
+    "Bailey",
+    "Hixon",
+    "Calhoon",
+    "Bennett",
+    "Young",
+    "Norrell",
+    "Hyde",
+    "Jordan",
+    "Bamberg",
+    "Ligon",
+    "Sottile",
+    "Cogswell",
+    "Daning",
+    "Loftis",
+    "Burns",
+    "Wheeler",
+    "Kirby",
+    "Tallon",
+    "Caskey",
+    "West",
+    "Collins",
+    "Forrester",
+    "Spires",
+    "Thayer",
+    "Wooten",
+    "Huggins",
+    "Willis",
+    "Herbkersman",
+    "Stringer",
+    "Erickson",
+    "Bradley",
+    "McCravy",
+    "Lowe",
+    "Clemmons",
+    "Davis",
+    "Bannister",
+    "Ridgeway",
+    "Atkinson",
+    "Bryant",
+    "Bales",
+    "Alexander",
+    "R. Williams",
+    "B. Cox",
+    "Martin",
+    "Jefferson",
+    "Fry",
+    "H"
+   ],
+   "sponsors_raw": "Reps. Lucas, Allison, Felder, Pope, Simrill, Rutherford, Whitmire, G.M. Smith, McCoy, Hiott, Sandifer, Clary, G.R. Smith, Murphy, Taylor, Govan, W. Newton, Funderburk, Elliott, B. Newton, Weeks, Hewitt, Bailey, Hixon, Calhoon, Bennett, Young, Norrell, Hyde, Jordan, Bamberg, Ligon, Sottile, Cogswell, Daning, Loftis, Burns, Wheeler, Kirby, Tallon, Caskey, West, Collins, Forrester, Spires, Thayer, Wooten, Huggins, Willis, Herbkersman, Stringer, Erickson, Bradley, McCravy, Lowe, Clemmons, Davis, Bannister, Ridgeway, Atkinson, Bryant, Bales, Alexander, R. Williams, B. Cox, Martin, Jefferson, Fry, H",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "roll_call_count": 18,
+   "passage_votes": [
+    {
+     "chamber": "House",
+     "motion": "(SC Career Opportunity and Access for All) Passage of Bill",
+     "yeas": 100,
+     "nays": 3,
+     "result": "Passed",
+     "datetime": "03/07/2019 11:44 am",
+     "ballot_pdf_key": 15845
+    },
+    {
+     "chamber": "House",
+     "motion": "(SC Career Opportunity and Access for All) Passage of Bill",
+     "yeas": 113,
+     "nays": 4,
+     "result": "Passed",
+     "datetime": "03/06/2019 08:12 pm",
+     "ballot_pdf_key": 15837
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 100,
+    "nays": 3,
+    "motion": "(SC Career Opportunity and Access for All) Passage of Bill",
+    "yes_pct": 0.970873786407767
+   }
+  },
+  {
+   "bill_key": "123:H3786",
+   "session": 123,
+   "bill_no": "H3786",
+   "title": "Workplace Freedom Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Workplace Freedom Act (right-to-work provisions).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "labor",
+    "apprenticeship",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3786.htm",
+   "sponsors": [
+    "Norrell",
+    "Rose"
+   ],
+   "sponsors_raw": "Reps. Norrell and Rose",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H4022",
+   "session": 123,
+   "bill_no": "H4022",
+   "title": "Workforce Education Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Workforce Education Act: a five-year workforce-education school pilot run by the technical college board.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "workforce",
+    "technical college",
+    "workforce development"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4022.htm",
+   "sponsors": [
+    "Mace"
+   ],
+   "sponsors_raw": "Rep. Mace",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H4154",
+   "session": 123,
+   "bill_no": "H4154",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $17 an hour starting January 2020.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4154.htm",
+   "sponsors": [
+    "Hart"
+   ],
+   "sponsors_raw": "Rep. Hart",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H4414",
+   "session": 123,
+   "bill_no": "H4414",
+   "title": "Dual enrollment",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have expanded dual enrollment in high school.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4414.htm",
+   "sponsors": [
+    "B. Newton",
+    "Yow"
+   ],
+   "sponsors_raw": "Reps. B. Newton and Yow",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Education and Public Works)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H4755",
+   "session": 123,
+   "bill_no": "H4755",
+   "title": "Technical Colleges",
+   "instrument_type": "General Bill",
+   "plain_topic": "Technical college admissions standards.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "income",
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4755.htm",
+   "sponsors": [
+    "Lucas",
+    "Allison",
+    "Trantham",
+    "Felder"
+   ],
+   "sponsors_raw": "Reps. Lucas, Allison, Trantham and Felder",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Education and Public Works)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H4768",
+   "session": 123,
+   "bill_no": "H4768",
+   "title": "Employment First Initiative Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Employment First Initiative Act: state policy supporting competitive, integrated employment for people with disabilities.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4768.htm",
+   "sponsors": [
+    "Collins",
+    "Norrell",
+    "Robinson",
+    "Cobb-Hunter",
+    "Clyburn",
+    "Clary"
+   ],
+   "sponsors_raw": "Reps. Collins, Norrell, Robinson, Cobb-Hunter, Clyburn and Clary",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:H5061",
+   "session": 123,
+   "bill_no": "H5061",
+   "title": "Inmate wages",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set pay rules for inmate labor.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/5061.htm",
+   "sponsors": [
+    "R. Williams"
+   ],
+   "sponsors_raw": "Rep. R. Williams",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:S1271",
+   "session": 123,
+   "bill_no": "S1271",
+   "title": "Unemployment benefits; modify weekly benefit amount",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment benefits: weekly benefit amount.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "worker",
+    "labor",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/1271.htm",
+   "sponsors": [
+    "McLeod"
+   ],
+   "sponsors_raw": "Senator McLeod",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:S147",
+   "session": 123,
+   "bill_no": "S147",
+   "title": "Minimum wage",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a state constitutional amendment creating a mandatory minimum wage, enforceable in court.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/147.htm",
+   "sponsors": [
+    "Scott"
+   ],
+   "sponsors_raw": "Senator Scott",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:S149",
+   "session": 123,
+   "bill_no": "S149",
+   "title": "SC Minimum Wage Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Minimum Wage Act: a state minimum wage adjusted for inflation each year by the state workforce agency.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/149.htm",
+   "sponsors": [
+    "Scott"
+   ],
+   "sponsors_raw": "Senator Scott",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:S179",
+   "session": 123,
+   "bill_no": "S179",
+   "title": "Workforce Enhancement and Military Recognition Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Workforce Enhancement and Military Recognition Act (earlier version): military retirement pay tax exemption.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "workforce",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/179.htm",
+   "sponsors": [
+    "McElveen",
+    "Campbell",
+    "Johnson",
+    "McLeod",
+    "Climer",
+    "Shealy",
+    "Young",
+    "Davis",
+    "Turner",
+    "Grooms"
+   ],
+   "sponsors_raw": "Senators McElveen, Campbell, Johnson, McLeod, Climer, Shealy, Young, Davis, Turner and Grooms",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Finance)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:S228",
+   "session": 123,
+   "bill_no": "S228",
+   "title": "Technical College Enterprise Campus Authorities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Technical college enterprise campus authorities (became law; governance).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/228.htm",
+   "sponsors": [
+    "Gambrell"
+   ],
+   "sponsors_raw": "Senator Gambrell",
+   "act_no": "A2",
+   "ratification_no": "R3",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 2)",
+   "roll_call_count": 2,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Technical College Enterprise Campus Authorities) 2nd Reading",
+     "yeas": 40,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "01/29/2019 04:30 pm",
+     "ballot_pdf_key": 15548
+    },
+    {
+     "chamber": "House",
+     "motion": "(Technical College Enterprise Campus Authorities) Passage of Bill",
+     "yeas": 100,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "02/07/2019 11:05 am",
+     "ballot_pdf_key": 15625
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 40,
+    "nays": 0,
+    "motion": "(Technical College Enterprise Campus Authorities) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "123:S372",
+   "session": 123,
+   "bill_no": "S372",
+   "title": "Act to Establish Pay Equity",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Act to Establish Pay Equity: equal pay rules and pay-history protections.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/372.htm",
+   "sponsors": [
+    "Shealy",
+    "McLeod",
+    "Talley"
+   ],
+   "sponsors_raw": "Senators Shealy, McLeod and Talley",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:S419",
+   "session": 123,
+   "bill_no": "S419",
+   "title": "SC Career Opportunity and Access for All Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "SC Career Opportunity and Access for All Act (Senate version): education-to-workforce overhaul with career pathways.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "salary",
+    "pay",
+    "income",
+    "workforce",
+    "apprenticeship",
+    "technical college",
+    "workforce development",
+    "tax credit",
+    "labor",
+    "career pathway",
+    "employer",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/419.htm",
+   "sponsors": [
+    "Hembree",
+    "Malloy",
+    "Turner",
+    "Setzler",
+    "Sheheen",
+    "Alexander"
+   ],
+   "sponsors_raw": "Senators Hembree, Malloy, Turner, Setzler, Sheheen and Alexander",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed the Senate; died in House Education and Public Works Committee",
+   "roll_call_count": 37,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(SC Career Opportunity and Access for All Act) 3rd Reading",
+     "yeas": 40,
+     "nays": 4,
+     "result": "Passed",
+     "datetime": "03/05/2020 12:16 pm",
+     "ballot_pdf_key": 17371
+    },
+    {
+     "chamber": "Senate",
+     "motion": "(SC Career Opportunity and Access for All Act) 2nd Reading",
+     "yeas": 41,
+     "nays": 4,
+     "result": "Passed",
+     "datetime": "03/04/2020 03:17 pm",
+     "ballot_pdf_key": 17334
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 41,
+    "nays": 4,
+    "motion": "(SC Career Opportunity and Access for All Act) 2nd Reading",
+    "yes_pct": 0.9111111111111111
+   }
+  },
+  {
+   "bill_key": "123:S549",
+   "session": 123,
+   "bill_no": "S549",
+   "title": "Workforce Opportunity Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Workforce Opportunity Act: 'ban the box' \u2014 the state could not ask about criminal history until later in hiring.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/549.htm",
+   "sponsors": [
+    "Jackson"
+   ],
+   "sponsors_raw": "Senator Jackson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:S650",
+   "session": 123,
+   "bill_no": "S650",
+   "title": "Technical and Comprehensive Education",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a workforce diploma program for adults to finish high school with job-ready skills.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "workforce",
+    "employer",
+    "career pathway"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/650.htm",
+   "sponsors": [
+    "Turner",
+    "Grooms",
+    "Shealy",
+    "Talley"
+   ],
+   "sponsors_raw": "Senators Turner, Grooms, Shealy and Talley",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Education)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3018",
+   "session": 124,
+   "bill_no": "H3018",
+   "title": "Minimum wage schedule",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have phased in a state minimum wage of $10.10 an hour over three years, with automatic yearly adjustments.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3018.htm",
+   "sponsors": [
+    "Garvin",
+    "Robinson",
+    "Cobb-Hunter"
+   ],
+   "sponsors_raw": "Reps. Garvin, Robinson and Cobb-Hunter",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3045",
+   "session": 124,
+   "bill_no": "H3045",
+   "title": "Felons reentering workforce, Study Committee created",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have created a study committee on people with felony records reentering the workforce.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "workforce"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3045.htm",
+   "sponsors": [
+    "King",
+    "Robinson",
+    "Cobb-Hunter",
+    "Henegan",
+    "J.L. Johnson",
+    "Henderson-Myers"
+   ],
+   "sponsors_raw": "Reps. King, Robinson, Cobb-Hunter, Henegan, J.L. Johnson and Henderson-Myers",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3144",
+   "session": 124,
+   "bill_no": "H3144",
+   "title": "SC Workforce Industry Needs Scholarship (SC WINS)",
+   "instrument_type": "General Bill",
+   "plain_topic": "Created the SC Workforce Industry Needs Scholarship (SC WINS) in statute for technical college students in high-demand fields.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "workforce",
+    "technical college",
+    "unemployment",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3144.htm",
+   "sponsors": [
+    "White",
+    "Robinson",
+    "Thigpen",
+    "V.S. Moss",
+    "Dillard",
+    "Weeks",
+    "Wheeler",
+    "Fry",
+    "B. Newton",
+    "Forrest",
+    "Rivers",
+    "S. Williams"
+   ],
+   "sponsors_raw": "Reps. White, Robinson, Thigpen, V.S. Moss, Dillard, Weeks, Wheeler, Fry, B. Newton, Forrest, Rivers and S. Williams",
+   "act_no": "A204",
+   "ratification_no": "R234",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 204)",
+   "roll_call_count": 3,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(SC Workforce Industry Needs Scholarship (SC WINS)) 2nd Reading",
+     "yeas": 40,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "05/03/2022 03:07 pm",
+     "ballot_pdf_key": 21132
+    },
+    {
+     "chamber": "House",
+     "motion": "(SC Workforce Industry Needs Scholarship (SC WINS)) Passage of Bill",
+     "yeas": 105,
+     "nays": 1,
+     "result": "Passed",
+     "datetime": "04/06/2021 04:03 pm",
+     "ballot_pdf_key": 19074
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 40,
+    "nays": 0,
+    "motion": "(SC Workforce Industry Needs Scholarship (SC WINS)) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "124:H3183",
+   "session": 124,
+   "bill_no": "H3183",
+   "title": "Act to Establish Pay Equity",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Act to Establish Pay Equity: equal pay rules and pay-history protections.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3183.htm",
+   "sponsors": [
+    "Brawley",
+    "Robinson",
+    "Thigpen",
+    "Cobb-Hunter",
+    "Hyde",
+    "K.O. Johnson",
+    "King",
+    "Tedder",
+    "McDaniel",
+    "Govan",
+    "Cogswell",
+    "J. Moore",
+    "Pendarvis",
+    "S. Williams",
+    "Rose",
+    "Hosey",
+    "Clyburn",
+    "R. Williams",
+    "Parks",
+    "Garvin",
+    "Howard",
+    "Gilliard",
+    "Murray",
+    "Wetmore",
+    "J.L. Johnson",
+    "Henderson-Myers"
+   ],
+   "sponsors_raw": "Reps. Brawley, Robinson, Thigpen, Cobb-Hunter, Hyde, K.O. Johnson, King, Tedder, McDaniel, Govan, Cogswell, J. Moore, Pendarvis, S. Williams, Rose, Hosey, Clyburn, R. Williams, Parks, Garvin, Howard, Gilliard, Murray, Wetmore, J.L. Johnson and Henderson-Myers",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3184",
+   "session": 124,
+   "bill_no": "H3184",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have phased in a state minimum wage of $15 an hour over three years, with automatic yearly adjustments.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3184.htm",
+   "sponsors": [
+    "Brawley",
+    "Robinson",
+    "Thigpen",
+    "Cobb-Hunter",
+    "K.O. Johnson",
+    "King"
+   ],
+   "sponsors_raw": "Reps. Brawley, Robinson, Thigpen, Cobb-Hunter, K.O. Johnson and King",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3188",
+   "session": 124,
+   "bill_no": "H3188",
+   "title": "SC Equal Pay for Equal Work Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Equal Pay for Equal Work Act: equal pay regardless of sex or race, with enforcement.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "worker",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3188.htm",
+   "sponsors": [
+    "Cobb-Hunter",
+    "Robinson",
+    "Thigpen",
+    "Brawley",
+    "J.L. Johnson"
+   ],
+   "sponsors_raw": "Reps. Cobb-Hunter, Robinson, Thigpen, Brawley and J.L. Johnson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3244",
+   "session": 124,
+   "bill_no": "H3244",
+   "title": "Employment First Initiative Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Employment First Initiative Act (House version); its content ultimately became law through S533.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3244.htm",
+   "sponsors": [
+    "Collins",
+    "Cobb-Hunter",
+    "Huggins",
+    "Thayer",
+    "Anderson",
+    "Caskey",
+    "Govan",
+    "S. Williams"
+   ],
+   "sponsors_raw": "Reps. Collins, Cobb-Hunter, Huggins, Thayer, Anderson, Caskey, Govan and S. Williams",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed both chambers; died in conference",
+   "roll_call_count": 3,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Employment First Initiative Act) 2nd Reading",
+     "yeas": 44,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "05/06/2021 11:13 am",
+     "ballot_pdf_key": 19557
+    },
+    {
+     "chamber": "House",
+     "motion": "(Employment First Initiative Act) Passage of Bill",
+     "yeas": 106,
+     "nays": 9,
+     "result": "Passed",
+     "datetime": "03/02/2021 12:45 pm",
+     "ballot_pdf_key": 18491
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 44,
+    "nays": 0,
+    "motion": "(Employment First Initiative Act) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "124:H3247",
+   "session": 124,
+   "bill_no": "H3247",
+   "title": "Workforce Enhancement and Military Recognition Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Workforce Enhancement and Military Recognition Act: exempted all military retirement pay from state income tax to draw retirees into the workforce.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "workforce",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3247.htm",
+   "sponsors": [
+    "G.M. Smith",
+    "B. Cox",
+    "V.S. Moss",
+    "Yow",
+    "Huggins",
+    "Erickson",
+    "Bradley",
+    "Allison",
+    "Felder",
+    "B. Newton",
+    "W. Newton",
+    "Herbkersman",
+    "Ballentine",
+    "Davis",
+    "Weeks",
+    "McGarry",
+    "White",
+    "W. Cox",
+    "R. Williams",
+    "Blackwell",
+    "Crawford",
+    "Fry",
+    "Hixon"
+   ],
+   "sponsors_raw": "Reps. G.M. Smith, B. Cox, V.S. Moss, Yow, Huggins, Erickson, Bradley, Allison, Felder, B. Newton, W. Newton, Herbkersman, Ballentine, Davis, Weeks, McGarry, White, W. Cox, R. Williams, Blackwell, Crawford, Fry and Hixon",
+   "act_no": "A156",
+   "ratification_no": "R198",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 156)",
+   "roll_call_count": 2,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Workforce Enhancement and Military Recognition Act) 3rd Reading",
+     "yeas": 43,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "05/11/2022 10:31 am",
+     "ballot_pdf_key": 21287
+    },
+    {
+     "chamber": "House",
+     "motion": "(Workforce Enhancement and Military Recognition Act) Passage of Bill",
+     "yeas": 107,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "02/16/2022 12:09 pm",
+     "ballot_pdf_key": 20139
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 43,
+    "nays": 0,
+    "motion": "(Workforce Enhancement and Military Recognition Act) 3rd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "124:H3341",
+   "session": 124,
+   "bill_no": "H3341",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $15 an hour (or the federal rate if higher) and let local governments go higher.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3341.htm",
+   "sponsors": [
+    "Cobb-Hunter",
+    "Robinson"
+   ],
+   "sponsors_raw": "Reps. Cobb-Hunter and Robinson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3345",
+   "session": 124,
+   "bill_no": "H3345",
+   "title": "Unemployment",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Unemployment insurance changes.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "income",
+    "unemployment",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3345.htm",
+   "sponsors": [
+    "W. Cox",
+    "White",
+    "Burns",
+    "Chumley",
+    "McCravy",
+    "Fry",
+    "Long",
+    "Pope"
+   ],
+   "sponsors_raw": "Reps. W. Cox, White, Burns, Chumley, McCravy, Fry, Long and Pope",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3348",
+   "session": 124,
+   "bill_no": "H3348",
+   "title": "Tax credits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created tax credits for employers who hire formerly incarcerated people or veterans into apprenticeship programs.",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "income",
+    "labor",
+    "apprenticeship",
+    "technical college",
+    "employer",
+    "tax credit",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3348.htm",
+   "sponsors": [
+    "Daning",
+    "Robinson",
+    "Pope",
+    "J.L. Johnson",
+    "Jefferson",
+    "M.M. Smith",
+    "Dillard",
+    "Hill",
+    "Erickson",
+    "Bradley",
+    "R. Williams",
+    "Gilliard",
+    "Murray",
+    "Weeks",
+    "Brawley",
+    "W. Newton",
+    "Kirby"
+   ],
+   "sponsors_raw": "Reps. Daning, Robinson, Pope, J.L. Johnson, Jefferson, M.M. Smith, Dillard, Hill, Erickson, Bradley, R. Williams, Gilliard, Murray, Weeks, Brawley, W. Newton and Kirby",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed the House; died in Senate Finance Committee",
+   "roll_call_count": 1,
+   "passage_votes": [
+    {
+     "chamber": "House",
+     "motion": "(Tax credits) Passage of Bill",
+     "yeas": 106,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "02/17/2022 10:44 am",
+     "ballot_pdf_key": 20143
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 106,
+    "nays": 0,
+    "motion": "(Tax credits) Passage of Bill",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "124:H3469",
+   "session": 124,
+   "bill_no": "H3469",
+   "title": "SC Paid Sick Leave Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Paid Sick Leave Act: earned paid sick leave for workers.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3469.htm",
+   "sponsors": [
+    "J. Moore"
+   ],
+   "sponsors_raw": "Rep. J. Moore",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3470",
+   "session": 124,
+   "bill_no": "H3470",
+   "title": "Dual enrollment",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have expanded dual enrollment in high school.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3470.htm",
+   "sponsors": [
+    "B. Newton",
+    "McGarry",
+    "V.S. Moss",
+    "Pope",
+    "Forrest",
+    "Caskey",
+    "Jones"
+   ],
+   "sponsors_raw": "Reps. B. Newton, McGarry, V.S. Moss, Pope, Forrest, Caskey and Jones",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Education and Public Works)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3480",
+   "session": 124,
+   "bill_no": "H3480",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $13 an hour (or the federal rate if higher) and let local governments go higher.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3480.htm",
+   "sponsors": [
+    "Robinson"
+   ],
+   "sponsors_raw": "Rep. Robinson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3611",
+   "session": 124,
+   "bill_no": "H3611",
+   "title": "Workforce and Education Data Oversight Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a Workforce and Education Data Oversight Committee to track education-to-job results.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "workforce",
+    "technical college",
+    "workforce development",
+    "unemployment",
+    "worker",
+    "labor",
+    "employer",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3611.htm",
+   "sponsors": [
+    "Lucas"
+   ],
+   "sponsors_raw": "Rep. Lucas",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Education and Public Works)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3612",
+   "session": 124,
+   "bill_no": "H3612",
+   "title": "SC Computer Science Education Initiative Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Computer science education initiative (career pathways in K-12).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "pay",
+    "workforce",
+    "career pathway",
+    "technical college",
+    "employer",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3612.htm",
+   "sponsors": [
+    "Lucas",
+    "Allison",
+    "M.M. Smith",
+    "Calhoon",
+    "Govan",
+    "Davis",
+    "Murray",
+    "Gilliard",
+    "Carter",
+    "Anderson",
+    "Weeks"
+   ],
+   "sponsors_raw": "Reps. Lucas, Allison, M.M. Smith, Calhoon, Govan, Davis, Murray, Gilliard, Carter, Anderson and Weeks",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "roll_call_count": 1,
+   "passage_votes": [
+    {
+     "chamber": "House",
+     "motion": "(SC Computer Science Education Initiative Act) Passage of Bill",
+     "yeas": 116,
+     "nays": 1,
+     "result": "Passed",
+     "datetime": "01/28/2021 11:20 am",
+     "ballot_pdf_key": 18170
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 116,
+    "nays": 1,
+    "motion": "(SC Computer Science Education Initiative Act) Passage of Bill",
+    "yes_pct": 0.9914529914529915
+   }
+  },
+  {
+   "bill_key": "124:H3675",
+   "session": 124,
+   "bill_no": "H3675",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $17 an hour starting January 2022.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3675.htm",
+   "sponsors": [
+    "Hart"
+   ],
+   "sponsors_raw": "Rep. Hart",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3774",
+   "session": 124,
+   "bill_no": "H3774",
+   "title": "Enterprise Zone Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended Enterprise Zone Act tax credits to professional employer organizations.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wages",
+    "pay",
+    "income",
+    "employer",
+    "incentive",
+    "wage",
+    "worker",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3774.htm",
+   "sponsors": [
+    "Gagnon"
+   ],
+   "sponsors_raw": "Rep. Gagnon",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H3922",
+   "session": 124,
+   "bill_no": "H3922",
+   "title": "South Carolina State Employee Equal Pay for Equal Work",
+   "instrument_type": "General Bill",
+   "plain_topic": "Equal pay for equal work for state employees.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3922.htm",
+   "sponsors": [
+    "Stavrinakis"
+   ],
+   "sponsors_raw": "Rep. Stavrinakis",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H4050",
+   "session": 124,
+   "bill_no": "H4050",
+   "title": "Inmate wages",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set pay rules for inmate labor.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4050.htm",
+   "sponsors": [
+    "R. Williams",
+    "Jefferson"
+   ],
+   "sponsors_raw": "Reps. R. Williams and Jefferson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H4140",
+   "session": 124,
+   "bill_no": "H4140",
+   "title": "Public school support staff compensation",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised pay for public school support staff.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "salary",
+    "pay",
+    "minimum wage"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4140.htm",
+   "sponsors": [
+    "R. Williams"
+   ],
+   "sponsors_raw": "Rep. R. Williams",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H4154",
+   "session": 124,
+   "bill_no": "H4154",
+   "title": "Inmate employment",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have changed inmate employment and pay rules.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4154.htm",
+   "sponsors": [
+    "R. Williams"
+   ],
+   "sponsors_raw": "Rep. R. Williams",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:H4252",
+   "session": 124,
+   "bill_no": "H4252",
+   "title": "Redline Enterprise Zone Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Redline Enterprise Zone Act: targeted hiring and investment incentives for historically redlined areas.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "income",
+    "apprenticeship",
+    "technical college",
+    "employer",
+    "incentive",
+    "pay",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4252.htm",
+   "sponsors": [
+    "Bannister",
+    "West",
+    "Anderson",
+    "B. Cox",
+    "Elliott",
+    "Willis",
+    "W. Cox",
+    "B. Newton",
+    "Pendarvis",
+    "Ballentine",
+    "Crawford",
+    "Daning",
+    "Gagnon",
+    "Herbkersman",
+    "W. Newton",
+    "Erickson",
+    "Bradley"
+   ],
+   "sponsors_raw": "Reps. Bannister, West, Anderson, B. Cox, Elliott, Willis, W. Cox, B. Newton, Pendarvis, Ballentine, Crawford, Daning, Gagnon, Herbkersman, W. Newton, Erickson and Bradley",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed the House; died in Senate Finance Committee",
+   "roll_call_count": 1,
+   "passage_votes": [
+    {
+     "chamber": "House",
+     "motion": "(Redline Enterprise Zone Act) Passage of Bill",
+     "yeas": 103,
+     "nays": 2,
+     "result": "Passed",
+     "datetime": "04/06/2022 02:21 pm",
+     "ballot_pdf_key": 20811
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 103,
+    "nays": 2,
+    "motion": "(Redline Enterprise Zone Act) Passage of Bill",
+    "yes_pct": 0.9809523809523809
+   }
+  },
+  {
+   "bill_key": "124:H4766",
+   "session": 124,
+   "bill_no": "H4766",
+   "title": "Coordinating Council for Workforce Development",
+   "instrument_type": "General Bill",
+   "plain_topic": "Restructured the Coordinating Council for Workforce Development: new membership and duties.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "technical college",
+    "workforce development",
+    "worker",
+    "employer",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4766.htm",
+   "sponsors": [
+    "Allison",
+    "Lucas",
+    "Felder",
+    "Alexander"
+   ],
+   "sponsors_raw": "Reps. Allison, Lucas, Felder and Alexander",
+   "act_no": "A194",
+   "ratification_no": "R219",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 194)",
+   "roll_call_count": 3,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Coordinating Council for Workforce Development) 2nd Reading",
+     "yeas": 40,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "05/03/2022 03:21 pm",
+     "ballot_pdf_key": 21135
+    },
+    {
+     "chamber": "House",
+     "motion": "(Coordinating Council for Workforce Development) Passage of Bill",
+     "yeas": 104,
+     "nays": 1,
+     "result": "Passed",
+     "datetime": "02/08/2022 12:42 pm",
+     "ballot_pdf_key": 20046
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 40,
+    "nays": 0,
+    "motion": "(Coordinating Council for Workforce Development) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "124:H5158",
+   "session": 124,
+   "bill_no": "H5158",
+   "title": "SC STEM Coalition",
+   "instrument_type": "General Bill",
+   "plain_topic": "SC STEM Coalition (STEM workforce pipeline).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "workforce",
+    "labor",
+    "apprenticeship",
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/5158.htm",
+   "sponsors": [
+    "Davis",
+    "W. Cox"
+   ],
+   "sponsors_raw": "Reps. Davis and W. Cox",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Education and Public Works)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:S1090",
+   "session": 124,
+   "bill_no": "S1090",
+   "title": "Unemployment benefits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment benefits update (became law).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "pay",
+    "worker",
+    "labor",
+    "workforce",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/1090.htm",
+   "sponsors": [
+    "Massey"
+   ],
+   "sponsors_raw": "Senator Massey",
+   "act_no": "A229",
+   "ratification_no": "R260",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 229)",
+   "roll_call_count": 6,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Unemployment benefits) 2nd Reading",
+     "yeas": 25,
+     "nays": 9,
+     "result": "Passed",
+     "datetime": "03/01/2022 04:59 pm",
+     "ballot_pdf_key": 20226
+    },
+    {
+     "chamber": "House",
+     "motion": "(Unemployment benefits) Passage of Bill",
+     "yeas": 91,
+     "nays": 19,
+     "result": "Passed",
+     "datetime": "03/10/2022 10:48 am",
+     "ballot_pdf_key": 20286
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 91,
+    "nays": 19,
+    "motion": "(Unemployment benefits) Passage of Bill",
+    "yes_pct": 0.8272727272727273
+   }
+  },
+  {
+   "bill_key": "124:S1091",
+   "session": 124,
+   "bill_no": "S1091",
+   "title": "Unemployment tax rate, delinquent",
+   "instrument_type": "General Bill",
+   "plain_topic": "Delinquent unemployment tax rates.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "labor",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/1091.htm",
+   "sponsors": [
+    "Martin",
+    "Fanning"
+   ],
+   "sponsors_raw": "Senators Martin and Fanning",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:S1247",
+   "session": 124,
+   "bill_no": "S1247",
+   "title": "SC STEM Coalition",
+   "instrument_type": "General Bill",
+   "plain_topic": "SC STEM Coalition (STEM workforce pipeline).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "apprenticeship",
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/1247.htm",
+   "sponsors": [
+    "Loftis"
+   ],
+   "sponsors_raw": "Senator Loftis",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:S159",
+   "session": 124,
+   "bill_no": "S159",
+   "title": "SC Minimum Wage Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Minimum Wage Act: a state minimum wage adjusted for inflation each year by the state workforce agency.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/159.htm",
+   "sponsors": [
+    "Scott",
+    "McLeod",
+    "Stephens"
+   ],
+   "sponsors_raw": "Senators Scott, McLeod and Stephens",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:S16",
+   "session": 124,
+   "bill_no": "S16",
+   "title": "Graduation requirements",
+   "instrument_type": "General Bill",
+   "plain_topic": "High school graduation requirements (career-readiness related).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "labor",
+    "apprenticeship"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/16.htm",
+   "sponsors": [
+    "Rankin",
+    "Hembree",
+    "Malloy",
+    "Fanning",
+    "Grooms",
+    "Young",
+    "Bennett",
+    "Scott",
+    "Stephens",
+    "Peeler",
+    "Sabb"
+   ],
+   "sponsors_raw": "Senators Rankin, Hembree, Malloy, Fanning, Grooms, Young, Bennett, Scott, Stephens, Peeler and Sabb",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed both chambers; died in conference",
+   "roll_call_count": 2,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Graduation requirements) 2nd Reading",
+     "yeas": 44,
+     "nays": 1,
+     "result": "Passed",
+     "datetime": "02/23/2021 12:12 pm",
+     "ballot_pdf_key": 18403
+    },
+    {
+     "chamber": "House",
+     "motion": "(Graduation requirements) Passage of Bill",
+     "yeas": 109,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "02/15/2022 12:50 pm",
+     "ballot_pdf_key": 20121
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 109,
+    "nays": 0,
+    "motion": "(Graduation requirements) Passage of Bill",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "124:S217",
+   "session": 124,
+   "bill_no": "S217",
+   "title": "Workforce Enhancement and Military Recognition Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Workforce Enhancement and Military Recognition Act (companion version): military retirement pay tax exemption.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "workforce",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/217.htm",
+   "sponsors": [
+    "McElveen",
+    "Young",
+    "Garrett",
+    "Gustafson"
+   ],
+   "sponsors_raw": "Senators McElveen, Young, Garrett and Gustafson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Finance)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:S343",
+   "session": 124,
+   "bill_no": "S343",
+   "title": "SC Minimum Wage Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Minimum Wage Act: a state minimum wage adjusted for inflation each year by the state workforce agency.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/343.htm",
+   "sponsors": [
+    "McLeod"
+   ],
+   "sponsors_raw": "Senator McLeod",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:S347",
+   "session": 124,
+   "bill_no": "S347",
+   "title": "Unemployment benefits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment benefits changes.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "worker",
+    "labor",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/347.htm",
+   "sponsors": [
+    "McLeod"
+   ],
+   "sponsors_raw": "Senator McLeod",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:S398",
+   "session": 124,
+   "bill_no": "S398",
+   "title": "Economic development",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required companies receiving state development subsidies to meet job-creation, wage, and health-care obligations, with clawbacks.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "income",
+    "labor",
+    "apprenticeship",
+    "tax credit",
+    "unemployment",
+    "pay",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/398.htm",
+   "sponsors": [
+    "Harpootlian"
+   ],
+   "sponsors_raw": "Senator Harpootlian",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:S421",
+   "session": 124,
+   "bill_no": "S421",
+   "title": "Unemployment security benefits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment security benefits update (became law).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "labor",
+    "unemployment",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/421.htm",
+   "sponsors": [
+    "Alexander"
+   ],
+   "sponsors_raw": "Senator Alexander",
+   "act_no": "A47",
+   "ratification_no": "R60",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 47)",
+   "roll_call_count": 2,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Unemployment security benefits) 2nd Reading",
+     "yeas": 41,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "02/18/2021 11:23 am",
+     "ballot_pdf_key": 18387
+    },
+    {
+     "chamber": "House",
+     "motion": "(Unemployment security benefits) Passage of Bill",
+     "yeas": 97,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "05/04/2021 04:32 pm",
+     "ballot_pdf_key": 19508
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 41,
+    "nays": 0,
+    "motion": "(Unemployment security benefits) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "124:S489",
+   "session": 124,
+   "bill_no": "S489",
+   "title": "Enterprise Zone Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended Enterprise Zone Act tax credits to professional employer organizations.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wages",
+    "pay",
+    "income",
+    "employer",
+    "incentive",
+    "wage",
+    "worker",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/489.htm",
+   "sponsors": [
+    "Gambrell"
+   ],
+   "sponsors_raw": "Senator Gambrell",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Finance)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:S514",
+   "session": 124,
+   "bill_no": "S514",
+   "title": "Act to Etablish Pay Equity",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Act to Establish Pay Equity: equal pay rules and pay-history protections.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/514.htm",
+   "sponsors": [
+    "Shealy",
+    "McLeod"
+   ],
+   "sponsors_raw": "Senators Shealy and McLeod",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:S533",
+   "session": 124,
+   "bill_no": "S533",
+   "title": "Subminimum wages prohibited",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Banned paying workers with disabilities less than the federal minimum wage under FLSA Section 14(c), and enacted the Employment First Initiative Act.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "worker",
+    "labor",
+    "workforce",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/533.htm",
+   "sponsors": [
+    "Shealy",
+    "Gambrell",
+    "Allen",
+    "Williams",
+    "Jackson",
+    "Gustafson",
+    "Stephens",
+    "Malloy",
+    "McElveen"
+   ],
+   "sponsors_raw": "Senators Shealy, Gambrell, Allen, Williams, Jackson, Gustafson, Stephens, Malloy and McElveen",
+   "act_no": "A209",
+   "ratification_no": "R237",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 209)",
+   "roll_call_count": 5,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Subminimum wages prohibited) 3rd Reading",
+     "yeas": 43,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "04/08/2021 02:34 pm",
+     "ballot_pdf_key": 19155
+    },
+    {
+     "chamber": "House",
+     "motion": "(Subminimum wages prohibited) Passage of Bill",
+     "yeas": 104,
+     "nays": 4,
+     "result": "Passed",
+     "datetime": "05/04/2022 02:15 pm",
+     "ballot_pdf_key": 21170
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 43,
+    "nays": 0,
+    "motion": "(Subminimum wages prohibited) 3rd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "124:S633",
+   "session": 124,
+   "bill_no": "S633",
+   "title": "Minimum Wage",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have put an advisory question on the 2022 ballot asking voters whether to raise the minimum wage.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "minimum wage"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/633.htm",
+   "sponsors": [
+    "Jackson",
+    "K. Johnson",
+    "McLeod"
+   ],
+   "sponsors_raw": "Senators Jackson, K. Johnson and McLeod",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:S634",
+   "session": 124,
+   "bill_no": "S634",
+   "title": "Minimum Wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Minimum Wage Act: a state minimum wage with anti-retaliation protections for workers.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/634.htm",
+   "sponsors": [
+    "Scott"
+   ],
+   "sponsors_raw": "Senator Scott",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:S901",
+   "session": 124,
+   "bill_no": "S901",
+   "title": "Taxation; income, max tax on boats, job development credits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Tax package that included changes to job development credits (the state's wage-linked hiring incentive).",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "labor",
+    "apprenticeship",
+    "technical college",
+    "employer",
+    "tax credit",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/901.htm",
+   "sponsors": [
+    "Verdin",
+    "Cromer",
+    "McElveen",
+    "Peeler"
+   ],
+   "sponsors_raw": "Senators Verdin, Cromer, McElveen and Peeler",
+   "act_no": "A237",
+   "ratification_no": "R255",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 237)",
+   "roll_call_count": 5,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Taxation; income, max tax on boats, job development credits) 2nd Reading",
+     "yeas": 41,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "03/02/2022 01:29 pm",
+     "ballot_pdf_key": 20237
+    },
+    {
+     "chamber": "House",
+     "motion": "(Taxation; income, max tax on boats, job development credits) Passage of Bill",
+     "yeas": 91,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "05/11/2022 11:42 am",
+     "ballot_pdf_key": 21313
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 41,
+    "nays": 0,
+    "motion": "(Taxation; income, max tax on boats, job development credits) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "124:S922",
+   "session": 124,
+   "bill_no": "S922",
+   "title": "Unemployment benefits, eligibility",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment benefits eligibility.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/922.htm",
+   "sponsors": [
+    "Martin",
+    "Rice",
+    "Corbin",
+    "Cash",
+    "Gustafson",
+    "Climer",
+    "Loftis",
+    "Kimbrell",
+    "Peeler"
+   ],
+   "sponsors_raw": "Senators Martin, Rice, Corbin, Cash, Gustafson, Climer, Loftis, Kimbrell and Peeler",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "124:S986",
+   "session": 124,
+   "bill_no": "S986",
+   "title": "Workforce Enhancement and Military Recognition Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Workforce Enhancement and Military Recognition Act (companion version): military retirement pay tax exemption.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "workforce",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/986.htm",
+   "sponsors": [
+    "McElveen",
+    "Davis",
+    "Shealy",
+    "Peeler",
+    "Alexander",
+    "Scott",
+    "Cromer",
+    "Young",
+    "Goldfinch",
+    "Gambrell",
+    "K. Johnson",
+    "Sabb",
+    "Climer",
+    "M. Johnson",
+    "Williams",
+    "Campsen",
+    "Matthews",
+    "Kimbrell",
+    "Gustafson",
+    "Turner",
+    "Rice",
+    "Cash",
+    "Harpootlian",
+    "Grooms"
+   ],
+   "sponsors_raw": "Senators McElveen, Davis, Shealy, Peeler, Alexander, Scott, Cromer, Young, Goldfinch, Gambrell, K. Johnson, Sabb, Climer, M. Johnson, Williams, Campsen, Matthews, Kimbrell, Gustafson, Turner, Rice, Cash, Harpootlian and Grooms",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Finance)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H3148",
+   "session": 125,
+   "bill_no": "H3148",
+   "title": "South Carolina State Employee Equal Pay for Equal Work",
+   "instrument_type": "General Bill",
+   "plain_topic": "Equal pay for equal work for state employees.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3148.htm",
+   "sponsors": [
+    "Stavrinakis",
+    "Henegan"
+   ],
+   "sponsors_raw": "Reps. Stavrinakis and Henegan",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H3326",
+   "session": 125,
+   "bill_no": "H3326",
+   "title": "Dual enrollment",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have expanded dual enrollment in high school.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3326.htm",
+   "sponsors": [
+    "B. Newton"
+   ],
+   "sponsors_raw": "Rep. B. Newton",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Education and Public Works)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H3351",
+   "session": 125,
+   "bill_no": "H3351",
+   "title": "Felons Reentering Workforce Study Committee",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have created a study committee on people with felony records reentering the workforce.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "workforce"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3351.htm",
+   "sponsors": [
+    "King",
+    "Henegan"
+   ],
+   "sponsors_raw": "Reps. King and Henegan",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H3428",
+   "session": 125,
+   "bill_no": "H3428",
+   "title": "Equal Pay",
+   "instrument_type": "General Bill",
+   "plain_topic": "Equal pay: would bar pay discrimination and protect pay disclosure.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "worker",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3428.htm",
+   "sponsors": [
+    "Cobb-Hunter",
+    "Henegan",
+    "King"
+   ],
+   "sponsors_raw": "Reps. Cobb-Hunter, Henegan and King",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H3450",
+   "session": 125,
+   "bill_no": "H3450",
+   "title": "Income tax on overtime pay",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted overtime pay from state income tax.",
+   "theme": "Take-home pay: overtime rules and taxes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "pay",
+    "income",
+    "labor",
+    "overtime"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3450.htm",
+   "sponsors": [
+    "Long",
+    "Chumley",
+    "Pace"
+   ],
+   "sponsors_raw": "Reps. Long, Chumley and Pace",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H3575",
+   "session": 125,
+   "bill_no": "H3575",
+   "title": "Remove Dept. of Commerce References from Prison Industries Program",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have reorganized the prison industries program (pay provisions included).",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3575.htm",
+   "sponsors": [
+    "Hixon"
+   ],
+   "sponsors_raw": "Rep. Hixon",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H3605",
+   "session": 125,
+   "bill_no": "H3605",
+   "title": "Earn and Learn Act of 2023",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Earn and Learn Act: connects students to registered apprenticeships and work-based learning for credit.",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "pay",
+    "worker",
+    "labor",
+    "workforce",
+    "apprenticeship"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3605.htm",
+   "sponsors": [
+    "G.M. Smith",
+    "Sandifer",
+    "Carter",
+    "Kirby",
+    "Oremus",
+    "Magnuson",
+    "Pace",
+    "Long",
+    "Elliott",
+    "Burns",
+    "May",
+    "Beach",
+    "Forrest",
+    "Blackwell",
+    "B. Newton",
+    "Caskey",
+    "Ligon"
+   ],
+   "sponsors_raw": "Reps. G.M. Smith, Sandifer, Carter, Kirby, Oremus, Magnuson, Pace, Long, Elliott, Burns, May, Beach, Forrest, Blackwell, B. Newton, Caskey and Ligon",
+   "act_no": "A13",
+   "ratification_no": "R21",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 13)",
+   "roll_call_count": 3,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Earn and Learn Act of 2023) 2nd Reading",
+     "yeas": 39,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "04/13/2023 11:32 am",
+     "ballot_pdf_key": 22732
+    },
+    {
+     "chamber": "House",
+     "motion": "(Earn and Learn Act of 2023) Passage of Bill",
+     "yeas": 114,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "01/31/2023 01:31 pm",
+     "ballot_pdf_key": 21847
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 39,
+    "nays": 0,
+    "motion": "(Earn and Learn Act of 2023) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "125:H3726",
+   "session": 125,
+   "bill_no": "H3726",
+   "title": "Statewide Education and Workforce Development Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Statewide Education and Workforce Development Act: created the Office of Statewide Workforce Development and a unified state workforce plan.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "labor",
+    "workforce",
+    "technical college",
+    "workforce development",
+    "employer",
+    "unemployment",
+    "worker",
+    "career pathway"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3726.htm",
+   "sponsors": [
+    "G.M. Smith",
+    "West",
+    "Ballentine",
+    "Davis",
+    "Hager",
+    "Hewitt",
+    "Kirby",
+    "Long",
+    "B. Newton",
+    "Ott",
+    "M.M. Smith",
+    "Stavrinakis",
+    "Tedder",
+    "Robbins",
+    "Brewer",
+    "Murphy",
+    "Taylor",
+    "Leber",
+    "Sandifer",
+    "Ligon",
+    "Williams",
+    "Anderson",
+    "Blackwell",
+    "Nutt",
+    "McCravy",
+    "Mitchell",
+    "Yow",
+    "W. Newton",
+    "Weeks",
+    "Alexander",
+    "Pope",
+    "Hixon",
+    "Forrest",
+    "King"
+   ],
+   "sponsors_raw": "Reps. G.M. Smith, West, Ballentine, Davis, Hager, Hewitt, Kirby, Long, B. Newton, Ott, M.M. Smith, Stavrinakis, Tedder, Robbins, Brewer, Murphy, Taylor, Leber, Sandifer, Ligon, Williams, Anderson, Blackwell, Nutt, McCravy, Mitchell, Yow, W. Newton, Weeks, Alexander, Pope, Hixon, Forrest and King",
+   "act_no": "A67",
+   "ratification_no": "R84",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 67)",
+   "roll_call_count": 9,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Statewide Education and Workforce Development Act) 3rd Reading",
+     "yeas": 41,
+     "nays": 2,
+     "result": "Passed",
+     "datetime": "05/10/2023 11:44 am",
+     "ballot_pdf_key": 23107
+    },
+    {
+     "chamber": "House",
+     "motion": "(Statewide Education and Workforce Development Act) Passage of Bill",
+     "yeas": 108,
+     "nays": 5,
+     "result": "Passed",
+     "datetime": "03/09/2023 11:42 am",
+     "ballot_pdf_key": 22234
+    },
+    {
+     "chamber": "House",
+     "motion": "(Statewide Education and Workforce Development Act) Passage of Bill",
+     "yeas": 102,
+     "nays": 3,
+     "result": "Passed",
+     "datetime": "03/08/2023 01:13 pm",
+     "ballot_pdf_key": 22196
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 102,
+    "nays": 3,
+    "motion": "(Statewide Education and Workforce Development Act) Passage of Bill",
+    "yes_pct": 0.9714285714285714
+   }
+  },
+  {
+   "bill_key": "125:H3783",
+   "session": 125,
+   "bill_no": "H3783",
+   "title": "Department of Employment and Workforce",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Made the Department of Employment and Workforce part of the restructured executive branch (agency governance).",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "labor",
+    "workforce"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3783.htm",
+   "sponsors": [
+    "Sandifer",
+    "Hardee"
+   ],
+   "sponsors_raw": "Reps. Sandifer and Hardee",
+   "act_no": "A1",
+   "ratification_no": "R3",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 1)",
+   "roll_call_count": 2,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Department of Employment and Workforce) 2nd Reading",
+     "yeas": 43,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "02/15/2023 02:26 pm",
+     "ballot_pdf_key": 22064
+    },
+    {
+     "chamber": "House",
+     "motion": "(Department of Employment and Workforce) Passage of Bill",
+     "yeas": 110,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "01/25/2023 02:47 pm",
+     "ballot_pdf_key": 21824
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 43,
+    "nays": 0,
+    "motion": "(Department of Employment and Workforce) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "125:H3805",
+   "session": 125,
+   "bill_no": "H3805",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $17 an hour starting January 2025.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3805.htm",
+   "sponsors": [
+    "Hart",
+    "Henegan",
+    "Williams"
+   ],
+   "sponsors_raw": "Reps. Hart, Henegan and Williams",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H3992",
+   "session": 125,
+   "bill_no": "H3992",
+   "title": "Delinquent unemployment compensation tax rates",
+   "instrument_type": "General Bill",
+   "plain_topic": "Delinquent unemployment tax rates (became law).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "pay",
+    "labor",
+    "workforce",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3992.htm",
+   "sponsors": [
+    "Blackwell",
+    "McGinnis",
+    "Sandifer",
+    "Ligon",
+    "Cromer",
+    "Magnuson",
+    "White",
+    "Pace",
+    "Burns"
+   ],
+   "sponsors_raw": "Reps. Blackwell, McGinnis, Sandifer, Ligon, Cromer, Magnuson, White, Pace and Burns",
+   "act_no": "A136",
+   "ratification_no": "R151",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 136)",
+   "roll_call_count": 3,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Delinquent unemployment compensation tax rates) 2nd Reading",
+     "yeas": 42,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "03/26/2024 01:00 pm",
+     "ballot_pdf_key": 24226
+    },
+    {
+     "chamber": "House",
+     "motion": "(Delinquent unemployment compensation tax rates) Passage of Bill",
+     "yeas": 117,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "02/06/2024 01:06 pm",
+     "ballot_pdf_key": 23676
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 42,
+    "nays": 0,
+    "motion": "(Delinquent unemployment compensation tax rates) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "125:H4060",
+   "session": 125,
+   "bill_no": "H4060",
+   "title": "Education and workforce readiness",
+   "instrument_type": "General Bill",
+   "plain_topic": "Education and workforce readiness: would have aligned K-12 with workforce preparation.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "workforce",
+    "technical college",
+    "workforce development",
+    "employer",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4060.htm",
+   "sponsors": [
+    "G.M. Smith",
+    "West",
+    "Ballentine",
+    "M.M. Smith",
+    "B. Newton",
+    "Davis",
+    "Hewitt",
+    "Sandifer",
+    "Kirby",
+    "Ott",
+    "Hager",
+    "Stavrinakis",
+    "Tedder",
+    "Murphy",
+    "Brewer",
+    "Mitchell",
+    "Erickson",
+    "Bradley",
+    "Bauer",
+    "Forrest"
+   ],
+   "sponsors_raw": "Reps. G.M. Smith, West, Ballentine, M.M. Smith, B. Newton, Davis, Hewitt, Sandifer, Kirby, Ott, Hager, Stavrinakis, Tedder, Murphy, Brewer, Mitchell, Erickson, Bradley, Bauer and Forrest",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "roll_call_count": 1,
+   "passage_votes": [
+    {
+     "chamber": "House",
+     "motion": "(Education and workforce readiness) Passage of Bill",
+     "yeas": 108,
+     "nays": 2,
+     "result": "Passed",
+     "datetime": "03/28/2023 01:18 pm",
+     "ballot_pdf_key": 22603
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 108,
+    "nays": 2,
+    "motion": "(Education and workforce readiness) Passage of Bill",
+    "yes_pct": 0.9818181818181818
+   }
+  },
+  {
+   "bill_key": "125:H4087",
+   "session": 125,
+   "bill_no": "H4087",
+   "title": "Income tax credits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Tax-credit package: corporate headquarters credit staffing rules and job development credit updates.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "income",
+    "apprenticeship",
+    "technical college",
+    "employer",
+    "tax credit",
+    "incentive",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4087.htm",
+   "sponsors": [
+    "G.M. Smith",
+    "West",
+    "Kirby",
+    "Ballentine",
+    "Robbins",
+    "Hewitt",
+    "M.M. Smith",
+    "Davis",
+    "Hiott",
+    "Long",
+    "Hager",
+    "Ott",
+    "Weeks",
+    "Dillard",
+    "W. Jones",
+    "Brewer",
+    "Hartnett",
+    "Murphy"
+   ],
+   "sponsors_raw": "Reps. G.M. Smith, West, Kirby, Ballentine, Robbins, Hewitt, M.M. Smith, Davis, Hiott, Long, Hager, Ott, Weeks, Dillard, W. Jones, Brewer, Hartnett and Murphy",
+   "act_no": "A222",
+   "ratification_no": "R247",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 222)",
+   "roll_call_count": 6,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Income tax credits) 3rd Reading",
+     "yeas": 45,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "05/08/2024 06:59 pm",
+     "ballot_pdf_key": 24859
+    },
+    {
+     "chamber": "House",
+     "motion": "(Income tax credits) Passage of Bill",
+     "yeas": 84,
+     "nays": 12,
+     "result": "Passed",
+     "datetime": "04/05/2023 08:55 pm",
+     "ballot_pdf_key": 22712
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 45,
+    "nays": 0,
+    "motion": "(Income tax credits) 3rd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "125:H4212",
+   "session": 125,
+   "bill_no": "H4212",
+   "title": "Pay Equity",
+   "instrument_type": "General Bill",
+   "plain_topic": "Pay equity: equal pay rules and pay-history protections.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4212.htm",
+   "sponsors": [
+    "Dillard",
+    "W. Jones",
+    "Wetmore",
+    "Bauer"
+   ],
+   "sponsors_raw": "Reps. Dillard, W. Jones, Wetmore and Bauer",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H4439",
+   "session": 125,
+   "bill_no": "H4439",
+   "title": "Unemployment insurance",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment insurance changes.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "labor",
+    "employer",
+    "pay",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4439.htm",
+   "sponsors": [
+    "Trantham",
+    "Burns",
+    "Chumley",
+    "Haddon",
+    "Vaughan",
+    "Pedalino"
+   ],
+   "sponsors_raw": "Reps. Trantham, Burns, Chumley, Haddon, Vaughan and Pedalino",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Agriculture, Natural Resources and Environmental Affairs)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H4600",
+   "session": 125,
+   "bill_no": "H4600",
+   "title": "Tax credit definition",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have tightened the apprenticeship hiring credit for formerly incarcerated workers (sex-offender registry exclusion).",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "income",
+    "apprenticeship",
+    "tax credit",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4600.htm",
+   "sponsors": [
+    "Thayer",
+    "Cobb-Hunter",
+    "Leber"
+   ],
+   "sponsors_raw": "Reps. Thayer, Cobb-Hunter and Leber",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H4702",
+   "session": 125,
+   "bill_no": "H4702",
+   "title": "Computer Science Education Initiative Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Computer science education initiative (career pathways in K-12).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "workforce",
+    "career pathway",
+    "employer",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4702.htm",
+   "sponsors": [
+    "Davis",
+    "Pope",
+    "Erickson",
+    "Bradley"
+   ],
+   "sponsors_raw": "Reps. Davis, Pope, Erickson and Bradley",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "roll_call_count": 1,
+   "passage_votes": [
+    {
+     "chamber": "House",
+     "motion": "(Computer Science Education Initiative Act) Passage of Bill",
+     "yeas": 101,
+     "nays": 5,
+     "result": "Passed",
+     "datetime": "03/28/2024 11:11 am",
+     "ballot_pdf_key": 24314
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 101,
+    "nays": 5,
+    "motion": "(Computer Science Education Initiative Act) Passage of Bill",
+    "yes_pct": 0.9528301886792453
+   }
+  },
+  {
+   "bill_key": "125:H4811",
+   "session": 125,
+   "bill_no": "H4811",
+   "title": "Overtime income tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted overtime pay from state income tax.",
+   "theme": "Take-home pay: overtime rules and taxes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "overtime",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4811.htm",
+   "sponsors": [
+    "Beach"
+   ],
+   "sponsors_raw": "Rep. Beach",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H5105",
+   "session": 125,
+   "bill_no": "H5105",
+   "title": "Technical college credits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Technical college credit transfer.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5105.htm",
+   "sponsors": [
+    "Erickson",
+    "G.M. Smith",
+    "Caskey",
+    "Chapman",
+    "B.L. Cox",
+    "Gagnon",
+    "Williams",
+    "Henegan"
+   ],
+   "sponsors_raw": "Reps. Erickson, G.M. Smith, Caskey, Chapman, B.L. Cox, Gagnon, Williams and Henegan",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "roll_call_count": 1,
+   "passage_votes": [
+    {
+     "chamber": "House",
+     "motion": "(Technical college credits) Passage of Bill",
+     "yeas": 105,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "03/06/2024 11:21 am",
+     "ballot_pdf_key": 23866
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 105,
+    "nays": 0,
+    "motion": "(Technical college credits) Passage of Bill",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "125:H5187",
+   "session": 125,
+   "bill_no": "H5187",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $10 an hour (or the federal rate if higher).",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5187.htm",
+   "sponsors": [
+    "Williams"
+   ],
+   "sponsors_raw": "Rep. Williams",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:S1001",
+   "session": 125,
+   "bill_no": "S1001",
+   "title": "Inmate Labor",
+   "instrument_type": "General Bill",
+   "plain_topic": "Requires that inmates working in private-industry prison programs earn at least the federal minimum wage.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "labor",
+    "unemployment",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/1001.htm",
+   "sponsors": [
+    "Martin"
+   ],
+   "sponsors_raw": "Senator Martin",
+   "act_no": "A192",
+   "ratification_no": "R195",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 192)",
+   "roll_call_count": 2,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Inmate Labor) 2nd Reading",
+     "yeas": 45,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "02/21/2024 02:27 pm",
+     "ballot_pdf_key": 23764
+    },
+    {
+     "chamber": "House",
+     "motion": "(Inmate Labor) Passage of Bill",
+     "yeas": 109,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "05/07/2024 12:49 pm",
+     "ballot_pdf_key": 24721
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 45,
+    "nays": 0,
+    "motion": "(Inmate Labor) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "125:S151",
+   "session": 125,
+   "bill_no": "S151",
+   "title": "Unemployment Insurance Eligibility Period",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment insurance eligibility period.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wages",
+    "worker",
+    "labor",
+    "employer",
+    "wage",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/151.htm",
+   "sponsors": [
+    "Turner"
+   ],
+   "sponsors_raw": "Senator Turner",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:S216",
+   "session": 125,
+   "bill_no": "S216",
+   "title": "SC Minimum Wage Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Minimum Wage Act: a state minimum wage adjusted for inflation each year by the state workforce agency.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/216.htm",
+   "sponsors": [
+    "McLeod"
+   ],
+   "sponsors_raw": "Senator McLeod",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:S217",
+   "session": 125,
+   "bill_no": "S217",
+   "title": "Unemployment benefits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment benefits changes.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "worker",
+    "labor",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/217.htm",
+   "sponsors": [
+    "McLeod"
+   ],
+   "sponsors_raw": "Senator McLeod",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:S25",
+   "session": 125,
+   "bill_no": "S25",
+   "title": "Workforce Opportunity Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Workforce Opportunity Act: 'ban the box' \u2014 the state could not ask about criminal history until later in hiring.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/25.htm",
+   "sponsors": [
+    "Jackson"
+   ],
+   "sponsors_raw": "Senator Jackson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:S28",
+   "session": 125,
+   "bill_no": "S28",
+   "title": "Minimum Wage",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have put an advisory question on the 2024 ballot asking voters whether to raise the minimum wage.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/28.htm",
+   "sponsors": [
+    "Jackson",
+    "K. Johnson"
+   ],
+   "sponsors_raw": "Senators Jackson and K. Johnson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:S291",
+   "session": 125,
+   "bill_no": "S291",
+   "title": "Minimum Wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Minimum Wage Act: a state minimum wage with anti-retaliation protections for workers.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/291.htm",
+   "sponsors": [
+    "Scott"
+   ],
+   "sponsors_raw": "Senator Scott",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:S461",
+   "session": 125,
+   "bill_no": "S461",
+   "title": "Post-secondary degree and industry credential data",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required tracking of post-secondary degrees and industry credentials against workforce needs.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "workforce",
+    "apprenticeship",
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/461.htm",
+   "sponsors": [
+    "Loftis",
+    "Gambrell",
+    "Garrett",
+    "Rice",
+    "Grooms",
+    "Climer",
+    "Setzler"
+   ],
+   "sponsors_raw": "Senators Loftis, Gambrell, Garrett, Rice, Grooms, Climer and Setzler",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate Education)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:S546",
+   "session": 125,
+   "bill_no": "S546",
+   "title": "DEW Restructuring",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have restructured the Department of Employment and Workforce.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "workforce development",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/546.htm",
+   "sponsors": [
+    "Massey",
+    "Alexander",
+    "Campsen",
+    "Kimbrell"
+   ],
+   "sponsors_raw": "Senators Massey, Alexander, Campsen and Kimbrell",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed the Senate; died in House Labor, Commerce and Industry Committee",
+   "roll_call_count": 1,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(DEW Restructuring) 2nd Reading",
+     "yeas": 42,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "03/21/2023 12:49 pm",
+     "ballot_pdf_key": 22575
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 42,
+    "nays": 0,
+    "motion": "(DEW Restructuring) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "125:S557",
+   "session": 125,
+   "bill_no": "S557",
+   "title": "Apprentice tax credit",
+   "instrument_type": "General Bill",
+   "plain_topic": "Raised the state apprenticeship tax credit and let employers claim it for more years.",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "income",
+    "labor",
+    "apprenticeship",
+    "tax credit",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/557.htm",
+   "sponsors": [
+    "M. Johnson",
+    "Peeler",
+    "Kimbrell",
+    "Adams",
+    "Rice",
+    "Rankin",
+    "Reichenbach",
+    "Young",
+    "Loftis",
+    "Climer",
+    "Garrett",
+    "Alexander",
+    "Campsen",
+    "Gustafson"
+   ],
+   "sponsors_raw": "Senators M. Johnson, Peeler, Kimbrell, Adams, Rice, Rankin, Reichenbach, Young, Loftis, Climer, Garrett, Alexander, Campsen and Gustafson",
+   "act_no": "A188",
+   "ratification_no": "R185",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 188)",
+   "roll_call_count": 4,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Apprentice tax credit) 2nd Reading",
+     "yeas": 42,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "03/28/2023 02:53 pm",
+     "ballot_pdf_key": 22604
+    },
+    {
+     "chamber": "House",
+     "motion": "(Apprentice tax credit) Passage of Bill",
+     "yeas": 111,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "05/10/2023 12:41 pm",
+     "ballot_pdf_key": 23125
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 42,
+    "nays": 0,
+    "motion": "(Apprentice tax credit) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "125:S700",
+   "session": 125,
+   "bill_no": "S700",
+   "title": "Earned Wage Access Services Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Set consumer rules for earned-wage-access services (early access to earned pay).",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "pay",
+    "income",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/700.htm",
+   "sponsors": [
+    "Davis"
+   ],
+   "sponsors_raw": "Senator Davis",
+   "act_no": "A190",
+   "ratification_no": "R188",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 190)",
+   "roll_call_count": 2,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Earned Wage Access Services Act) 2nd Reading",
+     "yeas": 43,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "01/31/2024 01:24 pm",
+     "ballot_pdf_key": 23637
+    },
+    {
+     "chamber": "House",
+     "motion": "(Earned Wage Access Services Act) Passage of Bill",
+     "yeas": 105,
+     "nays": 2,
+     "result": "Passed",
+     "datetime": "05/08/2024 07:33 pm",
+     "ballot_pdf_key": 24879
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 43,
+    "nays": 0,
+    "motion": "(Earned Wage Access Services Act) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "125:S859",
+   "session": 125,
+   "bill_no": "S859",
+   "title": "Skills Based Hiring",
+   "instrument_type": "General Bill",
+   "plain_topic": "The State Employment Skills-Based Hiring Act: state jobs open to skills and experience, not just degrees.",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "pay",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/859.htm",
+   "sponsors": [
+    "Davis"
+   ],
+   "sponsors_raw": "Senator Davis",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed the Senate; died in House Labor, Commerce and Industry Committee",
+   "roll_call_count": 1,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Skills Based Hiring) 2nd Reading",
+     "yeas": 42,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "03/19/2024 02:21 pm",
+     "ballot_pdf_key": 24166
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 42,
+    "nays": 0,
+    "motion": "(Skills Based Hiring) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "126:H3197",
+   "session": 126,
+   "bill_no": "H3197",
+   "title": "Workforce readiness",
+   "instrument_type": "General Bill",
+   "plain_topic": "Workforce readiness: would build employability skills and career readiness into K-12 education.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "salary",
+    "pay",
+    "labor",
+    "workforce",
+    "technical college",
+    "workforce development",
+    "employer",
+    "career pathway"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3197.htm",
+   "sponsors": [
+    "Erickson",
+    "G.M. Smith",
+    "Wooten",
+    "Pope",
+    "Martin",
+    "W. Newton",
+    "Grant",
+    "Robbins",
+    "Vaughan",
+    "Alexander",
+    "Govan",
+    "Hartnett",
+    "Henderson-Myers",
+    "Kirby",
+    "Gilliard",
+    "Rivers",
+    "Waters",
+    "M.M. Smith"
+   ],
+   "sponsors_raw": "Reps. Erickson, G.M. Smith, Wooten, Pope, Martin, W. Newton, Grant, Robbins, Vaughan, Alexander, Govan, Hartnett, Henderson-Myers, Kirby, Gilliard, Rivers, Waters and M.M. Smith",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Reported out of House Education and Public Works Committee; died before a floor vote",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H3201",
+   "session": 126,
+   "bill_no": "H3201",
+   "title": "Computer Science Education Initiative Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Computer science education initiative (career pathways in K-12).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "workforce",
+    "career pathway",
+    "employer",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3201.htm",
+   "sponsors": [
+    "Davis",
+    "Erickson",
+    "Pope",
+    "Spann-Wilder",
+    "Pedalino",
+    "Forrest",
+    "Cobb-Hunter",
+    "Rivers",
+    "Henderson-Myers",
+    "Govan"
+   ],
+   "sponsors_raw": "Reps. Davis, Erickson, Pope, Spann-Wilder, Pedalino, Forrest, Cobb-Hunter, Rivers, Henderson-Myers and Govan",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "roll_call_count": 1,
+   "passage_votes": [
+    {
+     "chamber": "House",
+     "motion": "(Computer Science Education Initiative Act) Passage of Bill",
+     "yeas": 105,
+     "nays": 2,
+     "result": "Passed",
+     "datetime": "04/09/2025 02:46 pm",
+     "ballot_pdf_key": 25793
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 105,
+    "nays": 2,
+    "motion": "(Computer Science Education Initiative Act) Passage of Bill",
+    "yes_pct": 0.9813084112149533
+   }
+  },
+  {
+   "bill_key": "126:H3225",
+   "session": 126,
+   "bill_no": "H3225",
+   "title": "South Carolina Service Year Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Service Year Act: a paid service-year program for young adults with education and workforce on-ramps.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "pay",
+    "workforce",
+    "apprenticeship",
+    "workforce development",
+    "employer",
+    "collective bargaining",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3225.htm",
+   "sponsors": [
+    "Garvin",
+    "Cobb-Hunter"
+   ],
+   "sponsors_raw": "Reps. Garvin and Cobb-Hunter",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Education and Public Works)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H3226",
+   "session": 126,
+   "bill_no": "H3226",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would phase in a state minimum wage of $10.10 an hour over three years, with automatic yearly adjustments.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3226.htm",
+   "sponsors": [
+    "Garvin",
+    "Cobb-Hunter"
+   ],
+   "sponsors_raw": "Reps. Garvin and Cobb-Hunter",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H3298",
+   "session": 126,
+   "bill_no": "H3298",
+   "title": "Overtime income tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt overtime pay from state income tax.",
+   "theme": "Take-home pay: overtime rules and taxes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "overtime",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3298.htm",
+   "sponsors": [
+    "Beach"
+   ],
+   "sponsors_raw": "Rep. Beach",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H3368",
+   "session": 126,
+   "bill_no": "H3368",
+   "title": "Income tax on overtime pay",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt overtime pay from state income tax; passed the House, then failed on the Senate floor.",
+   "theme": "Take-home pay: overtime rules and taxes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "pay",
+    "income",
+    "overtime",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3368.htm",
+   "sponsors": [
+    "Long",
+    "Forrest",
+    "Yow",
+    "C. Mitchell",
+    "Magnuson",
+    "Calhoon",
+    "J.E. Johnson",
+    "Crawford",
+    "Erickson",
+    "Davis",
+    "Bradley",
+    "Hager",
+    "Hartz",
+    "McCravy",
+    "Ballentine",
+    "Bowers",
+    "Bailey",
+    "Hardee",
+    "Guest",
+    "Hewitt",
+    "Jordan",
+    "Lowe",
+    "McGinnis",
+    "Sessions",
+    "Caskey",
+    "B. Newton",
+    "Hiott",
+    "Gilliam",
+    "Bannister",
+    "G.M. Smith",
+    "Ligon",
+    "Bustos",
+    "Hartnett",
+    "W. Newton",
+    "Wooten",
+    "Oremus",
+    "Pedalino",
+    "M.M. Smith",
+    "B.L. Cox",
+    "Landing",
+    "Robbins",
+    "Martin",
+    "Brewer",
+    "Ford",
+    "Teeple",
+    "Vaughan",
+    "Pope",
+    "Chapman",
+    "Gagnon",
+    "Gibson",
+    "Whitmire",
+    "Rankin",
+    "Sanders",
+    "Duncan",
+    "Wickensimer",
+    "Haddon",
+    "Herbkersman",
+    "Lawson",
+    "T. Moore",
+    "Taylor",
+    "Holman",
+    "Schuessler"
+   ],
+   "sponsors_raw": "Reps. Long, Forrest, Yow, C. Mitchell, Magnuson, Calhoon, J.E. Johnson, Crawford, Erickson, Davis, Bradley, Hager, Hartz, McCravy, Ballentine, Bowers, Bailey, Hardee, Guest, Hewitt, Jordan, Lowe, McGinnis, Sessions, Caskey, B. Newton, Hiott, Gilliam, Bannister, G.M. Smith, Ligon, Bustos, Hartnett, W. Newton, Wooten, Oremus, Pedalino, M.M. Smith, B.L. Cox, Landing, Robbins, Martin, Brewer, Ford, Teeple, Vaughan, Pope, Chapman, Gagnon, Gibson, Whitmire, Rankin, Sanders, Duncan, Wickensimer, Haddon, Herbkersman, Lawson, T. Moore, Taylor, Holman and Schuessler",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Passed the House; failed on the Senate floor",
+   "roll_call_count": 2,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Income tax on overtime pay) 2nd Reading",
+     "yeas": 16,
+     "nays": 27,
+     "result": "Failed",
+     "datetime": "03/31/2026 03:14 pm",
+     "ballot_pdf_key": 27117
+    },
+    {
+     "chamber": "House",
+     "motion": "(Income tax on overtime pay) Passage of Bill",
+     "yeas": 121,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "03/10/2026 08:54 pm",
+     "ballot_pdf_key": 26978
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "House",
+    "yeas": 121,
+    "nays": 0,
+    "motion": "(Income tax on overtime pay) Passage of Bill",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "126:H3479",
+   "session": 126,
+   "bill_no": "H3479",
+   "title": "Skills-Based Hiring Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Skills-Based Hiring Act: state jobs open to skills and experience, not just degrees.",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "labor",
+    "workforce",
+    "apprenticeship",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3479.htm",
+   "sponsors": [
+    "Garvin",
+    "Pope",
+    "Cobb-Hunter"
+   ],
+   "sponsors_raw": "Reps. Garvin, Pope and Cobb-Hunter",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H3512",
+   "session": 126,
+   "bill_no": "H3512",
+   "title": "South Carolina State Employee Equal Pay for Equal Work",
+   "instrument_type": "General Bill",
+   "plain_topic": "Equal pay for equal work for state employees.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3512.htm",
+   "sponsors": [
+    "Stavrinakis",
+    "Spann-Wilder",
+    "Cobb-Hunter"
+   ],
+   "sponsors_raw": "Reps. Stavrinakis, Spann-Wilder and Cobb-Hunter",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H3559",
+   "session": 126,
+   "bill_no": "H3559",
+   "title": "Inmate wages",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would set pay rules for inmate labor.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3559.htm",
+   "sponsors": [
+    "Williams"
+   ],
+   "sponsors_raw": "Rep. Williams",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H3583",
+   "session": 126,
+   "bill_no": "H3583",
+   "title": "Public school support staff compensation",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise pay for public school support staff.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "salary",
+    "pay",
+    "minimum wage"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3583.htm",
+   "sponsors": [
+    "Williams",
+    "McDaniel"
+   ],
+   "sponsors_raw": "Reps. Williams and McDaniel",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H3734",
+   "session": 126,
+   "bill_no": "H3734",
+   "title": "Collective bargaining by political subdivisions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would allow collective bargaining by political subdivisions.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "pay",
+    "labor",
+    "employer",
+    "collective bargaining"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3734.htm",
+   "sponsors": [
+    "Cobb-Hunter"
+   ],
+   "sponsors_raw": "Rep. Cobb-Hunter",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Education and Public Works)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H3735",
+   "session": 126,
+   "bill_no": "H3735",
+   "title": "Wage boards",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Wage Board Act: would let the state workforce agency convene boards that set minimum pay rates by occupation.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "workforce",
+    "overtime",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3735.htm",
+   "sponsors": [
+    "Cobb-Hunter"
+   ],
+   "sponsors_raw": "Rep. Cobb-Hunter",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H3793",
+   "session": 126,
+   "bill_no": "H3793",
+   "title": "Overtime income tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt overtime pay from state income tax.",
+   "theme": "Take-home pay: overtime rules and taxes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "overtime",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3793.htm",
+   "sponsors": [
+    "Teeple",
+    "Holman",
+    "Hartnett",
+    "B.L. Cox",
+    "Brewer",
+    "Bustos",
+    "Edgerton",
+    "Gilreath",
+    "Guest",
+    "Landing",
+    "Martin",
+    "Wickensimer",
+    "Kilmartin",
+    "Moss"
+   ],
+   "sponsors_raw": "Reps. Teeple, Holman, Hartnett, B.L. Cox, Brewer, Bustos, Edgerton, Gilreath, Guest, Landing, Martin, Wickensimer, Kilmartin and Moss",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H3809",
+   "session": 126,
+   "bill_no": "H3809",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would set a state minimum wage of $17 an hour starting January 2027.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3809.htm",
+   "sponsors": [
+    "Hart",
+    "King",
+    "Henderson-Myers"
+   ],
+   "sponsors_raw": "Reps. Hart, King and Henderson-Myers",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H3863",
+   "session": 126,
+   "bill_no": "H3863",
+   "title": "South Carolina STEM Opportunity Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC STEM Opportunity Act: expands STEM education pathways toward workforce needs.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "technical college",
+    "workforce development"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3863.htm",
+   "sponsors": [
+    "Davis",
+    "M.M. Smith",
+    "Rivers",
+    "Henderson-Myers",
+    "Waters",
+    "Pope"
+   ],
+   "sponsors_raw": "Reps. Davis, M.M. Smith, Rivers, Henderson-Myers, Waters and Pope",
+   "act_no": "A142",
+   "ratification_no": "R185",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 142)",
+   "roll_call_count": 3,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(South Carolina STEM Opportunity Act) 2nd Reading",
+     "yeas": 43,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "05/06/2026 03:57 pm",
+     "ballot_pdf_key": 27597
+    },
+    {
+     "chamber": "House",
+     "motion": "(South Carolina STEM Opportunity Act) Passage of Bill",
+     "yeas": 103,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "04/08/2025 12:47 pm",
+     "ballot_pdf_key": 25770
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 43,
+    "nays": 0,
+    "motion": "(South Carolina STEM Opportunity Act) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "126:H4174",
+   "session": 126,
+   "bill_no": "H4174",
+   "title": "Job development credits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would change job development credits (the state's wage-linked hiring incentive).",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4174.htm",
+   "sponsors": [
+    "B. Newton",
+    "Hewitt"
+   ],
+   "sponsors_raw": "Reps. B. Newton and Hewitt",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H4245",
+   "session": 126,
+   "bill_no": "H4245",
+   "title": "Workforce Advancement and Taxpayer Reinvestment Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Workforce Advancement and Taxpayer Reinvestment Act: tax relief for people moving off government assistance and credits for businesses that hire and retain them.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "core",
+   "found_by_terms": [
+    "salary",
+    "income",
+    "workforce",
+    "workforce development",
+    "tax credit",
+    "incentive",
+    "pay",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4245.htm",
+   "sponsors": [
+    "Jones",
+    "Gilliard",
+    "Grant"
+   ],
+   "sponsors_raw": "Reps. Jones, Gilliard and Grant",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H4394",
+   "session": 126,
+   "bill_no": "H4394",
+   "title": "Childcare",
+   "instrument_type": "General Bill",
+   "plain_topic": "Childcare support (workforce participation).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "workforce",
+    "workforce development",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4394.htm",
+   "sponsors": [
+    "J.L. Johnson"
+   ],
+   "sponsors_raw": "Rep. J.L. Johnson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H4603",
+   "session": 126,
+   "bill_no": "H4603",
+   "title": "Small Business Livable Wage Tax Credit Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Small Business Livable Wage Tax Credit Act: an income tax credit for small employers who pay at or above a livable wage.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "living wage",
+    "income",
+    "workforce",
+    "employer",
+    "tax credit",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4603.htm",
+   "sponsors": [
+    "Jones",
+    "Spann-Wilder",
+    "White"
+   ],
+   "sponsors_raw": "Reps. Jones, Spann-Wilder and White",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H4744",
+   "session": 126,
+   "bill_no": "H4744",
+   "title": "Department of Employment and Workforce communications requirements",
+   "instrument_type": "General Bill",
+   "plain_topic": "Department of Employment and Workforce communications requirements.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "labor",
+    "workforce"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4744.htm",
+   "sponsors": [
+    "T. Moore",
+    "C. Mitchell",
+    "Schuessler"
+   ],
+   "sponsors_raw": "Reps. T. Moore, C. Mitchell and Schuessler",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H4745",
+   "session": 126,
+   "bill_no": "H4745",
+   "title": "Unemployment insurance tax rate benefit ratio lookback period",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment insurance tax rate lookback period.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "labor",
+    "employer",
+    "unemployment",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4745.htm",
+   "sponsors": [
+    "T. Moore",
+    "C. Mitchell"
+   ],
+   "sponsors_raw": "Reps. T. Moore and C. Mitchell",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H4751",
+   "session": 126,
+   "bill_no": "H4751",
+   "title": "Overtime wages",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require overtime pay after eight hours in a workday, with exceptions.",
+   "theme": "Take-home pay: overtime rules and taxes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "overtime",
+    "employer",
+    "collective bargaining",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4751.htm",
+   "sponsors": [
+    "Waters"
+   ],
+   "sponsors_raw": "Rep. Waters",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H4984",
+   "session": 126,
+   "bill_no": "H4984",
+   "title": "South Carolina Dual Enrollment Opportunity Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Dual Enrollment Opportunity Act: would widen high-school access to college and technical courses.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "technical college",
+    "workforce development",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4984.htm",
+   "sponsors": [
+    "Erickson"
+   ],
+   "sponsors_raw": "Rep. Erickson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Education and Public Works)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H5357",
+   "session": 126,
+   "bill_no": "H5357",
+   "title": "Inmate minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would set a minimum wage for inmate workers.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5357.htm",
+   "sponsors": [
+    "J.L. Johnson"
+   ],
+   "sponsors_raw": "Rep. J.L. Johnson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H5471",
+   "session": 126,
+   "bill_no": "H5471",
+   "title": "Headquarters Relocation and Growth Fund",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would create a Headquarters Relocation and Growth Fund granting money to businesses that move or expand headquarters here.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "pay",
+    "minimum wage",
+    "workforce",
+    "tax credit",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5471.htm",
+   "sponsors": [
+    "Bannister"
+   ],
+   "sponsors_raw": "Rep. Bannister",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:S1118",
+   "session": 126,
+   "bill_no": "S1118",
+   "title": "Headquarters Relocation and Growth Fund",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would create a Headquarters Relocation and Growth Fund granting money to businesses that move or expand headquarters here.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "pay",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "tax credit",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1118.htm",
+   "sponsors": [
+    "Turner"
+   ],
+   "sponsors_raw": "Senator Turner",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (Senate Labor, Commerce and Industry)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:S272",
+   "session": 126,
+   "bill_no": "S272",
+   "title": "Skills Based Hiring",
+   "instrument_type": "General Bill",
+   "plain_topic": "Skills-based hiring for state government jobs.",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "pay",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/272.htm",
+   "sponsors": [
+    "Davis"
+   ],
+   "sponsors_raw": "Senator Davis",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (Senate Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:S279",
+   "session": 126,
+   "bill_no": "S279",
+   "title": "DEW Restructuring",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would restructure the Department of Employment and Workforce.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "workforce development",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/279.htm",
+   "sponsors": [
+    "Massey",
+    "Campsen"
+   ],
+   "sponsors_raw": "Senators Massey and Campsen",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Passed the Senate; died in House Judiciary Committee",
+   "roll_call_count": 1,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(DEW Restructuring) 2nd Reading",
+     "yeas": 41,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "03/19/2025 03:39 pm",
+     "ballot_pdf_key": 25628
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 41,
+    "nays": 0,
+    "motion": "(DEW Restructuring) 2nd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
+   "bill_key": "126:S770",
+   "session": 126,
+   "bill_no": "S770",
+   "title": "Childcare Assistance Program",
+   "instrument_type": "General Bill",
+   "plain_topic": "Childcare Assistance Program (workforce participation).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "pay",
+    "minimum wage",
+    "income",
+    "workforce",
+    "employer",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/770.htm",
+   "sponsors": [
+    "Kimbrell"
+   ],
+   "sponsors_raw": "Senator Kimbrell",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (Senate Family and Veterans' Services)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  }
+ ]
+}

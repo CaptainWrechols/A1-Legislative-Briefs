@@ -1,0 +1,2443 @@
+{
+ "issue": "south-carolina-04-slow-wage-growth",
+ "note": "Hand curation of the keep-all Pass 1 discovery (nothing was dropped upstream). Tiers: core = the issue's headline set (minimum wage, wage floors for specific groups, apprenticeships/hiring credits, workforce programs, employer pay incentives); adjacent = wage-related but outside the four constituent proposals (equal pay, overtime, job rules, inmate pay, incentive machinery); context = kept for audit only, excluded from headline counts. Ambiguous bills verified against latest-version full text in _universe/. All other Pass 1 hits are excluded under the rules below.",
+ "themes": [
+  "Creating a state minimum wage",
+  "Wage floors for specific groups",
+  "Apprenticeships and hiring tax credits",
+  "Career training, technical colleges, and workforce programs",
+  "Employer incentives tied to pay",
+  "Equal pay for equal work",
+  "Take-home pay: overtime rules and taxes",
+  "Other pay and job-rules bills",
+  "Related context"
+ ],
+ "counts": {
+  "total_pass1": 5744,
+  "kept": 133,
+  "by_relevance": {
+   "context": 27,
+   "core": 54,
+   "adjacent": 52
+  },
+  "by_theme": {
+   "Related context": 27,
+   "Creating a state minimum wage": 24,
+   "Other pay and job-rules bills": 14,
+   "Equal pay for equal work": 11,
+   "Career training, technical colleges, and workforce programs": 22,
+   "Wage floors for specific groups": 11,
+   "Apprenticeships and hiring tax credits": 7,
+   "Employer incentives tied to pay": 11,
+   "Take-home pay: overtime rules and taxes": 6
+  },
+  "excluded": 5611
+ },
+ "exclusion_rules": [
+  "Instrument is an honorary/ceremonial resolution (House, Senate, or Concurrent Resolution) \u2014 congratulations, memorials, and awareness days that only mention workforce or apprenticeship language.",
+  "Full-text-only hit where the matched term is incidental boilerplate (e.g. 'pay', 'labor', 'income', 'salary' inside unrelated subject matter such as sentencing reform, alimony, HOAs, utility regulation, or recycling).",
+  "Occupational-licensing bills (midwives, barbers, physician assistants, accountants, appraisers, funeral apprentices) whose only tie is 'apprentice' as a licensure pathway term.",
+  "Housing bills branded 'workforce housing' (belong to a housing issue set, not wage growth).",
+  "Anti-discrimination and unrelated education-governance bills whose hit terms are incidental.",
+  "Local technical-college commission membership housekeeping bills (kept only where campus/governance change was substantive)."
+ ],
+ "bills": [
+  {
+   "bill_key": "123:H3105",
+   "session": 123,
+   "bill_no": "H3105",
+   "title": "Technical College Enterprise Campus Authorities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Technical college enterprise campus authorities (governance).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3105.htm"
+  },
+  {
+   "bill_key": "123:H3114",
+   "session": 123,
+   "bill_no": "H3114",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $10.10 an hour (or the federal rate if higher) and let local governments go higher.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3114.htm"
+  },
+  {
+   "bill_key": "123:H3135",
+   "session": 123,
+   "bill_no": "H3135",
+   "title": "Workforce Enhancement and Military Recognition Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Workforce Enhancement and Military Recognition Act (earlier version): military retirement pay tax exemption.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "workforce",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3135.htm"
+  },
+  {
+   "bill_key": "123:H3139",
+   "session": 123,
+   "bill_no": "H3139",
+   "title": "SC Equal Pay for Equal Work Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Equal Pay for Equal Work Act: equal pay regardless of sex or race, with enforcement.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "worker",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3139.htm"
+  },
+  {
+   "bill_key": "123:H3217",
+   "session": 123,
+   "bill_no": "H3217",
+   "title": "Minimum wage schedule",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have phased in a state minimum wage of $10.10 an hour over three years, with automatic yearly adjustments.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3217.htm"
+  },
+  {
+   "bill_key": "123:H3389",
+   "session": 123,
+   "bill_no": "H3389",
+   "title": "Felons reentering workforce, Study Committee created",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have created a study committee on people with felony records reentering the workforce.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "workforce"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3389.htm"
+  },
+  {
+   "bill_key": "123:H3395",
+   "session": 123,
+   "bill_no": "H3395",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have phased in a state minimum wage of $12 an hour over three years, with automatic yearly adjustments.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3395.htm"
+  },
+  {
+   "bill_key": "123:H3467",
+   "session": 123,
+   "bill_no": "H3467",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $13 an hour (or the federal rate if higher) and let local governments go higher.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3467.htm"
+  },
+  {
+   "bill_key": "123:H3576",
+   "session": 123,
+   "bill_no": "H3576",
+   "title": "SC Workforce Industry Needs Scholarship (SC WINS), established",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created the SC Workforce Industry Needs Scholarship (SC WINS) for technical college students in high-demand fields.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "income",
+    "workforce",
+    "technical college",
+    "workforce development"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3576.htm"
+  },
+  {
+   "bill_key": "123:H3615",
+   "session": 123,
+   "bill_no": "H3615",
+   "title": "Act to Establish Pay Equity",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Act to Establish Pay Equity: equal pay rules and pay-history protections.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3615.htm"
+  },
+  {
+   "bill_key": "123:H3686",
+   "session": 123,
+   "bill_no": "H3686",
+   "title": "Inmate employment in prison industry programs",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have changed inmate employment rules in prison industry programs.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3686.htm"
+  },
+  {
+   "bill_key": "123:H3757",
+   "session": 123,
+   "bill_no": "H3757",
+   "title": "Workforce and Education Data Oversight Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a Workforce and Education Data Oversight Committee to track education-to-job results.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "technical college",
+    "workforce development",
+    "unemployment",
+    "worker",
+    "employer",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3757.htm"
+  },
+  {
+   "bill_key": "123:H3759",
+   "session": 123,
+   "bill_no": "H3759",
+   "title": "SC Career Opportunity and Access for All",
+   "instrument_type": "General Bill",
+   "plain_topic": "SC Career Opportunity and Access for All: a statewide plan tying education to career pathways and workforce needs.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "salary",
+    "pay",
+    "income",
+    "labor",
+    "workforce",
+    "career pathway",
+    "technical college",
+    "workforce development",
+    "tax credit",
+    "incentive",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3759.htm"
+  },
+  {
+   "bill_key": "123:H3786",
+   "session": 123,
+   "bill_no": "H3786",
+   "title": "Workplace Freedom Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Workplace Freedom Act (right-to-work provisions).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "labor",
+    "apprenticeship",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3786.htm"
+  },
+  {
+   "bill_key": "123:H4022",
+   "session": 123,
+   "bill_no": "H4022",
+   "title": "Workforce Education Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Workforce Education Act: a five-year workforce-education school pilot run by the technical college board.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "workforce",
+    "technical college",
+    "workforce development"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4022.htm"
+  },
+  {
+   "bill_key": "123:H4154",
+   "session": 123,
+   "bill_no": "H4154",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $17 an hour starting January 2020.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4154.htm"
+  },
+  {
+   "bill_key": "123:H4414",
+   "session": 123,
+   "bill_no": "H4414",
+   "title": "Dual enrollment",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have expanded dual enrollment in high school.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4414.htm"
+  },
+  {
+   "bill_key": "123:H4755",
+   "session": 123,
+   "bill_no": "H4755",
+   "title": "Technical Colleges",
+   "instrument_type": "General Bill",
+   "plain_topic": "Technical college admissions standards.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "income",
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4755.htm"
+  },
+  {
+   "bill_key": "123:H4768",
+   "session": 123,
+   "bill_no": "H4768",
+   "title": "Employment First Initiative Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Employment First Initiative Act: state policy supporting competitive, integrated employment for people with disabilities.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4768.htm"
+  },
+  {
+   "bill_key": "123:H5061",
+   "session": 123,
+   "bill_no": "H5061",
+   "title": "Inmate wages",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set pay rules for inmate labor.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/5061.htm"
+  },
+  {
+   "bill_key": "123:S1271",
+   "session": 123,
+   "bill_no": "S1271",
+   "title": "Unemployment benefits; modify weekly benefit amount",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment benefits: weekly benefit amount.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "worker",
+    "labor",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/1271.htm"
+  },
+  {
+   "bill_key": "123:S147",
+   "session": 123,
+   "bill_no": "S147",
+   "title": "Minimum wage",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a state constitutional amendment creating a mandatory minimum wage, enforceable in court.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/147.htm"
+  },
+  {
+   "bill_key": "123:S149",
+   "session": 123,
+   "bill_no": "S149",
+   "title": "SC Minimum Wage Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Minimum Wage Act: a state minimum wage adjusted for inflation each year by the state workforce agency.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/149.htm"
+  },
+  {
+   "bill_key": "123:S179",
+   "session": 123,
+   "bill_no": "S179",
+   "title": "Workforce Enhancement and Military Recognition Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Workforce Enhancement and Military Recognition Act (earlier version): military retirement pay tax exemption.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "workforce",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/179.htm"
+  },
+  {
+   "bill_key": "123:S228",
+   "session": 123,
+   "bill_no": "S228",
+   "title": "Technical College Enterprise Campus Authorities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Technical college enterprise campus authorities (became law; governance).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/228.htm"
+  },
+  {
+   "bill_key": "123:S372",
+   "session": 123,
+   "bill_no": "S372",
+   "title": "Act to Establish Pay Equity",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Act to Establish Pay Equity: equal pay rules and pay-history protections.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/372.htm"
+  },
+  {
+   "bill_key": "123:S419",
+   "session": 123,
+   "bill_no": "S419",
+   "title": "SC Career Opportunity and Access for All Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "SC Career Opportunity and Access for All Act (Senate version): education-to-workforce overhaul with career pathways.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "salary",
+    "pay",
+    "income",
+    "workforce",
+    "apprenticeship",
+    "technical college",
+    "workforce development",
+    "tax credit",
+    "labor",
+    "career pathway",
+    "employer",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/419.htm"
+  },
+  {
+   "bill_key": "123:S549",
+   "session": 123,
+   "bill_no": "S549",
+   "title": "Workforce Opportunity Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Workforce Opportunity Act: 'ban the box' \u2014 the state could not ask about criminal history until later in hiring.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/549.htm"
+  },
+  {
+   "bill_key": "123:S650",
+   "session": 123,
+   "bill_no": "S650",
+   "title": "Technical and Comprehensive Education",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a workforce diploma program for adults to finish high school with job-ready skills.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "workforce",
+    "employer",
+    "career pathway"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/650.htm"
+  },
+  {
+   "bill_key": "124:H3018",
+   "session": 124,
+   "bill_no": "H3018",
+   "title": "Minimum wage schedule",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have phased in a state minimum wage of $10.10 an hour over three years, with automatic yearly adjustments.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3018.htm"
+  },
+  {
+   "bill_key": "124:H3045",
+   "session": 124,
+   "bill_no": "H3045",
+   "title": "Felons reentering workforce, Study Committee created",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have created a study committee on people with felony records reentering the workforce.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "workforce"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3045.htm"
+  },
+  {
+   "bill_key": "124:H3144",
+   "session": 124,
+   "bill_no": "H3144",
+   "title": "SC Workforce Industry Needs Scholarship (SC WINS)",
+   "instrument_type": "General Bill",
+   "plain_topic": "Created the SC Workforce Industry Needs Scholarship (SC WINS) in statute for technical college students in high-demand fields.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "workforce",
+    "technical college",
+    "unemployment",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3144.htm"
+  },
+  {
+   "bill_key": "124:H3183",
+   "session": 124,
+   "bill_no": "H3183",
+   "title": "Act to Establish Pay Equity",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Act to Establish Pay Equity: equal pay rules and pay-history protections.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3183.htm"
+  },
+  {
+   "bill_key": "124:H3184",
+   "session": 124,
+   "bill_no": "H3184",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have phased in a state minimum wage of $15 an hour over three years, with automatic yearly adjustments.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3184.htm"
+  },
+  {
+   "bill_key": "124:H3188",
+   "session": 124,
+   "bill_no": "H3188",
+   "title": "SC Equal Pay for Equal Work Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Equal Pay for Equal Work Act: equal pay regardless of sex or race, with enforcement.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "worker",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3188.htm"
+  },
+  {
+   "bill_key": "124:H3244",
+   "session": 124,
+   "bill_no": "H3244",
+   "title": "Employment First Initiative Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Employment First Initiative Act (House version); its content ultimately became law through S533.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3244.htm"
+  },
+  {
+   "bill_key": "124:H3247",
+   "session": 124,
+   "bill_no": "H3247",
+   "title": "Workforce Enhancement and Military Recognition Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Workforce Enhancement and Military Recognition Act: exempted all military retirement pay from state income tax to draw retirees into the workforce.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "workforce",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3247.htm"
+  },
+  {
+   "bill_key": "124:H3341",
+   "session": 124,
+   "bill_no": "H3341",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $15 an hour (or the federal rate if higher) and let local governments go higher.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3341.htm"
+  },
+  {
+   "bill_key": "124:H3345",
+   "session": 124,
+   "bill_no": "H3345",
+   "title": "Unemployment",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Unemployment insurance changes.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "income",
+    "unemployment",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3345.htm"
+  },
+  {
+   "bill_key": "124:H3348",
+   "session": 124,
+   "bill_no": "H3348",
+   "title": "Tax credits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created tax credits for employers who hire formerly incarcerated people or veterans into apprenticeship programs.",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "income",
+    "labor",
+    "apprenticeship",
+    "technical college",
+    "employer",
+    "tax credit",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3348.htm"
+  },
+  {
+   "bill_key": "124:H3469",
+   "session": 124,
+   "bill_no": "H3469",
+   "title": "SC Paid Sick Leave Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Paid Sick Leave Act: earned paid sick leave for workers.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3469.htm"
+  },
+  {
+   "bill_key": "124:H3470",
+   "session": 124,
+   "bill_no": "H3470",
+   "title": "Dual enrollment",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have expanded dual enrollment in high school.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3470.htm"
+  },
+  {
+   "bill_key": "124:H3480",
+   "session": 124,
+   "bill_no": "H3480",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $13 an hour (or the federal rate if higher) and let local governments go higher.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3480.htm"
+  },
+  {
+   "bill_key": "124:H3611",
+   "session": 124,
+   "bill_no": "H3611",
+   "title": "Workforce and Education Data Oversight Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a Workforce and Education Data Oversight Committee to track education-to-job results.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "workforce",
+    "technical college",
+    "workforce development",
+    "unemployment",
+    "worker",
+    "labor",
+    "employer",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3611.htm"
+  },
+  {
+   "bill_key": "124:H3612",
+   "session": 124,
+   "bill_no": "H3612",
+   "title": "SC Computer Science Education Initiative Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Computer science education initiative (career pathways in K-12).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "pay",
+    "workforce",
+    "career pathway",
+    "technical college",
+    "employer",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3612.htm"
+  },
+  {
+   "bill_key": "124:H3675",
+   "session": 124,
+   "bill_no": "H3675",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $17 an hour starting January 2022.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3675.htm"
+  },
+  {
+   "bill_key": "124:H3774",
+   "session": 124,
+   "bill_no": "H3774",
+   "title": "Enterprise Zone Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended Enterprise Zone Act tax credits to professional employer organizations.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wages",
+    "pay",
+    "income",
+    "employer",
+    "incentive",
+    "wage",
+    "worker",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3774.htm"
+  },
+  {
+   "bill_key": "124:H3922",
+   "session": 124,
+   "bill_no": "H3922",
+   "title": "South Carolina State Employee Equal Pay for Equal Work",
+   "instrument_type": "General Bill",
+   "plain_topic": "Equal pay for equal work for state employees.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3922.htm"
+  },
+  {
+   "bill_key": "124:H4050",
+   "session": 124,
+   "bill_no": "H4050",
+   "title": "Inmate wages",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set pay rules for inmate labor.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4050.htm"
+  },
+  {
+   "bill_key": "124:H4140",
+   "session": 124,
+   "bill_no": "H4140",
+   "title": "Public school support staff compensation",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised pay for public school support staff.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "salary",
+    "pay",
+    "minimum wage"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4140.htm"
+  },
+  {
+   "bill_key": "124:H4154",
+   "session": 124,
+   "bill_no": "H4154",
+   "title": "Inmate employment",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have changed inmate employment and pay rules.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4154.htm"
+  },
+  {
+   "bill_key": "124:H4252",
+   "session": 124,
+   "bill_no": "H4252",
+   "title": "Redline Enterprise Zone Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Redline Enterprise Zone Act: targeted hiring and investment incentives for historically redlined areas.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "income",
+    "apprenticeship",
+    "technical college",
+    "employer",
+    "incentive",
+    "pay",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4252.htm"
+  },
+  {
+   "bill_key": "124:H4766",
+   "session": 124,
+   "bill_no": "H4766",
+   "title": "Coordinating Council for Workforce Development",
+   "instrument_type": "General Bill",
+   "plain_topic": "Restructured the Coordinating Council for Workforce Development: new membership and duties.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "technical college",
+    "workforce development",
+    "worker",
+    "employer",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4766.htm"
+  },
+  {
+   "bill_key": "124:H5158",
+   "session": 124,
+   "bill_no": "H5158",
+   "title": "SC STEM Coalition",
+   "instrument_type": "General Bill",
+   "plain_topic": "SC STEM Coalition (STEM workforce pipeline).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "workforce",
+    "labor",
+    "apprenticeship",
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/5158.htm"
+  },
+  {
+   "bill_key": "124:S1090",
+   "session": 124,
+   "bill_no": "S1090",
+   "title": "Unemployment benefits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment benefits update (became law).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "pay",
+    "worker",
+    "labor",
+    "workforce",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/1090.htm"
+  },
+  {
+   "bill_key": "124:S1091",
+   "session": 124,
+   "bill_no": "S1091",
+   "title": "Unemployment tax rate, delinquent",
+   "instrument_type": "General Bill",
+   "plain_topic": "Delinquent unemployment tax rates.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "labor",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/1091.htm"
+  },
+  {
+   "bill_key": "124:S1247",
+   "session": 124,
+   "bill_no": "S1247",
+   "title": "SC STEM Coalition",
+   "instrument_type": "General Bill",
+   "plain_topic": "SC STEM Coalition (STEM workforce pipeline).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "apprenticeship",
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/1247.htm"
+  },
+  {
+   "bill_key": "124:S159",
+   "session": 124,
+   "bill_no": "S159",
+   "title": "SC Minimum Wage Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Minimum Wage Act: a state minimum wage adjusted for inflation each year by the state workforce agency.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/159.htm"
+  },
+  {
+   "bill_key": "124:S16",
+   "session": 124,
+   "bill_no": "S16",
+   "title": "Graduation requirements",
+   "instrument_type": "General Bill",
+   "plain_topic": "High school graduation requirements (career-readiness related).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "labor",
+    "apprenticeship"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/16.htm"
+  },
+  {
+   "bill_key": "124:S217",
+   "session": 124,
+   "bill_no": "S217",
+   "title": "Workforce Enhancement and Military Recognition Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Workforce Enhancement and Military Recognition Act (companion version): military retirement pay tax exemption.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "workforce",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/217.htm"
+  },
+  {
+   "bill_key": "124:S343",
+   "session": 124,
+   "bill_no": "S343",
+   "title": "SC Minimum Wage Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Minimum Wage Act: a state minimum wage adjusted for inflation each year by the state workforce agency.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/343.htm"
+  },
+  {
+   "bill_key": "124:S347",
+   "session": 124,
+   "bill_no": "S347",
+   "title": "Unemployment benefits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment benefits changes.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "worker",
+    "labor",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/347.htm"
+  },
+  {
+   "bill_key": "124:S398",
+   "session": 124,
+   "bill_no": "S398",
+   "title": "Economic development",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required companies receiving state development subsidies to meet job-creation, wage, and health-care obligations, with clawbacks.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "income",
+    "labor",
+    "apprenticeship",
+    "tax credit",
+    "unemployment",
+    "pay",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/398.htm"
+  },
+  {
+   "bill_key": "124:S421",
+   "session": 124,
+   "bill_no": "S421",
+   "title": "Unemployment security benefits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment security benefits update (became law).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "labor",
+    "unemployment",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/421.htm"
+  },
+  {
+   "bill_key": "124:S489",
+   "session": 124,
+   "bill_no": "S489",
+   "title": "Enterprise Zone Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended Enterprise Zone Act tax credits to professional employer organizations.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wages",
+    "pay",
+    "income",
+    "employer",
+    "incentive",
+    "wage",
+    "worker",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/489.htm"
+  },
+  {
+   "bill_key": "124:S514",
+   "session": 124,
+   "bill_no": "S514",
+   "title": "Act to Etablish Pay Equity",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Act to Establish Pay Equity: equal pay rules and pay-history protections.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/514.htm"
+  },
+  {
+   "bill_key": "124:S533",
+   "session": 124,
+   "bill_no": "S533",
+   "title": "Subminimum wages prohibited",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Banned paying workers with disabilities less than the federal minimum wage under FLSA Section 14(c), and enacted the Employment First Initiative Act.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "worker",
+    "labor",
+    "workforce",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/533.htm"
+  },
+  {
+   "bill_key": "124:S633",
+   "session": 124,
+   "bill_no": "S633",
+   "title": "Minimum Wage",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have put an advisory question on the 2022 ballot asking voters whether to raise the minimum wage.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "minimum wage"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/633.htm"
+  },
+  {
+   "bill_key": "124:S634",
+   "session": 124,
+   "bill_no": "S634",
+   "title": "Minimum Wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Minimum Wage Act: a state minimum wage with anti-retaliation protections for workers.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/634.htm"
+  },
+  {
+   "bill_key": "124:S901",
+   "session": 124,
+   "bill_no": "S901",
+   "title": "Taxation; income, max tax on boats, job development credits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Tax package that included changes to job development credits (the state's wage-linked hiring incentive).",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "labor",
+    "apprenticeship",
+    "technical college",
+    "employer",
+    "tax credit",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/901.htm"
+  },
+  {
+   "bill_key": "124:S922",
+   "session": 124,
+   "bill_no": "S922",
+   "title": "Unemployment benefits, eligibility",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment benefits eligibility.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/922.htm"
+  },
+  {
+   "bill_key": "124:S986",
+   "session": 124,
+   "bill_no": "S986",
+   "title": "Workforce Enhancement and Military Recognition Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Workforce Enhancement and Military Recognition Act (companion version): military retirement pay tax exemption.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "workforce",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/986.htm"
+  },
+  {
+   "bill_key": "125:H3148",
+   "session": 125,
+   "bill_no": "H3148",
+   "title": "South Carolina State Employee Equal Pay for Equal Work",
+   "instrument_type": "General Bill",
+   "plain_topic": "Equal pay for equal work for state employees.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3148.htm"
+  },
+  {
+   "bill_key": "125:H3326",
+   "session": 125,
+   "bill_no": "H3326",
+   "title": "Dual enrollment",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have expanded dual enrollment in high school.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3326.htm"
+  },
+  {
+   "bill_key": "125:H3351",
+   "session": 125,
+   "bill_no": "H3351",
+   "title": "Felons Reentering Workforce Study Committee",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have created a study committee on people with felony records reentering the workforce.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "workforce"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3351.htm"
+  },
+  {
+   "bill_key": "125:H3428",
+   "session": 125,
+   "bill_no": "H3428",
+   "title": "Equal Pay",
+   "instrument_type": "General Bill",
+   "plain_topic": "Equal pay: would bar pay discrimination and protect pay disclosure.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "worker",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3428.htm"
+  },
+  {
+   "bill_key": "125:H3450",
+   "session": 125,
+   "bill_no": "H3450",
+   "title": "Income tax on overtime pay",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted overtime pay from state income tax.",
+   "theme": "Take-home pay: overtime rules and taxes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "pay",
+    "income",
+    "labor",
+    "overtime"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3450.htm"
+  },
+  {
+   "bill_key": "125:H3575",
+   "session": 125,
+   "bill_no": "H3575",
+   "title": "Remove Dept. of Commerce References from Prison Industries Program",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have reorganized the prison industries program (pay provisions included).",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3575.htm"
+  },
+  {
+   "bill_key": "125:H3605",
+   "session": 125,
+   "bill_no": "H3605",
+   "title": "Earn and Learn Act of 2023",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Earn and Learn Act: connects students to registered apprenticeships and work-based learning for credit.",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "pay",
+    "worker",
+    "labor",
+    "workforce",
+    "apprenticeship"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3605.htm"
+  },
+  {
+   "bill_key": "125:H3726",
+   "session": 125,
+   "bill_no": "H3726",
+   "title": "Statewide Education and Workforce Development Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Statewide Education and Workforce Development Act: created the Office of Statewide Workforce Development and a unified state workforce plan.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "labor",
+    "workforce",
+    "technical college",
+    "workforce development",
+    "employer",
+    "unemployment",
+    "worker",
+    "career pathway"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3726.htm"
+  },
+  {
+   "bill_key": "125:H3783",
+   "session": 125,
+   "bill_no": "H3783",
+   "title": "Department of Employment and Workforce",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Made the Department of Employment and Workforce part of the restructured executive branch (agency governance).",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "labor",
+    "workforce"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3783.htm"
+  },
+  {
+   "bill_key": "125:H3805",
+   "session": 125,
+   "bill_no": "H3805",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $17 an hour starting January 2025.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3805.htm"
+  },
+  {
+   "bill_key": "125:H3992",
+   "session": 125,
+   "bill_no": "H3992",
+   "title": "Delinquent unemployment compensation tax rates",
+   "instrument_type": "General Bill",
+   "plain_topic": "Delinquent unemployment tax rates (became law).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "pay",
+    "labor",
+    "workforce",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3992.htm"
+  },
+  {
+   "bill_key": "125:H4060",
+   "session": 125,
+   "bill_no": "H4060",
+   "title": "Education and workforce readiness",
+   "instrument_type": "General Bill",
+   "plain_topic": "Education and workforce readiness: would have aligned K-12 with workforce preparation.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "workforce",
+    "technical college",
+    "workforce development",
+    "employer",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4060.htm"
+  },
+  {
+   "bill_key": "125:H4087",
+   "session": 125,
+   "bill_no": "H4087",
+   "title": "Income tax credits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Tax-credit package: corporate headquarters credit staffing rules and job development credit updates.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "income",
+    "apprenticeship",
+    "technical college",
+    "employer",
+    "tax credit",
+    "incentive",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4087.htm"
+  },
+  {
+   "bill_key": "125:H4212",
+   "session": 125,
+   "bill_no": "H4212",
+   "title": "Pay Equity",
+   "instrument_type": "General Bill",
+   "plain_topic": "Pay equity: equal pay rules and pay-history protections.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4212.htm"
+  },
+  {
+   "bill_key": "125:H4439",
+   "session": 125,
+   "bill_no": "H4439",
+   "title": "Unemployment insurance",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment insurance changes.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "labor",
+    "employer",
+    "pay",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4439.htm"
+  },
+  {
+   "bill_key": "125:H4600",
+   "session": 125,
+   "bill_no": "H4600",
+   "title": "Tax credit definition",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have tightened the apprenticeship hiring credit for formerly incarcerated workers (sex-offender registry exclusion).",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "income",
+    "apprenticeship",
+    "tax credit",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4600.htm"
+  },
+  {
+   "bill_key": "125:H4702",
+   "session": 125,
+   "bill_no": "H4702",
+   "title": "Computer Science Education Initiative Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Computer science education initiative (career pathways in K-12).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "workforce",
+    "career pathway",
+    "employer",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4702.htm"
+  },
+  {
+   "bill_key": "125:H4811",
+   "session": 125,
+   "bill_no": "H4811",
+   "title": "Overtime income tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted overtime pay from state income tax.",
+   "theme": "Take-home pay: overtime rules and taxes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "overtime",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4811.htm"
+  },
+  {
+   "bill_key": "125:H5105",
+   "session": 125,
+   "bill_no": "H5105",
+   "title": "Technical college credits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Technical college credit transfer.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5105.htm"
+  },
+  {
+   "bill_key": "125:H5187",
+   "session": 125,
+   "bill_no": "H5187",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set a state minimum wage of $10 an hour (or the federal rate if higher).",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5187.htm"
+  },
+  {
+   "bill_key": "125:S1001",
+   "session": 125,
+   "bill_no": "S1001",
+   "title": "Inmate Labor",
+   "instrument_type": "General Bill",
+   "plain_topic": "Requires that inmates working in private-industry prison programs earn at least the federal minimum wage.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "labor",
+    "unemployment",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/1001.htm"
+  },
+  {
+   "bill_key": "125:S151",
+   "session": 125,
+   "bill_no": "S151",
+   "title": "Unemployment Insurance Eligibility Period",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment insurance eligibility period.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wages",
+    "worker",
+    "labor",
+    "employer",
+    "wage",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/151.htm"
+  },
+  {
+   "bill_key": "125:S216",
+   "session": 125,
+   "bill_no": "S216",
+   "title": "SC Minimum Wage Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Minimum Wage Act: a state minimum wage adjusted for inflation each year by the state workforce agency.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/216.htm"
+  },
+  {
+   "bill_key": "125:S217",
+   "session": 125,
+   "bill_no": "S217",
+   "title": "Unemployment benefits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment benefits changes.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "worker",
+    "labor",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/217.htm"
+  },
+  {
+   "bill_key": "125:S25",
+   "session": 125,
+   "bill_no": "S25",
+   "title": "Workforce Opportunity Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Workforce Opportunity Act: 'ban the box' \u2014 the state could not ask about criminal history until later in hiring.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "employer",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/25.htm"
+  },
+  {
+   "bill_key": "125:S28",
+   "session": 125,
+   "bill_no": "S28",
+   "title": "Minimum Wage",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have put an advisory question on the 2024 ballot asking voters whether to raise the minimum wage.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "minimum wage",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/28.htm"
+  },
+  {
+   "bill_key": "125:S291",
+   "session": 125,
+   "bill_no": "S291",
+   "title": "Minimum Wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Minimum Wage Act: a state minimum wage with anti-retaliation protections for workers.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/291.htm"
+  },
+  {
+   "bill_key": "125:S461",
+   "session": 125,
+   "bill_no": "S461",
+   "title": "Post-secondary degree and industry credential data",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required tracking of post-secondary degrees and industry credentials against workforce needs.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "workforce",
+    "apprenticeship",
+    "technical college"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/461.htm"
+  },
+  {
+   "bill_key": "125:S546",
+   "session": 125,
+   "bill_no": "S546",
+   "title": "DEW Restructuring",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have restructured the Department of Employment and Workforce.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "workforce development",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/546.htm"
+  },
+  {
+   "bill_key": "125:S557",
+   "session": 125,
+   "bill_no": "S557",
+   "title": "Apprentice tax credit",
+   "instrument_type": "General Bill",
+   "plain_topic": "Raised the state apprenticeship tax credit and let employers claim it for more years.",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "income",
+    "labor",
+    "apprenticeship",
+    "tax credit",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/557.htm"
+  },
+  {
+   "bill_key": "125:S700",
+   "session": 125,
+   "bill_no": "S700",
+   "title": "Earned Wage Access Services Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Set consumer rules for earned-wage-access services (early access to earned pay).",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "salary",
+    "pay",
+    "income",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/700.htm"
+  },
+  {
+   "bill_key": "125:S859",
+   "session": 125,
+   "bill_no": "S859",
+   "title": "Skills Based Hiring",
+   "instrument_type": "General Bill",
+   "plain_topic": "The State Employment Skills-Based Hiring Act: state jobs open to skills and experience, not just degrees.",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "pay",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/859.htm"
+  },
+  {
+   "bill_key": "126:H3197",
+   "session": 126,
+   "bill_no": "H3197",
+   "title": "Workforce readiness",
+   "instrument_type": "General Bill",
+   "plain_topic": "Workforce readiness: would build employability skills and career readiness into K-12 education.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "salary",
+    "pay",
+    "labor",
+    "workforce",
+    "technical college",
+    "workforce development",
+    "employer",
+    "career pathway"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3197.htm"
+  },
+  {
+   "bill_key": "126:H3201",
+   "session": 126,
+   "bill_no": "H3201",
+   "title": "Computer Science Education Initiative Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Computer science education initiative (career pathways in K-12).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "workforce",
+    "career pathway",
+    "employer",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3201.htm"
+  },
+  {
+   "bill_key": "126:H3225",
+   "session": 126,
+   "bill_no": "H3225",
+   "title": "South Carolina Service Year Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC Service Year Act: a paid service-year program for young adults with education and workforce on-ramps.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "pay",
+    "workforce",
+    "apprenticeship",
+    "workforce development",
+    "employer",
+    "collective bargaining",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3225.htm"
+  },
+  {
+   "bill_key": "126:H3226",
+   "session": 126,
+   "bill_no": "H3226",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would phase in a state minimum wage of $10.10 an hour over three years, with automatic yearly adjustments.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3226.htm"
+  },
+  {
+   "bill_key": "126:H3298",
+   "session": 126,
+   "bill_no": "H3298",
+   "title": "Overtime income tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt overtime pay from state income tax.",
+   "theme": "Take-home pay: overtime rules and taxes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "overtime",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3298.htm"
+  },
+  {
+   "bill_key": "126:H3368",
+   "session": 126,
+   "bill_no": "H3368",
+   "title": "Income tax on overtime pay",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt overtime pay from state income tax; passed the House, then failed on the Senate floor.",
+   "theme": "Take-home pay: overtime rules and taxes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "pay",
+    "income",
+    "overtime",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3368.htm"
+  },
+  {
+   "bill_key": "126:H3479",
+   "session": 126,
+   "bill_no": "H3479",
+   "title": "Skills-Based Hiring Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Skills-Based Hiring Act: state jobs open to skills and experience, not just degrees.",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "labor",
+    "workforce",
+    "apprenticeship",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3479.htm"
+  },
+  {
+   "bill_key": "126:H3512",
+   "session": 126,
+   "bill_no": "H3512",
+   "title": "South Carolina State Employee Equal Pay for Equal Work",
+   "instrument_type": "General Bill",
+   "plain_topic": "Equal pay for equal work for state employees.",
+   "theme": "Equal pay for equal work",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3512.htm"
+  },
+  {
+   "bill_key": "126:H3559",
+   "session": 126,
+   "bill_no": "H3559",
+   "title": "Inmate wages",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would set pay rules for inmate labor.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3559.htm"
+  },
+  {
+   "bill_key": "126:H3583",
+   "session": 126,
+   "bill_no": "H3583",
+   "title": "Public school support staff compensation",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise pay for public school support staff.",
+   "theme": "Other pay and job-rules bills",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "salary",
+    "pay",
+    "minimum wage"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3583.htm"
+  },
+  {
+   "bill_key": "126:H3734",
+   "session": 126,
+   "bill_no": "H3734",
+   "title": "Collective bargaining by political subdivisions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would allow collective bargaining by political subdivisions.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "pay",
+    "labor",
+    "employer",
+    "collective bargaining"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3734.htm"
+  },
+  {
+   "bill_key": "126:H3735",
+   "session": 126,
+   "bill_no": "H3735",
+   "title": "Wage boards",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Wage Board Act: would let the state workforce agency convene boards that set minimum pay rates by occupation.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "workforce",
+    "overtime",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3735.htm"
+  },
+  {
+   "bill_key": "126:H3793",
+   "session": 126,
+   "bill_no": "H3793",
+   "title": "Overtime income tax exemption",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt overtime pay from state income tax.",
+   "theme": "Take-home pay: overtime rules and taxes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income",
+    "overtime",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3793.htm"
+  },
+  {
+   "bill_key": "126:H3809",
+   "session": 126,
+   "bill_no": "H3809",
+   "title": "Minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would set a state minimum wage of $17 an hour starting January 2027.",
+   "theme": "Creating a state minimum wage",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3809.htm"
+  },
+  {
+   "bill_key": "126:H3863",
+   "session": 126,
+   "bill_no": "H3863",
+   "title": "South Carolina STEM Opportunity Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SC STEM Opportunity Act: expands STEM education pathways toward workforce needs.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "technical college",
+    "workforce development"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3863.htm"
+  },
+  {
+   "bill_key": "126:H4174",
+   "session": 126,
+   "bill_no": "H4174",
+   "title": "Job development credits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would change job development credits (the state's wage-linked hiring incentive).",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "income"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4174.htm"
+  },
+  {
+   "bill_key": "126:H4245",
+   "session": 126,
+   "bill_no": "H4245",
+   "title": "Workforce Advancement and Taxpayer Reinvestment Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Workforce Advancement and Taxpayer Reinvestment Act: tax relief for people moving off government assistance and credits for businesses that hire and retain them.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "core",
+   "found_by_terms": [
+    "salary",
+    "income",
+    "workforce",
+    "workforce development",
+    "tax credit",
+    "incentive",
+    "pay",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4245.htm"
+  },
+  {
+   "bill_key": "126:H4394",
+   "session": 126,
+   "bill_no": "H4394",
+   "title": "Childcare",
+   "instrument_type": "General Bill",
+   "plain_topic": "Childcare support (workforce participation).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "workforce",
+    "workforce development",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4394.htm"
+  },
+  {
+   "bill_key": "126:H4603",
+   "session": 126,
+   "bill_no": "H4603",
+   "title": "Small Business Livable Wage Tax Credit Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Small Business Livable Wage Tax Credit Act: an income tax credit for small employers who pay at or above a livable wage.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "core",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "living wage",
+    "income",
+    "workforce",
+    "employer",
+    "tax credit",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4603.htm"
+  },
+  {
+   "bill_key": "126:H4744",
+   "session": 126,
+   "bill_no": "H4744",
+   "title": "Department of Employment and Workforce communications requirements",
+   "instrument_type": "General Bill",
+   "plain_topic": "Department of Employment and Workforce communications requirements.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "labor",
+    "workforce"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4744.htm"
+  },
+  {
+   "bill_key": "126:H4745",
+   "session": 126,
+   "bill_no": "H4745",
+   "title": "Unemployment insurance tax rate benefit ratio lookback period",
+   "instrument_type": "General Bill",
+   "plain_topic": "Unemployment insurance tax rate lookback period.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "labor",
+    "employer",
+    "unemployment",
+    "pay"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4745.htm"
+  },
+  {
+   "bill_key": "126:H4751",
+   "session": 126,
+   "bill_no": "H4751",
+   "title": "Overtime wages",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require overtime pay after eight hours in a workday, with exceptions.",
+   "theme": "Take-home pay: overtime rules and taxes",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "overtime",
+    "employer",
+    "collective bargaining",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4751.htm"
+  },
+  {
+   "bill_key": "126:H4984",
+   "session": 126,
+   "bill_no": "H4984",
+   "title": "South Carolina Dual Enrollment Opportunity Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Dual Enrollment Opportunity Act: would widen high-school access to college and technical courses.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "core",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "technical college",
+    "workforce development",
+    "employer"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4984.htm"
+  },
+  {
+   "bill_key": "126:H5357",
+   "session": 126,
+   "bill_no": "H5357",
+   "title": "Inmate minimum wage",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would set a minimum wage for inmate workers.",
+   "theme": "Wage floors for specific groups",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "wages",
+    "pay",
+    "minimum wage",
+    "labor",
+    "worker"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5357.htm"
+  },
+  {
+   "bill_key": "126:H5471",
+   "session": 126,
+   "bill_no": "H5471",
+   "title": "Headquarters Relocation and Growth Fund",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would create a Headquarters Relocation and Growth Fund granting money to businesses that move or expand headquarters here.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "pay",
+    "minimum wage",
+    "workforce",
+    "tax credit",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5471.htm"
+  },
+  {
+   "bill_key": "126:S1118",
+   "session": 126,
+   "bill_no": "S1118",
+   "title": "Headquarters Relocation and Growth Fund",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would create a Headquarters Relocation and Growth Fund granting money to businesses that move or expand headquarters here.",
+   "theme": "Employer incentives tied to pay",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "wage",
+    "pay",
+    "minimum wage",
+    "labor",
+    "workforce",
+    "tax credit",
+    "incentive"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1118.htm"
+  },
+  {
+   "bill_key": "126:S272",
+   "session": 126,
+   "bill_no": "S272",
+   "title": "Skills Based Hiring",
+   "instrument_type": "General Bill",
+   "plain_topic": "Skills-based hiring for state government jobs.",
+   "theme": "Apprenticeships and hiring tax credits",
+   "relevance": "core",
+   "found_by_terms": [
+    "pay",
+    "labor"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/272.htm"
+  },
+  {
+   "bill_key": "126:S279",
+   "session": 126,
+   "bill_no": "S279",
+   "title": "DEW Restructuring",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would restructure the Department of Employment and Workforce.",
+   "theme": "Career training, technical colleges, and workforce programs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "labor",
+    "workforce",
+    "workforce development",
+    "unemployment"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/279.htm"
+  },
+  {
+   "bill_key": "126:S770",
+   "session": 126,
+   "bill_no": "S770",
+   "title": "Childcare Assistance Program",
+   "instrument_type": "General Bill",
+   "plain_topic": "Childcare Assistance Program (workforce participation).",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "wage",
+    "pay",
+    "minimum wage",
+    "income",
+    "workforce",
+    "employer",
+    "tax credit"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/770.htm"
+  }
+ ]
+}

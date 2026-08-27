@@ -1,0 +1,377 @@
+{
+ "issue": "south-carolina-04-slow-wage-growth",
+ "note": "Hand-curated wage/workforce provisos from Part IB of each enacted appropriations act (term-matched candidate sets in provisos/{year}/). Budget provisos are one-year rules enacted inside the annual budget bill; votes attach to the whole appropriations bill (or a named amendment), never to one proviso. FY 2020-21 had no enacted Part IB (COVID continuing resolution) \u2014 stated explicitly per the workflow's none-found rule.",
+ "cycles": [
+  {
+   "fiscal_year": "2020-2021",
+   "bill_no": "H5201",
+   "enacted": false,
+   "provisos": [],
+   "note": "No enacted Part IB this cycle: H5201 died in committee during COVID; the state ran on continuing resolution H3411 plus CARES acts."
+  },
+  {
+   "fiscal_year": "2021-2022",
+   "bill_no": "H4100",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "25.4",
+     "caption": "TEC: Critical Statewide Workforce Needs",
+     "display_caption": "TEC: Critical Statewide Workforce Needs",
+     "why_relevant": "Directs technical college STEM/workforce money to the fields with the most unmet employer demand, set with the Commerce and workforce agencies.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1A.33",
+     "caption": "SDE-EIA: Career Cluster Industry Partnerships",
+     "display_caption": "SDE-EIA: Career Cluster Industry Partnerships",
+     "why_relevant": "Grants to industry groups running certified career and technology education programs (automotive, construction, healthcare, and more).",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1A.58",
+     "caption": "SDE-EIA: Career and Technology Education",
+     "display_caption": "SDE-EIA: Career and Technology Education",
+     "why_relevant": "Funds career and technology education in schools.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "3.5",
+     "caption": "LEA: FY 2021-22 Lottery Funding",
+     "display_caption": "LEA lottery funding (SC WINS line)",
+     "why_relevant": "Lottery money funds the SC Workforce Industry Needs Scholarship for technical college students each year.",
+     "verbatim_figure": "SC WINS scholarships: $17,000,000"
+    },
+    {
+     "proviso": "117.169",
+     "caption": "GP: Employee Compensation",
+     "display_caption": "GP: Employee Compensation",
+     "why_relevant": "The annual state-employee pay raise is set here, inside the budget, not in a standalone pay law.",
+     "verbatim_figure": "State employee base pay raised 2.5%"
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2022-2023",
+   "bill_no": "H5150",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "25.4",
+     "caption": "TEC: Critical Statewide Workforce Needs",
+     "display_caption": "TEC: Critical Statewide Workforce Needs",
+     "why_relevant": "Directs technical college STEM/workforce money to the fields with the most unmet employer demand, set with the Commerce and workforce agencies.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1A.33",
+     "caption": "SDE-EIA: Career Cluster Industry Partnerships",
+     "display_caption": "SDE-EIA: Career Cluster Industry Partnerships",
+     "why_relevant": "Grants to industry groups running certified career and technology education programs (automotive, construction, healthcare, and more).",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1A.57",
+     "caption": "SDE-EIA: Career and Technology Education",
+     "display_caption": "SDE-EIA: Career and Technology Education",
+     "why_relevant": "Funds career and technology education in schools.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "3.5",
+     "caption": "LEA: FY 2022-23 Lottery Funding",
+     "display_caption": "LEA lottery funding (SC WINS line)",
+     "why_relevant": "Lottery money funds the SC Workforce Industry Needs Scholarship for technical college students each year.",
+     "verbatim_figure": "SC WINS scholarships: $17,000,000"
+    },
+    {
+     "proviso": "117.149",
+     "caption": "GP: Employee Compensation",
+     "display_caption": "GP: Employee Compensation",
+     "why_relevant": "The annual state-employee pay raise is set here, inside the budget, not in a standalone pay law.",
+     "verbatim_figure": "State employee base pay raised 3%"
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2023-2024",
+   "bill_no": "H4300",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "117.165",
+     "caption": "GP: Lead Apprenticeship Agency",
+     "display_caption": "GP: Lead Apprenticeship Agency",
+     "why_relevant": "Names the technical college board (through Apprenticeship Carolina) the lead agency for all registered apprenticeships in the state. This designation exists only as a one-year budget rule, not permanent law.",
+     "verbatim_figure": "First appearance of the lead-agency designation"
+    },
+    {
+     "proviso": "25.4",
+     "caption": "TEC: Critical Statewide Workforce Needs",
+     "display_caption": "TEC: Critical Statewide Workforce Needs",
+     "why_relevant": "Directs technical college STEM/workforce money to the fields with the most unmet employer demand, set with the Commerce and workforce agencies.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1A.28",
+     "caption": "SDE-EIA: Career Cluster Industry Partnerships",
+     "display_caption": "SDE-EIA: Career Cluster Industry Partnerships",
+     "why_relevant": "Grants to industry groups running certified career and technology education programs (automotive, construction, healthcare, and more).",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1A.51",
+     "caption": "SDE-EIA: Career and Technology Education",
+     "display_caption": "SDE-EIA: Career and Technology Education",
+     "why_relevant": "Funds career and technology education in schools.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "3.6",
+     "caption": "LEA: FY 2023-24 Lottery Funding",
+     "display_caption": "LEA lottery funding (SC WINS line)",
+     "why_relevant": "Lottery money funds the SC Workforce Industry Needs Scholarship for technical college students each year.",
+     "verbatim_figure": "SC WINS scholarships: $93,739,407"
+    },
+    {
+     "proviso": "117.144",
+     "caption": "GP: Employee Compensation",
+     "display_caption": "GP: Employee Compensation",
+     "why_relevant": "The annual state-employee pay raise is set here, inside the budget, not in a standalone pay law.",
+     "verbatim_figure": "State employee raise: $2,500 (making $50,000 or less) or 5% (making more)"
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2024-2025",
+   "bill_no": "H5100",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "117.163",
+     "caption": "GP: Lead Apprenticeship Agency",
+     "display_caption": "GP: Lead Apprenticeship Agency",
+     "why_relevant": "Names the technical college board (through Apprenticeship Carolina) the lead agency for all registered apprenticeships in the state. This designation exists only as a one-year budget rule, not permanent law.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "25.4",
+     "caption": "TEC: Critical Statewide Workforce Needs",
+     "display_caption": "TEC: Critical Statewide Workforce Needs",
+     "why_relevant": "Directs technical college STEM/workforce money to the fields with the most unmet employer demand, set with the Commerce and workforce agencies.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "25.9",
+     "caption": "TEC: IDD Workforce Pilot",
+     "display_caption": "TEC: IDD Workforce Pilot",
+     "why_relevant": "A pilot program helping people with intellectual and developmental disabilities into the workforce.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1.102",
+     "caption": "SDE: SC Future Makers and Tallo",
+     "display_caption": "SDE: SC Future Makers and Tallo",
+     "why_relevant": "Funds a platform connecting students to South Carolina employers.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1A.28",
+     "caption": "SDE-EIA: Career Cluster Industry Partnerships",
+     "display_caption": "SDE-EIA: Career Cluster Industry Partnerships",
+     "why_relevant": "Grants to industry groups running certified career and technology education programs (automotive, construction, healthcare, and more).",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1A.51",
+     "caption": "SDE-EIA: Career and Technology Education",
+     "display_caption": "SDE-EIA: Career and Technology Education",
+     "why_relevant": "Funds career and technology education in schools.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "3.6",
+     "caption": "LEA: FY 2024-25 Lottery Funding",
+     "display_caption": "LEA lottery funding (SC WINS line)",
+     "why_relevant": "Lottery money funds the SC Workforce Industry Needs Scholarship for technical college students each year.",
+     "verbatim_figure": "SC WINS scholarships: $78,651,047"
+    },
+    {
+     "proviso": "117.142",
+     "caption": "GP: Employee Compensation",
+     "display_caption": "GP: Employee Compensation",
+     "why_relevant": "The annual state-employee pay raise is set here, inside the budget, not in a standalone pay law.",
+     "verbatim_figure": "State employee raise: $1,125 (making $50,000 or less) or 2.25% (making more)"
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2025-2026",
+   "bill_no": "H4025",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "117.159",
+     "caption": "GP: Lead Apprenticeship Agency",
+     "display_caption": "GP: Lead Apprenticeship Agency",
+     "why_relevant": "Names the technical college board (through Apprenticeship Carolina) the lead agency for all registered apprenticeships in the state. This designation exists only as a one-year budget rule, not permanent law.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "25.4",
+     "caption": "TEC: Critical Statewide Workforce Needs",
+     "display_caption": "TEC: Critical Statewide Workforce Needs",
+     "why_relevant": "Directs technical college STEM/workforce money to the fields with the most unmet employer demand, set with the Commerce and workforce agencies.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "25.10",
+     "caption": "TEC: SC Workforce Competitiveness Initiative",
+     "display_caption": "TEC: SC Workforce Competitiveness Initiative",
+     "why_relevant": "Funds a public-awareness campaign about manufacturing and related careers.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "25.8",
+     "caption": "TEC: IDD Workforce Pilot",
+     "display_caption": "TEC: IDD Workforce Pilot",
+     "why_relevant": "A pilot program helping people with intellectual and developmental disabilities into the workforce.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "25.12",
+     "caption": "TEC: Denmark Technical College",
+     "display_caption": "TEC: Denmark Technical College",
+     "why_relevant": "Targeted support for Denmark Technical College.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "25.14",
+     "caption": "TEC: Dual Enrollment Courses",
+     "display_caption": "TEC: Dual Enrollment Courses",
+     "why_relevant": "Sets rules for technical college dual-enrollment courses.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1.98",
+     "caption": "SDE: SC Future Makers and Tallo",
+     "display_caption": "SDE: SC Future Makers and Tallo",
+     "why_relevant": "Funds a platform connecting students to South Carolina employers.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1A.28",
+     "caption": "SDE-EIA: Career Cluster Industry Partnerships",
+     "display_caption": "SDE-EIA: Career Cluster Industry Partnerships",
+     "why_relevant": "Grants to industry groups running certified career and technology education programs (automotive, construction, healthcare, and more).",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1A.51",
+     "caption": "SDE-EIA: Career and Technology Education",
+     "display_caption": "SDE-EIA: Career and Technology Education",
+     "why_relevant": "Funds career and technology education in schools.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "3.7",
+     "caption": "LEA: FY 2025-26 Lottery Funding",
+     "display_caption": "LEA lottery funding (SC WINS line)",
+     "why_relevant": "Lottery money funds the SC Workforce Industry Needs Scholarship for technical college students each year.",
+     "verbatim_figure": "SC WINS scholarships: $54,324,046"
+    },
+    {
+     "proviso": "117.141",
+     "caption": "GP: Employee Compensation",
+     "display_caption": "GP: Employee Compensation",
+     "why_relevant": "The annual state-employee pay raise is set here, inside the budget, not in a standalone pay law.",
+     "verbatim_figure": "State employee base pay raised 2%"
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2026-2027",
+   "bill_no": "H5126",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "117.155",
+     "caption": "GP: Lead Apprenticeship Agency",
+     "display_caption": "GP: Lead Apprenticeship Agency",
+     "why_relevant": "Names the technical college board (through Apprenticeship Carolina) the lead agency for all registered apprenticeships in the state. This designation exists only as a one-year budget rule, not permanent law.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "25.4",
+     "caption": "TEC: Critical Statewide Workforce Needs",
+     "display_caption": "TEC: Critical Statewide Workforce Needs",
+     "why_relevant": "Directs technical college STEM/workforce money to the fields with the most unmet employer demand, set with the Commerce and workforce agencies.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "25.8",
+     "caption": "TEC: SC Workforce Competitiveness Initiative",
+     "display_caption": "TEC: SC Workforce Competitiveness Initiative",
+     "why_relevant": "Funds a public-awareness campaign about manufacturing and related careers.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "25.7",
+     "caption": "TEC: IDD Workforce Pilot",
+     "display_caption": "TEC: IDD Workforce Pilot",
+     "why_relevant": "A pilot program helping people with intellectual and developmental disabilities into the workforce.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "25.9",
+     "caption": "TEC: Denmark Technical College",
+     "display_caption": "TEC: Denmark Technical College",
+     "why_relevant": "Targeted support for Denmark Technical College.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "25.10",
+     "caption": "TEC: Dual Enrollment Courses",
+     "display_caption": "TEC: Dual Enrollment Courses",
+     "why_relevant": "Sets rules for technical college dual-enrollment courses.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1.94",
+     "caption": "SDE: SC Future Makers and Tallo",
+     "display_caption": "SDE: SC Future Makers and Tallo",
+     "why_relevant": "Funds a platform connecting students to South Carolina employers.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1A.27",
+     "caption": "SDE-EIA: Career Cluster Industry Partnerships",
+     "display_caption": "SDE-EIA: Career Cluster Industry Partnerships",
+     "why_relevant": "Grants to industry groups running certified career and technology education programs (automotive, construction, healthcare, and more).",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "1A.50",
+     "caption": "SDE-EIA: Career and Technology Education",
+     "display_caption": "SDE-EIA: Career and Technology Education",
+     "why_relevant": "Funds career and technology education in schools.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "3.8",
+     "caption": "LEA: FY 2026-27 Lottery Funding",
+     "display_caption": "LEA lottery funding (SC WINS line)",
+     "why_relevant": "Lottery money funds the SC Workforce Industry Needs Scholarship for technical college students each year.",
+     "verbatim_figure": "SC WINS scholarships: $24,717,545"
+    },
+    {
+     "proviso": "117.138",
+     "caption": "GP: Employee Compensation",
+     "display_caption": "GP: Employee Compensation",
+     "why_relevant": "The annual state-employee pay raise is set here, inside the budget, not in a standalone pay law.",
+     "verbatim_figure": "State employee base pay raised 2%"
+    }
+   ]
+  }
+ ]
+}
