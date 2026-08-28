@@ -161,7 +161,7 @@ KEEP = {
     (125, "H3069"): ("core", T_REDIST, "The FAIR in Redistricting Act: binding criteria and a public process for maps the General Assembly draws (no commission)."),
     (125, "H4222"): ("core", T_REDIST, "The Anti-Gerrymandering Act: a multipartisan redistricting commission submitting plans to the General Assembly."),
     (124, "H4493"): ("adjacent", T_REDIST, "The actual 2021 House map: adopted the 2020 census and drew the new House districts (Act 117 of 2021)."),
-    (124, "S865"):  ("adjacent", T_REDIST, "The actual 2022 Senate and congressional maps (Act 118 of 2022) - the map later defended in the federal gerrymandering suit over District 1."),
+    (124, "S865"):  ("adjacent", T_REDIST, "The actual 2022 Senate and congressional maps, drawn and passed by the General Assembly itself (Act 118 of 2022)."),
     (124, "H4492"): ("adjacent", T_REDIST, "The House's own 2022 congressional-map bill; sent back to committee when the maps moved through S865 instead."),
     (126, "H4717"): ("adjacent", T_REDIST, "Would have redrawn South Carolina's congressional districts mid-decade, starting with the 2026 election; died in House Judiciary."),
     (126, "H5683"): ("adjacent", T_REDIST, "The May 2026 mid-decade congressional redraw: passed the House 74-37 after dozens of amendment fights, then the Senate voted 26-18 to shelve it."),

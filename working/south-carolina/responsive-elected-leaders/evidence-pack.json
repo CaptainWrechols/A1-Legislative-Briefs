@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T17:03:41.133679+00:00",
+ "generated_at": "2026-08-28T17:13:00.725900+00:00",
  "issue": "south-carolina-02-responsive-elected-leaders",
  "sessions": [
   {
@@ -780,7 +780,7 @@
     "126:H3318"
    ],
    "coverage": "attempts_both_directions_zero_movement",
-   "note": "Both directions have been filed and neither has ever had a hearing: three bills to allow ranked choice (instant runoff) voting in municipal/local elections (2022, 2023, 2025) and two bills to ban ranked choice voting statewide (2023, 2025). All five died in House Judiciary without a vote. The adjacent runoff-abolition bills (plurality primaries) also never moved.",
+   "note": "Both directions have been filed and neither has ever had a hearing: three bills to allow ranked choice (instant runoff) voting in municipal/local elections (2022, 2023, 2025) and two bills to ban ranked choice voting statewide (2024, 2025). All five died in House Judiciary without a vote. The adjacent runoff-abolition bills (plurality primaries) also never moved.",
    "proposal_id": "ranked-choice-voting",
    "proposal_title": "Ranked choice voting"
   },
@@ -4673,7 +4673,7 @@
    "bill_no": "S865",
    "title": "Elections - REAPPORTIONMENT: Adopting 2020 Census and Establishing New Senate and House Districts",
    "instrument_type": "General Bill",
-   "plain_topic": "The actual 2022 Senate and congressional maps (Act 118 of 2022) - the map later defended in the federal gerrymandering suit over District 1.",
+   "plain_topic": "The actual 2022 Senate and congressional maps, drawn and passed by the General Assembly itself (Act 118 of 2022).",
    "theme": "Who draws the voting maps (redistricting)",
    "relevance": "adjacent",
    "found_by_terms": [

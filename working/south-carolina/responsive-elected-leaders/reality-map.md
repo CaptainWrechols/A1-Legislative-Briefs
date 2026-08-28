@@ -165,10 +165,7 @@ legislature exercising the very power citizens proposed to move
   opposite ways, and neither direction moved.
 - **Levers and venue:** election method is state law even for city
   elections (Titles 5 and 7), so a city cannot adopt RCV on its own — the
-  local-option bills exist precisely to grant that permission. Military
-  and overseas ballots already use an instant-runoff-style ranked ballot in
-  runoff states, a fact groups may want to verify with the Election
-  Commission when weighing feasibility.
+  local-option bills exist precisely to grant that permission.
 - **Open questions for a group:** is the target statewide RCV, local
   option, or runoff replacement? Does the presence of ban bills change the
   strategy conversation? What does the Election Commission say

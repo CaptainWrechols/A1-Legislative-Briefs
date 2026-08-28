@@ -89,7 +89,7 @@ CROSSWALK = {
         "note": ("Both directions have been filed and neither has ever had a hearing: three "
                  "bills to allow ranked choice (instant runoff) voting in municipal/local "
                  "elections (2022, 2023, 2025) and two bills to ban ranked choice voting "
-                 "statewide (2023, 2025). All five died in House Judiciary without a vote. "
+                 "statewide (2024, 2025). All five died in House Judiciary without a vote. "
                  "The adjacent runoff-abolition bills (plurality primaries) also never moved."),
     },
     "independent-redistricting": {
