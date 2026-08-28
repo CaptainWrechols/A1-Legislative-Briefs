@@ -1,0 +1,667 @@
+{
+ "issue": "south-carolina-02-responsive-elected-leaders",
+ "generated_by": "reality-mapper v2.2 (issue-chat run, 2026-08-28)",
+ "source": "working/south-carolina/responsive-elected-leaders/evidence-pack.json",
+ "baskets": {
+  "often_moved": "Often moved before",
+  "unfinished": "Got support but didn't finish",
+  "rarely_moved": "Rarely moved before"
+ },
+ "headline_pattern": {
+  "policy_bills": 177,
+  "first_committee_deaths": 163,
+  "first_committee_deaths_in_judiciary": 149,
+  "house_judiciary": 84,
+  "senate_judiciary": 65,
+  "no_passage_vote_at_any_stage": 166,
+  "enacted": 4,
+  "adopted_resolutions": 1,
+  "note": "Counts from evidence-pack.json inventory; policy set = core + adjacent."
+ },
+ "session_snapshot": [
+  {
+   "session": 123,
+   "label": "123rd (2019-2020)",
+   "bills_in_policy_set": 55,
+   "enacted_or_adopted": 0,
+   "core": 46,
+   "core_enacted_or_adopted": 0
+  },
+  {
+   "session": 124,
+   "label": "124th (2021-2022)",
+   "bills_in_policy_set": 49,
+   "enacted_or_adopted": 3,
+   "core": 40,
+   "core_enacted_or_adopted": 1
+  },
+  {
+   "session": 125,
+   "label": "125th (2023-2024)",
+   "bills_in_policy_set": 37,
+   "enacted_or_adopted": 0,
+   "core": 30,
+   "core_enacted_or_adopted": 0
+  },
+  {
+   "session": 126,
+   "label": "126th (2025-2026)",
+   "bills_in_policy_set": 36,
+   "enacted_or_adopted": 2,
+   "core": 23,
+   "core_enacted_or_adopted": 2
+  }
+ ],
+ "theme_scorecards": [
+  {
+   "theme": "Term limits for elected officials",
+   "bills": 37,
+   "enacted_or_adopted": 1,
+   "basket": "rarely_moved",
+   "certainty": "high",
+   "typical_stop": "First Judiciary committee, no hearing, no vote - 30 state measures for 30; only the federal-target Article V application (126:H3008) was adopted",
+   "examples": [
+    "124:S302",
+    "126:S590",
+    "126:H3744",
+    "126:H3008"
+   ]
+  },
+  {
+   "theme": "Campaign money rules",
+   "bills": 36,
+   "enacted_or_adopted": 0,
+   "basket": "rarely_moved",
+   "certainty": "high",
+   "typical_stop": "Senate/House Judiciary, no votes; the one floor vote (125:H4561, House 53-45) died in Senate Judiciary",
+   "examples": [
+    "124:H4877",
+    "126:S960",
+    "126:S813",
+    "125:H4561"
+   ]
+  },
+  {
+   "theme": "Ranked choice voting and runoffs",
+   "bills": 9,
+   "enacted_or_adopted": 0,
+   "basket": "rarely_moved",
+   "certainty": "high",
+   "typical_stop": "House Judiciary, no hearings - enabling bills and ban bills alike",
+   "examples": [
+    "124:H5135",
+    "126:H3589",
+    "126:H3386"
+   ]
+  },
+  {
+   "theme": "Who draws the voting maps (redistricting)",
+   "bills": 26,
+   "enacted_or_adopted": 2,
+   "basket": "rarely_moved",
+   "certainty": "high",
+   "typical_stop": "Judiciary committees, no votes on any commission/criteria bill; the legislature's own maps passed (Acts 117/118); the 2026 mid-decade redraw was shelved by the Senate 26-18",
+   "examples": [
+    "123:H3044",
+    "124:H4229",
+    "125:H4222",
+    "126:H5683"
+   ]
+  },
+  {
+   "theme": "Financial disclosure and ethics enforcement",
+   "bills": 27,
+   "enacted_or_adopted": 1,
+   "basket": "mixed",
+   "certainty": "medium-high",
+   "typical_stop": "Mostly Judiciary deaths, but one enactment (126:S70, Act 191 of 2026) and one conference death after unanimous passage in both chambers (126:H3570)",
+   "examples": [
+    "126:S70",
+    "126:H3570",
+    "125:S169",
+    "126:S75"
+   ]
+  },
+  {
+   "theme": "Lobbying rules",
+   "bills": 13,
+   "enacted_or_adopted": 0,
+   "basket": "rarely_moved",
+   "certainty": "high",
+   "typical_stop": "First committee, no votes - including leadership-sponsored 126:S632",
+   "examples": [
+    "126:S632",
+    "124:H4876",
+    "125:H4585"
+   ]
+  },
+  {
+   "theme": "Open government: public records and meetings",
+   "bills": 20,
+   "enacted_or_adopted": 0,
+   "basket": "rarely_moved",
+   "certainty": "high",
+   "typical_stop": "Judiciary committees, no votes anywhere in eight years",
+   "examples": [
+    "123:H3259",
+    "126:S6",
+    "126:H3646"
+   ]
+  },
+  {
+   "theme": "Civics and voter education",
+   "bills": 6,
+   "enacted_or_adopted": 1,
+   "basket": "mixed",
+   "certainty": "medium",
+   "typical_stop": "House Education and Public Works; the REACH Act passed on its second try (124:S38, Act 26 of 2021)",
+   "examples": [
+    "124:S38",
+    "123:S35",
+    "126:H3547"
+   ]
+  },
+  {
+   "theme": "Direct democracy: recall, initiative, referendum",
+   "bills": 3,
+   "enacted_or_adopted": 0,
+   "basket": "rarely_moved",
+   "certainty": "medium",
+   "typical_stop": "Judiciary, no votes (3 bills - thin count)",
+   "examples": [
+    "124:H3256",
+    "124:S39",
+    "126:S95"
+   ]
+  }
+ ],
+ "people_signals": {
+  "note": "Sponsors parsed from the official sponsor line; the first-listed member is treated as lead. Party labels intentionally absent (no roster join fetched).",
+  "frequent_lead_sponsors": [
+   {
+    "name": "Cobb-Hunter",
+    "bills_led": 12,
+    "bill_keys": [
+     "123:H3390",
+     "123:H3432",
+     "123:H3435",
+     "124:H3522",
+     "124:H4201",
+     "124:H4202",
+     "124:H4229",
+     "125:H3069",
+     "125:H3242",
+     "125:H3243",
+     "125:H3245",
+     "126:H3547"
+    ]
+   },
+   {
+    "name": "Fanning",
+    "bills_led": 10,
+    "bill_keys": [
+     "123:S230",
+     "123:S231",
+     "123:S249",
+     "123:S253",
+     "123:S254",
+     "124:S306",
+     "124:S309",
+     "124:S750",
+     "125:S195",
+     "125:S199"
+    ]
+   },
+   {
+    "name": "Taylor",
+    "bills_led": 7,
+    "bill_keys": [
+     "123:H3125",
+     "123:H3166",
+     "123:H3341",
+     "123:H3448",
+     "124:H3254",
+     "125:H4591",
+     "126:H3386"
+    ]
+   },
+   {
+    "name": "McLeod",
+    "bills_led": 7,
+    "bill_keys": [
+     "123:S268",
+     "123:S269",
+     "123:S932",
+     "124:S338",
+     "124:S339",
+     "125:S213",
+     "125:S214"
+    ]
+   },
+   {
+    "name": "Hembree",
+    "bills_led": 7,
+    "bill_keys": [
+     "123:S986",
+     "124:S187",
+     "124:S188",
+     "124:S189",
+     "125:S986",
+     "126:S70",
+     "126:S75"
+    ]
+   },
+   {
+    "name": "Climer",
+    "bills_led": 6,
+    "bill_keys": [
+     "123:S339",
+     "124:S299",
+     "124:S302",
+     "125:S169",
+     "125:S172",
+     "125:S395"
+    ]
+   },
+   {
+    "name": "Bennett",
+    "bills_led": 6,
+    "bill_keys": [
+     "124:H3256",
+     "124:H4392",
+     "124:S174",
+     "126:S632",
+     "126:S813",
+     "126:S960"
+    ]
+   },
+   {
+    "name": "B. Cox",
+    "bills_led": 5,
+    "bill_keys": [
+     "123:H3023",
+     "123:H3024",
+     "124:H3259",
+     "124:H3260",
+     "124:H5135"
+    ]
+   },
+   {
+    "name": "Clary",
+    "bills_led": 5,
+    "bill_keys": [
+     "123:H3054",
+     "123:H4191",
+     "123:H4192",
+     "123:H4193",
+     "123:H4203"
+    ]
+   },
+   {
+    "name": "Massey",
+    "bills_led": 5,
+    "bill_keys": [
+     "123:S111",
+     "123:S112",
+     "124:S133",
+     "124:S141",
+     "124:S548"
+    ]
+   },
+   {
+    "name": "Young",
+    "bills_led": 5,
+    "bill_keys": [
+     "123:S210",
+     "124:S250",
+     "125:S159",
+     "126:S84",
+     "126:S91"
+    ]
+   },
+   {
+    "name": "B. Newton",
+    "bills_led": 5,
+    "bill_keys": [
+     "124:H3197",
+     "125:H3474",
+     "125:H3606",
+     "126:H3552",
+     "126:H3554"
+    ]
+   },
+   {
+    "name": "King",
+    "bills_led": 4,
+    "bill_keys": [
+     "124:H3279",
+     "125:H3173",
+     "125:H5143",
+     "126:H3102"
+    ]
+   },
+   {
+    "name": "B.J. Cox",
+    "bills_led": 4,
+    "bill_keys": [
+     "125:H3249",
+     "125:H3250",
+     "126:H3744",
+     "126:H3745"
+    ]
+   },
+   {
+    "name": "J.L. Johnson",
+    "bills_led": 4,
+    "bill_keys": [
+     "125:H4022",
+     "125:H4660",
+     "126:H3517",
+     "126:H3589"
+    ]
+   },
+   {
+    "name": "Rose",
+    "bills_led": 3,
+    "bill_keys": [
+     "123:H3622",
+     "124:H5194",
+     "125:H3327"
+    ]
+   },
+   {
+    "name": "Lucas",
+    "bills_led": 3,
+    "bill_keys": [
+     "123:H4756",
+     "124:H4492",
+     "124:H4493"
+    ]
+   },
+   {
+    "name": "McElveen",
+    "bills_led": 3,
+    "bill_keys": [
+     "123:S184",
+     "124:S214",
+     "125:S137"
+    ]
+   },
+   {
+    "name": "Grooms",
+    "bills_led": 3,
+    "bill_keys": [
+     "123:S35",
+     "124:S38",
+     "124:S39"
+    ]
+   },
+   {
+    "name": "Harpootlian",
+    "bills_led": 3,
+    "bill_keys": [
+     "123:S453",
+     "124:S396",
+     "125:S232"
+    ]
+   },
+   {
+    "name": "Cash",
+    "bills_led": 3,
+    "bill_keys": [
+     "123:S944",
+     "123:S945",
+     "124:S384"
+    ]
+   },
+   {
+    "name": "May",
+    "bills_led": 3,
+    "bill_keys": [
+     "124:H3622",
+     "124:H3743",
+     "124:H3746"
+    ]
+   },
+   {
+    "name": "Stavrinakis",
+    "bills_led": 3,
+    "bill_keys": [
+     "124:H3920",
+     "125:H3159",
+     "126:H3475"
+    ]
+   },
+   {
+    "name": "A.M. Morgan",
+    "bills_led": 3,
+    "bill_keys": [
+     "125:H4692",
+     "125:H4713",
+     "125:H5181"
+    ]
+   },
+   {
+    "name": "Harris",
+    "bills_led": 3,
+    "bill_keys": [
+     "126:H3646",
+     "126:H3647",
+     "126:H3648"
+    ]
+   }
+  ]
+ },
+ "high_support_non_enactments_top": [
+  {
+   "bill_key": "126:H3570",
+   "title": "Disclosure of Economic Interests",
+   "plain_topic": "Rewrote who must disclose economic interests and how; passed the House 102-0 and the Senate 40-0 in different forms, then died in conference in the session's final days.",
+   "stage": "Passed the House 102-0 and the Senate 40-0 in different versions; died in conference",
+   "chamber": "House",
+   "yeas": 102,
+   "nays": 0,
+   "motion": "(Disclosure of Economic Interests) Passage of Bill",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "124:S499",
+   "title": "SC Election Commission Restructuring Act",
+   "plain_topic": "Election Commission restructuring (legislative oversight of the agency); passed the Senate and died in House Judiciary.",
+   "stage": "Passed the Senate; died in House Judiciary Committee",
+   "chamber": "Senate",
+   "yeas": 37,
+   "nays": 7,
+   "motion": "(SC Election Commission Restructuring Act) 2nd Reading",
+   "relevance": "context"
+  },
+  {
+   "bill_key": "123:S35",
+   "title": "Reinforcing College Education on America's Constitutional Heritage Act or REACH Act",
+   "plain_topic": "The REACH Act's first run: passed the Senate in 2019 and died in the House education committee.",
+   "stage": "Passed the Senate; died in House Education and Public Works Committee",
+   "chamber": "Senate",
+   "yeas": 29,
+   "nays": 7,
+   "motion": "(Reinforcing College Education on America's Constitutional Heritage Act or REACH Act) 2nd Reading",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "125:H3676",
+   "title": "Convention of the States",
+   "plain_topic": "Broad Article V Convention of States application; passed the House 68-30 and died on the Senate calendar after a favorable committee report.",
+   "stage": "Passed the House 68-30; died on the Senate calendar after a favorable committee report",
+   "chamber": "House",
+   "yeas": 68,
+   "nays": 30,
+   "motion": "(Convention of the States) Adopt Concurrent Resolution",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "126:H5683",
+   "title": "Redistricting, Congressional Districts",
+   "plain_topic": "The May 2026 mid-decade congressional redraw: passed the House 74-37 after dozens of amendment fights, then the Senate voted 26-18 to shelve it.",
+   "stage": "Passed the House 74-37; shelved on the Senate floor by a 26-18 vote to continue",
+   "chamber": "House",
+   "yeas": 74,
+   "nays": 36,
+   "motion": "(Redistricting, Congressional Districts) Passage of Bill",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "124:S133",
+   "title": "Convention of the States",
+   "plain_topic": "Broad Article V Convention of States application including congressional term limits; passed both chambers in different forms and died when the House never took up the conference report.",
+   "stage": "Passed both chambers in different forms; died when the House never took up the conference report",
+   "chamber": "Senate",
+   "yeas": 24,
+   "nays": 14,
+   "motion": "(Convention of the States) to adopt the free conference report",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "125:H4561",
+   "title": "Campaign Finance - Dependent Care for Immediate Family Members",
+   "plain_topic": "Would have let candidates use campaign funds for dependent care while campaigning; passed the House 53-45 and died in Senate Judiciary.",
+   "stage": "Passed the House; died in Senate Judiciary Committee",
+   "chamber": "House",
+   "yeas": 53,
+   "nays": 45,
+   "motion": "(Campaign Finance - Dependent Care for Immediate Family Members) Passage of Bill",
+   "relevance": "core"
+  }
+ ],
+ "proposal_reality_cards": [
+  {
+   "proposal_id": "term-limits",
+   "citizens_proposed": "Term limits or rotation rules so incumbents cannot hold the same office indefinitely (very high frequency; mixed consensus).",
+   "lawmakers_tried": "30 state-level measures in three designs: direct constitutional caps (2-6 terms), authorize-by-law amendments, and straight statutes. All died in a Judiciary committee with no vote. The one success targets Congress: 126:H3008, the Article V congressional term limits application, adopted May 2025 (Senate 29-14).",
+   "where_similar_stopped": "House/Senate Judiciary, 30 for 30, no hearings. The broad Convention of States application (incl. federal term limits) failed at the last step twice (124:S133, 125:H3676) before the single-subject 2025 version passed.",
+   "adjacent_carriers": [
+    "Rep. B. Cox / B.J. Cox",
+    "Sen. McLeod",
+    "Sen. Climer",
+    "Sen. Cash",
+    "Sen. Reichenbach"
+   ],
+   "levers_venue": "State constitutional amendment requires two-thirds of each chamber (the members being capped) plus a referendum; statute-only caps may conflict with the constitution's qualifications clause; chair rotation is a chamber rule (125:H4692), not a law.",
+   "open_questions": [
+    "Which design fits the two-thirds hurdle?",
+    "What would earn a first hearing in eight years?",
+    "What does the adopted federal application signal about state-level appetite, if anything?"
+   ]
+  },
+  {
+   "proposal_id": "campaign-finance-reform",
+   "citizens_proposed": "Limit the influence of money in politics, including PAC limits (very high frequency; high consensus; constitutional constraint noted).",
+   "lawmakers_tried": "Mostly disclosure: dark-money ad disclosure (3x incl. leadership-sponsored), contributor employer disclosure, bank-statement filing (5x), a corporate-contribution ban, pay-to-play appointment bans (4x), one public-financing amendment (AG races only). All five contribution-limit bills raise limits; none lower them.",
+   "where_similar_stopped": "Judiciary, no votes - except 125:H4561 (campaign funds for dependent care), House 53-45, died Senate Judiciary.",
+   "adjacent_carriers": [
+    "Senate leadership (Bennett, Hembree, Rankin, Massey, Campsen, Peeler, Jackson, Sabb)",
+    "Sen. Fanning",
+    "Sen. Young",
+    "Rep. Wetmore"
+   ],
+   "levers_venue": "Contribution limits and disclosure are state law (Title 8 Ch. 13); independent-expenditure spending caps face the federal constitutional constraint citizens flagged, which is why filed bills chase disclosure.",
+   "open_questions": [
+    "Limits, disclosure, or public financing - which is the actual aim?",
+    "Why do leadership-sponsored disclosure bills die in their own chamber's committee?"
+   ]
+  },
+  {
+   "proposal_id": "ranked-choice-voting",
+   "citizens_proposed": "Ranked choice (instant runoff) voting (very high frequency; partial consensus; voter-confusion concerns).",
+   "lawmakers_tried": "Three local-option enabling bills (124:H5135, 125:H4022, 126:H3589) and two statewide bans (125:H4591, 126:H3386).",
+   "where_similar_stopped": "All five died in House Judiciary, no hearings - bans and enabling bills in the same room.",
+   "adjacent_carriers": [
+    "Rep. B. Cox",
+    "Rep. J.L. Johnson",
+    "Rep. Taylor (bans)"
+   ],
+   "levers_venue": "Election method is state law even for city elections, so cities cannot adopt RCV without enabling legislation; runoff-abolition bills solve the same runoff-cost problem the opposite way and also never moved.",
+   "open_questions": [
+    "Statewide, local option, or runoff replacement?",
+    "What would implementation cost (no fiscal note ever produced)?"
+   ]
+  },
+  {
+   "proposal_id": "independent-redistricting",
+   "citizens_proposed": "Move redistricting to an independent or nonpartisan commission (high frequency; high consensus; who-appoints was the debated tradeoff).",
+   "lawmakers_tried": "21 bills, 2019-2024: constitutional independent commissions, statutory citizens commissions, and binding-criteria acts (FAIR, Anti-Gerrymandering). Zero hearings, zero votes. The legislature drew the actual maps (Act 117 of 2021, Act 118 of 2022).",
+   "where_similar_stopped": "Judiciary committees every time; no commission bill filed in the 126th - the first session without one. The 2026 mid-decade redraw (H5683) passed the House 74-37 and was shelved on the Senate floor 26-18.",
+   "adjacent_carriers": [
+    "Rep. Cobb-Hunter",
+    "Sen. Fanning",
+    "Sen. Setzler",
+    "Rep. Clary"
+   ],
+   "levers_venue": "The constitution assigns reapportionment to the General Assembly; a true independent commission needs a constitutional amendment (two-thirds + referendum). Statutory designs (advisory commissions, binding criteria) exist because of that hurdle.",
+   "open_questions": [
+    "Advisory commission, binding criteria, or constitutional commission?",
+    "Who appoints?",
+    "Does the 2026 mid-decade fight change the opening for a criteria bill?"
+   ]
+  },
+  {
+   "proposal_id": "financial-disclosure",
+   "citizens_proposed": "Stronger financial disclosure and conflict-of-interest tracking, including PAC ties (high frequency; high consensus).",
+   "lawmakers_tried": "The most movement of any proposal: 126:H3570 (disclosure rewrite) passed the House 102-0 and Senate 40-0 in different versions and died in conference; 126:S70 (School Board Ethics Act, Act 191 of 2026) became law 39-2 and 109-4. A slice of H3570 became FY 2026-27 proviso 117.219.",
+   "where_similar_stopped": "Everything else - tax-return disclosure (3x), e-filing audits (4x), special-purpose districts (2x), ethics-fine ballot bars (4x), party-chairmen coverage - died in Judiciary without votes.",
+   "adjacent_carriers": [
+    "Sen. Hembree",
+    "Sen. Climer",
+    "Sen. Fanning",
+    "Rep. Bannister"
+   ],
+   "levers_venue": "State law (Ethics Act, Title 8 Ch. 13); Ethics Commission enforcement capacity and even its reporting website are controlled through one-year budget provisos (110.1, 110.2).",
+   "open_questions": [
+    "What divided the chambers in the H3570 conference?",
+    "Does enforcement funding belong in the proposal, given proviso-level control?"
+   ]
+  },
+  {
+   "proposal_id": "voter-civics-education",
+   "citizens_proposed": "Better voter education and civics instruction, plus neutral civic information tools (medium frequency; high consensus; who curates 'neutral' open).",
+   "lawmakers_tried": "The REACH Act (college civics instruction) became law on its second try (124:S38, Act 26 of 2021, 45-0 and 91-12) after 123:S35 passed the Senate 29-7 and died in House Education. The K-12 middle-school civics unit (126:H3547) sits unheard. Civic-education money moved through budget provisos (45.11 FY25, 118.21 FY27).",
+   "where_similar_stopped": "House Education and Public Works - the one theme whose chokepoint is not Judiciary.",
+   "adjacent_carriers": [
+    "Sen. Grooms (REACH)",
+    "Rep. Cobb-Hunter (H3547)"
+   ],
+   "levers_venue": "Curriculum is state law plus State Board of Education standards; a voter-information tool would sit with the Election Commission - no bill proposes one.",
+   "open_questions": [
+    "Curriculum mandate, funding, or information tool?",
+    "Who curates 'neutral'?",
+    "Do content-restriction bills (124:H4392) change the design?"
+   ]
+  }
+ ],
+ "recent_enactments_watchlist": [
+  "126:S70 - School Board Ethics Act (Act 191 of 2026, 39-2 and 109-4)",
+  "126:H3008 - congressional term limits Article V application, adopted May 2025 (29-14)",
+  "126:H3007 - balanced-budget Article V application, adopted January 2026 (context)",
+  "FY 2026-27 provisos: 117.219 ethics-filing detail (new), 117.145 election-litigation intervention, 110.2 monthly Ethics Commission meetings, 118.6/117.92 no public funds for lobbyists, 118.21 USC civic leadership center ($2.5M)"
+ ],
+ "deliberation_prompts": [
+  "If 92% of accountability bills die in the same two Judiciary committees without a hearing, what would earn hearing number one?",
+  "Term-limit amendments need two-thirds of the members whose careers they would cap - is authorize-by-law a real path or the same hurdle reshaped?",
+  "H3570 passed both chambers unanimously in different versions and died reconciling them - a 'no' on disclosure, or a solvable drafting fight?",
+  "When a piece of a dead bill reappears as a one-year proviso (117.219), is that a win, a placeholder, or a way to avoid permanent law?",
+  "Both RCV-enabling and RCV-ban bills die unheard in the same committee - radioactive, or unprioritized?",
+  "Does the Senate's 26-18 shelving of the mid-decade redraw tell a commission group which chamber to start in?",
+  "Why is it easier to pass accountability rules for other bodies (school boards, colleges, Congress) than for the General Assembly itself?",
+  "Leadership-sponsored campaign-finance disclosure died in the leaders' own chamber's committee - what would a group need to learn about why?",
+  "No bill proposes a neutral voter-information tool - is that lane empty because nobody asked, or because it belongs to an agency?"
+ ],
+ "certainty": {
+  "state_term_limits_never_voted": "high (30 bills, four sessions)",
+  "redistricting_commissions_never_voted": "high (21 bills)",
+  "judiciary_chokepoint": "high (149 of 163 first-committee deaths)",
+  "campaign_money_no_votes": "high (35 of 36)",
+  "rcv_both_directions_unheard": "high pattern, modest count (5)",
+  "disclosure_most_moved_lane": "medium-high",
+  "civics_lane": "medium (one enactment, small count)",
+  "direct_democracy": "medium (3 bills)",
+  "single_example_patterns": "insufficient alone (H4561 floor vote, H5683 continue motion, S133 conference death) - labeled history, not destiny"
+ }
+}
