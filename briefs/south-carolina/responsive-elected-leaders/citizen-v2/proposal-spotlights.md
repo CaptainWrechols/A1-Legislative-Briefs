@@ -6,7 +6,7 @@ version: spotlights-v2.0
 organization: The Forum
 generated_by: citizen-brief-writer v2.3
 date: 2026-08-28
-status: DRAFT
+status: READY FOR HUMAN REVIEW
 ---
 
 # Policy Spotlights — Responsive Elected Leaders Brief
