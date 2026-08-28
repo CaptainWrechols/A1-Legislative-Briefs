@@ -1,0 +1,279 @@
+{
+ "issue": "south-carolina-02-responsive-elected-leaders",
+ "note": "Hand-curated ethics/elections/lobbying/civics provisos from Part IB of each enacted appropriations act (term-matched candidate sets in provisos/{year}/). Budget provisos are one-year rules enacted inside the annual budget bill; votes attach to the whole appropriations bill (or a named amendment), never to one proviso. FY 2020-21 had no enacted Part IB (COVID continuing resolution) - stated explicitly per the workflow's none-found rule.",
+ "cycles": [
+  {
+   "fiscal_year": "2020-2021",
+   "bill_no": "H5201",
+   "enacted": false,
+   "provisos": [],
+   "note": "No enacted Part IB this cycle: H5201 died in committee during COVID; the state ran on continuing resolution H3411 plus CARES acts."
+  },
+  {
+   "fiscal_year": "2021-2022",
+   "bill_no": "H4100",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "117.191",
+     "caption": "GP: Actions on Election Law",
+     "display_caption": "GP: Actions on Election Law",
+     "why_relevant": "Gives the Senate President and House Speaker an unconditional right to intervene in any lawsuit challenging an election law or how an election is run. This litigation power exists only as a one-year budget rule, renewed every cycle.",
+     "verbatim_figure": "First appearance of the litigation-intervention rule"
+    },
+    {
+     "proviso": "110.1",
+     "caption": "ETHICS: Ethics Commission Website Changes",
+     "display_caption": "ETHICS: Ethics Commission Website Changes",
+     "why_relevant": "The State Ethics Commission cannot change its public disclosure and accountability reporting system without the approval of the House and Senate Ethics Committees - the legislature keeps veto power over the watchdog's own website.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "110.2",
+     "caption": "ETHICS: Commission Meeting",
+     "display_caption": "ETHICS: Commission Meeting",
+     "why_relevant": "Requires the State Ethics Commission to meet at least monthly and post notice 24 hours ahead on its website.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.6",
+     "caption": "SR: Prohibits Public Funded Lobbyists",
+     "display_caption": "SR: Prohibits Public Funded Lobbyists",
+     "why_relevant": "Bars every state agency and institution from using general-fund money to employ or contract lobbyists, certified through the State Ethics Commission.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.95",
+     "caption": "GP: Prohibits Local Government Fund Public Funded Lobbyists",
+     "display_caption": "GP: Prohibits Local Government Fund Public Funded Lobbyists",
+     "why_relevant": "Bars counties, cities, and their associations from using Local Government Fund money to pay employees for lobbying.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "102.14",
+     "caption": "ELECT: November 2020 Election Investigation Report",
+     "display_caption": "ELECT: November 2020 Election Investigation Report",
+     "why_relevant": "One-time rule: the Election Commission had to report to the General Assembly the number of election-fraud investigations from the November 2020 election and post the report publicly.",
+     "verbatim_figure": null
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2022-2023",
+   "bill_no": "H5150",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "117.160",
+     "caption": "GP: Actions on Election Law",
+     "display_caption": "GP: Actions on Election Law",
+     "why_relevant": "Gives the Senate President and House Speaker an unconditional right to intervene in any lawsuit challenging an election law or how an election is run. This litigation power exists only as a one-year budget rule, renewed every cycle.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "110.2",
+     "caption": "ETHICS: Commission Meeting",
+     "display_caption": "ETHICS: Commission Meeting",
+     "why_relevant": "Requires the State Ethics Commission to meet at least monthly and post notice 24 hours ahead on its website.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.6",
+     "caption": "SR: Prohibits Public Funded Lobbyists",
+     "display_caption": "SR: Prohibits Public Funded Lobbyists",
+     "why_relevant": "Bars every state agency and institution from using general-fund money to employ or contract lobbyists, certified through the State Ethics Commission.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.94",
+     "caption": "GP: Prohibits Local Government Fund Public Funded Lobbyists",
+     "display_caption": "GP: Prohibits Local Government Fund Public Funded Lobbyists",
+     "why_relevant": "Bars counties, cities, and their associations from using Local Government Fund money to pay employees for lobbying.",
+     "verbatim_figure": null
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2023-2024",
+   "bill_no": "H4300",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "117.152",
+     "caption": "GP: Actions on Election Law",
+     "display_caption": "GP: Actions on Election Law",
+     "why_relevant": "Gives the Senate President and House Speaker an unconditional right to intervene in any lawsuit challenging an election law or how an election is run. This litigation power exists only as a one-year budget rule, renewed every cycle.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "110.1",
+     "caption": "ETHICS: Ethics Commission Website Changes",
+     "display_caption": "ETHICS: Ethics Commission Website Changes",
+     "why_relevant": "The State Ethics Commission cannot change its public disclosure and accountability reporting system without the approval of the House and Senate Ethics Committees - the legislature keeps veto power over the watchdog's own website.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "110.2",
+     "caption": "ETHICS: Commission Meeting",
+     "display_caption": "ETHICS: Commission Meeting",
+     "why_relevant": "Requires the State Ethics Commission to meet at least monthly and post notice 24 hours ahead on its website.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.6",
+     "caption": "SR: Prohibits Public Funded Lobbyists",
+     "display_caption": "SR: Prohibits Public Funded Lobbyists",
+     "why_relevant": "Bars every state agency and institution from using general-fund money to employ or contract lobbyists, certified through the State Ethics Commission.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.94",
+     "caption": "GP: Prohibits Local Government Fund Public Funded Lobbyists",
+     "display_caption": "GP: Prohibits Local Government Fund Public Funded Lobbyists",
+     "why_relevant": "Bars counties, cities, and their associations from using Local Government Fund money to pay employees for lobbying.",
+     "verbatim_figure": null
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2024-2025",
+   "bill_no": "H5100",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "117.150",
+     "caption": "GP: Actions on Election Law",
+     "display_caption": "GP: Actions on Election Law",
+     "why_relevant": "Gives the Senate President and House Speaker an unconditional right to intervene in any lawsuit challenging an election law or how an election is run. This litigation power exists only as a one-year budget rule, renewed every cycle.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "110.1",
+     "caption": "ETHICS: Ethics Commission Website Changes",
+     "display_caption": "ETHICS: Ethics Commission Website Changes",
+     "why_relevant": "The State Ethics Commission cannot change its public disclosure and accountability reporting system without the approval of the House and Senate Ethics Committees - the legislature keeps veto power over the watchdog's own website.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "110.2",
+     "caption": "ETHICS: Commission Meeting",
+     "display_caption": "ETHICS: Commission Meeting",
+     "why_relevant": "Requires the State Ethics Commission to meet at least monthly and post notice 24 hours ahead on its website.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.6",
+     "caption": "SR: Prohibits Public Funded Lobbyists",
+     "display_caption": "SR: Prohibits Public Funded Lobbyists",
+     "why_relevant": "Bars every state agency and institution from using general-fund money to employ or contract lobbyists, certified through the State Ethics Commission.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.93",
+     "caption": "GP: Prohibits Local Government Fund Public Funded Lobbyists",
+     "display_caption": "GP: Prohibits Local Government Fund Public Funded Lobbyists",
+     "why_relevant": "Bars counties, cities, and their associations from using Local Government Fund money to pay employees for lobbying.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "45.11",
+     "caption": "CU-PSA: Feasibility Study",
+     "display_caption": "CU-PSA: Feasibility Study",
+     "why_relevant": "Funded a Clemson feasibility study for a Center for Civic Engagement to cultivate civic engagement and leadership.",
+     "verbatim_figure": "Center for Civic Engagement feasibility study"
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2025-2026",
+   "bill_no": "H4025",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "117.148",
+     "caption": "GP: Actions on Election Law",
+     "display_caption": "GP: Actions on Election Law",
+     "why_relevant": "Gives the Senate President and House Speaker an unconditional right to intervene in any lawsuit challenging an election law or how an election is run. This litigation power exists only as a one-year budget rule, renewed every cycle.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "110.1",
+     "caption": "ETHICS: Ethics Commission Website Changes",
+     "display_caption": "ETHICS: Ethics Commission Website Changes",
+     "why_relevant": "The State Ethics Commission cannot change its public disclosure and accountability reporting system without the approval of the House and Senate Ethics Committees - the legislature keeps veto power over the watchdog's own website.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "110.2",
+     "caption": "ETHICS: Commission Meeting",
+     "display_caption": "ETHICS: Commission Meeting",
+     "why_relevant": "Requires the State Ethics Commission to meet at least monthly and post notice 24 hours ahead on its website.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.6",
+     "caption": "SR: Prohibits Public Funded Lobbyists",
+     "display_caption": "SR: Prohibits Public Funded Lobbyists",
+     "why_relevant": "Bars every state agency and institution from using general-fund money to employ or contract lobbyists, certified through the State Ethics Commission.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.93",
+     "caption": "GP: Prohibits Local Government Fund Public Funded Lobbyists",
+     "display_caption": "GP: Prohibits Local Government Fund Public Funded Lobbyists",
+     "why_relevant": "Bars counties, cities, and their associations from using Local Government Fund money to pay employees for lobbying.",
+     "verbatim_figure": null
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2026-2027",
+   "bill_no": "H5126",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "117.219",
+     "caption": "GP: Ethics Filing",
+     "display_caption": "GP: Ethics Filing",
+     "why_relevant": "New this year: officials who report income paid by the state budget on their statement of economic interests must name the specific government body that paid them. A disclosure tightening enacted as a one-year budget rule in the same year the H3570 disclosure bill died in conference.",
+     "verbatim_figure": "New for FY 2026-27"
+    },
+    {
+     "proviso": "117.145",
+     "caption": "GP: Actions on Election Law",
+     "display_caption": "GP: Actions on Election Law",
+     "why_relevant": "Gives the Senate President and House Speaker an unconditional right to intervene in any lawsuit challenging an election law or how an election is run. This litigation power exists only as a one-year budget rule, renewed every cycle.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "110.2",
+     "caption": "ETHICS: Commission Meeting",
+     "display_caption": "ETHICS: Commission Meeting",
+     "why_relevant": "Requires the State Ethics Commission to meet at least monthly and post notice 24 hours ahead on its website.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.6",
+     "caption": "SR: Prohibits Public Funded Lobbyists",
+     "display_caption": "SR: Prohibits Public Funded Lobbyists",
+     "why_relevant": "Bars every state agency and institution from using general-fund money to employ or contract lobbyists, certified through the State Ethics Commission.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "117.92",
+     "caption": "GP: Prohibits Local Government Fund Public Funded Lobbyists",
+     "display_caption": "GP: Prohibits Local Government Fund Public Funded Lobbyists",
+     "why_relevant": "Bars counties, cities, and their associations from using Local Government Fund money to pay employees for lobbying.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.21",
+     "caption": "SR: Nonrecurring Revenue",
+     "display_caption": "SR: Nonrecurring Revenue (USC civic leadership line)",
+     "why_relevant": "One-time money list that includes $2,500,000 for a Center for American Civic Leadership and Public Discourse at USC - civic-education funding placed in the budget, not a standalone law.",
+     "verbatim_figure": "USC Center for American Civic Leadership and Public Discourse: $2,500,000"
+    }
+   ]
+  }
+ ]
+}

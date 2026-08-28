@@ -1,0 +1,3362 @@
+{
+ "issue": "south-carolina-02-responsive-elected-leaders",
+ "note": "Hand curation of the keep-all Pass 1 discovery (nothing was dropped upstream). Tiers: core = bills squarely on the six constituent proposals plus the ethics/campaign-finance/open-government accountability agenda; adjacent = same lanes but narrower, procedural, federal-target, or deregulatory; context = kept for audit only, excluded from headline counts. Ambiguous bills verified against latest-version full text in _universe/. Four REACH Act civics bills were hand-added from the certified universe (marked source=universe) because their text contains none of the issue's search terms. All other Pass 1 hits are excluded under the rules below.",
+ "themes": [
+  "Term limits for elected officials",
+  "Campaign money rules",
+  "Ranked choice voting and runoffs",
+  "Who draws the voting maps (redistricting)",
+  "Financial disclosure and ethics enforcement",
+  "Lobbying rules",
+  "Open government: public records and meetings",
+  "Civics and voter education",
+  "Direct democracy: recall, initiative, referendum",
+  "Related context"
+ ],
+ "counts": {
+  "total_pass1": 5548,
+  "kept": 189,
+  "universe_adds": 4,
+  "by_relevance": {
+   "core": 139,
+   "adjacent": 38,
+   "context": 12
+  },
+  "by_theme": {
+   "Term limits for elected officials": 37,
+   "Who draws the voting maps (redistricting)": 26,
+   "Campaign money rules": 36,
+   "Open government: public records and meetings": 20,
+   "Financial disclosure and ethics enforcement": 27,
+   "Lobbying rules": 13,
+   "Civics and voter education": 6,
+   "Related context": 12,
+   "Direct democracy: recall, initiative, referendum": 3,
+   "Ranked choice voting and runoffs": 9
+  },
+  "excluded": 5363
+ },
+ "exclusion_rules": [
+  "Instrument is an honorary/ceremonial resolution (House, Senate, or Concurrent Resolution) - congratulations, memorials, and awareness days whose text mentions elections, voting, or civic service.",
+  "Full-text-only hit where the matched term is incidental boilerplate - 'PAC' inside compact/impact/space (interstate licensure compacts, impact fees, C-PACE, Space Force), 'disclosure' in consumer/real-estate/criminal-record contexts, 'election' in corporate or tax elections, 'ethics' in medical-ethics bills.",
+  "Election administration and voting mechanics outside the six constituent proposals: voter registration, early/absentee voting, voter ID, poll workers, precinct maps, election dates, protests, and audits (three transparency-package examples kept as context).",
+  "County and school-district reapportionment housekeeping bills that redraw one local body's lines after the census (statewide who-draws-the-maps bills are kept).",
+  "Judicial selection and judicial-election bills (JMSC cluster) - governance of the judiciary, not the elected-leader accountability proposals; the enacted 2024 JMSC reform is kept as context.",
+  "Curriculum-content bills whose only tie is the word 'civics' in a broader education fight (Academic Integrity Act, Critical Race Theory, testing bills); civics-instruction bills are kept.",
+  "Transparency-branded bills about private industries or courts (asbestos trusts, air ambulances, consumer legal funding, education curricula) rather than government accountability.",
+  "Internal chamber housekeeping: officer elections, committee assignments, special orders, sine die resolutions (the chairmen-term-limit rule H4692 is kept as adjacent)."
+ ],
+ "bills": [
+  {
+   "bill_key": "123:H3023",
+   "session": 123,
+   "bill_no": "H3023",
+   "title": "General Assembly Members; enact term limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment (for the ballot) letting the General Assembly set term limits for its own members by ordinary law.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3023.htm"
+  },
+  {
+   "bill_key": "123:H3024",
+   "session": 123,
+   "bill_no": "H3024",
+   "title": "General Assembly term limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have capped service by statute: six terms in the House or four terms in the Senate.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3024.htm"
+  },
+  {
+   "bill_key": "123:H3044",
+   "session": 123,
+   "bill_no": "H3044",
+   "title": "Independent Reapportionment Commission",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment creating an independent reapportionment commission, with plans approved by referendum.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "reapportionment",
+    "conflict of interest",
+    "election",
+    "ballot",
+    "referendum",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3044.htm"
+  },
+  {
+   "bill_key": "123:H3054",
+   "session": 123,
+   "bill_no": "H3054",
+   "title": "SC Redistricting Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created an independent South Carolina Redistricting Commission by statute to draw House, Senate, and congressional maps.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "redistricting",
+    "election",
+    "election law",
+    "PAC",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3054.htm"
+  },
+  {
+   "bill_key": "123:H3097",
+   "session": 123,
+   "bill_no": "H3097",
+   "title": "Campaign contributions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred officials from appointing anyone who gave them a campaign contribution in the previous four years.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3097.htm"
+  },
+  {
+   "bill_key": "123:H3125",
+   "session": 123,
+   "bill_no": "H3125",
+   "title": "Convention of the States",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Broad Article V Convention of States application (fiscal restraints, limits on federal power, and term limits for Congress); reported favorably, died on the House calendar when COVID ended the session.",
+   "theme": "Term limits for elected officials",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "recall",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3125.htm"
+  },
+  {
+   "bill_key": "123:H3166",
+   "session": 123,
+   "bill_no": "H3166",
+   "title": "Term Limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Article V application asking Congress to call a convention limited to proposing term limits for the U.S. House and Senate.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3166.htm"
+  },
+  {
+   "bill_key": "123:H3167",
+   "session": 123,
+   "bill_no": "H3167",
+   "title": "SC Citizens Redistricting Commission",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment creating a Citizens Redistricting Commission.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "redistricting",
+    "reapportionment",
+    "ethics commission",
+    "election",
+    "ballot",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3167.htm"
+  },
+  {
+   "bill_key": "123:H3259",
+   "session": 123,
+   "bill_no": "H3259",
+   "title": "FOIA",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have removed the General Assembly's own broad exemption from the Freedom of Information Act.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "disclosure",
+    "freedom of information",
+    "FOIA"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3259.htm"
+  },
+  {
+   "bill_key": "123:H3305",
+   "session": 123,
+   "bill_no": "H3305",
+   "title": "Candidate contributions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred candidates for boards the General Assembly elects from contributing to legislators.",
+   "theme": "Campaign money rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3305.htm"
+  },
+  {
+   "bill_key": "123:H3321",
+   "session": 123,
+   "bill_no": "H3321",
+   "title": "Ethics reports, late filing penalties",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred anyone with unpaid ethics fines or unfiled ethics reports from running for office.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3321.htm"
+  },
+  {
+   "bill_key": "123:H3341",
+   "session": 123,
+   "bill_no": "H3341",
+   "title": "Lobbyists and Public officers",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have widened the definitions of lobbying and doubled lobbyist registration fees.",
+   "theme": "Lobbying rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "lobbyist",
+    "ethics commission",
+    "election",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3341.htm"
+  },
+  {
+   "bill_key": "123:H3387",
+   "session": 123,
+   "bill_no": "H3387",
+   "title": "Ethics",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have made any ethics-law violation sufficient cause to remove an official from office.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3387.htm"
+  },
+  {
+   "bill_key": "123:H3390",
+   "session": 123,
+   "bill_no": "H3390",
+   "title": "SC Citizens Redistricting Commission",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment creating a Citizens Redistricting Commission.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "redistricting",
+    "reapportionment",
+    "ethics commission",
+    "election",
+    "ballot",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3390.htm"
+  },
+  {
+   "bill_key": "123:H3432",
+   "session": 123,
+   "bill_no": "H3432",
+   "title": "Chap. 080, SC Citizens Redistricting Commission, created",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a Citizens Redistricting Commission by statute to submit reapportionment plans to the General Assembly.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "transparency",
+    "accountability",
+    "lobbyist",
+    "redistricting",
+    "reapportionment",
+    "ethics commission",
+    "election",
+    "ballot",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3432.htm"
+  },
+  {
+   "bill_key": "123:H3435",
+   "session": 123,
+   "bill_no": "H3435",
+   "title": "Electronic filing system for disclosures and reports",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created an online campaign-account monitoring and auditing department at the State Ethics Commission.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "disclosure",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3435.htm"
+  },
+  {
+   "bill_key": "123:H3448",
+   "session": 123,
+   "bill_no": "H3448",
+   "title": "Freedom of Information Act Review Office, created",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a FOIA Review Office in the Administrative Law Court to resolve records disputes.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "core",
+   "found_by_terms": [
+    "disclosure",
+    "freedom of information"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3448.htm"
+  },
+  {
+   "bill_key": "123:H3579",
+   "session": 123,
+   "bill_no": "H3579",
+   "title": "Ethics",
+   "instrument_type": "General Bill",
+   "plain_topic": "Earlier school-board ethics design: a model code of ethics, nepotism policies, and conflict referrals to the Ethics Commission.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "conflict of interest",
+    "disclosure",
+    "ethics commission",
+    "freedom of information",
+    "election",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3579.htm"
+  },
+  {
+   "bill_key": "123:H3622",
+   "session": 123,
+   "bill_no": "H3622",
+   "title": "Lobbying definitions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended the lobbying law to people paid to lobby county and municipal governments.",
+   "theme": "Lobbying rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "election",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3622.htm"
+  },
+  {
+   "bill_key": "123:H3723",
+   "session": 123,
+   "bill_no": "H3723",
+   "title": "Candidates, contributions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set rules for candidates accepting digital currency (crypto) as campaign contributions.",
+   "theme": "Campaign money rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3723.htm"
+  },
+  {
+   "bill_key": "123:H4191",
+   "session": 123,
+   "bill_no": "H4191",
+   "title": "Ethics",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have tightened conflict-of-interest disclosure for legislators and expanded what a statement of economic interests must show.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "accountability",
+    "lobbyist",
+    "conflict of interest",
+    "disclosure",
+    "ethics commission",
+    "election",
+    "ballot",
+    "referendum",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4191.htm"
+  },
+  {
+   "bill_key": "123:H4192",
+   "session": 123,
+   "bill_no": "H4192",
+   "title": "Ethics",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required anyone spending over $500 on independent expenditures or electioneering ads to file reports with the State Ethics Commission.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission",
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4192.htm"
+  },
+  {
+   "bill_key": "123:H4193",
+   "session": 123,
+   "bill_no": "H4193",
+   "title": "Ethics",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have paused the statute of limitations once an ethics enforcement action begins.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4193.htm"
+  },
+  {
+   "bill_key": "123:H4203",
+   "session": 123,
+   "bill_no": "H4203",
+   "title": "Campaign practices",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have rewritten the definitions of 'committee' and 'contribution' in the campaign-practices law.",
+   "theme": "Campaign money rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4203.htm"
+  },
+  {
+   "bill_key": "123:H4240",
+   "session": 123,
+   "bill_no": "H4240",
+   "title": "Lobbyists",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have stretched the revolving-door wait from one year to five before former officials can become lobbyists.",
+   "theme": "Lobbying rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4240.htm"
+  },
+  {
+   "bill_key": "123:H4296",
+   "session": 123,
+   "bill_no": "H4296",
+   "title": "Reinforcing College Education on America's Constitutional Heritage Act or REACH Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "House version of the REACH Act; died in its first committee.",
+   "theme": "Civics and voter education",
+   "relevance": "core",
+   "found_by_terms": [],
+   "source": "universe",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4296.htm"
+  },
+  {
+   "bill_key": "123:H4333",
+   "session": 123,
+   "bill_no": "H4333",
+   "title": "Campaign contribution limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised South Carolina's individual contribution limits to track the federal limits, which adjust for inflation.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "lobbyist",
+    "ethics commission",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4333.htm"
+  },
+  {
+   "bill_key": "123:H4756",
+   "session": 123,
+   "bill_no": "H4756",
+   "title": "Ethics",
+   "instrument_type": "General Bill",
+   "plain_topic": "Earlier school-board ethics design led by the House Speaker: model code of ethics, nepotism policies, and conflict referrals.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "conflict of interest",
+    "ethics commission",
+    "freedom of information",
+    "election",
+    "PAC",
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4756.htm"
+  },
+  {
+   "bill_key": "123:H4791",
+   "session": 123,
+   "bill_no": "H4791",
+   "title": "FOIA, definition of a public body; add legislative caucuses to definition",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have made legislative caucuses 'public bodies' subject to FOIA.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "core",
+   "found_by_terms": [
+    "freedom of information",
+    "FOIA"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4791.htm"
+  },
+  {
+   "bill_key": "123:S111",
+   "session": 123,
+   "bill_no": "S111",
+   "title": "Economic interests statements",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required officials to disclose speaking fees and event reimbursements on their statements of economic interests.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/111.htm"
+  },
+  {
+   "bill_key": "123:S112",
+   "session": 123,
+   "bill_no": "S112",
+   "title": "Convention of the States",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Broad Article V Convention of States application including congressional term limits.",
+   "theme": "Term limits for elected officials",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "recall",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/112.htm"
+  },
+  {
+   "bill_key": "123:S135",
+   "session": 123,
+   "bill_no": "S135",
+   "title": "Independent Reapportionment Commission",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment creating an independent reapportionment commission.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "reapportionment",
+    "conflict of interest",
+    "election",
+    "ballot",
+    "referendum",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/135.htm"
+  },
+  {
+   "bill_key": "123:S184",
+   "session": 123,
+   "bill_no": "S184",
+   "title": "Campaign bank accounts",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have pooled interest earned on campaign bank accounts (plus 1% of deposits) to fund State Ethics Commission enforcement.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/184.htm"
+  },
+  {
+   "bill_key": "123:S192",
+   "session": 123,
+   "bill_no": "S192",
+   "title": "Convention of the States; finance reform",
+   "instrument_type": "Concurrent Resolution",
+   "plain_topic": "Article V application asking Congress to call a convention on campaign finance reform.",
+   "theme": "Campaign money rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "campaign finance",
+    "disclosure",
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/192.htm"
+  },
+  {
+   "bill_key": "123:S210",
+   "session": 123,
+   "bill_no": "S210",
+   "title": "Campaign reports",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required candidates to file their actual campaign bank statements alongside each quarterly campaign report.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/210.htm"
+  },
+  {
+   "bill_key": "123:S230",
+   "session": 123,
+   "bill_no": "S230",
+   "title": "SC Redistricting Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created an independent South Carolina Redistricting Commission by statute to draw House, Senate, and congressional maps.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "redistricting",
+    "election",
+    "election law",
+    "PAC",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/230.htm"
+  },
+  {
+   "bill_key": "123:S231",
+   "session": 123,
+   "bill_no": "S231",
+   "title": "Campaign contributions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred officials from appointing anyone who gave them a campaign contribution in the previous four years.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/231.htm"
+  },
+  {
+   "bill_key": "123:S249",
+   "session": 123,
+   "bill_no": "S249",
+   "title": "SC Citizens Redistricting Commission",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment creating a Citizens Redistricting Commission.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "redistricting",
+    "reapportionment",
+    "ethics commission",
+    "election",
+    "ballot",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/249.htm"
+  },
+  {
+   "bill_key": "123:S253",
+   "session": 123,
+   "bill_no": "S253",
+   "title": "Electronic filing system for disclosures and reports",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created an online campaign-account monitoring and auditing department at the State Ethics Commission.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "disclosure",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/253.htm"
+  },
+  {
+   "bill_key": "123:S254",
+   "session": 123,
+   "bill_no": "S254",
+   "title": "SC Citizens Redistricting Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a Citizens Redistricting Commission by statute to submit reapportionment plans to the General Assembly.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "transparency",
+    "accountability",
+    "lobbyist",
+    "redistricting",
+    "reapportionment",
+    "ethics commission",
+    "election",
+    "ballot",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/254.htm"
+  },
+  {
+   "bill_key": "123:S268",
+   "session": 123,
+   "bill_no": "S268",
+   "title": "General Assembly term limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment letting the General Assembly set term limits for its own members by ordinary law.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/268.htm"
+  },
+  {
+   "bill_key": "123:S269",
+   "session": 123,
+   "bill_no": "S269",
+   "title": "General Assembly term limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have capped General Assembly service by statute.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/269.htm"
+  },
+  {
+   "bill_key": "123:S284",
+   "session": 123,
+   "bill_no": "S284",
+   "title": "Ethics investigations and hearings",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have revised what legislative ethics committees may do with State Ethics Commission findings.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "disclosure",
+    "ethics commission",
+    "freedom of information"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/284.htm"
+  },
+  {
+   "bill_key": "123:S3",
+   "session": 123,
+   "bill_no": "S3",
+   "title": "Campaign Practices",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required independent expenditure committees to put disclosures and disclaimers on their election ads.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission",
+    "election",
+    "ballot",
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3.htm"
+  },
+  {
+   "bill_key": "123:S337",
+   "session": 123,
+   "bill_no": "S337",
+   "title": "Dual office holding",
+   "instrument_type": "General Bill",
+   "plain_topic": "Dual office holding rules.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/337.htm"
+  },
+  {
+   "bill_key": "123:S339",
+   "session": 123,
+   "bill_no": "S339",
+   "title": "Economic interest statements",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required statewide officers and legislators to submit their income tax returns with their economic-interest filings.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "disclosure",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/339.htm"
+  },
+  {
+   "bill_key": "123:S35",
+   "session": 123,
+   "bill_no": "S35",
+   "title": "Reinforcing College Education on America's Constitutional Heritage Act or REACH Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The REACH Act's first run: passed the Senate in 2019 and died in the House education committee.",
+   "theme": "Civics and voter education",
+   "relevance": "core",
+   "found_by_terms": [],
+   "source": "universe",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/35.htm"
+  },
+  {
+   "bill_key": "123:S453",
+   "session": 123,
+   "bill_no": "S453",
+   "title": "FOIA disclosure exemptions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have revised FOIA's disclosure exemptions.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "disclosure",
+    "freedom of information",
+    "FOIA"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/453.htm"
+  },
+  {
+   "bill_key": "123:S537",
+   "session": 123,
+   "bill_no": "S537",
+   "title": "Prohibitions against public time or funds used to influence election",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred legislators from using official funds for unsolicited mass mailings within 90 days of their own election.",
+   "theme": "Campaign money rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "referendum"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/537.htm"
+  },
+  {
+   "bill_key": "123:S6",
+   "session": 123,
+   "bill_no": "S6",
+   "title": "Independent Reapportionment Commission",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment creating an independent reapportionment commission, with plans approved by referendum.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "reapportionment",
+    "conflict of interest",
+    "election",
+    "ballot",
+    "referendum",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/6.htm"
+  },
+  {
+   "bill_key": "123:S663",
+   "session": 123,
+   "bill_no": "S663",
+   "title": "Term Limits",
+   "instrument_type": "Concurrent Resolution",
+   "plain_topic": "Article V application (resolution form) asking Congress to call a convention limited to congressional term limits.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/663.htm"
+  },
+  {
+   "bill_key": "123:S800",
+   "session": 123,
+   "bill_no": "S800",
+   "title": "Campaign contribution limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised South Carolina's individual contribution limits to track the federal limits, which adjust for inflation.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "lobbyist",
+    "ethics commission",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/800.htm"
+  },
+  {
+   "bill_key": "123:S83",
+   "session": 123,
+   "bill_no": "S83",
+   "title": "Boards and Commissions Election Reform Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Boards and Commissions Election Reform Act: screening for boards the General Assembly elects.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/83.htm"
+  },
+  {
+   "bill_key": "123:S932",
+   "session": 123,
+   "bill_no": "S932",
+   "title": "Campaign statements",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required plain reporting manuals, administrative closure of stale filing cases, and annual ethics training.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "ethics",
+    "disclosure",
+    "ethics commission",
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/932.htm"
+  },
+  {
+   "bill_key": "123:S944",
+   "session": 123,
+   "bill_no": "S944",
+   "title": "General Assembly Members; enact term limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment letting the General Assembly set term limits for its own members by ordinary law.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/944.htm"
+  },
+  {
+   "bill_key": "123:S945",
+   "session": 123,
+   "bill_no": "S945",
+   "title": "Term limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have capped service by statute: six terms in the House or three terms in the Senate.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/945.htm"
+  },
+  {
+   "bill_key": "123:S986",
+   "session": 123,
+   "bill_no": "S986",
+   "title": "Campaign bank accounts",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have pooled interest earned on campaign bank accounts (plus 1% of deposits) to fund State Ethics Commission enforcement.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/986.htm"
+  },
+  {
+   "bill_key": "124:H3197",
+   "session": 124,
+   "bill_no": "H3197",
+   "title": "Campaign contribution limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised individual contribution limits and the limits on money from party and caucus committees.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3197.htm"
+  },
+  {
+   "bill_key": "124:H3254",
+   "session": 124,
+   "bill_no": "H3254",
+   "title": "Freedom of Information Act Review",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a FOIA review process in the Administrative Law Court.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "core",
+   "found_by_terms": [
+    "disclosure",
+    "freedom of information"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3254.htm"
+  },
+  {
+   "bill_key": "124:H3256",
+   "session": 124,
+   "bill_no": "H3256",
+   "title": "Recalling or removing from public office persons holding elected public offices",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment letting voters recall elected officials in state and local government.",
+   "theme": "Direct democracy: recall, initiative, referendum",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "recall",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3256.htm"
+  },
+  {
+   "bill_key": "124:H3257",
+   "session": 124,
+   "bill_no": "H3257",
+   "title": "General Assembly members enact term limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment capping consecutive service starting with members elected in 2024 (five consecutive House terms).",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3257.htm"
+  },
+  {
+   "bill_key": "124:H3259",
+   "session": 124,
+   "bill_no": "H3259",
+   "title": "Term limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have capped service by statute: six terms in the House or four terms in the Senate.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3259.htm"
+  },
+  {
+   "bill_key": "124:H3260",
+   "session": 124,
+   "bill_no": "H3260",
+   "title": "General Assembly members enact term limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment letting the General Assembly set term limits for its own members by ordinary law.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3260.htm"
+  },
+  {
+   "bill_key": "124:H3279",
+   "session": 124,
+   "bill_no": "H3279",
+   "title": "Independent Reapportionment Commission",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment creating an independent reapportionment commission.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "reapportionment",
+    "conflict of interest",
+    "election",
+    "ballot",
+    "referendum",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3279.htm"
+  },
+  {
+   "bill_key": "124:H3338",
+   "session": 124,
+   "bill_no": "H3338",
+   "title": "Reinforcing College Education on America's Constitutional Heritage Act (REACH)",
+   "instrument_type": "General Bill",
+   "plain_topic": "House companion of the REACH Act; the Senate version became law instead.",
+   "theme": "Civics and voter education",
+   "relevance": "core",
+   "found_by_terms": [],
+   "source": "universe",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3338.htm"
+  },
+  {
+   "bill_key": "124:H3402",
+   "session": 124,
+   "bill_no": "H3402",
+   "title": "FOIA, definition of a public body",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have made legislative caucuses 'public bodies' subject to FOIA.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "core",
+   "found_by_terms": [
+    "freedom of information",
+    "FOIA"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3402.htm"
+  },
+  {
+   "bill_key": "124:H3522",
+   "session": 124,
+   "bill_no": "H3522",
+   "title": "Attorney General, authorize procedure by which a candidate for Attorney General may finance his campaign with public funds as determined by the General Assembly",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment creating public financing for Attorney General campaigns - the record's only public-financing bill.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3522.htm"
+  },
+  {
+   "bill_key": "124:H3622",
+   "session": 124,
+   "bill_no": "H3622",
+   "title": "FOIA exemptions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have revised FOIA's exemptions.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "freedom of information",
+    "FOIA"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3622.htm"
+  },
+  {
+   "bill_key": "124:H3663",
+   "session": 124,
+   "bill_no": "H3663",
+   "title": "Set term limits for the US House and US Senate",
+   "instrument_type": "Concurrent Resolution",
+   "plain_topic": "Article V application asking Congress to call a convention limited to congressional term limits.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3663.htm"
+  },
+  {
+   "bill_key": "124:H3743",
+   "session": 124,
+   "bill_no": "H3743",
+   "title": "Lobbyists",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred state agencies from spending public funds to hire contract lobbyists.",
+   "theme": "Lobbying rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "lobbyist"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3743.htm"
+  },
+  {
+   "bill_key": "124:H3746",
+   "session": 124,
+   "bill_no": "H3746",
+   "title": "Term limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment: three consecutive Senate terms or six consecutive House terms, counted from the 2024 election forward.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "term limits",
+    "election",
+    "ballot",
+    "term limit"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3746.htm"
+  },
+  {
+   "bill_key": "124:H3920",
+   "session": 124,
+   "bill_no": "H3920",
+   "title": "Ethics - Lobbyist's Reports and Prohibited Financial Gains and Contributions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have expanded lobbyist reporting and the ban on financial gains from lobbying contacts.",
+   "theme": "Lobbying rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "lobbyist",
+    "ethics commission",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3920.htm"
+  },
+  {
+   "bill_key": "124:H3967",
+   "session": 124,
+   "bill_no": "H3967",
+   "title": "School district lobbying disclosures",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required school districts that hire lobbyists to notify parents and report the spending.",
+   "theme": "Lobbying rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "lobbyist",
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3967.htm"
+  },
+  {
+   "bill_key": "124:H4201",
+   "session": 124,
+   "bill_no": "H4201",
+   "title": "SC Citizens Redistricting Commission",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment creating a Citizens Redistricting Commission.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "redistricting",
+    "reapportionment",
+    "ethics commission",
+    "election",
+    "ballot",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4201.htm"
+  },
+  {
+   "bill_key": "124:H4202",
+   "session": 124,
+   "bill_no": "H4202",
+   "title": "Redistricting",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a Citizens Redistricting Commission by statute to submit reapportionment plans to the General Assembly.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "transparency",
+    "accountability",
+    "lobbyist",
+    "redistricting",
+    "reapportionment",
+    "ethics commission",
+    "election",
+    "ballot",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4202.htm"
+  },
+  {
+   "bill_key": "124:H4229",
+   "session": 124,
+   "bill_no": "H4229",
+   "title": "SC Fairness, Accountability, and Integrity in Redistricting Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The FAIR in Redistricting Act: binding criteria and a public process for maps the General Assembly draws (no commission).",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "accountability",
+    "redistricting",
+    "reapportionment",
+    "election",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4229.htm"
+  },
+  {
+   "bill_key": "124:H4392",
+   "session": 124,
+   "bill_no": "H4392",
+   "title": "Partisanship Out of Civics Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Keep Partisanship Out of Civics Act: limits on topics, private funding, and lobbying credit in civics classes.",
+   "theme": "Civics and voter education",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "civics"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4392.htm"
+  },
+  {
+   "bill_key": "124:H4492",
+   "session": 124,
+   "bill_no": "H4492",
+   "title": "Elections - REAPPORTIONMENT: Establishing New Congressional Districts",
+   "instrument_type": "General Bill",
+   "plain_topic": "The House's own 2022 congressional-map bill; sent back to committee when the maps moved through S865 instead.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "election",
+    "PAC",
+    "reapportionment"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4492.htm"
+  },
+  {
+   "bill_key": "124:H4493",
+   "session": 124,
+   "bill_no": "H4493",
+   "title": "Elections - REAPPORTIONMENT: Adopting 2020 Census and Establishing New House Districts",
+   "instrument_type": "General Bill",
+   "plain_topic": "The actual 2021 House map: adopted the 2020 census and drew the new House districts (Act 117 of 2021).",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "redistricting",
+    "reapportionment",
+    "election",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4493.htm"
+  },
+  {
+   "bill_key": "124:H4876",
+   "session": 124,
+   "bill_no": "H4876",
+   "title": "Ethics - Rules of Conduct",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Close the Revolving Door Act: would have doubled (to two years) the wait before former officials can lobby their old colleagues.",
+   "theme": "Lobbying rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "ethics"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4876.htm"
+  },
+  {
+   "bill_key": "124:H4877",
+   "session": 124,
+   "bill_no": "H4877",
+   "title": "Ethics - Campaign Finance",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Eradication of Corporate Money in Politics Act: would have barred corporations from making campaign contributions to candidates, committees, or parties.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "ethics",
+    "campaign finance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4877.htm"
+  },
+  {
+   "bill_key": "124:H5135",
+   "session": 124,
+   "bill_no": "H5135",
+   "title": "Ranked-Choice Voting",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let cities and towns choose ranked-choice voting for municipal elections.",
+   "theme": "Ranked choice voting and runoffs",
+   "relevance": "core",
+   "found_by_terms": [
+    "ranked choice",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/5135.htm"
+  },
+  {
+   "bill_key": "124:H5194",
+   "session": 124,
+   "bill_no": "H5194",
+   "title": "Lobbying - Local Government Actions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended lobbying registration and reporting to local government lobbying.",
+   "theme": "Lobbying rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "lobbyist",
+    "ethics commission",
+    "election",
+    "PAC",
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/5194.htm"
+  },
+  {
+   "bill_key": "124:S108",
+   "session": 124,
+   "bill_no": "S108",
+   "title": "Election Laws",
+   "instrument_type": "General Bill",
+   "plain_topic": "The 2022 Election Laws overhaul (Act 150 of 2022): created permanent two-week early voting and restructured election administration, unanimously.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "election law",
+    "lobbyist",
+    "voter education",
+    "election",
+    "ballot",
+    "referendum",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/108.htm"
+  },
+  {
+   "bill_key": "124:S133",
+   "session": 124,
+   "bill_no": "S133",
+   "title": "Convention of the States",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Broad Article V Convention of States application including congressional term limits; passed both chambers in different forms and died when the House never took up the conference report.",
+   "theme": "Term limits for elected officials",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "election law",
+    "election",
+    "ballot",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/133.htm"
+  },
+  {
+   "bill_key": "124:S141",
+   "session": 124,
+   "bill_no": "S141",
+   "title": "Convention of the States",
+   "instrument_type": "Concurrent Resolution",
+   "plain_topic": "Broad Article V Convention of States application (resolution form); favorable committee report, no floor vote.",
+   "theme": "Term limits for elected officials",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/141.htm"
+  },
+  {
+   "bill_key": "124:S174",
+   "session": 124,
+   "bill_no": "S174",
+   "title": "Campaign practices",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required independent expenditure committees to put disclosures and disclaimers on their election ads.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission",
+    "election",
+    "ballot",
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/174.htm"
+  },
+  {
+   "bill_key": "124:S187",
+   "session": 124,
+   "bill_no": "S187",
+   "title": "Campaign bank accounts",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have pooled interest earned on campaign bank accounts (plus 1% of deposits) to fund State Ethics Commission enforcement.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/187.htm"
+  },
+  {
+   "bill_key": "124:S188",
+   "session": 124,
+   "bill_no": "S188",
+   "title": "Prohibit a person from filing a statement of intention of candidacy with outstanding debt to the state Ethics Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred anyone with outstanding debt to the ethics bodies from filing as a candidate.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission",
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/188.htm"
+  },
+  {
+   "bill_key": "124:S189",
+   "session": 124,
+   "bill_no": "S189",
+   "title": "Campaign reports",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required candidates to file their actual campaign bank statements alongside each quarterly campaign report.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/189.htm"
+  },
+  {
+   "bill_key": "124:S214",
+   "session": 124,
+   "bill_no": "S214",
+   "title": "Campaign bank accounts",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have pooled interest earned on campaign bank accounts (plus 1% of deposits) to fund State Ethics Commission enforcement.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/214.htm"
+  },
+  {
+   "bill_key": "124:S250",
+   "session": 124,
+   "bill_no": "S250",
+   "title": "Campaign reports",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required candidates to file their actual campaign bank statements alongside each quarterly campaign report.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/250.htm"
+  },
+  {
+   "bill_key": "124:S299",
+   "session": 124,
+   "bill_no": "S299",
+   "title": "Economic interest statements",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required statewide officers and legislators to submit their income tax returns with their economic-interest filings.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "disclosure",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/299.htm"
+  },
+  {
+   "bill_key": "124:S302",
+   "session": 124,
+   "bill_no": "S302",
+   "title": "General Assembly Members; enact term limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment capping service at three Senate terms or six House terms.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "term limits",
+    "election",
+    "ballot",
+    "term limit"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/302.htm"
+  },
+  {
+   "bill_key": "124:S306",
+   "session": 124,
+   "bill_no": "S306",
+   "title": "Campaign contributions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred officials from appointing anyone who gave them a campaign contribution in the previous four years.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/306.htm"
+  },
+  {
+   "bill_key": "124:S309",
+   "session": 124,
+   "bill_no": "S309",
+   "title": "Electronic filing system for disclosures and reports",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created an online campaign-account monitoring and auditing department at the State Ethics Commission.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "disclosure",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/309.htm"
+  },
+  {
+   "bill_key": "124:S338",
+   "session": 124,
+   "bill_no": "S338",
+   "title": "Term limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have capped service by statute: six terms in the House or three terms in the Senate.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/338.htm"
+  },
+  {
+   "bill_key": "124:S339",
+   "session": 124,
+   "bill_no": "S339",
+   "title": "General Assembly Members; enact term limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment letting the General Assembly set term limits for its own members by ordinary law.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/339.htm"
+  },
+  {
+   "bill_key": "124:S375",
+   "session": 124,
+   "bill_no": "S375",
+   "title": "Ethics investigations and hearings",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have revised what legislative ethics committees may do with State Ethics Commission findings.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "disclosure",
+    "ethics commission",
+    "freedom of information"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/375.htm"
+  },
+  {
+   "bill_key": "124:S38",
+   "session": 124,
+   "bill_no": "S38",
+   "title": "Reinforcing College Education on America's Constitutional Heritage Act (REACH Act)",
+   "instrument_type": "General Bill",
+   "plain_topic": "The REACH Act (Act 26 of 2021): every public college student must complete instruction on the founding documents - the one civics-instruction law passed in this record.",
+   "theme": "Civics and voter education",
+   "relevance": "core",
+   "found_by_terms": [],
+   "source": "universe",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/38.htm"
+  },
+  {
+   "bill_key": "124:S384",
+   "session": 124,
+   "bill_no": "S384",
+   "title": "General Assembly members; enact term limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment letting the General Assembly set term limits for its own members by ordinary law.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/384.htm"
+  },
+  {
+   "bill_key": "124:S39",
+   "session": 124,
+   "bill_no": "S39",
+   "title": "S.C Constitutional amendments, initiative petition and referendum",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment creating initiative petition and referendum, so voters could enact or repeal laws directly.",
+   "theme": "Direct democracy: recall, initiative, referendum",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "referendum"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/39.htm"
+  },
+  {
+   "bill_key": "124:S396",
+   "session": 124,
+   "bill_no": "S396",
+   "title": "FOIA",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have deleted the FOIA exemption that keeps government business-recruitment deals secret.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "core",
+   "found_by_terms": [
+    "disclosure",
+    "freedom of information",
+    "PAC",
+    "FOIA"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/396.htm"
+  },
+  {
+   "bill_key": "124:S499",
+   "session": 124,
+   "bill_no": "S499",
+   "title": "SC Election Commission Restructuring Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Election Commission restructuring (legislative oversight of the agency); passed the Senate and died in House Judiciary.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "election law",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/499.htm"
+  },
+  {
+   "bill_key": "124:S548",
+   "session": 124,
+   "bill_no": "S548",
+   "title": "Ethics; provide chapter applies to all person elected or appointed a special purpose district",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended the ethics law and economic-interest filing to everyone elected or appointed to fee-charging special purpose districts.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "accountability",
+    "disclosure",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/548.htm"
+  },
+  {
+   "bill_key": "124:S561",
+   "session": 124,
+   "bill_no": "S561",
+   "title": "Independent Reapportionment Commission",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment creating an independent reapportionment commission.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "reapportionment",
+    "conflict of interest",
+    "election",
+    "ballot",
+    "referendum",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/561.htm"
+  },
+  {
+   "bill_key": "124:S750",
+   "session": 124,
+   "bill_no": "S750",
+   "title": "SC Fairness, Accountability, and Integrity in Redistricting Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The FAIR in Redistricting Act: binding criteria and a public process for maps the General Assembly draws (no commission).",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "accountability",
+    "redistricting",
+    "reapportionment",
+    "election",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/750.htm"
+  },
+  {
+   "bill_key": "124:S865",
+   "session": 124,
+   "bill_no": "S865",
+   "title": "Elections - REAPPORTIONMENT: Adopting 2020 Census and Establishing New Senate and House Districts",
+   "instrument_type": "General Bill",
+   "plain_topic": "The actual 2022 Senate and congressional maps (Act 118 of 2022) - the map later defended in the federal gerrymandering suit over District 1.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "redistricting",
+    "reapportionment",
+    "election",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/865.htm"
+  },
+  {
+   "bill_key": "124:S887",
+   "session": 124,
+   "bill_no": "S887",
+   "title": "Constitutional Conventions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Rules for South Carolina's delegates if an Article V convention is ever called.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "recall",
+    "PAC",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/887.htm"
+  },
+  {
+   "bill_key": "125:H3069",
+   "session": 125,
+   "bill_no": "H3069",
+   "title": "SC Fairness, Accountability, and Integrity in Redistricting Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The FAIR in Redistricting Act: binding criteria and a public process for maps the General Assembly draws (no commission).",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "accountability",
+    "redistricting",
+    "reapportionment",
+    "election",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3069.htm"
+  },
+  {
+   "bill_key": "125:H3159",
+   "session": 125,
+   "bill_no": "H3159",
+   "title": "Ethics - Lobbyist Reports and Prohibited Financial Gains and Contributions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have expanded lobbyist reporting and the ban on financial gains from lobbying contacts.",
+   "theme": "Lobbying rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "lobbyist",
+    "ethics commission",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3159.htm"
+  },
+  {
+   "bill_key": "125:H3173",
+   "session": 125,
+   "bill_no": "H3173",
+   "title": "Independent Reapportionment Commission",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment creating an independent reapportionment commission.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "reapportionment",
+    "conflict of interest",
+    "election",
+    "ballot",
+    "referendum",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3173.htm"
+  },
+  {
+   "bill_key": "125:H3242",
+   "session": 125,
+   "bill_no": "H3242",
+   "title": "Campaign Finance",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred legislators and candidates from taking contributions from state-granted monopolies such as utilities.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ballot",
+    "campaign finance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3242.htm"
+  },
+  {
+   "bill_key": "125:H3243",
+   "session": 125,
+   "bill_no": "H3243",
+   "title": "SC Citizens Redistricting Commission",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment creating a Citizens Redistricting Commission.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "redistricting",
+    "reapportionment",
+    "ethics commission",
+    "election",
+    "ballot",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3243.htm"
+  },
+  {
+   "bill_key": "125:H3245",
+   "session": 125,
+   "bill_no": "H3245",
+   "title": "Redistricting",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a Citizens Redistricting Commission by statute to submit reapportionment plans to the General Assembly.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "transparency",
+    "accountability",
+    "lobbyist",
+    "redistricting",
+    "reapportionment",
+    "ethics commission",
+    "election",
+    "ballot",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3245.htm"
+  },
+  {
+   "bill_key": "125:H3249",
+   "session": 125,
+   "bill_no": "H3249",
+   "title": "Term limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have capped General Assembly service by statute.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3249.htm"
+  },
+  {
+   "bill_key": "125:H3250",
+   "session": 125,
+   "bill_no": "H3250",
+   "title": "Term Limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment letting the General Assembly set term limits for its own members by ordinary law.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3250.htm"
+  },
+  {
+   "bill_key": "125:H3327",
+   "session": 125,
+   "bill_no": "H3327",
+   "title": "FOIA violation penalties",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set penalties for violating the Freedom of Information Act.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "core",
+   "found_by_terms": [
+    "freedom of information",
+    "FOIA"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3327.htm"
+  },
+  {
+   "bill_key": "125:H3444",
+   "session": 125,
+   "bill_no": "H3444",
+   "title": "Term Limits for Members of the General Assembly",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment capping consecutive service starting with members elected in 2024 (five consecutive House terms).",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3444.htm"
+  },
+  {
+   "bill_key": "125:H3465",
+   "session": 125,
+   "bill_no": "H3465",
+   "title": "FOIA Exemptions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have revised FOIA's exemptions.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "disclosure",
+    "freedom of information",
+    "FOIA"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3465.htm"
+  },
+  {
+   "bill_key": "125:H3474",
+   "session": 125,
+   "bill_no": "H3474",
+   "title": "Campaign contribution limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have raised individual contribution limits and the limits on money from party and caucus committees.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3474.htm"
+  },
+  {
+   "bill_key": "125:H3574",
+   "session": 125,
+   "bill_no": "H3574",
+   "title": "Constitutional Term Limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment capping consecutive service at four House terms or two Senate terms - the strictest state design filed.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3574.htm"
+  },
+  {
+   "bill_key": "125:H3606",
+   "session": 125,
+   "bill_no": "H3606",
+   "title": "Primary runoffs, abolish",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have abolished primary runoffs: the candidate with the most primary votes wins the nomination outright.",
+   "theme": "Ranked choice voting and runoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "freedom of information",
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3606.htm"
+  },
+  {
+   "bill_key": "125:H3676",
+   "session": 125,
+   "bill_no": "H3676",
+   "title": "Convention of the States",
+   "instrument_type": "Concurrent Resolution",
+   "plain_topic": "Broad Article V Convention of States application; passed the House 68-30 and died on the Senate calendar after a favorable committee report.",
+   "theme": "Term limits for elected officials",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "recall"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3676.htm"
+  },
+  {
+   "bill_key": "125:H4022",
+   "session": 125,
+   "bill_no": "H4022",
+   "title": "Instant Runoff Voting",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have added instant runoff (ranked choice) voting as an option for municipal elections.",
+   "theme": "Ranked choice voting and runoffs",
+   "relevance": "core",
+   "found_by_terms": [
+    "instant runoff",
+    "election",
+    "ballot",
+    "election law"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4022.htm"
+  },
+  {
+   "bill_key": "125:H4222",
+   "session": 125,
+   "bill_no": "H4222",
+   "title": "Anti-Gerrymandering Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Anti-Gerrymandering Act: a multipartisan redistricting commission submitting plans to the General Assembly.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "redistricting",
+    "reapportionment",
+    "gerrymandering",
+    "ethics commission",
+    "election",
+    "election law",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4222.htm"
+  },
+  {
+   "bill_key": "125:H4260",
+   "session": 125,
+   "bill_no": "H4260",
+   "title": "Voter Access and Transparency Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Election-procedure package: paper poll books, observer rights, chain-of-custody records.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "transparency",
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4260.htm"
+  },
+  {
+   "bill_key": "125:H4561",
+   "session": 125,
+   "bill_no": "H4561",
+   "title": "Campaign Finance - Dependent Care for Immediate Family Members",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let candidates use campaign funds for dependent care while campaigning; passed the House 53-45 and died in Senate Judiciary.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission",
+    "campaign finance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4561.htm"
+  },
+  {
+   "bill_key": "125:H4585",
+   "session": 125,
+   "bill_no": "H4585",
+   "title": "Lobbyist and judiciary qualifications",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have made former officials wait two years (and finish their full term) before they or family members lobby, and two years before legislators take judgeships.",
+   "theme": "Lobbying rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4585.htm"
+  },
+  {
+   "bill_key": "125:H4591",
+   "session": 125,
+   "bill_no": "H4591",
+   "title": "Ranked choice voting ban",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have banned ranked choice or instant runoff voting in all South Carolina elections.",
+   "theme": "Ranked choice voting and runoffs",
+   "relevance": "core",
+   "found_by_terms": [
+    "ranked choice",
+    "instant runoff",
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4591.htm"
+  },
+  {
+   "bill_key": "125:H4592",
+   "session": 125,
+   "bill_no": "H4592",
+   "title": "Special primary runoffs",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have eliminated runoffs in special primary elections.",
+   "theme": "Ranked choice voting and runoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4592.htm"
+  },
+  {
+   "bill_key": "125:H4660",
+   "session": 125,
+   "bill_no": "H4660",
+   "title": "Deceptive and fraudulent deepfake media in elections",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have banned deceptive AI deepfake media in elections.",
+   "theme": "Campaign money rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "disclosure",
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4660.htm"
+  },
+  {
+   "bill_key": "125:H4692",
+   "session": 125,
+   "bill_no": "H4692",
+   "title": "House Rules, chairmen term limits",
+   "instrument_type": "House Resolution",
+   "plain_topic": "House rule change (not a law): committee chairmen could serve at most two consecutive two-year terms leading a committee.",
+   "theme": "Term limits for elected officials",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "election",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4692.htm"
+  },
+  {
+   "bill_key": "125:H4713",
+   "session": 125,
+   "bill_no": "H4713",
+   "title": "Lobbyist",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred state agencies from spending public funds to hire contract lobbyists.",
+   "theme": "Lobbying rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "lobbyist"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4713.htm"
+  },
+  {
+   "bill_key": "125:H5143",
+   "session": 125,
+   "bill_no": "H5143",
+   "title": "Freedom of Information Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have opened more public-employee pay information to disclosure.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "core",
+   "found_by_terms": [
+    "disclosure",
+    "freedom of information"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5143.htm"
+  },
+  {
+   "bill_key": "125:H5181",
+   "session": 125,
+   "bill_no": "H5181",
+   "title": "Ethics Offense - Statute of Limitations",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let ethics complaints be pursued past four years while the official stays in the same office.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5181.htm"
+  },
+  {
+   "bill_key": "125:H5303",
+   "session": 125,
+   "bill_no": "H5303",
+   "title": "Election Transparency Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Election-procedure package: electronic records access and hand-count audits.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "transparency",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5303.htm"
+  },
+  {
+   "bill_key": "125:S1046",
+   "session": 125,
+   "bill_no": "S1046",
+   "title": "Judicial Merit Selection Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "Judicial Merit Selection Commission reform (Act 219 of 2024): changed how the state screens judges the General Assembly elects.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "term limits",
+    "ethics",
+    "disclosure",
+    "ethics commission",
+    "freedom of information",
+    "election",
+    "ballot",
+    "term limit",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/1046.htm"
+  },
+  {
+   "bill_key": "125:S137",
+   "session": 125,
+   "bill_no": "S137",
+   "title": "Interest on Campaign Bank Accounts",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have pooled interest earned on campaign bank accounts (plus 1% of deposits) to fund State Ethics Commission enforcement.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/137.htm"
+  },
+  {
+   "bill_key": "125:S159",
+   "session": 125,
+   "bill_no": "S159",
+   "title": "Campaign reports",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required candidates to file their actual campaign bank statements alongside each quarterly campaign report.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/159.htm"
+  },
+  {
+   "bill_key": "125:S169",
+   "session": 125,
+   "bill_no": "S169",
+   "title": "Economic interest statements",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required statewide officers and legislators to submit their income tax returns with their economic-interest filings.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "disclosure",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/169.htm"
+  },
+  {
+   "bill_key": "125:S172",
+   "session": 125,
+   "bill_no": "S172",
+   "title": "General Assembly Member Term Limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment capping service at three Senate terms or six House terms.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "term limits",
+    "election",
+    "ballot",
+    "term limit"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/172.htm"
+  },
+  {
+   "bill_key": "125:S195",
+   "session": 125,
+   "bill_no": "S195",
+   "title": "State Ethics Commission and Campaign Bank Accounts",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created an online campaign-account monitoring and auditing department at the State Ethics Commission.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "disclosure",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/195.htm"
+  },
+  {
+   "bill_key": "125:S199",
+   "session": 125,
+   "bill_no": "S199",
+   "title": "Campaign Contributions and Public Office",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred officials from appointing anyone who gave them a campaign contribution in the previous four years.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/199.htm"
+  },
+  {
+   "bill_key": "125:S213",
+   "session": 125,
+   "bill_no": "S213",
+   "title": "Term limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have capped service by statute: six terms in the House or three terms in the Senate.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/213.htm"
+  },
+  {
+   "bill_key": "125:S214",
+   "session": 125,
+   "bill_no": "S214",
+   "title": "Constitutional Amendment, Term Limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposed a constitutional amendment letting the General Assembly set term limits for its own members by ordinary law.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/214.htm"
+  },
+  {
+   "bill_key": "125:S232",
+   "session": 125,
+   "bill_no": "S232",
+   "title": "FOIA",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have deleted the FOIA exemption that keeps government business-recruitment deals secret.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "core",
+   "found_by_terms": [
+    "disclosure",
+    "freedom of information",
+    "PAC",
+    "FOIA"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/232.htm"
+  },
+  {
+   "bill_key": "125:S391",
+   "session": 125,
+   "bill_no": "S391",
+   "title": "Constitutional Conventions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Rules for South Carolina's delegates if an Article V convention is ever called.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "recall",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/391.htm"
+  },
+  {
+   "bill_key": "125:S395",
+   "session": 125,
+   "bill_no": "S395",
+   "title": "Ethics; provide chapter applies to all person elected or appointed a special purpose district",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended the ethics law and economic-interest filing to special purpose districts, and required the Ethics Commission to post its decisions online.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "disclosure",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/395.htm"
+  },
+  {
+   "bill_key": "125:S986",
+   "session": 125,
+   "bill_no": "S986",
+   "title": "ethics fines",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have kept candidates off the ballot unless they declared ethics fines owed and enrolled in a payment plan, and reduced old fine balances to $5,000.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission",
+    "ballot",
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/986.htm"
+  },
+  {
+   "bill_key": "126:H3007",
+   "session": 126,
+   "bill_no": "H3007",
+   "title": "Convention of the States",
+   "instrument_type": "Concurrent Resolution",
+   "plain_topic": "Article V application for a balanced-budget-amendment convention; adopted by both chambers in January 2026.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "recall"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3007.htm"
+  },
+  {
+   "bill_key": "126:H3008",
+   "session": 126,
+   "bill_no": "H3008",
+   "title": "Convention of the States",
+   "instrument_type": "Concurrent Resolution",
+   "plain_topic": "Article V application for a convention limited to a congressional term limits amendment - adopted by both chambers in May 2025, the only term-limits measure in this record to pass anything.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "term limits",
+    "recall",
+    "term limit"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3008.htm"
+  },
+  {
+   "bill_key": "126:H3102",
+   "session": 126,
+   "bill_no": "H3102",
+   "title": "Term limits for U.S. Supreme Court",
+   "instrument_type": "Concurrent Resolution",
+   "plain_topic": "Resolution calling for term limits for U.S. Supreme Court justices.",
+   "theme": "Term limits for elected officials",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "term limits",
+    "term limit"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3102.htm"
+  },
+  {
+   "bill_key": "126:H3161",
+   "session": 126,
+   "bill_no": "H3161",
+   "title": "FOIA exemptions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would revise FOIA's exemptions.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "disclosure",
+    "freedom of information",
+    "FOIA"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3161.htm"
+  },
+  {
+   "bill_key": "126:H3200",
+   "session": 126,
+   "bill_no": "H3200",
+   "title": "School board meeting transparency",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require school boards to livestream their meetings.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "transparency",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3200.htm"
+  },
+  {
+   "bill_key": "126:H3318",
+   "session": 126,
+   "bill_no": "H3318",
+   "title": "Special primary runoffs",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would eliminate runoffs in special primary elections.",
+   "theme": "Ranked choice voting and runoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3318.htm"
+  },
+  {
+   "bill_key": "126:H3321",
+   "session": 126,
+   "bill_no": "H3321",
+   "title": "Statement of economic interest",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt unpaid appointed officials who raise no campaign funds from filing economic-interest statements - the one bill loosening a filing rule.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3321.htm"
+  },
+  {
+   "bill_key": "126:H3386",
+   "session": 126,
+   "bill_no": "H3386",
+   "title": "Ranked Choice Voting Ban",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would ban ranked choice or instant runoff voting in all South Carolina elections.",
+   "theme": "Ranked choice voting and runoffs",
+   "relevance": "core",
+   "found_by_terms": [
+    "ranked choice",
+    "instant runoff",
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3386.htm"
+  },
+  {
+   "bill_key": "126:H3475",
+   "session": 126,
+   "bill_no": "H3475",
+   "title": "Lobbyist Reports and Prohibited Financial Gains and Contributions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require lobbyists to file extra reports on contacts with the Public Service Commission and Office of Regulatory Staff.",
+   "theme": "Lobbying rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "lobbyist",
+    "ethics commission",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3475.htm"
+  },
+  {
+   "bill_key": "126:H3517",
+   "session": 126,
+   "bill_no": "H3517",
+   "title": "Deceptive and fraudulent deepfake media in elections",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would ban deceptive AI deepfake media in elections.",
+   "theme": "Campaign money rules",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "disclosure",
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3517.htm"
+  },
+  {
+   "bill_key": "126:H3547",
+   "session": 126,
+   "bill_no": "H3547",
+   "title": "Civics course required for middle schools",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require every middle schooler to complete a civics unit and create the Palmetto Middle School Civics Challenge for student-led civics projects.",
+   "theme": "Civics and voter education",
+   "relevance": "core",
+   "found_by_terms": [
+    "civics",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3547.htm"
+  },
+  {
+   "bill_key": "126:H3552",
+   "session": 126,
+   "bill_no": "H3552",
+   "title": "Abolish runoff elections",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would abolish primary runoffs: the candidate with the most primary votes wins the nomination outright.",
+   "theme": "Ranked choice voting and runoffs",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "freedom of information",
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3552.htm"
+  },
+  {
+   "bill_key": "126:H3554",
+   "session": 126,
+   "bill_no": "H3554",
+   "title": "Campaign Contribution Limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise individual contribution limits and the limits on money from party and caucus committees.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "lobbyist",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3554.htm"
+  },
+  {
+   "bill_key": "126:H3570",
+   "session": 126,
+   "bill_no": "H3570",
+   "title": "Disclosure of Economic Interests",
+   "instrument_type": "General Bill",
+   "plain_topic": "Rewrote who must disclose economic interests and how; passed the House 102-0 and the Senate 40-0 in different forms, then died in conference in the session's final days.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "lobbyist",
+    "disclosure",
+    "ethics commission",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3570.htm"
+  },
+  {
+   "bill_key": "126:H3589",
+   "session": 126,
+   "bill_no": "H3589",
+   "title": "Ranked choice voting",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would establish the instant runoff (ranked choice) method for certain local elections and allow multi-member municipal districts.",
+   "theme": "Ranked choice voting and runoffs",
+   "relevance": "core",
+   "found_by_terms": [
+    "instant runoff",
+    "election",
+    "ballot",
+    "recall",
+    "election law",
+    "ranked choice"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3589.htm"
+  },
+  {
+   "bill_key": "126:H3646",
+   "session": 126,
+   "bill_no": "H3646",
+   "title": "Meeting Transparency Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Meeting Transparency Act: would put every legislative committee meeting and school board meeting online.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "core",
+   "found_by_terms": [
+    "transparency",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3646.htm"
+  },
+  {
+   "bill_key": "126:H3647",
+   "session": 126,
+   "bill_no": "H3647",
+   "title": "Earmark Transparency Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Earmark Transparency Act: every budget earmark request put in writing on a public form.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "transparency"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3647.htm"
+  },
+  {
+   "bill_key": "126:H3648",
+   "session": 126,
+   "bill_no": "H3648",
+   "title": "Budget Transparency Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Budget Transparency Act: agencies must publish salary detail with their budget requests.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "transparency"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3648.htm"
+  },
+  {
+   "bill_key": "126:H3744",
+   "session": 126,
+   "bill_no": "H3744",
+   "title": "Term limits",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposes a constitutional amendment letting the General Assembly set term limits for its own members by ordinary law.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3744.htm"
+  },
+  {
+   "bill_key": "126:H3745",
+   "session": 126,
+   "bill_no": "H3745",
+   "title": "Term Limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would cap service by statute: six terms in the House or four terms in the Senate.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3745.htm"
+  },
+  {
+   "bill_key": "126:H3854",
+   "session": 126,
+   "bill_no": "H3854",
+   "title": "Earmark Responsibility, Accountability, Integrity, and Transparency Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require organizations receiving state earmarks to file itemized public accountings, receipts included.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "transparency",
+    "accountability"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3854.htm"
+  },
+  {
+   "bill_key": "126:H3999",
+   "session": 126,
+   "bill_no": "H3999",
+   "title": "Constitutional Amendment, dual office holding exclusions",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Constitutional amendment exempting unpaid positions from the dual-office-holding ban.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3999.htm"
+  },
+  {
+   "bill_key": "126:H4462",
+   "session": 126,
+   "bill_no": "H4462",
+   "title": "Term limits",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would cap total General Assembly service at twelve years by statute, paired with a raise in members' in-district compensation.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "term limit",
+    "term limits"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4462.htm"
+  },
+  {
+   "bill_key": "126:H4513",
+   "session": 126,
+   "bill_no": "H4513",
+   "title": "Election Transparency and Accountability Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Election-procedure package: free records, observer rights, equipment chain-of-custody rules.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "transparency",
+    "accountability"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4513.htm"
+  },
+  {
+   "bill_key": "126:H4717",
+   "session": 126,
+   "bill_no": "H4717",
+   "title": "Reapportionment, Congressional Districts",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have redrawn South Carolina's congressional districts mid-decade, starting with the 2026 election; died in House Judiciary.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "redistricting",
+    "election",
+    "PAC",
+    "reapportionment"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4717.htm"
+  },
+  {
+   "bill_key": "126:H4728",
+   "session": 126,
+   "bill_no": "H4728",
+   "title": "FOIA fees",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would let legislators get public records free of charge for legislative work.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "disclosure",
+    "freedom of information",
+    "FOIA"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4728.htm"
+  },
+  {
+   "bill_key": "126:H5360",
+   "session": 126,
+   "bill_no": "H5360",
+   "title": "Term limits for members of General Assembly",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposes a constitutional amendment capping service at four House terms or two Senate terms.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "term limits",
+    "election",
+    "ballot",
+    "term limit"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5360.htm"
+  },
+  {
+   "bill_key": "126:H5683",
+   "session": 126,
+   "bill_no": "H5683",
+   "title": "Redistricting, Congressional Districts",
+   "instrument_type": "General Bill",
+   "plain_topic": "The May 2026 mid-decade congressional redraw: passed the House 74-37 after dozens of amendment fights, then the Senate voted 26-18 to shelve it.",
+   "theme": "Who draws the voting maps (redistricting)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "PAC",
+    "redistricting"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5683.htm"
+  },
+  {
+   "bill_key": "126:S1130",
+   "session": 126,
+   "bill_no": "S1130",
+   "title": "Apply Ethics Laws to Political Party Chairmen",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would apply the state's ethics, campaign-practices, and lobbying laws to political party chairmen.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "lobbyist",
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1130.htm"
+  },
+  {
+   "bill_key": "126:S590",
+   "session": 126,
+   "bill_no": "S590",
+   "title": "Term Limits Constitutional Amendment",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposes a constitutional amendment capping service at three Senate terms or six House terms.",
+   "theme": "Term limits for elected officials",
+   "relevance": "core",
+   "found_by_terms": [
+    "term limits",
+    "election",
+    "ballot",
+    "term limit"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/590.htm"
+  },
+  {
+   "bill_key": "126:S6",
+   "session": 126,
+   "bill_no": "S6",
+   "title": "Freedom of Information",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would give public bodies a five-day deadline to produce records, with silence counting as a denial and a violation.",
+   "theme": "Open government: public records and meetings",
+   "relevance": "core",
+   "found_by_terms": [
+    "disclosure",
+    "public records",
+    "public meeting",
+    "freedom of information"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/6.htm"
+  },
+  {
+   "bill_key": "126:S632",
+   "session": 126,
+   "bill_no": "S632",
+   "title": "Ethics - Local Government Lobbying",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would extend the lobbying law to lobbying of county and city governments and require an online list of registered lobbyists - filed by Senate leadership of both parties.",
+   "theme": "Lobbying rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "lobbyist",
+    "disclosure",
+    "ethics commission",
+    "election",
+    "PAC"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/632.htm"
+  },
+  {
+   "bill_key": "126:S70",
+   "session": 126,
+   "bill_no": "S70",
+   "title": "School Board Ethics",
+   "instrument_type": "General Bill",
+   "plain_topic": "The School Board Ethics Act (Act 191 of 2026): a required code of ethics and training for elected school board members - this set's one enacted ethics law.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission",
+    "election",
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/70.htm"
+  },
+  {
+   "bill_key": "126:S75",
+   "session": 126,
+   "bill_no": "S75",
+   "title": "Ethics Fines",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would keep candidates off the ballot unless they declare ethics fines owed and enroll in a payment plan.",
+   "theme": "Financial disclosure and ethics enforcement",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission",
+    "ballot",
+    "disclosure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/75.htm"
+  },
+  {
+   "bill_key": "126:S813",
+   "session": 126,
+   "bill_no": "S813",
+   "title": "Campaign Contributor Information",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require campaign reports to list the occupation and employer of anyone giving more than $100 - filed by Senate leadership of both parties.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "lobbyist",
+    "ethics commission",
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/813.htm"
+  },
+  {
+   "bill_key": "126:S84",
+   "session": 126,
+   "bill_no": "S84",
+   "title": "Interest on Campaign Bank Accounts",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would pool interest earned on campaign bank accounts (plus 1% of deposits) to fund State Ethics Commission enforcement.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "ethics commission"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/84.htm"
+  },
+  {
+   "bill_key": "126:S91",
+   "session": 126,
+   "bill_no": "S91",
+   "title": "Campaign Bank Account Statements",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require candidates to file their actual campaign bank statements alongside each quarterly campaign report.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "disclosure",
+    "ethics commission",
+    "election"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/91.htm"
+  },
+  {
+   "bill_key": "126:S95",
+   "session": 126,
+   "bill_no": "S95",
+   "title": "Ballot Initiative",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Proposes a constitutional amendment creating a ballot-initiative process for enacting or repealing laws.",
+   "theme": "Direct democracy: recall, initiative, referendum",
+   "relevance": "core",
+   "found_by_terms": [
+    "election",
+    "ballot",
+    "referendum"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/95.htm"
+  },
+  {
+   "bill_key": "126:S960",
+   "session": 126,
+   "bill_no": "S960",
+   "title": "Campaign Practices",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require independent expenditure committees to disclose who is behind their election ads.",
+   "theme": "Campaign money rules",
+   "relevance": "core",
+   "found_by_terms": [
+    "ethics",
+    "disclosure",
+    "ethics commission",
+    "election",
+    "ballot"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/960.htm"
+  }
+ ]
+}
