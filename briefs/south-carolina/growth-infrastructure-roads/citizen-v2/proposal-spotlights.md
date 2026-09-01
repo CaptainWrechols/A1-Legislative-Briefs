@@ -6,7 +6,8 @@ version: spotlights-v2.0
 organization: The Forum
 generated_by: citizen-brief-writer v2.3
 date: 2026-09-01
-status: DRAFT
+status: READY FOR HUMAN REVIEW
+reviewed_by: citizen-reviewer v2.3 (2026-09-01)
 ---
 
 # Policy Spotlights — Growth, Infrastructure, and Roads Brief
@@ -28,7 +29,7 @@ A focused, bill-by-bill look at how far each Phase 2 growth-and-roads proposal h
 - **Penny mechanics:** H3129 (2021) — remove the rule blocking a capital-project penny from stacking on a transportation penny; S116 (2023) — let a renewed capital-project penny run eleven years instead of seven; H5188 and S1113 (2024) — exempt groceries from the transportation penny; S449 (2019) — let the capital-project penny fund economic-development infrastructure.
 - **Penny purposes (workforce housing, green space, emergency services):** S298 and H3911 (2025–26), S1006 (2026), H5744 (2026).
 - **Tolls:** S178 and H3739 (2019) — require SCDOT to toll I-95 at Lake Marion; S780 (2019) — require SCDOT to review every highway and bridge project for toll financing; S499 (2023) — the Lake Marion toll again; S674 (2023) — the Interstate 95 Bridge Toll Act, with toll booths at four bridges and resident relief.
-- **Local fees:** S172 (2019) — a county-option one-cent-a-gallon gas fee for beach renourishment, by referendum; H3483 (2021) — local road-use fees kept in a separate audited account; H4597 (2020) — letting a county keep a pre-1997 hospitality fee (the family that funds Horry County road projects); S629 (2019) and the H3132/H4674 pair (2019–20) — more tourism-tax flexibility.
+- **Local fees:** S172 (2019) — a county-option one-cent-a-gallon gas fee for beach renourishment, by referendum; H3483 (2021) — local road-use fees kept in a separate audited account; H4597 (2019) — letting a county keep a pre-1997 hospitality fee (the family that funds Horry County road projects); S629 (2019) and the H3132/H4674 pair (2019–20) — more tourism-tax flexibility.
 - **Green space follow-on:** S792 (2023) — letting a small share of green-space penny money fund conservation management.
 
 ## Make developers pay for growth [P-developer-pays-growth]
@@ -75,11 +76,11 @@ A focused, bill-by-bill look at how far each Phase 2 growth-and-roads proposal h
 - **H4262 (Act 179 of 2020):** the Small Wireless Facilities Deployment Act — statewide rules for 5G small cells in rights of way, limiting local zoning control; 108–2, 32–6, 104–1.
 
 ### Got support but didn't finish
-- **S227 (2026):** concurrency — local governments could tie development approval to infrastructure keeping pace; reported favorably, amended on the Senate floor April 29, 2026, died without completing passage. The furthest any growth-management bill traveled in this record.
-- **S288 (2026):** transferable development rights; favorable Judiciary report, died on the Senate calendar.
+- **S227 (filed 2025):** concurrency — local governments could tie development approval to infrastructure keeping pace; reported favorably, amended on the Senate floor April 29, 2026, died without completing passage. The furthest any growth-management bill traveled in this record.
+- **S288 (filed 2025):** transferable development rights; favorable Judiciary report, died on the Senate calendar.
 
 ### Stopped early (died in first committee, no recorded vote)
-- **Concurrency predecessors and twins:** H5562 (2024), H4050 (2026).
+- **Concurrency predecessors and twins:** H5562 (2024), H4050 (2025).
 - **Zoning-decision accountability:** H4390 (2025) — the Community Impact and Opportunity Assessment Act, requiring impact assessments (infrastructure, affordability, displacement) before major zoning decisions; S530 and H4293 (2025) — permits void when zoning officials find a use not permitted.
 - **Annexation controls:** H5742 (2026) — a county could block municipal annexation until an infrastructure impact study and mitigation plan is approved; H4651 (2023) — the Annexation Fairness Act, county standing to challenge annexations; H5196 (2022), H3236 (2023), H4726 (2025) — cities could annex "donut holes" they surround.
 - **The developer-side counter-current (loosening local control):** the Home Attainability Act permitting packages (S528 and H3863 in 2021, S4 in 2023, S4 in 2025); 45-day permit shot clocks (H4652 in 2024, H3215 in 2025); housing-cost impact analyses for new ordinances (H4482 and S757, 2019); plat and subdivision definition changes (H4598 and S833, 2019); planning-appeal alignment (H4721, 2019); transferable development rights (H4996 in 2024, H4146 in 2026).

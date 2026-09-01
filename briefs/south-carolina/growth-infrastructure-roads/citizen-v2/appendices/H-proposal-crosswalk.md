@@ -25,7 +25,7 @@ appendix matches each proposal against the 2019–2026 legislative record.
 
 ## [P-developer-pays-growth] Make developers pay for growth (impact fees / proffers)
 
-- **What citizens said:** developers should pay for the infrastructure
+- **What citizens said:** make developers pay for the infrastructure
   their projects create demand for; raised at all events, high consensus;
   pass-through to home prices the named concern.
 - **What the record shows:** impact fees have been legal since 1999, with
