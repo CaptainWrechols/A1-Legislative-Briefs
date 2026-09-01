@@ -15,7 +15,7 @@ brief by design.
 | Committee-tally absence | SC publishes committee outcomes without tallies; asserted as a data limit, never bridged with estimates |
 | Budget proviso claims (Road Buyback, the $417.4M/$200M/$225M packages, the school impact-fee prohibition, the fix-it-first rule, the dashboard) | Part IB full texts per enacted cycle (`sources/south-carolina/_universe/part1b/{year}/`, matched subsets in `working/.../provisos/{year}/`), hand-curated in `proviso-curated.json` with caption checks at build time; dollar figures verbatim |
 | Background law (Act 40 of 2017 gas-tax phase-in; the 1999 Development Impact Fee Act; penny-tax chapters) | The statutes recited in the filed bills' own texts (Sections 12-28-310, 6-1-910 et seq., Title 4 Chapters 10 and 37) — described as background, not counted as record bills |
-| Citizen proposals and consensus notes ([P-…]) | Phase 2 Community Conversations dataset "SC1 – Phase 2 Constituent Proposals – Grid View for Legislators v2" via the issue config — process input, not verified fact |
+| Citizen proposals and consensus notes ([P-…]) | Phase 2 Community Conversations dataset "SC1 – Phase 2 Constituent Proposals – Grid View for Legislators v2" via the issue config — process input, not verified fact. Cross-checked against the source document itself on 2026-09-01: six of seven proposal blocks verify (frequency/tradeoffs/consensus); the developer-pays-growth detail table is blank in the v2 document, so its attributes rest on the config's proposal block alone (noted in Appendix H) |
 
 ## Collection and verification notes
 

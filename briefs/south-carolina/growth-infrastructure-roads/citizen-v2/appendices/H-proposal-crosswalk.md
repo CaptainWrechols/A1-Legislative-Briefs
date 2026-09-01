@@ -5,6 +5,15 @@ growth-and-roads proposals. They are Forum process input — what participants
 proposed, at what frequency and consensus — not verified facts. This
 appendix matches each proposal against the 2019–2026 legislative record.
 
+Source-document cross-check (2026-09-01): the frequency, tradeoff, and
+consensus descriptions below were verified against the "SC1 – Phase 2
+Constituent Proposals – Grid View for Legislators v2" document. Six of the
+seven match it verbatim in substance. The exception is developer-pays-growth:
+its detail table (frequency/tradeoffs/consensus) is blank in the v2 document
+— the proposal itself appears in the document's legislator-feedback grid, but
+its attributes here rest on the issue config's proposal block alone. Flagged
+for human review.
+
 ## [P-local-funding-tools] New/expanded local funding tools (penny sales tax, impact fees, tolls, parking fees)
 
 - **What citizens said:** give local governments new or expanded funding
@@ -56,7 +65,9 @@ appendix matches each proposal against the 2019–2026 legislative record.
 
 - **What citizens said:** move toward state or regional planning for growth
   and infrastructure; raised at all four events; mixed consensus — the
-  home-rule tension (local control versus state authority) runs through it.
+  home-rule tension (local control versus state authority) runs through it,
+  though it was adopted as a consensus recommendation at the Charleston
+  conversation (process input).
 - **What the record shows:** the lever citizens described has never been
   filed — no state- or regional-planning bill exists in this record. What
   exists: one enacted state layer on local plans (the resilience act,

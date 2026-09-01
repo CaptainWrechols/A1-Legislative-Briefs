@@ -78,6 +78,17 @@ HTML + Word renders). Working inputs: `evidence-pack.json`,
    "should" even in attributed process input).
 3. All renders (HTML, DOCX, appendices print) rebuilt after the fixes and
    page boundaries re-verified in both engines.
+4. Post-review source cross-check (2026-09-01): the seven [P-…] proposal
+   descriptions were verified against the uploaded "SC1 – Phase 2
+   Constituent Proposals – Grid View for Legislators v2" document. Six of
+   seven match in substance; one faithful detail was added to Appendix H
+   and the internal reality map (state master planning was a consensus
+   recommendation at the Charleston conversation). Exception flagged for
+   human review: the developer-pays-growth detail table
+   (frequency/tradeoffs/consensus) is blank in the v2 document, so its
+   attributes ("very high frequency, all events; high consensus") rest on
+   the issue config's proposal block alone (disclosed in Appendices H
+   and I).
 
 ## SC-specific checks (workflow requirements)
 

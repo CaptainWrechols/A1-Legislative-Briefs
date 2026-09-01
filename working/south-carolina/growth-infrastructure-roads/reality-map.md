@@ -194,7 +194,8 @@ penny) — and the biggest money moved through the budget, not standalone law.
 - **What citizens proposed:** state-level comprehensive or regional
   planning for growth and infrastructure, in place of county-by-county
   plans (very high frequency, all 4 events; mixed consensus — the
-  home-rule tension runs through it).
+  home-rule tension runs through it, though it was adopted as a consensus
+  recommendation at the Charleston conversation).
 - **The blunt finding:** no bill in this record proposes state or regional
   master planning. The lever citizens described has not been filed.
 - **What exists instead — state rules on local plans:** the Disaster Relief
