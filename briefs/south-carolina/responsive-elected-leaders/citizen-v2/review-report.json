@@ -1,0 +1,61 @@
+{
+ "issue_id": "south-carolina-02-responsive-elected-leaders",
+ "package": "briefs/south-carolina/responsive-elected-leaders/citizen-v2",
+ "reviewer": "citizen-reviewer v2.3",
+ "date": "2026-08-28",
+ "verdict": "READY FOR HUMAN REVIEW",
+ "checks": {
+  "A1_reports_without_advice": "pass",
+  "A2_grouped_by_record_status": "pass",
+  "A4_no_pursue_adapt_avoid": "pass",
+  "A5_all_proposals_covered": "pass",
+  "A6_no_worksheet_apparatus": "pass",
+  "B1_adult_plain_prose": "pass",
+  "B2_terms_used_naturally_glossaries_appended": "pass",
+  "B3_bill_descriptions_plain": "pass",
+  "C1_front_brief_2pages_html_and_word": "pass",
+  "C2_page1_essentials": "pass",
+  "C3_detail_in_appendices": "pass",
+  "D1_cited_bills_exist_in_pack": "pass",
+  "D2_no_invented_votes_or_parties": "pass",
+  "D3_data_limits_stated": "pass",
+  "D4_no_inferred_committee_yeas": "pass",
+  "E1_no_advice_verbs": "pass",
+  "E2_no_party_blame": "pass",
+  "E3_people_signals_descriptive": "pass",
+  "E4_recent_enactments_neutral": "pass",
+  "F1_html_and_css": "pass",
+  "F2_appendices_A_to_I": "pass",
+  "F3_package_md": "pass",
+  "F3b_word_exports": "pass",
+  "F4_phase2_tokens_only": "pass",
+  "F5_phase2_modules_no_front_tables": "pass",
+  "F6_no_sample_text_copied": "pass",
+  "F7_reviewer_material_in_appendix": "pass",
+  "SC_proviso_callout_page1": "pass",
+  "SC_no_implied_committee_tallies": "pass",
+  "SC_history_baskets_only": "pass"
+ },
+ "page_counts": {
+  "citizen_brief_html_combined": 5,
+  "citizen_brief_html_front_section": 2,
+  "citizen_brief_docx": 5,
+  "citizen_brief_docx_front_section_ends_page": 2,
+  "proposal_spotlights_html": 4,
+  "proposal_spotlights_docx": 3,
+  "appendices_print_html": 57,
+  "appendices_docx": 55
+ },
+ "fixes_logged": [
+  "Neutralized editorial phrase in proviso callout (watchdog approval-power sentence).",
+  "Replaced evaluative 'bigger prize' with 'bigger change'.",
+  "Corrected bill years against introduction dates: H4591 -> 2024, H5360 -> 2026.",
+  "Removed externally-sourced claims from working docs (Act 118 lawsuit reference; overseas-ballot detail)."
+ ],
+ "automated_checks": {
+  "vote_pairs_verified_against_pack": true,
+  "bill_ids_verified_against_pack": true,
+  "advice_language_scan": "no should/recommend/urge/pursue/avoid; all 'must' hits describe legal requirements"
+ },
+ "human_reviewers": ["Ryan Echols", "Jodi Stephens", "Ashley Lovell"]
+}
