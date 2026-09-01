@@ -1,0 +1,902 @@
+{
+ "issue": "south-carolina-03-rising-cost-of-living",
+ "generated_by": "reality-mapper v2.2",
+ "generated_at": "2026-08-27T17:27:22.100409+00:00",
+ "source": "evidence-pack.json (256 curated bills; policy set 240)",
+ "baskets": {
+  "often_moved": "Often moved before \u2014 similar ideas often became law or cleared both chambers",
+  "unfinished": "Got support but didn't finish \u2014 majority floor votes or both-chamber passage without enactment",
+  "rarely_moved": "Rarely moved before \u2014 repeated early stops, especially first committee"
+ },
+ "session_snapshot": [
+  {
+   "session": 123,
+   "label": "123rd (2019-2020)",
+   "bills_in_policy_set": 67,
+   "enacted": 7,
+   "core": 39,
+   "core_enacted": 5
+  },
+  {
+   "session": 124,
+   "label": "124th (2021-2022)",
+   "bills_in_policy_set": 50,
+   "enacted": 7,
+   "core": 27,
+   "core_enacted": 4
+  },
+  {
+   "session": 125,
+   "label": "125th (2023-2024)",
+   "bills_in_policy_set": 47,
+   "enacted": 4,
+   "core": 22,
+   "core_enacted": 1
+  },
+  {
+   "session": 126,
+   "label": "126th (2025-2026)",
+   "bills_in_policy_set": 76,
+   "enacted": 10,
+   "core": 33,
+   "core_enacted": 7
+  }
+ ],
+ "theme_scorecards": [
+  {
+   "theme": "How electric and gas rates are watched and set",
+   "bills": 22,
+   "enacted": 3,
+   "basket": "unfinished",
+   "certainty": "high",
+   "typical_stops": [
+    "Died in its first committee (House Labor, Commerce and Industry)",
+    "Died in its first committee (Senate Judiciary)",
+    "Passed the House; died in Senate Judiciary Committee"
+   ],
+   "bill_keys": [
+    "123:H3641",
+    "123:H3642",
+    "123:H4194",
+    "123:H4260",
+    "123:H4531",
+    "123:H4776",
+    "123:H4809",
+    "123:S1129",
+    "123:S947",
+    "123:S996",
+    "124:H3683",
+    "124:H4149",
+    "124:S344",
+    "125:H3614",
+    "125:S218",
+    "125:S749",
+    "125:S779",
+    "125:S909",
+    "126:H4402",
+    "126:H5282",
+    "126:H5283",
+    "126:S271"
+   ]
+  },
+  {
+   "theme": "Santee Cooper, the state-owned utility",
+   "bills": 11,
+   "enacted": 3,
+   "basket": "often_moved",
+   "certainty": "medium",
+   "typical_stops": [
+    "Died in its first committee (House Labor, Commerce and Industry)",
+    "Died in its first committee (Senate Judiciary)",
+    "Advanced in its own chamber; recommitted to Senate Judiciary Committee"
+   ],
+   "bill_keys": [
+    "123:H3751",
+    "123:H4287",
+    "123:H5335",
+    "123:S1163",
+    "123:S678",
+    "124:H3194",
+    "124:S439",
+    "124:S464",
+    "126:H4007",
+    "126:S12",
+    "126:S51"
+   ]
+  },
+  {
+   "theme": "Big energy bills that set the rate rules",
+   "bills": 21,
+   "enacted": 2,
+   "basket": "often_moved",
+   "certainty": "high",
+   "typical_stops": [
+    "Died in its first committee (Senate Judiciary)",
+    "Died in its first committee (House Labor, Commerce and Industry)",
+    "Passed both chambers; died in conference"
+   ],
+   "bill_keys": [
+    "123:H3659",
+    "123:H3748",
+    "123:H4206",
+    "123:S110",
+    "123:S137",
+    "123:S332",
+    "123:S620",
+    "123:S657",
+    "123:S907",
+    "124:H5162",
+    "124:S132",
+    "124:S244",
+    "124:S751",
+    "125:H5118",
+    "125:S152",
+    "126:H3309",
+    "126:H3928",
+    "126:H5484",
+    "126:S446",
+    "126:S784",
+    "126:S93"
+   ]
+  },
+  {
+   "theme": "Opening the electricity market to competition",
+   "bills": 7,
+   "enacted": 1,
+   "basket": "rarely_moved",
+   "certainty": "medium",
+   "typical_stops": [
+    "Died in its first committee (House Labor, Commerce and Industry)",
+    "Died in its first committee (Senate Judiciary)"
+   ],
+   "bill_keys": [
+    "123:H3344",
+    "123:H4940",
+    "123:S998",
+    "126:H5439",
+    "126:H5440",
+    "126:H5525",
+    "126:S878"
+   ]
+  },
+  {
+   "theme": "Utility bills, fees, and shutoffs",
+   "bills": 19,
+   "enacted": 0,
+   "basket": "rarely_moved",
+   "certainty": "high",
+   "typical_stops": [
+    "Died in its first committee (House Labor, Commerce and Industry)",
+    "Died in its first committee (Senate Judiciary)"
+   ],
+   "bill_keys": [
+    "123:H4738",
+    "123:H5057",
+    "123:H5232",
+    "123:S334",
+    "123:S904",
+    "123:S951",
+    "124:H3280",
+    "124:H3311",
+    "124:H4160",
+    "124:H4164",
+    "124:S247",
+    "124:S301",
+    "125:H3156",
+    "125:H3157",
+    "125:H5090",
+    "125:S156",
+    "126:H3546",
+    "126:H4583",
+    "126:H5215"
+   ]
+  },
+  {
+   "theme": "Money skills in school",
+   "bills": 9,
+   "enacted": 0,
+   "basket": "unfinished",
+   "certainty": "high",
+   "typical_stops": [
+    "Died in its first committee (House Education and Public Works)",
+    "Passed the House; died in Senate Education Committee",
+    "Reported out of Senate Education Committee; died before a floor vote"
+   ],
+   "bill_keys": [
+    "123:H3199",
+    "123:H4149",
+    "123:S15",
+    "124:H3022",
+    "124:H3116",
+    "124:H4582",
+    "124:S16",
+    "124:S405",
+    "125:S732"
+   ]
+  },
+  {
+   "theme": "Property taxes on homes",
+   "bills": 67,
+   "enacted": 9,
+   "basket": "mixed",
+   "certainty": "high",
+   "typical_stops": [
+    "Died in its first committee (House Ways and Means)",
+    "Died in its first committee (Senate Finance)",
+    "Passed the House; died in the Senate"
+   ],
+   "bill_keys": [
+    "123:H3122",
+    "123:H3207",
+    "123:H3332",
+    "123:H3626",
+    "123:H3630",
+    "123:H3687",
+    "123:H3736",
+    "123:H4153",
+    "123:H4782",
+    "123:H4818",
+    "123:H4994",
+    "123:S171",
+    "123:S565",
+    "123:S910",
+    "124:H3108",
+    "124:H3354",
+    "124:H3386",
+    "124:H3389",
+    "124:H3452",
+    "124:H3458",
+    "124:H3482",
+    "124:H3671",
+    "124:H3674",
+    "124:H4197",
+    "124:H4222",
+    "124:S1027",
+    "124:S12",
+    "124:S233",
+    "125:H3086",
+    "125:H3116",
+    "125:H3127",
+    "125:H3423",
+    "125:H3449",
+    "125:H3511",
+    "125:H3778",
+    "125:H3806",
+    "125:H3809",
+    "125:H3927",
+    "125:H4910",
+    "125:H5014",
+    "125:H5264",
+    "125:S1143",
+    "125:S12",
+    "125:S433",
+    "126:H3358",
+    "126:H3374",
+    "126:H3378",
+    "126:H3380",
+    "126:H3419",
+    "126:H3424",
+    "126:H3427",
+    "126:H3496",
+    "126:H3511",
+    "126:H3742",
+    "126:H3803",
+    "126:H3841",
+    "126:H4060",
+    "126:H4187",
+    "126:H4599",
+    "126:H4608",
+    "126:H4690",
+    "126:S151",
+    "126:S223",
+    "126:S439",
+    "126:S768",
+    "126:S866",
+    "126:S890"
+   ]
+  },
+  {
+   "theme": "Taxes on vehicles and boats",
+   "bills": 13,
+   "enacted": 0,
+   "basket": "rarely_moved",
+   "certainty": "high",
+   "typical_stops": [
+    "Died in its first committee (House Ways and Means)",
+    "Died in its first committee (Senate Finance)",
+    "Died in its first committee (House Medical, Military, Public and Municipal Affairs)"
+   ],
+   "bill_keys": [
+    "123:H4564",
+    "123:H5111",
+    "123:S658",
+    "124:H3385",
+    "124:H4511",
+    "124:S1018",
+    "124:S37",
+    "125:H3085",
+    "125:S38",
+    "125:S943",
+    "126:H3410",
+    "126:H4138",
+    "126:H5014"
+   ]
+  },
+  {
+   "theme": "Income and sales tax relief",
+   "bills": 16,
+   "enacted": 2,
+   "basket": "often_moved",
+   "certainty": "medium",
+   "typical_stops": [
+    "Died in its first committee (House Ways and Means)",
+    "Died in its first committee (Senate Finance)",
+    "Passed the House; died in Senate Finance Committee"
+   ],
+   "bill_keys": [
+    "123:H4334",
+    "123:H4532",
+    "124:H3393",
+    "124:H4880",
+    "124:S1087",
+    "124:S925",
+    "125:H3110",
+    "125:H5307",
+    "125:S1110",
+    "126:H3465",
+    "126:H4216",
+    "126:H4458",
+    "126:H5477",
+    "126:S207",
+    "126:S273",
+    "126:S742"
+   ]
+  },
+  {
+   "theme": "Housing costs and rent",
+   "bills": 45,
+   "enacted": 6,
+   "basket": "mixed",
+   "certainty": "high",
+   "typical_stops": [
+    "Died in its first committee (House Ways and Means)",
+    "Died in its first committee (House Labor, Commerce and Industry)",
+    "Died in its first committee (House Judiciary)"
+   ],
+   "bill_keys": [
+    "123:H3091",
+    "123:H3460",
+    "123:H3619",
+    "123:H3998",
+    "123:H4482",
+    "123:S569",
+    "123:S585",
+    "123:S757",
+    "124:H3373",
+    "124:H3770",
+    "124:H3938",
+    "124:H3996",
+    "124:H5075",
+    "124:H5176",
+    "124:S1120",
+    "125:H3264",
+    "125:H4015",
+    "125:H4158",
+    "125:H4213",
+    "125:H4544",
+    "125:H4639",
+    "125:H4987",
+    "125:H5372",
+    "125:S284",
+    "125:S739",
+    "125:S891",
+    "126:H3229",
+    "126:H3232",
+    "126:H3238",
+    "126:H3336",
+    "126:H3346",
+    "126:H3458",
+    "126:H3462",
+    "126:H3469",
+    "126:H3569",
+    "126:H3737",
+    "126:H3738",
+    "126:H3750",
+    "126:H3911",
+    "126:H3970",
+    "126:H4390",
+    "126:H4606",
+    "126:H4693",
+    "126:H4970",
+    "126:S298"
+   ]
+  },
+  {
+   "theme": "Home and property insurance costs",
+   "bills": 10,
+   "enacted": 2,
+   "basket": "unfinished",
+   "certainty": "medium",
+   "typical_stops": [
+    "Died in its first committee (House Labor, Commerce and Industry)",
+    "Passed the House; died in Senate Banking and Insurance Committee",
+    "Died in its first committee (Senate Banking and Insurance)"
+   ],
+   "bill_keys": [
+    "123:H3126",
+    "123:H4733",
+    "123:S1188",
+    "123:S882",
+    "125:H3977",
+    "125:H5066",
+    "126:H4817",
+    "126:H5063",
+    "126:H5503",
+    "126:S397"
+   ]
+  },
+  {
+   "theme": "Related context",
+   "bills": 16,
+   "enacted": 5,
+   "basket": "mixed",
+   "certainty": "low",
+   "typical_stops": [
+    "Died in its first committee (House Ways and Means)",
+    "Died in its first committee (House Medical, Military, Public and Municipal Affairs)",
+    "Died in its first committee (House Labor, Commerce and Industry)"
+   ],
+   "bill_keys": [
+    "123:H3145",
+    "123:H3966",
+    "123:H4810",
+    "123:S76",
+    "124:H3921",
+    "124:H4547",
+    "125:H3253",
+    "125:H3937",
+    "125:H4832",
+    "126:H3259",
+    "126:H3812",
+    "126:H3861",
+    "126:H3933",
+    "126:H4394",
+    "126:S442",
+    "126:S770"
+   ]
+  }
+ ],
+ "people_signals": {
+  "note": "Sponsors parsed from the official sponsor line; the first-listed member is treated as lead. Party labels intentionally absent (no roster join fetched).",
+  "chokepoints": [
+   "Senate Judiciary: where House-passed utility bills stop (H4260 105-1, H4776 101-0, H4149 118-0, H3614 114-0, H4158 98-10 \u2014 all died there without a vote).",
+   "House Ways and Means: where homestead-exemption bills stop (45 of 67 home-property-tax bills, including Senate-passed S768 44-0).",
+   "House Labor, Commerce and Industry: first-committee stop for utility consumer-billing and market-opening bills (zero recorded votes).",
+   "Senate Finance: first-committee stop for Senate tax bills (11)."
+  ],
+  "frequent_lead_sponsors": [
+   {
+    "name": "King",
+    "bills_led": 14,
+    "bill_keys": [
+     "123:H3122",
+     "123:H4738",
+     "124:H3280",
+     "124:H3311",
+     "124:H3385",
+     "124:H3386",
+     "124:H5176",
+     "125:H3085",
+     "125:H3086",
+     "125:H3156",
+     "125:H3157",
+     "125:H3264",
+     "125:H5090",
+     "126:H4060"
+    ]
+   },
+   {
+    "name": "Jones",
+    "bills_led": 12,
+    "bill_keys": [
+     "126:H3458",
+     "126:H3462",
+     "126:H3465",
+     "126:H3469",
+     "126:H3737",
+     "126:H3738",
+     "126:H3750",
+     "126:H3970",
+     "126:H4390",
+     "126:H4606",
+     "126:H5215",
+     "126:H5477"
+    ]
+   },
+   {
+    "name": "Davis",
+    "bills_led": 10,
+    "bill_keys": [
+     "123:H4149",
+     "123:S137",
+     "123:S332",
+     "123:S998",
+     "124:H3116",
+     "124:S439",
+     "125:S284",
+     "125:S909",
+     "126:H3911",
+     "126:S51"
+    ]
+   },
+   {
+    "name": "Young",
+    "bills_led": 9,
+    "bill_keys": [
+     "123:S904",
+     "123:S907",
+     "124:S244",
+     "124:S247",
+     "125:S152",
+     "125:S156",
+     "125:S943",
+     "126:S446",
+     "126:S93"
+    ]
+   },
+   {
+    "name": "Gilliard",
+    "bills_led": 6,
+    "bill_keys": [
+     "123:H3126",
+     "126:H3229",
+     "126:H3232",
+     "126:H3238",
+     "126:H3346",
+     "126:H4970"
+    ]
+   },
+   {
+    "name": "Hart",
+    "bills_led": 6,
+    "bill_keys": [
+     "123:H3626",
+     "124:H3671",
+     "124:H3674",
+     "125:H3806",
+     "125:H3809",
+     "126:H3803"
+    ]
+   },
+   {
+    "name": "Massey",
+    "bills_led": 6,
+    "bill_keys": [
+     "123:S110",
+     "124:S1018",
+     "124:S132",
+     "125:S1110",
+     "126:S207",
+     "126:S784"
+    ]
+   },
+   {
+    "name": "Alexander",
+    "bills_led": 6,
+    "bill_keys": [
+     "123:S585",
+     "123:S996",
+     "124:S1027",
+     "125:S433",
+     "125:S749",
+     "126:S271"
+    ]
+   },
+   {
+    "name": "Long",
+    "bills_led": 5,
+    "bill_keys": [
+     "123:H4994",
+     "124:H3452",
+     "125:H3423",
+     "126:H3419",
+     "126:H4138"
+    ]
+   },
+   {
+    "name": "Rankin",
+    "bills_led": 5,
+    "bill_keys": [
+     "123:S1129",
+     "123:S15",
+     "124:S16",
+     "124:S464",
+     "126:S12"
+    ]
+   },
+   {
+    "name": "Jackson",
+    "bills_led": 5,
+    "bill_keys": [
+     "123:S565",
+     "123:S569",
+     "123:S757",
+     "124:S12",
+     "125:S12"
+    ]
+   },
+   {
+    "name": "Peeler",
+    "bills_led": 5,
+    "bill_keys": [
+     "123:S678",
+     "124:S1087",
+     "124:S1120",
+     "126:S439",
+     "126:S768"
+    ]
+   }
+  ]
+ },
+ "high_support_non_enactments_top": [
+  {
+   "bill_key": "123:H4776",
+   "title": "Public Service Commission Members",
+   "plain_topic": "Would have extended the ban on former utility regulators going to work for utilities from one year to three.",
+   "stage": "Passed the House; died in Senate Judiciary Committee",
+   "chamber": "House",
+   "yeas": 101,
+   "nays": 0,
+   "motion": "(Public Service Commission Members) Passage of Bill",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "124:H3921",
+   "title": "Utilities - Transportation Network Companies (Uber, Lyft, etc.)",
+   "plain_topic": "Regulation of transportation network companies under the utilities title (rideshare rules, not household utilities).",
+   "stage": "Passed the House; died in Senate Judiciary Committee",
+   "chamber": "House",
+   "yeas": 111,
+   "nays": 0,
+   "motion": "(Utilities - Transportation Network Companies (Uber, Lyft, etc.)) Passage of Bill",
+   "relevance": "context"
+  },
+  {
+   "bill_key": "124:H4149",
+   "title": "Public Utilities",
+   "plain_topic": "Whistleblower protections for utility employees who report wrongdoing to the state's utility watchdog.",
+   "stage": "Passed the House; died in Senate Judiciary Committee",
+   "chamber": "House",
+   "yeas": 118,
+   "nays": 0,
+   "motion": "(Public Utilities) Passage of Bill",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "124:H4880",
+   "title": "Tax rates",
+   "plain_topic": "House version of the 2022 income tax cut (top rate to 6%).",
+   "stage": "Passed the House; died in Senate Finance Committee",
+   "chamber": "House",
+   "yeas": 112,
+   "nays": 0,
+   "motion": "(Tax rates) Passage of Bill",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "124:S16",
+   "title": "Graduation requirements",
+   "plain_topic": "Would have required basic personal finance coursework for high school graduation in place of the economics requirement.",
+   "stage": "Passed both chambers; died in conference",
+   "chamber": "House",
+   "yeas": 109,
+   "nays": 0,
+   "motion": "(Graduation requirements) Passage of Bill",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "125:H3614",
+   "title": "Rate Payer Protection Act",
+   "plain_topic": "The Rate Payer Protection Act of 2023: whistleblower protections for utility employees who report waste or wrongdoing.",
+   "stage": "Passed the House; died in Senate Judiciary Committee",
+   "chamber": "House",
+   "yeas": 114,
+   "nays": 0,
+   "motion": "(Rate Payer Protection Act) Passage of Bill",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "125:H5014",
+   "title": "Lexington County School District Property Tax Relief Act extension",
+   "plain_topic": "Earlier version of the Lexington County property-tax-relief extension.",
+   "stage": "Passed the House; died in the Senate",
+   "chamber": "House",
+   "yeas": 102,
+   "nays": 0,
+   "motion": "(Lexington County School District Property Tax Relief Act extension) Passage of Bill",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "126:S768",
+   "title": "Homestead exemption",
+   "plain_topic": "Would raise the homestead exemption to $100,000 and lower the qualifying age from 65 to 60.",
+   "stage": "Passed the Senate; died in House Ways and Means Committee",
+   "chamber": "Senate",
+   "yeas": 44,
+   "nays": 0,
+   "motion": "(Homestead exemption) 3rd Reading",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "123:H4260",
+   "title": "SC Ratepayer Protection Act",
+   "plain_topic": "The SC Ratepayer Protection Act of 2019: whistleblower protections for utility employees, tighter conflict-of-interest rules for utility regulators, and a ban on utilities giving campaign contributions or anything of value to the legislators' committee that screens utility regulators.",
+   "stage": "Passed the House; died in Senate Judiciary Committee",
+   "chamber": "House",
+   "yeas": 105,
+   "nays": 1,
+   "motion": "(SC Ratepayer Protection Act) Passage of Bill",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "125:H5066",
+   "title": "Fair Access to Insurance Requirements",
+   "plain_topic": "Would have created an affordable state liquor-liability insurance option for bars and restaurants required to carry it.",
+   "stage": "Passed the House; died in Senate Banking and Insurance Committee",
+   "chamber": "House",
+   "yeas": 106,
+   "nays": 2,
+   "motion": "(Fair Access to Insurance Requirements) Passage of Bill",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "125:H5118",
+   "title": "Electrical Utilities, Electricity Regulation, and Economic Development",
+   "plain_topic": "The big 2024 energy bill: faster power-plant approvals (including a Santee Cooper/Dominion gas plant), changes to rate proceedings, and economic-development provisions.",
+   "stage": "Passed both chambers; died in conference",
+   "chamber": "Senate",
+   "yeas": 40,
+   "nays": 2,
+   "motion": "(Electrical Utilities, Electricity Regulation, and Economic Development) 3rd Reading",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "124:S1120",
+   "title": "Housing tax credit",
+   "plain_topic": "Senate version of the housing tax credit revisions.",
+   "stage": "Passed the Senate; died in House Ways and Means Committee",
+   "chamber": "Senate",
+   "yeas": 37,
+   "nays": 2,
+   "motion": "(Housing tax credit) 3rd Reading",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "123:H3199",
+   "title": "Financial literacy program instruction",
+   "plain_topic": "Would have added college-loan topics \u2014 loan terms, monthly payments, repayment options, credit \u2014 to the state's required high school financial literacy program.",
+   "stage": "Passed the House; died in Senate Education Committee",
+   "chamber": "House",
+   "yeas": 102,
+   "nays": 10,
+   "motion": "(Financial literacy program instruction) Passage of Bill",
+   "relevance": "core"
+  },
+  {
+   "bill_key": "125:H4158",
+   "title": "Domestic violence in rental properties",
+   "plain_topic": "Would have let domestic-violence survivors end a lease early and required landlords to change locks.",
+   "stage": "Passed the House; died in Senate Judiciary Committee",
+   "chamber": "House",
+   "yeas": 98,
+   "nays": 10,
+   "motion": "(Domestic violence in rental properties) Passage of Bill",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "126:H4817",
+   "title": "Insurance Rate Reduction and Policy Holder Protection Act",
+   "plain_topic": "The Insurance Rate Reduction and Policyholder Protection Act: a broad auto/liability insurance overhaul promoted as reducing rates.",
+   "stage": "Passed the House; died in Senate Banking and Insurance Committee",
+   "chamber": "House",
+   "yeas": 96,
+   "nays": 17,
+   "motion": "(Insurance Rate Reduction and Policy Holder Protection Act) Passage of Bill",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "126:S12",
+   "title": "Santee Cooper Joint Project Authorization",
+   "plain_topic": "Would let Santee Cooper jointly own power plants and transmission lines with private utilities \u2014 the vehicle discussed for restarting the V.C. Summer nuclear site.",
+   "stage": "Advanced in its own chamber; recommitted to Senate Judiciary Committee",
+   "chamber": "Senate",
+   "yeas": 25,
+   "nays": 18,
+   "motion": "(Santee Cooper Joint Project Authorization) 2nd Reading",
+   "relevance": "core"
+  }
+ ],
+ "proposal_reality_cards": [
+  {
+   "proposal_id": "utility-transparency",
+   "headline": "The House passed utility-accountability bills four times (105-1, 101-0, 118-0, 114-0); every one died in Senate Judiciary. What became law is oversight machinery: Santee Cooper reform (Act 90 of 2021), restarted PSC elections (Acts 74/75 of 2025), public-witness rights (Act 41 of 2025).",
+   "legislator_utility_ties": "H4260 (2019) banned utility gifts/campaign contributions to the legislators' panel that screens utility regulators \u2014 the closest match to the citizens' financial-ties concern. No bill adds a utility-specific disclosure duty for legislators; annual Statements of Economic Interests exist under the ethics law (Title 8) but are not utility-specific.",
+   "venue": "Rates are set case-by-case by the PSC; the legislature controls who sits on it, its procedures, and utility conduct rules.",
+   "open_questions": [
+    "Why Senate Judiciary never took up the House-passed bills (no committee record exists)",
+    "Whether the 2025 changes answer the concern or leave the money-ties piece open",
+    "What SEI forms do and don't show about utility ties"
+   ]
+  },
+  {
+   "proposal_id": "utility-competition",
+   "headline": "Officially studied once \u2014 Act 187 of 2020 created the Electricity Market Reform Measures Study Committee (House 81-31, Senate 41-0). Every actual market-opening bill (H5439, H5440, S878, H5525) was filed in 2026 and died in first committee without a vote.",
+   "venue": "Service territories and retail regulation are state statute (a General Assembly lever); wholesale markets and transmission are federal (FERC).",
+   "open_questions": [
+    "What the 2020 study committee's report concluded (outside this bill record)",
+    "The citizens' flagged tradeoff: can the grid support competition?",
+    "Whether the 2026 filings are momentum or a one-session reaction to rate debates"
+   ]
+  },
+  {
+   "proposal_id": "financial-education",
+   "headline": "Already policy \u2014 via the budget, not a bill. After S16 passed both chambers and died in conference (2022), FY 2022-23 proviso 1.101 ordered the half-credit personal finance graduation requirement into regulation; Regulation Document 5130 took effect May 26, 2023 (first bound class graduates 2027). Statute 59-29-410 has required financial-literacy instruction since 2005.",
+   "venue": "Graduation requirement: State Board of Education regulation. Statute and funding: General Assembly. Nothing in the record addresses adult financial education.",
+   "open_questions": [
+    "Is the proposal satisfied by the 2023 requirement (no outcome data until 2027)?",
+    "Did the citizens' intent include adults (untouched by any bill)?",
+    "The citizens' flagged tradeoff: education does not lower prices"
+   ]
+  },
+  {
+   "proposal_id": "reduce-property-vehicle-taxes",
+   "headline": "80 bills, the narrowest wins. Full elimination (H3378) and ~24 homestead-increase bills died in House Ways and Means without votes \u2014 except S768 (Senate 44-0, then died there). Vehicle-tax bills: 13 filed, zero votes, none statewide. Enacted instead: targeted fixes, the S866 municipal sales-tax swap (Act 228 of 2026), and one-year budget relief (proviso 117.220's extra $25,000 homestead exemption; 117.208/117.191 income-tax acceleration).",
+   "venue": "Property tax is local revenue under state rules; schools/local government depend on it (the citizens' flagged tradeoff). Act 388 of 2006 already exempts owner-occupied homes from school operating taxes (Homestead Exemption Fund, 11-11-156).",
+   "open_questions": [
+    "Price tag of each design (no fiscal notes in this record)",
+    "How replacement revenue works \u2014 does the S866 swap model scale?",
+    "Why House Ways and Means has not taken up even Senate-passed S768"
+   ]
+  }
+ ],
+ "recent_enactments_watchlist": [
+  "126:H3309 (Act 41 of 2025) Energy Security Act (94-11, 38-3)",
+  "126:S271 / 126:H4402 (Acts 74/75 of 2025) PSC elections restarted",
+  "126:S51 (Act 73 of 2025) V.C. Summer completion proposals (43-0, 111-0)",
+  "126:H4216 (Act 110 of 2026) income tax restructuring (64-47, 39-5)",
+  "126:S866 (Act 228 of 2026) municipal sales-tax-for-property-relief (32-9, 96-16)",
+  "126:H3841 (Act 140 of 2026) estate continuity for home tax status (107-0, 43-0)",
+  "126:S439 (Act 122 of 2026) manufacturing exemption reimbursement cap (40-0, 104-0)",
+  "126:H3569 (Act 184 of 2026) domestic-violence lease release (108-0, 42-4)",
+  "126:H4187 (Act 89 of 2025) Lexington County relief extension (92-0)",
+  "FY 2026-27 provisos: 117.220 extra homestead exemption; 117.191 tax-rate acceleration; 42.7 Made it Home! housing construction"
+ ],
+ "deliberation_prompts": [
+  "Four utility-accountability bills passed the House 438-1 combined and died in Senate Judiciary without a hearing record. What would have to change for the fifth to be different?",
+  "The 2020 market-reform study committee was created by law. What did it conclude, and does it answer the feasibility worry from the Community Conversations?",
+  "Retail-choice bills appeared for the first time in 2026, right after two years of rate debates. Momentum, or a one-session reaction?",
+  "The personal-finance graduation requirement is in force; the first bound class graduates in 2027. What would 'done' versus 'needs more' look like?",
+  "Homestead increases die in House Ways and Means even after a 44-0 Senate vote \u2014 yet the same chamber wrote a one-year $25,000 exemption into the budget. Is the objection to the policy, or to making it permanent?",
+  "H3378 promises dollar-for-dollar reimbursement for eliminating property taxes. What replaces local revenue, and does the S866 swap model scale?",
+  "No bill in eight years proposes ending the vehicle property tax statewide. Untried, or off the table because county budgets depend on it?",
+  "Big energy packages pass; consumer billing protections never get a vote. Wrong committee, or riding alone when they need a package?",
+  "Which parts of the transparency concern are about the PSC's process, and which are about legislators themselves (ethics law)?"
+ ],
+ "certainty": {
+  "high": [
+   "Senate Judiciary chokepoint (4 House-passed utility bills)",
+   "House Ways and Means chokepoint (45 homestead-lane bills)",
+   "zero-vote records: consumer billing (19), vehicle tax (13), market opening (6)",
+   "financial-education proviso->regulation path (verified against the State Register)"
+  ],
+  "medium": [
+   "package pattern for big energy/tax enactments",
+   "insurance unfinished pattern (2 examples)",
+   "people signals (lead-sponsor line only)"
+  ],
+  "low": [
+   "S12 25-18 as a joint-ownership signal (single vote, later recommitted)",
+   "local-bill pattern (H4187/H5014)"
+  ]
+ }
+}
