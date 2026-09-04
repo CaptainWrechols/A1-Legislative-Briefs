@@ -140,6 +140,25 @@ four-year external audit, commission-abolition date (January 1, 2027), and
 and the correction log: `working/south-carolina/growth-infrastructure-roads/
 fact-check-report.md` (+ `fact-check-live.{py,json}`).
 
+## Lege Brief deliverable (2026-09-04)
+
+The finalized working-group Lege Brief format was produced to match the
+approved SC1/NH1 lege briefs exactly:
+`SC1-Growth-Infrastructure-Roads-Lege-Brief.docx` / `.pdf` (10 pages),
+exported from `lege-brief.md` by `collectors/export_docx_lege_brief.py`
+(format cloned from `templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx`,
+`--polish-breaks`), footer "SC1 Growth Infrastructure Roads Legislative
+Brief v1.0". Organized by distance to law (proven support → already law →
+stopped early → movement map → federal overlap), with the page-1 proviso
+callout, the final grid's five policy spotlights carrying each proposal's
+reported frequency/consensus/concerns, and the two glossaries on their own
+pages. Automated verification on the source: 108 bill ids all resolve to
+the evidence pack, every vote pair matches a verbatim roll call, all
+proviso ids verified, zero advice-language hits (one grid-quoted "should"
+rephrased during review), zero party labels. The earlier improvised
+top-level "SC1 - …" distribution copies were removed in favor of this
+convention-exact deliverable.
+
 ## Verdict
 
 **READY FOR HUMAN REVIEW.** Status lines updated in `citizen-brief.md`

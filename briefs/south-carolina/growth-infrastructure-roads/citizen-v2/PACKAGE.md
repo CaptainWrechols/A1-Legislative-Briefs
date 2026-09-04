@@ -20,19 +20,12 @@ proposal spotlights, the glossary, and the legislative process glossary in
 appendices — with the SC-specific page-1 **"Also in the state budget
 (provisos)"** callout required by `docs/sc-issue-chat-workflow.md`.
 
-## Distribution copies (program naming convention)
-
-Convention-named copies of the Word deliverables live one level up, in
-`briefs/south-carolina/`, matching the program's "SC1 - <Issue>" document
-naming: `SC1 - Growth Infrastructure Roads.docx` (the citizen brief),
-`SC1 - Growth Infrastructure Roads - Policy Spotlights.docx`, and
-`SC1 - Growth Infrastructure Roads - Appendices.docx`. They are copies of
-the files below; regenerate the files here first, then re-copy.
-
 ## What's in this folder
 
 | File | What it is |
 |---|---|
+| `SC1-Growth-Infrastructure-Roads-Lege-Brief.docx` / `.pdf` | **THE DELIVERABLE (v1.0)** — the finalized, working-group-approved lege-brief format, cloned from `templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx` (same format as SC1-Responsive-Elected-Leaders / SC1-Rising-Cost-of-Living / SC1-Slow-Wage-Growth-Lege-Brief and the NH lege briefs): brief organized by distance to law → policy spotlights with the final grid's reported cells and viability groups → glossary (own page) → legislative process glossary (own page), stat-card table, square-bullet spotlights, real Word footer ("SC1 Growth Infrastructure Roads Legislative Brief v1.0" + page number). 10 pages, LibreOffice-verified; every cited bill id, vote pair, and proviso number verified against the evidence pack |
+| `lege-brief.md` | Source markdown of the deliverable (edit this, then rebuild) |
 | `citizen-brief.md` | Combined-format source (front brief → spotlights → glossaries) |
 | `citizen-brief.html` | Print-ready Phase 2 HTML — **6 letter pages**, front brief on pages 1–2 (Chrome print-to-PDF verified; the proviso callout renders on page 1) |
 | `citizen-brief.docx` | Word version — **6 pages**, front brief on pages 1–2 (LibreOffice-verified), direct-formatted for cross-app fidelity |
@@ -70,6 +63,13 @@ across page breaks.
 ## Rebuild
 
 ```bash
+# THE DELIVERABLE — lege-brief docx from the approved NV1 v1.6 template
+python3 collectors/export_docx_lege_brief.py \
+  --source briefs/south-carolina/growth-infrastructure-roads/citizen-v2/lege-brief.md \
+  --out briefs/south-carolina/growth-infrastructure-roads/citizen-v2/SC1-Growth-Infrastructure-Roads-Lege-Brief.docx \
+  --footer "SC1 Growth Infrastructure Roads Legislative Brief v1.0" --polish-breaks
+# PDF: soffice --headless --convert-to pdf SC1-Growth-Infrastructure-Roads-Lege-Brief.docx
+
 # HTML combined document (Phase 2 shell)
 python3 collectors/export_brief_html.py --brief-dir briefs/south-carolina/growth-infrastructure-roads/citizen-v2
 
