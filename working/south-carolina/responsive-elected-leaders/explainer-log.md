@@ -27,3 +27,16 @@ glossaries, with where each explanation lives.
 | Roll call / vote pairs | Legislative process glossary |
 | First committee | Legislative process glossary |
 | Term limits: authorize-by-law design | Glossary + spotlight |
+
+## v2.1 additions (final-grid rework, 2026-09-04)
+
+| Term | Where explained |
+|---|---|
+| Gerrymandering | Glossary |
+| Census cycle / decennial | Glossary + redistricting spotlight |
+| Referendum | Glossary + constitutional-commission design description |
+| State Inspector General | Glossary + spotlight (applicant panel role) |
+| State Board of Education | Glossary + civics spotlight (curriculum curator) |
+| Palmetto Middle School Civics Challenge | Glossary + civics spotlight |
+| Tabling an amendment | Legislative process glossary |
+| Process input vs. record facts | Spotlights intro ("frequency, consensus, and concerns are Forum process input ... legislative facts come from the official record") |

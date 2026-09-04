@@ -1,6 +1,18 @@
-# Package — Responsive Elected Leaders in South Carolina (citizen-v2.0)
+# Package — Responsive Elected Leaders in South Carolina (citizen-v2.1)
 
-Design Packager v2.1 · 2026-08-28 · The Forum
+Design Packager v2.1 · 2026-09-04 · The Forum
+
+**v2.1 (2026-09-04): reworked around the FINAL proposal grid** ("SC1 —
+Responsive Elected Leaders"), which carries two proposals forward — the
+independent/nonpartisan redistricting commission and better voter
+education/civics — and frames the issue around leaders who fail to respond
+to constituent priorities "whether because of unlimited terms or other weak
+accountability mechanisms." The brief, spotlights, and Appendix H now center
+on those two proposals, with each proposal's reported frequency, consensus,
+and concerns (process input) answered by record facts; the four lanes from
+the earlier six-proposal Phase 2 v2 grid appear as the wider accountability
+record. **The legislative record — curation, dispositions, and every vote
+count — is unchanged from v2.0.**
 
 The second South Carolina citizen brief, produced on the SC foundation
 (certified 123rd–126th universe + prebuilt issue artifacts). Follows the
@@ -18,7 +30,7 @@ long appendices — with the SC-specific page-1 **"Also in the state budget
 | `citizen-brief.md` | Combined-format source (front brief → spotlights → glossaries) |
 | `citizen-brief.html` | Print-ready Phase 2 HTML — **5 letter pages**, front brief on pages 1–2 (Chrome print-to-PDF verified) |
 | `citizen-brief.docx` | Word version — **5 pages**, front brief on pages 1–2 (LibreOffice-verified), direct-formatted for cross-app fidelity |
-| `proposal-spotlights.md` / `.html` / `.docx` | Standalone policy spotlights: each of the six Phase 2 proposals as bulleted bill lists grouped by viability (adopted / already law / got support / stopped early / never filed), single column — 4 pages HTML, 3 pages Word |
+| `proposal-spotlights.md` / `.html` / `.docx` | Standalone policy spotlights: the two final-grid proposals as bulleted bill lists grouped by viability (already law / got support / stopped early / never filed), each opening with the proposal's reported frequency, consensus, and concerns, plus a wider-record background section — 2 pages HTML, 2 pages Word |
 | `citizen-brief-print.css` | Phase 2 print tokens (white page, navy `#1A2D4F`, terracotta `#C0392B`, Arial) |
 | `appendices/A…I-*.md` | Nine appendices (see `appendices/README.md`) |
 | `appendices/appendices-print.html` | Combined print HTML with TOC — 57 letter pages (Chrome-verified) |
@@ -38,12 +50,11 @@ navy-header comparison style with repeating headers across page breaks.
 ## Page discipline
 
 - Front brief (pages 1–2 of the combined document): page 1 carries the
-  landscape, key numbers, the proviso callout, and the where-something-
-  finished basket; page 2 carries the rarely-moved basket (the four
-  proposals aimed at the State House itself), political terrain, and the
-  latest-session section. The companion sections — proposal spotlights,
-  glossary, legislative process glossary — follow on pages 3–5, matching
-  the combined format.
+  landscape, key numbers, the proviso callout, and the redistricting
+  proposal; page 2 carries the civics proposal, the wider accountability
+  record, political terrain, and the latest-session section. The companion
+  sections — the two proposal spotlights, glossary, legislative process
+  glossary — follow on pages 3–5, matching the combined format.
 - Front-brief-on-two-pages and totals verified in **both** renders
   (HTML→PDF via headless Chrome; DOCX→PDF via LibreOffice). No content was
   cut to fit.
@@ -56,9 +67,9 @@ python3 collectors/export_brief_html.py --brief-dir briefs/south-carolina/respon
 
 # Standalone policy spotlights (prose layout, HTML + Word)
 python3 collectors/export_brief_html.py --brief-dir briefs/south-carolina/responsive-elected-leaders/citizen-v2 \
-  --file proposal-spotlights --layout prose --footer "SC2 Responsive Elected Leaders Policy Spotlights v2.0"
+  --file proposal-spotlights --layout prose --footer "SC2 Responsive Elected Leaders Policy Spotlights v2.1"
 python3 collectors/export_docx_brief.py --brief-dir briefs/south-carolina/responsive-elected-leaders/citizen-v2 \
-  --file proposal-spotlights --layout prose --footer "SC2 Responsive Elected Leaders Policy Spotlights v2.0"
+  --file proposal-spotlights --layout prose --footer "SC2 Responsive Elected Leaders Policy Spotlights v2.1"
 
 # Combined appendices print HTML (TOC descriptions + SC data note)
 python3 collectors/build_appendices_print.py --brief-dir briefs/south-carolina/responsive-elected-leaders/citizen-v2 \
@@ -66,8 +77,8 @@ python3 collectors/build_appendices_print.py --brief-dir briefs/south-carolina/r
   --kicker "SOUTH CAROLINA · 2019–2026" \
   --dek "Detail behind the two-page front brief: bills, votes, sponsors, budget provisos, and sources, 2019–2026." \
   --note "South Carolina publishes committee outcomes but never committee vote tallies; no committee vote counts appear anywhere in these appendices. Floor roll-call counts are verbatim from the chamber vote histories. Party labels are intentionally absent (no roster join was fetched). 'Adopted (resolution)' marks measures adopted by both chambers that never go to the governor." \
-  --footline "The Forum · Citizen Brief citizen-v2.0 · Responsive Elected Leaders in South Carolina · August 2026" \
-  --descriptions '{"A":"Every curated bill: plain topic, theme, tier, result, where it stopped","B":"Theme scorecards with history baskets and certainty labels","C":"Passage/adoption-type floor votes, verbatim; high-support non-enactments","D":"Frequent lead sponsors; verbatim sponsor line per policy bill","E":"Milestone paths for the 15 measures the front brief leans on","F":"What this data can and cannot say","G":"Ethics and elections provisos in each state budget year","H":"The six Phase 2 citizen proposals matched against the record","I":"Claim-to-source mapping, collection notes, review status"}'
+  --footline "The Forum · Citizen Brief citizen-v2.1 · Responsive Elected Leaders in South Carolina · September 2026" \
+  --descriptions '{"A":"Every curated bill: plain topic, theme, tier, result, where it stopped","B":"Theme scorecards with history baskets and certainty labels","C":"Passage/adoption-type floor votes, verbatim; high-support non-enactments","D":"Frequent lead sponsors; verbatim sponsor line per policy bill","E":"Milestone paths for the 15 measures the front brief leans on","F":"What this data can and cannot say","G":"Ethics and elections provisos in each state budget year","H":"The two final citizen proposals matched against the record","I":"Claim-to-source mapping, collection notes, review status"}'
 
 # Word exports (front brief via direct writer; appendices via pandoc + branded reference doc)
 python3 collectors/export_docx.py --brief-dir briefs/south-carolina/responsive-elected-leaders/citizen-v2

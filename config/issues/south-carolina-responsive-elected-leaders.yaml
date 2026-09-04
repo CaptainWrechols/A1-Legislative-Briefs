@@ -4,8 +4,10 @@ issue_title: "Responsive Elected Leaders in South Carolina"
 issue_slug: responsive-elected-leaders
 openstates_jurisdiction: South Carolina
 
-# Theme (Phase 2): elected leaders not responsive to constituents;
-# accountability, money in politics, representation.
+# Theme: elected leaders fail to respond to constituent priorities, whether
+# because of unlimited terms or other weak accountability mechanisms
+# (framing from the final proposal grid). Community Conversations explored
+# ways to strengthen the connection between elected leaders and constituents.
 
 sessions:
   - label: "123rd (2019-2020)"
@@ -77,71 +79,38 @@ relevance_terms:
   - civics
   - "voter education"
 
-# Phase 2 Community Conversations (Jun-Aug 2026), RAG constituent-voice dataset
-# "SC1 - Phase 2 Constituent Proposals - Grid View for Legislators v2".
-# FORUM PROCESS INPUT [P-xxx], not verified facts — label as such in briefs.
+# FINAL proposal grid ("SC1 - Responsive Elected Leaders", received
+# 2026-09-04) — the two proposals that advanced out of Community
+# Conversations, superseding the earlier Phase 2 v2 grid's six items. The
+# other four lanes (term limits, campaign finance, ranked choice voting,
+# financial disclosure) did not advance as proposals; the grid's framing
+# keeps them as background ("unlimited terms or other weak accountability
+# mechanisms"). FORUM PROCESS INPUT, not verified facts — present as such
+# in briefs.
 constituent_proposals:
-  - id: term-limits
-    title: "Term limits / rotation rules for elected officials"
-    detail: >-
-      Impose term limits or rotation rules so incumbents cannot hold the same
-      office indefinitely.
-    consensus: >-
-      Very high frequency (all 4 events). Mixed consensus.
-    tradeoffs: >-
-      Loss of experience vs. entrenched incumbency.
-    match_terms: ["term limit", "term limits", "consecutive terms", "rotation"]
-  - id: campaign-finance-reform
-    title: "Limits on money in politics / campaign finance reform"
-    detail: >-
-      Limit the influence of money in politics through campaign finance
-      reform, including limits on PACs.
-    consensus: >-
-      Very high frequency. High consensus; PAC limits specifically noted.
-    tradeoffs: >-
-      Constitutional limits on regulating political spending were noted as a
-      constraint on what the state can do.
-    match_terms: ["campaign finance", "campaign contribution", "PAC", "political action committee", "dark money"]
-  - id: ranked-choice-voting
-    title: "Ranked choice voting"
-    detail: >-
-      Adopt ranked choice (instant runoff) voting for elections.
-    consensus: >-
-      Very high frequency. Partial consensus; voter-confusion concerns were
-      raised.
-    tradeoffs: >-
-      Voter confusion and implementation complexity.
-    match_terms: ["ranked choice", "instant runoff", "runoff election"]
   - id: independent-redistricting
-    title: "Independent/nonpartisan redistricting commission"
+    title: "Independent / nonpartisan redistricting commission (anti-gerrymandering)"
     detail: >-
       Move redistricting from the legislature to an independent or
-      nonpartisan commission.
+      nonpartisan commission to prevent gerrymandering.
+    frequency: "High: appeared in three out of four in-person events."
     consensus: >-
-      High frequency (3 events). High consensus where discussed.
+      High: very strong support where the idea was discussed.
     tradeoffs: >-
-      Legislators drawing their own districts is the status quo the proposal
-      targets; the tradeoff debate centered on who appoints the commission.
+      Some worried about how independent the commission would be. Others
+      noted that keeping redistricting on the ten-year cycle would help.
     match_terms: ["redistricting", "reapportionment", "gerrymander", "commission", "district lines"]
-  - id: financial-disclosure
-    title: "Better financial-disclosure and conflict-of-interest tracking (incl. PACs)"
-    detail: >-
-      Strengthen financial-disclosure requirements and conflict-of-interest
-      tracking for officials, including PAC ties.
-    consensus: >-
-      High frequency. High consensus.
-    tradeoffs: >-
-      Few tradeoffs raised; enforcement capacity is the practical question.
-    match_terms: ["financial disclosure", "statement of economic interests", "conflict of interest", "ethics commission", "disclosure"]
   - id: voter-civics-education
     title: "Better voter education / civics and neutral civic information tools"
     detail: >-
       Improve voter education and civics instruction, and provide neutral
       civic information tools for voters.
+    frequency: "Medium: appeared in Charleston and Columbia."
     consensus: >-
-      Medium frequency. High consensus.
+      High: very strong support where the idea was discussed.
     tradeoffs: >-
-      Who curates "neutral" information was the open question.
+      Some participants were worried about how neutral information would be
+      selected and disseminated.
     match_terms: ["civics", "voter education", "voter guide", "civic education"]
 
 omnibus_bills:
