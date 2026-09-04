@@ -130,6 +130,22 @@ unverified.
    combined figure was corrected to the four utility bills only (438–1) and
    H4158 is cited separately as a housing-lane example.
 
+## Lege-brief deliverable (2026-09-04, later same day)
+
+On request, the packet now carries the brief in the finalized
+working-group-approved lege-brief format —
+`SC1-Rising-Cost-of-Living-Lege-Brief.docx` (+ PDF), built from
+`lege-brief.md` with `collectors/export_docx_lege_brief.py`, which clones
+`templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx` (the same format as
+the attached SC1 Slow Wage Growth lege brief): title/dek, terracotta
+sections organized by distance to law, 4-cell stat-card table, policy
+spotlights with the grid's reported cells and square-bullet viability
+groups (incl. the childcare-topic spotlight), and the two-column glossaries
+on their own pages, with a real Word footer and page numbers. 10 pages,
+LibreOffice-verified. Content is drawn from the fact-checked v2.1 material;
+the lege-brief markdown passed the same scans (all vote pairs matched, all
+bill ids resolve, zero advice verbs, zero party labels).
+
 ## Independent fact-check (2026-09-04)
 
 On request, every headline claim was re-verified against sources independent
