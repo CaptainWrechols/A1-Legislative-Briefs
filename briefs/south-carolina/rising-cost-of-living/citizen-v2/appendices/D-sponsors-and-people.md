@@ -8,7 +8,7 @@ Sponsors come verbatim from each bill's official sponsor line; the first member 
 |---|---|---|
 | King | 14 | 2019-20 H3122, 2019-20 H4738, 2021-22 H3280, 2021-22 H3311, 2021-22 H3385, 2021-22 H3386, 2021-22 H5176, 2023-24 H3085, 2023-24 H3086, 2023-24 H3156, 2023-24 H3157, 2023-24 H3264, 2023-24 H5090, 2025-26 H4060 |
 | Jones | 12 | 2025-26 H3458, 2025-26 H3462, 2025-26 H3465, 2025-26 H3469, 2025-26 H3737, 2025-26 H3738, 2025-26 H3750, 2025-26 H3970, 2025-26 H4390, 2025-26 H4606, 2025-26 H5215, 2025-26 H5477 |
-| Davis | 10 | 2019-20 H4149, 2019-20 S137, 2019-20 S332, 2019-20 S998, 2021-22 H3116, 2021-22 S439, 2023-24 S284, 2023-24 S909, 2025-26 H3911, 2025-26 S51 |
+| Davis | 11 | 2019-20 H4149, 2019-20 S137, 2019-20 S332, 2019-20 S998, 2021-22 H3116, 2021-22 S439, 2023-24 S284, 2023-24 S909, 2025-26 H3911, 2025-26 S47, 2025-26 S51 |
 | Young | 9 | 2019-20 S904, 2019-20 S907, 2021-22 S244, 2021-22 S247, 2023-24 S152, 2023-24 S156, 2023-24 S943, 2025-26 S446, 2025-26 S93 |
 | Gilliard | 6 | 2019-20 H3126, 2025-26 H3229, 2025-26 H3232, 2025-26 H3238, 2025-26 H3346, 2025-26 H4970 |
 | Hart | 6 | 2019-20 H3626, 2021-22 H3671, 2021-22 H3674, 2023-24 H3806, 2023-24 H3809, 2025-26 H3803 |
@@ -19,6 +19,7 @@ Sponsors come verbatim from each bill's official sponsor line; the first member 
 | Jackson | 5 | 2019-20 S565, 2019-20 S569, 2019-20 S757, 2021-22 S12, 2023-24 S12 |
 | Peeler | 5 | 2019-20 S678, 2021-22 S1087, 2021-22 S1120, 2025-26 S439, 2025-26 S768 |
 | G.M. Smith | 5 | 2021-22 H3770, 2021-22 H5075, 2023-24 H5118, 2025-26 H3309, 2025-26 H3358 |
+| J.L. Johnson | 5 | 2025-26 H4394, 2025-26 H4690, 2025-26 H4693, 2025-26 H5484, 2025-26 H5794 |
 | Pendarvis | 4 | 2019-20 H3091, 2021-22 H3373, 2021-22 H4511, 2023-24 H4158 |
 | Clary | 4 | 2019-20 H3641, 2019-20 H3642, 2019-20 H3751, 2019-20 H4194 |
 | R. Williams | 4 | 2019-20 H3687, 2019-20 H5057, 2021-22 H4160, 2021-22 H4197 |
@@ -29,13 +30,14 @@ Sponsors come verbatim from each bill's official sponsor line; the first member 
 | Dillard | 4 | 2021-22 H3996, 2023-24 H4213, 2023-24 H4639, 2025-26 H3336 |
 | W. Jones | 4 | 2023-24 H4015, 2023-24 H4544, 2023-24 H5307, 2023-24 H5372 |
 | Robinson | 3 | 2019-20 H3460, 2019-20 H4782, 2021-22 H3458 |
+| Shealy | 3 | 2019-20 S595, 2023-24 S862, 2023-24 S946 |
 | Grooms | 3 | 2019-20 S658, 2021-22 S37, 2025-26 S298 |
 | Harpootlian | 3 | 2019-20 S947, 2019-20 S951, 2021-22 S751 |
 | Tedder | 3 | 2021-22 H3938, 2023-24 S891, 2025-26 S397 |
 | Ott | 3 | 2021-22 H4149, 2023-24 H3614, 2025-26 S223 |
 | Hardee | 3 | 2023-24 H3449, 2025-26 H3374, 2025-26 H3410 |
+| J. Moore | 3 | 2023-24 H4987, 2023-24 H4993, 2023-24 H5205 |
 | Burns | 3 | 2023-24 H5264, 2025-26 H3378, 2025-26 H3380 |
-| J.L. Johnson | 3 | 2025-26 H4690, 2025-26 H4693, 2025-26 H5484 |
 | Brewer | 3 | 2025-26 H4817, 2025-26 H5439, 2025-26 H5440 |
 | Kennedy | 3 | 2025-26 S151, 2025-26 S742, 2025-26 S890 |
 
@@ -94,11 +96,13 @@ Sponsors come verbatim from each bill's official sponsor line; the first member 
 | 2019-20 | S137 | Senator Davis |
 | 2019-20 | S15 | Senators Rankin and Jackson |
 | 2019-20 | S171 | Senators Hembree and Turner |
+| 2019-20 | S291 | Senator Talley |
 | 2019-20 | S332 | Senators Davis, Senn, Campbell, Reese, Gregory, Talley, Allen, Johnson, J. Matthews, Nicholson and Grooms |
 | 2019-20 | S334 | Senator Climer |
 | 2019-20 | S565 | Senator Jackson |
 | 2019-20 | S569 | Senator Jackson |
 | 2019-20 | S585 | Senators Alexander, Kimpson, J. Matthews, Turner, Talley, Reese, Shealy and Nicholson |
+| 2019-20 | S595 | Senators Shealy and Hutto |
 | 2019-20 | S620 | Senator Bennett |
 | 2019-20 | S657 | Senator Gambrell |
 | 2019-20 | S658 | Senator Grooms |
@@ -113,6 +117,7 @@ Sponsors come verbatim from each bill's official sponsor line; the first member 
 | 2019-20 | S996 | Senators Alexander, Rankin and Hutto |
 | 2019-20 | S998 | Senators Davis, Climer, Campbell, J. Matthews, Gregory, Fanning and Young |
 | 2021-22 | H3022 | Reps. Govan, Hosey, J.L. Johnson and Trantham |
+| 2021-22 | H3079 | Reps. Collins and Cobb-Hunter |
 | 2021-22 | H3108 | Reps. Brawley, Robinson, Cobb-Hunter, Hosey, Pendarvis, K.O. Johnson, King, Henegan, Bennett and Jones |
 | 2021-22 | H3116 | Reps. Davis, Wooten, Fry, Taylor, V.S. Moss, B. Cox, Pope, Forrest and Pendarvis |
 | 2021-22 | H3194 | Reps. Lucas, G.M. Smith, Simrill, Rutherford, Thigpen, McCravy, McGarry, B. Newton, Long, Yow and Carter |
@@ -174,22 +179,26 @@ Sponsors come verbatim from each bill's official sponsor line; the first member 
 | 2023-24 | H3449 | Rep. Hardee |
 | 2023-24 | H3511 | Reps. McDaniel and Henegan |
 | 2023-24 | H3614 | Reps. Ott, Sandifer, West, Blackwell, Kirby, Caskey, Ballentine and Williams |
+| 2023-24 | H3745 | Rep. A.M. Morgan |
 | 2023-24 | H3778 | Reps. Trantham, Vaughan, Long, Burns, Haddon, May, A.M. Morgan and T.A. Morgan |
 | 2023-24 | H3806 | Rep. Hart |
 | 2023-24 | H3809 | Rep. Hart |
 | 2023-24 | H3927 | Rep. Ligon |
 | 2023-24 | H3977 | Reps. Sandifer, Hardee and Anderson |
 | 2023-24 | H4015 | Reps. W. Jones, Gilliard, Henegan, Pendarvis, Jefferson, Dillard, Rivers, King and Cobb-Hunter |
+| 2023-24 | H4023 | Reps. S. Jones, Erickson, Henegan, Alexander, Bradley, J.L. Johnson, White, Ott, Gilliam, Beach, Gibson, O'Neal, Cromer, McGinnis, McDaniel, Vaughan, Bauer, A.M. Morgan, Leber, T.A. Morgan, Chumley, McCravy, McCabe, L... |
 | 2023-24 | H4158 | Reps. Pendarvis, M.M. Smith, Bauer, King, Henderson-Myers, Gilliard, Rivers, Jefferson, Henegan and Williams |
 | 2023-24 | H4213 | Rep. Dillard |
 | 2023-24 | H4544 | Reps. W. Jones, Clyburn, Taylor, Haddon, Burns, Chumley, Pendarvis, Dillard, Willis, Jefferson, J.L. Johnson, Wetmore and Vaughan |
 | 2023-24 | H4639 | Reps. Dillard, Henegan and Pendarvis |
 | 2023-24 | H4910 | Rep. Bustos |
 | 2023-24 | H4987 | Reps. J. Moore and Pendarvis |
+| 2023-24 | H4993 | Reps. J. Moore, McDaniel, Williams, Henegan and Hosey |
 | 2023-24 | H5014 | Reps. Caskey, Ballentine, Calhoon, Forrest, Kilmartin, May, McCabe, Ott, Taylor, White and Wooten |
 | 2023-24 | H5066 | Reps. Elliott, G.M. Smith, W. Newton, Bailey, Wheeler, T. Moore, Taylor, Hixon, Oremus, Blackwell, Schuessler, Stavrinakis, Wetmore, Bradley, Erickson, Hyde, Ballentine, Calhoon, Crawford, Guest and M.M. Smith |
 | 2023-24 | H5090 | Reps. King and McDaniel |
 | 2023-24 | H5118 | Reps. G.M. Smith, West, Davis, Hager, Hewitt, Kirby, Long, M.M. Smith, B. Newton, Pendarvis, Sandifer, Hiott, Landing, Crawford, Brittain, Lawson, Williams, Whitmire, Jefferson, Bustos, Hartnett, Carter, Blackwell, Ne... |
+| 2023-24 | H5205 | Rep. J. Moore |
 | 2023-24 | H5264 | Reps. Burns and W. Jones |
 | 2023-24 | H5307 | Reps. W. Jones, Williams, Rivers, Gilliard, Henderson-Myers, Dillard and Bauer |
 | 2023-24 | H5372 | Rep. W. Jones |
@@ -206,9 +215,11 @@ Sponsors come verbatim from each bill's official sponsor line; the first member 
 | 2023-24 | S739 | Senators Setzler, Alexander, Peeler, Williams, Davis, Talley and Malloy |
 | 2023-24 | S749 | Senators Alexander and Rankin |
 | 2023-24 | S779 | Senator Talley |
+| 2023-24 | S862 | Senators Shealy and Gustafson |
 | 2023-24 | S891 | Senator Tedder |
 | 2023-24 | S909 | Senator Davis |
 | 2023-24 | S943 | Senators Young, Talley and Corbin |
+| 2023-24 | S946 | Senator Shealy |
 | 2025-26 | H3229 | Rep. Gilliard |
 | 2025-26 | H3232 | Reps. Gilliard and Spann-Wilder |
 | 2025-26 | H3238 | Reps. Gilliard and Spann-Wilder |
@@ -241,17 +252,21 @@ Sponsors come verbatim from each bill's official sponsor line; the first member 
 | 2025-26 | H3928 | Reps. Herbkersman, Gatch and G.M. Smith |
 | 2025-26 | H3970 | Reps. Jones, King, J.L. Johnson, Cobb-Hunter, Rivers, Gilliard, Howard, Clyburn, Hosey, Spann-Wilder, Dillard, Bauer, Reese and Grant |
 | 2025-26 | H4007 | Reps. Pace, Harris, Frank, Magnuson, Edgerton, White, Cromer and Kilmartin |
+| 2025-26 | H4015 | Reps. Henderson-Myers, Hosey, McDaniel, J.L. Johnson, Govan, Clyburn, Spann-Wilder, Garvin, Gilliard, Jones, Alexander, Anderson, J. Moore and Rutherford |
 | 2025-26 | H4060 | Rep. King |
 | 2025-26 | H4138 | Rep. Long |
 | 2025-26 | H4187 | Reps. Caskey, Ballentine, Calhoon, Forrest, Govan, Kilmartin, May, McCabe, Taylor, White and Wooten |
 | 2025-26 | H4216 | Reps. Bannister, Pope, G.M. Smith, B. Newton, Hiott, Murphy, Moss, Crawford, Bradley, Hager, M.M. Smith, Bustos, Landing, Lowe, Lawson, B.J. Cox, Jordan, Brittain, Forrest, Neese, Vaughan, Long, Montgomery, Davis, Ses... |
 | 2025-26 | H4390 | Rep. Jones |
+| 2025-26 | H4394 | Rep. J.L. Johnson |
 | 2025-26 | H4402 | Rep. Herbkersman |
 | 2025-26 | H4458 | Rep. Pace |
 | 2025-26 | H4583 | Reps. Cromer, Gilreath, Oremus, Chumley, White, Reese, Lawson and Atkinson |
+| 2025-26 | H4587 | Reps. Gilliam, C. Mitchell and Schuessler |
 | 2025-26 | H4599 | Reps. Holman, C. Mitchell, Pope and Edgerton |
 | 2025-26 | H4606 | Reps. Jones, Pope and Spann-Wilder |
 | 2025-26 | H4608 | Reps. Kilmartin, Pope, Edgerton and White |
+| 2025-26 | H4632 | Reps. Martin, M.M. Smith, Pope, C. Mitchell and Guffey |
 | 2025-26 | H4690 | Reps. J.L. Johnson, Pope and Chumley |
 | 2025-26 | H4693 | Reps. J.L. Johnson and Luck |
 | 2025-26 | H4817 | Reps. Brewer, Herbkersman, Anderson, Bailey, Gatch, Gagnon, Guffey, Hager, Hixon, J.L. Johnson, Kirby, Oremus, Schuessler, C. Mitchell, Pope, M.M. Smith, Ligon, Sessions, White, Williams, Gibson, J.E. Johnson and W. N... |
@@ -267,6 +282,7 @@ Sponsors come verbatim from each bill's official sponsor line; the first member 
 | 2025-26 | H5484 | Rep. J.L. Johnson |
 | 2025-26 | H5503 | Reps. Frank, M.M. Smith, Holman, Harris, Huff, Pace, Cromer, Kilmartin, Magnuson, Edgerton, Bailey, Gilliam, Hartnett, Oremus and Willis |
 | 2025-26 | H5525 | Reps. C. Mitchell, Williams, Brewer, Atkinson, Luck and Hayes |
+| 2025-26 | H5794 | Rep. J.L. Johnson |
 | 2025-26 | S12 | Senators Rankin and Grooms |
 | 2025-26 | S151 | Senators Kennedy and Leber |
 | 2025-26 | S207 | Senators Massey, Rice, Zell and Climer |
@@ -277,9 +293,12 @@ Sponsors come verbatim from each bill's official sponsor line; the first member 
 | 2025-26 | S397 | Senator Tedder |
 | 2025-26 | S439 | Senators Peeler, Turner, Davis, Bennett, Verdin, Alexander, Grooms, Kimbrell, Johnson, Jackson, Sutton, Cromer, Climer, Adams, Zell and Young |
 | 2025-26 | S446 | Senators Young, Elliott and Zell |
+| 2025-26 | S47 | Senators Davis, Sutton, Devine and Graham |
 | 2025-26 | S51 | Senators Davis, Grooms, Stubbs, Massey, Garrett, Sutton, Turner, Graham, Gambrell, Zell, Johnson, Rice, Campsen, Sabb, Tedder, Fernandez, Leber, Devine, Climer, Cromer, Hutto, Young, Kimbrell, Matthews, Jackson, Black... |
+| 2025-26 | S700 | Senator Goldfinch |
 | 2025-26 | S742 | Senator Kennedy |
 | 2025-26 | S768 | Senators Peeler, Alexander, Kimbrell, Verdin, Massey, Hembree, Turner, Williams, Rice, Stubbs, Davis, Garrett, Campsen, Martin, Leber, Zell, Grooms and Young |
+| 2025-26 | S770 | Senator Kimbrell |
 | 2025-26 | S784 | Senators Massey, Campsen, Johnson, Sutton, Blackmon, Devine and Zell |
 | 2025-26 | S866 | Senators Elliott and Turner |
 | 2025-26 | S878 | Senators Johnson, Climer and Adams |

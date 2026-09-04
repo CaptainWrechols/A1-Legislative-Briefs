@@ -1,12 +1,12 @@
 # Evidence pack — Rising Cost of Living in South Carolina
 
-Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 adjacent / 16 context.
+Curated 271 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 136 adjacent / 14 context.
 
 ## Sessions (policy set = core + adjacent)
-- 123rd (2019-2020): 67 bills, 7 enacted (core: 39 bills, 5 enacted)
-- 124th (2021-2022): 50 bills, 7 enacted (core: 27 bills, 4 enacted)
-- 125th (2023-2024): 47 bills, 4 enacted (core: 22 bills, 1 enacted)
-- 126th (2025-2026): 76 bills, 10 enacted (core: 33 bills, 7 enacted)
+- 123rd (2019-2020): 69 bills, 8 enacted (core: 39 bills, 5 enacted)
+- 124th (2021-2022): 51 bills, 7 enacted (core: 27 bills, 4 enacted)
+- 125th (2023-2024): 53 bills, 6 enacted (core: 22 bills, 1 enacted)
+- 126th (2025-2026): 84 bills, 10 enacted (core: 33 bills, 7 enacted)
 
 ## Themes
 - **How electric and gas rates are watched and set** — 22 bills, 3 enacted
@@ -20,7 +20,8 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 - **Income and sales tax relief** — 16 bills, 2 enacted
 - **Housing costs and rent** — 45 bills, 6 enacted
 - **Home and property insurance costs** — 10 bills, 2 enacted
-- **Related context** — 16 bills, 5 enacted
+- **Child care costs and assistance** — 17 bills, 3 enacted
+- **Related context** — 14 bills, 5 enacted
 
 ## High-support non-enactments (passage votes >50%)
 - 123:H4776 Public Service Commission Members — House 101-0 ((Public Service Commission Members) Passage of Bill) — Passed the House; died in Senate Judiciary Committee
@@ -30,6 +31,7 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 - 124:S16 Graduation requirements — House 109-0 ((Graduation requirements) Passage of Bill) — Passed both chambers; died in conference
 - 125:H3614 Rate Payer Protection Act — House 114-0 ((Rate Payer Protection Act) Passage of Bill) — Passed the House; died in Senate Judiciary Committee
 - 125:H5014 Lexington County School District Property Tax Relief Act extension — House 102-0 ((Lexington County School District Property Tax Relief Act extension) Passage of Bill) — Passed the House; died in the Senate
+- 125:S946 Child Care Regulations — Senate 45-0 ((Child Care Regulations) 2nd Reading) — Passed both chambers; died in conference
 - 126:S768 Homestead exemption — Senate 44-0 ((Homestead exemption) 3rd Reading) — Passed the Senate; died in House Ways and Means Committee
 - 123:H4260 SC Ratepayer Protection Act — House 105-1 ((SC Ratepayer Protection Act) Passage of Bill) — Passed the House; died in Senate Judiciary Committee
 - 125:H5066 Fair Access to Insurance Requirements — House 106-2 ((Fair Access to Insurance Requirements) Passage of Bill) — Passed the House; died in Senate Banking and Insurance Committee
@@ -49,7 +51,7 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 ## Frequent lead sponsors (3+ policy bills led)
 - King — 14 bills (123:H3122, 123:H4738, 124:H3280, 124:H3311, 124:H3385, 124:H3386, 124:H5176, 125:H3085, 125:H3086, 125:H3156, 125:H3157, 125:H3264, 125:H5090, 126:H4060)
 - Jones — 12 bills (126:H3458, 126:H3462, 126:H3465, 126:H3469, 126:H3737, 126:H3738, 126:H3750, 126:H3970, 126:H4390, 126:H4606, 126:H5215, 126:H5477)
-- Davis — 10 bills (123:H4149, 123:S137, 123:S332, 123:S998, 124:H3116, 124:S439, 125:S284, 125:S909, 126:H3911, 126:S51)
+- Davis — 11 bills (123:H4149, 123:S137, 123:S332, 123:S998, 124:H3116, 124:S439, 125:S284, 125:S909, 126:H3911, 126:S47, 126:S51)
 - Young — 9 bills (123:S904, 123:S907, 124:S244, 124:S247, 125:S152, 125:S156, 125:S943, 126:S446, 126:S93)
 - Gilliard — 6 bills (123:H3126, 126:H3229, 126:H3232, 126:H3238, 126:H3346, 126:H4970)
 - Hart — 6 bills (123:H3626, 124:H3671, 124:H3674, 125:H3806, 125:H3809, 126:H3803)
@@ -60,6 +62,7 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 - Jackson — 5 bills (123:S565, 123:S569, 123:S757, 124:S12, 125:S12)
 - Peeler — 5 bills (123:S678, 124:S1087, 124:S1120, 126:S439, 126:S768)
 - G.M. Smith — 5 bills (124:H3770, 124:H5075, 125:H5118, 126:H3309, 126:H3358)
+- J.L. Johnson — 5 bills (126:H4394, 126:H4690, 126:H4693, 126:H5484, 126:H5794)
 - Pendarvis — 4 bills (123:H3091, 124:H3373, 124:H4511, 125:H4158)
 - Clary — 4 bills (123:H3641, 123:H3642, 123:H3751, 123:H4194)
 - R. Williams — 4 bills (123:H3687, 123:H5057, 124:H4160, 124:H4197)
@@ -70,13 +73,14 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 - Dillard — 4 bills (124:H3996, 125:H4213, 125:H4639, 126:H3336)
 - W. Jones — 4 bills (125:H4015, 125:H4544, 125:H5307, 125:H5372)
 - Robinson — 3 bills (123:H3460, 123:H4782, 124:H3458)
+- Shealy — 3 bills (123:S595, 125:S862, 125:S946)
 - Grooms — 3 bills (123:S658, 124:S37, 126:S298)
 - Harpootlian — 3 bills (123:S947, 123:S951, 124:S751)
 - Tedder — 3 bills (124:H3938, 125:S891, 126:S397)
 - Ott — 3 bills (124:H4149, 125:H3614, 126:S223)
 - Hardee — 3 bills (125:H3449, 126:H3374, 126:H3410)
+- J. Moore — 3 bills (125:H4987, 125:H4993, 125:H5205)
 - Burns — 3 bills (125:H5264, 126:H3378, 126:H3380)
-- J.L. Johnson — 3 bills (126:H4690, 126:H4693, 126:H5484)
 - Brewer — 3 bills (126:H4817, 126:H5439, 126:H5440)
 - Kennedy — 3 bills (126:S151, 126:S742, 126:S890)
 
@@ -147,11 +151,13 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 | 123:S137 | Electric utilities | Big energy bills that set the rate rules | core | Did not pass | Died in its first committee (Senate Judiciary) | — |
 | 123:S15 | Graduation requirements | Money skills in school | core | Did not pass | Reported out of Senate Education Committee; died before a floor vote | — |
 | 123:S171 | Municipal Tax Relief Act | Property taxes on homes | core | Did not pass | Died in its first committee (Senate Finance) | — |
+| 123:S291 | Department of Early Development and Education | Child care costs and assistance | adjacent | Did not pass | Died in its first committee (Senate General) | — |
 | 123:S332 | Electrical utility customers | Big energy bills that set the rate rules | core | Did not pass | Died in its first committee (Senate Judiciary) | — |
 | 123:S334 | Public utilities | Utility bills, fees, and shutoffs | adjacent | Did not pass | Died in its first committee (Senate Judiciary) | — |
 | 123:S565 | Property tax exemption | Property taxes on homes | core | Did not pass | Died in its first committee (Senate Finance) | — |
 | 123:S569 | Healthy Rental Housing Act | Housing costs and rent | adjacent | Did not pass | Died in its first committee (Senate Judiciary) | — |
 | 123:S585 | Workforce and Senior Affordable Housing Act | Housing costs and rent | adjacent | Did not pass | Died in its first committee (Senate Finance) | — |
+| 123:S595 | Childcare facilities | Child care costs and assistance | adjacent | Enacted | Became law (Act 52) | Senate 39-0 |
 | 123:S620 | Electric utilities | Big energy bills that set the rate rules | core | Did not pass | Died in its first committee (Senate Judiciary) | — |
 | 123:S657 | Electrical utilities | Big energy bills that set the rate rules | adjacent | Did not pass | Died in its first committee (Senate Judiciary) | — |
 | 123:S658 | Property tax | Taxes on vehicles and boats | adjacent | Did not pass | Died in its first committee (Senate Finance) | — |
@@ -167,6 +173,7 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 | 123:S996 | Public Utilities Review Committee | How electric and gas rates are watched and set | core | Enacted | Became law (Act 181) | Senate 37-0 |
 | 123:S998 | Electricity Market Reform Measures Study Committee | Opening the electricity market to competition | core | Did not pass | Died in its first committee (Senate Judiciary) | — |
 | 124:H3022 | Financial literacy program instruction | Money skills in school | core | Did not pass | Died in its first committee (House Education and Public Works) | — |
+| 124:H3079 | Childcare | Child care costs and assistance | adjacent | Did not pass | Died in its first committee (House Medical, Military, Public and Municipal Affairs) | — |
 | 124:H3108 | Homestead exemption | Property taxes on homes | core | Did not pass | Died in its first committee (House Ways and Means) | — |
 | 124:H3116 | Graduation requirements | Money skills in school | core | Did not pass | Died in its first committee (House Education and Public Works) | — |
 | 124:H3194 | Santee Cooper | Santee Cooper, the state-owned utility | core | Enacted | Became law (Act 90) | Senate 44-1 |
@@ -231,6 +238,7 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 | 125:H3449 | Homestead exemption | Property taxes on homes | adjacent | Did not pass | Died in its first committee (House Ways and Means) | — |
 | 125:H3511 | Property tax | Property taxes on homes | adjacent | Did not pass | Died in its first committee (House Ways and Means) | — |
 | 125:H3614 | Rate Payer Protection Act | How electric and gas rates are watched and set | core | Did not pass | Passed the House; died in Senate Judiciary Committee | House 114-0 |
+| 125:H3745 | Childcare Facilities | Child care costs and assistance | adjacent | Did not pass | Advanced in its own chamber; never finished passage there | — |
 | 125:H3778 | Property tax exemption | Property taxes on homes | core | Did not pass | Died in its first committee (House Ways and Means) | — |
 | 125:H3806 | Property tax millage increase | Property taxes on homes | adjacent | Did not pass | Died in its first committee (House Ways and Means) | — |
 | 125:H3809 | Constitutional amendment, property tax | Property taxes on homes | core | Did not pass | Died in its first committee (House Ways and Means) | — |
@@ -238,6 +246,7 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 | 125:H3937 | Commercial Property Assessed Clean Energy Programs | Related context | context | Did not pass | Died in its first committee (House Labor, Commerce and Industry) | — |
 | 125:H3977 | Property and casualty insurance | Home and property insurance costs | adjacent | Enacted | Became law (Act 108) | Senate 43-0 |
 | 125:H4015 | Rental housing | Housing costs and rent | adjacent | Did not pass | Died in its first committee (House Labor, Commerce and Industry) | — |
+| 125:H4023 | First Steps | Child care costs and assistance | adjacent | Enacted | Became law (Act 81) | Senate 41-0 |
 | 125:H4158 | Domestic violence in rental properties | Housing costs and rent | adjacent | Did not pass | Passed the House; died in Senate Judiciary Committee | House 98-10 |
 | 125:H4213 | Development of Workforce Housing | Housing costs and rent | adjacent | Did not pass | Died in its first committee (House Ways and Means) | — |
 | 125:H4544 | Religious Institutions Affordable Housing Act | Housing costs and rent | adjacent | Did not pass | Died in its first committee (House Labor, Commerce and Industry) | — |
@@ -245,10 +254,12 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 | 125:H4832 | Paid Family Leave Insurance | Related context | context | Enacted | Became law (Act 206) | Senate 43-0 |
 | 125:H4910 | Property tax reassessment delay | Property taxes on homes | core | Did not pass | Died in its first committee (House Ways and Means) | — |
 | 125:H4987 | Protected tenants | Housing costs and rent | adjacent | Did not pass | Died in its first committee (House Judiciary) | — |
+| 125:H4993 | Childcare Advance Act | Child care costs and assistance | adjacent | Did not pass | Died in its first committee (House Ways and Means) | — |
 | 125:H5014 | Lexington County School District Property Tax Relief Act extension | Property taxes on homes | adjacent | Did not pass | Passed the House; died in the Senate | House 102-0 |
 | 125:H5066 | Fair Access to Insurance Requirements | Home and property insurance costs | adjacent | Did not pass | Passed the House; died in Senate Banking and Insurance Committee | House 106-2 |
 | 125:H5090 | Payment of Utility Bill at Drive-Through Window | Utility bills, fees, and shutoffs | adjacent | Did not pass | Died in its first committee (House Labor, Commerce and Industry) | — |
 | 125:H5118 | Electrical Utilities, Electricity Regulation, and Economic Development | Big energy bills that set the rate rules | core | Did not pass | Passed both chambers; died in conference | Senate 40-2 |
+| 125:H5205 | High-Quality Prekindergarten Expansion Program | Child care costs and assistance | adjacent | Did not pass | Died in its first committee (House Ways and Means) | — |
 | 125:H5264 | Homestead exemption | Property taxes on homes | core | Did not pass | Died in its first committee (House Ways and Means) | — |
 | 125:H5307 | Food desert tax credit | Income and sales tax relief | adjacent | Did not pass | Died in its first committee (House Ways and Means) | — |
 | 125:H5372 | Accessory Dwelling Unit Affordable Housing Incentive Act | Housing costs and rent | adjacent | Did not pass | Died in its first committee (House Ways and Means) | — |
@@ -265,9 +276,11 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 | 125:S739 | SC Housing Tax Credit | Housing costs and rent | adjacent | Enacted | Became law (Act 88) | Senate 43-0 |
 | 125:S749 | PSC Elections | How electric and gas rates are watched and set | core | Did not pass | Died in its first committee (Senate Judiciary) | — |
 | 125:S779 | Energy Independence and Risk Reduction Act | How electric and gas rates are watched and set | core | Did not pass | Died in its first committee (Senate Judiciary) | — |
+| 125:S862 | DSS - Childcare Center Caregiver | Child care costs and assistance | adjacent | Enacted | Became law (Act 216) | Senate 44-0 |
 | 125:S891 | Inclusionary Housing Act | Housing costs and rent | adjacent | Did not pass | Died in its first committee (Senate Judiciary) | — |
 | 125:S909 | Energy Reform | How electric and gas rates are watched and set | core | Did not pass | Died in its first committee (Senate Judiciary) | — |
 | 125:S943 | Property Tax Exemptions | Taxes on vehicles and boats | core | Did not pass | Died in its first committee (Senate Finance) | — |
+| 125:S946 | Child Care Regulations | Child care costs and assistance | adjacent | Did not pass | Passed both chambers; died in conference | Senate 45-0 |
 | 126:H3229 | Rental agreements | Housing costs and rent | adjacent | Did not pass (session ended) | Died in its first committee (House Labor, Commerce and Industry) | — |
 | 126:H3232 | Residential rental property | Housing costs and rent | adjacent | Did not pass (session ended) | Died in its first committee (House Judiciary) | — |
 | 126:H3238 | Renter assistance | Housing costs and rent | adjacent | Did not pass (session ended) | Died in its first committee (House Labor, Commerce and Industry) | — |
@@ -304,18 +317,21 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 | 126:H3933 | Public Service Districts | Related context | context | Enacted | Became law (Act 10) | Senate 41-0 |
 | 126:H3970 | University Housing Development and Incentive Act | Housing costs and rent | adjacent | Did not pass (session ended) | Died in its first committee (House Ways and Means) | — |
 | 126:H4007 | Public Service Authority Construction Authorization | Santee Cooper, the state-owned utility | core | Did not pass (session ended) | Died in its first committee (House Labor, Commerce and Industry) | — |
+| 126:H4015 | Childcare | Child care costs and assistance | adjacent | Did not pass (session ended) | Died in its first committee (House Ways and Means) | — |
 | 126:H4060 | Property tax exemption | Property taxes on homes | adjacent | Did not pass (session ended) | Died in its first committee (House Ways and Means) | — |
 | 126:H4138 | Property tax exemption | Taxes on vehicles and boats | core | Did not pass (session ended) | Died in its first committee (House Ways and Means) | — |
 | 126:H4187 | Lexington County School District Property Tax Relief Act extension | Property taxes on homes | adjacent | Enacted | Became law (Act 89) | House 92-0 |
 | 126:H4216 | Income tax | Income and sales tax relief | adjacent | Enacted | Became law (Act 110) | Senate 39-5 |
 | 126:H4390 | Zoning | Housing costs and rent | adjacent | Did not pass (session ended) | Died in its first committee (House Medical, Military, Public and Municipal Affairs) | — |
-| 126:H4394 | Childcare | Related context | context | Did not pass (session ended) | Died in its first committee (House Ways and Means) | — |
+| 126:H4394 | Childcare | Child care costs and assistance | adjacent | Did not pass (session ended) | Died in its first committee (House Ways and Means) | — |
 | 126:H4402 | PSC Elections | How electric and gas rates are watched and set | core | Enacted | Became law (Act 75) | Senate 44-0 |
 | 126:H4458 | Income tax rates | Income and sales tax relief | adjacent | Did not pass (session ended) | Died in its first committee (House Ways and Means) | — |
 | 126:H4583 | The South Carolina Data Center Responsibility Act | Utility bills, fees, and shutoffs | adjacent | Did not pass (session ended) | Died in its first committee (House Labor, Commerce and Industry) | — |
+| 126:H4587 | Military Installation Childcare | Child care costs and assistance | adjacent | Did not pass (session ended) | Died in its first committee (House Education and Public Works) | — |
 | 126:H4599 | Homestead Exemption | Property taxes on homes | core | Did not pass (session ended) | Died in its first committee (House Ways and Means) | — |
 | 126:H4606 | Veteran Housing Stability & Security Act | Housing costs and rent | adjacent | Did not pass (session ended) | Died in its first committee (House Medical, Military, Public and Municipal Affairs) | — |
 | 126:H4608 | Property Tax Classification | Property taxes on homes | adjacent | Did not pass (session ended) | Died in its first committee (House Ways and Means) | — |
+| 126:H4632 | Childcare Facilities | Child care costs and assistance | adjacent | Did not pass (session ended) | Died in its first committee (House Education and Public Works) | — |
 | 126:H4690 | Homestead Exemption | Property taxes on homes | core | Did not pass (session ended) | Died in its first committee (House Ways and Means) | — |
 | 126:H4693 | Housing tax credit | Housing costs and rent | adjacent | Did not pass (session ended) | Died in its first committee (House Ways and Means) | — |
 | 126:H4817 | Insurance Rate Reduction and Policy Holder Protection Act | Home and property insurance costs | adjacent | Did not pass (session ended) | Passed the House; died in Senate Banking and Insurance Committee | House 96-17 |
@@ -331,6 +347,7 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 | 126:H5484 | Energy Affordability Act | Big energy bills that set the rate rules | core | Did not pass (session ended) | Died in its first committee (House Labor, Commerce and Industry) | — |
 | 126:H5503 | Liquor Liability Insurance | Home and property insurance costs | adjacent | Did not pass (session ended) | Died in its first committee (House Judiciary) | — |
 | 126:H5525 | SC Electric Cooperative Consumer Protection & Wholesale Market Access Act | Opening the electricity market to competition | core | Did not pass (session ended) | Died in its first committee (House Labor, Commerce and Industry) | — |
+| 126:H5794 | Tax credit for child care expenses | Child care costs and assistance | adjacent | Did not pass (session ended) | Died in its first committee (House Ways and Means) | — |
 | 126:S12 | Santee Cooper Joint Project Authorization | Santee Cooper, the state-owned utility | core | Did not pass (session ended) | Advanced in its own chamber; recommitted to Senate Judiciary Committee | Senate 25-18 |
 | 126:S151 | Small Business Property Tax Relief | Property taxes on homes | adjacent | Did not pass (session ended) | Died in its first committee (Senate Finance) | — |
 | 126:S207 | Retirement Income Tax Deduction | Income and sales tax relief | adjacent | Did not pass (session ended) | Died in its first committee (Senate Finance) | — |
@@ -342,10 +359,12 @@ Curated 256 bills (of 6814 Pass 1 hits, plus 2 universe adds): 121 core / 119 ad
 | 126:S439 | Manufacturing property tax exemption | Property taxes on homes | core | Enacted | Became law (Act 122) | Senate 40-0 |
 | 126:S442 | Short Term Rentals | Related context | context | Did not pass (session ended) | Died in its first committee (Senate Judiciary) | — |
 | 126:S446 | Electric Rate Stabilization Act | Big energy bills that set the rate rules | core | Did not pass (session ended) | Placed on the Senate calendar; recommitted to Senate Judiciary Committee | — |
+| 126:S47 | Childcare | Child care costs and assistance | adjacent | Did not pass (session ended) | Died in its first committee (Senate Finance) | — |
 | 126:S51 | Public Service Authority RFP for V.C. Summer | Santee Cooper, the state-owned utility | core | Enacted | Became law (Act 73) | Senate 43-0 |
+| 126:S700 | Family Childcare Home | Child care costs and assistance | adjacent | Did not pass (session ended) | Died in its first committee (Senate Family and Veterans' Services) | — |
 | 126:S742 | Sales Tax on Baby Supplies | Income and sales tax relief | adjacent | Did not pass (session ended) | Died in its first committee (Senate Finance) | — |
 | 126:S768 | Homestead exemption | Property taxes on homes | core | Did not pass (session ended) | Passed the Senate; died in House Ways and Means Committee | Senate 44-0 |
-| 126:S770 | Childcare Assistance Program | Related context | context | Did not pass (session ended) | Died in its first committee (Senate Family and Veterans' Services) | — |
+| 126:S770 | Childcare Assistance Program | Child care costs and assistance | adjacent | Did not pass (session ended) | Died in its first committee (Senate Family and Veterans' Services) | — |
 | 126:S784 | Energy | Big energy bills that set the rate rules | core | Did not pass (session ended) | Died in its first committee (Senate Judiciary) | — |
 | 126:S866 | Municipal Tax Relief Act | Property taxes on homes | core | Enacted | Became law (Act 228) | House 96-16 |
 | 126:S878 | Third-Party Electric Supplier | Opening the electricity market to competition | core | Did not pass (session ended) | Died in its first committee (Senate Judiciary) | — |

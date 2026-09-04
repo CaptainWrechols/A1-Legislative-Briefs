@@ -9,7 +9,7 @@ PASS 21 / WARN 1 / FAIL 0
 - **PASS** `config_sessions` — 4 sessions; need the 123rd-126th with OpenStates ids and scstatehouse paths
 - **PASS** `config_search_terms` — 28 search terms
 - **PASS** `config_relevance_terms` — 12 relevance terms
-- **PASS** `config_constituent_proposals` — 6 proposals; incomplete=[]
+- **PASS** `config_constituent_proposals` — 2 proposals; incomplete=[]
 - **PASS** `config_omnibus_cycles` — method=proviso-by-proviso; 7 appropriations cycles
 - **PASS** `proviso_sections_present` — working/south-carolina/responsive-elected-leaders/proviso-sections.json: proviso_count=1394 (min 100); cycle=2026-2027 version=ta
 - **PASS** `proviso_relevant_present` — working/south-carolina/responsive-elected-leaders/proviso-relevant.json: relevant=234

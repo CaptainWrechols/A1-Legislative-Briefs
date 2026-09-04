@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-08-27T17:51:55.246629+00:00",
+ "generated_at": "2026-09-04T13:12:00.669169+00:00",
  "issue": "south-carolina-03-rising-cost-of-living",
  "sessions": [
   {
    "session": 123,
    "label": "123rd (2019-2020)",
-   "bills_in_policy_set": 67,
-   "enacted": 7,
+   "bills_in_policy_set": 69,
+   "enacted": 8,
    "core": 39,
    "core_enacted": 5
   },
   {
    "session": 124,
    "label": "124th (2021-2022)",
-   "bills_in_policy_set": 50,
+   "bills_in_policy_set": 51,
    "enacted": 7,
    "core": 27,
    "core_enacted": 4
@@ -21,15 +21,15 @@
   {
    "session": 125,
    "label": "125th (2023-2024)",
-   "bills_in_policy_set": 47,
-   "enacted": 4,
+   "bills_in_policy_set": 53,
+   "enacted": 6,
    "core": 22,
    "core_enacted": 1
   },
   {
    "session": 126,
    "label": "126th (2025-2026)",
-   "bills_in_policy_set": 76,
+   "bills_in_policy_set": 84,
    "enacted": 10,
    "core": 33,
    "core_enacted": 7
@@ -37,21 +37,21 @@
  ],
  "inventory": {
   "pass1_total": 6814,
-  "curated_total": 256,
+  "curated_total": 271,
   "by_relevance": {
-   "adjacent": 119,
+   "adjacent": 136,
    "core": 121,
-   "context": 16
+   "context": 14
   },
-  "policy_set": 240,
+  "policy_set": 257,
   "core_set": 121,
   "dispositions_core": {
    "Did not pass": 104,
    "Enacted": 17
   },
   "dispositions_policy": {
-   "Did not pass": 212,
-   "Enacted": 28
+   "Did not pass": 226,
+   "Enacted": 31
   },
   "note": "Keyword-discovered, hand-curated set. Headline numbers use the core set (the four constituent proposals' lanes); adjacent bills appear in appendices; context bills are audit-only."
  },
@@ -374,8 +374,32 @@
    ]
   },
   {
+   "theme": "Child care costs and assistance",
+   "bills": 17,
+   "enacted": 3,
+   "bill_keys": [
+    "123:S291",
+    "123:S595",
+    "124:H3079",
+    "125:H3745",
+    "125:H4023",
+    "125:H4993",
+    "125:H5205",
+    "125:S862",
+    "125:S946",
+    "126:H4015",
+    "126:H4394",
+    "126:H4587",
+    "126:H4632",
+    "126:H5794",
+    "126:S47",
+    "126:S700",
+    "126:S770"
+   ]
+  },
+  {
    "theme": "Related context",
-   "bills": 16,
+   "bills": 14,
    "enacted": 5,
    "bill_keys": [
     "123:H3145",
@@ -391,9 +415,7 @@
     "126:H3812",
     "126:H3861",
     "126:H3933",
-    "126:H4394",
-    "126:S442",
-    "126:S770"
+    "126:S442"
    ]
   }
  ],
@@ -473,6 +495,17 @@
    "yeas": 102,
    "nays": 0,
    "motion": "(Lexington County School District Property Tax Relief Act extension) Passage of Bill",
+   "relevance": "adjacent"
+  },
+  {
+   "bill_key": "125:S946",
+   "title": "Child Care Regulations",
+   "plain_topic": "Childcare regulations modernization: passed the Senate 45-0 and the House 105-0 in differing versions, then died in conference at session's end.",
+   "stage": "Passed both chambers; died in conference",
+   "chamber": "Senate",
+   "yeas": 45,
+   "nays": 0,
+   "motion": "(Child Care Regulations) 2nd Reading",
    "relevance": "adjacent"
   },
   {
@@ -618,7 +651,7 @@
    },
    {
     "name": "Davis",
-    "bills_led": 10,
+    "bills_led": 11,
     "bill_keys": [
      "123:H4149",
      "123:S137",
@@ -629,6 +662,7 @@
      "125:S284",
      "125:S909",
      "126:H3911",
+     "126:S47",
      "126:S51"
     ]
    },
@@ -751,6 +785,17 @@
     ]
    },
    {
+    "name": "J.L. Johnson",
+    "bills_led": 5,
+    "bill_keys": [
+     "126:H4394",
+     "126:H4690",
+     "126:H4693",
+     "126:H5484",
+     "126:H5794"
+    ]
+   },
+   {
     "name": "Pendarvis",
     "bills_led": 4,
     "bill_keys": [
@@ -850,6 +895,15 @@
     ]
    },
    {
+    "name": "Shealy",
+    "bills_led": 3,
+    "bill_keys": [
+     "123:S595",
+     "125:S862",
+     "125:S946"
+    ]
+   },
+   {
     "name": "Grooms",
     "bills_led": 3,
     "bill_keys": [
@@ -895,21 +949,21 @@
     ]
    },
    {
+    "name": "J. Moore",
+    "bills_led": 3,
+    "bill_keys": [
+     "125:H4987",
+     "125:H4993",
+     "125:H5205"
+    ]
+   },
+   {
     "name": "Burns",
     "bills_led": 3,
     "bill_keys": [
      "125:H5264",
      "126:H3378",
      "126:H3380"
-    ]
-   },
-   {
-    "name": "J.L. Johnson",
-    "bills_led": 3,
-    "bill_keys": [
-     "126:H4690",
-     "126:H4693",
-     "126:H5484"
     ]
    },
    {
@@ -2109,7 +2163,7 @@
    "relevance": "core",
    "found_by_terms": [],
    "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4149.htm",
-   "source": "universe_hand_scan (matched 'personal finance' in full text; no Pass 1 term hit)",
+   "source": "universe_hand_scan (personal-finance full-text scan)",
    "sponsors": [
     "Davis",
     "W. Newton",
@@ -3190,6 +3244,34 @@
    "best_passage_vote": null
   },
   {
+   "bill_key": "123:S291",
+   "session": 123,
+   "bill_no": "S291",
+   "title": "Department of Early Development and Education",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a Department of Early Development and Education consolidating early-childhood programs.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "child care",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/291.htm",
+   "source": "pass1",
+   "sponsors": [
+    "Talley"
+   ],
+   "sponsors_raw": "Senator Talley",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (Senate General)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
    "bill_key": "123:S332",
    "session": 123,
    "bill_no": "S332",
@@ -3344,6 +3426,60 @@
    "roll_call_count": 0,
    "passage_votes": [],
    "best_passage_vote": null
+  },
+  {
+   "bill_key": "123:S595",
+   "session": 123,
+   "bill_no": "S595",
+   "title": "Childcare facilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Background-check requirements for childcare facility staff (became law).",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "child care",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/595.htm",
+   "source": "pass1",
+   "sponsors": [
+    "Shealy",
+    "Hutto"
+   ],
+   "sponsors_raw": "Senators Shealy and Hutto",
+   "act_no": "A52",
+   "ratification_no": "R72",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 52)",
+   "roll_call_count": 3,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Childcare facilities) 3rd Reading",
+     "yeas": 39,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "04/09/2019 04:29 pm",
+     "ballot_pdf_key": 16310
+    },
+    {
+     "chamber": "House",
+     "motion": "(Childcare facilities) Passage of Bill",
+     "yeas": 100,
+     "nays": 1,
+     "result": "Passed",
+     "datetime": "05/08/2019 05:27 pm",
+     "ballot_pdf_key": 16770
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 39,
+    "nays": 0,
+    "motion": "(Childcare facilities) 3rd Reading",
+    "yes_pct": 1.0
+   }
   },
   {
    "bill_key": "123:S620",
@@ -3856,6 +3992,34 @@
    "best_passage_vote": null
   },
   {
+   "bill_key": "124:H3079",
+   "session": 124,
+   "bill_no": "H3079",
+   "title": "Childcare",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have created a study committee on the statewide availability of high-quality, affordable childcare.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3079.htm",
+   "source": "pass1",
+   "sponsors": [
+    "Collins",
+    "Cobb-Hunter"
+   ],
+   "sponsors_raw": "Reps. Collins and Cobb-Hunter",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Medical, Military, Public and Municipal Affairs)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
    "bill_key": "124:H3108",
    "session": 124,
    "bill_no": "H3108",
@@ -3901,7 +4065,7 @@
    "relevance": "core",
    "found_by_terms": [],
    "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3116.htm",
-   "source": "universe_hand_scan (matched 'personal finance' in full text; no Pass 1 term hit)",
+   "source": "universe_hand_scan (personal-finance full-text scan)",
    "sponsors": [
     "Davis",
     "Wooten",
@@ -6221,6 +6385,33 @@
    }
   },
   {
+   "bill_key": "125:H3745",
+   "session": 125,
+   "bill_no": "H3745",
+   "title": "Childcare Facilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Childcare facility regulation changes.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3745.htm",
+   "source": "pass1",
+   "sponsors": [
+    "A.M. Morgan"
+   ],
+   "sponsors_raw": "Rep. A.M. Morgan",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Advanced in its own chamber; never finished passage there",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
    "bill_key": "125:H3778",
    "session": 125,
    "bill_no": "H3778",
@@ -6456,6 +6647,87 @@
    "roll_call_count": 0,
    "passage_votes": [],
    "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H4023",
+   "session": 125,
+   "bill_no": "H4023",
+   "title": "First Steps",
+   "instrument_type": "General Bill",
+   "plain_topic": "Restructured local First Steps early-childhood partnership boards (became law).",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "child care",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4023.htm",
+   "source": "pass1",
+   "sponsors": [
+    "S. Jones",
+    "Erickson",
+    "Henegan",
+    "Alexander",
+    "Bradley",
+    "J.L. Johnson",
+    "White",
+    "Ott",
+    "Gilliam",
+    "Beach",
+    "Gibson",
+    "O'Neal",
+    "Cromer",
+    "McGinnis",
+    "McDaniel",
+    "Vaughan",
+    "Bauer",
+    "A.M. Morgan",
+    "Leber",
+    "T.A. Morgan",
+    "Chumley",
+    "McCravy",
+    "McCabe",
+    "Landing",
+    "Ballentine",
+    "Haddon",
+    "Hartnett",
+    "Herbkersman",
+    "Oremus",
+    "Willis"
+   ],
+   "sponsors_raw": "Reps. S. Jones, Erickson, Henegan, Alexander, Bradley, J.L. Johnson, White, Ott, Gilliam, Beach, Gibson, O'Neal, Cromer, McGinnis, McDaniel, Vaughan, Bauer, A.M. Morgan, Leber, T.A. Morgan, Chumley, McCravy, McCabe, Landing, Ballentine, Haddon, Hartnett, Herbkersman, Oremus and Willis",
+   "act_no": "A81",
+   "ratification_no": "R100",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 81)",
+   "roll_call_count": 5,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(First Steps) 3rd Reading",
+     "yeas": 41,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "05/10/2023 10:27 am",
+     "ballot_pdf_key": 23101
+    },
+    {
+     "chamber": "House",
+     "motion": "(First Steps) Passage of Bill",
+     "yeas": 107,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "03/30/2023 11:22 am",
+     "ballot_pdf_key": 22635
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 41,
+    "nays": 0,
+    "motion": "(First Steps) 3rd Reading",
+    "yes_pct": 1.0
+   }
   },
   {
    "bill_key": "125:H4158",
@@ -6711,6 +6983,36 @@
    "ratification_no": null,
    "disposition": "Did not pass",
    "stage": "Died in its first committee (House Judiciary)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:H4993",
+   "session": 125,
+   "bill_no": "H4993",
+   "title": "Childcare Advance Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Childcare Advance Act: would let taxpayers defer part of their income tax against eligible childcare expenses.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4993.htm",
+   "source": "pass1",
+   "sponsors": [
+    "J. Moore",
+    "McDaniel",
+    "Williams",
+    "Henegan",
+    "Hosey"
+   ],
+   "sponsors_raw": "Reps. J. Moore, McDaniel, Williams, Henegan and Hosey",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
    "roll_call_count": 0,
    "passage_votes": [],
    "best_passage_vote": null
@@ -6979,6 +7281,30 @@
     "motion": "(Electrical Utilities, Electricity Regulation, and Economic Development) 3rd Reading",
     "yes_pct": 0.9523809523809523
    }
+  },
+  {
+   "bill_key": "125:H5205",
+   "session": 125,
+   "bill_no": "H5205",
+   "title": "High-Quality Prekindergarten Expansion Program",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a High-Quality Prekindergarten Expansion grant program at the Department of Education.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5205.htm",
+   "source": "universe_hand_scan (childcare title/full-text scan; no Pass 1 term hit)",
+   "sponsors": [
+    "J. Moore"
+   ],
+   "sponsors_raw": "Rep. J. Moore",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
   },
   {
    "bill_key": "125:H5264",
@@ -7490,6 +7816,67 @@
    "best_passage_vote": null
   },
   {
+   "bill_key": "125:S862",
+   "session": 125,
+   "bill_no": "S862",
+   "title": "DSS - Childcare Center Caregiver",
+   "instrument_type": "General Bill",
+   "plain_topic": "Caregiver education and preservice-training requirements for childcare centers (became law).",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/862.htm",
+   "source": "pass1",
+   "sponsors": [
+    "Shealy",
+    "Gustafson"
+   ],
+   "sponsors_raw": "Senators Shealy and Gustafson",
+   "act_no": "A216",
+   "ratification_no": "R241",
+   "disposition": "Enacted",
+   "stage": "Became law (Act 216)",
+   "roll_call_count": 7,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(DSS - Childcare Center Caregiver) 3rd Reading",
+     "yeas": 44,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "02/21/2024 01:31 pm",
+     "ballot_pdf_key": 23758
+    },
+    {
+     "chamber": "Senate",
+     "motion": "(DSS - Childcare Center Caregiver) 2nd Reading",
+     "yeas": 27,
+     "nays": 17,
+     "result": "Passed",
+     "datetime": "02/20/2024 01:01 pm",
+     "ballot_pdf_key": 23753
+    },
+    {
+     "chamber": "House",
+     "motion": "(DSS - Childcare Center Caregiver) Passage of Bill",
+     "yeas": 108,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "05/07/2024 06:02 pm",
+     "ballot_pdf_key": 24750
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 44,
+    "nays": 0,
+    "motion": "(DSS - Childcare Center Caregiver) 3rd Reading",
+    "yes_pct": 1.0
+   }
+  },
+  {
    "bill_key": "125:S891",
    "session": 125,
    "bill_no": "S891",
@@ -7574,6 +7961,59 @@
    "roll_call_count": 0,
    "passage_votes": [],
    "best_passage_vote": null
+  },
+  {
+   "bill_key": "125:S946",
+   "session": 125,
+   "bill_no": "S946",
+   "title": "Child Care Regulations",
+   "instrument_type": "General Bill",
+   "plain_topic": "Childcare regulations modernization: passed the Senate 45-0 and the House 105-0 in differing versions, then died in conference at session's end.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "rent",
+    "child care"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/946.htm",
+   "source": "pass1",
+   "sponsors": [
+    "Shealy"
+   ],
+   "sponsors_raw": "Senator Shealy",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass",
+   "stage": "Passed both chambers; died in conference",
+   "roll_call_count": 2,
+   "passage_votes": [
+    {
+     "chamber": "Senate",
+     "motion": "(Child Care Regulations) 2nd Reading",
+     "yeas": 45,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "02/21/2024 02:04 pm",
+     "ballot_pdf_key": 23762
+    },
+    {
+     "chamber": "House",
+     "motion": "(Child Care Regulations) Passage of Bill",
+     "yeas": 105,
+     "nays": 0,
+     "result": "Passed",
+     "datetime": "05/08/2024 06:38 pm",
+     "ballot_pdf_key": 24863
+    }
+   ],
+   "best_passage_vote": {
+    "chamber": "Senate",
+    "yeas": 45,
+    "nays": 0,
+    "motion": "(Child Care Regulations) 2nd Reading",
+    "yes_pct": 1.0
+   }
   },
   {
    "bill_key": "126:H3229",
@@ -8873,6 +9313,46 @@
    "best_passage_vote": null
   },
   {
+   "bill_key": "126:H4015",
+   "session": 126,
+   "bill_no": "H4015",
+   "title": "Childcare",
+   "instrument_type": "General Bill",
+   "plain_topic": "House companion: bigger employer childcare credit plus a new credit for childcare directors and staff.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "child care"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4015.htm",
+   "source": "pass1",
+   "sponsors": [
+    "Henderson-Myers",
+    "Hosey",
+    "McDaniel",
+    "J.L. Johnson",
+    "Govan",
+    "Clyburn",
+    "Spann-Wilder",
+    "Garvin",
+    "Gilliard",
+    "Jones",
+    "Alexander",
+    "Anderson",
+    "J. Moore",
+    "Rutherford"
+   ],
+   "sponsors_raw": "Reps. Henderson-Myers, Hosey, McDaniel, J.L. Johnson, Govan, Clyburn, Spann-Wilder, Garvin, Gilliard, Jones, Alexander, Anderson, J. Moore and Rutherford",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
    "bill_key": "126:H4060",
    "session": 126,
    "bill_no": "H4060",
@@ -9127,9 +9607,9 @@
    "bill_no": "H4394",
    "title": "Childcare",
    "instrument_type": "General Bill",
-   "plain_topic": "Workforce-development childcare stipends for unemployed parents (childcare as a household cost).",
-   "theme": "Related context",
-   "relevance": "context",
+   "plain_topic": "Would create workforce-development childcare stipends, through DSS and the state workforce agency, for unemployed parents and caregivers of children under 12.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
    "found_by_terms": [
     "childcare",
     "rent"
@@ -9254,6 +9734,34 @@
    "best_passage_vote": null
   },
   {
+   "bill_key": "126:H4587",
+   "session": 126,
+   "bill_no": "H4587",
+   "title": "Military Installation Childcare",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt military-installation childcare centers from certain state requirements.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4587.htm",
+   "source": "pass1",
+   "sponsors": [
+    "Gilliam",
+    "C. Mitchell",
+    "Schuessler"
+   ],
+   "sponsors_raw": "Reps. Gilliam, C. Mitchell and Schuessler",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Education and Public Works)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
    "bill_key": "126:H4599",
    "session": 126,
    "bill_no": "H4599",
@@ -9337,6 +9845,37 @@
    "ratification_no": null,
    "disposition": "Did not pass (session ended)",
    "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
+   "bill_key": "126:H4632",
+   "session": 126,
+   "bill_no": "H4632",
+   "title": "Childcare Facilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Cash Berry Childcare Safety and Quality Rating Act: safety and quality-rating rules for childcare facilities.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4632.htm",
+   "source": "pass1",
+   "sponsors": [
+    "Martin",
+    "M.M. Smith",
+    "Pope",
+    "C. Mitchell",
+    "Guffey"
+   ],
+   "sponsors_raw": "Reps. Martin, M.M. Smith, Pope, C. Mitchell and Guffey",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Education and Public Works)",
    "roll_call_count": 0,
    "passage_votes": [],
    "best_passage_vote": null
@@ -9847,6 +10386,32 @@
    "best_passage_vote": null
   },
   {
+   "bill_key": "126:H5794",
+   "session": 126,
+   "bill_no": "H5794",
+   "title": "Tax credit for child care expenses",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would make the existing child and dependent care income tax credit refundable \u2014 filed August 2026, the newest bill in this set.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "child care"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5794.htm",
+   "source": "pass1",
+   "sponsors": [
+    "J.L. Johnson"
+   ],
+   "sponsors_raw": "Rep. J.L. Johnson",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (House Ways and Means)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
    "bill_key": "126:S12",
    "session": 126,
    "bill_no": "S12",
@@ -10239,6 +10804,35 @@
    "best_passage_vote": null
   },
   {
+   "bill_key": "126:S47",
+   "session": 126,
+   "bill_no": "S47",
+   "title": "Childcare",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise the cap on the existing employer childcare-program tax credit and add a new income tax credit for childcare directors and staff (a pay supplement through the tax code).",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/47.htm",
+   "source": "pass1",
+   "sponsors": [
+    "Davis",
+    "Sutton",
+    "Devine",
+    "Graham"
+   ],
+   "sponsors_raw": "Senators Davis, Sutton, Devine and Graham",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (Senate Finance)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
+  },
+  {
    "bill_key": "126:S51",
    "session": 126,
    "bill_no": "S51",
@@ -10329,6 +10923,32 @@
     "motion": "(Public Service Authority RFP for V.C. Summer) 2nd Reading",
     "yes_pct": 1.0
    }
+  },
+  {
+   "bill_key": "126:S700",
+   "session": 126,
+   "bill_no": "S700",
+   "title": "Family Childcare Home",
+   "instrument_type": "General Bill",
+   "plain_topic": "Family childcare home regulation.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/700.htm",
+   "source": "pass1",
+   "sponsors": [
+    "Goldfinch"
+   ],
+   "sponsors_raw": "Senator Goldfinch",
+   "act_no": null,
+   "ratification_no": null,
+   "disposition": "Did not pass (session ended)",
+   "stage": "Died in its first committee (Senate Family and Veterans' Services)",
+   "roll_call_count": 0,
+   "passage_votes": [],
+   "best_passage_vote": null
   },
   {
    "bill_key": "126:S742",
@@ -10431,9 +11051,9 @@
    "bill_no": "S770",
    "title": "Childcare Assistance Program",
    "instrument_type": "General Bill",
-   "plain_topic": "Work requirements for federally funded childcare assistance.",
-   "theme": "Related context",
-   "relevance": "context",
+   "plain_topic": "The Childcare Assistance Program bill: would add employment requirements as a condition of federally funded childcare assistance.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
    "found_by_terms": [
     "housing",
     "childcare",

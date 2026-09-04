@@ -1,24 +1,28 @@
 {
  "issue": "south-carolina-03-rising-cost-of-living",
  "reviewer": "citizen-reviewer v2.3",
- "date": "2026-08-27",
+ "date": "2026-09-04",
  "verdict": "READY FOR HUMAN REVIEW",
- "reviewers_for_pr": ["Ryan Echols", "Jodi Stephens", "Ashley Lovell"],
+ "reviewers_for_pr": [
+  "Ryan Echols",
+  "Jodi Stephens",
+  "Ashley Lovell"
+ ],
  "checks": {
   "A1_no_directives": "PASS",
-  "A2_grouped_by_record_status": "PASS",
+  "A2_grouped_by_record_status": "PASS (v2.1: one section per proposal, reported cells labeled, record status inside; spotlights keep viability groups)",
   "A4_no_command_verbs": "PASS",
-  "A5_all_proposals_covered": "PASS",
+  "A5_all_proposals_covered": "PASS (four [P-...] sections + childcare labeled not-a-Phase-2-proposal)",
   "A6_no_worksheet_apparatus": "PASS",
-  "B1_plain_prose": "PASS (FK 11.6 front brief / 12.5 with spotlights; ~5-8 aspiration flagged to humans)",
+  "B1_plain_prose": "PASS (FK 11.4 front brief after sentence-splitting pass; ~5-8 aspiration flagged to humans)",
   "B2_explainers_and_glossaries": "PASS",
   "B3_bill_descriptions_plain": "PASS",
-  "C1_front_brief_2pp_html_and_word": "PASS (pages 1-2 of 4 in both renders)",
+  "C1_front_brief_2pp_html_and_word": "PASS (pages 1-2 of 5 in both renders; spotlights start page 3)",
   "C2_page1_essentials": "PASS",
-  "C3_detail_in_appendices": "PASS (A-I; 77-page print HTML)",
-  "D1_cited_bills_exist": "PASS (89 cited bill numbers resolve)",
-  "D2_no_invented_votes_or_parties": "PASS (all en-dash vote pairs matched; 24 headline claims matched per-bill; zero party labels)",
-  "D3_data_limits_stated": "PASS (Appendix F, 11 items)",
+  "C3_detail_in_appendices": "PASS (A-I; 81-page print HTML incl. childcare)",
+  "D1_cited_bills_exist": "PASS (261 cited bill ids resolve)",
+  "D2_no_invented_votes_or_parties": "PASS (all en-dash pairs matched incl. childcare set; 23-76 is the recorded H5118 non-concurrence roll call; zero party labels)",
+  "D3_data_limits_stated": "PASS (Appendix F, 12 items incl. final-grid provenance caveat and childcare origin)",
   "D4_inferred_committee_yeas_marked": "PASS (n/a - none exist in SC and none implied)",
   "E1_no_advice_verbs": "PASS (remaining 'must'/'urged' are descriptive of law/resolutions; one real fix logged)",
   "E2_no_party_blame": "PASS",
@@ -40,16 +44,29 @@
   "SC_no_full_state_rescrape": "PASS (one disclosed out-of-record check: Reg. 43-234/Doc. 5130 status)"
  },
  "fixes_logged": [
-  "Spotlights: 'Treasurers must accept...' -> 'would have barred treasurers from refusing...' (bills died; phrasing read as current law)",
-  "Curation plain topic for 123:H4940: advice verb removed at source and propagated",
-  "Glossaries tightened to hold 4-page total in both renders (no facts cut)",
-  "Combined utility-accountability vote corrected to the four utility bills (438-1); housing bill H4158 cited separately"
+  "v2.1: front brief trimmed to hold pages 1-2 after rework + childcare section (details preserved in spotlights/appendices)",
+  "v2.1: sentence-splitting pass, FK 15.1 -> 11.4, no facts changed",
+  "v2.1: Appendix F reviewer-note advice verb removed",
+  "v2.1: landscape/terrain counts recomputed for the 257-bill set (31 enacted, 201 first-committee deaths)",
+  "v2.0: Spotlights: 'Treasurers must accept...' -> 'would have barred treasurers from refusing...' (bills died; phrasing read as current law)",
+  "v2.0: Curation plain topic for 123:H4940: advice verb removed at source and propagated",
+  "v2.0: Glossaries tightened to hold 4-page total in both renders (no facts cut)",
+  "v2.0: Combined utility-accountability vote corrected to the four utility bills (438-1); housing bill H4158 cited separately"
  ],
  "items_for_human_review": [
+  "Final-grid provenance: source docx did not transfer into the workspace; reported cells carried from the Phase 2 grid (verbatim per the slow-wage-growth final grid) - confirm against the original, incl. any structural changes to the proposal set",
+  "Child care assistance: presented as a record scan for a reported legislator-discussion topic, labeled not-a-Phase-2-proposal; confirm the descriptive framing",
   "FK 11.6 vs ~grade 5-8 aspiration (best in product line; simplification would cut facts)",
   "126th session treated as concluded as of 2026-08-27",
   "Graduation-requirement in-force claim rests on State Register/regulation (Appendix F item 8)",
   "Party-blind by design; ballot PDFs fetchable on demand",
   "2020 market-reform study committee report not in record"
- ]
+ ],
+ "version_reviewed": "citizen-v2.1 (final-grid rework + childcare topic; v2.0 reviewed 2026-08-27)",
+ "independent_fact_check": {
+  "date": "2026-09-04",
+  "result": "NO DISCREPANCIES",
+  "method": "Live scstatehouse.gov bill histories/ratified texts (31 headline bills: all act numbers + all cited roll calls), 17 committee-stop/conference claims, live enacted Part IB pages (9 provisos), current SC Code (9 sections), State Register for Reg. 43-234",
+  "report": "working/south-carolina/rising-cost-of-living/independent-fact-check-2026-09-04.md"
+ }
 }

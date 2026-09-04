@@ -13,21 +13,22 @@
   "Income and sales tax relief",
   "Housing costs and rent",
   "Home and property insurance costs",
+  "Child care costs and assistance",
   "Related context"
  ],
  "counts": {
   "total_pass1": 6814,
-  "kept": 256,
+  "kept": 271,
   "by_relevance": {
-   "adjacent": 119,
+   "adjacent": 136,
    "core": 121,
-   "context": 16
+   "context": 14
   },
   "by_theme": {
    "Housing costs and rent": 45,
    "Property taxes on homes": 67,
    "Home and property insurance costs": 10,
-   "Related context": 16,
+   "Related context": 14,
    "Money skills in school": 9,
    "Opening the electricity market to competition": 7,
    "How electric and gas rates are watched and set": 22,
@@ -35,9 +36,10 @@
    "Santee Cooper, the state-owned utility": 11,
    "Income and sales tax relief": 16,
    "Taxes on vehicles and boats": 13,
-   "Utility bills, fees, and shutoffs": 19
+   "Utility bills, fees, and shutoffs": 19,
+   "Child care costs and assistance": 17
   },
-  "excluded": 6560
+  "excluded": 6546
  },
  "exclusion_rules": [
   "Instrument is an honorary/ceremonial resolution (House, Senate, or Concurrent Resolution) \u2014 congratulations, memorials, and awareness days that only mention housing, insurance, utility, or tax language.",
@@ -398,7 +400,7 @@
    "relevance": "core",
    "found_by_terms": [],
    "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4149.htm",
-   "source": "universe_hand_scan (matched 'personal finance' in full text; no Pass 1 term hit)"
+   "source": "universe_hand_scan (personal-finance full-text scan)"
   },
   {
    "bill_key": "123:H4153",
@@ -907,6 +909,23 @@
    "source": "pass1"
   },
   {
+   "bill_key": "123:S291",
+   "session": 123,
+   "bill_no": "S291",
+   "title": "Department of Early Development and Education",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a Department of Early Development and Education consolidating early-childhood programs.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "child care",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/291.htm",
+   "source": "pass1"
+  },
+  {
    "bill_key": "123:S332",
    "session": 123,
    "bill_no": "S332",
@@ -988,6 +1007,23 @@
     "rent"
    ],
    "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/585.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "123:S595",
+   "session": 123,
+   "bill_no": "S595",
+   "title": "Childcare facilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Background-check requirements for childcare facility staff (became law).",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "child care",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/595.htm",
    "source": "pass1"
   },
   {
@@ -1240,6 +1276,22 @@
    "source": "pass1"
   },
   {
+   "bill_key": "124:H3079",
+   "session": 124,
+   "bill_no": "H3079",
+   "title": "Childcare",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have created a study committee on the statewide availability of high-quality, affordable childcare.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3079.htm",
+   "source": "pass1"
+  },
+  {
    "bill_key": "124:H3108",
    "session": 124,
    "bill_no": "H3108",
@@ -1265,7 +1317,7 @@
    "relevance": "core",
    "found_by_terms": [],
    "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3116.htm",
-   "source": "universe_hand_scan (matched 'personal finance' in full text; no Pass 1 term hit)"
+   "source": "universe_hand_scan (personal-finance full-text scan)"
   },
   {
    "bill_key": "124:H3194",
@@ -2264,6 +2316,22 @@
    "source": "pass1"
   },
   {
+   "bill_key": "125:H3745",
+   "session": 125,
+   "bill_no": "H3745",
+   "title": "Childcare Facilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Childcare facility regulation changes.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3745.htm",
+   "source": "pass1"
+  },
+  {
    "bill_key": "125:H3778",
    "session": 125,
    "bill_no": "H3778",
@@ -2380,6 +2448,22 @@
    "source": "pass1"
   },
   {
+   "bill_key": "125:H4023",
+   "session": 125,
+   "bill_no": "H4023",
+   "title": "First Steps",
+   "instrument_type": "General Bill",
+   "plain_topic": "Restructured local First Steps early-childhood partnership boards (became law).",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "child care",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4023.htm",
+   "source": "pass1"
+  },
+  {
    "bill_key": "125:H4158",
    "session": 125,
    "bill_no": "H4158",
@@ -2492,6 +2576,21 @@
    "source": "pass1"
   },
   {
+   "bill_key": "125:H4993",
+   "session": 125,
+   "bill_no": "H4993",
+   "title": "Childcare Advance Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Childcare Advance Act: would let taxpayers defer part of their income tax against eligible childcare expenses.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4993.htm",
+   "source": "pass1"
+  },
+  {
    "bill_key": "125:H5014",
    "session": 125,
    "bill_no": "H5014",
@@ -2558,6 +2657,19 @@
    ],
    "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5118.htm",
    "source": "pass1"
+  },
+  {
+   "bill_key": "125:H5205",
+   "session": 125,
+   "bill_no": "H5205",
+   "title": "High-Quality Prekindergarten Expansion Program",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a High-Quality Prekindergarten Expansion grant program at the Department of Education.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5205.htm",
+   "source": "universe_hand_scan (childcare title/full-text scan; no Pass 1 term hit)"
   },
   {
    "bill_key": "125:H5264",
@@ -2822,6 +2934,21 @@
    "source": "pass1"
   },
   {
+   "bill_key": "125:S862",
+   "session": 125,
+   "bill_no": "S862",
+   "title": "DSS - Childcare Center Caregiver",
+   "instrument_type": "General Bill",
+   "plain_topic": "Caregiver education and preservice-training requirements for childcare centers (became law).",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/862.htm",
+   "source": "pass1"
+  },
+  {
    "bill_key": "125:S891",
    "session": 125,
    "bill_no": "S891",
@@ -2870,6 +2997,23 @@
     "property tax"
    ],
    "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/943.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "125:S946",
+   "session": 125,
+   "bill_no": "S946",
+   "title": "Child Care Regulations",
+   "instrument_type": "General Bill",
+   "plain_topic": "Childcare regulations modernization: passed the Senate 45-0 and the House 105-0 in differing versions, then died in conference at session's end.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "rent",
+    "child care"
+   ],
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/946.htm",
    "source": "pass1"
   },
   {
@@ -3453,6 +3597,22 @@
    "source": "pass1"
   },
   {
+   "bill_key": "126:H4015",
+   "session": 126,
+   "bill_no": "H4015",
+   "title": "Childcare",
+   "instrument_type": "General Bill",
+   "plain_topic": "House companion: bigger employer childcare credit plus a new credit for childcare directors and staff.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "child care"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4015.htm",
+   "source": "pass1"
+  },
+  {
    "bill_key": "126:H4060",
    "session": 126,
    "bill_no": "H4060",
@@ -3538,9 +3698,9 @@
    "bill_no": "H4394",
    "title": "Childcare",
    "instrument_type": "General Bill",
-   "plain_topic": "Workforce-development childcare stipends for unemployed parents (childcare as a household cost).",
-   "theme": "Related context",
-   "relevance": "context",
+   "plain_topic": "Would create workforce-development childcare stipends, through DSS and the state workforce agency, for unemployed parents and caregivers of children under 12.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
    "found_by_terms": [
     "childcare",
     "rent"
@@ -3598,6 +3758,21 @@
    "source": "pass1"
   },
   {
+   "bill_key": "126:H4587",
+   "session": 126,
+   "bill_no": "H4587",
+   "title": "Military Installation Childcare",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt military-installation childcare centers from certain state requirements.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4587.htm",
+   "source": "pass1"
+  },
+  {
    "bill_key": "126:H4599",
    "session": 126,
    "bill_no": "H4599",
@@ -3642,6 +3817,22 @@
     "rent"
    ],
    "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4608.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:H4632",
+   "session": 126,
+   "bill_no": "H4632",
+   "title": "Childcare Facilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Cash Berry Childcare Safety and Quality Rating Act: safety and quality-rating rules for childcare facilities.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare",
+    "rent"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4632.htm",
    "source": "pass1"
   },
   {
@@ -3895,6 +4086,21 @@
    "source": "pass1"
   },
   {
+   "bill_key": "126:H5794",
+   "session": 126,
+   "bill_no": "H5794",
+   "title": "Tax credit for child care expenses",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would make the existing child and dependent care income tax credit refundable \u2014 filed August 2026, the newest bill in this set.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "child care"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5794.htm",
+   "source": "pass1"
+  },
+  {
    "bill_key": "126:S12",
    "session": 126,
    "bill_no": "S12",
@@ -4072,6 +4278,21 @@
    "source": "pass1"
   },
   {
+   "bill_key": "126:S47",
+   "session": 126,
+   "bill_no": "S47",
+   "title": "Childcare",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would raise the cap on the existing employer childcare-program tax credit and add a new income tax credit for childcare directors and staff (a pay supplement through the tax code).",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/47.htm",
+   "source": "pass1"
+  },
+  {
    "bill_key": "126:S51",
    "session": 126,
    "bill_no": "S51",
@@ -4087,6 +4308,21 @@
     "utility rate"
    ],
    "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/51.htm",
+   "source": "pass1"
+  },
+  {
+   "bill_key": "126:S700",
+   "session": 126,
+   "bill_no": "S700",
+   "title": "Family Childcare Home",
+   "instrument_type": "General Bill",
+   "plain_topic": "Family childcare home regulation.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "childcare"
+   ],
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/700.htm",
    "source": "pass1"
   },
   {
@@ -4126,9 +4362,9 @@
    "bill_no": "S770",
    "title": "Childcare Assistance Program",
    "instrument_type": "General Bill",
-   "plain_topic": "Work requirements for federally funded childcare assistance.",
-   "theme": "Related context",
-   "relevance": "context",
+   "plain_topic": "The Childcare Assistance Program bill: would add employment requirements as a condition of federally funded childcare assistance.",
+   "theme": "Child care costs and assistance",
+   "relevance": "adjacent",
    "found_by_terms": [
     "housing",
     "childcare",

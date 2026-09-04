@@ -1,6 +1,6 @@
 # Appendix E — Bill path details
 
-Milestone paths for the bills the front brief leans on most. Dates and actions are from the official bill histories; routine steps (sponsor additions, scrivener corrections) are omitted.
+Milestone paths for the bills the front brief leans on most (incl. the childcare near-miss S946 and the stipend bill H4394). Dates and actions are from the official bill histories; routine steps (sponsor additions, scrivener corrections) are omitted.
 
 ## 2019-20 H4260 — SC Ratepayer Protection Act
 
@@ -401,4 +401,34 @@ Milestone paths for the bills the front brief leans on most. Dates and actions a
 |---|---|---|
 | 1/27/2026 | House | Introduced and read first time |
 | 1/27/2026 | House | Referred to Committee on Ways and Means |
+
+## 2023-24 S946 — Child Care Regulations
+
+*Childcare regulations modernization: passed the Senate 45-0 and the House 105-0 in differing versions, then died in conference at session's end.* — Passed both chambers; died in conference
+
+| Date | Chamber | Action |
+|---|---|---|
+| 1/10/2024 | Senate | Introduced and read first time |
+| 1/10/2024 | Senate | Referred to Committee on Family and Veterans' Services |
+| 2/14/2024 | Senate | Committee report: Favorable with amendment Family and Veterans' Services |
+| 2/21/2024 | Senate | Read second time |
+| 2/21/2024 | Senate | Roll call Ayes-45 Nays-0 |
+| 2/22/2024 | Senate | Read third time and sent to House |
+| 2/27/2024 | House | Introduced and read first time |
+| 2/27/2024 | House | Referred to Committee on Education and Public Works |
+| 4/25/2024 | House | Committee report: Favorable with amendment Education and Public Works |
+| 5/8/2024 | House | Read second time |
+| 5/8/2024 | House | Roll call Yeas-105 Nays-0 |
+| 5/9/2024 | House | Read third time and returned to Senate with amendments |
+| 5/9/2024 | Senate | Non-concurrence in House amendment |
+| 5/9/2024 | House | House insists upon amendment and conference committee appointed Reps. Erickson, Hartnett, JL Johnson |
+
+## 2025-26 H4394 — Childcare
+
+*Would create workforce-development childcare stipends, through DSS and the state workforce agency, for unemployed parents and caregivers of children under 12.* — Died in its first committee (House Ways and Means)
+
+| Date | Chamber | Action |
+|---|---|---|
+| 4/23/2025 | House | Introduced and read first time |
+| 4/23/2025 | House | Referred to Committee on Ways and Means |
 
