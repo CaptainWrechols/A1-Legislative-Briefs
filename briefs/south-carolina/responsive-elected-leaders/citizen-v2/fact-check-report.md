@@ -97,6 +97,32 @@ that could over-read the record):
    House roll calls. Reworded everywhere to "dozens of amendments were
    tabled (28 on roll-call votes, 55 tabling votes in all)" or equivalent.
 
+## Addendum (2026-09-04, state-vs-local venue review)
+
+A follow-up review checked the packet for places where "nothing has been
+tried" language could hide county- or district-level activity or authority.
+Four clarifications were added (no record claims changed), each grounded
+before use:
+
+- **S.C. Code Section 4-9-90** (fetched from the official code site):
+  county councils must reapportion their own council districts after each
+  federal decennial census — supporting the new "county and city lines are
+  drawn locally" language.
+- **Local school-board reapportionment acts** (from the certified
+  universe): roughly a dozen enacted after the 2020 census (Abbeville,
+  Hampton, Cherokee, Union, Greenwood 50, Aiken, Spartanburg 5 and 7,
+  Florence 3, Kershaw, Saluda, Anderson) — supporting the "school-board
+  lines usually move through separate local acts" language; these were
+  always excluded from the 21-bill commission count as local housekeeping.
+- **S.C. Code Section 7-13-35** (official code site): election authorities
+  must publish official election notices (registration deadlines,
+  precincts, polling places) — supporting the tightened voter-information
+  claim ("election offices already publish the official basics; what no
+  bill proposes is a neutral guide to candidates and issues").
+- **District curriculum authority:** state law sets required minimums and
+  the State Board adopts standards; districts control offerings beyond
+  them — supporting the new "district lever" note in the civics spotlight.
+
 ## Scope notes
 
 - The two constituent proposals' frequency, consensus, and concern lines
