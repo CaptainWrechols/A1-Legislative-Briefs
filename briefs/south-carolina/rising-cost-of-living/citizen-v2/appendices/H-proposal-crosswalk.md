@@ -1,18 +1,23 @@
 # Appendix H — Proposal crosswalk
 
-The four Phase 2 constituent proposals for this issue, matched against the
-2019–2026 legislative record. The proposals and their consensus/tradeoff
-notes are **Forum process input** from the Community Conversations dataset
-("SC1 – Phase 2 Constituent Proposals – Grid View for Legislators v2"),
-labeled [P-…] — they are what participants said, not verified facts. The
-record findings below are from the curated evidence pack.
+The proposals in the final grid ("SC1 – Rising Cost of Living", 2026-09-04),
+matched against the 2019–2026 legislative record. The proposals and their
+frequency/consensus/tradeoff lines and legislator notes are **Forum process
+input**, labeled [P-…] — they are what participants and the feedback grid
+reported, not verified facts. (Provenance caveat: the final-grid document did
+not transfer into this workspace; the cells below are the Phase 2 grid lines
+for this issue, which the final grids carry forward verbatim per the
+slow-wage-growth final grid — see Appendix F item 11.) The record findings
+are from the curated evidence pack. A closing addendum covers child care
+assistance, a legislator-discussion topic outside the grid.
 
 ## [P-utility-transparency] Greater transparency into utility rates and legislator/utility financial ties
 
-- **What participants said (process input):** open up how utility rates are
-  set and disclose financial ties between legislators and utilities. Raised
-  at two of four in-person events; high agreement when discussed; few
-  tradeoffs raised beyond the scope of disclosure.
+- **Reported in the grid (process input):** Frequency — "Medium: Came up in
+  two of four in-person events." Trade-offs/concerns — "Participants broadly
+  agreed that consumers feel like the utility company has all the power."
+  Consensus — "High: Broad agreement when discussed." Legislator note —
+  "They already report on SEI but yes."
 - **Record coverage:** substantial attempts, partial enactment. 24 matched
   bills.
 - **Closest match to the financial-ties concern:** 2019-20 H4260, the
@@ -27,20 +32,26 @@ record findings below are from the curated evidence pack.
   elections restarted (Acts 74/75 of 2025); public-witness rights and
   rate-case schedules (Act 41 of 2025); PSC screening extension (Act 181 of
   2020).
-- **Gap the record shows:** no bill adds a utility-specific financial
-  disclosure duty for *legislators*; annual Statements of Economic
-  Interests exist under the ethics law but are not utility-specific. Every
-  filed approach regulated the utilities' side of the relationship.
+- **Gap the record shows (and how it meets the SEI note):** the grid's
+  legislator note is directionally consistent with the record — annual
+  Statements of Economic Interests do exist under the ethics law — but they
+  are not utility-specific, and no bill adds a utility-specific financial
+  disclosure duty for *legislators*. Every filed approach regulated the
+  utilities' side of the relationship (H4260's gift and contribution bans).
 - **Venue:** rates are set case-by-case by the PSC; the General Assembly
   controls the PSC's makeup, procedures, and utility conduct rules; ethics
   disclosure is a separate title of state law.
 
-## [P-utility-competition] Open the utility market / end monopoly / lower competition barriers
+## [P-utility-competition] Open the utility market / lower barriers to competition (end the monopoly)
 
-- **What participants said (process input):** allow competition by ending
-  monopoly service territories or lowering entry barriers. Raised at two of
-  four events; mixed consensus — some believed a free market could lower
-  prices, others questioned whether the grid could support it.
+- **Reported in the grid (process input):** Frequency — "Medium: Came up in
+  two of four in-person events." Trade-offs/concerns — "Some worried that a
+  free market was impractical given the infrastructure requirements of
+  running a utility." Consensus — "Mixed: Some supported the idea that a
+  free market could lower prices, while others questioned the feasibility."
+  Legislator note — "Non starter especially with the merger of Dominion and
+  Nextera" (an unverified grid comment; no merger appears in, or is checked
+  against, this legislative record).
 - **Record coverage:** one enacted study; every operative bill died in first
   committee without a vote. 6 matched bills.
 - **The study:** Act 187 of 2020 (H4940) created the Electricity Market
@@ -58,11 +69,13 @@ record findings below are from the curated evidence pack.
 
 ## [P-financial-education] Personal budgeting and financial education
 
-- **What participants said (process input):** teach personal budgeting and
-  financial skills so households can manage rising costs. Raised at one
-  event (Columbia); mixed consensus — agreement that financial skills
-  matter, divergence on implementation and whether it is the state's role;
-  participants also noted education does not lower prices.
+- **Reported in the grid (process input):** Frequency — "Low: Columbia."
+  Trade-offs/concerns — "Concerns about how such a program should be
+  implemented and whether it is the state's responsibility." Consensus —
+  "Mixed: Agreement that learning financial responsibility is important but
+  divergence over how to best accomplish that goal." Legislator note —
+  "This is too broad? Create a subject matter to be taught in schools?
+  Politicians would love this but it has to be tied to a specific action?"
 - **Record coverage:** enacted — via budget proviso and regulation, not a
   bill. 9 matched bills.
 - **The bills:** graduation-requirement bills 2019-20 S15/H4149 and 2021-22
@@ -82,12 +95,12 @@ record findings below are from the curated evidence pack.
 - **Venue:** split — the graduation requirement lives in State Board
   regulation; the statute and any funding live with the General Assembly.
 
-## [P-reduce-property-vehicle-taxes] Reduce or eliminate property and vehicle taxes
+## [P-reduce-property-vehicle-taxes] Reduce / eliminate property and vehicle taxes
 
-- **What participants said (process input):** reduce or eliminate property
-  and vehicle taxes to lower household costs. From the legislator feedback
-  grid (lighter Phase 2 frequency); the flagged tradeoff is replacing the
-  revenue, since schools and local government run on property taxes.
+- **Reported in the grid (process input):** listed in the grid's
+  legislator-feedback section, without Phase 2 frequency/consensus cells;
+  the flagged tradeoff is replacing the revenue, since schools and local
+  government run on property taxes.
 - **Record coverage:** the most-filed lane — 48 matched bills (80 counting
   the adjacent income/sales-tax and business-property bills) — with the
   narrowest wins.
@@ -113,3 +126,35 @@ record findings below are from the curated evidence pack.
 - **Venue:** property and vehicle taxes are local revenue under state rules;
   changing them is a General Assembly lever with direct local-budget
   consequences.
+
+## Addendum: child care assistance (legislator-discussion topic, not a Phase 2 proposal)
+
+- **How it entered this packet (process input):** a 2026-09-04 request tied
+  to reported discussions among sitting legislators about the possibility of
+  some sort of child care assistance. The discussions themselves are not
+  part of the legislative record; the record scan is at
+  `working/south-carolina/rising-cost-of-living/childcare-assistance-scan.md`.
+- **Record coverage:** 17 bills in the childcare theme. Three acts, all
+  regulation/governance (S595, Act 52 of 2019; H4023, Act 81 of 2023; S862,
+  Act 216 of 2024). One near-miss: S946 (2024) passed the Senate 45–0 and
+  the House 105–0 in differing versions and died in conference.
+- **Assistance designs — filed, never voted on:** stipends for unemployed
+  parents (2025-26 H4394); employer-credit expansion plus a childcare-worker
+  credit (2025-26 S47/H4015); a refundable child-and-dependent-care credit
+  (2025-26 H5794, filed August 2026); the Childcare Advance deferral
+  (2023-24 H4993); pre-K expansion grants (2023-24 H5205). All died in House
+  Ways and Means or Senate Finance — the same money committees that hold the
+  homestead and vehicle-tax bills. S770 (2025-26) runs the other direction
+  (work requirements on federal assistance).
+- **What the record indicates (descriptive):** filings are accelerating
+  (three assistance designs in the 126th, one filed August 2026); every
+  design extends the two childcare tax credits already in statute
+  (§12-6-3440, §12-6-3380) — the tax-code venue where this record's enacted
+  cost relief runs; S946 shows childcare bills pass unanimously when they
+  reach a floor; and no direct-payment, non-tax-code state subsidy has ever
+  been filed. Committee stops carry no vote counts (none exist in SC), so
+  "never voted on" means no recorded vote at any stage.
+- **Venue:** the existing assistance program is federal voucher money run
+  through DSS under one-year budget provisos (38.17/38.28); the tax credits
+  and any new program are General Assembly levers; pre-K (Full-Day 4K)
+  expands through the budget each year.

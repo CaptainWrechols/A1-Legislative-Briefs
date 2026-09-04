@@ -1,8 +1,9 @@
 # Reality map — Rising Cost of Living in South Carolina (internal)
 
 Reality Mapper v2.2 output for `south-carolina-03-rising-cost-of-living`.
-Source: `evidence-pack.json` (256 curated bills of 6,814 Pass 1 hits plus 2
-universe adds; policy set = 240 core + adjacent). Internal document; adult
+Source: `evidence-pack.json` (271 curated bills of 6,814 Pass 1 hits plus 3
+universe adds; policy set = 257 core + adjacent; childcare theme added
+2026-09-04). Internal document; adult
 reading level is fine here. Every pattern cites bill keys from the pack.
 Committee outcomes are published without tallies in South Carolina — no
 committee vote counts exist and none may be implied downstream.
@@ -47,8 +48,8 @@ support but didn't finish"), **rarely_moved** ("Rarely moved before").
 - **Four committees hold this issue.** Utility bills route to House Labor,
   Commerce and Industry and Senate **Judiciary** (in South Carolina, utility
   law goes to Senate Judiciary, not a commerce committee); tax bills route to
-  House Ways and Means and Senate Finance. Of 240 policy bills, 200 never
-  left their first committee, and South Carolina publishes no committee vote
+  House Ways and Means and Senate Finance. Of 257 policy bills, 201 died
+  in their first committee, and South Carolina publishes no committee vote
   counts — so for five of every six bills there is no recorded vote of any
   kind.
 - **Senate Judiciary is where House-passed utility bills stop.** Four
@@ -241,6 +242,50 @@ support but didn't finish"), **rarely_moved** ("Rarely moved before").
   replacement revenue would work — the enacted S866 model uses a local sales
   tax swap, the citizens' concern; why House Ways and Means has not taken up
   even the Senate-passed S768 (no committee record exists).
+
+## 3c) Legislator-discussion topic: child care assistance (added 2026-09-04; not a Phase 2 proposal)
+
+Requested in connection with reported discussions among sitting legislators
+about possible child care assistance. Full scan:
+`childcare-assistance-scan.md` (this directory). Record shape, descriptive:
+
+- **What passes is regulation and governance, never assistance.** Three acts:
+  background checks for childcare staff (123:S595, Act 52 of 2019, 39–0 and
+  100–1), First Steps board restructuring (125:H4023, Act 81 of 2023, 41–0
+  and 107–0), caregiver training requirements (125:S862, Act 216 of 2024).
+- **The near-miss:** 125:S946 (childcare regulations modernization) passed
+  the Senate 45–0 and the House 105–0 in differing versions and died in
+  conference at the 2024 session's end — the same conference-timing stop
+  that preceded other later enactments in this record.
+- **Every assistance/affordability design died in a money committee without
+  a vote:** workforce childcare stipends for unemployed parents (126:H4394,
+  House Ways and Means); a bigger employer childcare credit plus a new
+  childcare-worker credit (126:S47 / 126:H4015, Senate Finance / House Ways
+  and Means); making the child and dependent care credit refundable
+  (126:H5794 — filed August 2026, the newest bill in the whole set); the
+  Childcare Advance Act deferral (125:H4993); pre-K expansion grants
+  (125:H5205). The conditions design runs the other way: 126:S770 would add
+  work requirements to federally funded assistance (first committee).
+- **The base machinery already exists:** two childcare tax credits in
+  statute (employer credit §12-6-3440; child & dependent care credit
+  §12-6-3380 — the filed bills extend, not invent, this machinery); the
+  assistance program itself is federal money run through DSS, regulated
+  annually by proviso (DSS: Child Care Voucher, 38.18 FY 2021-22 then 38.17
+  every cycle; DSS: Childcare Provider Fraud, 38.28, new FY 2026-27); state
+  pre-K (Full-Day 4K / CERDEP) expands through provisos every cycle.
+- **Signals distinguishing this from the zero-vote lanes** (descriptive,
+  not advice): filings are accelerating (three childcare-assistance designs
+  in the 126th, including one filed in August 2026); every design uses the
+  tax code — the venue where this record's cost-relief measures do pass
+  (S1087, H4216, S866); S946 shows childcare bills win unanimous floor votes
+  when they reach the floor; and both directions (expansion and conditions)
+  are filing, which reads as an active, unsettled lane rather than a dead
+  one. What has never been filed: any direct-payment (non-tax-code) state
+  subsidy to families or providers, and any state-funded expansion beyond
+  the federal voucher money.
+- **Certainty:** medium-high for the committee pattern (8 assistance bills,
+  zero votes); the "acceleration" signal rests on one session and one
+  August 2026 filing.
 
 ## 4) Recent enactments watchlist (126th session, 2025–2026)
 

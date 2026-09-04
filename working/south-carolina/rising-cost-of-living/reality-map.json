@@ -2,7 +2,7 @@
  "issue": "south-carolina-03-rising-cost-of-living",
  "generated_by": "reality-mapper v2.2",
  "generated_at": "2026-08-27T17:27:22.100409+00:00",
- "source": "evidence-pack.json (256 curated bills; policy set 240)",
+ "source": "evidence-pack.json (271 curated bills; policy set 257; childcare theme added 2026-09-04)",
  "baskets": {
   "often_moved": "Often moved before \u2014 similar ideas often became law or cleared both chambers",
   "unfinished": "Got support but didn't finish \u2014 majority floor votes or both-chamber passage without enactment",
@@ -898,5 +898,15 @@
    "S12 25-18 as a joint-ownership signal (single vote, later recommitted)",
    "local-bill pattern (H4187/H5014)"
   ]
- }
+ },
+ "legislator_discussion_topics": [
+  {
+   "id": "childcare-assistance",
+   "status": "not a Phase 2 proposal; reported legislator discussions (2026-09-04)",
+   "headline": "Regulation passes (Acts 52 of 2019, 81 of 2023, 216 of 2024; S946 passed 45-0 and 105-0 and died in conference); every assistance design (stipends H4394, employer/worker credits S47/H4015, refundable credit H5794 filed Aug 2026, deferral H4993, pre-K grants H5205) died in a money committee without a vote; S770 would add work requirements instead.",
+   "machinery": "Two childcare tax credits already in statute (12-6-3440, 12-6-3380); federal voucher program via DSS under provisos 38.17/38.28; Full-Day 4K/CERDEP via provisos each cycle.",
+   "signals": "Filings accelerating (three assistance designs in the 126th incl. one filed Aug 2026); all designs use the tax code, the venue where this record's cost relief passes; S946 shows unanimous floor viability; never filed: direct-payment non-tax-code subsidy.",
+   "scan": "working/south-carolina/rising-cost-of-living/childcare-assistance-scan.md"
+  }
+ ]
 }

@@ -1,6 +1,6 @@
 # Appendix A — Bills overview
 
-One row per bill in the curated set (256 bills, hand-reviewed from 6,814 keyword hits plus two universe-scan additions). *Tier*: Core bills are the headline set for the four citizen proposals; Adjacent bills are cost-of-living bills outside them; Context bills are kept for audit only. *Result*: what finally happened. Party labels are intentionally not shown (see Appendix F).
+One row per bill in the curated set (271 bills, hand-reviewed from 6,814 keyword hits plus three universe-scan additions). *Tier*: Core bills are the headline set for the four citizen proposals; Adjacent bills are cost-of-living bills outside them; Context bills are kept for audit only. *Result*: what finally happened. Party labels are intentionally not shown (see Appendix F).
 
 ## How electric and gas rates are watched and set
 
@@ -319,6 +319,30 @@ One row per bill in the curated set (256 bills, hand-reviewed from 6,814 keyword
 
 <!-- pdf-page-break -->
 
+## Child care costs and assistance
+
+| Session | Bill | What it tried (plain words) | Tier | Result | Where it stopped or finished |
+|---|---|---|---|---|---|
+| 2019-20 | S291 | Would have created a Department of Early Development and Education consolidating early-childhood programs. | Adjacent | Did not pass | Died in its first committee (Senate General) |
+| 2019-20 | S595 | Background-check requirements for childcare facility staff (became law). | Adjacent | Became law | Became law (Act 52) |
+| 2021-22 | H3079 | Would have created a study committee on the statewide availability of high-quality, affordable childcare. | Adjacent | Did not pass | Died in its first committee (House Medical, Military, Public and Municipal Affairs) |
+| 2023-24 | H3745 | Childcare facility regulation changes. | Adjacent | Did not pass | Advanced in its own chamber; never finished passage there |
+| 2023-24 | H4023 | Restructured local First Steps early-childhood partnership boards (became law). | Adjacent | Became law | Became law (Act 81) |
+| 2023-24 | H4993 | The Childcare Advance Act: would let taxpayers defer part of their income tax against eligible childcare expenses. | Adjacent | Did not pass | Died in its first committee (House Ways and Means) |
+| 2023-24 | H5205 | Would have created a High-Quality Prekindergarten Expansion grant program at the Department of Education. | Adjacent | Did not pass | Died in its first committee (House Ways and Means) |
+| 2023-24 | S862 | Caregiver education and preservice-training requirements for childcare centers (became law). | Adjacent | Became law | Became law (Act 216) |
+| 2023-24 | S946 | Childcare regulations modernization: passed the Senate 45-0 and the House 105-0 in differing versions, then died in conference at session's end. | Adjacent | Did not pass | Passed both chambers; died in conference |
+| 2025-26 | H4015 | House companion: bigger employer childcare credit plus a new credit for childcare directors and staff. | Adjacent | Did not pass | Died in its first committee (House Ways and Means) |
+| 2025-26 | H4394 | Would create workforce-development childcare stipends, through DSS and the state workforce agency, for unemployed parents and caregivers of children under 12. | Adjacent | Did not pass | Died in its first committee (House Ways and Means) |
+| 2025-26 | H4587 | Would exempt military-installation childcare centers from certain state requirements. | Adjacent | Did not pass | Died in its first committee (House Education and Public Works) |
+| 2025-26 | H4632 | The Cash Berry Childcare Safety and Quality Rating Act: safety and quality-rating rules for childcare facilities. | Adjacent | Did not pass | Died in its first committee (House Education and Public Works) |
+| 2025-26 | H5794 | Would make the existing child and dependent care income tax credit refundable — filed August 2026, the newest bill in this set. | Adjacent | Did not pass | Died in its first committee (House Ways and Means) |
+| 2025-26 | S47 | Would raise the cap on the existing employer childcare-program tax credit and add a new income tax credit for childcare directors and staff (a pay supplement through the tax code). | Adjacent | Did not pass | Died in its first committee (Senate Finance) |
+| 2025-26 | S700 | Family childcare home regulation. | Adjacent | Did not pass | Died in its first committee (Senate Family and Veterans' Services) |
+| 2025-26 | S770 | The Childcare Assistance Program bill: would add employment requirements as a condition of federally funded childcare assistance. | Adjacent | Did not pass | Died in its first committee (Senate Family and Veterans' Services) |
+
+<!-- pdf-page-break -->
+
 ## Related context
 
 | Session | Bill | What it tried (plain words) | Tier | Result | Where it stopped or finished |
@@ -336,7 +360,5 @@ One row per bill in the curated set (256 bills, hand-reviewed from 6,814 keyword
 | 2025-26 | H3812 | Commercial Property Assessed Clean Energy (C-PACE) financing. | Context | Did not pass | Died in its first committee (House Labor, Commerce and Industry) |
 | 2025-26 | H3861 | Short-term rental regulation. | Context | Did not pass | Died in its first committee (House Medical, Military, Public and Municipal Affairs) |
 | 2025-26 | H3933 | Public service district board restructuring (became law; local special districts). | Context | Became law | Became law (Act 10) |
-| 2025-26 | H4394 | Workforce-development childcare stipends for unemployed parents (childcare as a household cost). | Context | Did not pass | Died in its first committee (House Ways and Means) |
 | 2025-26 | S442 | Short-term rental regulation. | Context | Did not pass | Died in its first committee (Senate Judiciary) |
-| 2025-26 | S770 | Work requirements for federally funded childcare assistance. | Context | Did not pass | Died in its first committee (Senate Family and Veterans' Services) |
 

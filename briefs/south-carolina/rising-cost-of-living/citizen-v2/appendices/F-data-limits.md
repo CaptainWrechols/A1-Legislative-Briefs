@@ -7,14 +7,16 @@ front brief, the spotlights, and every appendix.
    cost-of-living bills.** Discovery ran the official full-text search plus a
    title/summary scan of the certified 123rd–126th universe on the issue
    config's 26 search terms, keeping all 6,814 hits. Hand review then kept
-   256 bills (121 core / 119 adjacent / 16 context). Two financial-education
-   bills that matched no search term (2019-20 H4149, 2021-22 H3116) were
-   found by a hand full-text scan for "personal finance" across the whole
-   universe and added with provenance marked. A relevant bill using none of
-   the search terms and not caught by the hand scans would be missed.
+   271 bills (121 core / 136 adjacent / 14 context). Three bills that
+   matched no search term (2019-20 H4149 and 2021-22 H3116, personal-finance
+   scan; 2023-24 H5205, childcare scan) were found by hand full-text scans
+   across the whole universe and added with provenance marked. A relevant
+   bill using none of the search terms and not caught by the hand scans
+   would be missed.
 2. **This is the broadest of the four South Carolina issues** — housing,
-   utilities, taxes, and insurance in one set. The exclusion rules in
-   `curation-map.json` document what was pruned: 'rent' matching
+   utilities, taxes, and insurance in one set, plus (from 2026-09-04) a
+   childcare theme for the legislator-discussion topic. The exclusion rules
+   in `curation-map.json` document what was pruned: 'rent' matching
    'pa**rent**al' (family-law bills), 'utility' matching utility-terrain
    vehicles, health/dental/life insurance mandates, industry tax bills,
    water-system ownership disputes, and similar cross-topic noise.
@@ -50,7 +52,19 @@ front brief, the spotlights, and every appendix.
     carries a cost estimate in this dataset; the packet therefore makes no
     claims about what any proposal would cost or save.
 11. **Constituent proposals are process input.** The four [P-…] proposals
-    and their consensus/tradeoff notes come from the Phase 2 Community
-    Conversations dataset ("SC1 – Phase 2 Constituent Proposals – Grid View
-    for Legislators v2"). They are what participants said, not verified
-    facts, and the packet labels them accordingly.
+    and their frequency/consensus/tradeoff lines come from the final
+    proposal grid ("SC1 – Rising Cost of Living", 2026-09-04); the cells are
+    carried per the grid convention established in the Phase 2 grid ("Grid
+    View for Legislators v2"). They are what participants and the feedback
+    grid reported, not verified facts, and the packet labels them
+    accordingly. **Provenance caveat:** the final-grid source document did
+    not transfer into this workspace; the cells used are the Phase 2 grid
+    lines for this issue, which the final grids carry forward verbatim (as
+    verified for the slow-wage-growth final grid). Confirmation against the
+    original document is an open item for the human reviewers.
+12. **Child care assistance is a legislator-discussion topic, not a Phase 2
+    proposal.** It entered this packet on a 2026-09-04 request tied to
+    reported discussions with sitting legislators; the record scan and its
+    method are in `working/south-carolina/rising-cost-of-living/
+    childcare-assistance-scan.md`. The reported discussions themselves are
+    not part of the legislative record.

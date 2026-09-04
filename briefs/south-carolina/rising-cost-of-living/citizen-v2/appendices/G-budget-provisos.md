@@ -41,6 +41,20 @@ requirement. No other cycle contains one.
 | 2025-26 | H4025 | **117.208: income tax phase-in triggers suspended — the tax-cut law's 6% top rate put into effect for the year without waiting on revenue triggers.** 72.3, 73.7, 109.14. Recurring: 117.147, 117.37, 118.9. |
 | 2026-27 | H5126 | **117.220: an extra $25,000 homestead exemption for qualifying seniors/disabled homeowners, on top of the standing $50,000, state-reimbursed — a one-year property tax cut that exists only in the budget.** 117.191: tax-rate suspension continued under the new rate law. 117.222: anyone may pay another person's property tax bill (no ownership rights conferred). 42.7: the "Made it Home!" program — state-funded construction of affordable single-family starter homes with down-payment assistance. 72.3, 109.14. Recurring: 117.144, 117.37, 118.9. |
 
+## Child care provisos (legislator-discussion topic, added 2026-09-04)
+
+Verified against the full Part IB sets (`_universe/part1b/{year}/`), since
+the issue's term-matched candidate files predate the childcare theme:
+
+| Proviso (by caption) | Years present | What it does |
+|---|---|---|
+| DSS: Child Care Voucher | all six cycles (38.18 in FY 2021-22; 38.17 thereafter) | State funds used for child care vouchers must enroll recipients at providers exceeding minimum licensing standards (waivable case by case) — the annual rule governing the federal assistance program run through DSS. |
+| DSS: Childcare Provider Fraud | FY 2026-27 (38.28, new) | DSS must assess and report on fraud identification among childcare providers taking state/federal funds or scholarship money. |
+| SDE: Full-Day 4K / SDE-EIA: 4K & CERDEP provisos | all six cycles | The state pre-K program (Full-Day 4K / CERDEP) is administered and expanded through provisos each year — e.g. FY 2026-27 provisos 1.46, 1.102, 1A.20, 1A.25, 1A.43, 1A.48, 1A.71. |
+| SDE: First Steps Transfer Plan / Division | FY 2023-24 (1.97), FY 2024-25 (1.109) | First Steps' move into the education department ran through provisos. |
+
 Full curated selection with per-proviso relevance notes:
 `working/south-carolina/rising-cost-of-living/proviso-curated.json`. Full
-proviso texts: `working/south-carolina/rising-cost-of-living/provisos/{year}/`.
+proviso texts: `working/south-carolina/rising-cost-of-living/provisos/{year}/`
+and `sources/south-carolina/_universe/part1b/{year}/`. Child care scan:
+`working/south-carolina/rising-cost-of-living/childcare-assistance-scan.md`.
