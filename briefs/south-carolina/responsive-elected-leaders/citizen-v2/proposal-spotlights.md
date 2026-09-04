@@ -35,6 +35,10 @@ A focused, bill-by-bill look at how far each proposal in the final Community Con
 - Every filed commission design keys its appointments to the decennial census (the citizens-commission bills convene in years ending in "1").
 - The record's one attempt to redraw between censuses came from the legislature itself: **H5683 (2026)** would have redrawn the congressional districts starting with the 2026 election; it passed the House 74–37 near midnight after dozens of amendments were tabled (28 on roll-call votes, 55 tabling votes in all), and the Senate then voted 26–18 to continue (set aside) the bill, ending it for the session. A companion, **H4717 (2026)**, died in House Judiciary.
 
+### Which maps these bills cover
+
+- All twenty-one address the State House, State Senate, and congressional maps. County and city lines are different ground: county councils redraw their own district lines after each census under existing law (Section 4-9-90), cities redraw their own wards, and school-board lines usually move through separate local acts — roughly a dozen passed after the 2020 census (not counted in the twenty-one). A concern about a county or school-board map goes through those local processes and needs no new state law.
+
 ### Never filed
 
 - No commission or criteria bill was filed in the 2025–2026 session — the first session in this record without one.
@@ -55,6 +59,7 @@ A focused, bill-by-bill look at how far each proposal in the final Community Con
 
 - **H3547 (2025):** the design closest to the proposal — every middle schooler completes a civics unit with instructional and hands-on components, plus the statewide Palmetto Middle School Civics Challenge for student-led projects; the State Board of Education would adopt the curriculum before the 2027-2028 school year. Sits in House Education and Public Works.
 - **H4392 (2022), the Keep Partisanship Out of Civics Act:** the neutrality worry approached from the other direction — limits on what civics teachers can be compelled to discuss, no credit for student lobbying, no private funding for civics curriculum or teacher training. Died in the same committee. Together with H3547, it frames the question participants raised — who decides what civics content is neutral — which the legislature has not voted on in either form.
+- **The district lever:** state law sets the required minimum, but local school boards decide what their schools teach beyond it. A district can add civics coursework or projects on its own, without a new state law. The bills in this record are about statewide requirements that would cover every district.
 
 ### Moving through the budget instead
 
@@ -63,7 +68,7 @@ A focused, bill-by-bill look at how far each proposal in the final Community Con
 
 ### Never filed
 
-- No bill from 2019–2026 proposes a neutral voter-information tool or assigns any agency to build or curate one — the specific tool citizens described has no legislative history at all.
+- Election offices already publish the official basics under current law — election dates, registration deadlines, precincts, and polling places. What no bill from 2019–2026 proposes is the next step citizens described: a neutral guide to the candidates and issues themselves. No bill assigns that job to any agency, state or county — the specific tool citizens described has no legislative history at all.
 
 ## The wider accountability record (background)
 

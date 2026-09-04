@@ -83,7 +83,7 @@ The civics lane has a working pattern: the REACH Act failed once, then passed ne
 
 *Where the decision actually sits — and it is almost entirely state ground.*
 
-The federal decennial census sets the redistricting clock, and congressional maps must satisfy federal law — but who draws South Carolina's maps is state ground alone: the state constitution assigns reapportionment to the General Assembly, which is why the full commission design requires a state constitutional amendment (a two-thirds vote of each chamber plus a statewide referendum) and why the statutory designs route their plans back through the legislature. The Article V applications in this record run the other direction — the state asking Washington to act: the adopted congressional term-limits application (H3008) joins other states' applications toward the two-thirds needed for a convention, and it changes nothing in South Carolina law by itself. Civics curriculum is state ground entirely: the REACH Act and the middle-school proposal are state statutes, with the State Board of Education as the named curator. Voter information likewise — the State Election Commission (scvotes.gov) is the voter-facing agency, and nothing in federal or state law in this record directs anyone to build the neutral information tool participants described.
+The federal ten-year census sets the redistricting clock, and congressional maps must satisfy federal law — but who draws each map is decided here, and the answer depends on which map. The State House, State Senate, and congressional maps — the maps all twenty-one filed bills address — belong to the General Assembly under the state constitution, which is why the full commission design requires a state constitutional amendment (a two-thirds vote of each chamber plus a statewide referendum) and why the statutory designs route their plans back through the legislature. Local lines are different ground: county councils redraw their own district lines after each census (Section 4-9-90), cities redraw their own wards, and school-board lines usually move through separate local acts — roughly a dozen passed after the 2020 census. So a concern about a county or school-board map runs through those local processes, not through the commission bills in this brief. The Article V applications in this record run the other direction — the state asking Washington to act: the adopted congressional term-limits application (H3008) joins other states' applications toward the two-thirds needed for a convention, and it changes nothing in South Carolina law by itself. Civics requirements are set in state law and State Board of Education standards — but local school districts control what they teach beyond the required minimum, so a district can add civics programs on its own, without a new state law; the bills in this record are about statewide requirements. On voter information, election offices already publish the official basics under current law — election dates, registration deadlines, precincts, and polling places. What no bill creates is the next step participants described: a neutral guide to the candidates and issues themselves. No bill assigns that job to anyone.
 
 Full bill-by-bill detail, votes, sponsors, budget provisos, and sources: Appendices A–I.
 
@@ -93,7 +93,7 @@ A focused, bill-by-bill look at how far each proposal from the final Community C
 
 ## Independent / nonpartisan redistricting commission (anti-gerrymandering)
 
-*Raised in three of four in-person events, with very strong support where discussed. The concerns raised: how independent the commission would really be, and that keeping redistricting on the ten-year cycle would help. The record: twenty-one bills in three designs, none ever heard; the legislature drew the maps itself, and its one attempt to leave the ten-year cycle was shelved on the Senate floor.*
+*Raised in three of four in-person events, with very strong support where discussed. The concerns raised: how independent the commission would really be, and that keeping redistricting on the ten-year cycle would help. The record: twenty-one bills in three designs, none ever heard; the legislature drew the maps itself.*
 
 ### Already law (nearby — the power the proposal would move)
 
@@ -102,19 +102,20 @@ A focused, bill-by-bill look at how far each proposal from the final Community C
 
 ### Proven support (the reverse direction)
 
-- **H5683 (2026):** the mid-decade congressional redraw — the record's only departure from the census cycle. Passed the House 74–37 near midnight after dozens of amendments were tabled (28 on roll-call votes, 55 tabling votes in all); the Senate then voted 26–18 to continue (set aside) the bill, ending it for the session. A companion, H4717 (2026), died in House Judiciary.
+- **H5683 (2026):** the mid-decade congressional redraw — the record's only departure from the census cycle. Passed the House 74–37 near midnight after dozens of amendments were tabled (28 on roll-call votes); the Senate then voted 26–18 to continue (set aside) the bill, ending it for the session. A companion, H4717 (2026), died in House Judiciary.
 
 ### Stopped early (all twenty-one commission and criteria bills; no hearings, no votes)
 
-- **Constitutional independent commission, maps approved by referendum:** H3044 and S6 (2019), H3279 and S561 (2021), H3173 (2023) — nine members chosen by a three-member Applicant Review Panel appointed by the State Inspector General, with public deliberations; S135 (2019) kept the nine-member referendum design with a different selection route. Needs two-thirds of each chamber plus a statewide referendum.
-- **Citizens Redistricting Commission:** H3432 and S254 (2019), H4201 and H4202 (2021), H3243 and H3245 (2023) — members appointed under State Ethics Commission oversight on the census cycle; the 2021 and 2023 versions bar legislative or executive alteration of or veto over the final plan and forbid adjourning for the year until it is adopted.
+- **Constitutional independent commission, maps approved by referendum:** H3044 and S6 (2019), H3279 and S561 (2021), H3173 (2023) — nine members chosen by a three-member Applicant Review Panel appointed by the State Inspector General; S135 (2019) kept the nine-member referendum design with a different selection route.
+- **Citizens Redistricting Commission:** H3432 and S254 (2019), H4201 and H4202 (2021), H3243 and H3245 (2023) — members appointed under State Ethics Commission oversight; the 2021 and 2023 versions bar any alteration or veto of the final plan and forbid adjourning for the year until it is adopted.
 - **Anti-Gerrymandering Act:** H4222 (2023) — twelve unpaid members appointed by the State Ethics Commission: five from the majority party, five from the largest minority party, two from other parties; the commission proposes ten candidate maps.
 - **Binding criteria, no commission:** the FAIR in Redistricting Act — H4229 and S750 (2021), H3069 (2023) — fairness standards and a public process for maps the General Assembly keeps drawing; H3054 and S230 (2019) — a commission appointed every ten years whose plans the legislature must adopt by a hard deadline, with no adjournment for the year until it does.
 
 ### On the two concerns, what is in the record
 
-- **Independence:** the filed designs answer it three different ways — who appoints (an Inspector General panel versus the State Ethics Commission), party balance (five/five/two in H4222), whether the plan can be altered or vetoed (barred in the 2021–2023 citizens-commission bills), and whether voters approve the maps (the referendum designs). None was ever tested in a hearing, so the record contains no legislative verdict on any of them.
+- **Independence:** the filed designs answer it different ways — who appoints (an Inspector General panel versus the State Ethics Commission), party balance (five/five/two in H4222), whether the plan can be altered or vetoed (barred in the 2021–2023 bills), and whether voters approve the maps by referendum. None was ever tested in a hearing, so the record holds no legislative verdict on any of them.
 - **The ten-year cycle:** every filed design keys its appointments to the decennial census (the citizens-commission bills convene in years ending in "1"). The record's one attempt to redraw between censuses came from the legislature itself, and the Senate's 26–18 continue vote ended it.
+- **Which maps these bills cover:** all twenty-one address the State House, State Senate, and congressional maps — none touches county council or school-board lines. Those maps have their own routes: county councils redraw their own districts after each census under existing law (Section 4-9-90), and school-board lines usually move through separate local acts (roughly a dozen passed after the 2020 census, not counted here). A local-map concern needs no new state law.
 
 ### Never filed
 
@@ -134,21 +135,21 @@ A focused, bill-by-bill look at how far each proposal from the final Community C
 
 ### Stopped early
 
-- **H3547 (2025):** the design closest to the proposal — every middle schooler completes a civics unit with instructional and hands-on components, plus the statewide Palmetto Middle School Civics Challenge for student-led projects; the State Board of Education would adopt the curriculum before the 2027-28 school year. Sits in House Education and Public Works.
-- **H4392 (2022), the Keep Partisanship Out of Civics Act:** the neutrality worry approached from the other direction — limits on what civics teachers can be compelled to discuss, no credit for student lobbying, no private funding for civics curriculum or teacher training. Died in the same committee.
+- **H3547 (2025):** the design closest to the proposal — a required civics unit for every middle schooler, plus the statewide Palmetto Middle School Civics Challenge for student-led projects; the State Board of Education would adopt the curriculum before the 2027-28 school year. Sits in House Education and Public Works.
+- **H4392 (2022), the Keep Partisanship Out of Civics Act:** the neutrality worry approached from the other direction — limits on what civics teachers can be compelled to discuss and no private funding for civics curriculum or teacher training. Died in the same committee.
 
 ### On the neutrality concern, what is in the record
 
-- The curator question exists in the record from both directions: H3547 names the State Board of Education as curriculum curator, while H4392 would have restricted content and funding sources — and the legislature has voted on neither. No bill defines "neutral" civic information or assigns anyone to curate it.
+- The curator question exists in the record from both directions: H3547 names the State Board of Education as curriculum curator, while H4392 would have restricted content and funding sources — and the legislature has voted on neither.
+- **The district lever:** state law sets the required minimum, but local school boards decide what their schools teach beyond it — a district can add civics coursework on its own, without a new state law. The bills in this record are statewide requirements that would cover every district.
 
 ### Moving through the budget instead
 
-- **FY 2024-25 proviso 45.11:** a Clemson feasibility study for a Center for Civic Engagement.
-- **FY 2026-27 (inside proviso 118.21):** $2.5 million for USC's Center for American Civic Leadership and Public Discourse. Both are one-year funding decisions naming a university as the home.
+- **FY 2024-25 proviso 45.11** funded a Clemson feasibility study for a Center for Civic Engagement, and FY 2026-27 (inside proviso 118.21) put $2.5 million toward USC's Center for American Civic Leadership and Public Discourse — one-year funding decisions, each naming a university as the home.
 
 ### Never filed
 
-- No bill from 2019–2026 proposes a neutral voter-information tool for voters or assigns any agency — including the State Election Commission, the state's voter-facing agency — to build or curate one.
+- Election offices already publish the official basics — election dates, deadlines, precincts, and polling places. No bill from 2019–2026 proposes the next step participants described — a neutral guide to the candidates and issues — or assigns that job to any agency, state or county.
 
 ## Glossary
 
