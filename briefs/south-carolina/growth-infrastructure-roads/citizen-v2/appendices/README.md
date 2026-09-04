@@ -12,7 +12,7 @@ self-contained; together they carry everything the front brief summarizes.
 | `E-bill-path-details.md` | Milestone paths for the 15 measures the front brief leans on |
 | `F-data-limits.md` | What the data cannot say (no committee tallies, no party labels, keyword scope, voice votes, one-year provisos) |
 | `G-budget-provisos.md` | Roads and growth provisos in each budget year, incl. the Road Buyback Program and the one-time money packages |
-| `H-proposal-crosswalk.md` | The seven Phase 2 citizen proposals [P-…] matched against the record |
+| `H-proposal-crosswalk.md` | The five Phase 2 citizen proposals [P-…] (final grid) matched against the record |
 | `I-sources-and-review-notes.md` | Claim-to-source map, collection notes, review status |
 
 Print versions: `appendices-print.html` (combined, with table of contents)

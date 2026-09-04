@@ -1,6 +1,14 @@
-# Package — Growth, Infrastructure, and Roads in South Carolina (citizen-v2.0)
+# Package — Growth, Infrastructure, and Roads in South Carolina (citizen-v2.1)
 
-Design Packager v2.1 · 2026-09-01 · The Forum
+Design Packager v2.1 · 2026-09-04 · The Forum
+
+v2.1 recenters the brief on the FIVE proposals of the final Phase 2 grid
+("SC1 - Growth Infrastructure Roads", received 2026-09-04): the draft grid's
+standalone developer-pays proposal is folded into funding tools (impact fees
+are named in that proposal's title) and its multimodal proposal was dropped
+(the transit/rail record remains in the appendices). The legislative record
+itself is unchanged, and v2.1 also carries the independent fact-check's
+Act 177 omnibus-scope correction.
 
 The third South Carolina citizen brief, produced on the SC foundation
 (certified 123rd–126th universe + prebuilt issue artifacts). Follows the
@@ -19,7 +27,7 @@ appendices — with the SC-specific page-1 **"Also in the state budget
 | `citizen-brief.md` | Combined-format source (front brief → spotlights → glossaries) |
 | `citizen-brief.html` | Print-ready Phase 2 HTML — **6 letter pages**, front brief on pages 1–2 (Chrome print-to-PDF verified; the proviso callout renders on page 1) |
 | `citizen-brief.docx` | Word version — **6 pages**, front brief on pages 1–2 (LibreOffice-verified), direct-formatted for cross-app fidelity |
-| `proposal-spotlights.md` / `.html` / `.docx` | Standalone policy spotlights: each of the seven Phase 2 proposals as bulleted bill lists grouped by viability (already law / got support / stopped early / never filed), single column — 5 pages HTML, 5 pages Word |
+| `proposal-spotlights.md` / `.html` / `.docx` | Standalone policy spotlights: each of the five Phase 2 proposals as bulleted bill lists grouped by viability (already law / got support / stopped early / never filed), single column — 5 pages HTML, 5 pages Word |
 | `citizen-brief-print.css` | Phase 2 print tokens (white page, navy `#1A2D4F`, terracotta `#C0392B`, Arial) |
 | `appendices/A…I-*.md` | Nine appendices (see `appendices/README.md`) |
 | `appendices/appendices-print.html` | Combined print HTML with TOC — 60 letter pages (Chrome-verified) |
@@ -68,8 +76,8 @@ python3 collectors/build_appendices_print.py --brief-dir briefs/south-carolina/g
   --kicker "SOUTH CAROLINA · 2019–2026" \
   --dek "Detail behind the two-page front brief: bills, votes, sponsors, budget provisos, and sources, 2019–2026." \
   --note "South Carolina publishes committee outcomes but never committee vote tallies; no committee vote counts appear anywhere in these appendices. Floor roll-call counts are verbatim from the chamber vote histories. Party labels are intentionally absent (no roster join was fetched). Many bills show no roll calls at all: South Carolina uses voice votes heavily, and an empty vote history is a real answer." \
-  --footline "The Forum · Citizen Brief citizen-v2.0 · Growth, Infrastructure, and Roads in South Carolina · September 2026" \
-  --descriptions '{"A":"Every curated bill: plain topic, theme, tier, result, where it stopped","B":"Theme scorecards with history baskets and certainty labels","C":"Passage/adoption-type floor votes, verbatim; high-support non-enactments","D":"Frequent lead sponsors; verbatim sponsor line per policy bill","E":"Milestone paths for the 15 measures the front brief leans on","F":"What this data can and cannot say","G":"Roads and growth provisos in each state budget year","H":"The seven Phase 2 citizen proposals matched against the record","I":"Claim-to-source mapping, collection notes, review status"}'
+  --footline "The Forum · Citizen Brief citizen-v2.1 · Growth, Infrastructure, and Roads in South Carolina · September 2026" \
+  --descriptions '{"A":"Every curated bill: plain topic, theme, tier, result, where it stopped","B":"Theme scorecards with history baskets and certainty labels","C":"Passage/adoption-type floor votes, verbatim; high-support non-enactments","D":"Frequent lead sponsors; verbatim sponsor line per policy bill","E":"Milestone paths for the 15 measures the front brief leans on","F":"What this data can and cannot say","G":"Roads and growth provisos in each state budget year","H":"The five Phase 2 citizen proposals (final grid) matched against the record","I":"Claim-to-source mapping, collection notes, review status"}'
 
 # Word exports (front brief via direct writer; appendices via pandoc + branded reference doc)
 python3 collectors/export_docx.py --brief-dir briefs/south-carolina/growth-infrastructure-roads/citizen-v2

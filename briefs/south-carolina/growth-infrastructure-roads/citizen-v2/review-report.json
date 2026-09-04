@@ -105,5 +105,18 @@
   },
   "correction": "Act 177 of 2026 omnibus scope (Pothole Mitigation Program, design-build/CMGC, choice lanes, P3 cap, 4-year audit, commission abolition 1/1/2027, C-funds 33% split) added throughout the packet",
   "report": "working/south-carolina/growth-infrastructure-roads/fact-check-report.md"
+ },
+ "version_reviewed": "citizen-v2.1",
+ "rework_2026_09_04": {
+  "reason": "final Phase 2 proposal grid ('SC1 - Growth Infrastructure Roads') supersedes the seven-proposal draft grid",
+  "proposals_final": [
+   "local-funding-tools",
+   "state-master-planning",
+   "fix-roads-first",
+   "no-new-taxes",
+   "contractor-accountability"
+  ],
+  "changes": "impact-fee record folded under local-funding-tools; multimodal spotlight removed (bills remain in appendices/themes); descriptors verified against the final grid; config constituent_proposals updated; strict gate re-run (PASS_WITH_WARNINGS)",
+  "legislative_record": "unchanged"
  }
 }

@@ -25,21 +25,22 @@ UNIVERSE = os.path.join(ROOT, "sources/south-carolina/_universe")
 SESSION_LABEL = {123: "123rd (2019-2020)", 124: "124th (2021-2022)",
                  125: "125th (2023-2024)", 126: "126th (2025-2026)"}
 
+# The FIVE proposals of the final grid ("SC1 - Growth Infrastructure Roads",
+# received 2026-09-04). The draft grid's standalone developer-pays proposal is
+# folded into local-funding-tools (whose title names impact fees); the draft's
+# multimodal-transport proposal was dropped from the final grid (its bills
+# remain in the curated record and theme tables).
 PROPOSALS = [
     {"id": "local-funding-tools",
-     "title": "New/expanded local funding tools (penny sales tax, impact fees, tolls, parking fees)"},
-    {"id": "developer-pays-growth",
-     "title": "Make developers pay for growth (impact fees / proffers)"},
-    {"id": "multimodal-transport",
-     "title": "Public transit, rail, and multimodal options beyond roads"},
+     "title": "New or expanded local funding tools (penny / sales tax, impact fees, tolls, parking fees)"},
     {"id": "state-master-planning",
-     "title": "State comprehensive/regional planning instead of fragmented county plans"},
+     "title": "State comprehensive / master planning vs. fragmented county plans; regional control"},
     {"id": "fix-roads-first",
-     "title": "Maintain existing roads before building new capacity"},
+     "title": "Fix the roads we've got first"},
     {"id": "no-new-taxes",
-     "title": "Oppose new taxes or fees for infrastructure"},
+     "title": "No new taxes / oppose extra taxes and fees"},
     {"id": "contractor-accountability",
-     "title": "Improve the bidding process and hold contractors accountable"},
+     "title": "Improve the contractor bidding process / hold contractors accountable"},
 ]
 
 # Hand-reviewed crosswalk (bill keys verified in the curation map).
@@ -49,7 +50,9 @@ CROSSWALK = {
                           "125:S290", "125:S562", "125:H4059", "125:H5188", "125:S1113",
                           "126:S979", "125:S116", "124:H3129", "124:S152", "123:S178",
                           "123:H3739", "123:S780", "125:S499", "125:S674", "123:S172",
-                          "124:H3483"],
+                          "124:H3483",
+                          "124:H3460", "126:H4008", "124:H4943", "125:H4659", "125:H4981",
+                          "125:S856", "125:H5017", "126:H3165", "126:H4672", "126:H5088"],
         "near_miss_bills": ["123:S449", "126:S298", "126:H3911", "126:S1006", "126:H5744",
                             "125:S792", "126:H4589", "123:S217", "123:H3132", "123:H4674",
                             "123:S629", "123:H4597", "124:S40"],
@@ -71,47 +74,18 @@ CROSSWALK = {
                  "penny was opened to more counties (H4589, Act 203 of 2026, House 81-18). The "
                  "SCDOT Modernization Act (126:S831, Act 177 of 2026) then rewrote the state "
                  "toll framework itself: usage charges may only be placed on new-capacity "
-                 "'choice lanes', never on existing free lanes."),
-    },
-    "developer-pays-growth": {
-        "matched_bills": ["124:H3460", "126:H4008", "124:H4943", "125:H4659", "125:H4981",
-                          "125:S856", "125:H5017", "126:H3165", "126:H4672", "126:H5088"],
-        "near_miss_bills": ["125:H5562", "126:S227", "126:H4050", "123:H3828"],
-        "coverage": "attempts_both_directions_zero_votes",
-        "note": ("South Carolina has had a Development Impact Fee Act since 1999 (Section "
-                 "6-1-910 et seq.), so the fight is over its shape. Ten bills in three sessions "
-                 "pulled in both directions: expanding the tool (residential-only fees H4659, "
-                 "adding road resurfacing as a fundable cost H5088, a gentrification-fund fee on "
-                 "developers H3460/H4008) and narrowing it for the building industry (excluding "
-                 "maintenance and administrative costs, H4981/S856/H5017/H3165; exempting "
-                 "repeat in-district buyers, H4672). Not one impact-fee bill received a hearing "
-                 "or a vote in eight years - all died in Ways and Means, Finance, or a Medical/"
-                 "Municipal committee. The only impact-fee rule that became law in this record "
-                 "ran the other way: FY 2021-22 budget proviso 117.96 barred impact fees on new "
-                 "school construction for one year (not renewed). The concurrency bills "
-                 "(development waits for infrastructure) are the adjacent lane: S227 got the "
-                 "furthest of anything in this proposal's orbit - reported favorably and amended "
-                 "on the Senate floor in April 2026, then died without completing passage."),
-    },
-    "multimodal-transport": {
-        "matched_bills": ["123:H3656", "124:H3051", "123:H3655", "125:H4013", "123:H3828",
-                          "123:S216", "123:H3189", "124:H3937", "126:H4122", "123:S730",
-                          "125:H5347"],
-        "near_miss_bills": ["124:H4817", "125:H3737", "125:S269", "126:S399", "123:H3654",
-                            "126:H4057"],
-        "coverage": "zero_hearings_on_transit_two_house_passages_on_rail_credit",
-        "note": ("Every transit and rail bill died in its first committee: complete streets "
-                 "(H3656), SCDOT feasibility reviews with bus lanes (H3051), transit-oriented "
-                 "development agencies (H3655, H4013), the developer-provided transit stop act "
-                 "(H3828), commuter/high-speed rail commissions (S216, H3189, H3937, H4122, "
-                 "S730), and the commuter-rail-along-highways study (H5347). The one measure "
-                 "with floor movement is freight, not passengers: the Shortline Railroad "
-                 "Modernization Act tax credit passed the House twice - 106-3 in 2022 and 65-46 "
-                 "in 2023 - and died in Senate Finance both times. What was enacted is "
-                 "peripheral: a transit-facility trespass misdemeanor (S399, Act 222 of 2026, "
-                 "44-0 and 107-0) and the EV-charging/electrification framework (S304, Act 46 "
-                 "of 2021). Note the county-penny transit clarifications counted under "
-                 "local-funding-tools - the two proposals meet there."),
+                 "'choice lanes', never on existing free lanes. IMPACT FEES - the second tool "
+                 "the proposal names - have been legal since 1999 (the Development Impact Fee "
+                 "Act, Section 6-1-910 et seq.), so that fight is over the Act's shape: ten "
+                 "bills in three sessions pulled in both directions, expanding the tool "
+                 "(residential-only fees H4659, road resurfacing as a fundable cost H5088, a "
+                 "gentrification-fund fee on developers H3460/H4008) and narrowing it for the "
+                 "building industry (excluding maintenance and administrative costs, "
+                 "H4981/S856/H5017/H3165; exempting repeat in-district buyers, H4672). Not one "
+                 "impact-fee bill received a hearing or a vote in eight years, in either "
+                 "direction - and the only impact-fee rule that became law ran the other way: "
+                 "FY 2021-22 budget proviso 117.96 barred impact fees on new school "
+                 "construction for one year (not renewed)."),
     },
     "state-master-planning": {
         "matched_bills": ["123:S259", "123:H4731", "125:H5562", "126:S227", "126:H4050",
@@ -217,7 +191,7 @@ DATA_LIMITS = [
     "Local County Transportation Committee membership bills routinely pass one chamber and finish through the county legislative delegation; their one-chamber passage is not a support signal for statewide policy.",
     "For non-enacted 126th-session (2025-2026) bills, disposition is 'did not pass' as of the collection date (2026-08-25), after the regular session's final regular calendar.",
     "FY 2020-21 has no enacted Part IB proviso set (COVID continuing resolution), so budget-proviso coverage runs FY 2021-22 through FY 2026-27. Proviso dollar figures are verbatim from the enacted Part IB text.",
-    "The seven Phase 2 constituent proposals are Forum process input from Community Conversations (labels [P-...]), not verified facts.",
+    "The five constituent proposals are Forum process input from the Phase 2 Community Conversations, per the final proposal grid ('SC1 - Growth Infrastructure Roads', received 2026-09-04); labels [P-...], not verified facts. The earlier draft grid's standalone developer-pays and multimodal-transport proposals are not in the final grid: the impact-fee record is presented under local-funding-tools (whose title names impact fees), and the transit/rail record remains in the theme tables without a proposal label.",
     "The 2017 gas-tax act (Act 40) and the 1999 Development Impact Fee Act predate this record's 2019 start; they appear as background context, not as collected bills.",
 ]
 

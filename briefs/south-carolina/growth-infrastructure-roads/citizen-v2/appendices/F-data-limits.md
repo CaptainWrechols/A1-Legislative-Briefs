@@ -52,7 +52,12 @@ know exactly how much weight each claim can carry.
   and finish through the county legislative delegation; their one-chamber
   passage is not a support signal for statewide policy and they are kept as
   context only.
-- **The seven constituent proposals are Forum process input** from the
-  Phase 2 Community Conversations (June–August 2026), labeled [P-…]. They
+- **The five constituent proposals are Forum process input** from the
+  Phase 2 Community Conversations (June–August 2026), per the final
+  proposal grid ("SC1 - Growth Infrastructure Roads"), labeled [P-…]. They
   record what participants proposed — not verified facts, and not the
-  Forum's positions.
+  Forum's positions. Two proposals from the earlier draft grid (a
+  standalone developer-pays proposal and a transit/multimodal proposal) are
+  not in the final grid; the impact-fee record appears under the
+  funding-tools proposal, and the transit/rail record remains in the theme
+  appendices without a proposal label.

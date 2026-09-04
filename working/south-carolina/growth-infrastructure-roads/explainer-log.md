@@ -9,7 +9,6 @@ glossaries, with where each explanation lives.
 | Penny tax / local option sales tax | Glossary + inline ("a new voter-approved penny tax counties can use...") |
 | Transportation penny vs. capital project penny | Glossary (both entries) + local-funding spotlight |
 | Impact fee | Glossary + inline ("a one-time charge on new development...") + developer-pays spotlight |
-| Proffer | Glossary ("a developer's negotiated contribution...; no proffer statute exists") |
 | Concurrency | Glossary + inline ("letting local governments require that roads and pipes keep pace before new development is approved") |
 | Gas user fee / Act 40 of 2017 | Glossary + no-new-taxes spotlight ("phased the gas user fee up by twelve cents over six years") |
 | Infrastructure maintenance fee | Glossary + inline ("the road-funding fee paid when a vehicle is first registered") |
@@ -17,8 +16,6 @@ glossaries, with where each explanation lives.
 | SCDOT Commission / Secretary of Transportation | Glossary + landscape/where-something-finished sections |
 | Transportation Infrastructure Bank | Glossary |
 | Design-build | Glossary + contractor spotlight ("choosing a contractor on qualifications first, then negotiating price") |
-| Complete streets | Glossary + transit spotlight |
-| Transit-oriented development | Glossary |
 | Comprehensive plan / resiliency element | Glossary + planning spotlight |
 | Home rule | Glossary |
 | Annexation / donut hole | Glossary + planning spotlight |

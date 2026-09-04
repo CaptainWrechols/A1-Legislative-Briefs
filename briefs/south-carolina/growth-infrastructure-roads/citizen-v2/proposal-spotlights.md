@@ -2,21 +2,21 @@
 issue_id: south-carolina-01-growth-infrastructure-roads
 issue_title: Growth, Infrastructure, and Roads in South Carolina
 brief_type: citizen-policy-spotlights
-version: spotlights-v2.0
+version: spotlights-v2.1
 organization: The Forum
 generated_by: citizen-brief-writer v2.3
-date: 2026-09-01
+date: 2026-09-04
 status: READY FOR HUMAN REVIEW
-reviewed_by: citizen-reviewer v2.3 (2026-09-01)
+reviewed_by: citizen-reviewer v2.3 (2026-09-04)
 ---
 
 # Policy Spotlights — Growth, Infrastructure, and Roads Brief
 
-A focused, bill-by-bill look at how far each Phase 2 growth-and-roads proposal has traveled in the General Assembly, 2019–2026. Each proposal is sorted into the same viability groups the brief uses — already law, got support, stopped early, never filed — so the brief shows the overall terrain and these spotlights show one proposal at a time. Proposals are Forum process input from the Phase 2 Community Conversations, labeled [P-…].
+A focused, bill-by-bill look at how far each of the five Phase 2 growth-and-roads proposals has traveled in the General Assembly, 2019–2026, per the final proposal grid ("SC1 - Growth Infrastructure Roads"). Each proposal is sorted into the same viability groups the brief uses — already law, got support, stopped early, never filed — so the brief shows the overall terrain and these spotlights show one proposal at a time. Proposals are Forum process input from the Phase 2 Community Conversations, labeled [P-…].
 
-## New or expanded local funding tools [P-local-funding-tools]
+## New or expanded local funding tools (penny / sales tax, impact fees, tolls, parking fees) [P-local-funding-tools]
 
-*Counties already have referendum-gated penny taxes; every bill to widen them for roads and transit died unheard, while a new preservation penny became law.*
+*Counties already have referendum-gated penny taxes and a 1999 impact-fee law; every bill to widen either tool died unheard, while a new preservation penny became law.*
 
 ### Already law (enacted in this record)
 - **S152 (Act 166 of 2022):** the County Green Space Sales Tax — a new voter-approved local penny for preserving green space; Senate 43–1 and 41–3, House 67–28.
@@ -33,42 +33,14 @@ A focused, bill-by-bill look at how far each Phase 2 growth-and-roads proposal h
 - **Local fees:** S172 (2019) — a county-option one-cent-a-gallon gas fee for beach renourishment, by referendum; H3483 (2021) — local road-use fees kept in a separate audited account; H4597 (2019) — letting a county keep a pre-1997 hospitality fee (the family that funds Horry County road projects); S629 (2019) and the H3132/H4674 pair (2019–20) — more tourism-tax flexibility.
 - **Green space follow-on:** S792 (2023) — letting a small share of green-space penny money fund conservation management.
 
-## Make developers pay for growth [P-developer-pays-growth]
-
-*Ten impact-fee bills in two directions; not one got a hearing. The lone enacted impact-fee rule blocked the fees — for schools, for one year.*
-
-### Stopped early (died in first committee, no recorded vote)
-- **Expanding the 1999 Development Impact Fee Act:** H4659 (2023) — allow fees on residential development only, or commercial only (today it is all-or-nothing); H5088 (2026) — add road resurfacing as a fundable cost and extend the spending window; H3460 (2021) and H4008 (2025) — a one-time developer fee per new unit funding a Gentrification Trust Fund to help longtime residents stay, with an exemption for projects with 15% low-income housing; H4943 (2022) — let pre-1999 fee programs pay down project debt.
+### The impact-fee tool this proposal names — stopped early (no recorded vote, either direction)
+- **Expanding the 1999 Development Impact Fee Act:** H4659 (2023) — allow fees on residential development only, or commercial only (today it is all-or-nothing); H5088 (2026) — add road resurfacing as a fundable cost and extend the spending window; H3460 (2021) and H4008 (2025) — a one-time developer fee per new unit funding help for longtime residents facing displacement, with an exemption for projects with 15% low-income housing; H4943 (2022) — let pre-1999 fee programs pay down project debt.
 - **Narrowing it (the building-industry direction):** H4981 and S856 (2023–24) — exclude repair, operation, maintenance, and administrative costs from what fees may cover; H5017 (2024) and H3165 (2025) — the same exclusions packaged with county-to-city development reports and annexation notices; H4672 (2025) — exempt buyers who owned a home in the same school district within fifteen years.
 
 ### The one enacted impact-fee rule (a budget proviso, one year)
 - **FY 2021-22 proviso 117.96:** barred impact fees on new elementary, middle, and secondary school construction, on pain of losing state aid. Not renewed in any later budget.
 
-### Never filed
-- No proffer statute has ever been proposed; South Carolina law has no negotiated-contribution system.
-
-## Public transit, rail, and multimodal options [P-multimodal-transport]
-
-*Zero hearings on every transit bill in four sessions. The only rail measure with floor votes moves freight — and died in Senate Finance twice.*
-
-### Got support but didn't finish
-- **H4817 (2022):** the Shortline Railroad Modernization Act — a tax credit for half of small railroads' track reconstruction costs; passed the House 106–3, died in Senate Finance.
-- **H3737 (2023):** the same act refiled; passed the House 65–46, died in Senate Finance (Senate version S269 died in Finance without a vote).
-
-### Already law (edges of the lane)
-- **S399 (Act 222 of 2026):** refusing to leave a public transit facility after a warning is a misdemeanor, with a warning-and-appeal process; Senate 44–0, House 107–0.
-- **S304 (Act 46 of 2021):** the EV-charging framework — when a charging-station host is not a utility, plus a joint legislative committee on transportation electrification; Senate 43–1, House 110–2.
-
-### Stopped early (died in first committee, no recorded vote)
-- **Streets designed for everyone:** H3656 (2019) — a SCDOT "complete streets" policy for pedestrians, cyclists, and transit riders; H3051 (2021) — SCDOT's pre-project feasibility reviews would cover all roads and use measurable standards including dedicated bus lanes; H3654 (2019) — transit-access studies before public facilities are built.
-- **Transit-oriented development:** H3655 (2019) and H4013 (2023) — counties and cities could create transit-oriented redevelopment agencies; H3828 (2019) — the Developer-Provided Transit Stop Act, incentives plus a tax credit for developers building bus stops and walkable paths near transit lines.
-- **Rail studies and commissions:** S216 and H3189 (2019), H3937 (2021), H4122 (2025) — commuter/high-speed rail commissions tied to the Southeast High-Speed Rail Corridor; S730 (2019) — a study committee on connecting to Charlotte's mass transit; H5347 (2024) — SCDOT would study commuter rail alongside existing highways.
-- **Rail infrastructure mechanics:** H4057 (2025) — standardized fees and a dispute process for utility lines crossing railroad property.
-
-### Never filed
-- No bill in this record proposes state operating money for transit service; every filed design is local-option funding, studies, or incentives.
-
-## State or regional planning for growth [P-state-master-planning]
+## State comprehensive / master planning vs. fragmented county plans [P-state-master-planning]
 
 *No state- or regional-planning bill exists in this record. The fights are over state rules on local plans, concurrency, and annexation.*
 
@@ -89,7 +61,7 @@ A focused, bill-by-bill look at how far each Phase 2 growth-and-roads proposal h
 ### Never filed
 - State-level or regional comprehensive planning replacing county plans — the design citizens described — has not been proposed by any bill in this record.
 
-## Maintain existing roads first [P-fix-roads-first]
+## Fix the roads we've got first [P-fix-roads-first]
 
 *Every standalone maintenance bill died in first committee — but the pothole-reporting design passed inside the SCDOT Modernization Act, and the fix-first money is real in the annual budget.*
 
@@ -112,7 +84,7 @@ A focused, bill-by-bill look at how far each Phase 2 growth-and-roads proposal h
 - **FY 2026-27 proviso 118.21:** $175,000,000 CTC Acceleration; $50,000,000 Bridge Modernization.
 - **FY 2026-27 proviso 84.18:** the Road Buyback Program — SCDOT identifies state roads no longer serving a statewide purpose and pays counties and cities to take them, resurfaced first, with a report due February 2027.
 
-## Fund infrastructure without new taxes or fees [P-no-new-taxes]
+## No new taxes / oppose extra taxes and fees [P-no-new-taxes]
 
 *Ten gas-fee measures died without hearings — and so did the one bill to raise the county share.*
 
@@ -126,7 +98,7 @@ A focused, bill-by-bill look at how far each Phase 2 growth-and-roads proposal h
 ### Already law (tightening, not cutting)
 - **H3505 (Act 70 of 2021):** the road-funding infrastructure maintenance fee now applies at first titling as well as first registration, closing a collection gap; House 106–4, Senate 42–2.
 
-## Better bidding and contractor accountability [P-contractor-accountability]
+## Improve the contractor bidding process / hold contractors accountable [P-contractor-accountability]
 
 *No standalone bidding bill reached a floor vote — but the design-build method passed inside the SCDOT Modernization Act; the transparency tools exist as one-year budget rules.*
 

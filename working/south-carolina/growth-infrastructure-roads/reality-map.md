@@ -78,12 +78,21 @@ penny) — and the biggest money moved through the budget, not standalone law.
 
 ## 3b) Proposal reality cards
 
-### [P-local-funding-tools] New/expanded local funding tools (penny sales tax, impact fees, tolls, parking fees)
+Five cards, per the FINAL proposal grid ("SC1 - Growth Infrastructure
+Roads", received 2026-09-04), which supersedes the seven-proposal draft
+grid this issue's config originally carried: the standalone developer-pays
+proposal folded into local-funding-tools (whose title names impact fees),
+and the multimodal-transport proposal was dropped (its bills remain in the
+theme scorecards above and Appendices A-C).
 
-- **What citizens proposed:** give local governments new or expanded funding
-  tools — penny sales taxes, impact fees, tolls, parking fees (high
-  frequency: Columbia, Florence, Charleston; high consensus, with
-  transparency on the use of funds the attached condition).
+### [P-local-funding-tools] New or expanded local funding tools (penny / sales tax, impact fees, tolls, parking fees)
+
+- **What citizens proposed (final grid):** give local governments new or
+  expanded funding tools — penny/sales taxes, impact fees, tolls, parking
+  fees. High frequency (Columbia, Florence, Charleston); high consensus —
+  broad agreement the state needs to look for new sources of funding;
+  tradeoff: people don't like being taxed if they don't know where the
+  money is going, so any taxes should include greater transparency.
 - **What already exists:** counties can already levy a transportation penny
   tax (with tolls) by referendum (Title 4 Ch. 37) and a capital project
   penny (Title 4 Ch. 10) — the record is about widening those tools.
@@ -109,93 +118,35 @@ penny) — and the biggest money moved through the budget, not standalone law.
   the transparency condition citizens attached is structurally present in
   the ballot-question requirements (projects must be listed). Tolls on
   interstates also need federal approval, which no filed bill reached.
+- **The impact-fee tool the proposal names:** legal since 1999 (the
+  Development Impact Fee Act, 6-1-910 et seq., with strict conditions — a
+  capital improvements plan first, and no funding of maintenance or
+  operations). Ten bills in three sessions pulled in both directions —
+  expanding it (residential-only fees 125:H4659, resurfacing as a fundable
+  cost 126:H5088, a gentrification-fund developer fee 124:H3460/126:H4008,
+  pre-1999 debt payoff 124:H4943) and narrowing it for the building
+  industry (cost exclusions 125:H4981/S856/H5017, 126:H3165; repeat-buyer
+  exemption 126:H4672). Zero hearings in either direction, and the one
+  enacted impact-fee rule blocked the fees: FY 2021-22 proviso 117.96
+  (school construction, one year, not renewed). Carriers: Rep. Bailey and
+  coastal members on the narrowing side; Rep. Pendarvis on the
+  gentrification fee.
 - **Open questions for a group:** is the aim a new tool, or making the
-  existing penny usable for transit and maintenance? Why does the
-  preservation penny pass while transportation-penny expansions never get
-  a hearing in the same committees?
-
-### [P-developer-pays-growth] Make developers pay for growth (impact fees / proffers)
-
-- **What citizens proposed:** require developers to pay for the
-  infrastructure their projects create demand for, through impact fees or
-  proffers (very high frequency, all events; high consensus;
-  pass-through to home prices the named concern).
-- **What already exists:** the SC Development Impact Fee Act (1999, Section
-  6-1-910 et seq.) already authorizes local impact fees — with strict
-  conditions (a capital improvements plan; fees cannot fund maintenance or
-  operations). No proffer system exists in statute.
-- **What lawmakers have tried:** both directions, ten bills. Expanding:
-  residential-only or commercial-only fees (125:H4659), adding road
-  resurfacing as a fundable cost plus longer spending windows (126:H5088),
-  a one-time developer fee funding a Gentrification Trust Fund
-  (124:H3460, 126:H4008), pre-1999 fee revenue for debt (124:H4943).
-  Narrowing: excluding repair/maintenance/administrative costs from fees
-  (125:H4981/S856, 125:H5017, 126:H3165 — the latter two paired with
-  county-to-city development and annexation notices), exempting repeat
-  in-district home buyers (126:H4672).
-- **Where similar ideas stopped:** House Ways and Means, Senate Finance,
-  House Judiciary, or the Medical/Municipal committee — no impact-fee bill
-  received a hearing or a vote in eight years, in either direction.
-- **The one enacted impact-fee rule points the other way:** FY 2021-22
-  budget proviso 117.96 barred impact fees on new school construction for
-  one year, on pain of losing state aid — and was not renewed.
-- **Adjacent live wire:** the concurrency bills (development approvals wait
-  for infrastructure capacity: 125:H5562, 126:S227/H4050). 126:S227 got
-  further than anything in this lane — favorable committee report, amended
-  on the Senate floor April 29, 2026, died without completing passage.
-- **Who has carried them:** Rep. Bailey and coastal House members on the
-  narrowing bills; Rep. Pendarvis on the gentrification fee; Sen. Davis on
-  concurrency.
-- **Levers and venue:** impact fees are already legal — the fight is over
-  the Act's constraints (what fees can fund, who pays). A proffer system
-  would be new law. Both are state statute, Title 6.
-- **Open questions for a group:** is the proposal new authority, or easing
-  the 1999 Act's constraints (the resurfacing bill is exactly that)? How
-  does the group answer the school-proviso precedent — the one time the
-  legislature acted on impact fees, it was to block them?
-
-### [P-multimodal-transport] Public transit, rail, and multimodal options beyond roads
-
-- **What citizens proposed:** invest in public transit, rail, and
-  multimodal options rather than roads alone (high frequency, 3 events;
-  high consensus in cities; rural relevance questioned).
-- **What lawmakers have tried:** complete streets (123:H3656), SCDOT
-  feasibility reviews covering bus lanes and sidewalks (124:H3051),
-  transit-oriented development agencies (123:H3655, 125:H4013), developer
-  transit stops with tax credits (123:H3828), four rail
-  commissions/studies (123:S216, 123:H3189, 124:H3937, 126:H4122), the
-  Charlotte mass-transit connection study (123:S730), commuter rail along
-  highway rights of way (125:H5347), and the transportation-penny transit
-  clarifications counted under local funding tools.
-- **Where similar ideas stopped:** first committee, every one — mostly
-  House Education and Public Works and Senate Transportation. Zero
-  hearings across four sessions.
-- **The freight exception:** the Shortline Railroad Modernization Act (a
-  50% tax credit for small-railroad track rebuilding) passed the House
-  twice — 106–3 in 2022 (124:H4817) and 65–46 in 2023 (125:H3737) — and
-  died in Senate Finance both times.
-- **What was enacted:** transit-facility trespass (126:S399, Act 222 of
-  2026, 44–0/107–0) and the EV-charging/electrification framework
-  (124:S304, Act 46 of 2021) — order and electrification, not service.
-- **Who has carried them:** Rep. Pendarvis led seven of the eleven core
-  transit/rail bills; Sen. Scott the Senate side; Rep. Stavrinakis the
-  high-speed rail commissions.
-- **Levers and venue:** the state has no dedicated transit funding stream
-  in this record; the filed design is local-option (penny-funded) transit
-  plus state studies. SCDOT's mandate (Title 57) is the road system; the
-  complete-streets and feasibility bills tried to change that mandate.
-- **Open questions for a group:** is the aim state money, state studies, or
-  unlocking the local penny for transit (three different dead bill
-  families)? Does the twice-passed freight-rail credit signal anything
-  about what kind of rail argument moves the House?
+  existing penny and impact-fee tools usable for the costs citizens named?
+  Why does the preservation penny pass while transportation-penny
+  expansions and impact-fee bills never get a hearing in the same
+  committees? How does the group answer the school-proviso precedent — the
+  one legislative action on impact fees blocked them?
 
 ### [P-state-master-planning] State comprehensive/regional planning instead of fragmented county plans
 
-- **What citizens proposed:** state-level comprehensive or regional
-  planning for growth and infrastructure, in place of county-by-county
-  plans (very high frequency, all 4 events; mixed consensus — the
-  home-rule tension runs through it, though it was adopted as a consensus
-  recommendation at the Charleston conversation).
+- **What citizens proposed (final grid):** state comprehensive/master
+  planning vs. fragmented county plans; regional control. Very high
+  frequency (all 4 conversations); mixed consensus — some cited efficiency
+  gains from centralized planning while others remained skeptical of
+  removing local control; a consensus recommendation in Charleston;
+  tradeoff: removing local control could let the state go against
+  residents' wishes.
 - **The blunt finding:** no bill in this record proposes state or regional
   master planning. The lever citizens described has not been filed.
 - **What exists instead — state rules on local plans:** the Disaster Relief
@@ -235,8 +186,12 @@ penny) — and the biggest money moved through the budget, not standalone law.
 
 ### [P-fix-roads-first] Maintain existing roads before building new capacity
 
-- **What citizens proposed:** prioritize maintaining and repairing existing
-  roads before spending on expansion (medium frequency; mixed consensus).
+- **What citizens proposed (final grid):** fix the roads we've got first.
+  Medium frequency (Columbia and the online session); mixed consensus —
+  broad agreement that maintenance needs to be factored in, but many
+  participants want to see expanded infrastructure; tradeoff: expansion
+  expense versus maintaining what exists, with worry that too much goes to
+  capital projects and not enough to maintenance.
 - **What lawmakers have tried (bills):** the Fix Our Roads Accountability
   Act — a statewide pavement preservation program with annual reports
   (126:H5363); SCDOT must maintain roads transferred into the state system
@@ -270,9 +225,12 @@ penny) — and the biggest money moved through the budget, not standalone law.
 
 ### [P-no-new-taxes] Oppose new taxes or fees for infrastructure
 
-- **What citizens proposed:** fund infrastructure without new taxes or fees
-  (medium frequency; low consensus — a sharp split, directly conflicting
-  with the local-funding and developer-pays proposals).
+- **What citizens proposed (final grid):** no new taxes / oppose extra
+  taxes and fees. Medium frequency (multiple tables at Columbia and
+  Florence); low consensus — sharp disagreement over whether new taxes are
+  essential for improvements or the state should prioritize keeping costs
+  low; some participants argued the state's low taxes are one reason
+  infrastructure suffers.
 - **What lawmakers have tried:** ten measures against the gas user fee —
   freeze the Act 40 phase-in at eight cents (124:H4091), repeal it
   (124:H4092), suspend it for a year or until prices fall (124:H5103,
@@ -300,9 +258,12 @@ penny) — and the biggest money moved through the budget, not standalone law.
 
 ### [P-contractor-accountability] Improve the bidding process and hold contractors accountable
 
-- **What citizens proposed:** improve how road and infrastructure contracts
-  are bid and hold contractors accountable for results (medium frequency;
-  high consensus; seen as a low-cost fix).
+- **What citizens proposed (final grid):** improve the contractor bidding
+  process / hold contractors accountable. Medium frequency (the online
+  conversation and Greenville); high consensus — participants widely agreed
+  this could be a low-cost fix; participants felt the state was not getting
+  quality contractors for road repairs and pushed for more standards and
+  transparency in bidding.
 - **What lawmakers have tried:** SCDOT design-build contracting pilots
   (125:H5312, 126:H3560), the 2020 joint resolutions approving SCDOT's
   contractor performance-evaluation and contractor-disqualification
@@ -366,8 +327,9 @@ penny) — and the biggest money moved through the budget, not standalone law.
 2. The one new local tool that passed funds green space, not roads. Why did
    the same legislature that created a preservation penny never hear a
    transit-penny clarification?
-3. Impact-fee bills died in both directions for eight years, and the one
-   enacted impact-fee rule blocked the fees for schools. Is the 1999 Act's
+3. Impact fees are named inside the funding-tools proposal, and impact-fee
+   bills died in both directions for eight years while the one enacted
+   impact-fee rule blocked the fees for schools. Is the 1999 Act's
    maintenance exclusion (which H5088 tried to change) the real fight?
 4. Fix-first moves as one-time budget money ($417M, then $200M, then $225M)
    and one-year rules, never as permanent law. Is that a feature (annual
@@ -375,18 +337,14 @@ penny) — and the biggest money moved through the budget, not standalone law.
 5. SCDOT governance passed 114–0 once leadership carried it, after the same
    design died unheard in 2019 and 2024. What does that path say about the
    other unheard structural bills in this set?
-6. The freight-rail credit passed the House twice and died in Senate
-   Finance twice; no passenger-transit bill ever got a hearing. What is
-   the Senate Finance objection — cost, precedent, or priority — and how
-   would a group find out?
-7. Nothing in this record proposes state or regional planning; concurrency
+6. Nothing in this record proposes state or regional planning; concurrency
    died on the Senate calendar at the last step in 2026. Is S227's near-miss
    the opening, and does its developer-side amendment history change the
    design?
-8. The no-new-taxes and local-funding-tools proposals directly conflict —
+7. The no-new-taxes and local-funding-tools proposals directly conflict —
    but every local tool in the record is referendum-gated. Is "voters
    decide per county" the reconcilable core?
-9. Contract transparency exists as one-year provisos (dashboard, priority
+8. Contract transparency exists as one-year provisos (dashboard, priority
    lists). Should a proposal make them statute, and what is lost if they
    simply lapse?
 

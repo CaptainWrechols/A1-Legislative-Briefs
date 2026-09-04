@@ -1,6 +1,6 @@
-# Citizen Reviewer report — Growth, Infrastructure, and Roads in South Carolina (citizen-v2.0)
+# Citizen Reviewer report — Growth, Infrastructure, and Roads in South Carolina (citizen-v2.1)
 
-Citizen Reviewer v2.3 · 2026-09-01 · Verdict: **READY FOR HUMAN REVIEW**
+Citizen Reviewer v2.3 · 2026-09-01, re-reviewed 2026-09-04 · Verdict: **READY FOR HUMAN REVIEW**
 
 Package reviewed: `briefs/south-carolina/growth-infrastructure-roads/citizen-v2/`
 (combined citizen brief, standalone proposal spotlights, appendices A–I,
@@ -15,7 +15,7 @@ HTML + Word renders). Working inputs: `evidence-pack.json`,
 | A1 | PASS | The brief reports what was filed, where it stopped, and what finished; no passage tells readers or lawmakers what to pick. |
 | A2 | PASS | Proposals grouped by record status: "Where something finished" (the green-space penny, SCDOT Modernization), "Got support but didn't finish" (shortline credit, RIA package, concurrency), and "Rarely moved before" (impact fees, transit, gas-tax bills, planning); spotlights use the viability groups (already law / got support / stopped early / never filed). |
 | A4 | PASS | No pursue/adapt/avoid commands anywhere in citizen-facing text (automated scan + read-through). One "should pay" in Appendix H's restatement of a citizen proposal was rewritten to "make developers pay" during review. |
-| A5 | PASS | All seven constituent proposals covered with [P-…] labels in the front brief and spotlights: local-funding-tools, developer-pays-growth, multimodal-transport, state-master-planning, fix-roads-first, no-new-taxes, contractor-accountability. |
+| A5 | PASS | All five constituent proposals of the FINAL grid ("SC1 - Growth Infrastructure Roads", received 2026-09-04) covered with [P-…] labels in the front brief and spotlights: local-funding-tools, state-master-planning, fix-roads-first, no-new-taxes, contractor-accountability. The final grid's frequency/consensus/tradeoff descriptions are carried verbatim in substance (Appendix H). |
 | A6 | PASS | No how-to-use section, no discussion questions, no cautions or meta-commentary, no source keys in the front brief (all reviewer material is in Appendix I). |
 
 ## B. Reading level & explainers — PASS
@@ -106,6 +106,23 @@ HTML + Word renders). Working inputs: `evidence-pack.json`,
 - Proviso analysis requirement: Appendix G covers all six enacted cycles
   plus the FY 2020-21 gap, with verbatim dollar figures and the
   renumbering trails (84.9→84.8; 84.18→84.16→84.15).
+
+## Rework to the final proposal grid (2026-09-04)
+
+The brief was recentered on the five proposals of the final Phase 2 grid
+("SC1 - Growth Infrastructure Roads"), which supersedes the seven-proposal
+draft grid the issue config originally carried. The legislative record is
+unchanged. Changes: the impact-fee record now appears under
+[P-local-funding-tools] (whose final title names impact fees) and the
+standalone developer-pays spotlight was removed; the multimodal-transport
+spotlight was removed (its bills remain in Appendices A–C and the theme
+scorecards, unlabeled); all [P-…] descriptors were re-verified against the
+final grid; the config's constituent_proposals block was updated to the
+final grid (collection artifacts predate it and are untouched — noted in
+the config); the strict gate was re-run after the config change
+(PASS_WITH_WARNINGS, same two disclosed warnings). This also resolves the
+2026-09-01 flag about the draft grid's blank developer-pays table: that
+proposal is not in the final grid.
 
 ## Independent fact-check (2026-09-04)
 
