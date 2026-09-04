@@ -130,12 +130,26 @@ unverified.
    combined figure was corrected to the four utility bills only (438–1) and
    H4158 is cited separately as a housing-lane example.
 
+## Independent fact-check (2026-09-04)
+
+On request, every headline claim was re-verified against sources independent
+of the repository mirror: live scstatehouse.gov bill histories and ratified
+texts (31 headline bills — all act numbers and all cited roll calls
+matched, House "Yeas" and Senate "Ayes" lines both checked), 17
+committee-stop/conference claims, the live enacted Part IB pages (9 proviso
+citations and quoted effects), and the current SC Code (9 statute
+references), plus the State Register for Regulation 43-234. **No
+discrepancies found.** Report:
+`working/south-carolina/rising-cost-of-living/independent-fact-check-2026-09-04.md`.
+
 ## Items for the human reviewers
 
 - **Final-grid provenance (v2.1):** see the flag at the top — the source
   docx did not transfer; the reported cells need confirmation against the
   original, including whether the final grid restructured this issue's
-  proposal set.
+  proposal set. (The reported cells are process input and are not
+  fact-checkable against the legislative record; everything checkable was
+  checked — see the independent fact-check section.)
 - **Child care assistance framing (v2.1):** the topic is presented strictly
   as a record scan tied to reported legislator discussions, labeled "not a
   Phase 2 proposal" everywhere. The "what the record indicates" passages are

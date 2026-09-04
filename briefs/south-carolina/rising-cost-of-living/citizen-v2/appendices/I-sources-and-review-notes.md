@@ -46,6 +46,14 @@ brief by design.
   was programmatically matched to the corresponding bill's passage-vote
   table (zero unmatched). No committee tallies appear or are implied
   anywhere. No party labels appear anywhere (no roster join fetched).
+- Independent fact-check (2026-09-04): every headline claim was re-verified
+  against sources independent of this repository's mirror — the live
+  scstatehouse.gov bill histories and ratified texts (31 bills: all act
+  numbers and all cited roll calls matched), the live enacted Part IB pages
+  (9 provisos), and the current SC Code (9 sections), plus the State
+  Register for the graduation regulation. **No discrepancies found.** Full
+  report: `working/south-carolina/rising-cost-of-living/
+  independent-fact-check-2026-09-04.md`.
 - Pipeline: `build-curation.py` → `curation-map.json` →
   `build-evidence-pack.py` → `evidence-pack.json` → `reality-map.{json,md}`
   → this package. All working files live under

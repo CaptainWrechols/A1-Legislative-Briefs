@@ -62,5 +62,11 @@
   "Party-blind by design; ballot PDFs fetchable on demand",
   "2020 market-reform study committee report not in record"
  ],
- "version_reviewed": "citizen-v2.1 (final-grid rework + childcare topic; v2.0 reviewed 2026-08-27)"
+ "version_reviewed": "citizen-v2.1 (final-grid rework + childcare topic; v2.0 reviewed 2026-08-27)",
+ "independent_fact_check": {
+  "date": "2026-09-04",
+  "result": "NO DISCREPANCIES",
+  "method": "Live scstatehouse.gov bill histories/ratified texts (31 headline bills: all act numbers + all cited roll calls), 17 committee-stop/conference claims, live enacted Part IB pages (9 provisos), current SC Code (9 sections), State Register for Reg. 43-234",
+  "report": "working/south-carolina/rising-cost-of-living/independent-fact-check-2026-09-04.md"
+ }
 }
