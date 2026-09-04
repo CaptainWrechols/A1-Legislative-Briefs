@@ -30,7 +30,7 @@ HTML + Word renders). Working inputs: `evidence-pack.json`,
 
 | ID | Result | Notes |
 |---|---|---|
-| C1 | PASS | Front brief renders in 2 letter pages in **both** renders: HTML→PDF (headless Chrome, spotlights header first appears on page 2) and DOCX→PDF (LibreOffice, same boundary). Combined document: 6 pages HTML / 6 pages Word. |
+| C1 | PASS | Front brief renders in 2 letter pages in **both** renders (re-verified 2026-09-04 after the fact-check corrections): HTML→PDF (headless Chrome — the front brief fills page 2 exactly; the spotlights header starts page 3) and DOCX→PDF (LibreOffice — spotlights header at the end of page 2). Combined document: 6 pages in both renders. |
 | C2 | PASS | Page 1 carries the landscape, the key numbers, the required proviso callout, and the start of the where-something-finished basket — verified by text extraction in both renders. |
 | C3 | PASS | Bill-by-bill depth lives in the spotlights and appendices; the front brief cites only the load-bearing measures. |
 
@@ -106,6 +106,22 @@ HTML + Word renders). Working inputs: `evidence-pack.json`,
 - Proviso analysis requirement: Appendix G covers all six enacted cycles
   plus the FY 2020-21 gap, with verbatim dollar figures and the
   renumbering trails (84.9→84.8; 84.18→84.16→84.15).
+
+## Independent fact-check (2026-09-04)
+
+A full independent verification pass was run against live scstatehouse.gov
+(bill pages, vote histories, enacted Part IB budget text), the live SC Code
+of Laws, and secondary web sources (SCDOR, Municipal Association of SC, SC
+Council on Competitiveness): **107 of 107 automated checks pass** — every
+cited vote pair, act number, proviso number, and dollar figure verified
+verbatim against the live official record. One material completeness
+correction resulted: the SCDOT Modernization Act (Act 177 of 2026) is an
+omnibus, and the packet now reports its Pothole Mitigation Program,
+design-build/CMGC contracting authority, choice-lane toll rules, P3 cap,
+four-year external audit, commission-abolition date (January 1, 2027), and
+"C"-funds change alongside the governance headline. Full method, findings,
+and the correction log: `working/south-carolina/growth-infrastructure-roads/
+fact-check-report.md` (+ `fact-check-live.{py,json}`).
 
 ## Verdict
 

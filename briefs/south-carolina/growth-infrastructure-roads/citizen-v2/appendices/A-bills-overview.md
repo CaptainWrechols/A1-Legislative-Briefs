@@ -123,7 +123,7 @@ One row per bill in the curated set (178 bills, hand-reviewed from 5,618 keyword
 | 2025-26 | H3282 | Refile: the Lieutenant Governor would serve as Secretary of Transportation starting in 2028. | Core | Did not pass | Died in its first committee (House Judiciary) |
 | 2025-26 | H5071 | House companion to the SCDOT governance overhaul: the Governor, not the commission, would appoint the Secretary of Transportation. | Core | Did not pass | Reported out of House Ways and Means; recommitted after floor debate stalled - the Senate's S831 passed instead |
 | 2025-26 | H5362 | Would dissolve the SCDOT Commission entirely and transfer its responsibilities to the Secretary of Transportation. | Core | Did not pass | Died in its first committee (House Ways and Means) |
-| 2025-26 | S831 | The SCDOT Modernization Act (Act 177 of 2026): the Governor now appoints the Secretary of Transportation, and the seven-member SCDOT Commission's duties devolve to the secretary - the biggest governance change in this record. | Core | Became law | Became law (Act 177) |
+| 2025-26 | S831 | The SCDOT Modernization Act (Act 177 of 2026): the Governor now appoints the Secretary of Transportation and the seven-member commission is abolished January 1, 2027, its duties devolved to the secretary - plus a Pothole Mitigation Program (seven-day repairs, $15 million a year), phased design-build contracting, 'choice lane' toll rules, public-private partnership authority, a four-year outside audit, and a rewritten county 'C'-funds split. | Core | Became law | Became law (Act 177) |
 
 <!-- pdf-page-break -->
 

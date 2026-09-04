@@ -4,7 +4,7 @@ Milestone paths for the measures the front brief leans on most. Dates and action
 
 ## 2025-26 S831 — SCDOT Modernization
 
-*The SCDOT Modernization Act (Act 177 of 2026): the Governor now appoints the Secretary of Transportation, and the seven-member SCDOT Commission's duties devolve to the secretary - the biggest governance change in this record.* — Became law (Act 177)
+*The SCDOT Modernization Act (Act 177 of 2026): the Governor now appoints the Secretary of Transportation and the seven-member commission is abolished January 1, 2027, its duties devolved to the secretary - plus a Pothole Mitigation Program (seven-day repairs, $15 million a year), phased design-build contracting, 'choice lane' toll rules, public-private partnership authority, a four-year outside audit, and a rewritten county 'C'-funds split.* — Became law (Act 177)
 
 | Date | Chamber | Action |
 |---|---|---|

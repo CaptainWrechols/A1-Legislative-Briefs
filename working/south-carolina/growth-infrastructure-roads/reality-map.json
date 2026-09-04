@@ -1,6 +1,6 @@
 {
  "issue": "south-carolina-01-growth-infrastructure-roads",
- "generated_by": "reality-mapper v2.2 (issue-chat run, 2026-09-01)",
+ "generated_by": "reality-mapper v2.2 (issue-chat run, 2026-09-04)",
  "source": "working/south-carolina/growth-infrastructure-roads/evidence-pack.json",
  "baskets": {
   "often_moved": "Often moved before",
@@ -102,11 +102,12 @@
    "enacted_or_adopted": 0,
    "basket": "rarely_moved",
    "certainty": "high",
-   "typical_stop": "First committee for every bill; the money moved through budget provisos instead (86.1 yearly; $417.4M FY 2024-25, $200M FY 2025-26, $225M FY 2026-27; Road Buyback 84.18)",
+   "typical_stop": "First committee for every standalone bill; the money moved through budget provisos (86.1 yearly; $417.4M FY 2024-25, $200M FY 2025-26, $225M FY 2026-27; Road Buyback 84.18), and the pothole-reporting design passed inside Act 177 (Pothole Mitigation Program, 57-5-1800: seven-day repairs, $15M/yr)",
    "examples": [
     "126:H5363",
     "125:H4610",
-    "126:H4687"
+    "126:H4687",
+    "126:S831"
    ]
   },
   {
@@ -115,7 +116,7 @@
    "enacted_or_adopted": 1,
    "basket": "mixed",
    "certainty": "medium-high",
-   "typical_stop": "Judiciary, unheard in 2019 and 2024 - then the same design passed near-unanimously in 2026 with Senate leadership carrying it (126:S831, Act 177)",
+   "typical_stop": "Judiciary, unheard in 2019 and 2024 - then the same design passed near-unanimously in 2026 with Senate leadership carrying it (126:S831, Act 177), as an omnibus also carrying the pothole program, design-build authority, choice-lane toll rules, P3s, and a four-year audit",
    "examples": [
     "126:S831",
     "123:H3111",
@@ -129,9 +130,10 @@
    "enacted_or_adopted": 3,
    "basket": "mixed",
    "certainty": "medium",
-   "typical_stop": "Committee deaths and two regulation resolutions stranded on the 2020 calendar; edges passed (123:S401 Act 36, 126:H3768 Act 244); transparency lives in provisos (84.8 priority lists, 84.15 dashboard)",
+   "typical_stop": "Standalone bills died in committee and two regulation resolutions were stranded on the 2020 calendar - but the design-build method passed inside Act 177 (57-5-1710/57-5-1720), with P3s (max 60 years) and a four-year external audit; edges passed (123:S401 Act 36, 126:H3768 Act 244); transparency lives in provisos (84.8 priority lists, 84.15 dashboard)",
    "examples": [
     "125:H5312",
+    "126:S831",
     "123:S1069",
     "123:S401",
     "126:H3768"
@@ -424,7 +426,7 @@
    "proposal_id": "local-funding-tools",
    "citizens_proposed": "New or expanded local funding tools: penny sales taxes, impact fees, tolls, parking fees (high frequency; high consensus; transparency on use of funds the attached condition).",
    "lawmakers_tried": "Widening the existing referendum-gated pennies: transit eligibility filed all four sessions, penny stacking (124:H3129), 11-year reimposition (125:S116), grocery carve-outs; five I-95 toll bills; a local-option gas tax (123:S172). All died in first committee. Enacted: the County Green Space Sales Tax Act (124:S152, Act 166 of 2022, 43-1/41-3/67-28) - the one new local penny - plus flexibility acts (123:S217 Act 146, 124:S40 Act 89, 126:H4589 Act 203).",
-   "where_similar_stopped": "Senate Finance, House Ways and Means, Senate Transportation - no hearings.",
+   "where_similar_stopped": "Senate Finance, House Ways and Means, Senate Transportation - no hearings. The toll framework itself was later rewritten inside Act 177 of 2026: usage charges only on new-capacity 'choice lanes', never on existing free lanes.",
    "adjacent_carriers": [
     "Sen. Davis",
     "Sen. Scott",
@@ -490,8 +492,8 @@
   {
    "proposal_id": "fix-roads-first",
    "citizens_proposed": "Maintain and repair existing roads before spending on expansion (medium frequency; mixed consensus).",
-   "lawmakers_tried": "Pavement preservation program (126:H5363, 'Fix Our Roads Accountability Act'), SCDOT must maintain transferred roads (125:H4610), pothole hotlines (124:H3871, 125:H3451), sheriff road-hazard reports (126:H4687). All died in first committee.",
-   "where_similar_stopped": "Bills: first committee, every one. Money: moved through the budget - proviso 86.1 (yearly fix-it-first rule for CTC money), $417.4M FY 2024-25 (CTC $200M + bridges $100M + rural road safety $117.4M), $200M FY 2025-26 bridges, $225M FY 2026-27, Road Buyback Program (84.18, new FY 2026-27).",
+   "lawmakers_tried": "Pavement preservation program (126:H5363, 'Fix Our Roads Accountability Act'), SCDOT must maintain transferred roads (125:H4610), pothole hotlines (124:H3871, 125:H3451), sheriff road-hazard reports (126:H4687). All died in first committee - but the pothole-reporting design passed inside the SCDOT Modernization Act (126:S831, Act 177 of 2026): the Pothole Mitigation Program (57-5-1800), with public reporting, a seven-day repair rule, and $15M a year for repeat potholes.",
+   "where_similar_stopped": "Standalone bills: first committee, every one. Money: moved through the budget - proviso 86.1 (yearly fix-it-first rule for CTC money), $417.4M FY 2024-25 (CTC $200M + bridges $100M + rural road safety $117.4M), $200M FY 2025-26 bridges, $225M FY 2026-27, Road Buyback Program (84.18, new FY 2026-27). Act 177 also reset the county 'C'-funds rule to a 33% state-highway share.",
    "adjacent_carriers": [
     "Rep. White (the 2026 four-bill package)",
     "Rep. J.L. Johnson (hotlines)",
@@ -522,7 +524,7 @@
    "proposal_id": "contractor-accountability",
    "citizens_proposed": "Improve bidding for road and infrastructure contracts and hold contractors accountable for results (medium frequency; high consensus; seen as low-cost).",
    "lawmakers_tried": "Design-build pilots (125:H5312, 126:H3560), the 2020 SCDOT contractor performance-evaluation and disqualification regulation resolutions (123:S1069/S1070, stranded on the calendar at COVID), expenditure-report certification (124:H4090), DBE goals (123:S385/H4401/H4823), the P3 framework (124:H3559).",
-   "where_similar_stopped": "Committee or calendar; no floor votes. Edges passed: utility-relocation costs (123:S401, Act 36 of 2019, extended by 126:H3768, Act 244 of 2026) and contractor licensing (125:H4115, Act 69).",
+   "where_similar_stopped": "Committee or calendar for the standalone bills; no floor votes. The method then passed inside Act 177 of 2026 (126:S831): phased design-build (57-5-1710), CM/GC authority (57-5-1720), P3 agreements up to 60 years (57-3-205), and a four-year external performance audit. Edges passed: utility-relocation costs (123:S401, Act 36 of 2019, extended by 126:H3768, Act 244 of 2026) and contractor licensing (125:H4115, Act 69).",
    "adjacent_carriers": [
     "Rep. Brewer (design-build, Act 36 extension)",
     "Rep. Haddon"
@@ -535,7 +537,7 @@
   }
  ],
  "recent_enactments_watchlist": [
-  "126:S831 - SCDOT Modernization Act (Act 177 of 2026, Senate 37-1, House 114-0, conference 112-2/43-0): governor appoints the secretary; commission duties devolve",
+  "126:S831 - SCDOT Modernization Act (Act 177 of 2026, Senate 37-1, House 114-0, conference 112-2/43-0): governor appoints the secretary; commission abolished January 1, 2027; plus the Pothole Mitigation Program (57-5-1800), phased design-build/CMGC (57-5-1710/1720), choice-lane toll rules, P3s (max 60 years), a four-year external audit, and a 33% county 'C'-funds split",
   "126:H3768 - Act 244 of 2026 (103-0/44-0): utility-relocation rule extended to 2032 + NEPA-assignment consent",
   "126:H4589 - Act 203 of 2026 (81-18/40-2/91-14): school-buildings penny opened to more counties",
   "126:S399 - Act 222 of 2026 (44-0/107-0): transit-facility trespass",

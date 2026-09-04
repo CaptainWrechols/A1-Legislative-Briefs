@@ -1,0 +1,545 @@
+{
+ "generated_by": "fact-check-live.py (independent live verification, scstatehouse.gov)",
+ "checks": [
+  {
+   "check": "bill 126:S831 Act 177",
+   "ok": true,
+   "detail": "live act_no='A177, R156, S831'"
+  },
+  {
+   "check": "bill 126:S831 page has 'POTHOLE MITIGATION PROGRAM'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 126:S831 page has 'CHOICE LANE FACILITIES'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 126:S831 page has 'PHASED DESIGN-BUILD'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 126:S831 page has 'PUBLIC-PRIVATE PARTNERSHIPS'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 126:S831 page has 'INDEPENDENT AUDIT OF THE DEPARTMENT EVERY FOUR YEARS'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 126:S831 page has 'fifteen million dollars'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 126:S831 page has 'within seven days'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 126:S831 page has 'thirty-three percent'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 126:S831 page has 'not exceed sixty years'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 124:S152 Act 166",
+   "ok": true,
+   "detail": "live act_no='A166, R166, S152'"
+  },
+  {
+   "check": "bill 123:S259 Act 163",
+   "ok": true,
+   "detail": "live act_no='A163, R153, S259'"
+  },
+  {
+   "check": "bill 123:S401 Act 36",
+   "ok": true,
+   "detail": "live act_no='A36, R49, S401'"
+  },
+  {
+   "check": "bill 124:H3505 Act 70",
+   "ok": true,
+   "detail": "live act_no='A70, R86, H3505'"
+  },
+  {
+   "check": "bill 126:H3768 Act 244",
+   "ok": true,
+   "detail": "live act_no='A244, R265, H3768'"
+  },
+  {
+   "check": "bill 126:H4589 Act 203",
+   "ok": true,
+   "detail": "live act_no='A203, R250, H4589'"
+  },
+  {
+   "check": "bill 126:S399 Act 222",
+   "ok": true,
+   "detail": "live act_no='A222, R224, S399'"
+  },
+  {
+   "check": "bill 123:H4262 Act 179",
+   "ok": true,
+   "detail": "live act_no='A179, R190, H4262'"
+  },
+  {
+   "check": "bill 123:S217 Act 146",
+   "ok": true,
+   "detail": "live act_no='A146, R152, S217'"
+  },
+  {
+   "check": "bill 124:S40 Act 89",
+   "ok": true,
+   "detail": "live act_no='A89, R101, S40'"
+  },
+  {
+   "check": "bill 124:S304 Act 46",
+   "ok": true,
+   "detail": "live act_no='A46, R59, S304'"
+  },
+  {
+   "check": "bill 125:H4115 Act 69",
+   "ok": true,
+   "detail": "live act_no='A69, R87, H4115'"
+  },
+  {
+   "check": "bill 126:S227 page has 'Committee report: Favorable with amendment'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 126:S227 page has 'Amended'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 126:S227 NOT enacted",
+   "ok": true,
+   "detail": "live act_no=''"
+  },
+  {
+   "check": "bill 126:H5071 page has 'Recommitted to Committee on Ways and Means'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 126:H5071 NOT enacted",
+   "ok": true,
+   "detail": "live act_no=''"
+  },
+  {
+   "check": "bill 124:H4817 page has 'Read third time and sent to Senate'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 124:H4817 page has 'Referred to Committee on Finance'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 124:H4817 NOT enacted",
+   "ok": true,
+   "detail": "live act_no=''"
+  },
+  {
+   "check": "bill 125:H3737 page has 'Read third time and sent to Senate'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 125:H3737 page has 'Referred to Committee on Finance'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 125:H3737 NOT enacted",
+   "ok": true,
+   "detail": "live act_no=''"
+  },
+  {
+   "check": "bill 125:H3075 page has 'Read third time and sent to Senate'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 125:H3075 page has 'Referred to Committee on Finance'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 125:H3075 NOT enacted",
+   "ok": true,
+   "detail": "live act_no=''"
+  },
+  {
+   "check": "bill 123:S1069 page has 'placed on calendar without reference'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 123:S1069 NOT enacted",
+   "ok": true,
+   "detail": "live act_no=''"
+  },
+  {
+   "check": "bill 123:S1070 page has 'placed on calendar without reference'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 123:S1070 NOT enacted",
+   "ok": true,
+   "detail": "live act_no=''"
+  },
+  {
+   "check": "bill 126:H5363 page has 'Referred to Committee on Ways and Means'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 126:H5363 NOT enacted",
+   "ok": true,
+   "detail": "live act_no=''"
+  },
+  {
+   "check": "bill 126:H5742 page has 'Referred to Committee on Judiciary'",
+   "ok": true,
+   "detail": "searched live page text (history/long title)"
+  },
+  {
+   "check": "bill 126:H5742 NOT enacted",
+   "ok": true,
+   "detail": "live act_no=''"
+  },
+  {
+   "check": "vote 126:S831 37-1 3rd Reading",
+   "ok": true,
+   "detail": "3rd Reading"
+  },
+  {
+   "check": "vote 126:S831 114-0 Passage",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 126:S831 112-2 Conference",
+   "ok": true,
+   "detail": "Adopt Conference Report"
+  },
+  {
+   "check": "vote 126:S831 43-0 conference",
+   "ok": true,
+   "detail": "to adopt the conference report"
+  },
+  {
+   "check": "vote 124:S152 43-1 2nd",
+   "ok": true,
+   "detail": "2nd Reading"
+  },
+  {
+   "check": "vote 124:S152 41-3 3rd",
+   "ok": true,
+   "detail": "3rd Reading"
+  },
+  {
+   "check": "vote 124:S152 67-28 Passage",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 123:S259 44-1 2nd",
+   "ok": true,
+   "detail": "2nd Reading"
+  },
+  {
+   "check": "vote 123:S259 65-35 Passage",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 123:S401 38-0 2nd",
+   "ok": true,
+   "detail": "2nd Reading"
+  },
+  {
+   "check": "vote 123:S401 108-0 Passage",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 124:H3505 106-4 (any motion)",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 124:H3505 42-2 (any motion)",
+   "ok": true,
+   "detail": "2nd Reading"
+  },
+  {
+   "check": "vote 126:H3768 103-0 Passage",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 126:H3768 44-0 2nd",
+   "ok": true,
+   "detail": "2nd Reading"
+  },
+  {
+   "check": "vote 126:H4589 81-18 (any motion)",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 126:H4589 40-2 (any motion)",
+   "ok": true,
+   "detail": "3rd Reading"
+  },
+  {
+   "check": "vote 126:H4589 91-14 (any motion)",
+   "ok": true,
+   "detail": "Concur in Senate Amendments"
+  },
+  {
+   "check": "vote 126:S399 44-0 (any motion)",
+   "ok": true,
+   "detail": "2nd Reading"
+  },
+  {
+   "check": "vote 126:S399 107-0 Passage",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 123:H4262 108-2 (any motion)",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 123:H4262 32-6 (any motion)",
+   "ok": true,
+   "detail": "2nd Reading"
+  },
+  {
+   "check": "vote 123:H4262 104-1 (any motion)",
+   "ok": true,
+   "detail": "Concur in Senate Amendments"
+  },
+  {
+   "check": "vote 123:S217 34-2 (any motion)",
+   "ok": true,
+   "detail": "3rd Reading"
+  },
+  {
+   "check": "vote 123:S217 87-15 (any motion)",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 124:S40 44-0 (any motion)",
+   "ok": true,
+   "detail": "2nd Reading"
+  },
+  {
+   "check": "vote 124:S40 102-10 (any motion)",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 124:H4817 106-3 Passage",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 125:H3737 65-46 (any motion)",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 125:H3075 112-0 Passage",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 125:H4115 90-15 (any motion)",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 125:H4115 42-0 (any motion)",
+   "ok": true,
+   "detail": "3rd Reading"
+  },
+  {
+   "check": "vote 125:H4115 107-0 (any motion)",
+   "ok": true,
+   "detail": "Concur in Senate Amendments"
+  },
+  {
+   "check": "vote 124:S304 43-1 (any motion)",
+   "ok": true,
+   "detail": "2nd Reading"
+  },
+  {
+   "check": "vote 124:S304 110-2 (any motion)",
+   "ok": true,
+   "detail": "Passage of Bill"
+  },
+  {
+   "check": "vote 123:H4369 107-0 (any motion)",
+   "ok": true,
+   "detail": "Passage of Joint Resolution"
+  },
+  {
+   "check": "FY2021 proviso 117.96 caption ~ 'School Construction Development Impact Fee Assessment Prohibition'",
+   "ok": true,
+   "detail": "live caption='GP: School Construction Development Impact Fee Assessment Prohibition'"
+  },
+  {
+   "check": "FY2021 proviso 86.1 caption ~ 'Increased Funding'",
+   "ok": true,
+   "detail": "live caption='CTC: Increased Funding'"
+  },
+  {
+   "check": "FY2021 proviso 86.1 text has 'repairs, maintenance, and improvements'",
+   "ok": true,
+   "detail": "verbatim figure check against live enacted text"
+  },
+  {
+   "check": "FY2021 proviso 84.12 caption ~ 'Preventative Maintenance Credit'",
+   "ok": true,
+   "detail": "live caption='DOT: Preventative Maintenance Credit'"
+  },
+  {
+   "check": "FY2021 proviso 118.18 caption ~ 'Nonrecurring Revenue'",
+   "ok": true,
+   "detail": "live caption='SR: Nonrecurring Revenue'"
+  },
+  {
+   "check": "FY2021 proviso 118.18 text has '$ 200,000,000'",
+   "ok": true,
+   "detail": "verbatim figure check against live enacted text"
+  },
+  {
+   "check": "FY2022 proviso 118.19 caption ~ 'Nonrecurring Revenue'",
+   "ok": true,
+   "detail": "live caption='SR: Nonrecurring Revenue'"
+  },
+  {
+   "check": "FY2022 proviso 118.19 text has '133,636,230'",
+   "ok": true,
+   "detail": "verbatim figure check against live enacted text"
+  },
+  {
+   "check": "FY2024 proviso 118.22 caption ~ 'Homestead Exemption Fund'",
+   "ok": true,
+   "detail": "live caption='SR: Homestead Exemption Fund'"
+  },
+  {
+   "check": "FY2024 proviso 118.22 text has 'CTC Acceleration Fund $200,000,000'",
+   "ok": true,
+   "detail": "verbatim figure check against live enacted text"
+  },
+  {
+   "check": "FY2024 proviso 84.18 caption ~ 'Programmed Project Viewer Dashboard'",
+   "ok": true,
+   "detail": "live caption='DOT: Programmed Project Viewer Dashboard'"
+  },
+  {
+   "check": "FY2025 proviso 118.22 caption ~ 'Nonrecurring Revenue'",
+   "ok": true,
+   "detail": "live caption='SR: Nonrecurring Revenue'"
+  },
+  {
+   "check": "FY2025 proviso 118.22 text has 'Bridge Modernization $ 200,000,000'",
+   "ok": true,
+   "detail": "verbatim figure check against live enacted text"
+  },
+  {
+   "check": "FY2025 Preventative Maintenance Credit absent",
+   "ok": true,
+   "detail": "confirms the proviso stopped appearing"
+  },
+  {
+   "check": "FY2026 proviso 84.18 caption ~ 'Road Buyback Program'",
+   "ok": true,
+   "detail": "live caption='DOT: Road Buyback Program'"
+  },
+  {
+   "check": "FY2026 proviso 84.18 text has 'Section 57-5-80'",
+   "ok": true,
+   "detail": "verbatim figure check against live enacted text"
+  },
+  {
+   "check": "FY2026 proviso 118.21 caption ~ 'Nonrecurring Revenue'",
+   "ok": true,
+   "detail": "live caption='SR: Nonrecurring Revenue'"
+  },
+  {
+   "check": "FY2026 proviso 118.21 text has 'CTC Acceleration $ 175,000,000'",
+   "ok": true,
+   "detail": "verbatim figure check against live enacted text"
+  },
+  {
+   "check": "FY2026 proviso 86.1 caption ~ 'Increased Funding'",
+   "ok": true,
+   "detail": "live caption='CTC: Increased Funding'"
+  },
+  {
+   "check": "FY2026 Preventative Maintenance Credit absent",
+   "ok": true,
+   "detail": "confirms the proviso stopped appearing"
+  },
+  {
+   "check": "SC Code: 6-1-910 impact fee article exists",
+   "ok": true,
+   "detail": "searched t06c001.php"
+  },
+  {
+   "check": "SC Code: impact fees exclude maintenance/operation",
+   "ok": true,
+   "detail": "searched t06c001.php"
+  },
+  {
+   "check": "SC Code: 4-10-310 capital project sales tax",
+   "ok": true,
+   "detail": "searched t04c010.php"
+  },
+  {
+   "check": "SC Code: green space sales tax article",
+   "ok": true,
+   "detail": "searched t04c010.php"
+  },
+  {
+   "check": "SC Code: 4-37-30 transportation sales tax / tolls",
+   "ok": true,
+   "detail": "searched t04c037.php"
+  },
+  {
+   "check": "SC Code: 12-28-310 gas user fee phase-in",
+   "ok": true,
+   "detail": "searched t12c028.php"
+  },
+  {
+   "check": "SC Code: Act 40 two-cents-a-year language",
+   "ok": true,
+   "detail": "searched t12c028.php"
+  }
+ ],
+ "totals": {
+  "pass": 107,
+  "fail": 0,
+  "total": 107
+ }
+}

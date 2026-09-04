@@ -27,7 +27,9 @@ for human review.
   five I-95 toll bills and the local-option gas fee died the same way. The
   one new tool enacted is the County Green Space Sales Tax (Act 166 of
   2022) — for preservation, not roads. Flexibility acts passed at the
-  edges (tourism-tax drainage repairs, beach parking, the school penny).
+  edges (tourism-tax drainage repairs, beach parking, the school penny),
+  and the SCDOT Modernization Act (Act 177 of 2026) rewrote the state
+  toll framework: usage charges only on new-capacity "choice lanes."
   The transparency condition is structurally present: every local tool
   requires a referendum whose ballot lists the projects.
 - **Status:** partially existing law; expansions rarely moved.
@@ -84,14 +86,18 @@ for human review.
 
 - **What citizens said:** prioritize maintaining existing roads before
   expansion; medium frequency, mixed consensus.
-- **What the record shows:** every maintenance-accountability bill died in
+- **What the record shows:** every standalone maintenance bill died in
   first committee (pavement preservation, transferred-roads maintenance,
-  pothole hotlines, hazard reports). The idea is real in the budget: the
-  yearly CTC fix-it-first rule (86.1), $417.4M (FY 2024-25), $200M
-  (FY 2025-26), $225M (FY 2026-27) in one-time repair money, and the new
-  Road Buyback Program — all one-year rules and one-time sums, not
-  permanent law.
-- **Status:** bills rarely moved; money moved through the budget.
+  pothole hotlines, hazard reports) — but the pothole-reporting design
+  became permanent law inside the SCDOT Modernization Act (Act 177 of
+  2026): the Pothole Mitigation Program, with public reporting, a
+  seven-day repair requirement, and $15 million a year for repeat
+  potholes. The rest of the idea is real in the budget: the yearly CTC
+  fix-it-first rule (86.1), $417.4M (FY 2024-25), $200M (FY 2025-26),
+  $225M (FY 2026-27) in one-time repair money, and the new Road Buyback
+  Program — one-year rules and one-time sums, not permanent law.
+- **Status:** standalone bills rarely moved; one piece enacted inside
+  Act 177; money moved through the budget.
 
 ## [P-no-new-taxes] Oppose new taxes or fees for infrastructure
 
@@ -112,14 +118,20 @@ for human review.
 - **What citizens said:** improve how road and infrastructure contracts are
   bid and hold contractors accountable for results; medium frequency, high
   consensus; seen as a low-cost fix.
-- **What the record shows:** design-build bidding died twice in committee;
-  SCDOT's own contractor performance-evaluation and disqualification
-  regulations were stranded on the 2020 Senate calendar; expenditure-report
-  certification died in Ways and Means. What exists today is proviso-based
-  transparency: published project priority lists with ranking methodology
-  (renewed yearly) and the public project dashboard directive with
+- **What the record shows:** the standalone design-build bills died twice
+  in committee — and the method then passed inside the SCDOT Modernization
+  Act (Act 177 of 2026), which gave SCDOT phased design-build and
+  construction manager/general contractor authority, capped public-private
+  partnership agreements at sixty years, and requires an independent
+  external audit of SCDOT every four years. SCDOT's own contractor
+  performance-evaluation and disqualification regulations were stranded on
+  the 2020 Senate calendar; expenditure-report certification died in Ways
+  and Means. What exists beyond Act 177 is proviso-based transparency:
+  published project priority lists with ranking methodology (renewed
+  yearly) and the public project dashboard directive with
   forecast-versus-actual costs (FY 2024-25 onward) — one-year rules that
   lapse if a budget drops them. Edges passed as law: utility-relocation
   costs (Act 36 of 2019, extended by Act 244 of 2026) and contractor
   licensing (Act 69 of 2023).
-- **Status:** bills rarely moved; transparency tools exist as provisos.
+- **Status:** standalone bills rarely moved; the bidding method and audit
+  were enacted inside Act 177; transparency tools exist as provisos.

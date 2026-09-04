@@ -12,7 +12,7 @@ became law), "Got support but didn't finish" (real momentum, no enactment),
 - **Basket:** Mixed — **certainty: medium-high**
 - The one genuinely new local tool passed: the County Green Space Sales Tax Act (2021-22 S152, Act 166 of 2022; Senate 43–1 and 41–3, House 67–28) — a voter-approved preservation penny.
 - Every bill widening the *transportation* penny died in first committee without a hearing: transit-eligibility clarifications filed in all four sessions (2019-20 S611/H4389, 2021-22 H3535/S437, 2023-24 S290/S562/H4059, 2025-26 S979), penny stacking (2021-22 H3129), eleven-year reimposition (2023-24 S116), grocery exemptions (2023-24 H5188/S1113).
-- All five I-95 toll bills died in first committee (2019-20 S178/H3739/S780, 2023-24 S499/S674), as did the local-option gas fee (2019-20 S172).
+- All five I-95 toll bills died in first committee (2019-20 S178/H3739/S780, 2023-24 S499/S674), as did the local-option gas fee (2019-20 S172). The toll framework itself was then rewritten inside the SCDOT Modernization Act (Act 177 of 2026): usage charges only on new-capacity "choice lanes," never on existing free lanes.
 - Flexibility acts passed at the edges: tourism taxes for flooding and drainage (2019-20 S217, Act 146, 34–2/87–15), beach-parking rules (2021-22 S40, Act 89, 44–0/102–10), the school-buildings penny opened to more counties (2025-26 H4589, Act 203, 81–18/40–2/91–14).
 
 ## Making developers pay (impact fees)
@@ -37,14 +37,16 @@ became law), "Got support but didn't finish" (real momentum, no enactment),
 
 - **Bills:** 9 — **Enacted: 0**
 - **Basket:** Rarely moved before (bills) — **certainty: high**
-- Every maintenance-accountability bill died in first committee: the pavement preservation program (2025-26 H5363), SCDOT must maintain transferred roads (2023-24 H4610), pothole hotlines (2021-22 H3871, 2023-24 H3451), sheriff road-hazard reports (2025-26 H4687), private-road maintenance (2023-24 H3516).
-- The fix-first money moved through budget provisos instead: the yearly CTC fix-it-first rule (86.1), $417.4M in FY 2024-25, $200M in FY 2025-26, $225M in FY 2026-27, and the new Road Buyback Program (FY 2026-27 proviso 84.18). See Appendix G.
+- Every standalone maintenance-accountability bill died in first committee: the pavement preservation program (2025-26 H5363), SCDOT must maintain transferred roads (2023-24 H4610), pothole hotlines (2021-22 H3871, 2023-24 H3451), sheriff road-hazard reports (2025-26 H4687), private-road maintenance (2023-24 H3516).
+- The pothole-reporting design passed inside the SCDOT Modernization Act (2025-26 S831, Act 177 of 2026): the Pothole Mitigation Program (Section 57-5-1800) — public reporting by phone, website, or a free mobile app; a seven-day repair requirement; $15,000,000 a year for full-depth repair of repeat potholes.
+- The fix-first money moved through budget provisos: the yearly CTC fix-it-first rule (86.1), $417.4M in FY 2024-25, $200M in FY 2025-26, $225M in FY 2026-27, and the new Road Buyback Program (FY 2026-27 proviso 84.18). See Appendix G.
 
 ## Who runs SCDOT (governance and accountability)
 
 - **Bills:** 10 — **Enacted: 1**
 - **Basket:** Mixed — **certainty: medium-high**
-- The governor-appoints-the-secretary design died unheard in 2019 (H3111) and 2024 (H5045, H4969) — then passed near-unanimously in 2026 as the SCDOT Modernization Act (S831, Act 177: Senate 37–1, House 114–0, conference report 112–2 and 43–0), with Senate leadership carrying it.
+- The governor-appoints-the-secretary design died unheard in 2019 (H3111) and 2024 (H5045, H4969) — then passed near-unanimously in 2026 as the SCDOT Modernization Act (S831, Act 177: Senate 37–1, House 114–0, conference report 112–2 and 43–0), with Senate leadership carrying it. The commission is abolished January 1, 2027.
+- Act 177 is an omnibus, not governance alone: it also created the Pothole Mitigation Program (Section 57-5-1800), enacted phased design-build and construction manager/general contractor authority (57-5-1710/1720), rewrote toll rules around new-capacity "choice lanes," authorized public-private partnerships up to sixty years (57-3-205), required an independent external audit of SCDOT every four years, and reset the county "C"-funds split to a thirty-three percent state-highway share.
 - The House's own version (2025-26 H5071) was recommitted after floor debate stalled; the dissolve-the-commission bill (2025-26 H5362) and the Lieutenant-Governor-as-secretary design (2023-24 H4629, 2025-26 H3282) died in committee.
 - SCDOT expenditure-report certification (2021-22 H4090) died in Ways and Means; the project-prioritization regulation resolution (2019-20 H4369) passed the House 107–0 and was recommitted in the Senate.
 
@@ -52,7 +54,8 @@ became law), "Got support but didn't finish" (real momentum, no enactment),
 
 - **Bills:** 16 — **Enacted: 3**
 - **Basket:** Mixed (edges only) — **certainty: medium**
-- The bidding bills never reached a floor vote: design-build pilots (2023-24 H5312, 2025-26 H3560), the 2020 contractor performance-evaluation and disqualification regulation resolutions (S1069, S1070 — stranded on the Senate calendar at COVID), DBE contracting (2019-20 S385/H4401/H4823), the P3 framework (2021-22 H3559).
+- The standalone bidding bills never reached a floor vote: design-build pilots (2023-24 H5312, 2025-26 H3560), the 2020 contractor performance-evaluation and disqualification regulation resolutions (S1069, S1070 — stranded on the Senate calendar at COVID), DBE contracting (2019-20 S385/H4401/H4823), the P3 framework (2021-22 H3559).
+- The method then passed inside the SCDOT Modernization Act (2025-26 S831, Act 177 of 2026): phased design-build (57-5-1710), construction manager/general contractor authority (57-5-1720), P3 agreements capped at sixty years (57-3-205), and a required independent external audit of SCDOT every four years.
 - Edges passed: utility-relocation costs on road projects (2019-20 S401, Act 36, 38–0/108–0; extended to 2032 by 2025-26 H3768, Act 244, 103–0/44–0) and the contractor-licensing rewrite (2023-24 H4115, Act 69 — licensing, not road bidding).
 - The transparency tools live in provisos: published project priority lists with methodology (84.8/84.9, yearly) and the Programmed Project Viewer dashboard directive (84.18 FY 2024-25 onward). See Appendix G.
 

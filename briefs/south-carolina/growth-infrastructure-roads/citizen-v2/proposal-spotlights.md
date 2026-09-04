@@ -23,6 +23,7 @@ A focused, bill-by-bill look at how far each Phase 2 growth-and-roads proposal h
 - **S217 (Act 146 of 2020):** tourism (hospitality) tax revenue can fund control and repair of flooding and drainage in tourism areas; Senate 34–2, House 87–15.
 - **S40 (Act 89 of 2021):** state rules for municipal restrictions and paid parking on state highways in beach communities, with directions for the parking money; Senate 44–0, House 102–10.
 - **H4589 (Act 203 of 2026):** the local-option education capital improvements penny opened to more counties; House 81–18 and 91–14, Senate 40–2.
+- **S831 (Act 177 of 2026), toll provisions:** the SCDOT Modernization Act rewrote the state toll framework — usage charges may only be imposed on new-capacity "choice lanes," and existing free lanes cannot be tolled.
 
 ### Stopped early (died in first committee, no recorded vote)
 - **Transportation penny for transit — filed every session:** S611 and H4389 (2019), H3535 and S437 (2021), S290 (2023) — defining "mass transit system" so penny revenue clearly funds transit; S562 and H4059 (2023) — adding ferries, greenbelts, and drainage to fundable projects; S979 (2026) — greenways, flood-prevention drainage, and ballot language to extend the tax; S594 (2019) — the funding-revisions version.
@@ -90,7 +91,10 @@ A focused, bill-by-bill look at how far each Phase 2 growth-and-roads proposal h
 
 ## Maintain existing roads first [P-fix-roads-first]
 
-*Every maintenance bill died in first committee. The fix-first money is real — in the annual budget.*
+*Every standalone maintenance bill died in first committee — but the pothole-reporting design passed inside the SCDOT Modernization Act, and the fix-first money is real in the annual budget.*
+
+### Already law (inside the SCDOT Modernization Act)
+- **S831 (Act 177 of 2026), maintenance provisions:** the Pothole Mitigation Program (new Section 57-5-1800) — the public reports potholes by phone, website, or a free mobile app, SCDOT must repair each reported pothole within seven days, and $15,000,000 a year is set aside from the Infrastructure Maintenance Trust Fund for full-depth repair of repeat potholes. The act also reset the county "C"-funds rule: a thirty-three percent state-highway share, with the remaining share at the county transportation committee's discretion.
 
 ### Stopped early (died in first committee, no recorded vote)
 - **H5363 (2026):** the "Fix Our Roads Accountability Act" — a statewide pavement preservation program run through SCDOT's engineering districts, with annual reports.
@@ -124,14 +128,17 @@ A focused, bill-by-bill look at how far each Phase 2 growth-and-roads proposal h
 
 ## Better bidding and contractor accountability [P-contractor-accountability]
 
-*No bidding bill reached a floor vote; the transparency tools exist as one-year budget rules.*
+*No standalone bidding bill reached a floor vote — but the design-build method passed inside the SCDOT Modernization Act; the transparency tools exist as one-year budget rules.*
+
+### Already law (inside the SCDOT Modernization Act)
+- **S831 (Act 177 of 2026), contracting provisions:** phased design-build authority (new Section 57-5-1710) and construction manager/general contractor authority (57-5-1720) for SCDOT; public-private partnership agreements capped at sixty years (57-3-205); and a required independent external performance and organizational audit of SCDOT every four years.
 
 ### Already law (edges of the lane)
 - **S401 (Act 36 of 2019):** entities building transportation projects bear the cost of relocating water and sewer lines; Senate 38–0, House 108–0. Extended to 2032 by **H3768 (Act 244 of 2026)**, 103–0 and 44–0.
 - **H4115 (Act 69 of 2023):** the contractor licensing law rewrite — definitions, thresholds, penalties (licensing, not road bidding); House 90–15, Senate 42–0.
 
 ### Stopped early or stranded
-- **Design-build:** H5312 (2024) and H3560 (2025) — SCDOT could award contracts by progressive/phase design-build (qualifications first, then price); died in Ways and Means and Education and Public Works.
+- **Design-build (standalone bills):** H5312 (2024) and H3560 (2025) — SCDOT could award contracts by progressive/phase design-build (qualifications first, then price); died in Ways and Means and Education and Public Works before the method was enacted inside Act 177.
 - **SCDOT's contractor regulations (2020):** S1069 — the contractor performance-evaluation regulation; S1070 — disqualification and suspension from SCDOT contracts; both placed on the Senate calendar and never taken up when COVID ended the session.
 - **Oversight and access:** H4090 (2021) — the secretary would certify and publish SCDOT's expenditure report, including infrastructure-bank transfers; S385, H4401, H4823 (2019–20) — extend disadvantaged-business participation rules across highway contracts and subcontracts; H3559 (2021) — the Partnership for Public Facilities and Infrastructure Act (public-private partnerships); H4369 (2019) — the resolution approving SCDOT's project-prioritization regulation passed the House 107–0 and was recommitted in Senate Transportation; H3119 (2023) and H3344 (2025) — no critical-infrastructure contracts with certain foreign-owned companies.
 

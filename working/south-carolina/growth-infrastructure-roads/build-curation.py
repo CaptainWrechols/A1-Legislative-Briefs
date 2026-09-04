@@ -145,7 +145,7 @@ KEEP = {
     # ------------------------------------------------------------------
     # Who runs SCDOT. The governance fight: governor-appointed secretary
     # vs. the seven-member commission - ending in Act 177 of 2026.
-    (126, "S831"):  ("core", T_SCDOT, "The SCDOT Modernization Act (Act 177 of 2026): the Governor now appoints the Secretary of Transportation, and the seven-member SCDOT Commission's duties devolve to the secretary - the biggest governance change in this record."),
+    (126, "S831"):  ("core", T_SCDOT, "The SCDOT Modernization Act (Act 177 of 2026): the Governor now appoints the Secretary of Transportation and the seven-member commission is abolished January 1, 2027, its duties devolved to the secretary - plus a Pothole Mitigation Program (seven-day repairs, $15 million a year), phased design-build contracting, 'choice lane' toll rules, public-private partnership authority, a four-year outside audit, and a rewritten county 'C'-funds split."),
     (126, "H5071"): ("core", T_SCDOT, "House companion to the SCDOT governance overhaul: the Governor, not the commission, would appoint the Secretary of Transportation."),
     (126, "H5362"): ("core", T_SCDOT, "Would dissolve the SCDOT Commission entirely and transfer its responsibilities to the Secretary of Transportation."),
     (123, "H3111"): ("core", T_SCDOT, "The same design six years earlier: governor appoints the secretary and the commission's duties devolve - filed in 2019, never heard."),

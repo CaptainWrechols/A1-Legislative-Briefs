@@ -95,5 +95,15 @@
   "Ryan Echols",
   "Jodi Stephens",
   "Ashley Lovell"
- ]
+ ],
+ "independent_fact_check": {
+  "date": "2026-09-04",
+  "method": "live scstatehouse.gov (bills, votes, enacted Part IB), live SC Code of Laws, secondary web sources (SCDOR, MASC, SC Council on Competitiveness)",
+  "automated_checks": {
+   "pass": 107,
+   "fail": 0
+  },
+  "correction": "Act 177 of 2026 omnibus scope (Pothole Mitigation Program, design-build/CMGC, choice lanes, P3 cap, 4-year audit, commission abolition 1/1/2027, C-funds 33% split) added throughout the packet",
+  "report": "working/south-carolina/growth-infrastructure-roads/fact-check-report.md"
+ }
 }

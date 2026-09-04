@@ -68,7 +68,10 @@ CROSSWALK = {
                  "renourishment) died in Finance. Around the edges, flexibility passed: tourism "
                  "taxes can now fund flooding and drainage repairs (S217, Act 146 of 2020), paid "
                  "beach parking got state rules (S40, Act 89 of 2021), and the school-buildings "
-                 "penny was opened to more counties (H4589, Act 203 of 2026, House 81-18)."),
+                 "penny was opened to more counties (H4589, Act 203 of 2026, House 81-18). The "
+                 "SCDOT Modernization Act (126:S831, Act 177 of 2026) then rewrote the state "
+                 "toll framework itself: usage charges may only be placed on new-capacity "
+                 "'choice lanes', never on existing free lanes."),
     },
     "developer-pays-growth": {
         "matched_bills": ["124:H3460", "126:H4008", "124:H4943", "125:H4659", "125:H4981",
@@ -151,7 +154,13 @@ CROSSWALK = {
                  "FY 2024-25, $200,000,000 into Bridge Modernization in FY 2025-26, and "
                  "$175,000,000 CTC plus $50,000,000 bridges in FY 2026-27. FY 2026-27 also "
                  "created a Road Buyback Program (proviso 84.18): the state paying counties to "
-                 "take back state roads, resurfaced first."),
+                 "take back state roads, resurfaced first. And one piece passed as permanent "
+                 "law inside the SCDOT Modernization Act (126:S831, Act 177 of 2026): the "
+                 "Pothole Mitigation Program (new Section 57-5-1800) - public pothole "
+                 "reporting by phone, website, or a free mobile app, a seven-day repair "
+                 "requirement, and $15,000,000 a year for full-depth repair of repeat "
+                 "potholes - plus a rewritten county 'C'-funds rule (a thirty-three percent "
+                 "state-highway share, the rest at the county committee's discretion)."),
     },
     "no-new-taxes": {
         "matched_bills": ["124:H4091", "124:H4092", "124:H5103", "124:H5112", "126:S1045",
@@ -183,14 +192,20 @@ CROSSWALK = {
                  "disqualification regulations (S1069, S1070) were placed on the Senate "
                  "calendar and never taken up when COVID ended the session. SCDOT expenditure-"
                  "report certification (H4090) and disadvantaged-business contracting bills "
-                 "(S385, H4401, H4823) died in committee. What did pass sits at the edges: who "
-                 "pays to relocate water and sewer lines in road projects (S401, Act 36 of "
-                 "2019, 38-0 and 108-0; extended to 2032 by H3768, Act 244 of 2026) and a "
-                 "contractor-licensing rewrite (H4115, Act 69 of 2023). The accountability "
-                 "tools citizens described exist as budget provisos: SCDOT must publish its "
-                 "project priority lists with ranking methodology (84.8/84.9, renewed yearly) "
-                 "and upgrade its public Programmed Project Viewer dashboard with forecast-"
-                 "versus-actual costs and an on-time/on-budget list (84.18 FY 2024-25 onward)."),
+                 "(S385, H4401, H4823) died in committee. But the bidding method itself then "
+                 "passed inside the SCDOT Modernization Act (126:S831, Act 177 of 2026): "
+                 "phased design-build contracting (new Section 57-5-1710) and construction-"
+                 "manager/general-contractor authority (57-5-1720), plus public-private "
+                 "partnership agreements capped at sixty years (57-3-205) and an independent "
+                 "external performance audit of SCDOT every four years. What else passed sits "
+                 "at the edges: who pays to relocate water and sewer lines in road projects "
+                 "(S401, Act 36 of 2019, 38-0 and 108-0; extended to 2032 by H3768, Act 244 "
+                 "of 2026) and a contractor-licensing rewrite (H4115, Act 69 of 2023). The "
+                 "transparency tools citizens described exist as budget provisos: SCDOT must "
+                 "publish its project priority lists with ranking methodology (84.8/84.9, "
+                 "renewed yearly) and upgrade its public Programmed Project Viewer dashboard "
+                 "with forecast-versus-actual costs and an on-time/on-budget list (84.18 "
+                 "FY 2024-25 onward)."),
     },
 }
 

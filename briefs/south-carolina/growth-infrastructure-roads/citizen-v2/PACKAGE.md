@@ -19,11 +19,11 @@ appendices — with the SC-specific page-1 **"Also in the state budget
 | `citizen-brief.md` | Combined-format source (front brief → spotlights → glossaries) |
 | `citizen-brief.html` | Print-ready Phase 2 HTML — **6 letter pages**, front brief on pages 1–2 (Chrome print-to-PDF verified; the proviso callout renders on page 1) |
 | `citizen-brief.docx` | Word version — **6 pages**, front brief on pages 1–2 (LibreOffice-verified), direct-formatted for cross-app fidelity |
-| `proposal-spotlights.md` / `.html` / `.docx` | Standalone policy spotlights: each of the seven Phase 2 proposals as bulleted bill lists grouped by viability (already law / got support / stopped early / never filed), single column — 5 pages HTML, 4 pages Word |
+| `proposal-spotlights.md` / `.html` / `.docx` | Standalone policy spotlights: each of the seven Phase 2 proposals as bulleted bill lists grouped by viability (already law / got support / stopped early / never filed), single column — 5 pages HTML, 5 pages Word |
 | `citizen-brief-print.css` | Phase 2 print tokens (white page, navy `#1A2D4F`, terracotta `#C0392B`, Arial) |
 | `appendices/A…I-*.md` | Nine appendices (see `appendices/README.md`) |
 | `appendices/appendices-print.html` | Combined print HTML with TOC — 60 letter pages (Chrome-verified) |
-| `appendices/appendices.docx` | Word version of the combined appendices — 56 pages (LibreOffice-verified) |
+| `appendices/appendices.docx` | Word version of the combined appendices — 57 pages (LibreOffice-verified) |
 | `review-report.md` / `.json` | Citizen Reviewer v2.3 gate results |
 
 ## Visual system
@@ -41,8 +41,9 @@ across page breaks.
 - Front brief (pages 1–2 of the combined document): page 1 carries the
   landscape, key numbers, the required proviso callout, and the start of
   the where-something-finished basket; page 2 carries got-support,
-  rarely-moved, political terrain, and the latest-session section, with
-  the spotlights header falling at the end of page 2. The companion
+  rarely-moved, political terrain, and the latest-session section, filling
+  page 2 exactly (the spotlights header falls at the end of page 2 in the
+  Word render and at the top of page 3 in the HTML render). The companion
   sections — proposal spotlights, glossary, legislative process glossary —
   follow on pages 3–6, matching the combined format.
 - Front-brief-on-two-pages and totals verified in **both** renders
@@ -87,7 +88,9 @@ artifacts on `main` — no new scraping. Working chain:
 hits + 9 universe adds) → `build-evidence-pack.py` → `evidence-pack.json` →
 `reality-map.{json,md}` → this package. Proviso picks:
 `build-proviso-curation.py` → `proviso-curated.json` (18 provisos, six
-enacted cycles + the FY 2020-21 explicit gap). Gate:
+enacted cycles + the FY 2020-21 explicit gap). Independent fact-check
+(2026-09-04): 107/107 live checks against scstatehouse.gov + SC Code +
+secondary sources (`working/.../fact-check-report.md`). Gate:
 `python3 -m collectors.sc.verify_completeness --strict` =
 PASS_WITH_WARNINGS (both warnings — the zero-hit exact-phrase "penny tax"
 server search, and advice-style words inside five quoted official bill
