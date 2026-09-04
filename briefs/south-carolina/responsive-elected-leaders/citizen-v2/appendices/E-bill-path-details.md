@@ -52,7 +52,7 @@ Milestone paths for the measures the front brief leans on most. Dates and action
 
 ## 2025-26 H3008 — Convention of the States
 
-*Article V application for a convention limited to a congressional term limits amendment - adopted by both chambers in May 2025, the only term-limits measure in this record to pass anything.* — Adopted by both chambers (May 2025); resolutions never go to the governor
+*Article V application for a convention limited to a congressional term limits amendment - adopted by the House in March 2025 and the Senate in May 2025, the only term-limits measure in this record to pass anything.* — Adopted (House March 2025; Senate May 2025, 29-14); resolutions never go to the governor
 
 | Date | Chamber | Action |
 |---|---|---|

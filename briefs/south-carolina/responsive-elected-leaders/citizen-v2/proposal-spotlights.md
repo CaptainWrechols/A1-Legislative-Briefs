@@ -33,7 +33,7 @@ A focused, bill-by-bill look at how far each proposal in the final Community Con
 ### On the ten-year-cycle concern
 
 - Every filed commission design keys its appointments to the decennial census (the citizens-commission bills convene in years ending in "1").
-- The record's one attempt to redraw between censuses came from the legislature itself: **H5683 (2026)** would have redrawn the congressional districts starting with the 2026 election; it passed the House 74–37 near midnight after roughly fifty amendments were tabled, and the Senate then voted 26–18 to continue (set aside) the bill, ending it for the session. A companion, **H4717 (2026)**, died in House Judiciary.
+- The record's one attempt to redraw between censuses came from the legislature itself: **H5683 (2026)** would have redrawn the congressional districts starting with the 2026 election; it passed the House 74–37 near midnight after dozens of amendments were tabled (28 on roll-call votes, 55 tabling votes in all), and the Senate then voted 26–18 to continue (set aside) the bill, ending it for the session. A companion, **H4717 (2026)**, died in House Judiciary.
 
 ### Never filed
 

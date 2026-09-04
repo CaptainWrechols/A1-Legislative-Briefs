@@ -38,7 +38,7 @@ adopted by both chambers, which never go to the governor.
 - **Basket:** Rarely moved before (commission/criteria bills) — **certainty: high**
 - 21 commission or criteria bills across 2019–2024 — independent commissions by constitutional amendment, citizens commissions by statute, binding-criteria acts (FAIR, Anti-Gerrymandering) — received zero hearings and zero votes, all in Judiciary committees. No commission bill was filed in 2025-26, the first session without one in this record.
 - The maps themselves passed as legislature-drawn bills: 2021-22 H4493 (Act 117 of 2021: House districts; 96–14, 100–15, 43–1) and 2021-22 S865 (Act 118 of 2022: Senate and congressional districts; 41–2, 74–35, 68–36).
-- In May 2026 the mid-decade congressional redraw 2025-26 H5683 passed the House 74–37 after roughly fifty tabled amendments, then the Senate voted 26–18 to continue (shelve) it. Companion H4717 died in committee.
+- In May 2026 the mid-decade congressional redraw 2025-26 H5683 passed the House 74–37 after dozens of tabled amendments (28 on roll calls), then the Senate voted 26–18 to continue (shelve) it. Companion H4717 died in committee.
 
 ## Financial disclosure and ethics enforcement
 

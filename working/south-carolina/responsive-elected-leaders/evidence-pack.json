@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T17:13:00.725900+00:00",
+ "generated_at": "2026-09-04T13:40:30.831445+00:00",
  "issue": "south-carolina-02-responsive-elected-leaders",
  "sessions": [
   {
@@ -718,7 +718,7 @@
     "125:H3676"
    ],
    "coverage": "substantial_attempts_zero_state_movement",
-   "note": "Thirty bills and resolutions in four sessions. Every state-level design - constitutional amendments (direct caps of 2-6 terms, or authorizing the General Assembly to set limits by law) and straight statutes - died in its first Judiciary committee with no recorded vote. The only term-limits measure that passed anything targets Congress, not the State House: H3008, the Article V application for a congressional term limits convention, adopted by both chambers in May 2025 (Senate 29-14). The broader Convention of the States application (which includes federal term limits) failed at the last step twice (S133 in 2022, H3676 in 2024) before splitting into single-subject applications that passed in 2025-26.",
+   "note": "Thirty bills and resolutions in four sessions. Every state-level design - constitutional amendments (direct caps of 2-6 terms, or authorizing the General Assembly to set limits by law) and straight statutes - died in its first Judiciary committee with no recorded vote. The only term-limits measure that passed anything targets Congress, not the State House: H3008, the Article V application for a congressional term limits convention, adopted by the House in March 2025 and the Senate in May 2025 (29-14). The broader Convention of the States application (which includes federal term limits) failed at the last step twice (S133 in 2022, H3676 in 2024) before splitting into single-subject applications that passed in 2025-26.",
    "proposal_id": "term-limits",
    "proposal_title": "Term limits / rotation rules for elected officials"
   },
@@ -6201,7 +6201,7 @@
    "act_no": null,
    "ratification_no": null,
    "disposition": "Adopted",
-   "stage": "Adopted by both chambers (January 2026); resolutions never go to the governor",
+   "stage": "Adopted (House March 2025; Senate January 2026); resolutions never go to the governor",
    "roll_call_count": 1,
    "passage_votes": [],
    "best_passage_vote": null
@@ -6212,7 +6212,7 @@
    "bill_no": "H3008",
    "title": "Convention of the States",
    "instrument_type": "Concurrent Resolution",
-   "plain_topic": "Article V application for a convention limited to a congressional term limits amendment - adopted by both chambers in May 2025, the only term-limits measure in this record to pass anything.",
+   "plain_topic": "Article V application for a convention limited to a congressional term limits amendment - adopted by the House in March 2025 and the Senate in May 2025, the only term-limits measure in this record to pass anything.",
    "theme": "Term limits for elected officials",
    "relevance": "core",
    "found_by_terms": [
@@ -6245,7 +6245,7 @@
    "act_no": null,
    "ratification_no": null,
    "disposition": "Adopted",
-   "stage": "Adopted by both chambers (May 2025); resolutions never go to the governor",
+   "stage": "Adopted (House March 2025; Senate May 2025, 29-14); resolutions never go to the governor",
    "roll_call_count": 3,
    "passage_votes": [
     {
