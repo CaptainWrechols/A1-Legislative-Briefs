@@ -17,6 +17,8 @@ brief by design.
 | "No state minimum wage; local minimums preempted" | Bill texts amending S.C. Code §6-1-130 (scope of authority to set minimum wage) and the issue config's code-section notes (§41-1-110) |
 | Citizen proposals and consensus notes ([P-…]) | Phase 2 Community Conversations dataset "SC1 – Phase 2 Constituent Proposals – Grid View for Legislators v2" via the issue config — process input, not verified fact |
 | Federal youth training wage ($4.25 / first 90 days) | Federal FLSA background noted for venue context; not an SC-record claim |
+| Local governments' authority over their own pay (venue context) | S.C. Code §6-1-130(C) ("does not limit the authority of political subdivisions to establish wage rates in contracts to which they are a party"), verified on the live SC Code; Charleston examples from the Post and Courier / WCIV (City of Charleston, $15 municipal minimum, August 2022) and the Charleston County FY23 approved budget ($15/hour for all county employees) |
+| County incentive channel (fee-in-lieu-of-taxes agreements; venue context) | S.C. Code Title 12, Chapter 44 (Fee in Lieu of Tax Simplification Act), verified on the live SC Code; described as county deal-making outside the legislative record, with no wage tie asserted |
 
 ## Collection and verification notes
 

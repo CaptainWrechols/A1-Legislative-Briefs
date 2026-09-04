@@ -66,7 +66,8 @@
   "Five long sentences split in front brief; facts unchanged; pages re-verified 2/2",
   "Pre-review corrections: H4603 lead sponsor (Rep. Jones) and year (2026); floor-vote support claim replaced with exact worst margin 84-12; proviso citations moved to FY 2026-27 numbering",
   "2026-08-27: local-preemption correction (fixed-floor bills keep the ban on higher local minimums) propagated to curation map, evidence pack, Appendix A, and spotlights; new sections scanned and vote pairs re-verified",
-  "2026-09-04: lege brief v1.1 reworked around the FINAL proposal grid (three proposals; raise-minimum-wage folded into age-bracketed per the grid); config and Appendix H updated; new facts verified in bill text (no age-based rates in the 24 minimum-wage bills; $15 ballot questions; S557 credit open to any employer); record unchanged; scans and vote pairs re-verified clean"
+  "2026-09-04: lege brief v1.1 reworked around the FINAL proposal grid (three proposals; raise-minimum-wage folded into age-bracketed per the grid); config and Appendix H updated; new facts verified in bill text (no age-based rates in the 24 minimum-wage bills; $15 ballot questions; S557 credit open to any employer); record unchanged; scans and vote pairs re-verified clean",
+  "2026-09-04 v1.2: venue-scope clarifications (local governments own-workforce pay incl. Charleston city/county $15, county FILOT incentive channel, county delivery role in workforce programs) with sources in Appendix I; glossary page-jump removed per reviewer (fix-glossary-break.py); scans re-verified"
  ],
  "flags_for_humans": [
   "Reading level 12.2 vs ~grade 5-8 aspiration (consistent with all shipped NV/NH briefs)",

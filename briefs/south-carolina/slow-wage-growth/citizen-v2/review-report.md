@@ -113,6 +113,22 @@ Reviewers for the PR: Ryan Echols, Jodi Stephens, Ashley Lovell.
    concerns descriptively. The legislative record itself is unchanged. All
    scans re-run clean; every cited bill and vote pair re-verified (zero
    unmatched). 8 pages, LibreOffice-verified.
+6. 2026-09-04 venue-scope pass (lege brief v1.2, reviewer-approved). Three
+   additions so no reader mistakes bill-scoped "never filed" claims for
+   "nothing has happened anywhere": (a) landscape + glossary now say plainly
+   that the local-wage ban applies to what private employers must pay, and
+   that local governments can and do raise pay for their own workers
+   (Charleston city and county at $15+ — verified via S.C. Code
+   §6-1-130(C) on the live Code, Post and Courier/WCIV coverage, and the
+   Charleston County FY23 budget); (b) a "county channel" note in the
+   employer-incentives spotlight describing county fee-in-lieu-of-taxes
+   deals (Title 12, Chapter 44, verified live) as outside the legislative
+   record and not wage-tied; (c) a "county role" note in the workforce
+   spotlight (technical college area commissions; First Steps county-level
+   partnerships). Layout per reviewer: glossaries now flow directly after
+   the Policy Spotlights with balanced columns (fix-glossary-break.py);
+   no blank page gaps. Sources added to Appendix I. Scans and vote pairs
+   re-verified clean.
 
 ## Items for the human reviewers
 

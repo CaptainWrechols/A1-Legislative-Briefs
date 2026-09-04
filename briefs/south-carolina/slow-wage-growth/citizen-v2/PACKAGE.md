@@ -15,7 +15,7 @@ spotlights companion and long appendices — with the SC-specific page-1
 
 | File | What it is |
 |---|---|
-| `SC1-Slow-Wage-Growth-Lege-Brief.docx` | **THE DELIVERABLE (v1.1)** — the finalized, working-group-approved lege-brief format, cloned from `templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx` (same format as NH1-Energy/Housing/Property-Taxes/Public-Education-Lege-Brief): brief → policy spotlights → glossary (own page) → legislative process glossary (own page), stat-card table, square-bullet spotlights, two-column glossaries, real Word footer ("SC1 Slow Wage Growth Legislative Brief v1.1" + page number). 8 pages, LibreOffice-verified. **v1.1 (2026-09-04) is reworked around the FINAL proposal grid** ("SC1 – Slow Wage Growth", three proposals): the standalone raise-minimum-wage item is folded into the age-bracketed proposal per the grid, and each spotlight carries the grid's frequency/consensus/concerns with record facts addressed to them (who the enacted programs reach, the awareness provisos, tax credit vs. never-filed direct bonus) |
+| `SC1-Slow-Wage-Growth-Lege-Brief.docx` | **THE DELIVERABLE (v1.2)** — the finalized, working-group-approved lege-brief format, cloned from `templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx` (same format as NH1-Energy/Housing/Property-Taxes/Public-Education-Lege-Brief): brief → policy spotlights → glossary (own page) → legislative process glossary (own page), stat-card table, square-bullet spotlights, two-column glossaries, real Word footer ("SC1 Slow Wage Growth Legislative Brief v1.2" + page number). 8 pages, LibreOffice-verified; glossaries flow directly after the Policy Spotlights (no blank page gaps — see the fix-glossary-break step below). **v1.1 (2026-09-04) is reworked around the FINAL proposal grid** ("SC1 – Slow Wage Growth", three proposals): the standalone raise-minimum-wage item is folded into the age-bracketed proposal per the grid, and each spotlight carries the grid's frequency/consensus/concerns with record facts addressed to them (who the enacted programs reach, the awareness provisos, tax credit vs. never-filed direct bonus) |
 | `SC1-Slow-Wage-Growth-Lege-Brief.pdf` | PDF export of the deliverable (LibreOffice) |
 | `lege-brief.md` | Source markdown of the deliverable (edit this, then rebuild) |
 | `citizen-brief.md` | Earlier combined-format source (front brief → spotlights → glossaries), kept for provenance; predates the final grid |
@@ -58,7 +58,10 @@ navy-header comparison style with repeating headers across page breaks.
 python3 collectors/export_docx_lege_brief.py \
   --source briefs/south-carolina/slow-wage-growth/citizen-v2/lege-brief.md \
   --out briefs/south-carolina/slow-wage-growth/citizen-v2/SC1-Slow-Wage-Growth-Lege-Brief.docx \
-  --footer "SC1 Slow Wage Growth Legislative Brief v1.1" --polish-breaks
+  --footer "SC1 Slow Wage Growth Legislative Brief v1.2" --polish-breaks
+# then remove the glossary page jumps (reviewer direction 2026-09-04):
+python3 working/south-carolina/slow-wage-growth/fix-glossary-break.py \
+  briefs/south-carolina/slow-wage-growth/citizen-v2/SC1-Slow-Wage-Growth-Lege-Brief.docx
 # PDF: soffice --headless --convert-to pdf SC1-Slow-Wage-Growth-Lege-Brief.docx
 
 # HTML combined document (Phase 2 shell)
