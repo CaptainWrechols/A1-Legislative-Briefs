@@ -1,0 +1,163 @@
+{
+ "issue": "south-carolina-01-growth-infrastructure-roads",
+ "note": "Hand-curated roads/growth/infrastructure provisos from Part IB of each enacted appropriations act (term-matched candidate sets in provisos/{year}/). Budget provisos are one-year rules enacted inside the annual budget bill; votes attach to the whole appropriations bill (or a named amendment), never to one proviso. Dollar figures are verbatim from the enacted Part IB text. FY 2020-21 had no enacted Part IB (COVID continuing resolution) - stated explicitly per the workflow's none-found rule.",
+ "cycles": [
+  {
+   "fiscal_year": "2020-2021",
+   "bill_no": "H5201",
+   "enacted": false,
+   "provisos": [],
+   "note": "No enacted Part IB this cycle: H5201 died in committee during COVID; the state ran on continuing resolution H3411 plus CARES acts."
+  },
+  {
+   "fiscal_year": "2021-2022",
+   "bill_no": "H4100",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "117.96",
+     "caption": "GP: School Construction Development Impact Fee Assessment Prohibition",
+     "why_relevant": "Barred local governments from charging development impact fees on new school construction, on pain of losing state aid - a one-year limit on the impact-fee tool that appeared only in this budget and was not renewed.",
+     "verbatim_figure": "One-year rule; not renewed in any later budget"
+    },
+    {
+     "proviso": "86.1",
+     "caption": "CTC: Increased Funding",
+     "why_relevant": "Requires that the extra gas-tax money Act 40 of 2017 sends to County Transportation Committees be spent exclusively on repairs, maintenance, and improvements to the state highway system - a renewed-every-year fix-it-first rule for the county road boards.",
+     "verbatim_figure": "First budget in scope with the Act 40 fix-it-first rule"
+    },
+    {
+     "proviso": "84.12",
+     "caption": "DOT: Preventative Maintenance Credit",
+     "why_relevant": "Authorized SCDOT to transfer part of the gas user fee to cover the Act 40 preventative-maintenance tax credit for drivers. This authorization appeared every enacted budget from FY 2021-22 through FY 2024-25 and stopped appearing in FY 2025-26.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "118.18",
+     "caption": "SR: Nonrecurring Revenue",
+     "why_relevant": "The budget's one-time money list - where the big single-year infrastructure sums ride.",
+     "verbatim_figure": "State Ports Authority intermodal container transfer facility and waterborne cargo infrastructure: $200,000,000"
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2022-2023",
+   "bill_no": "H5150",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "118.19",
+     "caption": "SR: Nonrecurring Revenue",
+     "why_relevant": "The budget's one-time money list - where the big single-year infrastructure sums ride.",
+     "verbatim_figure": "Department of Transportation, Rural Interstate Funding: $133,636,230"
+    },
+    {
+     "proviso": "86.1",
+     "caption": "CTC: Increased Funding",
+     "why_relevant": "Requires that the extra gas-tax money Act 40 of 2017 sends to County Transportation Committees be spent exclusively on repairs, maintenance, and improvements to the state highway system - a renewed-every-year fix-it-first rule for the county road boards.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "84.12",
+     "caption": "DOT: Preventative Maintenance Credit",
+     "why_relevant": "Authorized SCDOT to transfer part of the gas user fee to cover the Act 40 preventative-maintenance tax credit for drivers. This authorization appeared every enacted budget from FY 2021-22 through FY 2024-25 and stopped appearing in FY 2025-26.",
+     "verbatim_figure": null
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2023-2024",
+   "bill_no": "H4300",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "84.9",
+     "caption": "DOT: Project Priority List",
+     "why_relevant": "Requires SCDOT to publish its project priority lists - and the engineering directives explaining the ranking methodology - in a conspicuous, publicly accessible place on its website.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "86.1",
+     "caption": "CTC: Increased Funding",
+     "why_relevant": "Requires that the extra gas-tax money Act 40 of 2017 sends to County Transportation Committees be spent exclusively on repairs, maintenance, and improvements to the state highway system - a renewed-every-year fix-it-first rule for the county road boards.",
+     "verbatim_figure": null
+    },
+    {
+     "proviso": "84.12",
+     "caption": "DOT: Preventative Maintenance Credit",
+     "why_relevant": "Authorized SCDOT to transfer part of the gas user fee to cover the Act 40 preventative-maintenance tax credit for drivers. This authorization appeared every enacted budget from FY 2021-22 through FY 2024-25 and stopped appearing in FY 2025-26.",
+     "verbatim_figure": null
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2024-2025",
+   "bill_no": "H5100",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "118.22",
+     "caption": "SR: Homestead Exemption Fund",
+     "why_relevant": "A one-time $600 million sweep from the Homestead Exemption Fund whose priority list put $200,000,000 into a CTC Acceleration Fund for county road boards, $100,000,000 into a Bridge Acceleration Fund, and $117,401,000 into a Rural Road Safety Program - the largest one-year roads package in this record.",
+     "verbatim_figure": "CTC Acceleration Fund $200,000,000; Bridge Acceleration Fund $100,000,000; Rural Road Safety Program $117,401,000"
+    },
+    {
+     "proviso": "84.18",
+     "caption": "DOT: Programmed Project Viewer Dashboard",
+     "why_relevant": "Directs SCDOT to upgrade its public Programmed Project Viewer dashboard - project status, forecast versus actual cost, completion dates, and an on-time/on-budget list - with quarterly reports to the budget chairmen. A transparency rule aimed at exactly the project-accountability question citizens raised.",
+     "verbatim_figure": "First appearance of the dashboard-upgrade directive"
+    },
+    {
+     "proviso": "86.1",
+     "caption": "CTC: Increased Funding",
+     "why_relevant": "Requires that the extra gas-tax money Act 40 of 2017 sends to County Transportation Committees be spent exclusively on repairs, maintenance, and improvements to the state highway system - a renewed-every-year fix-it-first rule for the county road boards.",
+     "verbatim_figure": null
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2025-2026",
+   "bill_no": "H4025",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "118.22",
+     "caption": "SR: Nonrecurring Revenue",
+     "why_relevant": "The budget's one-time money list - where the big single-year infrastructure sums ride.",
+     "verbatim_figure": "Department of Transportation, Bridge Modernization: $200,000,000"
+    },
+    {
+     "proviso": "84.16",
+     "caption": "DOT: Programmed Project Viewer Dashboard",
+     "why_relevant": "Directs SCDOT to upgrade its public Programmed Project Viewer dashboard - project status, forecast versus actual cost, completion dates, and an on-time/on-budget list - with quarterly reports to the budget chairmen. A transparency rule aimed at exactly the project-accountability question citizens raised.",
+     "verbatim_figure": null
+    }
+   ]
+  },
+  {
+   "fiscal_year": "2026-2027",
+   "bill_no": "H5126",
+   "enacted": true,
+   "provisos": [
+    {
+     "proviso": "84.18",
+     "caption": "DOT: Road Buyback Program",
+     "why_relevant": "New this year: directs SCDOT to identify state roads that no longer serve a statewide purpose and negotiate transferring them to counties and cities, with buyback funds paying for resurfacing and transition costs - the state shrinking its road inventory by paying locals to take roads back.",
+     "verbatim_figure": "New for FY 2026-27"
+    },
+    {
+     "proviso": "118.21",
+     "caption": "SR: Nonrecurring Revenue",
+     "why_relevant": "The budget's one-time money list - where the big single-year infrastructure sums ride.",
+     "verbatim_figure": "CTC Acceleration $175,000,000; Department of Transportation Bridge Modernization: $50,000,000"
+    },
+    {
+     "proviso": "86.1",
+     "caption": "CTC: Increased Funding",
+     "why_relevant": "Requires that the extra gas-tax money Act 40 of 2017 sends to County Transportation Committees be spent exclusively on repairs, maintenance, and improvements to the state highway system - a renewed-every-year fix-it-first rule for the county road boards.",
+     "verbatim_figure": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "issue": "south-carolina-01-growth-infrastructure-roads",
+ "reviewer": "citizen-reviewer v2.3",
+ "date": "2026-09-01",
+ "verdict": "READY FOR HUMAN REVIEW",
+ "package": "briefs/south-carolina/growth-infrastructure-roads/citizen-v2/",
+ "checks": {
+  "A_purpose_fit": {
+   "A1": "PASS",
+   "A2": "PASS",
+   "A4": "PASS",
+   "A5": "PASS",
+   "A6": "PASS"
+  },
+  "B_reading_level": {
+   "B1": "PASS",
+   "B2": "PASS",
+   "B3": "PASS"
+  },
+  "C_length_layout": {
+   "C1": "PASS",
+   "C2": "PASS",
+   "C3": "PASS"
+  },
+  "D_evidence_integrity": {
+   "D1": "PASS",
+   "D2": "PASS",
+   "D3": "PASS",
+   "D4": "N/A (no committee tallies exist in SC)",
+   "D5": "PASS"
+  },
+  "E_forum_fairness": {
+   "E1": "PASS",
+   "E2": "PASS",
+   "E3": "PASS",
+   "E4": "PASS"
+  },
+  "F_package_completeness": {
+   "F1": "PASS",
+   "F2": "PASS",
+   "F3": "PASS",
+   "F3b": "PASS",
+   "F4": "PASS",
+   "F5": "PASS",
+   "F6": "PASS",
+   "F7": "PASS"
+  }
+ },
+ "automated_results": {
+  "bill_ids_front_brief": 103,
+  "bill_ids_spotlights": 124,
+  "unmatched_bill_ids": 0,
+  "distinct_vote_pairs_cited": 30,
+  "unmatched_vote_pairs": 0,
+  "advice_language_hits_citizen_text": 0,
+  "party_label_hits": 0,
+  "proviso_ids_verified": [
+   "84.8",
+   "84.9",
+   "84.12",
+   "84.15",
+   "84.16",
+   "84.18",
+   "86.1",
+   "117.96",
+   "118.18",
+   "118.19",
+   "118.21",
+   "118.22"
+  ]
+ },
+ "fixes_made": [
+  "Bill-year citations corrected against introduction dates: S227/S288/H4050 marked 'filed 2025' (decisive activity 2026), H4597 corrected 2020 -> 2019; propagated to reality-map.md",
+  "Appendix H proposal restatement reworded ('developers should pay' -> 'make developers pay')",
+  "All renders rebuilt post-fix; front-brief-on-two-pages re-verified in Chrome and LibreOffice",
+  "Post-review cross-check against the uploaded 'SC1 - Phase 2 Constituent Proposals - Grid View for Legislators v2' document: 6 of 7 proposal blocks verified; Charleston consensus-recommendation detail added to Appendix H; developer-pays-growth detail table blank in the v2 document (attributes rest on the issue config) - flagged for human review in Appendices H and I"
+ ],
+ "render_verification": {
+  "html_combined_pages": 6,
+  "html_front_brief_pages": "1-2 (spotlights header first appears on page 2; proviso callout on page 1)",
+  "docx_combined_pages": 6,
+  "docx_front_brief_pages": "1-2 (LibreOffice-verified)",
+  "spotlights_html_pages": 5,
+  "spotlights_docx_pages": 4,
+  "appendices_print_html_pages": 60,
+  "appendices_docx_pages": 56
+ },
+ "sc_specific": {
+  "page1_proviso_callout": "present (84.18 Road Buyback, 118.22 $417.4M package, 117.96 school impact-fee prohibition; FY 2020-21 gap stated; whole-bill-vote rule stated)",
+  "committee_tallies": "none stated or implied",
+  "history_baskets_only": true,
+  "proviso_coverage": "six enacted cycles + FY 2020-21 explicit gap (Appendix G)"
+ },
+ "suggested_human_reviewers": [
+  "Ryan Echols",
+  "Jodi Stephens",
+  "Ashley Lovell"
+ ],
+ "independent_fact_check": {
+  "date": "2026-09-04",
+  "method": "live scstatehouse.gov (bills, votes, enacted Part IB), live SC Code of Laws, secondary web sources (SCDOR, MASC, SC Council on Competitiveness)",
+  "automated_checks": {
+   "pass": 107,
+   "fail": 0
+  },
+  "correction": "Act 177 of 2026 omnibus scope (Pothole Mitigation Program, design-build/CMGC, choice lanes, P3 cap, 4-year audit, commission abolition 1/1/2027, C-funds 33% split) added throughout the packet",
+  "report": "working/south-carolina/growth-infrastructure-roads/fact-check-report.md"
+ },
+ "version_reviewed": "citizen-v2.1",
+ "rework_2026_09_04": {
+  "reason": "final Phase 2 proposal grid ('SC1 - Growth Infrastructure Roads') supersedes the seven-proposal draft grid",
+  "proposals_final": [
+   "local-funding-tools",
+   "state-master-planning",
+   "fix-roads-first",
+   "no-new-taxes",
+   "contractor-accountability"
+  ],
+  "changes": "impact-fee record folded under local-funding-tools; multimodal spotlight removed (bills remain in appendices/themes); descriptors verified against the final grid; config constituent_proposals updated; strict gate re-run (PASS_WITH_WARNINGS)",
+  "legislative_record": "unchanged"
+ }
+}

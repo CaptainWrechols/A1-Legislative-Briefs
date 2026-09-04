@@ -88,84 +88,83 @@ relevance_terms:
   - maintenance
   - contractor
 
-# Phase 2 Community Conversations (Jun-Aug 2026), RAG constituent-voice dataset
-# "SC1 - Phase 2 Constituent Proposals - Grid View for Legislators v2".
-# FORUM PROCESS INPUT [P-xxx], not verified facts — label as such in briefs.
+# Phase 2 Community Conversations (Jun-Aug 2026). FINAL proposal grid:
+# "SC1 - Growth Infrastructure Roads" (received 2026-09-04), which supersedes
+# the draft "SC1 - Phase 2 Constituent Proposals - Grid View for Legislators
+# v2" this config originally carried. The final grid has FIVE proposals: the
+# draft's standalone developer-pays proposal was folded into the funding-tools
+# proposal (whose title names impact fees) and the multimodal-transport
+# proposal was dropped. Frequency/consensus/tradeoff text below is faithful to
+# the final grid. FORUM PROCESS INPUT [P-xxx], not verified facts — label as
+# such in briefs. NOTE: search_terms/relevance_terms above are unchanged (the
+# collection and the prebuilt artifacts predate the final grid and still cover
+# the dropped proposals' lanes; those bills remain in the curated record).
 constituent_proposals:
   - id: local-funding-tools
-    title: "New/expanded local funding tools (penny sales tax, impact fees, tolls, parking fees)"
+    title: "New or expanded local funding tools (penny / sales tax, impact fees, tolls, parking fees)"
     detail: >-
       Give local governments new or expanded funding tools for infrastructure:
       penny sales taxes, impact fees, tolls, and parking fees.
     consensus: >-
-      High frequency (raised in Columbia, Florence, and Charleston). High
-      consensus; transparency on how the funds are used is the key condition
-      participants attached.
+      High frequency (Columbia, Florence, and Charleston). High consensus:
+      broad agreement that the state needs to look for new sources of funding.
     tradeoffs: >-
-      Transparency on use of funds is the key tradeoff participants named.
-    match_terms: ["penny tax", "local option", "sales tax", "toll", "parking fee", "impact fee"]
-  - id: developer-pays-growth
-    title: "Make developers pay for growth (impact fees / proffers)"
-    detail: >-
-      Require developers to pay for the infrastructure their projects create
-      demand for, through impact fees or proffers.
-    consensus: >-
-      Very high frequency (raised at all events). High consensus.
-    tradeoffs: >-
-      Pass-through to consumers (higher home prices) is the main concern.
-    match_terms: ["impact fee", "proffer", "developer", "growth"]
-  - id: multimodal-transport
-    title: "Public transit, rail, and multimodal options beyond roads"
-    detail: >-
-      Invest in public transit, rail, and multimodal transportation rather
-      than roads alone.
-    consensus: >-
-      High frequency (3 events). High consensus in cities; rural relevance
-      was questioned.
-    tradeoffs: >-
-      Whether transit and rail investments serve rural South Carolina was the
-      main open question.
-    match_terms: ["transit", "rail", "multimodal", "public transportation"]
+      People don't like being taxed if they don't know where the money is
+      going, so any taxes should also include greater transparency.
+    match_terms: ["penny tax", "local option", "sales tax", "toll", "parking fee", "impact fee", "proffer", "developer", "growth"]
   - id: state-master-planning
-    title: "State comprehensive/regional planning instead of fragmented county plans"
+    title: "State comprehensive / master planning vs. fragmented county plans; regional control"
     detail: >-
-      Move toward state-level comprehensive or regional planning for growth
-      and infrastructure, in place of fragmented county-by-county plans.
+      Move toward state-level comprehensive or master planning for growth
+      and infrastructure, in place of fragmented county-by-county plans;
+      regional control.
     consensus: >-
-      Very high frequency (all 4 events). Mixed consensus — the home-rule
-      tension (local control vs. state authority) runs through it.
+      Very high frequency (all 4 community conversations). Mixed consensus:
+      some cited the efficiency gains from centralized planning while others
+      remained skeptical of removing local control; it was a consensus
+      recommendation in Charleston.
     tradeoffs: >-
-      Home-rule tension: state planning trades away local control.
+      Some worried that removing local control would allow the state to go
+      against residents' wishes.
     match_terms: ["comprehensive plan", "master plan", "regional", "home rule", "county plan"]
   - id: fix-roads-first
-    title: "Maintain existing roads before building new capacity"
+    title: "Fix the roads we've got first"
     detail: >-
       Prioritize maintaining and repairing existing roads before spending on
       expansion.
     consensus: >-
-      Medium frequency. Mixed consensus.
+      Medium frequency (Columbia and the online session). Mixed consensus:
+      broad agreement that maintenance needs to be factored in, but many
+      participants want to see expanded infrastructure.
     tradeoffs: >-
-      Maintenance vs. expansion is the core tradeoff.
+      The expense of expanding infrastructure versus the need to maintain
+      what is already there; some worried the state was putting too much
+      money toward capital projects and not enough toward maintenance.
     match_terms: ["maintenance", "pavement", "repair", "resurfacing"]
   - id: no-new-taxes
-    title: "Oppose new taxes or fees for infrastructure"
+    title: "No new taxes / oppose extra taxes and fees"
     detail: >-
       Fund infrastructure without any new taxes or fees.
     consensus: >-
-      Medium frequency. Low consensus; a sharp split among participants.
+      Medium frequency (multiple tables at Columbia and Florence). Low
+      consensus: sharp disagreement over whether new taxes are essential for
+      improvements or the state should prioritize keeping costs low.
     tradeoffs: >-
-      Directly conflicts with the local-funding-tools and developer-pays
-      proposals; participants split sharply.
+      Some participants argued South Carolina's low taxes are one reason
+      infrastructure is suffering, while others want to maintain the state's
+      low taxes.
     match_terms: ["tax increase", "new tax", "fee increase", "tax relief"]
   - id: contractor-accountability
-    title: "Improve the bidding process and hold contractors accountable"
+    title: "Improve the contractor bidding process / hold contractors accountable"
     detail: >-
       Improve how road and infrastructure contracts are bid and hold
       contractors accountable for results.
     consensus: >-
-      Medium frequency. High consensus; seen as a low-cost fix.
+      Medium frequency (the online conversation and Greenville). High
+      consensus: participants widely agreed this could be a low-cost fix.
     tradeoffs: >-
-      Seen as low-cost; few tradeoffs were raised.
+      Participants felt the state was not getting quality contractors for
+      road repairs and pushed for more standards and transparency in bidding.
     match_terms: ["contractor", "bidding", "procurement", "accountability"]
 
 omnibus_bills:

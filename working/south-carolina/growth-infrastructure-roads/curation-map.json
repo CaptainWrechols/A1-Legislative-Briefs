@@ -1,0 +1,3373 @@
+{
+ "issue": "south-carolina-01-growth-infrastructure-roads",
+ "note": "Hand curation of the keep-all Pass 1 discovery (nothing was dropped upstream). Tiers: core = bills squarely on the seven constituent proposals plus the road-funding/SCDOT-governance agenda; adjacent = same lanes but narrower, procedural, or industry-side; context = kept for audit only, excluded from headline counts. Every ambiguous bill was verified against its latest-version full text in _universe/. Nine bills were hand-added from the certified universe (marked source=universe) because the Pass 1 search terms did not cover 'sales tax', 'annexation', or 'hospitality tax' phrasings. All other Pass 1 hits are excluded under the rules below.",
+ "themes": [
+  "Local tools to pay for growth (penny taxes, tolls, local fees)",
+  "Making developers pay (impact fees)",
+  "State road money (gas tax, road fees, infrastructure funds)",
+  "Fixing and maintaining existing roads",
+  "Who runs SCDOT (governance and accountability)",
+  "Road contracts and contractor accountability",
+  "Transit, rail, and other ways to get around",
+  "Planning for growth (zoning, comprehensive plans, annexation)",
+  "Water, sewer, and broadband infrastructure",
+  "Related context"
+ ],
+ "counts": {
+  "total_pass1": 5618,
+  "kept": 178,
+  "universe_adds": 9,
+  "by_relevance": {
+   "core": 88,
+   "adjacent": 73,
+   "context": 17
+  },
+  "by_theme": {
+   "Who runs SCDOT (governance and accountability)": 10,
+   "Local tools to pay for growth (penny taxes, tolls, local fees)": 35,
+   "Transit, rail, and other ways to get around": 17,
+   "Fixing and maintaining existing roads": 9,
+   "State road money (gas tax, road fees, infrastructure funds)": 26,
+   "Road contracts and contractor accountability": 16,
+   "Water, sewer, and broadband infrastructure": 14,
+   "Planning for growth (zoning, comprehensive plans, annexation)": 27,
+   "Related context": 14,
+   "Making developers pay (impact fees)": 10
+  },
+  "excluded": 5449
+ },
+ "exclusion_rules": [
+  "Road, bridge, and highway NAMING resolutions - several hundred concurrent resolutions asking SCDOT to name a road or bridge for a person - plus honorary/memorial/retirement resolutions whose text incidentally matches (Cambridge, trailblazer, 'transition', 'toll' in church names).",
+  "False-positive full-text hits: 'traffic(king)' in human/drug trafficking bills; 'transit' inside transition/transitional; 'toll' inside tolling a statute of limitations; 'developer' and 'bridge' in honorary resolutions; 'multimodal' in AI chatbot bills; 'gas tax' in renewable natural gas; 'impact fee' in the SUPERB petroleum fund and opportunity-zone bills.",
+  "Traffic safety, enforcement, and vehicle regulation: speed/red-light cameras, license plate readers, DUI, left-lane and right-half rules, ATV/utility-vehicle rules, trailer specs, railroad crossing stops, school bus passing, street takeovers (Act 148 of 2026), pedestrian signals, driver conduct.",
+  "Housing policy bills whose lever is not growth infrastructure: inclusionary housing/zoning, ADU incentives, workforce housing development, school-district surplus land for teacher housing, co-ownership rules (the rising-cost-of-living issue's lane); the Home Attainability and housing-impact-analysis bills are kept as adjacent because their lever is the local permitting/planning system.",
+  "Utility regulation and energy: electric rates, PSC oversight, energy facility siting, data centers, net neutrality, underground utility damage prevention, water/sewer rate disputes, wastewater spills; special-purpose-district and single-district local legislation (Broadway Water & Sewer).",
+  "Vehicle sales 'Maximum Sales Tax' cap bills (livestock/watercraft trailers, musical instruments) - they amend the capped sales tax on vehicles, not local-option infrastructure taxes.",
+  "General property-tax millage-cap and tax-relief bills (millage override, homestead reimbursement, TABOR-style spending caps) - local revenue policy without an infrastructure lever.",
+  "Transportation Network Company (Uber/Lyft) regulation, commercial ad benches at bus stops, billboard relocation, scenic byway designations, DOT signage regulations, and airport/port authority board governance.",
+  "Railroad operations and taxation details: trains blocking intersections (federal preemption), municipal license taxes on railroads, obstructing-highway penalties.",
+  "Security-framed 'infrastructure' bills: critical-infrastructure trespass and drone bills (16-11), offshore-oil infrastructure bans, foreign-adversary land rules (the foreign-company contracting ban is kept as adjacent because its lever is contracting).",
+  "Hyper-local road matters: Hunting Island park roads, Paris Mountain curb cuts, single-bridge study committees, county recreation commission appointments, school district consolidations.",
+  "Criminal penalties for crimes against transportation workers and transit trespass predecessors (the enacted transit trespass act S399 is kept as adjacent)."
+ ],
+ "bills": [
+  {
+   "bill_key": "123:H3111",
+   "session": 123,
+   "bill_no": "H3111",
+   "title": "DOT Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "The same design six years earlier: governor appoints the secretary and the commission's duties devolve - filed in 2019, never heard.",
+   "theme": "Who runs SCDOT (governance and accountability)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "roads",
+    "highway",
+    "bridge",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "traffic",
+    "congestion",
+    "toll",
+    "transit",
+    "public transit",
+    "multimodal",
+    "comprehensive plan",
+    "land use",
+    "maintenance",
+    "pavement",
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3111.htm"
+  },
+  {
+   "bill_key": "123:H3132",
+   "session": 123,
+   "bill_no": "H3132",
+   "title": "Accommodations and hospitality tax expenditures",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let state and local tourism tax revenue pay for flooding and drainage control in tourism areas.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "highway",
+    "transportation",
+    "traffic",
+    "maintenance",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3132.htm"
+  },
+  {
+   "bill_key": "123:H3189",
+   "session": 123,
+   "bill_no": "H3189",
+   "title": "High Speed Rail System Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a High Speed Rail System Commission to develop a plan of action for high-speed rail.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "transportation",
+    "rail"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3189.htm"
+  },
+  {
+   "bill_key": "123:H3358",
+   "session": 123,
+   "bill_no": "H3358",
+   "title": "Mowing highways",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required SCDOT mowing contractors to remove trash along the highway before mowing.",
+   "theme": "Fixing and maintaining existing roads",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "highway",
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3358.htm"
+  },
+  {
+   "bill_key": "123:H3418",
+   "session": 123,
+   "bill_no": "H3418",
+   "title": "Transportation Infrastructure Bank",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have put the SCDOT Commission in charge of the Transportation Infrastructure Bank's board - merging control of the state's big-project loan fund.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "roads",
+    "highway",
+    "transportation",
+    "maintenance",
+    "road",
+    "bridge",
+    "transit"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3418.htm"
+  },
+  {
+   "bill_key": "123:H3654",
+   "session": 123,
+   "bill_no": "H3654",
+   "title": "Public facilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required governments building or improving public facilities to study whether transit riders can safely reach the site.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "transit"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3654.htm"
+  },
+  {
+   "bill_key": "123:H3655",
+   "session": 123,
+   "bill_no": "H3655",
+   "title": "Transit-Oriented Development Projects",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let counties and cities create transit-oriented redevelopment agencies to develop areas around planned or existing transit.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "transportation",
+    "transit",
+    "public transit",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3655.htm"
+  },
+  {
+   "bill_key": "123:H3656",
+   "session": 123,
+   "bill_no": "H3656",
+   "title": "DOT, functions and purposes",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required SCDOT to adopt a 'Complete Streets' policy - designing roads to safely accommodate pedestrians, cyclists, and transit riders.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "core",
+   "found_by_terms": [
+    "highway",
+    "transportation",
+    "transit",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3656.htm"
+  },
+  {
+   "bill_key": "123:H3739",
+   "session": 123,
+   "bill_no": "H3739",
+   "title": "Tolls",
+   "instrument_type": "General Bill",
+   "plain_topic": "House version: would have required a toll on Interstate 95 at Lake Marion, with the revenue spent on that corridor.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "highway",
+    "transportation",
+    "toll",
+    "maintenance",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3739.htm"
+  },
+  {
+   "bill_key": "123:H3775",
+   "session": 123,
+   "bill_no": "H3775",
+   "title": "County government",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have revised the petition procedure for creating a special tax district - one of the older tools for funding neighborhood infrastructure.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "context",
+   "found_by_terms": [],
+   "source": "universe",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3775.htm"
+  },
+  {
+   "bill_key": "123:H3799",
+   "session": 123,
+   "bill_no": "H3799",
+   "title": "Highway system construction",
+   "instrument_type": "General Bill",
+   "plain_topic": "House version of the water-and-sewer line relocation cost rule for transportation projects.",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "roads",
+    "highway",
+    "transportation",
+    "contractor",
+    "bidding",
+    "sewer",
+    "water",
+    "road",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3799.htm"
+  },
+  {
+   "bill_key": "123:H3828",
+   "session": 123,
+   "bill_no": "H3828",
+   "title": "South Carolina Developer-Provided Transit Stop",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Developer-Provided Transit Stop Act: would have let local governments give developers incentives (including a tax credit) to build bus stops and walkable paths in projects near transit lines.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "transportation",
+    "traffic",
+    "congestion",
+    "developer",
+    "transit",
+    "public transit",
+    "land use",
+    "sewer",
+    "water",
+    "highway"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3828.htm"
+  },
+  {
+   "bill_key": "123:H4262",
+   "session": 123,
+   "bill_no": "H4262",
+   "title": "Small Wireless Facilities Deployment Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Small Wireless Facilities Deployment Act: statewide rules for placing small 5G cells in rights of way, limiting local zoning control over them.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "transportation",
+    "traffic",
+    "land use",
+    "zoning",
+    "maintenance",
+    "contractor",
+    "sewer",
+    "water",
+    "broadband",
+    "infrastructure",
+    "road",
+    "highway",
+    "toll"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4262.htm"
+  },
+  {
+   "bill_key": "123:H4369",
+   "session": 123,
+   "bill_no": "H4369",
+   "title": "Transportation Project Prioritization (D. No. 4839)",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Joint resolution to approve SCDOT's project prioritization regulation - the ranking rules for which roads get built first.",
+   "theme": "Who runs SCDOT (governance and accountability)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "SCDOT",
+    "South Carolina Department of Transportation",
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4369.htm"
+  },
+  {
+   "bill_key": "123:H4389",
+   "session": 123,
+   "bill_no": "H4389",
+   "title": "County transportation authorities",
+   "instrument_type": "General Bill",
+   "plain_topic": "House version: would have made clear county transportation authorities and their local sales taxes and tolls can fund mass transit systems.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "highway",
+    "bridge",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "traffic",
+    "toll",
+    "transit",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4389.htm"
+  },
+  {
+   "bill_key": "123:H4401",
+   "session": 123,
+   "bill_no": "H4401",
+   "title": "Highway Fund",
+   "instrument_type": "General Bill",
+   "plain_topic": "House version of the disadvantaged-business highway contracting bill.",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "highway",
+    "bridge",
+    "transportation",
+    "maintenance",
+    "contractor",
+    "bidding"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4401.htm"
+  },
+  {
+   "bill_key": "123:H4482",
+   "session": 123,
+   "bill_no": "H4482",
+   "title": "Housing Attainability Protection",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required local governments and state agencies to prepare a housing impact analysis before adopting rules that change housing costs.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "impact fee",
+    "comprehensive plan",
+    "land use",
+    "zoning",
+    "sewer",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4482.htm"
+  },
+  {
+   "bill_key": "123:H4597",
+   "session": 123,
+   "bill_no": "H4597",
+   "title": "Local hospitality tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let a county keep imposing a pre-1997 hospitality fee at its original rate - the fee family that funds Horry County's RIDE road projects.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "adjacent",
+   "found_by_terms": [],
+   "source": "universe",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4597.htm"
+  },
+  {
+   "bill_key": "123:H4598",
+   "session": 123,
+   "bill_no": "H4598",
+   "title": "Local planning definitions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have revised local planning definitions and let compliant land surveys be filed without local planning review.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "road",
+    "zoning",
+    "sewer",
+    "water",
+    "developer",
+    "land use",
+    "pavement"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4598.htm"
+  },
+  {
+   "bill_key": "123:H4674",
+   "session": 123,
+   "bill_no": "H4674",
+   "title": "Accommodations and hospitality tax expenditures",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let state and local tourism tax revenue pay for flooding and drainage control in tourism areas.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "roads",
+    "highway",
+    "transportation",
+    "traffic",
+    "maintenance",
+    "sewer",
+    "water",
+    "road",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4674.htm"
+  },
+  {
+   "bill_key": "123:H4721",
+   "session": 123,
+   "bill_no": "H4721",
+   "title": "Local Planning Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have aligned appeals from planning commission decisions with the process used for zoning appeals.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "zoning"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4721.htm"
+  },
+  {
+   "bill_key": "123:H4731",
+   "session": 123,
+   "bill_no": "H4731",
+   "title": "Local Planning Commissions, comprehensive plans; require all plans to include resiliency element",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required every local comprehensive plan to include a resiliency element - the idea enacted the same year in Act 163.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "transportation",
+    "transit",
+    "comprehensive plan",
+    "land use",
+    "sewer",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4731.htm"
+  },
+  {
+   "bill_key": "123:H4732",
+   "session": 123,
+   "bill_no": "H4732",
+   "title": "Electric vehicles",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required EV charging at all state welcome centers and rest areas.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "South Carolina Department of Transportation",
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4732.htm"
+  },
+  {
+   "bill_key": "123:H4819",
+   "session": 123,
+   "bill_no": "H4819",
+   "title": "Union County Transportation Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Union County Transportation Committee membership - the county boards that spend gas-tax 'C' funds on local roads.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4819.htm"
+  },
+  {
+   "bill_key": "123:H4823",
+   "session": 123,
+   "bill_no": "H4823",
+   "title": "Highway Fund",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the disadvantaged-business highway contracting bill.",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "highway",
+    "bridge",
+    "transportation",
+    "maintenance",
+    "contractor",
+    "bidding"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4823.htm"
+  },
+  {
+   "bill_key": "123:H4943",
+   "session": 123,
+   "bill_no": "H4943",
+   "title": "SC Rural Communications Infrastructure Study Committee",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have created a Rural Communications Infrastructure Study Committee on rural broadband gaps.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "broadband",
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4943.htm"
+  },
+  {
+   "bill_key": "123:H4993",
+   "session": 123,
+   "bill_no": "H4993",
+   "title": "Local Government-Owned Broadband Internet Access Service",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set the conditions for local governments to provide broadband internet service themselves.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "traffic",
+    "broadband",
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/4993.htm"
+  },
+  {
+   "bill_key": "123:H5030",
+   "session": 123,
+   "bill_no": "H5030",
+   "title": "Dorchester County Transportation Committee, membership increased",
+   "instrument_type": "General Bill",
+   "plain_topic": "Dorchester County Transportation Committee membership increase.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/5030.htm"
+  },
+  {
+   "bill_key": "123:H5150",
+   "session": 123,
+   "bill_no": "H5150",
+   "title": "Infrastructure maintenance fee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have applied the infrastructure maintenance fee (the road-funding fee paid when a vehicle is first registered) to first titling too, closing a collection gap.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "maintenance",
+    "rail"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/5150.htm"
+  },
+  {
+   "bill_key": "123:S1069",
+   "session": 123,
+   "bill_no": "S1069",
+   "title": "Contractor Performance Evaluations (D. No. 4916)",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Joint resolution to approve SCDOT's contractor performance evaluation regulation - the scoring system for how road contractors performed.",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "core",
+   "found_by_terms": [
+    "highway",
+    "bridge",
+    "SCDOT",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "contractor"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/1069.htm"
+  },
+  {
+   "bill_key": "123:S1070",
+   "session": 123,
+   "bill_no": "S1070",
+   "title": "Disqualification and Suspension from Participation in Contracts with the South Carolina Department of Transportation (D. No. 4917)",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Joint resolution to approve SCDOT's regulation for disqualifying and suspending contractors from SCDOT contracts.",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "core",
+   "found_by_terms": [
+    "SCDOT",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "contractor"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/1070.htm"
+  },
+  {
+   "bill_key": "123:S1076",
+   "session": 123,
+   "bill_no": "S1076",
+   "title": "Broadband Accessibility Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Broadband Accessibility Act: would have set up a framework to extend broadband into unserved areas, including using electric cooperative infrastructure.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "maintenance",
+    "broadband",
+    "road",
+    "bridge",
+    "rail"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/1076.htm"
+  },
+  {
+   "bill_key": "123:S1080",
+   "session": 123,
+   "bill_no": "S1080",
+   "title": "Broadband Accessibility Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Companion version of the Broadband Accessibility Act.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "maintenance",
+    "broadband",
+    "road",
+    "bridge",
+    "rail"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/1080.htm"
+  },
+  {
+   "bill_key": "123:S1235",
+   "session": 123,
+   "bill_no": "S1235",
+   "title": "Broadband Development Office",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a Broadband Development Office to coordinate extending high-speed internet.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "broadband",
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/1235.htm"
+  },
+  {
+   "bill_key": "123:S172",
+   "session": 123,
+   "bill_no": "S172",
+   "title": "Local Option Motor Fuel User Fee Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Local Option Motor Fuel User Fee Act: would have let a county, by referendum, add one cent a gallon to the gas tax for beach renourishment - a local-option gas tax.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [],
+   "source": "universe",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/172.htm"
+  },
+  {
+   "bill_key": "123:S175",
+   "session": 123,
+   "bill_no": "S175",
+   "title": "Highway and facility naming by General Assembly",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have limited the General Assembly's naming of highways after living elected officials - the naming resolutions dominate this issue's raw search results.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "road",
+    "highway",
+    "bridge",
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/175.htm"
+  },
+  {
+   "bill_key": "123:S178",
+   "session": 123,
+   "bill_no": "S178",
+   "title": "Tolls; require DOT to impose a toll along interstate highway 95 where it crosses Lake Marion",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required SCDOT to toll Interstate 95 at Lake Marion and use the money for repairs in that corridor.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "highway",
+    "transportation",
+    "toll",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/178.htm"
+  },
+  {
+   "bill_key": "123:S216",
+   "session": 123,
+   "bill_no": "S216",
+   "title": "Commuter Rail System Commission",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have created a Commuter Rail System Commission to plan for high-speed rail in the state.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "core",
+   "found_by_terms": [
+    "transportation",
+    "rail"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/216.htm"
+  },
+  {
+   "bill_key": "123:S217",
+   "session": 123,
+   "bill_no": "S217",
+   "title": "Accommodations and hospitality tax expenditures",
+   "instrument_type": "General Bill",
+   "plain_topic": "Let local tourism (hospitality) tax revenue also pay for flooding and drainage repairs in tourism areas (Act 146 of 2020).",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "transportation",
+    "comprehensive plan",
+    "infrastructure",
+    "road",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/217.htm"
+  },
+  {
+   "bill_key": "123:S259",
+   "session": 123,
+   "bill_no": "S259",
+   "title": "SC Resilience Revolving Fund Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Disaster Relief and Resilience Act (Act 163 of 2020): created the state Office of Resilience with a statewide resilience plan, and required local comprehensive plans to add a resiliency element.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "core",
+   "found_by_terms": [
+    "transportation",
+    "comprehensive plan",
+    "land use",
+    "zoning",
+    "maintenance",
+    "water",
+    "infrastructure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/259.htm"
+  },
+  {
+   "bill_key": "123:S385",
+   "session": 123,
+   "bill_no": "S385",
+   "title": "Highway Fund, allocation to firms owned by women or minorities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have extended the rule steering a share of highway construction funds to firms owned by women and minorities, covering subcontracts and setting participation goals.",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "highway",
+    "bridge",
+    "transportation",
+    "maintenance",
+    "contractor",
+    "bidding"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/385.htm"
+  },
+  {
+   "bill_key": "123:S401",
+   "session": 123,
+   "bill_no": "S401",
+   "title": "Highway system construction",
+   "instrument_type": "General Bill",
+   "plain_topic": "Made the entity building a transportation improvement project bear the cost of relocating water and sewer lines, with a sunset date (Act 36 of 2019).",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "transportation",
+    "contractor",
+    "bidding",
+    "sewer",
+    "water",
+    "road",
+    "roads",
+    "highway",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/401.htm"
+  },
+  {
+   "bill_key": "123:S449",
+   "session": 123,
+   "bill_no": "S449",
+   "title": "Capital project sales tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let capital project sales tax (penny) revenue also fund infrastructure for economic development projects.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "sewer",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/449.htm"
+  },
+  {
+   "bill_key": "123:S5",
+   "session": 123,
+   "bill_no": "S5",
+   "title": "Interstate Lane Expansion Fund",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created an Interstate Lane Expansion Fund - dedicating part of the infrastructure maintenance fee to adding lanes on existing interstates, with projects picked through the Transportation Infrastructure Bank.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "maintenance",
+    "pavement"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/5.htm"
+  },
+  {
+   "bill_key": "123:S594",
+   "session": 123,
+   "bill_no": "S594",
+   "title": "Transportation Authority",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have revised how county transportation authorities are funded, including the local sales taxes and tolls that pay for transportation projects.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "highway",
+    "bridge",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "traffic",
+    "toll",
+    "transit",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/594.htm"
+  },
+  {
+   "bill_key": "123:S611",
+   "session": 123,
+   "bill_no": "S611",
+   "title": "County transportation authorities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have made clear that a county's local transportation sales tax and tolls can fund mass transit service, with the same procurement rules as roads.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "highway",
+    "bridge",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "traffic",
+    "toll",
+    "transit",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/611.htm"
+  },
+  {
+   "bill_key": "123:S629",
+   "session": 123,
+   "bill_no": "S629",
+   "title": "Accommodation and hospitality tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have lowered the collections threshold that lets a county spend accommodations tax revenue on additional purposes.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/629.htm"
+  },
+  {
+   "bill_key": "123:S638",
+   "session": 123,
+   "bill_no": "S638",
+   "title": "Small Wireless Facilities Deployment Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Senate version of the small wireless facilities deployment rules.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "highway",
+    "transportation",
+    "traffic",
+    "land use",
+    "zoning",
+    "maintenance",
+    "broadband",
+    "toll"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/638.htm"
+  },
+  {
+   "bill_key": "123:S730",
+   "session": 123,
+   "bill_no": "S730",
+   "title": "Mass Transit Feasibility Study Committee",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have created a study committee on connecting to Charlotte's mass transit system and providing mass transit statewide.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "core",
+   "found_by_terms": [
+    "transportation",
+    "transit"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/730.htm"
+  },
+  {
+   "bill_key": "123:S757",
+   "session": 123,
+   "bill_no": "S757",
+   "title": "Housing Attainability Protection",
+   "instrument_type": "General Bill",
+   "plain_topic": "Senate version of the housing impact analysis requirement.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "impact fee",
+    "comprehensive plan",
+    "land use",
+    "zoning",
+    "sewer",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/757.htm"
+  },
+  {
+   "bill_key": "123:S780",
+   "session": 123,
+   "bill_no": "S780",
+   "title": "Toll roads",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required SCDOT to review every highway and bridge project for the possibility of financing it with tolls.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road",
+    "roads",
+    "highway",
+    "bridge",
+    "transportation",
+    "toll",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/780.htm"
+  },
+  {
+   "bill_key": "123:S819",
+   "session": 123,
+   "bill_no": "S819",
+   "title": "Infrastructure maintenance fee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted returning South Carolina residents from paying the infrastructure maintenance fee again on vehicles they registered here before.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "transportation",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/819.htm"
+  },
+  {
+   "bill_key": "123:S833",
+   "session": 123,
+   "bill_no": "S833",
+   "title": "Local planning definitions",
+   "instrument_type": "General Bill",
+   "plain_topic": "Senate version of the plat and subdivision definitions bill.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "road",
+    "zoning",
+    "sewer",
+    "water",
+    "developer",
+    "land use",
+    "pavement"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/833.htm"
+  },
+  {
+   "bill_key": "123:S953",
+   "session": 123,
+   "bill_no": "S953",
+   "title": "Road and Bridge namings",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred naming roads, bridges, and public buildings for living persons.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "road",
+    "highway",
+    "bridge",
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/953.htm"
+  },
+  {
+   "bill_key": "123:S988",
+   "session": 123,
+   "bill_no": "S988",
+   "title": "Kershaw County Transportation Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Kershaw County Transportation Committee membership.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/988.htm"
+  },
+  {
+   "bill_key": "123:S994",
+   "session": 123,
+   "bill_no": "S994",
+   "title": "Lee County Transportation Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Lee County Transportation Committee membership.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess123_2019-2020/bills/994.htm"
+  },
+  {
+   "bill_key": "124:H3051",
+   "session": 124,
+   "bill_no": "H3051",
+   "title": "DOT feasibility determination",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have made SCDOT's required feasibility review before road projects cover all roads and use measurable standards, including dedicated bus lanes.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "core",
+   "found_by_terms": [
+    "roads",
+    "highway",
+    "transportation",
+    "transit",
+    "road",
+    "rail"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3051.htm"
+  },
+  {
+   "bill_key": "124:H3129",
+   "session": 124,
+   "bill_no": "H3129",
+   "title": "Capital project sales tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have removed the rule that keeps a county from stacking a capital project penny tax on top of a transportation penny tax.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [],
+   "source": "universe",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3129.htm"
+  },
+  {
+   "bill_key": "124:H3277",
+   "session": 124,
+   "bill_no": "H3277",
+   "title": "Union County Transportation Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Union County Transportation Committee membership.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3277.htm"
+  },
+  {
+   "bill_key": "124:H3460",
+   "session": 124,
+   "bill_no": "H3460",
+   "title": "Impact fee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let counties and cities charge developers a one-time impact fee per new unit to fund a Gentrification Trust Fund helping longtime residents stay, with an exemption for projects with 15% low-income housing.",
+   "theme": "Making developers pay (impact fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "impact fee",
+    "impact fees",
+    "developer",
+    "growth"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3460.htm"
+  },
+  {
+   "bill_key": "124:H3483",
+   "session": 124,
+   "bill_no": "H3483",
+   "title": "Local road use fee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required a county's local road use fee to sit in a separate account, spent only on the county's existing transportation system and identified in the annual audit.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road",
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3483.htm"
+  },
+  {
+   "bill_key": "124:H3505",
+   "session": 124,
+   "bill_no": "H3505",
+   "title": "Infrastructure maintenance fee and road use",
+   "instrument_type": "General Bill",
+   "plain_topic": "Closed the collection gap in the road-funding infrastructure maintenance fee by applying it at first titling (Act 70 of 2021).",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "transportation",
+    "maintenance",
+    "rail"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3505.htm"
+  },
+  {
+   "bill_key": "124:H3535",
+   "session": 124,
+   "bill_no": "H3535",
+   "title": "Transportation authorities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile: would have made clear county transportation authorities and their local sales taxes and tolls can fund mass transit systems.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "highway",
+    "bridge",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "traffic",
+    "toll",
+    "transit",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3535.htm"
+  },
+  {
+   "bill_key": "124:H3559",
+   "session": 124,
+   "bill_no": "H3559",
+   "title": "Partnership for Public Facilities and Infrastructure Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Partnership for Public Facilities and Infrastructure Act: a framework for public-private partnerships to build and operate public projects.",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "transportation",
+    "land use",
+    "zoning",
+    "maintenance",
+    "bidding",
+    "water",
+    "contractor"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3559.htm"
+  },
+  {
+   "bill_key": "124:H3863",
+   "session": 124,
+   "bill_no": "H3863",
+   "title": "Local Government Planning",
+   "instrument_type": "General Bill",
+   "plain_topic": "House version of the Home Attainability Act permitting package.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "developer",
+    "comprehensive plan"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3863.htm"
+  },
+  {
+   "bill_key": "124:H3871",
+   "session": 124,
+   "bill_no": "H3871",
+   "title": "Pot holes, department of trans.",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required SCDOT to run a toll-free pothole hotline so motorists whose cars are damaged by road hazards can file complaints and get information.",
+   "theme": "Fixing and maintaining existing roads",
+   "relevance": "core",
+   "found_by_terms": [
+    "road",
+    "transportation",
+    "toll"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3871.htm"
+  },
+  {
+   "bill_key": "124:H3937",
+   "session": 124,
+   "bill_no": "H3937",
+   "title": "High Speed Rail System Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the High Speed Rail System Commission bill.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "transportation",
+    "rail"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3937.htm"
+  },
+  {
+   "bill_key": "124:H4090",
+   "session": 124,
+   "bill_no": "H4090",
+   "title": "Department of Transportation expenditure report",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required the transportation secretary to certify and publish SCDOT's annual expenditure report, including money transferred to the infrastructure bank.",
+   "theme": "Who runs SCDOT (governance and accountability)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4090.htm"
+  },
+  {
+   "bill_key": "124:H4091",
+   "session": 124,
+   "bill_no": "H4091",
+   "title": "User fee on gasoline",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have stopped the 2017 gas-tax phase-in early, freezing the user fee at eight cents of the planned twelve-cent increase.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4091.htm"
+  },
+  {
+   "bill_key": "124:H4092",
+   "session": 124,
+   "bill_no": "H4092",
+   "title": "Repeal user fee on motor fuel",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have repealed the state gas user fee and the road tax outright.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4092.htm"
+  },
+  {
+   "bill_key": "124:H4768",
+   "session": 124,
+   "bill_no": "H4768",
+   "title": "Alternative Fuel Infrastructure Tax Credit",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created a state tax credit matching half the federal alternative-fuel infrastructure credit for EV charging and similar property.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4768.htm"
+  },
+  {
+   "bill_key": "124:H4817",
+   "session": 124,
+   "bill_no": "H4817",
+   "title": "Shortline Railroad Modernization Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Shortline Railroad Modernization Act: a tax credit for half of small railroads' track reconstruction and replacement spending.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "transportation",
+    "rail",
+    "maintenance",
+    "road",
+    "roads",
+    "bridge",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4817.htm"
+  },
+  {
+   "bill_key": "124:H4943",
+   "session": 124,
+   "bill_no": "H4943",
+   "title": "Impact fees",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let governments with pre-1999 impact fees use the revenue to pay down debt for system improvements.",
+   "theme": "Making developers pay (impact fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "impact fee",
+    "impact fees"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4943.htm"
+  },
+  {
+   "bill_key": "124:H4945",
+   "session": 124,
+   "bill_no": "H4945",
+   "title": "Road use fees",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have repealed the special road use fee charged to electric and hybrid vehicle owners.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/4945.htm"
+  },
+  {
+   "bill_key": "124:H5103",
+   "session": 124,
+   "bill_no": "H5103",
+   "title": "Gas tax and user fee temporary suspension",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have suspended the gas user fee and road tax for one year during the 2022 gas-price spike.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road",
+    "gas tax"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/5103.htm"
+  },
+  {
+   "bill_key": "124:H5112",
+   "session": 124,
+   "bill_no": "H5112",
+   "title": "Suspend imposition of the user fee on Gasoline and diesel and road tax",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have suspended the gas user fee whenever average gas prices exceeded $3.25 per gallon.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/5112.htm"
+  },
+  {
+   "bill_key": "124:H5196",
+   "session": 124,
+   "bill_no": "H5196",
+   "title": "Local Government - Annexations",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let a municipality annex 'donut hole' areas it completely surrounds by ordinance.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [],
+   "source": "universe",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/5196.htm"
+  },
+  {
+   "bill_key": "124:S1043",
+   "session": 124,
+   "bill_no": "S1043",
+   "title": "User fee funds requirements, gasoline",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required fifteen percent of each county's 'C' fund gas-tax apportionment to be spent on rural roads.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road",
+    "roads",
+    "highway",
+    "bridge",
+    "transportation",
+    "traffic",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/1043.htm"
+  },
+  {
+   "bill_key": "124:S148",
+   "session": 124,
+   "bill_no": "S148",
+   "title": "Infrastructure maintenance fee and road use fee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Senate version of the titling fix for the infrastructure maintenance fee.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "transportation",
+    "maintenance",
+    "rail"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/148.htm"
+  },
+  {
+   "bill_key": "124:S152",
+   "session": 124,
+   "bill_no": "S152",
+   "title": "County Green Space Sales Tax Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The County Green Space Sales Tax Act (Act 166 of 2022): created a new voter-approved local penny tax counties can use to buy and preserve green space - the one new local funding tool enacted in this record.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "bridge",
+    "transportation",
+    "growth",
+    "land use",
+    "water",
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/152.htm"
+  },
+  {
+   "bill_key": "124:S178",
+   "session": 124,
+   "bill_no": "S178",
+   "title": "Naming road and buildings",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have revised the road and building naming rules.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "road",
+    "highway",
+    "bridge",
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/178.htm"
+  },
+  {
+   "bill_key": "124:S304",
+   "session": 124,
+   "bill_no": "S304",
+   "title": "Electric charging station",
+   "instrument_type": "General Bill",
+   "plain_topic": "Set rules for who counts as an electric utility when selling EV charging, and created a joint legislative committee on the electrification of transportation (Act 46 of 2021).",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "roads",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "maintenance",
+    "road",
+    "bridge",
+    "transit"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/304.htm"
+  },
+  {
+   "bill_key": "124:S40",
+   "session": 124,
+   "bill_no": "S40",
+   "title": "State highways",
+   "instrument_type": "General Bill",
+   "plain_topic": "Required SCDOT approval before municipalities restrict state highway rights of way, and set rules for paid beach parking and how the parking money is used (Act 89 of 2022).",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "highway",
+    "transportation",
+    "traffic",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/40.htm"
+  },
+  {
+   "bill_key": "124:S437",
+   "session": 124,
+   "bill_no": "S437",
+   "title": "Transportation facilities projects",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have defined 'mass transit system' in the local transportation sales tax law so penny-tax revenue could clearly fund transit.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "roads",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "transit",
+    "public transit",
+    "road",
+    "highway",
+    "bridge",
+    "toll"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/437.htm"
+  },
+  {
+   "bill_key": "124:S447",
+   "session": 124,
+   "bill_no": "S447",
+   "title": "Lee County Transportation Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Lee County Transportation Committee membership.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/447.htm"
+  },
+  {
+   "bill_key": "124:S519",
+   "session": 124,
+   "bill_no": "S519",
+   "title": "Office of Broadband Development",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have created an Office of Broadband Development.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "broadband",
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/519.htm"
+  },
+  {
+   "bill_key": "124:S528",
+   "session": 124,
+   "bill_no": "S528",
+   "title": "Local Government Planning",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Home Attainability Act: would have cut local permitting costs and barriers to housing construction, including third-party building inspectors.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "developer",
+    "comprehensive plan"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/528.htm"
+  },
+  {
+   "bill_key": "125:H3075",
+   "session": 125,
+   "bill_no": "H3075",
+   "title": "Rural Infrastructure Authority",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have made the Rural Infrastructure Authority staff the state's water-and-sewer loan authorities - consolidating water infrastructure financing support.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3075.htm"
+  },
+  {
+   "bill_key": "125:H3076",
+   "session": 125,
+   "bill_no": "H3076",
+   "title": "Rural Infrastructure Authority",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have defined 'environmental facilities' (water, sewer, solid waste projects) in the Rural Infrastructure Authority law.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "water",
+    "infrastructure",
+    "sewer"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3076.htm"
+  },
+  {
+   "bill_key": "125:H3077",
+   "session": 125,
+   "bill_no": "H3077",
+   "title": "Rural Infrastructure Authority",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have expanded the Rural Infrastructure Authority's corporate purposes.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3077.htm"
+  },
+  {
+   "bill_key": "125:H3078",
+   "session": 125,
+   "bill_no": "H3078",
+   "title": "Rural Infrastructure Authority",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have repealed a restriction on how Rural Infrastructure Authority funds are used.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3078.htm"
+  },
+  {
+   "bill_key": "125:H3079",
+   "session": 125,
+   "bill_no": "H3079",
+   "title": "Rural Infrastructure Authority",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have updated the definition of a rural infrastructure project.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3079.htm"
+  },
+  {
+   "bill_key": "125:H3119",
+   "session": 125,
+   "bill_no": "H3119",
+   "title": "State Infrastructure Protection Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have barred contracts with certain foreign-owned companies in connection with critical infrastructure.",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3119.htm"
+  },
+  {
+   "bill_key": "125:H3177",
+   "session": 125,
+   "bill_no": "H3177",
+   "title": "Road use fees, electric vehicles",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have repealed the electric-vehicle road use fee and added a tax deduction for solar panels powering EV charging stations.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3177.htm"
+  },
+  {
+   "bill_key": "125:H3236",
+   "session": 125,
+   "bill_no": "H3236",
+   "title": "Local Government - Annexations",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the donut-hole annexation bill.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [],
+   "source": "universe",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3236.htm"
+  },
+  {
+   "bill_key": "125:H3451",
+   "session": 125,
+   "bill_no": "H3451",
+   "title": "Department of Transportation, poles",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the SCDOT road-hazard damage hotline bill.",
+   "theme": "Fixing and maintaining existing roads",
+   "relevance": "core",
+   "found_by_terms": [
+    "road",
+    "transportation",
+    "toll"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3451.htm"
+  },
+  {
+   "bill_key": "125:H3516",
+   "session": 125,
+   "bill_no": "H3516",
+   "title": "Maintenance of private roads",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have set the conditions under which a county may maintain or improve a private road that is the only access for residents.",
+   "theme": "Fixing and maintaining existing roads",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "road",
+    "roads",
+    "maintenance",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3516.htm"
+  },
+  {
+   "bill_key": "125:H3737",
+   "session": 125,
+   "bill_no": "H3737",
+   "title": "Short Line Railroad Modernization Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the shortline railroad modernization tax credit.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "transportation",
+    "maintenance",
+    "road",
+    "bridge",
+    "rail"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/3737.htm"
+  },
+  {
+   "bill_key": "125:H4004",
+   "session": 125,
+   "bill_no": "H4004",
+   "title": "National Infrastructure Bank",
+   "instrument_type": "House Resolution",
+   "plain_topic": "House resolution urging Congress to create a National Infrastructure Bank.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "context",
+   "found_by_terms": [
+    "infrastructure",
+    "roads",
+    "rail",
+    "water",
+    "road",
+    "bridge",
+    "contractor"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4004.htm"
+  },
+  {
+   "bill_key": "125:H4013",
+   "session": 125,
+   "bill_no": "H4013",
+   "title": "Transit-Oriented Development Projects",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the transit-oriented development agency bill.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "transportation",
+    "transit",
+    "public transit",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4013.htm"
+  },
+  {
+   "bill_key": "125:H4059",
+   "session": 125,
+   "bill_no": "H4059",
+   "title": "Transportation facilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "House version: would have expanded what a county transportation penny tax can pay for, including greenbelts and drainage.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "roads",
+    "transportation",
+    "transit",
+    "public transit",
+    "rail",
+    "road",
+    "highway",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4059.htm"
+  },
+  {
+   "bill_key": "125:H4115",
+   "session": 125,
+   "bill_no": "H4115",
+   "title": "Contractors",
+   "instrument_type": "General Bill",
+   "plain_topic": "Rewrote the contractor licensing law - definitions, thresholds, and penalties for construction contractors (Act 69 of 2023).",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "context",
+   "found_by_terms": [
+    "roads",
+    "highway",
+    "bridge",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "traffic",
+    "rail",
+    "maintenance",
+    "pavement",
+    "contractor",
+    "bidding",
+    "sewer",
+    "water",
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4115.htm"
+  },
+  {
+   "bill_key": "125:H4610",
+   "session": 125,
+   "bill_no": "H4610",
+   "title": "Highway transfers to the state highway system",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would require SCDOT to properly maintain roads it accepts into the state highway system from counties and cities.",
+   "theme": "Fixing and maintaining existing roads",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "highway",
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4610.htm"
+  },
+  {
+   "bill_key": "125:H4629",
+   "session": 125,
+   "bill_no": "H4629",
+   "title": "Secretary of Transportation",
+   "instrument_type": "General Bill",
+   "plain_topic": "A different design: the Lieutenant Governor would serve as Secretary of Transportation starting in 2027.",
+   "theme": "Who runs SCDOT (governance and accountability)",
+   "relevance": "core",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4629.htm"
+  },
+  {
+   "bill_key": "125:H4651",
+   "session": 125,
+   "bill_no": "H4651",
+   "title": "Annexation Fairness Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Annexation Fairness Act: counties would get legal standing to challenge municipal annexations, with new limits on noncontiguous annexation.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "sewer",
+    "water",
+    "land use"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4651.htm"
+  },
+  {
+   "bill_key": "125:H4652",
+   "session": 125,
+   "bill_no": "H4652",
+   "title": "Local government application reviews",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have given local permitting bodies forty-five days to decide building permit and zoning applications, after which the application is deemed approved.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "zoning"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4652.htm"
+  },
+  {
+   "bill_key": "125:H4659",
+   "session": 125,
+   "bill_no": "H4659",
+   "title": "Development impact fees",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let a city or county impose an impact fee on residential development only, commercial only, or both - loosening the all-or-nothing rule.",
+   "theme": "Making developers pay (impact fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "impact fee",
+    "impact fees"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4659.htm"
+  },
+  {
+   "bill_key": "125:H4969",
+   "session": 125,
+   "bill_no": "H4969",
+   "title": "Secretary of Transportation",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have moved the power to appoint the Secretary of Transportation from the SCDOT Commission to the Governor.",
+   "theme": "Who runs SCDOT (governance and accountability)",
+   "relevance": "core",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4969.htm"
+  },
+  {
+   "bill_key": "125:H4981",
+   "session": 125,
+   "bill_no": "H4981",
+   "title": "Development Impact Fee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have narrowed the Development Impact Fee Act: fees could not cover repair, operation, or maintenance of improvements, or the government's administrative costs.",
+   "theme": "Making developers pay (impact fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "roads",
+    "traffic",
+    "impact fee",
+    "impact fees",
+    "growth",
+    "land use",
+    "maintenance",
+    "water",
+    "road",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4981.htm"
+  },
+  {
+   "bill_key": "125:H4996",
+   "session": 125,
+   "bill_no": "H4996",
+   "title": "Transferable development rights",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let local governments allow transfers of development rights between parcels by ordinance.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "zoning"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4996.htm"
+  },
+  {
+   "bill_key": "125:H5017",
+   "session": 125,
+   "bill_no": "H5017",
+   "title": "Development Impact Fee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Package: counties would report residential development plans to affected cities, annexation notices would go to the county, and impact fee definitions would be narrowed.",
+   "theme": "Making developers pay (impact fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "roads",
+    "transportation",
+    "traffic",
+    "impact fee",
+    "impact fees",
+    "growth",
+    "land use",
+    "maintenance",
+    "water",
+    "road",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5017.htm"
+  },
+  {
+   "bill_key": "125:H5045",
+   "session": 125,
+   "bill_no": "H5045",
+   "title": "DOT Commission",
+   "instrument_type": "General Bill",
+   "plain_topic": "The governor-appoints-the-secretary, dissolve-the-commission design, filed again in 2024.",
+   "theme": "Who runs SCDOT (governance and accountability)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "roads",
+    "highway",
+    "bridge",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "traffic",
+    "congestion",
+    "toll",
+    "transit",
+    "public transit",
+    "multimodal",
+    "comprehensive plan",
+    "land use",
+    "maintenance",
+    "pavement",
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5045.htm"
+  },
+  {
+   "bill_key": "125:H5188",
+   "session": 125,
+   "bill_no": "H5188",
+   "title": "Transportation sales tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have exempted groceries (unprepared food) from county transportation penny taxes.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "transportation",
+    "toll"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5188.htm"
+  },
+  {
+   "bill_key": "125:H5312",
+   "session": 125,
+   "bill_no": "H5312",
+   "title": "Department of Transportation",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let SCDOT pilot 'progressive design-build' contracting - picking a contractor on qualifications first, then negotiating the price.",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "core",
+   "found_by_terms": [
+    "transportation",
+    "contractor"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5312.htm"
+  },
+  {
+   "bill_key": "125:H5315",
+   "session": 125,
+   "bill_no": "H5315",
+   "title": "Broadband service line relocation costs",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have added broadband lines to the utility-relocation cost rule for federal highway projects.",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "roads",
+    "highway",
+    "transportation",
+    "contractor",
+    "bidding",
+    "sewer",
+    "water",
+    "broadband",
+    "road",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5315.htm"
+  },
+  {
+   "bill_key": "125:H5347",
+   "session": 125,
+   "bill_no": "H5347",
+   "title": "Passenger rail service",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have required SCDOT to study widening highway rights of way to add commuter rail lines alongside existing highways.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "core",
+   "found_by_terms": [
+    "highway",
+    "transportation",
+    "rail",
+    "contractor"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5347.htm"
+  },
+  {
+   "bill_key": "125:H5348",
+   "session": 125,
+   "bill_no": "H5348",
+   "title": "Shipping Transportation and Port Bridge Safety Study Committee",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would have created a study committee on bridge safety for large ships entering ports, after the Baltimore Key Bridge collapse.",
+   "theme": "Fixing and maintaining existing roads",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "road",
+    "bridge",
+    "transportation",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5348.htm"
+  },
+  {
+   "bill_key": "125:H5562",
+   "session": 125,
+   "bill_no": "H5562",
+   "title": "Local Planning",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have defined 'concurrency programs' in the zoning law - letting local governments require that infrastructure keep pace before new development is approved.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "core",
+   "found_by_terms": [
+    "traffic",
+    "impact fees",
+    "developer",
+    "comprehensive plan",
+    "land use",
+    "zoning",
+    "impact fee"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/5562.htm"
+  },
+  {
+   "bill_key": "125:S1113",
+   "session": 125,
+   "bill_no": "S1113",
+   "title": "Transportation sales tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Senate version: would have exempted groceries from county transportation penny taxes.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "transportation",
+    "toll"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/1113.htm"
+  },
+  {
+   "bill_key": "125:S116",
+   "session": 125,
+   "bill_no": "S116",
+   "title": "Capital Project Sales Tax Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let counties reimpose a capital project sales tax (penny) for eleven years instead of seven.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "roads",
+    "sewer",
+    "water",
+    "road",
+    "highway",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/116.htm"
+  },
+  {
+   "bill_key": "125:S269",
+   "session": 125,
+   "bill_no": "S269",
+   "title": "Short Line Railroad Modernization Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Senate version of the shortline railroad modernization tax credit.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "transportation",
+    "maintenance",
+    "road",
+    "bridge",
+    "rail"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/269.htm"
+  },
+  {
+   "bill_key": "125:S290",
+   "session": 125,
+   "bill_no": "S290",
+   "title": "Transportation facilities projects",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile: would have defined 'mass transit system' in the local transportation sales tax law.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "roads",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "transit",
+    "public transit",
+    "road",
+    "highway",
+    "bridge",
+    "toll"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/290.htm"
+  },
+  {
+   "bill_key": "125:S383",
+   "session": 125,
+   "bill_no": "S383",
+   "title": "Lee County Transportation Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Lee County Transportation Committee membership.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/383.htm"
+  },
+  {
+   "bill_key": "125:S4",
+   "session": 125,
+   "bill_no": "S4",
+   "title": "Local Government Planning",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the Home Attainability Act permitting package.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "developer",
+    "comprehensive plan"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/4.htm"
+  },
+  {
+   "bill_key": "125:S499",
+   "session": 125,
+   "bill_no": "S499",
+   "title": "Toll on Interstate 95",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile: would have required SCDOT to toll Interstate 95 at Lake Marion for maintenance funding.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "highway",
+    "transportation",
+    "toll",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/499.htm"
+  },
+  {
+   "bill_key": "125:S562",
+   "session": 125,
+   "bill_no": "S562",
+   "title": "Transportation Facilities",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have expanded what a county transportation penny tax can pay for - adding ferries, aviation, railways, greenbelts, and drainage projects.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "roads",
+    "transportation",
+    "transit",
+    "rail",
+    "road",
+    "highway",
+    "bridge",
+    "toll",
+    "public transit"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/562.htm"
+  },
+  {
+   "bill_key": "125:S674",
+   "session": 125,
+   "bill_no": "S674",
+   "title": "Interstate Highway 95 Bridge Toll Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Interstate 95 Bridge Toll Act: would have authorized toll booths at four I-95 bridges, with resident and commercial-carrier relief, to fund corridor improvements.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "highway",
+    "bridge",
+    "transportation",
+    "toll"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/674.htm"
+  },
+  {
+   "bill_key": "125:S792",
+   "session": 125,
+   "bill_no": "S792",
+   "title": "County Green Space Sales Tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have let a small share of green space penny-tax money pay for conservation management of the land bought.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/792.htm"
+  },
+  {
+   "bill_key": "125:S856",
+   "session": 125,
+   "bill_no": "S856",
+   "title": "Development Impact Fee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Senate version: would have narrowed what development impact fees can cover, excluding repair, maintenance, and administrative costs.",
+   "theme": "Making developers pay (impact fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "roads",
+    "traffic",
+    "impact fee",
+    "impact fees",
+    "growth",
+    "land use",
+    "maintenance",
+    "water",
+    "road",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess125_2023-2024/bills/856.htm"
+  },
+  {
+   "bill_key": "126:H3165",
+   "session": 126,
+   "bill_no": "H3165",
+   "title": "Development impact fee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the package narrowing impact fee definitions and requiring development and annexation notices between counties and cities.",
+   "theme": "Making developers pay (impact fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "roads",
+    "transportation",
+    "traffic",
+    "impact fee",
+    "impact fees",
+    "growth",
+    "land use",
+    "maintenance",
+    "water",
+    "road",
+    "bridge",
+    "comprehensive plan"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3165.htm"
+  },
+  {
+   "bill_key": "126:H3215",
+   "session": 126,
+   "bill_no": "H3215",
+   "title": "Local government permit application reviews",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the forty-five-day permit shot-clock bill.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "zoning"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3215.htm"
+  },
+  {
+   "bill_key": "126:H3282",
+   "session": 126,
+   "bill_no": "H3282",
+   "title": "Secretary of Transportation",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile: the Lieutenant Governor would serve as Secretary of Transportation starting in 2028.",
+   "theme": "Who runs SCDOT (governance and accountability)",
+   "relevance": "core",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3282.htm"
+  },
+  {
+   "bill_key": "126:H3344",
+   "session": 126,
+   "bill_no": "H3344",
+   "title": "State Infrastructure Protection Act",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the foreign-owned company critical-infrastructure contracting ban.",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3344.htm"
+  },
+  {
+   "bill_key": "126:H3357",
+   "session": 126,
+   "bill_no": "H3357",
+   "title": "Shipping Transportation and Port Bridge Safety Study Committee",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Refile of the port bridge safety study committee.",
+   "theme": "Fixing and maintaining existing roads",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "road",
+    "bridge",
+    "transportation",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3357.htm"
+  },
+  {
+   "bill_key": "126:H3373",
+   "session": 126,
+   "bill_no": "H3373",
+   "title": "Rural Infrastructure Authority",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the Rural Infrastructure Authority consolidation package.",
+   "theme": "Water, sewer, and broadband infrastructure",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3373.htm"
+  },
+  {
+   "bill_key": "126:H3560",
+   "session": 126,
+   "bill_no": "H3560",
+   "title": "Department of Transportation",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile: would let SCDOT award contracts using the phase design-build delivery method.",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "core",
+   "found_by_terms": [
+    "transportation",
+    "contractor"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3560.htm"
+  },
+  {
+   "bill_key": "126:H3768",
+   "session": 126,
+   "bill_no": "H3768",
+   "title": "Highway system construction",
+   "instrument_type": "General Bill",
+   "plain_topic": "Extended the Act 36 utility-relocation cost rule to 2032 and consented to federal-court suits under the national environmental review assignment program (Act 244 of 2026).",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "highway",
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3768.htm"
+  },
+  {
+   "bill_key": "126:H3845",
+   "session": 126,
+   "bill_no": "H3845",
+   "title": "Transportation improvement projects",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile: broadband line relocation costs on federal highway projects, and removal of the Act 36 sunset.",
+   "theme": "Road contracts and contractor accountability",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "roads",
+    "highway",
+    "transportation",
+    "contractor",
+    "bidding",
+    "sewer",
+    "water",
+    "broadband",
+    "road",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3845.htm"
+  },
+  {
+   "bill_key": "126:H3911",
+   "session": 126,
+   "bill_no": "H3911",
+   "title": "Capital Use Sales Tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "House version: would add workforce housing to the projects a capital project penny tax can fund.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "roads",
+    "sewer",
+    "water",
+    "road",
+    "highway",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/3911.htm"
+  },
+  {
+   "bill_key": "126:H4008",
+   "session": 126,
+   "bill_no": "H4008",
+   "title": "Impact fee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile: a one-time developer impact fee per new unit funding a Gentrification Trust Fund.",
+   "theme": "Making developers pay (impact fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "impact fee",
+    "impact fees",
+    "developer",
+    "growth"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4008.htm"
+  },
+  {
+   "bill_key": "126:H4031",
+   "session": 126,
+   "bill_no": "H4031",
+   "title": "Transportation Infrastructure Bank",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would abolish the State Transportation Infrastructure Bank and send its fines and fees straight to the State Highway Fund.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "highway",
+    "bridge",
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4031.htm"
+  },
+  {
+   "bill_key": "126:H4050",
+   "session": 126,
+   "bill_no": "H4050",
+   "title": "Local planning",
+   "instrument_type": "General Bill",
+   "plain_topic": "House version of the concurrency-programs zoning bill.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "core",
+   "found_by_terms": [
+    "traffic",
+    "impact fees",
+    "developer",
+    "comprehensive plan",
+    "land use",
+    "zoning",
+    "impact fee"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4050.htm"
+  },
+  {
+   "bill_key": "126:H4057",
+   "session": 126,
+   "bill_no": "H4057",
+   "title": "Railroad crossing fees",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would set standardized fees and a dispute process for utility lines crossing railroad property.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "infrastructure",
+    "highway",
+    "transportation",
+    "traffic",
+    "rail",
+    "pavement",
+    "contractor",
+    "water",
+    "road",
+    "roads",
+    "sewer"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4057.htm"
+  },
+  {
+   "bill_key": "126:H4122",
+   "session": 126,
+   "bill_no": "H4122",
+   "title": "High Speed Rail System",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would create a high-speed rail study committee tied to the Southeast High-Speed Rail Corridor.",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "transportation",
+    "rail"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4122.htm"
+  },
+  {
+   "bill_key": "126:H4146",
+   "session": 126,
+   "bill_no": "H4146",
+   "title": "Local planning",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the transferable development rights bill.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "zoning"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4146.htm"
+  },
+  {
+   "bill_key": "126:H4293",
+   "session": 126,
+   "bill_no": "H4293",
+   "title": "Zoning",
+   "instrument_type": "General Bill",
+   "plain_topic": "House version of the zoning permit-invalidation bill.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "zoning"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4293.htm"
+  },
+  {
+   "bill_key": "126:H4390",
+   "session": 126,
+   "bill_no": "H4390",
+   "title": "Zoning",
+   "instrument_type": "General Bill",
+   "plain_topic": "The Community Impact and Opportunity Assessment Act: would require community impact assessments - covering infrastructure, affordability, and displacement - before major zoning and development decisions.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "transportation",
+    "growth",
+    "land use",
+    "zoning"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4390.htm"
+  },
+  {
+   "bill_key": "126:H4589",
+   "session": 126,
+   "bill_no": "H4589",
+   "title": "Education Capital Improvements Sales and Use Tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Expanded which counties may impose the local-option education capital improvements sales tax for school buildings (Act 203 of 2026).",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "local option sales tax"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4589.htm"
+  },
+  {
+   "bill_key": "126:H4672",
+   "session": 126,
+   "bill_no": "H4672",
+   "title": "Impact fees",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would exempt home buyers who already owned a home in the same school district for fifteen years from impact fees.",
+   "theme": "Making developers pay (impact fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "impact fee",
+    "impact fees"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4672.htm"
+  },
+  {
+   "bill_key": "126:H4687",
+   "session": 126,
+   "bill_no": "H4687",
+   "title": "Road Safety Reports",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would have county sheriffs report hazardous road segments to SCDOT, which must respond about closures or repairs and keep a public database.",
+   "theme": "Fixing and maintaining existing roads",
+   "relevance": "core",
+   "found_by_terms": [
+    "road",
+    "roads",
+    "highway",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4687.htm"
+  },
+  {
+   "bill_key": "126:H4726",
+   "session": 126,
+   "bill_no": "H4726",
+   "title": "Local Government - Annexations",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the donut-hole annexation bill.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [],
+   "source": "universe",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4726.htm"
+  },
+  {
+   "bill_key": "126:H4971",
+   "session": 126,
+   "bill_no": "H4971",
+   "title": "Department of Transportation",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would make SCDOT transfer certain roads to the counties and delete the rule that a quarter of county 'C' funds be spent on the state highway system.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road",
+    "roads",
+    "highway",
+    "bridge",
+    "transportation",
+    "traffic",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4971.htm"
+  },
+  {
+   "bill_key": "126:H5071",
+   "session": 126,
+   "bill_no": "H5071",
+   "title": "Department of Transportation",
+   "instrument_type": "General Bill",
+   "plain_topic": "House companion to the SCDOT governance overhaul: the Governor, not the commission, would appoint the Secretary of Transportation.",
+   "theme": "Who runs SCDOT (governance and accountability)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "highway",
+    "bridge",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "traffic",
+    "congestion",
+    "growth",
+    "toll",
+    "transit",
+    "public transit",
+    "rail",
+    "multimodal",
+    "comprehensive plan",
+    "land use",
+    "maintenance",
+    "pavement",
+    "contractor",
+    "broadband",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5071.htm"
+  },
+  {
+   "bill_key": "126:H5088",
+   "session": 126,
+   "bill_no": "H5088",
+   "title": "Impact fees",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would add road resurfacing to what development impact fees can fund and give governments more time to spend fee revenue.",
+   "theme": "Making developers pay (impact fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road",
+    "roads",
+    "traffic",
+    "impact fee",
+    "impact fees",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5088.htm"
+  },
+  {
+   "bill_key": "126:H5331",
+   "session": 126,
+   "bill_no": "H5331",
+   "title": "Gasoline User Fee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would more than double the share of the gas user fee that goes to counties for local roads ('C' funds) and delete the rule steering part of it back to state highways.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road",
+    "roads",
+    "highway",
+    "bridge",
+    "transportation",
+    "traffic",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5331.htm"
+  },
+  {
+   "bill_key": "126:H5362",
+   "session": 126,
+   "bill_no": "H5362",
+   "title": "Department of Transportation Commission dissolved",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would dissolve the SCDOT Commission entirely and transfer its responsibilities to the Secretary of Transportation.",
+   "theme": "Who runs SCDOT (governance and accountability)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "highway",
+    "bridge",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "traffic",
+    "congestion",
+    "toll",
+    "transit",
+    "public transit",
+    "rail",
+    "multimodal",
+    "comprehensive plan",
+    "land use",
+    "maintenance",
+    "pavement",
+    "contractor",
+    "bidding"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5362.htm"
+  },
+  {
+   "bill_key": "126:H5363",
+   "session": 126,
+   "bill_no": "H5363",
+   "title": "Department of Transportation Pavement Preservation Program",
+   "instrument_type": "General Bill",
+   "plain_topic": "The 'Fix Our Roads Accountability Act': would create a statewide pavement preservation program run through SCDOT's engineering districts, with annual reports to the General Assembly.",
+   "theme": "Fixing and maintaining existing roads",
+   "relevance": "core",
+   "found_by_terms": [
+    "roads",
+    "highway",
+    "transportation",
+    "maintenance",
+    "pavement",
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5363.htm"
+  },
+  {
+   "bill_key": "126:H5398",
+   "session": 126,
+   "bill_no": "H5398",
+   "title": "Motor fuel user fee suspension",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would suspend part of the gas user fee and road tax for sixty days - one of five near-identical suspension resolutions filed in 2026.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5398.htm"
+  },
+  {
+   "bill_key": "126:H5419",
+   "session": 126,
+   "bill_no": "H5419",
+   "title": "Motor fuel user fee suspension",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Gas-fee suspension resolution (one of five near-identical 2026 filings).",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5419.htm"
+  },
+  {
+   "bill_key": "126:H5422",
+   "session": 126,
+   "bill_no": "H5422",
+   "title": "Motor fuel user fee suspension",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Gas-fee suspension resolution (one of five near-identical 2026 filings).",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5422.htm"
+  },
+  {
+   "bill_key": "126:H5443",
+   "session": 126,
+   "bill_no": "H5443",
+   "title": "Motor fuel user fee suspension",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Gas-fee suspension resolution (one of five near-identical 2026 filings).",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5443.htm"
+  },
+  {
+   "bill_key": "126:H5475",
+   "session": 126,
+   "bill_no": "H5475",
+   "title": "Motor fuel user fee suspension",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Gas-fee suspension resolution (one of five near-identical 2026 filings).",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "road"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5475.htm"
+  },
+  {
+   "bill_key": "126:H5742",
+   "session": 126,
+   "bill_no": "H5742",
+   "title": "Annexation",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would let a county council block municipal annexations in the county until a comprehensive infrastructure impact study and mitigation plan is approved.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5742.htm"
+  },
+  {
+   "bill_key": "126:H5744",
+   "session": 126,
+   "bill_no": "H5744",
+   "title": "Capital Projects",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would add police, fire, and EMS operations to the purposes a capital project penny tax can fund.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "adjacent",
+   "found_by_terms": [],
+   "source": "universe",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5744.htm"
+  },
+  {
+   "bill_key": "126:S1006",
+   "session": 126,
+   "bill_no": "S1006",
+   "title": "Capital Projects Sales Tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would add greenspace and greenbelt programs to the projects a capital project penny tax can fund.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "adjacent",
+   "found_by_terms": [],
+   "source": "universe",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1006.htm"
+  },
+  {
+   "bill_key": "126:S1045",
+   "session": 126,
+   "bill_no": "S1045",
+   "title": "Suspend the Gas Tax",
+   "instrument_type": "Joint Resolution",
+   "plain_topic": "Would suspend the gas tax for thirty days, extended another thirty if pump prices had not fallen fifteen percent.",
+   "theme": "State road money (gas tax, road fees, infrastructure funds)",
+   "relevance": "core",
+   "found_by_terms": [
+    "gas tax"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1045.htm"
+  },
+  {
+   "bill_key": "126:S1050",
+   "session": 126,
+   "bill_no": "S1050",
+   "title": "Hampton County Transportation Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Hampton County Transportation Committee membership.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1050.htm"
+  },
+  {
+   "bill_key": "126:S1051",
+   "session": 126,
+   "bill_no": "S1051",
+   "title": "Colleton County Transportation Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Colleton County Transportation Committee membership.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1051.htm"
+  },
+  {
+   "bill_key": "126:S1052",
+   "session": 126,
+   "bill_no": "S1052",
+   "title": "Jasper County Transportation Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Jasper County Transportation Committee membership.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/1052.htm"
+  },
+  {
+   "bill_key": "126:S227",
+   "session": 126,
+   "bill_no": "S227",
+   "title": "Local planning",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would define 'concurrency programs' in the zoning law so local governments can tie new development approvals to infrastructure keeping pace.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "transportation",
+    "traffic",
+    "impact fees",
+    "developer",
+    "growth",
+    "multimodal",
+    "comprehensive plan",
+    "land use",
+    "zoning",
+    "water",
+    "impact fee"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/227.htm"
+  },
+  {
+   "bill_key": "126:S288",
+   "session": 126,
+   "bill_no": "S288",
+   "title": "Transfer of Development Rights",
+   "instrument_type": "General Bill",
+   "plain_topic": "Senate version of the transferable development rights bill.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "zoning"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/288.htm"
+  },
+  {
+   "bill_key": "126:S298",
+   "session": 126,
+   "bill_no": "S298",
+   "title": "Capital Use Sales Tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would add workforce housing to the projects a capital project penny tax can fund.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "roads",
+    "sewer",
+    "water",
+    "road",
+    "highway",
+    "bridge"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/298.htm"
+  },
+  {
+   "bill_key": "126:S399",
+   "session": 126,
+   "bill_no": "S399",
+   "title": "Public Transit Trespass",
+   "instrument_type": "General Bill",
+   "plain_topic": "Made refusing to leave a public transit facility after a warning a misdemeanor, with a warning-and-appeal process (Act 222 of 2026).",
+   "theme": "Transit, rail, and other ways to get around",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "transportation",
+    "transit",
+    "public transit"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/399.htm"
+  },
+  {
+   "bill_key": "126:S4",
+   "session": 126,
+   "bill_no": "S4",
+   "title": "Local Government Planning",
+   "instrument_type": "General Bill",
+   "plain_topic": "Refile of the Home Attainability Act permitting package.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "developer",
+    "comprehensive plan"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4.htm"
+  },
+  {
+   "bill_key": "126:S530",
+   "session": 126,
+   "bill_no": "S530",
+   "title": "Zoning",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would void permits and stop construction when zoning officials determine a property's use is not permitted under its zoning.",
+   "theme": "Planning for growth (zoning, comprehensive plans, annexation)",
+   "relevance": "adjacent",
+   "found_by_terms": [
+    "zoning"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/530.htm"
+  },
+  {
+   "bill_key": "126:S586",
+   "session": 126,
+   "bill_no": "S586",
+   "title": "Kershaw County Transportation Committee",
+   "instrument_type": "General Bill",
+   "plain_topic": "Kershaw County Transportation Committee membership.",
+   "theme": "Related context",
+   "relevance": "context",
+   "found_by_terms": [
+    "transportation"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/586.htm"
+  },
+  {
+   "bill_key": "126:S831",
+   "session": 126,
+   "bill_no": "S831",
+   "title": "SCDOT Modernization",
+   "instrument_type": "General Bill",
+   "plain_topic": "The SCDOT Modernization Act (Act 177 of 2026): the Governor now appoints the Secretary of Transportation and the seven-member commission is abolished January 1, 2027, its duties devolved to the secretary - plus a Pothole Mitigation Program (seven-day repairs, $15 million a year), phased design-build contracting, 'choice lane' toll rules, public-private partnership authority, a four-year outside audit, and a rewritten county 'C'-funds split.",
+   "theme": "Who runs SCDOT (governance and accountability)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "highway",
+    "bridge",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "traffic",
+    "congestion",
+    "toll",
+    "transit",
+    "public transit",
+    "rail",
+    "multimodal",
+    "land use",
+    "maintenance",
+    "pavement",
+    "contractor",
+    "broadband",
+    "SCDOT",
+    "water"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/831.htm"
+  },
+  {
+   "bill_key": "126:S979",
+   "session": 126,
+   "bill_no": "S979",
+   "title": "Transportation Sales Tax",
+   "instrument_type": "General Bill",
+   "plain_topic": "Would let a county transportation penny tax fund greenways and flood-prevention drainage, and let counties put a tax extension or replacement purpose on the ballot.",
+   "theme": "Local tools to pay for growth (penny taxes, tolls, local fees)",
+   "relevance": "core",
+   "found_by_terms": [
+    "infrastructure",
+    "road",
+    "roads",
+    "highway",
+    "bridge",
+    "South Carolina Department of Transportation",
+    "transportation",
+    "traffic",
+    "toll",
+    "transit",
+    "maintenance"
+   ],
+   "source": "pass1",
+   "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/979.htm"
+  }
+ ]
+}
