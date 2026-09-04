@@ -2,7 +2,7 @@
  "issue_id": "south-carolina-04-slow-wage-growth",
  "brief_dir": "briefs/south-carolina/slow-wage-growth/citizen-v2",
  "reviewer": "citizen-reviewer v2.3",
- "date": "2026-08-27",
+ "date": "2026-09-04",
  "verdict": "READY FOR HUMAN REVIEW",
  "reviewers_for_pr": [
   "Ryan Echols",
@@ -58,13 +58,15 @@
   "front_brief_pages_html": 2,
   "front_brief_pages_docx": 2,
   "spotlights_html_pages": 2,
-  "spotlights_docx_pages": 2
+  "spotlights_docx_pages": 2,
+  "lege_brief_pages": 8
  },
  "fixes_logged": [
   "Appendix F advice-verb rephrase ('readers should treat' removed)",
   "Five long sentences split in front brief; facts unchanged; pages re-verified 2/2",
   "Pre-review corrections: H4603 lead sponsor (Rep. Jones) and year (2026); floor-vote support claim replaced with exact worst margin 84-12; proviso citations moved to FY 2026-27 numbering",
-  "2026-08-27: local-preemption correction (fixed-floor bills keep the ban on higher local minimums) propagated to curation map, evidence pack, Appendix A, and spotlights; new sections scanned and vote pairs re-verified"
+  "2026-08-27: local-preemption correction (fixed-floor bills keep the ban on higher local minimums) propagated to curation map, evidence pack, Appendix A, and spotlights; new sections scanned and vote pairs re-verified",
+  "2026-09-04: lege brief v1.1 reworked around the FINAL proposal grid (three proposals; raise-minimum-wage folded into age-bracketed per the grid); config and Appendix H updated; new facts verified in bill text (no age-based rates in the 24 minimum-wage bills; $15 ballot questions; S557 credit open to any employer); record unchanged; scans and vote pairs re-verified clean"
  ],
  "flags_for_humans": [
   "Reading level 12.2 vs ~grade 5-8 aspiration (consistent with all shipped NV/NH briefs)",

@@ -15,10 +15,11 @@ spotlights companion and long appendices — with the SC-specific page-1
 
 | File | What it is |
 |---|---|
-| `SC1-Slow-Wage-Growth-Lege-Brief.docx` | **THE DELIVERABLE** — the finalized, working-group-approved lege-brief format, cloned from `templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx` (same format as NH1-Energy/Housing/Property-Taxes/Public-Education-Lege-Brief): brief → policy spotlights → glossary (own page) → legislative process glossary (own page), stat-card table, square-bullet spotlights, two-column glossaries, real Word footer ("SC1 Slow Wage Growth Legislative Brief v1.0" + page number). 7 pages, LibreOffice-verified |
+| `SC1-Slow-Wage-Growth-Lege-Brief.docx` | **THE DELIVERABLE (v1.1)** — the finalized, working-group-approved lege-brief format, cloned from `templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx` (same format as NH1-Energy/Housing/Property-Taxes/Public-Education-Lege-Brief): brief → policy spotlights → glossary (own page) → legislative process glossary (own page), stat-card table, square-bullet spotlights, two-column glossaries, real Word footer ("SC1 Slow Wage Growth Legislative Brief v1.1" + page number). 8 pages, LibreOffice-verified. **v1.1 (2026-09-04) is reworked around the FINAL proposal grid** ("SC1 – Slow Wage Growth", three proposals): the standalone raise-minimum-wage item is folded into the age-bracketed proposal per the grid, and each spotlight carries the grid's frequency/consensus/concerns with record facts addressed to them (who the enacted programs reach, the awareness provisos, tax credit vs. never-filed direct bonus) |
 | `SC1-Slow-Wage-Growth-Lege-Brief.pdf` | PDF export of the deliverable (LibreOffice) |
 | `lege-brief.md` | Source markdown of the deliverable (edit this, then rebuild) |
-| `citizen-brief.md` | Earlier combined-format source (front brief → spotlights → glossaries), kept for provenance |
+| `citizen-brief.md` | Earlier combined-format source (front brief → spotlights → glossaries), kept for provenance; predates the final grid |
+| `proposal-spotlights.md`/`.html`/`.docx` | Standalone spotlights from the Phase 2 four-proposal set — superseded by the final-grid spotlights inside the lege brief; kept for provenance |
 | `citizen-brief.html` | Print-ready Phase 2 HTML — **4 letter pages**, front brief on pages 1–2 (Chrome print-to-PDF verified) |
 | `citizen-brief.docx` | Word version — **4 pages**, front brief on pages 1–2 (LibreOffice-verified), direct-formatted for cross-app fidelity |
 | `proposal-spotlights.md` / `.html` / `.docx` | Standalone policy spotlights: each Phase 2 proposal as bulleted bill lists grouped by viability (already law / proven support / stopped early / never filed), single column — **2 pages** in both renders |
@@ -57,7 +58,7 @@ navy-header comparison style with repeating headers across page breaks.
 python3 collectors/export_docx_lege_brief.py \
   --source briefs/south-carolina/slow-wage-growth/citizen-v2/lege-brief.md \
   --out briefs/south-carolina/slow-wage-growth/citizen-v2/SC1-Slow-Wage-Growth-Lege-Brief.docx \
-  --footer "SC1 Slow Wage Growth Legislative Brief v1.0" --polish-breaks
+  --footer "SC1 Slow Wage Growth Legislative Brief v1.1" --polish-breaks
 # PDF: soffice --headless --convert-to pdf SC1-Slow-Wage-Growth-Lege-Brief.docx
 
 # HTML combined document (Phase 2 shell)

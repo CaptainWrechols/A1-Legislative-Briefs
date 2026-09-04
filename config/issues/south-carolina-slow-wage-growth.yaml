@@ -71,51 +71,51 @@ relevance_terms:
   - incentive
   - labor
 
-# Phase 2 Community Conversations (Jun-Aug 2026), RAG constituent-voice dataset
-# "SC1 - Phase 2 Constituent Proposals - Grid View for Legislators v2".
-# FORUM PROCESS INPUT [P-xxx], not verified facts — label as such in briefs.
+# FINAL proposal grid ("SC1 - Slow Wage Growth", received 2026-09-04) — the
+# three proposals that advanced out of Community Conversations. The earlier
+# Phase 2 standalone raise-minimum-wage item is folded into the age-bracketed
+# proposal (its consensus line covers raising the adult minimum wage).
+# FORUM PROCESS INPUT, not verified facts — present as such in briefs.
 constituent_proposals:
   - id: age-bracketed-minimum-wage
     title: "Age-bracketed minimum wage with a separate youth wage"
     detail: >-
-      Set a minimum wage that is bracketed by age: a higher wage for adult
-      workers (18+) and a separate, lower youth wage for teen workers.
+      Raise the minimum wage for workers over 18 so independent adults can
+      earn more than teenagers with an after-school job, with a separate
+      youth wage for teen workers.
+    frequency: "High: came up in three of four in-person events."
     consensus: >-
-      High frequency (3 events). High consensus for a higher wage for adults
-      versus teen workers.
+      High: participants agreed that the state could raise the minimum wage
+      for workers over 18. This would allow independent adults to earn more
+      than teenagers with an after-school job.
     tradeoffs: >-
-      Where to draw the age line and whether a youth wage displaces adult
-      workers.
-    match_terms: ["youth wage", "training wage", "minimum wage", "age", "teen"]
+      Could limit upward mobility of younger South Carolinians.
+    match_terms: ["youth wage", "training wage", "minimum wage", "living wage", "livable wage", "age", "teen"]
   - id: workforce-development
-    title: "Apprenticeships, career pathways, and technical training"
+    title: "Workforce development: apprenticeships, career pathways, and technical training"
     detail: >-
       Expand apprenticeships, career pathways, and technical-college training
       so workers can move into higher-paying jobs.
+    frequency: "Medium: appeared in Greenville and Columbia."
     consensus: >-
-      Medium frequency (Greenville, Columbia). High consensus.
+      High: strong agreement that such programs could help people land
+      better, higher-paying jobs.
     tradeoffs: >-
-      Few tradeoffs raised; funding and employer participation are the
-      practical questions.
+      Concerns that the programs mostly helped large businesses like Boeing
+      and BMW, and that there was little awareness of such programs.
     match_terms: ["apprentice", "career pathway", "technical college", "workforce development", "job training"]
-  - id: raise-minimum-wage
-    title: "Raise the minimum wage / livable wage"
-    detail: >-
-      Raise the state minimum wage toward a livable wage.
-    consensus: >-
-      High frequency (3 events). Mixed consensus; small-business concerns.
-    tradeoffs: >-
-      Small-business cost concerns were the main counterpoint.
-    match_terms: ["minimum wage", "living wage", "livable wage", "base wage"]
   - id: employer-living-wage-incentives
-    title: "Government incentives/bonuses for employers paying a living wage"
+    title: "Government incentives / bonuses for employers who pay a living wage"
     detail: >-
       Offer government incentives or bonuses to employers who pay a living
       wage.
+    frequency: "Medium: came up in two of four in-person events."
     consensus: >-
-      Medium frequency. Mixed; the funding mechanism was disputed.
+      Mixed: agreement that employers should be incentivized to pay a living
+      wage, but some divergence on funding and implementation.
     tradeoffs: >-
-      How to fund the incentives was disputed.
+      Where the money will come from; some disagreement about whether
+      employers should get a tax credit or direct bonuses from the state.
     match_terms: ["incentive", "tax credit", "living wage", "employer", "bonus"]
 
 omnibus_bills:

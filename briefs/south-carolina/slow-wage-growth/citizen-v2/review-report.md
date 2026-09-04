@@ -99,6 +99,20 @@ Reviewers for the PR: Ryan Echols, Jodi Stephens, Ashley Lovell.
    in the new spotlight/glossary sections re-verified programmatically
    against `bill-votes.json` (zero unmatched); advice-language and
    party-label scans re-run clean on all citizen-facing files.
+5. 2026-09-04 final-grid rework (lege brief v1.1). The deliverable was
+   reworked around the FINAL proposal grid ("SC1 – Slow Wage Growth"): three
+   proposals, with the standalone raise-minimum-wage item folded into the
+   age-bracketed proposal per the grid's consensus line. The config's
+   `constituent_proposals` block and Appendix H were updated to match. New
+   record facts added and verified against source data: no age-based rate
+   language exists in any of the 24 minimum-wage bills (full-text scan);
+   both advisory ballot questions (S633, S28) asked about a $15 minimum
+   (bill text); S557's apprentice credit is open to any taxpayer with a
+   registered apprentice (bill text); the awareness provisos (25.8, 1.94)
+   and the never-filed direct-bonus finding address the grid's stated
+   concerns descriptively. The legislative record itself is unchanged. All
+   scans re-run clean; every cited bill and vote pair re-verified (zero
+   unmatched). 8 pages, LibreOffice-verified.
 
 ## Items for the human reviewers
 
