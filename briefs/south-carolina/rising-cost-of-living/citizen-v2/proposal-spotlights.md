@@ -85,7 +85,7 @@ A focused, bill-by-bill look at how far each proposal in the final grid has trav
 *From the grid's legislator-feedback section (no Phase 2 frequency or consensus cells); the standing tradeoff is replacing the revenue that schools and local governments run on. Eighty bills; the wins are narrow and near-unanimous, and the biggest recent relief is one-year budget relief.*
 
 ### Already law
-- **S866 (Act 228 of 2026):** the Municipal Tax Relief Act — certain cities may ask voters to approve up to a 1% sales tax that funds property tax credits on owner-occupied homes; 32–9 and 96–16. The one enacted design that answers the revenue tradeoff directly, by swapping the revenue source.
+- **S866 (Act 228 of 2026):** the Municipal Tax Relief Act — certain cities may ask voters to approve up to a 1% sales tax that funds property tax credits on owner-occupied homes; 32–9 and 96–16. It answers the revenue tradeoff by swapping the source, extending to cities a design counties have had since the early 1990s: the county Local Option Sales Tax (§4-10-10), which funds property-tax credits the same way.
 - **H3116 (Act 116 of 2024):** disabled veterans (and qualifying surviving spouses) get the exemption the year disability occurs; 111–0 and 45–0.
 - **H3841 (Act 140 of 2026):** a home keeps its 4% rate and exemptions while the owner's estate settles; 107–0 and 43–0.
 - **S233 (Act 236 of 2022):** homestead exemption extended to qualifying surviving spouses and heirs' property; local "service fees" required to benefit those who pay them; 40–0 and 107–4.
@@ -105,6 +105,7 @@ A focused, bill-by-bill look at how far each proposal in the final grid has trav
 
 ### Never filed
 - Statewide elimination of the vehicle property tax. Every vehicle bill is a targeted exemption; none ends the tax. (Context for elimination designs: owner-occupied homes already pay no school operating taxes under the 2006 Act 388 swap, so the revenue question concerns the remaining county, municipal, and bond lines.)
+- **A county tool already on the books (standing law, not a bill):** since 2000, §4-10-510 has let a county end property taxes on cars and boats if county voters approve, replacing the money with a local sales tax — the only legal route to do it locally. Whether any county has used it is a county decision outside this bill record, which covers General Assembly action only.
 
 ## Child care assistance — legislator-discussion topic (not a Phase 2 proposal)
 
@@ -112,7 +113,7 @@ A focused, bill-by-bill look at how far each proposal in the final grid has trav
 
 ### Already law (regulation and governance, not assistance)
 - **S595 (Act 52 of 2019):** background-check rules for childcare facility staff; 39–0 and 100–1.
-- **H4023 (Act 81 of 2023):** restructured local First Steps early-childhood partnership boards; 41–0 and 107–0.
+- **H4023 (Act 81 of 2023):** restructured local First Steps early-childhood partnership boards — county-level bodies; 41–0 and 107–0.
 - **S862 (Act 216 of 2024):** caregiver education and preservice-training requirements for childcare centers; 44–0 and 108–0.
 - **In the budget:** the federal voucher/scholarship program runs through DSS under proviso 38.17 every cycle (vouchers must go to providers exceeding minimum licensing standards); FY 2026-27 adds a provider fraud-reporting proviso (38.28); Full-Day 4K / CERDEP pre-K expands through provisos every year.
 

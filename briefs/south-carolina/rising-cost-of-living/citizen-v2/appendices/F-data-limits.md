@@ -68,3 +68,11 @@ front brief, the spotlights, and every appendix.
     method are in `working/south-carolina/rising-cost-of-living/
     childcare-assistance-scan.md`. The reported discussions themselves are
     not part of the legislative record.
+13. **The record covers the General Assembly only — not county action.**
+    County ordinances, county referenda, and county adoptions of
+    local-option taxes (such as the Local Option Sales Tax, §4-10-10, or the
+    2000 vehicle-tax swap, §4-10-510) are not in this dataset. Where the
+    packet says an idea was "never filed" or "never voted on," that
+    describes state bills only — it does not mean no county has acted, and
+    the packet makes no claims about which counties have used the
+    county-option levers it cites.

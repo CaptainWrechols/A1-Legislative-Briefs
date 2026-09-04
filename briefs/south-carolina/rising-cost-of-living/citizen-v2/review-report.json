@@ -73,7 +73,19 @@
   "file": "SC1-Rising-Cost-of-Living-Lege-Brief.docx (+ .pdf)",
   "format": "cloned from templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx via export_docx_lege_brief.py --polish-breaks (identical format to SC1-Slow-Wage-Growth-Lege-Brief)",
   "footer": "SC1 Rising Cost of Living Legislative Brief v1.0",
-  "pages": 10,
+  "pages": 9,
   "scans": "vote pairs matched; 0 unresolved bill ids; 0 advice verbs; 0 party labels"
+ },
+ "county_venue_additions": {
+  "date": "2026-09-04",
+  "approved_by_user": true,
+  "changes": [
+   "A: vehicle-tax county swap (4-10-510) venue note",
+   "B: S866 qualifier (county LOST 4-10-10 since early 1990s)",
+   "C: general county-venue line",
+   "D: Appendix F item 13 (record covers General Assembly only)",
+   "E: First Steps county-level clause + county local-option taxes glossary entry"
+  ],
+  "layout": "lege brief first glossary flows after spotlights (--flow-first-glossary); 9 pages, no near-empty page; front brief still 2pp both renders"
  }
 }
