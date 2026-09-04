@@ -36,7 +36,7 @@ One row per bill in the curated set (189 bills, hand-reviewed from 5,548 keyword
 | 2023-24 | S172 | Proposed a constitutional amendment capping service at three Senate terms or six House terms. | Core | Did not pass | Died in its first committee (Senate Judiciary) |
 | 2023-24 | S213 | Would have capped service by statute: six terms in the House or three terms in the Senate. | Core | Did not pass | Died in its first committee (Senate Judiciary) |
 | 2023-24 | S214 | Proposed a constitutional amendment letting the General Assembly set term limits for its own members by ordinary law. | Core | Did not pass | Died in its first committee (Senate Judiciary) |
-| 2025-26 | H3008 | Article V application for a convention limited to a congressional term limits amendment - adopted by both chambers in May 2025, the only term-limits measure in this record to pass anything. | Core | Adopted (resolution) | Adopted by both chambers (May 2025); resolutions never go to the governor |
+| 2025-26 | H3008 | Article V application for a convention limited to a congressional term limits amendment - adopted by the House in March 2025 and the Senate in May 2025, the only term-limits measure in this record to pass anything. | Core | Adopted (resolution) | Adopted (House March 2025; Senate May 2025, 29-14); resolutions never go to the governor |
 | 2025-26 | H3102 | Resolution calling for term limits for U.S. Supreme Court justices. | Adjacent | Did not pass | Died in its first committee (House Invitations and Memorial Resolutions) |
 | 2025-26 | H3744 | Proposes a constitutional amendment letting the General Assembly set term limits for its own members by ordinary law. | Core | Did not pass | Died in its first committee (House Judiciary) |
 | 2025-26 | H3745 | Would cap service by statute: six terms in the House or four terms in the Senate. | Core | Did not pass | Died in its first committee (House Judiciary) |
@@ -255,7 +255,7 @@ One row per bill in the curated set (189 bills, hand-reviewed from 5,548 keyword
 | 2023-24 | H5303 | Election-procedure package: electronic records access and hand-count audits. | Context | Did not pass | Died in its first committee (House Judiciary) |
 | 2023-24 | S1046 | Judicial Merit Selection Commission reform (Act 219 of 2024): changed how the state screens judges the General Assembly elects. | Context | Became law | Became law (Act 219) |
 | 2023-24 | S391 | Rules for South Carolina's delegates if an Article V convention is ever called. | Context | Did not pass | Died in its first committee (Senate Judiciary) |
-| 2025-26 | H3007 | Article V application for a balanced-budget-amendment convention; adopted by both chambers in January 2026. | Context | Adopted (resolution) | Adopted by both chambers (January 2026); resolutions never go to the governor |
+| 2025-26 | H3007 | Article V application for a balanced-budget-amendment convention; adopted by both chambers in January 2026. | Context | Adopted (resolution) | Adopted (House March 2025; Senate January 2026); resolutions never go to the governor |
 | 2025-26 | H3999 | Constitutional amendment exempting unpaid positions from the dual-office-holding ban. | Context | Did not pass | Died in its first committee (House Judiciary) |
 | 2025-26 | H4513 | Election-procedure package: free records, observer rights, equipment chain-of-custody rules. | Context | Did not pass | Died in its first committee (House Judiciary) |
 

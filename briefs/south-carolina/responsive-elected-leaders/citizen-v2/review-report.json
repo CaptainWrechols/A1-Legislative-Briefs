@@ -73,5 +73,26 @@
   "record_changed": false,
   "new_detail_claims_verified_against_bill_text": true,
   "automated_recheck": "all vote pairs and bill ids in reworked brief/spotlights/Appendix H match the evidence pack"
+ },
+ "independent_fact_check": {
+  "date": "2026-09-04",
+  "layer1_live_official_record": {
+   "source": "scstatehouse.gov live bill histories, bill texts, enacted Part IB pages",
+   "checks": 230,
+   "passed": 230,
+   "failed": 0,
+   "script": "working/south-carolina/responsive-elected-leaders/fact-check-verify.py"
+  },
+  "layer2_third_party": [
+   "The State / WACH / SC Public Radio / Post & Courier (H5683)",
+   "SC Commission on Higher Education + USC Provost (REACH Act, Act 26 of 2021)",
+   "U.S. Term Limits + independent vote trackers (H3008, Senate 29-14)",
+   "SC Policy Council + official ratification log (S70, Act 191 of 2026)"
+  ],
+  "corrections": [
+   "H3008 adoption dates stated per chamber (House March 2025, Senate May 2025)",
+   "H5683 tabled-amendment count stated precisely (28 on roll calls, 55 tabling votes)"
+  ],
+  "report": "fact-check-report.md"
  }
 }

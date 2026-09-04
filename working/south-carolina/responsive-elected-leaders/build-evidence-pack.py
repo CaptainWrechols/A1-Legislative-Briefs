@@ -58,7 +58,7 @@ CROSSWALK = {
                  "first Judiciary committee with no recorded vote. The only term-limits measure "
                  "that passed anything targets Congress, not the State House: H3008, the "
                  "Article V application for a congressional term limits convention, adopted by "
-                 "both chambers in May 2025 (Senate 29-14). The broader Convention of the "
+                 "the House in March 2025 and the Senate in May 2025 (29-14). The broader Convention of the "
                  "States application (which includes federal term limits) failed at the last "
                  "step twice (S133 in 2022, H3676 in 2024) before splitting into single-subject "
                  "applications that passed in 2025-26."),
@@ -170,8 +170,8 @@ STAGE_OVERRIDES = {
                      "Reported favorably; died on the House calendar when COVID ended the session"),
     (124, "H4492"): ("Did not pass",
                      "Reported out of House Judiciary, then recommitted (the congressional maps moved through S865 instead)"),
-    (126, "H3007"): ("Adopted", "Adopted by both chambers (January 2026); resolutions never go to the governor"),
-    (126, "H3008"): ("Adopted", "Adopted by both chambers (May 2025); resolutions never go to the governor"),
+    (126, "H3007"): ("Adopted", "Adopted (House March 2025; Senate January 2026); resolutions never go to the governor"),
+    (126, "H3008"): ("Adopted", "Adopted (House March 2025; Senate May 2025, 29-14); resolutions never go to the governor"),
     (123, "S35"):   ("Did not pass",
                      "Passed the Senate; died in House Education and Public Works Committee"),
 }

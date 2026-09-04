@@ -77,7 +77,7 @@ KEEP = {
     (126, "H4462"): ("core", T_TERMLIM, "Would cap total General Assembly service at twelve years by statute, paired with a raise in members' in-district compensation."),
     (126, "H5360"): ("core", T_TERMLIM, "Proposes a constitutional amendment capping service at four House terms or two Senate terms."),
     (126, "S590"):  ("core", T_TERMLIM, "Proposes a constitutional amendment capping service at three Senate terms or six House terms."),
-    (126, "H3008"): ("core", T_TERMLIM, "Article V application for a convention limited to a congressional term limits amendment - adopted by both chambers in May 2025, the only term-limits measure in this record to pass anything."),
+    (126, "H3008"): ("core", T_TERMLIM, "Article V application for a convention limited to a congressional term limits amendment - adopted by the House in March 2025 and the Senate in May 2025, the only term-limits measure in this record to pass anything."),
     (125, "H4692"): ("adjacent", T_TERMLIM, "House rule change (not a law): committee chairmen could serve at most two consecutive two-year terms leading a committee."),
     (126, "H3102"): ("adjacent", T_TERMLIM, "Resolution calling for term limits for U.S. Supreme Court justices."),
     # Broad Convention of the States applications - their text includes

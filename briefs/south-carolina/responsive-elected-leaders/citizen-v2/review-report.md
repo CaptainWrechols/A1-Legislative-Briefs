@@ -40,6 +40,21 @@ voter education/civics. Re-review results:
 
 Verdict unchanged: **READY FOR HUMAN REVIEW.**
 
+## Independent fact-check (2026-09-04)
+
+After the v2.1 rework, every legislative-record claim was verified against
+**live external sources** (independent of the repository's stored
+artifacts): 230/230 automated checks passed against freshly fetched
+scstatehouse.gov bill histories, bill texts, and enacted Part IB proviso
+pages, and the headline claims were additionally confirmed by third-party
+sources (news outlets on H5683; the Commission on Higher Education and USC
+on the REACH Act; U.S. Term Limits and vote trackers on H3008; the SC
+Policy Council and the official ratification log on S70). Two wording
+tightenings resulted (H3008 chamber-by-chamber adoption dates; the H5683
+tabled-amendment count stated precisely as 28 on roll calls / 55 tabling
+votes). Full detail: `fact-check-report.md`;
+rerunnable script: `working/.../fact-check-verify.py`.
+
 ---
 
 # v2.0 review (2026-08-28), retained for the file history
