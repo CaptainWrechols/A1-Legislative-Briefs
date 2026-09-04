@@ -9,7 +9,7 @@ PASS 20 / WARN 2 / FAIL 0
 - **PASS** `config_sessions` — 4 sessions; need the 123rd-126th with OpenStates ids and scstatehouse paths
 - **PASS** `config_search_terms` — 36 search terms
 - **PASS** `config_relevance_terms` — 17 relevance terms
-- **PASS** `config_constituent_proposals` — 7 proposals; incomplete=[]
+- **PASS** `config_constituent_proposals` — 5 proposals; incomplete=[]
 - **PASS** `config_omnibus_cycles` — method=proviso-by-proviso; 7 appropriations cycles
 - **PASS** `proviso_sections_present` — working/south-carolina/growth-infrastructure-roads/proviso-sections.json: proviso_count=1394 (min 100); cycle=2026-2027 version=ta
 - **PASS** `proviso_relevant_present` — working/south-carolina/growth-infrastructure-roads/proviso-relevant.json: relevant=305

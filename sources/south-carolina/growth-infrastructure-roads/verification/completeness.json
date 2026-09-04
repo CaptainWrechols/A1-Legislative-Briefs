@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-26T01:01:42.601911+00:00",
+  "collected_at": "2026-09-04T16:06:14.632827+00:00",
   "issue": "south-carolina-01-growth-infrastructure-roads",
   "issue_slug": "growth-infrastructure-roads",
   "mode": "full",
@@ -29,7 +29,7 @@
     {
       "check": "config_constituent_proposals",
       "status": "PASS",
-      "detail": "7 proposals; incomplete=[]"
+      "detail": "5 proposals; incomplete=[]"
     },
     {
       "check": "config_omnibus_cycles",
