@@ -2,7 +2,7 @@
 issue_id: south-carolina-04-slow-wage-growth
 issue_title: Slow Wage Growth in South Carolina
 brief_type: lege-brief-combined
-version: SC1-Slow-Wage-Growth-Lege-Brief-v1.1
+version: SC1-Slow-Wage-Growth-Lege-Brief-v1.2
 organization: The Forum
 generated_by: citizen-brief-writer v2.3 + export_docx_lege_brief
 date: 2026-09-04
@@ -15,7 +15,7 @@ The legislative record behind South Carolinians' three slow-wage-growth proposal
 
 ## What this brief covers
 
-South Carolina has no state minimum wage law: the federal floor of $7.25 an hour applies, and state law keeps cities and counties from setting a higher one. Across the last four two-year sessions (2019–2026), the General Assembly took up 106 wage-and-workforce bills in this set, and 13 became law. The record splits cleanly in two. Bills that would raise pay directly — a state minimum wage, equal-pay rules, paid sick leave — died in their first committee every single time, without a recorded vote anywhere in eight years. Bills that build pathways to better-paying jobs — apprenticeships, workforce scholarships, technical college training — became law again and again, almost always unanimously. Against that record, the three proposals that advanced out of the Community Conversations sit in three different places: workforce development is substantially law and still growing; the employer living-wage incentive exists as a filed bill that has not had a vote; and the age-bracketed minimum wage has half a record — the adult-raise half has been filed 24 times without a vote, and the youth-wage half has never been filed at all.
+South Carolina has no state minimum wage law: the federal floor of $7.25 an hour applies, and state law keeps cities and counties from requiring private employers to pay more. Local governments can still raise pay for their own workers — the City of Charleston and Charleston County both moved their own employees to at least $15 an hour — but that is an employer's budget decision, not a law, and this brief covers only what the General Assembly has done. Across the last four two-year sessions (2019–2026), the General Assembly took up 106 wage-and-workforce bills in this set, and 13 became law. The record splits cleanly in two. Bills that would raise pay directly — a state minimum wage, equal-pay rules, paid sick leave — died in their first committee every single time, without a recorded vote anywhere in eight years. Bills that build pathways to better-paying jobs — apprenticeships, workforce scholarships, technical college training — became law again and again, almost always unanimously. Against that record, the three proposals that advanced out of the Community Conversations sit in three different places: workforce development is substantially law and still growing; the employer living-wage incentive exists as a filed bill that has not had a vote; and the age-bracketed minimum wage has half a record — the adult-raise half has been filed 24 times without a vote, and the youth-wage half has never been filed at all.
 
 <!--stats-->
 - **106** wage-and-workforce bills, 2019–2026
@@ -128,6 +128,7 @@ A focused, bill-by-bill look at how far each proposal from the final Community C
 
 - **Who the programs reach:** the enacted designs are not written around large employers — WINS pays students, Earn and Learn connects students, and the apprentice credit is open to any employer with a registered apprentice. The record contains no enacted program restricted to large manufacturers; how take-up actually distributes across employers is outcome data this legislative record does not contain (Appendix F).
 - **Awareness:** the budget already funds outreach — FY 2026-27 proviso 25.8 pays for a public-awareness campaign about manufacturing and related careers, and the SC Future Makers/Tallo proviso (1.94) funds a platform connecting students to South Carolina employers. Both are one-year budget rules, not permanent programs.
+- **The county role:** the laws above are state laws, but much of the delivery runs through local bodies — each technical college answers to a local commission for the counties it serves, and the First Steps school-readiness program works through county-level partnerships (the 2023 First Steps law reorganized those local boards). So "the state passed it" and "the county runs it" are often both true.
 
 ### Proven support (passed one chamber, died in the other's committee)
 
@@ -167,6 +168,10 @@ A focused, bill-by-bill look at how far each proposal from the final Community C
 
 - No bill in this record proposes direct state bonus payments to employers tied to the wages they pay. The nearest grant-type mechanism filed — the Headquarters Relocation and Growth Fund (H5471 / S1118, 2026), direct grants to businesses — is tied to headquarters location, not wage levels, and died in the money committees. The funding question participants disagreed on is, in this record, decided in House Ways and Means and Senate Finance: every bill above stopped in one of those two rooms.
 
+### The county channel (context)
+
+- Counties already make their own incentive deals with companies: property-tax discounts that state law lets a county council negotiate, called fee-in-lieu-of-taxes agreements, usually tied to promised jobs and investment. Those are deal-by-deal county decisions, not bills, so they sit outside this legislative record. No bill in this record connects that county channel to the wages a company pays — every wage-linked incentive filed so far is a state tax credit.
+
 ## Glossary
 
 - **Apprenticeship Carolina:** The SC Technical College System division that recruits employers into registered apprenticeships; the budget names it the state's lead apprenticeship agency.
@@ -176,9 +181,10 @@ A focused, bill-by-bill look at how far each proposal from the final Community C
 - **Earned wage access:** Services that let workers draw pay they have already earned before payday; consumer rules enacted by S700 (Act 190 of 2024).
 - **Employment First:** State policy favoring competitive, integrated employment for people with disabilities; enacted inside S533.
 - **Federal minimum wage / FLSA:** The $7.25-an-hour federal floor under the Fair Labor Standards Act — the wage law that actually binds in South Carolina, which has no state minimum. The FLSA also lets employers pay workers under 20 a $4.25 youth wage for their first 90 days.
+- **Fee-in-lieu-of-taxes (FILOT) agreement:** A property-tax discount a county council can negotiate with a company under state law, usually tied to promised jobs and investment. These are deal-by-deal county decisions, not legislation, and none is tied to the wages a company pays.
 - **Job development credits:** The state's existing wage-linked hiring incentive — approved companies keep part of employee withholding, with the amount keyed to wage levels.
 - **Livable (living) wage:** Pay high enough to cover basic living costs; H4603 would define it for a small-business tax credit.
-- **Local preemption:** State law bars cities and counties from setting their own minimum wage; the filed minimum-wage bills kept that ban while setting a statewide floor.
+- **Local preemption:** State law bars cities and counties from making private employers pay more than the minimum wage. It does not stop them from raising pay for their own workers or in their own contracts — Charleston's city and county governments both pay their employees at least $15 an hour. The filed minimum-wage bills kept this ban while setting a statewide floor.
 - **Proviso / Part IB:** A one-year policy rule enacted inside the annual state budget bill; Part IB is the budget section that carries them. Votes attach to the whole budget bill, never one proviso.
 - **Registered apprenticeship:** An apprenticeship registered with the U.S. Department of Labor — paid work plus structured training.
 - **SC WINS:** The South Carolina Workforce Industry Needs Scholarship for technical college students in high-demand fields; created in statute by H3144, funded each year by lottery provisos ($17M–$93.7M).
