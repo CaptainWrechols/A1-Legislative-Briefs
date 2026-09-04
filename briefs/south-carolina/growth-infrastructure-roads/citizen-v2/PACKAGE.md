@@ -20,6 +20,15 @@ proposal spotlights, the glossary, and the legislative process glossary in
 appendices — with the SC-specific page-1 **"Also in the state budget
 (provisos)"** callout required by `docs/sc-issue-chat-workflow.md`.
 
+## Distribution copies (program naming convention)
+
+Convention-named copies of the Word deliverables live one level up, in
+`briefs/south-carolina/`, matching the program's "SC1 - <Issue>" document
+naming: `SC1 - Growth Infrastructure Roads.docx` (the citizen brief),
+`SC1 - Growth Infrastructure Roads - Policy Spotlights.docx`, and
+`SC1 - Growth Infrastructure Roads - Appendices.docx`. They are copies of
+the files below; regenerate the files here first, then re-copy.
+
 ## What's in this folder
 
 | File | What it is |
