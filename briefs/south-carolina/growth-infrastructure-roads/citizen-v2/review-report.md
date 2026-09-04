@@ -144,7 +144,7 @@ fact-check-report.md` (+ `fact-check-live.{py,json}`).
 
 The finalized working-group Lege Brief format was produced to match the
 approved SC1/NH1 lege briefs exactly:
-`SC1-Growth-Infrastructure-Roads-Lege-Brief.docx` / `.pdf` (9 pages; trimmed 2026-09-04 so the spotlights fill their final page and the glossary begins on the next — no near-empty page),
+`SC1-Growth-Infrastructure-Roads-Lege-Brief.docx` / `.pdf` (9 pages; trimmed 2026-09-04 so the spotlights fill their final page and the glossary begins on the next — no near-empty page). Five approved state-vs-county scope clarifications were added the same day in plain language (a scope note in "What this brief covers"; impact fees are charged by county/city ordinance outside the legislature; counties plan continuously because state law requires comprehensive plans; county committees pick the "C"-fund project lists; parking pricing is already a city power), with offsetting tightening so the page discipline holds,
 exported from `lege-brief.md` by `collectors/export_docx_lege_brief.py`
 (format cloned from `templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx`,
 `--polish-breaks`), footer "SC1 Growth Infrastructure Roads Legislative
