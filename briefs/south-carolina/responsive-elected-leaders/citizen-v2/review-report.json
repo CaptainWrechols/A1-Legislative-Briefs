@@ -2,7 +2,7 @@
  "issue_id": "south-carolina-02-responsive-elected-leaders",
  "package": "briefs/south-carolina/responsive-elected-leaders/citizen-v2",
  "reviewer": "citizen-reviewer v2.3",
- "date": "2026-08-28",
+ "date": "2026-09-04",
  "verdict": "READY FOR HUMAN REVIEW",
  "checks": {
   "A1_reports_without_advice": "pass",
@@ -41,8 +41,8 @@
   "citizen_brief_html_front_section": 2,
   "citizen_brief_docx": 5,
   "citizen_brief_docx_front_section_ends_page": 2,
-  "proposal_spotlights_html": 4,
-  "proposal_spotlights_docx": 3,
+  "proposal_spotlights_html": 2,
+  "proposal_spotlights_docx": 2,
   "appendices_print_html": 57,
   "appendices_docx": 55
  },
@@ -57,5 +57,21 @@
   "bill_ids_verified_against_pack": true,
   "advice_language_scan": "no should/recommend/urge/pursue/avoid; all 'must' hits describe legal requirements"
  },
- "human_reviewers": ["Ryan Echols", "Jodi Stephens", "Ashley Lovell"]
+ "human_reviewers": [
+  "Ryan Echols",
+  "Jodi Stephens",
+  "Ashley Lovell"
+ ],
+ "version": "citizen-v2.1",
+ "v2_1_rework": {
+  "source": "Final proposal grid \"SC1 - Responsive Elected Leaders\" (received 2026-09-04)",
+  "proposals": [
+   "independent-redistricting",
+   "voter-civics-education"
+  ],
+  "superseded_grid": "Phase 2 v2 grid (six proposals); the four non-advancing lanes presented as wider accountability record",
+  "record_changed": false,
+  "new_detail_claims_verified_against_bill_text": true,
+  "automated_recheck": "all vote pairs and bill ids in reworked brief/spotlights/Appendix H match the evidence pack"
+ }
 }

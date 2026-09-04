@@ -1,6 +1,48 @@
-# Citizen Reviewer report — Responsive Elected Leaders in South Carolina (citizen-v2.0)
+# Citizen Reviewer report — Responsive Elected Leaders in South Carolina (citizen-v2.1)
 
-Citizen Reviewer v2.3 · 2026-08-28 · Verdict: **READY FOR HUMAN REVIEW**
+Citizen Reviewer v2.3 · 2026-09-04 (v2.1 re-review) · Verdict: **READY FOR HUMAN REVIEW**
+
+## v2.1 re-review (final proposal grid rework, 2026-09-04)
+
+The package was reworked around the final Community Conversations proposal
+grid ("SC1 — Responsive Elected Leaders"), which carries **two** proposals
+forward: the independent/nonpartisan redistricting commission and better
+voter education/civics. Re-review results:
+
+- **A5 (proposal coverage):** both final-grid proposals covered with
+  [P-…] labels in the front brief and spotlights; each opens with the
+  grid's reported frequency, consensus, and concerns, explicitly labeled
+  as Community Conversations process input. The four lanes from the
+  superseded six-proposal Phase 2 v2 grid are presented as the wider
+  accountability record (they remain in the grid's own framing sentence),
+  with provenance documented in Appendix H and Appendix I.
+- **Record integrity:** the legislative record is unchanged from v2.0 —
+  same curation, dispositions, and vote counts. Automated re-check: every
+  vote pair and bill id in the reworked brief, spotlights, and Appendix H
+  matches the evidence pack; zero mismatches. New v2.1 detail claims
+  (Inspector General applicant panel, nine members, referendum approval;
+  twelve members appointed by the State Ethics Commission balanced 5/5/2;
+  no-alteration/no-veto and no-sine-die clauses; decennial appointment
+  cycle; H3547's State Board curriculum role) were verified against
+  latest-version bill text in the certified universe before use.
+- **Fairness:** the grid's concerns (commission independence; the ten-year
+  cycle; neutrality of civic information) are answered with record facts
+  only — which designs answered the concern and how, and what happened to
+  them — without endorsing any design. Advice-language scan clean.
+- **Page discipline (re-verified in both renders):** front brief = 2 pages
+  (HTML via Chrome; Word via LibreOffice, spotlights header at the end of
+  page 2); combined document 5 pages; standalone spotlights 2 pages in
+  both renders; appendices 57 pages HTML / 55 pages Word.
+- **Gate:** `verify_completeness --strict` re-run against the updated
+  config (two proposals, with the new `frequency` field) =
+  PASS_WITH_WARNINGS (PASS 21 / WARN 1 / FAIL 0; same benign
+  quoted-titles warning).
+
+Verdict unchanged: **READY FOR HUMAN REVIEW.**
+
+---
+
+# v2.0 review (2026-08-28), retained for the file history
 
 Package reviewed: `briefs/south-carolina/responsive-elected-leaders/citizen-v2/`
 (combined citizen brief, standalone proposal spotlights, appendices A–I,

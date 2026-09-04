@@ -15,7 +15,7 @@ brief by design.
 | Committee-tally absence | SC publishes committee outcomes without tallies; asserted as a data limit, never bridged with estimates |
 | Budget proviso claims (ethics filing rule, election-litigation power, lobbying bans, civic-education money) | Part IB full texts per enacted cycle (`working/south-carolina/responsive-elected-leaders/provisos/{year}/`), hand-curated in `proviso-curated.json` with caption checks |
 | "The constitution assigns reapportionment to the General Assembly," "two-thirds plus referendum" | The constitutional-amendment procedure recited in the joint resolutions' own texts (e.g. S6, H3044) and the S.C. Constitution provisions they amend |
-| Citizen proposals and consensus notes ([P-…]) | Phase 2 Community Conversations dataset "SC1 – Phase 2 Constituent Proposals – Grid View for Legislators v2" via the issue config — process input, not verified fact |
+| Citizen proposals, frequency, consensus, and concerns ([P-…]) | The final Community Conversations proposal grid "SC1 – Responsive Elected Leaders" (received 2026-09-04), reflected in the issue config — process input, not verified fact. It supersedes the earlier Phase 2 v2 grid, which listed six proposals; the four that did not advance are covered as the wider accountability record (see Appendix H's provenance note) |
 
 ## Collection and verification notes
 
@@ -47,6 +47,16 @@ brief by design.
 - External-source discipline: the packet contains no claims sourced outside
   the repository's local record (no news accounts, no litigation status,
   no counts of other states' Article V applications).
+- Final-grid rework (v2.1, 2026-09-04): the brief, spotlights, and this
+  appendix set were reworked around the final two-proposal grid. The
+  legislative record — curation, dispositions, and every vote count — is
+  unchanged from v2.0; only the framing and proposal crosswalk changed.
+  Commission-design details newly cited in v2.1 (Inspector General
+  applicant panel, nine members, referendum approval; State Ethics
+  Commission appointment, twelve members balanced 5/5/2; no-alteration/
+  no-veto and no-sine-die clauses; decennial appointment cycle; H3547's
+  State Board curriculum role) were verified against latest-version bill
+  text in the certified universe.
 
 ## Review status
 

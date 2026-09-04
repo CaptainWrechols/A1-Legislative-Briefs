@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-28T16:46:44.508214+00:00",
+  "collected_at": "2026-09-04T13:16:19.543084+00:00",
   "issue": "south-carolina-02-responsive-elected-leaders",
   "issue_slug": "responsive-elected-leaders",
   "mode": "full",
@@ -29,7 +29,7 @@
     {
       "check": "config_constituent_proposals",
       "status": "PASS",
-      "detail": "6 proposals; incomplete=[]"
+      "detail": "2 proposals; incomplete=[]"
     },
     {
       "check": "config_omnibus_cycles",
