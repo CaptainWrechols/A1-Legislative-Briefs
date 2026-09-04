@@ -1,30 +1,46 @@
-# Review report — Rising Cost of Living in South Carolina (citizen-v2.0)
+# Review report — Rising Cost of Living in South Carolina (citizen-v2.1)
 
-Citizen Reviewer v2.3 · 2026-08-27 · reviewed against the combined format
-(NV citizen-v4 pattern, as shipped for SC slow-wage-growth): two-page front
-brief + proposal spotlights + glossary + legislative process glossary in one
-document, plus the standalone `proposal-spotlights` companion and
-appendices A–I.
+Citizen Reviewer v2.3 · 2026-08-27 (v2.0) · **re-reviewed 2026-09-04
+(v2.1)** after the brief was reworked around the final proposal grid — each
+proposal section now opens with the grid's reported frequency, consensus,
+and concerns (labeled process input) followed by the record facts addressed
+to those points — and a child care assistance section was added for the
+reported legislator-discussion topic (17-bill childcare theme, scan at
+`working/.../childcare-assistance-scan.md`). The legislative record itself
+is unchanged: no bill facts, votes, or outcomes were altered, only
+reorganized and extended with the verified childcare set.
 
 **Verdict: READY FOR HUMAN REVIEW**
 
 Reviewers for the PR: Ryan Echols, Jodi Stephens, Ashley Lovell.
+
+## v2.1 provenance flag (for the human reviewers)
+
+The final-grid source document ("SC1 – Rising Cost of Living.docx",
+2026-09-04) did not transfer into this workspace. The reported cells used in
+the brief, spotlights, config, and Appendix H are the Phase 2 grid's lines
+for this issue, which the final grids carry forward verbatim (verified
+against the slow-wage-growth final grid processed the same day). Please
+confirm the cells — and whether the final grid changed this issue's proposal
+set structurally — against the original document. The legislator note on a
+"merger of Dominion and Nextera" is quoted only in Appendix H, labeled
+unverified.
 
 ## A. Purpose fit
 
 | ID | Check | Result | Notes |
 |---|---|---|---|
 | A1 | Reports the record without telling readers what to pick | PASS | History verbs throughout; no directives |
-| A2 | Proposals grouped by record status | PASS | "Often moved before" / "Got support but didn't finish" / "Rarely moved before" / "Already policy — through the budget" (this issue's financial-education proposal is enacted policy, so a fourth status group was used rather than forcing it into a basket) |
+| A2 | Proposals grouped by record status | PASS (v2.1 restructure) | The rework centers the brief on the grid's points: one section per proposal, each opening with the reported cells (labeled) and closing with the record's status for that proposal; history-basket language is carried inside the sections and in Appendix B. The spotlights keep the viability groups (already law / proven support / stopped early / never filed) |
 | A4 | No pursue/adapt/avoid commands | PASS | Advice-word scan of brief + spotlights + appendices: remaining hits are descriptive ("students **must** earn the credit" states the law; "**Urged** lenders" quotes what a resolution did) — logged below |
-| A5 | Every constituent proposal covered | PASS | All four [P-…] labels appear in the front brief (each in a bold-lead paragraph inside a status group) and again in the spotlight sections; deep dive in Appendix H |
+| A5 | Every constituent proposal covered | PASS | All four [P-…] labels head their own front-brief sections and spotlight sections, with the grid's reported cells verbatim in Appendix H; the childcare topic is covered separately and labeled "not a Phase 2 proposal" everywhere it appears |
 | A6 | No worksheet apparatus / meta-commentary / source keys in front brief | PASS | Sources, caveats, and review notes live in Appendices F and I |
 
 ## B. Reading level & explainers
 
 | ID | Check | Result | Notes |
 |---|---|---|---|
-| B1 | Plain professional prose | PASS | Flesch–Kincaid ≈ 11.6 for the front brief (12.5 with spotlights) — the lowest of any shipped Forum brief (SC wage brief 12.2, NH housing 13.1, NV healthcare 13.9–15.5). The ~grade 5–8 aspiration is not met by any brief in this product line; flagged for the human reviewers rather than fixed by cutting facts |
+| B1 | Plain professional prose | PASS | Flesch–Kincaid ≈ 11.4 for the v2.1 front brief (a sentence-splitting pass was applied after the rework initially pushed it to 15.1) — the lowest of any shipped Forum brief (SC wage brief 12.2, NH housing 13.1, NV healthcare 13.9–15.5). The ~grade 5–8 aspiration is not met by any brief in this product line; flagged for the human reviewers rather than fixed by cutting facts |
 | B2 | Inline explainers in the front brief; glossaries per the combined product | PASS | Inline explainers logged in `working/.../explainer-log.md`; Glossary and Legislative process glossary end-sections follow the combined format |
 | B3 | Bill descriptions understandable without legal training | PASS | Plain topics carried from the curation map |
 
@@ -32,17 +48,17 @@ Reviewers for the PR: Ryan Echols, Jodi Stephens, Ashley Lovell.
 
 | ID | Check | Result | Notes |
 |---|---|---|---|
-| C1 | Front brief ≤2 letter pages in HTML **and** Word | PASS | Front brief occupies pages 1–2 in both renders; the combined document totals 4 pages in both (Chrome HTML→PDF and LibreOffice DOCX→PDF). Standalone spotlights: 3 pages in both (this issue's tax lane alone has 80 bills; the sibling issue fit in 2) |
+| C1 | Front brief ≤2 letter pages in HTML **and** Word | PASS | v2.1: front brief occupies pages 1–2 in both renders, with the spotlights starting cleanly on page 3; the combined document totals 5 pages in both (Chrome HTML→PDF and LibreOffice DOCX→PDF; grew from 4 with the childcare spotlight). Standalone spotlights: 4 pages in both |
 | C2 | Page 1 carries the essential map | PASS | Landscape, key numbers, proviso callout, and the "often moved" basket on page 1 (render inspected) |
-| C3 | Detail in appendices | PASS | 9 appendices; 77-page print HTML |
+| C3 | Detail in appendices | PASS | 9 appendices; 81-page print HTML (childcare theme in A/B/C/D, provisos in G, addendum in H) |
 
 ## D. Evidence integrity
 
 | ID | Check | Result | Notes |
 |---|---|---|---|
-| D1 | Every example bill exists in Appendix A / evidence pack | PASS | Programmatic check: all 89 cited bill numbers resolve in the pack (budget bill numbers resolve in Appendix G) |
-| D2 | No invented vote counts or parties | PASS | Every en-dash vote pair in the brief and spotlights matched verbatim against `bill-votes.json` passage votes, per-bill for the 24 headline claims; zero party claims anywhere (roster join deliberately not fetched). The one derived figure — "438–1, four times" — is the sum of four verified House votes (105–1, 101–0, 118–0, 114–0) and is labeled as combined |
-| D3 | Data limits stated | PASS | Appendix F (11 items), including the FY 2020-21 proviso gap and the one out-of-record verification (the graduation regulation's status) |
+| D1 | Every example bill exists in Appendix A / evidence pack | PASS | Programmatic re-check (v2.1): all 261 cited bill ids across the brief, spotlights, appendices, and childcare scan resolve in the pack (budget bill numbers resolve in Appendix G) |
+| D2 | No invented vote counts or parties | PASS | Re-verified for v2.1: every en-dash vote pair across all citizen-facing files matched against `bill-votes.json` passage votes (zero unmatched), per-bill for the headline claims incl. the childcare set (S595 39–0/100–1, H4023 41–0/107–0, S862 44–0/108–0, S946 45–0/105–0); zero party claims. Derived/actions figures labeled: "438–1, four times" is the sum of four verified House votes; H5118's 23–76 is the recorded non-concurrence roll call from the official history |
+| D3 | Data limits stated | PASS | Appendix F (12 items), including the FY 2020-21 proviso gap, the graduation-regulation verification, the final-grid provenance caveat, and the childcare topic's non-record origin |
 | D4 | Inferred committee Yeas (if shown) marked | PASS (n/a) | No committee tallies exist in SC and none appear or are implied; stated in F, G, and the appendices-print note |
 
 ## E. Forum fairness
@@ -80,6 +96,26 @@ Reviewers for the PR: Ryan Echols, Jodi Stephens, Ashley Lovell.
 
 ## Fixes made during review (logged)
 
+### v2.1 (2026-09-04)
+
+1. Front brief trimmed (New law section shortened, vote details deduplicated
+   against the sections that already carry them) to hold the front brief on
+   pages 1–2 in both renders after the rework and the childcare section
+   initially pushed it onto page 3. No facts were cut — every removed
+   detail remains in the spotlights or appendices.
+2. Sentence-splitting pass on the reworked proposal sections after the
+   "reported vs. record" compound sentences pushed the front brief's
+   Flesch–Kincaid to 15.1; final 11.4. No facts changed.
+3. Appendix F reviewer note "Human reviewers should confirm…" rephrased to
+   "Confirmation … is an open item for the human reviewers" (advice-verb
+   removal).
+4. Landscape/terrain counts recomputed for the enlarged set (257 policy
+   bills, 31 enacted, 201 first-committee deaths — "four of every five,"
+   replacing v2.0's "five of every six" of the smaller set) and re-verified
+   programmatically.
+
+### v2.0 (2026-08-27)
+
 1. Spotlights: "Treasurers must accept your car-tax payment…" rephrased to
    "Two bills (H3385, H3085) would have barred treasurers from refusing…" —
    the original read as current law; the bills died in committee.
@@ -87,20 +123,26 @@ Reviewers for the PR: Ryan Echols, Jodi Stephens, Ashley Lovell.
    adopt electricity-market reforms" → "…study of electricity-market reforms
    and their potential public benefits" (advice-verb removal at the source;
    propagated to evidence pack and Appendices A and E).
-3. Combined-document length: glossary entries tightened (one low-value entry
-   in each glossary removed, several shortened) to hold the 4-page total in
-   both renders after the Word render initially spilled a few lines to
-   page 5. No facts were cut; page counts re-verified at 4/4 with the front
-   brief on pages 1–2.
-4. Reality-map correction during writing (pre-review, logged for
-   transparency): an early draft grouped the housing bill H4158 (98–10) into
-   the "utility-accountability" combined vote; the brief's combined figure
-   was corrected to the four utility bills only (438–1) and H4158 is cited
-   separately as a housing-lane example.
+3. Combined-document length: glossary entries tightened to hold the (then)
+   4-page total in both renders. No facts were cut.
+4. Reality-map correction during writing: an early draft grouped the housing
+   bill H4158 (98–10) into the "utility-accountability" combined vote; the
+   combined figure was corrected to the four utility bills only (438–1) and
+   H4158 is cited separately as a housing-lane example.
 
 ## Items for the human reviewers
 
-- Reading level is 11.6 (front brief) against a ~5–8 aspiration; best in the
+- **Final-grid provenance (v2.1):** see the flag at the top — the source
+  docx did not transfer; the reported cells need confirmation against the
+  original, including whether the final grid restructured this issue's
+  proposal set.
+- **Child care assistance framing (v2.1):** the topic is presented strictly
+  as a record scan tied to reported legislator discussions, labeled "not a
+  Phase 2 proposal" everywhere. The "what the record indicates" passages are
+  descriptive pattern statements (venue, acceleration, floor viability,
+  never-filed designs), not recommendations — please confirm the framing
+  reads that way.
+- Reading level is 11.4 (front brief) against a ~5–8 aspiration; best in the
   product line so far, but a simplified variant would require cutting vote
   numbers and bill counts.
 - The 126th session is treated as concluded ("did not pass (session

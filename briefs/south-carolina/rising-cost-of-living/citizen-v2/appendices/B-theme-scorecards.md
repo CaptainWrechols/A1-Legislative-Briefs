@@ -94,7 +94,18 @@ the pattern.
 - **Got support but didn't finish:** the Insurance Rate Reduction and Policyholder Protection Act (2025-26 H4817) passed the House 96–17 and died in Senate Banking and Insurance; the state liquor-liability option (2023-24 H5066) passed the House 106–2 and died in the same committee.
 - **Where the rest stopped:** homeowners nonrenewal limits (2019-20 H4733), coastal availability (2019-20 S1188), structural-inspection rules (2025-26 H5063), and the liquor-liability mandate repeal (2025-26 H5503, S397) — first committee.
 
+## Child care costs and assistance
+
+- **Bills:** 17 (all adjacent) · **Became law:** 3 · **Basket:** Mixed — regulation often moved; assistance rarely moved · **Certainty:** medium-high · *(theme added 2026-09-04 for the legislator-discussion topic; not a Phase 2 proposal)*
+- **What passed (all regulation and governance):** staff background checks (2019-20 S595, Act 52 of 2019, 39–0 and 100–1), First Steps board restructuring (2023-24 H4023, Act 81 of 2023, 41–0 and 107–0), caregiver training requirements (2023-24 S862, Act 216 of 2024, 44–0 and 108–0).
+- **Got support but didn't finish:** 2023-24 S946 (childcare regulations modernization) passed the Senate 45–0 and the House 105–0 in differing versions and died in conference at session's end.
+- **Where the assistance designs stopped:** the money committees, without a vote, every time — stipends for unemployed parents (2025-26 H4394), the employer-credit-plus-worker-credit companions (2025-26 S47/H4015), the refundable child-and-dependent-care credit (2025-26 H5794, filed August 2026), the Childcare Advance deferral (2023-24 H4993), pre-K expansion grants (2023-24 H5205). The conditions design (2025-26 S770, work requirements on federal assistance) died in its first committee too.
+- **Budget machinery:** the federal voucher/scholarship program runs through DSS under proviso 38.17 each cycle (38.18 in FY 2021-22); FY 2026-27 adds fraud reporting (38.28); Full-Day 4K / CERDEP expands through provisos every year.
+- **Examples:** 2023-24 S946, 2025-26 H4394, 2025-26 H5794, 2019-20 S595.
+
+<!-- pdf-page-break -->
+
 ## Related context
 
-- **Bills:** 16 · **Became law:** 5 · **Basket:** Mixed · **Certainty:** low (audit-only tier)
-- Kept for audit: C-PACE energy financing, childcare-cost bills, short-term-rental regulation, co-op audits (2019-20 H3145, Act 56), energy-efficient manufactured homes (2019-20 S76, Act 138), paid family leave for state employees (2023-24 H4832, Act 206), first-responder auto premiums (2025-26 H3259, Act 133), and public service district housekeeping (2025-26 H3933, Act 10). Excluded from headline counts.
+- **Bills:** 14 · **Became law:** 5 · **Basket:** Mixed · **Certainty:** low (audit-only tier)
+- Kept for audit: C-PACE energy financing, short-term-rental regulation, co-op audits (2019-20 H3145, Act 56), energy-efficient manufactured homes (2019-20 S76, Act 138), paid family leave for state employees (2023-24 H4832, Act 206), first-responder auto premiums (2025-26 H3259, Act 133), and public service district housekeeping (2025-26 H3933, Act 10). Excluded from headline counts.

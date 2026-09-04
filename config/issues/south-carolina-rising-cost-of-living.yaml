@@ -71,46 +71,67 @@ relevance_terms:
   - insurance
   - inflation
 
-# Phase 2 Community Conversations (Jun-Aug 2026), RAG constituent-voice dataset
-# "SC1 - Phase 2 Constituent Proposals - Grid View for Legislators v2".
-# FORUM PROCESS INPUT [P-xxx], not verified facts — label as such in briefs.
+# FINAL proposal grid ("SC1 - Rising Cost of Living", received 2026-09-04).
+# The frequency/consensus/tradeoff cells below carry the grid's reported
+# lines for this issue verbatim (the final grids carry the Phase 2 cells
+# forward, per the slow-wage-growth final grid); the source document did not
+# transfer into this workspace, so human reviewers should confirm against
+# the original (flagged in the review report).
+# FORUM PROCESS INPUT [P-xxx], not verified facts — present as such in briefs.
 constituent_proposals:
   - id: utility-transparency
     title: "Greater transparency into utility rates and legislator/utility financial ties"
     detail: >-
       Open up how utility rates are set and disclose financial ties between
       legislators and utilities.
+    frequency: "Medium: came up in two of four in-person events."
     consensus: >-
-      Medium frequency (2 events). High consensus when discussed.
+      High: broad agreement when discussed.
     tradeoffs: >-
-      Few tradeoffs raised; the question is scope of disclosure.
+      Participants broadly agreed that consumers feel like the utility
+      company has all the power.
+    legislator_feedback: >-
+      "They already report on SEI but yes." (grid note — process input)
     match_terms: ["utility rate", "electric rate", "rate increase", "Public Service Commission", "ratepayer", "disclosure"]
   - id: utility-competition
-    title: "Open the utility market / end monopoly / lower competition barriers"
+    title: "Open the utility market / lower barriers to competition (end the monopoly)"
     detail: >-
       Allow competition in the utility market by ending monopoly service
       territories or lowering barriers to entry.
+    frequency: "Medium: came up in two of four in-person events."
     consensus: >-
-      Medium frequency. Mixed consensus; infrastructure feasibility concerns.
+      Mixed: some supported the idea that a free market could lower prices,
+      while others questioned the feasibility.
     tradeoffs: >-
-      Whether the grid and service infrastructure can support competition.
+      Some worried that a free market was impractical given the
+      infrastructure requirements of running a utility.
+    legislator_feedback: >-
+      "Non starter especially with the merger of Dominion and Nextera."
+      (grid note — process input, unverified)
     match_terms: ["monopoly", "competition", "energy market", "deregulat", "retail choice"]
   - id: financial-education
     title: "Personal budgeting and financial education"
     detail: >-
       Teach personal budgeting and financial skills so households can manage
       rising costs.
+    frequency: "Low: Columbia."
     consensus: >-
-      Low frequency (Columbia). Mixed; implementation unclear.
+      Mixed: agreement that learning financial responsibility is important
+      but divergence over how to best accomplish that goal.
     tradeoffs: >-
-      Education does not lower prices; implementation was unclear.
+      Concerns about how such a program should be implemented and whether it
+      is the state's responsibility.
+    legislator_feedback: >-
+      "This is too broad? Create a subject matter to be taught in schools?
+      Politicians would love this but it has to be tied to a specific
+      action?" (grid note — process input)
     match_terms: ["financial literacy", "financial education", "personal finance", "budgeting"]
   - id: reduce-property-vehicle-taxes
-    title: "Reduce or eliminate property and vehicle taxes"
+    title: "Reduce / eliminate property and vehicle taxes"
     detail: >-
       Reduce or eliminate property taxes and vehicle taxes to lower household
-      costs. (Listed in the legislator feedback grid; lighter Phase 2
-      frequency, included for legislative search.)
+      costs. (From the grid's legislator-feedback section; no Phase 2
+      frequency/consensus cells.)
     consensus: >-
       From the legislator feedback grid rather than high Phase 2 frequency;
       include in matching so related bills are surfaced.
@@ -118,6 +139,16 @@ constituent_proposals:
       Replacing the revenue (schools and local government are funded by
       property taxes) is the core tradeoff.
     match_terms: ["property tax", "vehicle tax", "personal property tax", "millage", "tax relief", "homestead exemption"]
+
+# Not a Phase 2 proposal: sitting legislators have raised the possibility of
+# some sort of child care assistance (reported 2026-09-04). The record scan
+# lives at working/south-carolina/rising-cost-of-living/
+# childcare-assistance-scan.md; childcare bills carry their own theme in the
+# curation.
+legislator_discussion_topics:
+  - id: childcare-assistance
+    title: "Child care assistance (legislator discussions, not a Phase 2 proposal)"
+    match_terms: ["childcare", "child care", "day care", "dependent care", "pre-K", "4K", "First Steps"]
 
 omnibus_bills:
   - role: "General Appropriations Act — Part IB policy provisos"

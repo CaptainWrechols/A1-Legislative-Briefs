@@ -19,6 +19,8 @@ Every floor passage-type roll call recorded for bills in the curated set, verbat
 | 2019-20 | H4776 | House | Passage of Bill | 101 | 0 | 100% | Passed |
 | 2019-20 | H4940 | Senate | 2nd Reading | 41 | 0 | 100% | Passed |
 | 2019-20 | H4940 | House | Passage of Bill | 81 | 31 | 72% | Passed |
+| 2019-20 | S595 | Senate | 3rd Reading | 39 | 0 | 100% | Passed |
+| 2019-20 | S595 | House | Passage of Bill | 100 | 1 | 99% | Passed |
 | 2019-20 | S76 | Senate | 2nd Reading | 41 | 1 | 98% | Passed |
 | 2019-20 | S76 | House | Passage of Bill | 96 | 5 | 95% | Passed |
 | 2019-20 | S882 | Senate | 2nd Reading | 46 | 0 | 100% | Passed |
@@ -51,6 +53,8 @@ Every floor passage-type roll call recorded for bills in the curated set, verbat
 | 2023-24 | H3614 | House | Passage of Bill | 114 | 0 | 100% | Passed |
 | 2023-24 | H3977 | Senate | 2nd Reading | 43 | 0 | 100% | Passed |
 | 2023-24 | H3977 | House | Passage of Bill | 101 | 0 | 100% | Passed |
+| 2023-24 | H4023 | Senate | 3rd Reading | 41 | 0 | 100% | Passed |
+| 2023-24 | H4023 | House | Passage of Bill | 107 | 0 | 100% | Passed |
 | 2023-24 | H4158 | House | Passage of Bill | 98 | 10 | 91% | Passed |
 | 2023-24 | H4832 | Senate | 2nd Reading | 43 | 0 | 100% | Passed |
 | 2023-24 | H4832 | House | Passage of Bill | 110 | 0 | 100% | Passed |
@@ -63,6 +67,11 @@ Every floor passage-type roll call recorded for bills in the curated set, verbat
 | 2023-24 | S284 | House | Passage of Bill | 80 | 29 | 73% | Passed |
 | 2023-24 | S739 | Senate | 3rd Reading | 43 | 0 | 100% | Passed |
 | 2023-24 | S739 | House | Passage of Bill | 84 | 26 | 76% | Passed |
+| 2023-24 | S862 | Senate | 3rd Reading | 44 | 0 | 100% | Passed |
+| 2023-24 | S862 | Senate | 2nd Reading | 27 | 17 | 61% | Passed |
+| 2023-24 | S862 | House | Passage of Bill | 108 | 0 | 100% | Passed |
+| 2023-24 | S946 | Senate | 2nd Reading | 45 | 0 | 100% | Passed |
+| 2023-24 | S946 | House | Passage of Bill | 105 | 0 | 100% | Passed |
 | 2025-26 | H3259 | Senate | 2nd Reading | 43 | 0 | 100% | Passed |
 | 2025-26 | H3259 | House | Passage of Bill | 113 | 0 | 100% | Passed |
 | 2025-26 | H3309 | Senate | 3rd Reading | 38 | 3 | 93% | Passed |
@@ -107,6 +116,7 @@ Bills that won a passage vote with more than 50% support and still did not becom
 | 2021-22 | S16 | Would have required basic personal finance coursework for high school graduation in place of the economics requirement. | House 109–0 | Passed both chambers; died in conference |
 | 2023-24 | H3614 | The Rate Payer Protection Act of 2023: whistleblower protections for utility employees who report waste or wrongdoing. | House 114–0 | Passed the House; died in Senate Judiciary Committee |
 | 2023-24 | H5014 | Earlier version of the Lexington County property-tax-relief extension. | House 102–0 | Passed the House; died in the Senate |
+| 2023-24 | S946 | Childcare regulations modernization: passed the Senate 45-0 and the House 105-0 in differing versions, then died in conference at session's end. | Senate 45–0 | Passed both chambers; died in conference |
 | 2025-26 | S768 | Would raise the homestead exemption to $100,000 and lower the qualifying age from 65 to 60. | Senate 44–0 | Passed the Senate; died in House Ways and Means Committee |
 | 2019-20 | H4260 | The SC Ratepayer Protection Act of 2019: whistleblower protections for utility employees, tighter conflict-of-interest rules for utility regulators, and a ban on utilities giving campaign contributions or anything of value to the legislators' committee that screens utility regulators. | House 105–1 | Passed the House; died in Senate Judiciary Committee |
 | 2023-24 | H5066 | Would have created an affordable state liquor-liability insurance option for bars and restaurants required to carry it. | House 106–2 | Passed the House; died in Senate Banking and Insurance Committee |

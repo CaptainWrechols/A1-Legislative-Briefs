@@ -43,8 +43,8 @@ def get_core(session, bill_no):
 
 # ---------------------------------------------------------------- Appendix A
 lines = ["# Appendix A — Bills overview", ""]
-lines.append("One row per bill in the curated set (256 bills, hand-reviewed from "
-             "6,814 keyword hits plus two universe-scan additions). *Tier*: Core bills are "
+lines.append("One row per bill in the curated set (271 bills, hand-reviewed from "
+             "6,814 keyword hits plus three universe-scan additions). *Tier*: Core bills are "
              "the headline set for the four citizen proposals; Adjacent bills are "
              "cost-of-living bills outside them; Context bills are kept for audit only. "
              "*Result*: what finally happened. Party labels are intentionally not shown "
@@ -146,9 +146,9 @@ KEY_BILLS = ["123:H4260", "123:H4776", "123:H4940", "123:H3199", "123:H4287",
              "124:H3194", "124:H4149", "124:S16", "124:S1087",
              "125:H3614", "125:H5118", "125:S732",
              "126:H3309", "126:S271", "126:S12", "126:S768", "126:S866",
-             "126:H4216", "126:H3378", "126:H5014"]
+             "126:H4216", "126:H3378", "126:H5014", "125:S946", "126:H4394"]
 lines = ["# Appendix E — Bill path details", ""]
-lines.append("Milestone paths for the bills the front brief leans on most. Dates and "
+lines.append("Milestone paths for the bills the front brief leans on most (incl. the childcare near-miss S946 and the stipend bill H4394). Dates and "
              "actions are from the official bill histories; routine steps (sponsor "
              "additions, scrivener corrections) are omitted.")
 lines.append("")

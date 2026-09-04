@@ -38,10 +38,12 @@ T_VEHTAX = "Taxes on vehicles and boats"
 T_INCTAX = "Income and sales tax relief"
 T_HOUSING = "Housing costs and rent"
 T_INS = "Home and property insurance costs"
+T_CHILDCARE = "Child care costs and assistance"
 T_CONTEXT = "Related context"
 
 THEMES = [T_RATES, T_SANTEE, T_ENERGY, T_COMP, T_BILLS, T_FINED,
-          T_HOMETAX, T_VEHTAX, T_INCTAX, T_HOUSING, T_INS, T_CONTEXT]
+          T_HOMETAX, T_VEHTAX, T_INCTAX, T_HOUSING, T_INS, T_CHILDCARE,
+          T_CONTEXT]
 
 # (session, bill_no): (tier, theme, plain_topic)
 KEEP = {
@@ -316,13 +318,32 @@ KEEP = {
     (123, "S882"):  ("adjacent", T_INS, "The SC Private Flood Insurance Act: opened the state market to private flood insurance as an alternative to the federal program."),
     (123, "H3126"): ("adjacent", T_INS, "Would have created a study committee on flood insurance."),
     # ------------------------------------------------------------------
+    # Child care costs and assistance (legislator-discussion topic added
+    # 2026-09-04; not a Phase 2 proposal). Assistance designs and the
+    # regulation/near-miss record; verified against full texts and the
+    # slow-wage-growth childcare scan.
+    (126, "H4394"): ("adjacent", T_CHILDCARE, "Would create workforce-development childcare stipends, through DSS and the state workforce agency, for unemployed parents and caregivers of children under 12."),
+    (126, "S47"):   ("adjacent", T_CHILDCARE, "Would raise the cap on the existing employer childcare-program tax credit and add a new income tax credit for childcare directors and staff (a pay supplement through the tax code)."),
+    (126, "H4015"): ("adjacent", T_CHILDCARE, "House companion: bigger employer childcare credit plus a new credit for childcare directors and staff."),
+    (126, "H5794"): ("adjacent", T_CHILDCARE, "Would make the existing child and dependent care income tax credit refundable — filed August 2026, the newest bill in this set."),
+    (125, "H4993"): ("adjacent", T_CHILDCARE, "The Childcare Advance Act: would let taxpayers defer part of their income tax against eligible childcare expenses."),
+    (124, "H3079"): ("adjacent", T_CHILDCARE, "Would have created a study committee on the statewide availability of high-quality, affordable childcare."),
+    (123, "S291"):  ("adjacent", T_CHILDCARE, "Would have created a Department of Early Development and Education consolidating early-childhood programs."),
+    (126, "S770"):  ("adjacent", T_CHILDCARE, "The Childcare Assistance Program bill: would add employment requirements as a condition of federally funded childcare assistance."),
+    (125, "S946"):  ("adjacent", T_CHILDCARE, "Childcare regulations modernization: passed the Senate 45-0 and the House 105-0 in differing versions, then died in conference at session's end."),
+    (123, "S595"):  ("adjacent", T_CHILDCARE, "Background-check requirements for childcare facility staff (became law)."),
+    (125, "S862"):  ("adjacent", T_CHILDCARE, "Caregiver education and preservice-training requirements for childcare centers (became law)."),
+    (125, "H4023"): ("adjacent", T_CHILDCARE, "Restructured local First Steps early-childhood partnership boards (became law)."),
+    (125, "H3745"): ("adjacent", T_CHILDCARE, "Childcare facility regulation changes."),
+    (126, "H4632"): ("adjacent", T_CHILDCARE, "The Cash Berry Childcare Safety and Quality Rating Act: safety and quality-rating rules for childcare facilities."),
+    (126, "S700"):  ("adjacent", T_CHILDCARE, "Family childcare home regulation."),
+    (126, "H4587"): ("adjacent", T_CHILDCARE, "Would exempt military-installation childcare centers from certain state requirements."),
+    # ------------------------------------------------------------------
     # Related context (kept for audit; excluded from headline counts).
     (123, "S76"):   ("context", T_CONTEXT, "Extended the energy-efficient manufactured homes incentive program five years (became law)."),
     (123, "H4810"): ("context", T_CONTEXT, "Commercial Property Assessed Clean Energy (C-PACE) financing for energy improvements."),
     (125, "H3937"): ("context", T_CONTEXT, "Commercial Property Assessed Clean Energy and Resilience financing."),
     (126, "H3812"): ("context", T_CONTEXT, "Commercial Property Assessed Clean Energy (C-PACE) financing."),
-    (126, "H4394"): ("context", T_CONTEXT, "Workforce-development childcare stipends for unemployed parents (childcare as a household cost)."),
-    (126, "S770"):  ("context", T_CONTEXT, "Work requirements for federally funded childcare assistance."),
     (123, "H3966"): ("context", T_CONTEXT, "Airline property tax proceeds redirected to the State Aviation Fund (industry, not household, taxation)."),
     (124, "H3921"): ("context", T_CONTEXT, "Regulation of transportation network companies under the utilities title (rideshare rules, not household utilities)."),
     (124, "H4547"): ("context", T_CONTEXT, "Would have limited how local governments regulate short-term vacation rentals."),
@@ -341,6 +362,7 @@ KEEP = {
 UNIVERSE_ADD = {
     (123, "H4149"): ("core", T_FINED, "House version of the half-credit personal finance graduation requirement with an end-of-course exam."),
     (124, "H3116"): ("core", T_FINED, "House companion: personal finance coursework as a high school graduation requirement."),
+    (125, "H5205"): ("adjacent", T_CHILDCARE, "Would have created a High-Quality Prekindergarten Expansion grant program at the Department of Education."),
 }
 
 EXCLUSION_RULES = [
@@ -406,7 +428,9 @@ def main():
             "relevance": tier,
             "found_by_terms": [],
             "url": b["url"],
-            "source": "universe_hand_scan (matched 'personal finance' in full text; no Pass 1 term hit)",
+            "source": ("universe_hand_scan (personal-finance full-text scan)"
+                       if theme == T_FINED else
+                       "universe_hand_scan (childcare title/full-text scan; no Pass 1 term hit)"),
         })
     kept.sort(key=lambda r: (r["session"], r["bill_no"]))
 

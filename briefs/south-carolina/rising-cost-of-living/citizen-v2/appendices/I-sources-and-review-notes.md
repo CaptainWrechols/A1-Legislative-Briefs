@@ -16,7 +16,8 @@ brief by design.
 | Budget proviso claims (extra homestead exemption, tax-rate suspension, personal-finance order, Santee Cooper oversight funding) | Part IB full texts per enacted cycle (`working/south-carolina/rising-cost-of-living/provisos/{year}/`), hand-curated in `proviso-curated.json` |
 | The personal-finance graduation requirement being in force (Reg. 43-234 / Doc. 5130, eff. May 26, 2023; Class of 2027) | State Register (SCSR 47-5, Doc. 5130) and the State Board of Education's published regulation — the one claim verified outside the bill record, because a stalled approval resolution does not stop a regulation from taking effect |
 | Homestead exemption ($50,000, §12-37-250), Act 388 school-tax swap (§11-11-156), assessment ratios, SEI disclosures (ethics law) | Statutory context cited by section number; provisions referenced in the curated bill texts and proviso texts |
-| Citizen proposals and consensus notes ([P-…]) | Phase 2 Community Conversations dataset "SC1 – Phase 2 Constituent Proposals – Grid View for Legislators v2" via the issue config — process input, not verified fact |
+| Citizen proposals, reported frequency/consensus/tradeoff cells, and legislator notes ([P-…]) | The final proposal grid ("SC1 – Rising Cost of Living", 2026-09-04) via the issue config — process input, not verified fact. Provenance caveat (also Appendix F item 11): the final-grid document did not transfer into this workspace; cells are the Phase 2 grid lines ("Grid View for Legislators v2"), which the final grids carry forward verbatim per the slow-wage-growth final grid. Confirm against the original. |
+| Child care assistance topic and record scan | Reported legislator discussions (2026-09-04 request; not part of the record); scan method and findings in `working/south-carolina/rising-cost-of-living/childcare-assistance-scan.md`, built on this issue's Pass 1 childcare hits and the slow-wage-growth full-universe scan; proviso facts verified against `_universe/part1b/{year}/` |
 
 ## Collection and verification notes
 
@@ -29,13 +30,14 @@ brief by design.
   (an external cross-check) is not on disk; completeness is certified from
   the official surfaces (enumeration + chamber vote lists + ratification
   sheets + full-text search joins).
-- Curation: keep-all Pass 1 (6,814 hits) hand-reviewed to 256 bills (121
-  core / 119 adjacent / 16 context); exclusion rules and per-bill plain
-  topics in `working/south-carolina/rising-cost-of-living/curation-map.json`.
-  Headline and ambiguous bills verified against latest-version full text
-  before tier assignment. Two financial-education bills (2019-20 H4149,
-  2021-22 H3116) matched no Pass 1 term and were added from a hand
-  full-text scan of the universe, marked with a `source` field.
+- Curation: keep-all Pass 1 (6,814 hits) hand-reviewed to 271 bills (121
+  core / 136 adjacent / 14 context, incl. the 17-bill childcare theme added
+  2026-09-04); exclusion rules and per-bill plain topics in
+  `working/south-carolina/rising-cost-of-living/curation-map.json`. Headline
+  and ambiguous bills verified against latest-version full text before tier
+  assignment. Three bills matched no Pass 1 term and were added from hand
+  full-text scans of the universe (2019-20 H4149 and 2021-22 H3116,
+  personal finance; 2023-24 H5205, childcare), marked with a `source` field.
 - Provisos: term-matched candidates (434–564 per cycle) hand-curated to 43
   provisos across six enacted cycles (`build-proviso-curation.py` →
   `proviso-curated.json`), each verified by reading caption and text. The
