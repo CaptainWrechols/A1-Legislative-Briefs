@@ -68,5 +68,12 @@
   "result": "NO DISCREPANCIES",
   "method": "Live scstatehouse.gov bill histories/ratified texts (31 headline bills: all act numbers + all cited roll calls), 17 committee-stop/conference claims, live enacted Part IB pages (9 provisos), current SC Code (9 sections), State Register for Reg. 43-234",
   "report": "working/south-carolina/rising-cost-of-living/independent-fact-check-2026-09-04.md"
+ },
+ "lege_brief_deliverable": {
+  "file": "SC1-Rising-Cost-of-Living-Lege-Brief.docx (+ .pdf)",
+  "format": "cloned from templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx via export_docx_lege_brief.py --polish-breaks (identical format to SC1-Slow-Wage-Growth-Lege-Brief)",
+  "footer": "SC1 Rising Cost of Living Legislative Brief v1.0",
+  "pages": 10,
+  "scans": "vote pairs matched; 0 unresolved bill ids; 0 advice verbs; 0 party labels"
  }
 }

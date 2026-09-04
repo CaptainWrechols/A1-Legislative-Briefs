@@ -15,7 +15,10 @@ callout required by `docs/sc-issue-chat-workflow.md`.
 
 | File | What it is |
 |---|---|
-| `citizen-brief.md` | Source markdown of the combined document (front brief → spotlights → glossaries) |
+| `SC1-Rising-Cost-of-Living-Lege-Brief.docx` | **THE DELIVERABLE** — the finalized, working-group-approved lege-brief format, cloned from `templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx` (same format as SC1-Slow-Wage-Growth-Lege-Brief and the NH lege briefs): brief organized by distance to law → policy spotlights with reported grid cells and viability groups (incl. the childcare-topic spotlight) → glossary (own page) → legislative process glossary (own page), stat-card table, square-bullet spotlights, real Word footer ("SC1 Rising Cost of Living Legislative Brief v1.0" + page number). 10 pages, LibreOffice-verified |
+| `SC1-Rising-Cost-of-Living-Lege-Brief.pdf` | PDF export of the deliverable (LibreOffice) |
+| `lege-brief.md` | Source markdown of the deliverable (edit this, then rebuild) |
+| `citizen-brief.md` | Combined-format source (front brief → spotlights → glossaries), kept alongside |
 | `citizen-brief.html` | Print-ready Phase 2 HTML — **5 letter pages**, front brief on pages 1–2 (Chrome print-to-PDF verified) |
 | `citizen-brief.docx` | Word version — **5 pages**, front brief on pages 1–2 (LibreOffice-verified), direct-formatted for cross-app fidelity |
 | `proposal-spotlights.md` / `.html` / `.docx` | Standalone policy spotlights: each Phase 2 proposal as bulleted bill lists grouped by viability (already law / proven support / stopped early / never filed), single column, incl. the childcare-topic section — **4 pages** in both renders |
@@ -52,6 +55,13 @@ navy-header comparison style with repeating headers across page breaks.
 ## Rebuild
 
 ```bash
+# THE DELIVERABLE — lege-brief docx from the approved NV1 v1.6 template
+python3 collectors/export_docx_lege_brief.py \
+  --source briefs/south-carolina/rising-cost-of-living/citizen-v2/lege-brief.md \
+  --out briefs/south-carolina/rising-cost-of-living/citizen-v2/SC1-Rising-Cost-of-Living-Lege-Brief.docx \
+  --footer "SC1 Rising Cost of Living Legislative Brief v1.0" --polish-breaks
+# PDF: soffice --headless --convert-to pdf SC1-Rising-Cost-of-Living-Lege-Brief.docx
+
 # HTML combined document (Phase 2 shell)
 python3 collectors/export_brief_html.py --brief-dir briefs/south-carolina/rising-cost-of-living/citizen-v2
 
