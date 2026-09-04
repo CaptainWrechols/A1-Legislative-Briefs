@@ -94,6 +94,44 @@ unverified.
 | Completeness gate before curation | PASS | `verify_completeness --strict`: PASS_WITH_WARNINGS (21/1/0); the warning (optional OpenStates mirror absent) is benign and disclosed in Appendix I |
 | Do not re-scrape the full state | PASS | All legislative data from prebuilt artifacts and the certified universe; the single outside check (State Register status of Regulation 43-234/Doc. 5130) is disclosed in Appendix F item 8 and Appendix I |
 
+## County-venue additions (2026-09-04, user-approved changes A–E)
+
+Approved after a venue review asking whether any "never filed / nothing
+moved" claim could mislead where counties hold the lever. Changes, applied
+in plain language across the lege brief, citizen brief, spotlights, and
+Appendices F/H (statutes verified on the live SC Code):
+
+1. **Vehicle-tax venue note (A):** standing law — the Personal Property Tax
+   Exemption Sales Tax Act, §4-10-510 (2000) — already lets a county, by
+   county referendum, end car and boat property taxes and swap in a local
+   sales tax ("the only method" by its own text; budget backstop proviso
+   117.37). Whether any county has used it is stated as outside this
+   dataset.
+2. **S866 qualifier (B):** the municipal sales-tax swap extends the design
+   counties have had since the early 1990s under the Local Option Sales Tax
+   (§4-10-10, property-tax credits).
+3. **General venue line (C):** property and vehicle taxes are county taxes
+   under state rules, with several county-option relief levers — the state
+   bill record alone does not show what counties have done.
+4. **Appendix F item 13 (D):** the dataset covers General Assembly
+   instruments only; county ordinances, referenda, and local-option
+   adoptions are outside it, so "never filed / never voted on" describes
+   state bills only.
+5. **First Steps clause (E):** the childcare sections note First Steps
+   partnership boards are county-level bodies. A "County local-option
+   taxes" glossary entry was added.
+
+**Layout (user-requested):** the lege brief's first glossary no longer
+forces its own page — it flows directly after the last spotlight (new
+opt-in exporter flag `--flow-first-glossary`; the legislative process
+glossary keeps its own page). This removed a two-thirds-empty page between
+the spotlights and the glossary; with wording tightened (no facts cut) and
+two nice-to-have glossary entries dropped ("Ratepayer," "Housing tax
+credit" — housing is not one of the four proposals), the deliverable is now
+**9 pages** with every page well-filled. Front brief re-verified at pages
+1–2 in both renders; all scans re-run clean (vote pairs, bill ids, advice
+verbs, party labels).
+
 ## Fixes made during review (logged)
 
 ### v2.1 (2026-09-04)

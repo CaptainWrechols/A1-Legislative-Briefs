@@ -226,6 +226,12 @@ def main():
     ap.add_argument('--source', required=True)
     ap.add_argument('--out', required=True)
     ap.add_argument('--footer', required=True)
+    ap.add_argument('--flow-first-glossary', action='store_true',
+                    help='with --polish-breaks: let the first glossary start '
+                         'right after the spotlights instead of forcing its '
+                         'own page (avoids a mostly-empty page when the last '
+                         'spotlight ends high; the second glossary keeps its '
+                         'own page via the template sectPr)')
     ap.add_argument('--polish-breaks', action='store_true',
                     help='template separator rules + clean pagination '
                          '(own-page glossaries, keep-with-next headings); '
@@ -346,7 +352,8 @@ def main():
             return P_GLOSS.replace('</w:pPr>', f'{sect}</w:pPr>', 1)
 
         for gi, (hdr, entries) in enumerate(glossary_bufs):
-            out.append(f'<w:p>{hdr_ppr(sectprs[gi * 2], gi == 0)}'
+            first_breaks = gi == 0 and not args.flow_first_glossary
+            out.append(f'<w:p>{hdr_ppr(sectprs[gi * 2], first_breaks)}'
                        f'{run(hdr, sz=25, color="c0392b", bold=True)}</w:p>')
             for e in entries[:-1]:
                 out.append(para(P_GLOSS, e))

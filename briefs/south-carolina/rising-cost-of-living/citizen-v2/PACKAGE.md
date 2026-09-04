@@ -15,7 +15,7 @@ callout required by `docs/sc-issue-chat-workflow.md`.
 
 | File | What it is |
 |---|---|
-| `SC1-Rising-Cost-of-Living-Lege-Brief.docx` | **THE DELIVERABLE** — the finalized, working-group-approved lege-brief format, cloned from `templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx` (same format as SC1-Slow-Wage-Growth-Lege-Brief and the NH lege briefs): brief organized by distance to law → policy spotlights with reported grid cells and viability groups (incl. the childcare-topic spotlight) → glossary (own page) → legislative process glossary (own page), stat-card table, square-bullet spotlights, real Word footer ("SC1 Rising Cost of Living Legislative Brief v1.0" + page number). 10 pages, LibreOffice-verified |
+| `SC1-Rising-Cost-of-Living-Lege-Brief.docx` | **THE DELIVERABLE** — the finalized, working-group-approved lege-brief format, cloned from `templates/lege-brief/NV1-Water-Lege-Brief-v1.6.docx` (same format as SC1-Slow-Wage-Growth-Lege-Brief and the NH lege briefs): brief organized by distance to law → policy spotlights with reported grid cells and viability groups (incl. the childcare-topic spotlight) → glossary (own page) → legislative process glossary (own page), stat-card table, square-bullet spotlights, real Word footer ("SC1 Rising Cost of Living Legislative Brief v1.0" + page number); the first glossary flows directly after the spotlights (no near-empty page), the process glossary has its own page. 9 pages, LibreOffice-verified |
 | `SC1-Rising-Cost-of-Living-Lege-Brief.pdf` | PDF export of the deliverable (LibreOffice) |
 | `lege-brief.md` | Source markdown of the deliverable (edit this, then rebuild) |
 | `citizen-brief.md` | Combined-format source (front brief → spotlights → glossaries), kept alongside |
@@ -59,7 +59,7 @@ navy-header comparison style with repeating headers across page breaks.
 python3 collectors/export_docx_lege_brief.py \
   --source briefs/south-carolina/rising-cost-of-living/citizen-v2/lege-brief.md \
   --out briefs/south-carolina/rising-cost-of-living/citizen-v2/SC1-Rising-Cost-of-Living-Lege-Brief.docx \
-  --footer "SC1 Rising Cost of Living Legislative Brief v1.0" --polish-breaks
+  --footer "SC1 Rising Cost of Living Legislative Brief v1.0" --polish-breaks --flow-first-glossary
 # PDF: soffice --headless --convert-to pdf SC1-Rising-Cost-of-Living-Lege-Brief.docx
 
 # HTML combined document (Phase 2 shell)

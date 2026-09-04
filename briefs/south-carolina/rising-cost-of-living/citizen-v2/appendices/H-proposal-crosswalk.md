@@ -112,10 +112,19 @@ assistance, a legislator-discussion topic outside the grid.
   chamber (2025-26 S768, Senate 44–0, died in House Ways and Means); none
   became law.
 - **Vehicle taxes:** 13 bills, zero recorded votes; the broadest (2025-26
-  H5014) would have exempted one car for seniors.
+  H5014) would have exempted one car for seniors. A county tool already
+  exists in standing law: since 2000, the Personal Property Tax Exemption
+  Sales Tax Act (§4-10-510) has let a county, by ordinance and county
+  referendum, end property taxes on cars and boats and replace the money
+  with a local sales tax — by its own text, "the only method" to do so.
+  The budget backstops the swap each year (proviso 117.37, Appendix G).
+  Whether any county has adopted it is a county decision outside this
+  dataset.
 - **What is law:** targeted fixes (Acts 116 of 2024, 236 of 2022, 140 of
-  2026, 69 of 2021), the municipal sales-tax swap (Act 228 of 2026), and
-  one-year budget relief — the extra $25,000 homestead exemption (FY
+  2026, 69 of 2021), the municipal sales-tax swap (Act 228 of 2026) — which
+  extends to cities the swap counties have had since the early 1990s under
+  the Local Option Sales Tax (§4-10-10, funding property-tax credits) — and
+  one-year budget relief: the extra $25,000 homestead exemption (FY
   2026-27 proviso 117.220) and accelerated income tax cuts (117.208 /
   117.191).
 - **Standing context for the tradeoff:** owner-occupied homes have paid no
@@ -123,9 +132,12 @@ assistance, a legislator-discussion topic outside the grid.
   through a statewide sales-tax penny (Homestead Exemption Fund,
   §11-11-156) — so elimination proposals concern the remaining county,
   municipal, and bond lines, plus vehicles.
-- **Venue:** property and vehicle taxes are local revenue under state rules;
-  changing them is a General Assembly lever with direct local-budget
-  consequences.
+- **Venue:** property and vehicle taxes are county-levied taxes under state
+  rules. Several relief levers are county-option statutes decided by county
+  voters (the Local Option Sales Tax, §4-10-10; the vehicle-tax swap,
+  §4-10-510), so the state bill record alone does not show what counties
+  have done; statewide changes remain a General Assembly lever with direct
+  local-budget consequences.
 
 ## Addendum: child care assistance (legislator-discussion topic, not a Phase 2 proposal)
 
@@ -135,7 +147,8 @@ assistance, a legislator-discussion topic outside the grid.
   part of the legislative record; the record scan is at
   `working/south-carolina/rising-cost-of-living/childcare-assistance-scan.md`.
 - **Record coverage:** 17 bills in the childcare theme. Three acts, all
-  regulation/governance (S595, Act 52 of 2019; H4023, Act 81 of 2023; S862,
+  regulation/governance (S595, Act 52 of 2019; H4023, Act 81 of 2023 —
+  restructuring the county-level First Steps partnership boards; S862,
   Act 216 of 2024). One near-miss: S946 (2024) passed the Senate 45–0 and
   the House 105–0 in differing versions and died in conference.
 - **Assistance designs — filed, never voted on:** stipends for unemployed

@@ -55,7 +55,7 @@ Some of the biggest cost-of-living moves never appear in a stand-alone law. They
 
 ### New laws, 2019–2026
 
-The oversight wave led. After the V.C. Summer collapse: the sale-or-reform evaluation (H4287, Act 95 of 2019), the Energy Freedom Act's solar-contract review and electric-customer rights (H3659, Act 62 of 2019, 110–0 and 46–0), the market-reform study committee (H4940, Act 187 of 2020, 81–31 and 41–0), the PSC screening extension (S996, Act 181 of 2020), the Santee Cooper reform putting its rates under PSC review for the first time (H3194, Act 90 of 2021, 89–26 and 44–1), the restarted PSC elections (S271 and H4402, Acts 74 and 75 of 2025), the V.C. Summer completion-proposals resolution (S51, Act 73 of 2025, 43–0 and 111–0), and the Energy Security Act with its public-witness rights in rate cases (H3309, Act 41 of 2025). The tax fixes were targeted and near-unanimous: the shutdown penalty delay (H3630, Act 96 of 2019), installment payments (H3482, Act 69 of 2021), surviving spouses and heirs' property (S233, Act 236 of 2022, 40–0 and 107–4), disabled veterans' immediate exemption (H3116, Act 116 of 2024, 111–0 and 45–0), estate continuity for a home's 4% rate (H3841, Act 140 of 2026, 107–0 and 43–0), a higher manufacturing-exemption reimbursement cap (S439, Act 122 of 2026), and the one structural option — the Municipal Tax Relief Act, letting certain cities swap a voter-approved sales tax for home property tax credits (S866, Act 228 of 2026, 32–9 and 96–16). The income tax cuts came as packages: brackets collapsed with the top rate set to fall to 6% (S1087, Act 228 of 2022) and the 2026 restructuring to a 5.21% top rate with a new 1.99% bracket (H4216, Act 110 of 2026, 64–47 and 39–5 — the closest enacted margins in this set). Housing moved through financing tools: the state housing tax credit (H3998, Act 137 of 2020), its cap-and-tighten revision (H5075, Act 202 of 2022), the stalled-project rescue (S739, Act 88 of 2023), and tourism taxes for workforce housing (S284, Act 57 of 2023). Childcare's three acts are all regulation: staff background checks (S595, Act 52 of 2019), First Steps governance (H4023, Act 81 of 2023), and caregiver training (S862, Act 216 of 2024). Insurance added private flood coverage (S882, Act 166 of 2020) and electronic policy delivery (H3977, Act 108 of 2024).
+The oversight wave led. After the V.C. Summer collapse: the sale-or-reform evaluation (H4287, Act 95 of 2019), the Energy Freedom Act's solar-contract review and electric-customer rights (H3659, Act 62 of 2019, 110–0 and 46–0), the market-reform study committee (H4940, Act 187 of 2020, 81–31 and 41–0), the PSC screening extension (S996, Act 181 of 2020), the Santee Cooper reform putting its rates under PSC review for the first time (H3194, Act 90 of 2021, 89–26 and 44–1), the restarted PSC elections (S271 and H4402, Acts 74 and 75 of 2025), the V.C. Summer completion-proposals resolution (S51, Act 73 of 2025, 43–0 and 111–0), and the Energy Security Act's public-witness rights in rate cases (H3309, Act 41 of 2025). The tax fixes were targeted and near-unanimous: the shutdown penalty delay (H3630, Act 96 of 2019), installment payments (H3482, Act 69 of 2021), surviving spouses and heirs' property (S233, Act 236 of 2022, 40–0 and 107–4), disabled veterans' immediate exemption (H3116, Act 116 of 2024, 111–0 and 45–0), estate continuity for a home's 4% rate (H3841, Act 140 of 2026, 107–0 and 43–0), a higher manufacturing-exemption reimbursement cap (S439, Act 122 of 2026), and the Municipal Tax Relief Act — cities swapping a voter-approved sales tax for home property tax credits (S866, Act 228 of 2026, 32–9 and 96–16), the swap counties have had since the early 1990s under the Local Option Sales Tax. The income tax cuts came as packages: the top rate set to fall to 6% (S1087, Act 228 of 2022) and the 2026 restructuring to a 5.21% top rate with a new 1.99% bracket (H4216, Act 110 of 2026, 64–47 and 39–5 — the closest enacted margins here). Housing moved through financing tools: the state housing tax credit (H3998, Act 137 of 2020), its cap-and-tighten revision (H5075, Act 202 of 2022), the stalled-project rescue (S739, Act 88 of 2023), and tourism taxes for workforce housing (S284, Act 57 of 2023). Childcare's three acts are all regulation: background checks (S595, Act 52 of 2019), First Steps governance (H4023, Act 81 of 2023), caregiver training (S862, Act 216 of 2024). Insurance added private flood coverage (S882, Act 166 of 2020) and electronic policy delivery (H3977, Act 108 of 2024).
 
 ### Where lawmakers appear willing to go further
 
@@ -67,7 +67,7 @@ The utility-oversight lane keeps extending — each law built on the last, from 
 
 **Opening the electricity market.** The state formally studied it — Act 187 of 2020 created the Electricity Market Reform Measures Study Committee with an independent expert consultant, on the most contested vote of any enacted bill here (House 81–31) — but every bill that would actually let customers choose a supplier arrived in 2026 and died in its first committee without a vote: retail choice for households and small businesses (H5439), third-party suppliers over the incumbent's wires (H5440, S878), and PSC oversight of the co-ops' wholesale power contracts (H5525). Earlier edges went the same way: territory choice for businesses (H3344, 2019) and forcing Santee Cooper into a regional grid operator (S439, 2021). A straight repeal of exclusive service territories has never been filed.
 
-**Cutting property and vehicle taxes broadly.** Full elimination was filed once — H3378 (2025), every property tax, with dollar-for-dollar state repayment to local governments — and died in House Ways and Means, where 45 of the 67 home-property-tax bills stopped. Thirty-five bills raising the $50,000 homestead exemption or exempting seniors' homes entirely died without votes (S768's Senate 44–0 is the lone exception, and it died in the same room). Thirteen vehicle and boat tax bills produced zero recorded votes — the broadest (H5014, 2026) would have exempted one car for seniors — and no bill proposes ending the vehicle property tax statewide.
+**Cutting property and vehicle taxes broadly.** Full elimination was filed once — H3378 (2025), every property tax, with dollar-for-dollar state repayment to local governments — and died in House Ways and Means, where 45 of the 67 home-property-tax bills stopped. Thirty-five bills raising the $50,000 homestead exemption or exempting seniors' homes entirely died without votes (S768's Senate 44–0 is the lone exception, and it died in the same room). Thirteen vehicle and boat tax bills produced zero recorded votes — the broadest (H5014, 2026) would have exempted one car for seniors — and no bill proposes ending the vehicle property tax statewide. One route already exists, though, and it belongs to counties: since 2000, state law (§4-10-510) has let a county, with voters' approval, end property taxes on cars and boats and replace the money with a local sales tax — the budget backstops that swap every year (proviso 117.37). Whether any county has used it is a county decision outside this bill record.
 
 **Utility billing protections.** Nineteen consumer-billing bills over four sessions — payment-fee bans, shutoff limits in dangerous weather, balance-transfer bans, senior surcharge exemptions, customer-data privacy, data-center cost walls — and not one received a recorded vote at any stage.
 
@@ -77,19 +77,19 @@ The utility-oversight lane keeps extending — each law built on the last, from 
 
 *Raised in reported discussions with sitting legislators — not a Phase 2 proposal; the record was scanned on request.*
 
-**What passes in childcare is regulation, never assistance.** Three acts in eight years — background checks, First Steps governance, caregiver training — and S946's unanimous double passage died in conference. Every assistance design died in a money committee without a vote: workforce childcare stipends for unemployed parents (H4394, 2025), a bigger employer childcare credit plus a pay-supplement credit for childcare workers (S47/H4015, 2025), a refundable child-and-dependent-care credit (H5794, filed August 2026 — the newest bill in this set), the Childcare Advance deferral (H4993, 2024), and pre-K expansion grants (H5205, 2024). One bill runs the other direction: S770 (2026) would add work requirements to federally funded assistance. The signals that distinguish this lane from the zero-movement ones: filings are accelerating, every design extends the two childcare tax credits already in statute, and S946 shows childcare bills pass unanimously when they reach a floor. What has never been filed is a direct-payment state subsidy outside the tax code — today's assistance is federal voucher money run through DSS under one-year budget provisos.
+**What passes in childcare is regulation, never assistance.** Three acts in eight years — background checks, First Steps governance, caregiver training — and S946's unanimous double passage died in conference. Every assistance design died in a money committee without a vote: childcare stipends for unemployed parents (H4394, 2025), a bigger employer childcare credit plus a pay-supplement credit for childcare workers (S47/H4015, 2025), a refundable child-and-dependent-care credit (H5794, filed August 2026 — the newest bill in this set), the Childcare Advance deferral (H4993, 2024), and pre-K expansion grants (H5205, 2024). One bill runs the other direction: S770 (2026) would add work requirements to federally funded assistance. What distinguishes this lane from the zero-movement ones: filings are accelerating, every design extends the two childcare tax credits already in statute, and S946 shows childcare bills pass unanimously when they reach a floor. Never filed: a direct-payment state subsidy outside the tax code — today's assistance is federal voucher money run through DSS under one-year budget provisos.
 
 ## Where there is movement — and where there is none
 
 **Moving:** utility oversight as negotiated packages (the record's biggest enacting lane — the Santee Cooper and energy acts, PSC elections, public-witness rights); targeted property tax fixes (nine acts, all near-unanimous); income tax cuts when leadership carries them (two acts); housing financing tools (four acts); childcare regulation (three acts plus S946's double passage). **Not moving:** market competition (one study, zero bill votes); utility billing protections (0 of 19, no vote ever taken); broad homestead increases (0 of 35, one chamber passage); vehicle tax relief (0 of 13, same); rent control and most tenant-cost rules; and the utility-accountability bills, which pass the House and stop in one Senate committee.
 
-**Where bills stop, and who sponsors them.** Four rooms are this record's great filter: utility bills go to House Labor, Commerce and Industry and Senate Judiciary — in South Carolina, utility law belongs to the Judiciary Committee — and tax bills, including every childcare-assistance design, go to House Ways and Means and Senate Finance. Of 257 bills, 201 died in their first committee, and South Carolina publishes committee outcomes but never committee vote tallies, so no count exists for any of these stops. Party labels are deliberately absent throughout this packet — attaching them requires a ballot-roster join that was not fetched — so this brief makes no party claims. Rep. King led fourteen bills (utility billing protections, senior exemptions), all stopped in first committee; Rep. Ott carried the whistleblower bills the House passed 118–0 and 114–0; Rep. Burns led the elimination and big-exemption bills; and the enacted packages were carried by chamber leaders — Speaker Lucas (Santee Cooper reform), Rep. G.M. Smith (the energy bills), Sen. Peeler (the 2022 tax cut and S768).
+**Where bills stop, and who sponsors them.** Four rooms are this record's great filter: utility bills go to House Labor, Commerce and Industry and Senate Judiciary — in South Carolina, utility law belongs to the Judiciary Committee — and tax bills, including every childcare-assistance design, go to House Ways and Means and Senate Finance. Of 257 bills, 201 died in their first committee, and South Carolina publishes committee outcomes but never committee vote tallies, so no count exists for any of these stops. One venue note: property and vehicle taxes are county taxes collected under state rules, and several relief tools are county-option laws decided by county voters — so the state bill record alone does not show what counties have done. Party labels are deliberately absent throughout this packet — attaching them requires a ballot-roster join that was not fetched — so this brief makes no party claims. Rep. King led fourteen bills (utility billing protections, senior exemptions), all stopped in first committee; Rep. Ott carried the whistleblower bills the House passed 118–0 and 114–0; Rep. Burns led the elimination and big-exemption bills; and the enacted packages were carried by chamber leaders — Speaker Lucas (Santee Cooper reform), Rep. G.M. Smith (the energy bills), Sen. Peeler (the 2022 tax cut and S768).
 
 ## Federal overlap: what Washington already covers
 
 *Where federal action already covers ground — and where the state route is the only one.*
 
-Electricity splits down the middle: retail rates, service territories, and who may sell to customers are state ground (the PSC and Title 58 — which is why the retail-choice bills are state bills), while wholesale markets and interstate transmission are federal (FERC) — the layer the co-op wholesale-access and regional-grid bills work through — and nuclear licensing at V.C. Summer is the NRC's. The big federal energy programs (the infrastructure and inflation acts' household energy money) run through the state Energy Office under a budget proviso. Childcare assistance today is federal money — the voucher/scholarship program through DSS — while the two childcare tax credits the filed bills would extend are state code. Flood insurance is federally dominated (the National Flood Insurance Program); the state's Act 166 of 2020 opened the market to private alternatives. The state housing tax credit exists by matching the federal one. What has no federal layer at all is most of this brief: property and vehicle taxes, the homestead exemption, the sales-tax swap, the income tax rates, utility-regulator ethics rules, and the personal-finance graduation requirement are state ground alone.
+Electricity splits down the middle: retail rates, service territories, and who may sell to customers are state ground (the PSC and Title 58 — why the retail-choice bills are state bills), while wholesale markets and interstate transmission are federal (FERC) — the layer the co-op wholesale-access and regional-grid bills work through — and nuclear licensing at V.C. Summer is the NRC's. The big federal energy programs run through the state Energy Office under a budget proviso. Childcare assistance today is federal money — the voucher program through DSS — while the two childcare tax credits the filed bills would extend are state code. Flood insurance is federally dominated; Act 166 of 2020 opened the state market to private alternatives, and the state housing tax credit matches the federal one. What has no federal layer at all is most of this brief: property and vehicle taxes, the homestead exemption, the sales-tax swaps, the income tax rates, utility-regulator ethics rules, and the personal-finance graduation requirement are state and local ground alone.
 
 Full bill-by-bill detail, votes, sponsors, budget provisos, and sources: Appendices A–I.
 
@@ -99,15 +99,15 @@ A focused, bill-by-bill look at how far each proposal from the final Community C
 
 ## Greater transparency into utility rates and legislator–utility financial ties
 
-*Raised in two of four in-person events, with high consensus when discussed; participants broadly agreed that consumers feel like the utility company has all the power. The record: the oversight machinery is law; the accountability bills pass the House by a combined 438–1 and die in Senate Judiciary; no bill addresses legislator-side disclosure directly.*
+*Raised in two of four in-person events, with high consensus when discussed; the through-line was that consumers feel the utility company has all the power. The record: the oversight machinery is law; the accountability bills pass the House by a combined 438–1 and die in Senate Judiciary; no bill addresses legislator-side disclosure directly.*
 
 ### Already law (oversight structure, not the money-ties ban)
 
 - **H3194 (Act 90 of 2021):** rebuilt Santee Cooper's board and put its rates under Public Service Commission review for the first time; 89–26 and 44–1.
-- **S271 / H4402 (Acts 74 and 75 of 2025):** restarted the PSC elections that had been on hold while commissioners served expired terms; 40–0 / 110–0 and 44–0.
-- **H3309 (Act 41 of 2025):** the Energy Security Act — customers may testify as public witnesses in rate cases, with schedules and deadlines for rate proceedings; 94–11 and 38–3.
-- **S51 (Act 73 of 2025):** proposals process for finishing the V.C. Summer reactors; 43–0 and 111–0. The PSC's Santee Cooper oversight is funded by budget proviso (72.3), not permanent law.
-- **S996 (Act 181 of 2020):** reopened and extended PSC candidate screening for four seats; 37–0 and 78–32.
+- **S271 / H4402 (Acts 74 and 75 of 2025):** restarted the PSC elections stalled while commissioners served expired terms; 40–0 / 110–0 and 44–0.
+- **H3309 (Act 41 of 2025):** the Energy Security Act — customers may testify as public witnesses in rate cases, with schedules and deadlines; 94–11 and 38–3.
+- **S51 (Act 73 of 2025):** proposals process for finishing the V.C. Summer reactors; 43–0 and 111–0. The PSC's Santee Cooper oversight is funded by proviso (72.3), not permanent law.
+- **S996 (Act 181 of 2020):** reopened PSC candidate screening for four seats; 37–0 and 78–32.
 
 ### Proven support (passed the House; died in Senate Judiciary without a vote)
 
@@ -117,13 +117,13 @@ A focused, bill-by-bill look at how far each proposal from the final Community C
 
 ### Stopped early (died in first committee, no recorded vote)
 
-- **PSC restructuring:** S779 and S909 (2024) — shrink the commission to five seats and require published reasons for decisions on a deadline.
-- **Screening and conduct rules:** H3641, H3642, H4194, H4809, S947 (2019); rate-increase freezes during emergencies (S344, 2021; S218, 2023); public election of the PSC (H4531, 2019).
+- **PSC restructuring:** S779, S909 (2024) — shrink the commission to five seats; published reasons for decisions on a deadline.
+- **Screening and conduct rules:** H3641, H3642, H4194, H4809, S947 (2019); emergency rate-increase freezes (S344, 2021; S218, 2023); public election of the PSC (H4531, 2019).
 - **Citizen oversight:** H5283 (2026, a Utility Citizens Council funded by the utilities) and H5282 (2026, PSC approval before billing-practice changes).
 
 ### Never filed (the disclosure half)
 
-- No bill from 2019–2026 adds a utility-specific financial-disclosure duty for legislators themselves. The grid's legislator note says members already report on their Statements of Economic Interests; those annual ethics filings are public but not utility-specific, and every filed approach regulated what utilities may give (H4260's bans), not what legislators must disclose.
+- No bill from 2019–2026 adds a utility-specific disclosure duty for legislators themselves. The grid's legislator note says members already report on their Statements of Economic Interests; those annual ethics filings are public but not utility-specific. Every filed approach regulated what utilities may give (H4260's bans), not what legislators must disclose.
 
 ## Open the utility market / lower barriers to competition (end the monopoly)
 
@@ -131,18 +131,18 @@ A focused, bill-by-bill look at how far each proposal from the final Community C
 
 ### Already law (a study, not a market change)
 
-- **H4940 (Act 187 of 2020):** created the Electricity Market Reform Measures Study Committee with an independent expert consultant — the state's formal look at the exact feasibility question participants raised; House 81–31 (the most contested vote of any enacted bill in this set), Senate 41–0. The committee's report is outside this bill record.
+- **H4940 (Act 187 of 2020):** created the Electricity Market Reform Measures Study Committee, with an independent expert consultant, to examine the exact feasibility question participants raised; House 81–31 (the most contested vote of any enacted bill here), Senate 41–0. Its report is outside this bill record.
 
 ### Stopped early (died in first committee, no recorded vote)
 
 - **H5439 (2026):** the Electric Retail Choice Act — households and small businesses choose their generation supplier, with PSC permits and plain-language price disclosures.
-- **H5440 / S878 (2026):** third-party electric suppliers for eligible customers over the incumbent utility's wires, with the customer arranging transmission — designs that use the existing infrastructure rather than duplicating it.
+- **H5440 / S878 (2026):** third-party suppliers for eligible customers over the incumbent's wires, the customer arranging transmission — designs that use the existing infrastructure rather than duplicating it.
 - **H5525 (2026):** PSC oversight of electric co-ops' wholesale power contracts and rates ("wholesale market access").
-- **H3344 (2019):** businesses could take service from a supplier outside their assigned territory. **S439 (2021):** Santee Cooper forced to sell its plants and hand transmission to a regional grid operator. **S998 (2019):** the Senate version of the market-reform study.
+- **H3344 (2019):** businesses could buy from a supplier outside their territory. **S439 (2021):** Santee Cooper forced to sell its plants and join a regional grid operator. **S998 (2019):** the Senate study version.
 
 ### Nearby floor signal
 
-- **S12 (2025-26):** Santee Cooper co-owning plants with private utilities — the record's closest utility floor vote, second reading 25–18, then recommitted to Senate Judiciary and never revived.
+- **S12 (2025-26):** Santee Cooper co-owning plants with private utilities — the record's closest utility floor vote, 25–18 on second reading, then recommitted and never revived.
 
 ### Never filed
 
@@ -154,63 +154,64 @@ A focused, bill-by-bill look at how far each proposal from the final Community C
 
 ### Already law / in force
 
-- **FY 2022-23 budget proviso 1.101:** ordered the State Board of Education to write a required half-credit in personal finance into the graduation rules — the school-subject action the feedback note describes.
-- **Regulation 43-234 (Document 5130), effective May 26, 2023:** the requirement itself. Every student entering ninth grade from fall 2023 — the Class of 2027 first — must earn the half-credit to graduate. The approval resolution (S732, 2023) stalled in committee; the regulation took effect under the state's regulation-review clock anyway.
-- **Section 59-29-410 (since 2005):** the standing financial-literacy instruction statute — the state claimed this role twenty years ago.
+- **FY 2022-23 budget proviso 1.101:** ordered the State Board of Education to write a required half-credit in personal finance into the graduation rules — the school-subject action the note describes.
+- **Regulation 43-234 (Document 5130), effective May 26, 2023:** the requirement itself. Every student entering ninth grade from fall 2023 — the Class of 2027 first — must earn the half-credit. The approval resolution (S732) stalled; the regulation took effect under the review clock anyway.
+- **Section 59-29-410 (since 2005):** the standing financial-literacy instruction statute.
 
 ### Proven support (passed a chamber or both; never enacted as a bill)
 
-- **S16 (2021-22):** personal finance coursework required for graduation in place of the economics requirement; Senate 44–1 and House 109–0 in differing versions; died in conference.
+- **S16 (2021-22):** personal finance coursework required for graduation instead of economics; Senate 44–1 and House 109–0 in differing versions; died in conference.
 - **H3199 (2019-20):** added student-loan, credit, and repayment topics to the required program; House 102–10; died in Senate Education.
 
 ### Stopped early (died in committee, no recorded vote)
 
-- **S15 (2019):** the half-credit requirement with an end-of-year test — favorable committee report, died on the Senate calendar.
-- **H4149 (2019), H3116 (2021), S405 (2021):** graduation-requirement refiles. **H3022 and H4582 (2021):** more required topics and life skills for the existing program.
+- **S15 (2019):** the half-credit requirement with an end-of-year test — favorable report, died on the Senate calendar.
+- **H4149 (2019), H3116 (2021), S405 (2021):** graduation-requirement refiles. **H3022, H4582 (2021):** more required topics and life skills for the existing program.
 
 ### Never filed
 
-- Anything on financial education for adults — every bill in this record is about high school students. The first class bound by the requirement graduates in 2027, so no outcome data exists yet.
+- Anything on financial education for adults — every bill here is about high school students. The first bound class graduates in 2027, so no outcome data exists yet.
 
 ## Reduce / eliminate property and vehicle taxes
 
-*From the grid's legislator-feedback section (no Phase 2 frequency or consensus cells); the standing tradeoff is replacing the revenue that schools and local governments run on. The record: eighty bills, the wins narrow and near-unanimous, and the biggest recent relief delivered as one-year budget relief.*
+*From the grid's legislator-feedback section (no Phase 2 frequency or consensus cells); the standing tradeoff is replacing the revenue schools and local governments run on. The record: eighty bills, narrow wins, and the biggest recent relief delivered one year at a time in the budget.*
 
 ### Already law
 
-- **S866 (Act 228 of 2026):** the Municipal Tax Relief Act — certain cities may ask voters to approve up to a 1% sales tax that funds property tax credits on owner-occupied homes; 32–9 and 96–16. The one enacted design that answers the revenue tradeoff directly, by swapping the source.
+- **S866 (Act 228 of 2026):** the Municipal Tax Relief Act — certain cities may ask voters to approve up to a 1% sales tax funding property tax credits on homes; 32–9 and 96–16. It answers the revenue tradeoff by swapping the source — the design counties have had since the early 1990s under the Local Option Sales Tax (§4-10-10).
 - **H3116 (Act 116 of 2024):** disabled veterans (and qualifying surviving spouses) get the exemption the year disability occurs; 111–0 and 45–0.
 - **H3841 (Act 140 of 2026):** a home keeps its 4% rate and exemptions while the owner's estate settles; 107–0 and 43–0.
-- **S233 (Act 236 of 2022):** homestead exemption extended to qualifying surviving spouses and heirs' property; 40–0 and 107–4. **H3482 (Act 69 of 2021):** county installment payment schedules; 110–0 and 45–0. **H3630 (Act 96 of 2019):** penalty delay for federal workers in the 2019 shutdown.
-- **In the budget:** FY 2026-27 proviso 117.220 (extra $25,000 homestead exemption, state-reimbursed) and provisos 117.208/117.191 (income tax rate cut in effect ahead of the statute's triggers).
+- **S233 (Act 236 of 2022):** homestead exemption for qualifying surviving spouses and heirs' property; 40–0 and 107–4. **H3482 (Act 69 of 2021):** county installment schedules; 110–0 and 45–0. **H3630 (Act 96 of 2019):** penalty delay in the 2019 shutdown.
+- **In the budget:** proviso 117.220 (extra $25,000 homestead exemption, state-reimbursed) and provisos 117.208/117.191 (rate cut ahead of the statute's triggers).
 
 ### Proven support
 
-- **S768 (2026):** homestead exemption to $100,000 and eligibility age down to 60; Senate 44–0; died in House Ways and Means — the only broad exemption increase ever to pass a chamber.
-- **H4880 (2022):** the House's income tax cut (top rate to 6%); House 112–0; died in Senate Finance as the Senate's version (S1087, Act 228 of 2022) became the law.
+- **S768 (2026):** homestead exemption to $100,000, eligibility age down to 60; Senate 44–0; died in House Ways and Means — the only broad increase ever to pass a chamber.
+- **H4880 (2022):** the House's income tax cut (top rate to 6%); 112–0; died in Senate Finance as the Senate's version (S1087, Act 228 of 2022) became law.
 
 ### Stopped early (died in first committee, no recorded vote)
 
-- **Eliminate property taxes entirely:** H3378 (2025) — all property, with dollar-for-dollar state reimbursement to local governments.
+- **Eliminate property taxes entirely:** H3378 (2025) — all property, with dollar-for-dollar state reimbursement to local governments; House Ways and Means.
 - **Homestead exemption increases (35 bills):** to $75,000 (S910, 2019), to $100,000 (H3127, 2023), to the home's full value (H3687, 2019; H4197, 2021), greater-of formulas (H5264, 2023; H3380, 2025), new groups (deaf taxpayers: S1027, 2021; S433, 2023), refiled by the half-dozen in 2025-26 (H3419, H3427, H3511, H3742, H4599, H4690, S223).
-- **Full senior exemptions:** exempt the entire home at 65 (H3736, 2019), at 70 (S565 and H4818, 2019; S12 refilings), at 80 (H3122, 2019; H3386, 2021; H3086, 2023); the Property Tax Relief for Seniors Act (H3424, 2025: up to $1 million of value, funded by a new sales tax).
-- **Vehicle and boat taxes (13 bills, zero votes):** one car exempt for seniors (H5014, 2026); disabled veterans' vehicles (H4564, S943); disabled first responders (H4511, H3410); service members posted out of state (S1018); guardians (H4138); boats taxed where kept (S38) and no double billing in twelve months (H5111); two bills (H3385, H3085) would have barred treasurers from refusing a car-tax payment because the taxpayer owes on something else.
+- **Full senior exemptions:** the entire home at 65 (H3736, 2019), at 70 (S565, H4818, 2019; S12 refilings), at 80 (H3122, 2019; H3386, 2021; H3086, 2023); the Property Tax Relief for Seniors Act (H3424, 2025: up to $1 million of value, funded by a new sales tax).
+- **Vehicle and boat taxes (13 bills, zero votes):** one car exempt for seniors (H5014, 2026); disabled veterans' vehicles (H4564, S943); disabled first responders (H4511, H3410); service members posted out of state (S1018); guardians (H4138); boats taxed where kept (S38), no double billing in twelve months (H5111); and two bills (H3385, H3085) barring treasurers from refusing a car-tax payment because the taxpayer owes on something else.
 - **Valuation changes:** constitutional amendments to redefine fair market value and remove the 15% reassessment cap (H3626, H3671, H3809); delay all reassessments to 2026 (H4910).
 
 ### Never filed
 
 - Statewide elimination of the vehicle property tax — every vehicle bill is a targeted exemption. (Context for elimination designs: owner-occupied homes already pay no school operating taxes under the 2006 Act 388 swap, so the revenue question concerns the remaining county, municipal, and bond lines.)
+- **A county tool already on the books (standing law, not a bill):** since 2000, §4-10-510 has let a county end car and boat property taxes if county voters approve, swapping in a local sales tax — the only legal route to do it locally. Whether any county has used it is a county decision outside this bill record.
 
 ## Child care assistance (legislator-discussion topic, not a Phase 2 proposal)
 
-*Raised in reported discussions with sitting legislators; the record was scanned on request. The record: regulation passes; every assistance design sits in a money committee without a vote; the filings are accelerating and all run through the tax code.*
+*Raised in reported discussions with sitting legislators; scanned on request. The record: regulation passes; every assistance design sits in a money committee without a vote; filings are accelerating and all run through the tax code.*
 
 ### Already law (regulation and governance, not assistance)
 
 - **S595 (Act 52 of 2019):** background-check rules for childcare facility staff; 39–0 and 100–1.
-- **H4023 (Act 81 of 2023):** restructured local First Steps early-childhood partnership boards; 41–0 and 107–0.
-- **S862 (Act 216 of 2024):** caregiver education and preservice-training requirements for childcare centers; 44–0 and 108–0.
-- **In the budget:** the federal voucher/scholarship program runs through DSS under proviso 38.17 every cycle (vouchers must go to providers exceeding minimum licensing standards); FY 2026-27 adds provider fraud reporting (38.28); Full-Day 4K expands through provisos every year.
+- **H4023 (Act 81 of 2023):** restructured the county-level First Steps partnership boards; 41–0 and 107–0.
+- **S862 (Act 216 of 2024):** caregiver education and training requirements for childcare centers; 44–0 and 108–0.
+- **In the budget:** the federal voucher program runs through DSS under proviso 38.17 (vouchers must go to providers exceeding minimum licensing standards); FY 2026-27 adds fraud reporting (38.28); Full-Day 4K expands through provisos yearly.
 
 ### Proven support
 
@@ -218,36 +219,35 @@ A focused, bill-by-bill look at how far each proposal from the final Community C
 
 ### Stopped early (died in a money committee, no recorded vote)
 
-- **H4394 (2025):** workforce-development childcare stipends, through DSS and the state workforce agency, for unemployed parents and caregivers of children under 12 — the only direct-assistance design filed; House Ways and Means.
-- **S47 / H4015 (2025):** a bigger employer childcare-program tax credit plus a new income tax credit for childcare directors and staff (a pay supplement through the tax code); Senate Finance / House Ways and Means.
-- **H5794 (filed August 2026):** make the existing child and dependent care credit refundable — the newest bill in this entire set; House Ways and Means.
-- **H4993 (2024):** the Childcare Advance Act — income tax deferral against childcare expenses. **H5205 (2024):** pre-K expansion grants. **H3079 (2021):** an affordable-childcare study committee. **S291 (2019):** an early-childhood department.
+- **H4394 (2025):** childcare stipends, through DSS and the state workforce agency, for unemployed parents and caregivers of children under 12 — the only direct-assistance design filed; House Ways and Means.
+- **S47 / H4015 (2025):** a bigger employer childcare-program tax credit plus a new credit for childcare directors and staff (a pay supplement through the tax code); Senate Finance / House Ways and Means.
+- **H5794 (filed August 2026):** make the child and dependent care credit refundable — the newest bill in this entire set; House Ways and Means.
+- **H4993 (2024):** the Childcare Advance Act, an income tax deferral against childcare expenses. **H5205 (2024):** pre-K expansion grants. **H3079 (2021):** an affordable-childcare study committee. **S291 (2019):** an early-childhood department.
 - **The other direction:** S770 (2026) would add employment requirements to federally funded childcare assistance; first committee.
 
 ### Never filed
 
-- A direct-payment state subsidy to families or providers outside the tax code, or a state-funded expansion of assistance beyond the federal voucher money. Every filed design extends the two childcare tax credits already in statute (the employer credit, §12-6-3440, and the child and dependent care credit, §12-6-3380).
+- A direct-payment state subsidy to families or providers outside the tax code, or a state-funded expansion beyond the federal voucher money. Every filed design extends the two childcare tax credits already in statute (§12-6-3440 and §12-6-3380).
 
 ## Glossary
 
 - **Public Service Commission (PSC):** The seven-member state body that sets investor-owned utilities' rates case by case; elected by the General Assembly after screening.
-- **Public Utilities Review Committee:** The legislative panel that screens PSC candidates. The 2019 Ratepayer Protection Act would have barred utilities from giving its members anything of value.
+- **Public Utilities Review Committee:** The legislative panel that screens PSC candidates; the 2019 Ratepayer Protection Act would have barred utilities from giving its members anything of value.
 - **Santee Cooper:** The state-owned electric and water utility (officially the SC Public Service Authority); its role in V.C. Summer drove most of the oversight laws in this brief.
-- **V.C. Summer:** The two-reactor nuclear project abandoned in 2017 after billions in spending; customers were left paying for it, setting off the 2019–2025 wave of utility legislation.
-- **Rate case:** The PSC proceeding where a utility asks to change its rates. The 2025 Energy Security Act lets customers testify in these as public witnesses.
-- **Service territory / retail choice:** State law assigns each area one electric provider; customers cannot choose. Retail-choice bills (first filed 2026) would let customers buy power from competing sellers over the existing wires.
-- **Ratepayer:** A utility customer — anyone paying an electric, gas, or water bill.
-- **Statement of Economic Interests (SEI):** The annual public disclosure of income sources and business ties legislators file under the state ethics law. Not utility-specific.
-- **Proviso / Part IB:** A one-year policy rule enacted inside the annual state budget bill; Part IB is the budget section that carries them. Votes attach to the whole budget bill, never one proviso.
-- **Homestead exemption:** For homeowners 65+, disabled, or legally blind, the first $50,000 of home value is exempt from property tax (§12-37-250). This year's budget adds a one-year extra $25,000 (proviso 117.220).
+- **V.C. Summer:** The two-reactor nuclear project abandoned in 2017 after billions in spending; customers were left paying for it, setting off the utility-law wave.
+- **Rate case:** The PSC proceeding where a utility asks to change its rates; the 2025 Energy Security Act lets customers testify as public witnesses.
+- **Service territory / retail choice:** State law assigns each area one electric provider; customers cannot choose. Retail-choice bills (first filed 2026) would let customers buy from competing sellers over the existing wires.
+- **Statement of Economic Interests (SEI):** The annual public disclosure of income sources and business ties legislators file under the ethics law. Not utility-specific.
+- **Proviso / Part IB:** A one-year policy rule enacted inside the annual budget bill; Part IB is the section that carries them. Votes attach to the whole budget bill, never one proviso.
+- **Homestead exemption:** For homeowners 65+, disabled, or legally blind, the first $50,000 of home value is tax-exempt (§12-37-250); this year's budget adds a one-year extra $25,000 (proviso 117.220).
 - **Act 388 swap:** Since 2006, owner-occupied homes pay no school operating property taxes; a statewide sales-tax penny reimburses schools through the Homestead Exemption Fund.
-- **Assessment ratio:** Owner-occupied homes are taxed on 4% of value; rentals, second homes, and businesses on 6%. Act 140 of 2026 keeps a home at 4% while an estate settles.
+- **Assessment ratio:** Owner-occupied homes are taxed on 4% of value; rentals and businesses on 6%. Act 140 of 2026 keeps a home at 4% while an estate settles.
 - **Vehicle property tax:** The county tax paid each year at registration on a car's value — county revenue, set under state rules.
 - **Municipal Tax Relief Act:** The 2026 law (S866, Act 228 of 2026) letting certain cities ask voters to approve up to a 1% sales tax that funds property tax credits on owner-occupied homes.
-- **Regulation 43-234 / Document 5130:** The State Board of Education graduation regulation requiring a half-credit in personal finance, effective May 26, 2023; ordered by FY 2022-23 budget proviso 1.101.
-- **Child care voucher / scholarship:** The federally funded childcare assistance program run through DSS; the budget regulates it annually by proviso (38.17).
-- **Childcare tax credits:** The two credits already in statute — the employer childcare-program credit (§12-6-3440) and the individual child and dependent care credit (§12-6-3380) — that every filed assistance design would extend.
-- **Housing tax credit:** The state credit (created 2020, tightened 2022) that helps finance affordable-housing construction by matching the federal credit.
+- **County local-option taxes:** State laws letting county voters adopt local sales taxes by referendum — the Local Option Sales Tax (since the early 1990s, funding property-tax credits) and the 2000 vehicle-tax swap (§4-10-510). County decisions; the bill record does not show which counties have used them.
+- **Regulation 43-234 / Doc. 5130:** The graduation regulation requiring a half-credit in personal finance, effective May 26, 2023; ordered by FY 2022-23 proviso 1.101.
+- **Child care voucher / scholarship:** The federally funded childcare assistance program run through DSS, regulated annually by proviso (38.17).
+- **Childcare tax credits:** The two credits already in statute — the employer credit (§12-6-3440) and the child and dependent care credit (§12-6-3380) — that every filed assistance design would extend.
 
 ## Legislative process glossary
 
